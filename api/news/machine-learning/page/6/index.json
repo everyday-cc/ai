@@ -2,6 +2,85 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
+      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
+      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives.md",
+      "title": "NetApp Buys Data Mechanics to Optimize Data Analytics, Machine Learning Initiatives",
+      "excerpt": "NetApp (NTAP) has acquired Data Mechanics to allow organizations to optimize data analytics and get incremental value from their cloud infrastructure",
+      "sourceUrl": null,
+      "webUrl": "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/",
+      "originalUrl": "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://587710.smushcdn.com/809180/wp-content/uploads/2021/06/shutterstock_1094923718.jpg?size=1024x1024&lossy=0&strip=1&webp=0",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/netapp-buys-data-mechanics-to-optimize-data-analytics-machine-learning-initiatives/amp/",
+      "publishedDateTime": "2021-06-22T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smarter Analyst",
+        "domain": "smarteranalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-google-clouds-visual-inspection-ai-reinvents-manufacturing-quality-control.md",
       "title": "Google Cloud's Visual Inspection AI Reinvents Manufacturing Quality Control",
       "excerpt": "Google Cloud has traditionally supported manufacturing quality control through its general purpose AI product, AutoML. Today, it is taking the next step by offering a purpose-built solution for ...",
@@ -1256,95 +1335,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-06-12-deep-learning-with-spect-accurately-predicts-major-adverse-cardiac-events.md",
-      "title": "Deep learning with SPECT accurately predicts major adverse cardiac events",
-      "excerpt": "An advanced artificial intelligence technique known as deep learning can predict major adverse cardiac events more accurately than current standard imaging protocols, according to research presented at the Society of Nuclear Medicine and Molecular Imaging 2021 Annual Meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deep-learning-with-spe.jpg",
-          "width": 720,
-          "height": 442,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-06-deep-spect-accurately-major-adverse.amp",
-      "publishedDateTime": "2021-06-12T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-accelerating-deep-learning-on-the-jvm-with-apache-spark-and-nvidia-gpus.md",
-      "title": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs",
-      "excerpt": "Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs In this article, authors discuss how to use the combination of Deep Java Learning (DJL), Apache Spark v3, and NVIDIA GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "originalUrl": "https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/en/headerimage/header+%2816%29-1623166971929.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-11T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

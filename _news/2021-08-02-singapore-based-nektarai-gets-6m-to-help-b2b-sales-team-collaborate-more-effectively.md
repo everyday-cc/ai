@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/"
 type: article
 quality: 96
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 1938
     isCached: true
 
-secured: "9IDLKI4g9KHIGFXj8W8WXaDPX2EfRMHM1lyNqRjsVcKQhkXx7KbzdDZTMiaScIQ0Sim3l7zJDlqcUAIy7PwyoQ2SsUnrIgNOdNbaxIJuyDHg1/O7KM3cylAqPSL0BjcUW8ZqABRmi+wg2wWGSHaTAPAPE9FO5nNEjcFs2Wi34+Vqx+L/aMm9Xn+7dqcta+r0obTTj+FzKRAzSJTflRnJofma+l7lyVdkylfjxrYFTp0tIXPyzhfFwAcEaycrpzhy86ciEAZ4uEQQNIxhpCx8FS3jHEuj0SaSoDZoqOhxIJxiDnC4y8wBDDTV9ef5lhpvCqAYqSrQfrGSFNs/8Cw6dzTsw4PB7SFC5EmBKjONBys=;my99GIHnLQMb6CimLkf5HQ=="
+related:
+  - title: "B2B sales productivity startup Nektar.ai closes seed round of $8.1 million"
+    excerpt: "B Capital Group, 3One4 Capital and Nexus Venture Partners; Ritesh Agarwal of OYO Hotels, Deep Nishar of Softbank among clutch of angel investors"
+    publishedDateTime: 2021-08-02T12:30:00Z
+    webUrl: "https://www.business-standard.com/article/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-121080201140_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/02/full/1627907421-0939.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+
+secured: "phjrvwOG1jgAmJbbc2MdqYywP7S1e84RsUAL4772X9fsmLuEQ8eG2nG82eUfX8j3IO2GbaIMfH2JCUh4LDqtlPHXcEwIgbgZgftBwahJpYDTztYT7hZM+KvRiMp8Uumbo+uqVLNCtDEWM+yP6sR3B4saBz4U9icB19/Q8pRVgbieFDSyI6dzm6+NNIkZJRvAbLJS7R47QNa4lImJv5lFhxEVUTBJRxcyh5FFy4HTl7+XH4u5FYIJsGPDw201i6g6m22XyEd1HwIFAasAhatWoX4d7lL5gFDenWzWa4XQmEqAZqgzlOHqxlBZ54aIghg17bcZIcS/E0WvxPuY2imgkVRBlHKFrj+yNdUc1QYPXQItJ8hHsKnulGNUgwnu5N5wGXUPDqMVgOnGQ5ylfyQq7f5F0F33fCYd2c+DjYOZoFIZeYdsaE67DMexkbBPdsvRqzNHjD2GhS+hVGoqMWoakOGJdNRYF/HZtesfEgSBLHDrIk+W53Fh+fckBs54W5nFVw561od7bHqvRCAOPCa4hg==;+G/7WAkXmq2u3lqZYvu1/A=="
 ---
 

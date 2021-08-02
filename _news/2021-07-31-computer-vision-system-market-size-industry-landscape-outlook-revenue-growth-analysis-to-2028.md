@@ -32,6 +32,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
+  - title: "Deep Learning in Security Market 2021- Remarking Enormous Growth with Current Trends & Demands through 2026"
+    excerpt: "The latest research report added by Big Market Research on the Deep Learning in Security Market is intended to offer reliable data on various key factors shaping the growth curve of the market. This report works as a rich source of information for key entities such as policy makers,"
+    publishedDateTime: 2021-08-02T11:26:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-in-security-market-2021-remarking-enormous-growth-with-current-trends-demands-through-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
     excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
     publishedDateTime: 2021-07-29T04:44:00Z

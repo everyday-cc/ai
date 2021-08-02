@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Deargen Signs Agreement With Sookmyung Women's University Research & Business Development Foundation for Licensing 'NASH Biomarker' Technologies"
-excerpt: "Deargen, an AI-powered drug discovery and development company, signed an agreement with Sookmyung Women's University Research & Business Development Foundation for licensing bioma"
-publishedDateTime: 2021-07-27T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
+title: "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies"
+excerpt: "Deargen (President: Kilsoo Kang), an artificial intelligence (AI)-powered drug discovery and development company, announced on July 27 that it signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing biomarker technologies for determining the progression stage of NASH (non-alcoholic steatohepatitis) patients."
+publishedDateTime: 2021-07-27T12:02:00Z
+originalUrl: "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html"
+webUrl: "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Cadillac Evening News
+  domain: cadillacnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "NTUi9jZZeK4+FbMDg681t5aZ0bXn8e9DICtTjNV81/nW6kiCPCLw/C+ZLMNum11h5/e5ZNdNz/Fb9NR1160J0aCRLJrEXK57KBi68lGoQ1Tsk+/ZlZz9/PaTaZUtnTE7L2zQEtIDpsb4zZGnTqwg8YHZW264NZhABDokao+oktgYWtL28E7q/wADKMQjG6/I4GlS4uD2VOSSQsJeRDgSq9E6jJfyaZSPGaeZhe2KBWQn1q1qOEC/Y7i/CIZXHio15y+YuSJbNoV/y8iwS/HwzIsjVNt5vEEU4v6m/wgQPBspmtvt9FxCZ6iazGjiC52VMuAm9i9zfg7GkzuiGAQrLj1jxNBUu69eB9B8UiQ7/8I=;Aj0YU1pNtE59JsYjJqtHgA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/9/9c/99cbdf74-f10f-5862-8632-2169689ed864/60fff9a210107.image.jpg?resize=1016%2C630"
+    width: 1016
+    height: 630
+    isCached: true
+
+secured: "8AqsHkpQl64/ii//dFDrUFvBOEsh4WpUKka3vIdE4UIMnUoxqeQmB1ZoMKVLLJJkzichmUXzp6RwF8zq5YqLaDnU5DOFMfyAcBBhH1eX25Zev5rvJxIkMvd9d4vOlhzZyAq0kv1qHR/XYeT2vekxWpSUvfEUaVUpmZ5J2rCPLVxHLhX3nGcLSRHZnbONKrLghds4FlHUVOMMpO2ySJsz+GqtBymR3OqwbSlc9W5figidY9IugoL2snEvhLNvglPXSpfXNaqOmLaWh32l0rsMmfs8/JXGFsA3Ok9wRa+M4AdQRwEVtK/kJ9UX9yXnBznrbDbtaCBka7knRwr7lLCTpjpRKM09SRSCKrb6Hl7JeQw=;JeQsznpl3s8CZlVhw2zO/g=="
 ---
 

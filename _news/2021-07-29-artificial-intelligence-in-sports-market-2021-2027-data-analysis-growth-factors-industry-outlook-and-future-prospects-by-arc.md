@@ -39,6 +39,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
+  - title: "Deep Learning in Security Market 2021- Remarking Enormous Growth with Current Trends & Demands through 2026"
+    excerpt: "The latest research report added by Big Market Research on the Deep Learning in Security Market is intended to offer reliable data on various key factors shaping the growth curve of the market. This report works as a rich source of information for key entities such as policy makers,"
+    publishedDateTime: 2021-08-02T11:26:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-in-security-market-2021-remarking-enormous-growth-with-current-trends-demands-through-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
+        width: 800
+        height: 444
+        isCached: true
   - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
     excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
     publishedDateTime: 2021-07-29T07:56:00Z

@@ -114,6 +114,15 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "In the News: SEC VIE Disclosures; SPC Facial Recognition; and Hainan Negative List"
+    excerpt: "SEC to require Chinese issuers clarify VIE structures and whether listing has government backing; SPC issues judicial interpretation with restrictions on commercial applications of facial recognition technology;"
+    publishedDateTime: 2021-08-02T12:24:00Z
+    webUrl: "https://www.chinalawandpractice.com/2021/08/02/in-the-news-sec-vie-disclosures-spc-facial-recognition-and-hainan-negative-list/"
+    type: article
+    provider:
+      name: chinalawandpractice.com
+      domain: chinalawandpractice.com
+    quality: 28
 
 secured: "t0xvmeYZcKKfCLDhXcgnNWFiqrI6a4EwvteU1D2rWdd84MnwBrGblvmsSGwtLlqEL4CM5DJRc+dEFuT9JK11NnhWyTJmSU1e8v3SszNrgjPIQpME4zn/c3grroPpdE4IbTAUqri3tLdVDRTYEdUcle/KKi95ZVPaOVRg4vrxxcfuy0saQVVDKz7CluomTjGT/d3qUDBbouOB1J3HyI9NyzmBylWZc3lG806giDqzU2EyGmcedFW362qr6Vc+UMSyTI80R+XfgZsHBbOKh8HqhvEzFl9wYcVKlJ7XBSBSClIUuqCHbY7vLN8ACYv5HBIZ0EG1u8YHFhiyhPmPwcPr/V0e+oBnp0fZKi9stmkbVms=;0MAUHZb06cYH0YpBX4aS0Q=="
 ---

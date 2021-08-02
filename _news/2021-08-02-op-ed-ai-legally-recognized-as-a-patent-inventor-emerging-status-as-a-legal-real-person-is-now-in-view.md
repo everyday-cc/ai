@@ -34,6 +34,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Federal Court rules AI can be 'inventor'"
+    excerpt: "A Federal Court judge has ruled that artificial intelligence (AI) systems can be inventors of patentable inventions in a landmark case. Justice Jonathon Beach handed down his ruling on Friday, saying an inventor could legally be an AI system,"
+    publishedDateTime: 2021-08-02T13:37:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/federal-court-rules-ai-can-be--inventor.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 37
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ai%20inventor.jpg"
+        width: 648
+        height: 365
+        isCached: true
   - title: "South Africa first country to award patent to artificial intelligence inventor"
     excerpt: "South Africa has awarded a patent to an artificial intelligence (AI) called Dabus — short for Device for the Autonomous Bootstrapping of Unified Sentience. Dabus received its patent for a food container based on fractal geometry,"
     publishedDateTime: 2021-07-29T15:28:00Z

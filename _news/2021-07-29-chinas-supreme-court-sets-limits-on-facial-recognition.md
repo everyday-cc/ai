@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -113,6 +113,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "In the News: SEC VIE Disclosures; SPC Facial Recognition; and Hainan Negative List"
+    excerpt: "SEC to require Chinese issuers clarify VIE structures and whether listing has government backing; SPC issues judicial interpretation with restrictions on commercial applications of facial recognition technology;"
+    publishedDateTime: 2021-08-02T12:24:00Z
+    webUrl: "https://www.chinalawandpractice.com/2021/08/02/in-the-news-sec-vie-disclosures-spc-facial-recognition-and-hainan-negative-list/"
+    type: article
+    provider:
+      name: chinalawandpractice.com
+      domain: chinalawandpractice.com
+    quality: 28
 
 secured: "V34gY0XcrwaoWTWyH8lZy3rBJZV029hjwE183KWdDGDVK0eEmELDDphMKZniR+o1Mpg/rjKLu3Qr5+VeTFBd2GKiAkHYSKvsf8MG0tvnUguelMQ4Md+9c3aZVLar7q24WETEhGfMyp+4Bkm2qLKpQQf0j93+fuSnKlgcim27mKBL7s8d4/0zhZrsWTCvfwrWglgXDzGFrGxDAdS5Yek4dJL0q+YhE1ThFEiGFRsigOgzO/JTvEE5K7uhATUyiUGqbok815OxRqdVvB9G3YDbwTCgq54f3Ql8Ap9FXLZ2YOw+asMOuxzVO7yBpVltRMggnjhrh5dQjhgYhlOMp82Ta9xI+4IBqUJSZy1GTzfrOooLkZ0h6M9g3LfjoDHXBU6+0fvGkewkO4tsCdlaX5JUGCWzkY+EfA+cv9DfrewHtFitYMJnAu99Nm4e1B6ylDoK7xpXHVM4mjyidVCMjDn7t662JMx3gmkAqn7meUQFYBXYXO4JGmsz3ERt3c5PXjJ7q0TIx3y6sVirHEL6QLKYvg==;WA51QDh1MdwXZwjri9TpAg=="
 ---

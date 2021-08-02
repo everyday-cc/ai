@@ -53,20 +53,6 @@ related:
         width: 502
         height: 263
         isCached: true
-  - title: "Why self-driving trucks aren't putting drivers out of work yet"
-    excerpt: "Big tech firms have been promising an autonomous trucking revolution for years now, but even with billions poured into the industry, manned trucks still rule. Here's when, and how, that could change."
-    publishedDateTime: 2021-07-28T20:07:00Z
-    webUrl: "https://www.overdriveonline.com/equipment/article/15066699/why-selfdriving-trucks-arent-here-yet"
-    type: article
-    provider:
-      name: Overdrive
-      domain: overdriveonline.com
-    quality: 24
-    images:
-      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2021/07/mack_no_driver_backward.61007e987cbad.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 660
-        isCached: true
   - title: "How the commercial vehicle sector is preparing for autonomous driving"
     excerpt: "In many ways, trucks are a more viable focal point for the development of the artificial intelligence. More on CCJ."
     publishedDateTime: 2021-07-29T17:18:00Z

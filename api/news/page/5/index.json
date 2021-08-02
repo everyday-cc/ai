@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-28-global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026.md",
+      "title": "Global Cognitive Spending Systems Market 2021 Comprehensive Analysis, Business Growing Strategies, Industry Segmentation and Forecast 2026",
+      "excerpt": "Global Cognitive Spending Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has articulated comprehensive, well-verified, and minutely analyzed research postulates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-inkr-draws-in-31m-to-make-more-comics-accessible-to-worldwide-audiences.md",
+      "title": "INKR draws in $3.1M to make more comics accessible to worldwide audiences",
+      "excerpt": "Luong says INKR’s proprietary AI engine ... with plans to add more languages. Some publishers, like Kuaikan Manhua and Mr. Blue, have used INKR to translate thousands of comic chapters from ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/IMG_2585.jpg",
+          "width": 9736,
+          "height": 3904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "publishedDateTime": "2021-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
+      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
+      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.md",
       "title": "IBM upgrades its Big Iron OS for better cloud, security, and AI support",
       "excerpt": "IBM continues to fine-tune its mainframe to keep it attractive to enterprise users interested in keeping the Big Iron in their cloud and AI-application development plans. The company released a new version of the mainframe operating system— z/OS V2.",
@@ -585,6 +714,50 @@
       ]
     },
     {
+      "path": "_news/2021-07-27-deeptarget-enhances-its-machine-learning-algorithms-further-increasing-predictive-accuracy-to-improve-consumer-experience-and-engagement.md",
+      "title": "DeepTarget Enhances Its Machine Learning Algorithms, Further Increasing Predictive Accuracy to Improve Consumer Experience and Engagement",
+      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19921428.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19921428.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-employment-for-adults-with-severe-disabilities.md",
       "title": "Employment For Adults With Severe Disabilities",
       "excerpt": "Last week's \"60 Minutes\" report, like most media reports on employment for adults with disabilities, gives little attention to the severely impacted--those with little language or severe cognitive deficits.",
@@ -794,40 +967,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
-      "title": "Deargen Signs Agreement With Sookmyung Women's University Research & Business Development Foundation for Licensing 'NASH Biomarker' Technologies",
-      "excerpt": "Deargen, an AI-powered drug discovery and development company, signed an agreement with Sookmyung Women's University Research & Business Development Foundation for licensing bioma",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-legal-ai-an-automated-versus-autonomous-future.md",
       "title": "Legal AI: An Automated Versus Autonomous Future",
       "excerpt": "Now more than ever, corporations have more incentive to adopt AI, driven by the promise of increased work-life balance, fee reduction and expectation management.",
@@ -875,6 +1014,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
+      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
+      "excerpt": "Deargen (President: Kilsoo Kang), an artificial intelligence (AI)-powered drug discovery and development company, announced on July 27 that it signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing biomarker technologies for determining the progression stage of NASH (non-alcoholic steatohepatitis) patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html",
+      "originalUrl": "https://www.cadillacnews.com/ap/business/deargen-signs-agreement-with-sookmyung-women-s-university-research-business-development-foundation-for-licensing-nash/article_c7517cda-62b6-5852-9fdb-cb79935f2286.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/assets/v3/editorial/9/9c/99cbdf74-f10f-5862-8632-2169689ed864/60fff9a210107.image.jpg?resize=1016%2C630",
+          "width": 1016,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cadillac Evening News",
+        "domain": "cadillacnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1030,211 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-the-effects-of-ai-on-child-psychology.md",
-      "title": "The Effects Of AI On Child Psychology",
-      "excerpt": "AI enables us to connect to loved ones, near and far. And from this connection, we see how child psychology can be positively impacted by those interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febacf0318c05ea992254d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/the-effects-of-ai-on-child-psychology/amp/",
-      "publishedDateTime": "2021-07-27T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-an-ai-road-map-starts-with-data.md",
-      "title": "An AI Road Map Starts With Data",
-      "excerpt": "AI should be a priority for businesses. However, this game-changing set of technologies requires a solid data foundation, and businesses need to bolster their data engineering capabilities before they take on AI initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeee92c240fb26d335a07a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/an-ai-road-map-starts-with-data/amp/",
-      "publishedDateTime": "2021-07-27T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-robotic-ai-firm-covariant-raises-another-80-million.md",
-      "title": "Robotic AI firm Covariant raises another $80 million",
-      "excerpt": "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
-      "originalUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
-      "publishedDateTime": "2021-07-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-could-dramatically-speed-up-climate-action.md",
-      "title": "Artificial Intelligence Could Dramatically Speed Up Climate Action",
-      "excerpt": "The list of applications for AI keeps on growing, but the industry needs guardrails to ensure solutions are climate aligned",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-27/can-ai-help-tackle-climate-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5iKrnHxGzA8/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

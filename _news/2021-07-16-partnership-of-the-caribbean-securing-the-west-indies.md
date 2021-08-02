@@ -2,23 +2,25 @@
 category: news
 title: "Partnership of the Caribbean: Securing the West Indies"
 excerpt: "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's ..."
-publishedDateTime: 2021-07-15T20:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/partnership-of-the-caribbean-securing-the-west-indies-1030613193"
-webUrl: "https://markets.businessinsider.com/news/stocks/partnership-of-the-caribbean-securing-the-west-indies-1030613193"
+publishedDateTime: 2021-07-15T21:16:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/partnership-of-the-caribbean-securing-the-west-indies-301335201.html"
+webUrl: "https://www.prnewswire.com/news-releases/partnership-of-the-caribbean-securing-the-west-indies-301335201.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Bm60NygoTn1RTE6d+CWmQUY5A+1/6VrGzFUXklxRaBsDxNkdupIfR0CZmGbEcXlVIle3xcjp2aEPKcJ1wcDXajvP5A7cc16s3f5U80ZmozRqulPjynvKu9TzqrcSUQ04/4+G8JCwUdIM9scHu+PLQpWhZeQNe4onnR7HUiiHLWrmWHZ+gAf53bKS3aSXIZALGSxCPz5kBXfCiqbejmhtx4JLpI5WFtnvEJZypMGUG9tT958hya8Qimm9a48y3KvHdh4bw3exQFCHN2mCuzOWQXPJTH1LUN8D6vJXDxuiiM4bFhYm08iiHDMARJARnp0WZMNl1OB8Pw8uTPDgoMK9vC99NnF9CoPkCRAc9YJHGus=;N4fpuleHD4u4nn0bMPqHEQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook"
+    width: 2079
+    height: 1088
+    isCached: true
+
+secured: "CIizu6sebJU7lB9C+mI3axZK8vCTbhjjMBDOlyeuoRwf3Tu2Zu0FO02gH60+bxKbdzlgZ9TNp2PjH9oglhGGFUyGrRRSJwnjq3I+bq+NDOAIBTs/f9OC7L3hY1EeWgFkDmcXhYVKzEGkyeO8H7s9lzZLRctDaGAgkAhh/257PXTfTXS1Hd898JoCm2HOtV5hGZLAm1F7Dskzq/N54x+uNkbcovIIZqdcXX1NuTB3y5BKyDxViDlK8LbbQSAH1xyieU+Uu8hpi9G72HEOIIbTxfjxYy4G3llQTwKyXx73nPG1+KBlfnyC/sTnQLS4PZsFvNTGuATNzbkth7UVhbN7v87InImcTy3k65SnYgKpZrU=;Uu4vkh9PATNHOY91DM1rBw=="
 ---
 

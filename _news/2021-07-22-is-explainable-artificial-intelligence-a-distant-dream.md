@@ -5,6 +5,8 @@ excerpt: "Transparency in AI’s working can be headache-inducing for organizati
 publishedDateTime: 2021-07-22T11:40:00Z
 originalUrl: "https://www.bbntimes.com/science/is-explainable-artificial-intelligence-a-distant-dream"
 webUrl: "https://www.bbntimes.com/science/is-explainable-artificial-intelligence-a-distant-dream"
+ampWebUrl: "https://www.bbntimes.com/science/is-explainable-artificial-intelligence-a-distant-dream"
+cdnAmpWebUrl: "https://www-bbntimes-com.cdn.ampproject.org/c/s/www.bbntimes.com/science/is-explainable-artificial-intelligence-a-distant-dream"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +26,6 @@ images:
     height: 563
     isCached: true
 
-secured: "+Y6Zr8lUAV7W5CjMTrF14v/QtoAWgj9l4y9R1Q8IZBjeFl2iZVPmmY/4wtE3itZHcUHa+i3B4B7+Wk0YecKX9QsaeNMi05hcnsL+EvbXuHOHXrDZDdkFS7GHhEeGDqVGqHstQzNq2+WYL7soi+hI7RguLXTD9OKnu9F7RLqmdQSlNE5JYOfvvG+PtyUkf+qQrkTvc21yYgX4eajiZl9zp9nGr3s8duaXW72vdRVdsi0S2dlhRzbpua2Lsf2ua6D146Xl3uBmi+L9pU0dUad3f5MddaS9NYv2i29aJ6eo/712sKLOJoaSIp9ACs7DcvD+ty8COaAfT1/0lmH9Dcbp802lpX2MTXAKPBSfTrk3xo0=;mnlZtjw+YaBl3PvXJRIxZA=="
+secured: "x/gClH4WNGOw6ZuKGyqA/IpKIURLAl5KoJrIUdnDI1iudddWTHv6FsNhwSAauyC77irCryq6U5K27ZPP3c1DCKHngmlpWLcsPuVX/WxEJE7czO2mLiWxCeDoOqTdNAOV++q2LZBp271KTTwzaQ76IeKLVjsV/ZfkdWv+vs55dkN+OLMwEjvzFtMKSaYDWc6P4NMiHjhJAPYCmJmXrzfBtYf+s8RPGAxct9cOq601jnr3AB9PeTE1XSBSrb45IgA5RKaqaI/cEU7Lzl2IKTorrIIqDgQe1qRk+JK4ARjJe/8uzq/p+oLiuyKvb9pV0Lhe6hYjpJVTVJj7chkagOKiENAqGdNyZISQ2cqKRuKchMPDekKorrCLfj3pvlMAdxeqgThdUXLqLmLafIyQXkWhDImZeX9H5JhcuJyXhZ2nB7kne/7i5nYM9EJzwr3att871qeo6myTYlIzgxteFnM50oDkJJY35PH1QPxLHbuiiT31kL+WJ6JsAC/vvX0vJrJrz+g5FGNp30UXMxWBVfWgXA==;on9s588yvd53vMCw2GNVbw=="
 ---
 
