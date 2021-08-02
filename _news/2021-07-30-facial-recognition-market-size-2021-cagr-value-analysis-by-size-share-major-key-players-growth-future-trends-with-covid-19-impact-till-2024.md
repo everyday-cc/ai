@@ -29,17 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive voice recognition system Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The Automotive voice recognition system market is expected to grow at a significant CAGR in the period from 2021 to 2027 The expanding trend of driverless vehicles OEM integration of many electronics functions in the central console of the car"
-    publishedDateTime: 2021-07-28T13:04:00Z
-    webUrl: "https://www.openpr.com/news/2339795/automotive-voice-recognition-system-market-share-2021-global"
-    ampWebUrl: "https://www.openpr.com/amp/2339795/automotive-voice-recognition-system-market-share-2021-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339795/automotive-voice-recognition-system-market-share-2021-global"
+  - title: "Cognitive Computing Market by Top Leading Key Players, Growth Opportunities, Share, Trends, Outlook and Forecast to 2021-2030"
+    excerpt: "In a recent published report, Kenneth Research has updated the market report for Cognitive Computing Market for 2021"
+    publishedDateTime: 2021-07-29T07:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-by-top-leading-key-players-growth-opportunities-share-trends-outlook-and-forecast-to-2021-2030-2021-07-29"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 2
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8CSLrDuZfJNQWOd7FOafrKkd3njePohCrsoNeBE8p7RU93K0ntMus0E2KX1QhCmd51qzORe8hLsJBC8h/UTVbIGe9DEaJELVjdjP71R2sOyydRKPqGNZRWwBfmyfTcxBCMXvpoyldBVOg0nMuqqY5SZwXahZOrecSf7mh/055F1EItJZBjOb8J7kU0dFmQvl2NEQOwPATTykOrOBwUz/W2TJ0fDzt/oHPZXxpOhDv5vtWBTFPM4MBbuhqe8VBI6mCLrK3d0H9aTSfxlFCs0mPCb13wnFsqg1i4X+MuMNP159rjmLAEKXIhqydkLSjsYivImjQHJHN5Uu13vQhKZvycsijMfTQln9KONWVRTYxXI=;+Csdr0yWcT5PETicB+pYaw=="
 ---

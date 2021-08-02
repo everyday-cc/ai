@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T01:45:00Z
 originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -15,6 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "RjQ6dgHztsYIPLp5pB7tn9uluiq5QS30ZcXZLyfZIjWdfMjts0NW9AAPIZbwu9RzRPhibeBwMTGvDV+71T2GbJIWFHf8egfixchdlddDaABxNcopYLo4MFP4fTaNFW4OZNe7Xp2MnoVoFpxvCM+EValrZCrh806ki9RKy0A7/XdY61bbEwMpl/1sG6idOYsvJJPjTy1WfFBiaYDVpJYE74I70KUbzHl0uxtfWHIR51uI+oFj+l05s+lhgi6j/4ZBpGePXF7EeZtpg58uqCMf9m373Utxv6wr+7qNoA/bD5wLPdx7DEN0sYSgOl+ewqaT8JWE5AOco/jnhQR13tQb5PYGzv0uVUTqE3I/+ZURdbg=;+akTutHJbg5hS1N2f5xv9A=="
+secured: "sM/49MOZhuwo90PCcgWFSE8b2vsy20N+i5eRnPS/FYjZ40SYhzmCK73f9Ln3yVK3/RjFb7eye7yO2YsXnYhYJUTWMceiFw/3p4v3Ipz16adgcleeIBF5SdU0/DH72WcuwUJ0Vq8ZvcTJvYfX7Mtp7zhM0lac+fzIiTZ9oJ/Xx45RVN5xE1B1V6jC3rsb6mpt2/TnrU/JmDI3d77+t7MVQwfeX76vWQZbsGNS9U7Zi5uQBWzx1daoDQu66TQywX2m6RIiVRhR0yFwYV/5lRf9PTV/LxJe8XRLnUF6OJGXBX3J3vuHSyV/6vpqRMXedGzHNlwf2aIQye/s2AAsAy7MgibSCitKfHRMdFIOVyqvPB8=;uG+dcxSND8ulyUqQU2nssw=="
 ---
 

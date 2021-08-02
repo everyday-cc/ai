@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T11:20:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
+quality: 73
+heat: 73
+published: true
 
 provider:
   name: Business Insider

@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-02T01:50:00Z
 originalUrl: "https://www.thefastmode.com/technology-solutions/20373-kt-to-nurture-ai-and-dx-talent-to-speed-up-transformation-to-digico"
 webUrl: "https://www.thefastmode.com/technology-solutions/20373-kt-to-nurture-ai-and-dx-talent-to-speed-up-transformation-to-digico"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Deep

@@ -53,6 +53,15 @@ related:
         width: 1199
         height: 807
         isCached: true
+  - title: "VW boss: Data to be key issue for future of self-driving cars"
+    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
+    publishedDateTime: 2021-08-01T11:11:00Z
+    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "jg+qr4uqcFLSU+AZFS9kBaa6b3ckbNzQUE2+WIUUxNDEruz0/bbqQp5JvJX0hCOI63YaWguOkfTcZ0rOQezJT1bnB7LiCkU2Fn1l7Hoh1h03d39SZmh+whOozfVMBUmdPOVEMvxkNtFyYivTlvaHm30NX9x5UafZbkXUDxt/t23UL5hTpQ+vtGZKhi+f6x9/v5SDno0sVJW0HqgenED8jjqIBoERyZo2z1MZK+6MoRO5gvfuC+DoRhHwiV/1+7/PXz+V7OZuOYwdVTU8tPBlf+v7TIuOu+XpuuffYOim72B+sjgCPHKjzfEKAXXsD8nia35MryeD04SKItBSaLZWtonsZn7FVn2cFJYwCeZBX5We4Nw83QJM86I58aFYCuyKbdjPGU1ZZ+cQYaWKeK2Q4DP17nbK4z9HX+YW8j0qUXIgC/oNzl409I4p6S0nh8oFaoaPU2uLytlvTkUNLbfUjrVGWopR5RuM10DgB8qBvqq0pBbQy+nTtNn+/668XSlZcwQ9lLWw71cUkzr6PSVmBw==;lrwypCGEBpaWRCIVJrHEjg=="
 ---

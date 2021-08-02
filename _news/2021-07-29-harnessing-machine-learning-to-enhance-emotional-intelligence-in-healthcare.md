@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Stock – Will Nvidia’s huge bet on artificial-intelligence chips pay off?"
+    excerpt: "Intel Stock – Will Nvidia ’s huge bet on artificial-intelligence chips pay off? “WE’RE ALWAYS 30 days away from going out of business,” is a mantra of Jen-Hsun Huang, co-founder of Nvidia, a semiconductor company."
+    publishedDateTime: 2021-08-01T22:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-will-nvidias-huge-bet-on-artificial-intelligence-chips-pay-off/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 15
 
 secured: "A0Qmw91DVIYvaHrfwA1gIR5wzXPNaQk8JvnyiIM9CaJL2LAYvA3NFlhh4pgD5mKQQaCZ8/b/38QlZHMoNWw/6I2NxIZwTlNrBXgvsqu0qZA38+NNgDCLaaxdqo5cPR591hTDn7FTg1wfHKNQsDIXg6sYfQitftQZhrBqMhEspq+zC4nkDn1gQ9M3xsQOIZqHn2DTaKdo/4JAFCqJF+Vu6LciG+9d89ZxsxLxCOQeGGkYFo+lLdwEDgFd244RLcqL285N8LMKONcFKUMhJJl5Vw9ksLm//ObMkC1aw86VpvKPBn1wJNTfJoGxxJU1j/yphMLRNClH2mn2Wb7wPWUPIpe/QaFHwCnzYbImB+RuZ2K6nVWx3DljtUzVIEsUbBaXonIzW24l/LuE/ojgGnXBKey2JVEFceWMDpKys4y47JoFgEhUgRd4GBfkGi3FlwpuPhGnrF9/Nb8rbp/MEEWGU7lj2T39gHR/5nVZb0U4QtKZyMT0fRsbClsA+iwIoNbxlWHCR4veMpvpTDZ6ust9Mg==;OM6srOrZPgixp0kPHhpF4g=="
 ---

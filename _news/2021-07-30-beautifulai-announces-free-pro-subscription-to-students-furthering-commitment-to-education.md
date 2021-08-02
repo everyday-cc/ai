@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Convocation Ceremony - Lila Scholars on completion of AI Education Program"
+    excerpt: "WiselyWise is proud to conduct a Virtual Convocation Ceremony for 180 plus Lila Scholars who completed our AI Education Program."
+    publishedDateTime: 2021-08-02T00:47:00Z
+    webUrl: "https://www.eventbrite.sg/e/convocation-ceremony-lila-scholars-on-completion-of-ai-education-program-tickets-165402381977"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 32
   - title: "WCM-Q pre-medical students excel in national AI competition"
     excerpt: "Two teams of pre-medical students from Weill Cornell Medicine – Qatar (WCM-Q) have been highly commended after creating solutions to two problems highlighted by the Covid-19 pandemic."
     publishedDateTime: 2021-08-01T17:03:00Z

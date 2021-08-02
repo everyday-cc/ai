@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-29T21:06:00Z
 originalUrl: "https://www.seattletimes.com/nation-world/covid-19-could-lead-to-cognitive-decline-especially-in-older-adults-new-research-suggests/"
 webUrl: "https://www.seattletimes.com/nation-world/covid-19-could-lead-to-cognitive-decline-especially-in-older-adults-new-research-suggests/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Seattle Times

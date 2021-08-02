@@ -39,6 +39,28 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
+    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
+    publishedDateTime: 2021-07-31T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
+    publishedDateTime: 2021-07-29T11:55:00Z
+    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 17
 
 secured: "mvT6R3SE/bH63injVQKoa5Q3U16CrusbevKmR4yEH/uanJp1kgCZS9gG6QUFKE7kow59cmpf4YbyxXPVMLoPn3glOo8SHV76NKDRT4XHPc1hvSZchbF12rkU0Ae5lVbfZPR6KjB8RpIsSLxVXvXGns7iaBmdCkPiHuCgnlLwJ1d4GG5XQzFriRJDaDU1w/yAOg7aoVQCVwJjyhv1Tz2yVCUxy0STx1M+iFs85D8GwdjgVyyYbBwS29sEFhJri6KzhsEbwFF6pk7Nn7IC4D2HqfZrjEXuegYizZ/cm3NBWjySNk0oi2OZjT8kf/1dFO0j1UY7EPzv/2/HA3GwH+G7i4cyDivrPL0jS+WO8FPXIXo=;ctpNhfMAfGMLubg4/p5zmQ=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Harvard Astrophysicist Says We Will Need Advanced Artificial Intelligence To Speak With Aliens"
-    excerpt: "Harvard astrophysicist Avi Loeb explains why we will need advanced artificial intelligence to have any chance of communicating with aliens."
-    publishedDateTime: 2021-07-28T13:11:00Z
-    webUrl: "https://brobible.com/culture/article/harvard-astrophysicist-artificial-intelligence-speak-aliens/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 25
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2021/07/Harvard-Astrophysicist-Says-We-Will-Need-Artificial-Intelligence-To-Speak-With-Aliens.png"
-        width: 2111
-        height: 1133
-        isCached: true
 
 secured: "RnfgmAX6z2rkp9AtkfO3q8/3mZQoS4ccirHXr6Zsk28Woao0aQVlP5iq/Z0UJHkhmoNqBsevpNfJdView2wqyC5yWrXyZlI8lZogT/78WlJ6T+oZXyAysG/DBu+9enNGBgIX0wfk9cLWgAAS1biGNBzjhG7kkFGxtbZmwmkw0o8ENKVWLl5FOhta3c2fvppjoUYu0mZR9kNfsbilxgEWA7ZNaVrGf08Th5u4YygG6V4+o2yYKfZO6smGSxNjStpNnOqex2pEwriOqSz80eBbbD9/OsVuyC2nhZYgCfOq0x829WfjDZuSFGzDAWgiVG2TGI8YNbHuT1bCFN3l1K9rGZOzbnCSWttBDVLIgz0Wxg92CpB8QkPGxcggE+iRJdi0I1W72bxKR3Aytqvdj7ngn0msAFYJBY287ZdZtHD59LWbTXNjF/videYBd2GAqqkUH8/Vd5MqYhkusOuq5JCCesm/0SJptfRYGKrVuIZWBkGh1ZU2ZBHer8N3T9BZgoLjXJPHID5Ulf9sAzSuWJJ+EA==;kQktEFEUuB30DoQCHj4Qhg=="
 ---

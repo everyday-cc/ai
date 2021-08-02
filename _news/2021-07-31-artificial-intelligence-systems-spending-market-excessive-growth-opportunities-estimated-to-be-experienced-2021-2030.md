@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-31T07:37:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-excessive-growth-opportunities-estimated-to-be-experienced-2021-2030"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-systems-spending-market-excessive-growth-opportunities-estimated-to-be-experienced-2021-2030"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

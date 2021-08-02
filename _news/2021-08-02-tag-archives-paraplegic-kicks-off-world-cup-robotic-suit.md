@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-02T01:06:00Z
 originalUrl: "https://www.industrytap.com/tag/paraplegic-kicks-off-world-cup-robotic-suit"
 webUrl: "https://www.industrytap.com/tag/paraplegic-kicks-off-world-cup-robotic-suit"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Industry Tap

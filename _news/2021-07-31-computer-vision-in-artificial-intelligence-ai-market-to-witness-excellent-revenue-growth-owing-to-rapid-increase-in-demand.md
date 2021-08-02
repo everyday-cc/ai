@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 33
-  - title: "Global Artificial Intelligence (AI) In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026"
-    excerpt: "In Supply Chain Market anticipated to witness remarkable growth statistics during 2020-2026” A fundamental outline of the Artificial Intelligence (AI) In Supply Chain Market niche is presented by the Artificial Intelligence (AI) In Supply Chain Market report that entails definitions,"
-    publishedDateTime: 2021-07-28T10:35:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-in-supply-chain-market-anticipated-to-witness-remarkable-growth-statistics-during-2020-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 4
 
 secured: "VVZ/D2rN7GHj4UDO1p+GiH4M8HmI0Brj/AXftw40VRMyCcCj2YrSBuk5Xdx+zRgKIZgLSxF7L4srVht62sklbb7tFaOY3LAFjJx5qx0uFoUCsZcvEDcUcHT+s2efcc9CZI5rVy6nvJXNr2LQ7d6tH9NKM9z4rvqZS/AB94l8IYO3qYxCHVtjE94Sw5oOAOfDbtMtgP97/270ui1Tt2dF5qMQVG//8hj94sisN3Gd1gT8pKYpN9qXkpKH96OK5mbbwvNZvDPWzTCgBMo2g7/FyLRBzj+AvXMxpHtu6oEwq5OJRcNh/1JOUxgF1iaYlnV/NaU6Qm4um55CoXxc8VjOwq2Sy6p3ebmB9tCYe3xdOsA=;aWs9c6y+p/gpDj3dl0ewug=="
 ---

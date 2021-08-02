@@ -6,6 +6,9 @@ publishedDateTime: 2021-08-02T02:12:00Z
 originalUrl: "https://www.thefastmode.com/investments-and-expansions/20407-ai-edge-computing-firm-blaize-closes-71m-series-d-round"
 webUrl: "https://www.thefastmode.com/investments-and-expansions/20407-ai-edge-computing-firm-blaize-closes-71m-series-d-round"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Deep
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Temasek, Franklin Templeton lead $71m series D round of AI startup"
+    excerpt: "Artificial intelligence startup Blaize has announced the close of a US$71 million series D round of funding led by Temasek and Franklin Templeton. Denso and other new and existing investors also participated in the round."
+    publishedDateTime: 2021-07-28T14:37:00Z
+    webUrl: "https://www.techinasia.com/temasek-franklin-templeton-lead-71m-series-d-round-ai-platform-blaize"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "KS2la3dHDMuiZnX8ZJint9qL5S/P2RTyY7yxXPuRxcRWPM43Du9ymeadVjHqAiJauOxZgr3sD5InzJrD/hnMvoQ/ealbe3VqSRv2tZHx/kFKXgm4fHOErgEPdlioe0Kxluyo1JRDD/FMZUoFmV4JGsEqJ0p4IgHXEu/Z0JqeOTH7WO5Ed+kvYErjO56Gv0L5hONnsJSROp+H+HKKqLdS/e7WFZlmtgTr45+BkoPMT9Rks6Fyj2ihANSlcT+fhx0nj9j5g41pdBuYIN+V6+0sAuiaJ1cJBX4rSYSt5DXFITOiK9pZQIkQudu8aPGpKMOjB30PrHzlLsHt5tWEdPu64IvlWVLpyPEQ35omnEv5fHQNKF72hpWOLsxyxf7mWPdKM/uyzJAJeJdF6uMomE90VFgWrovH+OAXM4mweeU8epRcTiesNIudqqdEEahH4GQDJcyTOER4bgTWz+XXZJESrj/tORTUK1lKXaz+M41jRLCqTpEhSVQozrDTCPifVoiK9jU0dTGWKsOhJWBqMHc6Pg==;VXv64uUfcMoe+vNGqZl/Yg=="
 ---

@@ -52,6 +52,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI use cases are expanding and evolving in healthcare"
+    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
+    publishedDateTime: 2021-07-30T02:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 76
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Deep Learning in Healthcare Market"
     excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
     publishedDateTime: 2021-07-31T10:25:00Z
@@ -67,6 +83,38 @@ related:
       - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Perfecting mapping with AI and machine learning"
+    excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
+    publishedDateTime: 2021-07-29T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/perfecting-mapping-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/000_9DK4N2-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
+  - title: "Understanding The AI Warfare And Ethics"
+    excerpt: "The world’s superpowers are building new super-fast, super-lethal armies powered by artificial intelligence. It’s a pretty unsettling future, and it’s around the corner."
+    publishedDateTime: 2021-07-29T04:19:00Z
+    webUrl: "https://www.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    ampWebUrl: "https://amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 74
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2021/07/GettyImages-503831286-RESIZED.jpg"
+        width: 3000
+        height: 1912
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
@@ -96,15 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Trends and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 58.6 billion by 2028 finish at a CAGR of over 44.8% throughout the forecast from 2021 to 2028. This rapid growth is largely driven by the increasing adoption of AI in hospitals and clinics,"
-    publishedDateTime: 2021-07-28T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-trends-and-forecast-2028-2021-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
   - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
     excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
     publishedDateTime: 2021-07-29T04:25:00Z
@@ -147,6 +186,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
+    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
+    publishedDateTime: 2021-08-01T04:11:00Z
+    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
   - title: "Global Artificial Intelligence in Livestock Farming Market"
     excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
     publishedDateTime: 2021-07-30T14:30:00Z
@@ -158,6 +211,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "AI in healthcare: should we break the black box?"
+    excerpt: "But despite these promises, there are serious obstacles to deploying AI in clinical practice. Many of the AI models coming out of research fail to meet the transparency requirements of clinicians, patients and regulators."
+    publishedDateTime: 2021-08-02T01:07:00Z
+    webUrl: "https://www.eventbrite.sg/e/ai-in-healthcare-should-we-break-the-black-box-tickets-165522308681"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 34
   - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
     excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
     publishedDateTime: 2021-08-01T19:50:00Z
@@ -167,17 +229,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 34
-  - title: "Global Artificial Intelligence In Healthcare Market 2021 Analytical Overview, Technological Innovations with Economic Indicators By 2028"
-    excerpt: "The primary sources employed while crafting Artificial Intelligence In Healthcare Marketing report include the industry experts from the industry comprising the management corporation processing organizations analytical service suppliers of the industry s value chain This market research report sheds light"
-    publishedDateTime: 2021-07-28T10:27:00Z
-    webUrl: "https://www.openpr.com/news/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2339490/global-artificial-intelligence-in-healthcare-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 21
 
 secured: "kPA69jnmukcTAYLnu2trBWOZ7jxBgY3VSuVRF3q72B8SgHce2xERtnBw8gyeICCl817AfuRqC3ekHV45xpsEdYoYph/RzYvanbHOlrJETxm9UUuzzxSAOgPaPZYwJGICM6/eLWEi2BiveFH6zCbQR2Xi0io+VTbchE2hu/N4Lj4wli98prWEKziaboC2RldelIh/f4RexE6hGRd5heZ1BSx/aYxC+2kPtGRNvQDFmJxkNu0Vigs88U+cdXRazn6Eeg1nc/cQAXxdAu6lhlIYW90RYY4Sf/yuLhNXsqpJnBMpVZVlKz1nbFb4vrcZckx6rVAB/1ObPTrALoDupNvSQ8J4DpeTO/B7Sv39VGyr02mPmRQ0qH3cUjMS+hpJzBjpkjE19mu6awhiUL1wDy0V8aa5hoQrL2xNPFq8kSXG/9knCLvJsnMr9MWFDVkqTYi1Uc9gjkw4N4qO2Uw+FIdDXTscLIo5WKMuEdUX4wfHLQzjK/WiHcTivyOd3oyVJI/otY+HRxUlokFJCFZvChAa4A==;xMCmUqUkhVeDxdiildrJeA=="
 ---

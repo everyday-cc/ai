@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Safety Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "The Machine Safety MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when exposed to a"
+    publishedDateTime: 2021-07-28T16:27:00Z
+    webUrl: "https://www.openpr.com/news/2340162/global-machine-safety-market-size-share-2021-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2340162/global-machine-safety-market-size-share-2021-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340162/global-machine-safety-market-size-share-2021-impressive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/U/7/U728707798_g.jpg"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Artificial Intelligence in Sports Market 2021-2027 - Data Analysis, Growth Factors, Industry Outlook And Future Prospects | By ARC"
     excerpt: "The market for artificial intelligence in sports is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and expected to reach the market value of around US$ 3,555.9 Mn by 2027. The global Artificial Intelligence in Sports Market research report is inclusive of detailed and productive qualitative and quantitative information,"
     publishedDateTime: 2021-07-29T04:44:00Z

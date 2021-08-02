@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-fo
 webUrl: "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology"
 type: article
 quality: 167
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Harvard Astrophysicist Says We Will Need Advanced Artificial Intelligence To Speak With Aliens"
-    excerpt: "Harvard astrophysicist Avi Loeb explains why we will need advanced artificial intelligence to have any chance of communicating with aliens."
-    publishedDateTime: 2021-07-28T13:11:00Z
-    webUrl: "https://brobible.com/culture/article/harvard-astrophysicist-artificial-intelligence-speak-aliens/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 25
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2021/07/Harvard-Astrophysicist-Says-We-Will-Need-Artificial-Intelligence-To-Speak-With-Aliens.png"
-        width: 2111
-        height: 1133
         isCached: true
 
 secured: "OY6YPDepXzSt89O0BSmlfe438KpMPcUKINgfjfmeaBk0H0gQxgynagJEmc2WSelHrrjYk9b6m3a/jM25VQbD7mERNoX6dA5n2lbewsrNj5mSUCWBtZqpcZt/ormAInZoot1+a3XmmpOxw/RB87ld+uxli7YkgOcetTSnYKBWvoM1Sp99ZrmGpVA3hZtSrvDkKZSDfNtUoRfVtFhiRX7d9JKqT/0wGKuL2jP15EQMYUHtqHBmE08XH+HRVu9kxiXyzypR/YF4IIa/A8/Wewy8D2DykwUNZxe9DCzD/3aHVPCGjAgoBrRdm+VrmQOUNtKnFKwPfKUANTwFSngXr0w64O/q+6jMlbBJYBkjpEv64Oajsz3fiPCTxgBOlSzXk0ZDD5rGu/5As3v1pJjLw8UeaNqnDiE2RF2i52eJr1it0qz4SSv4aqoMvH6ciWzKoQARFcsTgK8BObJPj46R+4UcAI3L/2Rg05dibGibxvLS7K+/nB3HpiPZc6HUgLO68A47gaUrBWFNMhzHbuphtlRoE5j0O7qkHBVkqHP0hqKr+y0=;wIOoJqtYtK2uIvDXB01XpA=="

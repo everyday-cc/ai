@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 6
+  - title: "VW boss: Data to be key issue for future of self-driving cars"
+    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
+    publishedDateTime: 2021-08-01T11:11:00Z
+    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
 
 secured: "DZ696ryg+qycgrQrlU4JaN7ZF0P6N8VkaQHt85cAzdK2pBLqx+mo6pO/SFME8XJ06vS6ancyAG3pEG6MhPGH2wpm8otquYiJyOEw4wMp6CfGWu6hMcLJiigE8Gz01eF1zXT3Uy3Oav2UZi15qM7Hyf0DiBIoZKbwse/ggWPRKNnsu/v8T5b4X7Cm2O7LFn88fH1pt3iApia8Or1iQ49nqPdWT3XJGAtxsId2MZ5JhL8st+4RhI56SCRz0Fl8i89WDmyTW4J/FwmOEZbUMkZ89QpvJDHOOiO4upYX2ueOSv0ItncYmiK4PjPBTzxE7bWn5zEA3sZYC/CFcUYtQIM7xk87ETOkqsPEZLXzA1EXA1tyXy/5xqftWZtwZON2EiXZH0YFKs9IkzoJRmEGP8BysCJ0KX4m030KT7E1PwKJJU/uU3BGK0u6ahL7OgMudWTRfDY94ABRS1Ey3+K7t4sIDbpipvA/X28iqoWYzzvAWwBuPxSQoo3C1rBQIvGiN/pfp4JnBv1GO4AxyZs3mQS32g==;ruB91hgC5gnoN/XUbWG+Yg=="
 ---

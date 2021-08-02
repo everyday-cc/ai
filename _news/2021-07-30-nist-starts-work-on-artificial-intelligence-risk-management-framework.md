@@ -47,20 +47,6 @@ related:
         width: 860
         height: 520
         isCached: true
-  - title: "China’s Top Court Rules Facial Recognition Without Consent Is Illegal in Civil Cases"
-    excerpt: "China’s Supreme People’s Court on Wednesday ruled in a judicial interpretation that using facial recognition technology without consent would violate law in civil cases, amid rising concerns about the technology’s misuse in public venues and residential compounds."
-    publishedDateTime: 2021-07-28T12:38:00Z
-    webUrl: "https://www.caixinglobal.com/2021-07-28/chinas-top-court-rules-facial-recognition-without-consent-is-illegal-in-civil-cases-101746900.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 32
-    images:
-      - url: "https://img.caixin.com/2021-07-28/1627455046564912_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
 
 secured: "zzrBv0ygCTYwP0CPGhzsQ7Ex48tkgL89SVczfK8hYvw86HpDyUzbEwtK9aid7ZlU3690FG6EJEfhQrcpeBmLHC/C+t5JtbbSIWVcKpn+7U6WlJfbVULdpf9AKnwkVkJlH/g4tEQP48PgREvRF9YyYAgtnQowB5C/2HAYsvqbONvEy0BZ6mGBN3c8b3iX6KnRQeTye6U5Zf+wRf4hTVFT+ac68Tlg+JgamCCWIWeb6vmcKn9qwxAygXWsQIPiPz2MBECKwzYB4EwIbi5lVxi2e4+1nPEk9frmFz5f/H8jf0RoK/rYTJcaXcdw6f/KBY8OjP0bg4QtTR5ZX86In2JK7VV2ngGoKNhCf22iC87l2Zg=;iEeT4AuBrD4VfRBSKb8XYw=="
 ---

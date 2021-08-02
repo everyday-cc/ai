@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fitness Startup Insane AI Raises $873,000 In Seed Round Led By pi Ventures"
-    excerpt: "The company plans to utilize the current round to invest in product development and innovation, strengthen its tech team and accelerate growth in the international market"
-    publishedDateTime: 2021-07-28T11:04:00Z
-    webUrl: "https://www.entrepreneur.com/article/378615"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378615"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378615"
+  - title: "Canadian Conversational AI Design Tool Voiceflow Raises $20 Million In Series A"
+    excerpt: "Canadian collaborative conversational AI tool Voiceflow announced today that it has raised $20 million in a Series A round led by Felicis Ventures. Other investors include Craft Ventures, True Ventures,"
+    publishedDateTime: 2021-07-29T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/"
+    ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 85
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627470253-L-RSourabhAgrawalJayeshHannurkarandAnuragMundhadav1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610294efdd8dd3255c0ee929%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D0%26cropY2%3D1125"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Text-based Voiceover Startup Murf.ai Secures $1.5 Mn Seed Round Led By Elevation Capital"
     excerpt: "AI-enabled voiceover startup Murf.ai on Thursday announced that it has raised $1.5 million in Seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (Meesho),"
@@ -58,21 +58,19 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Fitness tech startup Insane AI raises $873K seed round led by pi Ventures"
-    excerpt: "Insane AI uses computer vision and artificial intelligence to create home workouts and personalised training plans. It studies the impact of exercise and functional movement on the user's body and per"
-    publishedDateTime: 2021-07-28T12:32:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/fitness-tech-startup-insane-ai-raises-873k-seed-round-led-by-pi-ventures-11627472189687.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/fitness-tech-startup-insane-ai-raises-873k-seed-round-led-by-pi-ventures/amp-11627472189687.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/fitness-tech-startup-insane-ai-raises-873k-seed-round-led-by-pi-ventures/amp-11627472189687.html"
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 56
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
     images:
-      - url: "https://images.livemint.com/img/2021/07/28/600x338/fitness-kmlD--621x414@LiveMint_1627473093354.jpg"
-        width: 600
-        height: 337
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
 
 secured: "zs4lFpBi3dHF+qux5RuceeWUQlNxEZsHdEpmyF5PLWLZK/yO/O/DxEUwV0GnxXJF7dwXY33cwU40bykWDH60wsBPZxSR1FnOy9bFOEVxiBpH/gNqnxTMtnib33t3K1eQq8wvpD9f7C221R1c9RKCH3BCPjLzeQjrKVjgJ6bBWv4+9fv1DdLeJVzBzCvQHEis0TrQOrSDyXh2X9QmvIsp27o80iI53RTiTdGDAySYLKkLUjMxcjOYPx+KYk+JdCtWokObRRUqROkzIGaF3+do2NOGWOlj+TUMDaCALeTuFXgT2GxyEMnge7Zb7LgZTj25NVfO1xKDXdnYAtoy8J9UXTmO6DNKDejhW4+lrrbKyv6+OAY7gcre4ZLcUda6VrgnTTyDwlNb/i+Ae2HeNzcad4QLBjr+8R/YOOi1oPadqMgGGpQ1JrEWU0yo0tbcTnkymYVarSa4Z6kAz8Rk8aMWCWPuFbb6sA75rikqiKOIMJ4sKz2L+lbZj8zEk5Ys0Ia4+eoZplX7t+XZIVBjxaZo+g==;tr2IaJURkZ4ScCIir/UycA=="

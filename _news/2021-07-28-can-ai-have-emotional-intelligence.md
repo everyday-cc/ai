@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 591
         height: 591
         isCached: true
+  - title: "Intel Stock – Will Nvidia’s huge bet on artificial-intelligence chips pay off?"
+    excerpt: "Intel Stock – Will Nvidia ’s huge bet on artificial-intelligence chips pay off? “WE’RE ALWAYS 30 days away from going out of business,” is a mantra of Jen-Hsun Huang, co-founder of Nvidia, a semiconductor company."
+    publishedDateTime: 2021-08-01T22:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_intel/intel-stock-will-nvidias-huge-bet-on-artificial-intelligence-chips-pay-off/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 15
 
 secured: "6GDT6WiuhHhwJA6iLWG8IPLQQWACy6Ta/whgZPHcYFm+K70ssBn58eP/bvlF/eFBdrPsgqFHT5PQnkoqphreGy8VOkGvw1UBo5+cAvA13ylax+7IEPJWuRXIlJUt4UOG6Jfu+se44ebcjEdDmPzjQ4MS4Fm0WWw0USoAbJ6mnGH6cL+S/GVLNawe0oYCQvmQTUnisCv9K1EZvAU63D86b9mAth5ris2fRzN372BHV4QSgi8rRcFQN1kzTKDyDDolOWai29zm19uEqS/j5sFLgdMH+LniysQpc0ULEzQgKa1dQ61XCF39xdNWS0LHhqOnJOWAKZe/ale9rJGjm5A01X4HVL/fDZFAcALK3ihuYSfDkutMklnvrSYPmGWmxS2m+Pw7dlO5clph9D6WLV5IZJ8D6xHIWTT0s/ZsLuPYShbslPBlK/54q9M7ltLll7fU8Pt706cWmguVnAISxQzzvcMsxl7fGxMECh3HRDV+OP9hDYedxQHYM4Z2Qcnimw/z8xg1yonyvXgfo+tNe84wiA==;Drj/NTHchlIf/FFHba1y+g=="
 ---

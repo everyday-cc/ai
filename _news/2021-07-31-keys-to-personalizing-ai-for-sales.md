@@ -47,19 +47,19 @@ related:
         width: 512
         height: 314
         isCached: true
-  - title: "Medical imaging AI market poised for strong growth"
-    excerpt: "The world market for medical imaging artificial intelligence (AI) applications is projected to reach almost $1.2 billion by 2025, with a compound annual growth rate of 26%, according to a new report from Signify Research."
-    publishedDateTime: 2021-07-28T07:32:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133055"
+  - title: "Salesforce Helps Enterprises Drive Loyalty Using AI"
+    excerpt: "Concept: Salesforce has rolled out a Rebate Management solution to assist companies in automating, scaling and leveraging AI-enhanced observations for their rebate programs. Companies selling through various distribution channels can use the solution that provides a modifiable data model to foster visibility and collaboration for sales teams and partners."
+    publishedDateTime: 2021-08-02T05:54:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/research-reports/salesforce-helps-enterprises-drive-loyalty-using-ai/"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
     quality: 37
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_07_27_23_07_2424_Parekh_Sanjay_20210727232720.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/technology-3402365_1920.jpg"
+        width: 1920
+        height: 1193
         isCached: true
 
 secured: "HkrdFVVo7taKjH86tFLcYznJbspFcRxGfQec8JWWFicmo/9PYUdwau1+wLd0RilswTqVGrkGm0Mo/n5N9t3G9QBRJrMw9RWXF0ANGglOCK/lqnKklhs8dKeVEu+RBSIuDSuJHKPHP01G5szYPtgAgbCHXahPqFmWBuiKHYBLBxS2EXPwvd2qDp5TFq6FwjQjLDxzrYo7x1jYvgiuK51HLZIIjcYc5y1egXEJBwDvBIxhMrg+AZj/tfG27dswYr1vxKyGQ07QJ0+6Jiz5Sm9ospHf7e2Py+lB3zuIAb/D6HnhQ0CEMPyPa1bUEyACvITCiJ/+rdCyCMkrv8XXJH59nxsdK7x2mgpRhlVA+NTsLZNYnc5cctLC+brw1SIk5fkcW+XDyfjEaSxe+S23i/riqv54QeIETYYAxYmOD5LQc/q6cJ2RcVsv7Z0pv+zJO2GQubTjNi/XERZeJkMSmt0cVV0Os0xaMzVxbdIuSSvywTBQsRw7j5dfF37qrUoXFs3rpzteeLEtzn5VOnMs4QvoTw==;ArX3gWayZIdrolCUSafpuQ=="

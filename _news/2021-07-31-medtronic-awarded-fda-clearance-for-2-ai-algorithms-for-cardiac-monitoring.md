@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-30T18:12:00Z
 originalUrl: "https://hitconsultant.net/2021/07/30/medtronic-fda-clearance-2-ai-algorithms/"
 webUrl: "https://hitconsultant.net/2021/07/30/medtronic-fda-clearance-2-ai-algorithms/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: HIT Consultant

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/07/30/1030329/machine-learning
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 2995
     height: 2000
     isCached: true
+
+related:
+  - title: "Connectivity After Covid-19: Why AI Disruption Is Here To Stay"
+    excerpt: "Covid-19 redefined connectivity and immersed us in an accelerated process of digitalization. We may ask ourselves if this process will be reversed or if it has put organizations on the path to an increasingly digital society."
+    publishedDateTime: 2021-08-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/esade/2021/08/01/connectivity-after-covid-19-why-ai-disruption-is-here-to-stay/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "p3Y4nwHi+XJMVmf3CZ317IjKqxfrUJufR3+K9N1OcZ9kT9FB2YvF8PVlxBecLj2Fs7Y/59N9MtsKI+tWn4t/kpd5OSmoD/u/kme5RUyzneWqAqa9USSnkbofabOD3uNl8YIhO5pzzo7bHOV7v7ETOzCgLmq+Z3OUuijQK1BZFGqQfQhUWhQ6XQashxfchgyySVt1ThH0eFpW1AZd0raMOpB63mXlknsMWzPj+A+65JSoeKnOQd/3hb+ulsP7vYBNfGGuIF8hVRmwlWuHCMBxYP7neFMDvfdLHO8VsMNoIOgfgL1zT5GY2z+a744y5DCPrtadVqWq7Qdk7zGHpbtBRnqo9mwQW26atGTNhhBgyDgW8Ft7JAlw/gVhNftkLaNN9zHOqxQsM4/oOeTDQyWqY4c6yuIQH+RAVNSqmaIfa60eH5MtiBcQbn2NF4O46uSmWF1Tj/37+YgrHRCN9vWEuzcv4Sfg3tEiHOsu69BKdwQ7ceUeRLz7D9uZ1RP9KcY1kn9pl4L/1LerTLkBYSztzw==;4uNPWTRXiF6xf9tWILx8zQ=="
 ---

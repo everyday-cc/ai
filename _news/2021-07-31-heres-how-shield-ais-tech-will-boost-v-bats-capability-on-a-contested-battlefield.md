@@ -6,6 +6,9 @@ publishedDateTime: 2021-07-30T19:41:00Z
 originalUrl: "https://www.armytimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
 webUrl: "https://www.armytimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Army Times

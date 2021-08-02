@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-back
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai/amp/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 790
     isCached: true
-
-related:
-  - title: "See the slide deck that helped Deep Genomics convince SoftBank and Khosla to bet on the AI-focused biotech startup"
-    excerpt: "The Toronto startup raised $180 million in a Series C round. CEO Brendan Frey envisions building a $100 billion AI-focused drugmaker."
-    publishedDateTime: 2021-07-28T11:00:00Z
-    webUrl: "https://www.businessinsider.com/deep-genomics-pitchdeck-softbank-180-million-series-c-round-biotech-2021-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/6100483ff350d50019593602?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "s7c/BAkQxZCbC3AZtedC8pZppAe55TN5FySZ6bhGehIsIWas5JNCsKx18SvAOrtuIkpwbaPK1knOqV2AKZ9WwD5CEew4zLQurZUKYNPgDIVdwGkjmNm6EV/j6qw3ycLW1npZz+MWUq22q0OcJxjjg+HdfyDrM98PZvnBUyT/7EUEOixKgJxKaqC/bIqpeMudZHIsO7VQMDwVgYvwMR+4jJ1A56G3o9cxSSxOKdhQgUxVkvDd5OhRW5C4vJBdu5vvV+8P3soSEJK+mDrGrYQ7WNjSyVbc9natUOk6X89jrY9yHbFmcub8rHSVWRSEa9Tt0Q4e/kVHJ1VLU4QJJj1JO3n9ruSFN9xNpsrk5FIYzbUX9b5lOZIgaZ2SJKXnVJtGCqCs78YErHCbLbZOxnCgw0iCJkQ0+JU1PGYtj6Uq1unEQNVOB9GmvMwLO1yOJ+uzZwaTHwgkv7jZHmch20Q5kEnJ6Kl3XDHgGHjNm7CkGn0NfLNVDCRAss107tpFzGSzLOa5GGt3LwJFcD87gLI5xA==;KtGH5NudQ782G4wdFuQnwg=="
 ---

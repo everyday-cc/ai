@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Safety Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "The Machine Safety MLaaS Market size is expected to grow at an annual average of 43 during 2021 2027 Machine learning is a computing technique that gives computers the ability to learn and modify analytic functions when exposed to a"
+    publishedDateTime: 2021-07-28T16:27:00Z
+    webUrl: "https://www.openpr.com/news/2340162/global-machine-safety-market-size-share-2021-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2340162/global-machine-safety-market-size-share-2021-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340162/global-machine-safety-market-size-share-2021-impressive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/U/7/U728707798_g.jpg"
+        width: 750
+        height: 375
+        isCached: true
   - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
     excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
     publishedDateTime: 2021-07-31T10:57:00Z

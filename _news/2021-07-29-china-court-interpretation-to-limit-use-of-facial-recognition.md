@@ -85,20 +85,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "China's top court outlines facial recognition infringement"
-    excerpt: "ANN): China's top court issued a judicial interpretation on the handling of civil cases involving facial recognition on Wednesday (July 28), aiming to give stronger legal protection of personal information."
-    publishedDateTime: 2021-07-28T12:39:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2021/07/28/china039s-top-court-outlines-facial-recognition-infringement"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/07/28/1236614.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Eight Things You Didn’t Know about Facial Recognition"
     excerpt: "Facial recognition is a technology that has become common in recent years for a variety of uses, some as naive as unlocking your iPhone or Tesla car, and"
     publishedDateTime: 2021-07-28T17:00:00Z

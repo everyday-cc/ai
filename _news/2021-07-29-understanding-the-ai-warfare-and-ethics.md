@@ -27,21 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Mastering The Art Of Extracting Data From Invoices Using AI And ML"
-    excerpt: "At some point, all invoices will become digital. Until then, the need to handle paper-based invoices and extract data from both paper and digital invoices without human involvement is critical for enterprises to truly transform."
-    publishedDateTime: 2021-07-28T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/mastering-the-art-of-extracting-data-from-invoices-using-ai-and-ml/amp/"
+  - title: "Healthcare AI Market Next Big Thing"
+    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
+    publishedDateTime: 2021-07-29T22:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6066004147c9e239227de9bc%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 900
+        height: 630
+        isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
+    excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
+    publishedDateTime: 2021-07-29T02:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-major-giants-apple-nvidia-facebook-cognex-2021-07-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI use cases are expanding and evolving in healthcare"
     excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
@@ -59,6 +71,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Deep Learning in Healthcare Market"
+    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
+    publishedDateTime: 2021-07-31T10:25:00Z
+    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Perfecting mapping with AI and machine learning"
     excerpt: "Across the world, mapping technology with Artificial Intelligence (AI) and machine learning allow users to have a variety of choices on their travels. Be"
     publishedDateTime: 2021-07-29T00:50:00Z
@@ -75,35 +103,75 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "SA first to award patent recognising artificial intelligence as inventor"
-    excerpt: "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container."
-    publishedDateTime: 2021-07-30T14:18:00Z
-    webUrl: "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/"
+  - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
+    excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
+    publishedDateTime: 2021-07-29T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-trends-analysis-and-forecast-2027-2021-07-29"
     type: article
     provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 58
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
     images:
-      - url: "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000"
-        width: 1000
-        height: 667
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI and ML for the Masses"
-    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
-    publishedDateTime: 2021-07-30T19:48:00Z
-    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
+    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+    publishedDateTime: 2021-07-30T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
+    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
+    publishedDateTime: 2021-07-29T04:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
+    excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
+    publishedDateTime: 2021-07-29T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3959-through-2027-2021-07-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Envision Healthcare deploys AI in radiology"
+    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
+    publishedDateTime: 2021-07-29T20:48:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
     quality: 54
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
-        width: 629
-        height: 319
+      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
     excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
@@ -118,6 +186,49 @@ related:
       - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
         width: 3608
         height: 2336
+        isCached: true
+  - title: "Global Artificial Intelligence in Livestock Farming Market"
+    excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
+    publishedDateTime: 2021-07-30T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "AI in healthcare: should we break the black box?"
+    excerpt: "But despite these promises, there are serious obstacles to deploying AI in clinical practice. Many of the AI models coming out of research fail to meet the transparency requirements of clinicians, patients and regulators."
+    publishedDateTime: 2021-08-02T01:07:00Z
+    webUrl: "https://www.eventbrite.sg/e/ai-in-healthcare-should-we-break-the-black-box-tickets-165522308681"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 34
+  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
+    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
+    publishedDateTime: 2021-08-01T19:50:00Z
+    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 34
+  - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
+    publishedDateTime: 2021-07-29T21:42:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "qYdS6YwbHrTVbUu+k6c0tGodYwUY2UeSaReuSV33Rr85QgZ2z1d8HyYo2e9UsfVuwrvKtRyN/gIlMuzB4TCVgeO20j+8k1h0Mwmn9U/Dr6vSrbTTupSrBotSvWuW227ErALStvcFq/IQdQPi1xS+rPoJcHeujiclptEO6tujyzbJ77eAw7Z7vxZ1XZqkvSiKqio5pc8RQtVRyHHaQybi6Kg5hHeNTfcxb9iGeGU5k9dBujvw4CUCa/JEDC+KwqNCHtp8JxqbgncxegI3hpLfUHYzviU0QjUKC+eMzw5J29tLE7pYPLJlKEz8JEEqEB05itm7gEpqNanx/+LtWi7H/47eFBJLtcumjrl7LAnDOrPczm7BtxZFV7+AWGwM3KQ/PQ0dNgR+svG+RrYYDzZdKF907thFixKHGc+eW+g7y3aoby8b8HEeTa8xOHlNSTcJ0AtQRJsL6aPe+VBjelelOiEI4SDOLfv2XRjLFIblEf1eYPvpy4MiijFfGbEDqvnCMGX4teEL2iSab/LmflU7jQ==;6ULYwrPZn4I/WXwW4V+0PA=="
