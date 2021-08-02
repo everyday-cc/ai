@@ -1,45 +1,29 @@
 ---
 category: news
 title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
-excerpt: "Chicago-based Wavicle Data Solutions, a leading data analytics firm offering cloud migration services and data management consulting, has established a dedicated Amazon Web Services (AWS) Solutions Practice that will focus exclusively on building,"
-publishedDateTime: 2021-08-02T15:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19930559.html"
-webUrl: "https://www.lelezard.com/en/news-19930559.html"
+excerpt: "Chicago-based Wavicle Data Solutions, a leading data analytics firm offering cloud migration services and data management consulting, has established a dedicated Amazon Web Services"
+publishedDateTime: 2021-08-02T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice/article_67bf8f85-b0a7-54a4-b144-111eaac43b87.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice/article_67bf8f85-b0a7-54a4-b144-111eaac43b87.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-related:
-  - title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-    excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-    publishedDateTime: 2021-07-29T16:16:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "pD8ujrydtE/uRZJ2IjqfCNqQTb7AfObYHJSD2LnLp63+QLC7Nz9rTE11RHtG2rB77wwcTfDlykS5pqS2E+bFPPMYSFnXuWEfxuEtYTznoKqpGfiGyjo+C7wDm/Mmq+7w5zntVEzf1VLQxQETZCmn2A6khVOQNSGwmIywGGFw1IWZmpk5Bv77J+oXcaBBKOxP2ZSdXpZO1xqhHm6UmeKcNUrlN8FfV2Ck8iYrKOjZtoJVTadDZUOH6C7K8aVfzbJg5J/c5l+LeaHzO0Mgp3i6kuiexH6Fw6FGVZTh0Hcj5QCsD+V59xN2zFSoUOawPMl3GP5YyAJjwhSm0c7mvSXnzD4m0yr03/VF8TUNwBnceuI=;ijcqe6XNiPDUVcnftduDiA=="
+secured: "0qGuQqCVQlgKaFRVMVoQvHdZIYqyvLbWrD+9lMNyccpLdUPVokW8x2BsV94DK2TlggRNk/wxZK9PiLeAauZPAu139RiYd7tedmhcC3LcvjOv83wC1DkE6YWx5a9NX1c2uhWpeEDVuNQLMiy4gfOpiJ65jYT9o5YD8rJ1cJv1LFscYeHqC0ikeyAqa78kFrgbgCulLTWJ8RVWOU+UWM7OIlhLaHi4jjeLKnrK4nLxKinbm4dx90y1U8Ksmmir2AgR0BMDY6KrNxv/5lkM4m4Gqk1sTCN7QHMcOZCF33kh5cCh+QmSND6rlc9Wj3u6gnDca5gBNYRjI4lDl+I/i1Xe55uHNNlGEA4X2RiZA9+R3jw=;qIdqvJm15zscAIskI8lE2w=="
 ---
 

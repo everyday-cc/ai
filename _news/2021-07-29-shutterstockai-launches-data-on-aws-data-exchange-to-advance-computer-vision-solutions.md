@@ -1,46 +1,34 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-publishedDateTime: 2021-07-29T16:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
-webUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
-quality: 63
-heat: 73
+quality: 93
+heat: 93
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-related:
-  - title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
-    excerpt: "Chicago-based Wavicle Data Solutions, a leading data analytics firm offering cloud migration services and data management consulting, has established a dedicated Amazon Web Services (AWS) Solutions Practice that will focus exclusively on building,"
-    publishedDateTime: 2021-08-02T15:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19930559.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "xyehUdpuFNmfg2w3ZkDqRky41u2aICzejpwvsUKDpU0OdWDEcfYRu52EjACoKrmZkzM/9+0LjIE91vcdPsFr05fvPwZA3mNzqZOGcTDxgozUpdCR4QHLcAUtswDky8kUgUjL47oYoH0qpeN5NzveDAlG40avMNAwWoXg1J+GBR1Z3HBlN9IuMvbOZjyC8omi9wFkrFXI9Mx1T4amPMexjRJxIQ76Cx56aklycRXvWmy47dP2YodU/ktEft2Osll6M+iT/QLWOgXaShX0CWWYJbODzBEl4Pg4firkzVg6xv5nSkEre81MYBOkG/D84rV0tFYUFlxERU0Z5lEzWaW5NuLxPEqkr7b6UFqaPDMkpvA=;OGSeE8QZeiS1163Pg6wYWg=="
+secured: "Q4EGSQvYdUFqd/znomHhTYPUWPz443/X6VodWUGSZ+Z07wVrSTwPSUWV/pBZ47zLiRcdDYlFSWqBRw79KqKphYZ42h8dNmaKqU0zvF2/hHPBqi1/NzZw6L5U1mEGK83tfRSy0WEVUmCqC6r2DiAtoQvTj9WtnzRrcqAq/13d/3mNXbr3f50ju+VKKEljqCUhGQZm51tKjUjU/cEf5uYe4STTDc83gl8C6ZAXb/1EreJa300aQdiNWm0mMMXrrV4Xk05xX39VCSFFOWisH9/DA4geGmhilk8pDilpcLnnyUGcMThBS8FPFuC311NixiuP18XKmDbtXdHKQ1Uh6qoGgJVG5MVPNyZMktFhYld7k9o=;I7e+aFrjxSwZSFu3f1QrWw=="
 ---
 

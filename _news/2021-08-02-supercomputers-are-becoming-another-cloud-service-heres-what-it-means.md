@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:

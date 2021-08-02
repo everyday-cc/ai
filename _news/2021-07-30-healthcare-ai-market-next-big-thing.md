@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 228
+heat: 216
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market Next Big Thing : Major Giants Apple, NVIDIA, Facebook, Cognex"
-    excerpt: "The \" Computer Vision in Artificial Intelligence (AI) – Market Development Scenario \" Study has been added to HTF"
-    publishedDateTime: 2021-07-29T02:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-next-big-thing-major-giants-apple-nvidia-facebook-cognex-2021-07-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI use cases are expanding and evolving in healthcare"
     excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
     publishedDateTime: 2021-07-30T02:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
 type: article
 quality: 104
-heat: 154
+heat: 155
 published: true
 
 provider:

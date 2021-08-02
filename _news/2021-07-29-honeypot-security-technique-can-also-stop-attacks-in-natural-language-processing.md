@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-07-honeypot-technique-natural-langu
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-honeypot-technique-natural-language.amp"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Honeypot Security Technique Can Stop Attacks in Natural Language Processing"
+    excerpt: "A machine learning framework can proactively counter universal trigger attacksi n natural language processing applications."
+    publishedDateTime: 2021-08-02T18:46:00Z
+    webUrl: "https://cacm.acm.org/news/254497-honeypot-security-technique-can-stop-attacks-in-natural-language-processing"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 34
 
 secured: "QDekQ9AXzEnsc62/2j/JnLklJheaKMm5C1ccZ0lDW8iUhWK8Yirh7JXUjr1Mm8QupEMb7LMHoelGMxhqFrUm7fs4qltoAZ+4lZsZABQS/I8I/NP4j+w7jqBg9gd6RvfDTj+20Ah7SWz9e5I30lQPa6KsKmv5rHnVIrPot1U40ds5nYusX8nG/kJ8zOsc/Pgp7NZFNPEsWh7oqKGbe3pAOsa51psWF27MLBV2FAI20GWE57RL4p2Zbek+sddEcvBRE0p8rhMLd/cLaJdl7SgdzuU7nUZFDf/plIhNterAQtKRaYTG7EXUcI6lhgzLrgfNJh58lfKyWs8qkNnPIEUhdO6YvZxgD1RAIOE9clWDClwJXdGCBCYSduW4PaFa+H6rRkKd5pXeRPNlvQwOG7kPiBNgg6qnWQtweiagz77Kbr1ICW3fWAyZPSk4NfImmA4mioUqeJ5lQBuBA4r2kZ+sQNsH+YJrJJoepfZQfuDgIWqTMrXiYonrWStaC9Kno4ozrHJqdB/5GJS6Go3oePDeHA==;WuFhQMqSrKtWPhFkaPOGMQ=="
 ---

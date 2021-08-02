@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
 type: article
 quality: 105
-heat: 225
+heat: 235
 published: true
 
 provider:
@@ -180,6 +180,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 19
+  - title: "NIFA and NSF Investing $220 Million in Artificial Intelligence Research"
+    excerpt: "The USDA’s National Institute of Food and Agriculture and the National Science Federation announced a $220 million investment in 11 new NSF-led Artificial Intelligence Research Institutes. NIFA and ot"
+    publishedDateTime: 2021-08-02T18:21:00Z
+    webUrl: "https://www.newsdakota.com/2021/08/02/nifa-and-nsf-investing-220-million-in-artificial-intelligence-research/"
+    type: article
+    provider:
+      name: News Dakota
+      domain: newsdakota.com
     quality: 19
   - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
     excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."

@@ -2,9 +2,9 @@
 category: news
 title: "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies"
 excerpt: "Renesas and Syntiant Corp. announced the joint development of a voice-controlled multimodal AI solution for vision AI-based IoT and edge systems"
-publishedDateTime: 2021-07-28T04:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210728005284/en/"
-webUrl: "https://www.businesswire.com/news/home/20210728005284/en/"
+publishedDateTime: 2021-07-28T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
+webUrl: "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/"
 type: article
 
 provider:
@@ -12,10 +12,9 @@ provider:
   domain: businesswire.com
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
-secured: "tOvQSw6UNfPUWo9qBhmKb19q3Qz5K6H0CGN3Sl1SsJUR0zw8fb8MWVSNk6GejnHI//6moUlVuvYZYBPlc4J0UQX9CEBHgtkLG+5aCfEDH9cXuN3/bdV/7ryU31eqbVMO3Fb2tJg8qVCI7G95AB012BkMhKKZaFt5ACZVx1NSb4BXNqgExzm9+qRND+LoyjZudMi9YvRQ+FLTyGsz93Qq9Irk4dPwkhkvHZX8QGmluAOzmGqYTzOhcJeu3JiI9qYZBOte9UE1VnkZ2vSgP+zyvB7UUI1UwcZA5nYXWFmPrkg0O7yXykDaAA6nd4TAKgu1+mn0wweac8Ru8/hYezeRKq75SO3xorcwKLye6MRi4bhQGlLWpWpPQxjwQnC2rpxSssgxjGq0H3TcOiBMCgE/uYDoRVnZoB0j4DyduS1oTfJm33UGAuHtyxd2MYogqdlifDfFAWWgqrWWraK49zD+SWdVlTbdyTSoKFo0SHFCKLUAnSiiB82r5o3spR9AJ8uLh0vrGk2EaxAyYjVSDaU4YA==;+7DvLAm0udacVpzankNVGQ=="
+secured: "0ZkRFqLW8rrieLcoBkFSRGY9pWHiFNQR9/8NIHD/GRUEQKiTpQyJ+3WrIx/CVrjoVidalR/ssMzq5diUGZzFIlHG/izrat/VOq2kxPEs7QBLuCnH0FzfXYUpqaiSMBzNldXVs56yIZqVYr3e5hun3DXBcoJXX23zRWhHEXjL8YPpqrc/mwsq5qoh9h4ZHASgY6o0VP87VcFg9oX8C0tKAGHLR2/FUP9suYAecwN26OopDCYYvTzp4ttPH0Ks4osPCS2BBGsDQ7y+EhqaTbKnIJnL1sZaaWqH31uCiUsT23IoM9epIT5QBhZ8hOxCS7KkGzz76bq3MY2jFCAzFwH93U6qrGeKZ1cpblEUQ9LV6Ro=;CKMGX7YHj9MQm3sMuAG2LQ=="
 ---
 

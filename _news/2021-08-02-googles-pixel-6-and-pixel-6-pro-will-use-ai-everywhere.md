@@ -61,6 +61,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Google Pixel 6 release date, price, Tensor chip, specs and news"
+    excerpt: "Google has announced the Pixel 6, and it's providing a bunch of details about its two new phones ahead of their fall launch. The biggest news is a new system-on-chip called Tensor that is designed to provide the Pixel 6 series with a bunch of AI powers we haven't seen before."
+    publishedDateTime: 2021-08-02T18:26:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ziSpUASpapNeGbgkc5GD3i-1200-80.jpg"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "Google teases Pixel 6, Pixel 6 Pro with new Tensor AI chip"
     excerpt: "Google has teased its Pixel 6 and Pixel 6 Pro smartphones ahead of a launch later in 2021, smartphones using a new custom-designed Tensor chip."
     publishedDateTime: 2021-08-02T17:15:00Z
@@ -103,7 +119,23 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Google will produce its own in-house AI chips for upcoming Pixel 6 and Pixel 6 Pro after Android smartphones used Qualcomm processors for 15 years"
+    excerpt: "Google's upcoming Pixel 6 and Pixel 6 Pro smartphones will use its in-house processors, the Google Tensor, marking a departure for Android devices, which previously used Qualcomm chips."
+    publishedDateTime: 2021-08-02T18:31:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/Google-launch-processor-upcoming-Pixel-phones.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/08/02/19/46198755-0-image-a-75_1627928610656.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "Vkoj+fzUX8CtygG+pvdjlyheGJ3ZFkGWXDo8ydbRO0ZwBIUSzhBDp48z57nBcFmWdn69TtEABNV34WLKBx47oKP0A/fQnoKjAojlvbRv5z4+QctfGPtjtoJAKxWTubqE4M8VN2eTecy8e0W/uspkmu9WRk6MCE+nGKzbJ5BuhyRM8VnFVXbVUzHJNgwE9QM04MpyrVvSVvaEjjc9y27hk66UDmAyrhVtabhJYjXeBmk6EC1SzNgbvcy7mVbFwVcz6YjhSMTVk0yWJtBVVotNLDL7cSBDWQAV0jJOzkWQDCj+Q0y2lhiw03UTPINjnrNx/p5QJgnwAOYDDBRoDyIaV/okb0RfC+pUbh5DpSc+Bw4=;EsdPhhmaY8BJ1XbJb1cv1w=="
+secured: "GhTmMi1regVoLPBoBbzp3NIXvdcpVWxlCfmMqtRdpP7WbumZZvTrauzr1SCFyYXaWJku5urPQOfBIjOcAKTYSQu2iVOsCpP/SCdmpy5Uezv1jDvAlm5ODgTI/g+Zes7vS7/3kXSwpRHWQv5K7swdHiP6PWuhNQqTflu0gKHOCIAd9d3vGpVg+25KXCJx7jaZiiWMCJARuCkGjoVQQQy2bpnC7tQbcCXO0ZApLV1oy2hEiHd+cjXbpWq9ZQ5S72+y2y2WqS0ABrWcK0kcbyr+m1QxSzdBz73m4MStgqZ0/R3VVeISZdxUF4FBpeX6trnqhn5FpRII4DwwZ8WIzQR0z/q2hFxpTdv3/C6AlD2UQjAztGW2gxdxsIZaM5vEjqY7ts/uCl/ny/3ZNI8hnPVaZeFoE6DuiUIGUjpQclJuuYHbe7U/SEuNp6W3dflxQBcmeHyychAGDdpibjBR1IEHZFe4ttNrfrMQby/koDs9owJOWPD5ER1p7msa7dNDelCxC0w37lY1uH9Zkal5AHKgBQ==;s7j/pYHSQX+CVpvUPJ5lpA=="
 ---
 

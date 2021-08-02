@@ -191,6 +191,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 19
+  - title: "NIFA and NSF Investing $220 Million in Artificial Intelligence Research"
+    excerpt: "The USDA’s National Institute of Food and Agriculture and the National Science Federation announced a $220 million investment in 11 new NSF-led Artificial Intelligence Research Institutes. NIFA and ot"
+    publishedDateTime: 2021-08-02T18:21:00Z
+    webUrl: "https://www.newsdakota.com/2021/08/02/nifa-and-nsf-investing-220-million-in-artificial-intelligence-research/"
+    type: article
+    provider:
+      name: News Dakota
+      domain: newsdakota.com
+    quality: 19
 
 secured: "cbWUTjDofPN0lFyKxSmX8HhjYntwKsNOsF7eKWfsNp0f5WVAk82VkDqj7fwVJf4sVbrFGDfEzekbg94CW9H1l+I6VNfF0Yrgp6PUqMvp2p8KH1DQp0G/8mjQPLJpiLrVJoyPogC5FqNg+3QDKoNwwP0MsKLAmG1rITjVeuBOLSOUkR5CbNBY6VbWc9628J5PRxM+muRTHDl9Yz4XojZOw1j/+yGEMm9TidAUyjb0KPkBSia6MWANFMIWtWNUozhigZt/skyJsPYMso9Js3UZAn/uBLfvSijZka+eatdMOOQd9Qt1SgT8Hn8XG0eyj//ZbDSUzQ4GP/gFQqUwOnQVAGla1TqBmrp7AaO4rqsSSdk=;feeW8HlJpQfn9zHk90yE7A=="
 ---

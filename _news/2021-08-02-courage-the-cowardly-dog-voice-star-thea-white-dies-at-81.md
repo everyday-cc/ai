@@ -75,6 +75,15 @@ related:
         width: 640
         height: 362
         isCached: true
+  - title: "‘Courage The Cowardly Dog’ voice star Thea White dies at 81"
+    excerpt: "Veteran voice artist Thea White, best known to the global audiences for bringing to life Muriel Bagge on popular animated series"
+    publishedDateTime: 2021-08-02T19:17:00Z
+    webUrl: "https://www.dailyexcelsior.com/courage-the-cowardly-dog-voice-star-thea-white-dies-at-81/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 4
 
 secured: "8lDE0k9FUOQ0e//mXZ3bIz4cfGH/pGR6uErp/QEoGHDBOUn7cSFISUxY3IaAZQdXGzc16B1nVpS5I7zdlWwU6i4ycXhLcjK3IfsAEhmlrCMmX3jUtdVqCcmc/mDtx4gvsaM7kUpbM+4TGphWEnewSvNlAuy3vQe28WaWscD7ByHkoiXIDaSZa5eTVB7cDRj7tXg49fPqKLrQMGlmgwTuIen/X6a21fqtxmrgpGsRMOZBLbDlhoEdAOfqOZhkhmqcgq+Ipa0ghd/keFUcOCH2BtH6kpC5u8X2Yxd2SldbbRvg0jHxncrMd+UGNZjHMF5j2LUY9Qowjdjqo/oCKg36mE1yNPMPs3aebVz6z1BBtrQ=;8nORw6bOkK2SHtJeeb5uEA=="
 ---
