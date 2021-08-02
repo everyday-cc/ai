@@ -3,14 +3,9 @@ category: news
 title: "I’m sorry Dave I’m afraid I invented that: Australian court finds AI systems can be recognised under patent law"
 excerpt: "Federal court judge says allowing artificial intelligence systems, as well as humans, to be inventors is ‘consistent with promoting innovation’"
 publishedDateTime: 2021-07-30T07:47:00Z
-originalUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law"
-webUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law"
-ampWebUrl: "https://amp.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law"
+originalUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law?via=indexdotco"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: The Guardian
@@ -23,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/4edb17a6b49c9aa2eda68acc15aa28ab7aee35a8/318_0_2877_1727/master/2877.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=eee781b14d7aab3ddc97aea9fced6082"
-    width: 600
-    height: 360
-    isCached: true
-
-secured: "PCwIWYdqW+KgRSUtuli12aVjVili2L0nYaATJrirTQLnXCqTA4ThAcey2Nf1sw50dLcGYuAwdwnG8LR5O2CGsyoiD3SRW6CSKBFd41RUP28g96BMpiOVptf1pktuaDVjQ7iWrF4Yrl3RZxnfaTHb0Kiys0X+kORl2F8WsJ+rYlZWyPvOhHHu2i3/vYhhU7hbs8XCR/h7JqfyxOS5Tb9WfTu1NJnOrALG6QKDV9nm19yRa9Y+jci0/8tsLKhPpAkBU1qk4vRDA/FyrgcgPQvL0qvRTR9Qrn5kPUTc7RKbPOAJy6y1qWY8robQPDxDeHoPWyKU06g7I+NFk48paRzu+TmkwNkaNWOahn4gZ5qqeUQDIlhEOI8wB4NwSWqImLniEigGXQbb+9Folg3gYOSm79u+a4bMRiF+AtHxBpRwbg2FfV60oiRX0SvD9LW7iIJMJXixIQu4FHKiQbvdUsKfPaYhAqSw/Kzj2a0l4JSJGG2V+uI4P1H8PCdYo5IY7E5p21JRfoEGvXHNpkDzCZnhcA==;E6isQZO9D9jZJ3WkwBeVeQ=="
+secured: "60UZfxGkcaL7lFFVkLACot7U+mhJ/nsUPdloRdj97S3H7PqXm47AVfHDxmrV6Ih1GEigePmU3W3tXVBS9Hq3kdw7B/YhQAcA4/ncRFcGb9n0rSJCVccTXeXddEevS6L5v2dPCPihfjwNt8MvIUDN6yjZai9vux0bRRQu8Gg+StTfRQaEqmLuGjhpQI45bAdClDznNjGKDpi2/wKSRyzyCUUZU3M+/VezWSlnIpCz2oWfNY0+ARhscYDNECtgs+IyNhHu0i1gT/iK1VZ0sF+M+QrPcwdPb6l1DtvPenwXKTj/9agLCcfMVbN38Ec0bLQ+Y4/GlVU931aEefpp+FT2SRILo63KjDWe+j2HixawaRLZYgoNTAwy622M1tW3ptqj5LVl3ZfqzbN5p5uASACqUgzmqadF1mnAmgoo/n7b6ZAcfhXOZ1WCX7u2tc9Ildpr5f4as35i1aN2vnXdUlRQIaoO7KfurQXaPUbnTJgJLGobJ9kvIna6mhvLHIpHPRObYbSC+/v7oRTN+ZmBiCgAPA==;WnLv9hQDiHsbSzVDOTVhcA=="
 ---
 

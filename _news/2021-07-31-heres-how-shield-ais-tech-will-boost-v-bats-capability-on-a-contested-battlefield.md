@@ -3,26 +3,17 @@ category: news
 title: "Here’s how Shield AI’s tech will boost V-Bat’s capability on a contested battlefield"
 excerpt: "Shield AI just bought Martin UAV. Here's how the artificial intelligence and autonomy technology company will transform the flagship drone - V-Bat - that has caught the eye of operators across the military services."
 publishedDateTime: 2021-07-30T19:41:00Z
-originalUrl: "https://www.marinecorpstimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
-webUrl: "https://www.marinecorpstimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
+originalUrl: "https://www.armytimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
+webUrl: "https://www.armytimes.com/land/2021/07/30/heres-how-shield-ais-tech-will-boost-v-bats-capability-on-a-contested-battlefield/"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: Marine Corps Times
-  domain: marinecorpstimes.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.armytimes.com/resizer/Wzlldo8BoWz9uxPgfi0LsdEmSeY=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/ZSJAHWAX7FEQTCU7T7UUPAQZG4.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "tDibZqgCcN9luWKNvUf8SAHbL0hk9n7/bnGP8z3ibcYAH7OTEbzOUWqRG2zrofoRBLkP7MPeDE/jxm8LehD1Lwo2bolTZuQCrPTOJOLQ7nKbIsv7BhMazv2WW3g0/1xfPCWFsUYaEt8ayAP5CVNMcuIJhaqEsll3UUEelVzlxRU+XuOgRJBYU5+uptSnKwW7pZN869Oj0YfqGTzc69SqG3L84Qk7R+GG9ywvdtggefPWgQkjx1uR3JwTSJ0Ve+iG3t2fO1CnPY4GDOc6jazE6O8eyM8E3oQIVr58a8wgXkEqDCn8KFQAJ8MFZy9p0TKn/yeBA/72tZRKksCJHud83j6mnYW+7dPw3zrZFnaqyTA=;w7/RWT49HAKpumA92VxnBw=="
+secured: "vgG4ZTxyACxn2pLNOIDbFL7EKZBqIHymw+GIyedRyU3eDb3n9WPT9VIAihzDF/27dwEUBXdH39NaA5JAZXbbNSFP2nEq4/YeS9C1lCiAqC+aj/i1MRAP9N24i8A0iKSqOdJCKSt3/5CoqixcJXnOtRx2rmydDu1pLO2Flo0YL4Z13oV1osxCBCCZQxk49Dn7cVex3e5k26kUkmk6Hv0gkC+zk5Yobd0qZp8HQWEEjnsx2EmAeOtTq04PtMpnDe5q+UagZUa5Yyj2tbb7fCqzhKCB8RrvPtvKP7jZ8cAIVkNxsSb+UgFx7QG/IPABu/ghEMZdUvOLpNDGts7WSOS9CTOQbXYX025fUXTx2048vLZHK7KOr3hLMtefdOnMxb/KqdB51dW0F9jeN0bweMDJ6QmgYz/NhWrfgLJ6IDXA60U7xfiCTEw8ggz6HDS5/vTAd8Abbzj8fXcpTq6e+eDXNYJkLCts8IcQ2S3NGaPr6XiU4IMm5YhCkhnQhBOlqi3nHU95k/qRqhYtiSYAaQtWmw==;u0P6pRKXyiqyQiLoxGVRKg=="
 ---
 
