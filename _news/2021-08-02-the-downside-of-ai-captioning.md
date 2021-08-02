@@ -24,19 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "The Question Medical AI Can’t Answer"
-    excerpt: "However, the application of AI in the health care domain has also revealed many of its weaknesses, outlined in a recent guidance document from the World Health Organization (WHO). The document covers a lengthy list of topics,"
-    publishedDateTime: 2021-07-29T15:09:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-question-medical-ai-can-rsquo-t-answer/"
+  - title: "Navigating Religion, Faith, And Creativity In The Age Of AI"
+    excerpt: "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?"
+    publishedDateTime: 2021-08-02T20:08:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Predicting wireless traffic using AI could improve the reliability of future wireless communication"
+    excerpt: "The prediction of future wireless traffic volumes using artificial intelligence (AI) would allow communication systems to automatically adjust network resources to maximize reliability. KAUST researchers have now developed a more accurate \"dual attention\" prediction scheme that minimizes the volume of prediction data that needs to be transferred across the network."
+    publishedDateTime: 2021-08-02T14:14:00Z
+    webUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 43
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wireless.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
+  - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
+    excerpt: "Startups in agricultural technology (ag-tech) employing AI, machine learning, robotics and IoT sensors are revolutionizing crop yields."
+    publishedDateTime: 2021-07-29T17:01:00Z
+    webUrl: "https://www.aitrends.com/ai-in-agriculture/ag-tech-employing-ai-and-range-of-tools-with-dramatic-results/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
     quality: 39
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/EF86AF41-3F8C-427E-A7F95CC4F54AEEE5.jpg"
-        width: 790
-        height: 496
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30VerticalFarming-2.jpeg"
+        width: 550
+        height: 366
+        isCached: true
+  - title: "How to Leverage Artificial Intelligence in Public Relations"
+    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
+    publishedDateTime: 2021-08-02T12:09:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "Jp2v5wUoVos2Q/oSEH2PZoJe8ZzbFT5F2Al4kJ6BhzVwiRsj07c+IK+bbwWPTssgTFZ8cN/YCvAnEGTGqCCzoXkFSzQDMB9SOHYhIx+zeHntHsLXWS161JFP3mqhXhOKH/Q7Ow/89K5Bk4ULzt5ETw7MQ33bjBRTZCS2uMnzYvejeaZnWCf70+A4A3+zTidRy6w8y0spGrz22vAbDE7LXeDuPlkbyfQclssXJZUGCYenL6cFOEUO1NeOIXkiWUAbABhkF8Ur99B60eq/K9NxpTDxtvUmGx0tL6251zpEjV3CO0fAeJ2F3JMDOKlC/6thaZvDSokdd1J1hX45tou338eYaVmZ5hpEGJ/vio+sks0=;baVrOoc2DO5+JSdaWh0Azg=="

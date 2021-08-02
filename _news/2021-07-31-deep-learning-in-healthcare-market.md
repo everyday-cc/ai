@@ -58,22 +58,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Understanding The AI Warfare And Ethics"
-    excerpt: "The world’s superpowers are building new super-fast, super-lethal armies powered by artificial intelligence. It’s a pretty unsettling future, and it’s around the corner."
-    publishedDateTime: 2021-07-29T04:19:00Z
-    webUrl: "https://www.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
-    ampWebUrl: "https://amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/onpoint/2021/07/29/understanding-the-ai-warfare-and-ethics"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 74
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2021/07/GettyImages-503831286-RESIZED.jpg"
-        width: 3000
-        height: 1912
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Share, Trends, Analysis and Forecast 2027"
     excerpt: "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end"
     publishedDateTime: 2021-07-29T10:15:00Z
@@ -97,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 40.48% through 2027"
-    excerpt: "Artificial intelligence in the healthcare market is projected to progress at 40.48% of CAGR during the forecasting period 2019-2027. The major factors driving the global AI in the healthcare market are the increasing usage of big data,"
-    publishedDateTime: 2021-07-29T04:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-4048-through-2027-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

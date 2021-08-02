@@ -59,6 +59,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
+    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, above all in the areas of photography and voice recognition."
+    publishedDateTime: 2021-08-02T21:16:00Z
+    webUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/"
+    ampWebUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 74
+    images:
+      - url: "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/08/17775413w.jpg"
+        width: 700
+        height: 933
+        isCached: true
   - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
     excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
     publishedDateTime: 2021-08-02T16:32:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ziSpUASpapNeGbgkc5GD3i-1200-80.jpg"
         width: 1200
         height: 598
+        isCached: true
+  - title: "Google previews new Pixel phones with AI-optimized Tensor chip"
+    excerpt: "Google LLC today previewed its next two Pixel smartphones, which the search giant says will be powered by an internally-developed chip with an embedded machine learning module. The Pixel 6 and Pixel 6 Pro are set to become available for consumers in the fall."
+    publishedDateTime: 2021-08-02T19:10:00Z
+    webUrl: "https://siliconangle.com/2021/08/02/google-previews-new-pixel-phones-ai-optimized-tensor-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio_Shot_345IXG4.max-1000x1000.jpg"
+        width: 1000
+        height: 588
         isCached: true
   - title: "Google teases Pixel 6, Pixel 6 Pro with new Tensor AI chip"
     excerpt: "Google has teased its Pixel 6 and Pixel 6 Pro smartphones ahead of a launch later in 2021, smartphones using a new custom-designed Tensor chip."
@@ -131,7 +161,21 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Google’s upcoming Pixel 6 will feature a brand-new chip and a big-ass camera bar"
+    excerpt: "It’s been five years since Google first launched the Pixel line, and now it’s time for the sixth iteration. The Pixel 6 and Pixel 6 Pro are going to be hitting stores later this fall, powered by Google’s own custom-built chips."
+    publishedDateTime: 2021-08-02T19:58:00Z
+    webUrl: "https://knowtechie.com/googles-upcoming-pixel-6-will-feature-a-brand-new-chip-and-a-big-ass-camera-bar/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/08/google-pixel-6-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "GtFKVpS+wl0xRfdsy2OiRU9/Q+Tg02FPOHSo54uXSBm9cxZD6L23GzS8JvmcpP0oXYgbdYD75m6kGYIddCH6rSUz7yXlH6Vkv+8IT84TJ4EZtJZliwg6KYOb7ksX0fDTa66i37nt/mT21hwbiS8OH+SiwyKpZqPEro5ZXq6FKvsXvXmISRW0LpT3n3lJXssUbMxmS3mX2wQgREY3t/8wSCHzSCvo8jPMCSaXgB5cjT/c/rpw14F1/pm/arOMp7PBs3CrWWzNhLY563Mos55zYLregwZCLlK9zWwmfOnyYkm7o5WaLKEH6d2lHsVw+D59AJbvrFqAY0tcn56rmh5SGgRjxfTCYYK5urHQ3zwrURM=;JeKK48eSTXYnOu+fnHpldw=="
+secured: "yWB0ZzNOX11V4AP5LZvmudQ+7MWhV70vuqYnpetuaOOS1OXBbnq96XC/VbHFmJj9/MyjELmwjjPdYD9q+0Z2jI+Y9jVRcPAwG38HT09ziFhYuxCXfasQd2KXeLeY0MIjdxky3BJzJQ1uxRsj6RRa9MMc35sZ7nwOvSBvWOQxnOxbx6/b+1dUWJtXOgcLYbpO0n9lIkdfrnr/G0r9LApXS57bHQNXntosdT2Ww2GZ7rrYgor7fEkuRAL5bPQJwBPz3rFz0F4ycvRD2u68LKHBb058BSqvew5VSHBmCfVeFsigNPdgnuU8vuwthgbo9oLtNDHdtaW0uxL5eKBeFEMtcMvJXAl37mJGda1WVD9aHKO2hNs63RoLYv/xAOcyNwBzvMZ5VCxceVbminqivYz8c9sUI9b9XE+QIgd7j4IMjZtiigBMipv/9bnH9lUU+wQxSbd/lvXtH9MccGmta44GHGWvOMKAUVVpw6UQ4QuciWsaEiPy5VXbCED04pl57Hg9CsebIh7PCoyiZC5K36zrMQ==;/tLjxWLmbzfZgc7vxD+UtA=="
 ---
 

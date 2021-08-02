@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open
 cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie"
 type: article
 quality: 76
-heat: 96
+heat: 97
 published: true
 
 provider:

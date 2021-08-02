@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 70
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to Leverage Artificial Intelligence in Public Relations"
-    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
-    publishedDateTime: 2021-08-02T12:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "UFOs could be AI drones visiting Earth from an ancient alien civilisation, says Havard prof as landmark probe launched"
     excerpt: "UFOS could be AI drones visiting Earth from an ancient advanced alien civilisation, a Havard professor said. The Sun Online spoke to astrophysicist Professor Avi Loeb as he launched a new mission"
     publishedDateTime: 2021-07-29T11:19:00Z

@@ -27,7 +27,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
         width: 1100

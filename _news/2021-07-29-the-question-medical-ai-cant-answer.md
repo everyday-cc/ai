@@ -24,22 +24,6 @@ images:
     height: 496
     isCached: true
 
-related:
-  - title: "The Downside of AI Captioning"
-    excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=147393"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/138524-downside-ai-cms-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "iWo7/xbKSOThsg33bY0PHg8xl71rj+7+1eA4KGhxfrGrNusNGR+Gs0Q/GcV3LbaX7WlQktSDptzfYXzICEcJHKNChemtHSBjzgXh1HDeHGCRwCb+3cP2bvQLJYaT0mgVQGuabvbrCCkTZEMbjfrUH0QrwekAIMwUXH/xiimm89np5P+i9JTrgpuUKOy8EQwxPsw2movogGNCbHE2qYI4+B1si3bAtFkLYoWdjTyn+VuaWNagS7sIigZb++RgGNFWXhRS0VRH7aivEJs4W6fzPM2tfTcESPW1QFIxQ+/6hS4OBwurGP1nD1JgiYY7mOHeFPhqBg6vOVXHmHjUpI6qhJfYTle6u6JzwUtxg77KmcHwk/kSPPgYH0woPgpvO5exASs//pbWdP+fcr02MgpxlFwwGmr5+2rT7weQwuOwlHRsMvIzjv0P0zAApx451wY+VYzbCpuz5YJyqt/YElCstnqIVgZyrpqowHR6dd6RCV9Oa1mnb5ubQpQoMA3cSHHUTfO6wdVzTPhFBuaaeLRlEg==;poflpHP5/gTS+e59XSpl4A=="
 ---
 

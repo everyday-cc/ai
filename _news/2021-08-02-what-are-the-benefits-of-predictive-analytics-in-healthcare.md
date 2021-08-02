@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI, quantum computing and other technologies poised to transform healthcare"
+    excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."
+    publishedDateTime: 2021-08-02T20:50:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 52
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg"
+        width: 635
+        height: 353
+        isCached: true
 
 secured: "3UnDy0WEOSGL0n8Bjp5tMLUHw3Rdgc2/ZZtYV7Fbn73gCYkREVf5Jhhk0CGDsuEWf+viIaGKiSSGKNrrja9IPufa/dYaNELwAgGsEwcEwGNX43U5WxLqivedOECmYjEE0Do7IaWUVaViJzxzReI7MSnRgG98/rNaIDE3IeA8xS28OhwRsdwKnLzd+4tEKfLXJrcJY+X4p4u/Ssk6oTKrPz6M6VFHMj8BO9x+CtaSCpQuzxtQbvdxeA5TinxrZfrh5FsQ4WFIUa+KUG5qN2yrEuhKWeOzRLTUPBZyBPYJP+bCwiMU1wmxRMgFblSLFbGCgnOy0Jqo4rnn6zqICcLbn92wgU/5Fx+VMXEpTGdFeTY=;1YV720l0JQWLgrUL/KH4+w=="
 ---

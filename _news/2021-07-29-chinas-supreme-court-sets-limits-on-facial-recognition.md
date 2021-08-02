@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Police trial body cameras with facial recognition technology to catch suspects"
+    excerpt: "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people"
+    publishedDateTime: 2021-08-02T20:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg"
+        width: 2500
+        height: 1563
         isCached: true
   - title: "Will Facial Recognition Limitations Hurt China’s New Retail?"
     excerpt: "China’s highest court has established clear limitations on how businesses can use facial recognition technology, which could affect luxury sales."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI, quantum computing and other technologies poised to transform healthcare"
+    excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."
+    publishedDateTime: 2021-08-02T20:50:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 52
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg"
+        width: 635
+        height: 353
+        isCached: true
   - title: "What Are the Benefits of Predictive Analytics in Healthcare?"
     excerpt: "How predictive analytics can improve patient outcomes, assist in the decision making process, and provider relief for healthcare workers."
     publishedDateTime: 2021-08-02T13:30:00Z

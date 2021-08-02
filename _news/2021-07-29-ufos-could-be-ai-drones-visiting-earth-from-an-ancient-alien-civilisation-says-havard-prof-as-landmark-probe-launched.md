@@ -42,20 +42,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "How to Leverage Artificial Intelligence in Public Relations"
-    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
-    publishedDateTime: 2021-08-02T12:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "etOhesxsHxZBRM3xSgSvJl8RlYOLX4NQ9eEQ/wjvcWNSEoRDCi8upf1mjkkMPQWf7yPOSQqIs4wAuPzaCwvUZXtsMhz3p9+f73UgUqf76cjw2AArppjYiQh6Q/nAjuVapPbAlEfmwPA33E197YUycmPXjyIviN4gdmFhN1RTHRFOtXGcRIxmkrM20Ewur/NqVUU5K0u3BSFsweceKVtOqc8nif2d/fADKmHoP6mNgIpi1KDxsnM5Fn2oi5Se1L34kS6fiJ6c4LGeYC3GrMjZvcQaYAXG/dnqiDQGYl5XPSTrwJ9qjY1jizc9/CPwkbIv7h/EAJUtGyT3VCjPcRv9DYbhfCf/7+NhS2ZmYnRpGXE=;6waMxVmDwp1HPT54CeerIw=="
 ---

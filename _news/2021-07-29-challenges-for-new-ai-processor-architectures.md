@@ -57,6 +57,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
+    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, above all in the areas of photography and voice recognition."
+    publishedDateTime: 2021-08-02T21:16:00Z
+    webUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/"
+    ampWebUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 74
+    images:
+      - url: "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/08/17775413w.jpg"
+        width: 700
+        height: 933
+        isCached: true
   - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
     excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
     publishedDateTime: 2021-08-02T16:32:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ziSpUASpapNeGbgkc5GD3i-1200-80.jpg"
         width: 1200
         height: 598
+        isCached: true
+  - title: "Google previews new Pixel phones with AI-optimized Tensor chip"
+    excerpt: "Google LLC today previewed its next two Pixel smartphones, which the search giant says will be powered by an internally-developed chip with an embedded machine learning module. The Pixel 6 and Pixel 6 Pro are set to become available for consumers in the fall."
+    publishedDateTime: 2021-08-02T19:10:00Z
+    webUrl: "https://siliconangle.com/2021/08/02/google-previews-new-pixel-phones-ai-optimized-tensor-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio_Shot_345IXG4.max-1000x1000.jpg"
+        width: 1000
+        height: 588
         isCached: true
   - title: "Google teases Pixel 6, Pixel 6 Pro with new Tensor AI chip"
     excerpt: "Google has teased its Pixel 6 and Pixel 6 Pro smartphones ahead of a launch later in 2021, smartphones using a new custom-designed Tensor chip."
@@ -130,6 +160,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/08/02/19/46198755-0-image-a-75_1627928610656.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Google’s upcoming Pixel 6 will feature a brand-new chip and a big-ass camera bar"
+    excerpt: "It’s been five years since Google first launched the Pixel line, and now it’s time for the sixth iteration. The Pixel 6 and Pixel 6 Pro are going to be hitting stores later this fall, powered by Google’s own custom-built chips."
+    publishedDateTime: 2021-08-02T19:58:00Z
+    webUrl: "https://knowtechie.com/googles-upcoming-pixel-6-will-feature-a-brand-new-chip-and-a-big-ass-camera-bar/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 34
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/08/google-pixel-6-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "2pQ4s6s13H0ZqJfcC0apGCfVGhlvO5RvtPBelFXtK+B3OYrqpTKkekcXIhUbFRyfBxzgc7Bx4nTf2GavZIToIrPUn/GIMoWX9yhAkdRVk+86UGbK8SkXvcLvDS5aMLJguRkjOKZzw6mb6O0ltXUGauu3e3V/W+oOK1GaI4YU6Bf/kBJmweeToGt4/QolYr1rej+HGnAzGPBstejtch6lYIOURWuhK2CvkbnUmufqqbq3c3RorffXYEt2NLTUx3FHBBr/BHgnxn1DHD9LWo7/MOeIQHn1TftKt3n3H0TEaSWM2srPyvMUdmuqt6457lulhUSVa8i1OX3L9ASpUCABev6qsy/3XHPaLHlSkcd+dLI=;UEmfBiUOVYNCPoNwE0Lb8Q=="

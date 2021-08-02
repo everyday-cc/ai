@@ -44,6 +44,20 @@ related:
         width: 1024
         height: 592
         isCached: true
+  - title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
+    excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
+    publishedDateTime: 2021-08-02T20:52:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 47
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "QRvtsV/QKRdt831p6j7yFaI6vIlucJh2OZ9+0499GA6m7yl7EzLSe7kFtFDYeVowkSd+JU/A/bt4z1ihO1ALtt8RIpnik5z8oFIlWqE72UotrosCxThaYPZJBhdgTgH0nEZ6EsKspaYyhE2wJ63WoWaYsCUsBK4VG273p1YrFKTmtvPEHzcXNTnzA6TAFvQglXOQ9DH/sV4I/XCReHbofLnHnITia2pq31Zma8pW4EGFQevNQ+h3oSr2k8UUPjt60dQhnO7mbh5YZiTRB5eTgJGOgK/OPw2dUMGtyuMxhOL1igmpqGmxrh8Qqhv5V6Y3+N3BtLxpP0rZHWy/kF08fLcU/YGkEbqMqS9xd885AAY=;z+8kP2ryXwEAPGhl2WdXyg=="
 ---
