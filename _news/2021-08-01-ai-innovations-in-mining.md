@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T19:13:00Z
-    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "G2/7nX1UnaHwx8OA6+k9UaozhyV+HygrFY1aCqLy0K/9Xbn22Lmhk9t/x0h0RO/HhbUhmJaKJJCDl893FKRVd/3N7NMRTV2wbSQ6Q3/6TgTp+W8OARsZuaATuaoiRzvlfLxSQ4eh9w6lX+s1jMUgy1ITXQUnPnrX9VeSuASfQV0z8KIcSnCpeMoNQOGtJlxlHeN/PG7qYnvgOixIkR8I879u6fnyj9L+2eXW5xEZcvgOfyb8gs7vr93Bts3spTcZaxNQ6++S3hpP9nqTT+QW0ND7XEl41ylfRoi7egHFydDQ16hMx0y8DYS1URS7BenS38hl1oCVL1wZTjQScl6RCla5dSrDgCjmQQJ7vYcgKe2RpkzQc0JapepGLHdHDX7W+kEb0BNUZbM0Gdv44QdOJRf0pgBSo3HBqhNm2Z9/DwEgozMizdEFi+woIFNha1UPzeNFZvPlWb+SbBAgyQBL9NmAmG+37LDGNOYg8fWApEBrP/38IchguuLYhDqz5hzmqZMKimdLgvu7c3TnGggyZQ==;a5lfDEHpkVFHO5i988In6g=="
 ---

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -162,19 +162,19 @@
     {
       "path": "_news/2021-07-29-beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare.md",
       "title": "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare",
-      "excerpt": "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled",
+      "excerpt": "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1583761/Parlance_and_Beckers_logos.jpg?p=facebook",
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/86/d86d8a25-c3fa-5c7e-89b2-11e91e7cc34b/6102b8ccc0895.image.jpg?resize=766%2C351",
           "width": 766,
-          "height": 401,
+          "height": 351,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -187,8 +187,8 @@
       "publishedDateTime": "2021-07-29T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-intel-expands-ai-career-education-program-to-18-community-colleges.md",
+      "title": "Intel expands AI career education program to 18 community colleges",
+      "excerpt": "Program will teach data collection, computer vision and AI model training to community college students in 11 states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "originalUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
+          "width": 644,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "publishedDateTime": "2021-08-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-upcoming-pixel-6-and-6-pro-will-run-googles-own-ai-focused-tensor-chip.md",
       "title": "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip",
       "excerpt": "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets.",
@@ -10,7 +64,7 @@
       "originalUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -210,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -1397,49 +1451,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-nvidia-dives-into-industrial-high-performance-computing-with-hgx-platform.md",
-      "title": "NVIDIA Dives Into Industrial High-performance Computing with HGX Platform",
-      "excerpt": "NVIDIA's A100 Tensor Core GPU. Screenshot used Courtesy of NVIDIA It boasts an efficiency twenty times higher than the existing NVIDIA Volta generation, a feature that can adequately meet data analytics, HPC, and AI needs. It is multi-instance GPU-enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/NVIDIA_HGX_HPC_Platform_thumbnail.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

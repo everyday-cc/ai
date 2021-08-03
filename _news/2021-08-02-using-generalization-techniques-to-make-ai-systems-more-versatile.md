@@ -47,20 +47,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 46
-  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
-    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
-    publishedDateTime: 2021-07-29T19:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/923902"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "BXXpae2NAje1qiKKrxAVoSJMxleOxWuiSaMbc0TNBX+v0dJasYuYA5qc2plSA6+hxPRz/HPNaxLntAzN32awH1g6gKVhy7Mh+AQg89bd5GbUUBlBUFEMThjG5wurQhLKDmCXcs/4uBnoa4NWcCXL8eUof38sh5EdcgSp6HQ/No2y2svVqGsqkuvkxHA4Ek5NhTMVWvrEmRZRnUnW8S3cssWrdq8JK1KmW6C81qRHT3qItFsJUY82ACLoZbrE5B4Lc+j1xuLu//ZJA9zWf5nc00KKSWAkAmvrllk3Qv/ZjAVxPgD/8XoAMBakF0G38I5ONSFHbr6eijiMYPVTTfq7a7c6d9vuOpaPTmnJmsFJW7u8gYpnPPMLFaDewP4F5XiKDuUCBQ7RjFstWRwqR1uRn3cd/yHomkeI6XIKTfRg+xI1os1xGD8NUPP+0/E/TwPPU2v9xO1JjdDqXN6rxyWsCYnYv06oDKtyu7LIjTL0zaYdqrEfLA1W7+CKgYh986G3lCk+PJ4Y+9+8eI6fCQcy4g==;T1/5kROAKpH6U8jtypQQQw=="
 ---

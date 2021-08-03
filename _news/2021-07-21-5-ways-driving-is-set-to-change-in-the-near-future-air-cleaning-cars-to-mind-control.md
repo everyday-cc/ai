@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-1200-80.jpg"
+    width: 852
+    height: 479
     isCached: true
 
-secured: "WcBd0Aa1L4G0k619gKswWkR1XJgY4idpMDGKzG99ZV9Oc7RrShpbDQAgxPqqLWpWTDJIZtGxKLcZLxWvV/AQ1JeA+glOL0g4xJHGK7xnCGS/Pk+DBnjA7qvlMxJvQRK/uK8pK046CXcbBb/Efh+VyVcKC49ZH21NgHT4eWHLbGG/GUxKxOKCZrkuZg44hZHPRM2+mQ2ao7nZdKQ9uA2XznIIftkmF6lhHTCygVdEQBzXULA1eZiZmvg9I8JiTY6Kx9O6VjfNbvA8Wcw0xzE+zd90xaOQu5sLd7rWc+14mFqMqIKEkTl7D6xleoDQAnCgalAH2Ye4mncei6HLLWwSSPenHlxdnlCVW035FTi6YXI=;Mt3mcrMNtvCAMuEvquUQxQ=="
+secured: "RDCF2TupukmngtJGNXYdEPJq3oStdSxAnJYuzN0JU+75hPi7HgG7YH0w+wjfFWaLt7L6vCdAW5C/u5yVnVqGVQKeCPA/tp5e94iO3Al2+gjvXcO9d4THa+14NTN2XZW6zX/AOAsaeq6qKEbF1b/Gq8Khigu2AjMSQAUz4wqRnAlHKge3b7yuggOdj78Fp8pD/FGmax+J1rfmt6y7iD68pGqxcubu7aavELOKDKGXibW61+AOE6I/srqX5MGSZTejg6xN6MzGq0TDUgPyjXqByeNxirh7Llf8yRBzUCDuSYI98A4yzh+ADU6rG5V7K9c+PAj35lS1p8qMqKlTVt1oUJlNQEYEN/uuQxJijU24leM=;yY5MOUB9Q9V7IoaZQxctyA=="
 ---
 

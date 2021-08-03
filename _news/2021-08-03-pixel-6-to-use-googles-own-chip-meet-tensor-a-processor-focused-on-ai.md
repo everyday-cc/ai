@@ -141,6 +141,22 @@ related:
         width: 651
         height: 400
         isCached: true
+  - title: "Google is Making its Own Chips for its Upcoming Pixel Smartphones"
+    excerpt: "Google has announced that it will be manufacturing its own custom SoC (system on a chip) called Tensor, which will debut within the Pixel 6 and Pixel 6 Pro Android smartphones. This means that the Alphabet-owned tech titan will be moving away from Qualcomm chips on its higher-end systems,"
+    publishedDateTime: 2021-08-03T13:30:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/06/Google.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "Google Pixel 6 / 6 Pro with the “Tensor” chip will arrive this fall"
     excerpt: "Pro with the \"Tensor\" chip will arrive this fall. There are unofficial reports that this device will launch in October"
     publishedDateTime: 2021-08-03T10:29:00Z
@@ -285,6 +301,6 @@ related:
         height: 600
         isCached: true
 
-secured: "W9Wv4qnqQdo8WEZbKiPFvXNHssOZQruwFQqeoY/+pcxYoPlGQZNb/Kbq1eikkFFQwtTv2lRV/wSptQFUUbYOtOcfKecFZ3eab6kpndKJCHX2WfxSMh89bIy84jDx2PkKZNuNwCeeLKepd7jH2+kH2xj+Me3AOUv0j0PbD1AHhWdbNW9hSoVPo9li8kcwzYqQMq/jZUYi5MrYzJwaJRVYQp2A5IiI1ZTwbGsufGw7nor/NIE4TOLklCARA1O15Sm/thesp+4VcUsVfA1Pd6Av+uYt6Lk7K+N0dPA9BVFPRGQy1nbH50uYX1Zeh8rqLlyTfKZ4Y4jh7BHi+jx/TSWS3SYlyAciYRY9vkwRZlyWIMw=;SBM0e5ZDBCyFkn7NOvP9VA=="
+secured: "jxDtDt/tBtc9yeafkHcns6WUF0QPyn8rovE3cEbPTFMQbclRt0RVB3Gm9O14K83rVl7J4l6DZO8kaCiOgDwgaOY6KRS28HJzFg+XnJMN1rj+ZXYqfVIHJ3uC+zHCXdCOLB9UUkS0KY2Ct1GnW7yONHWHlS5k+0pp1v1UzTVQ7+9du0JKVp5u6NWorFVwDCMlS0B69gGj1d4A0WjOukqJvdGOZwIgnZvhniAZKLVAZxQ1EMm1H3baDWPjpIUd1HdDoJFt0vzFj2wqICBL1Sox3mNbfX6orFI+s6SsRdXFr6/cW0qGhgEYQw7r3KDkkpls68uMQXrUP8nfmIQ7pP52xaoWYqJX0MIMDZHiUFzC1tRtKTT4JMcah1W/JiWhR1QI9SuLiY10lRrSOhOjoEzxwn9FBI1SCFphMPdROVqYN4h6aZTJ58Kh9qH5LXVb5+3Lo3wAW3Qs+bOZWA7Vb8O5tDkmru8Ctveg3KuNbLhJYAtunMFj3xdf2O3smhehipzCyCzzlwEQok4+YotG3zRKJA==;vKw2RNuqWR9q0mGwYHSw0A=="
 ---
 

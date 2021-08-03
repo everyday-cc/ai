@@ -74,15 +74,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 37
-  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T19:13:00Z
-    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "o9MEMMWdnjMauEdS8YeWspn2husjsSAXeVrLujualblxYBdUEtUdrx5mmiIU9FRUsrviOeCgZuH6fO1L2hreOsFQDaBM+4ZAC5FrM5QPFvcDjpRvoYRBO6qQIecdGYXzUeVIY6iem5mHpjXmO81Q1FTsSSGkSErJseOWA1vomTvhbY5zV9xYGdG5oihS+vppk+Sy3+zr/kgw8Os4S1RMhck5GzHqQngLxJY81LrtkOBnBUOiHPLG+oM8bOB33dIRs8BfOSB8gZTwE0NJ8U9u+YA3vzsEWq3Q5i7UvwNx1idFXUyGZJZr1DpQ2/Zqbt2ovBpCOel9wUeUGLDwI3ILNQ5zJClnW4gqI3/uYhjVPmY=;tof9Tea0zW7bbI4em8Q6nw=="
 ---

@@ -1,0 +1,82 @@
+---
+category: news
+title: "Intel expands AI career education program to 18 community colleges"
+excerpt: "Program will teach data collection, computer vision and AI model training to community college students in 11 states."
+publishedDateTime: 2021-08-03T13:00:00Z
+originalUrl: "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/"
+webUrl: "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
+type: article
+quality: 108
+heat: 148
+published: true
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+  - AI in Education
+  - AI Ethics
+
+images:
+  - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
+    width: 644
+    height: 362
+    isCached: true
+
+related:
+  - title: "Intel, Dell bring \"AI for Workforce\" program to 18 community colleges"
+    excerpt: "The program helps community colleges develop courses on topics like data collection, computer vision, AI model training, coding, and the societal impacts and ethics of AI technology."
+    publishedDateTime: 2021-08-03T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
+    excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
+    publishedDateTime: 2021-08-03T13:32:00Z
+    webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 63
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Top Trends Driving AI in Education"
+    excerpt: "The many benefits offered by AI technology are driving its demand in institutes and organizations. Increased government spending on upgrading the education sector should encourage the adoption of advanced devices and technologies to enhance the learning experiences for students."
+    publishedDateTime: 2021-08-02T01:29:00Z
+    webUrl: "https://www.eetindia.co.in/top-trends-driving-ai-in-education/"
+    type: article
+    provider:
+      name: eetindia.co.in
+      domain: eetindia.co.in
+    quality: 34
+  - title: "Convocation Ceremony - Lila Scholars on completion of AI Education Program"
+    excerpt: "WiselyWise is proud to conduct a Virtual Convocation Ceremony for 180 plus Lila Scholars who completed our AI Education Program."
+    publishedDateTime: 2021-08-02T00:47:00Z
+    webUrl: "https://www.eventbrite.sg/e/convocation-ceremony-lila-scholars-on-completion-of-ai-education-program-tickets-165402381977"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 32
+
+secured: "nkgWPq8hL+BcDePRrHNs4p7mLkQRg5vu4v6gVqz/dlJ9vBDFe50EnAxoX1Y9To9sfK8EzGtsiVTsAT5lM1xBfwaBSXVHkQtf9e24kChtM5i23u5v40tKcvl2Cg/wjtH03rj6QUZzQUtlqMS31AQkS4ZdnRdQQJtyxf+la43xRjtJ6PxYGOqiX47ecT189TyaVN8nCA48PESNltdcjcjyp6IYBlTsxD3P6HN+ziyXda5cygZkIsX8qR0CA0EYxV7z+IdHVfaqr/Xu7yL8ilA6M1ULVqxI8X915If7og/SMTnJt0rqfXhYuOf4w3K1bO58Fu2xD/COl5uEg/+krMhSM2tqrfLtGmrQpQCKi9sJK6k=;+2W1vRmRy4U3H1N7aKOGEw=="
+---
+

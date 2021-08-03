@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
 type: article
 quality: 104
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/MWL_Google_Pixel_6__Portfolio_Shot_650.jpg"
         width: 651
         height: 400
+        isCached: true
+  - title: "Google is Making its Own Chips for its Upcoming Pixel Smartphones"
+    excerpt: "Google has announced that it will be manufacturing its own custom SoC (system on a chip) called Tensor, which will debut within the Pixel 6 and Pixel 6 Pro Android smartphones. This means that the Alphabet-owned tech titan will be moving away from Qualcomm chips on its higher-end systems,"
+    publishedDateTime: 2021-08-03T13:30:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
+    images:
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/06/Google.jpg"
+        width: 800
+        height: 520
         isCached: true
   - title: "Google Pixel 6 / 6 Pro with the “Tensor” chip will arrive this fall"
     excerpt: "Pro with the \"Tensor\" chip will arrive this fall. There are unofficial reports that this device will launch in October"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Envision Healthcare deploys AI in radiology"
-    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
-    publishedDateTime: 2021-07-29T20:48:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 54
-    images:
-      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
     excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"

@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Envision Healthcare deploys AI in radiology"
-    excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
-    publishedDateTime: 2021-07-29T20:48:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=133081"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 54
-    images:
-      - url: "https://www.auntminnie.com/images/logos/logo_400.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Global Artificial Intelligence in Livestock Farming Market"
     excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
     publishedDateTime: 2021-07-30T14:30:00Z

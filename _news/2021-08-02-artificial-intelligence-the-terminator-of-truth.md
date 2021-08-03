@@ -7,7 +7,7 @@ originalUrl: "https://dailynexus.com/2021-08-01/artificial-intelligence-the-term
 webUrl: "https://dailynexus.com/2021-08-01/artificial-intelligence-the-terminator-of-truth/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Seeing The Future Of AI: An Introduction To Computer Vision For Safety"
+    excerpt: "Computer vision has exploded onto the technology scene over the past decade. Considered one of the most powerful types of artificial intelligence (AI), it has become the technology solution of choice for some of the most complex issues facing industries today."
+    publishedDateTime: 2021-08-03T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f1ea0713bed8d21910e1%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "fsbp34gaUDpma4LNgrWY64usQGDNw9CSYtImIytketH/UGyxhHaeYHp1ny7XiLNvTezzg9bAyx4Ep+wtTkfR1s64gU6J/rruJ1R5HAp2PAOLUNYIiD/1UHqIk9pNCZW71HtpWBlgA8B2oJCbfU/6cTzGuJGU5MB/q5SJJA6/rdbTbjCg/n7Bllsg7VnM9NTRT72n1IFYCOJ3NHPXAr8MfRD2wC5vkdp4jxUljol5XBdQNErvJNwbtQYET/ywSVKcufUWUkBX8cxIG5ZeyPO7o+Uk/iBtfPrIswWZHyumKBWTrb/U08k4tIleWW/JGFJRj/2FZHmAtftZC7HIPkPykV+MfSLrpgUHHymCxDBCsvyWzBvOpOHuWTtmPs2Uy5tY4XZML4jezsBpeNhRCgo4f1FywVO9fdKnczAbJoYbRpizSMJwoUlhp45O+ahMU7VsVGRgfAcgHQNN/S5aHAvEiGumPw6dThoGzikP/Srvuq4w2JCbv2jJ7OqZMh0f2uJJ2yRLeKLMAVmxeMYbnpr2OQ==;mzvi5tJ2E+gRJGN15B5QUA=="
 ---

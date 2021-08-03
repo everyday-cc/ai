@@ -1,0 +1,88 @@
+---
+category: news
+title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
+excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
+publishedDateTime: 2021-08-03T12:11:00Z
+originalUrl: "https://analyticsindiamag.com/nvidias-ai-startup-acceleration-platform-surpasses-8500-mark/"
+webUrl: "https://analyticsindiamag.com/nvidias-ai-startup-acceleration-platform-surpasses-8500-mark/"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/NVIDIA_AIM.jpg"
+    width: 1280
+    height: 680
+    isCached: true
+
+related:
+  - title: "Nvidia is tracking more than 8,500 AI startups with $60B in funding"
+    excerpt: "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion."
+    publishedDateTime: 2021-08-02T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/"
+    ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 191
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "The Most Popular AI Start-ups of India that One should Know about"
+    excerpt: "The use of AI is growing in India more than ever and the Indian startups are receiving millions of funds for their Artificial intelligence solutions. Here are the most popular AI start-ups of India that one should know about."
+    publishedDateTime: 2021-07-30T09:08:00Z
+    webUrl: "https://www.analyticsinsight.net/the-most-popular-ai-start-ups-of-india-that-one-should-know-about/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Startups-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
+    excerpt: "Sponsored Post] In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
+    publishedDateTime: 2021-08-03T12:13:00Z
+    webUrl: "https://insidehpc.com/2021/08/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
+        width: 455
+        height: 600
+        isCached: true
+  - title: "Nvidia’s Base Command Platform launches today, providing cloud access to accelerated AI computing resources"
+    excerpt: "Nvidia's Base Command Platform launches today, providing cloud access to accelerated AI computing resources - SiliconANGLE"
+    publishedDateTime: 2021-08-02T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/02/nvidias-base-command-platform-launches-today-providing-cloud-access-accelerated-ai-computing-resources/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/NVIDIA-Base-Command-Platform-August-2021.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "h7UMQDEX9jZX7A7hOx9htLJo2qFXUzR1IELXeG01g5D0OqMrwV09qJYvcuzwGI+vIielLxjaLyQ7ti4XYU5qQEuF8XWfL1ieOjZoMYqgBN0rNoboNKgcjN9fkC6A285C8nooXY8gKn8swPKFJh1sHcphzIFUoYuUtlyvrqasPU46QhJZbNT2VeOAwdE2pU7OYK4MXVfkEHy9lcH1Yhp+Iu3ol5Ai6Hxx6v7sNwyDxFXtuViqOOO+cQhbnizQ5CK5AgK7m+MiKw3kmiKTMB7V3lY3Otf74zY2WJRd4RnNutpv1GFREWnZjB4otqNGMNfmp+2NmKe7gbYYwAWW3m+IrdIBjARI2uD8sbMx0PzdWzk=;saiE/E+sXArPBRwDXKA/0A=="
+---
+

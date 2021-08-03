@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai
 ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 type: article
-quality: 91
-heat: 121
+quality: 191
+heat: 231
 published: true
 
 provider:
@@ -46,19 +46,33 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "CVEDIA Joins the NVIDIA Metropolis Program, Focusing on Synthetic Data to Accelerate Edge AI Applications"
-    excerpt: "Computer vision solutions provider CVEDIA announces today that it has joined NVIDIA Metropolis, a program designed to nurture and bring"
-    publishedDateTime: 2021-07-29T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cvedia-joins-the-nvidia-metropolis-program-focusing-on-synthetic-data-to-accelerate-edge-ai-applications-301344741.html"
+  - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
+    excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
+    publishedDateTime: 2021-08-03T12:11:00Z
+    webUrl: "https://analyticsindiamag.com/nvidias-ai-startup-acceleration-platform-surpasses-8500-mark/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1584618/CVEDIA_Logo.jpg?p=facebook"
-        width: 2286
-        height: 1197
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/NVIDIA_AIM.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
+    excerpt: "Sponsored Post] In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
+    publishedDateTime: 2021-08-03T12:13:00Z
+    webUrl: "https://insidehpc.com/2021/08/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
+        width: 455
+        height: 600
         isCached: true
   - title: "Nvidia’s Base Command Platform launches today, providing cloud access to accelerated AI computing resources"
     excerpt: "Nvidia's Base Command Platform launches today, providing cloud access to accelerated AI computing resources - SiliconANGLE"
@@ -75,6 +89,6 @@ related:
         height: 900
         isCached: true
 
-secured: "aY+yGOWrbFvD3y8aSMhAw2adCQk+INKfmgGoNjF6CDFGgluEjrpI1+Kdnz4vNLTdBn6K4AAbi3IHmgldGWh55LdG5p2tGOtRyUKjS7sjyPgIxpfBHxHKEVpc3cogcDdBNFQV/HLyCT0VOxH9S9BPRCNukCphIgyRrS9UXOBGIGZ9wMJAeOaEm390QtebEAN8abSm+xrwa/9OTqjzPiAiFV3JyNffkc7eC68Jst0WcjY40pDGLcWJbfmqJDsMagX5rGg+EsonWPaBU0PkhIgl61AnTGiZP9xvDsR2LqSnEti+gk7x1/8ibcImaBgkKwTt89fUU0rf/NuPiwQeSIMjntUWBm4dEQhBvnST0awqwkX/BuGmUhG+76PbaEUXKkI7f6hRZtcNC9a9atfg3397VUBrPl3dRNhtjqlp9QzzY/jfZy55BCYL5KAJh4MAbTR5VQyrg83feDt7pQMOCrjzrjhIUQHX7kqwyqfnK5R33K8wD12SihxDvyGxlOw9aQVBrkHCE1c777uoTvUBbzUflQ==;tXeBnaryweEWFLwA9XGcnw=="
+secured: "CgLdix4wU/yMYoEKhKmlIUbQtbZJRoO2tOPrHYdYt6wEqoZGy70ydvsJyTcq0nk/O3IKjnpgmOoTtSCuzcl/DZMZXlRPvzXKC4jXyhBZmHqzkt/PyZ2of1/RBs+3yxAN4z2wf62YAODyPN6pfTq/SONPVlQN/W14hMXgNwVb1g/E7ovQyYGdrG76jlJOImBnFGkdpA+5ueKNX1xiXBIlwQHsrKMzyXRBthpoXgOWzT7Jzw4GXDnMH1TxFb7BYhcSnBmBdKiC5lzFCBbKsaoLGu5pCDZ+/MwIgfyKtaQ7jO0MmwmhUezrZa9WP+otq/bKPy1kJ5WHx7VJJxTiuSuXQq9kQ7U6B7jQ7ZW6vy255o8qh7ZOtunyNMuea92S2weh04CRdW4aM7DmvEGIQWUQV/y1W8Pynw948K1zYDMxANGjcqtkRtM6CZQb24HX4Qt/4fBMfW3tgBjcToc635SZ7kbrNrVauBfsz1J8HVCKZXGqjatyCp9R5IILijDrtTpSyzsHGoxQlkQDB2NO/BsstoNQBZS9wguhJZsPZnF4tuc=;9lx/3NywaYDR3vEJLmgUKA=="
 ---
 

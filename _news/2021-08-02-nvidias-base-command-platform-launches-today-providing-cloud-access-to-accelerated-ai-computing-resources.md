@@ -34,7 +34,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 91
+    quality: 191
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
         width: 1200
@@ -54,19 +54,33 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "CVEDIA Joins the NVIDIA Metropolis Program, Focusing on Synthetic Data to Accelerate Edge AI Applications"
-    excerpt: "Computer vision solutions provider CVEDIA announces today that it has joined NVIDIA Metropolis, a program designed to nurture and bring"
-    publishedDateTime: 2021-07-29T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cvedia-joins-the-nvidia-metropolis-program-focusing-on-synthetic-data-to-accelerate-edge-ai-applications-301344741.html"
+  - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
+    excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
+    publishedDateTime: 2021-08-03T12:11:00Z
+    webUrl: "https://analyticsindiamag.com/nvidias-ai-startup-acceleration-platform-surpasses-8500-mark/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1584618/CVEDIA_Logo.jpg?p=facebook"
-        width: 2286
-        height: 1197
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/NVIDIA_AIM.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
+    excerpt: "Sponsored Post] In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
+    publishedDateTime: 2021-08-03T12:13:00Z
+    webUrl: "https://insidehpc.com/2021/08/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 33
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
+        width: 455
+        height: 600
         isCached: true
 
 secured: "evpubaE2vBYMGpt5XAiBq92HACtc3m1qQ0VwsMzouiByu0woMIvYH25FNMXW77d8RJWpWNKR0f128UxcsTTqpNV0+8N7+c9F8B60pzFY3cviUgp2mtqPBKzGR2ovLunKQAT7TwNCa15zrUXsCGy3cWMBnBU5HgJheW0OdgXF7ehy3k4wVd2xKULHjaVixK256Lwuuey0nLuBAj0HfIqC+pCMDcqOlSIdcfPAFGW4DVCuem/urdFxWxlnns2/nNs64Cf14KdjIDWrwgEECoqZc5wAxGL8iL/MssgVVOK2xqTpYFvR6Ssc0xTbm0cblBoKuha19EuKFtEIhKk6NhJjwiANPXZ0cZKTJLoTTIe31kKjGDdMBxztJduzj8CYn+Ea6EdhnDkTY1tLNysTyavdXvRzsEKnW/6XO2+/D4UVR7Eht8zi9KyI/hzKG1wCDG8R6biQqui1GqlUVQjqmTkcXgGHCK0x9C3hgvQ8xUQm5R664cjtF6pTIPlBONU2J1kCRC+nKe8kOLIP9y3tAdADXg==;2lPW3oW/Xwy07l6INH6D/w=="
