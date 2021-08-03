@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-i
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,38 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Intel, Ministry of Education launch 'AI For All' in India"
-    excerpt: "Chip maker Intel on Thursday partnered with Central Board of School Education (CBSE), Ministry of Education to announce the launch of an initiative -- 'AI For All' -- that aims to create a basic understanding of Artificial Intelligence (AI) for everyone in India."
-    publishedDateTime: 2021-07-29T13:53:00Z
-    webUrl: "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12"
+  - title: "India’s top 10 Cheapest Humanoid Robots are Competing in AI Race"
+    excerpt: "Humanoid Robots have been gaining popularity in India and are competing in the Artificial Intelligence race. The robots are based on New-Age Technology and Machine Learning."
+    publishedDateTime: 2021-08-02T09:16:00Z
+    webUrl: "https://www.analyticsinsight.net/indias-top-10-cheapest-humanoid-robots-are-competing-in-ai-race/"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 76
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
     images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg"
-        width: 600
-        height: 337
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Humanoid-Robots.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "CBSE and Intel Launch Free Online Course on Artificial Intelligence in 11 Vernacular Languages"
-    excerpt: "CBSE and Intel launch a free online course on artificial intelligence available in 11 vernacular languages that anyone interested can sign up for"
-    publishedDateTime: 2021-07-29T13:15:00Z
-    webUrl: "https://www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/"
-    ampWebUrl: "https://www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cbse-intel-launch-free-online-course-artificial-intelligence-11-vernacular-languages/amp/"
+  - title: "Disclosure: What is the Future of Artificial Intelligence in India?"
+    excerpt: "This article discloses the future of Artificial Intelligence in India with AI models and R&D projects for the development of the country and boost revenue. The future of Artificial Intelligence will gradually show some light and hop in India."
+    publishedDateTime: 2021-07-31T09:30:00Z
+    webUrl: "https://www.analyticsinsight.net/disclosure-what-is-the-future-of-artificial-intelligence-in-india/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 45
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 19
 
 secured: "StHd+xVMHerF1FTROCiyVdF87c454WhgBiL3YKU4U1Tm0j6XQtn4IN4w3DAIJs46cxg1NrVqeLj3s772Du3zokaYbhO/rNDufXRn8n+cfqJkc8ilHa65mA/RDUMJMgdyf8l8rvmDoc6U9JzjW0oYro/ANMKzamGFyngnwbpvB2pgSuX5uczJ+ehGjt1OXe0fNztjGn6y7Xvzhnx10iyufwF5dOR/wmiDNePNuoKVRZHXFCE6+NrH50Fhk8u4TXhvQfawLcZOduF0buj6ciIYXIFfYyv1jNDZbStLFpTSub6Oqz4m72BRX1PwEJlbc62d4c8nF8dWLQ7lpgNvQQpY9coRQ/s6sgCDttXyw9Df1tg=;k9ORdHxOZ56K9HjdKEoWqA=="
 ---

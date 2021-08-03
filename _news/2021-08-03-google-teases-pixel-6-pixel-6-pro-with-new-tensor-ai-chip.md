@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "The Pixel 6 and Pixel 6 Pro are coming with a new chip, AI, and a 4x zoom camera"
-    excerpt: "Google has given us a tantalizing preview of the Pixel 6 and Pixel 6 Pro smartphones, complete with a new custom chip called the Tensor, before a fall launch."
-    publishedDateTime: 2021-08-02T16:50:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
+  - title: "Pixel 6 to Use Google's Own Chip: Meet Tensor, a Processor Focused on AI"
+    excerpt: "Expect the new chip to power some features exclusive to Google’s next-generation Pixel phones, including voice commands, translation, and dictation."
+    publishedDateTime: 2021-08-02T17:06:00Z
+    webUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai"
+    ampWebUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 99
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 103
     images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-6-preview.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://i.pcmag.com/imagery/articles/05VQHCNKqGmFzoopA8rHIz2-1.1627923313.fit_lim.size_1200x630.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Google is building its own chip for the Pixel 6"
+    excerpt: "Google just dumped a whole bunch of news about its upcoming Pixel 6 smartphone. Maybe the company was looking to get out in front of August 11’s big Samsung event — or perhaps it’s just hoping to keep people interested in the months leading up to a big fall announcement (and beat additional"
+    publishedDateTime: 2021-08-02T17:50:00Z
+    webUrl: "https://techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/"
+    ampWebUrl: "https://techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/google-tensor.jpg?w=1000"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "Google previews its AI-focused Pixel 6 chip"
+    excerpt: "Google is revealing some of the details of its Pixel 6 and Pixel 6 Pro, and they have a new focus on artificial intelligence."
+    publishedDateTime: 2021-08-02T22:56:00Z
+    webUrl: "https://www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/"
+    ampWebUrl: "https://www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/amp/"
+    cdnAmpWebUrl: "https://www-pickr-com-au.cdn.ampproject.org/c/s/www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/amp/"
+    type: article
+    provider:
+      name: pickr
+      domain: pickr.com.au
+    quality: 74
+    images:
+      - url: "https://www.pickr.com.au/wp-content/uploads/2021/08/CE29DB44-E321-4923-A54D-A7FE79E42149.jpeg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
     excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
@@ -98,6 +130,34 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio_Shot_345IXG4.max-1000x1000.jpg"
         width: 1000
         height: 588
+        isCached: true
+  - title: "Google Reveals its Own Mobile Chip Named Tensor"
+    excerpt: "The Google Pixel 6 will be the first phone to use Google‘s all-new Tensor mobile processor, the first system-on-chip designed by Google. The chip is named after Google’s open-source machine learning platform,"
+    publishedDateTime: 2021-08-03T04:06:00Z
+    webUrl: "https://hypebeast.com/2021/8/google-mobile-chip-tensor-introduction-info"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fgoogle-reveals-its-own-mobile-chip-named-tensor-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
+  - title: "Google Pixel 6 and Pixel 6 Pro officially revealed — meet the Tensor chip"
+    excerpt: "But it did note it will come with the new Google Tensor system-on-chip (SoC), which aims to bring in more AI and machine learning features to the next-gen Pixels. Before we dig into that, the most striking thing about the Pixel 6 and Pixel 6 Pro is its design."
+    publishedDateTime: 2021-08-02T17:17:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-6-and-pixel-6-pro-officially-revealed-meet-the-tensor-chip"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 38
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/3H4nqYx5NvpyqpHY6u4aNU-1200-80.jpg"
+        width: 1200
+        height: 703
         isCached: true
   - title: "Google will produce its own in-house AI chips for upcoming Pixel 6 and Pixel 6 Pro after Android smartphones used Qualcomm processors for 15 years"
     excerpt: "Google's upcoming Pixel 6 and Pixel 6 Pro smartphones will use its in-house processors, the Google Tensor, marking a departure for Android devices, which previously used Qualcomm chips."

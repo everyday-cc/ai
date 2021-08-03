@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-03T04:15:00Z
 originalUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
 webUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-1.jpg"
@@ -56,6 +57,6 @@ related:
         height: 1193
         isCached: true
 
-secured: "bsOJeVDV1Vgg5fW8FdtRcFY3M2H6ohyLpJ9jsJ3wDHIbJh5pA6ECcUmTD8VV2PJJrRcBbzzRYTQVF+vYew3lPa0MMKuxnckX2YfVxkCzE03nNicll4N2D9CjuJCGEuAQBB/XWW/qQXxzQVIsK716C1sp8B5fXplaqKWnrNjaEw7OXOtK+Lmpoh+hQb8Pi6S3roAJalCjl2TOiT2+LFGvyCwkv9Uf1sdxafQIcjhdAdI7/8jdqSvgt5SVzGMQqe1VCxphB9gzbun8i7BE9iYpeEGXy8MjOEl9/W7jkkSTzAB7MRk6AnSVQ4RLrO1LDBoxxIIjGYNtwYlsN61l6REd9w3P5aDGq8SahfokUFgam1c=;oXKj5Rmtw35Z79nv18Ng6g=="
+secured: "4G9xosdUH1uB0epJX3ukjJjzcIaQ0dFWIGngOWlVfj5ORCS7W7Wl5/i+cARxXlHoIAdaHehk4ceF5EvDFPBgKzdTg8g93SXNfVg8YPpdwFs1aidmYldzb5gG2900Wjd0F2QhR1rjFmTFXuk6NckH7I+q0CdFm4835jE9Brv8jODxTmAIm0Ohw+Y9vSTBxWIshUFa03MRUri6tzC3PieeuNH7C3w4molaJKGZUNAPZnaBNo3iXjWBIVY3ngetN75yl3atod9kXujzODFNdJMEUhWaLdzVgj/WXhuXh7YRlHjQyXUFAR9Esh3FwK9riIz4tZWU/G9Rl6kkagCmwcmaVxVzNdaBY+ljMsIJlFPGAnWzY4KRR2fiFZnlONuBRMbOvEbqpB/CfMTLSDIJNn/BNVDQPPZhW1X9GUnKyTvEA4J5QQLvGm6bO0AsSE+Sloh1KjS2msYJtYglPQmI+SMg+NXG9osgw3ZJ/10ObKuE4mHvDgWeAbFe+4qeECJE8VGQ9GxjrZnCOE40ID+bqP4m+Q==;7MNEQbZzMS2lZ3i4W88jFg=="
 ---
 

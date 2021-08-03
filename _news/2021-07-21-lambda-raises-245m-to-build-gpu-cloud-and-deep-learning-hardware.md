@@ -3,12 +3,9 @@ category: news
 title: "Lambda Raises $24.5M to Build GPU Cloud and Deep Learning Hardware"
 excerpt: "Lambda, a leading provider of deep learning GPU cloud services and computing hardware, today announced that it has raised $24.5M in financing. Primary investors include 1517, Gradient Ventures, Bloomberg Beta,"
 publishedDateTime: 2021-07-21T13:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210721005232/en/"
-webUrl: "https://www.businesswire.com/news/home/20210721005232/en/"
+originalUrl: "https://www.businesswire.com/news/home/20210721005232/en/Lambda-Raises-24.5M-to-Build-GPU-Cloud-and-Deep-Learning-Hardware"
+webUrl: "https://www.businesswire.com/news/home/20210721005232/en/Lambda-Raises-24.5M-to-Build-GPU-Cloud-and-Deep-Learning-Hardware"
 type: article
-quality: 51
-heat: -1
-published: false
 
 provider:
   name: Business Wire
@@ -19,31 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing"
-    excerpt: "Fero Labs, the only Explainable Machine Learning software solely dedicated to the industrial sector, today announced the closing of a $9 million Series A round led by Innovation Endeavors, with participation from Deutsche Invest VC."
-    publishedDateTime: 2021-07-21T14:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Enforcing Intelligent Learning-Based Security in the Internet of Everything"
-    excerpt: "The exponential growth of the Internet of Everything (IoE), in recent times, has revealed many underlying security vulnerabilities of the nodes forming IoE networks. The extension of conventional security protocol to these devices has been greatly complicated by the prevalence of restricted computational hardware and limited battery life."
-    publishedDateTime: 2021-07-23T05:49:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9490314"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 19
-
-secured: "WB7GQF43pMWX9/XAce2J3gAhdrxZbRZ6s2m4GoK7fNh5fMWfbw0qP+IIz3WrQdeKvfzDSkQebxie3yXRuECObWehtl9fDZ2lm8InS7Ly0WfDk1UFPt+wU2ESKRMRXbHGzUz4r+hfQiykQHnnEvqgLbvopp7neQEypnkU83tYHaebPBdaBf9TkUkFsBxoV0tZYugmWJ0Jz0zSvD4nPWyXetxSaLjdLQEESo+EoHi2yJBj+Y+hPagqeszJSBf6sUTFBR81rPSxdcpxr2ZnqMoYhiQGkCktffkT/+sH2qf9o95hzKECM0ZPZlBjfgs7ahWXCtbwzLeJAQNIkhJDxVYE1djGl3w+gS1kkHQpDwQHP+E=;9JFRrQO2CogKwATjfnIqZA=="
+secured: "QzjtHK4aKByqvoOJ3ZkK4gldjOTHwC8OCeuYo25SI+ckhd0u06Lvui2i44Wy8fm8VhMpXt+lQLPO3DIon6TmVEIol5CxPf+9w99HqzbM0j33z2aF/sPa+El0cth985TL4fcYYn4JKUOwRKdVjXOHmdcX/jp/gakWIsCsZysCARmhBgFHNEYyBtaQCEh3luTDLJkqhy3eV9PRt+YD2ebDnBczrpsZ6q2FXE1XlQSMKm/nQeBcehUVf95gr+RmgPwOsavUwV2ppFiCFAFzLgbZEVXZYnT+suDfAjSfrKnXyKI8Sh7OcwaJStBZQleEwYF2c0MCVUKwXcdU9/UBZIgbpiucj0ITSGFJXVAnzPEdbnh76RAXM68mgm1LjdaoqfXJ6rRsfi0vRAOuPgLc2tWQpfRTx0EoaM+D+ciFPN6SN2ok2LEJjzHniratiKPVW1JlsX0PKMKfprlFqlFUkEi8z5dWAe4Ayz7RiwHyZEAqSulVNS5KocgfYr4kJjM1N/JDwBzD88OcnVm9qnRyeliNOw==;kc2IKCOhki5d8m2UhRyzSw=="
 ---
 

@@ -87,20 +87,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "NSF partnerships expand National AI Research Institutes to 40 states"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T15:01:00Z
-    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 41
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/AI_map_f.jpg"
-        width: 350
-        height: 220
-        isCached: true
   - title: "CMU Puts AI To Work in New NSF-funded Institutes"
     excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
     publishedDateTime: 2021-07-30T13:34:00Z

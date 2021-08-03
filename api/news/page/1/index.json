@@ -10,7 +10,7 @@
       "originalUrl": "https://www.yumpu.com/en/document/view/60845191/artificial-intelligence-in-retail-market-to-grow-at-40",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -235,58 +235,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-google-is-building-its-own-chip-for-the-pixel-6.md",
-      "title": "Google is building its own chip for the Pixel 6",
-      "excerpt": "Google just dumped a whole bunch of news about its upcoming Pixel 6 smartphone. Maybe the company was looking to get out in front of August 11’s big Samsung event — or perhaps it’s just hoping to keep people interested in the months leading up to a big fall announcement (and beat additional",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/",
-      "originalUrl": "https://techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/google-tensor.jpg?w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/google-is-building-its-own-chip-for-the-pixel-6/amp/",
-      "publishedDateTime": "2021-08-02T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-ai-driven-hr-seeks-to-balance-human-and-resources.md",
       "title": "AI-driven HR seeks to balance ‘human’ and ‘resources’",
       "excerpt": "Human resources is an area that is ripe for automation, and in particular, the kind of automation made possible by artificial intelligence.",
@@ -338,6 +286,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai.md",
+      "title": "Pixel 6 to Use Google's Own Chip: Meet Tensor, a Processor Focused on AI",
+      "excerpt": "Expect the new chip to power some features exclusive to Google’s next-generation Pixel phones, including voice commands, translation, and dictation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai",
+      "originalUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05VQHCNKqGmFzoopA8rHIz2-1.1627923313.fit_lim.size_1200x630.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true",
+      "publishedDateTime": "2021-08-02T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-the-pixel-6-and-pixel-6-pro-are-coming-with-a-new-chip-ai-and-a-4x-zoom-camera.md",
       "title": "The Pixel 6 and Pixel 6 Pro are coming with a new chip, AI, and a 4x zoom camera",
       "excerpt": "Google has given us a tantalizing preview of the Pixel 6 and Pixel 6 Pro smartphones, complete with a new custom chip called the Tensor, before a fall launch.",
@@ -346,7 +346,7 @@
       "originalUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -450,7 +450,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -598,7 +598,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -884,7 +884,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/iit-delhi-sets-up-chair-in-artificial-intelligence-4035212.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {

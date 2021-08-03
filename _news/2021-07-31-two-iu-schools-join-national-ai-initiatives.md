@@ -47,20 +47,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Case Western Reserve University among leaders in national Artificial Intelligence initiative"
-    excerpt: "Computer and Data Sciences Chair Vipin Chaudhary heads collaboration with Ohio State, Indiana and others to bring AI into daily life Vipin Chaudhary,"
-    publishedDateTime: 2021-07-29T14:36:00Z
-    webUrl: "https://www.miragenews.com/case-western-reserve-university-among-leaders-604732/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 26
-    images:
-      - url: "https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2021/07/26/impact-ionization.PNG?itok=6Jf5-hix"
-        width: 480
-        height: 226
-        isCached: true
   - title: "8 Things You Didn’t Know About Gold Mining Automation"
     excerpt: "Innovations in automation have transformed the gold mining industry by increasing efficiency, productivity and safety. As mines get increasingly deeper, grades increasingly decline and investors pressure companies to adhere to global environment,"
     publishedDateTime: 2021-07-29T20:15:00Z

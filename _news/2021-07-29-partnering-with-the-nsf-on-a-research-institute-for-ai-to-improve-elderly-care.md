@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
 type: article
 quality: 105
-heat: 235
+heat: 225
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/224b369c-e6b8-4ac4-b757-7648ec3e912f/Rendition/low-res/Content/Public"
         width: 700
         height: 467
-        isCached: true
-  - title: "NSF partnerships expand National AI Research Institutes to 40 states"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T15:01:00Z
-    webUrl: "https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 41
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/AI_map_f.jpg"
-        width: 350
-        height: 220
         isCached: true
   - title: "NSF Launches Artificial Intelligence Research Center at Duke"
     excerpt: "The National Science Foundation today announced the creation of 11 new research institutes devoted to Artificial Intelligence, including one at Duke and one at NC State University. The $220 million total investment comes after a $140 million NSF investment created seven other AI institutes last year."

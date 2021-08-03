@@ -62,20 +62,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Case Western Reserve University among leaders in national Artificial Intelligence initiative"
-    excerpt: "Computer and Data Sciences Chair Vipin Chaudhary heads collaboration with Ohio State, Indiana and others to bring AI into daily life Vipin Chaudhary,"
-    publishedDateTime: 2021-07-29T14:36:00Z
-    webUrl: "https://www.miragenews.com/case-western-reserve-university-among-leaders-604732/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 26
-    images:
-      - url: "https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2021/07/26/impact-ionization.PNG?itok=6Jf5-hix"
-        width: 480
-        height: 226
-        isCached: true
   - title: "Three Game-Changing Innovations for Those With Hearing Loss"
     excerpt: "New technology from Google Research and Vuzix as well as medical advances from Eli Lilly and Novartis could make a significant difference in the near future."
     publishedDateTime: 2021-08-02T00:00:00Z

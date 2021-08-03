@@ -141,6 +141,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 34
+  - title: "Aerospace Artificial Intelligence Market Growth Focusing on Trends & Innovations During the Period Until 2028"
+    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43."
+    publishedDateTime: 2021-08-02T10:35:00Z
+    webUrl: "https://manometcurrent.com/aerospace-artificial-intelligence-market-growth-focusing-on-trends-innovations-during-the-period-until-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 18
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "kPA69jnmukcTAYLnu2trBWOZ7jxBgY3VSuVRF3q72B8SgHce2xERtnBw8gyeICCl817AfuRqC3ekHV45xpsEdYoYph/RzYvanbHOlrJETxm9UUuzzxSAOgPaPZYwJGICM6/eLWEi2BiveFH6zCbQR2Xi0io+VTbchE2hu/N4Lj4wli98prWEKziaboC2RldelIh/f4RexE6hGRd5heZ1BSx/aYxC+2kPtGRNvQDFmJxkNu0Vigs88U+cdXRazn6Eeg1nc/cQAXxdAu6lhlIYW90RYY4Sf/yuLhNXsqpJnBMpVZVlKz1nbFb4vrcZckx6rVAB/1ObPTrALoDupNvSQ8J4DpeTO/B7Sv39VGyr02mPmRQ0qH3cUjMS+hpJzBjpkjE19mu6awhiUL1wDy0V8aa5hoQrL2xNPFq8kSXG/9knCLvJsnMr9MWFDVkqTYi1Uc9gjkw4N4qO2Uw+FIdDXTscLIo5WKMuEdUX4wfHLQzjK/WiHcTivyOd3oyVJI/otY+HRxUlokFJCFZvChAa4A==;xMCmUqUkhVeDxdiildrJeA=="
 ---

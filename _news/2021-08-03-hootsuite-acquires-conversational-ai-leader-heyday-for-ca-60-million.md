@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-03T05:40:00Z
 originalUrl: "https://www.hootsuite.com/newsroom/press-releases/hootsuite-acquires-conversational-ai-leader-heyday-for-ca-60-million"
 webUrl: "https://www.hootsuite.com/newsroom/press-releases/hootsuite-acquires-conversational-ai-leader-heyday-for-ca-60-million"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.hootsuite.com/dist/images/placeholders/social-share.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     isCached: true
 
-secured: "o3Pk6Bz//lyj/GQS4wHAfWwiqb2xj+u8kRfdZSzaxoTI3aCzaB+THUj0Oufqr6EMm+dWCQ8WYNOXpX1aFthFTjk/Nv1Zl6GPsKDp4IZAS/lkt2k/BKYNaOROricCqussnXZXRReLnFXZYfIyJMhn7KpMCf0PufliA7kV2AC7yQkkFjnpIs7r0iX+agYDDj95rvWtXHKgK8PAFLUrRX/hrnKqBgX1CDZooKlYn1AyNEJkvlcQFPbE37D3htmgydxr8EAbyaIOeyKuHQ4uIlSGTNg1yJ9sVON0bXnerugh3SYxt7293rshLzcgLE0NgjfufAxTPBs4BkjYBDszGC5PbbVJgNHRAXxYbs9npzP5+p8=;MB6WR+R+bL+2tkUgRHLrbg=="
+secured: "1BSycL2IyhPIiwNLysSUd8gqVZv9X6l9i4vOOJ6Zdxv9i8/To9xTYeXIz21OLpP57yE3i8qc/nsd3gDU0TuMgRSG5NUU5xM1vQwlTKo85WSUUUsqtniyUKYMeKUEw6a3unyH9li4x2fLfHV2fWocDz9MPIY+ldeQAPEHXOn6RZDpWNYiLxY6QaCpAJF5USpUIZW76+o67wREm0/m29iqc7taVhNBY6kjoci5yTMKcKnwmgMK0pI0z+7POEIQ9jcuuLAXBBXnbC2nDzElD56AqlBmDJKwzMjaNked0WPQ8eqTAc8xCxcyKSfkAShNl7Iclu9bUWaD1Vk+2EK8ChNiPiHifU3nWLhUgCsZ2xNtREM7djgzL22HxnZ+MmfBfHhIxGXwDhrZMNO47SbJpHRSg1tvizN1xhL+BZQ9os2QQEtb5kQdV90A6vyEm6XgRLK7Sh1c13ORZgC7nzY3LRbWz0d2iH6VKmbEJSW9wasFc9DDu9gDL55CkR7NVLM/IkGeTKCCzDmJ97kvbHAmL6tPdQ==;O7EkAqmHSyWfP25dRZ65sQ=="
 ---
 

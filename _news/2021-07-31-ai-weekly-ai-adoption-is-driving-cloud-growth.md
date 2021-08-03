@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

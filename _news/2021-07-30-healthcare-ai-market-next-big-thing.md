@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 178
+heat: 186
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 34
+  - title: "Aerospace Artificial Intelligence Market Growth Focusing on Trends & Innovations During the Period Until 2028"
+    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43."
+    publishedDateTime: 2021-08-02T10:35:00Z
+    webUrl: "https://manometcurrent.com/aerospace-artificial-intelligence-market-growth-focusing-on-trends-innovations-during-the-period-until-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 18
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
     publishedDateTime: 2021-07-29T21:42:00Z
