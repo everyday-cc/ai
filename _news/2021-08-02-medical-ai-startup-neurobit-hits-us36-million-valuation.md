@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Medical AI startup Neurobit hits US$3.6 million valuation"
-excerpt: "Medical artificial intelligence (AI) company Neurobit has announced its completion of angel round today, saying that since the seed round, the Taiwan-based startup has secured over US$1.1 million investment."
-publishedDateTime: 2021-08-02T01:12:00Z
-originalUrl: "https://www.digitimes.com/news/a20210802VL200.html"
-webUrl: "https://www.digitimes.com/news/a20210802VL200.html"
+excerpt: "Taiwan's TV shipments went down 34.2% sequentially to reach only 6.26 million units, due to seasonal factors and shortages of... Taiwan LCD monitors – 1Q 2021 Taiwan's PC monitor shipments in the first quarter of 2021 went down 9."
+publishedDateTime: 2021-08-02T04:33:00Z
+originalUrl: "https://www.digitimes.com/newsshow/related.asp?datePublish=2021/08/02&pages=VL&seq=200&chid=11"
+webUrl: "https://www.digitimes.com/newsshow/related.asp?datePublish=2021/08/02&pages=VL&seq=200&chid=11"
 type: article
 quality: 37
 heat: 37
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitimes.com/newsshow/20210802VL200_files/2_b.jpg"
-    width: 640
-    height: 427
+  - url: "https://www.digitimes.com/images/2021/03/25/6237_r.jpg"
+    width: 336
+    height: 224
     isCached: true
 
-secured: "xPDpQTt6i1msbK/L8+tx5cZOHRD8qA4qUkztqZc124XUGmwyUo0WRjYg6Gk6IdTt7hcOQoZGLWHk85uIEBoUyIo8AdujbqyklWpCUopyuT9dNJsoNoew0hslYvgxnVSpHq4I30mrEX3IoP/5Zlu1Q6mXekUucahA7nR6UjAfzuhAo/hvz7coEGLR5Lzkh9bA+Yi2rDTHE4fG5ZGFIhG/COQirAeYOSVeUuo76OUBLkFKgha0n0XktYpRE9gWegszRxNfJAQv11MwOFukpA/6E6WoISR+L/NVpebjYgfcxEtHcxmRsZdU6g+A0lGwdtuIcvpDHRJBm1m5SNbfkD35IEvirv5RDMeXkON7Nl63OdvKgdJ3t21nxUdVQ7tZ88Z4v4h0qNnaedEOY5yrReXuxTIqV6GcuoxgnR9ZL6DvSfCsiVPjibyq6ZC0mGtXlgMfdHWr31vWAI+1pkbFpDmB5c/ynRN+Tg9f1GDwJEGCgET2lVrIsglhFmFHs8Wi7hEmpScwkfJP7n/D9xQWNPO1EQ==;i8b/rhrSQWR7cPHc3kC7eA=="
+secured: "AkQzhs/w8WLywwwPm3wW2SuIzEiYTzbwWK39ZHhw3U+9gaBgZOGttPhFxiK7V/7NH/BNzvsN/dZkwMF3rZIZhw7raAqLvYoBYHxi1q8nSSJ4zeq+C1CVkpL+x6baOuFrAS4XG2zjr+GE5ik/3wESYYb0frPk5ekr/bUzU6dKBArT6szuBUvY8Fp0BKOli4XI3xRmo6PK9OddM3xRrlpDCVBv0JCvhsYwbrWPrCHAOwPzgRWaFj0PThIeKkbGRcLhWZP1NA5+ZNHFbvBgvzHI39t5wcBqOpSyQynYaHX7rLK6PpYJ2GGOsIxvrU35XxNRcgVq7wQfnf7ST6NUxdmI5LWinJD8pS1EjAWGErR3GKs=;5DiwxGjw6LywIc7cEXf3ww=="
 ---
 

@@ -1,16 +1,14 @@
 ---
 category: news
 title: "Pixel 6 to Use Google's Own Chip: Meet Tensor, a Processor Focused on AI"
-excerpt: "Expect the new chip to power some features exclusive to Google’s next-generation Pixel phones, including voice commands, translation, and dictation."
+excerpt: "But expect the new silicon to power some features exclusive to Google’s Pixel phones concerning voice commands, translation ... with a relative in another language, Pixel will be there ..."
 publishedDateTime: 2021-08-02T17:06:00Z
-originalUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai"
-webUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai"
-ampWebUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true"
+originalUrl: "https://uk.pcmag.com/mobile-phones/134841/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai"
+webUrl: "https://uk.pcmag.com/mobile-phones/134841/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai"
 type: article
-quality: 103
-heat: 203
-published: true
+quality: 85
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -21,11 +19,12 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05VQHCNKqGmFzoopA8rHIz2-1.1627923313.fit_lim.size_1200x630.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/pixel-6-to/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focu_hdz4.1200.jpg"
     width: 1000
     height: 563
     isCached: true
@@ -47,92 +46,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
-    excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
-    publishedDateTime: 2021-08-02T16:32:00Z
-    webUrl: "https://www.engadget.com/google-pixel-6-pixel-6-pro-first-look-tensor-processor-better-cameras-160005582.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/9a6bfa10-f282-11eb-bbdf-ac92842b242f"
-        width: 1600
-        height: 942
-        isCached: true
-  - title: "Google Pixel 6 release date, price, Tensor chip, specs and news"
-    excerpt: "Google has announced the Pixel 6, and it's providing a bunch of details about its two new phones ahead of their fall launch. The biggest news is a new system-on-chip called Tensor that is designed to provide the Pixel 6 series with a bunch of AI powers we haven't seen before."
-    publishedDateTime: 2021-08-02T18:26:00Z
-    webUrl: "https://www.tomsguide.com/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-6-release-date-price-tensor-chip-specs-and-news"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ziSpUASpapNeGbgkc5GD3i-1200-80.jpg"
-        width: 1200
-        height: 598
-        isCached: true
-  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
-    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, a"
-    publishedDateTime: 2021-08-02T23:03:00Z
-    webUrl: "https://www.efe.com/efe/english/world/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-the-max/50000262-4600653"
-    type: article
-    provider:
-      name: EFE
-      domain: efe.com
-    quality: 54
-    images:
-      - url: "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMj5TZSs7fWItB0HNHBkrfGQQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UOVbGRy2zIJ-P-2f-P-2bbX0TxGz1Hg-P-3d-P-3d"
-        width: 600
-        height: 353
-        isCached: true
-  - title: "Google previews new Pixel phones with AI-optimized Tensor chip"
-    excerpt: "Google LLC today previewed its next two Pixel smartphones, which the search giant says will be powered by an internally-developed chip with an embedded machine learning module. The Pixel 6 and Pixel 6 Pro are set to become available for consumers in the fall."
-    publishedDateTime: 2021-08-02T19:10:00Z
-    webUrl: "https://siliconangle.com/2021/08/02/google-previews-new-pixel-phones-ai-optimized-tensor-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio_Shot_345IXG4.max-1000x1000.jpg"
-        width: 1000
-        height: 588
-        isCached: true
-  - title: "Google teases Pixel 6, Pixel 6 Pro with new Tensor AI chip"
-    excerpt: "Google has teased its Pixel 6 and Pixel 6 Pro smartphones ahead of a launch later in 2021, smartphones using a new custom-designed Tensor chip."
-    publishedDateTime: 2021-08-02T17:15:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/02/google-teases-pixel-6-pixel-6-pro-with-new-tensor-ai-chip"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 54
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43543-84667-google-pixel-6-and-pro-xl.jpg"
-        width: 1312
-        height: 731
-        isCached: true
-  - title: "Challenges For New AI Processor Architectures"
-    excerpt: "Investment money is flooding into the development of new AI processors for the data center, but the problems here are unique, the results are unpredictable, and the competition has deep pockets and very sticky products."
-    publishedDateTime: 2021-07-29T07:05:00Z
-    webUrl: "https://semiengineering.com/challenges-for-new-ai-chip-architectures/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/2019/01/BigDATA-medium.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google Pixel 6 and Pixel 6 Pro officially revealed — meet the Tensor chip"
     excerpt: "But it did note it will come with the new Google Tensor system-on-chip (SoC), which aims to bring in more AI and machine learning features to the next-gen Pixels. Before we dig into that, the most striking thing about the Pixel 6 and Pixel 6 Pro is its design."
     publishedDateTime: 2021-08-02T17:17:00Z
@@ -147,37 +60,7 @@ related:
         width: 1200
         height: 703
         isCached: true
-  - title: "Google will produce its own in-house AI chips for upcoming Pixel 6 and Pixel 6 Pro after Android smartphones used Qualcomm processors for 15 years"
-    excerpt: "Google's upcoming Pixel 6 and Pixel 6 Pro smartphones will use its in-house processors, the Google Tensor, marking a departure for Android devices, which previously used Qualcomm chips."
-    publishedDateTime: 2021-08-02T18:31:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/Google-launch-processor-upcoming-Pixel-phones.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 36
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/08/02/19/46198755-0-image-a-75_1627928610656.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Google’s upcoming Pixel 6 will feature a brand-new chip and a big-ass camera bar"
-    excerpt: "It’s been five years since Google first launched the Pixel line, and now it’s time for the sixth iteration. The Pixel 6 and Pixel 6 Pro are going to be hitting stores later this fall, powered by Google’s own custom-built chips."
-    publishedDateTime: 2021-08-02T19:58:00Z
-    webUrl: "https://knowtechie.com/googles-upcoming-pixel-6-will-feature-a-brand-new-chip-and-a-big-ass-camera-bar/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 34
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/08/google-pixel-6-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
-secured: "YdUR0+JD3p5qRb4LrnxJdVAKJRNrE65hVENwCsdQ2wmsnl6GurqgkizKtVxrWFQiqtghaRlvVuYd2pz3vpUQr81anbyxA4xu1DKsNLJ3myjq+4YH5FNcFuEZH7PZ45hx1suqJGwTOrOutH5yMjq4UrPv75r6G4Ngpaxc/Gh5uQ4/iuPKGG8Z03Pk5RDAWZUfbZPPVMu84r2yhE5clt1VUHTwxHjW0dQE9vc1yfF+xXWruu/z07+/Cc9mOfHjghWEyJwejIwTrsWCvrq/g/65Wc+JvIoXZwSdF350r8pn45sbwUY1XQRh2hOSK9a/5SgZWLv2Zba84m4FPfh8vweWmRDOxPjSm9aGZk6JyUnUxog=;UMMtCZznkTPKpZWcM4vexw=="
+secured: "I8XO4EpRMHJsiE0umR4Xr0Cq/az2Mz1RM3a0t97GLQ+kQ0BlgoreZ3PoUU2+XMoO9nLQGmPIet9YcMIyhsZeye9rQnb1nEevs5Sa0ONYbrDyPhZav6x0f4o7wM2q+dEAaNQ7/BoVKd90rl4zNeWLDMyLNrKsLW/Y46CI3y2r0aG8kbS5TO0wXQl8UHBoSrwE9Ur9dPufgO2pUYnR5oEknb/MLI/GLY/y12Hop70mpB6Da1sFtj7avhaaWPKTkw5HZTHiBpUrespnywXl640ckpXL0UMUaQYNtfbRZG0nqLFotntPaED80ABHnJjCbu6LR2J7+0uVqAO9e78RsKihWYY2+D02MCMBm9u9fqof8lo=;CgxSqA3Gterh0/wjjXNg9w=="
 ---
 

@@ -35,20 +35,6 @@ related:
         width: 800
         height: 444
         isCached: true
-  - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
-    publishedDateTime: 2021-07-29T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-recent-development-and-trends-expected-growth-and-its-factors-business-prospects-and-forecast-2030-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
     excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
     publishedDateTime: 2021-07-30T08:44:00Z

@@ -64,6 +64,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "How AI Chatbot is changing businesses rapidly"
+    excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
+    publishedDateTime: 2021-08-03T01:10:00Z
+    webUrl: "https://www.yumpu.com/en/document/view/65750826/how-ai-chatbot-is-changing-businesses-rapidly/2"
+    type: article
+    provider:
+      name: Yumpu
+      domain: yumpu.com
+    quality: 37
+    images:
+      - url: "https://documents.yumpu.com/000/065/750/826/27615d560f023203a612ea9740c9ec17c6c3277d/75765532536a4779494c456c386b2b335142765742413d3d/79753036304871497766713841386f502f6c4a6567413d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627963200&Signature=deIqjUTKdmV9k8yW2EsyHtRQen4%3D"
+        width: 500
+        height: 375
+        isCached: true
 
 secured: "FG7ppGZAzrSXF3FAdRl2DNgiVCxpfo7MB7flPBoh1tCU/QtFsOVliH0rozgzubhNbg4gHsidaJ58zt0XAihB5lG/rE5V2ggpeZHwOOILbL8VL0gdUprJmCfK0/I8Kz1VfzanK+0om3OZQ9kAwe551Kk0kch/9BCe7v2WULLre1KJLdJQ47E3mki4NJFCj6jznF7jyf/iMvdXY9VDAeB4B+HNWuhsstO/8KxLBUJi4qetV7D1W47OwjoptIOPCGnMrFcfU/tnbZZeV5oEAmNBTq0JHbSScqww0uyh12TUZmBtx1vm0ggC7HI6OZERcuDLlPeCMfVy5DDG+RWKYZli+PzF1KOvxDywqaE3v1Ywbzg=;7Gv/bV6ZeEP5LKdO8mQq1g=="
 ---

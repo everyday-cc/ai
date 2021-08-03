@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
+      "title": "Design for responsible AI with Microsoft’s HAX",
+      "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "originalUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
       "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
       "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
@@ -1122,58 +1165,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
-      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
-      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
-          "width": 797,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
-      "publishedDateTime": "2021-07-27T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

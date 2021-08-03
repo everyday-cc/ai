@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2021/07/29/ibm-s-the-we
 webUrl: "https://stockhouse.com/news/press-releases/2021/07/29/ibm-s-the-weather-company-continues-to-be-the-world-s-most-accurate-forecaster"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall"
-    excerpt: "NEW YORK and ATLANTA, July 29, 2021 /PRNewswire/ -- IBM (NYSE: IBM) and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the ..."
-    publishedDateTime: 2021-07-29T17:31:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall/article_20f2049c-40fb-53de-adbb-da5a8d555bf0.html"
+    excerpt: "CEO of The Weather Company and GM of IBM Watson Advertising. \"The study is evidence of how IBM is helping advance the science of weather forecasting through continued innovations in AI, data and cloud computing.\" About the Report The report is a ..."
+    publishedDateTime: 2021-07-30T00:49:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 16
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/60ddb9cdbb1ab.image.jpg?resize=1200%2C627"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 26
 
 secured: "CdplrQM8fAM69MnfO316kUY6pgbwFky46jOdJis9R0A2t9akwBMBALSUnnQOAmbpwBctZsmuCUP+pYlKJW5vkWmz9t3ocIeZsNKIBOqPKVX+jyxcvY06RLdIl9E3nsRu4hQkFufDHqB1dno42ddP1IGgSaTw+W7lg9qugdcQ9oSpzizPbZeWCzHQDM2jSk45KAL2Zh4boiQVbOxgk6qYu9lL00lRdeLD3VxN0JdB5ypDkWeMVY5Q5yS2pWsmwKiYcv6/Qga0rBm5kHAtom43CfA4UTemFQzUEFiHKe0Lrb7yZAoB6lkwnDcEg6LnEb4HNvM2vJUhZEnnXFdTvzus2fuqWFrD7bYye0keI/yFH3o=;q6YYOhgkd0j37pxIIgPYkQ=="
 ---

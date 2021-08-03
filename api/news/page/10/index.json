@@ -2,6 +2,41 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-23-si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure.md",
+      "title": "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure",
+      "excerpt": "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure",
+      "originalUrl": "https://www.businesswire.com/news/home/20210722005420/en/SI-Corp.-Launches-Security-and-Safety-Management-System-Built-on-Microsoft-Azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-study-gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.md",
       "title": "Study: Gene therapy may protect against vision loss from glaucoma, diabetes",
       "excerpt": "A new form of gene therapy may help prevent vision loss caused by diabetic retinopathy and glaucoma, according to a study published Thursday by the journal Cell.",
@@ -1163,58 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects.md",
-      "title": "Global and Regional Speech & Voice Recognition Systems Market: Present Status And Future Prospects",
-      "excerpt": "The Speech & Voice Recognition Systems Market Snapshot Since the turn of the new decade, change has been relentless for Speech & Voice Recognition Systems Market across all geographies. The year 2020 was tumultuous,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects-2021-07-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-and-regional-speech-voice-recognition-systems-market-present-status-and-future-prospects-2021-07-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

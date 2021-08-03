@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
-    excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
-    publishedDateTime: 2021-07-29T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3959-through-2027-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Envision Healthcare deploys AI in radiology"
     excerpt: "National medical group Envision Healthcare said that its radiologists have begun using artificial intelligence (AI) software for several clinical applications."
     publishedDateTime: 2021-07-29T20:48:00Z

@@ -54,20 +54,6 @@ related:
         width: 800
         height: 444
         isCached: true
-  - title: "Artificial Intelligence Market 2021 Recent Development and Trends, Expected Growth and its Factors, Business Prospects and Forecast 2030"
-    excerpt: "In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence Market for"
-    publishedDateTime: 2021-07-29T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2021-recent-development-and-trends-expected-growth-and-its-factors-business-prospects-and-forecast-2030-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
     excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
     publishedDateTime: 2021-07-31T10:57:00Z

@@ -42,6 +42,15 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
+    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National Science Foundation (NSF) has awarded a $20 million grant to a partnership of prestigious universities led by University of California,"
+    publishedDateTime: 2021-08-02T22:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/08/02/9421974.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "khiW2q4v4zl24L15KiqiBflCvs2REA78wt8PFrOAJaGIb5U25U+YJ/UfvnqqN3JDOetMinq5qvaVamvPxnlnx3nDzzkKPyQEHTcLZv85JqeaVDCI2CcHTMFc7RrrftIxkj76oFE46m+8LxzAWnZAPEIVp83u0x3wb1oBbrYbkrs1ZLPAif2V/EIgqPaoEjTX91OEtKjOGLQJZZqk+8Xw4SgoqXuaEMYwF7bsCNjJEIK6t08xiJqaOAW0W0tWz0giic0J4CrCOWoR3w1OBClf+e7apejWUbYNSzRhBMO/B+73vSzI7eoWR9/aWI8iYIRXodp8nWF00S+HaMrZTXTe8IyHX6VqUO23jSJslN94+TyRcgx62Yi6wHsHKqS5YIkxB7M3GHBWJxe+jvV8cAPpxSzVe+P/gTK5TpnaQsejf2a0mu3gPvA9U3mBZc3stkuPo1sUb+Wk+nHV76Ue2PjLzZcYEvzetz6SsaNTy3Nnxn0v7Vk0fyjdllnRsk+q8UuVKYViriD9j+me8/6ZkvkU8A==;22TgeCQ5PYA5DKhctG+pWA=="
 ---

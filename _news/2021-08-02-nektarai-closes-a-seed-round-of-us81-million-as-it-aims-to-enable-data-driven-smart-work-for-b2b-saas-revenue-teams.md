@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/nektar-
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to/article_4d7cbca1-b879-5e0d-b562-945a0fd7966f.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 855
     height: 630
     isCached: true
+
+related:
+  - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
+    excerpt: "The latest round of funding takes the total seed amount raised by the company to US $8.1Mn, making it one of the biggest seed rounds for a B2B SaaS company in the US-Asia corridor. Nektar.ai 's AI-powered guided selling solution sits adjacent to CRM systems like Salesforce."
+    publishedDateTime: 2021-08-01T00:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030675981"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1586030/Nektar_Founders.jpg"
+        width: 400
+        height: 295
+        isCached: true
 
 secured: "wbIHxNEsiJk88RCr4v2hVMGlLUSY6Q1bRAbsoeiE2E5Q6nsw0iJOzgAnZKv7Jun47ZNVUmK24aw9/LP1GYXjo1w/Gm9VKOimna2WDlrc2YrWTZki03F1x5s5W3dYTuXL0sP+VRzu7pwfh+WvDdNUfYBVvfiRt4dRgq9Vo1z9PMcbjW96e4OVV7UK8M4UDP6u3C3wXWPT+laxD5nuIel/PdrN8MY7D+NLd1/Hj7bopynUBYOTTteWJNf//Inbc93k7NJzjyVjcpLQieN4ch5WGtn+j8HivhuGub8983MR1/nhQGDuN17qwjhppSs8IElYRtRH14Kr5aAhhfYA5zb4N7UZusOJmjZijvHAzffuysM=;7HqD5OeuuZHM2V1pf7Aipw=="
 ---

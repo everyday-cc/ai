@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-06-23-salesforce-expands-partnership-with-aws.md",
+      "title": "Salesforce Expands Partnership with AWS",
+      "excerpt": "AWS and Salesforce are helping developers build customer apps connecting data and workflows across their platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=147639",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/138905-0721_SuperchargingCC_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
       "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
       "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
@@ -1138,49 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-why-passengers-might-actually-feel-safe-in-zoox-self-driving-cars.md",
-      "title": "Why passengers might actually feel safe in Zoox self-driving cars",
-      "excerpt": "Instead of turning a traditional car into an autonomous one, the Amazon-owned self-driving car service Zoox has created its own type of autonomous vehicle without a steering wheel or front seat. Redesigning a car from the ground up also means redesigning car safety features.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "originalUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F06%252F22%252Fb6%252F97f23c8d2b0b494ca93c0fba0bfdd904.d0444.png%252F1200x630.png?signature=M8Ny3AboNS1Jj-wHe25Nffvr8E8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/zoox-autonomous-vehicle-safety-features.amp",
-      "publishedDateTime": "2021-06-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

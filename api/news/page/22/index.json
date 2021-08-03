@@ -209,6 +209,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
+      "title": "Device Taps Brain Waves to Help Paralyzed Man Communicate",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate",
+      "originalUrl": "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-defense-secretary-austin-calls-for-ethical-ai-development.md",
       "title": "Defense Secretary Austin calls for ethical AI development",
       "excerpt": "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday.",
@@ -1146,57 +1189,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-cape-analytics-raises-44m-to-automate-property-inspections-with-ai.md",
-      "title": "Cape Analytics raises $44M to automate property inspections with AI",
-      "excerpt": "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
-      "publishedDateTime": "2021-07-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

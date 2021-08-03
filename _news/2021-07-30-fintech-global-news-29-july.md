@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "6 Israeli startups storming the US FinTech sector"
-    excerpt: "Businesses have learned to embrace new financial technology and are increasingly convincing consumers to do the same"
-    publishedDateTime: 2021-07-29T08:19:00Z
-    webUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/"
-    ampWebUrl: "https://www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/6-israeli-startups-storming-the-us-fintech-sector/amp/"
+  - title: "Borrowing from loan apps – Know how to identify genuine fintech lenders"
+    excerpt: "With so many fintech companies ready to offer small loans, borrowers are likely to get confused and may fall into the trap of fraud lending apps offering instant credit online."
+    publishedDateTime: 2021-07-31T05:22:00Z
+    webUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/"
+    ampWebUrl: "https://www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/borrowing-from-loan-apps-know-how-to-identify-genuine-fintech-lenders/2301414/lite/"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 44
     images:
-      - url: "https://lh4.googleusercontent.com/8tVKE1iWto9QaaAhuF_yF4D1Yrp5kHsTAryLiOiTdzggMIgNAmZSi5M6VsT7-Z5X-YjNlYzl0yjVkZhMniZxPkjbizyyK5vzAydYPHYDVl1ieGOL83XR9xbxor-4EP3gc92p_zzQ"
-        width: 1178
-        height: 797
-        isCached: true
-  - title: "Israeli startup lands huge 3D mapping deal with Australia"
-    excerpt: "GeoX will map 18 million buildings throughout the Australian continent using satellite imagery, AI and other patented technologies."
-    publishedDateTime: 2021-08-02T09:54:00Z
-    webUrl: "https://www.israel21c.org/israeli-startup-lands-huge-3d-mapping-deal-with-australia/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 22
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/geox.jpg"
-        width: 1601
-        height: 900
+      - url: "https://images.financialexpress.com/2021/07/FRAUD.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "IXQ7ZnCiLStjNPa5VYfYfuK3IuJB7TDiZT04PCZTyR7G6Cj7cmk+qOzaVZUhHTj1aNmvFp3O+YEJjJGZQXzqjoiMeg4ZmeuTIuWj+U1aLXPGrrOhiUfL3Mv+HKcTDhLYF2FViipw0p+J1uKUZBC/Ma/NIYllLMx8yHi0J6KjN2yqx+Ub5+tlHUMOQd0ellWn70jeR/wnE0LJm6KqasEGwYie+4ipRXpg5OiLbqyQ+tzJHb4DjPAMBDN4bTbKQBvh8zAIMp+TF6vz5WEeMympPWy2mnfqp252Te659QQBy7l1H4eTwhi6GUeFjMQ9uhvw+0ugOh7lWdunfHKNiN2mdcw8DZsuKh1xqhyyyd+DoV8ZR9WzeK/u/YxHgG/UfnJIx2lhPHBxnAlg6bvNuyzKVDtPSvppUCkoqV+SBZPEnQwNtyunVMhCqaPo7htJ3hvA9Sr3yqcwGBRnPzlsPK2ax1eoQVxVUoC/6tmZG3Wp0kvccw30neJqOEFbk/zo1W5eBBIDX6ZcveQkw3lq2T3dRg==;4yvsCX7s2vu+c9lhSjIYmA=="

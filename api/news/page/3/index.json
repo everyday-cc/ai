@@ -104,7 +104,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -251,6 +251,48 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant.md",
+      "title": "NCSU, UNC create artificial intelligence institute with $20M federal grant",
+      "excerpt": "UNC-Chapel Hill and North Carolina State are launching an initiative aiming to utilize artificial intelligence as an educational tool with $20 million in funding from the National Science Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
+      "originalUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
+          "width": 772,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
+      "publishedDateTime": "2021-07-29T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1160,48 +1202,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires.md",
-      "title": "Artificial intelligence could be the latest tool in fighting wildfires",
-      "excerpt": "Tech companies in Silicon Valley are starting to use their resources to help combat wildfire season. As the U.S. sees record burning, the space-based technology, including drones and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
-      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1627502461610_ott_now_wildfires_ai_210728_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo117537861795",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117537861795",
-      "publishedDateTime": "2021-07-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

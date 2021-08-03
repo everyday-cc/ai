@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-nex
 webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
 type: article
 quality: 86
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Artificial Intelligence in the Healthcare Market is projected to manifest the fastest CAGR of 39.59% through 2027"
-    excerpt: "Selbyville, Delaware. Europe Artificial Intelligence in the Healthcare Market report provides key statistics on"
-    publishedDateTime: 2021-07-29T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-the-healthcare-market-is-projected-to-manifest-the-fastest-cagr-of-3959-through-2027-2021-07-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

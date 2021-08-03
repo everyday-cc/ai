@@ -290,49 +290,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-scientists-create-device-that-can-analyze-brain-waves-of-paralyzed-people-to-help-them-communicate.md",
       "title": "Scientists create device that can analyze brain waves of paralyzed people to help them communicate",
       "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm - they imagine moving and those brain signals are ...",
@@ -449,6 +406,49 @@
         "name": "KVUE",
         "domain": "kvue.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
+      "title": "Device Taps Brain Waves to Help Paralyzed Man Communicate",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate",
+      "originalUrl": "https://www.usnews.com/news/health-news/articles/2021-07-14/device-taps-brain-waves-to-help-paralyzed-man-communicate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

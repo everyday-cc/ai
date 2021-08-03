@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-i
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: WRAL TechWire
@@ -40,6 +40,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
+    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National Science Foundation (NSF) has awarded a $20 million grant to a partnership of prestigious universities led by University of California,"
+    publishedDateTime: 2021-08-02T22:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/08/02/9421974.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "oMGJnkoY9UUuUiGzfhm9z3QUu/HJYEPnwsWBbazg5IuEQ4JrkdvzTkNWnlUENV3+FlMh3ElWtknvGoYXymLpHQGu352txLRrIbH20t2G8aQ6KPMov/9uLN+rv6WNuLJqC5yFCg/+c7uG2i1Bd0TFmz0p4J7aj5F4/GtbA+YCvRJqHe37w3AHpSqvhiEP3aO6S5c0tsxj5oA+ryngDm0EsM1GqXFDz2F+l91DY6MTCx87+YEe0yjCi3RqsXQSRwN08pMalDdpLbCbzARQu1apavpeBmJnLMUoKvEUIZuceCu3vndPbR3iD14aQk80sfoUvkAQkbIussMWudY494mkrLgkTmj65XzGqWjGrZJRG3UtoYg6Feqe5Csc2FT2QcDgNyX+Z56M0Phw6eXV9RJAXYlfWVZRqdnQ5W71gA43+P1JOAx/0hzlDdT9xJQmjJVkPlLSPTK6xeyNeOx+3Vn/GarYGCJ1lTxC9PLE3/ToMPBO0JdVdSFtcSxwuwoaRb42J8l8lnx1bvd0PO/lBBRQ0Q==;qjbTwMLwdOxFrtvLEgctdA=="
 ---
