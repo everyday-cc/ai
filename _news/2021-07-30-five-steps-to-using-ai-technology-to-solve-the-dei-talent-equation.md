@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 783
     isCached: true
+
+related:
+  - title: "Using AI to deliver more precise magnetic stimulation treatment for depression"
+    excerpt: "A USQ Professor is helping bring new technology to the forefront in the fight against depression. A decade after Transcranial Magnetic"
+    publishedDateTime: 2021-08-02T21:51:00Z
+    webUrl: "https://www.miragenews.com/using-ai-to-deliver-more-precise-magnetic-606628/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 35
+    images:
+      - url: "https://www.usq.edu.au/-/media/usq/news/2021/08/raj-new-ai-news.ashx"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "dhRt9gQzVomujeDRQy61yxz3CXVT43c6QQMJjVM2dvJmGFk+Pu6Z030ktSQAIAHwb529WGTtjcdoXLKa8Ykd4cLu36/JOYENYozpechwCP4rNhAORyfapEaxbwrp3pYcR01zS26CUyCxH0QBVpacTpY0YBFb6A2OLPwGRouo5TgoRWt+Bgu8aOiGCrm2YOP3Op+jjrDAdYAnwtsJDhwaqTtuJc6NyvgDVUvhNsUAOXfx30z2qIHHO3WADXhvIPiMp+xdOtW8lp9MTwZBBNC2QMeGQlpO+43uD01K8kffcrNlgu1PJjcpeH4H7bjMXo1nuPTc3VbXQJNXv5y6UKxqLNsvXBpZG650Nr9WlkcprNuTUVKvHvZybXreUX3KDAvXA+ljRl0ecUA1D/cfK/0/O4QhueeGyq573+0Yvp6fqFXFSeht9oGpHYJJurCY3H9qetnFSTEyeCRhfd9ejYXbDOQEU3OtuzYIRgpSKh1+ZyztvuZsiRcUjzORxaJ3xpqLPl2X0NYChw8hAg3sz3weEA==;9d680ZgSwg66G0EhQZ75Dw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-rais
 webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: VCCircle
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Indian sales productivity startup Nektar.ai closes $8.1m seed round led by B Capital, others"
+    excerpt: "The company plans to use the funds to accelerate product development and hire talent for its core teams across product, engineering, and GTM."
+    publishedDateTime: 2021-08-02T23:15:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/nektar-ai-seed-round-253755/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 43
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/03/indian-rupee-1-reu-e1521781642703.jpg"
+        width: 979
+        height: 543
+        isCached: true
   - title: "Nektar.ai Closes US$8.1M Seed Funding Round"
     excerpt: "Nektar.ai, a Bengaluru, India and Singapore-based sales productivity startup, raised US$8.1M in seed funding. The round was led by B Capital Group, 3One4 Capital, and Nexus Venture Partners with participation from Amit Midha,"
     publishedDateTime: 2021-08-02T14:40:00Z

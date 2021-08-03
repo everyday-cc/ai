@@ -47,22 +47,6 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
-    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, above all in the areas of photography and voice recognition."
-    publishedDateTime: 2021-08-02T21:16:00Z
-    webUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/"
-    ampWebUrl: "https://www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-to-the-max/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 74
-    images:
-      - url: "https://mk0laprensalatice12d.kinstacdn.com/wp-content/uploads/2021/08/17775413w.jpg"
-        width: 700
-        height: 933
-        isCached: true
   - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
     excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
     publishedDateTime: 2021-08-02T16:32:00Z
@@ -92,6 +76,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ziSpUASpapNeGbgkc5GD3i-1200-80.jpg"
         width: 1200
         height: 598
+        isCached: true
+  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
+    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, a"
+    publishedDateTime: 2021-08-02T23:03:00Z
+    webUrl: "https://www.efe.com/efe/english/world/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-the-max/50000262-4600653"
+    type: article
+    provider:
+      name: EFE
+      domain: efe.com
+    quality: 54
+    images:
+      - url: "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMj5TZSs7fWItB0HNHBkrfGQQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UOVbGRy2zIJ-P-2f-P-2bbX0TxGz1Hg-P-3d-P-3d"
+        width: 600
+        height: 353
         isCached: true
   - title: "Google previews new Pixel phones with AI-optimized Tensor chip"
     excerpt: "Google LLC today previewed its next two Pixel smartphones, which the search giant says will be powered by an internally-developed chip with an embedded machine learning module. The Pixel 6 and Pixel 6 Pro are set to become available for consumers in the fall."
@@ -180,6 +178,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oFe6bVuSSX9cnHgdNLy4q4Qzq1/mcFVN0ajTbk97tM9fCp3WeG1Q+dNhUD2U+M5zgmh7jJwTqOEow56YYXcQ7CGl/xNdwBv8aSYMtxQ1s5ypYGci3H8nrRpeBUsY90+n79DVlQL04e2UxpQEGwfzRVVBFoRkbLjSouhd+4D6tFuY6WyJVEiokkWVF4BLW6LjtRD0Fuysgd2ewj8T1bprdZWHYg2zGWMqrnEcA1Ehew6YyQ4TuiumXT79/rC6Kr3YDwMO1JOMfEXG/YEqh9v058f5UFPAiAHR3DIuP1PVQTbgJeUBaM5bwaWsd2y1CASKfVPTvJ6azeVOki0W13dd7O5zIcjWQp2A8JOABuI6t+U=;0osB6yvWFm2Uo6+KV9hOWg=="
+secured: "YdUR0+JD3p5qRb4LrnxJdVAKJRNrE65hVENwCsdQ2wmsnl6GurqgkizKtVxrWFQiqtghaRlvVuYd2pz3vpUQr81anbyxA4xu1DKsNLJ3myjq+4YH5FNcFuEZH7PZ45hx1suqJGwTOrOutH5yMjq4UrPv75r6G4Ngpaxc/Gh5uQ4/iuPKGG8Z03Pk5RDAWZUfbZPPVMu84r2yhE5clt1VUHTwxHjW0dQE9vc1yfF+xXWruu/z07+/Cc9mOfHjghWEyJwejIwTrsWCvrq/g/65Wc+JvIoXZwSdF350r8pn45sbwUY1XQRh2hOSK9a/5SgZWLv2Zba84m4FPfh8vweWmRDOxPjSm9aGZk6JyUnUxog=;UMMtCZznkTPKpZWcM4vexw=="
 ---
 

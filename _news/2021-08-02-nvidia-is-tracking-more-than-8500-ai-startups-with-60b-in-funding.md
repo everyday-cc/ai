@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 122
 published: true
 
 provider:

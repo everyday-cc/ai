@@ -52,7 +52,7 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
         width: 800

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall"
-excerpt: "IBM and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the overall most accurate provider globally\" by ForecastWatch, a premier organization for evaluating the accuracy of weather forecasts."
-publishedDateTime: 2021-07-29T16:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
-webUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
+excerpt: "CEO of The Weather Company and GM of IBM Watson Advertising. \"The study is evidence of how IBM is helping advance the science of weather forecasting through continued innovations in AI, data and cloud computing.\" About the Report The report is a ..."
+publishedDateTime: 2021-07-29T16:01:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/07/29/ibm-s-the-weather-company-continues-to-be-the-world-s-most-accurate-forecaster"
+webUrl: "https://stockhouse.com/news/press-releases/2021/07/29/ibm-s-the-weather-company-continues-to-be-the-world-s-most-accurate-forecaster"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
 
 related:
   - title: "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall"
@@ -34,6 +40,6 @@ related:
         height: 627
         isCached: true
 
-secured: "b96+1d0F0KnANRl5eNwvslGX7Y8s+KyeNLKITK7rLThJjNoQ1dNDzQpkfQVYCrcgHWCJFWv1dqkGtJVPBfPgs4AL6FgoJShLvgLEMm94UnIxvVLZDVHFASy6nl7jpD3NGg5QfoNBZAvmg5SqGehSYAB5s+LO0MsSOjEbZ+UldG0EvFQwJ0Xr16VxqKO8GyY+LDs7wcbkYqfMvFfotAhnBJVS9uy+ZuSzspda0rctlKVyAP7MT0P2vZFkkLWhKOoxurS2yH9eAcwPA+qYjqt0CO1Uaev5om1+EJI1ym6mztvG4JT/vgMKesPQlz4o7XZn9YbA10hj5li2qYvIVTZ/s4/pmYQ94elgbjo5qQp2SSk=;kdqxN/wZqyvcxjgZGI/7LQ=="
+secured: "CdplrQM8fAM69MnfO316kUY6pgbwFky46jOdJis9R0A2t9akwBMBALSUnnQOAmbpwBctZsmuCUP+pYlKJW5vkWmz9t3ocIeZsNKIBOqPKVX+jyxcvY06RLdIl9E3nsRu4hQkFufDHqB1dno42ddP1IGgSaTw+W7lg9qugdcQ9oSpzizPbZeWCzHQDM2jSk45KAL2Zh4boiQVbOxgk6qYu9lL00lRdeLD3VxN0JdB5ypDkWeMVY5Q5yS2pWsmwKiYcv6/Qga0rBm5kHAtom43CfA4UTemFQzUEFiHKe0Lrb7yZAoB6lkwnDcEg6LnEb4HNvM2vJUhZEnnXFdTvzus2fuqWFrD7bYye0keI/yFH3o=;q6YYOhgkd0j37pxIIgPYkQ=="
 ---
 

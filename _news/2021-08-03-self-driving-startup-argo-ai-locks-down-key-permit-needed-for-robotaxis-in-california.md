@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-02T20:52:00Z
 originalUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
 webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
@@ -56,6 +57,6 @@ related:
         height: 570
         isCached: true
 
-secured: "1zjtKC6IVyLVMgP5VPlTR9acz142H0/x0zH5SuXqoFBEKJ7z96MIsumYF+zh5iZbnA0SKKgbBRan9b2PV8qqBFvhscorbwb9i3fqEoQxqJQYaDtzOcDiwmmZEL8AiHjf2sYIE2ItQo1S9ueqY9vOiJlmhcyP+r+K+FtK0al1KvGn081k4l4Ajqj1ocqfuWT1PG4WdxYBSukR/fcXAO4oF5NfA23CA5cJlBRiq7FkOkY8E6gQZHRS5li/Xa6lEcEZnTbpRCUcHMxQLgCG4eK79Dumuy1tNiwgEvhnydFZZHBHXFBNVyZqJP2m1WGnFgYGEaVkWl1eGHTrQYtO/O81IVW9d6jrt5++6LmjmyB9VAE=;GX5roZlw0qzCTJ0EevkDXw=="
+secured: "V2UQMXNuPD7Bh8GEKJf2ESXiaUXaj0OKZ7rfQODK4iERaLkhsha6gzUta3DAY9rrXKHXyCNuLgZeUNHkbfjvD3OmQCyn4Addy1CnYfNKF7vZJvt0ww4BlZEklxZEtsGI9wKzNz/4vfHP2TaNHY6DBd7beeCerZPUcDpvtC4x7TyxoOEjSCqhNbI6LKH3gcmGuI9X6EOV5KOHUM2AwNYeFZfEPT8ou+o9dNu7BR3hha+JSzLgOEKz7ud8rDgtK4xermIHoVHDEqk5jKBKQfqhbLVajT7CnpUPukcAP1XM8B56gY87ZnNaCQj6O3XI4DAavJx8LNVCdmb3soTv1aznCaHVs8zd4AGply2Sa0ebSqASc3iuuJRaW5PAkLvOQS13sOj75yIFsSM0lqrEuHIwD5wsWDZuAE4JeZliTd3wcj0wtbwfPqOygeQ3vzZJT12zobroGzVV7Jhn5ypQiUf2WnmkK2373jtH0NRFr6F4U5Ln/ELycGYVVf9/Hi0KkxMshVjfLIr+IvyptR6nOK2E6g==;4AYozgeOGRL7nhlfe3yWeg=="
 ---
 

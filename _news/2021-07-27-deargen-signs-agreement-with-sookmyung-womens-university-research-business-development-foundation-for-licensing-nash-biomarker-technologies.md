@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Deargen Signs Agreement With Sookmyung Women's University Research & Business Development Foundation for Licensing 'NASH Biomarker' Technologies"
-excerpt: "Deargen, an AI-powered drug discovery and development company, signed an agreement with Sookmyung Women's University Research & Business Development Foundation for licensing bioma"
-publishedDateTime: 2021-07-27T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm"
+title: "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies"
+excerpt: "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies."
+publishedDateTime: 2021-07-27T04:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210727005549/en/"
+webUrl: "https://www.businesswire.com/news/home/20210727005549/en/"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "yMFj72hohchQFCl/CFvtesAoZuaIogHyRGYG9oJzd9pjPido2I+T/NRMHqY+RO2fQse0VsFv6k6GyyB2RyqUYROiredtFmONrBNAuZU+ligZ23m0QfVRyd6sc6h8umWUNAmAEmQF0vFgPWPpjTJciWl9+yPEQluFpicozd+JDI1MRAnI/5jOW5w6uIItOsILEfImzzEmWz/PFZdOI96WSXkLz2sYL8Yy3vR1CIvaH1069mRRgzHizclhWEsJbKCoWrxySqLNaV9ptFrDhBeffSe71lXrES/2I/lLmX3UYipusl4FHop9JlKZEbIn4cs/lBb5Kr8MHb+eaML/J9qtYamOPdD2hSEdG/Odk78xyZQ=;3eBsDWdH2HBYSR4t+kl+zQ=="
+secured: "64FmjS1xYPzp1FaOy/Ugz9aCsOayyoRb5O1rX8icG4QswUfGKAL7V0EtUzzJKFg0WAZ16qKhhZ2eYWQD/RA1jEs6HRjvv9bHmyojNCcupEOqtHOUyziIfkGhZWFJYk1fXExnEnHLbf8sLhf2N4xmqFbP6lYafz6jY2F5nQjpQIq1NygTi0E6eh+S1IZF133TGBlz8cdHjzJKfdkJEyCiaR1gDNGHV7ix9yabAQjSK0Mx+nbNiOGykBCgLX70L/9FvjiCPn5It0NC4jZRabwQ93KFklU+rnDSeA4bPZqsNQ0hn83ibbQ9sLWHzm5YFpfeyozxcEwPmri4eTj2ywq4ZPJ8bP6m70ACatoXHPCO9mlz+1frqGApjPYBLwjRaS3Hp/pNJ90YUjRQNYjNegsfovFBbssU65ssbJ0wa7tOD23HJDdCS4HkopQibws3VRCHgeJ6rjql6iYNB8m2fAYG46Pbqi/9MFEQlaJCeWb2r8huTBO5UcQ4ml8PUC2nCVPJlU9cvgxzHqRJDw9APqn0/g==;Zwfx4ehDY0pfRQQlVuE8+g=="
 ---
 

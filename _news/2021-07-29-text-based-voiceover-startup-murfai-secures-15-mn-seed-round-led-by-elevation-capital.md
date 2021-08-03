@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Text-based voice-over startup Murf.ai raises $1.5 mn in seed funding led by Elevation Capital"
-    excerpt: "Murf.ai, an AI-enabled voice-over startup, has raised $1.5 million in seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (CEO, Meesho),"
-    publishedDateTime: 2021-07-29T06:21:00Z
-    webUrl: "https://www.freepressjournal.in/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/text-based-voice-over-startup-murfai-raises-15-mn-in-seed-funding-led-by-elevation-capital/9b72281a-36f9-4904-973f-25a30840e184"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 46
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
     excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
     publishedDateTime: 2021-07-29T19:33:00Z

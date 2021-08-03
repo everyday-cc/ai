@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -278,7 +278,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
