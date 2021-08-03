@@ -33,20 +33,6 @@ related:
         width: 2560
         height: 1493
         isCached: true
-  - title: "Microsoft acquires AI business analytics start-up Suplari"
-    excerpt: "The software giant will add the Spend Intelligence Cloud from Suplari to its Dynamics 365 suite of business tools."
-    publishedDateTime: 2021-07-29T10:04:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/microsoft-acquires-suplari"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/Founders-Picture-3-2018-1024x576-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Discover AI Upskilling Journey"
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z

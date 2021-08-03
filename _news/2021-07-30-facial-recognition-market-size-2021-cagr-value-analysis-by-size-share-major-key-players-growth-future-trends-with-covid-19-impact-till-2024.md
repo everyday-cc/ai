@@ -40,20 +40,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 48
-  - title: "Deep Learning in Security Market 2021- Remarking Enormous Growth with Current Trends & Demands through 2026"
-    excerpt: "The latest research report added by Big Market Research on the Deep Learning in Security Market is intended to offer reliable data on various key factors shaping the growth curve of the market. This report works as a rich source of information for key entities such as policy makers,"
-    publishedDateTime: 2021-08-02T11:26:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-in-security-market-2021-remarking-enormous-growth-with-current-trends-demands-through-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 38
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
-        width: 800
-        height: 444
-        isCached: true
   - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
     excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
     publishedDateTime: 2021-07-31T10:57:00Z

@@ -34,20 +34,6 @@ related:
         width: 2560
         height: 1493
         isCached: true
-  - title: "Microsoft acquires AI business analytics start-up Suplari"
-    excerpt: "The software giant will add the Spend Intelligence Cloud from Suplari to its Dynamics 365 suite of business tools."
-    publishedDateTime: 2021-07-29T10:04:00Z
-    webUrl: "https://www.siliconrepublic.com/companies/microsoft-acquires-suplari"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/07/Founders-Picture-3-2018-1024x576-1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
     excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
     publishedDateTime: 2021-08-02T04:50:00Z

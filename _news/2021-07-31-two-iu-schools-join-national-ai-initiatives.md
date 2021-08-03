@@ -7,7 +7,7 @@ originalUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-school
 webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,29 @@ images:
     isCached: true
 
 related:
+  - title: "AI Innovations In Mining"
+    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
+    publishedDateTime: 2021-07-31T22:07:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
+    excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
+    publishedDateTime: 2021-08-02T14:25:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/artificial-intelligence-machine-learning-film"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 45
+    images:
+      - url: "https://www.automation.com/getmedia/38598196-fdf2-480b-b9a6-ab388bd2b7af/Tom-and-jacob-feature-aug-2-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Case Western Reserve University among leaders in national Artificial Intelligence initiative"
     excerpt: "Computer and Data Sciences Chair Vipin Chaudhary heads collaboration with Ohio State, Indiana and others to bring AI into daily life Vipin Chaudhary,"
     publishedDateTime: 2021-07-29T14:36:00Z
@@ -38,15 +61,40 @@ related:
         width: 480
         height: 226
         isCached: true
-  - title: "Washington County native’s photography wins recognition at international competition"
-    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
-    publishedDateTime: 2021-07-31T05:08:00Z
-    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+  - title: "8 Things You Didn’t Know About Gold Mining Automation"
+    excerpt: "Innovations in automation have transformed the gold mining industry by increasing efficiency, productivity and safety. As mines get increasingly deeper, grades increasingly decline and investors pressure companies to adhere to global environment,"
+    publishedDateTime: 2021-07-29T20:15:00Z
+    webUrl: "https://www.automation.com/en-us/articles/july-2021/8-things-you-didnt-know-gold-mining-automation"
     type: article
     provider:
-      name: Parkersburg News and Sentinel
-      domain: newsandsentinel.com
-    quality: 0
+      name: Automation
+      domain: automation.com
+    quality: 24
+    images:
+      - url: "https://www.automation.com/getmedia/f4d4cca4-3167-4426-803a-de780ccefab9/Gold-mine-feature-July-29-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Three Game-Changing Innovations for Those With Hearing Loss"
+    excerpt: "New technology from Google Research and Vuzix as well as medical advances from Eli Lilly and Novartis could make a significant difference in the near future."
+    publishedDateTime: 2021-08-02T00:00:00Z
+    webUrl: "https://www.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html"
+    ampWebUrl: "https://feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
+    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
+    type: article
+    provider:
+      name: AARP
+      domain: aarp.org
+    quality: 24
+  - title: "Use of Artificial Intelligence in Banking World today"
+    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
+    publishedDateTime: 2021-07-29T18:28:00Z
+    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "UqcvbVvXJz5ITbWoUuI/SFaA99OBHV5CXGDu0+jg53CULm20LHlQZc2/IHta2bOxBZf9Qe/wHXoKQ+rdV0vXGcIGDujO4NSZr53zvQSwq4RdWMUaDnmNy9boUXqrAByaMtM6P8odroJPdmoxA2OQptwSzxDaaK8kcEz3+o/9JDtIZYBXwGFR/kZLAOFXRMDqKJA3WcfsokyOlWk72uIxaQk3o2IxJlo7NUFT6VkGe401sul+HqXU1v5hg04LvBY+aPGUneDJGrI2cAumBybkcet/CUqVSAE+YvBGqiYn2UPbf1S9H29HzSzf+DFZ90ocn9rGcHA31oKX4EKK2KQtAoihdxaFVIN62q8eyUeGE7M5QdUV8aGIGcamKwq41S1sy0tTe3V7QKICf22Gh+S8dzBqytz6ZIfVT26b83m1Xil4DsAH7uiyyyaE6NTpPtl3YkkE5c4963TkefS9of8xuX9BZfrskulS1KV41F09M1+QCNNniUmHMvCzbzzmRAfuFhX8LSEuzrh63PwlrZpwZQ==;WN/uSHBdNZUWZrz3ib57nQ=="
 ---

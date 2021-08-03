@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Text-based Voiceover Startup Murf.ai Secures $1.5 Mn Seed Round Led By Elevation Capital"
-    excerpt: "AI-enabled voiceover startup Murf.ai on Thursday announced that it has raised $1.5 million in Seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (Meesho),"
-    publishedDateTime: 2021-07-29T09:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/378740"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378740"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378740"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 78
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627551904-christian-wiediger-GWkioAj5aB4-unsplash1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
     excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
     publishedDateTime: 2021-07-29T19:33:00Z

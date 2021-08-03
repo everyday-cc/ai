@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Text-based Voiceover Startup Murf.ai Secures $1.5 Mn Seed Round Led By Elevation Capital"
-    excerpt: "AI-enabled voiceover startup Murf.ai on Thursday announced that it has raised $1.5 million in Seed funding led by Elevation Capital. Angel investors who participated in this funding round include Vidit Aatrey (Meesho),"
-    publishedDateTime: 2021-07-29T09:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/378740"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378740"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378740"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 78
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1627551904-christian-wiediger-GWkioAj5aB4-unsplash1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "j2k6ZZ+KqJ+IZVfTwKyd0FR1YtgirWJQE3piR3tR8JiUgfdtc+0qeXCzrnwcsQCeKyZX3D/UKbOoZE0pybmjAtiLvz58kBaYgBDUGE56/X46iG61zY4qX/WsmUqS7X3TfdbaRKe5pWVjip6SSd12RkE7iXHYq/j9bSsJwmGSpIcYEEQfgZqKeKIpMRvGLh0sCIGKGKn0yAOjpyxxMGn1KMH6mnI+wbMXn57RfaR7TOFYXJv46cMcz7xlTO5VDeWO2zpaa58AoFg1BnlXvycpYEUY4jQioTc5UmsKGNntDkPzpCivN1U46g2ozakNig5G+C1xRCo/UHZBUgGuJ0Nb3VOu7wlA4iDLi8ov1WGAr1pgA1ineLkr/WDxrL2AE5ST+jLpq6i2FJ2erB+QVBU+F1VPESXkOgwBS+pSC9HdO2/DSH9VCO/bSe93r/WleRQmwQWWzG6yOsaDfcgvqEOpU1WziEn8KXiTq56uanpV66ILUx7uECIqR+eXCPtUT4rvJV5ZVpNrN1d9c/XAQgy0Cg==;11+dz8fzzOBBwylqtjJfFw=="
 ---

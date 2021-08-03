@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.html"
 ampWebUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-techniques-ai-versatile.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-generalization-t.jpg"

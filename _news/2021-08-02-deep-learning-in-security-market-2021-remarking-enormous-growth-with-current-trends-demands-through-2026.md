@@ -26,53 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
-    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
-    publishedDateTime: 2021-07-30T14:59:00Z
-    webUrl: "https://www.openpr.com/news/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+  - title: "Artificial Intelligence in Retail Market to grow at 40"
+    excerpt: "More Information @  The growing demand to enhance the customer experience is also one of the major factors augmenting the artificial intelligence in retail market growth. As the digital data is rising and the competition among the market players is increasing,"
+    publishedDateTime: 2021-08-03T03:30:00Z
+    webUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelligence-in-retail-market-to-grow-at-40"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 48
-  - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
-    excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
-    publishedDateTime: 2021-07-30T08:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-cagr-value-analysis-by-size-share-major-key-players-growth-future-trends-with-covid-19-impact-till-2024-2021-07-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+      name: Yumpu
+      domain: yumpu.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://img.yumpu.com/60845191/1/500x640/artificial-intelligence-in-retail-market-to-grow-at-40.jpg"
+        width: 453
+        height: 640
         isCached: true
-  - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
-    excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
-    publishedDateTime: 2021-07-31T10:57:00Z
-    webUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
+    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
+    publishedDateTime: 2021-08-03T02:06:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 26
-  - title: "Cognitive Computing Market Size, Share Analysis, Key Companies, and Forecast To 2026 | Reports And Data"
-    excerpt: "The global Cognitive Computing Market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
-    publishedDateTime: 2021-08-02T14:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 8
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
+        width: 500
+        height: 288
+        isCached: true
 
 secured: "pSEUXlgMrrtpvqIwACmfNihoF/kfteOmA2Qxz+d2a+OoscXQXomDxmRdOzaT9wW1vK0WeMHqYpklvfq+zuRaeVUXS0BHHqxIw0qNl3cqgRFjaOOdP9POQ3xnMPx3OkQROsn4J0fdUlVyKfEUlcFtMsuCOopMRFe0e2ui7imitAwYiKmVEcbx6xPFrPzC99Pp51Mfhj7fjUS/Dc7BvQQsbsau9O0UKG6T2IJKUD9PupNzO8CzS9RLJlCP7BolfwE4Nt12P4WBnlGb8O2YBaQPK2hbpKxZ3PcxQkeAFc2nqsixQeM/tKlLjZavyfVbi+3kowL10UO8vrvxid8BsNzcsLeQxGepOzhI7Htae85+/M/TeJKnBoZ+7tQ5U5h8CdElVsncvbqREkR+ni41xNXqbG+S4NNR3UrBGgrTFbACk6yjVMa4BZibD3tcW+1B1bcmi5Ud/xQEtxcqYhimtO/Z3wmbPGl6Ed1j37CEg4/t4G26tGhtrpuZOS4aJCgrTaVDouP0VRGZaLQAjdfRrFyB3A==;5Ad5n1gclvwjbyhhmqXlRg=="
 ---

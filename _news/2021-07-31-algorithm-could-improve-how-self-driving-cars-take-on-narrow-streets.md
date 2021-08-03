@@ -39,20 +39,6 @@ related:
         width: 550
         height: 366
         isCached: true
-  - title: "How autonomous vehicles are changing the face of transportation"
-    excerpt: "Autonomous vehicles (AVs) technology is implemented in several types of vehicles fulfilling both commercial and personal transportation needs globally. They rely on AI and ML to increase the level of intelligence used by understanding human participation."
-    publishedDateTime: 2021-07-29T10:42:00Z
-    webUrl: "https://www.wipro.com/business-process/how-autonomous-vehicles-are-changing-the-face-of-transportation/"
-    type: article
-    provider:
-      name: Wipro
-      domain: wipro.com
-    quality: 24
-    images:
-      - url: "https://www.wipro.com/content/dam/nexus/en/service-lines/business-process/latest-thinking/og-how-autonomous-vehicles-are-changing-the-face-of-transportation-i-486694971-502x263.png"
-        width: 502
-        height: 263
-        isCached: true
   - title: "Beijing permits self-driving vehicle testing on expressways"
     excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
     publishedDateTime: 2021-07-30T04:22:00Z

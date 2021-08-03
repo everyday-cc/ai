@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-l
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu

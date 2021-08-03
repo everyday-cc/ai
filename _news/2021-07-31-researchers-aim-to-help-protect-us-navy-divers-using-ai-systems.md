@@ -34,7 +34,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-generalization-t.jpg"
         width: 1440

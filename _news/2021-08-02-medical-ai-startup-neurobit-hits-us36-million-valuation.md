@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Medical AI startup Neurobit hits US$3.6 million valuation"
-excerpt: "Taiwan's TV shipments went down 34.2% sequentially to reach only 6.26 million units, due to seasonal factors and shortages of... Taiwan LCD monitors – 1Q 2021 Taiwan's PC monitor shipments in the first quarter of 2021 went down 9."
-publishedDateTime: 2021-08-02T04:33:00Z
-originalUrl: "https://www.digitimes.com/newsshow/related.asp?datePublish=2021/08/02&pages=VL&seq=200&chid=11"
-webUrl: "https://www.digitimes.com/newsshow/related.asp?datePublish=2021/08/02&pages=VL&seq=200&chid=11"
+excerpt: "Medical artificial intelligence (AI) company Neurobit has announced its completion of angel round today, saying that since the seed round, the Taiwan-based startup has secured over US$1.1 million investment."
+publishedDateTime: 2021-08-02T01:12:00Z
+originalUrl: "https://www.digitimes.com/news/a20210802VL200.html"
+webUrl: "https://www.digitimes.com/news/a20210802VL200.html"
 type: article
 quality: 37
 heat: 37
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitimes.com/images/2021/03/25/6237_r.jpg"
-    width: 336
-    height: 224
+  - url: "https://www.digitimes.com/newsshow/20210802VL200_files/2_b.jpg"
+    width: 640
+    height: 427
     isCached: true
 
-secured: "AkQzhs/w8WLywwwPm3wW2SuIzEiYTzbwWK39ZHhw3U+9gaBgZOGttPhFxiK7V/7NH/BNzvsN/dZkwMF3rZIZhw7raAqLvYoBYHxi1q8nSSJ4zeq+C1CVkpL+x6baOuFrAS4XG2zjr+GE5ik/3wESYYb0frPk5ekr/bUzU6dKBArT6szuBUvY8Fp0BKOli4XI3xRmo6PK9OddM3xRrlpDCVBv0JCvhsYwbrWPrCHAOwPzgRWaFj0PThIeKkbGRcLhWZP1NA5+ZNHFbvBgvzHI39t5wcBqOpSyQynYaHX7rLK6PpYJ2GGOsIxvrU35XxNRcgVq7wQfnf7ST6NUxdmI5LWinJD8pS1EjAWGErR3GKs=;5DiwxGjw6LywIc7cEXf3ww=="
+secured: "Qq0H+bbZgdHcONjsL8CFYpn1uF28ynAsz6P8wlveWZLWmutUot9d5CdevLT4bo02JYakqy7KEHzuHHBaRPExj8BXGNS+VN3KS3ZVmOR7/Nj7hApboW4x/q+R9I8ZOL4D9gO2yw26Idl8zY78zMDMg2OCQkNJv6xF1yKAYGWkiFChjxIhboR5OVuprFr6ly9P35P7FcE17yA6CpEyZWxDJ/13ZDKu7r/55uC7+kjBgPRGo/JXUF1FNRH8wIcu5dcxEpxJ8kWV0GrXqupM1MVQ8gYeSbuo0w5TBkcBkSt/jz+IbgGvePqYLNt94BDPD1dx4F6tfM8EV67K6ZOJoxgV71rrjglLY7OCyqZGNmu/aWE=;2q8Lmuv77h1jgb28I7l6Sw=="
 ---
 

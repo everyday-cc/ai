@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,17 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Using AI to deliver a more precise magnetic stimulation treatment for depression"
+    excerpt: "Researchers at the University of Southern Queensland are planning to use artificial intelligence to improve the procedure."
+    publishedDateTime: 2021-08-03T03:46:00Z
+    webUrl: "https://healthtimes.com.au/hub/mental-health/37/news/nc1/using-ai-to-deliver-a-more-precise-magnetic-stimulation-treatment-for-depression/6066/"
+    ampWebUrl: "https://healthtimes.com.au/amp/hub/mental-health.html"
+    cdnAmpWebUrl: "https://healthtimes-com-au.cdn.ampproject.org/c/s/healthtimes.com.au/amp/hub/mental-health.html"
+    type: article
+    provider:
+      name: healthtimes.com.au
+      domain: healthtimes.com.au
+    quality: 34
 
 secured: "dhRt9gQzVomujeDRQy61yxz3CXVT43c6QQMJjVM2dvJmGFk+Pu6Z030ktSQAIAHwb529WGTtjcdoXLKa8Ykd4cLu36/JOYENYozpechwCP4rNhAORyfapEaxbwrp3pYcR01zS26CUyCxH0QBVpacTpY0YBFb6A2OLPwGRouo5TgoRWt+Bgu8aOiGCrm2YOP3Op+jjrDAdYAnwtsJDhwaqTtuJc6NyvgDVUvhNsUAOXfx30z2qIHHO3WADXhvIPiMp+xdOtW8lp9MTwZBBNC2QMeGQlpO+43uD01K8kffcrNlgu1PJjcpeH4H7bjMXo1nuPTc3VbXQJNXv5y6UKxqLNsvXBpZG650Nr9WlkcprNuTUVKvHvZybXreUX3KDAvXA+ljRl0ecUA1D/cfK/0/O4QhueeGyq573+0Yvp6fqFXFSeht9oGpHYJJurCY3H9qetnFSTEyeCRhfd9ejYXbDOQEU3OtuzYIRgpSKh1+ZyztvuZsiRcUjzORxaJ3xpqLPl2X0NYChw8hAg3sz3weEA==;9d680ZgSwg66G0EhQZ75Dw=="
 ---

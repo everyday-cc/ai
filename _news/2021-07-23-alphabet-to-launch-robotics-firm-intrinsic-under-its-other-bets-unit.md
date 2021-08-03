@@ -1,15 +1,21 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ..."
-publishedDateTime: 2021-07-23T15:37:00Z
-originalUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
-webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
+publishedDateTime: 2021-07-23T13:58:00Z
+originalUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
 type: article
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -17,11 +23,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
-    width: 991
-    height: 557
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "b3haNEE7VAOBgCtX2LfHAd1Yr0tG7wRR/KNFUTrQWi7DpZWazZLg1h81/g29SovL0ahMmWnB6ZjNKlMtQXfxXJJoFL+QO6bwYPEcyaepsi1yo31/7m+zxCGlYGtT31yDhgztJ3znH5tN3POGXHziZqWo4UDE9Ne5swWbZ9o07UIIRnCpTepjnEVab2X+1cJmYtP7vdpNHArirIwnSSrI1yLeJCOh40EAxppt3qnBMBxNuyMwoci+rK5goD0a32P+mTjM7LPVV393ptXrCZ8Wqg3ZiJpf0m0BMaTWuKk5LfdOTL2LbH7gjCmlWhiwaPyCt5Ar8ojsxfhYCVlJkuJpWwkswYHXJUOf1zGlCDTCWBI=;l1Dqyo1ix/eEpaEYnZ07GQ=="
+secured: "E88J6FrqH5cYosIqi+LQsmizEdEqRkll3lEPdaDRXiP8xfsKHjq7j+mAjyCxDpB24Del/ro6nxd7lNihJonnKbPoa0sNL0cSZwL4Bg7hEkbrCBse+R0H7prT43ruR8IAqUgQXJGxiqLs9W1fbpimd/TXGPbMPltXtc9zlpSow6JG+65wDIsKds/ABL2gBSzn7mncK/KKlMGG91dQRM30w2ypS4p31QX0mP+mKPTLJB+e85O2GoZtdFr+BUvZKO7GWZ4t4k+klwTSEivCSrxNtz90BbqQFOqNoemhDTPCFC5F7zknhlohl/5EsyNw60dkXK/6pYjZRoshZvziKtBSy+pZs4DrHUEBRtnefifIDmw=;SWMSWe/WOrPOFSPy3q8ECw=="
 ---
 

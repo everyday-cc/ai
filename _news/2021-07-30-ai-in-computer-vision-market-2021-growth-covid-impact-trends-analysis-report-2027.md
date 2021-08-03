@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning in Security Market 2021- Remarking Enormous Growth with Current Trends & Demands through 2026"
-    excerpt: "The latest research report added by Big Market Research on the Deep Learning in Security Market is intended to offer reliable data on various key factors shaping the growth curve of the market. This report works as a rich source of information for key entities such as policy makers,"
-    publishedDateTime: 2021-08-02T11:26:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-in-security-market-2021-remarking-enormous-growth-with-current-trends-demands-through-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 38
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
-        width: 800
-        height: 444
-        isCached: true
   - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
     excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
     publishedDateTime: 2021-07-30T08:44:00Z
