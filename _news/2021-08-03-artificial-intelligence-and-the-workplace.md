@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tennis Is Now On The Cloud And Powered By Applied AI, And This Is How Roland-Garros Did It"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into the Roland-Garros Players Application for players and coaches. Patrick talks about how it offers AI-powered match analysis with cognitive capabilities such as natural language search."
+    publishedDateTime: 2021-08-03T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
+        width: 468
+        height: 312
+        isCached: true
 
 secured: "9DEjvGk1i/VTGXOVyIKaw2mz9dGvofRvRozWjTQMx0+z7wL9FAuDDCn24se5O1VWsinajvBqvv9+CctFUOESBOuZwVgKxQvv4DzKuWDhlRXNGdZ7vwcFiGx3eG0eeixlSS4uS9XSX1ZSIERr5IhCOXbfumuqnpFO8QWkf3+h7JokIvJKhHnkQl9G4nIHB1dqWhW+LpkJAx8z9TRmxRkpBclmgSVB6wpskjwG0fV3QsYlYX8Ftk7frqRwnv3zycjgWR/Osr/43zk/dCXSAHoIYrQXHvcuaT+3tiogW/qyB5SRYcks86nsgTsIwCDyi5YNmE0EyXBllZETgWE3ep49Y1Vbgp/V3DwW/glkzrf3cmA=;oPw7csu8y74KR6EAXup2eA=="
 ---

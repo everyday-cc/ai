@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence in structural biology is here to stay"
 excerpt: "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open."
 publishedDateTime: 2021-07-27T16:11:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-02037-0?error=cookies_not_supported&code=40285b74-ded6-48ad-9222-401db1c2e0ec"
-webUrl: "https://www.nature.com/articles/d41586-021-02037-0?error=cookies_not_supported&code=40285b74-ded6-48ad-9222-401db1c2e0ec"
+originalUrl: "https://www.nature.com/articles/d41586-021-02037-0"
+webUrl: "https://www.nature.com/articles/d41586-021-02037-0"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "FZv9wjW0PVD/pKRdJrbUCGSZNUjSwszoUnwCOdpwEhk9ptctk8kRDz7/L7aEhi5ZJy6RiCFPwgNr0u4Fi20+IcDbNwGQ926R6afQefSPx1Q15c/+BSikl8LveufZpm2CY1NU44ajeaYsNGZW8IlLSlHeYdMJesdOYa6lujRY7/gTpdNEcCU0fc9ynKBbOkM04T0VVuAobBKFiBeplfLVoFbzh0yMOnvSJCOY06BDZX7BjV38X1O2dyd5S0BVLGXy9cBh7WAiAbFOMrM6RJ2q1Q11tsVZoRzMiFfnYfSZUFtAA8ZugiKVG3JZw6Q/AdO47Guak93fMd7SYNUu3z5qH+P8ZgFxCBHiRFx8O4z4snA=;91qK3rdotYNFarxUHJZWwg=="
+secured: "y7yvAoBPH7CLYGREio4MOKGKWn1Q+6SpNBN76erJs/BoCXuA5C+8ztF1FbNQ0sjCpUPNOyXjXdhgS3yMCFSXuF6FcdTyLnlQft0Lm5sfnFs1TPCuEc/wTfvz17QvVQih36QZtE5xPnvB/j1P75tn/YCgpyuEh8yQ6wAf/IwLktsZodbLmXgfZf6nPmaxj1Lwu9ndjceswLM8oIjiyk8jmmLyZd4kCt30kGqeXSr+R5NmBBwRAH0zBkllgxGLrrQF95BQm9lBUImJ3nByPLys5nrwrX+6e1MzM+QQsCy+da5IBFWxCGvG8OpkqbikDJlgrYw7pVdRIZHVyeakNLYNiaKP/VJirNiRX0ei92TtAaw=;9UA3Iqk5k3T/LE3VRpbuow=="
 ---
 

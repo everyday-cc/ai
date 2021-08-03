@@ -41,6 +41,20 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "UK police forces trialing retrospective facial recognition from bodycam maker"
+    excerpt: "British police are testing retrospective facial recognition software provided by Reveal, which also has a line of bodycams capable of live face biometrics."
+    publishedDateTime: 2021-08-03T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202108/uk-police-forces-trialing-retrospective-facial-recognition-from-bodycam-maker"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Police across UK testing new retrospective facial recognition that could identify criminals and missing people"
     excerpt: "Hampshire Constabulary, Humberside Police, North Wales Police and South Yorkshire Police are among the UK police forces exploring retrospective facial recognition technology"
     publishedDateTime: 2021-07-31T06:03:00Z

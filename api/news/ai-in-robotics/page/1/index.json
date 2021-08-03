@@ -10,7 +10,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -333,7 +333,7 @@
       "originalUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -944,13 +944,13 @@
     {
       "path": "_news/2021-07-27-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
       "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
-      "excerpt": "Building the bench Silver was most recently a Tech Lead & Manager at Waymo, the self-driving ... with deep expertise in robotics and artificial intelligence, and a vision to solve global ...",
+      "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
+      "webUrl": "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -966,21 +966,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:46:00-07:00",
+      "publishedDateTime": "2021-07-27T05:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

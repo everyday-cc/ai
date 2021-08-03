@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Assessment & Opportunity Forecast",
+      "excerpt": "Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The Machine Learning-as-a-service (MLaaS) Market was valued at USD 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning.md",
       "title": "Meet Cassie, the first two-legged robot to set a running record using machine learning",
       "excerpt": "Cassie, a robot invented at Oregon State University in Corvallis, has set a record as the first two-legged robot to use machine learning to control its running gait on outdoor terrain, the university said.",
@@ -1386,59 +1439,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design.md",
-      "title": "Cadence Design Systems launches Cerebrus machine learning for chip design",
-      "excerpt": "Cadence Design Systems is using machine learning in its Cerebrus Intelligent Chip Explorer tool for designing complex chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/cadence-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/amp/",
-      "publishedDateTime": "2021-07-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

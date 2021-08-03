@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million"
+    excerpt: "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,"
+    publishedDateTime: 2021-08-03T16:25:00Z
+    webUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/"
+    ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
 
 secured: "LlIc7VxEFuxeN30MehpIxzRDSwJnvZJ0Qg843Lj12mWJuYgw8jCEFt76jc2JzGozisvZXF9waNKJPHjkULBECbP9hP4Ut0OPM5ufrpEDZgo37CtEiPt6IFkYiz7jANQX0Gre52tGbHKaLonmeFpfkLYj8HM9Trqy+Mf2xGe8O+DoRGpJ1XZ/cZTjUfhtHcktejWprDtqDhTVlykNzCC1iTEO2n3YM4uyqeyvBs4YjHnQNTdtfJxPXdNAlp5VI3Vsp8FghdJwG00cZ7Ed2OYGrIfzYK5/gpwPY/iKFz/WjMxFmZrDD5E+w3REKv/19I4r7qreRexC+LIGlwmkMGqqxev7Jh7mbcYgpGMPgnj7U0N87da2VpaKMNKJr/6+iHbzYOQKhGuqlxZMtsRq9/zcrqH0MVqFX3f/nwE6pnwqrHZ+oVkhAoIErbn1fCgXX3PONhlA9AaU2YEN9RgRg1iJ4NN01xBksbfTvzEbgRMCW6PjZp2Vc+hPIdPBkpAds0DLBjbTkUTLdHDjyZjA876zrA==;MKQRTnHFVRUDVlHzLX01wA=="
 ---

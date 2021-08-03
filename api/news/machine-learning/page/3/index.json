@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-16-deep-learning-courses-for-nlp-market.md",
+      "title": "Deep Learning Courses for NLP Market",
+      "excerpt": "Global Deep Learning Courses for NLP Market is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities and leveraged with strategic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "originalUrl": "https://www.openpr.com/news/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U716847626_g.jpg",
+          "width": 800,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2330419/deep-learning-courses-for-nlp-market-is-thriving-worldwide",
+      "publishedDateTime": "2021-07-16T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-is-deep-learning-making-nlp-too-expensive.md",
       "title": "Is Deep Learning Making NLP Too Expensive?",
       "excerpt": "Deep learning has yielded some fantastic results for basic natural language processing (NLP) functions such as named entity recognition (NER), document classification and sentiment analysis — not to mention the abilities to generate everything from ...",
@@ -1389,58 +1433,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-new-machine-learning-based-cheating-may-threaten-competitive-play.md",
-      "title": "New machine learning-based cheating may threaten competitive play",
-      "excerpt": "Despite being illicit in games, and even illegal in some countries, the cheating industry has developed immensely, creating multi-million dollar businesses. You may think cheating is",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "originalUrl": "https://www.techspot.com/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/07/2021-07-08-image-11.jpg",
-          "width": 1498,
-          "height": 1001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90350-new-machine-learning-based-cheating-may-threaten-competitive.html",
-      "publishedDateTime": "2021-07-08T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

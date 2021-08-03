@@ -62,7 +62,7 @@
       "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -685,8 +685,8 @@
       "title": "Clinical Study: Kaia Health Computer Vision Technology as Accurate as Physical Therapists in Suggesting Exercise Corrections",
       "excerpt": "In the study, patients with osteoarthritis of the knee or hip performed a series of exercises while being simultaneously evaluated by computer vision technology and physical therapists. The results showed that physical therapists agreed as much with the exercise corrections suggested by Kaia Health computer vision technology as they did with each other's exercise corrections.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-clinical-study-kaia-health-computer-vision-technology-as-/2021/07/27/9417274.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-clinical-study-kaia-health-computer-vision-technology-as-/2021/07/27/9417274.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -696,12 +696,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:10:00-07:00",
+      "publishedDateTime": "2021-07-27T05:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

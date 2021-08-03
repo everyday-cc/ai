@@ -2,6 +2,181 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
+      "title": "Design for responsible AI with Microsoft’s HAX",
+      "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "originalUrl": "https://www.infoworld.com/article/3626696/design-for-responsible-ai-with-microsoft-hax.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes.md",
+      "title": "POLITICO AI: Decoded: Algorithmic transparency — Germany on facial recognition — Ethical deep fakes?",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-algorithmic-transparency-germany-on-facial-recognition-ethical-deep-fakes/amp/",
+      "publishedDateTime": "2021-07-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-fintech-can-harness-the-power-of-aws-aiml.md",
+      "title": "How Fintech can harness the power of AWS AI/ML",
+      "excerpt": "Arun Kumar Lokanatha, AI/ ML Specialist Solutions Architect, AISPL, will discuss different AWS services, such as Amazon Textract, Amazon Rekognition, Amazon Comprehend, Amazon Sagemaker and Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "originalUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/Imagetht2-1627460868024.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/07/fintech-harness-power-aws-ai-ml/amp",
+      "publishedDateTime": "2021-07-28T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-australias-digital-minister-avoiding-legislating-ai-ethics-and-will-remain-voluntary-framework.md",
+      "title": "Australia's digital minister avoiding legislating AI ethics and will remain voluntary framework",
+      "excerpt": "Minister for Superannuation, Financial Services and the Digital Economy Jane Hume said she's reluctant for the country's AI ethics framework to be more than a voluntary program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "originalUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "publishedDateTime": "2021-07-28T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-our-quantum-processor-at-the-deutsches-museum.md",
       "title": "Our quantum processor at the Deutsches Museum",
       "excerpt": "In 2019, our Quantum AI team achieved a beyond-classical computation by outperforming the world’s fastest classical computer. Today, a quantum processor from the Sycamore generation that accomplished this important computing milestone will be donated to the Deutsches Museum of Masterpieces of Science",
@@ -980,197 +1155,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
-      "title": "Artificial intelligence in structural biology is here to stay",
-      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0?error=cookies_not_supported&code=40285b74-ded6-48ad-9222-401db1c2e0ec",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0?error=cookies_not_supported&code=40285b74-ded6-48ad-9222-401db1c2e0ec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
-      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
-      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
-      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
-      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
-          "width": 797,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
-      "publishedDateTime": "2021-07-27T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-the-10-biggest-iot-news-stories-of-2021-so-far.md",
-      "title": "The 10 Biggest IoT News Stories Of 2021 (So Far)",
-      "excerpt": "Azure Percept works automatically with Azure AI, Azure Cognitive Services, Azure Machine Learning and Azure Live Video Analytics, and it’s integrated with Azure IoT services. Microsoft says that Percept can help customers use pre-built Azure AI models for object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
-      "originalUrl": "https://www.crn.com/slide-shows/internet-of-things/the-10-biggest-iot-news-stories-of-2021-so-far-/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11d584f4b2e8-61c054ae501a-1000/networking-city-edge-iot.jpg",
-          "width": 1500,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

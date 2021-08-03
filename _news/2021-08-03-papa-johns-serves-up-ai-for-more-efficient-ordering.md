@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3627229/papa-johns-serves-up-ai-for-mo
 webUrl: "https://www.cio.com/article/3627229/papa-johns-serves-up-ai-for-more-efficient-ordering.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Driving Fulfilment Efficiencies With Artificial Intelligence"
-    excerpt: "To achieve operational efficiency and thrive in the future of retail, brands must establish a customer-focused supply chain driven by innovative technologies such as Artificial Intelligence (AI)."
-    publishedDateTime: 2021-07-29T23:16:00Z
-    webUrl: "https://www.mytotalretail.com/article/driving-fulfilment-efficiencies-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 37
-    images:
-      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/01/GettyImages-1200738163.jpg&w=750&h=340"
-        width: 750
-        height: 340
-        isCached: true
 
 secured: "MOJ4OAJNmkCa6Ky7bM4yiNCV3wTlPn4Qb10O3DK0f/owTphV+X1/bqbfVg598yvSH+9N80jUnuwSCEMGm4AIehOATTOo8MqumRTS4ZBqvUmcn61Xi/ZQXqCwIjdrtxG+o6TNWaTeATrtvIj0+N6BhdGFt/VyruRMlLa5BjKMBkEOHcKAag+qSQdIj4SqxPdL7iKBj8TPeQVHcwurluBdyxwgroTR2o2xHxn9MxCm6ACWM818d/AZI22V3RQDVVrUyKRJUXPkiOA9mQ75Ohmn2gsmo46HCeroFoZWaBbaqNlSkxWkD5Ejz/tyJkJGOfZNs43mjdmPhHnijx3/P5pA89gighgmOxTCXhIX4DwspsY=;RZtE08yrB8vh4gIxpOq/Kg=="
 ---

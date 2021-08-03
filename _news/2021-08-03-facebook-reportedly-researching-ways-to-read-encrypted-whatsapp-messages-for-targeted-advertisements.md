@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/amp/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1266
     isCached: true
 
-secured: "YbxW1kRPLvRPan6vhug4sJ4oBT0d8+VdX2CEX+i7qPoEYWqNT2A8xfvaoOM7ExEtD56twZn+Rpv6TEkQtC6jMyy761YzoKAGjjKFxAFHxVuOcn82mv4SRE2efRe3OwIjQ47S7eFgtCWsE6EwSYvuRRIfyj4z1AVNR76zFSaTpY1niyTHegvkibB1loN+OwCRFpaNmbGf4TvdgFqJggLba9P0/+L4kgRC/R+1FkHhHKaod+Cj176eygN5tq8U1QatcSiYEcynQk0kRPfW1n/cEtsOjOT019m4skm4B5x5o1OGNW7NMS2pjObPFygWpAdzH8Lqd4vuRJKVfObbOfZY/N2+fElSy8VL6kWRKOzCF3g=;KUymGH/0uQsBjsLHqyY+Cg=="
+related:
+  - title: "Facebook to use AI to analyze encrypted content - report"
+    excerpt: "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The"
+    publishedDateTime: 2021-08-03T15:29:00Z
+    webUrl: "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483"
+    ampWebUrl: "https://www.teletrader.com/amp/news/details/56129483"
+    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483"
+    type: article
+    provider:
+      name: teletrader.com
+      domain: teletrader.com
+    quality: 59
+    images:
+      - url: "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70"
+        width: 800
+        height: 450
+        isCached: true
+
+secured: "SEwTzHLPsYyoe0TqDjtldb4sjsXveXfEPILm9VzUq+KinTLuA1WsCr6DluBMcf9jU4xvVii0uosPrfe3mM0FDx9p8PhCRN8TmmnyLeUQ2OTNxxzSMNYnHhICHNxPxOaJmwELbUKjO7TbRkoWvaD3y/36iofMtqU+wWgl9BUKzXVuLQMTJoSdOXglCbE7DMDojI43eI7TSHs7rUO63g91oyHYBuRP0BUIAz3m1DJPxylD4hNm9XF1NU1IYXdyBJWRa3L72Jaq+jiax517y6ElmvYX33UUADygqG2K/qR8ec+gRXiPZfOVRLYXTQux6msI/sXDN6w0j4gEFopyhUsz9Ek1vl4zwdeFq2L75JHhlKhsn31OlbW9Mqz7YN1Ene8ABOTxjtyefk07cf8jnCYP/OBPMjafU3oemONxJF/A/nnbDjX8uQNPJB8HnmoIUKCytDsfSC6y4p1doy1PUoXTS7CCSCuXQbEiJSYnVMQqWggd6SMDz9JP22b/ch2HuDw1dPw4dzL4bOZnmXYnTTaIow==;/uaPONIEVuxvic0HPTQ29A=="
 ---
 

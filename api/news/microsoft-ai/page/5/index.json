@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-22-altigen-launches-coreinteract-for-microsoft-teams.md",
+      "title": "Altigen Launches CoreInteract for Microsoft Teams",
+      "excerpt": "Altigen Communications Inc., a Silicon Valley- based Microsoft ISV and Cloud Solutions provider, today announced the availability of CoreInteract, the first AI-based Enterprise Customer Engagement platform for Microsoft Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/altigen-launches-coreinteract-for-microsoft-teams-2021-06-22",
+      "originalUrl": "https://www.nasdaq.com/press-release/altigen-launches-coreinteract-for-microsoft-teams-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-marginal-rise-in-global-it-outsourcing-demand-in-q1-2021-everest-group.md",
       "title": "Marginal rise in global IT outsourcing demand in Q1, 2021: Everest Group",
       "excerpt": "Global IT outsourcing demand witnessed a marginal increase quarter-on-quarter with 436 outsourcing transactions completed in Q1 2021 compared to 422 in Q4 2020, says a report by Everest Group. The uptick in global sourcing transactions in Q1 2021 over Q4 2020 was driven by demand for cloud services,",

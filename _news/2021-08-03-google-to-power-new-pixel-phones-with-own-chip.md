@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s new Pixel phones go big on AI for better photos, faster speech recognition"
-    excerpt: "Google’s coming Pixel 6 and Pixel 6 Pro smartphones — slated to launch later this year — will not just pack more cameras and sleeker designs, but they will also contain new processors, designed entirely in-house and born from the Mountain View,"
-    publishedDateTime: 2021-08-02T17:34:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/08/02/google-pixel-6-tensor-chip/"
+  - title: "The next Google smartphone will sport an in-house mobile chip"
+    excerpt: "Blaming computing limitations of third-party options, Google announced that the Pixel 6, will be powered by an in-house chip called Tensor."
+    publishedDateTime: 2021-08-03T16:05:00Z
+    webUrl: "https://www.rcrwireless.com/20210803/chips/the-next-google-smartphone-will-sport-an-in-house-mobile-chip"
+    ampWebUrl: "https://www.rcrwireless.com/20210803/chips/the-next-google-smartphone-will-sport-an-in-house-mobile-chip/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210803/chips/the-next-google-smartphone-will-sport-an-in-house-mobile-chip/amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 50
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 59
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MRUHEZHMMVEKVCMXJWS65FCSMI.jpg&w=1440"
-        width: 1440
-        height: 848
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2021/08/106920422-1627909672481google-tensor-PNG.jpeg"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "4Bp/VMo+Poyq2RBFyJCPDwrxXhz3fMtXF/Foio93skut0VSrbqHoRzXVnOjJGsNN6fVWVhRmizhbOId84tctz3HUp9whL6pU9f/3EbcVpULN6jqosZHDo5CIGm7mvV/7bMlr+lazLnFSa6evqE3nHKnx0KYLl0f9brBuyk97eQ/5LE2rdozSUQuzvIX7Rp0FFg2qYSuvJZrz8C82YuXnn/+Ped6LWO5wbaOIryp+KnC+zE5zo2uHPX2LrxeCNpaVFzsMG8GgTkOa2bCYu1m/1mEmbY6bfh2e51v6/nC7/rQ9smiPeQQRj66FPwkp/lFDhXlL4/hzTgPXrYuSeGqeeeEwA7HbnSCzroerTX9Gc/zjYFeyxIMzPt3B8FjOkyx10GZVUWM4Hxj3pfJL7T2If2w8b5qWI6LKHS0qXJRxWbEyeee/+I0FzaY1G9pqlixuo4nIJYfvcefo8EFdqyImgyZRcwEaPtOv3WlYMP3GtcB97B8blnnvyJ1LOgSQOJ7OVKxE6T5/v3+doE4ThGF1Tw==;5xi2jxZVCB0M0znmWq3p3A=="

@@ -1,21 +1,15 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
-publishedDateTime: 2021-07-23T13:58:00Z
-originalUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
-webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ..."
+publishedDateTime: 2021-07-23T15:37:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
@@ -23,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
-    width: 817
-    height: 545
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/15280054/16x9/991/557/8aa600f18375888ddef8e65715e2d356/gZ/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg"
+    width: 991
+    height: 557
     isCached: true
 
-secured: "UC8uvkWrh5ig6qasDy1qJ9/TBnfnpIp+j2UwuqKNTgWvSP0yU0sS8YJY4dSupM+yg412HxVFd0EM0oegBuWzguq0sdkhk7SZfHnJzCcku19RYQx24r/vppc0hRWN1srXFP7rn5NgZM3Q6FIFYPfZLUy9x2krT5chCaz9q5NqZ8VQd9r6BapLAsQmhfCrhk0oOEMzqH02hUhp2DhefylP9t0aVV4kkQOI9gsK4a38MXrBKmiBuI10DdJzgYDgEJYskSeLPZHQFfrqnZABgaNlMIfDjJHEwIbaJim1yeO7dv1uY06qEB+laa2jOXOwWl7kKChN5MB0rgFbC1aFT6WQPOmjrcn4ymr/TweclpeP5VQ=;wrbLeDhdKcjGMAoCUdLmaw=="
+secured: "vhR9FWXj6ykxUyspq64OAD8kxAgzG+yGjVA2mp42EYituJz6ez4ldfZA6CS0cbl1wc5sFKPokzFHcWHVyy3ExHshzsn1nJuRTRF1WzzAPxdsoDmKFcE36MK0itEkcqPwYIu6GqNIDyoHsMdnc2lNZbGysMb3uOCarV9vDo/yYaKR2hnEcC3oT7cSqHOBpMWbUJojf4uxyLk9ItSklWHZkR5Twmc3ql+PW3rb8e1GY4ygvydmqUx/dPVxZRs/GVH1UGMJOrkf7dmeDO/tcZDwGXhhYCJVTLvWkXtmhrU28iXj6q1Asfo8hkHY2bvoFcsDmWJYxjigYfrx0ulCXG7c8pPjr1mz5Ncf9nfoZKchqXI=;ec3rL7pZuSfAacDyt5QxpA=="
 ---
 

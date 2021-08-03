@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
+      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
+      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "publishedDateTime": "2021-08-03T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-intel-expands-ai-career-education-program-to-18-community-colleges.md",
       "title": "Intel expands AI career education program to 18 community colleges",
       "excerpt": "Program will teach data collection, computer vision and AI model training to community college students in 11 states.",
@@ -1407,49 +1450,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-nvidia-dives-into-industrial-high-performance-computing-with-hgx-platform.md",
-      "title": "NVIDIA Dives Into Industrial High-performance Computing with HGX Platform",
-      "excerpt": "NVIDIA's A100 Tensor Core GPU. Screenshot used Courtesy of NVIDIA It boasts an efficiency twenty times higher than the existing NVIDIA Volta generation, a feature that can adequately meet data analytics, HPC, and AI needs. It is multi-instance GPU-enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "originalUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/NVIDIA_HGX_HPC_Platform_thumbnail.jpg",
-          "width": 700,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

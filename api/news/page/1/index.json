@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more.md",
+      "title": "Robo Olympians? Olympics schedule packed with bots, AI, VR and more",
+      "excerpt": "Aside from premier athletic competition, the quadrennial event is also showcasing a number of cutting-edge technologies, carrying on a tradition of Olympic innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/03/ac96dff2-23aa-417c-8954-e4c2aadef4ce/resize/1200x/688a721932d9c2efbf5f45f9d06ae5d7/olympics.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "publishedDateTime": "2021-08-03T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
+      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
+      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "publishedDateTime": "2021-08-03T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-global-artificial-intelligence-ai-robots-market-to-reach-214-billion-by-2026.md",
       "title": "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026",
       "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -240,6 +334,59 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Assessment & Opportunity Forecast",
+      "excerpt": "Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The Machine Learning-as-a-service (MLaaS) Market was valued at USD 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -505,7 +652,7 @@
       "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -704,6 +851,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
+      "title": "Building architectures that can handle the world’s data",
+      "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
+      "originalUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/1n_yePOWxc4Hkbu9VGKwp9vPA8csYODFddaa3hmB7hWu0ln1sz6s6w_xHVluAqsO7-zEYo5xt6C3b1ACrlCve1sOYAG7w2R8mSM2nwnsU2DARM8y9fY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-why-the-pixel-6s-tensor-chip-is-actually-a-big-deal-and-why-it-isnt.md",
       "title": "Why the Pixel 6's Tensor chip is actually a big deal (and why it isn’t)",
       "excerpt": "The Google Tensor SoC sets the Pixel 6 up as an artificial intelligence powerhouse, but that's not the only thing to consider.",
@@ -816,7 +1015,7 @@
       "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1037,204 +1236,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-sales-productivity-startup-nectarai-raises-funding-led-by-3one4-others.md",
-      "title": "Sales productivity startup Nectar.AI raises funding led by 3One4, others",
-      "excerpt": "Nektar.AI, a SaaS-based B2B sales productivity startup, has raised $6 million (Rs 44.6 crore) in seed funding led by B Capital",
-      "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others",
-      "originalUrl": "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg",
-          "width": 810,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-levi-strauss-dr-katia-walsh-on-why-diversity-in-ai-and-ml-is-non-negotiable.md",
-      "title": "Levi-Strauss’ Dr. Katia Walsh on why diversity in AI and ML is non-negotiable",
-      "excerpt": "Levi's chief strategy and artificial intelligence officer talks about the power of diversity and using technology for good.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/2020-Katia-Walsh-HiRes.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/levi-strauss-dr-katia-walsh-on-why-diversity-is-non-negotiable-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-02T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-nvidia-launches-base-command-platform-to-accelerate-ai-workloads.md",
-      "title": "Nvidia launches Base Command Platform to accelerate AI workloads",
-      "excerpt": "Nvidia launched Base Command Platform, a service designed to accelerate enterprise workflows using cloud infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1208744151.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/amp/",
-      "publishedDateTime": "2021-08-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

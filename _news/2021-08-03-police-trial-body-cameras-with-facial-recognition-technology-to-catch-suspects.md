@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-camera
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "UK police forces trialing retrospective facial recognition from bodycam maker"
+    excerpt: "British police are testing retrospective facial recognition software provided by Reveal, which also has a line of bodycams capable of live face biometrics."
+    publishedDateTime: 2021-08-03T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202108/uk-police-forces-trialing-retrospective-facial-recognition-from-bodycam-maker"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Facial recognition technology introduced to body worn cameras for the first time"
     excerpt: "British technology firm Reveal has introduced new AI that brings facial recognition to body worn cameras for the first time."
     publishedDateTime: 2021-08-02T09:21:00Z

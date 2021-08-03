@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-launches-base-command-plat
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-launches-base-command-platform-to-accelerate-ai-workloads/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

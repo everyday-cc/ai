@@ -44,6 +44,15 @@ related:
         width: 620
         height: 377
         isCached: true
+  - title: "Investors Watch Tesla (TSLA) AI Day for Next Growth Milestone"
+    excerpt: "T esla’s Artificial Intelligence (AI) day is fast approaching. And while CEO Elon Musk insists the date will be focused on recruiting “the best talent” to boost its machine-"
+    publishedDateTime: 2021-08-03T16:56:00Z
+    webUrl: "https://www.nasdaq.com/articles/investors-watch-tesla-tsla-ai-day-for-next-growth-milestone-2021-08-03"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 66
   - title: "Royal Commission says artificial intelligence won't be used on abuse testimony"
     excerpt: "The Royal Commission into historic abuse in care says artificial intelligence used to analyse documents will not review survivors' written submissions."
     publishedDateTime: 2021-07-31T21:55:00Z

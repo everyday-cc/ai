@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million"
+    excerpt: "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,"
+    publishedDateTime: 2021-08-03T16:25:00Z
+    webUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/"
+    ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
   - title: "A.I. Based EdTech start-up SP Robotic Works raises USD 3 mn in Series A funding"
     excerpt: "A.I. based Edutainment start-up, SP Robotic Works raises $3Mn in Series A funding led by Mount Judi India Growth Fund. The funding round witnessed additional participation from BCCL and its existing investors Indian Angel Network and multiple renowned Angel Investors like Ajai Chowdhry(Founder,"
     publishedDateTime: 2021-07-30T05:45:00Z

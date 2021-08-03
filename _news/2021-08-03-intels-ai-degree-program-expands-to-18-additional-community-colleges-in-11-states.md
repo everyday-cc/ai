@@ -3,10 +3,10 @@ category: news
 title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
 excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
 publishedDateTime: 2021-08-03T13:32:00Z
-originalUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html?src=rss"
-webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html?src=rss"
+originalUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html"
+webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -74,6 +75,6 @@ related:
       domain: eventbrite.sg
     quality: 32
 
-secured: "7/o3qanAiCuo/cEYEp89TADK3eAAtwjEJsZUIcctUjJkPhrYPToOzHC8OAwDUIPekfvjdv0JlT7b9QD4MmqQXLwY2mGet3h0k7+P9X9OUZGohHOHc5LN+ZYsKoLU0sJpopzfH9c4OKCR0vaudRaJ+sG7aTWmrzOb9uqlHr/0wb2M5KNi9FAvz/Dj4SU0Tb4gfA4MaB8ItF44oNVBfbHKakiETxF9y5p0RHX7Mojq0NMNu2X8nlXI3CYpTXtAaEMR16Y1vLF4sVCvhh2GsEOA++wHpoeC+hM6qzXzWV+sA8KvLb3eM1JwaidUXVHyPx5vj9XdHQUA87bOcRKtCKVdMbMt8cY6BmH8LPAqOG3ND2w=;B3U6mBi98yRg/fYuAcf2uQ=="
+secured: "zATaWG6ZhCijAorqKZDgk3/QtZi8Qz3291Q0+BdIz9Ge+klcPo2sdVxk4vhQ8iIstn6HVIkHEzMwHtvvSX2Gn6KCWOaFyG9GF01c6drge+C0b7vYWDRoRK8gzIqH6REEBUiCH0FO6nUKIsDtkKveg4SNMlkF9y4rVRjEiRm16NW5hOzFNu5ehmnDzNZtx5F0OVmysc6WJ6TiEf3hpXbwb9SyN6ZEP4rqvkuxhCiA1pEPT5P1k9qLDf36X2Uk9fK+DWlPfJL8NC6V1Zvy+xi8rugkHA7AvdvQhZKBW2wiwavITbGlwha1bQrfSF0ieHsfTuy17Ku2kIyLABh+km9LNk6zMu3hkq9fwx/B9yxBB5k=;M8sGElKUBwMebtecD8oFbg=="
 ---
 

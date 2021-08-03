@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-lead
 webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tennis Is Now On The Cloud And Powered By Applied AI, And This Is How Roland-Garros Did It"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into the Roland-Garros Players Application for players and coaches. Patrick talks about how it offers AI-powered match analysis with cognitive capabilities such as natural language search."
+    publishedDateTime: 2021-08-03T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 77
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
+        width: 468
+        height: 312
+        isCached: true
   - title: "Artificial intelligence and the workplace"
     excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
     publishedDateTime: 2021-08-03T09:16:00Z

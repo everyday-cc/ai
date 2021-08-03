@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-09-blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year.md",
+      "title": "Blue Prism & Lateetud, Inc. recognized as finalists of the 2021 Microsoft AI Partner of the Year",
+      "excerpt": "LONDON and AUSTIN, Texas and WASHINGTON, July 8, 2021 /PRNewswire/ -- Blue Prism® and Lateetud today announced that their joint solution has been",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/blue-prism-lateetud-inc-recognized-as-finalists-of-the-2021-microsoft-ai-partner-of-the-year-1030591185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-openai-warns-ai-behind-githubs-copilot-may-be-susceptible-to-bias.md",
       "title": "OpenAI warns AI behind GitHub’s Copilot may be susceptible to bias",
       "excerpt": "Take our AI survey to find out ... While Codex was trained on Microsoft Azure, which OpenAI notes purchases carbon credits and sources “significant amounts of renewable energy,” the company ...",
@@ -1299,58 +1342,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/microsoft-launches-azure-arc-enabled-sql-in-general-availability/amp/",
       "publishedDateTime": "2021-06-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-augtera-networks-raises-13m-to-apply-ai-to-networking.md",
-      "title": "Augtera Networks raises $13M to apply AI to networking",
-      "excerpt": "Augtera, a startup developing an \"AI-augmented\" networking analytics platform, has raised $13 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/broadband_speed_lights-e1624418067436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/augtera-networks-raises-13m-to-apply-ai-to-networking/amp/",
-      "publishedDateTime": "2021-06-29T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
