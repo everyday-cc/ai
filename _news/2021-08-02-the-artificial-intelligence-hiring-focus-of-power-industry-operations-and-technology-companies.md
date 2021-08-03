@@ -38,6 +38,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How three AI technologies can sharpen a company's strategic edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T05:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924152"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02791db4-f876-4d8f-a20c-e405d9db8239/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Where are mining industry operations and technologies companies focusing their artificial intelligence hiring efforts?"
     excerpt: "Companies are increasingly hiring for artificial intelligence roles in the mining sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among mining industry operations and technologies companies."
     publishedDateTime: 2021-08-02T12:43:00Z

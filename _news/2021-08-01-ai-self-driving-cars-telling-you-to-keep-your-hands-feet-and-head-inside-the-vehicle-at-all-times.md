@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61022d632ca733a2009b3e41%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3870%26cropY1%3D354%26cropY2%3D2472"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
-    type: article
-    provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
         isCached: true
   - title: "VW boss: Data to be key issue for future of self-driving cars"
     excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."

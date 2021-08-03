@@ -40,21 +40,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Qubit Uses Deep Learning and AI to Help Retailers Perfect Personalization Efforts"
-    excerpt: "Qubit has launched Qubit CommerceAI, a tool that leverages AI, deep learning and machine learning to deliver advanced 1:1 personalization techniques. The Qubit CommerceAI models are designed to understand and react instantly to customer context in order to unlock more value from retailers’ entire product catalog."
-    publishedDateTime: 2021-07-29T12:49:00Z
-    webUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts"
-    ampWebUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
+  - title: "Interesting Books to Read on Artificial Intelligence for Tech Enthusiasts"
+    excerpt: "Artificial intelligence is transforming our lives with innovative AI applications. To understand how the technology works, here are the best AI books."
+    publishedDateTime: 2021-08-03T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 69
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
     images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/07/QubitGoogleRecAI-002.jpg"
-        width: 512
-        height: 314
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "eyogH87ousvmjrmWXX5+E3XAXQQSh8sciDb1ehv9ovAahE65brM6qLI+ecga/h5T07GeRzpI8bjly2zo1krI3h4fYfNuvYSW8qtQRpOUPwFjCbzvXFHOU57TFLlbJquQNDkSOI4LqTnxJVCZKfaC1eTMww6dUfZ79xWUiYLYnMtYMDZYC48USAxtnNpgtKw0zaafjRCoGIfbuHsSy5aa98FAv8PU5QGiFawyhXMi402rmt5M4QcVppas4NpcoqpVMf5UHbrvATnbSNQGvLB4H4V02vHh7QVUifwk24mw16Xb0ARV4TbiHgA/lH7i4J8Tfqm/TEp/rfOsX74QP5nr7/3xwWGIAIfY+5irPpLFAh4=;WRN/wNa+ABnqxuWCmDYAfQ=="

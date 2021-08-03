@@ -2,6 +2,134 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-27-what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in.md",
+      "title": "What Should The Role Of AI Be In Mitigating Climate Crisis? Aleksandr Blyumkin Of Petroteq Weighs In",
+      "excerpt": "For years now, sustainable energy has been a significant area of study for scientists, fueled by the ever-increasing need to slow down climate change with innovative, effective technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ff86aafa1320676d00e5cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "publishedDateTime": "2021-07-26T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
+      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
+      "excerpt": "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic.md",
+      "title": "IBM Federated Learning and Data Fabric: Preparing for the Next Pandemic",
+      "excerpt": "As we’ve recently discovered, pandemics are still a thing—and a thing that is likely to recur at an increasing cadence either due to variants of current",
+      "sourceUrl": null,
+      "webUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
+      "originalUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techspective.net/wp-content/uploads/2021/07/covid-19-5070666_1920.jpg",
+          "width": 1920,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
+      "publishedDateTime": "2021-07-26T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techspective.net",
+        "domain": "techspective.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-generally-capable-agents-emerge-from-open-ended-play.md",
       "title": "Generally capable agents emerge from open-ended play",
       "excerpt": "In new work, algorithmic advances and new training environments lead to agents which exhibit general heuristic behaviours.",
@@ -416,6 +544,40 @@
       ]
     },
     {
+      "path": "_news/2021-07-27-spatial-vision-in-humans-and-robots.md",
+      "title": "Spatial Vision in Humans and Robots",
+      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "originalUrl": "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-poplar-healthcare-has-been-acquired-by-boston-based-artificial-intelligence-company.md",
       "title": "Poplar Healthcare has been acquired by Boston-based artificial intelligence company",
       "excerpt": "Poplar Healthcare provides lab testing services to gastroenterologists, dermatologists, oncologists, urologists and gynecologists across the US.",
@@ -726,25 +888,34 @@
     },
     {
       "path": "_news/2021-07-26-analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021.md",
-      "title": "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021",
-      "excerpt": "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
+      "title": "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021",
+      "excerpt": "Analytics Insight has announced ′ Top Robotics Companies at the Forefront of Innovation in 2021 ’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:16:00-07:00",
+      "publishedDateTime": "2021-07-26T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -867,8 +1038,8 @@
       "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
       "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -999,198 +1170,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
-      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
-      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
-          "width": 1187,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "publishedDateTime": "2021-07-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
-      "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U726100798_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "publishedDateTime": "2021-07-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-despite-controversies-and-bans-facial-recognition-startups-are-flush-with-vc-cash.md",
-      "title": "Despite controversies and bans, facial recognition startups are flush with VC cash",
-      "excerpt": "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
-      "originalUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
-      "publishedDateTime": "2021-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic.md",
-      "title": "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic",
-      "excerpt": "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
-      "originalUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

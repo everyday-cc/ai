@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
-    type: article
-    provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
-        isCached: true
 
 secured: "POz+G4nzZeigUuGJ5nfnI2QM96bDLaLdxL7+HhGt+48gFxovnWARbb0vWwkd3F4GvEmNNWEf7InImJhV8kBS/5A5mqhme8QkHkjydl00Tm1GT5N+GDgY5XfIfoguFdvd23pPS4OPW5TLOpqAxGX2rvZg9rjL/dc+spWIqC3fDGDgn8GEckoHWviLpGanXZXQ4E5A4GgFjsYizOtLmOObzVXOkgZjwWNOKFjMjBZOdIxP07vhj+ETkTaBUU79VATQ9HKpg/t0P7F/ksxSui3x4/kza9JNEbNhm29XMH06lsPGqhlrNVBE7uqRlQ/DWqqagp5Luum0dXiJhSqyZ1+OFLzAkVj1TZpKaraaXkYj3gxEhumuHRgQ74X8oGN61LxD/ujGzNgQRVwrG57PVPWreelMfiLjCzIKIAYY+gdcJ8NXpQuij3kaK6XYNDtCf6LviHdlDCz7CK08PrLTimQCJwJ7dPss+1c3Y4vVtFIsefZWY1AuBUCFeOGr7WICDJepPtiOZ2Umm0QfXXt3h6pPdw==;pHqRGVKXsdzndIpebLR+vQ=="
 ---

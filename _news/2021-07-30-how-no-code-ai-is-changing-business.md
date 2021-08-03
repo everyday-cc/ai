@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202108/thumb_wo_text-sixteen_nine.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "6 Groundbreaking Ways Artificial Intelligence is Changing 21st-Century Finance"
-    excerpt: "Finance is undergoing a distinct change after the application of artificial intelligence. Effects of AI in finance basically bring automation in the process of personalized banking, taking loans and other payments."
-    publishedDateTime: 2021-07-29T11:35:00Z
-    webUrl: "https://www.analyticsinsight.net/6-groundbreaking-ways-artificial-intelligence-is-changing-21st-century-finance/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 50
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Amanda-Girard.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "How AI Chatbot is changing businesses rapidly"
     excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."

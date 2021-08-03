@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self Driving Cars And Some Of The Worst Vehicles Ever Made"
-    excerpt: "We are seeing advanced technology in every corner of our world and as A.I. continues to emerge everywhere self-driving cars are being tested as a possibly for future transportation."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://wnbf.com/self-driving-cars-and-some-of-the-worst-vehicles-ever-made/"
-    type: article
-    provider:
-      name: WNBF
-      domain: wnbf.com
-    quality: 39
-    images:
-      - url: "https://townsquare.media/site/499/files/2021/07/attachment-GettyImages-51933806.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
-        width: 1199
-        height: 807
-        isCached: true
   - title: "VW boss: Data to be key issue for future of self-driving cars"
     excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
     publishedDateTime: 2021-08-01T11:11:00Z

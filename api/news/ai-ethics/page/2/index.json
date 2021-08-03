@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-11-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing.md",
+      "title": "Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing",
+      "excerpt": "As AI is making its way into more companies, the board and senior executives need to mitigate the risk of their AI-based systems. One area of risk includes the reputational, regulatory, and legal risks of AI-led ethical decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e206390862dfc89cf2cba4%2F0x0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/07/11/google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing/amp/",
+      "publishedDateTime": "2021-07-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-ai-brings-promise-and-peril-to-customer-relations-management.md",
       "title": "AI brings promise and peril to customer relations management",
       "excerpt": "Keeping customers happy requires a lot of data, and CRM platforms are increasingly relying on AI to meet those expectations.",
@@ -1399,51 +1452,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
-      "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
-      "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
-      "originalUrl": "https://techwireasia.com/2021/06/pomelo-machine-learning-ai-fashion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/06/Pomelo-Fashion-4-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/06/pomelo-machine-learning-ai-fashion/",
-      "publishedDateTime": "2021-06-28T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance",
         "AI Ethics"
       ]
     }

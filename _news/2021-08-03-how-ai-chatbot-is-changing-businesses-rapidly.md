@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "6 Groundbreaking Ways Artificial Intelligence is Changing 21st-Century Finance"
-    excerpt: "Finance is undergoing a distinct change after the application of artificial intelligence. Effects of AI in finance basically bring automation in the process of personalized banking, taking loans and other payments."
-    publishedDateTime: 2021-07-29T11:35:00Z
-    webUrl: "https://www.analyticsinsight.net/6-groundbreaking-ways-artificial-intelligence-is-changing-21st-century-finance/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 50
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/Amanda-Girard.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Upping Your New Business Game with AI"
     excerpt: "With demand for technology innovation and efficiency at an all-time high, we can look to Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) to help streamline and automate proposal and RFP management,"
     publishedDateTime: 2021-07-30T18:30:00Z

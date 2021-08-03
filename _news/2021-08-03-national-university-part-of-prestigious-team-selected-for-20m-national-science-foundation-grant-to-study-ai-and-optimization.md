@@ -65,6 +65,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "I4OsA0XUDpqFIaJC64dvimmEjhX6TeK6d5ilLKz1kubdDv3DKG52m2f321FicUR3fDbofCoEoU+CZpb9NOGISpdMvbxXHmFP29F8kNqcoaDq7P2Eg2Z6PIdUqcfArJlfqxKo4aMUWXxrXAz1L2x8yGPDusP/R3nvt5o2+moO0qKoP6s9eh8C31VGHuaEFwkTL4Etwy6JZtR6UXpDqAGoAshy3flE4YAswIZgXCjuXLs2QrkAIppnzJ5bZb19kEppjVqbQaJUcQJkJn7NDC46+b3fXIcfxd3xBDziAP10EG5vpylnHrGOgnmQ60Q6aXjQeU+JHidArHH+LKctQgtUuFAoS5Y4tNRlE4ekzLFHWiI=;/JbpJ5vF4DQSipQp1KCvXw=="
 ---

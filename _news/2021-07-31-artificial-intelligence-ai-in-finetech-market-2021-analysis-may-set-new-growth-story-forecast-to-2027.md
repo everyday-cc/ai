@@ -49,17 +49,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
-    publishedDateTime: 2021-07-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
   - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
     publishedDateTime: 2021-08-02T17:28:00Z

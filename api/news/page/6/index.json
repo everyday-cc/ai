@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
+      "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
+      "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
+      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
+      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hollywoodsoapbox.com",
+        "domain": "hollywoodsoapbox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
+      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
+      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
+          "width": 800,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "publishedDateTime": "2021-07-27T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
       "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
       "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
@@ -1085,134 +1223,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in.md",
-      "title": "What Should The Role Of AI Be In Mitigating Climate Crisis? Aleksandr Blyumkin Of Petroteq Weighs In",
-      "excerpt": "For years now, sustainable energy has been a significant area of study for scientists, fueled by the ever-increasing need to slow down climate change with innovative, effective technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ff86aafa1320676d00e5cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
-      "publishedDateTime": "2021-07-26T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
-      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
-      "excerpt": "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic.md",
-      "title": "IBM Federated Learning and Data Fabric: Preparing for the Next Pandemic",
-      "excerpt": "As we’ve recently discovered, pandemics are still a thing—and a thing that is likely to recur at an increasing cadence either due to variants of current",
-      "sourceUrl": null,
-      "webUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
-      "originalUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techspective.net/wp-content/uploads/2021/07/covid-19-5070666_1920.jpg",
-          "width": 1920,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
-      "publishedDateTime": "2021-07-26T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techspective.net",
-        "domain": "techspective.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

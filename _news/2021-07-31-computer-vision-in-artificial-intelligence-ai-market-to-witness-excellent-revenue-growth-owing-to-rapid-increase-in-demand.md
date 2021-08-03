@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence (AI) in Retail Market Size, Key Market Players, SWOT, Revenue Growth Analysis, 2016–2026"
-    excerpt: "The global Artificial Intelligence in the Retail Market is forecast to reach USD 18.74 Billion by 2026, according to a new report by Reports and Data. The retail industry has witnessed a surge in technological advances over the past decade."
-    publishedDateTime: 2021-07-29T12:52:00Z
-    webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/artificial-intelligence-ai-in-retail-market-size-key-market-players-swot-revenue-growth-analysis-2016-2026/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 33
 
 secured: "VVZ/D2rN7GHj4UDO1p+GiH4M8HmI0Brj/AXftw40VRMyCcCj2YrSBuk5Xdx+zRgKIZgLSxF7L4srVht62sklbb7tFaOY3LAFjJx5qx0uFoUCsZcvEDcUcHT+s2efcc9CZI5rVy6nvJXNr2LQ7d6tH9NKM9z4rvqZS/AB94l8IYO3qYxCHVtjE94Sw5oOAOfDbtMtgP97/270ui1Tt2dF5qMQVG//8hj94sisN3Gd1gT8pKYpN9qXkpKH96OK5mbbwvNZvDPWzTCgBMo2g7/FyLRBzj+AvXMxpHtu6oEwq5OJRcNh/1JOUxgF1iaYlnV/NaU6Qm4um55CoXxc8VjOwq2Sy6p3ebmB9tCYe3xdOsA=;aWs9c6y+p/gpDj3dl0ewug=="
 ---

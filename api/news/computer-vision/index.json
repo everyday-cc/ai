@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-police-trial-body-cameras-with-facial-recognition-technology-to-catch-suspects.md",
+      "title": "Police trial body cameras with facial recognition technology to catch suspects",
+      "excerpt": "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
+      "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
+      "publishedDateTime": "2021-08-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications.md",
       "title": "Chip suppliers, startups team up to advance edge AI for biometric applications",
       "excerpt": "Chip suppliers pair up to offer cutting-edge technology for facial and voice recognition as startups move from concept to production for edge AI processors.",
@@ -98,7 +141,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -139,6 +182,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
+      "title": "New law leaves facial recognition debate unsettled",
+      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "publishedDateTime": "2021-07-30T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -644,6 +730,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-spatial-vision-in-humans-and-robots.md",
+      "title": "Spatial Vision in Humans and Robots",
+      "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "originalUrl": "https://www.cambridge.org/mc/academic/subjects/computer-science/computer-graphics-image-processing-and-robotics/spatial-vision-humans-and-robots?format=HB&isbn=9780521430715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1278,145 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s facial recognition law shows bipartisan support for protecting privacy",
-      "excerpt": "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/amp/",
-      "publishedDateTime": "2021-07-20T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-25-computer-vision-engineer-interview-questions-and-answers.md",
-      "title": "25 Computer Vision Engineer Interview Questions and Answers",
-      "excerpt": "Ace Your Next Computer Vision Engineer Job Interview with these exclusive interview questions on computer vision based on diverse skills and concepts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
-      "originalUrl": "https://www.dezyre.com/article/computer-vision-engineer-interview-questions/450",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://daxg39y63pxwu.cloudfront.net/images/blog/computer-vision-engineer-interview-questions/Computer_Vision_Engineer_Interview_Questions.png",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeZyre",
-        "domain": "dezyre.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
-      "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
-      "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/plyable/",
-      "originalUrl": "https://techround.co.uk/tech/plyable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/07/CAD-1.jpg",
-          "width": 508,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/plyable/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/plyable/amp/",
-      "publishedDateTime": "2021-07-20T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

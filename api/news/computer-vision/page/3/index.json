@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-13-new-renesas-solution-for-automotive-cameras-enables-high-definition-video-using-low-cost-cables-and-connectors.md",
+      "title": "New Renesas Solution For Automotive Cameras Enables High-Definition Video Using Low-Cost Cables and Connectors",
+      "excerpt": "HD video is increasingly important in car safety systems for object recognition functionality. Renesas is a leader in the Advanced Driver Assist Systems (ADAS) market, and AHL can be paired with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005146/en/New-Renesas-Solution-For-Automotive-Cameras-Enables-High-Definition-Video-Using-Low-Cost-Cables-and-Connectors",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005146/en/New-Renesas-Solution-For-Automotive-Cameras-Enables-High-Definition-Video-Using-Low-Cost-Cables-and-Connectors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026.md",
+      "title": "Global Underwater Computer Vision Market 2021 Scope of Current and Future Industry, SWOT Analysis and Investment Feasibility 2026",
+      "excerpt": "According to MarketsandResearch.biz, the latest report titled Global Underwater Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 helps the firms in getting a comprehensive analysis of the industry which comprises an assessment of the parental market and gives forecast information on the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-underwater-computer-vision-market-2021-scope-of-current-and-future-industry-swot-analysis-and-investment-feasibility-2026-2021-07-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
+      "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
+      "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "originalUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gmauthority.com/blog/wp-content/uploads/2021/01/Cruise-Origin-Honda-Japan-autonomous-vehicle-mobility-service-MaaS-announcement-002-e1611168765981-1024x553.jpg",
+          "width": 1024,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "cdnAmpWebUrl": "https://gmauthority-com.cdn.ampproject.org/c/s/gmauthority.com/blog/2021/07/gm-ventures-increases-funding-in-ai-vision-software-company-algolux/amp/",
+      "publishedDateTime": "2021-07-12T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GM Authority",
+        "domain": "gmauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-12-superannotate-raises-145-million-to-help-automate-the-computer-vision-pipeline.md",
       "title": "SuperAnnotate Raises $14.5 Million To Help Automate The Computer Vision Pipeline",
       "excerpt": "The company looks to democratize the budding machine learning field by offering automation software and experts companies can tap.",
@@ -1203,135 +1332,6 @@
       "provider": {
         "name": "Slate",
         "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-moving-food-processing-to-industry-40-and-beyond.md",
-      "title": "Moving Food Processing to Industry 4.0 and Beyond",
-      "excerpt": "The next industrial paradigms are projected to have great impact not only on the food processing industry but also society and environment by augmented integration of physical processes, computation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
-      "originalUrl": "https://www.ift.org/news-and-publications/food-technology-magazine/issues/2021/july/columns/processing-food-processing-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ift.org/-/media/food-technology/column-images/2021/07/0721_col7_processing/c7_processing_tetrapak_725x408.jpg?la=en&h=408&w=725&mw=1290&hash=4C4BC6BD023230CF9E4015418D2743F8",
-          "width": 725,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institute of Food Technologists",
-        "domain": "ift.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition.md",
-      "title": "Maine just enacted the country's toughest restrictions on facial recognition",
-      "excerpt": "A new state law limits police use of facial recognition technology, and prohibits the tech in most areas of government, including in public schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
-      "originalUrl": "https://www.cnet.com/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/JSJk8OijM-5ytGsO6PCCqrCtyt8=/1200x630/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/maine-just-enacted-the-countrys-toughest-restrictions-on-facial-recognition/",
-      "publishedDateTime": "2021-07-01T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs.md",
-      "title": "Ambarella's (AMBA) CVflow Vision Processor to Power Arrival's EVs",
-      "excerpt": "AMBA recently announced that its CV2FS CVflow AI vision processor has been adopted by global electric vehicle (EV) manufacturer — Arrival ARVL — to build the environmental perception module for its vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarellas-amba-cvflow-vision-processor-to-power-arrivals-evs-2021-07-01?amp",
-      "publishedDateTime": "2021-07-01T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

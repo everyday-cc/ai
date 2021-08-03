@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Qubit Uses Deep Learning and AI to Help Retailers Perfect Personalization Efforts"
-    excerpt: "Qubit has launched Qubit CommerceAI, a tool that leverages AI, deep learning and machine learning to deliver advanced 1:1 personalization techniques. The Qubit CommerceAI models are designed to understand and react instantly to customer context in order to unlock more value from retailers’ entire product catalog."
-    publishedDateTime: 2021-07-29T12:49:00Z
-    webUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts"
-    ampWebUrl: "https://retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
-    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/personalization/qubit-uses-deep-learning-and-ai-to-help-retailers-perfect-personalization-efforts/amp"
+  - title: "Interesting Books to Read on Artificial Intelligence for Tech Enthusiasts"
+    excerpt: "Artificial intelligence is transforming our lives with innovative AI applications. To understand how the technology works, here are the best AI books."
+    publishedDateTime: 2021-08-03T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
     type: article
     provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 69
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 38
     images:
-      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/07/QubitGoogleRecAI-002.jpg"
-        width: 512
-        height: 314
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Salesforce Helps Enterprises Drive Loyalty Using AI"
     excerpt: "Concept: Salesforce has rolled out a Rebate Management solution to assist companies in automating, scaling and leveraging AI-enhanced observations for their rebate programs. Companies selling through various distribution channels can use the solution that provides a modifiable data model to foster visibility and collaboration for sales teams and partners."

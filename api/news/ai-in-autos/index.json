@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -300,10 +300,10 @@
     {
       "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
       "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
-      "excerpt": "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with improved AI/ML operations and internal components ...",
+      "excerpt": "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ...",
       "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/07/28/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -313,11 +313,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T17:18:00-07:00",
+      "publishedDateTime": "2021-07-28T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

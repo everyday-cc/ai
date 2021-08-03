@@ -281,7 +281,7 @@
       "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -334,7 +334,7 @@
       "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -944,25 +944,34 @@
     },
     {
       "path": "_news/2021-07-26-analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021.md",
-      "title": "Analytics Insight Announces 'Top Robotics Companies at the Forefront of Innovation' in 2021",
-      "excerpt": "Analytics Insight has announced 'Top Robotics Companies at the Forefront of Innovation in 2021' in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
+      "title": "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021",
+      "excerpt": "Analytics Insight has announced ′ Top Robotics Companies at the Forefront of Innovation in 2021 ’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/26/9416657.htm",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:16:00-07:00",
+      "publishedDateTime": "2021-07-26T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

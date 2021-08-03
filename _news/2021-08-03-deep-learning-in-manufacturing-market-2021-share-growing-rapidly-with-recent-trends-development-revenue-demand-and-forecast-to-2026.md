@@ -64,17 +64,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
-  - title: "Machine learning as a Service Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Machine Learning as a Service MLaaS market was valued at 1 6 billion in 2020 and is projected to reach 12 1 billion by 2026 registering a CAGR of 39 between 2021 and 2027 Due to the COVID 19"
-    publishedDateTime: 2021-07-29T11:55:00Z
-    webUrl: "https://www.openpr.com/news/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2340978/machine-learning-as-a-service-market-global-industry-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "4ooHQXPyoGf5Bl5CWo6t0otjWhaF5wtp1jSnqxpS6R54ZymUshT092Ug71J44Nmn61njkGfyBGuzpbX/f/wCvbA896pDIaRkO++6qvtEzIOTAoXWxssLv/0RMQRSww5y0jFCh8U2Bn4ljF8KXGA6A+oVbXXI7SHgBcuTrrfhf1008WWtmJ8wv41rqtH54ou8AW+6W26djlFOYux1GzyKTGv0yNb8Z7vVkR2bqn44ubDbQe0qbsPOhc+n0LGP7essQmbQvJUopn5h5k9DcsiqAfrHQDV5I34zRW78LEZeHaVpHvZnsRfhuny/B56sk0a8ia+rqAjn6AmsMBvHSJ34BEXjj0W0VhJUpA0Fk91oof8jIuMJ9MRdcoKqVxmG1HY0cBU9BbqaAF8KMTvEoUj+wUGiNtcdpZf4iuFoBUBP/PwSUI/EHMnM1oXVlSBeSWJ2tHe1yEFHdxcXLI4gohJ5UskXFrliYi8LMaFNI/kc3aXFXuwjzxEZOFr0LZ/RAfIgEaAiwVHD9krvg2eTRAbteQ==;vV63PEula0fKHhb4aC/Wcw=="
 ---

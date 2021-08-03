@@ -54,6 +54,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
     publishedDateTime: 2021-08-02T22:23:00Z
@@ -66,6 +80,6 @@ related:
       domain: benzinga.com
     quality: 12
 
-secured: "QT0dsARLToefuk2DNbCTk5x8R53+Xge4A0eJxuY48J44DM9+J4GJwC54EfD3LhLyF/IGOixCumh/8sc3Tg3YaS1hCBy2NGFjEnmqu097+0zAIY8ZV3LVZRq6sBqxoN0msYwYR/F8f+kQ287g7u2Ez4vFfxtfBxjzMmqRIcIXB2iNrXTHeBTBB2oUw1dfQVj1SnenE/Ri6ve4GalMdUkx08Evqfi3XKVivM9VLlcNwzxfHlNVw7e18xGRq3zsQ3SmfLmyR/tDeWkwJZQkWR72hPd6WVpzcgPUkKYeTfxxpU35guBVtvYu4JniPUCUmi/9H4YjrnMVLnzLN/g9cJJDefuYNQbRvRtJOHEpQQAuIQY=;NktuBN57aDdaBOzgTeQB3w=="
+secured: "RyWsjOz0DCOOtWpFJ9aRD+kGfQIO+ou0XSjOD8MCO6A3fJRM0JPWc//7i3SOYJTFPObDfTCUvhLSuvnnOY7T+em0u69jlnfQ44nVA40BVoTk0XDhcg3gB0XoujLQln+3+aBq4fhX1ycqV6TNh69Rjczo0iohlnQpjN9fYsNWXExwWommlrNMaFzBAgYZhmjC2Dj/GJZ16JIFTs+uqoqy5eglWTiT5LcvA6grJo4p+iDOXVPGODNFtUO9hvCEkaCVQK3dKHcfQZlrMcATRW9zNzqtBW4XBOxuo9Hd8iDjOuX5G9H9Z6feI4jlZL9SaW1XbHeEVk2YhVJX9H6of5gCn9xgepCtcoKxNrA7jPBGRFRSekp2lkcQBXd0MV8nSDimIzFZHkOBOuHUQuMGyMWCZ22F56o9qJqgtiZjunKlno3GhjAsB8Vk7dP0LQcbsquznTgg222WZt51nCpO60u2yoQUd00awrUD3mZLd1OhrxLSutVlQzl6JmMyXe4Fuvz4qiLkr7vrx8IvQW2fOGgPHw==;yLbmBLR5Uwx6CGZssLwlcg=="
 ---
 

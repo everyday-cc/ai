@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-
 webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "How three AI technologies can sharpen a company's strategic edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T05:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924152"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02791db4-f876-4d8f-a20c-e405d9db8239/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
   - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
     excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
     publishedDateTime: 2021-08-02T09:34:00Z

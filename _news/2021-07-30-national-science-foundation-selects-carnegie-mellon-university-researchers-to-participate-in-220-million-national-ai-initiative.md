@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "PM Modi launches Academic Credits Bank, other education initiatives on one year of NEP 2020"
-    excerpt: "The projects launched today include Academic Bank of Credits, AI-based translation of first-year engineering curriculum in 11 regional languages, internationalisation of higher education ..."
-    publishedDateTime: 2021-07-29T11:47:00Z
-    webUrl: "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020-11627558320738.html"
-    ampWebUrl: "https://www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/pm-modi-launches-academic-credits-bank-other-education-initiatives-on-one-year-of-nep-2020/amp-11627558320738.html"
+  - title: "Artificial intelligence institute led by UC San Diego lands $20 million from National Science Foundation"
+    excerpt: "Researchers will pursue fundamental breakthroughs to transform chip design, robotics and communication networks"
+    publishedDateTime: 2021-07-30T01:30:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 68
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 46
     images:
-      - url: "https://images.livemint.com/img/2021/07/29/600x338/b5af6ee0-ed4d-11eb-a043-f8aaa01a1d1e_1627242083337_1627558441877.jpg"
-        width: 600
-        height: 337
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
+        width: 320
+        height: 214
         isCached: true
 
 secured: "97m5Vue+U1LO/9DbBHZg+6JWy5RWG1NR/s/LxTyaN3FJh0YymSkAN+u9r6O/60QHXJG/8DCpdolojSGdMoYisPZvaJxkTl51TLLyS0pzzjl+cwIwWM5Sqgpdk5Dpw5wnWhj6rclP+OD4Ge3lK1n20qMztj0VaxTveswiwCUMdjEEnDk9Jaf3yabi6uv8h24gAcSMuE0AdL9RAu74iX/Vmyb+PsxwOCORQLw5oocbvldg60js1ESqajRz7IoKrQrsIv3Ae7g88YwkkMxzr8b7exXu1ZK5mF15tyF3waY45d4mYkl71XV8quuDyNBAHCzkhwOvy8YM2j+n82zdB5XLD9NLJCgQ7bBLtb5mdwYbIwfHLY+KV37AjA0Vum2qpJNAkurwkfGgODinFV0L7+tAGjqEyNeIKhBv1acqjDhjTUzw7DSMSc0XLGyPr/fcocZeKANdb2Q5bNv9klUndakPPsNJRXCIgJb5fYdv4Zo8OCcSVJKFCWGPV2XzL/v+tcgYKIw3obO0kpCyLM1oEcbFeQ==;TLwtFnToJOOKfFaX0wKNaQ=="
