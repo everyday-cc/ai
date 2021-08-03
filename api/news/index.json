@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-upcoming-pixel-6-and-6-pro-will-run-googles-own-ai-focused-tensor-chip.md",
+      "title": "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip",
+      "excerpt": "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/",
+      "originalUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true",
+      "publishedDateTime": "2021-08-03T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr.md",
+      "title": "Gapsquare, a pioneer of machine learning into gender pay disparity, is acquired by XpertHR",
+      "excerpt": "Inequalities between women and men in the workplace have been exacerbated during the COVID-19 pandemic and are likely to persist in the near future, according to the International Labour Organization (ILO).",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/",
+      "originalUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Zara-Nanu-Gapsquare-Public.jpg?w=640",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/amp/",
+      "publishedDateTime": "2021-08-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-artificial-intelligence-in-retail-market-to-grow-at-40.md",
       "title": "Artificial Intelligence in Retail Market to grow at 40",
       "excerpt": "More Information @  The growing demand to enhance the customer experience is also one of the major factors augmenting the artificial intelligence in retail market growth. As the digital data is rising and the competition among the market players is increasing,",
@@ -282,110 +386,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai.md",
-      "title": "Pixel 6 to Use Google's Own Chip: Meet Tensor, a Processor Focused on AI",
-      "excerpt": "Expect the new chip to power some features exclusive to Google’s next-generation Pixel phones, including voice commands, translation, and dictation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai",
-      "originalUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05VQHCNKqGmFzoopA8rHIz2-1.1627923313.fit_lim.size_1200x630.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true",
-      "publishedDateTime": "2021-08-02T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-the-pixel-6-and-pixel-6-pro-are-coming-with-a-new-chip-ai-and-a-4x-zoom-camera.md",
-      "title": "The Pixel 6 and Pixel 6 Pro are coming with a new chip, AI, and a 4x zoom camera",
-      "excerpt": "Google has given us a tantalizing preview of the Pixel 6 and Pixel 6 Pro smartphones, complete with a new custom chip called the Tensor, before a fall launch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-6-preview.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp",
-      "publishedDateTime": "2021-08-02T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -753,7 +753,7 @@
       "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -926,7 +926,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {

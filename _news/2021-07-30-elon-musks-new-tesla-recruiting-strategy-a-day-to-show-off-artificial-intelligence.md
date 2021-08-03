@@ -41,22 +41,6 @@ related:
         width: 620
         height: 377
         isCached: true
-  - title: "Tesla AI Day August 19 – Expect Tesla AI to 2030 Vision"
-    excerpt: "Elon Musk says that the Tesla AI day will be August 19. Tesla AI Day August 19th — Elon Musk (@elonmusk) . There is a version 9.1 beta FSD (Full self driving) updat"
-    publishedDateTime: 2021-07-29T16:29:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/07/tesla-ai-day-august-19-expect-tesla-ai-to-2030-vision.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 76
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/07/Screen-Shot-2021-07-29-at-9.51.28-AM.jpg"
-        width: 1694
-        height: 1000
-        isCached: true
   - title: "Elon Musk seeks top talent, announces Tesla AI Day"
     excerpt: "Elon Musk confirms \"AI Day\", to explain Tesla's plans and approaches to an autonomous driving future, but also to recruit top AI talent."
     publishedDateTime: 2021-07-30T04:27:00Z
@@ -88,22 +72,6 @@ related:
       - url: "https://www.rnz.co.nz/assets/news_crops/90569/eight_col_ABUSE_SIGN_2.jpg?1572414403"
         width: 720
         height: 450
-        isCached: true
-  - title: "Elon Musk announces Tesla's AI day next month to reveal the electric car maker's advancements with artificial intelligence and to recruit worldwide talent"
-    excerpt: "Tesla CEO Elon Musk has confirmed Tesla will holds its AI day next month, on August 19. Musk said the event will focus on recruiting the best talent to work for Tesla."
-    publishedDateTime: 2021-07-29T16:25:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9840011/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9840011/amp/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9840011/amp/Elon-Musk-announces-Teslas-AI-day-set-August-recruit-talent.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/07/29/15/46052797-0-image-a-17_1627570045296.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "3DO+N6BeEZEuq+NhACXyeSKvRweRmmG0aE5T8ETfNo2jX7TLExIArkcp9V/emiHhXxRjYpdjoT13no2Rp7tod7hY3jP9qDlzK6mErn7XE7d4S7Ye48fvWy8PHzL+P1O/gke1qWMmkVB2AyeM+zLoAU+RUZ/QIU3Cu56jGyvOtWYDFNCl1XNIfg6zpDlTpUNQ9GL9yVMkxctTtFtQxbr2avINkIy66V4i4TAp4yk0kHOLfsVtC/ayK91QC2G1DaezGZ5hCExUC0s1CWhHn5u5w1gMCmvSGOmSdvOBWwDC+tZmkWH3NZSqz1EPZg7y5VS5+G7guSD7bRU4UwXBk3f0tAys6pBJBHKSYXW1T6dlxE8=;CLJR6NMn2jDTjHBE8mLrBw=="

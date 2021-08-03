@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-
 webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Three Artificial Intelligence Technologies Can Sharpen a Company’s Strategic Edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T09:49:00Z
+    webUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/"
+    ampWebUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 50
+    images:
+      - url: "https://scitechdaily.com/images/Three-AI-Technologies-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
   - title: "How three AI technologies can sharpen a company's strategic edge"
     excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
     publishedDateTime: 2021-08-03T05:17:00Z

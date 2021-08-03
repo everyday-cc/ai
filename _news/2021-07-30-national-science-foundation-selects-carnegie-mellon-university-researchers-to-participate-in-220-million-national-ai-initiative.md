@@ -35,6 +35,59 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "UC Berkeley collaborates in launching of national AI optimization institute"
+    excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
+    publishedDateTime: 2021-08-03T03:38:00Z
+    webUrl: "https://www.dailycal.org/2021/08/02/uc-berkeley-collaborates-in-launching-of-national-ai-optimization-institute/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/08/AI_Sujin-Soman_cc.jpg?ssl=1"
+        width: 1800
+        height: 1160
+        isCached: true
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 25
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
+  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
+    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
+    publishedDateTime: 2021-07-29T18:00:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
+    type: article
+    provider:
+      name: Drexel University
+      domain: drexel.edu
+    quality: 16
+    images:
+      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
+        width: 315
+        height: 326
+        isCached: true
+  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
+    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
+    publishedDateTime: 2021-08-02T22:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22287720/national-university-part-of-prestigious-team-selected-for-20m-national-science-foundation-grant-to"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22287720"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22287720"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "97m5Vue+U1LO/9DbBHZg+6JWy5RWG1NR/s/LxTyaN3FJh0YymSkAN+u9r6O/60QHXJG/8DCpdolojSGdMoYisPZvaJxkTl51TLLyS0pzzjl+cwIwWM5Sqgpdk5Dpw5wnWhj6rclP+OD4Ge3lK1n20qMztj0VaxTveswiwCUMdjEEnDk9Jaf3yabi6uv8h24gAcSMuE0AdL9RAu74iX/Vmyb+PsxwOCORQLw5oocbvldg60js1ESqajRz7IoKrQrsIv3Ae7g88YwkkMxzr8b7exXu1ZK5mF15tyF3waY45d4mYkl71XV8quuDyNBAHCzkhwOvy8YM2j+n82zdB5XLD9NLJCgQ7bBLtb5mdwYbIwfHLY+KV37AjA0Vum2qpJNAkurwkfGgODinFV0L7+tAGjqEyNeIKhBv1acqjDhjTUzw7DSMSc0XLGyPr/fcocZeKANdb2Q5bNv9klUndakPPsNJRXCIgJb5fYdv4Zo8OCcSVJKFCWGPV2XzL/v+tcgYKIw3obO0kpCyLM1oEcbFeQ==;TLwtFnToJOOKfFaX0wKNaQ=="
 ---

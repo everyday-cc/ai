@@ -7,7 +7,7 @@ originalUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to
 webUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to-apply-artificial-intelligence-to-farming/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,20 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "OSU researchers part of $20M effort to develop artificial intelligence for agriculture"
-    excerpt: "Thirteen researchers from the Oregon State University College of Engineering are part of a $20 million federal effort, known as the AgAID Institute, to develop artificial intelligence to tackle mounting agricultural challenges such as diminishing water and labor supplies,"
-    publishedDateTime: 2021-07-31T00:32:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2021/07/30/osu-researchers-part-of-20m-effort-to-develop-artificial-intelligence-for-agriculture/"
+  - title: "WSU to lead new research institute to apply artificial intelligence innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-07-30T10:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 33
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 47
     images:
-      - url: "https://ktvz.b-cdn.net/2021/07/Apple-tree-apples-OSU.jpg"
-        width: 799
-        height: 466
+      - url: "https://thumb.spokesman.com/KvtfYaeH_EDClo6tOPko2Piz5bU=/480x0/media.spokesman.com/photos/2021/07/29/6103494adfe80.image.jpg"
+        width: 480
+        height: 320
         isCached: true
+  - title: "AI Innovations In Mining"
+    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
+    publishedDateTime: 2021-07-31T22:07:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
+    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
+    publishedDateTime: 2021-07-30T13:34:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
+    type: article
+    provider:
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 39
+    images:
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
+        width: 800
+        height: 1200
+        isCached: true
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T19:13:00Z
+    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "o9MEMMWdnjMauEdS8YeWspn2husjsSAXeVrLujualblxYBdUEtUdrx5mmiIU9FRUsrviOeCgZuH6fO1L2hreOsFQDaBM+4ZAC5FrM5QPFvcDjpRvoYRBO6qQIecdGYXzUeVIY6iem5mHpjXmO81Q1FTsSSGkSErJseOWA1vomTvhbY5zV9xYGdG5oihS+vppk+Sy3+zr/kgw8Os4S1RMhck5GzHqQngLxJY81LrtkOBnBUOiHPLG+oM8bOB33dIRs8BfOSB8gZTwE0NJ8U9u+YA3vzsEWq3Q5i7UvwNx1idFXUyGZJZr1DpQ2/Zqbt2ovBpCOel9wUeUGLDwI3ILNQ5zJClnW4gqI3/uYhjVPmY=;tof9Tea0zW7bbI4em8Q6nw=="
 ---

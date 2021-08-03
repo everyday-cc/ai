@@ -99,19 +99,19 @@
     {
       "path": "_news/2021-07-29-beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare.md",
       "title": "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare",
-      "excerpt": "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled",
+      "excerpt": "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-301343890.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1583761/Parlance_and_Beckers_logos.jpg?p=facebook",
-          "width": 766,
-          "height": 401,
+          "url": "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,12 +121,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T07:15:00-07:00",
+      "publishedDateTime": "2021-07-29T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

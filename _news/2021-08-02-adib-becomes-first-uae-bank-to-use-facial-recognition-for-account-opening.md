@@ -36,6 +36,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "ADIB is the first UAE bank to use facial recognition for account opening"
+    excerpt: "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally."
+    publishedDateTime: 2021-08-03T08:25:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 55
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Abu Dhabi Islamic Bank becomes the first UAE bank to use facial recognition for instant and secure account opening"
     excerpt: "ADIB becomes the first UAE bank to use facial recognition for instant and secure account opening The service enhances security against fraud and other forms of identity theft Abu Dhabi: . Through secure access to the Ministry's Facial Recognition verification system,"
     publishedDateTime: 2021-08-02T16:43:00Z

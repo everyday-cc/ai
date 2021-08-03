@@ -42,20 +42,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Ag-tech Employing AI and Range of Tools With Dramatic Results"
-    excerpt: "Startups in agricultural technology (ag-tech) employing AI, machine learning, robotics and IoT sensors are revolutionizing crop yields."
-    publishedDateTime: 2021-07-29T17:01:00Z
-    webUrl: "https://www.aitrends.com/ai-in-agriculture/ag-tech-employing-ai-and-range-of-tools-with-dramatic-results/"
-    type: article
-    provider:
-      name: aitrends
-      domain: aitrends.com
-    quality: 39
-    images:
-      - url: "https://www.aitrends.com/wp-content/uploads/2021/07/7-30VerticalFarming-2.jpeg"
-        width: 550
-        height: 366
-        isCached: true
   - title: "How to Leverage Artificial Intelligence in Public Relations"
     excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
     publishedDateTime: 2021-08-02T12:09:00Z
@@ -70,6 +56,17 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "The rise of artificial intelligence in society"
+    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
+    publishedDateTime: 2021-08-03T09:03:00Z
+    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
+    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    type: article
+    provider:
+      name: Australian Times
+      domain: australiantimes.co.uk
+    quality: 39
   - title: "The Downside of AI Captioning"
     excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
     publishedDateTime: 2021-08-02T13:00:00Z

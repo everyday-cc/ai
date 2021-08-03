@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
     excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
     publishedDateTime: 2021-08-02T14:25:00Z
@@ -48,40 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Two IU Schools Join National AI Initiatives"
-    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
-    publishedDateTime: 2021-07-30T21:39:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
-    type: article
-    provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
-    quality: 37
-    images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Three Game-Changing Innovations for Those With Hearing Loss"
-    excerpt: "New technology from Google Research and Vuzix as well as medical advances from Eli Lilly and Novartis could make a significant difference in the near future."
-    publishedDateTime: 2021-08-02T00:00:00Z
-    webUrl: "https://www.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html"
-    ampWebUrl: "https://feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
-  - title: "Use of Artificial Intelligence in Banking World today"
-    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
-    publishedDateTime: 2021-07-29T18:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "hj1xHwHkn2ZNwLf9mRQwpZ3zjCSB6waHwH+dnUcl8XyJHmxAc+rldlPuEVRqQkGOtFCmD+7cKEaqBacjgsrU1j7WCT+7pGqKFfFo1F+zOMIOL6EnYphRgl+zug81aWv0gLjH+iuHkxl+w2UR08GHz09reYl37w3BoQ4O2uLpVM8NQL1+5jTZ4JjmgbYRsLc3R92t9Y6NVu1LZ7xCd0Y4o48TvLG3Rk5Mr/gsnhix8Gz6pLVv76CYlnIKY+ad+g+Y5QDZqhDgmQzb2lI6d73GJap3f9aDlsVbZoNSUvrxAlRjlSw7rNC4oAfCK7meMwwFQG+fJYHgbJiSB5YDK5ClHpybdsJI91E2MHtJmDam4ZhXWMG/XNmIR62MAz37vmwmlzizPmriBH4zQ9QOCKO62K/lwroL8pFh6h57oVrbh6DTxoAGjKJtDuZ1L/VU7mjcXGDZ0w6rjs7FPKMM3nUDd2NBitMMTuQM9pBBtdCk6kyNtlqm4T47AhtIUtVa0Z/lUL18ma4TVuP4ECQNQyeXnw==;LAnRWIETtZ57xGesbCyu8A=="
 ---

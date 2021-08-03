@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/advent-of-artificial-intelligence-into-pharma-a
 ampWebUrl: "https://techbullion.com/advent-of-artificial-intelligence-into-pharma-and-biotech-sector-will-work-wonders-for-future-world/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/advent-of-artificial-intelligence-into-pharma-and-biotech-sector-will-work-wonders-for-future-world/amp/"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/08/artificial-intelligence-4625878_1280.jpg"
@@ -25,6 +26,6 @@ images:
     height: 853
     isCached: true
 
-secured: "0Hj2ywiAXdSvMGfbPK8u/dX8MwWQKnztH26EC6dkO4xR8ZSVavZ0/OegvrlqgHBOirkE1afnsMFvsZN4bmNHN8MJsRpAEkcYFyomtZq7iGJrrSVyAHIhffmx14+yESeBeJrzQRiws8OceoKu3Wy8BBHcUeeSpyhTbeLAp7JdONkZ3FmPAMHgaR6JQQhvZzFJhrSlhPmlhQxrHubKYurx66biuYLJ09/firyyc3EF0K3wGt7ZdhWf2LTLW2QYKsxlal/HFxLF/IezO6K8VZ8VTGR2dHLOfjZSNH0Fk9wz9EnJUuV4k9hXtgMUmCHevwx9EVyNKoRuv92+CfkvgjhzsWlQ0eaNkKr61r/wwrJStnU=;ILm3DEbRpRKs8ut082/vag=="
+secured: "opJusYpXtGtZgCWsnmxcEDgnDbs1YYqy5jK3ivEy+jiYYnB+YU7eF403EunYBM1HnD82xIISG8G9cEqzWMW5cfD6fIPzvLbSTktXEkxpjW7rUZbMEgPUBQs8wT4IPAqRJtxHCn6ugVSYL/MqAat9mAL5HxVjQiIHXIgoU3LM6EtDWnw7ytOAglnpgYIN9ybdOL3zq9ycL8Mi83qtHVdQairGUivWS/qTXL8rYldXGSnmx5DbhnaA8OSC/qWADn3HNF+Mi38zzPnN5sLBkmXZDBx1ZSQ+ulIIr0sxaBwL89nCFvnonnfuySFGwFQaXvYSA548vYjoVsvt933yhjyEJyB5azVm98q8P175IrbksKomCQyxsZEogVj2TMW68svcJFg3K3sjXpsmiYc80TW+W442/KQrwY8qcInTwBEBEu/eLp5mLhJHaJ07tKxw0XxQ39eaPsBZmA9XDHe1e56X194l41dB5ucY6WC2A03iwVMhIm+2SgIAa+HTe0CMOzBIp58FSnx7dFKGb6PsDcJOqg==;MkuTwwBroUSsIS/BFWVB1w=="
 ---
 

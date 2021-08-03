@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations
 webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,67 +22,69 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
-    excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
-    publishedDateTime: 2021-08-02T14:25:00Z
-    webUrl: "https://www.automation.com/en-us/articles/august-2021/artificial-intelligence-machine-learning-film"
+  - title: "WSU to lead new research institute to apply artificial intelligence innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-07-30T10:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 45
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 47
     images:
-      - url: "https://www.automation.com/getmedia/38598196-fdf2-480b-b9a6-ab388bd2b7af/Tom-and-jacob-feature-aug-2-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
+      - url: "https://thumb.spokesman.com/KvtfYaeH_EDClo6tOPko2Piz5bU=/480x0/media.spokesman.com/photos/2021/07/29/6103494adfe80.image.jpg"
+        width: 480
+        height: 320
         isCached: true
-  - title: "Two IU Schools Join National AI Initiatives"
-    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
-    publishedDateTime: 2021-07-30T21:39:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
+  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
+    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
+    publishedDateTime: 2021-07-30T13:34:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
     type: article
     provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 39
+    images:
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
+        width: 800
+        height: 1200
+        isCached: true
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "WSU will lead effort to apply artificial intelligence to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-08-01T03:55:00Z
+    webUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to-apply-artificial-intelligence-to-farming/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
     quality: 37
     images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
-        width: 960
-        height: 540
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "8 Things You Didn’t Know About Gold Mining Automation"
-    excerpt: "Innovations in automation have transformed the gold mining industry by increasing efficiency, productivity and safety. As mines get increasingly deeper, grades increasingly decline and investors pressure companies to adhere to global environment,"
-    publishedDateTime: 2021-07-29T20:15:00Z
-    webUrl: "https://www.automation.com/en-us/articles/july-2021/8-things-you-didnt-know-gold-mining-automation"
+  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
+    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
+    publishedDateTime: 2021-07-29T19:13:00Z
+    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 24
-    images:
-      - url: "https://www.automation.com/getmedia/f4d4cca4-3167-4426-803a-de780ccefab9/Gold-mine-feature-July-29-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "Three Game-Changing Innovations for Those With Hearing Loss"
-    excerpt: "New technology from Google Research and Vuzix as well as medical advances from Eli Lilly and Novartis could make a significant difference in the near future."
-    publishedDateTime: 2021-08-02T00:00:00Z
-    webUrl: "https://www.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html"
-    ampWebUrl: "https://feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
-    cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 24
-  - title: "Use of Artificial Intelligence in Banking World today"
-    excerpt: "But the development of the financial system didn’t stop here, as the digital age is opening up new opportunities — the use of Artificial Intelligence in banking and financial institutions. By 2023, banks are projected to save approximately $447 billion by developing and implementing AI applications."
-    publishedDateTime: 2021-07-29T18:28:00Z
-    webUrl: "https://www.finextra.com/blogposting/20688/use-of-artificial-intelligence-in-banking-world-today"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: insideHPC
+      domain: insidehpc.com
     quality: 19
 
 secured: "G2/7nX1UnaHwx8OA6+k9UaozhyV+HygrFY1aCqLy0K/9Xbn22Lmhk9t/x0h0RO/HhbUhmJaKJJCDl893FKRVd/3N7NMRTV2wbSQ6Q3/6TgTp+W8OARsZuaATuaoiRzvlfLxSQ4eh9w6lX+s1jMUgy1ITXQUnPnrX9VeSuASfQV0z8KIcSnCpeMoNQOGtJlxlHeN/PG7qYnvgOixIkR8I879u6fnyj9L+2eXW5xEZcvgOfyb8gs7vr93Bts3spTcZaxNQ6++S3hpP9nqTT+QW0ND7XEl41ylfRoi7egHFydDQ16hMx0y8DYS1URS7BenS38hl1oCVL1wZTjQScl6RCla5dSrDgCjmQQJ7vYcgKe2RpkzQc0JapepGLHdHDX7W+kEb0BNUZbM0Gdv44QdOJRf0pgBSo3HBqhNm2Z9/DwEgozMizdEFi+woIFNha1UPzeNFZvPlWb+SbBAgyQBL9NmAmG+37LDGNOYg8fWApEBrP/38IchguuLYhDqz5hzmqZMKimdLgvu7c3TnGggyZQ==;a5lfDEHpkVFHO5i988In6g=="

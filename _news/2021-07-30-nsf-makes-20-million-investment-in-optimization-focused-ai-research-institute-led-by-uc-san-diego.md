@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "NCSU, UNC create artificial intelligence institute with $20M federal grant"
-    excerpt: "UNC-Chapel Hill and North Carolina State are launching an initiative aiming to utilize artificial intelligence as an educational tool with $20 million in funding from the National Science Foundation."
-    publishedDateTime: 2021-07-29T15:48:00Z
-    webUrl: "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1"
+  - title: "Artificial intelligence institute led by UC San Diego lands $20 million from National Science Foundation"
+    excerpt: "Researchers will pursue fundamental breakthroughs to transform chip design, robotics and communication networks"
+    publishedDateTime: 2021-07-30T01:30:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 55
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 46
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
+        width: 320
+        height: 214
         isCached: true
   - title: "UC Berkeley collaborates in launching of national AI optimization institute"
     excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
@@ -55,19 +55,19 @@ related:
         width: 1800
         height: 1160
         isCached: true
-  - title: "OSU part of $20M effort to develop artificial intelligence to help elderly live at home"
-    excerpt: "A team of researchers, including Oregon State University’s Kagan Tumer, director of the Collaborative Robotics and Intelligent Systems Institute, has received a five-year, $20 million grant from the National Science Foundation to build intelligent systems that help people as they grow old."
-    publishedDateTime: 2021-07-29T21:53:00Z
-    webUrl: "https://ktvz.com/news/oregon-northwest/2021/07/29/osu-part-of-20m-effort-to-develop-artificial-intelligence-to-help-elderly-live-at-home/"
+  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
+    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
+    publishedDateTime: 2021-07-29T18:00:00Z
+    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
-    quality: 33
+      name: Drexel University
+      domain: drexel.edu
+    quality: 16
     images:
-      - url: "https://ktvz.com/wp-content/uploads/2019/10/OSU20logo20new201018_1541011752853-2.jpg_16252532_ver1.0-2.jpg"
-        width: 700
-        height: 394
+      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
+        width: 315
+        height: 326
         isCached: true
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
@@ -80,6 +80,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "National Science Foundation selects Carnegie Mellon University researchers to participate in $220 million national AI initiative"
+    excerpt: "The U.S. National Science Foundation has launched a $220 million endeavor that's looking to create 11 new national artificial intelligence research institutes, and it tapped Carnegie Mellon University researchers to be enlisted in the endeavor."
+    publishedDateTime: 2021-07-29T21:31:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/29/national-science-foundation-cmu.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "j2k6ZZ+KqJ+IZVfTwKyd0FR1YtgirWJQE3piR3tR8JiUgfdtc+0qeXCzrnwcsQCeKyZX3D/UKbOoZE0pybmjAtiLvz58kBaYgBDUGE56/X46iG61zY4qX/WsmUqS7X3TfdbaRKe5pWVjip6SSd12RkE7iXHYq/j9bSsJwmGSpIcYEEQfgZqKeKIpMRvGLh0sCIGKGKn0yAOjpyxxMGn1KMH6mnI+wbMXn57RfaR7TOFYXJv46cMcz7xlTO5VDeWO2zpaa58AoFg1BnlXvycpYEUY4jQioTc5UmsKGNntDkPzpCivN1U46g2ozakNig5G+C1xRCo/UHZBUgGuJ0Nb3VOu7wlA4iDLi8ov1WGAr1pgA1ineLkr/WDxrL2AE5ST+jLpq6i2FJ2erB+QVBU+F1VPESXkOgwBS+pSC9HdO2/DSH9VCO/bSe93r/WleRQmwQWWzG6yOsaDfcgvqEOpU1WziEn8KXiTq56uanpV66ILUx7uECIqR+eXCPtUT4rvJV5ZVpNrN1d9c/XAQgy0Cg==;11+dz8fzzOBBwylqtjJfFw=="
 ---

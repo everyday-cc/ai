@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tens
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/pixel-6-to-use-googles-own-chip-meet-tensor-a-processor-focused-on-ai?amp=true"
 type: article
 quality: 103
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip"
+    excerpt: "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets."
+    publishedDateTime: 2021-08-03T08:35:00Z
+    webUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/"
+    ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Pixel 6 and Pixel 6 Pro are coming with a new chip, AI, and a 4x zoom camera"
+    excerpt: "Google has given us a tantalizing preview of the Pixel 6 and Pixel 6 Pro smartphones, complete with a new custom chip called the Tensor, before a fall launch."
+    publishedDateTime: 2021-08-02T16:50:00Z
+    webUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/"
+    ampWebUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 99
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-6-preview.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Google is building its own chip for the Pixel 6"
     excerpt: "Google just dumped a whole bunch of news about its upcoming Pixel 6 smartphone. Maybe the company was looking to get out in front of August 11’s big Samsung event — or perhaps it’s just hoping to keep people interested in the months leading up to a big fall announcement (and beat additional"
     publishedDateTime: 2021-08-02T17:50:00Z
@@ -76,6 +108,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/9a6bfa10-f282-11eb-bbdf-ac92842b242f"
         width: 1600
         height: 942
+        isCached: true
+  - title: "Pixel 6 Pro, Pixel 6 announced with Google Tensor chip, Android 12: Check details here"
+    excerpt: "The Pixel 6 gets a dual-camera setup with a main and an ultrawide sensor. The Pixel 6 Pro camera module has a triple-camera setup with an additional telephoto lens that supports 4x zoom."
+    publishedDateTime: 2021-08-02T17:51:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/gadgets/pixel-6-pro-pixel-6-announced-with-google-tensor-chip-android-12-check-details-here-7262741.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/gadgets/pixel-6-pro-pixel-6-announced-with-google-tensor-chip-android-12-check-details-here-7262741.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gadgets/pixel-6-pro-pixel-6-announced-with-google-tensor-chip-android-12-check-details-here-7262741.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 66
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/08/jpg-1-770x433.?impolicy=website&width=770&height=431"
+        width: 770
+        height: 433
         isCached: true
   - title: "Google Pixel 6 release date, price, Tensor chip, specs and news"
     excerpt: "Google has announced the Pixel 6, and it's providing a bunch of details about its two new phones ahead of their fall launch. The biggest news is a new system-on-chip called Tensor that is designed to provide the Pixel 6 series with a bunch of AI powers we haven't seen before."
@@ -135,6 +183,17 @@ related:
         width: 1312
         height: 731
         isCached: true
+  - title: "Google turns to in-house chips for AI-powered premium phone"
+    excerpt: "Google’s upcoming smartphones will use chips designed wholly in-house for the very first time this year, as the web giant seeks to accelerate AI-powered mobile operations and further differentiate its Pixels from the Android pack."
+    publishedDateTime: 2021-08-02T21:39:00Z
+    webUrl: "https://www.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
+    ampWebUrl: "https://amp.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 54
   - title: "Google Reveals its Own Mobile Chip Named Tensor"
     excerpt: "The Google Pixel 6 will be the first phone to use Google‘s all-new Tensor mobile processor, the first system-on-chip designed by Google. The chip is named after Google’s open-source machine learning platform,"
     publishedDateTime: 2021-08-03T04:06:00Z
@@ -194,6 +253,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ZzGPfqeER4Haa3JPKNfbFDBqE7f3UcaD/dP70tYLcJNEytnDziuB+CYqVo9/ass3ya5RmSOuTn/B8GX7F2F8YY7B0IRem22mP3pCkkefrYP6Fem4zoKi1/PX1mugIDwPtCCThbeZm0nuMY0WCPU9b5LffF4CW3ZPBzx7Q08IEtCUdGzP2cp3aT4MAbDMCbBxT9D8d8+AX03SbW2/9JH2vLM5V7GNkICt6OOM83NtP7tzxqr13B2O7pG6bAQkHl1QmdX0DQ/otSbWPUzEjayi7xcSsbezUSAvVzUEonfkTneAGVTSPyXpa3gmKBg7yswZ+ZNzIaJNobfseStbm8RXCFet5Pnmpj8j10kum7dhhvY=;yXYPR2S75hkE9e/xyyTsEg=="
+secured: "4EPmmV/0m1oH6Yp5EsqgAOf8OlDGDtm8lOHHb4OB1HtQ8eivxwKwr66oMNbq3XdfY+0pip6xq8XOmGrpvhZMkaonpyDLq4ukPZzBpGbvv7zKtB+yzZ83JkgfCYmzf1T6eJFwUvfPaeHmOBiOaYxZ+HsOxpF3+LxhSwlSvNRK0h8SbRTsMuZMGq8KYEyTb5HWUOQYj8hQj6wfJTLHoh5MYXk/YOcvlrJvZOE8IDZQQHAhOMc8XzrKxlSUnU0A+tr6BGxcJenHP/J2ma2E3UQWrv2lLHGv8f4XZv1UZfxa+FvEwoXONJfne4UhivDDXZWSHuOuv6YD7vK2RHvxVz+R327pJex+Qw6mvlfQcJnW9y6gQ5sLLPOE3rMKntrXsqhm+X0waYM7hdGNC2uQRGuCxysm8qyvTmuhDBz2gTQfSg0gHj5/GdhnvNNlH3kSNHzEM+4TGFTnwEJjt7xdXBW6mMd3d+hq8Qhk/Eth1HIDrZ+64iDIopDqOkgCweWBiEH+ULASwDfOftwZ3RCFWZU3Eg==;e/EzLHiQM8jIE9ADSxCrkw=="
 ---
 

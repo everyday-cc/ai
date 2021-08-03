@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-di
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 46
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
+    publishedDateTime: 2021-07-29T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923902"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "iydW2ZHjeoU8R6C61p/BLwMCaq4TMDb4mqbZ0WG1dOCx5SoXxNblZQ2s7c0VbVSklGxuU61tpAvnenJem8BC3WZ2936y0o0rvAwt+4oPUjp/9HtOaj6V+JOx7cWyrglMwKAypjQTN8RRYLRwz7g1e1L3wJ6wrd8ebJJ4coLB9vSWLGWoWUfiEoHRNxDy/+fH+3vcTvAIaEFz/RqvhnGV8P2qC9YtHWxsyMY9b796dflgt73hekJgW4+7o3ffqLD9IMiyo7cEX4QbTUH+1TH9numnPrzs7EyvRN7wn1ZRJGVKUw90whIfDSqhde39LDYIDzNplI488wjtmGLMXhSm/DGZEl+WUsDHgfJ3YmLHDnwCuzCIkWHnB9Iu89KOaUn8xfklmYmQdLNNoc2Tfjl3ZUPxVdB1FDXiNxkgL+/sSyTLwqtiTiEPlkSTvZmBH1HPyCdBX5AykUPd2EzRit67ecQYB4Nuj97Zy0P3ULuURuRvf+5j/BlMHbjdDjkgDrbTXa2189F55zIEl1KFa7kiRg==;drXgiTKGH41rx68P8pJ5Dw=="
 ---

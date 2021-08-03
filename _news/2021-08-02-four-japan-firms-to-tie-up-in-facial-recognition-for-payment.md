@@ -24,22 +24,6 @@ images:
     height: 489
     isCached: true
 
-related:
-  - title: "Moscow Metro tests fare payments by facial recognition"
-    excerpt: "Moscow Metro has begun testing a pay by face system with 1000 commuters. Initially operating on Line 4 of the transit network, the tests will ultimately be expanded to all the lines as more passengers sign up."
-    publishedDateTime: 2021-08-02T09:31:00Z
-    webUrl: "https://www.finextra.com/newsarticle/38571/moscow-metro-tests-fare-payments-by-facial-recognition"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/moscow-metro.jpg"
-        width: 480
-        height: 270
-        isCached: true
-
 secured: "ryhPD/JUK1AviV7/zJFrN0r9iyEPB7BlwUNe/KvMhbS3HOc8dQURDaYQuFwpV1ts3/+XsiLByV2dwCuQgOhtlWZ+eZOR2gEgcKYTeQheY0H1QpsSt2bhuDRT99urCyT+NkKEb1QK/n0dWD5v/fKSYeWG5cWf9/lW4Bwl0UTDASyoQqyeueIxIh3PNcx3zYoIAMnbViWH7pwiYs30cr0QZH2lgigpFAd39ofCUaQwcTOTDJw0dCij6+5X5U36TY2zHdus2Z06eO0OG9MCJsBm37NIM3deRLYAMECSWdlllHbwpuv9m+oqaSCvjlD2X+viHhE9DkI6F2LZLCpjJl/rTQCa2OUHp5ljxBVgRihqhVPZoCsq4lE3JGHAk1bbLRaXpL8ao9g10VYGENQAS5X0FjuanKoIU9I48QPtjwO983tMECGrMvHn4xAhIjqIppTBDS/8/6AuLAiOg5UsnIE5Vo49euVfEWBYmW/9HdZ7NTnAI/23bGbYcbC7+eSss2u+SPUY1ddAs0twwgavrYYDGg==;0b4X2jaGJD2eUagO2N9T4Q=="
 ---
 

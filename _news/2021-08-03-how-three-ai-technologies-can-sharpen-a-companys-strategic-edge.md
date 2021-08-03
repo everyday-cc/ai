@@ -38,6 +38,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "How Three Artificial Intelligence Technologies Can Sharpen a Company’s Strategic Edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T09:49:00Z
+    webUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/"
+    ampWebUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 50
+    images:
+      - url: "https://scitechdaily.com/images/Three-AI-Technologies-777x437.jpg"
+        width: 777
+        height: 437
+        isCached: true
   - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
     excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
     publishedDateTime: 2021-08-02T09:34:00Z

@@ -25,167 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Partnering with the NSF on a research institute for AI to improve elderly care"
-    excerpt: "From the early days of the internet to the development of the Human Genome Project, U.S. government-funded R&amp;D has yielded remarkable progress for society, and today it is an important engine for AI research. That’s why, last year, we were proud to announce our partnership with the U.S. National"
-    publishedDateTime: 2021-07-29T15:10:00Z
-    webUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/"
-    ampWebUrl: "https://blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnering-nsf-research-institute-ai-improve-elderly-care/amp/"
+  - title: "Artificial intelligence institute led by UC San Diego lands $20 million from National Science Foundation"
+    excerpt: "Researchers will pursue fundamental breakthroughs to transform chip design, robotics and communication networks"
+    publishedDateTime: 2021-07-30T01:30:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 105
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 46
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_graphic_fallback_-_multicolor.max-1300x1300.png"
-        width: 1300
-        height: 729
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
+        width: 320
+        height: 214
         isCached: true
-  - title: "NSF Makes Huge Investment In Eleven New Artificial Intelligence Research Institutes."
-    excerpt: "NSF is spending $220 million to establish 11 new Artificial Intelligence Research Institutes, significantly boosting the network of these centers."
-    publishedDateTime: 2021-07-29T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/"
-    ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2021/07/29/nsf-makes-huge-investment-in-eleven-new-artificial-intelligence-research-institutes/amp/"
+  - title: "UC Berkeley collaborates in launching of national AI optimization institute"
+    excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
+    publishedDateTime: 2021-08-03T03:38:00Z
+    webUrl: "https://www.dailycal.org/2021/08/02/uc-berkeley-collaborates-in-launching-of-national-ai-optimization-institute/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 35
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d1d3cc6d3da87fbd41c4%2F0x0.jpg"
-        width: 1200
-        height: 653
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/08/AI_Sujin-Soman_cc.jpg?ssl=1"
+        width: 1800
+        height: 1160
         isCached: true
-  - title: "WSU to lead new research institute to apply artificial intelligence innovations to farming"
-    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
-    publishedDateTime: 2021-07-30T10:39:00Z
-    webUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/"
-    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 47
-    images:
-      - url: "https://thumb.spokesman.com/KvtfYaeH_EDClo6tOPko2Piz5bU=/480x0/media.spokesman.com/photos/2021/07/29/6103494adfe80.image.jpg"
-        width: 480
-        height: 320
-        isCached: true
-  - title: "NC State, NSF Unveil Institute Focused on Artificial Intelligence and the Future of Education"
-    excerpt: "The National Science Foundation (NSF) has announced that North Carolina State University will lead a new research initiative aimed at creating artificial intelligence (AI) tools to advance human learning and education for a wide variety of audiences."
-    publishedDateTime: 2021-07-29T15:55:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/923836"
+  - title: "NSF makes $20 Million investment in Optimization-focused AI Research Institute led by UC San Diego"
+    excerpt: "The National Science Foundation has invested $220 million to establish 11 artificial intelligence (AI) institutes, each receiving $20 million over five years. One of these, The Institute for Learning-enabled Optimization at Scale (TILOS),"
+    publishedDateTime: 2021-07-29T19:33:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923893"
     type: article
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 45
+    quality: 25
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/224b369c-e6b8-4ac4-b757-7648ec3e912f/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/b221cba5-e877-4a14-ac15-0aa9b5713c0e/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
-  - title: "NSF Launches Artificial Intelligence Research Center at Duke"
-    excerpt: "The National Science Foundation today announced the creation of 11 new research institutes devoted to Artificial Intelligence, including one at Duke and one at NC State University. The $220 million total investment comes after a $140 million NSF investment created seven other AI institutes last year."
-    publishedDateTime: 2021-07-29T15:55:00Z
-    webUrl: "https://today.duke.edu/2021/07/nsf-launches-artificial-intelligence-research-center-duke"
+  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
+    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
+    publishedDateTime: 2021-08-02T22:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22287720/national-university-part-of-prestigious-team-selected-for-20m-national-science-foundation-grant-to"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22287720"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22287720"
     type: article
     provider:
-      name: Chronicle
-      domain: duke.edu
-    quality: 39
-    images:
-      - url: "https://today.duke.edu/sites/default/files/YiranChen_students.jpg"
-        width: 2280
-        height: 1522
-        isCached: true
-  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
-    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
-    publishedDateTime: 2021-07-30T13:34:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
+  - title: "National Science Foundation selects Carnegie Mellon University researchers to participate in $220 million national AI initiative"
+    excerpt: "The U.S. National Science Foundation has launched a $220 million endeavor that's looking to create 11 new national artificial intelligence research institutes, and it tapped Carnegie Mellon University researchers to be enlisted in the endeavor."
+    publishedDateTime: 2021-07-29T21:31:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/29/national-science-foundation-cmu.html"
     type: article
     provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
-        width: 800
-        height: 1200
-        isCached: true
-  - title: "National Artificial Intelligence Research Institutes"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T19:13:00Z
-    webUrl: "https://insidehpc.com/tag/national-artificial-intelligence-research-institutes/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/04/IHPCAdvantechWPCover2020-04-23_15-29-39.jpg"
-        width: 274
-        height: 350
-        isCached: true
-  - title: "WSU to lead new research institute to apply AI innovations to farming"
-    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
-    publishedDateTime: 2021-07-30T18:34:00Z
-    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
-    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
-  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
-    excerpt: "“Importantly, we will provide AI ethics training for all involved in the institute. We will also make this training available to the community at large, thus enforcing a disciplined approach to thinking about AI and its implications for our emerging ..."
-    publishedDateTime: 2021-07-29T15:52:00Z
-    webUrl: "https://www.miragenews.com/uw-to-lead-new-nsf-institute-for-using-604760/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 28
-    images:
-      - url: "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2021/07/27141149/FlowW-4sec-600x358.gif"
-        width: 600
-        height: 358
-        isCached: true
-  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
-    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
-    publishedDateTime: 2021-07-29T19:53:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/923902"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "NSF Partnerships Expand National AI Research Institutes to 40 states"
-    excerpt: "Today, the U.S. National Science Foundation announced the establishment of 11 new NSF National Artificial Intelligence Research Institutes, building on the first round of seven institutes funded in 2020."
-    publishedDateTime: 2021-07-29T19:13:00Z
-    webUrl: "https://insidehpc.com/2021/07/nsf-partnerships-expand-national-ai-research-institutes-to-40-states/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
-  - title: "NIFA and NSF Investing $220 Million in Artificial Intelligence Research"
-    excerpt: "The USDA’s National Institute of Food and Agriculture and the National Science Federation announced a $220 million investment in 11 new NSF-led Artificial Intelligence Research Institutes. NIFA and ot"
-    publishedDateTime: 2021-08-02T18:21:00Z
-    webUrl: "https://www.newsdakota.com/2021/08/02/nifa-and-nsf-investing-220-million-in-artificial-intelligence-research/"
-    type: article
-    provider:
-      name: News Dakota
-      domain: newsdakota.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "cbWUTjDofPN0lFyKxSmX8HhjYntwKsNOsF7eKWfsNp0f5WVAk82VkDqj7fwVJf4sVbrFGDfEzekbg94CW9H1l+I6VNfF0Yrgp6PUqMvp2p8KH1DQp0G/8mjQPLJpiLrVJoyPogC5FqNg+3QDKoNwwP0MsKLAmG1rITjVeuBOLSOUkR5CbNBY6VbWc9628J5PRxM+muRTHDl9Yz4XojZOw1j/+yGEMm9TidAUyjb0KPkBSia6MWANFMIWtWNUozhigZt/skyJsPYMso9Js3UZAn/uBLfvSijZka+eatdMOOQd9Qt1SgT8Hn8XG0eyj//ZbDSUzQ4GP/gFQqUwOnQVAGla1TqBmrp7AaO4rqsSSdk=;feeW8HlJpQfn9zHk90yE7A=="
 ---

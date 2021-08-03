@@ -49,6 +49,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "UW to lead new NSF institute for using artificial intelligence to understand dynamic systems"
+    excerpt: "The University of Washington will lead a new artificial intelligence research institute that will focus on fundamental AI and machine learning theory, algorithms and applications for real-time learning and control of complex dynamic systems,"
+    publishedDateTime: 2021-07-29T19:53:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/923902"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/66b3a8aa-c4f6-4053-ab7f-5dadff62251b/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "TJzPvRoxiVQEwHkyB2SW8iEmv7TpwMbMXCIaDWWNBZHyk4l8FSrakBIo6zughHt9AKoOH2E826Dp1/oETorpfaxx6DkxFSptLwGbdZZY/qRP+AZ/CGL+CZVCwfnWh9oZoQ1DQZmAlUIZqrq32Te/hjkx5RyvkYqLNSvA3GObjUlBci3fMHPnngBwHdfOgPIzWsOrJbjPLjScYcVvIgndvMupgzKXhfDeKV/tK7q97B+EJQt9EANws8pU2tFgCEfYUQ5AHQN+AhkRKI0sYHi6N/uF3vUjEy3a81JbNW1OTAR6Qg4bbsU417l9fqkvdNhClDnUCt4TUZnAt9VUK6WiCc+5zf+34II2oXYM6OTIhz4UJDZgSlYEYf0dw2Rz2grTfYn4/hC272dToU2aVFl+5tEEISkn/bHlGtNU84Csuafa1YuyXrQA0VziSAQcrUbe/XQxmUm/HIn2Evhtt/GtS8Y4kO3VNrBA9t4lisOWFoofxIlt8IV32aYqCrpZsYlBClOHk3eib2sI64o79Pgnbg==;J82zYsN53CrSidoQy28GFw=="
 ---
