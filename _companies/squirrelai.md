@@ -2,7 +2,7 @@
 name: "Squirrel AI Learning"
 overview: "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.squirrelai.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "SquirrelAI_Edu"
   url: "https://twitter.com/SquirrelAI_Edu"
-  followers: 489
+  followers: 488
 
 locations:
   - Shanghai
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Squirrel AI Learning"
 
-secured: "IxdBShY1AW+OFRtHu3xXKRpJtvNG/4NnAchreRk6khqA3GDQAlg1z/01OHCeXLX9HWU3lfgMnx/nqcKMnhYPCrLx5UZ5vmpz4b722+tf5iajaT3SGWSKbGlIe7sx2pbL61fB5A6BqZJ6qB/8yc2MZp38bQLM7JKKVIhtkqfzuirclx3Lx82zGfRe8GSMSDNTM1WWidXI3eKlPL7K0ZcCH2b38/pJsjtHg7hTAZkNhxOM4NLkosBmCLTxZm18c0G9EqGEkZ+M4sB1jq6HixqWcP8nMVnah3f8vm+Jr1Nveq3OvuvUI5/kS7kMowLqmbXPiYg+WYlyhtVsCmyL9Bzfj3ZmWgpuB1fmXqQIzerpGWnybGOdGdopeA46HJN/SS71tDlYrE2La6on060KEsb3gA==;y+Cqzwmn73Xv0pe+QP6xdg=="
+secured: "rGTo3PK+mz1RbwjMbcQ/adbKxVIohFtwIqVlQADZRbC8AkEW8RjGWc+qsMxu5reAWzgGZCl9dvaXiNLb2jfFSmg96uBjAjGezuKAeENnrk+nRc9fGA8PKZKMuRaK7JmlXxB+yUQe3u9OXOskZoh7PGK4+JMy2gxKuTtodN0RyzcwShMiolKHuUKzBEsG9K3ezTjtxqoVXB/6q5v0SVeQ1QBCettc+co4qwcyQb7akC42Sk69OoP4R4i4V9vPgdMC+PueExzHi/EhY8cYzU2cfufd3RW2JpeAM3uNR4l+zWGFc2FU/Y+dfFrbXfJg9j+YO8zNIrzcfTTKHWe/56BzMAZ4U/zibHSlcmS5MKWjNsnyWactp+q6F5lmwFYVByf7lcyT5ky/hab57Qm9FvW28Q==;Vc93KMjPzdlOKXNTKgVdkA=="
 ---
 
