@@ -40,15 +40,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "CMU Puts AI To Work in New NSF-funded Institutes"
     excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
     publishedDateTime: 2021-07-30T13:34:00Z

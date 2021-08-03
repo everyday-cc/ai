@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "NVIDIA Looks to Lower AI Barrier to Entry"
+    excerpt: "The Base Command Platform aims to reduce the cost of training AI models and lowers risks for organizations when prototyping models."
+    publishedDateTime: 2021-08-03T15:45:00Z
+    webUrl: "https://www.itbusinessedge.com/applications/nvidia-looks-to-lower-ai-barrier-to-entry/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/NVIDIA-Base-Command-Platform.jpeg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
     excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
     publishedDateTime: 2021-08-03T12:11:00Z

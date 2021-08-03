@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
+      "title": "WHO warns against applying AI models using data from rich countries to everyone else",
+      "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "originalUrl": "https://www.zdnet.com/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-warns-against-applying-ai-models-using-data-from-rich-counties-to-everyone-else/",
+      "publishedDateTime": "2021-06-29T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-artificial-intelligence-hold-potential-for-improving-delivery-of-healthcare-worldwide-who.md",
       "title": "Artificial Intelligence Hold Potential for Improving Delivery of Healthcare Worldwide: WHO",
       "excerpt": "Artificial Intelligence (AI) holds great promise for improving the delivery of healthcare and medicine worldwide.",
@@ -1392,58 +1435,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
-      "title": "How stakeholder capitalism and AI ethics go hand in hand",
-      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
-      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
-      "publishedDateTime": "2021-06-12T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]

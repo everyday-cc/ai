@@ -19,127 +19,49 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Healthcare AI Market Next Big Thing"
-    excerpt: "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation."
-    publishedDateTime: 2021-07-29T22:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29"
+  - title: "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge"
+    excerpt: "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control."
+    publishedDateTime: 2021-08-02T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "AI use cases are expanding and evolving in healthcare"
-    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
-    publishedDateTime: 2021-07-30T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+  - title: "AI, quantum computing and other technologies poised to transform healthcare"
+    excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."
+    publishedDateTime: 2021-08-02T20:50:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 76
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 52
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg"
+        width: 635
+        height: 353
         isCached: true
-  - title: "Deep Learning in Healthcare Market"
-    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
-    publishedDateTime: 2021-07-31T10:25:00Z
-    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+  - title: "What Are the Benefits of Predictive Analytics in Healthcare?"
+    excerpt: "How predictive analytics can improve patient outcomes, assist in the decision making process, and provider relief for healthcare workers."
+    publishedDateTime: 2021-08-02T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/what-are-the-benefits-of-predictive-analytics-in-healthcare"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
-    publishedDateTime: 2021-07-30T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
-    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
-    publishedDateTime: 2021-08-01T04:11:00Z
-    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
-    type: article
-    provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
-    images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
-        isCached: true
-  - title: "Global Artificial Intelligence in Livestock Farming Market"
-    excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
-    publishedDateTime: 2021-07-30T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
-    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
-    publishedDateTime: 2021-08-01T19:50:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
-  - title: "Aerospace Artificial Intelligence Market Growth Focusing on Trends & Innovations During the Period Until 2028"
-    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43."
-    publishedDateTime: 2021-08-02T10:35:00Z
-    webUrl: "https://manometcurrent.com/aerospace-artificial-intelligence-market-growth-focusing-on-trends-innovations-during-the-period-until-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 18
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/logo.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Next Big Thing : Major Giants Schneider Electric, Enlighted, Alphabet"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 07/29/2021 — The latest independent research document on Global Artificial Intelligence in Energy examine investment in Market."
-    publishedDateTime: 2021-07-29T21:42:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-next-big-thing-major-giants-schneider-electric-enlighted-alphabet"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "BX7kjJLtI90LbBCXmrMG2dnkYW41yrqbSU8pCdpRa4KKMy93CeWh2CgA/nZdlTotWsKpufY4jEbbwEnot9nfjRjpJJ1s7Yx1Banha1MewwW50Eme80v4vkZVaesKNcVMsjExQrMGWN/Wmf88I3SRFgHQbS3/NrUbg8opNN21iHpNcMDPTZZQZkRsLbn0Fu9cnIU1yHtPLI80We/lkoo1+O4byEti5Px7C508bsu/Wl9imkm4ngXcT++QlCHduw1xa2kMCFaT/e0netUEEW9Nq29wsJaVTW083wpLiTgnIwWC85UrloipR4qOrO35IM7QFElMEropgTtu9jFHV0G+GY2zqNAp/IHJR5e4PN5mMsqRjil12MonSFKYWn0kGKkjLo55eb6Ndq+oRsWqxW5GwNAMIekqr/Pu1Zs7GjkXARqF6WSgcHi99mAdhLHMCkZPkd92CuZA6W9B34eqOa6E+SMqMFb9kHtJCTC4A6Hx/hHdtFcrH5TE84g/kK8ogo8LuwbbiK1Pmq8Jj2iXOnzi6Q==;X/cB+ljPsZDink8RsGxp3g=="

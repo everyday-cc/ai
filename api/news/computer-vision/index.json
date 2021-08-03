@@ -97,50 +97,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications.md",
-      "title": "Chip suppliers, startups team up to advance edge AI for biometric applications",
-      "excerpt": "Chip suppliers pair up to offer cutting-edge technology for facial and voice recognition as startups move from concept to production for edge AI processors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202108/chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications",
-      "originalUrl": "https://www.biometricupdate.com/202108/chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png",
-          "width": 1100,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T12:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
       "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
       "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
@@ -1371,6 +1327,59 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-federal-judge-forces-accused-capitol-rioter-to-unlock-laptop-with-face-recognition.md",
+      "title": "Federal Judge Forces Accused Capitol Rioter to Unlock Laptop With Face Recognition",
+      "excerpt": "U.S. courts are split on whether forced device unlocks violate the Fifth Amendment, and the Supreme Court has yet to step in.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
+      "originalUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cff617cd180a45a85c61699a0883cecd.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
+      "publishedDateTime": "2021-07-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

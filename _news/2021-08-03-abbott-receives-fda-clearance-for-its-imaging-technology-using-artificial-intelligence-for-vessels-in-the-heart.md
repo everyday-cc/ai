@@ -26,13 +26,13 @@ images:
 
 related:
   - title: "FDA OKs Abbott's OCT Imaging Platform With Artificial Intelligence - Quick Facts"
-    excerpt: "Abbott Laboratories (ABT) announced Tuesday that it has received U.S. Food and Drug Administration (FDA) clearance for its latest"
-    publishedDateTime: 2021-08-03T13:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fda-oks-abbott-s-oct-imaging-platform-with-artificial-intelligence-quick-facts-1030684158"
+    excerpt: "Abbott Laboratories (ABT) announced Tuesday that it has received U.S. Food and Drug Administration (FDA) clearance for its latest optical coherence tomography (OCT) imaging platform powered by the company's new Ultreon Software."
+    publishedDateTime: 2021-08-03T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/fda-oks-abbotts-oct-imaging-platform-with-artificial-intelligence-quick-facts-2021-08-03"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 42
   - title: "Abbott Receives FDA Clearance For Imaging Technology Using Artificial Intelligence For Vessels In The Heart"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"

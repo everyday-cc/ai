@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-30-ai-use-cases-are-expanding-and-evolving-in-healthcare.md",
+      "title": "AI use cases are expanding and evolving in healthcare",
+      "excerpt": "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
+      "originalUrl": "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/",
+      "publishedDateTime": "2021-07-29T19:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-healthcare-ai-market-next-big-thing.md",
       "title": "Healthcare AI Market Next Big Thing",
       "excerpt": "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation.",
@@ -1299,49 +1343,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-getting-started-with-ai-using-ibm-watson.md",
-      "title": "Getting Started with AI using IBM Watson",
-      "excerpt": "In this course you will learn how to quickly and easily get started with Artificial Intelligence using IBM Watson. You will understand how Watson works, become familiar with its use cases and real ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/getting-started-with-ai-using-ibm-watson-0_GdR9t4MnEem1fhKdUV_ohA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

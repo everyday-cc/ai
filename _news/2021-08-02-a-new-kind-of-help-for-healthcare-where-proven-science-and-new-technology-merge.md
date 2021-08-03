@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "AI in healthcare: should we break the black box?"
+    excerpt: "But despite these promises, there are serious obstacles to deploying AI in clinical practice. Many of the AI models coming out of research fail to meet the transparency requirements of clinicians, patients and regulators."
+    publishedDateTime: 2021-08-02T01:07:00Z
+    webUrl: "https://www.eventbrite.sg/e/ai-in-healthcare-should-we-break-the-black-box-tickets-165522308681"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 34
 
 secured: "MoEsuQv0a+nWkSDeDBGQIA2H7fKsy1d48Wn4toqkeFH/343r0oYuGEWKVlEuJItzj0QJHnvlFAwd5sB14YqMN3So0VAL2czcgZqDnHoGlIhvDrPxRNDCtdMdZcJ0lcR/Clh4qiC+kMFw14O+f1/6rCB1xpBMdCVusbh3UAhGLr1A9X5W/fGI32uR2q93+BUouQAjVBgzNv1D8UmOu6NtBpGBMu0nITu/FNYf/HohO7AfW8aiqxT6coHFMXPQKx3xHsMXKIGdCLh07rh33nZ20VBPKP1DaIyGESlQACazDaz8uES+vbWpgOK2lpqozu+NllJMz64s8THyIVR/HmIzEBR3hTUDly4RWunBxl/8N/fhO9AVw+s/Lavy2LlxVa2ORH+sfDOpW5blqayp0ilC4MZX2i8cLzRFP0+A0PysMqDxVui0klFWX3IN4mkYnaQyo6KSAWcPTmL6/6zW9kkxbyISC62/t/XnwyAQtdqAjk6WPsyscKmXSYOKBX7MH7qqeqBhSnzAJfU8gPJytEjgjg==;vNq6bmMTj92hbTeQossivg=="
 ---

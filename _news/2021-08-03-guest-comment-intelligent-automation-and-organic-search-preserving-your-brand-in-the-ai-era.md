@@ -40,6 +40,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ashfield Health Launches Health Intelligence Platform, Gravity.AI"
+    excerpt: "Ashfield Health, a global healthcare marketing and communications network and part of UDG Healthcare, has launched Gravity.ai, a global healthcare intelligence data platform. The data solution is designed to support pharma,"
+    publishedDateTime: 2021-08-03T15:18:00Z
+    webUrl: "https://www.biopharmadive.com/press-release/20210803-ashfield-health-launches-health-intelligence-platform-gravityai/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 19
 
 secured: "HDCTQzIGuJLwkX1bc2/GPGc8XjI4X4qNfJTQ2HTByfTq5G0P4mgykv5b0lVxHVsr2iBcgOOD2U0D62D7ZFhHQJlGj6bPggPMXrL3xKA9QGx2q/0Hi6mr9HJ5KGAmYo6zQx40rkCJgt68LcZhjsgsOECweXhuQUmZwPNBux7feLR1tlqPPy4D8ym+yKZCGwVwsGln89aBMVZQkqZYLeA4RPbyfc4CGWKeeal+R4ga0yp9JC1LZf04O8KRIhBxNyv/Xt3vBQfnXiV/LNVep0DEXetiI0P31PjeVaSz3Mmt3OXT0krpmyTlaz8sTTxXSRG52/S5UuBO2HxFzmp1xWYUWXrDZh8yf5P+jWRA3/8HYZo=;0ptXErcm+RgVP8zsdT9ZTw=="
 ---

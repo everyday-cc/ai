@@ -626,25 +626,34 @@
       "title": "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS",
       "excerpt": "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
+      "webUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

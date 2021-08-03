@@ -51,15 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "National Science Foundation selects Carnegie Mellon University researchers to participate in $220 million national AI initiative"
-    excerpt: "The U.S. National Science Foundation has launched a $220 million endeavor that's looking to create 11 new national artificial intelligence research institutes, and it tapped Carnegie Mellon University researchers to be enlisted in the endeavor."
-    publishedDateTime: 2021-07-29T21:31:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/29/national-science-foundation-cmu.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "RyWsjOz0DCOOtWpFJ9aRD+kGfQIO+ou0XSjOD8MCO6A3fJRM0JPWc//7i3SOYJTFPObDfTCUvhLSuvnnOY7T+em0u69jlnfQ44nVA40BVoTk0XDhcg3gB0XoujLQln+3+aBq4fhX1ycqV6TNh69Rjczo0iohlnQpjN9fYsNWXExwWommlrNMaFzBAgYZhmjC2Dj/GJZ16JIFTs+uqoqy5eglWTiT5LcvA6grJo4p+iDOXVPGODNFtUO9hvCEkaCVQK3dKHcfQZlrMcATRW9zNzqtBW4XBOxuo9Hd8iDjOuX5G9H9Z6feI4jlZL9SaW1XbHeEVk2YhVJX9H6of5gCn9xgepCtcoKxNrA7jPBGRFRSekp2lkcQBXd0MV8nSDimIzFZHkOBOuHUQuMGyMWCZ22F56o9qJqgtiZjunKlno3GhjAsB8Vk7dP0LQcbsquznTgg222WZt51nCpO60u2yoQUd00awrUD3mZLd1OhrxLSutVlQzl6JmMyXe4Fuvz4qiLkr7vrx8IvQW2fOGgPHw==;yLbmBLR5Uwx6CGZssLwlcg=="
 ---

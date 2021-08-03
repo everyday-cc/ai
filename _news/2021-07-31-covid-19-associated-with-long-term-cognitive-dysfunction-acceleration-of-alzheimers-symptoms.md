@@ -24,17 +24,6 @@ images:
     height: 217
     isCached: true
 
-related:
-  - title: "COVID-19 could lead to cognitive decline, especially in older adults, new research suggests"
-    excerpt: "Preliminary research presented at the Alzheimer’s Association International Conference in Denver this week suggests that coronavirus infections might lead to lasting cognitive impairment ..."
-    publishedDateTime: 2021-07-29T21:06:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/covid-19-could-lead-to-cognitive-decline-especially-in-older-adults-new-research-suggests/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 0
-
 secured: "Uja5hLIn1v77XbcH+1ui+LpG9mbF7SizNVmi9xcdXzNWGeeVV+SXp6POP54XCbVsUHmNfw5p39auhUXe8JEQ2Op4OmfUcU6AVFiHm9TeDiwDAlVdFhH8wFyvPLU0AwwSP+5g8gghfHqK4AdyqoOw3Dxpa9l03LHON1Qmji/FWyPNvfVXhYKrHky+g06Z06m6w8ZicpFOLIQN8O8w6+s6iV4Y8JZN3QXBmZoRborlhcA5eXxkSEuEvIbKDbi5ch1PZ9VCTCbaipf0rklGlOQN59AuJj6qcAJw1RbE/d1VR/zPdLr7mD1AH3YqXafoDW8/iU924mvMWoDa9kqKm2TN0b5ZDAJbS8fj9N72K+iR95E=;78u7xFhktC+ITJ0YV8bp6g=="
 ---
 

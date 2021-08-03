@@ -2,6 +2,273 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-13-university-of-oxford-and-esme-learning-champion-the-future-of-fintech-with-the-oxford-digital-finance-executive-education-series.md",
+      "title": "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series",
+      "excerpt": "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-artificial-intelligence-on-microsoft-azure.md",
+      "title": "Artificial Intelligence on Microsoft Azure",
+      "excerpt": "or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get started. Artificial Intelligence (AI) empowers amazing new solutions and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/artificial-intelligence-on-microsoft-azure-0_mr4rapL8Eeup_AoS2h03mQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud.md",
+      "title": "Visa on using advanced AI such as unsupervised learning to fight fraud",
+      "excerpt": "Visa's Melissa McSherry discusses how Visa uses unsupervised machine learning and other types of AI to fight payment fraud at Transform 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/02/Visa-e1626186642948.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/visa-on-using-advanced-ai-such-as-unsupervised-learning-to-fight-fraud/amp/",
+      "publishedDateTime": "2021-07-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-humanoid-robot-keeps-getting-fired-from-his-jobs.md",
+      "title": "Humanoid Robot Keeps Getting Fired From His Jobs",
+      "excerpt": "Pepper was fired. The company ended its lease of the robot and ... botched its job at a nursing home and gave baseball fans a creepy feeling, some people are saying the humanoid itself will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "originalUrl": "https://www.wsj.com/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-367980/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/humanoid-robot-softbank-jobs-pepper-olympics-11626187461",
+      "publishedDateTime": "2021-07-13T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-zoominfo-buys-israeli-company-chorusai-for-575-million.md",
+      "title": "ZoomInfo Buys Israeli Company Chorus.ai for $575 Million",
+      "excerpt": "Employees of an Israeli startup company work at the company’s office in Tel Aviv, Israel, Feb. 7, 2018. Photo: Reuters",
+      "sourceUrl": null,
+      "webUrl": "https://www.calcalistech.com/ctech/articles/0,7340,L-3912362,00.html",
+      "originalUrl": "https://www.algemeiner.com/2021/07/13/zoominfo-buys-israeli-company-chorus-ai-for-575-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images1.calcalist.co.il/PicServer3/2018/12/13/869065/Chorus_l.jpg",
+          "width": 590,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Algemeiner",
+        "domain": "algemeiner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
+      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
+      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
+      "publishedDateTime": "2021-07-13T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-global-speech-recognition-market-2021-industry-research-review-growth-segmentation-key-players-analysis-and-forecast-to-2027.md",
       "title": "Global Speech Recognition Market 2021 Industry Research, Review, Growth, Segmentation, Key Players Analysis and Forecast to 2027",
       "excerpt": "The global Speech Recognition market size is projected to reach US$ 17490 million by 2027, from US$ 9461.8 million in 2020, at a CAGR of 9.1% during 2021-2027. This report studies the Global Speech Recognition market status and outlook of global and major regions,",
@@ -848,300 +1115,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-informatica-introduces-ai-model-governance.md",
-      "title": "Informatica Introduces AI Model Governance",
-      "excerpt": "Along with Informatica's announcement of its Cloud Data Governance and Catalog today, comes a suite of features aimed at extending data governance to the world of AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/informatica-introduces-ai-model-governance/",
-      "originalUrl": "https://www.zdnet.com/article/informatica-introduces-ai-model-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/13/53635a5c-c8da-4a81-9db0-965fa5ead503/informatica-aimg-screenshot.png",
-          "width": 642,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/informatica-introduces-ai-model-governance/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/informatica-introduces-ai-model-governance/",
-      "publishedDateTime": "2021-07-12T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-tesla-issues-stark-warning-to-drivers-using-its-full-self-driving-mode.md",
-      "title": "Tesla issues stark warning to drivers using its Full Self-Driving mode",
-      "excerpt": "Tesla is warning drivers with the latest beta of its Full Self-Driving mode to use it with caution as it “may do the wrong thing at the worst time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
-      "originalUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/tesla-model-3-review-7563.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/tesla-issues-stark-warning-to-drivers-using-its-fsd-mode/?amp",
-      "publishedDateTime": "2021-07-12T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search.md",
-      "title": "Sinequa Named a Leader in 2021 Analyst Report for Cognitive Search",
-      "excerpt": "This Forrester Wave™ 2021 report is one of the industry’s most thorough analyses of the cognitive search market. It evaluates each provider against 26 criteria, including Data, Intelligence, Development, End User, Scope, Operations, and Architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/",
-      "originalUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/sinequa-named-a-leader-in-2021-analyst-report-for-cognitive-search/amp/",
-      "publishedDateTime": "2021-07-12T21:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival.md",
-      "title": "MAS Pushes for AI Innovation With Global Challenge Ahead of Its Fintech Festival",
-      "excerpt": "MAS, AFIN and Accenture launched of the inaugural Global Veritas Challenge where the theme revolves around \"Codifying Responsible AI\".",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
-      "originalUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechnews.sg/wp-content/uploads/2021/07/MAS-Pushes-for-AI-Innovation-With-Global-Challenge-Ahead-of-Its-Fintech-Festival.jpg",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fintech Singapore",
-        "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025.md",
-      "title": "Cognitive Services Market 2021 : Worldwide Market Size with Top Countries Data, Segmentation Analysis, Value Chain and Key Trends by 2025",
-      "excerpt": "Jul 13, 2021 (The Expresswire) -- With a CAGR of 23.1% in the forecast period of 2021 to 2025, Cognitive Services Market Size will expected to reach USD 5521.8 million by 2025, from USD 2403.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-2021-worldwide-market-size-with-top-countries-data-segmentation-analysis-value-chain-and-key-trends-by-2025-2021-07-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-heres-how-developers-can-implement-the-google-translate-api-in-their-apps.md",
-      "title": "Here’s how developers can implement the Google Translate API in their apps",
-      "excerpt": "For the latter, you can just upload translated language pairs (a structured list of words/phrases with their translations) and AutoML Translation will train a custom translation model. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
-      "originalUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogleTranslateAI.jpg&signature=ec60a3389abb868bd3a35f69a793cbb2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

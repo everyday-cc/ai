@@ -2,6 +2,198 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
+      "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
+      "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-singapore-based-nektarai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively.md",
+      "title": "Singapore-based Nektar.ai gets $6M to help B2B sales team collaborate more effectively",
+      "excerpt": "Organizing information about prospective deals is a challenging task for B2B sales teams, since salespeople usually rely on multiple tools (email, Zoom, WhatsApp, etc) to talk with buyer committees. It becomes even more unwieldy when sales teams work remotely.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/",
+      "originalUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Founders_picture.jpg",
+          "width": 2629,
+          "height": 1938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/",
+      "publishedDateTime": "2021-08-02T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
+      "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
+      "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "publishedDateTime": "2021-08-02T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
+      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
+      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
+      "publishedDateTime": "2021-08-02T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
       "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
       "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
@@ -95,7 +287,7 @@
       "originalUrl": "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -242,7 +434,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -526,7 +718,7 @@
       "originalUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -621,7 +813,7 @@
       "originalUrl": "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1006,205 +1198,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker.md",
-      "title": "Analyze customer churn probability using call transcription and customer profiles with Amazon SageMaker",
-      "excerpt": "Regardless of the industry or product, customers are the most important component in a business’s success and growth. Businesses go to great lengths to acquire and more importantly retain their existing customers. Customer satisfaction links directly to revenue growth, business credibility, and reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/27/ML-4213-image003-1092x630.png",
-          "width": 1092,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T09:35:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-lyft-gets-equity-stake-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
-      "title": "Lyft Gets Equity Stake In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
-      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "publishedDateTime": "2021-07-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
-      "title": "Facebook open-sources Droidlet robotics development platform",
-      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist.md",
-      "title": "How to approach AI more responsibly, according to a top AI ethicist",
-      "excerpt": "A conversation with DataRobot's Haniyeh Mahmoudian, a winner of VentureBeat’s Women in AI responsibility and ethics award.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Women-in-AI-Awards.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist/amp/",
-      "publishedDateTime": "2021-07-30T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

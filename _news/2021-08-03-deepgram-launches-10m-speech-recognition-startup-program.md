@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-reco
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     height: 598
     isCached: true
 
-secured: "g5vubCGY1EJ2DICpKaXHcS7XWIn7/RDExQUNtqi8rMTs6ab2QckkabC5L1x7x8SHoUZOg0k5XTxECl0U6EOA7nAFY/aEG4vu0HO6u7bHxaoYszk/u2tSEjdO4YWHScS/J2L1VdvwYTBzRa7KgKecCXIGbfQpffIa6OMCgnpt27vqyvphZwJVOWDlIdYk28kPz9B+NjFVmtUdPYwoWZI4A2aPWmTksfIKLG+r/AkR0myEzyAM87as+yuownAdBPOjT/XKdmX4+8VuXUHqDLF+7cbVfzs04i1729PwZQvYOEoSTaSByOtdJh9Xp4aoE5BSfiIEEHOEpjoq45YQq8unr972Z8lFXP3Y2SVBUho6XFM=;z5ML8HcAp+vzyNH8YFS4EA=="
+related:
+  - title: "LumenVox Launches Next-Generation Automatic Speech Recognition Engine with Transcription"
+    excerpt: "LumenVox, a leading provider of speech and voice technology, today announced its next-generation Automatic Speech Recognition (ASR) engine with transcription. The new engine, built on a foundation of artificial intelligence (AI) and deep machine learning (ML),"
+    publishedDateTime: 2021-08-03T12:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lumenvox-launches-next-generation-automatic-speech-recognition-engine-/2021/08/03/9422453.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 10
+
+secured: "K6YcyuVUy/ebLP7zSEXM5gqIV53Gu0ek5o8ZXLrWvtaB+e5DSHAE/E0g+RnNgbRjlnUf6I/n2RITraUDMCPbiPYHxnVXlgPMwAtyogcU1Sh9c2bjq7g9CKwh3UyOIQwqy2aoM8zkpXrIWN3+ATAngbypVam5ksbEoEtIF4E1dUTf6W4eNA+0HVSssaCd/vppT7kzrx2yoVzDBidOJdrXjAjxiJ8/qco7kIysSSDNPaDEdL7PpIAOp1RIQ4uS0BDiYqgFORbzaeUOd8qZh8E5xXYEZtRBLAbN2g1sP6jOuKzvC3NDgs0GZvv+39BoWZFrlYV6h3VpnlUgd14bknJoouqH/08p5lMO1cuSoarrS2nv9EKLr0USdZ4PpB8mA7CvUlTkl1ht6tWUN5BHF1ujQW+nGmlnnu5M+CkOACYKFeZ6nDbLScRtJOUhor7gru+mtyRwf0tuXnlz0dWM7exDjRLcdmkIC4eSFnyOQjmvBdKcu6qTnBKGiH6BaLa3s++hBOUymzYKOdaSzFOi+RQxhw==;xO/WXNiwuz2TSynHwdqnNQ=="
 ---
 

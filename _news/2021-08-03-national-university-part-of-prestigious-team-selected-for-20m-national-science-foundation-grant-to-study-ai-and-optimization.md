@@ -51,15 +51,6 @@ related:
         width: 1800
         height: 1160
         isCached: true
-  - title: "National Science Foundation selects Carnegie Mellon University researchers to participate in $220 million national AI initiative"
-    excerpt: "The U.S. National Science Foundation has launched a $220 million endeavor that's looking to create 11 new national artificial intelligence research institutes, and it tapped Carnegie Mellon University researchers to be enlisted in the endeavor."
-    publishedDateTime: 2021-07-29T21:31:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/07/29/national-science-foundation-cmu.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "I4OsA0XUDpqFIaJC64dvimmEjhX6TeK6d5ilLKz1kubdDv3DKG52m2f321FicUR3fDbofCoEoU+CZpb9NOGISpdMvbxXHmFP29F8kNqcoaDq7P2Eg2Z6PIdUqcfArJlfqxKo4aMUWXxrXAz1L2x8yGPDusP/R3nvt5o2+moO0qKoP6s9eh8C31VGHuaEFwkTL4Etwy6JZtR6UXpDqAGoAshy3flE4YAswIZgXCjuXLs2QrkAIppnzJ5bZb19kEppjVqbQaJUcQJkJn7NDC46+b3fXIcfxd3xBDziAP10EG5vpylnHrGOgnmQ60Q6aXjQeU+JHidArHH+LKctQgtUuFAoS5Y4tNRlE4ekzLFHWiI=;/JbpJ5vF4DQSipQp1KCvXw=="
 ---

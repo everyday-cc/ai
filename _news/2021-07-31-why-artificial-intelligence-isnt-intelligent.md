@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-in
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Ashfield Health Launches Health Intelligence Platform, Gravity.AI"
+    excerpt: "Ashfield Health, a global healthcare marketing and communications network and part of UDG Healthcare, has launched Gravity.ai, a global healthcare intelligence data platform. The data solution is designed to support pharma,"
+    publishedDateTime: 2021-08-03T15:18:00Z
+    webUrl: "https://www.biopharmadive.com/press-release/20210803-ashfield-health-launches-health-intelligence-platform-gravityai/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 19
 
 secured: "yoQyc+yhBPZWe6I+NpVv5Xp7y5cnUF1RVRWGAPHK9BXw4NH7iOSQ0/j9M9zkFQYqeRy0KiYLjtL1CenAnk9rAsepBwf4EDp0lT8qInmDxGTG6BGawngj91wtcIi8f7s3bGqkwFTMSrOEFslFR6rmN7PX2u8aVICqVSGhPqB5sdPTktQFy5g8BrRKqzxsJo7ZxpGvieupJgebA7+HOdhCw2rKwQ0+BGYxKRSWsn6A0REHfX0kQ/Oh7+ckICoNkZ5l6dMe0fXl0ikMbnBQTTeON3ZB+dDFODnAYX0KhqnZ+emLBUg5RuvLIZgl5nvZCOTpB/7hNCrywhFScvjNnJiDjssV4PbOGqKnOuEVVmNrj/U=;z/qA1hmeHM5CXvXluXUfsg=="
 ---

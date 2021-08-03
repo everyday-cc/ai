@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-17-openai-disbands-its-robotics-research-team.md",
+      "title": "OpenAI disbands its robotics research team",
+      "excerpt": "OpenAI has disbanded its robotics team after years of research ... “But from perspective of what we want to achieve — [artificial general intelligence] — there was some component missing.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/openai-robotics-finger-velcro-e1570816045621.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/openai-disbands-its-robotics-research-team/amp/",
+      "publishedDateTime": "2021-07-16T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
       "title": "Carnegie Melon professor develops real-time learning four-legged robot",
       "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
@@ -1363,49 +1416,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
-      "title": "Facebook teaches AI-powered robot to adapt while walking",
-      "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "publishedDateTime": "2021-07-09T05:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "domain": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

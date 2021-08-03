@@ -2,6 +2,272 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-21-how-artificial-intelligence-can-create-real-value-for-your-business.md",
+      "title": "How Artificial Intelligence can create real value for your business",
+      "excerpt": "Whether we ask Amazon’s Alexa to play our favorite song or shout “Hey, Google” before asking the device a question to help our child with their homework, artificial intelligence (A.I.) has been in the spotlight more frequently in the past few years in consumer applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/",
+      "originalUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2021/07/alphagamma-How-Artificial-Intelligence-can-create-real-value-for-your-business-entrepreneurship-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/?amp=1",
+      "cdnAmpWebUrl": "https://www-alphagamma-eu.cdn.ampproject.org/c/s/www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/?amp=1",
+      "publishedDateTime": "2021-07-20T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alphagamma.eu",
+        "domain": "alphagamma.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-mobileye-begins-testing-autonomous-cars-in-new-york.md",
+      "title": "Mobileye begins testing autonomous cars in New York",
+      "excerpt": "People on the streets of New York will soon see a new type of vehicle meandering around: Mobileye's prototype autonomous cars. The company's parent company, Intel, announced Tuesday that the vehicles are officially on the road in NYC to tackle \"one of the world's most challenging driving environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/mobileye-begins-testing-autonomous-cars-in-new-york/ar-AAMmKTB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AXkjCvqVg51d1HH8MO5tKpXt8VQ=/2021/07/20/3d8b3475-e4d7-4b6c-bd22-79f431a526fd/ogi-me.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mobileye-intel-autonomous-cars-new-york-city/",
+      "publishedDateTime": "2021-07-20T11:14:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/",
+        "domain": "cnet.com/roadshow/news/mobileye-intel-autonomous-cars-new-york-city/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-machine-learning-models-to-help-photovoltaic-systems-find-their-place.md",
+      "title": "Machine learning models to help photovoltaic systems find their place",
+      "excerpt": "With the looming threat of climate change, it is high time we embrace renewable energy sources on a larger scale. Photovoltaic systems, which generate electricity from the nearly limitless supply of sunlight energy,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/photovoltaic.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "publishedDateTime": "2021-07-20T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division.md",
+      "title": "Toyota’s Woven Planet acquires Lyft’s Level 5 self-driving division",
+      "excerpt": "Toyota subsidiary Woven Planet, has announced the completed acquisition of Level 5, the self-driving division of rideshare veterans Lyft Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "originalUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/Lyft-Level-5-Demo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/20/toyotas-woven-planet-acquires-lyfts-level-5-self-driving-division/amp/",
+      "publishedDateTime": "2021-07-20T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-watson-as-a-warning-current-limits-and-promise-of-ai.md",
+      "title": "Watson as a Warning: Current Limits and Promise of AI",
+      "excerpt": "We can’t seem to decide whether AI will replace humanity as the dominant intellectual force or it will simply be a sideshow never reaching its promise. Is AI the technology of the future, or wil",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/Node/153737",
+      "originalUrl": "https://www.natlawreview.com/Node/153737",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/watson-warning-current-limits-and-promise-ai?amp",
+      "publishedDateTime": "2021-07-20T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.md",
+      "title": "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board",
+      "excerpt": "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "originalUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
       "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
       "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
@@ -171,50 +437,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws.md",
-      "title": "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS",
-      "excerpt": "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -575,6 +797,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-20-black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws.md",
+      "title": "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS",
+      "excerpt": "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-google-unveils-self-driving-cloud-security-feature.md",
       "title": "Google unveils ‘self-driving’ cloud security feature",
       "excerpt": "At its Security Summit, Google Cloud announced Chronicle integrations, Cloud IDS, an autonomic security operations stack, and more.",
@@ -899,283 +1174,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-edtech-startup-careerninja-raises-pre-seed-from-unitus-ventures.md",
-      "title": "Edtech Startup CareerNinja Raises Pre-Seed From Unitus Ventures",
-      "excerpt": "CareerNinja has recently raised an undisclosed amount in pre-Seed funding from Unitus Ventures. The AI-powered edtech platform democratizes quality learning at affordable rates for anyone seeking to upskill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377845",
-      "originalUrl": "https://www.entrepreneur.com/article/377845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626782003-3.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377845",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377845",
-      "publishedDateTime": "2021-07-20T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-plyable-harness-the-latest-in-ai-and-computer-vision-to-deliver-innovation.md",
-      "title": "Plyable Harness The Latest In AI And Computer Vision To Deliver Innovation",
-      "excerpt": "Plyable harness the latest in AI and computer vision to deliver innovation in the manufacturing space - read at TechRound >>",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/plyable/",
-      "originalUrl": "https://techround.co.uk/tech/plyable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/07/CAD-1.jpg",
-          "width": 508,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/plyable/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/plyable/amp/",
-      "publishedDateTime": "2021-07-20T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook.md",
-      "title": "AI in Fashion Market Size 2021 is Booming Worldwide| Microsoft , Ibm , Google , Aws , Sap , Facebook",
-      "excerpt": "The Global AI in Fashion Market Report provides extensive insight into key strategic and market development studies, along with dominant market opportunities during the forecast period to 2023. AI in Fashion market growth and segment details market demand,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook/",
-      "originalUrl": "https://manometcurrent.com/ai-in-fashion-market-size-2021-is-booming-worldwide-microsoft-ibm-google-aws-sap-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-edge-ai-software-market-generated-600-million-revenue-in-2020-ps-intelligence.md",
-      "title": "Edge AI Software Market Generated $600 Million Revenue in 2020: P&S Intelligence",
-      "excerpt": "The imposition of lockdowns in several countries to mitigate the spread of the COVID-19 infection negatively impacted the operations of many businesses, but positively impacted the growth of the edge AI software market.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102442643/Edge-AI-Software-Market-Generated-600-Million-Revenue-in-2020-PS-Intelligence",
-      "originalUrl": "https://menafn.com/1102442643/Edge-AI-Software-Market-Generated-600-Million-Revenue-in-2020-PS-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?91917",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager.md",
-      "title": "Insig AI Wins Contract to License Its Data Tool to Investment Manager",
-      "excerpt": "By Sabela Ojea Insig AI PLC said Tuesday that it has won a contract with a London-based alternative investment manager that has signed an annual license",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-wins-contract-to-license-its-data-tool-to-investment-manager-271626772175",
-      "publishedDateTime": "2021-07-20T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026",
-      "excerpt": "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AWS AI"
       ]
     }
   ],

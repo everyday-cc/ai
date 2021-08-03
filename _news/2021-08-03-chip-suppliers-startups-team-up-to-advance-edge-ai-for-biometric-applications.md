@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202108/chip-suppliers-startups-tea
 webUrl: "https://www.biometricupdate.com/202108/chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Biometric Companies
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge AI Chips market report provides a detailed"
-    publishedDateTime: 2021-07-30T11:24:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4709579-global-edge-ai-chips-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 20
   - title: "Prominent biometrics firm reborn as a startup, as established players lock in gains"
     excerpt: "Headlines from around the biometrics landscape shifted somewhat from investments and fundraising to revenues and new entries this week."
     publishedDateTime: 2021-07-31T15:36:00Z

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple Expands Fleet of Self-Driving Cars"
+    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
+    publishedDateTime: 2021-08-03T15:39:00Z
+    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "VW boss: Data to be key issue for future of self-driving cars"
     excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
     publishedDateTime: 2021-08-01T11:11:00Z

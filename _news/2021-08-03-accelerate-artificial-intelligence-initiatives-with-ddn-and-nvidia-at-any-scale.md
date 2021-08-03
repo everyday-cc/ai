@@ -54,6 +54,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "NVIDIA Looks to Lower AI Barrier to Entry"
+    excerpt: "The Base Command Platform aims to reduce the cost of training AI models and lowers risks for organizations when prototyping models."
+    publishedDateTime: 2021-08-03T15:45:00Z
+    webUrl: "https://www.itbusinessedge.com/applications/nvidia-looks-to-lower-ai-barrier-to-entry/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 37
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/08/NVIDIA-Base-Command-Platform.jpeg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
     excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
     publishedDateTime: 2021-08-03T12:11:00Z
@@ -83,6 +97,6 @@ related:
         height: 900
         isCached: true
 
-secured: "AIEuhhvuo1zkj4Wr/U0vfVXbg/fIYGSHy4KGOajzYOMQXSNTyrOxoubA/iJ+WcY4bfC7K6NBbyr95WAwrv1EXCki27FeaphxojvbNon9kJd3a1Z2Z9ANz89Lg6vBr20eRbpFI4F23KFRVEoMnDm1C9ZVH7WHYwljttuVwRkKsn7EzwpxTRiWvQoyGlrZgn+H2KLVsZRSoNRBkrTzWkRhOIFJrYaoI15qB66b/sBaXdotcaDQ0SYna9NOypc/bML0suaXzun2ibJkkuCNwizlDV7eGJHaR6MwtELOT6+mMNUGJf27o7lplOL261SOUglJXIOTFp46/fK2JV0+50b0doHrkVhEVQ14l/yGB+d9MeU=;YDSCZrip9ma9/PpmAvCSdQ=="
+secured: "QI7Bc8Ofebv3yoCRHHFOkHZuzbykq83xMQ5dudxihpgDxcItdO+7LZJNSEiREi3OyXiA40tYfYWvOC+jc2MGbDMoVB4yy+b6wNWWuCrgADli+jHtOnsTL3GgRz0TYWUL0l0z/50pElxUOL+Thd6vrwPquGmlivJkjC/7yU+yL+ihksK8J7xOOaGqZpvH4rxtBelQX48tuveDaqvs+2GpImKi/aDz4EDy1BlEAl3lz71axoYxGc6i0C/fzWytd0+WVQV8O6W8FPCxCiFePVrqZOz5wcDH+XdyPv/bht7l97uqGgsR/lAZpKImlqitgU12l3EPGNTH9ahW+VEcvXhHwK1mdcTtsy71IHJ/AtJUx062JFJelFQDYEwietHO32qsbOifq4FZGGXH0igI3T7QgFqeTZ7wh//LoJRQo+jFk+EH0MCTOWZX2rmxq2Bddsf+CnkFnYBu/xAIEbx7lrj9T24XYjADDXnss8NJlmP8Hau+gjMf37imYBTLse4is2b7uj1o1w7EB30BcvH8J60j4A==;dP8aw3NWKidyOOv+yr5Mjg=="
 ---
 

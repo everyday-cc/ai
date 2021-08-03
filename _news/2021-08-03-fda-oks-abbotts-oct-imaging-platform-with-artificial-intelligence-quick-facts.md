@@ -1,22 +1,18 @@
 ---
 category: news
 title: "FDA OKs Abbott's OCT Imaging Platform With Artificial Intelligence - Quick Facts"
-excerpt: "Abbott Laboratories (ABT) announced Tuesday that it has received U.S. Food and Drug Administration (FDA) clearance for its latest"
-publishedDateTime: 2021-08-03T13:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fda-oks-abbott-s-oct-imaging-platform-with-artificial-intelligence-quick-facts-1030684158"
-webUrl: "https://markets.businessinsider.com/news/stocks/fda-oks-abbott-s-oct-imaging-platform-with-artificial-intelligence-quick-facts-1030684158"
+excerpt: "Abbott Laboratories (ABT) announced Tuesday that it has received U.S. Food and Drug Administration (FDA) clearance for its latest optical coherence tomography (OCT) imaging platform powered by the company's new Ultreon Software."
+publishedDateTime: 2021-08-03T13:47:00Z
+originalUrl: "https://www.nasdaq.com/articles/fda-oks-abbotts-oct-imaging-platform-with-artificial-intelligence-quick-facts-2021-08-03"
+webUrl: "https://www.nasdaq.com/articles/fda-oks-abbotts-oct-imaging-platform-with-artificial-intelligence-quick-facts-2021-08-03"
 type: article
 quality: 42
 heat: 42
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
@@ -51,6 +47,6 @@ related:
         height: 450
         isCached: true
 
-secured: "i5cJ2HdJaE/mZBLS2wGigIrhiZ3O6msv3ju9YN3nUMK+nDbN81Xw/QS+L2u319y0oxyrBWVKXh+FRkbfv8KSAGYBS32gxMvgVD4TLE9FMU0MgQME+79zjAnzi9blWzU7AdN2iKEQt+YDJPkbU+dzlPWyUosFNzPe1dEf3PyHNot7w/cFUuuvyVN5pg782i3LaREEfTu5rYfV2XKJoEW+Y0H60NK/OxU+rLeIBTtonLvPWEZqyr1pbWi8iRZqDdbXivuN9Bm/8o1OUbHbBZLP8IWbV/Cu6NYVBG6/4DJrQ2BeYPNrCxlvxrDePWp7QdC+5DohEXu03blUp1RUoan+i9YnsSSh5unGtSStvmF+4y4=;OfuBMEnCY8F6SbUuT5u7lQ=="
+secured: "yV/WCRJvTF78+T5cwfYc19LRDnCulJ/ap5YZxKMkLYvavcspVdrrEoP4U9FuacNU7JgfIbsRgZ2Tk55kNbFDAxR21uZri1Shc32qJSYkYlvBIEbWmhKbVzcF8E0RypD6XN1FxYyUX342Jb7gqSLKaM3l9IV+b3JSmk1H6C3HeO0hrMwHEUxNdtgKPctjlVYEjGNUG9OaZLiE6twPaAVoWVM2aCB/KhcQc1suuT7y6FHdbtglYYauACDZ2g7YQY2aqz06FQrswkujWhMvos3kVGuC6oUvIESLvClvMq66LM09tHAL5fojcq3qqkmLY4tCJsg15Xer09SeGPySNS9Nz4tI+QZvY2As+AHk4VzmYWQ=;yLV3HmrFl9ghlF1lXdOmmQ=="
 ---
 

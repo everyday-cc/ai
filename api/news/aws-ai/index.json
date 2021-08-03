@@ -522,10 +522,10 @@
     {
       "path": "_news/2021-07-26-great-attains-aws-advanced-consulting-partner-accreditation.md",
       "title": "GREAT Attains AWS Advanced Consulting Partner Accreditation",
-      "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN).",
+      "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/great-attains-aws-advanced-consulting-partner-accreditation/article_347f9066-5ba2-5e85-a40b-09276ba71705.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/great-attains-aws-advanced-consulting-partner-accreditation/article_347f9066-5ba2-5e85-a40b-09276ba71705.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -535,11 +535,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:05:00-07:00",
+      "publishedDateTime": "2021-07-26T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1083,50 +1083,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-20-black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws.md",
-      "title": "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS",
-      "excerpt": "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-1030625676",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-20-our-ai-headline-experiment-continues-did-we-break-the-machine.md",
       "title": "Our AI headline experiment continues: Did we break the machine?",
       "excerpt": "Is Our Machine Learning? Our AI headline experiment continues: Did we break the machine? Feeding the machine: We give an AI some headlines and see what it does; Is our machine lea",
@@ -1176,6 +1132,59 @@
       "topics": [
         "AI",
         "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws.md",
+      "title": "Black Knight Announces Underwriter Assist Digital Solution, Leverages Machine-Learning Tools From AWS",
+      "excerpt": "Today, Black Knight, Inc. (NYSE:BKI), an award-winning provider of software, data, and analytics to the mortgage, real estate, and capital markets verticals, announced Underwriter Assist, the latest AI-powered mortgage solution developed by Black Knight running on Amazon Web Services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/black-knight-announces-underwriter-assist-digital-solution-leverages-machine-learning-tools-from-aws-2021-07-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
         "AWS AI"
       ]
     },

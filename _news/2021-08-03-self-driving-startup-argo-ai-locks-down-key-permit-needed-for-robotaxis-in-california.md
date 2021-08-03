@@ -56,6 +56,22 @@ related:
         width: 760
         height: 570
         isCached: true
+  - title: "Apple once again expands California self-driving test fleet"
+    excerpt: "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'"
+    publishedDateTime: 2021-08-03T13:49:00Z
+    webUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/"
+    ampWebUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "V2UQMXNuPD7Bh8GEKJf2ESXiaUXaj0OKZ7rfQODK4iERaLkhsha6gzUta3DAY9rrXKHXyCNuLgZeUNHkbfjvD3OmQCyn4Addy1CnYfNKF7vZJvt0ww4BlZEklxZEtsGI9wKzNz/4vfHP2TaNHY6DBd7beeCerZPUcDpvtC4x7TyxoOEjSCqhNbI6LKH3gcmGuI9X6EOV5KOHUM2AwNYeFZfEPT8ou+o9dNu7BR3hha+JSzLgOEKz7ud8rDgtK4xermIHoVHDEqk5jKBKQfqhbLVajT7CnpUPukcAP1XM8B56gY87ZnNaCQj6O3XI4DAavJx8LNVCdmb3soTv1aznCaHVs8zd4AGply2Sa0ebSqASc3iuuJRaW5PAkLvOQS13sOj75yIFsSM0lqrEuHIwD5wsWDZuAE4JeZliTd3wcj0wtbwfPqOygeQ3vzZJT12zobroGzVV7Jhn5ypQiUf2WnmkK2373jtH0NRFr6F4U5Ln/ELycGYVVf9/Hi0KkxMshVjfLIr+IvyptR6nOK2E6g==;4AYozgeOGRL7nhlfe3yWeg=="
 ---

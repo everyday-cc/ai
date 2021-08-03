@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-12-how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand.md",
+      "title": "How stakeholder capitalism and AI ethics go hand in hand",
+      "excerpt": "With the prevalence of AI technologies across businesses, AI ethics will soon become critical components of stakeholder capitalism.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "originalUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1257913820.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/12/how-stakeholder-capitalism-and-ai-ethics-go-hand-in-hand/amp/",
+      "publishedDateTime": "2021-06-12T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-transform-2021-puts-the-spotlight-on-women-in-ai.md",
       "title": "Transform 2021 puts the spotlight on women in AI",
       "excerpt": "VB Event Elevate your enterprise data technology and strategy at Transform 2021. VentureBeat is proud to bring back the Women in AI Breakfast and Awards online for Transform 2021. In the male-dominated tech industry,",
