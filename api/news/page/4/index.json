@@ -2,6 +2,156 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-30-edtech-startup-sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others.md",
+      "title": "Edtech Startup SP Robotic Works Raises $3 Mn From Mount Judi Growth Fund, Others",
+      "excerpt": "SP Robotic Works has raised $3 Mn in Series A funding. With this round, the edtech startup has raised a total of $4 Mn in investment.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
+      "originalUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2021/07/Untitled-design-9.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
+      "publishedDateTime": "2021-07-30T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2027",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
+      "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
+      "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
+      "publishedDateTime": "2021-07-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai.md",
       "title": "This SoftBank-Backed Korean Edtech Startup Helps Solve Your Math Problems With AI",
       "excerpt": "Other backers of Seoul-based Mathpresso include GGV Capital and the venture capital arms of Korean gaming billionaire Kwon Hyuk-bin’s Smilegate Investment and Lenovo founder Liu Chuanzhi’s Legend Holdings.",
@@ -1039,161 +1189,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-what-you-need-to-know-about-ai-security-even-if-your-company-isnt-using-ai-yet.md",
-      "title": "What You Need To Know About AI Security — Even If Your Company Isn’t Using AI Yet",
-      "excerpt": "No matter where you are on your AI adoption journey, AI security is something every leader needs to understand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d6272044f64cecc234fa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/amp/",
-      "publishedDateTime": "2021-07-29T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial.md",
-      "title": "Capital One exec shares why building diverse teams in AI and finance is so crucial",
-      "excerpt": "Teuta Mercado shares how diversity is not limited to race, ethnicity and religion, but also economic, experience, and education diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/",
-      "originalUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/TeutaMercado_Headshot-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/amp/",
-      "publishedDateTime": "2021-07-29T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-conversenow-boosts-restaurant-ordering-ai-with-15m-raise.md",
-      "title": "ConverseNow boosts restaurant-ordering AI with $15M raise",
-      "excerpt": "ConverseNow, a company developing an automated restaurant ordering platform, has raised $15 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/",
-      "originalUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/02/restaurant-mobile-e1626795325707.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/amp/",
-      "publishedDateTime": "2021-07-29T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

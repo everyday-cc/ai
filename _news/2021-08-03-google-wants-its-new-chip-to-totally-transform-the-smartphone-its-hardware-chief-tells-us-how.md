@@ -45,6 +45,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Google Pixel 6 Tensor chip looks like a game changer — here’s what it can do"
+    excerpt: "This new chip stands to enhance AI and machine learning (ML) on the Pixel 6 and could be a game changer against the iPhone 13 and its rumored A15 Bionic chip. Google has done some amazing things with AI and computational photography already,"
+    publishedDateTime: 2021-08-03T12:59:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-tensor-looks-like-a-game-changer-against-iphone-13-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/3H4nqYx5NvpyqpHY6u4aNU-1200-80.jpg"
+        width: 1200
+        height: 703
+        isCached: true
 
 secured: "OkmBySwh2HvBPHjGyRwR0Gdr8HAMzpMC5XJdLGu3zeB+L5Ih5j36NRFM6TYId1XN6mPqhtcZQsdHR6Gt9RdDgRRDJBupZW5ZsRukddgLmonRzjtewWSiHBYD8g0PVGDnD5RYQl2uAzZgSual4hCC1g1nQP/Olx+/4bbs/U8e+ejCyahm4pwpV94y1JsshYue31oDO+NEQoRt70ICeKKHKRZtiRGt0YOot4KAxoMHdrome+0ctqwndEr4c/tE3MoxFqhZrzGX33jEjPv8Nd1OkeE6thtRx7FSEBldnAO4PYbOdw7ksfr1/D54qeCa8nAu4XpRqLJw33A8Ou0lCUCAIjPvSW9iHaPEzNtQni/6NXJ+y9KoomloIETMejlWQCKGQv9VPyV1b2J+WmOv3EAC1VXT8DTLSEHkFs5T4ehYRhz61i6EGBKLbNohhXvtTmA7tNxGzSjv/r8YdiDpoH5EPDafeR5y3Hy5czB9aPQbOlOl5MPJqmnEbNOUBfLRY7YeVI/faDbVBbnwiRfA5RMr/w==;3O1x3QTkOz3uBjLwLzisRw=="
 ---

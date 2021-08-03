@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai.md",
+      "title": "Is DeepMind’s new reinforcement learning system a step toward general AI?",
+      "excerpt": "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/",
+      "publishedDateTime": "2021-08-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
       "title": "Building architectures that can handle the world’s data",
       "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
@@ -51,49 +103,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play.md",
-      "title": "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play",
-      "excerpt": "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/",
-      "originalUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/",
-      "publishedDateTime": "2021-08-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {

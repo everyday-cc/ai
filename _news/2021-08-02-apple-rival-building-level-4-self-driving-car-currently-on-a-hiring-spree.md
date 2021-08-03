@@ -25,29 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Beijing permits self-driving vehicle testing on expressways"
-    excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
-    publishedDateTime: 2021-07-30T04:22:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html"
+  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
+    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
+    publishedDateTime: 2021-08-03T18:54:00Z
+    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
+    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 24
+      name: iMore
+      domain: imore.com
+    quality: 44
     images:
-      - url: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Trying out a self-driving robotaxi in China"
-    excerpt: "China has sped up efforts to develop self-driving cars, with domestic tech companies testing autonomous vehicles in recent years. Since 2019, tech giant Baidu has opened its robotaxi service to the general public in several cities in the country,"
-    publishedDateTime: 2021-07-30T15:58:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-31/Trying-out-a-self-driving-robotaxi-in-China-12l7RGMMNWM/index.html"
+  - title: "Self-driving cars deliver food from Chandler nonprofit to Gilbert seniors"
+    excerpt: "A fleet of bright blue wrapped autonomous vehicles are hitting the streets in the East Valley to help a nonprofit deliver meals to seniors."
+    publishedDateTime: 2021-07-30T11:05:00Z
+    webUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/"
+    ampWebUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
+    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 4
+      name: KTAR News
+      domain: ktar.com
+    quality: 43
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2021/07/Photo-1.jpg"
+        width: 620
+        height: 370
+        isCached: true
 
 secured: "6btn+2535ckBDBYcWnxk8s3BxONEGftvsktBhSzkUP+4igr9yj9ZNvhXQDuXIOeH3vVBiG+2nssawInuUbF77mqYwccyDt1T/Lpo64wd83bnmytYj5FWCcuw2VIkPmRu/f6RKLHXeiQyrtxLu+IY6ItCMdg4wGZSyXRP0JxPKtea0VXYLdp4PYh2xGSbnSHqmpYyGQZxLmh9yy3ExMpfnnSjP+jO+6gMbSHZSGv7TC+i90zdMeVqnkPyZIAgc0F6fmzJfdb1M4Y1QPuBrPBpniSXh/PRalal9cNa0wO/mgolymdRgfbfanyYWB0Kvx2V9fJZ7hRFgs5HkoK7bTqbGoiMd3AvHg9iTUQ90BwUE0vLLff5fklCcmGQFIym8Ixn1onBtL+R7M4f46vf2o1uLGfzsBevyEavDYfFJItNb9vsZ+p/58j4wsjkd2UGqBKN90J71opAqpm1jVu96gLDHCUSVoFhNRbM0AmjtU3ljMegGEqa0WZDv2ZdqRc2XDEnCyMahHAAolp7cbdY9vyrGQ==;0L+iU0KeJqJX/4fpwcrqew=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 705
         height: 419
         isCached: true
+  - title: "Healthcare Providers Discover the Difference with Currance Rev-Cycle Yield Performance Solutions"
+    excerpt: "Currance, a leading healthcare revenue cycle industry innovator, announces the launch of Rev-Cycle Yield SM Performance Solutions designed to enable healthcare providers to achieve and sustain a 2 to 6 percent earned revenue improvement."
+    publishedDateTime: 2021-08-03T17:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthcare-providers-discover-difference-with-currance-rev-cycle-/2021/08/03/9423061.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "dl7pzVINCp345mYBaT5n46oQ8dodZj6PbfvbTBgLpdH8JFznP/xheKM4LyLYDzy2ewLDfhp96MaUO71UY5sSiuWWDiBsykhxWrxORHs4nT8l7AEHieuAERCcLt0LCxxK8sUOeFBSSC2I3MptwvfCFXNTR/BCMX0CE5AdvbMycqEHkMuF1HCrg19lYjSksRtRgEDfRrEAgG+j9wmfwAPvyZpJPFgeQTO/LyuXu/fLnLTEYcj6uTSjCRnzzmhgM5zBLvOqVXYFLTlPnyvY1+cyo8mr/NdhyB2RrTbbJvv10WNZ/gyROSj2qQCj73SMxW00OjrMbQ6SfV52h6N6IrJMIHMoAQoVZ3Wy81ePMTl4Ej4=;spgdMzhOccYnb50QbvzdkQ=="
 ---

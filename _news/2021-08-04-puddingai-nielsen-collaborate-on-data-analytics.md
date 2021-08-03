@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TV Technology
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Eli Lilly joins $30M Series A financing for startup bringing AI analysis to endoscopy"
+    excerpt: "The artificial intelligence-based technology of Iterative Scopes brings computer vision analysis to endoscopic images. The startup’s technology was initially developed to assist gastroenterologists in finding pre-cancerous polyps but CEO and founder Jonathan Ng said it’s also finding additional use helping pharmaceutical companies identify patients for clinical trials."
+    publishedDateTime: 2021-08-03T21:54:00Z
+    webUrl: "https://medcitynews.com/2021/08/eli-lilly-joins-30m-series-a-financing-for-startup-bringing-ai-analysis-to-endoscopy/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2021/08/Jonathan_Ng.jpg"
+        width: 1485
+        height: 973
         isCached: true
 
 secured: "gFZ1ZJh3pNPLbdLE0UhvSLvSoUhGu4FHK6P+0ZE6/NP7z8FFMQftovz9fbEeqMAAmE8L4/1QBxieUwUotAYzZB+N95qYspLa7yt9Em+kJcbQd3OeLTw30zg+LUO92SM972q5fkxa4e0zVOk8tLeLKxD+fjFHhSpVSj0xBMYuAmJT8Xp+7AZhz7KfGsvKyIR+QGoSG8X5CemiPokRtnqJHM4+Loo8dPaZrttG0l9oAlOuZEjgxS2SIm9WeiHn6MUSJs0FoIb66lGoXJuNQU5ukuL/huqIu1LM1bqvZGWsggghIC3WVZnXDmrltMB76/hT78kGTgo+enChnbLHlOcWepbCydMgOsqsaXIYJ1TCZSo=;EYU/ZqRCWXH2KcW3S9f/Sg=="

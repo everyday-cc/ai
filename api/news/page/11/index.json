@@ -2,6 +2,145 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-23-voice-recognition-expands-across-healthcare-and-transportation.md",
+      "title": "Voice Recognition Expands Across Healthcare and Transportation",
+      "excerpt": "Voice recognition has gained momentum within key application areas like digital banking, automotive control, healthcare, and consumer electronics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "originalUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.sourcetoday.com/files/base/ebm/sourcetoday/image/2021/07/Voice_recognition_promo.60c0c0cb43e4c.60fae3addc405.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sourcetoday",
+        "domain": "sourcetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
+      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
+      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
+      "publishedDateTime": "2021-07-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Austin American-Statesman",
+        "domain": "statesman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-how-an-ai-entrepreneur-deals-with-dirty-real-world-data.md",
+      "title": "How an AI entrepreneur deals with dirty real-world data",
+      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Women in the AI field are making research breakthroughs, spearheading vital ethical discussions, and inspiring the next generation of AI professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/",
+      "originalUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/how-an-ai-entrepreneur-deals-with-dirty-real-world-data/amp/",
+      "publishedDateTime": "2021-07-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
       "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
       "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ...",
@@ -1021,145 +1160,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-deepmind-creates-transformative-map-of-human-proteins-drawn-by-artificial-intelligence.md",
-      "title": "DeepMind creates ‘transformative’ map of human proteins drawn by artificial intelligence",
-      "excerpt": "AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "originalUrl": "https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/FCzoEFavxHNtxLa16PQcFVi_oUc=/0x0:2130x1420/1400x933/filters:focal(895x540:1235x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free",
-      "publishedDateTime": "2021-07-22T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-explore-microsoft-cloud-for-healthcare-and-more-at-aug-9-13-himss21-event.md",
-      "title": "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event",
-      "excerpt": "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "originalUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

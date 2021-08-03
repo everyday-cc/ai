@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-lead
 webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
         width: 468
         height: 312
+        isCached: true
+  - title: "Artificial intelligence and the structure of the universe"
+    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
+    publishedDateTime: 2021-07-31T12:42:00Z
+    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
+    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
+    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
+    type: article
+    provider:
+      name: Las Cruces Sun-News
+      domain: lcsun-news.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Artificial intelligence and the workplace"
     excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartph
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://i.insider.com/61086424372268001a5950bc?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Google Pixel 6 Tensor chip looks like a game changer — here’s what it can do"
+    excerpt: "This new chip stands to enhance AI and machine learning (ML) on the Pixel 6 and could be a game changer against the iPhone 13 and its rumored A15 Bionic chip. Google has done some amazing things with AI and computational photography already,"
+    publishedDateTime: 2021-08-03T12:59:00Z
+    webUrl: "https://www.tomsguide.com/uk/news/google-pixel-6-tensor-looks-like-a-game-changer-against-iphone-13-heres-why"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/3H4nqYx5NvpyqpHY6u4aNU-1200-80.jpg"
+        width: 1200
+        height: 703
         isCached: true
 
 secured: "JVksHSh6Jbo7OBq9DRTUGlYKxBTEHxdzzUU678Xi9BC4aTFmwJOEUG2Iyf3ZfmMj8NXJPCze5cQRTy8Jb1n7i7WrxHunU4/mT9jowTfC4pk+x3qMi5w8Ne8UZmcERhYmHJuwxaRIT/Fet6fU6V91lrfPI39ctsHSy4I1dOyACvOZ51aW6dZvibCCG1IKgSdLzqJ9ixqACJIWKMFLNWEmNeuO2q7ZCw4GKavcNBjGjuUNRAkjSeEhDjQAJrZattBVfJoCquT36kD1oSHHXSSToO60eS1lNgsBqSUeYN2lzrN6tE2r40QIcnEZeXRUTNlQ0abz/HGl1RG0aKQVjZ2jvGwq6g8E9RC8osx4g+urtYDUvVM+xdrOqLlQ0O19Opb74E1CObuEXn73HzVPJDfid892/P4+U4n6kSiu85UbqXv/n/C+EVLJ6Vml4Z+A9YWWmCi/h56zqsR/Yzp7jslo9b/dRfZf6kEv6m8hkJbb8rPYHecVOVBkcsuvoB4suhAMv2rFYf+2ctLDl286+8Bdeg==;nDhvNIGgFMD5VpkuobcqRQ=="

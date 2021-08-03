@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/07/30/teenage-driver-sw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/30/teenage-driver-swerves-to-avoid-squirrel-rams-into-abraham-lincoln-ancestry-home-providing-honest-abe-insights-for-ai-self-driving-cars/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 797
     isCached: true
+
+related:
+  - title: "DOT moves to allow self-driving car tests on NYC streets"
+    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
+    publishedDateTime: 2021-08-03T20:27:00Z
+    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
+    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ZxMmph/SFazGaw0O4GohIq3t7mrkFWFYqFgkRCkepR9OMtM2BWBMGKq/be1Ez9G5iAEPZYd+V3dak0V8fOJV+/4kCkRuxDkfo/oaJgxabifyXVpZepmQxN4TOpoQH+D4i+/G3/JJF16lCGnjEsfYYBM/sEtWGmsSt9WSua+7rEb6pmlb5UmIPlXY8ODVuJ0a+zRIydrMsDCVsNZVxZWpbVwyI90ZtY9JS/wNpo4NT1OeY9iUDA/LaBdg+4rHSHanWMAFXEc1KffGDfS1XIenR/+K5KcIz6wxLpZRCCKLRcy4+dXZ5YRDmoG8srG1/VKmItFz4pQ2nGzWt3lXRLm+uhnoZhwygL/2ydEFuYj+MQX7WpSg0+wxJF+jD9CsujL9c+u6BcJY40tq7aj8x+uKjGJHrYI3FgxPnAQ+r33FZEt0jMvoZH34iYd7rtpL4fNVCikf99ug9FJFYgTl3ElXmk+/NNgDA/0MBFaXeEOqx6mIcGJ4fZx0kUPHNX35al9rmzRKz84HNBU67Y2doGVsAA==;ytykG06qWpCycnWnw+ooQw=="
 ---

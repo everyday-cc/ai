@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Eli Lilly joins $30M Series A financing for startup bringing AI analysis to endoscopy"
+    excerpt: "The artificial intelligence-based technology of Iterative Scopes brings computer vision analysis to endoscopic images. The startup’s technology was initially developed to assist gastroenterologists in finding pre-cancerous polyps but CEO and founder Jonathan Ng said it’s also finding additional use helping pharmaceutical companies identify patients for clinical trials."
+    publishedDateTime: 2021-08-03T21:54:00Z
+    webUrl: "https://medcitynews.com/2021/08/eli-lilly-joins-30m-series-a-financing-for-startup-bringing-ai-analysis-to-endoscopy/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 30
+    images:
+      - url: "https://medcitynews.com/uploads/2021/08/Jonathan_Ng.jpg"
+        width: 1485
+        height: 973
+        isCached: true
 
 secured: "cwEbE1W7NYSHxLl88c0Y1ZZ6gSa1lAXhrG3DhJSJHtsEGn3Pi0bDLSLntfBNw2F6BBzkYRuWjQGEgcdXLIpePhDK6lIruJL3Gm9TB1WeK6LRO7OmQubcUXYzAzF7BiuEhAmwVkmi6ikgu10v4NXLm8koMetta1LGwRwvnCmu0HYL1EmbacDe9jtm/8RrHJ0nASfhEV1CHi4uiipGAOggKIKhdcjwOUaNsmuNtf9vz4E5YqO1N5GXKvZ40yiyD9pyiiNaPcfbRA9JFmx7DEJqlC0VCf2c6X9C8max+G+A8kRF1oC71EMuR6cqsmcUhdMtPbpAIlwAajN5dmChh8vbHXTCLjuuoWeAzSgp9olF5Ho=;ZBHK+TnY7wkHjr9U+23Bmg=="
 ---

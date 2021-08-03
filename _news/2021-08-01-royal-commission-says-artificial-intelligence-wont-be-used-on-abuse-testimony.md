@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
 cdnAmpWebUrl: "https://amp-rnz-co-nz.cdn.ampproject.org/c/s/amp.rnz.co.nz/article/da01faaa-e0d3-47c2-9263-a856a245a052"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -24,63 +24,6 @@ images:
     width: 720
     height: 450
     isCached: true
-
-related:
-  - title: "Tesla AI Day To Be Held On August 19, says Elon Musk"
-    excerpt: "Tesla is having an event called Tesla AI Day on August 19, company CEO Elon Musk has announced. Tesla had a Tesla Autonomy Day in 2019, and Tesla Battery Day in 2020, but it never had an event solely dedicated to artificial intelligence."
-    publishedDateTime: 2021-07-30T03:40:00Z
-    webUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk"
-    ampWebUrl: "https://in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/23851/tesla-ai-day-to-be-held-on-august-19-says-elon-musk?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 104
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/article/t/tesla-ai-d/tesla-ai-day-to-be-held-on-august-19-elon-musk-says_xxqe.620.jpg"
-        width: 620
-        height: 377
-        isCached: true
-  - title: "Elon Musk seeks top talent, announces Tesla AI Day"
-    excerpt: "Elon Musk confirms \"AI Day\", to explain Tesla's plans and approaches to an autonomous driving future, but also to recruit top AI talent."
-    publishedDateTime: 2021-07-30T04:27:00Z
-    webUrl: "https://thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/"
-    ampWebUrl: "https://thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/amp/"
-    cdnAmpWebUrl: "https://thedriven-io.cdn.ampproject.org/c/s/thedriven.io/2021/07/30/elon-musk-seeks-top-talent-announces-tesla-ai-day/amp/"
-    type: article
-    provider:
-      name: thedriven
-      domain: thedriven.io
-    quality: 76
-    images:
-      - url: "https://thedriven.io/wp-content/uploads/2021/07/E58Je5fXEAElOQR.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Investors Watch Tesla (TSLA) AI Day for Next Growth Milestone"
-    excerpt: "T esla’s Artificial Intelligence (AI) day is fast approaching. And while CEO Elon Musk insists the date will be focused on recruiting “the best talent” to boost its machine-"
-    publishedDateTime: 2021-08-03T16:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/investors-watch-tesla-tsla-ai-day-for-next-growth-milestone-2021-08-03"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
-  - title: "Elon Musk's New Tesla Recruiting Strategy: A Day to Show Off Artificial Intelligence"
-    excerpt: "Musk announced that Tesla's 'AI Day' will take place on August 19. Similar themed events in other industries could help companies recruit specialized talent."
-    publishedDateTime: 2021-07-30T16:06:00Z
-    webUrl: "https://www.inc.com/sophie-downes/tesla-elon-musk-artificial-intelligence-day-recruiting.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 47
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1233947582_474571_tddveh.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "UCQ1PBjYfBHv1iwiO1QGvIqNeDapx55MpTLJn3H+cYUQ53/byayku7OcPRMMkwWTEUKFPICphaOTF2tkiSEbSz2mwAtJSa0mb8LSyPI/LA03BTBO2XMCPH8dIjFgpfi+TqOkwNP7cKhXkD/1kedptctlxNtwZx9tUCZER2Hsl1ZsshSPHiA8Ur0Q5V4ZxRpKkCS/wRHliy2gFjh/qfULI2UtKZLeaAbIuNxdtNOnC/Zj6itG226iBJgE3DuK2FJylEdh3kWG3y6YnwbYmOyhpO0/cbRSRPJjeDdFv6FiYSVPDIBKQriJ/dinvLCMVJwgE7kGH2xXNk81WGNgd0E+GRZQEKXpr0x9p9JSOf1nOIc=;fnsg9+sQTc+WZmMXmJX9xw=="
 ---

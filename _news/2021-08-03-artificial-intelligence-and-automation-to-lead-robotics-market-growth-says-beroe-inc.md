@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc"
-excerpt: "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase efficiency in manufacturing. RALEIGH, N.C., Aug. 3, 2021 /PRNewswire/ -- The Robotics industry has witnessed significant growth in demand as it has become a key strategy in the implementation of Industry 4."
-publishedDateTime: 2021-08-03T13:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-automation-lead-robotics-market-growth-says-/2021/08/03/9422584.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-automation-lead-robotics-market-growth-says-/2021/08/03/9422584.htm"
+excerpt: "The Robotics industry has witnessed significant growth in demand as it has become a key strategy in the implementation of Industry 4.0."
+publishedDateTime: 2021-08-03T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-301346687.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-301346687.html"
 type: article
-quality: 42
-heat: 42
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "OZj3W2rqyNVI6MgBp0aAZLlb0KDNwuHlhsbIuRFkHqL7PdCYyeAYsUlg7KWYLxjts7Oc7M9pDHhGOp80dmQv2wHCjw+ynBVtwGc15c/XOHRZ51zuD4lSYn4Etk87hQODoJZzGjnwL+TC/nKyM2cL+Z71imC4sXpEVsiBSly7kpZAvoWqSez0ttIIhAblcMn2vQqkTp+6IYmbACyBm/z5CqQoa5oI8fff46IxO/VuS8ObhF0tjegWp2mNtpS6DMlVudh1ti3ol1Z0jPpF16KEvwwubF7xec1pLnsqIVZBZntSQmIMBYaHqb3NizcTdwqkm6/JJiWFMLwfTVPCtp4DnC2T9a93RcZVAFyTpdtlDVy7JnI5SI3nC9AZsPIHBdnybjEgotzGlsumEqcJHSiqyKft/axfz5eYmTW1BAQtP9kEpbHpsqFlXC4hLpkxWSiRKRJ1tboOAxejMLTzDku5UDzvHNKqiTuHrHD9XAHJCiZeCvErijNbQdExy93P3amG1+qU2ZNTadn94FbUuEU4WA==;3AXYshq0s2jJiAp4gBksQA=="
+images:
+  - url: "https://mma.prnewswire.com/media/777512/Beroe_Logo.jpg?p=facebook"
+    width: 1500
+    height: 785
+    isCached: true
+
+secured: "TFAxYC+7fAA4fuDSm3/7ZE+QGh3FDCPB8QUy5Rbw01FPL7eVcLWuwWs+rcibiOb+SeAzuKQ6nsHVHP4iu7GADzYYSzo7TaLEgywgGsnbw6SQsxNRSi8DOR1aK89p+XAzHzvqGJ1E/sa1ZktDCNNm5/V0f2RBaLaXDXC8U22Omu60BDtNfCQVC1bqleUhcK6+gNT7s7KiwudVr8+HWoFc6ob0jQdO2mMPgXQTA0J5Nd2ut8wEff+gQ6QUf9AxB67HGuhUpT2oGMURYJTg44Dt3SNqeJZ3SSx65rI/5LdsEszFzbgCr5LGJIomcZ0TcVIRnK29gehYQ+u0sojpB/YsGwEMB2Ukvhz+on+thEt3Phg=;/lLkP8FcgZlzUmS5XxdZpQ=="
 ---
 

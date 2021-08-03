@@ -23,6 +23,17 @@ images:
     height: 608
     isCached: true
 
+related:
+  - title: "IntelliBridge acquires Arlington digital services firm"
+    excerpt: "McLean technology and intelligence services company IntelliBridge Inc. made its second acquisition deal in the past six months, purchasing Arlington-based U.Group in a deal announced Tuesday. The terms of the acquisition were not disclosed,"
+    publishedDateTime: 2021-08-03T20:48:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2021/08/03/intellibridge-acquires-arlingtons-ugroup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "lbzZCyH+V+lkz2X8892WS0XyUAa2fOZ1NfvMv8YbJ6JVG9WCr3atTjY8WehOzZ4ykL2Jv8qQmjJBCPfEnK7gFBDDhvAwD73W8vvv6RVSY+/Wk2bQ9czVxYRNJYE4UNhquN9Hp/n5alHAU5/YzJR8mrpyWt+OrKyfWCmmxHKnw3B+XB2DECcaF3u1Iod2hZRMdwNoZhe7dEqmFvUGMUQdh1U0k7lxTHLAe/CneW6yfYfPQLrAer78qA6Ze+9MMXO3kjXewU0StOx7zlPXSppGOBx4fs7kaxBM8UqR05Vagy5fv4FpOMSmNQic+l5GYLmbxJ2ej12g+11foMsnaP82rwJ++tGG5ExHb04Hu1Scn48=;TPvqN8DTjHbBwW7eX0zRCQ=="
 ---
 
