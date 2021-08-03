@@ -131,6 +131,38 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "Google develops custom chip for upcoming Pixels"
+    excerpt: "Google revealed its upcoming Pixel 6 smartphones would be powered by in-house chip Tensor, boosting AI and machine learning capabilities."
+    publishedDateTime: 2021-08-03T11:37:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/MWL_Google_Pixel_6__Portfolio_Shot_650.jpg"
+        width: 651
+        height: 400
+        isCached: true
+  - title: "Google Pixel 6 / 6 Pro with the “Tensor” chip will arrive this fall"
+    excerpt: "Pro with the \"Tensor\" chip will arrive this fall. There are unofficial reports that this device will launch in October"
+    publishedDateTime: 2021-08-03T10:29:00Z
+    webUrl: "https://www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/"
+    ampWebUrl: "https://www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Pixel-6-c-1024x520.png"
+        width: 1024
+        height: 520
+        isCached: true
   - title: "Google Pixel 6 release date, price, Tensor chip, specs and news"
     excerpt: "Google has announced the Pixel 6, and it's providing a bunch of details about its two new phones ahead of their fall launch. The biggest news is a new system-on-chip called Tensor that is designed to provide the Pixel 6 series with a bunch of AI powers we haven't seen before."
     publishedDateTime: 2021-08-02T18:26:00Z

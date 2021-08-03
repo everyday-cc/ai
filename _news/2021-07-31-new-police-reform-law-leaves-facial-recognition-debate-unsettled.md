@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Will Facial Recognition Limitations Hurt China’s New Retail?"
-    excerpt: "China’s highest court has established clear limitations on how businesses can use facial recognition technology, which could affect luxury sales."
-    publishedDateTime: 2021-07-29T17:14:00Z
-    webUrl: "https://jingdaily.com/facial-recognition-limitations-china-luxury/"
-    type: article
-    provider:
-      name: Ultra Rich Asian Girls
-      domain: jingdaily.com
-    quality: 54
-    images:
-      - url: "https://jingdaily.com/wp-content/uploads/2021/07/facial-recognition-china-business.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
     excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
     publishedDateTime: 2021-08-01T03:08:00Z

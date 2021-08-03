@@ -67,7 +67,7 @@ related:
     provider:
       name: Australian Times
       domain: australiantimes.co.uk
-    quality: 39
+    quality: 41
   - title: "The Downside of AI Captioning"
     excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
     publishedDateTime: 2021-08-02T13:00:00Z

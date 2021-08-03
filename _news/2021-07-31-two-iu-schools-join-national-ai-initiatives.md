@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "WCM-Q pre-medical students excel in national AI competition"
+    excerpt: "Two teams of pre-medical students from Weill Cornell Medicine – Qatar (WCM-Q) have been highly commended after creating solutions to two problems highlighted by the Covid-19 pandemic."
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://www.gulf-times.com/story/697612/WCM-Q-pre-medical-students-excel-in-national-AI-co"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 17
   - title: "Washington County native’s photography wins recognition at international competition"
     excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
     publishedDateTime: 2021-07-31T05:08:00Z

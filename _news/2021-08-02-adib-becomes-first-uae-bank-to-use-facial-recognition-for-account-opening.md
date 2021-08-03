@@ -66,6 +66,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "ADIB becomes the first UAE bank to use facial recognition for secure account opening"
+    excerpt: "Abu Dhabi Islamic Bank (ADIB), a leading financial institution, with alignment to the UAE government vision in promoting digital services, pleased to announce opening of accounts remotely and digitally."
+    publishedDateTime: 2021-08-03T10:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88786/adib-becomes-the-first-uae-bank-to-use-facial-recognition-for-secure-account-opening"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 49
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "atbMxXwE7MpdIzZvTMs9z5omc3Jo//nFX0xYb9eD+zQLtEwepGukSTAMhQhJkdI8K1KsdwQybmqSzdTIvxwlP7AQbKxdmKuV1scWJ2ZtypC89G2KYjudf9iG2jNzTecgNJbXlPLlkA6qW+psctrHh8h5+igQ4hwZC3fF52KTqTsfeU1b7D4tuB41TpAg0BGRBdBki5vINWY/Vrw9RpkT+25/PpSDEFnnuL+EwJ9PJk77HLq6YroPkAk92BX50MfO8CLXx1bhxhuH8SWyGDJUeRU4pVDxQnAE2MTBW5zcD68Duo9ZDrWIIICqNw1UFKxnvZ6kDvXClxPWwFz6rhUid/O2//oBrJ3Jt9gLVJDztj4=;+gjQqpnVOWFAL5/L6mY1Ug=="
 ---

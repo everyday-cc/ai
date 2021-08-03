@@ -56,6 +56,17 @@ related:
         width: 2880
         height: 2160
         isCached: true
+  - title: "The rise of artificial intelligence in society"
+    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
+    publishedDateTime: 2021-08-03T09:03:00Z
+    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
+    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    type: article
+    provider:
+      name: Australian Times
+      domain: australiantimes.co.uk
+    quality: 41
   - title: "How to Leverage Artificial Intelligence in Public Relations"
     excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
     publishedDateTime: 2021-08-02T12:09:00Z
@@ -70,17 +81,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The rise of artificial intelligence in society"
-    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
-    publishedDateTime: 2021-08-03T09:03:00Z
-    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
-    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
-    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
-    type: article
-    provider:
-      name: Australian Times
-      domain: australiantimes.co.uk
-    quality: 39
 
 secured: "Jp2v5wUoVos2Q/oSEH2PZoJe8ZzbFT5F2Al4kJ6BhzVwiRsj07c+IK+bbwWPTssgTFZ8cN/YCvAnEGTGqCCzoXkFSzQDMB9SOHYhIx+zeHntHsLXWS161JFP3mqhXhOKH/Q7Ow/89K5Bk4ULzt5ETw7MQ33bjBRTZCS2uMnzYvejeaZnWCf70+A4A3+zTidRy6w8y0spGrz22vAbDE7LXeDuPlkbyfQclssXJZUGCYenL6cFOEUO1NeOIXkiWUAbABhkF8Ur99B60eq/K9NxpTDxtvUmGx0tL6251zpEjV3CO0fAeJ2F3JMDOKlC/6thaZvDSokdd1J1hX45tou338eYaVmZ5hpEGJ/vio+sks0=;baVrOoc2DO5+JSdaWh0Azg=="
 ---

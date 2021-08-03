@@ -3,8 +3,8 @@ category: news
 title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
 excerpt: "The latest round of funding takes the total seed amount raised by the company to US $8.1Mn, making it one of the biggest seed rounds for a B2B SaaS company in the US-Asia corridor. Nektar.ai 's AI-powered guided selling solution sits adjacent to CRM systems like Salesforce."
 publishedDateTime: 2021-08-01T00:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030675981"
-webUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030675981"
+originalUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030676012"
+webUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030676012"
 type: article
 quality: 43
 heat: 43
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wSpAQICjBBUb785iDsClJbBnKtdZhMWbDuHC7cbRpQoCGRjEvS04rCoajslI5WLRictBUbCQvG303Vc+Kxp/ngKMg8KO0nbOhVSHmWcnwlYkuClMLpw7LZ+aHggO5mhOzPpEAN1AwBrm6b2D02oESHIM/6A+3x7WkO1UxcppUYqQRmd+IHbC2YfXeuoJydPfSbc5Ml5/7NNeT7+Fo/SnSrW8oJVYfqQmV93dt3wjuArqGtYTqXhgxaSG77N7LXi03eEClnCn6yNvgHW4WXO8AdwJXGbXkfOuPUll73l+gPoSTz+tY3DMqMbYfB+JFEjX/tnuVtMlMchU+lqhxdhuJQjEhMvyNVQv98Nwm9vLrnqjiFwfqmnuVOOpae1Z8R4Ve0a47e7/H+XAfTIwvVvnjODZNBWf6TLyKpQqBGHVD3DZSy9qIUNTjuMwWKkbpnBqgPmtrJHReCrpxn5yLGwQqrFKu1lcU8pysJMTP1BR/SbPiR7J3vQVGJVUHPHjjWl8OCQAjdxvM7jTfYaLS4bm0Q==;UUPD87+mgJaWQIPCVwDizA=="
+secured: "loHqnLRxFGr0Oxo7BCGlZ+x04t2+GGwJQABbpmVnwynbSoXYpjUPHFU5gyluF9/MpDE8S+Pskg0PUBiQBEGKj24S4K53lrOPARVDGbus+0Hlm7xLX8Nb6Y+gzs5P8qEyhQoc9ym0U3WMZd8Fe0ZeM62ymhemDffOvZT1As1TXfOPULZoDwr89Lt36/Zc2K5acaDwHFiWtOSLk0GdSJhubFf87KJSgiCYKT+77yIjqhasRzDcR7NX2ekoTi7FNhawdX/hGp7Tppbux9gSIc5jnD0ZEftp4Fl2M6OFAJhNv5NlQBuGZ1TRB2dJ3mgmCKHzE5l5SkW6Vvz5zJRFduUnIKU/MClkDmffscUGntTTc+8=;LStQ4numSw3gzaoSHqxMGw=="
 ---
 

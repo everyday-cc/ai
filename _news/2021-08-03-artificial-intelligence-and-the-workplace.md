@@ -7,7 +7,7 @@ originalUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-in
 webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Data, AI and the incredible impact of meaningful customer experiences"
-    excerpt: "A great customer experience is defined not by what you offer, but by how well you enable your customers to achieve the outcomes most important to them."
-    publishedDateTime: 2021-08-02T17:47:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/partner-content/2021/08/02/data-ai-and-the-incredible-impact-of-meaningful.html"
+  - title: "Why Sales Leaders Need AI - and the C-Suite Should Demand It"
+    excerpt: "There is nothing inherently strategic or rigorous about using a dashboard. Therefore, it may be up to senior leaders to invest in the best AI solutions and encourage (or even insist on) their use by the sales department."
+    publishedDateTime: 2021-08-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610827a5e420c7d6667a6fed%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "9DEjvGk1i/VTGXOVyIKaw2mz9dGvofRvRozWjTQMx0+z7wL9FAuDDCn24se5O1VWsinajvBqvv9+CctFUOESBOuZwVgKxQvv4DzKuWDhlRXNGdZ7vwcFiGx3eG0eeixlSS4uS9XSX1ZSIERr5IhCOXbfumuqnpFO8QWkf3+h7JokIvJKhHnkQl9G4nIHB1dqWhW+LpkJAx8z9TRmxRkpBclmgSVB6wpskjwG0fV3QsYlYX8Ftk7frqRwnv3zycjgWR/Osr/43zk/dCXSAHoIYrQXHvcuaT+3tiogW/qyB5SRYcks86nsgTsIwCDyi5YNmE0EyXBllZETgWE3ep49Y1Vbgp/V3DwW/glkzrf3cmA=;oPw7csu8y74KR6EAXup2eA=="
 ---

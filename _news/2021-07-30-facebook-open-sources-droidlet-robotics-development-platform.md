@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/facebook-open-sources-droidlet-robo
 webUrl: "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Droidlet: One-Stop Destination for Robotics with NLP"
+    excerpt: "Facebook has launched an open-source heterogeneous Robotics development platform known as Droidlet. This article features how Droidlet is created to help researchers and developers to build smart robots through NLP and Artificial Intelligence."
+    publishedDateTime: 2021-08-03T11:45:00Z
+    webUrl: "https://www.analyticsinsight.net/facebook-droidlet-one-stop-destination-for-robotics-with-nlp/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 71
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Facebook-Droidlet.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Facebook’s modular ‘droidlet’ platform is a one-stop shop for building smarter robots"
     excerpt: "Facebook Inc.’s artificial intelligence research team today announced an open-source platform that it says can be used by researchers to collaborate on more intelligent robots. The idea is that by mixing and matching components including machine learning models and perceptual modules used to sense the environment,"
     publishedDateTime: 2021-07-30T14:28:00Z

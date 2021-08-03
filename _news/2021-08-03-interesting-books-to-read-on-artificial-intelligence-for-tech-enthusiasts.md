@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1193
         isCached: true
+  - title: "Bidgely Brings Leading Perspectives on AI for Superior Utility Service to CS Week 2021"
+    excerpt: "Bidgely will be demonstrating the power of data analytics, artificial intelligence (AI) and personalization for utilities again this year at the industry's premier educational and customer service event CS Week 2021."
+    publishedDateTime: 2021-08-03T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bidgely-brings-leading-perspectives-ai-superior-utility-service-/2021/08/03/9422288.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "4G9xosdUH1uB0epJX3ukjJjzcIaQ0dFWIGngOWlVfj5ORCS7W7Wl5/i+cARxXlHoIAdaHehk4ceF5EvDFPBgKzdTg8g93SXNfVg8YPpdwFs1aidmYldzb5gG2900Wjd0F2QhR1rjFmTFXuk6NckH7I+q0CdFm4835jE9Brv8jODxTmAIm0Ohw+Y9vSTBxWIshUFa03MRUri6tzC3PieeuNH7C3w4molaJKGZUNAPZnaBNo3iXjWBIVY3ngetN75yl3atod9kXujzODFNdJMEUhWaLdzVgj/WXhuXh7YRlHjQyXUFAR9Esh3FwK9riIz4tZWU/G9Rl6kkagCmwcmaVxVzNdaBY+ljMsIJlFPGAnWzY4KRR2fiFZnlONuBRMbOvEbqpB/CfMTLSDIJNn/BNVDQPPZhW1X9GUnKyTvEA4J5QQLvGm6bO0AsSE+Sloh1KjS2msYJtYglPQmI+SMg+NXG9osgw3ZJ/10ObKuE4mHvDgWeAbFe+4qeECJE8VGQ9GxjrZnCOE40ID+bqP4m+Q==;7MNEQbZzMS2lZ3i4W88jFg=="
 ---

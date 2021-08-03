@@ -18,20 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "Beautiful.ai Announces Free Pro Subscription to Students, Furthering Commitment to Education"
-    excerpt: "Beautiful.ai, the first presentation software that designs for you, today announced free Pro subscriptions of its software for students. In addition to the free subscription, Beautiful.ai also announced its semiannual $2,"
-    publishedDateTime: 2021-07-29T17:47:00Z
-    webUrl: "https://www.ecampusnews.com/2021/07/29/beautiful-ai-announces-free-pro-subscription-to-students-furthering-commitment-to-education/"
+  - title: "Two IU Schools Join National AI Initiatives"
+    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
+    publishedDateTime: 2021-07-30T21:39:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
     type: article
     provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 43
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
     images:
-      - url: "https://www.ecampusnews.com/files/2021/07/beautiful-ai.jpg"
-        width: 500
-        height: 402
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
+        width: 960
+        height: 540
         isCached: true
+  - title: "Washington County native’s photography wins recognition at international competition"
+    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
+    publishedDateTime: 2021-07-31T05:08:00Z
+    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 0
 
 secured: "WIWS0ZfBWMWzkTv9SoQB9C231k5a9fawSNGFflPFZx1kunfmEFMdoSDI44NpUM8g3df8sF1H9PGg9fG/QkvdkS8ZroD4QKVdd+D2yaIfeuBdUT6UJiFTNFHt8KLIMX60VAGA1xNPSeEeWCPMDAeLI4p7RgA1s5aCuh8GEkA4z2+k4ly4qNUB8COS7g13BQINex3i1AoZt0Mt2jl8nE4msCQLML39ZH6yhJpa+vVB/VsmRjCEafhB3TmNv/G4GHbTua8prji96kvBPH3W0ZfsQhjXukjNEuwPsjtWie+clPU9Yv8HwMfJXmhW/Gr0tuCktOD2h/V8GOhY2T+0L2CuINTXiY1I2nYLR+buQc9FAKK6DrDDVxYMZ5ENEkohSC3LZYsPYP5/CbU51ZDow7Zprkae72JzxKPOQiZ4pskI4+VxBw/Gat9nJ6njF/luo+OFdxestC6//mwMbh8btqxp8pIAeXu5sQv8eQxTC1OFCJEPa5XrxjqaucfXj4Sjywk+Q0CU0QkaBCzO8Ps1waS0tA==;vYAoQQWaJXSCwP9RjRc63Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sale
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1920
         height: 1193
         isCached: true
+  - title: "Bidgely Brings Leading Perspectives on AI for Superior Utility Service to CS Week 2021"
+    excerpt: "Bidgely will be demonstrating the power of data analytics, artificial intelligence (AI) and personalization for utilities again this year at the industry's premier educational and customer service event CS Week 2021."
+    publishedDateTime: 2021-08-03T11:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bidgely-brings-leading-perspectives-ai-superior-utility-service-/2021/08/03/9422288.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "HkrdFVVo7taKjH86tFLcYznJbspFcRxGfQec8JWWFicmo/9PYUdwau1+wLd0RilswTqVGrkGm0Mo/n5N9t3G9QBRJrMw9RWXF0ANGglOCK/lqnKklhs8dKeVEu+RBSIuDSuJHKPHP01G5szYPtgAgbCHXahPqFmWBuiKHYBLBxS2EXPwvd2qDp5TFq6FwjQjLDxzrYo7x1jYvgiuK51HLZIIjcYc5y1egXEJBwDvBIxhMrg+AZj/tfG27dswYr1vxKyGQ07QJ0+6Jiz5Sm9ospHf7e2Py+lB3zuIAb/D6HnhQ0CEMPyPa1bUEyACvITCiJ/+rdCyCMkrv8XXJH59nxsdK7x2mgpRhlVA+NTsLZNYnc5cctLC+brw1SIk5fkcW+XDyfjEaSxe+S23i/riqv54QeIETYYAxYmOD5LQc/q6cJ2RcVsv7Z0pv+zJO2GQubTjNi/XERZeJkMSmt0cVV0Os0xaMzVxbdIuSSvywTBQsRw7j5dfF37qrUoXFs3rpzteeLEtzn5VOnMs4QvoTw==;ArX3gWayZIdrolCUSafpuQ=="
 ---

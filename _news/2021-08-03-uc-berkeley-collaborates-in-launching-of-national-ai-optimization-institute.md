@@ -54,20 +54,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Drexel Researchers Will Develop Artificial Intelligence Technologies for Adult Learning and Online Education as Part of $220 Million NSF Initiative"
-    excerpt: "Researchers in Drexel University’s College of Computing & Informatics, who are studying artificial intelligence as a tool for teaching, have been selected to join a $220 million National Science Foundation initiative to expand the use of AI technology in areas ranging from agriculture and food supply chains to adult and online learning."
-    publishedDateTime: 2021-07-29T18:00:00Z
-    webUrl: "https://drexel.edu/now/archive/2021/July/NSF-AI-online-adult-learning/"
-    type: article
-    provider:
-      name: Drexel University
-      domain: drexel.edu
-    quality: 16
-    images:
-      - url: "http://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx"
-        width: 315
-        height: 326
-        isCached: true
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
     publishedDateTime: 2021-08-02T22:23:00Z

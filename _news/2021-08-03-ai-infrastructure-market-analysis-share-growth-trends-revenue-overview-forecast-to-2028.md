@@ -25,33 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Retail Market to grow at 40"
-    excerpt: "More Information @  The growing demand to enhance the customer experience is also one of the major factors augmenting the artificial intelligence in retail market growth. As the digital data is rising and the competition among the market players is increasing,"
-    publishedDateTime: 2021-08-03T03:30:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelligence-in-retail-market-to-grow-at-40"
+  - title: "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-08-02T14:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
     type: article
     provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 52
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://img.yumpu.com/60845191/1/500x640/artificial-intelligence-in-retail-market-to-grow-at-40.jpg"
-        width: 453
-        height: 640
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deep Learning in Security Market 2021- Remarking Enormous Growth with Current Trends & Demands through 2026"
-    excerpt: "The latest research report added by Big Market Research on the Deep Learning in Security Market is intended to offer reliable data on various key factors shaping the growth curve of the market. This report works as a rich source of information for key entities such as policy makers,"
-    publishedDateTime: 2021-08-02T11:26:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-in-security-market-2021-remarking-enormous-growth-with-current-trends-demands-through-2026/"
+  - title: "AI In Computer Vision Market 2021 Growth, COVID Impact, Trends Analysis Report 2027"
+    excerpt: "The Global Artificial Intelligence AI in Computer Market Vision estimated at US 7 3 Billion in the year 2020 is projected to reach a revised size of US 84 4 Billion by 2027 growing at a CAGR of 41 over"
+    publishedDateTime: 2021-07-30T14:59:00Z
+    webUrl: "https://www.openpr.com/news/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342371/ai-in-computer-vision-market-2021-growth-covid-impact-trends"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 38
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-08-02T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
-        width: 800
-        height: 444
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Size 2021 CAGR Value, Analysis by Size, Share, Major Key Players, Growth, Future Trends with Covid-19 Impact till 2024"
+    excerpt: "Our analyst has been monitoring the facial recognition market and it is poised to grow by USD 3.35 bn during 2020-2024 progressing at a CAGR of 12% during the forecast period. Our reports on facial recognition market provides a holistic analysis,"
+    publishedDateTime: 2021-07-30T08:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2021-cagr-value-analysis-by-size-share-major-key-players-growth-future-trends-with-covid-19-impact-till-2024-2021-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
+    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
+    publishedDateTime: 2021-08-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "wwSo7S7iYJGFmN+T2RAms3wbMyA6WuT1dpizLOtUtQ/e+aqI0TsE/a5RJmoZXDOeoiq6MoG+A1j5VBoKj8sW1y1VnWJfhJUNehK6UDXeuyexvRWB/PwL8BSYwGx//bINDZucqxXK0VNYsgvI3zY+Q0jRkugHZeR9AfFKYLDP5pCTKUZLhYmhEw3ioTh0tkhY9JXsRx5q+ycegAXSYeravyAnyj7v1ssPjot5QRChm89xW5pemWs4YWUl/t7e26JlcB1/JSHxSZBwUfnZuCaApM3Y8BO2xEfV9Na+x66DZkfgmHVVdyIJeDrSzZkEBGeKWZlE5UsAW+eVFmHsVN/jkJrGYSqojce6Gn+S6exNzMc=;UIGqaDCkMYYOgaZNWId1IA=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelli
 webUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelligence-in-retail-market-to-grow-at-40"
 type: article
 quality: 52
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Yumpu
@@ -37,20 +37,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
         width: 800
         height: 444
-        isCached: true
-  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
-    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
-    publishedDateTime: 2021-08-03T02:06:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 28
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
-        width: 500
-        height: 288
         isCached: true
 
 secured: "3XjWdlqjKJ6JrFPSP5wpPLVnWqQmyV5mRpJi5MqcisvFVoou9QpVNfH9kwj9eW3qtqyP4npjuq0S/Z4ocEQctzhun+bCkiV7fTa31DpZlEXG67+s9qjmTf7iypFlPivIXxf6CNz+rWoDPJZcJgClRUuU6vTLX5+Z6PntPRdCqKIAEfwEoD2ijub/d5y9S95FuXBPqWUk4VumENTYTpNYWYaQ1N5KmFg2WRQGxtLo12DcDNITLDeT1XsoiZXQgBoKqJVqfuNPxj8UJibhIhQswniOf8Z33Stxf73ypHXbD4OxfcePFmZXOGGFcikc+sqvI/GvzZt5YMpsXpGxzYhOywKfJ1DdYBZbyZmeSCCPLcD4U3dRZMzA0RNP35XmmMU/leaCPxXnew5Gbwxk6lgyQzC/ZuWi5IBE+y0Wm10KWGEJvhwBdonrmPJvxWUB6EGVZ4jKgahrG6N8e75fv7j7YoXkw7AYLqSCpWZ1FgDR9Sktp5WaOsUK/eKZe8+l2saLPH0lfE61pZrGOtEQbG+ZgA==;An2xloZYyXCQWE/sEkxO2w=="

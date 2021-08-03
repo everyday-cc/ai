@@ -8,7 +8,7 @@ webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-int
 ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
 cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Navigating Religion, Faith, And Creativity In The Age Of AI"

@@ -1,0 +1,49 @@
+---
+category: news
+title: "Why Sales Leaders Need AI - and the C-Suite Should Demand It"
+excerpt: "There is nothing inherently strategic or rigorous about using a dashboard. Therefore, it may be up to senior leaders to invest in the best AI solutions and encourage (or even insist on) their use by the sales department."
+publishedDateTime: 2021-08-03T11:30:00Z
+originalUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
+webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
+type: article
+quality: 84
+heat: 94
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AI in Sales
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610827a5e420c7d6667a6fed%2F0x0.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Artificial intelligence and the workplace"
+    excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
+    publishedDateTime: 2021-08-03T09:16:00Z
+    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
+    type: article
+    provider:
+      name: The Lawyer
+      domain: thelawyer.com
+    quality: 37
+    images:
+      - url: "https://thelawyer.imgix.net/content/uploads/2021/07/30133953/camera-face-surprised-e1627844146581-421x500.png"
+        width: 421
+        height: 500
+        isCached: true
+
+secured: "DxEBnsYC7oanZBYbs0XcaGdVUn8LLxpQI+5AeV9jrFP23NEEQXaG5980eWbsi1nsAgkT0BMLPrw0LpyFEtEsuEw3Duuw8snKDWupOSEZLqWPWotjWwuZQxrgFELhwEMCn2OWFKg3yONQ55MUAKwk3IvQMn7gWGIBnEucfoPdHvcKlsOojuIRXE0gblOXdmyi9HIjz+JBr3WBLG47Rpo0FpdGjjzL90+leRfkrzJ+PGCNj1702OBLbKClBCf21kmeME5IET8fnAQfXlQjD0bot2FbsbUTJqwpCp2YVuOrjvzAM171od5U3VqcxgCdon5nGnipbhjL8JRW+ct/qOGbyabxFYbfgbqjvFBbtwqvgsA=;OAwTNZxxMyCHz9jt7v2ZZA=="
+---
+

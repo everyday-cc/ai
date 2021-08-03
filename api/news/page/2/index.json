@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-01-ai-self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times.md",
+      "title": "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times",
+      "excerpt": "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60524091a5ce3219c731d40d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1232%26cropY1%3D67%26cropY2%3D760",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/",
+      "publishedDateTime": "2021-08-01T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play.md",
+      "title": "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play",
+      "excerpt": "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/",
+      "originalUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/",
+      "publishedDateTime": "2021-08-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-4-conversations-every-company-needs-to-be-having-about-ai.md",
       "title": "4 conversations every company needs to be having about AI",
       "excerpt": "Riding the AI wave doesn’t have to be that hard. And getting started is lot easier if companies can ask and answer 4 key questions.",
@@ -544,7 +639,7 @@
       "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -587,7 +682,7 @@
       "originalUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -793,7 +888,7 @@
       "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1118,100 +1213,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation.md",
-      "title": "Five Steps To Using AI Technology To Solve The DE&I Talent Equation",
-      "excerpt": "The significance of DE&I was discovered by corporations more than two decades ago. So, why aren’t we seeing major improvements in this space?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102bb03d2cbb31ebe0ee92b%2F0x0.jpg",
-          "width": 1200,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2021/07/30/five-steps-to-using-ai-technology-to-solve-the-dei-talent-equation/amp/",
-      "publishedDateTime": "2021-07-30T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-ai-at-the-helm-of-indias-digital-inclusion-journey.md",
-      "title": "AI at the helm of India’s digital inclusion journey",
-      "excerpt": "The Covid 19 pandemic has propelled the transition towards digital technologies and heightened use of the internet. According to the latest IAMAI-Kantar Cube report, the number of active internet users in India is likely",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-at-the-helm-of-indias-digital-inclusion-journey/",
-      "publishedDateTime": "2021-07-30T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
