@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-marke
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,73 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
+    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
+    publishedDateTime: 2021-07-30T13:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-08-02T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
+    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
+    publishedDateTime: 2021-08-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
+    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
+    publishedDateTime: 2021-08-03T02:06:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
+        width: 500
+        height: 288
+        isCached: true
+  - title: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge AI Chips market report provides a detailed"
+    publishedDateTime: 2021-07-30T11:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4709579-global-edge-ai-chips-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 20
 
 secured: "Ttqkr4/hAhhg2BfW1Z9qwen8slRX2/Bkh46YuAEfjuqBKkc+qBCu+XYlYUTsgMtKycC2Tbaqd3sqHpcr+/1fqGvSVpnCHPSAZaDjccULOW0hnex5PSY66Mrb8CPmM2YCKnmKOJWJgAuY/OfhcQ4FR5clPFEAFjs1Rh5diyNy9AqVMZcAhgsLahqhFd7r1ThW10gGqi1APUiN4tOzMYXh++ikZbBOMV2Eok+j8VCBRPaedOoxcin2Mr0ovFQzThd/CnFfOfDYMDSO9Rhnd6rHV21688cySS8Ma0sFgtoWK60uZqLOETEMqOxio4KhHK4ixIcfMnezW1kxG1C5wxnPeTZvWljzwtFW+VDjO8fVefk=;1meGn8tOj9HhC6/Ew4I4Zw=="
 ---

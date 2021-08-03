@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
+      "title": "Facebook to use AI to analyze encrypted content - report",
+      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
+      "sourceUrl": null,
+      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
+      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
+      "publishedDateTime": "2021-08-03T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "teletrader.com",
+        "domain": "teletrader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
       "title": "Facebook open-sources Droidlet robotics development platform",
       "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "Metro US",
         "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-the-new-groups-ai-control-from-facebook-a-good-measure-or-more-uncertainty.md",
-      "title": "The New Groups AI Control From Facebook: A Good Measure Or More Uncertainty?",
-      "excerpt": "Although, it seems like a tough ask but many new innovations have been springing up and that says a lot about the influence of technology. Facebook made the announcement in a post shared on it blog and said they are pushing out a number of software tools to help the over 50million people who are on the platform and also moderate on it.",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/new-facebook-groups-ai-control/",
-      "originalUrl": "https://techbooky.com/new-facebook-groups-ai-control/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/06/FacebookGroups_1920.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/new-facebook-groups-ai-control/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/new-facebook-groups-ai-control/?amp=1",
-      "publishedDateTime": "2021-06-22T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
         "images": null,
         "publishers": null,
         "authors": null

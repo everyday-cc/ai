@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Hootsuite Acquires AI Platform Heyday for $60M"
+    excerpt: "The deal, announced today by Hootsuite, is evidence that the social media tool is expanding further into ecommerce and customer support."
+    publishedDateTime: 2021-08-03T19:41:00Z
+    webUrl: "https://tech.co/news/hootsuite-acquires-ai-platform-heyday"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 37
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2021/01/25115801/Social-Media-Management.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Hootsuite acquires artificial intelligence chatbot company Heyday for $60 million"
     excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday."
     publishedDateTime: 2021-08-03T15:24:00Z

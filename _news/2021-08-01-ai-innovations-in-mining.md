@@ -22,102 +22,60 @@ topics:
   - AI
 
 related:
-  - title: "AI use cases are expanding and evolving in healthcare"
-    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
-    publishedDateTime: 2021-07-30T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+  - title: "WSU to lead new research institute to apply artificial intelligence innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-07-30T10:39:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/jul/30/agriculture-40-wsu-to-lead-new-research-institute-/?amp-content=amp"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 76
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 47
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://thumb.spokesman.com/KvtfYaeH_EDClo6tOPko2Piz5bU=/480x0/media.spokesman.com/photos/2021/07/29/6103494adfe80.image.jpg"
+        width: 480
+        height: 320
         isCached: true
-  - title: "Deep Learning in Healthcare Market"
-    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
-    publishedDateTime: 2021-07-31T10:25:00Z
-    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
+    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
+    publishedDateTime: 2021-07-30T13:34:00Z
+    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: cmu.edu
+      domain: cmu.edu
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
-    publishedDateTime: 2021-07-30T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Where are apparel supply chain companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Artificial intelligence hiring in the fashion and accessories sector is increasing, but some regions are proving more attractive than others."
-    publishedDateTime: 2021-08-02T10:58:00Z
-    webUrl: "https://www.just-style.com/features/apparel-supply-chain-companies-artificial-intelligence-hiring-efforts/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 40
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/04/2016-04-05-16-51-crystalglobeonlaptopkeyboard2_cropped_90.jpg"
-        width: 424
-        height: 283
-        isCached: true
-  - title: "Cupid’s Algorithm: Artificial Intelligence is Being Used for Matchmaking"
-    excerpt: "Artificial intelligence is transforming industries, including the online dating industry. Here’s how AI and machine learning technology can get you better dates."
-    publishedDateTime: 2021-08-02T04:37:00Z
-    webUrl: "https://www.analyticsinsight.net/cupids-algorithm-artificial-intelligence-is-being-used-for-matchmaking/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
-    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
-    publishedDateTime: 2021-08-01T19:50:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
-  - title: "Where are mining industry operations and technologies companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the mining sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among mining industry operations and technologies companies."
-    publishedDateTime: 2021-08-02T12:43:00Z
-    webUrl: "https://www.mining-technology.com/features/mining-industry-operations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 13
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2017/12/artificial-intelligence-2228610_1920.jpg"
-        width: 1920
+      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
+        width: 800
         height: 1200
+        isCached: true
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "WSU will lead effort to apply artificial intelligence to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
+    publishedDateTime: 2021-08-01T03:55:00Z
+    webUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to-apply-artificial-intelligence-to-farming/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "G2/7nX1UnaHwx8OA6+k9UaozhyV+HygrFY1aCqLy0K/9Xbn22Lmhk9t/x0h0RO/HhbUhmJaKJJCDl893FKRVd/3N7NMRTV2wbSQ6Q3/6TgTp+W8OARsZuaATuaoiRzvlfLxSQ4eh9w6lX+s1jMUgy1ITXQUnPnrX9VeSuASfQV0z8KIcSnCpeMoNQOGtJlxlHeN/PG7qYnvgOixIkR8I879u6fnyj9L+2eXW5xEZcvgOfyb8gs7vr93Bts3spTcZaxNQ6++S3hpP9nqTT+QW0ND7XEl41ylfRoi7egHFydDQ16hMx0y8DYS1URS7BenS38hl1oCVL1wZTjQScl6RCla5dSrDgCjmQQJ7vYcgKe2RpkzQc0JapepGLHdHDX7W+kEb0BNUZbM0Gdv44QdOJRf0pgBSo3HBqhNm2Z9/DwEgozMizdEFi+woIFNha1UPzeNFZvPlWb+SbBAgyQBL9NmAmG+37LDGNOYg8fWApEBrP/38IchguuLYhDqz5hzmqZMKimdLgvu7c3TnGggyZQ==;a5lfDEHpkVFHO5i988In6g=="

@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Embodied AI, superintelligence and the master algorithm"
+    excerpt: "In the next year and a half, we’re going to see increasing adoption of technologies which will trigger a broader industry shift, much as Tesla triggered the transition to EVs."
+    publishedDateTime: 2021-08-03T19:47:00Z
+    webUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1326099437.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Ashfield Health Launches Health Intelligence Platform, Gravity.AI"
     excerpt: "Ashfield Health, a global healthcare marketing and communications network and part of UDG Healthcare, has launched Gravity.ai, a global healthcare intelligence data platform. The data solution is designed to support pharma,"
     publishedDateTime: 2021-08-03T15:18:00Z

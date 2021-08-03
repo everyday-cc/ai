@@ -290,6 +290,50 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-deep-learning-in-healthcare-market.md",
+      "title": "Deep Learning in Healthcare Market",
+      "excerpt": "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "originalUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U731952845_g.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
+      "publishedDateTime": "2021-07-31T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
       "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
       "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
@@ -394,6 +438,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -932,19 +1019,19 @@
     {
       "path": "_news/2021-07-27-deeptarget-enhances-its-machine-learning-algorithms-further-increasing-predictive-accuracy-to-improve-consumer-experience-and-engagement.md",
       "title": "DeepTarget Enhances Its Machine Learning Algorithms, Further Increasing Predictive Accuracy to Improve Consumer Experience and Engagement",
-      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning techniques to further help community financial institutions use predictive campaigns to present more relevant offers with virtual.",
+      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning",
       "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=506203",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=506203",
+      "webUrl": "https://www.lelezard.com/en/news-19921428.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19921428.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -954,11 +1041,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T06:25:00-07:00",
+      "publishedDateTime": "2021-07-27T06:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1344,101 +1431,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-airbnb-cto-says-graph-neural-networks-will-be-big-in-2021.md",
-      "title": "Airbnb CTO says graph neural networks will be big in 2021",
-      "excerpt": "Airbnb CTO talks about cutting-edge technologies, graph neural networks, and innovation in AI during Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/airbnb.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/airbnb-cto-says-graph-neural-networks-will-be-big-in-2021/amp/",
-      "publishedDateTime": "2021-07-22T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-getting-hadoop-to-jump-through-aiml-hoops.md",
-      "title": "Getting Hadoop to Jump Through AI/ML Hoops",
-      "excerpt": "Just a decade ago, the enterprise IT push was to make Hadoop the platform for storage and analytics. At that time, cloud hesitancy was still looming for",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/ab_flash_datacenter_dc.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/amp/",
-      "publishedDateTime": "2021-07-22T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

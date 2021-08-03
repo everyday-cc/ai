@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/56129483"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: teletrader.com
@@ -43,6 +43,15 @@ related:
         width: 2250
         height: 1266
         isCached: true
+  - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
+    excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
+    publishedDateTime: 2021-08-03T18:14:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-reportedly-trying-to-analyze-encrypted-data-without-deciphering-it/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 0
 
 secured: "2qkNvWCBZQ077fa+pu9hFfswhHcp763cjpkbcA+HazkGiY+SDNTlH63rpBrG+i6H+sMDMWu+eigRa24dZl3krg12cRda6mPtZJnHrWnNVquLUr/OcXoCuDbpcZRB3hpBxQx0no1Hw9kS1UjyKD5WAdDAiU/9CFtbbwAhrFan2eeCfbVu4Xlv4VrsPSGDF/Z6MFrHteYTz3NXMKFDnPJfUM9MBbhBkJ47pfL5BnD1KkvZaBPuHIIdlZYlGHWJzxFplFBjx/yl050RWMBy04JDXSaggZ25Bm18JuI4g+TUHbTJ5NRq10qw0fEUs1O98kqcdyEfpohDSwHUWN9+7deQ7RboCEiCIQ5N1OiB5QqUHeA=;A3gGd3FEnEu9Tvtm/2GVSQ=="
 ---

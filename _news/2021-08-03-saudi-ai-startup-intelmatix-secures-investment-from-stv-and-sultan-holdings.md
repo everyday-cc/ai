@@ -3,8 +3,8 @@ category: news
 title: "Saudi AI startup Intelmatix secures investment from STV and Sultan Holdings"
 excerpt: "Saudi Arabia-based AI startup Intelmatix has raised an undisclosed investment round, led by STV and Sultan Holdings."
 publishedDateTime: 2021-08-03T06:00:00Z
-originalUrl: "https://www.wamda.com/en/2021/08/saudi-ai-startup-intelmatix-secures-investment-stv-sultan-holdings"
-webUrl: "https://www.wamda.com/en/2021/08/saudi-ai-startup-intelmatix-secures-investment-stv-sultan-holdings"
+originalUrl: "https://www.wamda.com/2021/08/saudi-ai-startup-intelmatix-secures-investment-stv-sultan-holdings"
+webUrl: "https://www.wamda.com/2021/08/saudi-ai-startup-intelmatix-secures-investment-stv-sultan-holdings"
 type: article
 quality: 35
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "pn4tveiTQqea3iQA18KTkiawEJWt3YjIpJY3B7hesnDeCmqlBsOAElcG3YVypt/IRf9ZkZz0zVeFpa9hqq/99rMivjTllRa3UWv+5K8I9BhPKMtnwH6B80BKsanE2AMakDdAfbmPCw7ipityEzATvuFGbwDBrrF2ywLUSCbjtg/bnCajzG5MjeWUbNybmP5bp8uZT0XspUfOF+YP03q1JKP0k+M+0C73ETs6yAHeXPMKagxjB9VkMFtiHUAurNTwzp5+9yTd4EosFQ0EA9cc4zVt5kV9sLkWSIQXTw0rSoG/0yTA45PjQCAPvUu9QkTah/9qYXN9yETw09zIooA6NmLR+ugHkULsF6oeCRSSdGOVD4NDkfnF7lBMf7KUwlBq8y+3wQh89BMERyKW0BBuB++M4aIVvaBqyeR1OuF3+xPEi00bKADdMPg44/gzjo7PAe5gRsz8Dmhb8Vix3sf2oXIJXnyCpdjy+vjETZWnS0rTmblv+pFpSdrZ77tBUFkZMAN9mFhaY6V+q9FTLFGIyQ==;OzV5IGabtEI5J48Kj2/xtA=="
+secured: "qnHso1iq3AkKm1ZIgIveSaqZVmi60CwwsrrJfvWXAi3YeztLwtS29vjtykyRan4+2lz2VmCRi97ScgPfPbDXDjOQTWTlw1jiOzcrGMAT92Ze/xMO3kSSFhqmlps07BmxIOTj85EslFwfW3fCVaIHKMwVQrqijkN/eJiz/0Rgm4gVoSS1m8r4TBY6OOyzWWenCvReNhan5D830Wz9LJCe0zejb1WUvlyoraxrOB55f0RsYU2G2rhyIIffKqh13ft33btKxwOoOAYx0oMhAMr3wKvODAr1XanR2NKfxrlvs/sZkQ2erTVN/YXKBNivT1XYAQwde4YPvfvhEfplmPYFasVbABbnkp3+bg+1n18FIgs=;SwvasnRdy3Ri5I9ZU+g6DQ=="
 ---
 

@@ -24,98 +24,50 @@ images:
     isCached: true
 
 related:
-  - title: "AI use cases are expanding and evolving in healthcare"
-    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
-    publishedDateTime: 2021-07-30T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+  - title: "Honor teases Magic 3 series, will feature various AI technologies"
+    excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
+    publishedDateTime: 2021-08-02T07:32:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 76
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
     images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/honor-magic-3-render.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Deep Learning in Healthcare Market"
-    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
-    publishedDateTime: 2021-07-31T10:25:00Z
-    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
+  - title: "How Three Artificial Intelligence Technologies Can Sharpen a Company’s Strategic Edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T09:49:00Z
+    webUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/"
+    ampWebUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 50
     images:
-      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://scitechdaily.com/images/Three-AI-Technologies-777x437.jpg"
+        width: 777
+        height: 437
         isCached: true
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
-    publishedDateTime: 2021-07-30T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+  - title: "How three AI technologies can sharpen a company's strategic edge"
+    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
+    publishedDateTime: 2021-08-03T05:17:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924152"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02791db4-f876-4d8f-a20c-e405d9db8239/Rendition/low-res/Content/Public"
+        width: 700
+        height: 394
         isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Where are apparel supply chain companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Artificial intelligence hiring in the fashion and accessories sector is increasing, but some regions are proving more attractive than others."
-    publishedDateTime: 2021-08-02T10:58:00Z
-    webUrl: "https://www.just-style.com/features/apparel-supply-chain-companies-artificial-intelligence-hiring-efforts/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 40
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/04/2016-04-05-16-51-crystalglobeonlaptopkeyboard2_cropped_90.jpg"
-        width: 424
-        height: 283
-        isCached: true
-  - title: "Cupid’s Algorithm: Artificial Intelligence is Being Used for Matchmaking"
-    excerpt: "Artificial intelligence is transforming industries, including the online dating industry. Here’s how AI and machine learning technology can get you better dates."
-    publishedDateTime: 2021-08-02T04:37:00Z
-    webUrl: "https://www.analyticsinsight.net/cupids-algorithm-artificial-intelligence-is-being-used-for-matchmaking/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
-    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
-    publishedDateTime: 2021-08-01T19:50:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
 
 secured: "TNi/LBdvUCBodzJx3IivvFSgSAEpJpdA1wiSZVl4FbDt/O6FTQOiCXnmBg1DodZ+Y1jjuFl0V8rZusj4t6d5l1TKbgiwTIp2zBcry08MQOfLVn78Hkos+Ofq1mMPhMfE6uFD8ryp44K9V9SB+1XBi8DQqTth/gNw7PF9MmPnuca9Dhccbdjf64K70oGssS7j5HnKfj+1nQ5RIA3+2TKJ3MlpPuRBznpEbIbp95n3TZ91SjqiBXJA82vIKmOecU/pReYXNtGQGEKsXZwx0wwzy18KLG7Oxo7ytgHF1JV0aJK6AZjq0Dq5SvlYWyzvMdvEwl90dsWlTfwnxVWduFgVbUqU3Tnr1E8Apyue88Cexsk=;DjHTqdWzGzrJTCW3mGgqBg=="
 ---

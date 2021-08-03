@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-05-artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss.md",
+      "title": "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss",
+      "excerpt": "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/07/1-70.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
+      "publishedDateTime": "2021-07-04T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-healthcare-an-ideal-jumping-off-point-for-artificial-intelligence-president-of-mbzuai.md",
+      "title": "Healthcare an ideal jumping-off point for Artificial Intelligence: President of MBZUAI",
+      "excerpt": "ABU DHABI - Professor Eric Xing, President of the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), has said that healthcare is an \"ideal jumping-off point for Artificial Intelligence (AI) because it generates so much data\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210624063038PGNY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "publishedDateTime": "2021-07-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
       "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
       "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
@@ -1209,103 +1297,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Impressive Gains including key players NLP Technologies, NEC, Apple",
-      "excerpt": "Los Angeles, United State, – including Q4 analysis The report named, Global Healthcare Natural Language Processing (NLP) Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Healthcare Natural Language Processing (NLP) in view of numerous aspects such as growth factors,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
-      "originalUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Healthcare-Natural-780x470.png",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-18T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends.md",
-      "title": "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends",
-      "excerpt": "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

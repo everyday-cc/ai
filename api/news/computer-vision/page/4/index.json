@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
+          "width": 2560,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
       "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
       "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
@@ -1341,58 +1385,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities.md",
-      "title": "Global AI in Computer Vision Market (2021 to 2026) - Increasing Manufacturing of Hybrid and Electric Cars Presents Opportunities",
-      "excerpt": "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

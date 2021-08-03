@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/01/4-conversations-every-company-nee
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ehsnft8yzux2qgaf9d5q.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "$20M for conversational-AI builder in warming market"
+    excerpt: "It is a good time to invest in products that make sophisticated conversational-AI and voice recognition products easier to roll out."
+    publishedDateTime: 2021-08-03T18:28:00Z
+    webUrl: "https://www.biometricupdate.com/202108/20m-for-conversational-ai-builder-in-warming-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
         isCached: true
   - title: "Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI In Computer Vision market report provides a"

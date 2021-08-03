@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 419
     isCached: true
 
-secured: "UNuy5mHLJ6XKqkkjwzYuBgxzgggEGhj133GYzrFjQgrZgu3KtlG0keTs8/YTHsCSdbO+DKZqjaHpbRK7PJYv/DdiCQAyC2N+Nn1P+I4MMIt/SmluBEeWzTdt4ougzoIUYI/7uZUjN51Wl7/OOLxZzIQZvWGjHFctQcRyagtl4dVYZqz5R5zfhOcGRjorQE5RgOp0M06q9HUISiS6OWbMs8qPRP82SOvOPUiTtgmd+NqZFBkbm9ZfgzHBceRsw1ddbYo7Q/zykk2Ywa7HAiH8n/RFbVXJxyY0g6YVrf1/CKQkl/0SBStxRFcG4akJFM8mrpCW2Pv/UYlRL02/EgYhrVmILbMoHKF5pLheIZNdk3I=;LESzAay2Yp1gjtI3j7RfGg=="
+related:
+  - title: "Ampere Computing Buys An AI Inference Performance Leap"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-03T18:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/ampere-computing-buys-an-ai-inference-performance-leap/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg"
+        width: 705
+        height: 419
+        isCached: true
+
+secured: "NuQx7TuKmJi3NdpepdDjFJD0fOJ7cY7Q4ckfU4VYFx9kqQhKAwExHUikhFXWQI5gVox/sweuUNTFiGvoHCNiNNZmAGbd/MK96o2m9fVoq+iC57yuJHrJCMK/CWRKYsMqkdScQtzHh2PXJdLMLtZU6h/wNefvrJjxuSuGEkOxGEEQRO1gbufZXXdrxSpCVnYBRUlRQhV1KZLT0UpHqUGXjy0N+Z7ffyAKS65OZd/mTmW2fKJB8bG/egAN4QoyB2iTn90+6MtsJGGlFctO2eJQsyoGwn8q+nNFeJzDYHZqDFu/AiX2cLzzzpuN8OBX3l5O6sn3dk5D/io45a3HRWgSQSERHdSmQQmJyygfsMW7P/DqQzUYjjFNXwpaUjH0Ue6E9iqLTD5nursf7d4Li8Vt5prqTJMJeWCWYkjSXg0Y0opzPP9LK/ua/9PCVCclJQIOobhCeAtTL2qJX8ZAa/uUaQrv8dF+ekpCzjDLXyh6GqBrQPzVptRkq+xnbNWE3qU4UV/NIufqQ6kEurAW1tsMTQ==;UaChsX6A+Hz3qvWhcwJQNA=="
 ---
 

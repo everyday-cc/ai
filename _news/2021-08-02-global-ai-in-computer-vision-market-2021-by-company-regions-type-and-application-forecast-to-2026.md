@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "$20M for conversational-AI builder in warming market"
+    excerpt: "It is a good time to invest in products that make sophisticated conversational-AI and voice recognition products easier to roll out."
+    publishedDateTime: 2021-08-03T18:28:00Z
+    webUrl: "https://www.biometricupdate.com/202108/20m-for-conversational-ai-builder-in-warming-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "pkz33PzMblXYZV3ILh9i28KjF/h5Fd86MmEYKrtYObu7xduB+B6aaNDd+z9GoKnVTVujoD0KJOTXABN9+a8C4fPYYsisdMsITpjHI2BHq/GwnIXPYnzqtmrEw2qacS5P6O4RuFhybioUSXgFgmMj/uxYURlD4QHlhnTO2ZNNHwNhXXAdOcf9tTMEpb9Py6XDtTIw0PIyjgMG98fmIgRpCwMttH2S0J5aZ/mjO+99cjvVrLEAIwhhEji0Z2tLz6/1ziO+K/6RrATdN8tMcNWmaJW33aLtQqklXUvJ/sXMePv6yFg4YGKvzI1pR/+XCper5fHNkIveO3mrPapobWaKrNkpq7rlLO5fUDWMxtjnmI8=;PrzLiwEI4eNu0usu8D+W7g=="
 ---

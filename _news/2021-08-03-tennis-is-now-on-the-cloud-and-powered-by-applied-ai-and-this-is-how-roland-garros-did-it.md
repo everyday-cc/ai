@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-o
 ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
@@ -59,6 +60,6 @@ related:
         height: 500
         isCached: true
 
-secured: "bUKaw8Ed1u9uUVu6qD7BiEqZUQoXTy1YOxcs8v43RbiDAKyaY7XEuBRJA2rklw3nn6Dbhe6B57rCxaEE6sGmrwvR26J6KCW4ISeMEbyleXeeWTFBIZCOP2vG/KZpinkp3zdU7HX4iFFdKLFQwfWU2QYs5OuqJ5+rlt2K4fSHrMafnoGbLxnEg/QxECGGLdDK1qiNcybnEdctqHjEOGJiFsfMBCLT//n+YE4QsBIqR1WhwfRC91IREmp1T/LjUgiMix5LPZ4/FliQbE1nnsCBCgCTHwWwpoceKuiPPslM3EJ6vfV6Xaf6Xg2V8qowkaRYlG3v1UndeBsqWq4jwagfJFe6DC0nOIM+NF0YAOIIZ1g=;f4h+uOl2bWPXZXzFilOsNA=="
+secured: "1eL+YzD/Gkdm/MIPmX9anwKHjH8agzOeCbZmOrVS0ZaNgUbD0NbAHzmtxY+3psm+7FfnnlkpQ2IErRN4tD4XVzjFxi7Mq63oBUx+LGfHm5yOebMZKjJ0GL+D30LN0eHOcZn4OnKZE/dvGPcKbCr/Qd7TATnXiEKb1GcWwoMxmkuTtcWgD2xF2vIK01qJ2G/TXhRXsMz0CmpTaEMU5IBGz2qAvRx//xbid+ioojtunY7es5fSMYsscAm/y4WjrfKxeehcz8atRJC8C9CdWX2bRdClGcOMH3/sR5JweQQc+rR7RpvTw5iaQVojHmk+q1cgN94B8AreZO5dCb6JjXwb8cS8UQ01P5DebEgQgvur76TLQI6K6/TjdvfVOo/Ha3sgwdHb9r0DsYQLm4c0FnmVGYYIAEXrER+LR+rWPfN4KSZwwYtrumZP6HaWQ7HZMftHRew5CDioGuRX5Bb1nu6nROqLG159HHXq70fFA1OGLdJ3H+vU2qaEYJTcXwvsIgjc1YBtsNf40z3PVqDJUwgNXw==;8BheHiQDSAbUqMnXXFWECg=="
 ---
 

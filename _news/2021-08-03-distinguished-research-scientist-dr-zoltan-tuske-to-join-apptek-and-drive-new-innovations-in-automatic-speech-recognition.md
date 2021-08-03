@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Distinguished Research Scientist, Dr. Zoltán Tüske, to Join AppTek and Drive New Innovations in Automatic Speech Recognition"
-excerpt: "\"Our mission is to advance the science behind automatic speech recognition and provide the most accurate solution in the field\" stated AppTek's Chief Speech Scientist Eugen Beck. \"Zoltán is one of the great minds in this industry and we are excited to have him on the team to collaborate on new and innovative ways to advance the science even further."
-publishedDateTime: 2021-08-03T12:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/distinguished-research-scientist-dr-zoltán-tueske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition-1030683098"
-webUrl: "https://markets.businessinsider.com/news/stocks/distinguished-research-scientist-dr-zoltán-tueske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition-1030683098"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
+publishedDateTime: 2021-08-03T12:44:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_23bd8033-76c0-5c99-bdad-6d81961157c4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_23bd8033-76c0-5c99-bdad-6d81961157c4.html"
 type: article
-quality: 42
-heat: 42
+quality: 12
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1586508/tuske.jpg"
-    width: 348
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/2e/32efccc9-201b-5605-af34-52e3fd9d4c98/61093a6956a5d.image.jpg?resize=547%2C630"
+    width: 547
+    height: 630
     isCached: true
 
 related:
@@ -39,6 +35,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "U2lnTt21fwBVtkOs8542tclNZcBdbzAj0B/wJbuVVZ1MUVyfOoinGhylgQdiRKnaGf58kYxNDkg1CMrAqte1m2stQQAii9gIgWIChew5EIG7cnmauveRy+VGT1/cx5wSI76VMijUUunvldGVbrBK+1TMXi1mcfoovTFG7Rdjs5qGcgREk3Sv/hKygknwXECHS7OVGDzWPzwzZlFEJxl3eAxRnVeJ98pBsRc2CmSU9X6qyLDaawEURnicvwW53HZDY7NVBrRmuvaeaJwINKcpVJLNznQECt6C1+p81/dUCKs3Hlqbc/Vp7vpg8C8dPvSfe2v/0qhZzUhddvZvBiuJ+F04ieJgwHWZA0dFgZYYVoHfFKOV8PQHDjsJMVgVXmqJYa8srE43EE8yUh4sNI3Bcrb8jMiTcpOoxyPvn+8qYuCjonOCwa2rOAg1jbG7sUksSbYh/oEdstowW6Vtfeiy/iPXlqwNa6cOZOdRch1mpqu8IRpVxxqlaFBbup9zycjflrMndZOASGMvAJmsq3ChAw==;pdc1kV16ifdghWOe912fPQ=="
+secured: "9zCBTW2Vza8uEu1iEIphHD2gyatV7pDuOYePp4SpNN9KOCbxPHz/jasj0wAi21xKELgx0el1qf6zdHtKSpxsb++rRS7w4ODf/N1y9NYT5tuWwIWtqIEwPWveZpK8rWgOME3H6e3qiCTvD8y4Ou7wcjcfGNQ+U/AkWBYYb3S/0j6YTW6mn/feVzG4SCaNXgK/4aaYou8dSi8afwWqDIj/yiCVLOTF+LqABRzriuxV3qG0bVwka87sX6VRh7KX0Kg8x/1gSP5NH7mi8O0IK8etYY14kzQKhEHJz0Lniyr+AxwPMdMG9hjCoi6pto7SQOEYGMeaczlVYgr+YluMUMaj3tfw8kZ8PhKyqsD5k8Z1NAc=;nkyMoELgF8xlX0zFsIO69w=="
 ---
 

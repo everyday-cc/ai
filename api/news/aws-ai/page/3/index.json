@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-07-1strategy-achieves-aws-security-competency-status.md",
+      "title": "1Strategy Achieves AWS Security Competency Status",
+      "excerpt": "Validates experience and expertise in delivering secure solutions 1Strategy, a TEKsystems Global Services Company and Amazon Web Services (AWS) Premier Consulting",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-ibms-codeflare-automates-ai-model-development.md",
+      "title": "IBM’s CodeFlare automates AI model development",
+      "excerpt": "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
+      "publishedDateTime": "2021-07-07T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-artificial-intelligence-in-accounting.md",
+      "title": "Artificial Intelligence in Accounting",
+      "excerpt": "The report on the Global Artificial Intelligence in Accounting Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast, 2021-2027 market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2323131/global-artificial-intelligence-in-accounting-market-future",
+      "originalUrl": "https://www.openpr.com/news/2323131/global-artificial-intelligence-in-accounting-market-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2323131/global-artificial-intelligence-in-accounting-market-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323131/global-artificial-intelligence-in-accounting-market-future",
+      "publishedDateTime": "2021-07-07T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-artificial-intelligence-and-data-acceleration-ada.md",
       "title": "Artificial Intelligence and Data Acceleration ADA",
       "excerpt": "Acting DoD CIO John Sherman said Microsoft and AWS will likely be invited to bid on JWCC, and DoD will also look at the capabilities of other US-based cloud service providers, such as Google, IBM, and Oracle.",
@@ -1219,137 +1351,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-max-kelsen-revs-up-ml-system-for-car-share-platform.md",
-      "title": "Max Kelsen revs up ML system for car share platform",
-      "excerpt": "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "originalUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
-      "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
-      "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
-      "sourceUrl": null,
-      "webUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "originalUrl": "https://www.steelguru.com/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/steelguru%2F2021-06%2Fcf9f8e8f-3a2a-4869-a50b-26912a626ef1%2FCloud_Data_Centers.png?w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "cdnAmpWebUrl": "https://www-steelguru-com.cdn.ampproject.org/c/s/www.steelguru.com/amp/story/mining/bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure",
-      "publishedDateTime": "2021-06-21T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-toronto-firm-does-big-data-chemistry-in-the-cloud.md",
-      "title": "Toronto firm does big data chemistry in the cloud",
-      "excerpt": "If you’re a medical researcher looking for antibodies, sometimes Googling isn’t enough. Or rather, it’s too much. In 2009, 1DegreeBio was started by a group of medical and technology-savvy entrepreneurs to become what they now say is the world’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648",
-      "originalUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusiness.ca/images/articles/2012/June/antibody.jpg",
-          "width": 450,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/toronto-firm-does-big-data-chemistry-in-the-cloud/17648?amp=1",
-      "publishedDateTime": "2021-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

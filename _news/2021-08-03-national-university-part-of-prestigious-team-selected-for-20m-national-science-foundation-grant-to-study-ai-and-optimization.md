@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence institute led by UC San Diego lands $20 million from National Science Foundation"
-    excerpt: "Researchers will pursue fundamental breakthroughs to transform chip design, robotics and communication networks"
-    publishedDateTime: 2021-07-30T01:30:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
+  - title: "Two IU Schools Join National AI Initiatives"
+    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
+    publishedDateTime: 2021-07-30T21:39:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 46
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
-        width: 320
-        height: 214
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
+        width: 960
+        height: 540
         isCached: true
   - title: "UC Berkeley collaborates in launching of national AI optimization institute"
     excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
@@ -51,6 +49,24 @@ related:
         width: 1800
         height: 1160
         isCached: true
+  - title: "WCM-Q pre-medical students excel in national AI competition"
+    excerpt: "Two teams of pre-medical students from Weill Cornell Medicine – Qatar (WCM-Q) have been highly commended after creating solutions to two problems highlighted by the Covid-19 pandemic."
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://www.gulf-times.com/story/697612/WCM-Q-pre-medical-students-excel-in-national-AI-co"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 17
+  - title: "Washington County native’s photography wins recognition at international competition"
+    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
+    publishedDateTime: 2021-07-31T05:08:00Z
+    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 0
 
 secured: "I4OsA0XUDpqFIaJC64dvimmEjhX6TeK6d5ilLKz1kubdDv3DKG52m2f321FicUR3fDbofCoEoU+CZpb9NOGISpdMvbxXHmFP29F8kNqcoaDq7P2Eg2Z6PIdUqcfArJlfqxKo4aMUWXxrXAz1L2x8yGPDusP/R3nvt5o2+moO0qKoP6s9eh8C31VGHuaEFwkTL4Etwy6JZtR6UXpDqAGoAshy3flE4YAswIZgXCjuXLs2QrkAIppnzJ5bZb19kEppjVqbQaJUcQJkJn7NDC46+b3fXIcfxd3xBDziAP10EG5vpylnHrGOgnmQ60Q6aXjQeU+JHidArHH+LKctQgtUuFAoS5Y4tNRlE4ekzLFHWiI=;/JbpJ5vF4DQSipQp1KCvXw=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -150,7 +150,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -946,8 +946,8 @@
       "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
       "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-farm-tech-startup-iron-ox-hires-david-silver-/2021/07/27/9417268.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -966,12 +966,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:09:00-07:00",
+      "publishedDateTime": "2021-07-27T05:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,216 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
+      "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
+      "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/29/esp-diagram-1260x447.png",
+          "width": 1260,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:57:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code.md",
+      "title": "Upgrade your Amazon Polly voices to neural with one line of code",
+      "excerpt": "In 2019, Amazon Polly launched neural text-to-speech (NTTS) voices in US English and UK English. Neural voices use machine learning and provide a richer, more lifelike speech quality. Since the initial launch of NTTS, Amazon Polly has extended its neural offering by adding new voices in US Spanish, Brazilian",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:06:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps.md",
+      "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
+      "excerpt": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png",
+          "width": 805,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:44:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud.md",
+      "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
+      "excerpt": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif",
+          "width": 800,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:32:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-why-data-management-is-critical-for-faster-drug-development.md",
       "title": "Why Data Management Is Critical For Faster Drug Development",
       "excerpt": "Co-Founder, COO at Komprise, creating Intelligent Data Management for enterprises to manage data growth and harness data value across clouds For every 5,000 drug candidates, only one results in a commercial product,",
@@ -51,58 +261,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker.md",
-      "title": "Analyze customer churn probability using call transcription and customer profiles with Amazon SageMaker",
-      "excerpt": "Regardless of the industry or product, customers are the most important component in a business’s success and growth. Businesses go to great lengths to acquire and more importantly retain their existing customers. Customer satisfaction links directly to revenue growth, business credibility, and reputation.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-customer-churn-probability-using-call-transcription-and-customer-profiles-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/27/ML-4213-image003-1092x630.png",
-          "width": 1092,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T09:35:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1320,136 +1478,6 @@
         "AI",
         "AI in Sales",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
-      "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
-      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-aws-computer-vision-getting-started-with-gluoncv.md",
-      "title": "AWS Computer Vision: Getting Started with GluonCV",
-      "excerpt": "This course covers AWS services and frameworks including Amazon Rekognition, Amazon SageMaker, Amazon SageMaker GroundTruth, and Amazon SageMaker Neo, AWS Deep Learning AMIs via Amazon EC2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-artificial-intelligence-in-accounting-market.md",
-      "title": "Artificial Intelligence in Accounting Market",
-      "excerpt": "This Report provides a 360-degree synopsis of the competitive scenario of artificial intelligence in accounting industry. It has enormous awareness joined to the ongoing item and technical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
-      "originalUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U719996303_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
-      "publishedDateTime": "2021-07-19T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

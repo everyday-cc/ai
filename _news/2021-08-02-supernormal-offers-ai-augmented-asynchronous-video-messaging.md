@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
-excerpt: "Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements."
+excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
 publishedDateTime: 2021-08-02T10:37:00Z
-originalUrl: "https://www.just-auto.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-2/"
-webUrl: "https://www.just-auto.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-2/"
+originalUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
+webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: Power Technology
+  domain: power-technology.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/virus-4999857_1280.png"
-    width: 1280
-    height: 905
-    isCached: true
-
-secured: "rEppjrpJip74JOGlBj/ya7D8zSJzk58A9mno4cNvne9AplBduHSelDIyhYOtO8ALmZEnoutinpKBW3Xp1aVXNXv86vE64iI4tQ6mDUXIG5vC5ndSw87xrXbxKATLS+Zkp/JR2lcSbBrXEe6nMGh6duzkHekKzeHZKECJoMmhH4r0TclBtzHmtMJbnNHF29dr/pcMQ2iEFcsdI6Hq+W4VPKo/Q7NqCPOG+SVW2M7vOagUJWiaaVFbGIAkknlfTofZGLVUTsT1X0LHMOHV5G/PDJlBBlD6qSyTK8VzCDFfnOALAPzC0MiJwzkQ62wAeq6x/ahrwXzU8pH47ygK23alYvubgInEBhnBVDy1Xzx1NAnHtNR1RmthMTV8l3FrlWpUZZ2nzCuJ5l+5QpyR5wtIUJM62tirhxv0MJxG2O7Np9AoJJvzISWGDV3s9e6E5oASLBTafahJKC0WOUX0H7+xNlmHraodcpadW0NQ6e4vRVHztpFSQUVIrePAUpcUfzuTXIpw4LxdSIiHPbpawkV+Eg==;VNw7B7gudcZkjLfCyH0//Q=="
+secured: "NQbSFwejIfQhzHBJLLsHStuO9TnyBD/iiVkO3ms/GG6q+F2/TAJvVfz2M/ji9kr8um6Ig76P0BK+apD1R0llcSiGfYjNQVQxdlT5gZNobGXf6corEjOK8wo8JjDj0Eww4asV7/t1uKdXN2Jd7kpJVgRg2VsrQ6PBk71bP+B9Li1owUb5HYTqkHraREv/SadhLi9PUhzTffErnN+iEfxJ2rGrTP68jhEwfjoeq3UeMw+GA3Q6yfMeMm7E4/V+/FE6qA0fI0fRohY+z7so/9il9JD5XLw68bGDO33duuIrgb2hyQ2cbLFoRJGrUrxzxJJs537V7raVIHXiA0Os/xz67qZ0riwewrv3/0v3wwbghqrIKeDbS59aiWv+qMrWNWae9k7damtx53vv9F7CXSJLu/k1XwUhMvjkXms/aXL+R/0PjFBZC9N2+XCLWLGRvQHEKu1EgQMmZoYiEJuVd/8ToR43WFxHTENITh+DSGOmzI/NadcGmCfMeCvMJDJ6HYtnf5k7rnLJwX+gcj8vtTlfwg==;0THKBrPu9+ZQl6oWahc+pQ=="
 ---
 

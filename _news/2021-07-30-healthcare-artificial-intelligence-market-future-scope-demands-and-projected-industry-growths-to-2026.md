@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: MarketWatch
@@ -29,98 +29,68 @@ images:
     isCached: true
 
 related:
-  - title: "AI use cases are expanding and evolving in healthcare"
-    excerpt: "The world is increasingly seeing tangible impacts of AI across various industries, including healthcare.  Using AI, healthcare providers can analyze and"
-    publishedDateTime: 2021-07-30T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/07/ai-use-cases-are-expanding-and-evolving-in-healthcare/"
+  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-08-02T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 76
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/07/editedGettyImages-1035331882-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Deep Learning in Healthcare Market"
-    excerpt: "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ..."
-    publishedDateTime: 2021-07-31T10:25:00Z
-    webUrl: "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    ampWebUrl: "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
-    images:
-      - url: "https://cdn.openpr.com/U/7/U731952845_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 47
-  - title: "Where are apparel supply chain companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Artificial intelligence hiring in the fashion and accessories sector is increasing, but some regions are proving more attractive than others."
-    publishedDateTime: 2021-08-02T10:58:00Z
-    webUrl: "https://www.just-style.com/features/apparel-supply-chain-companies-artificial-intelligence-hiring-efforts/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 40
     images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/34/2021/04/2016-04-05-16-51-crystalglobeonlaptopkeyboard2_cropped_90.jpg"
-        width: 424
-        height: 283
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cupid’s Algorithm: Artificial Intelligence is Being Used for Matchmaking"
-    excerpt: "Artificial intelligence is transforming industries, including the online dating industry. Here’s how AI and machine learning technology can get you better dates."
-    publishedDateTime: 2021-08-02T04:37:00Z
-    webUrl: "https://www.analyticsinsight.net/cupids-algorithm-artificial-intelligence-is-being-used-for-matchmaking/"
+  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
+    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
+    publishedDateTime: 2021-08-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
-    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
-    publishedDateTime: 2021-08-01T19:50:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
+  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
+    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
+    publishedDateTime: 2021-08-03T02:06:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
-  - title: "Where are mining industry operations and technologies companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the mining sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among mining industry operations and technologies companies."
-    publishedDateTime: 2021-08-02T12:43:00Z
-    webUrl: "https://www.mining-technology.com/features/mining-industry-operations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 13
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
     images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2017/12/artificial-intelligence-2228610_1920.jpg"
-        width: 1920
-        height: 1200
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
+        width: 500
+        height: 288
         isCached: true
+  - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
+    excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
+    publishedDateTime: 2021-07-31T10:57:00Z
+    webUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 26
+  - title: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge AI Chips market report provides a detailed"
+    publishedDateTime: 2021-07-30T11:24:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4709579-global-edge-ai-chips-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 20
 
 secured: "8FHBfK6Xee1H63/2GWKYzBtv+SWHtD51BTHb26GDQkAeMPrpWOPcRybn1aA29p+XeUZoyqb5kNAfVoWN5P7i2qlYpV1Hw+zvQ8BgBRmRyTocVeNtqO30RyBnpstzWOi+duXVdp40W4s83rYqiX2q4yv+Bm3leU+uN3hsSGIbcoreArqrLdrVmAYJEVtQWr5dVopanGigbJFuPEdECZT10JkxNpSeMaCAQZQqk9077ZUNEfIfJgl+8Liy6tJKYAGPfMWh1e5G6BVtO1yTcM2nj7w5uYKMMvIobM8VaClJQv0lgwQKMnwkO2C/evUrbDLzRxoY5Pj/4MWYcVbeuTz3tMpQbNK1GChcKm0IuN6gy3w=;OBx4DZoPPhwd3+nAyaGsZg=="
 ---

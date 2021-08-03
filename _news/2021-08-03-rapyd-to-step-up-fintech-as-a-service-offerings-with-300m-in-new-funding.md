@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Rapyd To Step Up Fintech-As-A-Service Offerings With $300M In New Funding"
+title: "Rapyd To Step Up FinTech-as-a-Service Offerings With $300M In New Funding"
 excerpt: "Global FinTech startup Rapyd on Tuesday (Aug. 3) announced a $300 million Series E funding round led by Target Global."
-publishedDateTime: 2021-08-03T15:46:00Z
-originalUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-to-step-up-fintech-as-a-service-offerings-with-300m-in-new-funding/"
-webUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-to-step-up-fintech-as-a-service-offerings-with-300m-in-new-funding/"
-ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-to-step-up-fintech-as-a-service-offerings-with-300m-in-new-funding/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/rapyd-to-step-up-fintech-as-a-service-offerings-with-300m-in-new-funding/amp/"
+publishedDateTime: 2021-08-03T16:57:00Z
+originalUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/"
+webUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/"
+ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/amp/"
 type: article
-quality: 23
-heat: 23
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -20,6 +20,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "9RbfGkeU6xv6aj/f1hilGdFexXZILv85d6PA4bHKRRxq/9imoLzGK2TwhZB85MXWk1h74of/A3l+pyu3EO3d+/q0LtcBmlQICDnXLNIvXVH0fdcTZzP6PdxNJqsNhwZzD0dBbxw5NdnpoM9fs5JgkZtITGl/1xw0ZPal8CdZZZSNj7x4HFOmIZOYl7x4pdLCKDc39WYJNNKcgBgBUraM66oBKsNR8m5/9rWXlZPeTVPXv0UfAdQFQ58CRXmnpV/A92pbZNjZzOtYvx2wfwnBkkw7EVP/lqL4ViH0E/Eqe8k/Q48OtsL7gVrcxS/iomSBpWulVEn3oM28sw12Ih08YxEB08EFh6vCj34jjWXWmvbCr+YM0k1nLWMsOCXk0iagRXBGtol+UWXWQr5jI5mPrBokQGmcOMfXV1rqNnH4iVnUuKFlyapuBs0Tany1o1XSPjmpZhaWi50WAFUiYJ/6TnA1g2UwmObyUkh5SjhoQWkSvpGCgHUDCYzTWNcrXqFIY006HbunUxWpG6kcRU7BtA==;b4JM/2EsoX9kCCEX1LewRA=="
+images:
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Rapyd-funding-payments-457x274.jpg"
+    width: 457
+    height: 274
+    isCached: true
+
+secured: "DLlTTJoR+jgPDlBk1JoRNIJsWbU3HD43vQaaLT2wTN0RSGKbYDcKZBXT90duU0OgNhirXg8Qv2QzP6pPB1cQm/eROEi++Xb/EEXT3czvZWNzQ/6rqA+Dz9hTJTHyP822CE2o4eWZS818SgVQQGH/ZKsN2P/LxI0b2aYgiKGALdDVujRwnwOXORdFbrvaNCyiO9AAAIfmzdB4g4JZJY5o9C8OHrB7JXUGEc/2+6TrUJHhpgoMoArZ4iSEvsB0SrlNBa3xxF2KOHWz0hSAuuOqgmlUWUws+LenrMgeQfuT8kufyaRSQu238kR6VtTXIe3WDrYIthhg3G35hQW6/e+KFdOcmGP/8a0AMDmg4s8T2MM=;66VKxXcO2dKAZaD/UeaiqQ=="
 ---
 

@@ -24,22 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence institute led by UC San Diego lands $20 million from National Science Foundation"
-    excerpt: "Researchers will pursue fundamental breakthroughs to transform chip design, robotics and communication networks"
-    publishedDateTime: 2021-07-30T01:30:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-07-29/artificial-intelligence-institute-led-by-uc-san-diego-lands-20-million-national-science-foundation-grant?_amp=true"
+  - title: "Two IU Schools Join National AI Initiatives"
+    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
+    publishedDateTime: 2021-07-30T21:39:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 46
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/7a09f51/2147483647/strip/true/crop/6970x4661+175+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4b%2Faf%2F7a43259e4f079815dc8ef2d48f15%2Fsd-photos-1staff-742689-sd-fi-qualcomm-ceo-ec-008.jpg"
-        width: 320
-        height: 214
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
+        width: 960
+        height: 540
         isCached: true
+  - title: "WCM-Q pre-medical students excel in national AI competition"
+    excerpt: "Two teams of pre-medical students from Weill Cornell Medicine – Qatar (WCM-Q) have been highly commended after creating solutions to two problems highlighted by the Covid-19 pandemic."
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://www.gulf-times.com/story/697612/WCM-Q-pre-medical-students-excel-in-national-AI-co"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 17
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
     publishedDateTime: 2021-08-02T22:23:00Z
@@ -51,6 +58,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
+  - title: "Washington County native’s photography wins recognition at international competition"
+    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
+    publishedDateTime: 2021-07-31T05:08:00Z
+    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 0
 
 secured: "RyWsjOz0DCOOtWpFJ9aRD+kGfQIO+ou0XSjOD8MCO6A3fJRM0JPWc//7i3SOYJTFPObDfTCUvhLSuvnnOY7T+em0u69jlnfQ44nVA40BVoTk0XDhcg3gB0XoujLQln+3+aBq4fhX1ycqV6TNh69Rjczo0iohlnQpjN9fYsNWXExwWommlrNMaFzBAgYZhmjC2Dj/GJZ16JIFTs+uqoqy5eglWTiT5LcvA6grJo4p+iDOXVPGODNFtUO9hvCEkaCVQK3dKHcfQZlrMcATRW9zNzqtBW4XBOxuo9Hd8iDjOuX5G9H9Z6feI4jlZL9SaW1XbHeEVk2YhVJX9H6of5gCn9xgepCtcoKxNrA7jPBGRFRSekp2lkcQBXd0MV8nSDimIzFZHkOBOuHUQuMGyMWCZ22F56o9qJqgtiZjunKlno3GhjAsB8Vk7dP0LQcbsquznTgg222WZt51nCpO60u2yoQUd00awrUD3mZLd1OhrxLSutVlQzl6JmMyXe4Fuvz4qiLkr7vrx8IvQW2fOGgPHw==;yLbmBLR5Uwx6CGZssLwlcg=="
 ---

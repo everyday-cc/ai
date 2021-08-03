@@ -2,6 +2,375 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-27-robotic-ai-firm-covariant-raises-another-80-million.md",
+      "title": "Robotic AI firm Covariant raises another $80 million",
+      "excerpt": "Covariant announced that it had raised a $40 million Series B. It was a health sum of money for the young company, bringing its total funding up to $67 million. Just a little over a year later, the Berkeley-based AI startup is adding another $80 million to its coffers,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
+      "originalUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/2021_07_13_covarient_retouched-004.jpg?w=1024",
+          "width": 1024,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/amp/",
+      "publishedDateTime": "2021-07-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-older-drivers-like-self-driving-cars-ride-hailing.md",
+      "title": "Older drivers like self driving cars, ride hailing",
+      "excerpt": "A survey by the US National Council on Aging (NCOA) and Volkswagen Group of America  found that 70% of older...Read",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
+      "originalUrl": "https://www.just-auto.com/news/older-drivers-like-self-driving-cars-ride-hailing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/The_new_study_by_NCOA_and_VW_of_America_1.jpg",
+          "width": 1500,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks.md",
+      "title": "MediaTek Launched Kompanio 1300T Chip For Tablets And ChromeBooks",
+      "excerpt": "The new MediaTek Kompanio 1300T chip is already out. The first products powered by this chip will hit the market in the coming months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
+      "originalUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/Kompanio-1300T-1024x566.jpg",
+          "width": 1024,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
+      "publishedDateTime": "2021-07-27T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-how-olympic-surfing-is-trying-to-ride-the-machine-learning-wave.md",
+      "title": "How Olympic Surfing Is Trying to Ride the Machine Learning Wave",
+      "excerpt": "As surfing completes its first-ever Olympic ride, the sport is poised for another sea change thanks to artificial intelligence and big data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
+      "originalUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.wsj.net/video/20151201/120115surf/120115surf_512x288.jpg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
+      "publishedDateTime": "2021-07-27T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai.md",
+      "title": "German startup Aleph Alpha raises $27M Series A round to build ‘Europe’s OpenAI’",
+      "excerpt": "With Microsoft now being an investor in OpenAI the field now more open for new insurgents into the open-source AI arena. Now a German company hopes to take on the next AI mantle and produce something akin to the success of the GPT-3 AI model.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
+      "originalUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/JonasAndrulis_AlephAlpha-1.jpg?w=900",
+          "width": 900,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/amp/",
+      "publishedDateTime": "2021-07-27T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-breaking-augmentus-raises-seed-funding-for-its-no-code-robotics-system.md",
+      "title": "BREAKING: Augmentus raises seed funding for its ‘no-code’ robotics system",
+      "excerpt": "Augmentus is deploying its robotics platform across multiple industries - including indoor ag, where it streamlines crop inspection and harvesting.",
+      "sourceUrl": null,
+      "webUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
+      "originalUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://agfundernews.com/wp-content/uploads/2021/07/Augmentus-team-e1627361455990.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ag Funder News",
+        "domain": "agfundernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in.md",
+      "title": "What Should The Role Of AI Be In Mitigating Climate Crisis? Aleksandr Blyumkin Of Petroteq Weighs In",
+      "excerpt": "For years now, sustainable energy has been a significant area of study for scientists, fueled by the ever-increasing need to slow down climate change with innovative, effective technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ff86aafa1320676d00e5cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "publishedDateTime": "2021-07-26T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
+      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
+      "excerpt": "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic.md",
       "title": "IBM Federated Learning and Data Fabric: Preparing for the Next Pandemic",
       "excerpt": "As we’ve recently discovered, pandemics are still a thing—and a thing that is likely to recur at an increasing cadence either due to variants of current",
@@ -797,360 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-microsoft-takes-sharper-aim-at-on-prem-hpc.md",
-      "title": "Microsoft Takes Sharper Aim at On-Prem HPC",
-      "excerpt": "Microsoft is intent on bending the supercomputing set its direction. Instead of just focusing on competing with other public clouds, they’re aiming",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/01/ab_arm-cloud-logo.jpg",
-          "width": 595,
-          "height": 307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/26/microsoft-takes-sharper-aim-at-on-prem-hpc/amp/",
-      "publishedDateTime": "2021-07-26T07:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
-      "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
-      "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
-      "originalUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
-      "publishedDateTime": "2021-07-26T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-analytics-insight-announces-top-robotics-companies-at-the-forefront-of-innovation-in-2021.md",
-      "title": "Analytics Insight Announces ‘Top Robotics Companies at the Forefront of Innovation’ in 2021",
-      "excerpt": "Analytics Insight has announced ′ Top Robotics Companies at the Forefront of Innovation in 2021 ’ in its July magazine issue. The issue recognizes ten trailblazing robotics companies leveraging disruptive technologies to transform different industries from healthcare and manufacturing to defence and education.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-robotics-4e6269bed50947458afeb281809f30a4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-great-attains-aws-advanced-consulting-partner-accreditation.md",
-      "title": "GREAT Attains AWS Advanced Consulting Partner Accreditation",
-      "excerpt": "GREAT, a leading independent AWS-focused cloud services company, has been recognized by Amazon Web Services (AWS) for its depth of capability and client satisfaction by being promoted to Advanced Consulting Partner in the AWS Partner Network (APN).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-great-attains-aws-advanced-consulting-partner-accreditation-/2021/07/26/9416632.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
-      "title": "How Will Robots Impact Warehouse Design?",
-      "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60febb9b3be04e96ec8ea197%2F0x0.jpg",
-          "width": 958,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2021/07/26/how-will-robots-impact-warehouse-design/amp/",
-      "publishedDateTime": "2021-07-26T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
-      "title": "Mac Face ID prediction suggests patience will be required",
-      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
-          "width": 1440,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "publishedDateTime": "2021-07-26T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
-      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
-      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
-      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
-      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-700,height-525/Tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

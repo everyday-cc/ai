@@ -2,6 +2,401 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-28-brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app.md",
+      "title": "Brain Technologies raises $50M+ for the launch of Natural, a natural language search engine and ‘super app’",
+      "excerpt": "Voice-based and other personal assistant apps — which use natural language and hefty AI engines in the backend to source information to address your various questions, do your e-commerce bidding, or control one electronic device or another in your home — have been around for years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/nat_screen_2.png?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/amp/",
+      "publishedDateTime": "2021-07-28T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-osmos-emerges-from-stealth-to-unify-enterprise-data.md",
+      "title": "Osmos emerges from stealth to unify enterprise data",
+      "excerpt": "Osmos, a startup developing a platform for enterprise data transformation, has emerged from stealth with $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/",
+      "originalUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/06/pinpoint-big-data.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/28/osmos-emerges-from-stealth-to-unify-enterprise-data/amp/",
+      "publishedDateTime": "2021-07-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-ai-in-computer-vision-market-trends-and-forecast-2028.md",
+      "title": "AI in Computer Vision Market Trends and Forecast 2028",
+      "excerpt": "The Global AI in Computer Vision Market is estimated to value over USD 72.5 billion by 2028 finish at a CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-renesas-and-syntiant-develop-voice-controlled-multimodal-ai-solution-combining-advanced-vision-and-voice-technologies.md",
+      "title": "Renesas and Syntiant Develop Voice-Controlled Multimodal AI Solution Combining Advanced Vision and Voice Technologies",
+      "excerpt": "Renesas and Syntiant Corp. announced the joint development of a voice-controlled multimodal AI solution for vision AI-based IoT and edge systems",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210728005284/en/Renesas-and-Syntiant-Develop-Voice-Controlled-Multimodal-AI-Solution-Combining-Advanced-Vision-and-Voice-Technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches.md",
+      "title": "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches",
+      "excerpt": "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
+      "publishedDateTime": "2021-07-28T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-how-to-build-a-perfect-ai-team.md",
+      "title": "How To Build A Perfect AI Team",
+      "excerpt": "From e-commerce and healthcare to travel and finance, AI has made its way to just about every type of industry. In fact, the adoption rate of AI has increased by more than 270%, according to Gartner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61000ac31db10658736bb6eb%2F0x0.jpg%3FcropX1%3D150%26cropX2%3D2910%26cropY1%3D0%26cropY2%3D1552",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
+      "publishedDateTime": "2021-07-28T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-fitness-startup-insane-ai-raises-873000-in-seed-round-led-by-pi-ventures.md",
+      "title": "Fitness Startup Insane AI Raises $873,000 In Seed Round Led By pi Ventures",
+      "excerpt": "The company plans to utilize the current round to invest in product development and innovation, strengthen its tech team and accelerate growth in the international market",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/378615",
+      "originalUrl": "https://www.entrepreneur.com/article/378615",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1627470253-L-RSourabhAgrawalJayeshHannurkarandAnuragMundhadav1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/378615",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378615",
+      "publishedDateTime": "2021-07-28T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-the-entertainment-industry-must-lead-the-green-ai-revolution.md",
+      "title": "The Entertainment Industry Must Lead The Green AI Revolution",
+      "excerpt": "Ricky Ray Butler is CEO of BEN, an entertainment AI company that places brands into influencer, streaming, TV, music and film content. As everything in our lives — including entertainment — turns digital,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61003126fd51ef8bdbc13220%2F0x0.jpg",
+          "width": 1200,
+          "height": 813,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/07/28/the-entertainment-industry-must-lead-the-green-ai-revolution/amp/",
+      "publishedDateTime": "2021-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-design-for-responsible-ai-with-microsofts-hax.md",
       "title": "Design for responsible AI with Microsoft’s HAX",
       "excerpt": "At the heart of HAX is a set of guidelines built from 18 best practices that you can use to guide interactions between users and your systems. They’re presente",
@@ -773,388 +1168,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-botkeeper-partners-with-vicai-to-evolve-accounting-automation.md",
-      "title": "Botkeeper Partners with Vic.ai to Evolve Accounting Automation",
-      "excerpt": "Integrating Vic.ai into the Botkeeper Operating System provides accountants with enhanced autonomous invoice processing and real-time insights. The combination of Botkeeper and Vic.ai will bring the largest source of data together in a progressively smarter platform,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/botkeeper-partners-with-vic-ai-to-evolve-accounting-automation-1030652345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1581808/Vic_Ai__type__Color.jpg",
-          "width": 400,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box.md",
-      "title": "Qualcomm Stakes Beachhead In Artificial Intelligence With Foxconn Gloria AI Edge Box",
-      "excerpt": "Powered by Qualcomm’s Cloud AI 100 solution, the system is design to support up to 24 high-definition cameras for video analytics applications like traffic analysis, security monitoring and smart retail spaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6100677707201bbe17a32370%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/07/27/qualcomm-stakes-beachhead-in-artificial-intelligence-with-foxconn-gloria-ai-edge-box/amp/",
-      "publishedDateTime": "2021-07-27T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
-      "title": "Maine’s Facial Recognition Law Shows Bipartisan Support for Protecting Privacy",
-      "excerpt": "Now it's up to Congress to pass legislation that will protect all people in the United States from invasive surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "originalUrl": "https://www.aclu.org/news/privacy-technology/maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/news/images/share/default_fb_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-semiconductor-chips-small-tech-big-impact.md",
-      "title": "Semiconductor Chips: Small Tech, Big Impact",
-      "excerpt": "Other than a cellphone or computer, it might have been difficult to believe before that something as small as a computer chip figures so prominently in our everyday lives. Or how the lack thereof could bring entire industries to a virtual standstill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
-      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61005af0c8732a73ff6bb6eb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D440%26cropY1%3D58%26cropY2%3D306",
-          "width": 440,
-          "height": 248,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
-      "publishedDateTime": "2021-07-27T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-facebooks-new-privacy-changes-for-instagrams-teen-users-met-with-both-praise-scrutiny.md",
-      "title": "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny",
-      "excerpt": "Facing an onslaught of ongoing criticism, Facebook said that it's taking several steps to make Instagram safer and private for teens.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/4-facebook.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp",
-      "publishedDateTime": "2021-07-27T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
-      "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
-      "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
-      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
-      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hollywoodsoapbox.com",
-        "domain": "hollywoodsoapbox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
-      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
-      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "publishedDateTime": "2021-07-27T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

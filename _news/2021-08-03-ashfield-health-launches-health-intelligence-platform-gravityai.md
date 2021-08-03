@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Embodied AI, superintelligence and the master algorithm"
+    excerpt: "In the next year and a half, we’re going to see increasing adoption of technologies which will trigger a broader industry shift, much as Tesla triggered the transition to EVs."
+    publishedDateTime: 2021-08-03T19:47:00Z
+    webUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1326099437.jpg?w=600"
+        width: 600
+        height: 400
+        isCached: true
   - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
     excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."
     publishedDateTime: 2021-08-03T09:32:00Z

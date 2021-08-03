@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
+      "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
+      "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-17871d68d8fa4c54bb408e0e613abfdd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-aws-computer-vision-getting-started-with-gluoncv.md",
+      "title": "AWS Computer Vision: Getting Started with GluonCV",
+      "excerpt": "This course covers AWS services and frameworks including Amazon Rekognition, Amazon SageMaker, Amazon SageMaker GroundTruth, and Amazon SageMaker Neo, AWS Deep Learning AMIs via Amazon EC2 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
+      "originalUrl": "https://www.usnews.com/education/skillbuilder/aws-computer-vision:-getting-started-with-gluoncv-0_YQnnzljYEemyFQpXjI_3ng",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-artificial-intelligence-in-accounting-market.md",
+      "title": "Artificial Intelligence in Accounting Market",
+      "excerpt": "This Report provides a 360-degree synopsis of the competitive scenario of artificial intelligence in accounting industry. It has enormous awareness joined to the ongoing item and technical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U719996303_g.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
+      "publishedDateTime": "2021-07-19T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
       "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
       "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
@@ -1245,138 +1375,6 @@
         "AI",
         "AWS AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-1strategy-achieves-aws-security-competency-status.md",
-      "title": "1Strategy Achieves AWS Security Competency Status",
-      "excerpt": "Validates experience and expertise in delivering secure solutions 1Strategy, a TEKsystems Global Services Company and Amazon Web Services (AWS) Premier Consulting",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ibms-codeflare-automates-ai-model-development.md",
-      "title": "IBM’s CodeFlare automates AI model development",
-      "excerpt": "Google, Microsoft, and Hybernet Labs offer comparable services in Cloud AI Platform Pipelines, Azure Machine Learning pipelines, and Galileo, respectively. But IBM asserts CodeFlare was built from ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
-      "originalUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-3-e1616161936977.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/ibms-codeflare-automates-ai-model-development/amp/",
-      "publishedDateTime": "2021-07-07T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-artificial-intelligence-in-accounting.md",
-      "title": "Artificial Intelligence in Accounting",
-      "excerpt": "The report on the Global Artificial Intelligence in Accounting Market Research Report Covers, Future Trends, Size, Share, Past, Present Data and Deep Analysis, And Forecast, 2021-2027 market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2323131/global-artificial-intelligence-in-accounting-market-future",
-      "originalUrl": "https://www.openpr.com/news/2323131/global-artificial-intelligence-in-accounting-market-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2323131/global-artificial-intelligence-in-accounting-market-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2323131/global-artificial-intelligence-in-accounting-market-future",
-      "publishedDateTime": "2021-07-07T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

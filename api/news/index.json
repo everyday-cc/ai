@@ -2,6 +2,216 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
+      "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
+      "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/29/esp-diagram-1260x447.png",
+          "width": 1260,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:57:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code.md",
+      "title": "Upgrade your Amazon Polly voices to neural with one line of code",
+      "excerpt": "In 2019, Amazon Polly launched neural text-to-speech (NTTS) voices in US English and UK English. Neural voices use machine learning and provide a richer, more lifelike speech quality. Since the initial launch of NTTS, Amazon Polly has extended its neural offering by adding new voices in US Spanish, Brazilian",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/upgrade-your-amazon-polly-voices-to-neural-with-one-line-of-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T12:06:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps.md",
+      "title": "Extend Amazon SageMaker Pipelines to include custom steps using callback steps",
+      "excerpt": "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can extend your pipelines",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/30/ML-4059-image001-805x630.png",
+          "width": 805,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:44:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud.md",
+      "title": "Enhancing customer service experiences using Conversational AI: Power your contact center with Amazon Lex and Genesys Cloud",
+      "excerpt": "Customers expect personalized contact center experiences. They want easy access to customer support and quick resolution of their issues. Delighting callers with a quick and easy interaction remains central to the customer experience (CX) strategy for support organizations. Enterprises often deploy omni-channel",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/02/lex-genesys-1.gif",
+          "width": 800,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T11:32:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more.md",
       "title": "Robo Olympians? Olympics schedule packed with bots, AI, VR and more",
       "excerpt": "Aside from premier athletic competition, the quadrennial event is also showcasing a number of cutting-edge technologies, carrying on a tradition of Olympic innovation.",
@@ -96,6 +306,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
+      "title": "Facebook to use AI to analyze encrypted content - report",
+      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
+      "sourceUrl": null,
+      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
+      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
+      "publishedDateTime": "2021-08-03T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "teletrader.com",
+        "domain": "teletrader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-global-artificial-intelligence-ai-robots-market-to-reach-214-billion-by-2026.md",
       "title": "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026",
       "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report",
@@ -104,7 +357,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -147,7 +400,7 @@
       "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -493,6 +746,57 @@
         "AI",
         "AI in Education",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-how-ai-inspires-human-versatility-at-work.md",
+      "title": "How AI Inspires Human Versatility At Work",
+      "excerpt": "Below are four fundamentals that acknowledge both AI’s limitations and how it pushes humans to be more versatile at work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f8e32ee0245e4f194ad4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "publishedDateTime": "2021-08-03T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -952,290 +1256,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
-      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
-      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2021-08-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-police-trial-body-cameras-with-facial-recognition-technology-to-catch-suspects.md",
-      "title": "Police trial body cameras with facial recognition technology to catch suspects",
-      "excerpt": "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "publishedDateTime": "2021-08-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-driven-hr-seeks-to-balance-human-and-resources.md",
-      "title": "AI-driven HR seeks to balance ‘human’ and ‘resources’",
-      "excerpt": "Human resources is an area that is ripe for automation, and in particular, the kind of automation made possible by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1171132289.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "publishedDateTime": "2021-08-02T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-pixel-6-preview-heres-what-googles-first-smartphone-chip-can-do.md",
-      "title": "Pixel 6 Preview: Here's What Google's First Smartphone Chip Can Do",
-      "excerpt": "Now with five smartphones of its own in the books, Google is gearing up for some major changes that could propel the Pixel lineup to mainstream success. Ahead of the Pixel 6's official launch later this fall— yes,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "originalUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2522a86d58c3a3f2674b60fc4a06646a.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "publishedDateTime": "2021-08-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020.md",
-      "title": "Chinese weightlifter Li dominates women's +87kg division at Tokyo 2020",
-      "excerpt": "Li Wenwen of China celebrates during the awarding ceremony for the Weightlifting Women's +87kg Final at Tokyo 2020 Olympic Games in Tokyo, Japan on Aug. 2, 2021. (Xinhua/Yang Lei) China's Li Wenwen shows her supremacy in the women's weightlifting +87kg division and sets three new Olympic records at Tokyo 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://lileicc.github.io/",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020/ar-AAMQvND",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T08:07:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "github.io/",
-        "domain": "github.io/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
-      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
-      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "publishedDateTime": "2021-08-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
