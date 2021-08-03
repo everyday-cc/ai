@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "niramaianalytix"
   url: "https://twitter.com/niramaianalytix"
-  followers: 920
+  followers: 919
 
 locations:
   - Rich Jerk Headquarters, USA
