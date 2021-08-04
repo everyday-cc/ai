@@ -40,15 +40,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "I’m sorry Dave I’m afraid I invented that: Australian court finds AI systems can be recognised under patent law"
-    excerpt: "Federal court judge says allowing artificial intelligence systems, as well as humans, to be inventors is ‘consistent with promoting innovation’"
-    publishedDateTime: 2021-07-30T07:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law?via=indexdotco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
   - title: "Op-Ed: AI legally recognized as a patent inventor -Emerging status as a legal, real person is now in view"
     excerpt: "Recognition of AI entity DABUS as an inventor is a gigantic, unsure, step into the legal status of artificial intelligence, and it’s a major future issue for the law."
     publishedDateTime: 2021-08-02T01:50:00Z

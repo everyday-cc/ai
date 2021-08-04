@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/376438"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Entrepreneur
@@ -28,24 +28,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence"
-    excerpt: "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews."
-    publishedDateTime: 2021-07-30T09:00:00Z
-    webUrl: "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html"
-    ampWebUrl: "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 90
-    images:
-      - url: "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "iIdYD8g5Xe5O08bFSw9XhLfsF0N/HE9uA6SLW0GuTP7ddv9F88Givi3oCLjeZjPdX67jd7+ED7CCceLzctdn5Bb8btMmj79wYSGV/7rgsKZAydiIMNreN27hFjd3jNAA1Nlr/EFTIWfjQ4EQaCvagv9hlfuLYiZr95FpnzrzRw+NpaO1LVqjgAfK+IcdlIym7adFSqVavS1k4IsU89qwIKS3h/xgXaCRxGGtIiDeP8700XRYZzQZe6+WFXQR5unaKE08i458wYyuzHP4zttg/l5oXDMDVPthN+FylBh75AWPFflj/S/+hZ2W5amg4En7665GlZF6UoS4ZpuRd4T63dklEgzEyx0JH+R/e+Oz/Tsq4VfXNlQSZNmqXdhfLrCWsvngOEQ15hEaAvXdDboyxEe4qLW0bpwqL9Cpigl/1iOEXoxoLaySs5P93igU4OBhogEWNVU/Wgvcv0lDNi9T0Nd2/M1h2ySwava5N8OHMBk5D3eCJU4WFSJN9lgthh/nbyeeq3FYYmkKuLI/DPNGqA==;vhSdFtgG9FtiCRiykGNQQw=="
 ---

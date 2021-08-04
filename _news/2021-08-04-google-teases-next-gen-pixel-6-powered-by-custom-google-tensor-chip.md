@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip"
-excerpt: "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets."
-publishedDateTime: 2021-08-03T08:35:00Z
-originalUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/"
-webUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/"
-ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
-cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
+title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
+excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."
+publishedDateTime: 2021-08-04T00:09:00Z
+originalUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
+webUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
 type: article
-quality: 104
-heat: 294
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: New Atlas
-  domain: newatlas.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg"
-    width: 1200
-    height: 800
-    isCached: true
-
 related:
+  - title: "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip"
+    excerpt: "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets."
+    publishedDateTime: 2021-08-03T08:35:00Z
+    webUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/"
+    ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 104
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Pixel 6 to Use Google's Own Chip: Meet Tensor, a Processor Focused on AI"
     excerpt: "Expect the new chip to power some features exclusive to Google’s next-generation Pixel phones, including voice commands, translation, and dictation."
     publishedDateTime: 2021-08-02T17:06:00Z
@@ -300,16 +304,7 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
-    excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."
-    publishedDateTime: 2021-08-04T00:09:00Z
-    webUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
-secured: "81WQvchBVpBiCeE9YhNFjNlpiewZYd4oObbqppZDQH7GqrlpNHi35dkFZvFK32vbFGM2dAjsaNwVdKdn7bJKlQO6Z+Hs+QeCKcqF8/gJaoZYB/0WCcwhE7lzwQq50kueeykjDkVVBrbBrJrzNWHyJkg+bZ6Z5TTBLniq7SpEP8bqBE1rHCdl3rHjMj0KBLr2rnS9fm3Up1JSIhcBiRpSrwThtfVlU22v0aWt7V6jJy2ndG94fKiBXkURsOl7ix8G9jdimQJiTIrc/ajTt8rojvgj+Sm6ibEmJcMdlf3b7FaLqGBUYxjYbNgVtDo6ygspfs2PdwXfWO81Ca8HHh+uXmJyZ8uJX5Djpf7pFW7eon/LWNvXw61MxnTGzYByDRaM6qfPHkJiYQX1AMExiw8K5xKH6aPfuou0BzGRMSdsSM1NeoU5vU+CTGcgCp3nA9bq8Pn27Zxzwl7h+jGwhlcLulcC+Vg9lcv5JtKrajWwt+znj1gPOPXqKg0ba0SAcKuTIo2nzGmJtoWO0Iqcao0/vw==;JJGsuiO0GxVy/P2osIqMSw=="
+secured: "7h9BuxbmSX/nrO62HK5pZeL5Oyam4RMbClZDZbvHPvD3OYpLZalxQ/yyu8/3F5yHrcGvuB9wTMGMjYe+YueKekB5p9uwDLtK3DDuksMmW/brdz7TmsGTOqhJVFuSXXoVqXI+MjIG2nIPC0uhTBA3fL6dve8iftir64w1PWP6m5GouTKIQ4JOpQCG5G7tgnOUoFBc3j6w+r8HjWK5qStjF8Ko+ztDtmFN9xJozOd/nVrggCWlNi8sFPydc8Zmp6KfQc4itZlzf/4OGxoHLr+nyVtsY7SX0tJunLuS6zKMIuDKrQQTIaLQqjhle5PuNcKCOb2Hm2OxcKbmShFbcQpXrMh0iCslsKuppf4VUspD/qs=;4hGQ3dkC1OL4l8soJtuicw=="
 ---
 

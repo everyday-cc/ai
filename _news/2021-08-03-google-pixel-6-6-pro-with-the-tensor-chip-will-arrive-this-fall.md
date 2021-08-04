@@ -296,6 +296,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
+    excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."
+    publishedDateTime: 2021-08-04T00:09:00Z
+    webUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "iIpNEF9jAJcpGND8de70kjWpK/hYV82pH9N07fTPrPUFaUvieh0Oyedvch0e8Djb8R6DW/6FtG6KIbbMnTHdok2Y8sN/mwwOyx212BZXPAqfKnMtOlDoI4nJRGncY+ZusnnUbhHoDF3RTbGm0iRnnGqReXForRsawqcqDqNyu/doh3pe6CBd+bNYTtLsh+K5Tus2LGJVgrfRFEijOxuuSqL8etYCK0JsMKRVXu96JRrbZTXjUU+qlcxk24FYGiEvrvfGoEl/t599Uyw2kIrAQ4rm0BJ+uP5LiWLm2nVeQFMXBOFXe6g/Bqxmw5ZqXChlO/mpsQb2otBys+13gtmbRypXhTORCH7HAqWK5h8trsSNZltUWGhnE6qE/xYiM5cg4PIT9FCLesBosGOI6Low+CEE+canrKGCZUQjtx8tpd/A8GZ9PJCo5Hy/PKoME1eedeZWtSJfavmIgj65m1mmJKzBMoPocxBRF3iDMPBRzd78W08E+OZssejKarTf7gmAiHSayx3aOVYCy4mJwFYw+w==;gs5s2eUU57gUxNDnrz9R+g=="
 ---

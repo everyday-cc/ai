@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcareinfosecurity.com/nist-works-to-create-ai-ris
 webUrl: "https://www.healthcareinfosecurity.com/nist-works-to-create-ai-risk-management-framework-a-17193"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 860
     height: 520
     isCached: true
-
-related:
-  - title: "NIST starts work on artificial intelligence risk management framework"
-    excerpt: "The US NIST has made a Request for Information (RFI) call, as it commences the development of a risk management framework for artificial intelligence. Through the RFI, which appears in the Federal Register,"
-    publishedDateTime: 2021-07-30T09:02:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/erm-news/6511-nist-starts-work-on-artificial-intelligence-risk-management-framework"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 37
-    images:
-      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "VyNms58akfEJau8iheJt2EYAVj6KM0kDlB57vDezrhkMwEdFUkWXBwqgDZni/qvBrhFS7JkfV9uyWhUlKNiJgnwsMVZsllINu8vdDiswbzZZGgRuC7BmkK5p0oAIs769Ntxg/+WGOmGABj4watpwjPx5Sl5zJG3CwGJWKVydkJQ23ZFD4uKaTs/PIam2ipktZTa1s/kXD5vhxX54cYZ6aKcFzTRbS7FJ3sL6JbT0Y5+LDL6r4xZXT0zg1qdewMiST5qiiyc9p7iciKmUcA+qUtIl95oPEH/nYNKdGaPHXY91QDPgGFvVUBmphBJPjFjvUpyeO9fr/a3GPgOAVwUCVoKuJ6hfeILXGnP/p+Ro7ZFGdZ8h2L4Mkb5bVy7OlWZ2rgFAnIcga9MzbVm3qscGshrh0AGP67w3f7fhbu1kyFVWbm9UKIIVKx/ixsr11QFh0u7u32BgSJtrvEWg/D7OlGWOmhKUQi27WQUltPbjfNImISutnwfNvaZAOCPpRN9G3s6pYl4dbWKh1TmoZjD/Ug==;n8ySthHF6ys0+l3SHH2RoQ=="
 ---

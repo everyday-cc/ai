@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Pioneer turns to robot for crop development"
-    excerpt: "You can see a video of this field robot at work at the end of this story. When someone sees a dog in a crop field, they think nothing of it. But what if it was a robotic “dog” walking in a precise pattern up and down every row capturing detailed imagery of the crop?"
-    publishedDateTime: 2021-07-30T07:50:00Z
-    webUrl: "https://www.farmprogress.com/crops/pioneer-turns-robot-crop-development"
-    type: article
-    provider:
-      name: Markets
-      domain: farmprogress.com
-    quality: 39
-    images:
-      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/0726F-5615A-1540x800.jpg"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "fP5bKTJJk6HNGmRX/HLf0g0wPWFAj4VjhUUI1Zi7RsnIX9t8rKswe4GbeNyt2B1CLPnQZqjA3cp38bFabcUW9higT7gzWZXWAUEfGZc6VxIGPW1GalkUivIxHVbUvvHUExjxIX6eN5a73YX1qIKMhmYefpfNSxetM5DSDNVVoSUW6CIFAnnzGwEIFtKEH+3phDVxDqnE4Tb5bW5r4X2peG1fw19KvzqsrVZ9sKy84QxqM6T10SpXlBcgsFKTlz2T1OP60bDShfkgKkmtDZiXDqk9mRzYQxXNKOVhbariqcCv9vFrnoC+7ZJv4Pk7BpDsafmBVWl3yJEK4Wtkr/vusBfNOSs/f5jczuvcR20mU5JdEhh0mjlD5nem/mKMrKY1FEoIJxeuJL4pCFqKE4b9ArbcKYoS/3AsAuIb57qkWDCfaKu/uRp45fks6yhWBPWlhf9PTuSei/iiH/mnLNOZbhwVUzYqKQb6ialJkt/ScYOLFL1jAI3N8FkP7Voerr0Ef6YqXrPcgGeyigHT+POJBA==;4M6qMNVfqLnMBqpJzF1mTw=="
 ---

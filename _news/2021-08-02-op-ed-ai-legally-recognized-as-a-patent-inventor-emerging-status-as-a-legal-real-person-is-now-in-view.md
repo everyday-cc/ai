@@ -48,15 +48,6 @@ related:
         width: 648
         height: 365
         isCached: true
-  - title: "I’m sorry Dave I’m afraid I invented that: Australian court finds AI systems can be recognised under patent law"
-    excerpt: "Federal court judge says allowing artificial intelligence systems, as well as humans, to be inventors is ‘consistent with promoting innovation’"
-    publishedDateTime: 2021-07-30T07:47:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/jul/30/im-sorry-dave-im-afraid-i-invented-that-australian-court-finds-ai-systems-can-be-recognised-under-patent-law?via=indexdotco"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 0
 
 secured: "qlIcbFJYFroD8S+1VNi83d0OgbdAbIKsckSRgs5cb3SZ0Ky1NKU6DvbpY8w4zgaBqR4WpSvCGHUhLQ/cGpK6ShaKWlCVkYeKhgngOHKaiQUzPznyTHAZATEc1U/u/IrUCdbKU2JnSGIsud+r8E2BrW0b0wKACYz6/5jo1PtRNoKh9vEMLHRs8fKWlidKK45Wz0haOCk24siI/5HROvV5x5LD2FoX8ZEPfhc8jmbId7fRmVjm6TZZpcvpyME82vRjs2wnqDHa3UanIcrobKzpndSeMZXLh+DC4eaTzT1Zh69PwFYW4h8MPobvw8LrOvFUYaMmy00Oktxx6IpmuFu3bzKDKB8ZtFJqZBKbt0qVZYN4pgTN4GPq3MDayws7m5HRLISWKYlTESm9rUKfjI9lmjHzrLUZ0c4MpuH65oDynj7ViPEKOcEQHSguEJI7bGRQ2FvwTxeQZc1KLR2u/dVIh/6Ko0blzwySeG6mij3AT7F+LoNGqT58SHoJoSgHoqzT45NZZH9eM+SGSPc84O/wEQ==;VwIFetbHQPlgwRECZZZsCw=="
 ---

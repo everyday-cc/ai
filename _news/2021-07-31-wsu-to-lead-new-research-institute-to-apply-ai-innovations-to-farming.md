@@ -45,20 +45,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
-    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
-    publishedDateTime: 2021-07-30T13:34:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
-        width: 800
-        height: 1200
-        isCached: true
   - title: "WSU will lead effort to apply artificial intelligence to farming"
     excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
     publishedDateTime: 2021-08-01T03:55:00Z
