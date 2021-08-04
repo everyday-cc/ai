@@ -71,6 +71,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
+    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
+    publishedDateTime: 2021-08-03T21:59:00Z
+    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 24
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
+        width: 870
+        height: 485
+        isCached: true
 
 secured: "xUsH9dhbuXYfKzipWR/aX0IDNh2j+b6vUHq45w+oVwOA+sYfqzHs/ibkjSdfDdanO1isrqHQfoEHTFmpIeLxuLHDQPptdZuUR+B7QVanDncbQ8vtvMg9zM8yhUwQEtpgAF3+OANA0uFjK+yRg2SfwTAnNnwq7PBJrWVrdTAisKY3tobbacVe9iyTj+hrgnpmeh7uxtDIUo/x1DoTwoXIBfL2FdojLLvg1ou6+ScGkIBy4XssMDXs/yQa88Gjt7lxKBeL9tkx0AV3390vci80VFKgS20kl9svpLTviKGjeMOEAtIYyA0PCHD9mLWcdQ/xQCnzIWaJbVHO99U1olHEvEJ4K17uUtla4fbipYbWhKwuJLRGXdWSWXt5IFGhd+c19pqbNwTqbjsZ4ZaPgte+MY+LsBGyEsLGoeZbEr5Z/dym0vLHLvU3GTK+weMWdV+e4Hbd5o9F4igIHFw1GfIPOID2PakTG4Gqs7hJXMJhklrkFXPekmi/MBRbAfgs4WQ9qWZgvfz2f6jFz/FoxAJvrg==;+pblzGqFGNq5zpU55TyDhA=="
 ---

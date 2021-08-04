@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
-excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
-publishedDateTime: 2021-08-02T20:52:00Z
-originalUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
-webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
+title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
+excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
+publishedDateTime: 2021-08-03T21:59:00Z
+originalUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
+webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
 type: article
-quality: 49
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: AppleInsider
+  domain: appleinsider.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
-    width: 800
-    height: 600
+  - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
+    width: 870
+    height: 485
     isCached: true
 
 related:
@@ -72,21 +71,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
-    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
-    publishedDateTime: 2021-08-03T21:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
+  - title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
+    excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
+    publishedDateTime: 2021-08-02T20:52:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
+      name: Automotive News
+      domain: autonews.com
+    quality: 49
     images:
-      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
-        width: 870
-        height: 485
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
-secured: "V2UQMXNuPD7Bh8GEKJf2ESXiaUXaj0OKZ7rfQODK4iERaLkhsha6gzUta3DAY9rrXKHXyCNuLgZeUNHkbfjvD3OmQCyn4Addy1CnYfNKF7vZJvt0ww4BlZEklxZEtsGI9wKzNz/4vfHP2TaNHY6DBd7beeCerZPUcDpvtC4x7TyxoOEjSCqhNbI6LKH3gcmGuI9X6EOV5KOHUM2AwNYeFZfEPT8ou+o9dNu7BR3hha+JSzLgOEKz7ud8rDgtK4xermIHoVHDEqk5jKBKQfqhbLVajT7CnpUPukcAP1XM8B56gY87ZnNaCQj6O3XI4DAavJx8LNVCdmb3soTv1aznCaHVs8zd4AGply2Sa0ebSqASc3iuuJRaW5PAkLvOQS13sOj75yIFsSM0lqrEuHIwD5wsWDZuAE4JeZliTd3wcj0wtbwfPqOygeQ3vzZJT12zobroGzVV7Jhn5ypQiUf2WnmkK2373jtH0NRFr6F4U5Ln/ELycGYVVf9/Hi0KkxMshVjfLIr+IvyptR6nOK2E6g==;4AYozgeOGRL7nhlfe3yWeg=="
+secured: "QhZGwH38BUGjuiY3+rKb6ka0y3+kHEB8hykYTpyWLrOB01gkJr5/k4WHHlxCeDBe8TxVV75VWJyePmLohuOpN2srsR5ycLNoZOj/TgXm9cPKpBnaYCNNXkRgfse1QJPmgzWX2GFxykZb1HG7FmNEghXMSvXNlyAJ1msP14kAqr7Wh+7h0C4S8YQdejGtDrJteSrjVay7QIWbQ1uTeN6QRHZsfQcFFNGkn8bOgjh/VORIUjTUV0PkrlU/mjLnLlsEQipwxmo/Z0kKj2FCtpX+vfzsTO6uxZSPle3Xsf5ibg0WDsJnK0FTGhJeAOz2ETSjvRDt0RF34ZCByCyjLcQ3vUsJVjz2S0qRa9z2/6sfQAU=;2aMscn3A3qnzmyJX2lIWPQ=="
 ---
 

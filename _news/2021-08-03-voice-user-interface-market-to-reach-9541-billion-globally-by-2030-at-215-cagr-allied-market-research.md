@@ -39,6 +39,20 @@ related:
         width: 1536
         height: 804
         isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
+    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025. Discover Communications Equipment industry potential and make informed business decisions based on qualitative and quantitative evidence highlighted in Technavio reports."
+    publishedDateTime: 2021-08-03T23:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-grow-usd-7349-/2021/08/03/9423292.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "7uFzCD2vhLbKviv+ucgyKWbpIl9spHNlweJomCtC8pp6ewxwLio6OKfLGK5tTcJipcUuJX95lmIb4OdCBbam2N0jYRZcryibB4qPKFw5pJ08D4Jo9mJMBuuZ1K5TnTgqnvOB40sjL9/TblsPtbkA2Vz89zzEFmj3xFuFZtlNYlYPVlfOOnzD96+dS8JgUns18FGAUPoh7mpzXVqRWkAtn0T+wPoUJGwTdrTYM0XIbr6DRugqNsCna6Sv7I1xVmuAd7L1dKltuAmotzwDPlovNtSsLgEBF25RhggqUqGaTcl7DzTMoVUP2ZyZ80UzEPu4uV+FWyATYQFMwFhWO17NAbRlfB9z5voBiOQyzgQvt4ezfrOAvEwR1FNS1EWoJYpfrcYVEmh8ylwpcRP/2uIes0Jg5WC7P+zB0a/y+PSE+FCHInv3q/lCoOxT5VAtu16mLI66g0ck1xA+6OSRW/O1DiEFRZtWR+M1Ou+KR9vicfY0RBcHMk0MbgHW6AZm5UGL04OWUT+PTPL2CZDDMRtVjA==;t69keafON/qC+YQAIBpTqg=="
 ---

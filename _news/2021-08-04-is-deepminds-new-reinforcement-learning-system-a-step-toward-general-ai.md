@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learn
 ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
-quality: 103
-heat: 113
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 792
         isCached: true
 
-secured: "qgun6qn3IqtzcBw+D0SuLpnwmzuS8eI4awbot9Z073AmDH74m964pmNWiMraWhgjpevxz8EyOoEhFo6QvHpqTqpqxb5571GjkHIoer7OPfi3mC8/+vIE8cZed0BX2yErV+iDgcsKGxu3gqB+7DGJ6EpCRSWDs62bQ4H8f/o+pxi+mFlDDxvNoVnVOtBpbXu9Kbjhpofe93+0Aj26O7GKZvAUkeQZzr7wTwiZhvmZHb36WZJQ2OZXxfnabxElZl5T7rfJOlLppatfy4oV6JNSbb31zEjXNs6I5j6iZMXqYRgNdaCzLojmBH6Q1Y5p4J/MPOiGQVgVWEdH/T7E23dpatO+GscL4yNxonbw0m0MGJM=;qURbGdOXP7L5Z4SPRT0RkA=="
+secured: "gQlB+Yhwpdi1G2eI2nuFwxm4zY3e1p4RIbiOd1R6RQxE12zCaJHmvKeWQXXwiwaBxs0ER+ZU980sNqkk3Slx2miJWoANt2Oxy8KGbeO2rQCDvRjUMrnsl8y+dfr1Vf2qXQopBFpZptUlF/qo89h8Z8JVcc+hAs/ceTdAQSdJL/s2RWrpnutQfuPG0hxjYLvlnOGvSw5STlVBtFa7vCq/LdtS71FJewilsH0z3zrK6ImZfyhnsbMYjHlAqxMNCygO8UZWTm0kRsqbjqwraO92TFohA8zjCE+cOfdHsT5IxFf+5+wvEveRc5G459xbQuWtmnGCTNce5JIguidzKSzeIxECGkHiUl0lPHMeQSz03Evizc31uzkWwcT70we7V1HL9haPIynQXHyEx+BbWr2CYL0W5bNsBy/z3DYQYYYQ+EoriYAkHl3KWgZ1iFckIa60GcVTjZQGlKTi42yGqM9vmvRhwl/n6fWJEJvaqx52f4Rv3pCMdm7OrHjRqsu29RqN1GJcuCeJ8lHftGPMA7Wybg==;AG5tR493/M611nMFPBk0Uw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
+    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
+    publishedDateTime: 2021-08-03T21:59:00Z
+    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 24
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
+        width: 870
+        height: 485
         isCached: true
 
 secured: "IPphMqGdtBm8hbGYuOOz0kAfCrhGKKN01JuECH4xoaQ0BXvOEWi+5pl/5X6G1TFdY42ylTPmBYxoAoOnpx0H2gnhR576rinMXCLG/AKFueDWcm7e0btDf1RrqdMTJG05ZmU/eHECId8q/tAyQUN+Lr0SY/6381H7ys5bgI90FG0x23YpLzqM61KRIPKLy88oVkR9v4Rv5wpKfzO7KSxT1sOP4pwc06GYXPdyENqD5qdb/iv4kttzD41j5+NKbnyEYVNd0Yt1D/BRjhLqhHURxJh3UGMHo8WJSMO/fEfVUEJl+3XVsdZlHgjgYCzDTyJxiJ0x05ac0nRUYdCZRJ6UKaC/bgElYKxh2lDi5xM+Ok7x6YYFi++rYknpCZdJCLQrcJO5f8i5gyYHV1X6M3/Vd+xEENjVWllNjRdRJL8Msucj/s+z5s1BbuJbVq4ZS6MFKrVKj4Ll4dn+46RsvGvYDSGwd3BijnAgvT3YqKcyQaszjogXmQiw1R0OLIke9QNQxFlaTtzYSWGd0LDfLX1esA==;gQ8zWJTxDYMbpwG98C4yfw=="

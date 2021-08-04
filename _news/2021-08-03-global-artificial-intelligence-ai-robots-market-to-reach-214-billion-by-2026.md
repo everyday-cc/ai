@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelli
 webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
+    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025. Discover Communications Equipment industry potential and make informed business decisions based on qualitative and quantitative evidence highlighted in Technavio reports."
+    publishedDateTime: 2021-08-03T23:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-grow-usd-7349-/2021/08/03/9423292.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
     excerpt: "Allied Market Research published a report, titled, \" Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices,"
     publishedDateTime: 2021-08-03T16:14:00Z
