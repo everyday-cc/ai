@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: VentureBeat
@@ -24,21 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "Edtech Startup SP Robotic Works Raises $3 Mn From Mount Judi Growth Fund, Others"
-    excerpt: "SP Robotic Works has raised $3 Mn in Series A funding. With this round, the edtech startup has raised a total of $4 Mn in investment."
-    publishedDateTime: 2021-07-30T09:44:00Z
-    webUrl: "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/"
-    ampWebUrl: "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/"
+  - title: "Sales productivity startup Nectar.AI raises funding led by 3One4, others"
+    excerpt: "Nektar.AI, a SaaS-based B2B sales productivity startup, has raised $6 million (Rs 44.6 crore) in seed funding led by B Capital"
+    publishedDateTime: 2021-08-02T14:02:00Z
+    webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 69
+      name: VCCircle
+      domain: vccircle.com
+    quality: 53
     images:
-      - url: "https://inc42.com/wp-content/uploads/2021/07/Untitled-design-9.png"
-        width: 1200
-        height: 628
+      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
+        width: 810
+        height: 506
         isCached: true
 
 secured: "4yl0+AfXyGGNT1Me1C9ix7ajx73cluzWXthFzGgTapPpOHQ7GIqEnQrzutiN0Xc3rp5Xe2OntOd/USc1ecLz3kX+E7D+ttRt3mZJStf/Dn4Q9cLRnWWyDzb8uBGxxjYmzXiNArcVwaCkteHAu5i1zHG8295o/2Y49aZnzI1vUncySGECDNAp1Xc6cz2bdc4jxUCsFB2fY9M302HVn44z54D3o364roiVf8qULKMtoILAqKiYacyejgOImDRZuib4Pgr6uCvADgl75lywY0bizF5Bw1uGO2Ws/KfZBVnyaZAZRzqGC1H6vtctUUkzzcrsNRTSvOZcvEpp+o8e9yLb6C3rm30Vb0EruPswHTSHYz4=;/UsvN+XmjFEP0QTTUHOBBw=="

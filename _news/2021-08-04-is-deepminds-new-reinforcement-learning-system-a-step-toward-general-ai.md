@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
 quality: 105
-heat: 115
+heat: 117
 published: true
 
 provider:

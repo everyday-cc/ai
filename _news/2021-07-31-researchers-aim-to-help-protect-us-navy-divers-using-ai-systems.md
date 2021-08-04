@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-di
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 1920
         height: 1245
         isCached: true
-  - title: "New AI tool helps researchers predict the progress of Parkinson’s disease"
-    excerpt: "IBM researchers teamed up with the Michael J. Fox Foundation to use AI to help predict the progress of Parkinson’s disease. Michael J. Fox is an American actor who was in a number of iconic"
-    publishedDateTime: 2021-07-30T10:27:00Z
-    webUrl: "https://www.slashgear.com/new-ai-tool-helps-researchers-predict-the-progress-of-parkinsons-disease-30684654/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 46
 
 secured: "iydW2ZHjeoU8R6C61p/BLwMCaq4TMDb4mqbZ0WG1dOCx5SoXxNblZQ2s7c0VbVSklGxuU61tpAvnenJem8BC3WZ2936y0o0rvAwt+4oPUjp/9HtOaj6V+JOx7cWyrglMwKAypjQTN8RRYLRwz7g1e1L3wJ6wrd8ebJJ4coLB9vSWLGWoWUfiEoHRNxDy/+fH+3vcTvAIaEFz/RqvhnGV8P2qC9YtHWxsyMY9b796dflgt73hekJgW4+7o3ffqLD9IMiyo7cEX4QbTUH+1TH9numnPrzs7EyvRN7wn1ZRJGVKUw90whIfDSqhde39LDYIDzNplI488wjtmGLMXhSm/DGZEl+WUsDHgfJ3YmLHDnwCuzCIkWHnB9Iu89KOaUn8xfklmYmQdLNNoc2Tfjl3ZUPxVdB1FDXiNxkgL+/sSyTLwqtiTiEPlkSTvZmBH1HPyCdBX5AykUPd2EzRit67ecQYB4Nuj97Zy0P3ULuURuRvf+5j/BlMHbjdDjkgDrbTXa2189F55zIEl1KFa7kiRg==;drXgiTKGH41rx68P8pJ5Dw=="
 ---

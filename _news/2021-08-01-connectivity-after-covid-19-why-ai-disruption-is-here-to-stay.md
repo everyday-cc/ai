@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/esade/2021/08/01/connectivity-after-c
 webUrl: "https://www.forbes.com/sites/esade/2021/08/01/connectivity-after-covid-19-why-ai-disruption-is-here-to-stay/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,21 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "Hundreds of AI tools have been built to catch covid. None of them helped."
-    excerpt: "The AI community rushed to create predictive covid-19 tools. None of them were fit for clinical use. But covid could help make AI better."
-    publishedDateTime: 2021-07-30T10:34:00Z
-    webUrl: "https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/"
-    ampWebUrl: "https://www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/07/30/1030329/machine-learning-ai-failed-covid-hospital-diagnosis-pandemic/amp/"
+  - title: "Here’s why AI transforming banking matters more today"
+    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
+    publishedDateTime: 2021-08-03T15:38:00Z
+    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 56
+      name: TechHQ
+      domain: techhq.com
+    quality: 37
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/07/AP_20178810286930.jpg?w=2995"
-        width: 2995
-        height: 2000
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
+    excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
+    publishedDateTime: 2021-07-30T20:36:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1200577&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1579813/Alzheimers_Association_International_Conference_2021_Logo.jpg"
+        width: 400
+        height: 217
+        isCached: true
+  - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
+    excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
+    publishedDateTime: 2021-08-01T18:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1200925&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1579813/Alzheimers_Association_International_Conference_2021_Logo.jpg"
+        width: 400
+        height: 217
         isCached: true
 
 secured: "4NoQbC3MNOP2XLYb4NJeCOWVmkIHerNFSfN+k3lgj/K/lpqO7ilM2MauCUbcas4U3s93s3lua5xptJ2sevjqS3IpBFzLLaHgoS92V/+NvPP4lIUtMbcYvcZoNww26VsHlzH7pGsizHUYXzE0wPrtMSSo6x9JdXG4nHvaSSx7eO7QXDxwzo5orn1oVgXy5/bTFaUJHmbMFvjZGNIUnpp4uKGifzZIhRdfP8MDxcXJqiVBOlnqsJSqVOoN5JIxM+WXl91iEKIxLD5a1R3UfBZ0/CrKwoZ67znVW9hIHaFpTtUl14eJZ8FoyH1BArtRGz6eaG1PXi7gVeag59Bd0K8/mp/qN/NZ4Yyq3IujPm3X19pshp/jLdEB3KRAZpqNFp1bxWeHsEUijgnQMR4VGdFxveUnxheHGO5ZkFbkrqpVWJ+r5YAMxzJy+bn0k8tW0D8QyeG/xGpiJXjgYFnYAJ6eWr+kVKrWCzYP8sDMd/JiwlDXRx4xYv++LY4Gi+v/JR5RQOBlxLceWsUZ1/mQUJm55w==;9OFICDLcDw/qnHmjSCod6Q=="

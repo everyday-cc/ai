@@ -25,6 +25,29 @@ images:
     isCached: true
 
 related:
+  - title: "Connectivity After Covid-19: Why AI Disruption Is Here To Stay"
+    excerpt: "Covid-19 redefined connectivity and immersed us in an accelerated process of digitalization. We may ask ourselves if this process will be reversed or if it has put organizations on the path to an increasingly digital society."
+    publishedDateTime: 2021-08-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/esade/2021/08/01/connectivity-after-covid-19-why-ai-disruption-is-here-to-stay/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Here’s why AI transforming banking matters more today"
+    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
+    publishedDateTime: 2021-08-03T15:38:00Z
+    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 37
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
     excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
     publishedDateTime: 2021-07-30T20:36:00Z

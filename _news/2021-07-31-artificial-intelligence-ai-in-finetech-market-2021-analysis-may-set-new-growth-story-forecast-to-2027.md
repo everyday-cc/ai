@@ -21,47 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-30T09:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30"
+  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
+    publishedDateTime: 2021-08-03T15:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 64
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
+        width: 1536
+        height: 804
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Playing Significant Growth during 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning,"
-    publishedDateTime: 2021-07-31T17:47:00Z
-    webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-playing-significant-growth-during-r4841322.htm"
+  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
+    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025. Discover Communications Equipment industry potential and make informed business decisions based on qualitative and quantitative evidence highlighted in Technavio reports."
+    publishedDateTime: 2021-08-03T23:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-grow-usd-7349-/2021/08/03/9423292.htm"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 47
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 64
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
-    excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
-    publishedDateTime: 2021-08-02T17:28:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-in-manufacturing-market-2021-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
-        width: 800
-        height: 444
+      - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "nmqQIm2lL3885BpjSGX9O0ObIHtnXQvwt/Yf2ZGyA8IITYB3VoG/YTz4vbBLPo8e8lCIwWe/BNRuQoqRiWveLCjtfoT5Kd/D0LsYX/3E/d+bQNEU2369QU6RwigSizy1d+NKi852oPIP0s9/XWevK4GXQtFbcgZjgKHqVP4NWtNgLN2fm2ApVwbKfJLd4CwxgaFr4ah6fj1e2bpynXZnlNovnFxDwJfaV/erh5Ka1Nb940exnoINn8Hs2M1PkZ6jFGXjR8MGcgd7HdRkZxg3y+XxKzPljVyFQU4M+khfQxM+3vfHrTbs/4KqbNBgBf191pG6fMmTYWuAuHgk7ErqLfD7EdGVqkGLhY31134wnJg=;0UorlH+CzjRkzgSfEMmEBw=="

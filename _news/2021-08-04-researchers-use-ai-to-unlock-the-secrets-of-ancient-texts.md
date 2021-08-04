@@ -54,15 +54,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "New AI tool helps researchers predict the progress of Parkinson’s disease"
-    excerpt: "IBM researchers teamed up with the Michael J. Fox Foundation to use AI to help predict the progress of Parkinson’s disease. Michael J. Fox is an American actor who was in a number of iconic"
-    publishedDateTime: 2021-07-30T10:27:00Z
-    webUrl: "https://www.slashgear.com/new-ai-tool-helps-researchers-predict-the-progress-of-parkinsons-disease-30684654/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 46
 
 secured: "ka2eIyTot6xtpXbyFcb4zP9UqRTzff2dYcnp968WOBosimmzRblJzE+K+5Xp7Ub6FoOWxFR+FJkgxG4/mpnQTiWNaUfF3R+rnNTiTs1AtXCH6ymJqXkduZ7Dhz9JEHextBZPdglTWs2DvqeKxirfgZK9L6+A7SXFwa4IHC6xKHwaAykzeeL+w7CnMatlyhIISDYkgm1JfLDRF1fv2AEiHNygdt1aJbjF84IbRXpoCkYYHNylCrlBe5GoN4Xd13vuqDy7U5MQR+1OocGeS5av0QqQpUKqe+OJM0KLj/m6GSCvjB3JXbCTATXKMqdtfS6zjRLH/eBoc3/isIcOaobt8MZ1a1+ZPTTmDPHJ7AlvXc7GSdO1VzJYkNOYb/L852pqZ/9wgd7EyPGg6l+FdzBo6a02D1dFqHXRKb0M7zvWaBkzTeX8qN7hrPDLqXhdAVcLWV5PiBenneMjuNoVl+/w2k4aZstg2ICVIJVp9q6fpasBdDM2YJ+ASfxKIjFOVBba2xB5HN3SVeo2ojMwt/MjtA==;5c9JehFPhZd0UOeVqt3xtg=="
 ---

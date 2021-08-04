@@ -39,6 +39,17 @@ related:
         width: 1536
         height: 804
         isCached: true
+  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
+    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
+    publishedDateTime: 2021-07-31T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
 
 secured: "HOq085OppOrs8LcaaZKvoaB3xZUBB3M0XjT5vp/2Qe1MU6yyQhncsCenGkL4q6bB6SWNQJ+xJHn2ePTSk+W4fIw1JIjKanR3zbhbJ/866sefshAUqxH4RU5Af8TXyfjaxCQF+KVcqpD3hO7Z30FyHFALkBZgfm0VRkxL6R2EbaiRZXE9FPpEKFwbjHWY57xiNjoBZnPnkJ25xX2ihs5byInKlrFYVG9fxWNYIZVRXiBTzddtoX+5S3Bq6+uu+5X1kkU9F3gMwMnKH858PL6i72ebolpEkaCCthXNmBxMhZyNamb/m8fyIrGLTP4/1vPleNImUDnu7WkvZroH5esOTSuWe8rlnECu7mj3r+sS+LU=;PptapYfZvAKjgMHySjYpzA=="
 ---

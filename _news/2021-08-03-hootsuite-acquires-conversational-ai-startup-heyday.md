@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuit
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
 type: article
 quality: 87
-heat: 147
+heat: 148
 published: true
 
 provider:

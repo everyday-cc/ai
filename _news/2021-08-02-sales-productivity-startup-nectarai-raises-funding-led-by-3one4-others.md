@@ -7,8 +7,8 @@ originalUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-rais
 webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: VCCircle
@@ -25,34 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Indian sales productivity startup Nektar.ai closes $8.1m seed round led by B Capital, others"
-    excerpt: "The company plans to use the funds to accelerate product development and hire talent for its core teams across product, engineering, and GTM."
-    publishedDateTime: 2021-08-02T23:15:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/nektar-ai-seed-round-253755/"
+  - title: "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million"
+    excerpt: "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,"
+    publishedDateTime: 2021-08-03T16:25:00Z
+    webUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/"
+    ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
     type: article
     provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 43
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/03/indian-rupee-1-reu-e1521781642703.jpg"
-        width: 979
-        height: 543
-        isCached: true
-  - title: "Nektar.ai Closes US$8.1M Seed Funding Round"
-    excerpt: "Nektar.ai, a Bengaluru, India and Singapore-based sales productivity startup, raised US$8.1M in seed funding. The round was led by B Capital Group, 3One4 Capital, and Nexus Venture Partners with participation from Amit Midha,"
-    publishedDateTime: 2021-08-02T14:40:00Z
-    webUrl: "https://www.finsmes.com/2021/08/nektar-ai-closes-us8-1m-seed-funding-round.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/L-R-Aravind-and-Abhijeet-scaled.jpg"
-        width: 2560
-        height: 1887
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
 
 secured: "/X4+aIXQoMjV2MxReIvCuuRvofncPyLAkGUo16uD481gQkP3Re+h/uuRobJis8BFUDxldB8o3V3htlyeC0pfVEbo/kJE71WdwkQUe2+ivElFv8ihjiFmD6xD3TFjOKeNI+ya6oc9ejy1MPAlS2d+8GX7Hjz1t/7lcWhEG/SPugErh+eQLz2QJ1Gi9i4oaN94kiOAV3h5oC39XOWDZvosSujTV5VnSrmu4D0vngodpNQ+hU+3ywwS9kOwsV1kWDFpQC5BrYOgl42zHV02f1FL08VintT0z62r//W4eZcUVeFkn1VeU9XNYwllYPCTGwFr9t8FUGe53s5bI6iQqCZgXf8OUFAboXCf6dxu/eOJkj8jSIRk0L8PPcogf8wmUV60zi4+TXsodcOKwCiEefxD8GBWmKr2FPhj4w5s63p7C3PzvLR+MBZ6s0sDrbLvujvcfjQpmlwoN+/7Y1Awbs9QoV0ZLWjDpiNUCLq7LIZoHP3Daj4RjxEZL1w2I2TZ1DMV009hHyVH7cZ5sEQbhl4BFA==;1eKkivnh4IBJJ7TZM0L9qQ=="
 ---

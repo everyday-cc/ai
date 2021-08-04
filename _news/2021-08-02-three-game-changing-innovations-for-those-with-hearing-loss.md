@@ -9,7 +9,7 @@ ampWebUrl: "https://feeds.aarp.org/health/conditions-treatments/info-2021/hearin
 cdnAmpWebUrl: "https://feeds-aarp-org.cdn.ampproject.org/c/s/feeds.aarp.org/health/conditions-treatments/info-2021/hearing-innovations.html?_amp=true"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,95 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "AI Innovations In Mining"
+    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
+    publishedDateTime: 2021-07-31T22:07:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
+    excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
+    publishedDateTime: 2021-08-02T14:25:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/artificial-intelligence-machine-learning-film"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 45
+    images:
+      - url: "https://www.automation.com/getmedia/38598196-fdf2-480b-b9a6-ab388bd2b7af/Tom-and-jacob-feature-aug-2-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "Global Artificial Intelligence in Livestock Farming Market"
+    excerpt: "According to a new market research report published by Global Market Estimates, the Global Artificial Intelligence"
+    publishedDateTime: 2021-07-30T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/07/g22249357/global-artificial-intelligence-in-livestock-farming-market"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22249357"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22249357"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "Two IU Schools Join National AI Initiatives"
+    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
+    publishedDateTime: 2021-07-30T21:39:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
+  - title: "UC Berkeley collaborates in launching of national AI optimization institute"
+    excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
+    publishedDateTime: 2021-08-03T03:38:00Z
+    webUrl: "https://www.dailycal.org/2021/08/02/uc-berkeley-collaborates-in-launching-of-national-ai-optimization-institute/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/08/AI_Sujin-Soman_cc.jpg?ssl=1"
+        width: 1800
+        height: 1160
+        isCached: true
+  - title: "Aerospace Artificial Intelligence Market Growth Focusing on Trends & Innovations During the Period Until 2028"
+    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43."
+    publishedDateTime: 2021-08-02T10:35:00Z
+    webUrl: "https://manometcurrent.com/aerospace-artificial-intelligence-market-growth-focusing-on-trends-innovations-during-the-period-until-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 18
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "tbveE7Sg+zVs9BLLqMHdBIgeRoll7SdCbdSGoFewqZethFfE7putXruY4R+EYNyJ0NdfC6eWcIXfox2EjctQqXpT58trf8lEdc5INHbjN1FvJBKSepVa8WZs0dUQTJr/DIt5o1B5C7cfjgy7rrxtKBqaYw877CivO8cDOgrQdxo56ApnTIqz/tnaemlKNXRK3lRK7SDwlCXrubNBQ2LuKUAY4Hl1AUX1IKzCIXAJLfbm2jqZvLUZxZuNEjvU9N8vBVYLO1JFRn2pAwkMrHKW5OmKNoxpZTVrbih8Fc2dMyJdAzk/1H7pj9xRg6Ers9DF9lJDk1ts6ZWbvzQ3QF24x1vVxnPty14xFXyrBNDECqj7V1LyU0w9OtwqlXzaQ7mBiqz0xiI2FOQPWb2lAILmUVzx9FXJSxAFa3luH9oDSv42k0DPnqVldCfv4lrDo7l1guWLobSq/oLr6cq9ocXu00KOV0cU/Rh7g+N56TvF3LymLfW3al4Q40JwCLoOmhHF27Mm9U+cWePEzgxsAVpXMA==;GAKGb51wkVggtLzYaCfoUA=="
 ---

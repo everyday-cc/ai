@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "The Most Popular AI Start-ups of India that One should Know about"
-    excerpt: "The use of AI is growing in India more than ever and the Indian startups are receiving millions of funds for their Artificial intelligence solutions. Here are the most popular AI start-ups of India that one should know about."
-    publishedDateTime: 2021-07-30T09:08:00Z
-    webUrl: "https://www.analyticsinsight.net/the-most-popular-ai-start-ups-of-india-that-one-should-know-about/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/AI-Startups-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "NVIDIA Looks to Lower AI Barrier to Entry"
     excerpt: "The Base Command Platform aims to reduce the cost of training AI models and lowers risks for organizations when prototyping models."
     publishedDateTime: 2021-08-03T15:45:00Z

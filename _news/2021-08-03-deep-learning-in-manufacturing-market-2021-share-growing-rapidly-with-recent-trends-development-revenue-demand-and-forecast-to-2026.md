@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2027"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-07-30T09:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2027-2021-07-30"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)"
+    publishedDateTime: 2021-07-30T21:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -53,17 +53,20 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
-    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
-    publishedDateTime: 2021-07-31T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+  - title: "Pentagon races to keep pace with China in technologies like computers and artificial intelligence (AI)"
+    excerpt: "Beijing already talks about using AI for surveillance to cyber attacks, and autonomous weapons, and intends to be globally dominant in AI by 2030."
+    publishedDateTime: 2021-08-03T06:35:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14207891/artificial-intelligence-ai-china-computers"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: Military
+      domain: militaryaerospace.com
+    quality: 36
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/08/AI_3_Aug_2021.61083c5b7e4c7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4ooHQXPyoGf5Bl5CWo6t0otjWhaF5wtp1jSnqxpS6R54ZymUshT092Ug71J44Nmn61njkGfyBGuzpbX/f/wCvbA896pDIaRkO++6qvtEzIOTAoXWxssLv/0RMQRSww5y0jFCh8U2Bn4ljF8KXGA6A+oVbXXI7SHgBcuTrrfhf1008WWtmJ8wv41rqtH54ou8AW+6W26djlFOYux1GzyKTGv0yNb8Z7vVkR2bqn44ubDbQe0qbsPOhc+n0LGP7essQmbQvJUopn5h5k9DcsiqAfrHQDV5I34zRW78LEZeHaVpHvZnsRfhuny/B56sk0a8ia+rqAjn6AmsMBvHSJ34BEXjj0W0VhJUpA0Fk91oof8jIuMJ9MRdcoKqVxmG1HY0cBU9BbqaAF8KMTvEoUj+wUGiNtcdpZf4iuFoBUBP/PwSUI/EHMnM1oXVlSBeSWJ2tHe1yEFHdxcXLI4gohJ5UskXFrliYi8LMaFNI/kc3aXFXuwjzxEZOFr0LZ/RAfIgEaAiwVHD9krvg2eTRAbteQ==;vV63PEula0fKHhb4aC/Wcw=="
 ---
