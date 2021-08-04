@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     quality: 74
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Tesla AI Day: Five Things You Should Know"
+    excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."
+    publishedDateTime: 2021-08-04T21:00:00Z
+    webUrl: "https://www.thestreet.com/technology/tesla-ai-day-details"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgxNjU5MjY4NjE1Nzc2MDEz/tesla.jpg"
         width: 620
         height: 349
         isCached: true

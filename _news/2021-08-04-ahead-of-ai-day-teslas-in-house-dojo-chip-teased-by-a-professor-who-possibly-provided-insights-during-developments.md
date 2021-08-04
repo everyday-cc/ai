@@ -58,6 +58,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Tesla AI Day: Five Things You Should Know"
+    excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."
+    publishedDateTime: 2021-08-04T21:00:00Z
+    webUrl: "https://www.thestreet.com/technology/tesla-ai-day-details"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgxNjU5MjY4NjE1Nzc2MDEz/tesla.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "GxN/jU3X43SyEUyIPQ4DhVO4HyFOW8zW8UcvnmZepZR8nJoKamGXyzZ4Ejyz5IiP23cbQHlmjGrs8NurQu/3RWls0j6vAEk4SK+DhjDwhlr4PiR2jzkHj67ojlJKYcnrmbQuh2d7rM5izQpbRBTtQHiwKGXwFrvdb7CmlKSbVyZ9NZzj+wigPumBvhdHgG5+GcFWGA/npuBklsTdZJIgSGaJSytdaf1Rbh/zLQD1uF1d1F+v9heSVNTUKFWC+3GuLqlUPx8qd8cps51/dqIRrHNzpBvT8L8wELTDAq9iT/+DZdNEp0IWU+0RJduBfCMKNPl2Ry4XVbD109K1IL9O4iMl5lzd0hALvkc8pvgGGoBvCtEmHzcE/pO7XitUs4XfjgJKpc8u1kE/s8SubYLen1aT0bDa3ZPFGvmkIHYIbYV2TODeXgEtb8nxu1hYPXSfBo1s4IBBWYzolhLfET4Q37bVIt4Iz8NKdMQxR2F3nBlf3MeIixhCJ2nCjttk0u0xrDK/QobqQX8or4gA0Rfrng==;CWx5M+x/Nqc0E0N02VQbSA=="
 ---

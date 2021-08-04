@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 839
         isCached: true
+  - title: "Artificial Intelligence (AI) Innovation Summit"
+    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
+    publishedDateTime: 2021-08-04T20:50:00Z
+    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 52
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
     excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"
     publishedDateTime: 2021-08-02T09:45:00Z
@@ -68,6 +82,6 @@ related:
       domain: wvgazettemail.com
     quality: 17
 
-secured: "3RxsT8O526cR6nSs++cmxsu4ggtc8Egr8Ty0ttadbBLcEqePnPs45qvNXJFWc24o0ZpvFUyPcowCrtq4BFsYEMxHnJY5rwqgvnWFIHmevmqnH3drLWHHK0ayVQXXVuBgibqfrYWdB3WgyDDTS4COs4auBAMFsEpCx8oNvnzkoIZh1tfuyieHqkULyoYSmN5c7Djmye1l3WRhFR+GpTl2qw4PNvEbZ73kBa7VlBpxTYuK76KH3CRW7aJmqUYF4f9uYzswRTnX9C7Ii+I1wVJGh+ApLadYnt8uj9inqSOM+yGiawP7t8lA4nzGTWms8l3pYN3KzFqKnLymhaEAjn9mz5/rgO12AzE7cRFmwV8LoWw=;50d4N12/Ro3s7JgWvBVm0g=="
+secured: "QlbqCZwxns/oDQu5p0nE8R9uvp7tTGuuYx8GSADGcmuB5TlorMH5mQ3BwkEod2Lbd8yTROXgyT56iSU2fxWjkPynDzYXHarkqSSvOe2v9DESTgr2UEAcaj0T/eCsv+gAABRG2rz1IS23JZmtCoeVxgV9lZHWOIVq12HhWl4TEmbgqjn1vzDRvKTm2YMVKCK9AjvZUaToadZFvp9AqgcCdLOEFhmzYF50J/goFjYWVkkQAaqB722HTrFjqbGl8GeNpulLnEphd594YGKVeZ/pc8XZegGS3oNTzAyIYUFTM3PWeMyIUJ+gWzWrbSpYdIHSKwYR8Dee4fP0Gi+26Px31ec0e8XuiERN8IE9jOjFQcIFzOn8FTme2OeInTehG0fNmgENdKUeE9g8I6saCOorVP7wLYtX75Kb5hrI5vg60JsiCL7Z3hNV+pzMIlwElZwcI7xEq7SecTe+2DEF3tTi+GkKm2irElrMaU0KWIZrHqiVq67L11+4Z4O+vUDW2heixvbsbBHiqjFvilI0zKDXJw==;WiOk0ApTzCXLaPRu5HZobg=="
 ---
 

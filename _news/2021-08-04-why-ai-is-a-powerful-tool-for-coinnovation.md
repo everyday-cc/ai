@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=743"
         width: 743
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence (AI) Innovation Summit"
+    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
+    publishedDateTime: 2021-08-04T20:50:00Z
+    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 52
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
     excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"

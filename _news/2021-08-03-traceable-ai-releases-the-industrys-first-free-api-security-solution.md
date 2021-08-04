@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-relea
 webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "US-Israeli Startup uses AI to revolutionize real estate industry"
+    excerpt: "The AI technology collects information from billions of data points and transforms them into selectable attributes for prospective homebuyers."
+    publishedDateTime: 2021-08-04T20:15:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/429988"
+        width: 640
+        height: 428
+        isCached: true
   - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
     excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
     publishedDateTime: 2021-08-02T09:34:00Z

@@ -64,6 +64,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft researchers reveal neural network with 135B parameters"
+    excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
+    publishedDateTime: 2021-08-04T20:32:00Z
+    webUrl: "https://siliconangle.com/2021/08/04/microsoft-researchers-reveal-neural-network-135b-parameters/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/microsoft.png"
+        width: 718
+        height: 400
+        isCached: true
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
     excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
     publishedDateTime: 2021-08-02T04:50:00Z

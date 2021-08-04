@@ -34,7 +34,7 @@ related:
     provider:
       name: The Hans India
       domain: thehansindia.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://assets.thehansindia.com/h-upload/2021/08/04/1095973-artificial-intelligence.jpg"
         width: 1000

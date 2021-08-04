@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-
 webUrl: "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Next Web
@@ -42,6 +42,20 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2018/01/HIGH5_2-300x202-1.jpg"
         width: 300
         height: 202
+        isCached: true
+  - title: "DOE bolstering electric grid cybersecurity with firmware machine learning"
+    excerpt: "The Department of Energy is integrating machine learning (ML) with a threat information-sharing tool it developed to find cybersecurity adversaries embedded in electric grid control systems. DOE‘s Grid Modernization Laboratory Consortium (GMLC) consists of the Idaho,"
+    publishedDateTime: 2021-08-04T20:08:00Z
+    webUrl: "https://www.fedscoop.com/doe-grid-ml-threat-sharing-tool/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 38
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2019/03/GettyImages-858316674.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "IpvfPMcOnuNTkHL6jkEdVxQGKFYH6BP7kWhrRquPA9+x7KEJQeakjR02DS/wVWSqvXQ9VyO9iKt93zxfmzh6VLJq//pZVSJr2ewE0Xi/ixJP3kvrVpLnoTAD+wdwK3zivV8new1x0c3xf26nwxmw51VxN5dRfCGKBmeamBDqRI/3Qm2upp+szokUx5GM02rybakH2aPbrkGLaNpVFhOvPixliqheMr07HXFQzBXmlqcrP4TYhmPxkDfioXNiLXh/efmDF78wVuCeZCQTzxy7lyzrRgDWaAjvkFegD6pdYIH1uusvfVbaqkCzCcIICqmeTc1za/IKih2BEQiN9uCmRQk3zNZqmQC4Kat3t5fobyFvfSAJe3qcriJy6ZGAFbSi+CQzKfvqa11SKFRhGVPmV+HhKZX25AidCjMuFJ63Gv04w94SBl6B7vrTYacboA7AfY+Nz+TBPgMOyloDAmUSDWlMe1rqSh0HGlFleQmLgML72VBl/1hYUAuIR4c4cHeFGeJ1NYDyK8qUs2g5hAtZWg==;HZXSN3OFQsQ6esSbSgKYLQ=="

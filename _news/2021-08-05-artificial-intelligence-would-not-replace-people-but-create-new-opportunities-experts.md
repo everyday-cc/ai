@@ -8,8 +8,8 @@ webUrl: "https://www.thehansindia.com/technology/tech-news/artificial-intelligen
 ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/artificial-intelligence-would-not-replace-people-but-create-new-opportunities-experts-699929"
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/artificial-intelligence-would-not-replace-people-but-create-new-opportunities-experts-699929"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.thehansindia.com/h-upload/2021/08/04/1095973-artificial-intelligence.jpg"
@@ -41,6 +42,6 @@ related:
         height: 400
         isCached: true
 
-secured: "JU+ERCSfG3bYGvXiOE/lHROfD+Ia5gtefV5vFWt0g8mNV8Nx31xdwGhdbngEfIv62502ExqYDZY8y3hrekHfH7Raf00sgysc/IOuWcxCQ0vstFjNB5GCetgOwaZlxPnh9hZFYyANSblvahfQQW3aJpe79uI/QWD0e6PFf8ljb/eVwswpegbRLt/XBO9UT03c7JjAEuSfkGjHhhJGruSEvbPkbuV22U3nPQeJWMWFBzhg79JjBl2DOGv7SG6pLNAbfeMHdLiQw2gDbRQdu4G2R/I6EhEtLJZJ+wF5iIf0Vc+oYoj/ZniVa57WwqYd47NpifsqScvKEWqk82wbpg/OD2M9w63MzAN+I9/0pMXU3AM=;yH4RpGxeO8RuHcegh5Yhiw=="
+secured: "QJ0IadvIreqr8qqp+rXhGeCVXM6vY0dx/gKdusdbx6PDjKfHvMEMw0mOTlC3yc3owdoK6xy/SaeJHWz5ePat/0vH3Swn5MRhKlZQDKXPIzdOMI5Vto6gjaEOswW5GEA4LFixK2sqvnsDizXmf6hzdng8GVq4+/9kjWSOy89PH5JZczZqXNxvx/HWvcPhcU+WNSTGR5Gg4q6jKCDQyi0qR0pk04Ogch6gHZI2nN6NCLIARZ6JO3QGnADDPRKncNSszIqR55f9yFZU2nWYynNFXeHIG59cdBNHsitx0DYGYteDD/NMn9HLifEiZj3sS7IxPNE43Zd73YXm4J664QfyR8QfLbXIsjMHSeUrZzeAAqfxBu7wvbQD735OL94gK7yQQMAy/tDgrhAO5VgStW1ktU4rw0ppaK7BPi6KRpEBQKcypVPH391ota000QgCZo4UrRQ15Y2BO7PJ59PEQES77Y/jT8XKJfF3VytL8aVr8/23+o8E+suZAsKdv0SZa/Fc7vrN4SptJtmwPWaFIAxVug==;uUFtcmhMLrXp8duMQQCnAw=="
 ---
 

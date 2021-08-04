@@ -33,6 +33,20 @@ related:
         width: 836
         height: 627
         isCached: true
+  - title: "NSF Adds 11 New AI Research Institutes to Its Collaborative, Nationwide Network"
+    excerpt: "The National Science Foundation officially extended the reach of its National Artificial Intelligence Research Institutes across more of the United States. On the heels of funding seven institutes in 2020,"
+    publishedDateTime: 2021-08-04T20:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/nsf-adds-11-new-ai-research-institutes-its-collaborative-nationwide-network/184293/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/04/NGai20210804/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
     publishedDateTime: 2021-08-02T22:23:00Z

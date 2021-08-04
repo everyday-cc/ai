@@ -38,6 +38,22 @@ related:
         width: 400
         height: 244
         isCached: true
+  - title: "US-Israeli Startup uses AI to revolutionize real estate industry"
+    excerpt: "The AI technology collects information from billions of data points and transforms them into selectable attributes for prospective homebuyers."
+    publishedDateTime: 2021-08-04T20:15:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/429988"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "E54sfmeMlWXHHf2+KIWqKhgMBJgRxh0eIpV67KU6iA4DWDxPwhpR7p2qquMr8wPzd4WZIqvWL4V56l20jMOKgFKDC5kDu2zn2Vv3JuGUsW6cE2Dw+HAhHhr2YfoHf+c0+iwacZNOY8cTWA0g7nnMB6Wrut4mBcpiWhkQQFZMXj1Y0UZycw4jqJZoo2/cSZKK2T3B2Vbrdo1CWCppk5fp3FlHDca8K20i1/+ew0Jorgwe0zLt2+zzDYvQT0nUbZ9JP/LUe+AZuyK2EQ3mC+hTuwxK1+9AMdiwGnXThBu4/eFKqOwosumCEhoTMUTtN8JtvGB9usn3nNocYoaieliRGEe7qZu2eaU/tHmf7MEdKZBIjoyqLHSK8RpP6dSfDAcHlbl6br1iwpcX26IQLLvc2+ChYa8I9rGDRf0ZaSswOtiQx6/CbeUcYT8LjCb8bUr+Wk3iocuLrnWH2844pbMbkCGs5j6oYdnYRJfpIhMPqA2AJaJJ65ja0NN7GtmjkDuTMp3jfM670mqP5OksILMAfg==;wo7CocyevxdymughEjf09Q=="
 ---

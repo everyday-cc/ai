@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "NSF Adds 11 New AI Research Institutes to Its Collaborative, Nationwide Network"
+    excerpt: "The National Science Foundation officially extended the reach of its National Artificial Intelligence Research Institutes across more of the United States. On the heels of funding seven institutes in 2020,"
+    publishedDateTime: 2021-08-04T20:00:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/08/nsf-adds-11-new-ai-research-institutes-its-collaborative-nationwide-network/184293/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 35
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/08/04/NGai20210804/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "NIFA and NSF Investing $220 Million in Artificial Intelligence Research"
     excerpt: "The USDA’s National Institute of Food and Agriculture and the National Science Federation announced a $220 million investment in 11 new NSF-led Artificial Intelligence Research Institutes. NIFA and ot"
     publishedDateTime: 2021-08-02T18:21:00Z

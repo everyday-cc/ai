@@ -71,12 +71,12 @@ related:
   - title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
     excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
     publishedDateTime: 2021-08-03T13:32:00Z
-    webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html"
+    webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html?src=rss"
     type: article
     provider:
       name: Engadget
       domain: engadget.com
-    quality: 63
+    quality: 61
     images:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85"
         width: 1600

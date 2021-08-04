@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DOE bolstering electric grid cybersecurity with firmware machine learning"
+    excerpt: "The Department of Energy is integrating machine learning (ML) with a threat information-sharing tool it developed to find cybersecurity adversaries embedded in electric grid control systems. DOE‘s Grid Modernization Laboratory Consortium (GMLC) consists of the Idaho,"
+    publishedDateTime: 2021-08-04T20:08:00Z
+    webUrl: "https://www.fedscoop.com/doe-grid-ml-threat-sharing-tool/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 38
+    images:
+      - url: "https://www.fedscoop.com/wp-content/uploads/2019/03/GettyImages-858316674.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
 
 secured: "28NS0/CeBmA/ypvUtQdRlG6qeH0tWHdhyaP5beyxtbJ2x/HXHb3jHnIZg8Z3Gp0Dk4KkVy/iP3Mf463B/SbtggYgXL/frXd2/A/bOB7tKaZe1jHbyF4DsYmRYcdi9Itr8Yf/8lQV5bAjv/qwgvwWltSPeEI0A4JdlIwEKayRScZfwq1zNOPUiYZ1FdAArEXBrwWFPh4nwy7/ZK4itVYbRpSr+mT+uYLwwhRNEwLfqqKMqq6nJaCUDXTad0v8Uu9viFZ90dM/MaKgnAKiEdpwOIZy8+GyXkcRcPRA4z2sN0as9l4Vtf9pPSiYnaKQbKIpanwZMI557z8RT6dvYTQpzyiAt0PLbcTwUbqcdjAp1bY479ZKXBBDtAGcsmuBh5hYN/dje4o/UWoCJtdvsO8QGzyGQCTrROL8h/LcEpRS7A4rvbdQQBaZC3WEPc+ev7sbeekLvLItI1B6MO3EhAN5dh8FmZwJ4A8boaE0qCORQMta4EffeDFRv3Nmvju48lvzpXOVLBRy0ZVFJF+j+H1jvw==;cdxoEQFGydj8//SWhf0Zfg=="
 ---

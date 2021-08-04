@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-04T12:36:00Z
 originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-to-acquire-new-heights-with-increase-in-innovations/"
 webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-to-acquire-new-heights-with-increase-in-innovations/"
 type: article
-quality: 15
+quality: 17
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Accelerating Drug Discovery With Mindful AI"

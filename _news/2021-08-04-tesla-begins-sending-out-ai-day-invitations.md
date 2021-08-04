@@ -43,6 +43,22 @@ related:
         width: 872
         height: 872
         isCached: true
+  - title: "Tesla AI Day: Five Things You Should Know"
+    excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."
+    publishedDateTime: 2021-08-04T21:00:00Z
+    webUrl: "https://www.thestreet.com/technology/tesla-ai-day-details"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/tesla-ai-day-details"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 74
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgxNjU5MjY4NjE1Nzc2MDEz/tesla.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Ahead of AI day Tesla’s in-house Dojo chip teased by a professor, who possibly provided insights during developments"
     excerpt: "The teaser of Tesla's in-house Dojo chip came from a former professor at the University of California, Dennis Hong."
     publishedDateTime: 2021-08-04T00:33:00Z
