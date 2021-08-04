@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-14-saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year.md",
+      "title": "SAIC Motor says it will put Robotaxis capable of L4 self-driving on roads in China this year",
+      "excerpt": "Chinese automotive design and manufacturing company SAIC Motor says it will launch 40 to 60 Robotaxis capable of Level 4 self-driving throughout Shanghai and Suzhou before the end of 2021. The bold statement was made by Zu Sijie,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
+      "originalUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/07/SAIC-Motor-Robotaxi-Mystery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/07/13/saic-motor-says-it-will-put-robotaxis-capable-of-l4-self-driving-on-roads-in-china-this-year/amp/",
+      "publishedDateTime": "2021-07-13T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-baidu-shares-are-a-bargain-now-but-not-for-long.md",
       "title": "Baidu Shares Are a Bargain Now, But Not for Long",
       "excerpt": "They even have their hand in self-driving technologies ... be light at the end of the tunnel because of technical reasons. Baidu is falling into a potential support zone dating back to 2011.",
@@ -1387,59 +1439,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious.md",
-      "title": "Lip-Reading By AI Self-Driving Cars Is Either Alarming Or Ingenious",
-      "excerpt": "Advances in AI have enabled new apps for doing lip-reading, which could be a feature included into self-driving cars, alarmingly so or perhaps ingeniously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605c07cb6c32656bba197566%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D2454%26cropY1%3D168%26cropY2%3D1532",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/30/lip-reading-by-ai-self-driving-cars-is-either-alarming-or-ingenious/amp/",
-      "publishedDateTime": "2021-06-30T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

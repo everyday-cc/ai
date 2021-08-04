@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-29-intel-ministry-of-education-launch-ai-for-all-in-india.md",
+      "title": "Intel, Ministry of Education launch 'AI For All' in India",
+      "excerpt": "Chip maker Intel on Thursday partnered with Central Board of School Education (CBSE), Ministry of Education to announce the launch of an initiative -- 'AI For All' -- that aims to create a basic understanding of Artificial Intelligence (AI) for everyone in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india",
+      "originalUrl": "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12",
+      "publishedDateTime": "2021-07-29T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board.md",
       "title": "AiM Medical Robotics Appoints Dr. Babak Kateb to Medical Advisory Board",
       "excerpt": "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that it is appointing Dr. Babak Kateb, founding Chairman of the Board of Directors & CEO of SBMT,",
@@ -93,6 +137,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
+      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
+      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -432,50 +529,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "PRNewswire/ -- (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools for brands, businesses and media companies, today",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/eb/aeb35514-85fd-5044-bcca-245e6d1ad27e/61028aea5714a.image.jpg?resize=945%2C630",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1121,58 +1174,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-using-ai-to-map-africas-buildings.md",
-      "title": "Using AI to map Africa’s buildings",
-      "excerpt": "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "publishedDateTime": "2021-07-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

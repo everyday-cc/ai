@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/meet-cassie-the-first-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning/amp_articleshow/84999326.cms"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Bipedal robot makes history by learning to run 5km"
+    excerpt: "Cassie the robot, invented at Oregon State University, has become the first robot to learn and complete a 5 kilometer route, finishing in just over 53 minutes."
+    publishedDateTime: 2021-08-04T07:50:00Z
+    webUrl: "https://gadget.co.za/bipedal-robot-makes-history-by-learning-to-run-5km/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 19
 
 secured: "X4LEJQfauBU7jYle/YI6VC8IdTLEn2WCwBJOJFGR70YuAjDZaiE3BRvg5iKp2WqR0SWh1alqbVyhwyqwN/FVhELK9itMDMb3VOab3M2nsxSGDaLzZOCBMioYWZNUpyh7jboAlOwpAVWyiCKx2YjktZ4jDeTU3XhFUJDlirBdkdhuDHOVazW761A38uLBllXre9KTHmP0NoM3I1ye++5Oa0OHhULE6/2UfLDqMocQPjo/6bKLo2p0J3gV61jAB7hpLUWdYmrTF2St4KTZoL/W7+opyqDsNCpn3IFyFRSXzUdfTOJ2au/ufeWV2Bsyf4PsyfLU3BND+KlhSeBPtAyCBUUxOFYWzPr34jhg5eNLdjQ=;wNQv1tavkcd4GbX1EoQ/bQ=="
 ---

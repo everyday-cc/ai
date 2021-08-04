@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-28-data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse.md",
+      "title": "Data Brief: Only 12 Pct Of Healthcare Firms Use AI To Fight Fraud, Waste, Abuse",
+      "excerpt": "More fraud and abuse in healthcare billing scams can fail thanks to artificial intelligence (AI) and its ability to see red flags and stop this activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/health-insurance-fraud-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/data-brief-only-12-pct-of-healthcare-firms-use-ai-to-fight-fraud-waste-abuse/amp/",
+      "publishedDateTime": "2021-07-27T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
       "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
       "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
@@ -1137,49 +1180,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections.md",
-      "title": "Clinical Study: Kaia Health Computer Vision Technology as Accurate as Physical Therapists in Suggesting Exercise Corrections",
-      "excerpt": "In the study, patients with osteoarthritis of the knee or hip performed a series of exercises while being simultaneously evaluated by computer vision technology and physical therapists. The results showed that physical therapists agreed as much with the exercise corrections suggested by Kaia Health computer vision technology as they did with each other's exercise corrections.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

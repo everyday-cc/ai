@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-fore-offers-data-analytics-programme-for-healthcare-pros.md",
+      "title": "FORE offers data analytics programme for healthcare pros",
+      "excerpt": "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,",
+      "sourceUrl": null,
+      "webUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
+      "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
+      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
+      "publishedDateTime": "2021-08-03T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-intel-dell-technologies-make-acquiring-ai-skills-more-accessible.md",
       "title": "Intel & Dell Technologies Make Acquiring AI Skills More Accessible",
       "excerpt": "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists.",
@@ -261,48 +304,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-puddingai-nielsen-collaborate-on-data-analytics.md",
-      "title": "Pudding.ai, Nielsen Collaborate on Data Analytics",
-      "excerpt": "Pudding.ai has announced a strategic relationship with Nielsen to improve the capabilities of creative data analysis using artificial intelligence. As part of the combined efforts, Pudding.ai and Nielsen will be offering a solution for data-driven advertising decisions that will use AI technology to help advertisers better understand which creative elements work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/puddingai-nielsen-collaborate-on-data-analytics",
-      "originalUrl": "https://www.tvtechnology.com/news/puddingai-nielsen-collaborate-on-data-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/fDa37bDMackyZvsRtLuE5h-1200-80.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics",
-      "publishedDateTime": "2021-08-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -693,7 +694,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1196,7 +1197,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning/articleshow/84999326.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {

@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026"
-    excerpt: "The healthcare artificial intelligence market is anticipated to witness significant growth over the coming time period owing to increasing use of technology across numerous medical application verticals such as drug discovery,"
-    publishedDateTime: 2021-07-30T13:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
+  - title: "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-08-02T14:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,17 +71,6 @@ related:
         width: 500
         height: 288
         isCached: true
-  - title: "Computer Vision System Market Size, Industry & Landscape Outlook, Revenue Growth Analysis to 2028"
-    excerpt: "The Global Computer Vision System market is forecast to reach USD 25.69 Billion by 2028, according to a new report by Reports and Data. The Computer Vision System market is witnessing continuous growth in the recent year that has been primarily driven by significant advancements in the information and communication technology sector."
-    publishedDateTime: 2021-07-31T10:57:00Z
-    webUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/computer-vision-system-market-size-industry-landscape-outlook-revenue-growth-analysis-to-2028/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 26
 
 secured: "CR9SmFzN5RtzP7ATXReYSmGKaqSEpCJE1IjspNwuiw/QDPaoN8IcjRIoIH3anuPcMRQF2d3WaU2hH8S9pqHMSjZyNtf1fPqHMzHpFuzEMGJ0ity64eXlkZJFxDwMMNJJXLkgt8rPWnHhBaBkXSdj6xmInJu+a+hXhnRDk0/T2yzjm+SAGVDYYno2sDPP9s2csZuf6CktLryCn0fbb13PK65FpXju+lXRBTr7gYEmjU46vT9I7AS3AsOOyV2PDMZ3rgAooUFGbJQ2cQUk3lXUsmimiOk8aZcIBXh0v5ve9MC0xEU6lQ6rzdFXPctJ3i09j3qNfmWncukly2wg92Adgb90D5u/lF3FvGaC1qOQJ5Y=;xgd8OpFjiyClgjh0E+T0og=="
 ---

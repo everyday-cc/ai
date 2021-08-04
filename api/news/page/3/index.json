@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-02-microsoft-and-partners-producing-competition-to-attack-ai-security.md",
+      "title": "Microsoft and Partners Producing Competition to ‘Attack’ AI Security",
+      "excerpt": "The artificial intelligence (AI) and security communities are being invited to participate in a competition to “attack” critical AI systems:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
+          "width": 2560,
+          "height": 1493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
       "title": "Supercomputers are becoming another cloud service. Here's what it means",
       "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
@@ -934,7 +978,7 @@
       "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1165,59 +1209,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/14/dab15c07-8cf8-4f40-9413-97eff4356f4f/awsneptunearchitecture.png",
-          "width": 1435,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "publishedDateTime": "2021-07-30T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

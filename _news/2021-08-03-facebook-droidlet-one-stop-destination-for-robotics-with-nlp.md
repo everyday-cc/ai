@@ -40,20 +40,6 @@ related:
         width: 1000
         height: 560
         isCached: true
-  - title: "Facebook’s modular ‘droidlet’ platform is a one-stop shop for building smarter robots"
-    excerpt: "Facebook Inc.’s artificial intelligence research team today announced an open-source platform that it says can be used by researchers to collaborate on more intelligent robots. The idea is that by mixing and matching components including machine learning models and perceptual modules used to sense the environment,"
-    publishedDateTime: 2021-07-30T14:28:00Z
-    webUrl: "https://siliconangle.com/2021/07/30/facebooks-modular-droidlet-platform-one-stop-shop-building-smarter-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/Facebook-AI.png"
-        width: 1431
-        height: 802
-        isCached: true
 
 secured: "Td9Z6ixNGoBJ0g9WUAnCyLQGlOANrTCzL/t7DWXprdHdSgD8vMdV10XAR1c2/qpks/Vwl7Mz67gv88dqkCOh9Y1/v1SdwCCNfzuvkhCsxxK1qxPee5g6QhGVfr9FB/0aoPpkzR5P6KJefjT57FOMncWXauHbfLv+wJ8uMnXxgEntfWYFpeg2bpsrF3eusgcBfBuFmgH5NCQ9BxDQBMVLfz1pH4oUmaNCjpxYdiPsqlrLPStJIoCipdBOxwUKETB+siI2fX26LxhLkXmnHPLVA1FmoyEd7qIYDy77/ST34KrYtkzFujlg/stPuXukf8/QhIchWQzvCg5Q7TXLMgxuAhfs6XOK66AKz059K/U6ZSs=;KCKrXuwTLDDFlW5Zy7+CTw=="
 ---

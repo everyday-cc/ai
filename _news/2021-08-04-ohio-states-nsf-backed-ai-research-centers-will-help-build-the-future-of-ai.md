@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbc4i.com/news/columbus-business-first/ohio-states-nsf-b
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/columbus-business-first/ohio-states-nsf-backed-ai-research-centers-will-help-build-the-future-of-ai/amp/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 472
     height: 315
     isCached: true
-
-related:
-  - title: "CMU Puts AI To Work in New NSF-funded Institutes"
-    excerpt: "Carnegie Mellon University researchers will contribute to three new National AI Research Institutes announced today by the NSF."
-    publishedDateTime: 2021-07-30T13:34:00Z
-    webUrl: "https://www.cmu.edu/news/stories/archives/2021/july/nsf-ai-institutes.html"
-    type: article
-    provider:
-      name: cmu.edu
-      domain: cmu.edu
-    quality: 39
-    images:
-      - url: "https://www.cmu.edu/news/stories/archives/2021/july/images/yuan.jpeg"
-        width: 800
-        height: 1200
-        isCached: true
 
 secured: "7gyUrNH9PjgyggRC+kWIe8phmibMZpD7iVDkPxgWMyqkpAf2Cv1R10j/+fMwUjPX405sAxL0Pki5NVVfBMXgiNTxrhgvgtqObYS3hlH5XEtkBNN+azLDUOsgI0adrwUbuzdwoZLhCdeaFdJ8nDRxrJh0QP/X+a4/bwQEebMFge83mv6aZOCvPD2ZIVMvWzJOyz7Zc2lIQRcU0DE8mY/BmQUPL9hSsBoDELqATACzh0+i7u81Z318vTcSzZpuGwh+x8vOIDvrlYRAXuzu3SjYqEeIYQIMSOYexol3lMUzbNM/9bdPjwQ7EQWSqNT+JU9ng2sky/KOMQWCSeE2inE7xr42PlhiqjfRDzWCBwnr6QppKPTAFKo3ZiaB7BLcLXI74C8E9sQXs/kkMaagIcPIDWPVYPejjqLhqKh2EHyv2tWRQVyQWyNh88ht7KX/RU8LqQkYFqYggxyTH29lBJu9Vf1MVpZZlHtJgNT+ay+hifP1RDsUQIi5p+vAmAlWY3ztU5P7Ix4wnolZBpsA5iExdA==;N3bkfqfQxco0tdLjUWytvw=="
 ---

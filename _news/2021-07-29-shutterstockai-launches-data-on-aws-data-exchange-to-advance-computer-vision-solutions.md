@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "PRNewswire/ -- (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools for brands, businesses and media companies, today"
-publishedDateTime: 2021-07-29T11:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -17,11 +21,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/eb/aeb35514-85fd-5044-bcca-245e6d1ad27e/61028aea5714a.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "GBxKR5SbUVEfKG439dSDm/DkoDfgYGOK+ASUgE6WCaO6VxU/y34mVBgaFMdbW633CelDWzZps4xk9p8zYtts8cKhbKq3IkGECdFp5JPyqj5JFX5pbMR7faEmw9T1InUsEghTR4i6y7GdN9Wr/BHRkbAwKcKr2Ow6rw3VXtFRP1IReuKHMbS8PDQDqDnDfcGyTz0gQ6VWEmbAjMfdH2Sw8ZsJ7foQNyN/wUewtFZxUuwG3jS7KGw7FUEQ8WvJpPxNcc/TQTeV9GGDoVhUpsUbIp2IK4Fw3HAj12EWhaRm060fi+TavJ58RCuDXEnu+/idnOXqyL2mRIjblTVwaVx5g/u5ySsWLRPYSKN2bm50kFq2iFnTfvNAj9dc2Ns1s/76JVQFOXolaUpHNA6IPX9IKMzMV91jUIrlffNp6LvVSBpLButIeL/jjHheavxK1vrfPDm758l8i35viT80jqsgax3JRnV1UzTbb/dUobhmvhQ9KAvf4/elmg5gq6e5yqd5nXDJa1scbzY/aO3G998nKA==;f3f99lJmLsm50LnjDAsW5g=="
+secured: "l2+kg6FPb2mZW8/4vPnCXmF1S/vY7O1SHiFILPhn4MtrPOLX7+5An2v/9xGueg0YKim9xSEfzqBvrs7HGpUnOnmUjBzQbQgZwRwCso0mzXvDZZqWVX0JGm3Kz2lSAMM0kZWd6BE6phKknth56GcrjDP4VRRGrGHmHyqYsmdHRpSHREwW4rhG2uP69BE4Kh0wyOOq2l+3OeXIVj1YHXTlu5+B0gh129EaJCGZU1Yx3SXYlRFs4yOFIPLH4XfFl8KlW2k/oxvFFo8DcGPSPkv1J3mV2WA384OVpBhcUT/SnIrDOme8EnmMRwk5fuySVUldo917DiKIYpHUCra24ukZjR6hU464Esp50tKeV8DbzD0=;Nk+luvZPcQlcvsXiNI/Rng=="
 ---
 

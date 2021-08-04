@@ -2,6 +2,109 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-06-16-enterprise-ai-budgets-are-up-55-over-2020-appen-says.md",
+      "title": "Enterprise AI budgets are up 55% over 2020, Appen says",
+      "excerpt": "Appen State of AI report found enterprises are accelerating their AI strategies as a result of the pandemic and increasing budgets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
+      "originalUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/Tech_money-e1623779327666.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/enterprise-ai-budgets-up-55-percent-over-2020-appen-says/amp/",
+      "publishedDateTime": "2021-06-15T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-fedex-to-test-package-deliveries-with-self-driving-startup-nuro.md",
+      "title": "FedEx to test package deliveries with self-driving startup Nuro",
+      "excerpt": "FedEx Corp and robotics company Nuro on Tuesday announced a multi-year agreement to test self-driving vehicles in the package delivery company's network, starting with a pilot program in Houston.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
+      "originalUrl": "https://www.reuters.com/article/autos-nuro-fedex/fedex-to-test-package-deliveries-with-self-driving-startup-nuro-idUSL2N2NW11I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210615&t=2&i=1565798969&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5E136",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2DR1F9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2DR1F9",
+      "publishedDateTime": "2021-06-15T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-15-elisity-raises-26m-series-a-to-scale-its-ai-cybersecurity-platform.md",
       "title": "Elisity raises $26M Series A to scale its AI cybersecurity platform",
       "excerpt": "Elisity, a self-styled innovator that provides behavior-based enterprise cybersecurity, has raised $26 million in Series A funding. The funding round was co-led by Two Bear Capital and AllegisCyber Capital,",
@@ -1035,101 +1138,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-united-fintech-names-advisory-board.md",
-      "title": "United Fintech names advisory board",
-      "excerpt": "United Fintech has announced its Advisory Board, with the appointment of six world-class experts who will play a key role in the global expansion of the fast-growth firm launched by Christian Frahm to help banks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
-      "originalUrl": "https://www.finextra.com/pressarticle/88078/united-fintech-names-advisory-board",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation.md",
-      "title": "Global Artificial Intelligence Service Market 2021 Forecast to 2027: Finest Companies in Market, Trends and Growth Factors and Market Segmentation",
-      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-service-market-2021-forecast-to-2027-finest-companies-in-market-trends-and-growth-factors-and-market-segmentation-2021-06-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

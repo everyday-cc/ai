@@ -44,6 +44,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Bipedal robot makes history by learning to run 5km"
+    excerpt: "Cassie the robot, invented at Oregon State University, has become the first robot to learn and complete a 5 kilometer route, finishing in just over 53 minutes."
+    publishedDateTime: 2021-08-04T07:50:00Z
+    webUrl: "https://gadget.co.za/bipedal-robot-makes-history-by-learning-to-run-5km/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 19
 
 secured: "JbX+Any87B+Ht2jUWBkqXdZngJq+WpQU9rgY4b7yaez9J7CozjF097v0e97tRG5dwttCUKRZMN6mBKzYWmCKGGhfkhjDLoxUhpuRbwZMRTknK7W50+vWx8c6NyTI+Gz3RvOO2xneWIdkAi8jG3yrEqtoERsm/MwOQp1oKPVYXkRr5x7Ek7kmjxltEFD12v2wI63K/ZZn1WBds/Y2sIPPij/bsl8kc4zpHOo0SuAz36sDLmdO85PGdNFYNyW1i/oLjozA5k8LdIzIhzRqYhxfl2q0k7Rvaoh9CkYjKPN0vLxhbgiFAYlLh9jSRxMfG2LWQnnWX2UbKg7FRXpVO8qF2RSBfwPlvcBByDwcMLZ3EhP0R5/umdm45fb1T/jmAHTPeaIMvX0N1JFcJ2OgwWSVlgP3ErdS3qKpmfP48H2nJN1gk/thRfNNY2hywt9mEDrd768H8yvrL5sdF5M6IIwf+Qykl8nBvkuxJTPJi67cGrWTJr64lztudiwlVQwkv3PXZXtQwq1ZXY98yt6YaDITHQ==;fi/Aqg48pXKXDROruG3pVw=="
 ---

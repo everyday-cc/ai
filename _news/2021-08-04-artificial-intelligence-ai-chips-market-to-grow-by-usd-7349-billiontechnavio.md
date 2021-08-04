@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
-excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025. Discover Communications Equipment industry potential and make informed business decisions based on qualitative and quantitative evidence highlighted in Technavio reports."
-publishedDateTime: 2021-08-03T23:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-grow-usd-7349-/2021/08/03/9423292.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-chips-market-grow-usd-7349-/2021/08/03/9423292.htm"
+excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
+publishedDateTime: 2021-08-03T23:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
 type: article
-quality: 64
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a3/9a3a2caa-a0d3-5f1e-8852-8bec2f6773f7/6109d5cb5f5ca.image.jpg?resize=1200%2C585"
+    width: 1200
+    height: 585
     isCached: true
 
 related:
@@ -50,21 +49,7 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
-  - title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \" Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices,"
-    publishedDateTime: 2021-08-03T16:14:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/03/9422761.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
-secured: "HOq085OppOrs8LcaaZKvoaB3xZUBB3M0XjT5vp/2Qe1MU6yyQhncsCenGkL4q6bB6SWNQJ+xJHn2ePTSk+W4fIw1JIjKanR3zbhbJ/866sefshAUqxH4RU5Af8TXyfjaxCQF+KVcqpD3hO7Z30FyHFALkBZgfm0VRkxL6R2EbaiRZXE9FPpEKFwbjHWY57xiNjoBZnPnkJ25xX2ihs5byInKlrFYVG9fxWNYIZVRXiBTzddtoX+5S3Bq6+uu+5X1kkU9F3gMwMnKH858PL6i72ebolpEkaCCthXNmBxMhZyNamb/m8fyIrGLTP4/1vPleNImUDnu7WkvZroH5esOTSuWe8rlnECu7mj3r+sS+LU=;PptapYfZvAKjgMHySjYpzA=="
+secured: "3eDBZidf/C3oGuhk1PFl/KXM6c89kWuHxJP5WoGf7MlsQKmFE27X9cq+bsA0CL+IWEvHh6A7YYjGwxni+JoXBr8sXw5fVrBVfROKys4wXCOsjzSBpsO76UpGEtevrNFRc2EsftKNBe2NXNuDgLv1cGob0k0ZegOxVS6Pu0q/0G22GtnMH1sqF2bVmlKpdX19mt/eA2DeVm6Ut3ZdiJqhXu45yxWwbNcwC8lVI5IKPvdFNXVW9SqVV1a4MezD45f4GpQLsvTHf2b5c5+dGYKM9WlHK2IxJkArOEpZMRN0Dpifybq+9P7RH6E5WuZrQ2kQsirn1ush3yYnisC5n62bLo1RXHsqxfhSgmKkU/Ev/wA=;D3wOS0SSaQTN1Gvl1QcxSQ=="
 ---
 

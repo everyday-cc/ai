@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-fore-offers-data-analytics-programme-for-healthcare-pros.md",
+      "title": "FORE offers data analytics programme for healthcare pros",
+      "excerpt": "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,",
+      "sourceUrl": null,
+      "webUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
+      "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
+      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
+      "publishedDateTime": "2021-08-03T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
       "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
       "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
@@ -1317,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-today-in-healthcare-vc-sinks-big-bucks-into-startups-telehealth-providers-turn-to-ai.md",
-      "title": "Today In Healthcare: VC Sinks Big Bucks Into Startups; Telehealth Providers Turn To AI",
-      "excerpt": "Today in healthcare, HC startups have raised almost $15 billion in VC, and telemedicine is turning to AI to solve its privacy problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/telemedicine-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/vc-healthcare-startups-telehealth-turns-to-ai/amp/",
-      "publishedDateTime": "2021-07-16T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

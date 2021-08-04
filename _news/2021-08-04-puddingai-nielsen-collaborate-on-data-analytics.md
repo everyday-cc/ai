@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: TV Technology
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "FORE offers data analytics programme for healthcare pros"
+    excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
+    publishedDateTime: 2021-08-04T06:50:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2"
+        width: 615
+        height: 384
+        isCached: true
   - title: "How and When to Use AI to Augment Traditional Analytics"
     excerpt: "The cloud has given data practitioners immense power to leverage AI, but it needs to be applied thoughtfully and deliberately."
     publishedDateTime: 2021-08-02T14:57:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Eli Lilly joins $30M Series A financing for startup bringing AI analysis to endoscopy"
-    excerpt: "The artificial intelligence-based technology of Iterative Scopes brings computer vision analysis to endoscopic images. The startup’s technology was initially developed to assist gastroenterologists in finding pre-cancerous polyps but CEO and founder Jonathan Ng said it’s also finding additional use helping pharmaceutical companies identify patients for clinical trials."
-    publishedDateTime: 2021-08-03T21:54:00Z
-    webUrl: "https://medcitynews.com/2021/08/eli-lilly-joins-30m-series-a-financing-for-startup-bringing-ai-analysis-to-endoscopy/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 30
-    images:
-      - url: "https://medcitynews.com/uploads/2021/08/Jonathan_Ng.jpg"
-        width: 1485
-        height: 973
         isCached: true
 
 secured: "gFZ1ZJh3pNPLbdLE0UhvSLvSoUhGu4FHK6P+0ZE6/NP7z8FFMQftovz9fbEeqMAAmE8L4/1QBxieUwUotAYzZB+N95qYspLa7yt9Em+kJcbQd3OeLTw30zg+LUO92SM972q5fkxa4e0zVOk8tLeLKxD+fjFHhSpVSj0xBMYuAmJT8Xp+7AZhz7KfGsvKyIR+QGoSG8X5CemiPokRtnqJHM4+Loo8dPaZrttG0l9oAlOuZEjgxS2SIm9WeiHn6MUSJs0FoIb66lGoXJuNQU5ukuL/huqIu1LM1bqvZGWsggghIC3WVZnXDmrltMB76/hT78kGTgo+enChnbLHlOcWepbCydMgOsqsaXIYJ1TCZSo=;EYU/ZqRCWXH2KcW3S9f/Sg=="

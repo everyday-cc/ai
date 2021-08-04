@@ -57,7 +57,21 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Xiaomi invests in self-driving company Geometrical Partner"
+    excerpt: "For the second time in three months, Chinese tech company Xiaomi has invested in a self-driving vehicle company. Founded in 2018, Geometrical Partner has attracted a $62 million investment fund belonging to Xiaomi,"
+    publishedDateTime: 2021-08-04T07:37:00Z
+    webUrl: "https://www.noypigeeks.com/tech-news/xiaomi-self-driving-company-geometrical-partner/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 24
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/03/Xiaomi-electric-cars.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "E6RsvGxEGzZRhnNVT9WiDUXhOBXMle/UGOfKV+TklR7xz8RvBJm5zkqLNUGfglsHZrkyNTvHZ6W5LOVbNqam/I0XGLSbvE3IVuHVp4Aj2sC3Bduy+b8WRBM6v7OZntjMO7fPJoA11rcN3AS1j1N3g6TJWF96DBFwmRkBQTbn5JYoEwVcvxodGkQ0rvFy5nhOHAX24eEhEg1AiZj4SOAO5XlgbApvE7Vl449sUJk9VLaVkrGdzjfjpqtf6w/vf+QyDlHqS3HVVtEZbj35Oy0dUzEqB7P4V7jQYjlsHO1UF0vS8tkahJ9oKfnuQfRWaA+lkEptKgF8pando5pO1AEeT5WGqrck6os3bj7s6x1m6/E=;2m+tIe94Yihd1Z/ShYPUYQ=="
+secured: "jL5ixXaqfF21efqlInyznQodvi+Dz1xkRrMAnLWQNv+bpdjOstqxKZcFMwaIcp6lYlMTWHIWAeJlzqC7QPW2Uk8Rj65h491Uz2l/0S5SyZoeP/U24hCDm3OoBgzUtoENdwNTuQAAV08X3U3k7UaL8BlTM3OGGDhM2Cd+AjESh2KMAombTrgzJoT+jI08VlKkaluJFx5jmxCHHN1prp9RETDrMvkiCZhnrRaSSwq9V5oYueT7TtmsRoXTUTJ3rUxT2/euZcavq3qY41gUBNFBR1o8P8Qk4ZUAzwK0HipkI3uac1IroE8mhwCgSbb5Ch4LyvGn7DLB+/91dl1itxSeMYOyjRdHUeAu/XBBbAL1vermgrMNk48dIkEsg4/0U1DjWSCglhC/21OIEVYubopZJRrDhJ1j7y4KPnexj3bucbXUM7LLEDswG+hdgxSbRmiDRohzRJfQ7/RLn11k7SbcGJcLdM9sLibwr/HV3oOu/HlCpMkJibqp6WOoek/B884j5KQtFQxxqfIvbvUehURacg==;e+BysEsRmQ8XUnT4Oo7/7g=="
 ---
 
