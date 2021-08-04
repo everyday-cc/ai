@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Nvidia Offers Hosted Large-Scale Processing for AI"
+    excerpt: "The GPU maker this week is making its Base Command Platform generally available to North American companies. The platform is a hosted AI development offering that is based on Nvidia’s DGX SuperPod supercomputer and is part of its larger LaunchPad program for making its AI and machine learning infrastructure available via hosted platforms."
+    publishedDateTime: 2021-08-04T18:15:00Z
+    webUrl: "https://thenewstack.io/nvidia-offers-hosted-large-scale-processing-for-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/70cf78f2-nvidia.png"
+        width: 650
+        height: 445
+        isCached: true
   - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
     excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
     publishedDateTime: 2021-08-03T12:11:00Z

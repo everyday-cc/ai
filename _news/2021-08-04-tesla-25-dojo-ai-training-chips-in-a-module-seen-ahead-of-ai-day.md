@@ -8,8 +8,8 @@ webUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-i
 ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
 type: article
-quality: 91
-heat: 111
+quality: 93
+heat: 113
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg"
@@ -59,6 +60,6 @@ related:
         height: 872
         isCached: true
 
-secured: "CjYeEyG6ChOlPTZxj498Nvp0+f9spFNVWXpf3hJbNH8MgjTWYC5hyxF7GkQjI01G7rSWiwkUFc5VQL0oF3kzUxDb7dkcLxF+dBMUGxDqFsMDXzYIATVGSe02/s+M536L/71sQUh6sXseTi5GaGWkxnMkEUpN8R0D7y2eGah7etdcNinIw89WzidJZ69ZfJ6C4acI7AIJLNNQj2LMhGqcjsmo7RrIHRTq0CB+aRdZEWp7UA8Lw8pHkraa87chrttYbPMceRfUtemTgHmDzv8sdJNXiQjiBshBogOtCwWmBZzQJJnwDcQJmUSDeYAuZKwwcpip0Kx8f2nN0ZGaZHp7JqGc55C4eCb449rQ6aaP9NI=;Vc5LHyIoKPjkRMPujkgbPg=="
+secured: "wn8YduutvJ3C4IsCbe+4h6F05yukBJFDiiKGOnnjx3XZtn9tcqtGKPbzqi9bCAKxmnbt0k0yhftCQPMqxvFKKvygMRfKtdxwm7KyKJw7WQCDEBw1hBKIpCfNhYEI5XUirXpgMWLocMHDJSYJT3vMemQqAIOGTqgkj4l7n9/xs0Xc76HRXfuTal6rRQJ4AEkB2AHXhYc/TM2EHJI6ORuMiuuOZySjEraV5wtb0eIotqD7uZpGwIotSheaqwItcstsPdQqCuKSvkDPVVMspvFiUS9UlQyxlFD02NYltW7mLQYTOqVtm/Xk3la7b/i0QMQ3UoTCMkZgBZNL2sx36wcq4ImKBbeVF2lYV2HfJdvK734N5Z+6QKHZFx64x2UzBLTtydmMdwWc5aCDxBWA3i4rISpPC4N2RgZHbGdVEXK+4EowONxM7pfXtREx75Sqqk5DyY+tm9w0PeATtoa4y+XRbBC52CiQMjGO/3feemEgE10eHqeiTqNHFV9fLyYA7VLu5yaaTohmh54Wy5RHzEoNFQ==;Vq+S2t51XrlGZ/2tUWg9sA=="
 ---
 

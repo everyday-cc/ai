@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/mit-research-predicts-technology-impro
 webUrl: "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1920
         height: 1245
         isCached: true
+  - title: "Researchers use AI to unlock the secrets of ancient texts"
+    excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
+    publishedDateTime: 2021-08-04T18:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803175228.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "410Zj/JHB2mwREFNtbyEoxMLIGwDOOFtm3aboTnJ03OCHtm55B07hsnhvEBNBWpfdd1F24LW3x+7LqvjUsbyncD1huz73lSewmCLiX7lvZ3PxBgEQWoPjOWuB0ZWIM54Q2ZQJtZN1fNxYfwi7FgjNn5lFjXMCV9jAvM/EwcHPD6B+NunFgKSKvUm0aqdSrTXPzeC92eAr8Cd076SiezYNzYULztzMPUmVWliyUWf52WG5fbvCaW6CLNY/tVy73zXnMHlXuxbOAnf+iG9no6iGPk2Lh9d4b4YO0wuMsOPHxVwRk6uKTEZGJ926klNX4RFVW2+R0OFPw/fgw0IXYKIIl6opJOkgkIfDBBXthL6Hd9hvtN7aWQBERtIdFWqrG/jFZedwmrI7X561oYS+gwDvCfJLvGTk6Vs+k1dHT9TUweKl5jtD/wqYzKsZQV/sC/lqSVLBcIomDsMg9KhmxYYWsdWrNcQQQJ0gu5Z8D5Ko055UgGNVXcQWZea62orS6IA9BlWDojlkbHu/qiplJJLNg==;oCwQ0ASU7IdGwaCySBFrWw=="
 ---

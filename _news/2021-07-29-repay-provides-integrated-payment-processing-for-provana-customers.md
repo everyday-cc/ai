@@ -1,20 +1,20 @@
 ---
 category: news
 title: "REPAY Provides Integrated Payment Processing for Provana Customers"
-excerpt: "The integration automates processes and increases control of payment methods on Provana’s repayment platform Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,"
-publishedDateTime: 2021-07-29T07:30:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210729005325/repay-provides-integrated-payment-processing-for-provana-customers"
-webUrl: "https://www.morningstar.com/news/business-wire/20210729005325/repay-provides-integrated-payment-processing-for-provana-customers"
+excerpt: "The integration automates processes and increases control of payment methods on Provana’s repayment platform ATLANTA-- ( BUSINESS WIRE )-- Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,"
+publishedDateTime: 2021-07-29T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers"
+webUrl: "https://www.businesswire.com/news/home/20210729005325/en/REPAY-Provides-Integrated-Payment-Processing-for-Provana-Customers"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Z+/3ukkoorwOCiEV/+Tptnm2BAyaX492/JKWQZfJP2ZnmSAwBDZYJKsIDNpbU7MZwRndhkn8c2Ih+5qyroxN7lumCRMoR+T90XY0vd+lKRqKVJL58sw3DADKVS/JtM/OfOMHFPcW3p+iGLQd04Fdp1YQ74/2STCkE020eF4AWZUYeCCl7SkSKJNzMj8OpWb/9IOein33ZFwgMGump/mwbQ4sJsWqZmm3fuF10VOPUk9JgDxCbhdRO9Sk3FJbxoI5jolk8ctv8WTp/utTGfnBHFEPivYBDRs1eyxaw6/rFEoQRv1YZzPppLGN/t/VUAsIeI8m3vfasIIfChWs/u1ReBX1WCUstHr77APYwyUCyoY=;OXeRIQJRXESctyn8/2ZcFA=="
+secured: "fPv6qCSA+qnmDeVA6yg/BGNiQjs9oKi8sHTAms1Pf9dNCK+vKnpbN7FD6+ZaPAf3Rkhy21Isix7OmGNadQ8eTw93SPPN8jj6z4eJ01bBFPSuP63U/1IPNs3qD7y36Yh6zciop5RzQ95h9LtKqqxiZsIv8uoMmUyTBKljyiC92BM8GsJahFk/FnmkdVSWqp5jeu1raUP3GpfvNb5z6MiReuhwxaerk9bb+JvmpxclsU8P8s7bYAy9/e48mMJLcMsmp6D47YjbBZ5GXJRIQXTt0iW9kVJYTxysf5jo7G0TSalKiZSGlElZvnK8pzlWOcXm40Iy9DMQjLsTXP74ti1BSw9JdLf9FV+gADw+4M+Geug=;7qsGC2Fj5OH9jC5Ab1FnRg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artif
 ampWebUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000"

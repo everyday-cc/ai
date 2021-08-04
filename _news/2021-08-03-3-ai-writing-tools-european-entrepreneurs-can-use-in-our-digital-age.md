@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/376438"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ireland joins €3m European ethical AI postgraduate education effort"
+    excerpt: "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2."
+    publishedDateTime: 2021-08-04T17:07:00Z
+    webUrl: "https://www.techcentral.ie/jqa4h"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 71
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Ireland at centre of €3m European collaboration on Artificial Intelligence"
     excerpt: "A major collaborative project across Europe is designing a new Master's programme in Artificial Intelligence that addresses human and ethical issues around AI."
     publishedDateTime: 2021-08-04T08:56:00Z

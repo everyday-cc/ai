@@ -37,7 +37,7 @@ related:
     provider:
       name: NextBigFuture
       domain: nextbigfuture.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg"
         width: 872

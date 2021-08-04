@@ -89,6 +89,20 @@ related:
       name: Eventbrite
       domain: eventbrite.sg
     quality: 32
+  - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
+    excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."
+    publishedDateTime: 2021-08-04T17:02:00Z
+    webUrl: "https://patch.com/texas/bellaire/houston-community-college-partnership-intel-enhance-hccs-artificial-intelligence"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 22
+    images:
+      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "N05qWMQrwGrFtjlF2zwVylRLajsaiZ+LCIEHApkcuxfYHVechW0aAoH3Xfy4qFZXtQSERDZhFD26IcvI4fHLqHPMXpPwWY89XiZ6uE9vFRvwCyaTkqOd78+0i6LXLVTFy3/iBvU7BhxJeKTYNS9aJRmM8OcKjlvS8CNDJc/gitqmlpHA/wdPD5X5ucFsL6rp5x8r/G5Eq9byJvy3UmaHuQAKQOi2re0dKFH8Shv5jsfdRewtkLnE79sMgVD/Aue117/FI2SxmoXJkQZvXU1kmsD1PbJcpxL0CMY8JuVFFMSo3gn1Ip+Hl5YH5ujpgn8w2KtViKoOLI2cdZDJc62hQoizTT9DrtgHbuGxU/mBSvpD864CQAdgsJ1uTHrliFED/GYKmAorJFj+xlGynga3eCTZWrcYGSxWR5yuX0TeK4o277/sa64fnCN/9eWXgJSCy+1ywJ8SeCkG7oCEE4ciJypN7fWCE4f2CINfsvZeknCQsdKzqyB905c6PwAGCrWMKcJ4xxlByACgGcMKCFcJ3A==;6Xx7aKd/mZ+UWjzkojgJrQ=="
 ---

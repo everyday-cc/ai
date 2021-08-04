@@ -54,6 +54,15 @@ related:
         width: 1920
         height: 1245
         isCached: true
+  - title: "Researchers use AI to unlock the secrets of ancient texts"
+    excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
+    publishedDateTime: 2021-08-04T18:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803175228.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "iydW2ZHjeoU8R6C61p/BLwMCaq4TMDb4mqbZ0WG1dOCx5SoXxNblZQ2s7c0VbVSklGxuU61tpAvnenJem8BC3WZ2936y0o0rvAwt+4oPUjp/9HtOaj6V+JOx7cWyrglMwKAypjQTN8RRYLRwz7g1e1L3wJ6wrd8ebJJ4coLB9vSWLGWoWUfiEoHRNxDy/+fH+3vcTvAIaEFz/RqvhnGV8P2qC9YtHWxsyMY9b796dflgt73hekJgW4+7o3ffqLD9IMiyo7cEX4QbTUH+1TH9numnPrzs7EyvRN7wn1ZRJGVKUw90whIfDSqhde39LDYIDzNplI488wjtmGLMXhSm/DGZEl+WUsDHgfJ3YmLHDnwCuzCIkWHnB9Iu89KOaUn8xfklmYmQdLNNoc2Tfjl3ZUPxVdB1FDXiNxkgL+/sSyTLwqtiTiEPlkSTvZmBH1HPyCdBX5AykUPd2EzRit67ecQYB4Nuj97Zy0P3ULuURuRvf+5j/BlMHbjdDjkgDrbTXa2189F55zIEl1KFa7kiRg==;drXgiTKGH41rx68P8pJ5Dw=="
 ---

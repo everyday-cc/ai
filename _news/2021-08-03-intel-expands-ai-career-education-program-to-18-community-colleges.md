@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-expands-ai-career-educati
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
 type: article
 quality: 108
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       name: Eventbrite
       domain: eventbrite.sg
     quality: 32
+  - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
+    excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."
+    publishedDateTime: 2021-08-04T17:02:00Z
+    webUrl: "https://patch.com/texas/bellaire/houston-community-college-partnership-intel-enhance-hccs-artificial-intelligence"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 22
+    images:
+      - url: "https://patch.com/img/cdn/assets/layout/logo-patch-800x600.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "IYtwGa21IMMkl5BAnkCWpfQx3lVAPmRnU7STbz094eNvahZPX1oFoL9kAkTwlqY34D+LpdV+VxVmakSgy0vOLfuulZk6kAnUSaKB2rupMskfJjEPc8UctrZdFb7qX8HxRC6XA5kHfYhgMBNHyMpmsNZvSuwNLpzCK2zr//h+CnM3A3ZIXLDNpXzd9hOjJMEMZvUxKzm8UxHH3QK6iBVCuCKeyNUAHWomP61SABGlYozCCOln73aVvySAwxOmOCPZzcgeWjZPf6BeJiM2w6SEWCW5m4PZhIs7ZMDVyTI5mR2OZIMU8BJIZ0rDdZZm4nOt3tMrwEJE8JjE7bsqPGaMYvzl0idjfJCamzZ/TcO9Xlkfov9zgt1Ng6UXZhlt6vsEoO4KICEHWL5y/yodO/O+KA0Qvbn8sXRhTaKlP9IuyoRyRrM3YI2HLIFiqSYT9aT0Gkyck8RrB6g9jx7jeVYQlYZyJuratXjkTBVYezSipTClzchEAPL3gugL/06lE+odJGiQFBOr/+4B2SW9u0IWRw==;KxLsRKnOaYe5egfVjM0JwQ=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Nvidia Offers Hosted Large-Scale Processing for AI"
+    excerpt: "The GPU maker this week is making its Base Command Platform generally available to North American companies. The platform is a hosted AI development offering that is based on Nvidia’s DGX SuperPod supercomputer and is part of its larger LaunchPad program for making its AI and machine learning infrastructure available via hosted platforms."
+    publishedDateTime: 2021-08-04T18:15:00Z
+    webUrl: "https://thenewstack.io/nvidia-offers-hosted-large-scale-processing-for-ai/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/08/70cf78f2-nvidia.png"
+        width: 650
+        height: 445
+        isCached: true
   - title: "NVIDIA Looks to Lower AI Barrier to Entry"
     excerpt: "The Base Command Platform aims to reduce the cost of training AI models and lowers risks for organizations when prototyping models."
     publishedDateTime: 2021-08-03T15:45:00Z

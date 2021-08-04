@@ -7,7 +7,7 @@ originalUrl: "https://www.newswiretoday.com/news/175950/"
 webUrl: "https://www.newswiretoday.com/news/175950/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+
+related:
+  - title: "Self-driving-car based on the Nvidia Xavier Module"
+    excerpt: "Self-driving-car based on the Nvidia Xavier Module. Abstract. This is how the U.S. National Highway Traffic Safety Administration defines level 5 self-driving cars: “The vehicle"
+    publishedDateTime: 2021-08-04T09:25:00Z
+    webUrl: "https://github.com/Aviageek-Consulting/Self-driving-car"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 24
+    images:
+      - url: "https://opengraph.githubassets.com/ec60046d7654f2168bb82a7bdc2f0ff4a9ce3cde75986de9a38ab1c313acecc9/Aviageek-Consulting/Self-driving-car"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "9VPKaTEdybXl4uFkOcyVQ20O4W6UTy3y/dxj4vaZYWdlXM3aD1Uk9NdDyZcVnnKTT7sbamJZ7sFPYX7uXFl0dubW+oXG0KbD4tzDXY/PjlVER2PKfInF5YZPQPlSGA51R8AHxRTTiraCopCSt8RHyRTxJeyngcja/RNAcpHUBaaljieeWqezF7Xepr4HKvguIwL+oKLQL9QpohkTR/lbADF97eAnWPyOIjXJA5Sb/3ZBvzRwAhg8vupLK1aKiSTUHu1fCJeyzV8oQcW+8DOMZlonDGXx+d/zX1jBUgGVajkRQrKJgQ8aQDS96+MyDv7+LmpFta6HdNkODSABqP5om0PEFJQzstc0/gIgp1nMn0k=;HqhHeQN5bxtu0AEprV7P1Q=="
 ---
