@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
+    excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
+    publishedDateTime: 2021-08-04T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "16 Upcoming Fintech Events in the US"
     excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
     publishedDateTime: 2021-08-04T09:05:00Z

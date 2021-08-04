@@ -26,6 +26,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Washington County native’s photography wins recognition at international competition"
+    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
+    publishedDateTime: 2021-07-31T05:08:00Z
+    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 0
+
 secured: "udOLLvqsXh7WA/K1Ab4z8CmA3y1m64T5HAs9lcEzOQhOcJRcrjXlO6C8UfzIJyuBdjtqpP+v6X7rzjO2dY/otFFELr1EDtzbDsrgG04sJDZpX2lF7gKrPku+kL4EyejHbMLj1s8YCKAt4VrD141sbFU5TVV3jU+AT9Rj9qgeam9/Iv9Ax+bPokTfPHctCUWM8yV5yAtJWzIOfJ+RfiNMvEHA179Hs4z3JgfLUBpcYQSVSwJkhKnTer0nZoOmgjfZ+ngh2fmMwetJHht4VzEexRi2YlHSWg7CfhdxBi43z7ESVO866xXly/fRKqaO6ypQoFTeVOPBEYn08dAVqifYZnVbvILI7zq9vQgU4sJ6SEJxXXZk/RFs/2kWbg/df2DhUwX0RTV0NNhHg8mWT52dXoLfOZ5deSgho7TejwVgugJikfjK1DkxaQQPe4FMfW0Edo7fWfNa8CKoaB7vLnOXdfvT7QMq7+nJHZ+42x865mzrz1HkLQrLPvwX7YEsogZNPxzLIBNNW8qLSr37XKEY8g==;T7GW1eP0oNLfOIiNJ5uJZw=="
 ---
 

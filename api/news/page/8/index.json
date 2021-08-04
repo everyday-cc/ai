@@ -2,6 +2,231 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
+      "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
+      "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
+      "originalUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
+      "publishedDateTime": "2021-07-27T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
+      "title": "AI-Powered Beach Cleanup Robots",
+      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
+      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
+      "publishedDateTime": "2021-07-27T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026.md",
+      "title": "Global Cognitive Spending Systems Market 2021 Comprehensive Analysis, Business Growing Strategies, Industry Segmentation and Forecast 2026",
+      "excerpt": "Global Cognitive Spending Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has articulated comprehensive, well-verified, and minutely analyzed research postulates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-inkr-draws-in-31m-to-make-more-comics-accessible-to-worldwide-audiences.md",
+      "title": "INKR draws in $3.1M to make more comics accessible to worldwide audiences",
+      "excerpt": "Luong says INKR’s proprietary AI engine ... with plans to add more languages. Some publishers, like Kuaikan Manhua and Mr. Blue, have used INKR to translate thousands of comic chapters from ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "originalUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/IMG_2585.jpg",
+          "width": 9736,
+          "height": 3904,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/28/inkr-draws-in-3-1m-to-make-more-comics-accessible-to-worldwide-audiences/amp/",
+      "publishedDateTime": "2021-07-27T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
+      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
+      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-ibm-upgrades-its-big-iron-os-for-better-cloud-security-and-ai-support.md",
       "title": "IBM upgrades its Big Iron OS for better cloud, security, and AI support",
       "excerpt": "IBM continues to fine-tune its mainframe to keep it attractive to enterprise users interested in keeping the Big Iron in their cloud and AI-application development plans. The company released a new version of the mainframe operating system— z/OS V2.",
@@ -945,247 +1170,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-farm-tech-startup-iron-ox-hires-david-silver-the-companys-first-director-of-robotics-as-company-prepares-for-hypergrowth.md",
-      "title": "Farm Tech Startup Iron Ox Hires David Silver, The Company's First Director of Robotics, as Company Prepares for Hypergrowth",
-      "excerpt": "Iron Ox, a farming innovation company with deep expertise in robotics and artificial intelligence, hired its first Director of Robotics this week as the company accelerates growth and expands its commercial footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/farm-tech-startup-iron-ox-hires-david-silver-the-company-s-first-director-of-robotics-as-company-prepares-for-hypergrowth-1030649876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1530162/IRON_OX_logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections.md",
-      "title": "Clinical Study: Kaia Health Computer Vision Technology as Accurate as Physical Therapists in Suggesting Exercise Corrections",
-      "excerpt": "In the study, patients with osteoarthritis of the knee or hip performed a series of exercises while being simultaneously evaluated by computer vision technology and physical therapists. The results showed that physical therapists agreed as much with the exercise corrections suggested by Kaia Health computer vision technology as they did with each other's exercise corrections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-clinical-study-kaia-health-computer-vision-technology-as-/2021/07/27/9417274.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-clinical-study-kaia-health-computer-vision-technology-as-/2021/07/27/9417274.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-legal-ai-an-automated-versus-autonomous-future.md",
-      "title": "Legal AI: An Automated Versus Autonomous Future",
-      "excerpt": "Now more than ever, corporations have more incentive to adopt AI, driven by the promise of increased work-life balance, fee reduction and expectation management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/legal-ai-an-automated-versus-autonomous-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/legal-ai-an-automated-versus-autonomous-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/27/legal-ai-an-automated-versus-autonomous-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/27/legal-ai-an-automated-versus-autonomous-future/amp/",
-      "publishedDateTime": "2021-07-27T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-bidens-antitrust-revolution-overlooks-aiat-americans-peril.md",
-      "title": "Biden’s ‘Antitrust Revolution’ Overlooks AI—at Americans’ Peril",
-      "excerpt": "A handful of companies have outsize influence on the world’s artificial intelligence. Policymakers must act now to stem the rise of powerful monopolies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/opinion-bidens-antitrust-revolution-overlooks-ai-at-americans-peril/",
-      "originalUrl": "https://www.wired.com/story/opinion-bidens-antitrust-revolution-overlooks-ai-at-americans-peril/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/opinion-bidens-antitrust-revolution-overlooks-ai-at-americans-peril/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bidens-antitrust-revolution-overlooks-ai-at-americans-peril/amp",
-      "publishedDateTime": "2021-07-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-blaize-raises-71m-for-ai-edge-hardware.md",
-      "title": "Blaize raises $71M for AI edge hardware",
-      "excerpt": "Blaize, a startup developing AI hardware and software to accelerate computing workloads, has raised $71 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/",
-      "originalUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/27/blaize-raises-71m-for-ai-edge-hardware/amp/",
-      "publishedDateTime": "2021-07-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

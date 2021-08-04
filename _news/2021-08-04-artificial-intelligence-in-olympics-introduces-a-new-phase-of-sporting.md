@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-04T13:30:00Z
 originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-in-Olympics-Introduces-a-New-Phase-of-Sporting.jpg"
@@ -42,6 +43,6 @@ related:
         height: 900
         isCached: true
 
-secured: "lZjwaPv/R0m1u3nKtI9p+Cj3CHvd3sSl5P456gflzTQBCgll00t9NBOas1645aYdE6ASHRahkHVAL96E3UjVn6lD6ZW0JzctjQZs3Fu0CWvstLRqf7+I6UHVrz7+HQGo0vlQW7LiQCdkQJuRHP+iw8IvqSiVduVe4RUZFZaIaMCxVv5HR6SLiAJbMqrdUdAMTT9zhT+pEN7VSoFQmL4m5wvsbQHv8HsDp7eU+jrSDybYGlNSM4YYsy/J2hj1StIkCfDmMCGtOoUfsNjKjHQ81K0YBHiVb/2oI88GLbGyJguFX93HItIyosMLpeQiMu+VOx+nVy6ECyjPn8eqmazP5wATAdqJXDAbCCu0IySsUbs=;182/oAwOfUyuD9navLonow=="
+secured: "QuWWd1nSKTsAWbzMAey9WrYXGm6u7iNoZV0hII8FXiYpjzluspKaxFH3AqaubdBBPbjOEEDqY6FS/C2JYdObVYE71ucI9SnVfOgjj0JwhCwk1Blldl4spfzQN6gEcLwqM2qbys7/YBPTpKjcRYsR1sZRVerUQ8bZkP/fjGaDcT+vW1sFtY0FJ+gvWug3/5pwwjYVQ9OgDPDYBE6DxZuD1uLYjA3B272GcxyIj7t8neIrvMuukNA7m/jIafb0EYzAEZF6tmJ6l4sTCP6ByAc8ZIzS+9dUGkL/XXS6gqqoadohas9g6uaFlKyl2vMH70akF59+SNjh6a71K7sYSJdpr9+Q1fuC2dVO07qG/s73OpeDWVAkdV76O10QJwSfNcjciGaElM4MNXcjzu8HAkVwm3VA9coIvz18jvbWAzXey1KiP+uhrkXLDIJyCQFJEvwoLfQWvssn0lK3fKbqYNt3VqfW3Sz+AjUTyVLKncDTNl3YKT348UBPpmzirDVbIxvjJOD6SE7NWIoBAZSnjfVrqA==;Bq1d3qUkwJvpIOSBFROjag=="
 ---
 

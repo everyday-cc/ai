@@ -2,6 +2,265 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-06-30-ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai.md",
+      "title": "AI Is Starting To Understand Us, But How Well Do We Understand AI?",
+      "excerpt": "Artificial intelligence (AI) still often overpromises and underdelivers, but we are seeing AI begin to understand us and adoption has accelerated rapidly. Are we prepared for what is coming? Will AI Weed Out My Job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/",
+      "publishedDateTime": "2021-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper.md",
+      "title": "This AI Just Evolved From Companion Robot To Home-Based Physician Helper",
+      "excerpt": "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbe5bce16dc1909fa61bcd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3292%26cropY1%3D171%26cropY2%3D2022",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
+      "publishedDateTime": "2021-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027.md",
+      "title": "Artificial Intelligence In Insurtech Market Grows Owning To Innovations by 2027",
+      "excerpt": "Request a sample Report of Artificial Intelligence In Insurtech Market at:  The business intelligence report of Artificial Intelligence In Insurtech market provides conclusive data on the business dynamics over the forecast timeframe with respect to key growth drivers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027-2021-06-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-16-smart-marketing-approaches-to-build-brand-recognition.md",
+      "title": "16 Smart Marketing Approaches To Build Brand Recognition",
+      "excerpt": "With so many channels available to reach potential customers these days, it can be challenging to figure out the best way to build brand recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60da2672c3cce41a8d021650%2F0x0.jpg",
+          "width": 1200,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2021/06/30/16-smart-marketing-approaches-to-build-brand-recognition/amp/",
+      "publishedDateTime": "2021-06-30T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards.md",
+      "title": "CrowdStrike Wins 2021 Amazon Web Services Global Public Sector Partner and Canada AWS Partner Awards",
+      "excerpt": "CrowdStrike, a leader in cloud-delivered endpoint and workload protection, today announced it has been named the winner of two key Amazon Web Services",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/crowdstrike-wins-2021-amazon-web-services-global-public-sector-partner-and-canada-aws-partner-awards-2021-06-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-shenzhen-chinas-silicon-valley-plans-to-turbocharge-local-ai-development-with-first-of-a-kind-regulations.md",
       "title": "Shenzhen, China’s Silicon Valley, plans to turbocharge local AI development with first-of-a-kind regulations",
       "excerpt": "Local government departments and state-owned companies will be required to take the lead in using AI products and services to boost implementation of the technology.",
@@ -951,240 +1210,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
-      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
-      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
-          "width": 4928,
-          "height": 3280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "publishedDateTime": "2021-06-29T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-machine-learning-startup-datarobot-reportedly-raises-250m-on-6b-valuation.md",
-      "title": "Machine learning startup DataRobot reportedly raises $250M on $6B valuation",
-      "excerpt": "Machine learning automation startup DataRobot Inc. has raised $250 million in new funding, according to Axios on a valuation of around $6 billion. Altimeter Capital Management and Tiger Global are said to have led the Series G round.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "originalUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg",
-          "width": 1980,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-zoom-acquires-an-ai-company-building-real-time-translation.md",
-      "title": "Zoom acquires an AI company building real-time translation",
-      "excerpt": "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "originalUrl": "https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/6fNTuqlQ4-TRmQ9LVzVOFOw8exs=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions",
-      "publishedDateTime": "2021-06-29T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-perfects-youcam-teams-with-smashbox-for-ai-face-analyzer.md",
-      "title": "Perfect’s YouCam Teams With Smashbox For AI Face Analyzer",
-      "excerpt": "AI and AR technology are applied to the beauty world as Perfect and Smashbox Cosmetics team to create Smashbox Eye Genie in the YouCam Makeup App.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/shutterstock_1875785341-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/perfects-youcam-teams-with-smashbox-for-ai-face-analyzer/amp/",
-      "publishedDateTime": "2021-06-29T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

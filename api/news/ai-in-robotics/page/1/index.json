@@ -246,7 +246,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -572,10 +572,10 @@
     {
       "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
       "title": "Cansel Brings TinySurveyor Robot to Canada",
-      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
+      "excerpt": "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -594,12 +594,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T08:06:00-07:00",
+      "publishedDateTime": "2021-07-29T08:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

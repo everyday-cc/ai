@@ -15,6 +15,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
@@ -22,6 +23,6 @@ images:
     height: 368
     isCached: true
 
-secured: "AN3bVsB6Ohxwc0E6eRI7mbpy9Pku23N/a4aTcOGIU3xDKzbBfsmGYB94KDSsVz593rx/oH8WT8v4dX5TxoAAMtr4m3QPXjQPf5haPZr99gQSOJkinBNERriyvHztPyMlnoYpM36WUTYYDHOvjf8I/WQktRtafr9o/8kIAOAbUs+buUz8gARQLXMghZVD9okAQwvBtp2tHW46/EBl2bPsYA6Lx9NwKXy0tiD5+ZHr0cbisL5+NzJKSYWgI7lcPRSHkuMznXLZntG+LkzJekQB9p1nZhnE3oYu23w/GDw9+gBU3FgjPc2HUUEQ2sh3rBcXBRPR6iky/rmVvLY3K4GkALkBgd/wNuz8FSaUP0z85VU=;tFy+MLSjN2a+YznKqX9EFA=="
+secured: "Pcw8QPvwhqx6Q/i2rcWH1l+7dimYBXNrEhrLP1Y4z62KUVGpm2dcmcw+cXllxUCwsEmwVcFqDYIYCGjmG6L4LNsDyMTD/czHcudsnUNz2RkYgAjTNCXOnfY6fZgjVxOrfq5zbhHIapnr9XYvPP+WFg2OBvqbMtpO+3Z29MFvnCfcQ7aQU/hg8GvuBDSOYujqL29Y5RJL+cmxQAdCMOTNk4RPlOpImTMPpJiTY7IBZQwnTtcsKj58AYyBF1sNappMyv6zF7dcU2FtMP+jN73MJgAGoHo2xM7EGbVv9d+gbN0yIeycwU7QEQTKniqcOls1eXtZtpfyclJKkXgfPneacglE8BGLqRjYFt1bkXpnaUf4JnrrUXBaVVNgDUa1lotkqI5gYyq/KY40Sy2Jtaemls9+DFCgAZ3MZ9E1nzMJKlNPzPm5WkUvfel/V+0DZ7c7jimgAtkjBr6Q/xxmhWqur8E6L81up2etkRWNNayqUNwv+574LgS8HYZHPnHdO4c/TLExRIivNOJSRVuhRT30dw==;TqyPNDY6FjqsugIeDoRInQ=="
 ---
 

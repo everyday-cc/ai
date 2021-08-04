@@ -159,7 +159,7 @@
       "originalUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -243,6 +243,51 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
+      "title": "What the evolution of AI/ML means for government IT",
+      "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg",
+          "width": 760,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -1295,49 +1340,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-far-reaching-impact-of-microsofts-entry-into-rpa.md",
-      "title": "Far-Reaching Impact of Microsoft’s Entry into RPA",
-      "excerpt": "Microsoft has officially entered the robotic process automation (RPA) marketplace with some major changes to its Power Platform. Learn about the far-reaching impact of Microsoft’s entry into RPA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
-      "originalUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

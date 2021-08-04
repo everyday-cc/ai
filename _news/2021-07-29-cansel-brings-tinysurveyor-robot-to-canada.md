@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Cansel Brings TinySurveyor Robot to Canada"
-excerpt: "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada."
-publishedDateTime: 2021-07-29T15:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm"
+excerpt: "GPS-guided mobile robot will help surveying, civil engineering and infrastructure professionals increase quality, efficiency and above all,"
+publishedDateTime: 2021-07-29T15:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
+webUrl: "https://markets.businessinsider.com/news/stocks/cansel-brings-tinysurveyor-robot-to-canada-1030663408"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -21,6 +25,6 @@ images:
     height: 317
     isCached: true
 
-secured: "RdCx1zqcqeDl55cOK4ZaTHZp7NOxjenBYLndYQTwQs7yG/qS/Fj1/9GEDP2hLs4cBEESEWyA/EG079PdnusD9APT8s66yV3o7I3qFck2s/6t+OO+U+9uVh9HqaqVuSwsGO3Rc8YJaA7mHEKcWD77gMhyYZpzHf94Pmh2oGoYfpdoMUfdjmzJcjBr48LZj87WL+tPivPLPoN5GZh7/oF/N1A/sUCB/btEy2cFLLfsQdct2unodHL5lpLpILFDNhdTrbW3L4jKC8F4ddgXlcBdZvdJkPeki3KuqKF6KQCckaL9ct+7q8zZxCMba3ceU8Yd6YZMf2EQSvQppdGT1LKaPyqK6NM94pNJBLg3kBo6HjU=;QZjui0OUe93R/TYpUfSqUg=="
+secured: "mVEGRFhH7YgJLhUxn2/RGL1R8LcGQyn2Ke60Xk5+3Hv4/dxKuMmHFn0A2PqZPBpQCsPofaUrmieP7fksjmiLASt0amQ7ZzR3nU+jOTSRZocBwr204O0a8d7eiNELq7YxQ3goa6ovvTaFASvvSZZNowce7F4ujIFtObMPIm2TKEnUPlWf5fOPFZevBXcxuZnoHSLaksNIHAxr9agksT7L+eCGW1IUB4KPmg0xXbCh5JiSMZjypz2JLS+kiqC8w7T2JM8iF3yafc36g0GNNAiNVXQvfbQnt8j5esicc/FnMH7CAL7qzCHOtlhcOmgeDLsFaqEfDtbr6iNRDMVrsxCMnHMgvzr2vkPk+AtojO0N4lI=;RJHMQJKBxppEh8ZEy4YzFA=="
 ---
 

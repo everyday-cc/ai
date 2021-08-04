@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-idc-ai-spending-will-reach-342b-in-2021.md",
+      "title": "IDC: AI spending will reach $342B in 2021",
+      "excerpt": "In a new report, IDC reports that companies will spend $342 billion on AI software, hardware, and services in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/data-science-mitchell.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/",
+      "publishedDateTime": "2021-08-04T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
+      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
+      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
+          "width": 1200,
+          "height": 1293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
+      "publishedDateTime": "2021-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-sensorium-demos-ai-driven-avatars-as-latest-virtual-beings.md",
+      "title": "Sensorium demos AI-driven avatars as latest virtual beings",
+      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Sensorium Galaxy is an upcoming virtual world that will blend human and AI characters so that humans can have unscripted conversations with virtual beings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sensorium.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
+      "publishedDateTime": "2021-08-04T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-can-an-ai-be-an-inventor-new-legal-judgments-say-yes.md",
+      "title": "Can An AI Be An Inventor? New Legal Judgments Say Yes.",
+      "excerpt": "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/",
+      "publishedDateTime": "2021-08-04T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-mit-researchers-use-ai-to-predict-the-next-big-things-in-tech.md",
+      "title": "MIT researchers use AI to predict the next big things in tech",
+      "excerpt": "The researchers analyzed 97% of the US patent system to predict which technologies are improving most quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system",
+      "originalUrl": "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-3.jpg&signature=7a32c68e1454861ec122f415df3561a0",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
       "title": "Spell unveils deep learning operations platform to cut AI training costs",
       "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
@@ -266,7 +524,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -491,6 +749,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-04-tesla-begins-sending-out-ai-day-invitations.md",
+      "title": "Tesla Begins Sending Out AI Day Invitations",
+      "excerpt": "Tesla has started sending out invitations for their upcoming \"AI Day\" event, complete with an interesting teaser... Tesla has started sending out invitations for their upcoming AI Day on Thursday, August 19th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tesla/news/tesla-begins-sending-out-ai-day-invitations",
+      "originalUrl": "https://www.thestreet.com/tesla/news/tesla-begins-sending-out-ai-day-invitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations",
+      "publishedDateTime": "2021-08-04T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-fore-offers-data-analytics-programme-for-healthcare-pros.md",
       "title": "FORE offers data analytics programme for healthcare pros",
       "excerpt": "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,",
@@ -542,7 +843,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -950,279 +1251,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more.md",
-      "title": "Robo Olympians? Olympics schedule packed with bots, AI, VR and more",
-      "excerpt": "Aside from premier athletic competition, the quadrennial event is also showcasing a number of cutting-edge technologies, carrying on a tradition of Olympic innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
-      "originalUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/03/ac96dff2-23aa-417c-8954-e4c2aadef4ce/resize/1200x/688a721932d9c2efbf5f45f9d06ae5d7/olympics.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
-      "publishedDateTime": "2021-08-03T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-music-tech-startup-moises-raises-oversubscribed-seed-round-of-16-million.md",
-      "title": "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million",
-      "excerpt": "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/",
-      "originalUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/",
-      "publishedDateTime": "2021-08-03T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
-      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
-      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "publishedDateTime": "2021-08-03T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ampere-computing-buys-an-ai-inference-performance-leap.md",
-      "title": "Ampere Computing Buys An AI Inference Performance Leap",
-      "excerpt": "Machine learning inference models have been running on X86 server processors from the very beginning of the latest – and by far the most successful – AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg",
-          "width": 705,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "publishedDateTime": "2021-08-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
-      "title": "Facebook to use AI to analyze encrypted content - report",
-      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
-      "sourceUrl": null,
-      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
-      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
-      "publishedDateTime": "2021-08-03T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "teletrader.com",
-        "domain": "teletrader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
-      "title": "Hootsuite acquires conversational AI startup Heyday",
-      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "publishedDateTime": "2021-08-03T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

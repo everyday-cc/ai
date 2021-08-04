@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI can now offer the public rides in its autonomous vehicles in California"
-    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and VW, has landed a permit in California that will allow the company to give people free rides in its self-driving vehicles on the state’s public roads."
-    publishedDateTime: 2021-07-30T21:56:00Z
-    webUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/"
-    ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Argo AI will now provide free rides in California in its autonomous vehicles"
     excerpt: "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules."
     publishedDateTime: 2021-08-01T17:10:00Z
@@ -84,20 +68,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
-    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
-    publishedDateTime: 2021-08-03T21:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
-        width: 870
-        height: 485
         isCached: true
   - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
     excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"

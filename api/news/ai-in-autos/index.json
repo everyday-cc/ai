@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
+      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
+      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
+          "width": 1200,
+          "height": 1293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
+      "publishedDateTime": "2021-08-04T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-tesla-begins-sending-out-ai-day-invitations.md",
+      "title": "Tesla Begins Sending Out AI Day Invitations",
+      "excerpt": "Tesla has started sending out invitations for their upcoming \"AI Day\" event, complete with an interesting teaser... Tesla has started sending out invitations for their upcoming AI Day on Thursday, August 19th.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tesla/news/tesla-begins-sending-out-ai-day-invitations",
+      "originalUrl": "https://www.thestreet.com/tesla/news/tesla-begins-sending-out-ai-day-invitations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations",
+      "publishedDateTime": "2021-08-04T01:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-xiaomi-invests-in-a-second-self-driving-company-within-three-months.md",
       "title": "Xiaomi invests in a second self-driving company within three months",
       "excerpt": "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total.",
@@ -34,58 +130,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-ai-self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times.md",
-      "title": "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times",
-      "excerpt": "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60524091a5ce3219c731d40d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1232%26cropY1%3D67%26cropY2%3D760",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/",
-      "publishedDateTime": "2021-08-01T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1352,49 +1396,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
-      "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
-      "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "originalUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Future_tank_21_July_2020.5f15bea095cd7.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Military",
-        "domain": "militaryaerospace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

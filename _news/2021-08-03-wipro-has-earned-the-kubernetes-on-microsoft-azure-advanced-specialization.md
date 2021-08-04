@@ -47,6 +47,20 @@ related:
         width: 350
         height: 350
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preventing cyber attacks in Microsoft Azure. As a Microsoft partner,"
+    publishedDateTime: 2021-08-04T13:05:00Z
+    webUrl: "https://www.lelezard.com/en/news-19935078.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "beO02lSSJFxML5Db2l/iy8mmlP0ZSPytWjy5pxTD6O32c1v/H6fAi0mdpYNDQfn67vYJeoKaQJksroTGof8Yid4x9jOmeoOnicsCORbxXnNT2gCJkF2MZsYUYmHqAdEGz851A3rkBIO9x6g9QYof2S1255373stxnddhgoqCO8adLlpUWs3yH8IV3GkGGNLHi0McjFqVQ8JPKDNwzrvlKVYFGe10aedx6w8dEek/YoAQa1d0C5jVy3VjjNYmdfEsFdk50zY1j348GMLGQKSB60GAFJObaR+bYtCanOrNqDbDOwB9k+fi7ADU8NtObAhKeGGj3BlrJfaWtashH6JPfvK4tD39th47MihMI891KIA=;QPoEV6U5/1DxJrrPNjmIww=="
 ---

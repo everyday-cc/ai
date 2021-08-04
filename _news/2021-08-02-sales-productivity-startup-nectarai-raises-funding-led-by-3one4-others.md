@@ -36,6 +36,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 65
+  - title: "AI-based agtech startup AgroScout raises $7.5 million"
+    excerpt: "Looking to reach more than 500 million mostly underserved farms worldwide, agtech startup AgroScout has raised $7.5 million in a Series A funding round. The company provides farmers with a comprehensive crop management solution,"
+    publishedDateTime: 2021-08-04T15:44:00Z
+    webUrl: "https://tech.eu/brief/ai-based-agtech-startup-agroscout-raises-7-5-million/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2021/08/agro-1.jpg"
+        width: 1600
+        height: 700
+        isCached: true
 
 secured: "/X4+aIXQoMjV2MxReIvCuuRvofncPyLAkGUo16uD481gQkP3Re+h/uuRobJis8BFUDxldB8o3V3htlyeC0pfVEbo/kJE71WdwkQUe2+ivElFv8ihjiFmD6xD3TFjOKeNI+ya6oc9ejy1MPAlS2d+8GX7Hjz1t/7lcWhEG/SPugErh+eQLz2QJ1Gi9i4oaN94kiOAV3h5oC39XOWDZvosSujTV5VnSrmu4D0vngodpNQ+hU+3ywwS9kOwsV1kWDFpQC5BrYOgl42zHV02f1FL08VintT0z62r//W4eZcUVeFkn1VeU9XNYwllYPCTGwFr9t8FUGe53s5bI6iQqCZgXf8OUFAboXCf6dxu/eOJkj8jSIRk0L8PPcogf8wmUV60zi4+TXsodcOKwCiEefxD8GBWmKr2FPhj4w5s63p7C3PzvLR+MBZ6s0sDrbLvujvcfjQpmlwoN+/7Y1Awbs9QoV0ZLWjDpiNUCLq7LIZoHP3Daj4RjxEZL1w2I2TZ1DMV009hHyVH7cZ5sEQbhl4BFA==;1eKkivnh4IBJJ7TZM0L9qQ=="
 ---

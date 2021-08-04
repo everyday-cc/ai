@@ -36,20 +36,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Here’s why AI transforming banking matters more today"
-    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
-    publishedDateTime: 2021-08-03T15:38:00Z
-    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
     excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
     publishedDateTime: 2021-08-01T18:37:00Z

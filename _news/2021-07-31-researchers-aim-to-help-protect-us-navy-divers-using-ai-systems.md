@@ -9,8 +9,8 @@ ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-di
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: SlashGear
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "MIT researchers use AI to predict the next big things in tech"
+    excerpt: "The researchers analyzed 97% of the US patent system to predict which technologies are improving most quickly."
+    publishedDateTime: 2021-08-04T14:11:00Z
+    webUrl: "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-3.jpg&signature=7a32c68e1454861ec122f415df3561a0"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Researchers use AI to unlock the secrets of ancient texts"
     excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"
     publishedDateTime: 2021-08-03T18:44:00Z

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "How AI Is Making Employee Equity More Accessible For Startups And Their Teams"
-    excerpt: "AI and machine learning (ML) are enabling systems of support to be alerted when an employee is leaving their job."
-    publishedDateTime: 2021-07-30T21:22:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/512x512/https://specials-images.forbesimg.com/imageserve/61046c75d03df1f85d616035/Scott-Chou--ESO-Fund/960x0.jpg?fit=scale"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Honor teases Magic 3 series, will feature various AI technologies"
     excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
     publishedDateTime: 2021-08-02T07:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
         width: 500
         height: 288
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
+    excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
+    publishedDateTime: 2021-08-02T17:28:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-in-manufacturing-market-2021-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
+        width: 800
+        height: 444
         isCached: true
 
 secured: "dyVHkRmn14izwoGIGlRKr38tVly/YKS2Arr8cMN5QaADEfjvzYCTwtftGpVkd53eftDE2TbWoh0oxlK+NOvmmgjrvOs/dnXOg7xTtlwqAizEHYi8+RlMhsUeaR2ly/9eALuLnq48gactxKIKvpFyb7LAjcVsWDjioF0thIWiSW6RkSVJG3weNcsGEJKerm9FfAB4ep/hXR7atUfzkyf74JOKNkGLxBkYZ75NO2Pu1xwkF2T+mWEnj2g3aFBdEaaGKJ4EiO5BnN8WoOZ6zhArKdbdKm/3O3Lm1j3gTT/3gCfJPHtZvDV/iPDiJ1aYRe+jYzP1kj6chNbZHvZhPrntUNhi74I2ZUXkOz5fzrr6H/M=;TOz3cfy9cT3H7xJq5yyKoA=="

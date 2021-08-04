@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Making Employee Equity More Accessible For Startups And Their Teams"
-    excerpt: "AI and machine learning (ML) are enabling systems of support to be alerted when an employee is leaving their job."
-    publishedDateTime: 2021-07-30T21:22:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/512x512/https://specials-images.forbesimg.com/imageserve/61046c75d03df1f85d616035/Scott-Chou--ESO-Fund/960x0.jpg?fit=scale"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Honor teases Magic 3 series, will feature various AI technologies"
     excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
     publishedDateTime: 2021-08-02T07:32:00Z
@@ -78,6 +62,6 @@ related:
         height: 810
         isCached: true
 
-secured: "dvMUzXVrxfpP52Vz+ydxD+fVoO4c06MDhyLPLlQkFKGnRKQDrXQb3vpq7fm/FfInmyHbrt8hBt12kIj8dcOfAsphBMzZplpqSf4h1JgI5Qg1H6XBaZxW6HQe6rHM5cfj+y3yqhIppzWQ4NRBkbNW8+MG2ytBJg7YOhN8eg7GDeBVDJwHvKJ6tacgfV0tpc4Cnl5Hk3nxLrQewlTxEswSnSSLb6tNfe50ZyI5JYeBEGFsHgEv1B3msUQ6Ey8ZdYwo7Sebm50mkBVgr/eNh8FjDi2R9tC/QU4z8ysW/JonkG2eEi2mhiOLxN3RCeHQtXt9AuqKDc2+qSch07d9KUPdX34BhWD7a1rUUSDin1zGSZ0yAV8fNsO1LIWqMXuRjrQPhRlR4QVHSjnl82sv+FOatZ9ufKYXBWKC8JE6gbWsQqf4ZOziMVxnyh1C7U9fUyo2Ks42hheMinQRluHnJHooIvRv6Abq53IhpUYGua03SPx+B8eXF79abRAUOWLcD2bfneFMxi80tjTQMfOBMjfuUA==;lfSWzxx/8GyPHhNA8cC2rQ=="
+secured: "7qmHuDKp4uurqu0xz/QDwq1qccdz8y54msCCP/Pn2ZhF465W0DVq/kz8nFU+FoTwTlZZdSVHKzGQorE21sRGQfGzJMob0xSlunrYLBKwy2Ck/WdAFEc6Z6xWo8oF1ZZFrmMiZNphdtbQj8dc5ETeSCqNxHtNrZnkGqEjHNrMvy4sHFdld0O0lzmcV+5sYkGUWg9WLIJE/l7/MMjiuRrU2z2AnOIaYSWv2dcxQrwFMEjtrzeVBZP/ZE42t6YETRZ9nHSaGen0Ho45cl7C/JWXRhMswe9nAUvSg4e96a9mppcszwNoHx2lv3ZS5YJsFsSkJ3drUm8mW9zh0o45vXyeK1R4D3rjAUYpWmgxiv0Hc34=;2qua1X54V5/C2l8F0apCbA=="
 ---
 

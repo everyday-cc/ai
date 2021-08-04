@@ -33,6 +33,17 @@ related:
       name: News Dakota
       domain: newsdakota.com
     quality: 19
+  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
+    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
+    publishedDateTime: 2021-08-02T22:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22287720/national-university-part-of-prestigious-team-selected-for-20m-national-science-foundation-grant-to"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22287720"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22287720"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 12
 
 secured: "4h0PZI4viNwF7zSgHQru5XwMfep/zVKp6Zr95Ok6ggsPjNyKm0wGpxaSlDtP9NXcC6zSsgC9MVR9yEnnnFyVB+4IqmINCKUmXnstDNRDn3frfoMGb2lvkxUr37oUFkUjjTBrTyeiuV1uscoq3xOMuxTvA74noB8HFvx3cRkSGm/cJ+MSBvt083o5SwYnJds6jyyg0eherbufcRYOJ77ZMVTsBCir0ue+PyHwncKbaefoNCMfkM4U1ARA6yIoIXoDX4XPscMEhAG4jreNJJ+9I4Ml1cB7l1JXhEZGJHyCyD1UCHVxLKyFiVLp9NwTmU2qOv8YfO0HmVwrvGYlyCkRBqMunsSiBVgsCLaF1t1uD6c=;FOCygU/8ApfWqVaUopC7gA=="
 ---

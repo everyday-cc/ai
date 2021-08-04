@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI can now offer the public rides in its autonomous vehicles in California"
-    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and VW, has landed a permit in California that will allow the company to give people free rides in its self-driving vehicles on the state’s public roads."
-    publishedDateTime: 2021-07-30T21:56:00Z
-    webUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/"
-    ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Argo AI will now provide free rides in California in its autonomous vehicles"
     excerpt: "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules."
     publishedDateTime: 2021-08-01T17:10:00Z
@@ -85,20 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
-    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
-    publishedDateTime: 2021-08-03T21:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
   - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
     excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
     publishedDateTime: 2021-08-04T08:14:00Z
@@ -114,6 +84,6 @@ related:
         height: 818
         isCached: true
 
-secured: "u29TeiHx0eWtGrrHLE61rCtbu2Cp1Jytmp9nLuuKrUEz0vdW9uOA/B2o/fx6oXkzsq7kReQ3a+l37p9w/hCTa4g2rcRaC4ocdU4tjSzYkNAbmpQnCwUMcrq5LkKNR5sJIeUkxhLrU0rbxUqh4EZLSArXB7y42inrEpVi5txH1V8zplRIDCqdyCqZ+h17JKNh1uMBrsEIrRsIPdMk3Wg4OcJoX3GnIw5bFQNNKpS8S3OCujimKGcVTVt+bhI91Yon1ny+RU7Wtdz3+ZX3duJUU3abIX6i10YQ6OhzpumaUW8MLQ3xo7+SfSjHxhUZdxGo3W8DloOW/Q+oEPR83YvOVLjXKV2yw/AkPqi26FfK7gA=;cdxSQ6b0wBzfYCyiY/L22Q=="
+secured: "Kc+cQ2cR0tWcHlQSvl1psJygoeU26IK8XoaJr+wON6Q5Pd272qETPdxvsObR6KAcIu+YzdCPski1knPdXjqrlswaOoU8tuTnIPbzCoEIL1XYesYMHJA5P/yrc7T7a0fXmw5vPtjMRXGuVXyspNrR1deGFIXntFgvFRbNbYqNqagVYGOKlvr+Vf8sPJ1mwhNhXOsRuRsvLJ2UvFQn+wiWcezNRfh7hfCrfmb75NqCPOzyfBZ13VhBEDIcbZwRXx5fCz3rL2/Tkl35hP77Uw12YwNmB1iktMT4xDTfHX/23NbcIfF6XCd9rjryhIaqwQELnXfQXk1jGQB1pGkPZESBOMGqKzrKewW33EB2RmA4zSTFbFNGTQm3i8sFd0L0RP+/Cc6kGcQ1cj9I82vMnIxt/6wNNZari0olRnj9IEaqkeFKybS83Fm0ZI812QZeH9U7nA2TUH/VkrKrL3JtNe20tP4PUmEsJb5xP5pwYVeTap/NgWSsNECFJoEOhTnV3YqKCOwBpUuqeIscuhBkSTvtiw==;vb4jCSsvmjwowmWpxtbIrA=="
 ---
 

@@ -35,6 +35,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Abacus.AI Brings Machine Learning Into the Hands of Every Company"
+    excerpt: "Abacus.AI was founded by Google, Amazon and Uber Alumnus with vast experience in building machine learning solutions at these companies, with a mission to put cutting edge machine learning into the hands of every company and help them extract meaningful insights from their data."
+    publishedDateTime: 2021-08-04T15:34:00Z
+    webUrl: "https://techround.co.uk/tech/abacus-ai/"
+    ampWebUrl: "https://techround.co.uk/tech/abacus-ai/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/abacus-ai/amp/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 74
+    images:
+      - url: "https://techround.co.uk/wp-content/uploads/2021/08/abacus-ai.png"
+        width: 3200
+        height: 1673
+        isCached: true
   - title: "NCC Conversations: How can we reduce bias in artificial intelligence?"
     excerpt: "As part of our NCC Conversations series, we’ve been exploring the issue of systemic racism and how it impacts our industry, wider society, and the"
     publishedDateTime: 2021-08-03T13:24:00Z

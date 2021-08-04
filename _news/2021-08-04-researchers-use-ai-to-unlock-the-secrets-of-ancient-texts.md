@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "MIT researchers use AI to predict the next big things in tech"
+    excerpt: "The researchers analyzed 97% of the US patent system to predict which technologies are improving most quickly."
+    publishedDateTime: 2021-08-04T14:11:00Z
+    webUrl: "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-3.jpg&signature=7a32c68e1454861ec122f415df3561a0"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Researchers aim to help protect US Navy divers using AI systems"
     excerpt: "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from"
     publishedDateTime: 2021-07-31T13:18:00Z

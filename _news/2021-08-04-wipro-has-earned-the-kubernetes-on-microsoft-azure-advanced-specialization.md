@@ -39,6 +39,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
+    excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preventing cyber attacks in Microsoft Azure. As a Microsoft partner,"
+    publishedDateTime: 2021-08-04T13:05:00Z
+    webUrl: "https://www.lelezard.com/en/news-19935078.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-08-03T12:07:00Z

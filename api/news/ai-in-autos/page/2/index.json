@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
+      "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
+      "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
+      "originalUrl": "https://www.militaryaerospace.com/computers/article/14179977/combat-vehicles-artificial-intelligence-ai-targets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Future_tank_21_July_2020.5f15bea095cd7.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Military",
+        "domain": "militaryaerospace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
       "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
       "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
@@ -904,49 +947,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
-      "title": "Toyota buys U.S. mapping, road data firm to bulk up driverless tech",
-      "excerpt": "Toyota’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles ... develop mobility with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech",
-      "originalUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2021/07/carmera-mapping-data-u.s.-toyota-autonomous-self-driving-camera-aid.png",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/",
-      "cdnAmpWebUrl": "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/industry/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech/wcm/ade2859a-2c0c-4435-94d3-b46ec856232f/amp/",
-      "publishedDateTime": "2021-07-15T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "driving.ca",
-        "domain": "driving.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-15-self-driving-tech-developer-aurora-raising-2-billion-in-spac-listing-that-values-it-at-11-billion.md",
       "title": "Self-Driving Tech Developer Aurora Raising $2 Billion In SPAC Listing That Values It At $11 Billion",
       "excerpt": "Funds from the deal will help the company get its self-driving truck technology ready for commercialization by late 2023.",
@@ -1223,6 +1223,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
+      "title": "Toyota Buys U.S. Mapping, Road Data Firm To Bulk Up Driverless Tech",
+      "excerpt": "TOKYO: Toyota Motor Corp’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker’s latest investment in autonomous technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "originalUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg?im=FitAndFill,width=1200,height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "publishedDateTime": "2021-07-14T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
       "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
       "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
@@ -1329,49 +1372,6 @@
       "provider": {
         "name": "Morningstar%2c Inc.",
         "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars.md",
-      "title": "Baidu and ON Semiconductor Team Up With Eye on Image Sensors for Self-Driving Cars",
-      "excerpt": "Baidu Apollo has partnered with Phoenix-headquartered semiconductor supplier ON Semiconductor to set up a joint studio to explore image sensor solutions for autonomous driving, a move that could give it an edge in developing driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-07-14/baidu-and-on-semiconductor-team-up-with-eye-on-image-sensors-for-self-driving-cars-101740301.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-07-14/1626239488908353_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T03:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
         "images": null,
         "publishers": null,
         "authors": null

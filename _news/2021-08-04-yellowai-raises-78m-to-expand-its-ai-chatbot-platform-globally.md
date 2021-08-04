@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-it
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Startup which helps build chatbots, voice bots raises $78m in series C round"
+    excerpt: "Customer experience automation platform Yellow.ai announced it has raised US$78.15 million in series C round led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Existing investor Lightspeed Venture Partners also participated in this round."
+    publishedDateTime: 2021-08-04T14:59:00Z
+    webUrl: "https://www.techinasia.com/startup-helps-build-chatbots-raises-78m-westbridge"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 44
   - title: "yellow.ai Raises $78.15M to Deliver Total Customer Experience Automation"
     excerpt: "WestBridge Capital, Sapphire Ventures, Salesforce Ventures, and Lightspeed Venture Partners Join the Series C Round as yellow.ai surpasses 700+ global enterprise"
     publishedDateTime: 2021-08-04T11:33:00Z

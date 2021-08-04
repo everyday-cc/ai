@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/"
 type: article
 quality: 75
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red"
+    excerpt: "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?"
+    publishedDateTime: 2021-08-04T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896"
+        width: 1200
+        height: 1293
+        isCached: true
   - title: "Musing On That Rising Gossip About Wanting To Ditch The Vaunted Topmost Level 5 Of The Self-Driving Cars Autonomous Rating Scale"
     excerpt: "The topmost level of the autonomy scale for self-driving cars is known as Level 5, which some insiders are now murmuring ought to be removed. Here's what the ruckus is all about."
     publishedDateTime: 2021-08-02T15:30:00Z
@@ -47,31 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple Expands Fleet of Self-Driving Cars"
-    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
-    publishedDateTime: 2021-08-03T15:39:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+  - title: "Apple Rival Building Level 4 Self-Driving Car, Currently on a Hiring Spree"
+    excerpt: "Apple’s long-term plan of expanding to the automotive industry has caught the attention of all its rivals, including those based in China who immediately noticed the potential of such a move, especially given the trends that are signaling an obvious transition to electric power."
+    publishedDateTime: 2021-08-02T05:43:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413.html"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
     images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413-7.jpg"
+        width: 728
+        height: 300
         isCached: true
-  - title: "VW boss: Data to be key issue for future of self-driving cars"
-    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
-    publishedDateTime: 2021-08-01T11:11:00Z
-    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
 
 secured: "ZGRKJhbMz+qToWQYmVvE0C4v1uo030QamMBU/wgNMMIIRSGimtCDCDZvnLg8Si+5CwdgVnm/Hod/ghKtRHTx0p81MyFGau97vRdNYbMc7ux6Hn5kv6h1786WFMDNlnOHB3eTyckdJ6vS0lNazVKLpFz0Z9jNjPwBh4jXS4/jIrCHTGef3jP7wH59zeD7pTiI6YSkzvfv2wbQtBAU8OtDI+3cc/vElZI9yl41HclefWgWKlJIAirCal6UpLwr3B+S6m64n1R/dOvxXmcRj2QiuK6Vlps3x/Mk4OhlHZe8AqIfrv2iiEaZMyjz7KHS1DfzhJzDp5NmUrT63/iOZNj7da4g1921EfIA/XcmWo4Bia79Qlz3FiY5OHXAcBaMRo1196/pu7QL1dcgrIhwbWGc2A9+RWrSvFouWwJmHSC6mxIp1WDt4jE2A3H0vFlzPEUcuuhtSbHasUBrnRmwTEI9Y7yUeBeH+ELjM7ZLfO398rWMyJU1e6OoVTpD3y/be8Ya+XgRsAg9DZO0Eb/8meYqTw==;l+JZvTIGRDlObcPioxB6JQ=="
 ---

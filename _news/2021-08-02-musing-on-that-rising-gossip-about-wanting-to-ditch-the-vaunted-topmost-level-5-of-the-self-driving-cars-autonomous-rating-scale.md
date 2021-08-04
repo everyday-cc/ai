@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red"
+    excerpt: "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?"
+    publishedDateTime: 2021-08-04T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896"
+        width: 1200
+        height: 1293
+        isCached: true
   - title: "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times"
     excerpt: "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done."
     publishedDateTime: 2021-08-01T14:30:00Z
@@ -47,31 +63,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple Expands Fleet of Self-Driving Cars"
-    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
-    publishedDateTime: 2021-08-03T15:39:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+  - title: "Apple Rival Building Level 4 Self-Driving Car, Currently on a Hiring Spree"
+    excerpt: "Apple’s long-term plan of expanding to the automotive industry has caught the attention of all its rivals, including those based in China who immediately noticed the potential of such a move, especially given the trends that are signaling an obvious transition to electric power."
+    publishedDateTime: 2021-08-02T05:43:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413.html"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
     images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413-7.jpg"
+        width: 728
+        height: 300
         isCached: true
-  - title: "VW boss: Data to be key issue for future of self-driving cars"
-    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
-    publishedDateTime: 2021-08-01T11:11:00Z
-    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
 
 secured: "mFwk6lr4o9MHVQQTWx+AHVAQjcKMNPoLDpEUiKT4L5LeMNKCOZ1qY9b2P0nLwUVjtiQVNmpNfsfXEjxyp0+PhO/5N+0J2bPs0dzI0SwHqakl7/YVR11gWYBsE1w/DQjNmKUEpNFnagEMKOZjiE8OM0HWp8z4xlBB3Rk1ZRLqQnh/DVy2h+QRG+7BLHJnGJpeXE3YXe6yTTmgtgS4F0oGLVv7QAj4HkiQBXWPFp6Lic2DDM8xyax2ysHIL4xlzwAxS6HssnGWYEpKiqUNANO0dPhu/6ytr6QOn2Eob/FdGViA1a04LjgK1Imjmo8ZDNqhNNlV6LgjWPRPpSSOkImfNngvANn85w5lbYnmFh8ra9QA3I1NNf3By6VWvcdzr30QUuxk0pOmRrwhELyX363dgyfrB1deAhsF73JgFx9i0xiqK582m5kUnSBicOTVA0dOjeh/nqlUvOIt+gJ05lduxiwn9xl/kQWadv+mFf9ex4/74+K5TBWkkuIwSL5dD/IbvtkaKjKfgxa7KfHUzSKfeA==;2+GPSs7QAPJNk43PxJxBbQ=="
 ---

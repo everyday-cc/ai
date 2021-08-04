@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Startup which helps build chatbots, voice bots raises $78m in series C round"
+    excerpt: "Customer experience automation platform Yellow.ai announced it has raised US$78.15 million in series C round led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Existing investor Lightspeed Venture Partners also participated in this round."
+    publishedDateTime: 2021-08-04T14:59:00Z
+    webUrl: "https://www.techinasia.com/startup-helps-build-chatbots-raises-78m-westbridge"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 44
   - title: "How AI Chatbot is changing businesses rapidly"
     excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
     publishedDateTime: 2021-08-03T01:10:00Z
@@ -52,6 +61,6 @@ related:
         height: 375
         isCached: true
 
-secured: "tEwVJaHwbZhISF3ES/AimUjI/lFKtJ9skA7lSO2u6xbHxZWAzC3BdMcn0aFY6VA+Cnw29mpbt6TJYsl0C0fixdK5iVC0t+8JvJSQc8ZIupFIHEicMaADCxfNCHaVqC4Hu7T3yOiiywGo09aFBnphPFgBh/rhLMSXZ802FmT4xYBry5VrJR+vg7UuMWlu2C/dEfTmhpTj6p3OaA/fZrbnGYrUBIWyGpqN7sr0dHuHbSrJsW9cYtWo+nUvxuaJFEUFXGH8O0ApLhRz/FiDw2Xz47Wv/3ok0FM9cKuXuAntxRDJxRDsAnCxRAHDA38qV7RLD9OO0exHMW8uXDeEcnoPgl/JDF3jNahK2gLrVApMCh49yqmbBnq/mV8Phzlxkz5ef/fv9+c9fsZnHT8m7khIgZT0XtkVApE7jLmazPwZaxfN35KLMJJCR5KUHDh7teoxX/dBEiwhwmTy21G/i6DanKPRzaCeZDPH+wIN9dnIRGLd0vHGAo29YxhADPqPnlg57iqGaEhbrmQdChOkaqjRQw==;htYDbaI+xKt5ZzShHkg2Mg=="
+secured: "nJQr65Ksfhd8b5mu3MTb3QFDg4XDGz6ea/+qLRNbJJjCSjQMCxl6zLVm9kICouWbPxSYGeHsX2FHW8RP0Tz2SQEIPGyWhb4mLnsWp2nGaWUoFzH5mVfTMbHzRvMOILWvOyHrPrzzd9x3cMb+2JlLEf4jXyLY4JRpYo1MxRrsAcHx3j9nY5jo6bpAvOC9y40bvzC1i08bpc6LS67D4Ia35CXgxBJ0j7hRsJxIDK87km8JA5Aul55FcKa8d0yWOfOZ7MG+38Ia8hFNUrmIyU+qaBCJVuoTXiwTyJETk4Jvl9EiaKT7+S7pdFntt0w7Bs02WfXq1a8gTBRpLAlICOhhGNX3e+fCOdMUvt3QsHL0sXrFj0EMW9szaGDWMmajq5B60mYOXBT3TkcjffNjQzuw/Iy9DzXPMon9d2rhrFmVMgBNtUP2qWqzYpH2AMLryRPo71RV55WsCvJlunJxbj8wjfFMo4WJV/4TWDfIrcQO9yblMpOiLmI9k63qDJEJ9GRsJJcsb5+kEDLz5SQhR+iotg==;iWefaQnFqo0rMrzhCMVS6g=="
 ---
 

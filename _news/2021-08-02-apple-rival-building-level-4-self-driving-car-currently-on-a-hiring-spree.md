@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
-    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
-    publishedDateTime: 2021-08-03T18:54:00Z
-    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
-    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+  - title: "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red"
+    excerpt: "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?"
+    publishedDateTime: 2021-08-04T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/"
     type: article
     provider:
-      name: iMore
-      domain: imore.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
-        width: 800
-        height: 533
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896"
+        width: 1200
+        height: 1293
+        isCached: true
+  - title: "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times"
+    excerpt: "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done."
+    publishedDateTime: 2021-08-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/01/self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 75
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60524091a5ce3219c731d40d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1232%26cropY1%3D67%26cropY2%3D760"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Musing On That Rising Gossip About Wanting To Ditch The Vaunted Topmost Level 5 Of The Self-Driving Cars Autonomous Rating Scale"
+    excerpt: "The topmost level of the autonomy scale for self-driving cars is known as Level 5, which some insiders are now murmuring ought to be removed. Here's what the ruckus is all about."
+    publishedDateTime: 2021-08-02T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/02/musing-on-that-rising-gossip-about-wanting-to-ditch-the-vaunted-topmost-level-5-of-the-self-driving-cars-autonomous-rating-scale/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61022d632ca733a2009b3e41%2F0x0.jpg%3FcropX1%3D107%26cropX2%3D3870%26cropY1%3D354%26cropY2%3D2472"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6btn+2535ckBDBYcWnxk8s3BxONEGftvsktBhSzkUP+4igr9yj9ZNvhXQDuXIOeH3vVBiG+2nssawInuUbF77mqYwccyDt1T/Lpo64wd83bnmytYj5FWCcuw2VIkPmRu/f6RKLHXeiQyrtxLu+IY6ItCMdg4wGZSyXRP0JxPKtea0VXYLdp4PYh2xGSbnSHqmpYyGQZxLmh9yy3ExMpfnnSjP+jO+6gMbSHZSGv7TC+i90zdMeVqnkPyZIAgc0F6fmzJfdb1M4Y1QPuBrPBpniSXh/PRalal9cNa0wO/mgolymdRgfbfanyYWB0Kvx2V9fJZ7hRFgs5HkoK7bTqbGoiMd3AvHg9iTUQ90BwUE0vLLff5fklCcmGQFIym8Ixn1onBtL+R7M4f46vf2o1uLGfzsBevyEavDYfFJItNb9vsZ+p/58j4wsjkd2UGqBKN90J71opAqpm1jVu96gLDHCUSVoFhNRbM0AmjtU3ljMegGEqa0WZDv2ZdqRc2XDEnCyMahHAAolp7cbdY9vyrGQ==;0L+iU0KeJqJX/4fpwcrqew=="

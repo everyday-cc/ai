@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintec
 webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
+    excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
+    publishedDateTime: 2021-08-04T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
     excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
     publishedDateTime: 2021-07-31T13:28:00Z

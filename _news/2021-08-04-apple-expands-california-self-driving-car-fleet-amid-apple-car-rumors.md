@@ -25,94 +25,111 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI can now offer the public rides in its autonomous vehicles in California"
-    excerpt: "Argo AI, the autonomous vehicle technology startup backed by Ford and VW, has landed a permit in California that will allow the company to give people free rides in its self-driving vehicles on the state’s public roads."
-    publishedDateTime: 2021-07-30T21:56:00Z
-    webUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/"
-    ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
+  - title: "Apple Expands Fleet of Self-Driving Cars"
+    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
+    publishedDateTime: 2021-08-03T15:39:00Z
+    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
-        width: 1024
-        height: 592
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
         isCached: true
-  - title: "Argo AI will now provide free rides in California in its autonomous vehicles"
-    excerpt: "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules."
-    publishedDateTime: 2021-08-01T17:10:00Z
-    webUrl: "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/"
+  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
+    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
+    publishedDateTime: 2021-08-03T18:54:00Z
+    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
+    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 64
+      name: iMore
+      domain: imore.com
+    quality: 44
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg"
-        width: 760
-        height: 570
-        isCached: true
-  - title: "Apple once again expands California self-driving test fleet"
-    excerpt: "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'"
-    publishedDateTime: 2021-08-03T13:49:00Z
-    webUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/"
-    ampWebUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
-    excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
-    publishedDateTime: 2021-08-02T20:52:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 49
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
         width: 800
-        height: 600
+        height: 533
         isCached: true
-  - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
-    excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
-    publishedDateTime: 2021-08-04T08:14:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608.html"
+  - title: "MovEBR modifications could be used for self-driving cars"
+    excerpt: "Traffic-light infrastructure upgrades included in the MovEBR program could be used for self-driving cars to operate on the city’s roads."
+    publishedDateTime: 2021-08-04T15:09:00Z
+    webUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars"
+    ampWebUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 44
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
-        width: 1524
-        height: 818
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2018/09/iStock-521229477.jpg"
+        width: 1613
+        height: 1075
         isCached: true
-  - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-    excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
-    publishedDateTime: 2021-08-04T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+  - title: "TDOT, Vanderbilt studying self-driving cars on I-24"
+    excerpt: "Work said he believes the study will help autonomous car makers design better self-driving systems. Images are fed into a high-powered computer. The research will also allow for data to be collected about which road patterns cause the most accidents or ..."
+    publishedDateTime: 2021-08-03T22:44:00Z
+    webUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24"
+    ampWebUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
+    cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 12
+      name: News Channel 5 Nashville
+      domain: newschannel5.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
-        width: 900
-        height: 471
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb021bc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd9%2Fdd%2Fe0d32e564dc8afa851b2039c7986%2Fraw-frame-21182.jpeg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
+    excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
+    publishedDateTime: 2021-08-03T10:11:00Z
+    webUrl: "https://manometcurrent.com/self-driving-vehicles-market-moving-towards-a-brighter-future/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
+    images:
+      - url: "https://marketresearch488204729.files.wordpress.com/2021/08/project-single.jpg"
+        width: 790
+        height: 400
+        isCached: true
+  - title: "Self-Driving Cars: Should They Prevent Human Error?"
+    excerpt: "And 81% of these accidents are caused by human error? 1 million people, gone like that. Fortunately, there's a new technology that dramastically decrease this number. This technology is self-driving cars."
+    publishedDateTime: 2021-08-01T02:48:00Z
+    webUrl: "https://www.123helpme.com/essay/Self-Driving-Cars-Should-They-Prevent-Human-FCSAGFUTYKM"
+    type: article
+    provider:
+      name: 123HelpMe
+      domain: 123helpme.com
+    quality: 4
+  - title: "VW boss: Data to be key issue for future of self-driving cars"
+    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
+    publishedDateTime: 2021-08-01T11:11:00Z
+    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
+    type: article
+    provider:
+      name: CarSifu
+      domain: carsifu.my
+    quality: 4
+  - title: "New algorithm helps self-driving cars navigate narrow streets"
+    excerpt: "Researchers at Carnegie Mellon University (CMU) have developed an algorithm to help self-driving cars navigate crowded, narrow streets. Narrow streets can become even worse with parked cars on both sides,"
+    publishedDateTime: 2021-08-03T00:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17013/new-algorithm-helps-self-driving-cars-navigate-narrow-streets"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "VSogRTfvlrSMEjC63c2caF0/ADxn29UcKT/YnRjEKCpyORmcnJtlUgzSWpy8VDqyxrbdb/7zwb7MyolXd0gKsZttQFIM162M0GWBiHDfdEVR8jopGHYFDUxDuguUDzbUXuHFFVR3GRRBHQO93b8dzSoJQHoxULv6uNjz9PPF2pmTA7glhsAE+Ca64vvYLmiXHyeVkDukJzG5Ml6gbpFi0j5T0zMpzrHF3qzqIvAFlvUJuDoYPxqzcP1GDnOGdJ2AKQhAVH9TMrP9c/0w56Lx6X33fE2WInd1uwjj+yIe3g2r24ZVw0DZnwt/9qCoAoE7r1Oq9H+dOAoqgcRNDSbJHNphHWI44q9bCJ10AQRjIKJUZXD9uu3TxSGQ6WfUH3kZby1L/Eii5UFYWLzPVRhzvMbHQaGK/3WPOhrC6O4lYQnpcS2lnBhAv7OlasK4ZmF3F3EjRSxsrn1/sfqnvd22HfzTZFYCE+PjvsOlPkGSwY/3+TDL9RWpPUzVvWikUMylohqc8W5j+wMaalA4e3x4xg==;SzvRS7sfMtmAV7PzWjX7hQ=="
 ---

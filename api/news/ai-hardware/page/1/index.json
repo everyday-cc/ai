@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-mit-researchers-use-ai-to-predict-the-next-big-things-in-tech.md",
+      "title": "MIT researchers use AI to predict the next big things in tech",
+      "excerpt": "The researchers analyzed 97% of the US patent system to predict which technologies are improving most quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system",
+      "originalUrl": "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-3.jpg&signature=7a32c68e1454861ec122f415df3561a0",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-the-pixel-6-chip-might-be-made-by-one-of-googles-frenemies.md",
       "title": "The Pixel 6 chip might be made by one of Google's frenemies",
       "excerpt": "Sources claim the Google Tensor chip in the Pixel 6 is made by Samsung — and shares the same 5nm process as Snapdragon chips.",
@@ -1409,49 +1461,6 @@
         "AI Hardware",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.md",
-      "title": "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board",
-      "excerpt": "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
-      "originalUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -25,61 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand"
-    excerpt: "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)"
-    publishedDateTime: 2021-07-30T21:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
+  - title: "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-08-02T14:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Playing Significant Growth during 2026"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning,"
-    publishedDateTime: 2021-07-31T17:47:00Z
-    webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-playing-significant-growth-during-r4841322.htm"
+  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
+    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-08-02T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 47
     images:
-      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
-    publishedDateTime: 2021-08-03T15:25:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e0/de09a86f-53df-5fbd-bf9f-fa7592e9842f/610961fd14fe6.image.jpg?resize=689%2C630"
-        width: 689
-        height: 630
-        isCached: true
-  - title: "Pentagon races to keep pace with China in technologies like computers and artificial intelligence (AI)"
-    excerpt: "Beijing already talks about using AI for surveillance to cyber attacks, and autonomous weapons, and intends to be globally dominant in AI by 2030."
-    publishedDateTime: 2021-08-03T06:35:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14207891/artificial-intelligence-ai-china-computers"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 36
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/08/AI_3_Aug_2021.61083c5b7e4c7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
+    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
+    publishedDateTime: 2021-08-03T06:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
+    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
+    publishedDateTime: 2021-08-03T02:06:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 28
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
+        width: 500
+        height: 288
         isCached: true
 
 secured: "4ooHQXPyoGf5Bl5CWo6t0otjWhaF5wtp1jSnqxpS6R54ZymUshT092Ug71J44Nmn61njkGfyBGuzpbX/f/wCvbA896pDIaRkO++6qvtEzIOTAoXWxssLv/0RMQRSww5y0jFCh8U2Bn4ljF8KXGA6A+oVbXXI7SHgBcuTrrfhf1008WWtmJ8wv41rqtH54ou8AW+6W26djlFOYux1GzyKTGv0yNb8Z7vVkR2bqn44ubDbQe0qbsPOhc+n0LGP7essQmbQvJUopn5h5k9DcsiqAfrHQDV5I34zRW78LEZeHaVpHvZnsRfhuny/B56sk0a8ia+rqAjn6AmsMBvHSJ34BEXjj0W0VhJUpA0Fk91oof8jIuMJ9MRdcoKqVxmG1HY0cBU9BbqaAF8KMTvEoUj+wUGiNtcdpZf4iuFoBUBP/PwSUI/EHMnM1oXVlSBeSWJ2tHe1yEFHdxcXLI4gohJ5UskXFrliYi8LMaFNI/kc3aXFXuwjzxEZOFr0LZ/RAfIgEaAiwVHD9krvg2eTRAbteQ==;vV63PEula0fKHhb4aC/Wcw=="

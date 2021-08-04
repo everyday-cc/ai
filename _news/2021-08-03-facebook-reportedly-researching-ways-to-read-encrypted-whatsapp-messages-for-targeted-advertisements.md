@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "WhatsApp Denies Claims That Facebook Will Leverage AI To Analyze Your Encrypted Messages"
+    excerpt: "The head of WhatsApp downplayed a report suggesting Facebook is researching how to send targeted ads based on encrypted communications."
+    publishedDateTime: 2021-08-04T14:47:00Z
+    webUrl: "https://hothardware.com/news/whatsapp-denies-facebook-ai-analyze-encrypted-messages"
+    ampWebUrl: "https://amp.hothardware.com/news/whatsapp-denies-facebook-ai-analyze-encrypted-messages"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/whatsapp-denies-facebook-ai-analyze-encrypted-messages"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55882/content/WhatsApp.jpg"
+        width: 708
+        height: 472
+        isCached: true
   - title: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data"
     excerpt: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data - Facebook is reportedly recruiting team of AI researchers to find ways to analyse encrypted data without decrypting it."
     publishedDateTime: 2021-08-04T10:36:00Z
