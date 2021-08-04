@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-lead
 webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
 type: article
 quality: 84
-heat: 124
+heat: 94
 published: true
 
 provider:
@@ -44,50 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
         width: 468
         height: 312
-        isCached: true
-  - title: "Artificial intelligence and the structure of the universe"
-    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
-    publishedDateTime: 2021-07-31T12:42:00Z
-    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
-    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
-    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
-    type: article
-    provider:
-      name: Las Cruces Sun-News
-      domain: lcsun-news.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI and ML for the Masses"
-    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
-    publishedDateTime: 2021-07-30T19:48:00Z
-    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
-        width: 629
-        height: 319
-        isCached: true
-  - title: "Artificial intelligence and the workplace"
-    excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
-    publishedDateTime: 2021-08-03T09:16:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
-    type: article
-    provider:
-      name: The Lawyer
-      domain: thelawyer.com
-    quality: 37
-    images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2021/07/30133953/camera-face-surprised-e1627844146581-421x500.png"
-        width: 421
-        height: 500
         isCached: true
 
 secured: "UhVbtv3mxtnYtHlMyqzOK4W1j38SCpEcOVZfmFPbJviQ1nJv2UwMzCA4orNloOW/rjk/9JqnFxceNRdBCLeW4mCcStgQzBjKWRGe5e+9HrvkZWgRErF4cNi8lTUKq+CQLvGOy1tbWjNfN+fDSEqSPC3kWUhMgNhHd7v/u+e2OuecvI2iA4lVlcBOG53iLRkiU06dp3zwsj1KTuZujZCoo4dO9FoK7gRQZd8Vp4ZszCtTCt5EuXYvoeTDFeSvspQComjjkxk0aAxL0FJkPd4YKoz6eOLyd4ZSjMYjVzQvuOLf/VcUQKq2c/mEPJ0+lPChjpjjJEkXYv/P6yoI6rB1+AOv9wPQSfISDDLxhLiJDLEDrOdMaMvnlcrBWUlT2b+x/LBtxLW653GsgO2sovwNypmyIMkLvC4dNEa1EEbHEo6i9pqVlik4vaNmWFQuq8IMRz5bSbjav3xF9+y9jfHQrJE15cALrEUM1bXpGoHg0THxgQ3cvfk5Qp30nTFabt1ev8yAqLurQ17B+l/UsqV23Q==;SNaqPuYG2gS0X7rw0M8oaQ=="

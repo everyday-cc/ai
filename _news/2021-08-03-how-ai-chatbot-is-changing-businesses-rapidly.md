@@ -41,19 +41,16 @@ related:
         height: 600
         isCached: true
   - title: "yellow.ai Raises $78.15M to Deliver Total Customer Experience Automation"
-    excerpt: "(CX) automation platform, trusted by 700+ enterprises globally, today announced it has raised $78.15M in Series C, led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Lightspeed Venture Partners again participated in this round,"
+    excerpt: "WestBridge Capital, Sapphire Ventures, Salesforce Ventures, and Lightspeed Venture Partners Join the Series C Round as yellow.ai surpasses 700+ global enterprise"
     publishedDateTime: 2021-08-04T11:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-coronavirus-pandemic-ca2bb33a6882495bb3634ec00ba8823e"
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22320576/yellow-ai-raises-78-15m-to-deliver-total-customer-experience-automation"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22320576"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22320576"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "yO1WldIpIHlnnXjvc0ZC/vX6wi+mpjNEneAV9lxnSaXwtKWFkZLXca7A4Oi3qqY1a7TYM4p5XLNY7nJtkfd5JsXQJ7JMTDIYVqeY2dU6pDvSyZp+EVdnhJUT14lOFCPwyFvii2VYlJEsrRdt12m/FhhI0/4Imh8Vh8hIjK6YNHKrz99ujIFFPg3nAd/q9ZImSKixhMq5ooilXt1DhtJz3emBpAv2us4YHNuXBayKPbpWOU2usFv0aDkmyoGMDK/DBvQ4QJKTB+QHHJ2t7/j7x7EZXe5n8BzO71d6qBwdtsWK9PVxhL6KmTFdHMcP+bgHLs08QoUzxb1k1ycwccV5M+l4sFYwUSd3skU+OuFso2o=;S1DHGQKNzXh6pb+qy3vcXw=="
 ---

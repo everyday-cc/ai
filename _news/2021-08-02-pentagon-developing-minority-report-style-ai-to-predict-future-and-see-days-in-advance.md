@@ -25,22 +25,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "The Pentagon Is Experimenting With Using Artificial Intelligence To \"See Days In Advance\""
-    excerpt: "The Pentagon aims to use cutting-edge cloud networks and artificial intelligence systems to anticipate adversaries' moves before they make them."
-    publishedDateTime: 2021-07-30T19:40:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/41771/the-pentagon-is-experimenting-with-using-artificial-intelligence-to-see-days-in-advance"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 28
-    images:
-      - url: "https://www.thedrive.com/content/2021/07/Global-Information-Dominance-Experiments.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "m5+sOl9aPdoF8kP/8ZLoDHAAnUS8/y2Augu8R7m3KqDuB+Sbz5oZUZ1HiE9fudnHUJN0Elv3RIythn7isq+7YKEsYCy7L8SLY5mV9VeVq3OpfEaMJVbt2j/GgKtqRTJC064Du0ojY1WdZVz8NjIkyuEUq5AqzIB3QHGAjSWf8ArxxbmO2n69x0HW3D5dwAF0/LcJVcBo/Qh/tcJD+d9hzREjbBRGJk9JHBdYbqB2WaGK0nXR/8DZqmfbhnl6siIqcG5TOkgb4y+ioYvyKIezgD/rnWX4BU7YScrj8XZG14+1c8sawU+6GAXAFnMul2BlH5gkKmtIlq2WOnqEBPKeDYUfTPrEd/BxXCd+4MVSseNEdSD5LIL3Br8qaRm4rjyeIs/Lwou/BgrWkCrgbXvJb1GsW06BWoBY9TVGUADLaC9J1nWjaghh04aUhxsWS3sPRPHmXyK2rG9LL0oze9gQopoLHOoZaBP1C4496Ex5+0ipZBM4YdM9gC4BmkkOwixsHFa3bufMubEsBdVe9/SP0A==;qgUThhnuA8DO2H17b4FqbQ=="
 ---
 

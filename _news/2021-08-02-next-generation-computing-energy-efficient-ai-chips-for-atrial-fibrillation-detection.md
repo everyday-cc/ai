@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 839
         isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "EarthTalk: How is artificial intelligence being used for conservation?"
     excerpt: "How is artificial intelligence being used for conservation? — Katy P., Chevy Chase, Maryland You would never think that computers and artificial intelligence (AI) could help humans save nature, but in fact these tools may be key to whether or not we can halt global warming in time let alone solve many other vexing environmental problems."
     publishedDateTime: 2021-08-01T20:00:00Z

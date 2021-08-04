@@ -31,19 +31,16 @@ images:
 
 related:
   - title: "yellow.ai Raises $78.15M to Deliver Total Customer Experience Automation"
-    excerpt: "(CX) automation platform, trusted by 700+ enterprises globally, today announced it has raised $78.15M in Series C, led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Lightspeed Venture Partners again participated in this round,"
+    excerpt: "WestBridge Capital, Sapphire Ventures, Salesforce Ventures, and Lightspeed Venture Partners Join the Series C Round as yellow.ai surpasses 700+ global enterprise"
     publishedDateTime: 2021-08-04T11:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-health-coronavirus-pandemic-ca2bb33a6882495bb3634ec00ba8823e"
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22320576/yellow-ai-raises-78-15m-to-deliver-total-customer-experience-automation"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22320576"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22320576"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "How AI Chatbot is changing businesses rapidly"
     excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
     publishedDateTime: 2021-08-03T01:10:00Z
@@ -59,6 +56,6 @@ related:
         height: 375
         isCached: true
 
-secured: "i+XhJx5gKX0y6i7LVnJDRH0WBxP2kg6QqU4qGRGsxPecTY5vlNDuDUFW9wTie8ZUEcdgdSkqrvlS/okgQAJUGXOL26mcQ2ZsRl3l18HONv/yAnZFcBj43Q5Y1XV/gqyDNumuUigDeM8KBuORHkgBBxlU1UGRUUGVaQ/S6OAFAJ/DQ596CpzG8Piu4iTnwl8YYn+Vq07mVMVL0dbm7v2VZTZ2EHOVM5tGWayFKrmoRXhg8pzlO0ENBG5uq7MJivTg/Xm0MT+nEpodPfYAE4KoT+KHeNm6DYEHakwRoFbRU+R2IhZ6M4bP/PKVT9hIDDzdOqKbvzFloD0xk02kQxEpoUiUUmi9gb0ztdvTP+53b44=;OnwZ8vYPWVBqH6yh7IEQQg=="
+secured: "V9OlyjYPr6/PIKU6/M2smEN9e4O0sLUUkJfSr5Z/B7zQt3cAHLC69Bv8mjm2kWTHnfL9jl7qKJZwlykZVZh46JCpmnFVMO7z0f9JhqJeNbOQQNZHRx16pnWxWFw2pKs54GVKJ4itmbGZmnn1+Bj41JiJyPDQ4hOnZvLiXtxMhXt+S54Ij8faUVtBqvnCbYz02uGrXHUiWnVmkLve3TleqNemf0HIdvxr9bhWZvNwDbM2Rsx4UD7tguQRbXA7H3GEFqydKl3ITnXXE4bZ97UB7NDXUQtwHejTlwaMOeiDLI8/WSKpIQ26dpne42tC2VlT39UDJ4pSAf7U2AYBBOsSQA8WSkUIWWj9NsBj3/n+7QevnbYsjcTRsmoB7P7ZVtteDP8PO1BKU3osi7kyWWmSry6wP6vi5zI3yuz85TlekHrwRWio6RDcn+yCHpvsbSkA8QgeX4DZrIOPI4w3gUWebgjLokpPC3rawABxltXJWVl9CNP7LrVJ0L33GqitPKwbRcEdH7rUK1XdS3vtyng3vA==;z0cusbtcDKW2H0/gytMCaQ=="
 ---
 

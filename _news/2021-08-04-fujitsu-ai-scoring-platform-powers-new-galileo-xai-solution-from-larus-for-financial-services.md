@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Fujitsu AI Scoring Platform Powers New Galileo XAI Solution from LARUS for Financial Services"
-excerpt: "Italian solutions vendor LARUS Business Automation S.r.l. and Fujitsu Limited plan to leverage components of Fujitsu's Finplex AI"
-publishedDateTime: 2021-08-04T03:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/a22316200/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial-services"
-ampWebUrl: "https://www.benzinga.com/amp/content/22316200"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22316200"
+excerpt: "Italian solutions vendor LARUS Business Automation S.r.l. and Fujitsu Limited plan to leverage components of Fujitsu's Finplex AI Scoring Platform Service EnsemBiz for LARUS' new Graph XAI service, Galileo XAI,"
+publishedDateTime: 2021-08-04T00:22:00Z
+originalUrl: "https://www.nasdaq.com/press-release/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial"
+webUrl: "https://www.nasdaq.com/press-release/fujitsu-ai-scoring-platform-powers-new-galileo-xai-solution-from-larus-for-financial"
 type: article
-quality: 28
-heat: 28
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "6n9xfNauW8mAidvAaMFmYfV3dt7TJZYewvZVKAOo4aBMKOAdV7EIeo6rIdebWeOkzhInsVpdsFF178qcHHhf7gt/9CcKRFiX2psSFfJemY8YVDwopEse4yBdeG0hTVbrAQFu7ko9PN41ToJa8l5IqzxInjM8uFQqLBBn94uzChxpBkiezrOppc6wt96YpyRCbZwNSmuRDvo4V4x5HnotHufBHJoYHoZLHPi6J/igRnSANzXDLnDILSbavrfP2yKZY5LCxYhhxa4JtIkEm5S9qhLjd8aI3qNjUG66Qglwd8jevpcJWpnLKNqqaQu6fO18Eyz37Lnetyp9J2AamcCaF00IRVDhKIvjpL3vY9qwlaY=;QIvDW0ACtPgPAG5/XNkYFg=="
+secured: "yXQBnHKgrKG95MyPYL7K2kkKFimkbPb6GU/XJY1Am5efLQbyDhiwZIaXtmXCqfVSKs4CvytH/CZAMj/JY2SWdirrxMLQmKBgXBrxDPega8pwTRCmVNsGgNyqC2Qq4o1fBErNzm1eWmWIBK0EHu2VHSpS3KW6rRU+LmyPNimIBJO8CYsrkVkt8JJF5++18dT5jAFngRTEF/bH2N/y6yQ0bEk3G7KaPSb9TZqqQUOgdThkQ7KXHchEXbOX0DzaXN+Dqaauh/e4w3jFNWwCzjadusIFdpnsCRnqkelp+aeMRA0eJRaue4UeQT6r+OGC3xukTDMwxV+SZi4aGaRWN+VEUKdM3CivKq1v14nRnISIM0k=;RMqlyrp8laXidw0f8kdXuA=="
 ---
 

@@ -45,50 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence and the structure of the universe"
-    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
-    publishedDateTime: 2021-07-31T12:42:00Z
-    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
-    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
-    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
-    type: article
-    provider:
-      name: Las Cruces Sun-News
-      domain: lcsun-news.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI and ML for the Masses"
-    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
-    publishedDateTime: 2021-07-30T19:48:00Z
-    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
-        width: 629
-        height: 319
-        isCached: true
-  - title: "Artificial intelligence and the workplace"
-    excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
-    publishedDateTime: 2021-08-03T09:16:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
-    type: article
-    provider:
-      name: The Lawyer
-      domain: thelawyer.com
-    quality: 37
-    images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2021/07/30133953/camera-face-surprised-e1627844146581-421x500.png"
-        width: 421
-        height: 500
-        isCached: true
 
 secured: "1eL+YzD/Gkdm/MIPmX9anwKHjH8agzOeCbZmOrVS0ZaNgUbD0NbAHzmtxY+3psm+7FfnnlkpQ2IErRN4tD4XVzjFxi7Mq63oBUx+LGfHm5yOebMZKjJ0GL+D30LN0eHOcZn4OnKZE/dvGPcKbCr/Qd7TATnXiEKb1GcWwoMxmkuTtcWgD2xF2vIK01qJ2G/TXhRXsMz0CmpTaEMU5IBGz2qAvRx//xbid+ioojtunY7es5fSMYsscAm/y4WjrfKxeehcz8atRJC8C9CdWX2bRdClGcOMH3/sR5JweQQc+rR7RpvTw5iaQVojHmk+q1cgN94B8AreZO5dCb6JjXwb8cS8UQ01P5DebEgQgvur76TLQI6K6/TjdvfVOo/Ha3sgwdHb9r0DsYQLm4c0FnmVGYYIAEXrER+LR+rWPfN4KSZwwYtrumZP6HaWQ7HZMftHRew5CDioGuRX5Bb1nu6nROqLG159HHXq70fFA1OGLdJ3H+vU2qaEYJTcXwvsIgjc1YBtsNf40z3PVqDJUwgNXw==;8BheHiQDSAbUqMnXXFWECg=="
 ---

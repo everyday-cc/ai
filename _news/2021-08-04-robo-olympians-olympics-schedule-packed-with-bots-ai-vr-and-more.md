@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/robo-olympians-olymp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Olympics Introduces a New Phase of Sporting"
+    excerpt: "Artificial intelligence in Olympics is shifting the focus on how games are played. Starting from guiding the athletes in Tokyo to tracking down their performance and scores, big data and machine learning is doing a remarkable job."
+    publishedDateTime: 2021-08-04T13:30:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-in-Olympics-Introduces-a-New-Phase-of-Sporting.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "/skPYsUOr1EbKa3x+V4wAneJJa2nxAbC7jg1nDtmCeuGCLJDPZSByUFD2wIdybT6d9nf01BJpFNVI6VA+BLM7Sk+1ez/5dTdkQ7rHJEoF8m6Xbal+RQQwf1ZdPt/2J8rS2Qk+pkjC4NBEBV+5fLEEiyjTcy6kuzAHdyf9YEybou/OUjY/x8fTv3orPWPxa/n641lvLt4dtf0VE0pBbhZR5oLG4yup6Te637Jvl6gHhtnOFWfWgR+64gnJJ+MV6vvhxojmze0Ycm7bRK5XOTMeFZymCJWoyHqqq6QdMJp9tQSxheu5Q32QZT8Kl6BYhCD2aK0BoMLGOnf+vBjRVG3Nylh7N1GmVdX3QVEHJ4JYCo=;SOrzvOHUewBRyeFNYzgYRg=="
 ---

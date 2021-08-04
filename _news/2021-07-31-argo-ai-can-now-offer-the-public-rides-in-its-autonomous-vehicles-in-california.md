@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
         width: 1524
         height: 818
+        isCached: true
+  - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
+    excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
+    publishedDateTime: 2021-08-04T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
+        width: 900
+        height: 471
         isCached: true
 
 secured: "IPphMqGdtBm8hbGYuOOz0kAfCrhGKKN01JuECH4xoaQ0BXvOEWi+5pl/5X6G1TFdY42ylTPmBYxoAoOnpx0H2gnhR576rinMXCLG/AKFueDWcm7e0btDf1RrqdMTJG05ZmU/eHECId8q/tAyQUN+Lr0SY/6381H7ys5bgI90FG0x23YpLzqM61KRIPKLy88oVkR9v4Rv5wpKfzO7KSxT1sOP4pwc06GYXPdyENqD5qdb/iv4kttzD41j5+NKbnyEYVNd0Yt1D/BRjhLqhHURxJh3UGMHo8WJSMO/fEfVUEJl+3XVsdZlHgjgYCzDTyJxiJ0x05ac0nRUYdCZRJ6UKaC/bgElYKxh2lDi5xM+Ok7x6YYFi++rYknpCZdJCLQrcJO5f8i5gyYHV1X6M3/Vd+xEENjVWllNjRdRJL8Msucj/s+z5s1BbuJbVq4ZS6MFKrVKj4Ll4dn+46RsvGvYDSGwd3BijnAgvT3YqKcyQaszjogXmQiw1R0OLIke9QNQxFlaTtzYSWGd0LDfLX1esA==;gQ8zWJTxDYMbpwG98C4yfw=="

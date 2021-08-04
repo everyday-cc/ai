@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/indias-medpay-nets-1-2
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/indias-medpay-nets-1-2m-to-link-insurance-healthcare-payments/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "B2B Tech Startup MedPay Connects the Fragmented Primary Health Care Sector to a Cashless OPD Insurance Network"
-    excerpt: "Source: PTI ; B2B Tech Startup MedPay Connects the Fragmented Primary Health Care Sector to a Cashless OPD Insurance Network (Eds: Disclaime"
-    publishedDateTime: 2021-07-30T19:59:00Z
-    webUrl: "https://www.outlookindia.com/newsscroll/b2b-tech-startup-medpay-connects-the-fragmented-primary-health-care-sector-to-a-cashless-opd-insurance-network/2131318"
-    ampWebUrl: "https://www.outlookindia.com/newsscroll/amp/b2b-tech-startup-medpay-connects-the-fragmented-primary-health-care-sector-to-a-cashless-opd-insurance-network/2131318"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/b2b-tech-startup-medpay-connects-the-fragmented-primary-health-care-sector-to-a-cashless-opd-insurance-network/2131318"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 22
-    images:
-      - url: "https://www.outlookindia.com/public/uploads/no-image-new.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "n00Q3QWsBFZ3hgm6JpS2i+JvtHhNMm7lpfWWwMh2yeZ5eC/EszFZE3asy6G2Wn3IMPB4ByIxRb1WxZyFXv3mJKsKSxARjGGETEUkCVohDLJz8O4oLUQIVehJ3xD7xT955DuuUoS0ytMLoX8ewCoMFGOJ4+5aoD3MeWoVrNhGA0Hvg4Ff81CZ7Cc0mKZgTK4+o60k7QoBPT0fhoEU9UpnuF383Hv3kpUvX7Yz+w2dxhn6DBdHqxuKNyfhsuXQEzA1ay1UpBKBWkuQEM+cjqa2P4/PSgTQiCXki/CJ0ZP91yGH1C+Cp4X6pCVZ1Jz05BwJNEErh4T1YpOAGzEiTITS6I5eYfo8eYLAMFTWTohoXh1lP6khv+tJBghkBkeAw2DG0B5OAOxJ2LIIzeDE3//5A/ypNZ110tnlFMOkiarp3xm1EakB81YzYEjuN2u0l2MOcLjUVXGnSo6I9Co5emNut+LXrff2FiUIFpNo5sG4kFQe80PFAg+vmyYJaw7bb7YarQni0B92/Th0PEwjWQ3FxQ==;5jQbaKRZ3b1f9x/9rtjJKg=="
 ---

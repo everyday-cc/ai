@@ -27,6 +27,22 @@ images:
     height: 366
     isCached: true
 
+related:
+  - title: "Enhancing mobile engagement through the power of natural language processing"
+    excerpt: "Advancements in technology have changed how customers engage with businesses, and it's becoming more evident that customers want to be met wherever they are, in their preferred channel"
+    publishedDateTime: 2021-08-04T13:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148261"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 36
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/139441-1200-by-630-customer-engagement-696025078-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "Fi7FPX50zM2VN4hfE95m8Tgr65q0mrIOGmIY4q5gsXn6k8VePWaL2NqsQyJzVRWsz+UnYmMQwUp6AV3AnD+KILizZC3w2eDtWNJZvYDGBOSYNGtF1A4o6UCUW+E3gUTa7d4jGxxh/VhRe1eoFYSlKpww0NgDOoRKNZilxI7Uhn6nSFLLNCLMlF83kNK6awBZsU/yScnVmd3brw5CinxtPFLn0Lp1Y2Y737EgQeRHZ29GS5xlqMR4jOnSUm2Z1Tuml8ylo3b2lKqBQ08Hxab8GLmpXlWyzreo2r7Arli6VNUrwh7zxo4DL06M47iKjR/0MSZ19Eia5Tz7NeRSvrhBK4S/ZQTUNeuzqzo6+o7iN4E=;gP6ewBXJu5jqASJ0yjPC4w=="
 ---
 

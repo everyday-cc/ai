@@ -35,6 +35,22 @@ related:
         width: 644
         height: 362
         isCached: true
+  - title: "Intel expands college AI training programme to 11 US states"
+    excerpt: "Intel is working with Dell to expand its AI for Workforce Program to 18 additional institutions across 11 US states to help educate the next generation of US technologists, engineers, and inventors. The programme,"
+    publishedDateTime: 2021-08-04T12:20:00Z
+    webUrl: "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states"
+    ampWebUrl: "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816607/itpro/2018/09/students_shutterstock_309525341.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Intel, Dell bring \"AI for Workforce\" program to 18 community colleges"
     excerpt: "The program helps community colleges develop courses on topics like data collection, computer vision, AI model training, coding, and the societal impacts and ethics of AI technology."
     publishedDateTime: 2021-08-03T06:00:00Z

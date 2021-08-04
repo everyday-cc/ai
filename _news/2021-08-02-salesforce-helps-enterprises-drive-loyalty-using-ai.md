@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Keys to personalizing AI for sales"
-    excerpt: "With its broad access to data, AI can create a personalized customer experience at a much greater scale than that of a human sales team."
-    publishedDateTime: 2021-07-30T19:20:00Z
-    webUrl: "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/"
-    ampWebUrl: "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How To Maximize Social Media Artificial Intelligence To Drive Sales"
     excerpt: "But with customer behavior changing and their needs always on the rise, the need to adopt artificial intelligence becomes necessary. This solution will make you the go-to brand when they need a product or service."
     publishedDateTime: 2021-08-03T12:20:00Z
@@ -56,29 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Interesting Books to Read on Artificial Intelligence for Tech Enthusiasts"
-    excerpt: "Artificial intelligence is transforming our lives with innovative AI applications. To understand how the technology works, here are the best AI books."
-    publishedDateTime: 2021-08-03T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 40
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-1.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Bidgely Brings Leading Perspectives on AI for Superior Utility Service to CS Week 2021"
-    excerpt: "Bidgely will be demonstrating the power of data analytics, artificial intelligence (AI) and personalization for utilities again this year at the industry's premier educational and customer service event CS Week 2021."
-    publishedDateTime: 2021-08-03T11:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bidgely-brings-leading-perspectives-ai-superior-utility-service-/2021/08/03/9422288.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 9
 
 secured: "eyogH87ousvmjrmWXX5+E3XAXQQSh8sciDb1ehv9ovAahE65brM6qLI+ecga/h5T07GeRzpI8bjly2zo1krI3h4fYfNuvYSW8qtQRpOUPwFjCbzvXFHOU57TFLlbJquQNDkSOI4LqTnxJVCZKfaC1eTMww6dUfZ79xWUiYLYnMtYMDZYC48USAxtnNpgtKw0zaafjRCoGIfbuHsSy5aa98FAv8PU5QGiFawyhXMi402rmt5M4QcVppas4NpcoqpVMf5UHbrvATnbSNQGvLB4H4V02vHh7QVUifwk24mw16Xb0ARV4TbiHgA/lH7i4J8Tfqm/TEp/rfOsX74QP5nr7/3xwWGIAIfY+5irPpLFAh4=;WRN/wNa+ABnqxuWCmDYAfQ=="
 ---

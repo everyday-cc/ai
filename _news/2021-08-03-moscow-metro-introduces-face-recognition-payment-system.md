@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/moscow-metro-introduces-face-recognition-paym
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: City A.M.
@@ -40,6 +40,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/top_pics/xl/moscow-metro.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "How To Fool Facial Recognition Systems"
+    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
+    publishedDateTime: 2021-08-04T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "bSRG7S8gusr3vaj/tlb0yKbnflija4LQACNlWl/8pHVoA5MwRmZyXCWkXDxitbloNnQPeT4fTNhAVd07LTaTJ1WadPBhs+hJBs/Uoln1KGo99pD/Ak7e0MPaj+orEoF8gjkc4HN21Au+vznAtWKAGQxx3Vu0taG/+KiF2JlibvwM+iRF2rNhXrKF5eDHvgsPs943sZCjlwlO/9f3x2jEcv3EP1jegJCTOpA8LHYoY+ACKi/C+sa1y8nLiJxDlAJ2TjFIQbHPSSEqrqx8yXiskphapdVXPH+x9MzfHMoXokfnQRvCUljoHMrqdkWZ6KauGAiNr18AzdHb24CPvpnwsgIhQW4ENcFiqehBR+27nT8=;E72vfEjv5zDT1FT0uIkYvg=="

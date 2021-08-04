@@ -24,36 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why Sales Leaders Need AI - and the C-Suite Should Demand It"
-    excerpt: "There is nothing inherently strategic or rigorous about using a dashboard. Therefore, it may be up to senior leaders to invest in the best AI solutions and encourage (or even insist on) their use by the sales department."
-    publishedDateTime: 2021-08-03T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
+  - title: "A New Kind Of Alien: AI And The Hiring Process"
+    excerpt: "Not all aliens are depicted in popular culture as green or humanoid. In short, they could be robots. More specifically, we could venture to call AI an alien life form."
+    publishedDateTime: 2021-08-04T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610827a5e420c7d6667a6fed%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Tennis Is Now On The Cloud And Powered By Applied AI, And This Is How Roland-Garros Did It"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into the Roland-Garros Players Application for players and coaches. Patrick talks about how it offers AI-powered match analysis with cognitive capabilities such as natural language search."
-    publishedDateTime: 2021-08-03T16:37:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+  - title: "Hiring the Right Personality Matters, and AI Can Help"
+    excerpt: "It's important to find the right employees in order for your business to succeed. Here's how AI can help you find the perfect match."
+    publishedDateTime: 2021-08-04T13:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/378658"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/378658"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378658"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
-        width: 468
-        height: 312
-        isCached: true
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
   - title: "Artificial intelligence and the structure of the universe"
     excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
     publishedDateTime: 2021-07-31T12:42:00Z
@@ -69,20 +66,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "AI and ML for the Masses"
-    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
-    publishedDateTime: 2021-07-30T19:48:00Z
-    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
-        width: 629
-        height: 319
         isCached: true
 
 secured: "9DEjvGk1i/VTGXOVyIKaw2mz9dGvofRvRozWjTQMx0+z7wL9FAuDDCn24se5O1VWsinajvBqvv9+CctFUOESBOuZwVgKxQvv4DzKuWDhlRXNGdZ7vwcFiGx3eG0eeixlSS4uS9XSX1ZSIERr5IhCOXbfumuqnpFO8QWkf3+h7JokIvJKhHnkQl9G4nIHB1dqWhW+LpkJAx8z9TRmxRkpBclmgSVB6wpskjwG0fV3QsYlYX8Ftk7frqRwnv3zycjgWR/Osr/43zk/dCXSAHoIYrQXHvcuaT+3tiogW/qyB5SRYcks86nsgTsIwCDyi5YNmE0EyXBllZETgWE3ep49Y1Vbgp/V3DwW/glkzrf3cmA=;oPw7csu8y74KR6EAXup2eA=="

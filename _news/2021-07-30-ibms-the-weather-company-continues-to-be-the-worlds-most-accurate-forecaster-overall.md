@@ -1,23 +1,26 @@
 ---
 category: news
 title: "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall"
-excerpt: "CEO of The Weather Company and GM of IBM Watson Advertising. \"The study is evidence of how IBM is helping advance the science of weather forecasting through continued innovations in AI, data and cloud computing.\" About the Report The report is a ..."
-publishedDateTime: 2021-07-30T00:49:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
-webUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
+excerpt: "NEW YORK and ATLANTA, July 29, 2021 /PRNewswire/ -- IBM (NYSE: IBM) and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the ..."
+publishedDateTime: 2021-07-29T22:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "Ig04FjMaRqrPBdxrBZd3GJP4+bjwpV6tQNEn7VjHIcxbsO/bLKlogJo+fM9wUqTd8oZxLsMEcpn866MBJcsTjFDraxhi5+phwnhVfw2MvHCyYrV1fEVdIAruPxLDdks41vLY0m256CxrYn6nFU7hLcf2Cu2cc53zlzmdbG4AHZbe+MRy5jC3bpYHftjRtGTCnenhI61ucXhkukpHQWxpuDuZzd2qu3718No5t41zJ7v0TDxHfDscTLKpXq8ZLYxWWJcFuKmLNL/KMrYL2Td4iRxFYafpJ4cxIFgjk6KF7tNBiKO+3CENNWqSxl7yJPc3vLC/8IKtTEx2bxd+RL+T9H5jeoOSnQR2QRkBPb1Nz34=;5Lnb5egSJZT944wp+JWhWw=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "TzH8fwHGAm4w/pQ+pKG1ljMhc38XfN+Vuwmf8re/oq0wQLta+33U5dcIPDg16ueaj5QNMXHTAuIW4cIjecKI1IC8wHzduN7hALA+E3DlEJckf+Lb9uOGpqdJQsvN9aqCeCrByXhke0ocoteyxGqDiV5dfx4gZq8eNRmXWuzav60BWtoLM8qAYipvJRqKhbrDPZDKOjr00uf+ghH28YbKNVIrxAZJrsflohWK2iky/TGXZG/1/ExVZnXq4jM3vkj4K+1IlnH0Y4C7CTL+ELdyTfeMLG14DeHu7kkUlc3FrwoE2CTISi/4ZJsxpuRyGZLdWJUG/u0i5HiuVzVVukHX6ux+rIkjVjb49Lm55vJO4B8=;Ryf9dU9nu4esmJYx8dy5aA=="
 ---
 

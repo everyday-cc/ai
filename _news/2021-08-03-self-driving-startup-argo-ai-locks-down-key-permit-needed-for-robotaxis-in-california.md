@@ -100,6 +100,20 @@ related:
         width: 1524
         height: 818
         isCached: true
+  - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
+    excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
+    publishedDateTime: 2021-08-04T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
+        width: 900
+        height: 471
+        isCached: true
 
 secured: "V2UQMXNuPD7Bh8GEKJf2ESXiaUXaj0OKZ7rfQODK4iERaLkhsha6gzUta3DAY9rrXKHXyCNuLgZeUNHkbfjvD3OmQCyn4Addy1CnYfNKF7vZJvt0ww4BlZEklxZEtsGI9wKzNz/4vfHP2TaNHY6DBd7beeCerZPUcDpvtC4x7TyxoOEjSCqhNbI6LKH3gcmGuI9X6EOV5KOHUM2AwNYeFZfEPT8ou+o9dNu7BR3hha+JSzLgOEKz7ud8rDgtK4xermIHoVHDEqk5jKBKQfqhbLVajT7CnpUPukcAP1XM8B56gY87ZnNaCQj6O3XI4DAavJx8LNVCdmb3soTv1aznCaHVs8zd4AGply2Sa0ebSqASc3iuuJRaW5PAkLvOQS13sOj75yIFsSM0lqrEuHIwD5wsWDZuAE4JeZliTd3wcj0wtbwfPqOygeQ3vzZJT12zobroGzVV7Jhn5ypQiUf2WnmkK2373jtH0NRFr6F4U5Ln/ELycGYVVf9/Hi0KkxMshVjfLIr+IvyptR6nOK2E6g==;4AYozgeOGRL7nhlfe3yWeg=="
 ---
