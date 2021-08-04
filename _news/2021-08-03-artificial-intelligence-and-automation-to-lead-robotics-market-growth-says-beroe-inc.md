@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc"
-excerpt: "The Robotics industry has witnessed significant growth in demand as it has become a key strategy in the implementation of Industry 4.0."
-publishedDateTime: 2021-08-03T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-301346687.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-301346687.html"
+excerpt: "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase"
+publishedDateTime: 2021-08-03T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 72
+heat: 72
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/777512/Beroe_Logo.jpg?p=facebook"
-    width: 1500
-    height: 785
-    isCached: true
-
-secured: "uGhsoI61GISR4weq0zJQ0kraKAC/v/dgPQOh46NA+GZf1121Wu+sXQTce7um+GizL3GURDmobrNHZ0qH6ilF9nTjT7GQ3N3vt4SSZWWEnp43FBe86Tplx59eAVpDRQziw+utWHPSfuXaEvQW0UXpR6UGT3er731HzCJSLcX9ctCuQiQd1D8f1gaoeVgGaRGOpH2KqLcfO7T3c7BwXlNsyi/G3L0DDItYywMkti5UI+MwAhrnpX/YQXF/o7OiyDlL2LBFOI4kmrKK2DSOmChAwC+5pD3rKr00lSpAqLaGEfICjmm8ket6b8ZTr+DB2tilBfsgruD7QPglvE5wiek3RHFEuMOGpmxk5Azipxk1mzncsMsoUAth+tOjvbGhR5xgVovH2tTiTtKTaJn0xEuXktNRxAN6rVeuDUJ0mP16TCn3/ErRs5KKXqL7939gb21stkjd8ElwVA5wOK4a7Vg9FEdWTU5GrB2Rx5ItgCLaBwYj72REC7sGTyhwrcbVG21hJ7d1mOjW5+kyIzCTayW/nA==;Akn4rKilwsVuIGLErabO2w=="
+secured: "qQJ7t0YKV6ej2qUYU5lYwtZ83G27Msj7pvAkCaVI6uYpNxFjlKYnMPFBZ6hkmSx0uLGS3V58jB3hy0805iHECl4Z0ZTENlo2qVvCCHuQSQjKgzcHHS3RxXWCFDQiq4pwOcCZsEufJFlgUPmMmPpv3RzfDP3faqrN+yg1NZxFFczKFahANyKIezCg7YZbwXx1apt6F09yp8MtoQL/vogP7CbbZkaySC+UOBNfN1/rXiM/ulS0zrtSxOrKyvC6wBiB19M3HFKO8CfI8nNbLqG2F8EdSbkRtIVlMuA/gN9lxVSHpCh/kTLfseKsTfN5otyIDjgECCS4UoGgNHYrpg8ZtWhyyB6G0n5ecg9NakNdDl9wCSEnu+E2pbhPRWOgg/YDc/6gT+M4KPUwXBgcoPLLhQ+PjvflkNv/y/jhsz6BQkZxzg/lqz6dD2lEL1CXbTafIV7YsXnsFwh/FclBzb77MEiWaPm8D8EnZ2v6bz8ISSmDt9KCYjOWSGgoWnZ77uwtB5nVZOX4i+rbJ9EVzsLuzQ==;pHPiSA+nPIXi7PBLJOhxFQ=="
 ---
 

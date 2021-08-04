@@ -86,6 +86,20 @@ related:
         width: 870
         height: 485
         isCached: true
+  - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
+    excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
+    publishedDateTime: 2021-08-04T08:14:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
+        width: 1524
+        height: 818
+        isCached: true
 
 secured: "V2UQMXNuPD7Bh8GEKJf2ESXiaUXaj0OKZ7rfQODK4iERaLkhsha6gzUta3DAY9rrXKHXyCNuLgZeUNHkbfjvD3OmQCyn4Addy1CnYfNKF7vZJvt0ww4BlZEklxZEtsGI9wKzNz/4vfHP2TaNHY6DBd7beeCerZPUcDpvtC4x7TyxoOEjSCqhNbI6LKH3gcmGuI9X6EOV5KOHUM2AwNYeFZfEPT8ou+o9dNu7BR3hha+JSzLgOEKz7ud8rDgtK4xermIHoVHDEqk5jKBKQfqhbLVajT7CnpUPukcAP1XM8B56gY87ZnNaCQj6O3XI4DAavJx8LNVCdmb3soTv1aznCaHVs8zd4AGply2Sa0ebSqASc3iuuJRaW5PAkLvOQS13sOj75yIFsSM0lqrEuHIwD5wsWDZuAE4JeZliTd3wcj0wtbwfPqOygeQ3vzZJT12zobroGzVV7Jhn5ypQiUf2WnmkK2373jtH0NRFr6F4U5Ln/ELycGYVVf9/Hi0KkxMshVjfLIr+IvyptR6nOK2E6g==;4AYozgeOGRL7nhlfe3yWeg=="
 ---

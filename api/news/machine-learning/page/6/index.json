@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-25-leaked-memo-google-is-spinning-up-a-new-internal-group-focused-on-machine-learning-in-a-push-to-make-substantial-gains-in-ai.md",
+      "title": "Leaked memo: Google is spinning up a new internal group focused on machine learning in a push to make 'substantial gains' in AI",
+      "excerpt": "Google is spinning up a new internal group focused on machine learning as it tries to get ahead in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/leaked-memo-google-is-spinning-up-a-new-internal-group-focused-on-machine-learning-in-a-push-to-make-substantial-gains-in-ai/ar-AALp5Nc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60d48c5e5f52060018bbecf6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T12:30:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+        "domain": "businessinsider.com/google-new-machine-learning-group-artificial-intelligence-ai-brain-core-2021-6",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-iiit-hyderabad-launches-online-foundation-course-in-machine-learning.md",
+      "title": "IIIT-Hyderabad launches online foundation course in Machine learning",
+      "excerpt": "Hyderabad: The International Institute of Information Technology, Hyderabad (IIIT-H) launched a 50-week online foundation course in Modern Machine Learning for engineering students on Thursday. The online course will be open to undergraduate engineering students who are in their third or fourth year pursuing a program in Computer Science/Information Technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanchronicle.com/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html",
+      "originalUrl": "https://www.deccanchronicle.com/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-liq2jpbp0j2q8jchgqa8tn9e82-20210624204626.Medi.jpeg",
+          "width": 800,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html",
+      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/current-affairs/240621/iiit-hyderabad-launches-online-foundation-course-in-machine-learning.html",
+      "publishedDateTime": "2021-06-24T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Chronicle",
+        "domain": "deccanchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-state-street-to-implement-machine-learning-tech-roundup.md",
       "title": "State Street to Implement Machine Learning: Tech Roundup",
       "excerpt": "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,",
@@ -1272,101 +1367,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible.md",
-      "title": "The Future Of AI And ML Fairness In Southeast Asia: Who's Responsible?",
-      "excerpt": "Regulators, practitioners and businesses must collaboratively rise to the challenge of unlocking the power of data ethically in response to the evolving needs of SEA communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1211552718%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/the-future-of-ai-and-ml-fairness-in-southeast-asia-whos-responsible/amp/",
-      "publishedDateTime": "2021-06-18T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-neural-network-captures-noisy-neurons-in-autism-mouse-model.md",
-      "title": "Neural network captures noisy neurons in autism mouse model",
-      "excerpt": "Mice missing the autism-linked gene SHANK3 use more neurons to engage in social behavior than control mice do, reflecting a more disorganized, less efficient brain signaling network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
-      "originalUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/06/17122732/20210610-PrefrontalCortex1120-1120x550.jpg",
-          "width": 1120,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
-      "cdnAmpWebUrl": "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
-      "publishedDateTime": "2021-06-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

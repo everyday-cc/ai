@@ -23,22 +23,6 @@ images:
     height: 375
     isCached: true
 
-related:
-  - title: "Woebot CEO Michael Evers on AI in mental health, and how to get a chatbot to bond with a human"
-    excerpt: "How important is AI becoming in healthcare? It's set to grow to over $120 billion by 2028. Woebot Health combines these two things into a single platform: it's created an AI-powered mental health chatbot that uses proven therapeutic techniques to help its bot bond with patients."
-    publishedDateTime: 2021-07-30T16:24:00Z
-    webUrl: "https://vator.tv/news/2021-07-30-woebot-ceo-michael-evers-on-ai-in-mental-health-and-how-to-get-a-chatbot-to-bond-with-a-human"
-    type: article
-    provider:
-      name: Vator
-      domain: vator.tv
-    quality: 27
-    images:
-      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21194.jpg"
-        width: 320
-        height: 240
-        isCached: true
-
 secured: "yO1WldIpIHlnnXjvc0ZC/vX6wi+mpjNEneAV9lxnSaXwtKWFkZLXca7A4Oi3qqY1a7TYM4p5XLNY7nJtkfd5JsXQJ7JMTDIYVqeY2dU6pDvSyZp+EVdnhJUT14lOFCPwyFvii2VYlJEsrRdt12m/FhhI0/4Imh8Vh8hIjK6YNHKrz99ujIFFPg3nAd/q9ZImSKixhMq5ooilXt1DhtJz3emBpAv2us4YHNuXBayKPbpWOU2usFv0aDkmyoGMDK/DBvQ4QJKTB+QHHJ2t7/j7x7EZXe5n8BzO71d6qBwdtsWK9PVxhL6KmTFdHMcP+bgHLs08QoUzxb1k1ycwccV5M+l4sFYwUSd3skU+OuFso2o=;S1DHGQKNzXh6pb+qy3vcXw=="
 ---
 

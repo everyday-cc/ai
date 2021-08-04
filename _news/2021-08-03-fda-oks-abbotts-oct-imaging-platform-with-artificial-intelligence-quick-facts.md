@@ -46,6 +46,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Abbott Receives FDA Clearance For Its Imaging Technology Using Artificial Intelligence For Vessels in the Heart"
+    excerpt: "Abbott (NYSE: ABT) today announced it has received U.S. Food and Drug Administration (FDA) clearance for its latest optical coherence tomography (OCT) imaging platform powered by the company's new Ultreon Software."
+    publishedDateTime: 2021-08-04T08:12:00Z
+    webUrl: "https://www.pharmiweb.com/pwtoday-story/abbott-receives-fda-clearance-for-its-imaging-technology-using-artificial-intelligence-for-vessels-in-the-heart"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 19
+    images:
+      - url: "https://cdn.pharmiweb.com/media/13040/abbott_300x400-1.jpg"
+        width: 300
+        height: 400
+        isCached: true
 
 secured: "yV/WCRJvTF78+T5cwfYc19LRDnCulJ/ap5YZxKMkLYvavcspVdrrEoP4U9FuacNU7JgfIbsRgZ2Tk55kNbFDAxR21uZri1Shc32qJSYkYlvBIEbWmhKbVzcF8E0RypD6XN1FxYyUX342Jb7gqSLKaM3l9IV+b3JSmk1H6C3HeO0hrMwHEUxNdtgKPctjlVYEjGNUG9OaZLiE6twPaAVoWVM2aCB/KhcQc1suuT7y6FHdbtglYYauACDZ2g7YQY2aqz06FQrswkujWhMvos3kVGuC6oUvIESLvClvMq66LM09tHAL5fojcq3qqkmLY4tCJsg15Xer09SeGPySNS9Nz4tI+QZvY2As+AHk4VzmYWQ=;yLV3HmrFl9ghlF1lXdOmmQ=="
 ---

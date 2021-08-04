@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/brand-post/angel-broking-is-now-angel-one-a
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters/amp-11627988551326.html"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Mint
@@ -35,6 +35,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
+    quality: 0
+  - title: "Angel Broking Rebrands to Angel One, to Cater to All Financial Needs of Its Millennials"
+    excerpt: "The Digital Broker transforms to offer financial services along with stockbroking services Mumbai, August 03, 2021: FinTech platform Angel"
+    publishedDateTime: 2021-08-04T08:10:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/angel-broking-rebrands-to-angel-one-to_4.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
     quality: 0
 
 secured: "KtNUfHfR1dO7sGhVFKpbGP6W62oc6osKe7DN0uAmGsyiRSZ+84l2tkpKDx+j5kKBn9qUtMxut1WNYc2Q4pxDEkMyRQ/DOh/6fwa++ail+lqjs/t9SGWViAL9lbbcrknMvHo4Uq46l5k1x1VQyDC6k1W902HVQtbPXBtDiYVyZlh4Z7ZMbp410Srum00iCoxIkyQkqaBZnS17NcqAMeCWDLRjjlVSrx87RkrDTKqsXqxLmEo15hH/S5CcGQKV4YdbxDOxtOFv/kLa/EUd8IKgo0aUxGgshZhdWrZOuJ3r3ELIDJ2VqZL+3dtNDVhZm7aP5iLj/qT7zh7jlOhldECudym5pgOPALqyBMUj8/KvYS0kJUj3SefgtlW88eCC3eFzBC1qXjGtpTtseF2xQbxOPy4nuUg+VgytINN5IidKoYxJ8lPNTgcA6SUra7/1oDqLFHL/CBud8bTi5cmpJKewKJn8+ALsBMRVSl6fQgm+McKfwXsp9/erMibxgmfARyGSLQIF+0/yzscZEFMFswIC1A==;bqlGpFfSwTpWq/EuUf433g=="

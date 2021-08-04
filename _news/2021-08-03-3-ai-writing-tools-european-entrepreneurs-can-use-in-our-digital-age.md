@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/376438"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Ireland at centre of €3m European collaboration on Artificial Intelligence"
+    excerpt: "A major collaborative project across Europe is designing a new Master's programme in Artificial Intelligence that addresses human and ethical issues around AI."
+    publishedDateTime: 2021-08-04T08:56:00Z
+    webUrl: "https://www.rte.ie/news/business/2021/0804/1238952-ireland-at-centre-of-3m-european-collaboration-on-ai/"
+    ampWebUrl: "https://amp.rte.ie/amp/1238952/ "
+    cdnAmpWebUrl: "https://amp-rte-ie.cdn.ampproject.org/c/s/amp.rte.ie/amp/1238952/ "
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 57
+    images:
+      - url: "https://img.rasset.ie/0017ecbc-642.jpg"
+        width: 642
+        height: 361
+        isCached: true
 
 secured: "iIdYD8g5Xe5O08bFSw9XhLfsF0N/HE9uA6SLW0GuTP7ddv9F88Givi3oCLjeZjPdX67jd7+ED7CCceLzctdn5Bb8btMmj79wYSGV/7rgsKZAydiIMNreN27hFjd3jNAA1Nlr/EFTIWfjQ4EQaCvagv9hlfuLYiZr95FpnzrzRw+NpaO1LVqjgAfK+IcdlIym7adFSqVavS1k4IsU89qwIKS3h/xgXaCRxGGtIiDeP8700XRYZzQZe6+WFXQR5unaKE08i458wYyuzHP4zttg/l5oXDMDVPthN+FylBh75AWPFflj/S/+hZ2W5amg4En7665GlZF6UoS4ZpuRd4T63dklEgzEyx0JH+R/e+Oz/Tsq4VfXNlQSZNmqXdhfLrCWsvngOEQ15hEaAvXdDboyxEe4qLW0bpwqL9Cpigl/1iOEXoxoLaySs5P93igU4OBhogEWNVU/Wgvcv0lDNi9T0Nd2/M1h2ySwava5N8OHMBk5D3eCJU4WFSJN9lgthh/nbyeeq3FYYmkKuLI/DPNGqA==;vhSdFtgG9FtiCRiykGNQQw=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Angel Broking Rebrands to Angel One, to Cater to All Financial Needs of Its Millennials"
+    excerpt: "The Digital Broker transforms to offer financial services along with stockbroking services Mumbai, August 03, 2021: FinTech platform Angel"
+    publishedDateTime: 2021-08-04T08:10:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/angel-broking-rebrands-to-angel-one-to_4.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 0
 
 secured: "ZbMR/hm0FM7vqZc+olzS3nIb4BlSM4/JDSkN+PGVxVaXMlXRKpwk3fxdPHOaFzFbskityfF5KYKC2YwG/eXU7RhLqaUW7NVJoUqmHKotsPC2Zo5KFyghh2lRdtZ+TejaIyGhAkYao9sCxAQe/adgGyUwcaG3fI3pRWRF/uu6w7yv4DDywpbOZdDfTd8FKwzVo1R9BgOKxINo6dOXenRRxA4uLCZIkFqddBW+OaJIByHAyQNOhkb3QYqDP05+96s7VS/XA4c5ytiYA9B6w56LDCzGmFF/zNbOCXTriy2mFhn63tcV1ZF7jbKE5bexoOaOpsiDQ2BrqVDZQShon63srl+7eu5Mnprt1I82gVvqQWk=;PxOnEjbLwt/IntrmPkgezQ=="
 ---

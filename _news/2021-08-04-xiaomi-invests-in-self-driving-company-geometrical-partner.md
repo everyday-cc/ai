@@ -55,6 +55,22 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "DOT moves to allow self-driving car tests on NYC streets"
+    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
+    publishedDateTime: 2021-08-03T20:27:00Z
+    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
+    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DOT moves to regulate self-driving car tests on NYC streets"
     excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
     publishedDateTime: 2021-08-03T20:27:00Z
@@ -72,6 +88,6 @@ related:
         height: 800
         isCached: true
 
-secured: "vHxWgZ5Skr27oTKRxfQnayYqAFbtKVYxLEXYYX5mrxO7ZipnMq130nHWpVdk0ZJsjJS3YGz7eKZ+q9LV+tDuQsdqQPqzf13wSttAevVTxdq1uhYgOvFdO9RKQEgf4hXZteo7QVLpA/tqMnxSrxz1GXCAwVSvjLdOi8xIgAZp9qI0nucDg/8je1T9AJH3UTPJYYIDhmGs+KL8y3Dc/2eHvkajnQCts/Hqa/6o0wGbZDaiRsJW5c/dKQ2H/Ram7awK3UTiX6dViFmYv/1tHpx0028aO1DONeNrOrEaK0uXaFz39cYw9n8cKXVuYqxB2anflqrzaya8b6fLPOt/g5BVm2uFQB1qRpJJ7Td/rjqAhA4=;+/C7z+DxodIOMNQOiIKeVA=="
+secured: "3Tsc/phcbHvd3OtTZ2jXjMAvY00j/CwWf2ztf+OviPFerzpkL4CDCe+lifdet5CQ/g/ivGabVFr3sZ8KNBikQfbuGeGMUo+ZnDI+QdpB4WEBWco+aZrEZ+i0jO75joPOW91o9cXI2KiIhmYJA6AHim9SIIr215Wen0lQTdtnoJmz70tVsVmK+w/QtCjG7dK4UHZoWN/ec0nGy767mQMW3pZbu/4w7O+UlFP+Y71mHk01Pat1bhSuXnJmGGnhqzKeD1g+ZEuMl2p/rGBx9smXe9CqmvRm8q3Z/cMrfCtBBcvVtirkBxMXZ9lF+08ZGOSAjL56tpZmAR7AZe8v4euWe09Y6B2E5dY6UPtv7od2tKDpdRUxuicTs8WgLnkiQ6CcyEvVCDFCAXrwL5x3bzGBjCL1I/yMK6jM/B6WaXr4l6Qcmyg/isr2476qJ7ZYGiASrnK2xSC40Rd9ak2AGVW1SUqEtu6xjPhpdO5C8L+x2YI9/50DSK8wkXoD00ghx3x/GQ6qykTQd6bDzlYUC8QnxA==;6vnLuyBzCAONwYSrbcASpA=="
 ---
 

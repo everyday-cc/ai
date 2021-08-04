@@ -54,6 +54,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "A|I: The AI Times – Artificial unintelligence"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-08-04T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-artificial-unintelligence/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Ashfield Health Launches Health Intelligence Platform, Gravity.AI"
     excerpt: "Ashfield Health, a global healthcare marketing and communications network and part of UDG Healthcare, has launched Gravity.ai, a global healthcare intelligence data platform. The data solution is designed to support pharma,"
     publishedDateTime: 2021-08-03T15:18:00Z

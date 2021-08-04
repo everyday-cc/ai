@@ -7,7 +7,7 @@ originalUrl: "https://www.cambridge.org/io/academic/subjects/computer-science/pa
 webUrl: "https://www.cambridge.org/io/academic/subjects/computer-science/pattern-recognition-and-machine-learning/deep-learning-science?format=HB"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "How will machine learning change science?"
-    excerpt: "Machine learning has burst onto the scene in the past two decades and will be a defining technology of the future. It is transforming large sectors of society, including healthcare, education, transport,"
-    publishedDateTime: 2021-07-30T15:03:00Z
-    webUrl: "https://techxplore.com/news/2021-07-machine-science.html"
-    ampWebUrl: "https://techxplore.com/news/2021-07-machine-science.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-science.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/6-ai.jpg"
-        width: 1740
-        height: 1920
-        isCached: true
 
 secured: "LAeg/qhjm8e7brK+WA9Vz/m6tdewt7ut2RWUc2TrLqK3D3m3p9myRVbK1CLIIDeJzqypMR7MNNu8457rS3QOzUwTOyJg2JphBtQOYchoOblvXKHcuiYLBuxWXmY+6WgHU4i6JSQjgjfNPQD67FY2sUyindunkSVSJ/z9polAwMu/FSWBG9R474GndUQMtRVmzLkPIu+hCUYq++0JKLr00/AXUn8fEZ6DS11t7FZfpUxCIu93Imv8RdVwWZoBWm9IMvN4+d9DRC5G35YdOCYuZ8wfHJy+y9eHsKwNTweKbSpAxSabFx5QlJTCz9vVIEnghgAxPLb3lrEQYcP/3DEvMoH5jl36hlM09SdzsAGUick=;nKo5plJvBYMTmDvLGjFJXQ=="
 ---

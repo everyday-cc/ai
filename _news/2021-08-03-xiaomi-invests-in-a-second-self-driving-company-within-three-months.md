@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement
 webUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/Cleantech-side-banner.png?ssl=1"
         width: 1080
         height: 1080
+        isCached: true
+  - title: "DOT moves to allow self-driving car tests on NYC streets"
+    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
+    publishedDateTime: 2021-08-03T20:27:00Z
+    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
+    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "DOT moves to regulate self-driving car tests on NYC streets"
     excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."

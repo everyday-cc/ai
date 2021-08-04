@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-in
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1326099437.jpg?w=600"
         width: 600
         height: 400
+        isCached: true
+  - title: "A|I: The AI Times – Artificial unintelligence"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-08-04T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-artificial-unintelligence/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 37
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
     excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintec
 webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "16 Upcoming Fintech Events in the US"
+    excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
+    publishedDateTime: 2021-08-04T09:05:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/16-upcoming-fintech-events-in-the-us/47848/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Upcoming-Fintech-Events-in-the-US.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "OPLbClVkI2Rpe92AtxVBMf8WxRtTpKAsTznSI6oCoLfD5YG3TydgGmh5uzdaaZmBoVrh9RgAlBQLpox+IuMOZIZqXA9VGu3As7PfqhDf1Iq/WwqhW66KkW4yShfy8mU9VFcp+IGpEl32SOslcg8VMbbjP436w9RuABIajsJXZsevRKDTooWS+mo8AeXyAucmOSaIop/AHT4b1V7h294abv9ngv+IV1XX/vtD319AHHImaueORa2tZECbddqUlzX8pffxbzLf1W3kIX/ov4Ar/JAYg3H+VRXKhbxgceWKeje2EmsYbsNRJhMj5tSpJun4bybiXq6hrIOlrEYf2l0rwOIsBGzqW0NuSnjbk3eNfsI=;r6r4rLtQ0NgbUmvvr6RU4w=="
 ---
