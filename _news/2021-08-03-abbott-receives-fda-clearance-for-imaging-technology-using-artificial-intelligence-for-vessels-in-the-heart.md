@@ -33,6 +33,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 42
+  - title: "Abbott (ABT) Receives FDA Approval for OCT Imaging Platform"
+    excerpt: "Abbott Laboratories ABT recently received the FDA go-ahead for its latest optical coherence tomography (OCT) imaging platform, powered by the company's new Ultreon Software. The Ultreon Software is a first-of-its-kind imaging software that combines OCT with artificial intelligence (AI)."
+    publishedDateTime: 2021-08-04T14:43:00Z
+    webUrl: "https://www.nasdaq.com/articles/abbott-abt-receives-fda-approval-for-oct-imaging-platform-2021-08-04"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Abbott Receives FDA Clearance for its Imaging Technology Using Artificial Intelligence for Vessels in the Heart"
     excerpt: "Abbott (NYSE: ABT) today announced it has received U.S. Food and Drug Administration (FDA) clearance for its latest optical coherence tomography (OCT) imaging platform powered by the company’s new Ultreon Software."
     publishedDateTime: 2021-08-03T13:04:00Z

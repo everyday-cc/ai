@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 808
     isCached: true
 
-secured: "IpaAGLd6EFNYIj9+A3G+lEx5W89Z2WPo23Twq0gKsaI8hQeIpzYfDw3VzkINxK+4qq9t+8iFAwa90h9zes6hgT/SHu9IZL3LhBGKkmLx6Im6DMDswfMCipRcy2FS8qKxZO/QiUG+jbOYLisCx8cPynwOc4WVNelVtX/53UrshiOjG+AvHQHDus0HAGsT8EcVhi5BE5SKgiDhDr8pVdELvwLKmzt77hGayFwuXLEHJmMAOKw51jKeI2ot/EieB8lcKQmAhjH0QH47L0M7NAs4l7aUMdxJUyUxyQH9jAq6yXvvVd7bT4G7f679/7xnhqzKo/iXn/diGU8k0hhWpc5cP+wiZXssJIp5o9I0gWWU8Fo=;a+qEWCg8GafVcG5QVqpYEA=="
+secured: "OKu7qLHQEZq05p1KsT2SUVQdyWkyaVzoKiBQzywpXCChfmRhPlaBBPLxp+tiEMH3Zd/B/EEFMnqvfRbWut3XzIteN28aI8u5RwE75pXpjnosBMfkzsNx8ZfCh6wSYCccadVtTtHzb+iEgGt6cBuwcLGvGcbExMuN5tsqSCQxM+r7lZRw8kaJMY5Il3DoJ/nDVELuNteL7ie+70sgp/PTBWHEoWbYNptSW3O/Os7Xb+upGgRA7a+4NPXFIsIea72HqEZpVh0WKHcI/pg8z5yAPPxxWsQB1Cc5JDXRulfTlNfDh9iRNsdIRfByQx0A/mna6Q3CfaxG/iHLfqLnUK//7qyxW5mXOdXK96EhlRtHw/68zTrXzJVq9laR0jWND2cx0bnGeoVXZnlulaZfmgiAXEG9/b5/gq0c+mZB9mjRIOq1QzAhmE3tLuE1sKxAelbtK3ZgjVp+YM9TIknK1pJPRHnCCQMTKfzly9fJtnXXQencClmkgNN38IqCJ/uORMV7lBrSI3IhmHWUZVmx8ol7Lw==;Xj+f60J4MjaCZxMNfdebDA=="
 ---
 

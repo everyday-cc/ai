@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Infrastructure Market Analysis, Share, Growth, Trends, Revenue, Overview, Forecast To 2028"
-    excerpt: "A New Business Strategy report released by Stratagem Market Insights with title Global AI Infrastructure Market Professional Survey Report 2021. This Global AI Infrastructure market report brings data for the estimated the year 2021 and forecasted till 2028 in terms of both,"
-    publishedDateTime: 2021-08-03T02:06:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-analysis-share-growth-trends-revenue-overview-forecast-to-2028/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 28
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
-        width: 500
-        height: 288
-        isCached: true
   - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
     publishedDateTime: 2021-08-02T17:28:00Z

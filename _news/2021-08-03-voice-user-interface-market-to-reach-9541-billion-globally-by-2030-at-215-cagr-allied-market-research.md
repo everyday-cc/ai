@@ -2,9 +2,9 @@
 category: news
 title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
 excerpt: "Allied Market Research published a report, titled, \" Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices,"
-publishedDateTime: 2021-08-03T16:14:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/08/03/9422761.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/03/9422761.htm"
+publishedDateTime: 2021-08-03T13:24:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-voice-user-interface-market-reach-9541-billion-globally-/2021/08/03/9422761.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-voice-user-interface-market-reach-9541-billion-globally-/2021/08/03/9422761.htm"
 type: article
 quality: 5
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 585
         isCached: true
 
-secured: "JIhRsdpZxrmU6wdnwltc0+GWL2sQWBIc838uSSWRw//5Hzj/zWTJ5bT9SWxvUCIhRhLNpqa4SpQf97nIZX8VCwmBhanolkNBCnwFmU3coE7jW2LlC2YFTy8BZzddftbqNBMeM/9rqw7efyva4Z4MTmqdkb5IFAg8bWrhqH4AAVxhtUcRfcDbFuISIWQQeXDAYeKp1idJ8n6x6cxl7pUFq96V6V/4nri6HDVt57YmTTInss6ooEKmiZpMdqKMo+3hi2VCnUpDvA0wHydxs66mFX9mdIride8zjagpc1tBKuEnTSfdfr+f3HYYvjQJn+xEcAZY0IBlzOca7ku5XO++DZ9L8BzPdP/TYScrSQJMLn8=;YBHpq0ElyyAZeHmaT9eg4A=="
+secured: "gyFDNp7hInI96bpjeUiEWBNKruXfAqQ6xZun05RXJ93VAVl6fhL3YJzoC2zlRGm9IKaBlXJhfmCemz6Re6WGkrqxkBv/OlyeHC6/qZAazIx81qRyLzV60y3J4wBrexxrAkrH6F2BQ3ywnF9/p0RQzA4V71Fv6qOiPwEuhzoZ5IFS4xs1M7dwVHEj31TA3ySzsVNv6MQ7LAXvPvw0tBrQXar1nT/FoDtocpEBo9MnuCgy76k3LrCmHO9WWpQnvUtjqh290jviTv8krBaxvUHsoN/pnELEAlvwB86OaGglOZParII66CwV3lGH0kw9ojyukrMI5p5ArlzEIk31RqOxWgxlU3LsSAYG0SiFWsTXiOU=;JWtEy3z3R+pY4Y3icBQMQg=="
 ---
 

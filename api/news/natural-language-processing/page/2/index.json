@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
+      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
+      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-aicte-translating-engineering-coursework-using-ai-tool-finding-word-equivalent-of-tech-terms-a-task.md",
+      "title": "AICTE Translating Engineering Coursework Using AI Tool, Finding Word Equivalent of Tech Terms a Task",
+      "excerpt": "A many as 3,000 translators along with young interns in their 20s set their eyes to the AI tool on their screen to translate course materials from English to regional languages at the AICTE headquarters in New Delhi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "originalUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626756615_aicte.jpg?im=FitAndFill,width=1200,height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
+      "publishedDateTime": "2021-07-20T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-maines-facial-recognition-law-shows-bipartisan-support-for-protecting-privacy.md",
       "title": "Maine’s facial recognition law shows bipartisan support for protecting privacy",
       "excerpt": "The ACLU urges all Americans to ask their members of Congress to join the movement to halt facial recognition technology and support federal legislation limiting it.",
@@ -1343,111 +1431,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-13T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-heres-how-developers-can-implement-the-google-translate-api-in-their-apps.md",
-      "title": "Here’s how developers can implement the Google Translate API in their apps",
-      "excerpt": "For the latter, you can just upload translated language pairs (a structured list of words/phrases with their translations) and AutoML Translation will train a custom translation model. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
-      "originalUrl": "https://thenextweb.com/news/developers-implement-google-translate-apps-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FGoogleTranslateAI.jpg&signature=ec60a3389abb868bd3a35f69a793cbb2",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-global-automatic-voice-speech-recognition-software-market-2021-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast.md",
-      "title": "Global Automatic Voice & Speech Recognition Software Market 2021 Segmentation, Statistics, Top Manufacturers, Regional Analysis and Forecast to 2026",
-      "excerpt": "The latest market research report titled Global Automatic Voice & Speech Recognition Software Market 2021 by Company, Regions, Type and Application, Forecast to 2026 enfolds expansive evaluation of the market offering an analysis of the market revenue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-automatic-voice-speech-recognition-software-market-2021-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2026-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-automatic-voice-speech-recognition-software-market-2021-segmentation-statistics-top-manufacturers-regional-analysis-and-forecast-to-2026-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T13:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

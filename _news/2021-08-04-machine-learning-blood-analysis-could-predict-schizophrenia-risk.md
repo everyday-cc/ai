@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/machine-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
+    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia."
+    publishedDateTime: 2021-08-04T16:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
   - title: "Machine learning approach for predicting risk of schizophrenia using blood test"
     excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by"
     publishedDateTime: 2021-08-03T13:22:00Z

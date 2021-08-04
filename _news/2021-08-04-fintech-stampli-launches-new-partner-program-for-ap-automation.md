@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Fintech Stampli Launches New Partner Program for AP Automation"
-excerpt: "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software."
-publishedDateTime: 2021-08-04T14:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/fintech-stampli-launches-new-partner-program-for-ap-automation/article_4a56bb3b-b933-5ecd-810a-f87c5ea60a1d.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/fintech-stampli-launches-new-partner-program-for-ap-automation/article_4a56bb3b-b933-5ecd-810a-f87c5ea60a1d.html"
+excerpt: "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli's award-winning AP automation and payments software."
+publishedDateTime: 2021-08-04T14:11:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fintech-stampli-launches-new-partner-program-ap-automation-/2021/08/04/9423989.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fintech-stampli-launches-new-partner-program-ap-automation-/2021/08/04/9423989.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "m4MLcrGQJZgBKxn81Sjhyk2EWtZPlNprnPXIhxttpp+JOnC4L9NMZGKFrFOIvkFzNiIrWPUWck0Os3b8d9/TlcUAMOFgv4CtOyVbAD4CQZcumOg6LW/XR0Ni9mqtkOpLlqqD3G41zuuyNHBZLQzSjK3e+fCRvWwURJ7LSFmBBaf46Cdc2E/U/jLzwAXMhYqo9KZ0UhRwU98ypNZz/tG+OZHUT0otX3Xh+CJcta702N5/PBudHlveh9v6tiUh2NNmknYampIMrVBURWKLVelVB82EPUJWpZ2ssSh6A7kEktMdWoS5FYDNTXF+g+IYbxrg+oOt2FngfmhNwA1S5EtVGwkfZqLucPQdxTTlTmJ+IoM=;1YD/ue9X/r27mMCp9JWmYw=="
+secured: "0yOru/jpUQO6nlLsmQOgZo0kfk3PW9tsIGy7rfbq1oJDUjqkyZtVmA9V2cWaiJpyHNL4uA9g5ZPZSUBKnEzJvAMS94XIObuUhGFylxA8dZlvD8Lw1Uvz7+Q7hkCT2upMzmMiDSVgCGh8O6OCKnJjTVJyPAQXSLb6bydIAhmT0h+tHOyLRHHUL73jx3IpjoWxE2nGJ69ckbv4m4uAcd374gq3TkPR42RX+GEjETK6cD+jzWxCzNzC1EH71dNqJWeuW8WPeuyWyqF7hZGQJDIQJF+zuDsWQLWPeF66pYrw0SliYPwC0zMElqB4YcOm0MHks6JrO4V/0inDLVn+po1oXfRlcWKYZvl/fzyUVSwnR+E=;Rnp5ai8kjVVAMN8Zk7ASfQ=="
 ---
 

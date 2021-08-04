@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
+      "title": "AI-fueled app Natural offers new interface for consumer transactions",
+      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "publishedDateTime": "2021-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-enghouse-espialtv-enables-tv-accessibility-with-amazon-polly.md",
       "title": "Enghouse EspialTV enables TV accessibility with Amazon Polly",
       "excerpt": "This is a guest post by Mick McCluskey, the VP of Product Management at Enghouse EspialTV. Enghouse provides software solutions that power digital transformation for communications service operators. EspialTV is an Enghouse SaaS solution that transforms the delivery of TV services for these operators",
@@ -474,6 +526,40 @@
         "AI",
         "AI in Finance",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-repay-provides-integrated-payment-processing-for-provana-customers.md",
+      "title": "REPAY Provides Integrated Payment Processing for Provana Customers",
+      "excerpt": "The integration automates processes and increases control of payment methods on Provana’s repayment platform Repay Holdings Corporation (NASDAQ: RPAY) (\"REPAY\"), a leading provider of vertically-integrated payment solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20210729005325/repay-provides-integrated-payment-processing-for-provana-customers",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20210729005325/repay-provides-integrated-payment-processing-for-provana-customers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1314,94 +1400,6 @@
       "provider": {
         "name": "gadget.co.za",
         "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
-      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
-      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-aicte-translating-engineering-coursework-using-ai-tool-finding-word-equivalent-of-tech-terms-a-task.md",
-      "title": "AICTE Translating Engineering Coursework Using AI Tool, Finding Word Equivalent of Tech Terms a Task",
-      "excerpt": "A many as 3,000 translators along with young interns in their 20s set their eyes to the AI tool on their screen to translate course materials from English to regional languages at the AICTE headquarters in New Delhi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "originalUrl": "https://www.news18.com/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1626756615_aicte.jpg?im=FitAndFill,width=1200,height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/despite-aicte-translation-tool-at-disposal-translators-struggle-to-find-word-equivalent-of-tech-terms-3983342.html",
-      "publishedDateTime": "2021-07-20T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
         "images": null,
         "publishers": null,
         "authors": null

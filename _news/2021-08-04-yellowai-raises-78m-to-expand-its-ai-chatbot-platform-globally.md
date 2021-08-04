@@ -49,7 +49,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 38
+    quality: 40
   - title: "How AI Chatbot is changing businesses rapidly"
     excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
     publishedDateTime: 2021-08-03T01:10:00Z

@@ -42,6 +42,15 @@ related:
         height: 389
         isCached: true
   - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
+    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia."
+    publishedDateTime: 2021-08-04T16:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 43
+  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
     excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by researchers at Baylor College of Medicine. The strategy applied a machine learning algorithm called SPLS-DA to analyze specific regions of the human genome called CoRSIVs,"
     publishedDateTime: 2021-08-03T15:33:00Z
     webUrl: "https://medicalxpress.com/news/2021-08-machine-approach-schizophrenia-blood.html"

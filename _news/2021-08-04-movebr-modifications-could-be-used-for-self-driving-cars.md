@@ -75,6 +75,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
+    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
+    publishedDateTime: 2021-08-03T19:23:00Z
+    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
+        width: 1200
+        height: 640
+        isCached: true
   - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
     excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
     publishedDateTime: 2021-08-03T10:11:00Z
@@ -131,6 +145,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "5PFL3LStyBr5MiyKEeX3HMB0GpWKJQBxY/DtKas4tfimhCiopewRX/G35q9lfU9Tdd+FVQXg6a+zjPIfBZJSEPVwJZ++6gUGkTRFGZXNTlC6tLwSb/WEh1MDpHYx+irEWPLA6UqBpFIDvJB/t6fY7t2vLGP9nshXcvFehxokFLKPvoPtcvhjTbyMNXSAy2Li6hLeS+bB17Ut27VXBtTBMGP6R7Trv1GAqFbujx8y06CLLeF6hlpkzWGS29SwqZTSiqMVkO5ygsihld6+QBf1koSzFCb2NvbHqLvHH//V7WIbz8Kzj4/GzNAZ5jqJ1r5Mb2Ut89BEyY9EkEbRQm0LfSvxHt+7+Z03SVQV7cXuE48=;ee3tLUISPNb6ErEMslEl3w=="
+secured: "gwv0NRxDiunDntqoIFV6VyvhlemXcgsx3yZwrNPYFrnLu8r3lgxhUSim/dgBf0gEwfM2csZc6YC05W1lGY8G6RSeDqDxm68s71OtPwOhGkU2tqtf/fWiompAXt1bFEKs/CQ92402gB3H+kP8a/pbGuNhcTFuCrnCQYilvZqVmudejgsoAr0OoiGwqzsQU7q2LY5C+6O4wB6kckD1DzT8WZnc9o7N1bG+/iV8VFkNGwjO0NeXdZX5nXQbKwOaF2vvK4dKM0+FLm5HjWiZvyg5aipDauH17BAHmLSvA3TBSgQ2DHsL7/Gl3GxZFSlmX+UhjZVlcavfQZccgVS74Ma3KyQCzoc9QY+v/ptfNH/RtY+9DD7dzqCRuIqW/0j0obU01DZwefxrd9yb9umWS3nU/GEXHLmLdm4GzoLBKVpgcACs/NmuGzdwU8P5WrayqHRFbzw1gEY/yfSZlk2Q9lJ288ff2ZgXN2Dqyz03kjw43UA8XlutyqCEkmpL8G4YG/ssgvzYTZMj65/p5493w8D9rw==;iu0vDy9NHqFRphSjbWvvkw=="
 ---
 

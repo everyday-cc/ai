@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day"
+    excerpt: "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer."
+    publishedDateTime: 2021-08-04T16:50:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg"
+        width: 872
+        height: 872
+        isCached: true
   - title: "Tesla Begins Sending Out AI Day Invitations"
     excerpt: "Tesla has started sending out invitations for their upcoming \"AI Day\" event, complete with an interesting teaser... Tesla has started sending out invitations for their upcoming AI Day on Thursday, August 19th."
     publishedDateTime: 2021-08-04T08:26:00Z
@@ -42,15 +58,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Investors Watch Tesla (TSLA) AI Day for Next Growth Milestone"
-    excerpt: "T esla’s Artificial Intelligence (AI) day is fast approaching. And while CEO Elon Musk insists the date will be focused on recruiting “the best talent” to boost its machine-"
-    publishedDateTime: 2021-08-03T16:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/investors-watch-tesla-tsla-ai-day-for-next-growth-milestone-2021-08-03"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
 
 secured: "GxN/jU3X43SyEUyIPQ4DhVO4HyFOW8zW8UcvnmZepZR8nJoKamGXyzZ4Ejyz5IiP23cbQHlmjGrs8NurQu/3RWls0j6vAEk4SK+DhjDwhlr4PiR2jzkHj67ojlJKYcnrmbQuh2d7rM5izQpbRBTtQHiwKGXwFrvdb7CmlKSbVyZ9NZzj+wigPumBvhdHgG5+GcFWGA/npuBklsTdZJIgSGaJSytdaf1Rbh/zLQD1uF1d1F+v9heSVNTUKFWC+3GuLqlUPx8qd8cps51/dqIRrHNzpBvT8L8wELTDAq9iT/+DZdNEp0IWU+0RJduBfCMKNPl2Ry4XVbD109K1IL9O4iMl5lzd0hALvkc8pvgGGoBvCtEmHzcE/pO7XitUs4XfjgJKpc8u1kE/s8SubYLen1aT0bDa3ZPFGvmkIHYIbYV2TODeXgEtb8nxu1hYPXSfBo1s4IBBWYzolhLfET4Q37bVIt4Iz8NKdMQxR2F3nBlf3MeIixhCJ2nCjttk0u0xrDK/QobqQX8or4gA0Rfrng==;CWx5M+x/Nqc0E0N02VQbSA=="
 ---

@@ -66,6 +66,20 @@ related:
         width: 855
         height: 630
         isCached: true
+  - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
+    excerpt: "B2B Sales Productivity startup, Nektar.ai has raised an additional US$ 6Mn seed round of funding led by B Capital Group, 3one4 Capital and Nexus Venture Partners. Several prominent Go To Market leaders in the US-Asia cross border SaaS ecosystem also participated in the round."
+    publishedDateTime: 2021-08-04T17:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-0ea9d324e6e5823d6979f95895efdf90"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "aY9lC8keocl9ekT1FW77sCaRbBoFtVJR1EsBf0r9AKCG/q/hz182XafSXWE6xmQ/Vv2HclUQjugbzoZ+mHx/0pkvwP59qmMVrqIM9I3zedgFLog2bpdiM8h71ToECCTbWAevw20TnXNY+8A0DGgzU9duzLLuhtJNwJPxYrhEDbJTvuFj11ZYE4oHfFBdv8rwIhnplF9+G6vXtMFeCx5EQPdClzd296EPUTKpiP3iZyHpYuCiTVkJ5NKQoCbYda0/3FoFZlkW7HuTF54bY+f9QyHtlqXK8gpH8xJeSE9mv313EpJ1J/5E8wOOqjMVs7eOSv5ieGaBtuptb/3Ol1N3d1MNGqaaSdvgLtTSt/pKlhzCHiN2+2pYanbRnVQwjitYRadZ9llY6cNops0KhyAyaW8rHaaQbhCDEBuerqPS+orL5BuA6tcUasOqsV4MeiRTHHJJ73UpBwBDK4BW7t8pbgFvVP+QnRR+SmxBnrv9OoNFb7t4gbrw6v+rYO8v6KhyVv5WBmtlu8o65DkQoHip/Q==;aWqVGXG5Vlv+W9i6kU9kSA=="
 ---

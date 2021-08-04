@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
+    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
+    publishedDateTime: 2021-08-03T19:23:00Z
+    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
+        width: 1200
+        height: 640
+        isCached: true
   - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
     excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
     publishedDateTime: 2021-08-03T21:59:00Z

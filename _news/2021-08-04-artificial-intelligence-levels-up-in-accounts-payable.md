@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/news/b2b-payments/2021/vic-ai-artificial-intelli
 ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/vic-ai-artificial-intelligence-accounts-payable/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/vic-ai-artificial-intelligence-accounts-payable/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/04/process-automation-invoices-technology-457x274.jpg"

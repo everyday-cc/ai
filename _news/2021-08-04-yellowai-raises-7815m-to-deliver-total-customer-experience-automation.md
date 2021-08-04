@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/08/b22320576/yellow-ai-raises
 ampWebUrl: "https://www.benzinga.com/amp/content/22320576"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22320576"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Yellow.ai raises $78M to expand its AI chatbot platform globally"

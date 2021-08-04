@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-a
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheStreet.com
@@ -27,15 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Investors Watch Tesla (TSLA) AI Day for Next Growth Milestone"
-    excerpt: "T esla’s Artificial Intelligence (AI) day is fast approaching. And while CEO Elon Musk insists the date will be focused on recruiting “the best talent” to boost its machine-"
-    publishedDateTime: 2021-08-03T16:56:00Z
-    webUrl: "https://www.nasdaq.com/articles/investors-watch-tesla-tsla-ai-day-for-next-growth-milestone-2021-08-03"
+  - title: "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day"
+    excerpt: "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer."
+    publishedDateTime: 2021-08-04T16:50:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 66
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg"
+        width: 872
+        height: 872
+        isCached: true
   - title: "Ahead of AI day Tesla’s in-house Dojo chip teased by a professor, who possibly provided insights during developments"
     excerpt: "The teaser of Tesla's in-house Dojo chip came from a former professor at the University of California, Dennis Hong."
     publishedDateTime: 2021-08-04T00:33:00Z
@@ -51,6 +58,6 @@ related:
         height: 872
         isCached: true
 
-secured: "2j9Itz4N6PUn46bNMVz4tzGSUNYVBaCy4pPXK9K6/3BUU9zfP607bu1LzYQSkKz9Ef0FA8KMYumx0awz1kp4VAMsy5vmKFASwqWETGKQpPI64zL3HTGALd7ZODzcaalVEtZ8OBLtth3cWNt2EsIcGVmksVeXuxfY4qNVC3FqcI2qYk6iChySUjDuxi7d/CEbyh75GuAy5P9IEvTIkVVtX8gtCfgiNPrcp6TnNKUfM9TY1Qd46uv13IhSTPKganUlEPmOi1uBvLjGUH99YKtR2NZIqLM1kw8vGe0aez5D2vw6NJxib6b45NETKUgljroHNEXbWkq2/A1BabYilo8sObiaVonmcIwo0z7/ORZzUlY=;/lSXGUs0BHm7a3JIr0+Acw=="
+secured: "FQFiKi7VjpHXMmhQFbgGHPZ293oKQEl0dSNl9d+I0qeoSNteoyk8PqBSFSaf98chUrWhHycX+q5yPXYEwzzzmsmv4Ryvsxx4qjOWhx9IbB5IOvzVs0CvwYQyEjEJxNhNGjhMoj/LU6sZdNjTuNYNeh7kh5aiCVhf3QjBq7QhTPDaPQwR2NyP2I4GoTaAtwTKtmN9IuC40TN9QzrMCbWlq5ZYhjhK80Wp+xxYD+1BTQ5/wENhEzVCMYYdyOL9L6WvQBiH+BzqQZj9Uz1iIafkhc1VypiXmZMsj+dX2xqQnt1rsNxW3AYXh1HswzOfm9BMWHjDpwS0cYEYzdD6CCwD456zh5BMUTJI9eO8uGQfLoFL6k4GByq1UOmLKI0n1o3AzGQTzIQgFSSg3xFxyk2YckMzBnxp9R6CE0skrLNSVyzZ2dE5jObffWJr4QDyza02E1pa+0729uRtEJoDPGNfJMWIfX3oMpfh7dftYVC16XKIUeubFpxfuwQJn4V3kVBp6fHQ52fq3gjxKEJ/b2zU8w==;602Hpgk6IEE1C+XynzyY4w=="
 ---
 

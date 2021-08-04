@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-21-chinese-driverless-car-start-up-weride-makes-first-acquisition-as-competition-ramps-up.md",
+      "title": "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up",
+      "excerpt": "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714",
+          "width": 7952,
+          "height": 5304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "publishedDateTime": "2021-07-20T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-army-eyes-artificial-intelligence-ai-to-enable-armored-vehicles-to-attack-several-targets-in-seconds.md",
       "title": "Army eyes artificial intelligence (AI) to enable armored vehicles to attack several targets in seconds",
       "excerpt": "The kinds of initiatives are now taking on a newer, more advanced character as artificial intelligence (AI)-enabled ... such as those for driverless cars, have been advancing for quite some ...",
@@ -1339,40 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera.md",
-      "title": "Toyota Self-Driving Car Unit Agrees to Buy Map-Maker Carmera",
-      "excerpt": "Woven Planet Holdings, the Toyota subsidiary focused on autonomous technology, on Wednesday said it agreed to acquire Carmera Inc., a U.S.-based AI company that makes real-time high-definition maps. \"HD maps power a lot of advanced safety and automobile driving technology products that we'll see in the future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/2021071412169/toyota-self-driving-car-unit-agrees-to-buy-map-maker-carmera",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

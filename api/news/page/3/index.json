@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-03-angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters.md",
+      "title": "Angel broking is now Angel One; aims to help millennials with financial matters",
+      "excerpt": "FinTech platform Angel Broking has unveiled its new identity Angel One, a ‘Digital First’ brand that will serve all financial needs of its clients, including stockbroking services. In its new avatar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters-11627988551326.html",
+      "originalUrl": "https://www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters-11627988551326.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/08/03/600x338/Webp.net-resizeimage_(3)_1627989224747_1627989235154.png",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters/amp-11627988551326.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters/amp-11627988551326.html",
+      "publishedDateTime": "2021-08-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-moscow-metro-introduces-face-recognition-payment-system.md",
+      "title": "Moscow Metro introduces face recognition payment system",
+      "excerpt": "The Tube has Oyster cards and the New York subway its Metrocards, but Moscow’s Metro is going one better – rolling out ticketing based on facial recognition technology. The Face Pay technology use biometric data and bank card details to recognise,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
+      "originalUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/08/7594420132_3d36765fe0_b.jpeg",
+          "width": 1023,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
+      "publishedDateTime": "2021-08-03T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-upcoming-pixel-6-and-6-pro-will-run-googles-own-ai-focused-tensor-chip.md",
+      "title": "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip",
+      "excerpt": "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/",
+      "originalUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true",
+      "publishedDateTime": "2021-08-03T01:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr.md",
+      "title": "Gapsquare, a pioneer of machine learning into gender pay disparity, is acquired by XpertHR",
+      "excerpt": "Inequalities between women and men in the workplace have been exacerbated during the COVID-19 pandemic and are likely to persist in the near future, according to the International Labour Organization (ILO).",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/",
+      "originalUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Zara-Nanu-Gapsquare-Public.jpg?w=640",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/03/gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr/amp/",
+      "publishedDateTime": "2021-08-03T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-3-ai-writing-tools-european-entrepreneurs-can-use-in-our-digital-age.md",
       "title": "3 AI Writing Tools European Entrepreneurs Can Use in Our Digital Age",
       "excerpt": "Many global businesses, small and large, use these platforms to create or edit successful and awe-inspiring copy. ShortlyAI offers one way to help: its contract utilizes a “backdoor” access to OpenAI’s GPT-3,",
@@ -500,7 +690,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1017,196 +1207,6 @@
         "name": "CNN-News18",
         "domain": "news18.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-microsoft-and-partners-producing-competition-to-attack-ai-security.md",
-      "title": "Microsoft and Partners Producing Competition to ‘Attack’ AI Security",
-      "excerpt": "The artificial intelligence (AI) and security communities are being invited to participate in a competition to “attack” critical AI systems:",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
-          "width": 2560,
-          "height": 1493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
-      "title": "Supercomputers are becoming another cloud service. Here's what it means",
-      "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "originalUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/20/4578fe42-7a03-4ce3-b255-3ee294ece765/thumbnail/1200x675/ade3598837ab9ca69ae071f14060e02e/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
-      "publishedDateTime": "2021-08-01T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization.md",
-      "title": "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization",
-      "excerpt": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
-      "originalUrl": "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles.md",
-      "title": "Argo AI will now provide free rides in California in its autonomous vehicles",
-      "excerpt": "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "originalUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg",
-          "width": 760,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

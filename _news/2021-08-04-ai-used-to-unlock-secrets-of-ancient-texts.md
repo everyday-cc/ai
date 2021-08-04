@@ -2,9 +2,9 @@
 category: news
 title: "AI Used To Unlock Secrets of Ancient Texts"
 excerpt: "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
-publishedDateTime: 2021-08-04T10:01:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/ai-used-to-unlock-secrets-of-ancient-texts-351652"
-webUrl: "https://www.technologynetworks.com/informatics/news/ai-used-to-unlock-secrets-of-ancient-texts-351652"
+publishedDateTime: 2021-08-04T10:39:00Z
+originalUrl: "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652"
+webUrl: "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652"
 ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 360
     isCached: true
 
-secured: "CJ4rq7H+MS89G0paDdOWJueeMwVfGgVCoQjjHoYbgjd8k+65oal9RY2l8M5DA2NU5qtFmtmbsHFEkwVvWt2nVmtzhWnNy3Cy37qOV3iUDmYlleAgqaN+OV0zxYJoqgolVv/FbOUN2YP8wHk3UaI0TFA6Gr+qqw89D1YatdJDLIyLiQy2eLOBMv+howSOfBKc0PS3QczC3OcJ9MdPicXK+EpjeJfxB3rASBB2OQO3rkPK+9Q2GhSMi7PI15+b+Febc7Eg8sgd/goKMRv8kx6AaGmYfaHYP3DKDJSUYX3wjv1DlAczdyL9n2GVzcSqdcfzhP/sPvEG2aZeLxEDz7ElrZLo2JO1BkdhNWniHYDaTJUS1gjhqMKUVnEemcEJgSPiAfPx6hHUirtY21HbHtQLcVSfqE+RWAbMroiRcaUL+oHHmOd/mS9VkYl8qXA5h8k+jfiLNqkqUkN6BnE3l2XHGPUIZn/BwFscQZ11OoE3Kk4c3zSJlj+quMy5Vz1njIXTDGFJCY5vdF3IVQwGxlGnig==;RlMDd5jfQeNOv41KXIn1og=="
+secured: "BV69CzYUJL63ZCEExLaov/4fyevaedqvtddEPUgxiN7WwvuA9fDMVlqwOhZGp695DGTgZeOOV6ieQjuabxeVOzuK4R4Fr4w6yHZ4oZ2HN/S7YMTQjJAf0v7nErr8RP+ewPRowweSbLgfrFojco0h+ChZaG1Ji8ZdFS+CUJ0L+9vepV/yCDGpbUtJzj3caBP7Gk1mBm+APUgRiWB4ZfJhksnNndDT0qERPQtZYBPomvJ/4VrMVbUXnA0NsJpARi14klf7nkI9pTOvq9+H7zBUYTYL/9dqC9dJtoabQGKBzZ6/acKMcMkQFvyNa7KZQGsRbJJB/gThH5RbZUOjH8qGCWc3ROPaXP9ysOBS/tjMNaE=;jUgWoE2MBUcgsMOKKdfBxQ=="
 ---
 
