@@ -23,7 +23,7 @@
       "twitter": {
         "username": "capitalcom",
         "url": "https://twitter.com/capitalcom",
-        "followers": 30043
+        "followers": 30054
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -38,7 +38,7 @@
         "AI",
         "AI in Finance"
       ],
-      "heat": 273,
+      "heat": 278,
       "tags": [
         "FinTech"
       ],
@@ -56,6 +56,55 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/myhippo.md",
+      "title": "Hippo Insurance",
+      "excerpt": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/myhippo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/myhippo/",
+      "type": "profile",
+      "name": "Hippo Insurance",
+      "overview": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "website": "https://myhippo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hippo-insurance",
+        "followers": 4823
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hippo-insurance"
+      },
+      "twitter": {
+        "username": "hippo_insurance",
+        "url": "https://twitter.com/hippo_insurance",
+        "followers": 2504
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 197,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Hippo Insurance",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -118,7 +167,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 273,
+          "heat": 278,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg",
@@ -148,7 +197,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 126,
+          "heat": 87,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
@@ -178,7 +227,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
@@ -198,7 +247,7 @@
         }
       ],
       "size": 16,
-      "heat": 151,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png",
@@ -206,6 +255,63 @@
           "height": 400,
           "title": "Axyon AI",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/upstart.md",
+      "title": "Upstart",
+      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
+      "webUrl": "https://everyday.cc/ai/company/upstart/",
+      "type": "profile",
+      "name": "Upstart",
+      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
+      "website": "https://www.upstart.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/upstart-network",
+        "followers": 13116
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/upstart"
+      },
+      "twitter": {
+        "username": "Upstart",
+        "url": "https://twitter.com/Upstart",
+        "followers": 10933
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Mateo, CA",
+        "San Mateo, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 96,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Upstart",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -234,7 +340,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 16641
+        "followers": 16640
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -248,7 +354,7 @@
         "AI",
         "AI in Finance"
       ],
-      "heat": 126,
+      "heat": 87,
       "tags": [
         "FinTech"
       ],
@@ -271,54 +377,54 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/upstart.md",
-      "title": "Upstart",
-      "excerpt": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/upstart/index.json",
-      "webUrl": "https://everyday.cc/ai/company/upstart/",
+      "path": "_companies/sentifi.md",
+      "title": "Sentifi",
+      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentifi/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sentifi/",
       "type": "profile",
-      "name": "Upstart",
-      "overview": "Upstart is an online lending platform that goes beyond the traditional FICO score to offer personal loans. Our proprietary underwriting model identifies high-quality borrowers despite limited credit and employment history by evaluating non-traditional variables including schools attended, area of study, academic performance, and work experience to predict creditworthiness.",
-      "website": "https://www.upstart.com/",
+      "name": "Sentifi",
+      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "website": "https://parashift.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/upstart-network",
-        "followers": 13116
+        "url": "https://www.linkedin.com/company/sentifi/",
+        "followers": 11489
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/upstart"
+        "url": "https://www.crunchbase.com/organization/sentifi"
       },
       "twitter": {
-        "username": "Upstart",
-        "url": "https://twitter.com/Upstart",
-        "followers": 10932
+        "username": "sentifi",
+        "url": "https://twitter.com/sentifi",
+        "followers": 4797
       },
-      "size": "201-500 employees",
+      "size": "51-200 employees",
       "yearFounded": 2012,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "Zurich, Switzerland",
+        "Zurich, Zurich"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
         "AI in Finance"
       ],
-      "heat": 107,
+      "heat": 64,
       "tags": [
         "FinTech"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Upstart",
+          "title": "Sentifi",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGBnx6B3Zly2Q/company-logo_200_200/0?e=1594857600&v=beta&t=ONJh0s-94jz3Jo4zprPNTdk0Q4nxzkwAP5hBFmQ76rI",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -328,50 +434,60 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/myhippo.md",
-      "title": "Hippo Insurance",
-      "excerpt": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/myhippo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/myhippo/",
+      "path": "_companies/fraugster.md",
+      "title": "Fraugster",
+      "excerpt": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fraugster/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fraugster/",
       "type": "profile",
-      "name": "Hippo Insurance",
-      "overview": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
-      "website": "https://myhippo.com/",
+      "name": "Fraugster",
+      "otherNames": [
+        "Fraugster Limited"
+      ],
+      "overview": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
+      "website": "https://fraugster.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/hippo-insurance",
-        "followers": 4823
+        "url": "https://www.linkedin.com/company/fraugster/",
+        "followers": 1304
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hippo-insurance"
+        "url": "https://www.crunchbase.com/organization/fraugster"
       },
       "twitter": {
-        "username": "hippo_insurance",
-        "url": "https://twitter.com/hippo_insurance",
-        "followers": 2503
+        "username": "fraugster",
+        "url": "https://twitter.com/fraugster",
+        "followers": 771
       },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Palo Alto, CA"
+        "San Francisco, CA"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
         "AI in Finance"
       ],
-      "heat": 81,
+      "heat": 57,
       "tags": [
         "FinTech"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1296745102828810240/FNWtlUGI_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Hippo Insurance",
+          "title": "Fraugster",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGisd_IWmCCTQ/company-logo_200_200/0?e=1594857600&v=beta&t=MHYu6ciWY5i5ih3ke6nKjZWo_gXA79HJTVvsPWN8aLA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -431,38 +547,36 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/fraugster.md",
-      "title": "Fraugster",
-      "excerpt": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fraugster/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fraugster/",
+      "path": "_companies/collect.ai.md",
+      "title": "collectAI",
+      "excerpt": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collect.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collect.ai/",
       "type": "profile",
-      "name": "Fraugster",
+      "name": "collectAI",
       "otherNames": [
-        "Fraugster Limited"
+        "cAI"
       ],
-      "overview": "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce",
-      "website": "https://fraugster.com/",
+      "overview": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
+      "website": "https://www.collect.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/fraugster/",
-        "followers": 1304
+        "url": "https://www.linkedin.com/company/collectai/",
+        "followers": 756
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fraugster"
+        "url": "https://www.crunchbase.com/organization/collectai"
       },
       "twitter": {
-        "username": "fraugster",
-        "url": "https://twitter.com/fraugster",
-        "followers": 771
+        "username": "collectAI",
+        "url": "https://twitter.com/collectAI",
+        "followers": 702
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2016,
       "locations": [
-        "San Francisco, CA"
+        "Hamburg, Germany",
+        "Hamburg, Hamburg"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Finance"
@@ -473,14 +587,14 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1296745102828810240/FNWtlUGI_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Fraugster",
+          "title": "collectAI",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGisd_IWmCCTQ/company-logo_200_200/0?e=1594857600&v=beta&t=MHYu6ciWY5i5ih3ke6nKjZWo_gXA79HJTVvsPWN8aLA",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -511,115 +625,6 @@
         "Europe",
         "FinTech",
         "Blockchain"
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/netguardians.ch.md",
-      "title": "NetGuardians",
-      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/netguardians.ch/index.json",
-      "webUrl": "https://everyday.cc/ai/company/netguardians.ch/",
-      "type": "profile",
-      "name": "NetGuardians",
-      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
-      "website": "https://netguardians.ch/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/netguardians/",
-        "followers": 3764
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/netguardians"
-      },
-      "twitter": {
-        "username": "netguardians",
-        "url": "https://twitter.com/netguardians",
-        "followers": 1523
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2007,
-      "locations": [
-        "Yverdon, Vaud"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NetGuardians",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/oaknorth.md",
-      "title": "OakNorth",
-      "excerpt": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/oaknorth/index.json",
-      "webUrl": "https://everyday.cc/ai/company/oaknorth/",
-      "type": "profile",
-      "name": "OakNorth",
-      "overview": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
-      "website": "https://www.oaknorth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/oaknorth-platform/",
-        "followers": 3167
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/oaknorth"
-      },
-      "twitter": {
-        "username": "oaknorth",
-        "url": "https://twitter.com/oaknorth",
-        "followers": 1009
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359145285977530373/jQ7bFqWZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OakNorth",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEjtNthi71zTA/company-logo_200_200/0?e=1594857600&v=beta&t=o2XDp2e8TdIIX1cEIBbCpgaWUOApJq3ukd1mBzjh4gM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
       ],
       "content": "\r\n"
     },
@@ -721,54 +726,55 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collect.ai.md",
-      "title": "collectAI",
-      "excerpt": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collect.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collect.ai/",
+      "path": "_companies/signifyd.md",
+      "title": "Signifyd",
+      "excerpt": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signifyd/index.json",
+      "webUrl": "https://everyday.cc/ai/company/signifyd/",
       "type": "profile",
-      "name": "collectAI",
-      "otherNames": [
-        "cAI"
-      ],
-      "overview": "collectAI is a software platform for intelligent receivables management with digital, AI-based payment services. It offers the products invoice, payment reminders and white-label payment pages. The smart technology flexibly optimizes the goals of higher collection rates, cost reduction and customer loyalty and combines digital communication channels with a variety of payment methods for a smooth process. Thus, collectAI fundamentally improves the customer experience and places the needs of the end user at the center of the service. collectAI, founded in 2016, is an affiliate company of one of Germany's largest e-commerce retailer, the Otto Group.",
-      "website": "https://www.collect.ai/",
+      "name": "Signifyd",
+      "overview": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
+      "website": "https://www.signifyd.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/collectai/",
-        "followers": 756
+        "url": "https://www.linkedin.com/company/signifyd/",
+        "followers": 5779
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collectai"
+        "url": "https://www.crunchbase.com/organization/signifyd"
       },
       "twitter": {
-        "username": "collectAI",
-        "url": "https://twitter.com/collectAI",
-        "followers": 702
+        "username": "signifyd",
+        "url": "https://twitter.com/signifyd",
+        "followers": 1739
       },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
+      "size": "201-500 employees",
+      "yearFounded": 2011,
       "locations": [
-        "Hamburg, Germany",
-        "Hamburg, Hamburg"
+        "San Jose, CA",
+        "San Jose, California"
       ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Finance"
+        "AI in Finance",
+        "Machine Learning"
       ],
-      "heat": 42,
+      "heat": 50,
       "tags": [
         "FinTech"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1350199853297516544/9IO3KMbB_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "collectAI",
+          "title": "Signifyd",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdtV4BxC2lxA/company-logo_200_200/0?e=1594857600&v=beta&t=GLWayXpcmc8xUoJCarz3wgvOBzoXzIKEObOsu2WLtBI",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_200_200/0?e=1594857600&v=beta&t=d5nVuxYDlWXRV8erw1R_nD-nbnBqUMRx98uSu4AbfO8",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -834,40 +840,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/signifyd.md",
-      "title": "Signifyd",
-      "excerpt": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/signifyd/index.json",
-      "webUrl": "https://everyday.cc/ai/company/signifyd/",
+      "path": "_companies/netguardians.ch.md",
+      "title": "NetGuardians",
+      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/netguardians.ch/index.json",
+      "webUrl": "https://everyday.cc/ai/company/netguardians.ch/",
       "type": "profile",
-      "name": "Signifyd",
-      "overview": "Signifyd, the world’s largest provider of guaranteed fraud protection, enables online retailers to provide a friction-free buying experience for their customers. Signifyd leverages big data, machine learning and domain expertise to provide a 100 percent financial guarantee against fraud on approved orders that later turn out to be fraudulent. This effectively shifts the liability for fraud away from retailers, allowing them to increase sales and open new markets while reducing risk. Signifyd counts among its customers a number of companies on the Fortune 1000 and Internet Retailer Top 500 lists. Signifyd is headquartered in San Jose, CA.",
-      "website": "https://www.signifyd.com/",
+      "name": "NetGuardians",
+      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "website": "https://netguardians.ch/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/signifyd/",
-        "followers": 5779
+        "url": "https://www.linkedin.com/company/netguardians/",
+        "followers": 3764
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/signifyd"
+        "url": "https://www.crunchbase.com/organization/netguardians"
       },
       "twitter": {
-        "username": "signifyd",
-        "url": "https://twitter.com/signifyd",
-        "followers": 1739
+        "username": "netguardians",
+        "url": "https://twitter.com/netguardians",
+        "followers": 1523
       },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
+      "size": "51-200 employees",
+      "yearFounded": 2007,
       "locations": [
-        "San Jose, CA",
-        "San Jose, California"
+        "Yverdon, Vaud"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Finance",
-        "Machine Learning"
+        "AI in Finance"
       ],
       "heat": 42,
       "tags": [
@@ -875,14 +879,67 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1350199853297516544/9IO3KMbB_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Signifyd",
+          "title": "NetGuardians",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEBjOffzfmv3g/company-logo_200_200/0?e=1594857600&v=beta&t=d5nVuxYDlWXRV8erw1R_nD-nbnBqUMRx98uSu4AbfO8",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/oaknorth.md",
+      "title": "OakNorth",
+      "excerpt": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/oaknorth/index.json",
+      "webUrl": "https://everyday.cc/ai/company/oaknorth/",
+      "type": "profile",
+      "name": "OakNorth",
+      "overview": "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally.",
+      "website": "https://www.oaknorth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/oaknorth-platform/",
+        "followers": 3167
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/oaknorth"
+      },
+      "twitter": {
+        "username": "oaknorth",
+        "url": "https://twitter.com/oaknorth",
+        "followers": 1009
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "London, England"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 42,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1359145285977530373/jQ7bFqWZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "OakNorth",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEjtNthi71zTA/company-logo_200_200/0?e=1594857600&v=beta&t=o2XDp2e8TdIIX1cEIBbCpgaWUOApJq3ukd1mBzjh4gM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -928,7 +985,7 @@
         "Machine Learning",
         "AI in Finance"
       ],
-      "heat": 42,
+      "heat": 32,
       "tags": [
         "FinTech",
         "Security"
@@ -943,63 +1000,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXFhTs-POYFA/company-logo_200_200/0?e=1594857600&v=beta&t=8nQZUu_J4aQyL9WTxtza5GwWcumb2YhXPUhfWeMP91c",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentifi.md",
-      "title": "Sentifi",
-      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentifi/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sentifi/",
-      "type": "profile",
-      "name": "Sentifi",
-      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
-      "website": "https://parashift.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sentifi/",
-        "followers": 11489
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentifi"
-      },
-      "twitter": {
-        "username": "sentifi",
-        "url": "https://twitter.com/sentifi",
-        "followers": 4797
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Zurich, Switzerland",
-        "Zurich, Zurich"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 22,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sentifi",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
           "width": 400,
           "height": 400,
           "title": "logo",

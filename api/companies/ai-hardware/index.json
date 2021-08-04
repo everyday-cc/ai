@@ -23,7 +23,7 @@
       "twitter": {
         "username": "cisco",
         "url": "https://twitter.com/cisco",
-        "followers": 714768
+        "followers": 714773
       },
       "size": "10,001+ employees",
       "yearFounded": 1984,
@@ -37,7 +37,7 @@
         "AI",
         "AI Hardware"
       ],
-      "heat": 193,
+      "heat": 252,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1412866365162020865/zaWIpruc_400x400.jpg",
@@ -69,7 +69,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 74446
+        "followers": 74449
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -86,7 +86,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 193,
+      "heat": 164,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -129,7 +129,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 26049
+        "followers": 26051
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -142,7 +142,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 95,
+      "heat": 115,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -166,34 +166,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/q-ctrl.md",
-      "title": "Q-CTRL",
-      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
+      "path": "_companies/cerebras.net.md",
+      "title": "Cerebras Systems",
+      "excerpt": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cerebras.net/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cerebras.net/",
       "type": "profile",
-      "name": "Q-CTRL",
-      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "website": "https://q-ctrl.com/",
+      "name": "Cerebras Systems",
+      "overview": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
+      "website": "https://www.cerebras.net/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/q-ctrl/",
-        "followers": 1236
+        "url": "https://www.linkedin.com/company/cerebras-systems",
+        "followers": 3222
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/q-ctrl"
+        "url": "https://www.crunchbase.com/organization/cerebras-systems"
       },
       "twitter": {
-        "username": "qctrlHQ",
-        "url": "https://twitter.com/qctrlHQ",
-        "followers": 3412
+        "username": "cerebrassystems",
+        "url": "https://twitter.com/cerebrassystems",
+        "followers": 2645
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "SYDNEY, NSW"
+        "Los Altos, CA",
+        "Los Altos, California"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
@@ -201,71 +202,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
+          "url": "https://www.youtube.com/watch?v=czfAzRWRjYE"
         }
       ],
-      "heat": 86,
+      "heat": 87,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1334540469582303232/emfdgIPB_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Q-CTRL",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/luminouscomputing.md",
-      "title": "Luminous Computing",
-      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
-      "type": "profile",
-      "name": "Luminous Computing",
-      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "website": "https://www.luminouscomputing.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/luminous-computing",
-        "followers": 421
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/luminous-computing"
-      },
-      "twitter": {
-        "username": "LuminousAI",
-        "url": "https://twitter.com/LuminousAI",
-        "followers": 1105
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
-        }
-      ],
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Luminous Computing",
+          "title": "Cerebras Systems",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -313,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=L7DsXXUyRis"
         }
       ],
-      "heat": 64,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1407741049733328902/mT66uXhK_400x400.jpg",
@@ -328,6 +278,229 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/graphcore.ai.md",
+      "title": "Graphcore",
+      "excerpt": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/graphcore.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/graphcore.ai/",
+      "type": "profile",
+      "name": "Graphcore",
+      "overview": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
+      "website": "https://www.graphcore.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/graphcore/",
+        "followers": 8609
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/graphcore"
+      },
+      "twitter": {
+        "username": "graphcoreai",
+        "url": "https://twitter.com/graphcoreai",
+        "followers": 7346
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Bristol, UK",
+        "Bristol, Bristol"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
+        }
+      ],
+      "heat": 71,
+      "tags": [
+        "Europe"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Graphcore",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/luminouscomputing.md",
+      "title": "Luminous Computing",
+      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
+      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
+      "type": "profile",
+      "name": "Luminous Computing",
+      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "website": "https://www.luminouscomputing.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/luminous-computing",
+        "followers": 421
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/luminous-computing"
+      },
+      "twitter": {
+        "username": "LuminousAI",
+        "url": "https://twitter.com/LuminousAI",
+        "followers": 1105
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Luminous Computing",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/q-ctrl.md",
+      "title": "Q-CTRL",
+      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
+      "type": "profile",
+      "name": "Q-CTRL",
+      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "website": "https://q-ctrl.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/q-ctrl/",
+        "followers": 1236
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/q-ctrl"
+      },
+      "twitter": {
+        "username": "qctrlHQ",
+        "url": "https://twitter.com/qctrlHQ",
+        "followers": 3412
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "SYDNEY, NSW"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
+        }
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Q-CTRL",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mythic-ai.md",
+      "title": "Mythic",
+      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mythic-ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mythic-ai/",
+      "type": "profile",
+      "name": "Mythic",
+      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "website": "https://www.mythic-ai.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/isocline",
+        "followers": 214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/isocline"
+      },
+      "twitter": {
+        "username": "mythicinc",
+        "url": "https://twitter.com/mythicinc",
+        "followers": 817
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, TX"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
+        }
+      ],
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mythic",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -434,6 +607,58 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/leapmind.io.md",
+      "title": "LeapMind",
+      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/leapmind.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/leapmind.io/",
+      "type": "profile",
+      "name": "LeapMind",
+      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "website": "http://leapmind.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/leapmind-inc/",
+        "followers": 1026
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/leap-mind"
+      },
+      "twitter": {
+        "username": "leapmind_inc",
+        "url": "https://twitter.com/leapmind_inc",
+        "followers": 898
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Tokyo, Japan",
+        "Shibuya-ku, Tokyo"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LeapMind",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/movidius.md",
       "title": "Movidius",
       "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
@@ -480,58 +705,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mythic-ai.md",
-      "title": "Mythic",
-      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mythic-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/mythic-ai/",
-      "type": "profile",
-      "name": "Mythic",
-      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "website": "https://www.mythic-ai.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isocline",
-        "followers": 214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isocline"
-      },
-      "twitter": {
-        "username": "mythicinc",
-        "url": "https://twitter.com/mythicinc",
-        "followers": 817
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mythic",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -630,179 +803,6 @@
           "height": 400,
           "title": "Wave Computing",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/leapmind.io.md",
-      "title": "LeapMind",
-      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/leapmind.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/leapmind.io/",
-      "type": "profile",
-      "name": "LeapMind",
-      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "website": "http://leapmind.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/leapmind-inc/",
-        "followers": 1026
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/leap-mind"
-      },
-      "twitter": {
-        "username": "leapmind_inc",
-        "url": "https://twitter.com/leapmind_inc",
-        "followers": 898
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Tokyo, Japan",
-        "Shibuya-ku, Tokyo"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "LeapMind",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cerebras.net.md",
-      "title": "Cerebras Systems",
-      "excerpt": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cerebras.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cerebras.net/",
-      "type": "profile",
-      "name": "Cerebras Systems",
-      "overview": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "website": "https://www.cerebras.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cerebras-systems",
-        "followers": 3222
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cerebras-systems"
-      },
-      "twitter": {
-        "username": "cerebrassystems",
-        "url": "https://twitter.com/cerebrassystems",
-        "followers": 2644
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Los Altos, CA",
-        "Los Altos, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=czfAzRWRjYE"
-        }
-      ],
-      "heat": 33,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1334540469582303232/emfdgIPB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cerebras Systems",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/graphcore.ai.md",
-      "title": "Graphcore",
-      "excerpt": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/graphcore.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/graphcore.ai/",
-      "type": "profile",
-      "name": "Graphcore",
-      "overview": "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence.",
-      "website": "https://www.graphcore.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/graphcore/",
-        "followers": 8609
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/graphcore"
-      },
-      "twitter": {
-        "username": "graphcoreai",
-        "url": "https://twitter.com/graphcoreai",
-        "followers": 7345
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Bristol, UK",
-        "Bristol, Bristol"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
-        }
-      ],
-      "heat": 0,
-      "tags": [
-        "Europe"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/877225025874653184/vITaYmsB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Graphcore",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

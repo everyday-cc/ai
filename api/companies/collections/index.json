@@ -32,7 +32,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 193,
+          "heat": 164,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -62,7 +62,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 321,
+          "heat": 338,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -84,7 +84,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 360,
+          "heat": 318,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -107,7 +107,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 462,
+          "heat": 473,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -127,7 +127,7 @@
         }
       ],
       "collectionSize": 10,
-      "heat": 432,
+      "heat": 405,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -165,7 +165,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 126,
+          "heat": 133,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -195,7 +195,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 233,
+          "heat": 221,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1410973316152713221/EzAAH_y9_400x400.jpg",
@@ -248,7 +248,7 @@
             "AI",
             "AI in Marketing"
           ],
-          "heat": 363,
+          "heat": 366,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
@@ -261,7 +261,7 @@
         }
       ],
       "collectionSize": 41,
-      "heat": 279,
+      "heat": 265,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1395039783135563776/aULgBGPt_400x400.jpg",
@@ -331,7 +331,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 273,
+          "heat": 278,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1009095085143752704/v6-UR8NH_400x400.jpg",
@@ -361,7 +361,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 126,
+          "heat": 87,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1339859085739569152/jgtImmwl_400x400.jpg",
@@ -391,7 +391,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1220036339514724352/ALHYwV-b_400x400.png",
@@ -411,7 +411,7 @@
         }
       ],
       "collectionSize": 16,
-      "heat": 151,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png",
@@ -424,14 +424,14 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/ai-companies-in-seattle.md",
-      "title": "Seattle AI Companies",
-      "excerpt": "List of AI companies in Seattle.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-seattle/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-seattle/",
+      "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
+      "title": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
+      "excerpt": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/",
       "type": "collection",
-      "name": "Seattle AI Companies",
-      "overview": "List of AI companies in Seattle.",
+      "name": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
+      "overview": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
       "yearFounded": 0,
       "topics": [
         "AI"
@@ -439,57 +439,56 @@
       "topItems": [
         {
           "path": "",
-          "title": "Algorithmia",
-          "excerpt": "AI-powered business insights. Complete research in record time. Find what others miss.",
+          "title": "Nuro",
+          "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
           "type": "profile",
-          "name": "Algorithmia",
-          "overview": "AI-powered business insights. Complete research in record time. Find what others miss.",
+          "name": "Nuro",
+          "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Autos"
+          ],
+          "heat": 82,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Nuro",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Aurora Innovation",
+          "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
+          "type": "profile",
+          "name": "Aurora Innovation",
+          "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
           "yearFounded": 0,
           "topics": [
             "AI"
           ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1400122625599295489/sMRQWygO_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Algorithmia",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_200_200/0?e=1594857600&v=beta&t=hKazn3Lt5xBOxcQSv87GE-YLoCATQrf2gCbI5mw7m8k",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Alitheon",
-          "excerpt": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
-          "type": "profile",
-          "name": "Alitheon",
-          "overview": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Computer Vision"
-          ],
           "heat": 50,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1306793871418908672/aKuqbENk_400x400.png",
+              "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Alitheon",
+              "title": "Aurora Innovation",
               "isCached": true
             },
             {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHa9XVFyBrjAw/company-logo_200_200/0?e=1594857600&v=beta&t=R1ePfZNXd91UI90Zh2NEMjv9oMqapHOxYAQgAKJAonc",
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
               "width": 400,
               "height": 400,
               "title": "logo",
@@ -499,57 +498,48 @@
         },
         {
           "path": "",
-          "title": "Amazon",
-          "excerpt": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+          "title": "Uptake Technologies",
+          "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
           "type": "profile",
-          "name": "Amazon",
-          "overview": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+          "name": "Uptake Technologies",
+          "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
           "yearFounded": 0,
           "topics": [
-            "AI",
-            "AWS AI"
+            "AI"
           ],
-          "heat": 462,
+          "heat": 42,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1414645878527250432/_LOhLblc_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Amazon",
+              "title": "Uptake Technologies",
               "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=1594857600&v=beta&t=uOHinTrtIcaXJqnZhSqS2wK04UT7r10x-8VmbrCmIUU",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
             }
           ]
         },
         {
           "path": "",
-          "title": "Kaskada",
-          "excerpt": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+          "title": "Lemonade",
+          "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
           "type": "profile",
-          "name": "Kaskada",
-          "overview": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+          "name": "Lemonade",
+          "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
           "yearFounded": 0,
           "topics": [
-            "AI",
-            "Machine Learning"
+            "AI"
           ],
-          "heat": 64,
+          "heat": 122,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
               "width": 400,
               "height": 400,
-              "title": "Kaskada",
+              "title": "Lemonade",
               "isCached": true
             },
             {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs",
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
               "width": 400,
               "height": 400,
               "title": "logo",
@@ -558,14 +548,14 @@
           ]
         }
       ],
-      "collectionSize": 11,
-      "heat": 76,
+      "collectionSize": 50,
+      "heat": 98,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1400122625599295489/sMRQWygO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Algorithmia",
+          "title": "Nuro",
           "isCached": true
         }
       ],
@@ -644,7 +634,7 @@
             "AI",
             "AI in Autos"
           ],
-          "heat": 110,
+          "heat": 125,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1410556974769520646/8RFjdSFN_400x400.jpg",
@@ -693,426 +683,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
-      "title": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "excerpt": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/",
-      "type": "collection",
-      "name": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "overview": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Nuro",
-          "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "type": "profile",
-          "name": "Nuro",
-          "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Nuro",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Aurora Innovation",
-          "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "type": "profile",
-          "name": "Aurora Innovation",
-          "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Aurora Innovation",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Uptake Technologies",
-          "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "type": "profile",
-          "name": "Uptake Technologies",
-          "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1414645878527250432/_LOhLblc_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Uptake Technologies",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Lemonade",
-          "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "type": "profile",
-          "name": "Lemonade",
-          "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Lemonade",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "collectionSize": 50,
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nuro",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collections/ai-companies-founded-in-2017.md",
-      "title": "AI Companies founded in 2017",
-      "excerpt": "Here is a list of AI companies founded in 2017.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-founded-in-2017/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-founded-in-2017/",
-      "type": "collection",
-      "name": "AI Companies founded in 2017",
-      "overview": "Here is a list of AI companies founded in 2017.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Aera Technology",
-          "excerpt": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
-          "type": "profile",
-          "name": "Aera Technology",
-          "overview": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 22,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/877221210760724480/EoRitKMa_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Aera Technology",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Anduril Industries",
-          "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-          "type": "profile",
-          "name": "Anduril Industries",
-          "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 131,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Anduril Industries",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Deep 6 AI",
-          "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-          "type": "profile",
-          "name": "Deep 6 AI",
-          "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Natural Language Processing",
-            "Machine Learning"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1412921976675516416/H1nnCwR5_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Deep 6 AI",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Bash.ai",
-          "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-          "type": "profile",
-          "name": "Bash.ai",
-          "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Bash.ai",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "collectionSize": 25,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/877221210760724480/EoRitKMa_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aera Technology",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collections/ai-companies-in-austin-texas.md",
-      "title": "Austin AI Companies",
-      "excerpt": "List of AI companies in Austin.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-austin-texas/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-austin-texas/",
-      "type": "collection",
-      "name": "Austin AI Companies",
-      "overview": "List of AI companies in Austin.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Alegion",
-          "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
-          "type": "profile",
-          "name": "Alegion",
-          "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Alegion",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Anaconda",
-          "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-          "type": "profile",
-          "name": "Anaconda",
-          "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 157,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Anaconda",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "CognitiveScale",
-          "excerpt": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
-          "type": "profile",
-          "name": "CognitiveScale",
-          "overview": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/681884599027273729/aJmkTYTt_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "CognitiveScale",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C510BAQG_v-5Ww-04OQ/company-logo_200_200/0?e=1594857600&v=beta&t=hcGIpY_HmsPXPq2B0W7a9of72rYMt2XSnpJDbtf7iVA",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Diligent Robotics",
-          "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-          "type": "profile",
-          "name": "Diligent Robotics",
-          "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Healthcare"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Diligent Robotics",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "collectionSize": 8,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Alegion",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/collections/ai-companies-for-cancer-treatment.md",
       "title": "AI Companies for Cancer Treatment",
       "excerpt": "Here is a list of AI companies focusing on cancer discovery and treatment.",
@@ -1139,7 +709,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 50,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
@@ -1231,7 +801,7 @@
             "AI",
             "AI in Healthcare"
           ],
-          "heat": 64,
+          "heat": 92,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1412454596740517888/NxrxRAJW_400x400.jpg",
@@ -1258,6 +828,140 @@
           "width": 400,
           "height": 400,
           "title": "Deep Lens",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collections/ai-companies-founded-in-2017.md",
+      "title": "AI Companies founded in 2017",
+      "excerpt": "Here is a list of AI companies founded in 2017.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-founded-in-2017/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-founded-in-2017/",
+      "type": "collection",
+      "name": "AI Companies founded in 2017",
+      "overview": "Here is a list of AI companies founded in 2017.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Aera Technology",
+          "excerpt": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
+          "type": "profile",
+          "name": "Aera Technology",
+          "overview": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 42,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/877221210760724480/EoRitKMa_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Aera Technology",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anduril Industries",
+          "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+          "type": "profile",
+          "name": "Anduril Industries",
+          "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 127,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Anduril Industries",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Deep 6 AI",
+          "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+          "type": "profile",
+          "name": "Deep 6 AI",
+          "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing",
+            "Machine Learning"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1412921976675516416/H1nnCwR5_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Deep 6 AI",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Bash.ai",
+          "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+          "type": "profile",
+          "name": "Bash.ai",
+          "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Bash.ai",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "collectionSize": 25,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/877221210760724480/EoRitKMa_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aera Technology",
           "isCached": true
         }
       ],
@@ -1372,7 +1076,7 @@
             "AI",
             "AI in Robotics"
           ],
-          "heat": 50,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
@@ -1405,6 +1109,154 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/collections/ai-companies-in-austin-texas.md",
+      "title": "Austin AI Companies",
+      "excerpt": "List of AI companies in Austin.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-austin-texas/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-austin-texas/",
+      "type": "collection",
+      "name": "Austin AI Companies",
+      "overview": "List of AI companies in Austin.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Alegion",
+          "excerpt": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+          "type": "profile",
+          "name": "Alegion",
+          "overview": "Alegion has the most powerful and flexible annotation platform for training data in market. It accelerates model development for the most sophisticated and subjective use cases. It uses integrated ML and has unique capabilities like conditional logic, iterative tasks, multi-stage and workflows, that are essential for high quality at scale.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Alegion",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEQpTGVwbtTVg/company-logo_200_200/0?e=1594857600&v=beta&t=HFlOkdia1A8rohJI2SYTs43IIgNfx3ANFlM8bjD-dSE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Anaconda",
+          "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+          "type": "profile",
+          "name": "Anaconda",
+          "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 184,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anaconda",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "CognitiveScale",
+          "excerpt": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+          "type": "profile",
+          "name": "CognitiveScale",
+          "overview": "CognitiveScale is an enterprise AI software company with solutions that help customers win with intelligent, transparent and trusted AI/ML powered digital systems.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 42,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/681884599027273729/aJmkTYTt_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "CognitiveScale",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C510BAQG_v-5Ww-04OQ/company-logo_200_200/0?e=1594857600&v=beta&t=hcGIpY_HmsPXPq2B0W7a9of72rYMt2XSnpJDbtf7iVA",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Diligent Robotics",
+          "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+          "type": "profile",
+          "name": "Diligent Robotics",
+          "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Healthcare"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Diligent Robotics",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "collectionSize": 8,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1420880634181005314/IO46zK8o_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Alegion",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/collections/ai-companies-in-nyc.md",
       "title": "AI Companies in New York City",
       "excerpt": "List of AI companies in New York City.",
@@ -1430,7 +1282,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 50,
+          "heat": 42,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/588095780126208000/n336QMMR_400x400.png",
@@ -1505,7 +1357,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 33,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1037464564248530945/KK8j8zzU_400x400.jpg",
@@ -1538,6 +1390,154 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/collections/ai-companies-in-seattle.md",
+      "title": "Seattle AI Companies",
+      "excerpt": "List of AI companies in Seattle.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/ai-companies-in-seattle/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collections/ai-companies-in-seattle/",
+      "type": "collection",
+      "name": "Seattle AI Companies",
+      "overview": "List of AI companies in Seattle.",
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Algorithmia",
+          "excerpt": "AI-powered business insights. Complete research in record time. Find what others miss.",
+          "type": "profile",
+          "name": "Algorithmia",
+          "overview": "AI-powered business insights. Complete research in record time. Find what others miss.",
+          "yearFounded": 0,
+          "topics": [
+            "AI"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1400122625599295489/sMRQWygO_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Algorithmia",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrwkW4z_etGw/company-logo_200_200/0?e=1594857600&v=beta&t=hKazn3Lt5xBOxcQSv87GE-YLoCATQrf2gCbI5mw7m8k",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Alitheon",
+          "excerpt": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
+          "type": "profile",
+          "name": "Alitheon",
+          "overview": "Alitheon, a leader in advanced machine vision, has created FeaturePrint – a system that that securely links the physical and digital worlds. The patented FeaturePrint technology uses artificial intelligence and off the shelf cameras to register and subsequently identify even visually indistinguishable objects with statistical certainty.  This novel capability delivers supply chain intelligence and ensures product authenticity, for producers of industrial parts, pharmaceuticals, semiconductors, additive manufactured parts, precious metals, documents, and luxury goods and other high value assets.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Computer Vision"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1306793871418908672/aKuqbENk_400x400.png",
+              "width": 400,
+              "height": 400,
+              "title": "Alitheon",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHa9XVFyBrjAw/company-logo_200_200/0?e=1594857600&v=beta&t=R1ePfZNXd91UI90Zh2NEMjv9oMqapHOxYAQgAKJAonc",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Amazon",
+          "excerpt": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+          "type": "profile",
+          "name": "Amazon",
+          "overview": "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AWS AI"
+          ],
+          "heat": 473,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Amazon",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFdwVGpSOHmgw/company-logo_200_200/0?e=1594857600&v=beta&t=uOHinTrtIcaXJqnZhSqS2wK04UT7r10x-8VmbrCmIUU",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Kaskada",
+          "excerpt": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+          "type": "profile",
+          "name": "Kaskada",
+          "overview": "Amperity, the leading Customer Data and Identity Platform, helps the world’s most loved brands take control of their customer data. Leveraging machine learning and cloud-scale, Amperity is revolutionizing customer identity resolution and data management, and provides the core customer data foundation for Alaska Airlines, Starbucks, Gap Inc, Moët Hennessy USA, Wynn Las Vegas, Nordstrom, Kendra Scott, Lucky Brand, Sounders, Stanley, and many more.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1232794861432168449/0yO5mYI1_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Kaskada",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFFbzRWQxMeuQ/company-logo_200_200/0?e=1594857600&v=beta&t=jFeI3EKCzQObwBPn-0g1UHE0snS-325yHw4GEFUELcs",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "collectionSize": 11,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1400122625599295489/sMRQWygO_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Algorithmia",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/collections/female-founded-ai-companies.md",
       "title": "Female Founded AI Companies",
       "excerpt": "A list of AI companies with at least one woman founder.",
@@ -1564,7 +1564,7 @@
             "Machine Learning",
             "Computer Vision"
           ],
-          "heat": 95,
+          "heat": 104,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
@@ -1601,7 +1601,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1411641099739860993/WUcGTmhA_400x400.jpg",
@@ -1705,7 +1705,7 @@
             "AI",
             "Computer Vision"
           ],
-          "heat": 0,
+          "heat": 77,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",
@@ -1810,7 +1810,7 @@
         }
       ],
       "collectionSize": 16,
-      "heat": 50,
+      "heat": 60,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1286339140502654977/FmPAcETU_400x400.jpg",

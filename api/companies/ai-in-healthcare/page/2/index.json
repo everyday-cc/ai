@@ -45,6 +45,65 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/avawomen.md",
+      "title": "Ava",
+      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/avawomen/index.json",
+      "webUrl": "https://everyday.cc/ai/company/avawomen/",
+      "type": "profile",
+      "name": "Ava",
+      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "website": "https://www.avawomen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ava-ag",
+        "followers": 9202
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ava-3"
+      },
+      "twitter": {
+        "username": "avawomen",
+        "url": "https://twitter.com/avawomen",
+        "followers": 1619
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Zurich, Switzerland",
+        "Zurich"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/669679794766807040/dG5DHc9Q_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Ava",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZc7mCj8ugQA/company-logo_200_200/0?e=1594857600&v=beta&t=z0cqMksSh4sqXm3jyISrbJ57kQ2N5qxRYa-BwX--V7c",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/beaconcure.md",
       "title": "BeaconCure",
       "excerpt": "AI-Driven Robots for Food Service, Retail, & Health Care",
@@ -197,50 +256,53 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/buoyhealth.md",
-      "title": "Buoy Health",
-      "excerpt": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/buoyhealth/index.json",
-      "webUrl": "https://everyday.cc/ai/company/buoyhealth/",
+      "path": "_companies/care.ai.md",
+      "title": "care.ai",
+      "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/care.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/care.ai/",
       "type": "profile",
-      "name": "Buoy Health",
-      "overview": "Buoy builds a free digital health tool that helps people – from the moment they get sick – start their health care on the right foot. Started by a team of doctors and computer scientists working at the Harvard Innovation Laboratory in Boston MA, Buoy was developed in direct response to the downward spiral we’ve all faced when we attempt to self-diagnose our symptoms online. Buoy leverages artificial intelligence – powered by advanced machine learning and proprietary granular data - to resemble an exchange you would have with your favorite doctor – to provide consumers with a real-time, accurate analysis of their symptoms and help them easily and quickly embark on the right path to getting better.",
-      "website": "https://www.buoyhealth.com/",
+      "name": "care.ai",
+      "overview": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
+      "website": "https://care.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/buoyhealth/",
-        "followers": 2993
+        "url": "https://www.linkedin.com/company/careai/",
+        "followers": 183
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/buoy-health"
+        "url": "https://www.crunchbase.com/organization/care-ai"
       },
       "twitter": {
-        "username": "buoyhealth",
-        "url": "https://twitter.com/buoyhealth",
-        "followers": 1300
+        "username": "caredotai",
+        "url": "https://twitter.com/caredotai",
+        "followers": 421
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 2019,
       "locations": [
-        "Boston, MA"
+        "Orlando, FL",
+        "Orlando, Florida"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DWTje5pDap0"
+        }
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278350515194101760/5HRlAt2K_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Buoy Health",
+          "title": "care.ai",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEpzpekVfUV6A/company-logo_200_200/0?e=1594857600&v=beta&t=Or-YUZmwdDZCtBS9Z6ZsTOSzGxZ5ExEma_OUAiWXH7w",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -299,63 +361,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deeplens.ai.md",
-      "title": "Deep Lens",
-      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deeplens.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deeplens.ai/",
-      "type": "profile",
-      "name": "Deep Lens",
-      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "website": "https://www.deeplens.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-lens/",
-        "followers": 853
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-lens"
-      },
-      "twitter": {
-        "username": "deeplens_ai",
-        "url": "https://twitter.com/deeplens_ai",
-        "followers": 537
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Columbus, OH",
-        "Columbus, Ohio"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Lens",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -470,6 +475,65 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/diligentrobots.md",
+      "title": "Diligent Robotics",
+      "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/diligentrobots/index.json",
+      "webUrl": "https://everyday.cc/ai/company/diligentrobots/",
+      "type": "profile",
+      "name": "Diligent Robotics",
+      "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
+      "website": "http://diligentrobots.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/diligent-robotics/",
+        "followers": 975
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/diligent-robotics"
+      },
+      "twitter": {
+        "username": "DiligentRobots",
+        "url": "https://twitter.com/DiligentRobots",
+        "followers": 858
+      },
+      "size": "2-10 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vniKNpy5SFs"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Diligent Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/eyediagnosis.net.md",
       "title": "IDx",
       "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
@@ -574,54 +638,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gnshealthcare/",
-      "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
-      },
-      "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2607
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Cambridge, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "GNS Healthcare",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/haut.ai.md",
       "title": "Haut.AI",
       "excerpt": "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning.",
@@ -663,49 +679,118 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kensci.md",
-      "title": "KenSci",
-      "excerpt": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kensci/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kensci/",
+      "path": "_companies/infermedica.md",
+      "title": "Infermedica",
+      "excerpt": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/infermedica/index.json",
+      "webUrl": "https://everyday.cc/ai/company/infermedica/",
       "type": "profile",
-      "name": "KenSci",
-      "overview": "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch.",
-      "website": "https://www.kensci.com",
+      "name": "Infermedica",
+      "overview": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
+      "website": "https://infermedica.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kensci",
-        "followers": 3545
+        "url": "https://www.linkedin.com/company/infermedica",
+        "followers": 1399
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kensci"
+        "url": "https://www.crunchbase.com/organization/infermedica"
       },
       "twitter": {
-        "username": "KenSci",
-        "url": "https://twitter.com/KenSci",
-        "followers": 1513
+        "username": "infermedica",
+        "url": "https://twitter.com/infermedica",
+        "followers": 2639
       },
       "size": "51-200 employees",
-      "yearFounded": 2015,
+      "yearFounded": 2012,
       "locations": [
-        "Seattle, WA",
-        "Seattle, Washington"
+        "Wrocław, Lower Silesia"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=p8YcZnbiB2U"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Infermedica",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/insilicomedicine.md",
+      "title": "Insilico Medicine",
+      "excerpt": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insilicomedicine/index.json",
+      "webUrl": "https://everyday.cc/ai/company/insilicomedicine/",
+      "type": "profile",
+      "name": "Insilico Medicine",
+      "overview": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
+      "website": "http://insilicomedicine.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/in-silico-medicine-inc",
+        "followers": 3413
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/insilico-medicine"
+      },
+      "twitter": {
+        "username": "InsilicoMeds",
+        "url": "https://twitter.com/InsilicoMeds",
+        "followers": 3949
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Hong Kong, China",
+        "Hong Kong , Hong Kong"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Machine Learning",
         "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EUr-rkXsBUs"
+        }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1413309342502117378/CNsSXorr_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1013451500503339014/znBZzv85_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "KenSci",
+          "title": "Insilico Medicine",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHt6iNIXOSiWw/company-logo_200_200/0?e=1594857600&v=beta&t=LVcUsJmOvWzCqdeTs0Xqr38nsjOMzZYCq0MF54RImgA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -885,44 +970,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/metabiota/index.json",
-      "webUrl": "https://everyday.cc/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1394
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1369897181419696128/lLkpj0NP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/mojo.md",
       "title": "mojo",
       "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
@@ -976,59 +1023,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/notable.md",
-      "title": "Notable",
-      "excerpt": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/notable/index.json",
-      "webUrl": "https://everyday.cc/ai/company/notable/",
+      "path": "_companies/niramai.md",
+      "title": "Niramai Health Analytix",
+      "excerpt": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/niramai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/niramai/",
       "type": "profile",
-      "name": "Notable",
-      "overview": "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes.",
-      "website": "http://notablehealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/notablehealth/",
-        "followers": 760
-      },
+      "name": "Niramai Health Analytix",
+      "overview": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "website": "http://www.niramai.com",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/notable"
+        "url": "https://www.crunchbase.com/organization/niramai-health-analytix"
       },
       "twitter": {
-        "username": "notablehealth",
-        "url": "https://twitter.com/notablehealth",
-        "followers": 281
+        "username": "niramaianalytix",
+        "url": "https://twitter.com/niramaianalytix",
+        "followers": 919
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "yearFounded": 0,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "Rich Jerk Headquarters, USA"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
-        "Natural Language Processing"
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3mx-g-RJoKg"
+        }
       ],
       "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1037421685069242369/f9VitPKO_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Notable",
+          "title": "Niramai Health Analytix",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGV0xRUUXIJ2g/company-logo_200_200/0?e=1594857600&v=beta&t=WRgeu92Qdu_7XC1by72y9GgVqu3Txlhn30eY4b96btc",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1089,35 +1124,35 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/proscia.md",
-      "title": "Proscia",
-      "excerpt": "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/proscia/index.json",
-      "webUrl": "https://everyday.cc/ai/company/proscia/",
+      "path": "_companies/primaalab.md",
+      "title": "Primaa",
+      "excerpt": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/primaalab/index.json",
+      "webUrl": "https://everyday.cc/ai/company/primaalab/",
       "type": "profile",
-      "name": "Proscia",
-      "overview": "Proscia is fighting cancer with intelligent software that changes the way the world practices pathology. Join us.",
-      "website": "https://proscia.com/",
+      "name": "Primaa",
+      "overview": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "website": "https://www.primaalab.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/5216638",
-        "followers": 3526
+        "url": "https://www.linkedin.com/company/primaa/",
+        "followers": 174
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/proscia"
+        "url": "https://www.crunchbase.com/organization/primaa"
       },
       "twitter": {
-        "username": "ProsciaInc",
-        "url": "https://twitter.com/ProsciaInc",
-        "followers": 1167
+        "username": "primaalab",
+        "url": "https://twitter.com/primaalab",
+        "followers": 35
       },
       "size": "11-50 employees",
-      "yearFounded": 2014,
+      "yearFounded": 0,
       "locations": [
-        "Philadelphia, PA",
-        "Philadelphia, Pennsylvania"
+        "Paris, France",
+        "Paris, Ile-de-France"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -1125,23 +1160,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=8QjxuGXGIAw"
+          "url": "https://www.youtube.com/watch?v=3CQMfhc6Atc"
         }
       ],
       "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1141330689234735105/tTsjBxrw_400x400.png",
+          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Proscia",
+          "title": "Primaa",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGo4uDxA3T4cA/company-logo_200_200/0?e=1594857600&v=beta&t=CCn89n7RYfKdbqEV2NcxY7T8leno3MhxwfkbaGEs4aU",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1151,31 +1183,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/quantib.md",
-      "title": "Quantib",
-      "excerpt": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/quantib/index.json",
-      "webUrl": "https://everyday.cc/ai/company/quantib/",
+      "path": "_companies/robinhealthcare.md",
+      "title": "Robin Healthcare",
+      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/robinhealthcare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/robinhealthcare/",
       "type": "profile",
-      "name": "Quantib",
-      "overview": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
-      "website": "http://www.quantib.com",
+      "name": "Robin Healthcare",
+      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "website": "https://www.robinhealthcare.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/quantib-bv/",
-        "followers": 1389
+        "url": "https://www.linkedin.com/company/robin-healthcare/",
+        "followers": 606
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/quantib"
+        "url": "https://www.crunchbase.com/organization/robin-healthcare"
       },
       "twitter": {
-        "username": "Quantib",
-        "url": "https://twitter.com/Quantib",
-        "followers": 750
+        "username": "robinhealthco",
+        "url": "https://twitter.com/robinhealthco",
+        "followers": 70
       },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
+      "size": "51-200 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Rotterdam, ZH"
+        "Berkeley, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1186,20 +1218,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=MmbfaKF-wss"
+          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1249958982770462721/WUWU3JJa_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1338632807611035650/kDlF5Ppp_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Quantib",
+          "title": "Robin Healthcare",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1379,6 +1411,64 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/winterlightlabs.md",
+      "title": "Winterlight Labs",
+      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/winterlightlabs/index.json",
+      "webUrl": "https://everyday.cc/ai/company/winterlightlabs/",
+      "type": "profile",
+      "name": "Winterlight Labs",
+      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
+      "website": "https://winterlightlabs.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/winterlight-labs/",
+        "followers": 553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/winterlight"
+      },
+      "twitter": {
+        "username": "winterlightlabs",
+        "url": "https://twitter.com/winterlightlabs",
+        "followers": 827
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Winterlight Labs",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/xbird.io.md",
       "title": "Xbird",
       "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
@@ -1438,113 +1528,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/care.ai.md",
-      "title": "care.ai",
-      "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/care.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/care.ai/",
+      "path": "_companies/aira.io.md",
+      "title": "Aira Tech Corp",
+      "excerpt": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aira.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/aira.io/",
       "type": "profile",
-      "name": "care.ai",
-      "overview": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "website": "https://care.ai/",
+      "name": "Aira Tech Corp",
+      "otherNames": [
+        "Aira"
+      ],
+      "overview": "AI stands for Artificial Intelligence; RA stands for Remote Assistance. When you put them together you get Aira.",
+      "website": "https://aira.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/careai/",
-        "followers": 183
+        "url": "https://www.linkedin.com/company/airaio/",
+        "followers": 2543
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/care-ai"
+        "url": "https://www.crunchbase.com/organization/aira"
       },
       "twitter": {
-        "username": "caredotai",
-        "url": "https://twitter.com/caredotai",
-        "followers": 421
+        "username": "airaio",
+        "url": "https://twitter.com/airaio",
+        "followers": 4348
       },
       "size": "11-50 employees",
-      "yearFounded": 2019,
+      "yearFounded": 2015,
       "locations": [
-        "Orlando, FL",
-        "Orlando, Florida"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DWTje5pDap0"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "care.ai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
-      "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
-      },
-      "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4688
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "La Jolla, CA",
+        "La Jolla, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
         "Computer Vision",
-        "Natural Language Processing"
+        "AI in Healthcare",
+        "Machine Learning"
       ],
       "heat": 42,
-      "tags": [
-        "Image Recognition",
-        "Cancer"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Enlitic",
+          "title": "Aira Tech Corp",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFJie4SeRm7AQ/company-logo_200_200/0?e=1594857600&v=beta&t=y73FJTU_72DV5AVlUkovIE3Fo4aThmx9RNtZRhxzxvE",
           "width": 400,
           "height": 400,
           "title": "logo",
