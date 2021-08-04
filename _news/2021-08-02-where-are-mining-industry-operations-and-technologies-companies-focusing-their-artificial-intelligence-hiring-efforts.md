@@ -24,49 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Honor teases Magic 3 series, will feature various AI technologies"
-    excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
-    publishedDateTime: 2021-08-02T07:32:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
+  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
+    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
+    publishedDateTime: 2021-08-01T04:11:00Z
+    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 54
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/honor-magic-3-render.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "How Three Artificial Intelligence Technologies Can Sharpen a Company’s Strategic Edge"
-    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
-    publishedDateTime: 2021-08-03T09:49:00Z
-    webUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/"
-    ampWebUrl: "https://scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/how-three-artificial-intelligence-technologies-can-sharpen-a-companys-strategic-edge/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 50
-    images:
-      - url: "https://scitechdaily.com/images/Three-AI-Technologies-777x437.jpg"
-        width: 777
-        height: 437
-        isCached: true
-  - title: "How three AI technologies can sharpen a company's strategic edge"
-    excerpt: "Using Artificial Intelligence, corporations can see new patterns in their data and maintain a competitive edge. Blending these AI technologies into business strategy and operations is the subject of a newly published book."
-    publishedDateTime: 2021-08-03T05:17:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/924152"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02791db4-f876-4d8f-a20c-e405d9db8239/Rendition/low-res/Content/Public"
-        width: 700
-        height: 394
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
         isCached: true
 
 secured: "TNi/LBdvUCBodzJx3IivvFSgSAEpJpdA1wiSZVl4FbDt/O6FTQOiCXnmBg1DodZ+Y1jjuFl0V8rZusj4t6d5l1TKbgiwTIp2zBcry08MQOfLVn78Hkos+Ofq1mMPhMfE6uFD8ryp44K9V9SB+1XBi8DQqTth/gNw7PF9MmPnuca9Dhccbdjf64K70oGssS7j5HnKfj+1nQ5RIA3+2TKJ3MlpPuRBznpEbIbp95n3TZ91SjqiBXJA82vIKmOecU/pReYXNtGQGEKsXZwx0wwzy18KLG7Oxo7ytgHF1JV0aJK6AZjq0Dq5SvlYWyzvMdvEwl90dsWlTfwnxVWduFgVbUqU3Tnr1E8Apyue88Cexsk=;DjHTqdWzGzrJTCW3mGgqBg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
 quality: 105
-heat: 117
+heat: 128
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg"
         width: 1408
         height: 792
+        isCached: true
+  - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
+    excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
+    publishedDateTime: 2021-08-04T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
+        width: 1600
+        height: 960
         isCached: true
 
 secured: "gQlB+Yhwpdi1G2eI2nuFwxm4zY3e1p4RIbiOd1R6RQxE12zCaJHmvKeWQXXwiwaBxs0ER+ZU980sNqkk3Slx2miJWoANt2Oxy8KGbeO2rQCDvRjUMrnsl8y+dfr1Vf2qXQopBFpZptUlF/qo89h8Z8JVcc+hAs/ceTdAQSdJL/s2RWrpnutQfuPG0hxjYLvlnOGvSw5STlVBtFa7vCq/LdtS71FJewilsH0z3zrK6ImZfyhnsbMYjHlAqxMNCygO8UZWTm0kRsqbjqwraO92TFohA8zjCE+cOfdHsT5IxFf+5+wvEveRc5G459xbQuWtmnGCTNce5JIguidzKSzeIxECGkHiUl0lPHMeQSz03Evizc31uzkWwcT70we7V1HL9haPIynQXHyEx+BbWr2CYL0W5bNsBy/z3DYQYYYQ+EoriYAkHl3KWgZ1iFckIa60GcVTjZQGlKTi42yGqM9vmvRhwl/n6fWJEJvaqx52f4Rv3pCMdm7OrHjRqsu29RqN1GJcuCeJ8lHftGPMA7Wybg==;AG5tR493/M611nMFPBk0Uw=="

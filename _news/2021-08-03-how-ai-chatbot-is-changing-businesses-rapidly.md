@@ -7,7 +7,7 @@ originalUrl: "https://www.yumpu.com/en/document/view/65750826/how-ai-chatbot-is-
 webUrl: "https://www.yumpu.com/en/document/view/65750826/how-ai-chatbot-is-changing-businesses-rapidly/2"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,47 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How No-Code AI Is Changing Business"
-    excerpt: "According to a 2017 survey by Deloitte, 47% of businesses complained of difficulties integrating AI projects into their current systems. Meanwhile, 40% noted cost as a significant inhibiting factor. And 37% said managers simply don’t have enough expertise to implement AI successfully,"
-    publishedDateTime: 2021-07-30T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/"
+  - title: "Woebot CEO Michael Evers on AI in mental health, and how to get a chatbot to bond with a human"
+    excerpt: "How important is AI becoming in healthcare? It's set to grow to over $120 billion by 2028. Woebot Health combines these two things into a single platform: it's created an AI-powered mental health chatbot that uses proven therapeutic techniques to help its bot bond with patients."
+    publishedDateTime: 2021-07-30T16:24:00Z
+    webUrl: "https://vator.tv/news/2021-07-30-woebot-ceo-michael-evers-on-ai-in-mental-health-and-how-to-get-a-chatbot-to-bond-with-a-human"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Vator
+      domain: vator.tv
+    quality: 27
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d80d24b51bc4f80ee929%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://vatortv.s3.amazonaws.com/images/videos/main/21194.jpg"
+        width: 320
+        height: 240
         isCached: true
-  - title: "How Artificial Intelligence is closing information gaps for investors"
-    excerpt: "Its a new wealth model that is putting investment analytics in the hands of everyday investors. The model  empowers not just investors but also advisors, and helps spot Alpha stocks."
-    publishedDateTime: 2021-08-02T09:24:00Z
-    webUrl: "https://www.businesstoday.in/news-reel/video/how-artificial-intelligence-is-closing-information-gaps-for-investors-303062-2021-08-02"
-    ampWebUrl: "https://www.businesstoday.in/amp/news-reel/video/how-artificial-intelligence-is-closing-information-gaps-for-investors-303062-2021-08-02"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/news-reel/video/how-artificial-intelligence-is-closing-information-gaps-for-investors-303062-2021-08-02"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 57
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202108/thumb_wo_text-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Upping Your New Business Game with AI"
-    excerpt: "With demand for technology innovation and efficiency at an all-time high, we can look to Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) to help streamline and automate proposal and RFP management,"
-    publishedDateTime: 2021-07-30T18:30:00Z
-    webUrl: "https://www.law.com/2021/07/30/upping-your-new-business-game-with-ai/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 17
 
 secured: "yO1WldIpIHlnnXjvc0ZC/vX6wi+mpjNEneAV9lxnSaXwtKWFkZLXca7A4Oi3qqY1a7TYM4p5XLNY7nJtkfd5JsXQJ7JMTDIYVqeY2dU6pDvSyZp+EVdnhJUT14lOFCPwyFvii2VYlJEsrRdt12m/FhhI0/4Imh8Vh8hIjK6YNHKrz99ujIFFPg3nAd/q9ZImSKixhMq5ooilXt1DhtJz3emBpAv2us4YHNuXBayKPbpWOU2usFv0aDkmyoGMDK/DBvQ4QJKTB+QHHJ2t7/j7x7EZXe5n8BzO71d6qBwdtsWK9PVxhL6KmTFdHMcP+bgHLs08QoUzxb1k1ycwccV5M+l4sFYwUSd3skU+OuFso2o=;S1DHGQKNzXh6pb+qy3vcXw=="
 ---

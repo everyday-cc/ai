@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
+      "title": "Supercomputers are becoming another cloud service. Here's what it means",
+      "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "originalUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/20/4578fe42-7a03-4ce3-b255-3ee294ece765/thumbnail/1200x675/ade3598837ab9ca69ae071f14060e02e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "publishedDateTime": "2021-08-01T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-ai-self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times.md",
       "title": "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times",
       "excerpt": "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done.",
@@ -165,7 +217,7 @@
       "originalUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -434,21 +486,21 @@
       ]
     },
     {
-      "path": "_news/2021-07-31-how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams.md",
-      "title": "How AI Is Making Employee Equity More Accessible For Startups And Their Teams",
-      "excerpt": "AI and machine learning (ML) are enabling systems of support to be alerted when an employee is leaving their job.",
+      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/",
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/512x512/https://specials-images.forbesimg.com/imageserve/61046c75d03df1f85d616035/Scott-Chou--ESO-Fund/960x0.jpg?fit=scale",
-          "width": 512,
-          "height": 512,
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
+          "width": 770,
+          "height": 578,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -456,16 +508,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/",
-      "publishedDateTime": "2021-07-30T14:22:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -481,7 +533,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -585,6 +639,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
+      "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
+      "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "publishedDateTime": "2021-07-30T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1027,7 +1124,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1121,100 +1218,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-how-no-code-ai-is-changing-business.md",
-      "title": "How No-Code AI Is Changing Business",
-      "excerpt": "According to a 2017 survey by Deloitte, 47% of businesses complained of difficulties integrating AI projects into their current systems. Meanwhile, 40% noted cost as a significant inhibiting factor. And 37% said managers simply don’t have enough expertise to implement AI successfully,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102d80d24b51bc4f80ee929%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/30/how-no-code-ai-is-changing-business/amp/",
-      "publishedDateTime": "2021-07-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times.md",
-      "title": "Rolex Rings IPO subscribed 14.06 times on final day, QIB portion booked 6.64 times",
-      "excerpt": "Investors have put in bids for 7.99 crore equity shares against offer size of 56.85 lakh equity shares, the subscription data available on exchanges showed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
-      "originalUrl": "https://www.msn.com/en-in/money/topstories/rolex-rings-ipo-subscribed-1406-times-on-final-day-qib-portion-booked-664-times/ar-AAMJpbr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0e03860d-6d33-4d12-a2cc-d402d9f8c10c.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
-      "publishedDateTime": "2021-07-30T04:36:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
-        "domain": "ft.com/content/ac06c97d-b0a1-49a1-a88d-f270687aaa92",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -27,32 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers aim to help protect US Navy divers using AI systems"
-    excerpt: "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from"
-    publishedDateTime: 2021-07-31T13:18:00Z
-    webUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/"
-    ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
+  - title: "Intel & Dell Technologies Make Acquiring AI Skills More Accessible"
+    excerpt: "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists."
+    publishedDateTime: 2021-08-04T05:22:00Z
+    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/"
+    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
-  - title: "Researchers use AI to unlock the secrets of ancient texts"
-    excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"
-    publishedDateTime: 2021-08-03T18:44:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/latin.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg"
+        width: 1200
+        height: 712
+        isCached: true
+  - title: "How AI Is Making Employee Equity More Accessible For Startups And Their Teams"
+    excerpt: "AI and machine learning (ML) are enabling systems of support to be alerted when an employee is leaving their job."
+    publishedDateTime: 2021-07-30T21:22:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/"
+    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/512x512/https://specials-images.forbesimg.com/imageserve/61046c75d03df1f85d616035/Scott-Chou--ESO-Fund/960x0.jpg?fit=scale"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Honor teases Magic 3 series, will feature various AI technologies"
+    excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
+    publishedDateTime: 2021-08-02T07:32:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/honor-magic-3-render.jpg"
         width: 1920
-        height: 1245
+        height: 1080
         isCached: true
 
 secured: "BXXpae2NAje1qiKKrxAVoSJMxleOxWuiSaMbc0TNBX+v0dJasYuYA5qc2plSA6+hxPRz/HPNaxLntAzN32awH1g6gKVhy7Mh+AQg89bd5GbUUBlBUFEMThjG5wurQhLKDmCXcs/4uBnoa4NWcCXL8eUof38sh5EdcgSp6HQ/No2y2svVqGsqkuvkxHA4Ek5NhTMVWvrEmRZRnUnW8S3cssWrdq8JK1KmW6C81qRHT3qItFsJUY82ACLoZbrE5B4Lc+j1xuLu//ZJA9zWf5nc00KKSWAkAmvrllk3Qv/ZjAVxPgD/8XoAMBakF0G38I5ONSFHbr6eijiMYPVTTfq7a7c6d9vuOpaPTmnJmsFJW7u8gYpnPPMLFaDewP4F5XiKDuUCBQ7RjFstWRwqR1uRn3cd/yHomkeI6XIKTfRg+xI1os1xGD8NUPP+0/E/TwPPU2v9xO1JjdDqXN6rxyWsCYnYv06oDKtyu7LIjTL0zaYdqrEfLA1W7+CKgYh986G3lCk+PJ4Y+9+8eI6fCQcy4g==;T1/5kROAKpH6U8jtypQQQw=="

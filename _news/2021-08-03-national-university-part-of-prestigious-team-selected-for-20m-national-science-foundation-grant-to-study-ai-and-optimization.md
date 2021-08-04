@@ -21,20 +21,52 @@ topics:
   - AI
 
 related:
-  - title: "Oregon State University part of $20M effort to develop artificial intelligence for agriculture"
-    excerpt: "CORVALLIS, Ore. - Thirteen researchers from the Oregon State University College of Engineering are part of a $20 million federal effort, known as"
-    publishedDateTime: 2021-07-30T17:40:00Z
-    webUrl: "https://www.miragenews.com/oregon-state-university-part-of-20m-effort-to-605635/"
+  - title: "Two IU Schools Join National AI Initiatives"
+    excerpt: "Two Indiana University schools will share a portion of $40 million in National Science Foundation grants to investigate how artificial intelligence could be used to improve people’s lives in a variety"
+    publishedDateTime: 2021-07-30T21:39:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/44423450/two-iu-schools-join-national-ai-initiatives"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 27
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/21136985_G.jpg?lastEditedDate=1627665148000"
+        width: 960
+        height: 540
         isCached: true
+  - title: "UC Berkeley collaborates in launching of national AI optimization institute"
+    excerpt: "The National Science Foundation, or NSF, approved UC Berkeley, Georgia Tech and the University of Southern California to launch an institute with goals to fuse artificial intelligence, or AI, with optimization."
+    publishedDateTime: 2021-08-03T03:38:00Z
+    webUrl: "https://www.dailycal.org/2021/08/02/uc-berkeley-collaborates-in-launching-of-national-ai-optimization-institute/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 35
+    images:
+      - url: "https://i2.wp.com/www.dailycal.org/assets/uploads/2021/08/AI_Sujin-Soman_cc.jpg?ssl=1"
+        width: 1800
+        height: 1160
+        isCached: true
+  - title: "WCM-Q pre-medical students excel in national AI competition"
+    excerpt: "Two teams of pre-medical students from Weill Cornell Medicine – Qatar (WCM-Q) have been highly commended after creating solutions to two problems highlighted by the Covid-19 pandemic."
+    publishedDateTime: 2021-08-01T17:03:00Z
+    webUrl: "https://www.gulf-times.com/story/697612/WCM-Q-pre-medical-students-excel-in-national-AI-co"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 17
+  - title: "Washington County native’s photography wins recognition at international competition"
+    excerpt: "Parrish graduated in 2003 cum laude with honors from Otterbein University at Westerville, Ohio, with a bachelor’s in speech communication with an English minor. She concentrated in video production and creative nonfiction writing. Amy (Davis) Parrish ..."
+    publishedDateTime: 2021-07-31T05:08:00Z
+    webUrl: "https://www.newsandsentinel.com/news/community-news/2021/07/washington-county-natives-photography-wins-recognition-at-international-competition/"
+    type: article
+    provider:
+      name: Parkersburg News and Sentinel
+      domain: newsandsentinel.com
+    quality: 0
 
 secured: "I4OsA0XUDpqFIaJC64dvimmEjhX6TeK6d5ilLKz1kubdDv3DKG52m2f321FicUR3fDbofCoEoU+CZpb9NOGISpdMvbxXHmFP29F8kNqcoaDq7P2Eg2Z6PIdUqcfArJlfqxKo4aMUWXxrXAz1L2x8yGPDusP/R3nvt5o2+moO0qKoP6s9eh8C31VGHuaEFwkTL4Etwy6JZtR6UXpDqAGoAshy3flE4YAswIZgXCjuXLs2QrkAIppnzJ5bZb19kEppjVqbQaJUcQJkJn7NDC46+b3fXIcfxd3xBDziAP10EG5vpylnHrGOgnmQ60Q6aXjQeU+JHidArHH+LKctQgtUuFAoS5Y4tNRlE4ekzLFHWiI=;/JbpJ5vF4DQSipQp1KCvXw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-lead
 webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI and ML for the Masses"
+    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
+    publishedDateTime: 2021-07-30T19:48:00Z
+    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
+        width: 629
+        height: 319
         isCached: true
   - title: "Artificial intelligence and the workplace"
     excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."

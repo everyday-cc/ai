@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement
 webUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Next Web
@@ -44,6 +44,22 @@ related:
       - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/Cleantech-side-banner.png?ssl=1"
         width: 1080
         height: 1080
+        isCached: true
+  - title: "DOT moves to regulate self-driving car tests on NYC streets"
+    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
+    publishedDateTime: 2021-08-03T20:27:00Z
+    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
+    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "5Mq1DSF5YicHtitpQF0TARz7b5JjeX0/RNDRdF8D0sF0gpeQOIW3ImK7BjAliKZb6Y3aJR5SmmDEdkvDkfu1JZQeScxmSLsa5f6CwmiMRtjYZ8w6YoxU4+MiYQ9hzMZuHKBjsFVsHt5HnEOipwn4x6myI5RVOWRrKsn9e2hExp4MydyeXB8jbDfZXR6xbiIb6cEUwjwN0NNEzt4YJXtHh9pQkrEWEk0pUvdoB0GpZ0PZcxtnMumMZ9Z0pL0L11+ByCA4a5NROcffJfAhZkzebDufsLa2c34Vbyw8KhmshcY/PyvZFkfmWhZQV6KQ/ELsYLABPv1wsav7dWG0v5rZLnBzAUAejomEI8+44a55rZrF2ehPkckZZtooOIuFhM6tiK1B3QzSKa+OPWTyujWG2ckc/DYyd8byEVa0navHkGWSTq5BB31rELPIlG0LEjWKDNbb+IeNgPa7/8Bz50qy4RKewU7BPshEtZPDqcj6zGer2WMlJOqGc0YaVkKacWQ6o2+ZzCFN4Y+P9Mjw8AK1hQ==;JdN7iB5HtUtm/psmjg24zQ=="

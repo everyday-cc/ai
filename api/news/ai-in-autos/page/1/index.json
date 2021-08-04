@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-03-xiaomi-invests-in-a-second-self-driving-company-within-three-months.md",
+      "title": "Xiaomi invests in a second self-driving company within three months",
+      "excerpt": "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
+      "originalUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FXiaomi.jpg&signature=bc13453f61222aa3c618ab670fc5ffd7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-01-ai-self-driving-cars-telling-you-to-keep-your-hands-feet-and-head-inside-the-vehicle-at-all-times.md",
       "title": "AI Self-Driving Cars Telling You To Keep Your Hands, Feet, And Head Inside The Vehicle At All Times",
       "excerpt": "For your safety, keep your hands, feet, and head within the vehicle at all times, which is equally important for riders of self-driving cars, so here's what needs to be done.",
@@ -1342,58 +1394,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software.md",
-      "title": "Consumer Reports concerned Tesla uses owners to test unsafe self-driving software",
-      "excerpt": "A Tesla in full self-driving mode makes a left turn out of the middle lane on a busy San Francisco street. It jumps in a bus lane where it’s not meant to be. It turns a corner and nearly plows into parked vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
-      "originalUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GlIdu7prsAw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/consumer-reports-concerned-tesla-uses-owners-to-test-unsafe-self-driving-software/amp/",
-      "publishedDateTime": "2021-07-20T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -25,35 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Making Employee Equity More Accessible For Startups And Their Teams"
-    excerpt: "AI and machine learning (ML) are enabling systems of support to be alerted when an employee is leaving their job."
-    publishedDateTime: 2021-07-30T21:22:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/30/how-ai-is-making-employee-equity-more-accessible-for-startups-and-their-teams/amp/"
+  - title: "Why Sales Leaders Need AI - and the C-Suite Should Demand It"
+    excerpt: "There is nothing inherently strategic or rigorous about using a dashboard. Therefore, it may be up to senior leaders to invest in the best AI solutions and encourage (or even insist on) their use by the sales department."
+    publishedDateTime: 2021-08-03T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/joelshapiro/2021/08/03/why-sales-leaders-need-aiand-the-c-suite-should-demand-it/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 84
     images:
-      - url: "https://thumbor.forbes.com/thumbor/512x512/https://specials-images.forbesimg.com/imageserve/61046c75d03df1f85d616035/Scott-Chou--ESO-Fund/960x0.jpg?fit=scale"
-        width: 512
-        height: 512
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610827a5e420c7d6667a6fed%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Where are airforce equipment and technology companies focusing their AI hiring efforts?"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the aerospace and defence sector, but some parts of the world are proving more attractive than others. Artificial intelligence is an area that has seen rapid growth across a variety of industries in recent years – not least among airforce equipment and technologies companies."
-    publishedDateTime: 2021-08-02T05:24:00Z
-    webUrl: "https://www.airforce-technology.com/features/ai_job_trends/"
+  - title: "Tennis Is Now On The Cloud And Powered By Applied AI, And This Is How Roland-Garros Did It"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into the Roland-Garros Players Application for players and coaches. Patrick talks about how it offers AI-powered match analysis with cognitive capabilities such as natural language search."
+    publishedDateTime: 2021-08-03T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 79
     images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/07/artificial-intelligence-2167835_1920.jpg"
-        width: 1920
-        height: 1285
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg"
+        width: 468
+        height: 312
+        isCached: true
+  - title: "Artificial intelligence and the structure of the universe"
+    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
+    publishedDateTime: 2021-07-31T12:42:00Z
+    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
+    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
+    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
+    type: article
+    provider:
+      name: Las Cruces Sun-News
+      domain: lcsun-news.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial intelligence and the workplace"
+    excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
+    publishedDateTime: 2021-08-03T09:16:00Z
+    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
+    type: article
+    provider:
+      name: The Lawyer
+      domain: thelawyer.com
+    quality: 37
+    images:
+      - url: "https://thelawyer.imgix.net/content/uploads/2021/07/30133953/camera-face-surprised-e1627844146581-421x500.png"
+        width: 421
+        height: 500
         isCached: true
 
 secured: "WL1TjjQwSN/5WiH/gGqlDUYvtpl9mjhirOfH0q0DDQHswWWAepIbL+9Iu0XZ9b6yMtS5ycMNIC0eUXKqD7p+pGzKRjcl2UKjQ69fE89UJn/h8A1bDxbkCaXBhcO8buu1NV+Ze3vV4NcAjWQJsihd7rFh3AmEf7nUVHN9lS5DhOGt0pJdS4gmyCMOyLvB0sY6f4ea4D3O9LofvdH/xsqhMZRZGoIPqngVblan2W0veBWxS0yZSGO5ghSQmgXow9kUWFoOV5+uOLWKbHxfcGO0Mtk4x3WAx9Oti2jyr9ZHbHzE9MPB1LsBt9uk5DTVkf0HIFQnb0oMabfRHKXHoNMtW2STkUsy9/p+mwZK7/nK9uhL8uI6VEzdODS16vAsiLhUgWhIABdBx05B5aSKIsT/DOvKVElSHd/zl+xAKX+KJYk9SVRRZA2e4nrYvWZgwEmb1yIKKHoth2q5N1xUi4ti+YMWY2qdPRd9v1OxtfGAusX6oAF+X7mWIPtyuRbrzwY4Kn09Gf5z70EfbhG4sZMhQw==;I/6KYexHqslDMRf9tH11KQ=="

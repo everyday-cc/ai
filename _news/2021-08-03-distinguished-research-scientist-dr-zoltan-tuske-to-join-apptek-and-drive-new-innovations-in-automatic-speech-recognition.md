@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Distinguished Research Scientist, Dr. Zoltán Tüske, to Join AppTek and Drive New Innovations in Automatic Speech Recognition"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language"
-publishedDateTime: 2021-08-03T12:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_23bd8033-76c0-5c99-bdad-6d81961157c4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_23bd8033-76c0-5c99-bdad-6d81961157c4.html"
+excerpt: "\"Our mission is to advance the science behind automatic speech recognition and provide the most accurate solution in the field\" stated AppTek's Chief Speech Scientist Eugen Beck. \"Zoltán is one of the great minds in this industry and we are excited to have him on the team to collaborate on new and innovative ways to advance the science even further."
+publishedDateTime: 2021-08-03T12:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/distinguished-research-scientist-dr-zoltán-tueske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition-1030683098"
+webUrl: "https://markets.businessinsider.com/news/stocks/distinguished-research-scientist-dr-zoltán-tueske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition-1030683098"
 type: article
-quality: 12
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/2e/32efccc9-201b-5605-af34-52e3fd9d4c98/61093a6956a5d.image.jpg?resize=547%2C630"
-    width: 547
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1586508/tuske.jpg"
+    width: 348
+    height: 400
     isCached: true
 
 related:
@@ -35,6 +39,6 @@ related:
       domain: insidehpc.com
     quality: 19
 
-secured: "9zCBTW2Vza8uEu1iEIphHD2gyatV7pDuOYePp4SpNN9KOCbxPHz/jasj0wAi21xKELgx0el1qf6zdHtKSpxsb++rRS7w4ODf/N1y9NYT5tuWwIWtqIEwPWveZpK8rWgOME3H6e3qiCTvD8y4Ou7wcjcfGNQ+U/AkWBYYb3S/0j6YTW6mn/feVzG4SCaNXgK/4aaYou8dSi8afwWqDIj/yiCVLOTF+LqABRzriuxV3qG0bVwka87sX6VRh7KX0Kg8x/1gSP5NH7mi8O0IK8etYY14kzQKhEHJz0Lniyr+AxwPMdMG9hjCoi6pto7SQOEYGMeaczlVYgr+YluMUMaj3tfw8kZ8PhKyqsD5k8Z1NAc=;nkyMoELgF8xlX0zFsIO69w=="
+secured: "5NWjxhcvf8bVtC70N9Si3jo4toifB5xtTMQvDVY2675oiSNgTUFDSJR/NHbVsuh1ygD3JeRzDS3n0nxgSsZZTD5D60byyACFWNYqahZBja8WJei4n6HAHH4jKKInjKz6/4Ctl3PYeJ6pQ3RRTlELUzgCfkDci26wX0GwbetzPtbpBSU20rdk1DfbBpUdyl0/DWuqdhhMHIi5i1YAptfYGZZMet0MTHH+FLJkDvzLnCc1LPKYsTyK+2O5YwKe/K8lnK+SL/YbqSwz+c64Ty0mkweOeagZRVWO+UG6oHKRv618+hSWER5CMm9P7Nia2VTp+6RGvD+Mww4bbKCzpdkTevoKyLvqf3Ml1bCyRQXCJJw=;OGOYHaA77klD2rQN22lzJA=="
 ---
 

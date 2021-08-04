@@ -193,6 +193,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
+      "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
+      "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "publishedDateTime": "2021-07-30T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
       "title": "New law leaves facial recognition debate unsettled",
       "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
@@ -1327,59 +1370,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-federal-judge-forces-accused-capitol-rioter-to-unlock-laptop-with-face-recognition.md",
-      "title": "Federal Judge Forces Accused Capitol Rioter to Unlock Laptop With Face Recognition",
-      "excerpt": "U.S. courts are split on whether forced device unlocks violate the Fifth Amendment, and the Supreme Court has yet to step in.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
-      "originalUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/cff617cd180a45a85c61699a0883cecd.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/federal-judge-forces-accused-capitol-rioter-to-unlock-l-1847343314/amp",
-      "publishedDateTime": "2021-07-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

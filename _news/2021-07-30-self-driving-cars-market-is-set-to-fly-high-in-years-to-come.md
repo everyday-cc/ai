@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
+    excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
+    publishedDateTime: 2021-08-03T10:11:00Z
+    webUrl: "https://manometcurrent.com/self-driving-vehicles-market-moving-towards-a-brighter-future/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 24
+    images:
+      - url: "https://marketresearch488204729.files.wordpress.com/2021/08/project-single.jpg"
+        width: 790
+        height: 400
+        isCached: true
+
 secured: "AqjmlnyCy671a+nbbCj4Msl/Ur+PalGE3Tuigz5dhhujAgK/ugW5AdHmv6BLRObNpDE6oSp43eyJSQwkCHObtBmZF873+HkIIKPm0BvpWsbEj27/fV9tRrcsDFujHq6MX+olYhnImgKEbZq9nwyxoUYAq1I8NuQtlqYCGRf60mQ7kzrEu34rnradwDOo7gTRC4ONtHN1hXeqX8ohF0HsCL6sLW91E6qHZP4hC/1Y/odF2+ypVPZU658TCFQq4K8yxLvuCVCUo8W6VMolviojzhSBLCsrVBxezycc1kgMsrrIBWa0qSUoBiVNVjPzFR6mnZmrlWO39qHiF1TvnnHG8Te6t8OlyMsvHnqLQpSCIPHKV+66rK2QHKRV7VFqxxBmeqI3ZpOdNtLTaALOOgIRCJ4YCUhDFwZ30bWMPijUClFtJCXtVojpynPToFocqGubtDFCseWHIpAoVzYhiU7GOXLzAYJ9+M9mNI211bqGWzhIAkVZzuLcM93Na+kCTi7BaQWnYCyE7YfaALu6FLZr+g==;BJOm3jGu7En1obnwhkMQKQ=="
 ---
 

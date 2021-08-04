@@ -3,8 +3,8 @@ category: news
 title: "BSC Develops Open AI Model that can Write and Understand Spanish"
 excerpt: "The MarIA open AI system is a set of deep neural networks trained to acquire an understanding of language, its vocabulary, and its mechanisms to express meaning and write at an expert level."
 publishedDateTime: 2021-08-03T14:16:00Z
-originalUrl: "https://cacm.acm.org/news/254516-bsc-develops-open-ai-model-that-can-write-and-understand-spanish/fulltext"
-webUrl: "https://cacm.acm.org/news/254516-bsc-develops-open-ai-model-that-can-write-and-understand-spanish/fulltext"
+originalUrl: "https://m-cacm.acm.org/news/254516-bsc-develops-open-ai-model-that-can-write-and-understand-spanish"
+webUrl: "https://m-cacm.acm.org/news/254516-bsc-develops-open-ai-model-that-can-write-and-understand-spanish"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "46Y+NUeYuLYGwXQIZet7bYVsChOMKpJmlH9mOEHSP5ysuRqr10ZfhjEKks6XehfNBvbBt+EIDqIe806NQIpoI4wvqfx11rvW++XQtuphJwjV4yCJBpkYTimNCym7GTh27aG9tvOJqhBfY084PdUQVeneJmMsGU9HbjG0Wv+1H1jYwVLlumqx1DmJXhid+jw3LaU+cdIVuF3e/+IEQIvqtCrKAmFhEAr35N73706IEF/pyKlOTMbcYlQIseO8zczMdNwJx9I5wEL6wAypwZih/SQ9q4lnqHd/LBmVQLnqHiMP1mS+eHsMH1JwGPHD2i6OzJomffp8YOm9d+8xfS9Quo0iXl84JrKUdZ/gJclbvRI=;K+k71BkaJDh432/eWduHlg=="
+secured: "IdhIovgnZ8HA2guJrqxuo2khywL3FQAn30M4F4gZB2e1T4+tpHl1DekT27xxUfCOtAj8Za6lIN2gwO9cEFaahJ77kNAt3SACg5QzSRMSxa7Q0YaH/8wFfuovkWmeMfkTDZGt2XnbRcF9h/bWafI+k+UKO6Hxi2geBM3Vt6Mpfo8zSS1ZMopSxXSqnTyfzMmRFCizFuX5PCsp/fxrQcuzGt8/qSmCOE1nl4zickAQsjq3TmjwG6hGBq1+KukFUsiWhBjEpEpVB5hoifuI/UJdd33M8VRZsNiBK/HB7G532oQ6A0Y9C5wNe/d/UqgsZkrg4CFHQbhY+3GOlTvYIp6jzxuCBC7eC3dVB3M2I3E3ByU=;ORsn0u6JTZ3gfN7uStWxLQ=="
 ---
 

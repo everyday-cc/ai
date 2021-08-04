@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
+      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
+      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-06-29T18:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-who-warns-against-applying-ai-models-using-data-from-rich-countries-to-everyone-else.md",
       "title": "WHO warns against applying AI models using data from rich countries to everyone else",
       "excerpt": "The World Health Organization wants to ensure that ethical considerations and human rights are the centre of any AI-based healthcare solutions.",
@@ -1393,50 +1445,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-challenges-and-new-frontiers-of-ai.md",
-      "title": "Challenges and New Frontiers of AI",
-      "excerpt": "With significant adoption underway in all facets of life and business, the challenges and concerns around training AI with unbiased data, data scarcit..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-83500687,imgsize-130172,width-800,height-434,overlay-etcio/challenges-and-new-frontiers-of-ai.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/challenges-and-new-frontiers-of-ai/83500687",
-      "publishedDateTime": "2021-06-13T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

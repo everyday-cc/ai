@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "WSU to lead new research institute to apply AI innovations to farming"
+    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
+    publishedDateTime: 2021-07-30T18:34:00Z
+    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
+    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "WSU will lead effort to apply artificial intelligence to farming"
     excerpt: "Washington State University will lead a new federally funded research institute to take the agriculture industry further into the future via artificial intelligence."
     publishedDateTime: 2021-08-01T03:55:00Z

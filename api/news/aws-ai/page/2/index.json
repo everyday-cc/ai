@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-20-ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft.md",
+      "title": "IBM Q2 Sales Fueled By Red Hat, ‘Credibility’ Working With AWS, Microsoft",
+      "excerpt": "By Wade Tyler Millward July 19, 2021, 09:51 PM EDT Red Hat, Cloud Paks, Global Business Services and IBM’s “credibility” working with rivals Amazon Web Services and Microsoft were some of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
+      "originalUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0268-11f890a4ddc4-41317a2fa81c-1000/ibm-campus-1.jpg",
+          "width": 1500,
+          "height": 1126,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T20:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-aws-announces-general-availability-of-amazon-ebs-io2-block-express-volumes.md",
       "title": "AWS Announces General Availability of Amazon EBS io2 Block Express Volumes",
       "excerpt": "Amazon Web Services, Inc., (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon EBS io2 Block Express volumes, delivering SAN capabilities in the cloud for the first time .",
@@ -1321,60 +1366,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-learn-about-machine-learning-through-the-lens-of-a-hedge-fund.md",
-      "title": "Learn About Machine Learning Through The Lens Of A Hedge Fund",
-      "excerpt": "Artificial intelligence is widely discussed in CIO conversations down to IT resourcing meetings in companies today. There is a range of topics that enterprises are involved in from research to novel applications and enterprise product usage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5c717408017304b049065%2F0x0.jpg",
-          "width": 640,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2021/07/08/learn-about-machine-learning-through-the-lens-of-a-hedge-fund/amp/",
-      "publishedDateTime": "2021-07-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance"
       ]
     }
   ],

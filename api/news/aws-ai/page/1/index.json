@@ -116,7 +116,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -261,6 +261,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1423,51 +1476,6 @@
       "topics": [
         "AI",
         "AI in Education",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft.md",
-      "title": "IBM Q2 Sales Fueled By Red Hat, ‘Credibility’ Working With AWS, Microsoft",
-      "excerpt": "By Wade Tyler Millward July 19, 2021, 09:51 PM EDT Red Hat, Cloud Paks, Global Business Services and IBM’s “credibility” working with rivals Amazon Web Services and Microsoft were some of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
-      "originalUrl": "https://www.crn.com/news/cloud/ibm-q2-sales-fueled-by-red-hat-credibility-working-with-aws-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0268-11f890a4ddc4-41317a2fa81c-1000/ibm-campus-1.jpg",
-          "width": 1500,
-          "height": 1126,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
         "AWS AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelli
 webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \" Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices,"
+    publishedDateTime: 2021-08-03T16:14:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/08/03/9422761.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "eISSsbA5g01ZJJIDzZpP31g5ooEXWapdT7VXD+bpNhnw1WX8/53w8JOyQEmxZQi2gZ86DuIIeNhGJwHEmF8gppj4+DXfc7NWENMixMiLzZQYG5VuJrMHfZknXXXxzuyOeoBySyCJsfxtsUzUbHfoycnCCWp/kE2OhcmbXo0kF4HVxxc6ULzmD8IH8LpiUR7godvd4USwrX+IsH6/gthK3P/iqffIUADX37DMmul/PjzSAmOnDeVbegJ8K4RXX2xUMiJAf1v2Cx7bjW60NZ5C1C+meOsFO/52ujTsdePVGfzDeguENmSupL0tNM5NYR+BofSv9BAExuLBA6CynPKcr5uldzLhV3LAqZihTJzkAkM=;5ilXM0lLmz5SC+DOAquEbg=="
 ---

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI and ML for the Masses"
+    excerpt: "Artificial intelligence is no longer the domain of Hollywood technothrillers, nor is it available only to the Fortune 500 or VC-backed startups. In fact,"
+    publishedDateTime: 2021-07-30T19:48:00Z
+    webUrl: "https://www.datanami.com/2021/07/30/ai-and-ml-for-the-masses/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/masses_shutterstock_-Ints-Vikmanis.jpg"
+        width: 629
+        height: 319
+        isCached: true
 
 secured: "9DEjvGk1i/VTGXOVyIKaw2mz9dGvofRvRozWjTQMx0+z7wL9FAuDDCn24se5O1VWsinajvBqvv9+CctFUOESBOuZwVgKxQvv4DzKuWDhlRXNGdZ7vwcFiGx3eG0eeixlSS4uS9XSX1ZSIERr5IhCOXbfumuqnpFO8QWkf3+h7JokIvJKhHnkQl9G4nIHB1dqWhW+LpkJAx8z9TRmxRkpBclmgSVB6wpskjwG0fV3QsYlYX8Ftk7frqRwnv3zycjgWR/Osr/43zk/dCXSAHoIYrQXHvcuaT+3tiogW/qyB5SRYcks86nsgTsIwCDyi5YNmE0EyXBllZETgWE3ep49Y1Vbgp/V3DwW/glkzrf3cmA=;oPw7csu8y74KR6EAXup2eA=="
 ---

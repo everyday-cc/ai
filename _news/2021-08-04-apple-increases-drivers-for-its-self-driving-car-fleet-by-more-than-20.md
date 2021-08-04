@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars deliver food from Chandler nonprofit to Gilbert seniors"
-    excerpt: "A fleet of bright blue wrapped autonomous vehicles are hitting the streets in the East Valley to help a nonprofit deliver meals to seniors."
-    publishedDateTime: 2021-07-30T11:05:00Z
-    webUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/"
-    ampWebUrl: "https://ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
-    cdnAmpWebUrl: "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4595022/self-driving-cars-deliver-food-from-chandler-nonprofit-to-gilbert-seniors/amp/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 43
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2021/07/Photo-1.jpg"
-        width: 620
-        height: 370
-        isCached: true
   - title: "Apple Rival Building Level 4 Self-Driving Car, Currently on a Hiring Spree"
     excerpt: "Apple’s long-term plan of expanding to the automotive industry has caught the attention of all its rivals, including those based in China who immediately noticed the potential of such a move, especially given the trends that are signaling an obvious transition to electric power."
     publishedDateTime: 2021-08-02T05:43:00Z

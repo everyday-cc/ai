@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2021-07-30"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -82,15 +82,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 26
-  - title: "Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Edge AI Chips Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Edge AI Chips market report provides a detailed"
-    publishedDateTime: 2021-07-30T11:24:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4709579-global-edge-ai-chips-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 20
 
 secured: "8FHBfK6Xee1H63/2GWKYzBtv+SWHtD51BTHb26GDQkAeMPrpWOPcRybn1aA29p+XeUZoyqb5kNAfVoWN5P7i2qlYpV1Hw+zvQ8BgBRmRyTocVeNtqO30RyBnpstzWOi+duXVdp40W4s83rYqiX2q4yv+Bm3leU+uN3hsSGIbcoreArqrLdrVmAYJEVtQWr5dVopanGigbJFuPEdECZT10JkxNpSeMaCAQZQqk9077ZUNEfIfJgl+8Liy6tJKYAGPfMWh1e5G6BVtO1yTcM2nj7w5uYKMMvIobM8VaClJQv0lgwQKMnwkO2C/evUrbDLzRxoY5Pj/4MWYcVbeuTz3tMpQbNK1GChcKm0IuN6gy3w=;OBx4DZoPPhwd3+nAyaGsZg=="
 ---
