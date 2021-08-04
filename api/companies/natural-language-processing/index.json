@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 55578
+        "followers": 55584
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 20340
+        "followers": 20345
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -126,7 +126,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 201062
+        "followers": 201061
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -615,7 +615,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 10566
+        "followers": 10565
       },
       "yearFounded": 0,
       "locations": [
