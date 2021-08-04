@@ -10,7 +10,7 @@
       "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -143,19 +143,19 @@
     {
       "path": "_news/2021-07-28-facebooks-new-privacy-changes-for-instagrams-teen-users-met-with-both-praise-scrutiny.md",
       "title": "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny",
-      "excerpt": "Facing an onslaught of ongoing criticism, Facebook said that it's taking several steps to make Instagram safer and private for teens.",
+      "excerpt": "Facebook introduces a slew of privacy changes for Instagram's teen users. While praised by some experts, others wonder will the changes actually work?",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html",
+      "webUrl": "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/",
+      "originalUrl": "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/4-facebook.jpg",
-          "width": 1920,
-          "height": 1280,
+          "url": "https://www.gannett-cdn.com/presto/2019/07/19/USAT/bd70cf9d-21ae-4a27-af30-bced9016eb48-GTY_586113554.JPG?auto=webp&crop=2999,1687,x0,y180&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -163,13 +163,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp",
-      "publishedDateTime": "2021-07-27T10:44:00-07:00",
+      "ampWebUrl": "https://amp.azcentral.com/amp/5381319001",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5381319001",
+      "publishedDateTime": "2021-07-27T12:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
         "images": null,
         "publishers": null,
         "authors": null

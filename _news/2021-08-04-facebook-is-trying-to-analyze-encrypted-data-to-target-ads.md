@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data"
+    excerpt: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data - Facebook is reportedly recruiting team of AI researchers to find ways to analyse encrypted data without decrypting it."
+    publishedDateTime: 2021-08-04T10:36:00Z
+    webUrl: "https://www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111"
+    ampWebUrl: "https://www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 48
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/08/04/988834-facebook-analysing-encrypted-data.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facebook Reportedly Researching Ways to Read Encrypted WhatsApp Messages for Targeted Advertisements"
     excerpt: "Facebook is researching ways to analyze encrypted data, such as WhatsApp messages, without actually decrypting the information, according to a"
     publishedDateTime: 2021-08-03T14:24:00Z
@@ -94,6 +110,6 @@ related:
       domain: fintechzoom.com
     quality: 0
 
-secured: "jdq1DLjWzH4jhwyank4JpX+Gh41xK7oS2rkhMjKsG9GpIOS1rI1bv+D0NkKmltMB3BRAcG6WEC3fooLmAJ3x/k37urwWKDS8ApfU7kVAroP1nay1dGlxCBMY408NUxOJxIOrLCb/fhTIFXk1ak79M9d/y+ZXAVO+mPTRFASEQgHIdbA/FMdNYYAysIp5B98ZSBVKSBtKP7y7v4+pPmHj8AD7bIlMsJuaZ4B9nXhDjmBmI4Anjie+i9QJsmbDLuLYGMpIrqpm4jUeBKfJq8PPgZCgaVLo0i62lUJK/cn/sLqqoi8/uHtB4Ngn61tfw0US3DJk8XDfygg//+0gCNLxwjEmnp61cf4qne8nMWqFRb0=;9Do40XYnmEn4UfGkIPjpYA=="
+secured: "cXYFKKYEFZEvPI/ClPGpn2fMBrmbWmGJwa9FnDhqpkiwhBnrhw+ppfIAr/NIZ17VMHJCCHSCYPtn5LE0A+tgN7jVpLVsfohdVP6NhahoqzxC4YPhYTMxq6pAjuuoAoYZT1dThfdtFMMNDcjCJSqT8DLLFTzzsyjolICgwHRwa76+SyiLLXbMVKUmxfxGMVvdZUfa0DiGDwPDvz0lZ5EYAqZ20gSWVFV68fD3eoqhRaD2ToBwF+/stm/miHcmIez6yj6I3hSVU6i+PtqBjb8ikbiaDLYbu+VJKOveM8kafF2EmKU1/oOm0iqkz6PXibWDO6kVLd2055CtMQSf1Ivs1y4CuHNnIPk3QA4jgD4HRsRK0PviEDlBEmOKpQKRoTZbo9+u1hQW5PFmT2k3yJU0e/RbmalkHAhkxGL3lRDfOm48Ie5j+J6fT3AUQGEWtWeaXnRmUZ05+sexRjaJAXaj+w8WAYkdAJpT3e2zeO3RKwr7oTvXbsk4HjotS2QBtPWbXJoh46aDTLI/UibPPlh4lA==;FfpsoP3IYCQlQkHK2gTSzg=="
 ---
 

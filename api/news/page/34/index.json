@@ -2,6 +2,246 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
+      "title": "Artificial Intelligence Helps to Discover New Drugs",
+      "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/drug-6.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-to-discover-new-drugs-202141-1.htm",
+      "publishedDateTime": "2021-07-07T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip.md",
+      "title": "OnePlus Nord 2 launch date accidentally confirmed, to feature Dimensity 1200 AI chip",
+      "excerpt": "Ahead of the launch, it has also revealed the device’s performance unit details. The upcoming OnePlus Nord 2 will feature a custom MediaTek Dimensity 1200 AI chipset under the hood. While we have seen the Dimnesity 1200 SoC on the Realme X7 Max (Review ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/07/Nord-2-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/oneplus-nord-2-launch-date-accidentally-confirmed-to-feature-dimensity-1200-ai-chip-7143481.html/amp",
+      "publishedDateTime": "2021-07-07T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-ai-tool-can-measure-fat-around-the-heart-and-calculate-ones-diabetes-risk.md",
+      "title": "AI tool can measure fat around the heart and calculate one’s diabetes risk",
+      "excerpt": "Accumulation of fat specifically around the heart has long been linked to cardiovascular and metabolic disease but until now there hasn’t been a simple way to measure this. A new artificial intelligence tool has been developed that can quantify these fat deposits from regular MRI images.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/",
+      "originalUrl": "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e8e5f22/2147483647/strip/true/crop/615x410+13+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F09%2Fe8%2F533d8c5c4fa7bab6493335b852a7%2Fmri2640.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/ai-tool-fat-heart-mri-diabetes-risk/?amp=true",
+      "publishedDateTime": "2021-07-07T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer.md",
+      "title": "RMIT University researchers train AI to detect early-stage prostate cancer",
+      "excerpt": "Researchers at RMIT University have developed an AI model that can detect early signs of prostate cancer by analysing routine computed tomography (CT) scans. Developed alongside clinicians at St Vincent's Hospital Melbourne, the AI model has been trained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/",
+      "originalUrl": "https://www.zdnet.com/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/08/11dd33f9-5776-4457-b6f5-8cd546018d8c/gettyimages-141089990.jpg",
+          "width": 724,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rmit-university-researchers-train-ai-to-detect-early-stage-prostate-cancer/",
+      "publishedDateTime": "2021-07-07T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-computer-vision-hasnt-passed-awareness-phase-survey-shows.md",
+      "title": "Computer vision hasn’t passed ‘awareness phase,’ survey shows",
+      "excerpt": "According to an IDG survey commissioned by Insight, companies understand the value of computer vision but aren't adopting it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/",
+      "originalUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/13/computer-vision-hasnt-passed-awareness-phase-survey-shows/amp/",
+      "publishedDateTime": "2021-07-07T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-us-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here.md",
       "title": "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here.",
       "excerpt": "Picture a desert battlefield, scarred by years of warfare. A retreating army scrambles to escape as its enemy advances. Dozens of small drones, indistinguishable from the quadcopters used by hobbyists and filmmakers,",
@@ -932,241 +1172,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-robots-can-make-music-but-can-they-sing.md",
-      "title": "Robots Can Make Music, but Can They Sing?",
-      "excerpt": "At an international competition called the A.I. Song Contest, tracks exploring the technology as a tool for music making revealed the potential — and the limitations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/07/arts/07ai-song3/07ai-song3-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/arts/music/ai-song-contest.amp.html",
-      "publishedDateTime": "2021-07-07T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types.md",
-      "title": "Artificial Intelligence in Education Market Report 2021 to 2030 Globally Exploring Sales Volume Revenue and Price by Types",
-      "excerpt": "Jul 07, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Artificial Intelligence in Education Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-report-2021-to-2030-globally-exploring-sales-volume-revenue-and-price-by-types-2021-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars.md",
-      "title": "If McDonald’s Is Rolling Out A Customer Loyalty Program, So Should AI Self-Driving Cars",
-      "excerpt": "Customer loyalty programs are pervasive, though surprisingly McDonald's is just now rolling out their nationwide program. This brings up the aspect that AI-based true self-driving cars ought to have loyalty programs for riders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e23f3e7dfe3a5ff4aa4e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4158%26cropY1%3D137%26cropY2%3D2909",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/07/if-mcdonalds-is-rolling-out-a-customer-loyalty-program-so-should-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-07-07T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-1strategy-achieves-aws-security-competency-status.md",
-      "title": "1Strategy Achieves AWS Security Competency Status",
-      "excerpt": "Validates experience and expertise in delivering secure solutions 1Strategy, a TEKsystems Global Services Company and Amazon Web Services (AWS) Premier Consulting",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/b21879197/1strategy-achieves-aws-security-competency-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service.md",
-      "title": "Qumulo Expands Cloud Q Offering with Qumulo on Azure as a Service",
-      "excerpt": "Qumulo, provider of solutions focused on enterprise unstructured data management across hybrid-cloud environments, today announced Qumulo on Azure as a Service (QaaS), a petabyte-scale file data management platform in the cloud designed to be delivered with the simplicity of a managed service.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/",
-      "originalUrl": "https://insidehpc.com/2021/07/qumulo-expands-cloud-q-offering-with-qumulo-on-azure-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

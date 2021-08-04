@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-30-industrial-ai-is-here-but-is-your-organization-ready-for-it.md",
+      "title": "Industrial AI Is Here, But Is Your Organization Ready For It?",
+      "excerpt": "This readiness checklist should be taken as more of a guidepost, rather than a one-size-fits-all prescription for making your organization AI-ready on day one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/industrial-ai-is-here-but-is-your-organization-ready-for-it/amp/",
+      "publishedDateTime": "2021-06-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
       "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
       "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
@@ -1401,50 +1453,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare.md",
-      "title": "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare",
-      "excerpt": "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and",
-      "sourceUrl": null,
-      "webUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "originalUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png",
-          "width": 940,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jurist",
-        "domain": "jurist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

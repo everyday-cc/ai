@@ -2,6 +2,238 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
+      "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
+      "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "originalUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spanish-dpa-fines-supermarket-chain-2520000-eur-unlawful-use-facial-recognition?amp",
+      "publishedDateTime": "2021-07-30T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
+      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
+      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
+          "width": 3461,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "publishedDateTime": "2021-07-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
+      "title": "New law leaves facial recognition debate unsettled",
+      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "publishedDateTime": "2021-07-30T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-keys-to-personalizing-ai-for-sales.md",
+      "title": "Keys to personalizing AI for sales",
+      "excerpt": "With its broad access to data, AI can create a personalized customer experience at a much greater scale than that of a human sales team.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
+      "publishedDateTime": "2021-07-30T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat.md",
+      "title": "Biden to Tap Artificial Intelligence Expert as Top Business Diplomat",
+      "excerpt": "Stanford professor Ramin Toloui is the president’s pick for assistant secretary of state for business, a White House official said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "originalUrl": "https://www.wsj.com/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-378291/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-to-tap-artificial-intelligence-expert-as-top-business-diplomat-11627675784",
+      "publishedDateTime": "2021-07-30T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-lyft-gets-equity-stake-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
       "title": "Lyft Gets Equity Stake In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
       "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
@@ -957,240 +1189,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-healthcare-ai-market-next-big-thing.md",
-      "title": "Healthcare AI Market Next Big Thing",
-      "excerpt": "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-get-started-with-the-amazon-kendra-amazon-workdocs-connector.md",
-      "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
-      "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
-      "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "publishedDateTime": "2021-07-29T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
-      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant.md",
-      "title": "NCSU, UNC create artificial intelligence institute with $20M federal grant",
-      "excerpt": "UNC-Chapel Hill and North Carolina State are launching an initiative aiming to utilize artificial intelligence as an educational tool with $20 million in funding from the National Science Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
-      "originalUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
-          "width": 772,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
-      "publishedDateTime": "2021-07-29T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

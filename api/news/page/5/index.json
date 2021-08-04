@@ -2,6 +2,240 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-30-healthcare-ai-market-next-big-thing.md",
+      "title": "Healthcare AI Market Next Big Thing",
+      "excerpt": "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-get-started-with-the-amazon-kendra-amazon-workdocs-connector.md",
+      "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
+      "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
+      "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
+      "publishedDateTime": "2021-07-29T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
+      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant.md",
+      "title": "NCSU, UNC create artificial intelligence institute with $20M federal grant",
+      "excerpt": "UNC-Chapel Hill and North Carolina State are launching an initiative aiming to utilize artificial intelligence as an educational tool with $20 million in funding from the National Science Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
+      "originalUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
+          "width": 772,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/07/29/ncsu-unc-create-artificial-intelligence-institute-with-20m-federal-grant/?amp=1",
+      "publishedDateTime": "2021-07-29T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-partnering-with-the-nsf-on-a-research-institute-for-ai-to-improve-elderly-care.md",
       "title": "Partnering with the NSF on a research institute for AI to improve elderly care",
       "excerpt": "From the early days of the internet to the development of the Human Genome Project, U.S. government-funded R&amp;D has yielded remarkable progress for society, and today it is an important engine for AI research. That’s why, last year, we were proud to announce our partnership with the U.S. National",
@@ -944,219 +1178,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-artificial-intelligence-learns-better-when-distracted.md",
-      "title": "Artificial Intelligence learns better when distracted",
-      "excerpt": "Computer scientists from the Netherlands and Spain have determined how a deep learning system well suited for image recognition learns to recognize its surroundings. They were able to simplify the learning process by forcing the system's focus toward secondary characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210729183602.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210729183602.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires.md",
-      "title": "Artificial intelligence could be the latest tool in fighting wildfires",
-      "excerpt": "Tech companies in Silicon Valley are starting to use their resources to help combat wildfire season. As the U.S. sees record burning, the space-based technology, including drones and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
-      "originalUrl": "https://www.nbcnews.com/now/video/artificial-intelligence-could-be-the-latest-tool-in-fighting-wildfires-117537861795",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_07/1627502461610_ott_now_wildfires_ai_210728_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo117537861795",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo117537861795",
-      "publishedDateTime": "2021-07-28T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy.md",
-      "title": "How AI and Machine Learning Can Make or Break Our Mobile Privacy",
-      "excerpt": "Like many different technologies, Artificial Intelligence (AI) has been widely adopted and implemented in a variety of businesses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949",
-      "originalUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/07/AI-1-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/tech-gadgets/how-ai-and-machine-learning-can-make-or-break-our-mobile-privacy-02421949/amp",
-      "publishedDateTime": "2021-07-28T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies.md",
-      "title": "Here Is A Fully Autonomous AI-Powered Beehive That Could Save Bee Colonies",
-      "excerpt": "More than 30 percent of the world's honeybee colonies are vanishing each year. This company created the first fully autonomous beehive that can rescue and protect the bee colony 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610198a171aa6e440d9b3e43%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "publishedDateTime": "2021-07-28T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shield-ai-signs-definitive-agreement-to-acquire-martin-uav.md",
-      "title": "Shield AI Signs Definitive Agreement to Acquire Martin UAV",
-      "excerpt": "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforney.com/texas/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_07ed6c15-cb30-5c1c-92b9-87cb579b01b2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_0bcb4aab-719a-5d1e-93e4-ae5b2af2f531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iit-delhi-sets-up-c
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iit-delhi-sets-up-chair-in-artificial-intelligence-4035212.html"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Facebook's new privacy changes for Instagram's teen users met with both praise, scrutiny"
-excerpt: "Facing an onslaught of ongoing criticism, Facebook said that it's taking several steps to make Instagram safer and private for teens."
-publishedDateTime: 2021-07-27T17:44:00Z
-originalUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html"
-webUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.html"
-ampWebUrl: "https://techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-facebook-privacy-instagram-teen-users.amp"
+excerpt: "Facebook introduces a slew of privacy changes for Instagram's teen users. While praised by some experts, others wonder will the changes actually work?"
+publishedDateTime: 2021-07-27T19:35:00Z
+originalUrl: "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/"
+webUrl: "https://www.azcentral.com/story/tech/2021/07/27/instagram-teen-safety-update-facebook-mark-zuckerberg/5381319001/"
+ampWebUrl: "https://amp.azcentral.com/amp/5381319001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5381319001"
 type: article
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/4-facebook.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://www.gannett-cdn.com/presto/2019/07/19/USAT/bd70cf9d-21ae-4a27-af30-bced9016eb48-GTY_586113554.JPG?auto=webp&crop=2999,1687,x0,y180&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "WgpHYtgDi7y1vCt1eI5wzNSujEgZvjOVsXFHA9x6tSFY7NWmzekwvAxLKikPTcm6z8umduT2Wl+cutE00Y7+fkvpxt0EupCphd5Cz4sjasFOk/ySl82lG91qQLkx/j905j6UO8nmDQeAKp5EqxacEe2ZIkK8ieWSXocaMMXtATppF+W/VcgQsOo6V1R7DZxNRZ5yomHFWlqcf7uYe9YUSRtkQqDjlqEqGc5CRokeovKo2eIJHgB8BoywIajSoVlw0eDsT5VHl3QkSiohagOpv16YyaAwLEaelDCd6jkW2pscjT2fKA4c+fBRJOP3qXGz+P/w/lQHS793i4t3CDw1o9S8WMBs9RGG4jDtKGzXfyb7Gqd9+XtTOfP/A8G5HMHZiN4IRX2xm3XyaEzdjMJ67i5Bj9R1IcuHcKgbHNZXcJbNax+IvBT5zUD1KSssv1XPqojaZyEP0geNYc38faehZoaC0pVgnws150VzIjaUgOF/6BScF/vZ+NvRRVaZaobqVSF8omKECyvqoP8tzcJRtg==;d9Xx3wbfpLCda2oqp3TsFg=="
+secured: "jyp8/Sa7BZl8wwWk0qMiV3vGoDaaXejEdq+IEfxXEkYYZu7iwzlyJHC5hk3StRR9DyjBqSEqivZd080XEzXZRCyqslLjeT6IOw5Fxm3Lupt5Z5tgWy3JQ3TkyGNZwgRbMzni767cyWShArwTKZAFFg+5kD+H/2YIsGtvXjslvQ9/E8ri8VJ30CRdumvutCnShpvj7Z5X2URMh56zi08yeanCAMZhFyNGmraopYJPsxmvkpGwnGpZcO+PDpIr9zgQlEvPNNeNRjqVufaHgwnVlAHdbHAljOTlS9uB+ydwDkWSDhoYfKYqbAXPJanji/E0OC8XlvO4w3UyB1TaNtlaDICwdV9nCj2BIb9cQL5MP3A=;48RhV8qVEQGjjTqraUaGxA=="
 ---
 

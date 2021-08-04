@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-17-robot-training-on-famous-highland-estate-will-make-driverless-vehicles-more-reliable.md",
-      "title": "Robot ‘training’ on famous Highland estate will make driverless vehicles more reliable",
-      "excerpt": "The project will help make driverless vehicles of the future more reliable ... engineers and students dedicated to researching robotics, artificial intelligence, systems engineering, and other related fields. A crash scene for the new James Bond movie ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "originalUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressandjournal.co.uk/wp-content/uploads/sites/2/2021/07/ORI_Scotland-3.jpg_39621277-scaled-e1625854534304.jpg",
-          "width": 2457,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "cdnAmpWebUrl": "https://www-pressandjournal-co-uk.cdn.ampproject.org/c/s/www.pressandjournal.co.uk/fp/business/3300568/robots-learn-off-road-driving-skills-on-ardverikie-estate/amp/",
-      "publishedDateTime": "2021-07-16T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press and Journal",
-        "domain": "pressandjournal.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-07-17-paralyzed-man-communicates-through-brain-waves-in-groundbreaking-demo.md",
       "title": "Paralyzed man communicates through brain waves in groundbreaking demo",
       "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
@@ -1381,6 +1337,58 @@
         "name": "greenqueen.com.hk",
         "domain": "greenqueen.com.hk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
+      "title": "Sony's televisions will soon be 100% robot-made, according to a report",
+      "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "originalUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609eb383f27b4c00194448b5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sony-robots-automation-tv-camera-smartphone-factory-2021-7?amp",
+      "publishedDateTime": "2021-07-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

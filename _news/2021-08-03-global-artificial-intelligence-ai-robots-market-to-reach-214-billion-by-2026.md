@@ -1,56 +1,86 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
+excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
 publishedDateTime: 2021-08-03T15:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
 type: article
-quality: 64
-heat: 84
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
-    width: 1536
-    height: 804
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e0/de09a86f-53df-5fbd-bf9f-fa7592e9842f/610961fd14fe6.image.jpg?resize=689%2C630"
+    width: 689
+    height: 630
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
-    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
-    publishedDateTime: 2021-08-03T23:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand"
+    excerpt: "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)"
+    publishedDateTime: 2021-07-30T21:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Playing Significant Growth during 2026"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics, such as language understanding, reasoning,"
+    publishedDateTime: 2021-07-31T17:47:00Z
+    webUrl: "https://www.pr-inside.com/enterprise-artificial-intelligence-ai-market-playing-significant-growth-during-r4841322.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
     quality: 47
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a3/9a3a2caa-a0d3-5f1e-8852-8bec2f6773f7/6109d5cb5f5ca.image.jpg?resize=1200%2C585"
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
-        height: 585
+        height: 628
         isCached: true
-  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
-    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
-    publishedDateTime: 2021-07-31T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+  - title: "Pentagon races to keep pace with China in technologies like computers and artificial intelligence (AI)"
+    excerpt: "Beijing already talks about using AI for surveillance to cyber attacks, and autonomous weapons, and intends to be globally dominant in AI by 2030."
+    publishedDateTime: 2021-08-03T06:35:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14207891/artificial-intelligence-ai-china-computers"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: Military
+      domain: militaryaerospace.com
+    quality: 36
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/08/AI_3_Aug_2021.61083c5b7e4c7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
+    excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
+    publishedDateTime: 2021-08-02T17:28:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-in-manufacturing-market-2021-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
+        width: 800
+        height: 444
+        isCached: true
 
-secured: "eISSsbA5g01ZJJIDzZpP31g5ooEXWapdT7VXD+bpNhnw1WX8/53w8JOyQEmxZQi2gZ86DuIIeNhGJwHEmF8gppj4+DXfc7NWENMixMiLzZQYG5VuJrMHfZknXXXxzuyOeoBySyCJsfxtsUzUbHfoycnCCWp/kE2OhcmbXo0kF4HVxxc6ULzmD8IH8LpiUR7godvd4USwrX+IsH6/gthK3P/iqffIUADX37DMmul/PjzSAmOnDeVbegJ8K4RXX2xUMiJAf1v2Cx7bjW60NZ5C1C+meOsFO/52ujTsdePVGfzDeguENmSupL0tNM5NYR+BofSv9BAExuLBA6CynPKcr5uldzLhV3LAqZihTJzkAkM=;5ilXM0lLmz5SC+DOAquEbg=="
+secured: "yK7PlkIp2ovYYl3AdxB8CpGufw5mq0Cqi7dWj07LLqt5NJZhvWzd7SuWoOvzeOqdbM9yzZ3njMTtXkHc8gCtYOruDVhMHASjzQbwehtMenSMvGqh7DnxH8+cTn1DJdP/MEv5fhVbwfKvdCgxKl4pFp9f8MlbiAmXVwe0+coUHwQolLEQkmV7T68p+pm9oKZ+fv5lZBSqxGVNP83jgNfuvmu8AAuVHzOlZ7sj5aUDSUEdzIL5BWVtmjXFYOQIlhkKzxK9Z4xydf1bTz+FYgvGHkxolfvkSFISBSC1zTo+816dKErGxnm7mzDPZV3gqdJ1mRQyA4EnC7g+Og93VXd+z3RBnp7bx1oPB0tHDaxJ5OU=;JbhhelPgTnJQLji+RFYi4A=="
 ---
 

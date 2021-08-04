@@ -2,6 +2,246 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-10-the-man-who-invented-the-self-driving-car-in-1986.md",
+      "title": "The man who invented the self-driving car (in 1986)",
+      "excerpt": "The history of artificial intelligence is a history of buzzy springs followed ... among them U.S. tech giants like Alphabet’s Waymo, have been catching up. Experts describe the current race for leadership in autonomous driving technology as neck-and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "originalUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2018/07/ericPetersen_selfDrivingCars_RGB-e1532325107404-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/delf-driving-car-born-1986-ernst-dickmanns-mercedes/amp/",
+      "publishedDateTime": "2021-07-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-brings-promise-and-peril-to-customer-relations-management.md",
+      "title": "AI brings promise and peril to customer relations management",
+      "excerpt": "Keeping customers happy requires a lot of data, and CRM platforms are increasingly relying on AI to meet those expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/10/crm-stock-photo-e1625854062467.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-brings-promise-and-peril-to-customer-relations-management/amp/",
+      "publishedDateTime": "2021-07-09T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-is-the-us-labor-shortage-the-big-break-ai-needs.md",
+      "title": "Is the US labor shortage the big break AI needs?",
+      "excerpt": "Misconceptions about AI in the workplace have long been a barrier to widespread adoption — but companies experiencing labor shortages should consider where it can make their employees' lives better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "originalUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-748338005-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/09/is-the-us-labor-shortage-the-big-break-ai-needs/amp/",
+      "publishedDateTime": "2021-07-09T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance.md",
+      "title": "AI Weekly: TikTok’s algorithm licensing signals China’s play for AI dominance",
+      "excerpt": "Join AI & data leaders at Transform 2021 on July 12th for the AI/ML Automation Technology Summit. Register today. This week, TikTok parent company ByteDance began licensing parts of its AI technologies to third parties through a new division called BytePlus.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/TikTok.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/09/ai-weekly-tiktoks-algorithm-licensing-signals-chinas-play-for-ai-dominance/amp/",
+      "publishedDateTime": "2021-07-09T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-10-ai-natural-language-processing-company-brain-ventures-selected-as-a-data-voucher-processing-company-by-the-korea-data-industry-promotion-agency.md",
+      "title": "AI Natural Language Processing Company \"Brain Ventures\" Selected as a Data Voucher Processing Company by the Korea Data Industry Promotion Agency.",
+      "excerpt": "Meanwhile, Brain Ventures has developed an AI video content automatic translator and short answer ... and communicates with human languages.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "originalUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_580.jpg?itok=YpqM4i8D",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-natural-language-processing-company-brain-ventures-selected-data-voucher-processing?amp",
+      "publishedDateTime": "2021-07-09T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-10-voice-recognition-for-automotive-market-latest-scenario-on-innovation-revolutionary-opportunities-top-consumers-2027.md",
       "title": "Voice Recognition for Automotive Market – Latest Scenario On Innovation, Revolutionary Opportunities & Top Consumers 2027",
       "excerpt": "The new report on the Voice Recognition for Automotive Market provides estimations of the size of the global market and share and size of key regional markets during the historical period of 2014 – 2018.",
@@ -941,228 +1181,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-facebook-teaches-ai-powered-robot-to-adapt-while-walking.md",
-      "title": "Facebook teaches AI-powered robot to adapt while walking",
-      "excerpt": "The four-legged robot resembles a dog walking over sand, rocks and other difficult surfaces. As it moves forward, the black robot adjusts its stride and adapts without falling.  Teaming up with Carnegie Mellon University's School of Computer Science and the University of California,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/facebook-teaches-ai-powered-robot-to-adapt-while-walking/ar-AALXY7A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/iAIGEalDuoiDn3gwEVgLxEHOMek=/1200x630/2021/07/08/7bb81b3f-e294-4989-bd8a-5c5d7b0fc7d5/gettyimages-1262875305.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-      "publishedDateTime": "2021-07-09T05:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "domain": "cnet.com/news/facebook-teaches-ai-powered-robot-to-adapt-while-walking/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting.md",
-      "title": "How Manufacturers Can Get The Most Out Of AI-Based ERPs For Auditing And Forecasting",
-      "excerpt": "AI is advancing at a fast pace worldwide and will impact many areas of daily life including your current or future ERP system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064dbb8610333ea7f4c8408%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/07/09/how-manufacturers-can-get-the-most-out-of-ai-based-erps-for-auditing-and-forecasting/amp/",
-      "publishedDateTime": "2021-07-09T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-gadgets-solutions-on-show-at-world-ai-conference-in-shanghai.md",
-      "title": "AI gadgets, solutions on show at World AI Conference in Shanghai",
-      "excerpt": "The AI+AR Minibus by SenseTime at the 2021 ... It also can support photo translation in 32 languages, simultaneous translation of 16 languages without the need to be connected to the internet ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202107/09/WS60e81e4ea310efa1bd660ec1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202107/09/60e823e0a310efa1e3ad81b4.jpeg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
-      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
-      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change.md",
-      "title": "Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth And Change",
-      "excerpt": "Reportlinker.com announces the release of the report \"Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g21910556/cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

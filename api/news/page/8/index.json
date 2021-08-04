@@ -2,6 +2,241 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
+      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
+      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hollywoodsoapbox.com",
+        "domain": "hollywoodsoapbox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
+      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
+      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
+          "width": 800,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
+      "publishedDateTime": "2021-07-27T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
+      "title": "Artificial intelligence in structural biology is here to stay",
+      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
+      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
+      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
+      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
+      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
+          "width": 797,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "publishedDateTime": "2021-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-the-10-biggest-iot-news-stories-of-2021-so-far.md",
       "title": "The 10 Biggest IoT News Stories Of 2021 (So Far)",
       "excerpt": "Azure Percept works automatically with Azure AI, Azure Cognitive Services, Azure Machine Learning and Azure Live Video Analytics, and it’s integrated with Azure IoT services. Microsoft says that Percept can help customers use pre-built Azure AI models for object detection,",
@@ -964,220 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-breaking-augmentus-raises-seed-funding-for-its-no-code-robotics-system.md",
-      "title": "BREAKING: Augmentus raises seed funding for its ‘no-code’ robotics system",
-      "excerpt": "Augmentus is deploying its robotics platform across multiple industries - including indoor ag, where it streamlines crop inspection and harvesting.",
-      "sourceUrl": null,
-      "webUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
-      "originalUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://agfundernews.com/wp-content/uploads/2021/07/Augmentus-team-e1627361455990.jpeg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T21:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ag Funder News",
-        "domain": "agfundernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in.md",
-      "title": "What Should The Role Of AI Be In Mitigating Climate Crisis? Aleksandr Blyumkin Of Petroteq Weighs In",
-      "excerpt": "For years now, sustainable energy has been a significant area of study for scientists, fueled by the ever-increasing need to slow down climate change with innovative, effective technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ff86aafa1320676d00e5cf%2F0x0.jpg",
-          "width": 1200,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
-      "publishedDateTime": "2021-07-26T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
-      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
-      "excerpt": "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic.md",
-      "title": "IBM Federated Learning and Data Fabric: Preparing for the Next Pandemic",
-      "excerpt": "As we’ve recently discovered, pandemics are still a thing—and a thing that is likely to recur at an increasing cadence either due to variants of current",
-      "sourceUrl": null,
-      "webUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
-      "originalUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techspective.net/wp-content/uploads/2021/07/covid-19-5070666_1920.jpg",
-          "width": 1920,
-          "height": 1282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
-      "publishedDateTime": "2021-07-26T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techspective.net",
-        "domain": "techspective.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-could-dramatically-speed-up-climate-action.md",
-      "title": "Artificial Intelligence Could Dramatically Speed Up Climate Action",
-      "excerpt": "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
-      "originalUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fa-mag.com/images/logo_opengraph.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Advisor",
-        "domain": "fa-mag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

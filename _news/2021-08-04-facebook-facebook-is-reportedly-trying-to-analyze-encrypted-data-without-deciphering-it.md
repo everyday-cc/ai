@@ -49,6 +49,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data"
+    excerpt: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data - Facebook is reportedly recruiting team of AI researchers to find ways to analyse encrypted data without decrypting it."
+    publishedDateTime: 2021-08-04T10:36:00Z
+    webUrl: "https://www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111"
+    ampWebUrl: "https://www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111/amp"
+    cdnAmpWebUrl: "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-facebook-reportedly-recruiting-ai-researchers-to-find-ways-to-analyse-encrypted-data-amazon-google-microsoft-homomorphic-encryption-2904111/amp"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 48
+    images:
+      - url: "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2021/08/04/988834-facebook-analysing-encrypted-data.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facebook Is Trying To Analyze Encrypted Data To Target Ads"
     excerpt: "Facebook is reportedly building a team of AI researchers to analyze encrypted data without decrypting it. Experts told The Information that Facebook could be interested in using this study for targeting ads on WhatsApp despite end-to-end encryption."
     publishedDateTime: 2021-08-04T09:20:00Z

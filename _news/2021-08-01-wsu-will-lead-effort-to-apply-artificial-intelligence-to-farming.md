@@ -7,7 +7,7 @@ originalUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to
 webUrl: "https://www.columbian.com/news/2021/jul/31/wsu-will-lead-effort-to-apply-artificial-intelligence-to-farming/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "WSU to lead new research institute to apply AI innovations to farming"
-    excerpt: "Washington State University will lead a new federally funded research institute that will look at how artificial intelligence can help tackle farming challenges related to climate change, weather, water supply and labor."
-    publishedDateTime: 2021-07-30T18:34:00Z
-    webUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/"
-    ampWebUrl: "https://www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/education-lab/wsu-to-lead-new-research-institute-to-apply-ai-innovations-to-farming/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
   - title: "OSU researchers part of $20M effort to develop artificial intelligence for agriculture"
     excerpt: "Thirteen researchers from the Oregon State University College of Engineering are part of a $20 million federal effort, known as the AgAID Institute, to develop artificial intelligence to tackle mounting agricultural challenges such as diminishing water and labor supplies,"
     publishedDateTime: 2021-07-31T00:32:00Z

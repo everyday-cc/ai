@@ -21,33 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-08-03T15:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+  - title: "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025"
+    excerpt: "Worldwide AI in Fintech market size is projected to expand at 17.1% CAGR over the analysis timeframe from 2020 to 2025, taking the industry valuation of USD 4779.7 million in 2019 to USD 8984.9 million by the year 2025."
+    publishedDateTime: 2021-08-02T14:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
-        width: 1536
-        height: 804
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
-    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
-    publishedDateTime: 2021-08-03T23:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a3/9a3a2caa-a0d3-5f1e-8852-8bec2f6773f7/6109d5cb5f5ca.image.jpg?resize=1200%2C585"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 585
+        height: 630
+        isCached: true
+  - title: "16 Upcoming Fintech Events in the US"
+    excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
+    publishedDateTime: 2021-08-04T09:05:00Z
+    webUrl: "https://fintechnews.ch/fintechusa/16-upcoming-fintech-events-in-the-us/47848/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Upcoming-Fintech-Events-in-the-US.jpg"
+        width: 2048
+        height: 1136
         isCached: true
 
 secured: "nmqQIm2lL3885BpjSGX9O0ObIHtnXQvwt/Yf2ZGyA8IITYB3VoG/YTz4vbBLPo8e8lCIwWe/BNRuQoqRiWveLCjtfoT5Kd/D0LsYX/3E/d+bQNEU2369QU6RwigSizy1d+NKi852oPIP0s9/XWevK4GXQtFbcgZjgKHqVP4NWtNgLN2fm2ApVwbKfJLd4CwxgaFr4ah6fj1e2bpynXZnlNovnFxDwJfaV/erh5Ka1Nb940exnoINn8Hs2M1PkZ6jFGXjR8MGcgd7HdRkZxg3y+XxKzPljVyFQU4M+khfQxM+3vfHrTbs/4KqbNBgBf191pG6fMmTYWuAuHgk7ErqLfD7EdGVqkGLhY31134wnJg=;0UorlH+CzjRkzgSfEMmEBw=="

@@ -18,19 +18,44 @@ topics:
   - AI
 
 related:
-  - title: "Earth Talk: AI to the rescue for conservation"
-    excerpt: "AI tools are extremely precise in the more analytical elements of conservation, whether it’s detecting complex patterns or making mathematical calculations."
-    publishedDateTime: 2021-08-02T04:00:00Z
-    webUrl: "https://augustafreepress.com/earth-talk-ai-to-the-rescue-for-conservation/"
+  - title: "Why AI Is A Powerful Tool For Coinnovation"
+    excerpt: "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it."
+    publishedDateTime: 2021-08-04T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/"
+    ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
     type: article
     provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i0.wp.com/augustafreepress.com/wp-content/uploads/2021/02/ai-artificial-intelligence.jpg?fit=400%2C267&#038;ssl=1"
-        width: 400
-        height: 267
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg"
+        width: 1200
+        height: 839
+        isCached: true
+  - title: "AI Innovations In Mining"
+    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
+    publishedDateTime: 2021-07-31T22:07:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
+    excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"
+    publishedDateTime: 2021-08-02T09:45:00Z
+    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/211161"
+    type: article
+    provider:
+      name: AlphaGalileo
+      domain: alphagalileo.org
+    quality: 46
+    images:
+      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4fec2476-5f9c-4e8d-8bc9-8bc75575ab65-maternidades-web.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "h+0vz1uM6saovt4YKQ+jZGTI+o9hdJEJq0XOy0Kh+qaourc4jYkdqTcB0bUlJXrnnlEyp3XZSZASTkBLPBI+o7DNNRMp9+udBWus/lZv1tV5U+EEb1VIAmyMGFILyvdLKJxdJapv4iv0rBoHi7jN3hph4TW/+5i+19rY74GoEJ9w8f9y1sb8L97m/fy08W/zTHAgJsxUa+gamSqYgPC6qvDx/ETA750Uu3XTZbhcY3ezu1wsyGAzKZAPeIBy4Llvc83e8cfT0rERgPujPKy/wU2qSwxLK/4d0/3yfiSNSf6noufdgFbgmDAm2cn3IGj6GshV9/9KkDUEqV543jaJqsF2H2zYuX+ifZJnd3xztgkP44JuuSOOT/H26NXiE3HvHL88521c7wEKj+V6T+ba0kMk7fN27ox9g7be+bOBGswNWFsHGEJCpnqoc/JXWoPJ38YFt0N9/xi75f8w+3R2W1ztLjbNmWA8tQeH2PqtlJg7xO7v10VatI30GT0Nj/uNsoK4gq9j/ofrYSMYzJd/BA==;QxjhcwuIPKn5OyxHVzjkCg=="

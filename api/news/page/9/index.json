@@ -2,6 +2,220 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-27-breaking-augmentus-raises-seed-funding-for-its-no-code-robotics-system.md",
+      "title": "BREAKING: Augmentus raises seed funding for its ‘no-code’ robotics system",
+      "excerpt": "Augmentus is deploying its robotics platform across multiple industries - including indoor ag, where it streamlines crop inspection and harvesting.",
+      "sourceUrl": null,
+      "webUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
+      "originalUrl": "https://agfundernews.com/augmentus-raises-seed-funding-for-its-no-code-robotics-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://agfundernews.com/wp-content/uploads/2021/07/Augmentus-team-e1627361455990.jpeg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ag Funder News",
+        "domain": "agfundernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in.md",
+      "title": "What Should The Role Of AI Be In Mitigating Climate Crisis? Aleksandr Blyumkin Of Petroteq Weighs In",
+      "excerpt": "For years now, sustainable energy has been a significant area of study for scientists, fueled by the ever-increasing need to slow down climate change with innovative, effective technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ff86aafa1320676d00e5cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/27/what-should-the-role-of-ai-be-in-mitigating-climate-crisis-aleksandr-blyumkin-of-petroteq-weighs-in/amp/",
+      "publishedDateTime": "2021-07-26T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
+      "title": "Deargen Signs Agreement With Sookmyung Women’s University Research & Business Development Foundation for Licensing ‘NASH Biomarker’ Technologies",
+      "excerpt": "Deargen signed an agreement with Sookmyung Women’s University Research & Business Development Foundation for licensing ‘NASH Biomarker’ technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210727005549/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic.md",
+      "title": "IBM Federated Learning and Data Fabric: Preparing for the Next Pandemic",
+      "excerpt": "As we’ve recently discovered, pandemics are still a thing—and a thing that is likely to recur at an increasing cadence either due to variants of current",
+      "sourceUrl": null,
+      "webUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
+      "originalUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techspective.net/wp-content/uploads/2021/07/covid-19-5070666_1920.jpg",
+          "width": 1920,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/07/26/ibm-federated-learning-and-data-fabric-preparing-for-the-next-pandemic/amp/",
+      "publishedDateTime": "2021-07-26T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techspective.net",
+        "domain": "techspective.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-artificial-intelligence-could-dramatically-speed-up-climate-action.md",
+      "title": "Artificial Intelligence Could Dramatically Speed Up Climate Action",
+      "excerpt": "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
+      "originalUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fa-mag.com/images/logo_opengraph.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Advisor",
+        "domain": "fa-mag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-generally-capable-agents-emerge-from-open-ended-play.md",
       "title": "Generally capable agents emerge from open-ended play",
       "excerpt": "In new work, algorithmic advances and new training environments lead to agents which exhibit general heuristic behaviours.",
@@ -927,249 +1141,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
-      "title": "Mac Face ID prediction suggests patience will be required",
-      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
-          "width": 1440,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "publishedDateTime": "2021-07-26T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
-      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
-      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
-      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
-      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-700,height-525/Tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
-      "title": "Does Your Project Need Artificial Intelligence?",
-      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
-      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
-      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
-          "width": 1187,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "publishedDateTime": "2021-07-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

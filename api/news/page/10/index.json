@@ -2,6 +2,249 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
+      "title": "Mac Face ID prediction suggests patience will be required",
+      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
+          "width": 1440,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
+      "publishedDateTime": "2021-07-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
+      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
+      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
+      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
+      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-700,height-525/Tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
+      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
+      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
+          "width": 1187,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "publishedDateTime": "2021-07-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
       "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
       "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
@@ -943,239 +1186,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26.md",
-      "title": "MediaTek Dimensity 1300T Gaming Chip May Be Unveiled On July 26",
-      "excerpt": "The Dimensity 1300T gaming chip should outrun the Snapdragon 870. Though there is nothing official yet, it should come on July 26.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/",
-      "originalUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/03/MediaTek-chipset-1024x622.jpg",
-          "width": 1024,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/24/mediatek-dimensity-1300t-gaming-chip-may-be-unveiled-on-july-26/amp/",
-      "publishedDateTime": "2021-07-24T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-deepmind-unlocks-the-protein-secrets-of-life.md",
-      "title": "DeepMind unlocks the protein secrets of life",
-      "excerpt": "Demis Hassabis stunned the world of science this week when he and his research team opened a window into how life works.The British artificial intelligence pioneer, 44, revealed an AI system that had",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetimes.co.uk/article/deepmind-unlocks-the-protein-secrets-of-life-z3q6z0mbj",
-      "originalUrl": "https://www.thetimes.co.uk/article/deepmind-unlocks-the-protein-secrets-of-life-z3q6z0mbj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb0859926-ebb8-11eb-baaa-861dba20d87a.jpg?crop=4167%2C2344%2C0%2C0&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation.md",
-      "title": "AI Weekly: OpenAI’s pivot from robotics acknowledges the power of simulation",
-      "excerpt": "OpenAI has shuttered its robotics research team. But that doesn't mean the firm won't create a system capable of controlling a machine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "originalUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/23/ai-weekly-openais-pivot-from-robotics-acknowledges-the-power-of-simulation/amp/",
-      "publishedDateTime": "2021-07-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-with-full-self-driving-available-on-demand-be-wary-of-any-and-all-teslas.md",
-      "title": "With Full Self-Driving available on demand, be wary of any and all Teslas",
-      "excerpt": "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test.md",
-      "title": "Dazzled by the Sun, NASA taps AI to give its solar telescope an eye-test",
-      "excerpt": "Staring at the Sun is ill-advised if you want to keep your eyesight, but NASA’s solar telescopes have some sneaky ways to avoid burn-out as the space agency gleans vital information about",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/",
-      "originalUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/nasa-sdo.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/dazzled-by-the-sun-nasa-taps-ai-to-give-its-solar-telescope-an-eye-test-23683777/amp/",
-      "publishedDateTime": "2021-07-23T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

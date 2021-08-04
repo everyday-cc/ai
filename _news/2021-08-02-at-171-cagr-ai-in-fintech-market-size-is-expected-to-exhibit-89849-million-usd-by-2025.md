@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintec
 webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
+    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
+    publishedDateTime: 2021-07-31T13:28:00Z
+    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
   - title: "16 Upcoming Fintech Events in the US"
     excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
     publishedDateTime: 2021-08-04T09:05:00Z
