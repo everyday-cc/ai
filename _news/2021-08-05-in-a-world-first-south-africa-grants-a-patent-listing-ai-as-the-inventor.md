@@ -8,7 +8,7 @@ webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-a-pate
 ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 related:
   - title: "Rethinking Education in an AI-First World"

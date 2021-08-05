@@ -43,19 +43,16 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the market size was valued at USD 27.23 billion in 2019 and is estimated to display a stellar CAGR of 33."
-    publishedDateTime: 2021-08-04T12:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
+    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
+    publishedDateTime: 2021-08-04T12:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
   - title: "16 Upcoming Fintech Events in the US"
     excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
     publishedDateTime: 2021-08-04T09:05:00Z

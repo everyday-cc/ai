@@ -38,6 +38,29 @@ related:
         width: 1200
         height: 585
         isCached: true
+  - title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices, Smartphone's & Tablets,"
+    publishedDateTime: 2021-08-03T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voice-user-interface-market-to-reach-95-41-billion-globally-by-2030-at-21-5-cagr-allied-market-research-1030683953"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"
+    excerpt: "The New Report “ Artificial Intelligence (AI) in Agriculture Market ” published by Reports Intellect, covers the competitive landscape analysis and its growth prospects over the coming years. An in-depth study of some new and prominent industry trends,"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-trends-and-growth-segmentation-and-key-companies-ibm-intel-microsoft-sap-agribotix-the-climate-corporation-mavrx-awhere/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
 
 secured: "yK7PlkIp2ovYYl3AdxB8CpGufw5mq0Cqi7dWj07LLqt5NJZhvWzd7SuWoOvzeOqdbM9yzZ3njMTtXkHc8gCtYOruDVhMHASjzQbwehtMenSMvGqh7DnxH8+cTn1DJdP/MEv5fhVbwfKvdCgxKl4pFp9f8MlbiAmXVwe0+coUHwQolLEQkmV7T68p+pm9oKZ+fv5lZBSqxGVNP83jgNfuvmu8AAuVHzOlZ7sj5aUDSUEdzIL5BWVtmjXFYOQIlhkKzxK9Z4xydf1bTz+FYgvGHkxolfvkSFISBSC1zTo+816dKErGxnm7mzDPZV3gqdJ1mRQyA4EnC7g+Og93VXd+z3RBnp7bx1oPB0tHDaxJ5OU=;JbhhelPgTnJQLji+RFYi4A=="
 ---

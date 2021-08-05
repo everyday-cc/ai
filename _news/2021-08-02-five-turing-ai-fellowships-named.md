@@ -28,16 +28,16 @@ images:
 
 related:
   - title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
-    excerpt: "The Wealth Management Institute (WMI) in collaboration with Nanyang Technological University Singapore (NTU Singapore), UBS and leading"
-    publishedDateTime: 2021-08-05T08:42:00Z
-    webUrl: "https://www.miragenews.com/anti-money-laundering-prototype-using-608543/"
+    excerpt: "NTU, UBS and financial institutions in Singapore will develop new capabilities utilising artificial intelligence (AI) and machine learning to improve detection of money laundering."
+    publishedDateTime: 2021-08-05T10:12:00Z
+    webUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Nanyang Technological University
+      domain: ntu.edu.sg
     quality: 44
     images:
-      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?Status=Master&#038;sfvrsn=55d6ef2_3"
+      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
         width: 729
         height: 509
         isCached: true

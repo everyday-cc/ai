@@ -35,7 +35,7 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 38
+    quality: 40
 
 secured: "lmN0nneuwP99vhx1p+/zKmecxZ9hv8ywt8J4S4MIHpktq2XYsVF5pmgtw++YatdyyfybCwbOyAd0ZWWTPqp2G/Ej2zJtlhtnQy5WxwIwF8DH7j4zXa5npLaS6Ug8BZHdjorZPE/nhqwZuL8UQXUvQh/6zb+dXz2WloL4n3sPWH3co/q4ejZ7lSEUyuBfRXShPT2toiukhZq2jBFWBCHzzxSiDuRhwUN80lLVeTyMHb1cch6+WKcxQvKZ0CbtuGzjehZiOZ9C21+4LJB30fqpET2yCiU3xS7bmCg/Xl+t/MOOygCtbdXANH2q8t0pDKUOLUdml9CHDUgfy7bPelS+dBYK1QBawvoQ+DH+uVNMmG8=;+VXtmiGszxhdtLN6oJyUqQ=="
 ---

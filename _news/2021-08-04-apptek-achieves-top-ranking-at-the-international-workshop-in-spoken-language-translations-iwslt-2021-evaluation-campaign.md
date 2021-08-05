@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation ( IWSLT 2021) evaluation campaign."
+publishedDateTime: 2021-08-04T12:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
 type: article
-quality: 0
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -34,6 +38,6 @@ related:
         height: 667
         isCached: true
 
-secured: "MdB/9WAyJ2nysGlFiX1xFQQwZrIlXd/IQfQXiEzV+jpQ/4HbJIX/MrBsXJ7tegnkTw/JOq9LUPRgGdByKBCoz0NbZAlLAFbXtVMVhAIPn4cEWz2ZAO4vmfECwjRnbygQCeETPh8m9ubEWFSwhtVeJr/bVbk3vMUpkeSeMWltVOIZCzMiiXjqBNEXOur16n5dI+6H2K0tkbb//xIPWsckxINl9pNDEsBvMFIzhKjeYTn0/1CbpPPAcbojzWaGPkoIp8HCFbnP3JP+9I5bveDBPk6JWiLgvITVzeApWZ5JZVY4A6zFKNFW0NNpYJkdOPD9Pdo/l8Gk1fFDyqlCWrvX7cnX4QHBkdyCTT+WtQmpbnU=;SH7YnUyI0Xen9y93yk46PA=="
+secured: "DvhMQmlMTHwbNJdX3YeSbektAhyyI9NJpNtUB7/8fZ+aYUWhU1oiuCfFIfl+wyHaahsbhzC9orL3ggovpyY+UaQhsHCE29HTFjyFM0cJ4YNHAI9vSkgk5/LC+x6sEGvyR090mN9Cre3+9k+PD8jQJE/8SWlPwUeEwQrHmirtc/H8I7nKFoPVYOBTcNpmQbQT+Lqi/zyWEBCzlGDnzmqOjgrkyDZ0Q7PR0fKoDEZiBVsRmNArPA15DCiwTgY1YpTkaIx9bz876JFMUQGAJlH0KudN0PYlULI4RBPIC8vUJ/Bs0q8zCVd0B8JT6Tlf8xe/NkB9c8pKLW8oN5LFgR4ZnwxcECwSw7nLXtQSV6BmT5c=;229LUGEOXfwscJ93P73Dzw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/robo-olympians-olymp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Olympics Timekeeper Omega, Intel Debut New AI Tools in Tokyo"
+    excerpt: "Athletes, coaches and broadcasters are leveraging machine learning and computer vision to analyze events in real time."
+    publishedDateTime: 2021-08-03T14:38:00Z
+    webUrl: "https://www.wsj.com/articles/olympics-time-keeper-omega-intel-debut-new-ai-tools-in-tokyo-11628005106"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-379538/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Artificial Intelligence in Olympics Introduces a New Phase of Sporting"
     excerpt: "Artificial intelligence in Olympics is shifting the focus on how games are played. Starting from guiding the athletes in Tokyo to tracking down their performance and scores, big data and machine learning is doing a remarkable job."
     publishedDateTime: 2021-08-04T13:30:00Z

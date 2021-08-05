@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Olympics Timekeeper Omega, Intel Debut New AI Tools in Tokyo"
+    excerpt: "Athletes, coaches and broadcasters are leveraging machine learning and computer vision to analyze events in real time."
+    publishedDateTime: 2021-08-03T14:38:00Z
+    webUrl: "https://www.wsj.com/articles/olympics-time-keeper-omega-intel-debut-new-ai-tools-in-tokyo-11628005106"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-379538/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "QuWWd1nSKTsAWbzMAey9WrYXGm6u7iNoZV0hII8FXiYpjzluspKaxFH3AqaubdBBPbjOEEDqY6FS/C2JYdObVYE71ucI9SnVfOgjj0JwhCwk1Blldl4spfzQN6gEcLwqM2qbys7/YBPTpKjcRYsR1sZRVerUQ8bZkP/fjGaDcT+vW1sFtY0FJ+gvWug3/5pwwjYVQ9OgDPDYBE6DxZuD1uLYjA3B272GcxyIj7t8neIrvMuukNA7m/jIafb0EYzAEZF6tmJ6l4sTCP6ByAc8ZIzS+9dUGkL/XXS6gqqoadohas9g6uaFlKyl2vMH70akF59+SNjh6a71K7sYSJdpr9+Q1fuC2dVO07qG/s73OpeDWVAkdV76O10QJwSfNcjciGaElM4MNXcjzu8HAkVwm3VA9coIvz18jvbWAzXey1KiP+uhrkXLDIJyCQFJEvwoLfQWvssn0lK3fKbqYNt3VqfW3Sz+AjUTyVLKncDTNl3YKT348UBPpmzirDVbIxvjJOD6SE7NWIoBAZSnjfVrqA==;Bq1d3qUkwJvpIOSBFROjag=="
 ---

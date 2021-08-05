@@ -38,6 +38,29 @@ related:
         width: 689
         height: 630
         isCached: true
+  - title: "Voice User Interface Market to Reach $95.41 Billion, Globally, by 2030 at 21.5% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Voice User Interface Market by Offering (Solution and Service), Application (Smart Speakers, Interactive Voice Response, Voice Controlled Devices, Smartphone's & Tablets,"
+    publishedDateTime: 2021-08-03T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/voice-user-interface-market-to-reach-95-41-billion-globally-by-2030-at-21-5-cagr-allied-market-research-1030683953"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"
+    excerpt: "The New Report “ Artificial Intelligence (AI) in Agriculture Market ” published by Reports Intellect, covers the competitive landscape analysis and its growth prospects over the coming years. An in-depth study of some new and prominent industry trends,"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-trends-and-growth-segmentation-and-key-companies-ibm-intel-microsoft-sap-agribotix-the-climate-corporation-mavrx-awhere/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
 
 secured: "+lA+/rG8W6EA8X8MlA4+ph6oVwtH2nmitxY38ehQvKC6hSYMAEI6ebZ2t+KWtcwvF0jrz6FIlejePHLyeDxdR9Q9tGwi91lgfpQeEHb8W8bw7iei3U/sXtOxQSox3WyDRRp+fdYdCzh+T+RAhO6yC51Ro6ZJxPo9kiDqGIhXuwa3EjE73Xf58uZMHRje5waB/n2tBzxxUUX10Jc1Oh69kavz8YuCFgNBMZ4rqiPGbX6viZElL3fMbhoO2ZYQlUkACsaAWOHEmIk9YS5WhPwb6ji11GFy42KcWV734M/S94lxmjU9UhSOrX03X5J/PNdto7ElxbdvtcEjZzlvk20/tW4KuSxODJsFUMlW3+eWgDTixEHV5iRAhW1gR2Ube+t7Dyhcvm+y4TPD+NXbs2BQQke31gBIn6D+b1mAuYHH1DU7nXVCiA/cIK1D4sAD/TCkShrh/U7hDTDBhl9PNx1pF/4dnf19oTjXnoHpsEHGm5QP1jbET7Xl9twFpSav7I2zDmKv3B8biPQpKHldCR7FMg==;aYwBs0dWfunJZcgXHF22hw=="
 ---

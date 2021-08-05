@@ -2,6 +2,48 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-07-11-artificial-intelligence-in-aviation-market-size-share-2021-2028-top-key-vendors-micron-intel-boeing-lockheed-martin-xilinx-ibm.md",
+      "title": "Artificial Intelligence in Aviation Market Size, Share 2021-2028 | Top Key Vendors – Micron, Intel, Boeing, Lockheed Martin, Xilinx, IBM",
+      "excerpt": "The Artificial Intelligence in Aviation Market study provides details of market dynamics affecting the market, market size, and segmentation, and casts a shadow over the major market players by highlighting the favorable competitive landscape and successful trends over the years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-in-aviation-market-size-share-2021-2028-top-key-vendors-micron-intel-boeing-lockheed-martin-xilinx-ibm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grandviewresearch.com/static/img/research/asia-pacific-artificial-intelligence-market.png",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-sonys-televisions-will-soon-be-100-robot-made-according-to-a-report.md",
       "title": "Sony's televisions will soon be 100% robot-made, according to a report",
       "excerpt": "He told the newspaper: \"I don't think automation alone using robots will bring enough merits. The key is to use digitalization to link both sales and manufacturing.\" Sales data would be studied using artificial intelligence to more effectively calculate ...",
@@ -1100,49 +1142,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-10-insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution-assessments.md",
-      "title": "Insight Wins 2021 Microsoft Worldwide Partner of the Year Awards for Azure Migration and Solution Assessments",
-      "excerpt": "agile reporting and/or embarking on innovation leveraging Azure Machine Learning and AI. Insight’s cadre of more than 2,000 Microsoft-focused services and technical professionals includes a ...",
-      "sourceUrl": null,
-      "webUrl": "https://tucson.com/business/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution/article_7654ea71-062f-5cb8-bd6c-7eec7cb5cf73.html",
-      "originalUrl": "https://tucson.com/business/insight-wins-2021-microsoft-worldwide-partner-of-the-year-awards-for-azure-migration-and-solution/article_7654ea71-062f-5cb8-bd6c-7eec7cb5cf73.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png",
-          "width": 620,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-09T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arizona Daily Star",
-        "domain": "tucson.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

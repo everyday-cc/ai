@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
-excerpt: "The Wealth Management Institute (WMI) in collaboration with Nanyang Technological University Singapore (NTU Singapore), UBS and leading"
-publishedDateTime: 2021-08-05T08:42:00Z
-originalUrl: "https://www.miragenews.com/anti-money-laundering-prototype-using-608543/"
-webUrl: "https://www.miragenews.com/anti-money-laundering-prototype-using-608543/"
+excerpt: "NTU, UBS and financial institutions in Singapore will develop new capabilities utilising artificial intelligence (AI) and machine learning to improve detection of money laundering."
+publishedDateTime: 2021-08-05T10:12:00Z
+originalUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
+webUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Nanyang Technological University
+  domain: ntu.edu.sg
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?Status=Master&#038;sfvrsn=55d6ef2_3"
+  - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
     width: 729
     height: 509
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 581
         isCached: true
 
-secured: "Qtt2R4bMaLo05ehRtVcW7YeNVI3E0PLsX919SoThaGkQIJGfYR09GifR0MA6u0OzrzQmD2T5jqqZDziDc5vHf1eU/k2lbXqW6NRe673pPeIQlFVlZKi2HtvOSPvUcd0nCJWSXyj1u8Sjhv9arXjinZOI0aURwvuWN8UPX73occi/qtV7Y/2D8tLEyeG6RlPFHyVuv8NH48t2XhmuSU6VuvVXAwI8aYkIRPiVizXQJ/PEeJJKenGN8pgS6CAXzSJd7pVS+Q/36iLrqK4yX8jkk2yAws1jgeqKAw95s4HcxTupSnDR8M8cNTYMQF0toqWhQcgiyDVSu1ZeplsYADfLKm6sgLgEEvPJoiGNwr6eHNo=;DbWoEC8CKGOpe3J0+w5xIA=="
+secured: "+LooUOTX38xBs0aah33qfqm6hB1WphcqVIjCK3r0TTTWqD02jSXZ/eB4JEs1AJIIzWjDoAAsF0wRZFX4VGgdX88kn7pL7oMNgKy+9uVn1Sa32lZL9gV5ANbeU86tmP0c8w/9Wsm/DzBB9yRpK2k9gV1x5WRfGSuTfQov36AozjetQFKMn/Rt2LqRNVR+QOF9ndZawGrF9DuNV0wJQGAB4tzEhdZecbDDj4TU/YvUz9QVXlcd/fX/LXxqPoL6jnA3qk7Lgmqo+KySjabdaJCq/+dgmZeseqPaLmtnw3nPMRi/WsG1y6HYd54WCOEh6+qjcrcLAD66JnEFbjpCaS3XH/4MdmLV5V5Du5RwcxgrmVc=;OBxD9R25CCCTUkxu3rHnTg=="
 ---
 

@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the market size was valued at USD 27.23 billion in 2019 and is estimated to display a stellar CAGR of 33."
-publishedDateTime: 2021-08-04T12:27:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
+excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
+publishedDateTime: 2021-08-04T12:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
+ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
 type: article
-quality: 57
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025"
@@ -82,6 +74,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "yOmKjFe+WvFTqktyxgCcJ85i2+HYTaZlQnxGV7slQP9jVXR85egIoQSDs4m44DDtHwLQQahjR3HIeoeHov9ctcD7R/IOvQvtCUVZlwajUei41aMPDjHVChr3t4b6+4lFSNUeBMSbJOm4L0YhQKDjg5MwZm/v02FBX0Blk3c78PSWUvh9+zDiIRGmBDfpUknD+t3bKO4DKxFCLQrFgm9PvDUmZkRMEF/kMqpaMc5hg0RaWnsoEoIAoOTV9ciG9i9jDmmUuSS2r1/9ecXQrfHipv4seWRRalBnugJRfsfztj+bES6R5gINZKDf5l4WOM6QZaX/pY9b4HmU2/swQ8RW3XWhMNawA78dOXyuF+4+9ns=;wA0EMnoNjIlx9cT1ntGnJA=="
+secured: "+zbICAxf0EPXGuwJT1z0m/2VXzCdnCzWxRsICuwbJuBy+/eLH2or8i6LiGuGmiM7Jgpl1CYojDy8loXtyjuNIPeEz8lTdsUGeRxpVMedOEBTBgIME4BSAfpF+liC99EHLbgutm/bmlotYf7WnNh2nl2tRUXNYfcWNtzGpUYOgEQrsLeY+poaW2QGGmv5dGEOfKXKBFmEFIfdC0trElIB5qoPWORHObjNc+ZT88DerEd8OzAazy84rNaL2Sczdi9GaAvfWE9u0U1jLS636XeH/w4dUcaf+S3R/3q0HrR7FJ0xeM0DOvXV2k+Jy5kh2/x249cl9g3Nnp8h56zsnzsMWjBK3JxI6coVaMHfbvCYu/A=;GxfO0Thj74htDETEuJKXrg=="
 ---
 
