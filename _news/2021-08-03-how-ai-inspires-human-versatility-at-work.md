@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-ins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Are you scared yet, human? How artificial intelligence is changing our world"
+    excerpt: "Artificial intelligence (AI) is changing the way we work and live in ways that were once dismissed as the stuff of science fiction.  The technology has the capacity to improve our lives, but it also presents new challenges and potentially grave risks."
+    publishedDateTime: 2021-08-05T02:10:00Z
+    webUrl: "https://www.abc.net.au/4corners/are-you-scared-yet,-human-how-artificial/13485202"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 34
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13485206-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Hospitality AI vs. Human Expertise – Striking the Balance"
     excerpt: "Hospitality AI functionality in hotel revenue management and in hotel pricing tools is a case in point. The conversation around automation via algorithms has been too easily positioned with a 'versus' between machine learning solutions and professional expertise."
     publishedDateTime: 2021-08-03T13:55:00Z

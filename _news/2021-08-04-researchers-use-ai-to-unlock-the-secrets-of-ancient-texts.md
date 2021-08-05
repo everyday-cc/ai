@@ -38,22 +38,6 @@ related:
       name: SlashGear
       domain: slashgear.com
     quality: 67
-  - title: "Teachers are feeling burned out. Artificial intelligence can help."
-    excerpt: "Teachers can use technology to help them with focus more of their time on education rather than administration."
-    publishedDateTime: 2021-07-31T11:00:00Z
-    webUrl: "https://www.freep.com/story/life/2021/07/31/education-can-enhanced-through-technology-like-ai/7939422002/"
-    ampWebUrl: "https://amp.freep.com/amp/7939422002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7939422002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/12/USAT/5d9140a5-cec4-4d4e-bac2-67048dda2333-BTS_TECH_AI_IN_THE_CLASSROOM_1.jpg?auto=webp&crop=2879,1620,x0,y36&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Researchers use AI to unlock the secrets of ancient texts"
     excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
     publishedDateTime: 2021-08-04T18:54:00Z

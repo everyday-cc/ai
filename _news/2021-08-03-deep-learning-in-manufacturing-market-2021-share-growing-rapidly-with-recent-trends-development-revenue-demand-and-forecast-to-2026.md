@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "(COVID-19 Impact Analysis) Global Deep Learning in Healthcare Market Forecast Size, Share, Growth, Trends and Opportunities 2026"
+    excerpt: "The recent report titled “Global Deep Learning in Healthcare Market” and forecast to 2026 published by Reportsweb is a focused study encompassing the market segmentation primarily based on type and application."
+    publishedDateTime: 2021-08-04T14:03:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-global-deep-learning-in-healthcare-market-forecast-size-share-growth-trends-and-opportunities-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
 
 secured: "4ooHQXPyoGf5Bl5CWo6t0otjWhaF5wtp1jSnqxpS6R54ZymUshT092Ug71J44Nmn61njkGfyBGuzpbX/f/wCvbA896pDIaRkO++6qvtEzIOTAoXWxssLv/0RMQRSww5y0jFCh8U2Bn4ljF8KXGA6A+oVbXXI7SHgBcuTrrfhf1008WWtmJ8wv41rqtH54ou8AW+6W26djlFOYux1GzyKTGv0yNb8Z7vVkR2bqn44ubDbQe0qbsPOhc+n0LGP7essQmbQvJUopn5h5k9DcsiqAfrHQDV5I34zRW78LEZeHaVpHvZnsRfhuny/B56sk0a8ia+rqAjn6AmsMBvHSJ34BEXjj0W0VhJUpA0Fk91oof8jIuMJ9MRdcoKqVxmG1HY0cBU9BbqaAF8KMTvEoUj+wUGiNtcdpZf4iuFoBUBP/PwSUI/EHMnM1oXVlSBeSWJ2tHe1yEFHdxcXLI4gohJ5UskXFrliYi8LMaFNI/kc3aXFXuwjzxEZOFr0LZ/RAfIgEaAiwVHD9krvg2eTRAbteQ==;vV63PEula0fKHhb4aC/Wcw=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Google will produce its own in-house AI chips for upcoming Pixel 6 and Pixel 6 Pro after Android smartphones used Qualcomm processors for 15 years"
-excerpt: "Google's upcoming Pixel 6 and Pixel 6 Pro smartphones will use its in-house processors, the Google Tensor, marking a departure for Android devices, which previously used Qualcomm chips."
-publishedDateTime: 2021-08-02T18:31:00Z
-originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/Google-launch-processor-upcoming-Pixel-phones.html"
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/Google-launch-processor-upcoming-Pixel-phones.html"
-ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
+title: "Google Pixel 6 to have new AI Tensor chip"
+excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."
+publishedDateTime: 2021-08-05T03:31:00Z
+originalUrl: "https://ia.acs.org.au/article/2021/google-pixel-6-to-have-new-ai-tensor-chip.html"
+webUrl: "https://ia.acs.org.au/article/2021/google-pixel-6-to-have-new-ai-tensor-chip.html"
 type: article
-quality: 36
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: acs.org.au
+  domain: acs.org.au
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://i.dailymail.co.uk/1s/2021/08/02/19/46198755-0-image-a-75_1627928610656.jpg"
-    width: 636
-    height: 382
+  - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/google%20pixel%20AI%20chip.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -254,20 +252,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 54
-  - title: "Google Pixel 6 to have new AI Tensor chip"
-    excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."
-    publishedDateTime: 2021-08-05T03:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/google-pixel-6-to-have-new-ai-tensor-chip.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/google%20pixel%20AI%20chip.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Google Reveals its Own Mobile Chip Named Tensor"
     excerpt: "The Google Pixel 6 will be the first phone to use Google‘s all-new Tensor mobile processor, the first system-on-chip designed by Google. The chip is named after Google’s open-source machine learning platform,"
     publishedDateTime: 2021-08-03T04:06:00Z
@@ -296,6 +280,22 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Google will produce its own in-house AI chips for upcoming Pixel 6 and Pixel 6 Pro after Android smartphones used Qualcomm processors for 15 years"
+    excerpt: "Google's upcoming Pixel 6 and Pixel 6 Pro smartphones will use its in-house processors, the Google Tensor, marking a departure for Android devices, which previously used Qualcomm chips."
+    publishedDateTime: 2021-08-02T18:31:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/Google-launch-processor-upcoming-Pixel-phones.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9853203/amp/Google-launch-processor-upcoming-Pixel-phones.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 36
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/08/02/19/46198755-0-image-a-75_1627928610656.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Google’s upcoming Pixel 6 will feature a brand-new chip and a big-ass camera bar"
     excerpt: "It’s been five years since Google first launched the Pixel line, and now it’s time for the sixth iteration. The Pixel 6 and Pixel 6 Pro are going to be hitting stores later this fall, powered by Google’s own custom-built chips."
     publishedDateTime: 2021-08-02T19:58:00Z
@@ -320,6 +320,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "yWB0ZzNOX11V4AP5LZvmudQ+7MWhV70vuqYnpetuaOOS1OXBbnq96XC/VbHFmJj9/MyjELmwjjPdYD9q+0Z2jI+Y9jVRcPAwG38HT09ziFhYuxCXfasQd2KXeLeY0MIjdxky3BJzJQ1uxRsj6RRa9MMc35sZ7nwOvSBvWOQxnOxbx6/b+1dUWJtXOgcLYbpO0n9lIkdfrnr/G0r9LApXS57bHQNXntosdT2Ww2GZ7rrYgor7fEkuRAL5bPQJwBPz3rFz0F4ycvRD2u68LKHBb058BSqvew5VSHBmCfVeFsigNPdgnuU8vuwthgbo9oLtNDHdtaW0uxL5eKBeFEMtcMvJXAl37mJGda1WVD9aHKO2hNs63RoLYv/xAOcyNwBzvMZ5VCxceVbminqivYz8c9sUI9b9XE+QIgd7j4IMjZtiigBMipv/9bnH9lUU+wQxSbd/lvXtH9MccGmta44GHGWvOMKAUVVpw6UQ4QuciWsaEiPy5VXbCED04pl57Hg9CsebIh7PCoyiZC5K36zrMQ==;/tLjxWLmbzfZgc7vxD+UtA=="
+secured: "rqMN9GDnlSpuYcdyvbaMT3BBUp0k2UnWjiNn4lOCkQ6l3HsWsyz42PRTx2c2Zz5bQp7wPsoZv2G64ByQrfZ7x90Ku47C2KXrxbnMEFMlcubSjQKlJ57DnZMj3/YuOmFVgvH7zK17MPqpLWZdu30yUGpQvn0lCvKoZ0ZfZXqMTVcyxlaIGAEh+TSOzYYga1gYBdxqhUPU6qHhCyV439nBAcuj7gNdJM8sgMH/HYNaRv8e1GyiH8U7t2ic6mYVRZqrnN3qAffVeej9e1hKzOzMFQzkni8xvhAABgs3pj+yhl6uPz12LXNwreZYvdYsayQ2bGkbC4V/DKTae5PUpNFpuABGwCb3JGnunBXkaQgYycM=;hT4bDRKMSMFcPgK5n+NScw=="
 ---
 

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Are you scared yet, human? How artificial intelligence is changing our world"
+    excerpt: "Artificial intelligence (AI) is changing the way we work and live in ways that were once dismissed as the stuff of science fiction.  The technology has the capacity to improve our lives, but it also presents new challenges and potentially grave risks."
+    publishedDateTime: 2021-08-05T02:10:00Z
+    webUrl: "https://www.abc.net.au/4corners/are-you-scared-yet,-human-how-artificial/13485202"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 34
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/13485206-16x9-large.jpg?v=2"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "LTcoYEZZZ49lKyQ/VDvodzalgtfQnLHRkdcWR/3eRBS4IGmnuqhF6xgLsbkNpR0OOZ2Qz45L3ULEXFXJotTXBBKw5KVC+bpeQ7bwEIIu7lvDfb1s1rSnray2klqifqkOAcYcO+zOnYNsiqQZNMQxWfe05cixHF+OmIQtzsSka37kJbCOx6quvnM3QBfzcAsxShBsINZdg4Ag0FdqdYKBS6yWor8lPaX1tdmEK7vxEtcpibIQy+mxgrfjomWltjjC2RJnXt5b2uU8OhiboBbboyO6DieN3yl0Dx3VryPE82QEtyN6ZQwCoWCzScHbdnONXxWP4ZyJDjJ0NJntXPpiVkJU8EZkcIBW5n0t4Izsml8=;KKWW+b0CrJ22cUlJQ6NGiw=="
 ---
