@@ -45,7 +45,21 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Twitter – Qualcomm risks self-driving prang | Reuters"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-05T17:54:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_twitter/twitter-qualcomm-risks-self-driving-prang-reuters/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "lFpCiwj9NATJxdCCQfflEywNGSTVLM9+AYJCsC445Vm5p54tjkgfTbUd0UZxn/llGCSS6fxSQxIiku/34aWgW5bncrB/XA1Bf6QSnfYy2DAUsmF6I8F+8yNoeTRHE+T8pjVYc4BbbqM0wBM9awmpRfk76USSzAcwkxQPcKrlueLdS3znNjuCw7hGKDcQPaNuRuIh/9kuEqlmZlUyXIam7dozrup21ffYE75Md0BsAsmoihtjIq9LorUqhzDAXjlkXDuG9aHLyiWiqYxWV25AUhZk8ahazO1ncxB+Ujo2ueL+Hc3CPEmbUToIwAPXapr2SyGK7O8HXmUeZKFjpn4T7JuRSg7lq7430kbGIUWwwKc=;Bu0FrJD5eSFm80uMVicnwg=="
+secured: "o9x0tW3x8g6K9QnvTYTnKqLM9jHqfxJZ6T1GvyTqhbM8pzJRZ56kW7q6pNtCyyWyrJja1X9OLhoeH6YM4wPR5lY0Hy/iFqGb+Y4sRHQXD3eUR1Mpjjw+gbU+Nv/thGch/6fFTJYQB9wkJ7sPtR7/nDI9z6kxxKN6Eed2wxefvhGj+k2lMJuDuhypZXw0UFdRwnfewd8wMLrFp5gyfNXYKwhQmafRTqV9Vg6yE6TU939SVQJGt6kLExkZ1kSgF38H7DZLEEP0VSFCV15z7/CX6XSB/fFpfqBxETq7jokYuZkv7RKGexlgfFzFuEx+ViDH9VLBJofpmtO+1WlJ5yocVx2A3mdMAaHG2LbxCXBQTY4vNX0K89F+gl+1pXHt1ZobvA+kKd7RESWiLWoD8iItv0PQRt6GusTHZJa7FddBWpODeyOlbns2SU5PYS7Yhjz/nJnyF1fowk1r2hv/Mqrhbm80sfSzRqjr1XB8GeCotGUxJQ3mcyl/gK5QfNxj9ebnDxQA8T1DqFsf91jFIqaIeg==;yx7C2rKtJOi//dp/q3nEUA=="
 ---
 

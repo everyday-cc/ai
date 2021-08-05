@@ -2,6 +2,154 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-06-22-max-kelsen-revs-up-ml-system-for-car-share-platform.md",
+      "title": "Max Kelsen revs up ML system for car share platform",
+      "excerpt": "Australian car share platform Car Next Door has tapped Max Kelsen to deploy a machine learning system geared at reducing inappropriate car borrower behaviour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
+      "originalUrl": "https://www.arnnet.com.au/article/689240/max-kelsen-revs-up-ml-system-car-share-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nicktherkelsen-terry.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-robotics-market-size-share-value-and-competitive-landscape-2021-2026.md",
+      "title": "Robotics Market Size, Share, Value, And Competitive Landscape 2021-2026",
+      "excerpt": "The Global Robotics Market was valued at around US$ 31 Billion in 2020 and the market is expected to register a double",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-market-size-share-value-and-competitive-landscape-2021-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-22-databricks-cofounders-next-act-shining-a-ray-on-serverless-autoscaling.md",
+      "title": "Databricks cofounder’s next act: Shining a Ray on serverless autoscaling",
+      "excerpt": "After helping shepherd Spark to surmount the data bottleneck, UC Berkeley’s Ion Stoica is helping unleash Ray, an emerging open source project to get over the compute bottleneck for scaling machine learning models into production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/22/5db419aa-0477-47dc-a3ca-4444b6b838aa/sun-rays.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-cofounders-next-act-shining-a-ray-on-compute-autoscaling/",
+      "publishedDateTime": "2021-06-21T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-bhp-shifts-data-centers-to-cloud-with-aws-microsoft-azure.md",
       "title": "BHP Shifts Data Centers to Cloud with AWS & Microsoft Azure",
       "excerpt": "Data Center Dynamics reported that mining giant BHP has signed cloud deals with Amazon Web Services and Microsoft Azure. AWS will provide data analytics and machine learning capabilities, while Azure will host the company's core global applications portfolio,",
@@ -968,134 +1116,6 @@
         "name": "The Sentinel",
         "domain": "ksusentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence.md",
-      "title": "Sighthound Acquires Boulder AI to Move Computer Vision to the Edge for Real-time Video Intelligence",
-      "excerpt": "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give customers actionable",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/44143432/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence",
-      "originalUrl": "https://www.wicz.com/story/44143432/sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://PRDOTCOM.images.worldnow.com/images/20911274_G.png?lastEditedDate=1624272202000",
-          "width": 879,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo.md",
-      "title": "CrowdStrike stock falls after rival SentinelOne prices IPO",
-      "excerpt": "CrowdStrike (CRWD) shares are down 5% after competitor SentinelOne (S) priced its IPO at $26-29 per share, which would raise up to $928M at a potential $7.36B valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
-      "originalUrl": "https://seekingalpha.com/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3708185-crowdstrike-stock-falls-after-rival-sentinelone-prices-ipo",
-      "publishedDateTime": "2021-06-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research.md",
-      "title": "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research",
-      "excerpt": "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\",",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research-1030538808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

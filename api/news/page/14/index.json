@@ -2,6 +2,144 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-23-robotics-and-ai-are-speeding-up-our-nuclear-clean-up-mission.md",
+      "title": "Robotics and AI are speeding up our nuclear clean up mission",
+      "excerpt": "West Cumbria is delivering the future of nuclear robotics and artificial intelligence technology. Every day the company in charge of the nationally important mission of decommissioning and cleaning up the UK’s largest nuclear site – Sellafield in West Cumbria - is facing new challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "originalUrl": "https://www.politicshome.com/members/article/robotics-ai-speed-up-nuclear-clean-up-mission",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2021_07/DRONE_960X640_JAN21_002_xegibn.jpg",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PoliticsHome",
+        "domain": "politicshome.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-marketing-ai-plenty-of-use-cases-but-were-just-getting-started.md",
+      "title": "Marketing AI – plenty of use cases, but we’re just getting started",
+      "excerpt": "Roetzer’s Institute, in partnership with Drift, a provider of conversational AI solutions, recently published 2021 The State of Marketing AI. It’s a survey that looked at how marketing AI is in use today,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
+      "originalUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-07/hand-895588_640.jpg",
+          "width": 640,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/marketing-ai-plenty-use-cases-were-just-getting-started?amp",
+      "publishedDateTime": "2021-07-23T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021.md",
+      "title": "Ford To Deploy Self-Driving Cars in Collaboration With Argo AI and Lyft By End of 2021",
+      "excerpt": "Ford Motor Company (NYSE: F) plans to deploy the first self-driving cars with its partner Argo AI on ride-share service Lyft Inc’s (Nasdaq: LYFT) network by the end of 2021. In a press release on Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-enzyme-researchers-partner-with-pioneering-ai-company-deepmind.md",
       "title": "Enzyme researchers partner with pioneering AI company, DeepMind,",
       "excerpt": "University of Portsmouth joins leading AI researchers at DeepMind to help engineer faster acting enzymes for recycling some of the worlds most",
@@ -1044,152 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-getting-hadoop-to-jump-through-aiml-hoops.md",
-      "title": "Getting Hadoop to Jump Through AI/ML Hoops",
-      "excerpt": "Just a decade ago, the enterprise IT push was to make Hadoop the platform for storage and analytics. At that time, cloud hesitancy was still looming for",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/",
-      "originalUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/ab_flash_datacenter_dc.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/22/getting-hadoop-to-jump-through-ai-ml-hoops/amp/",
-      "publishedDateTime": "2021-07-22T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-how-low-code-development-could-boost-ai-adoption.md",
-      "title": "How low-code development could boost AI adoption",
-      "excerpt": "Low-code options like Akkio aim to make AI much easier. Every company may want to put artificial intelligence to work, but most companies aren't blessed with the ability to hire battalions of data scientists –nor is that necessarily the right approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-low-code-development-could-boost-ai-adoption/",
-      "originalUrl": "https://www.techrepublic.com/article/how-low-code-development-could-boost-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/12/31/cfe02e57-8256-4c99-8177-af9212d6cba4/resize/1200x/03b76fedaaaa195d3219d225e34f617f/istock-1000962622.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-low-code-development-could-boost-ai-adoption/",
-      "publishedDateTime": "2021-07-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai.md",
-      "title": "TC Energy builds an intelligent document processing workflow to process over 20 million images with Amazon AI",
-      "excerpt": "This is a guest post authored by Paul Ngo, US Gas Technical and Operational Services Data Team Lead at TC Energy. TC Energy operates a network of pipelines, including 57,900 miles of natural gas and 3,000 miles of oil and liquid pipelines, throughout North America. TC Energy enables a stable network",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tc-energy-builds-an-intelligent-document-processing-workflow-to-process-over-20-million-images-with-amazon-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/21/TC-Energy.jpg",
-          "width": 800,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T08:06:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

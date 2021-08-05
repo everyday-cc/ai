@@ -2,6 +2,117 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-06-24-mind-controlled-robot-helps-disabled-people-visit-family-friends-video.md",
+      "title": "Mind Controlled Robot Helps Disabled People Visit Family, Friends (VIDEO)",
+      "excerpt": "The team used a motorized robot that was controlled via an ECG cap by the user’s thoughts alone. While the robot was in a laboratory at EPFL, disabled folks in Italy, Germany, and Switzerland ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
+      "originalUrl": "https://www.medgadget.com/2015/06/mind-controlled-robot-helps-disabled-people-visit-family-friends-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medgadget",
+        "domain": "medgadget.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-self-driving-cars-will-deliberately-kill-people-and-thats-ok.md",
+      "title": "Self-driving cars will deliberately kill people, and that’s ok",
+      "excerpt": "Elon Musk keeps warning us that artificial intelligence is a real threat ... are yet to be finalized – or completely safe. Even if driverless cars would be readily available to buyers, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/self-driving-cars-killing-people-4918626/",
+      "originalUrl": "https://bgr.com/tech/self-driving-cars-killing-people-4918626/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2016/05/tesla-autopilot.jpg?quality=70&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/self-driving-cars-killing-people-4918626/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/self-driving-cars-killing-people-4918626/amp/",
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-tag-archives-future-of-work.md",
+      "title": "Tag Archives: Future of Work",
+      "excerpt": "BrainGain Global is a SaaS-enabled marketplace for higher education content, tools, and programs. It is a comprehensive companion for students and their families – across the learning lifecycle. Harjiv Singh,…",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/tag/future-of-work/",
+      "originalUrl": "https://www.dqindia.com/tag/future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/tag/future-of-work/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/tag/future-of-work/amp/",
+      "publishedDateTime": "2021-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-the-globe-and-mail.md",
       "title": "The Globe and Mail",
       "excerpt": "Our innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
@@ -961,135 +1072,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-artificial-intelligence-ai-in-sport-market-outlook-2021-big-things-are-happening.md",
-      "title": "Artificial Intelligence (AI) in Sport Market Outlook 2021: Big Things are Happening",
-      "excerpt": "Artificial AI in Sport Thematic Research is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides information on market trends and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big",
-      "originalUrl": "https://www.openpr.com/news/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U623836113_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311875/artificial-intelligence-ai-in-sport-market-outlook-2021-big",
-      "publishedDateTime": "2021-06-23T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-truck-maker-embark-to-go-public-via-46-bln-spac-deal.md",
-      "title": "Self-driving truck maker Embark to go public via $4.6 bln SPAC deal",
-      "excerpt": "Embark Trucks Inc, a self-driving truck developer backed by private equity firm Tiger Global Management, said it had agreed to go public through a merger with blank-check firm Northern Genesis Acquisition Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-maker-embark-to-go-public-via-%244.6-bln-spac-deal-2021-06-23?amp",
-      "publishedDateTime": "2021-06-23T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-global-ai-in-computer-vision-market-2021-to-2026-increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities.md",
-      "title": "Global AI in Computer Vision Market (2021 to 2026) - Increasing Manufacturing of Hybrid and Electric Cars Presents Opportunities",
-      "excerpt": "The AI in computer vision market is estimated to be valued at USD 15.9 billion in 2021 and reach USD 51.3 billion by 2026, at a CAGR of 26.3% between 2021 and 2026. The growing need for quality inspection and automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-2021-to-2026---increasing-manufacturing-of-hybrid-and-electric-cars-presents-opportunities-2021-06-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

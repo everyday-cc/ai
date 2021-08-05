@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition-based boarding system under trial in 6 airports: Govt to LS"
+    excerpt: "Centre also informed that Airports Authority of India (AAI) plans to invest around ₹25,000 crore in next 4-5 years for expansion and development of existing and new terminals, using modern technology"
+    publishedDateTime: 2021-08-05T18:00:00Z
+    webUrl: "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html"
+    ampWebUrl: "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 70
+    images:
+      - url: "https://images.livemint.com/img/2021/08/05/600x338/DSC_6647-01_1590380999692_1628177035268.jpeg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "These 6 Indian airports will soon use facial recognition for boarding passengers"
     excerpt: "Union minister of state for civil aviation VK Singh told Parliament that work has been awarded to implement the technology in these airports that include Bengaluru, Pune and Kolkata, among others."
     publishedDateTime: 2021-08-05T17:53:00Z
@@ -59,47 +75,33 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Facial Recognition-equipped CCTVs installed at 310 railway stations: IT Minister in Parliament"
-    excerpt: "These surveillance systems will be installed at platforms, waiting halls, parking areas, main entrance/exit points, and booking offices."
-    publishedDateTime: 2021-08-05T15:13:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-railway-stations-facial-recognition-cctv-surveillance/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 42
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/08/cctv-1144371_1280.jpg"
-        width: 1280
-        height: 847
-        isCached: true
-  - title: "Four Japan firms to tie up in facial recognition for payment"
-    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
-  - title: "Facial recognition plans for millions of Indian examination candidates"
-    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
-    publishedDateTime: 2021-08-05T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
+  - title: "Wearing your facial recognition system around your neck"
+    excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"
+    publishedDateTime: 2021-08-04T17:53:00Z
+    webUrl: "https://www.biometricupdate.com/202108/wearing-your-facial-recognition-system-around-your-neck"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
+        width: 1098
+        height: 604
+        isCached: true
+  - title: "How To Fool Facial Recognition Systems"
+    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
+    publishedDateTime: 2021-08-04T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "P84CkBsPY2xWbfKE1AxNJ/2paODsSOol0iLTKQBhVwg7XAKCLEiT64DADI6sdknYv9Lb+x6wg2k/B18QT5ftLBve5fP3wWSsFmQPDVrJ3cXL+Hmy7kpLMgKBkI5brCNHLGaiYe2lxz7e/imNSJQAaIvg70Yit+e8OJLNBi2dT5rpFH8oVwHsVrn215+6a65afLo+F9VzNzbAWhSAtftX7N4nDoiNx/eG56x/tZ/rfu/YJ8+/z+/lJY9aGQEQQK34z5dZC+xR9v5+PyeCMOGS8PBHSOm9yqOvvU583QXz2e2TgiV5e5PmtdLfOFKr7rImtRZvgGzuFMGrE/Y7Q6VO7GCj4VSu1NyCkcAodsH5PVmBmYdgiZkHHUAkvIIKlatN2DW8FiqmQR9Qj/upOC/KWMuyMO2n3YdsDXS8dqIzEMnUFCwgkfqCgnWFeDJcsd25/MRP4Mc66cPfi2qm3npL//JFmHxh5cQ43TH6etcy6XKOa04BMer64EURA3nXzrAysySnDDMa0y/yObQV+tH9Ww==;pH4fMhRcoFzRgOaEwdNJrg=="

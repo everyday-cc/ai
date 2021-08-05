@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arrival to co-develop its EV open-data platform alongside Microsoft"
+    excerpt: "Arrival announced plans to co-develop a cloud-based data platform with Microsoft to enable data management for future electric fleets."
+    publishedDateTime: 2021-08-05T18:51:00Z
+    webUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/"
+    ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Arrival-Van-Binary-Code.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft and Partners Producing Competition to ‘Attack’ AI Security"
     excerpt: "The artificial intelligence (AI) and security communities are being invited to participate in a competition to “attack” critical AI systems:"
     publishedDateTime: 2021-08-02T04:36:00Z

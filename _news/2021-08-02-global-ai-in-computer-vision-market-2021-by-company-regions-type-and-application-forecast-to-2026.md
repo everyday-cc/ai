@@ -109,6 +109,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "3 Misconceptions about AI that Distributors Need to Put to Rest"
+    excerpt: "Proton.ai's Jill Voege writes that while many distributors tend to think of AI as an abstract concept, it's actually a technology that can provide real value for their businesses."
+    publishedDateTime: 2021-08-05T18:25:00Z
+    webUrl: "https://www.mdm.com/blog/technology/3-misconceptions-about-ai-that-distributors-need-to-put-to-rest/"
+    type: article
+    provider:
+      name: MDM
+      domain: mdm.com
+    quality: 37
+    images:
+      - url: "https://s33009.pcdn.co/wp-content/uploads/elementor/thumbs/AdobeStock_213593664-pb6i59179a3c4sxngduosbiygc4wlz78pvhtov1gnu.jpeg"
+        width: 900
+        height: 425
+        isCached: true
 
 secured: "pkz33PzMblXYZV3ILh9i28KjF/h5Fd86MmEYKrtYObu7xduB+B6aaNDd+z9GoKnVTVujoD0KJOTXABN9+a8C4fPYYsisdMsITpjHI2BHq/GwnIXPYnzqtmrEw2qacS5P6O4RuFhybioUSXgFgmMj/uxYURlD4QHlhnTO2ZNNHwNhXXAdOcf9tTMEpb9Py6XDtTIw0PIyjgMG98fmIgRpCwMttH2S0J5aZ/mjO+99cjvVrLEAIwhhEji0Z2tLz6/1ziO+K/6RrATdN8tMcNWmaJW33aLtQqklXUvJ/sXMePv6yFg4YGKvzI1pR/+XCper5fHNkIveO3mrPapobWaKrNkpq7rlLO5fUDWMxtjnmI8=;PrzLiwEI4eNu0usu8D+W7g=="
 ---

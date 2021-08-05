@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Arrival to co-develop its EV open-data platform alongside Microsoft"
+    excerpt: "Arrival announced plans to co-develop a cloud-based data platform with Microsoft to enable data management for future electric fleets."
+    publishedDateTime: 2021-08-05T18:51:00Z
+    webUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/"
+    ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Arrival-Van-Binary-Code.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft expands data interoperability, search offerings in healthcare cloud: 6 details"
     excerpt: "Microsoft rolled out new health data services for its healthcare cloud platform Aug. 3, including the ability to share multiple data types in the Fast Healthcare Interoperability Resources format. 1."
     publishedDateTime: 2021-08-03T21:46:00Z

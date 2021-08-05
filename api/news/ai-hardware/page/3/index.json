@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
+      "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
+      "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
+      "publishedDateTime": "2021-07-07T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
       "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
       "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
@@ -1357,61 +1401,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-deepmind-agi-paper-adds-urgency-to-ethical-ai.md",
-      "title": "DeepMind AGI paper adds urgency to ethical AI",
-      "excerpt": "DeepMind expects reinforcement learning will lead to replicating human cognitive abilities, achieving artificial general intelligence (AGI).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/26/deepmind-agi-paper-adds-urgency-to-ethical-ai/amp/",
-      "publishedDateTime": "2021-06-26T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -43,6 +43,15 @@ related:
         width: 645
         height: 315
         isCached: true
+  - title: "Neural network model shows why people with autism read facial expressions differently"
+    excerpt: "People with autism spectrum disorder interpret facial expressions differently. Researchers have revealed more about how this comes to be. They induced abnormalities into a neural network model to explore the effects on the brain's learning development."
+    publishedDateTime: 2021-08-05T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210805115455.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
 
 secured: "T1wG/7WRAbyjwXLa3L2+Gcg9iC5DiUn+bMKx53ygg0IWyoh9tRM9YVsdOoE/e6CZMRUxAvOufX0IrYupxi/0Pp+ez+DSSmv2taMFm1r8VF0yntpfgL96binfiQNkXz4Nbq90fXwWVbeJhkWu7xIuZ9YneB481kVQFPZl7jXBChrnwzZzXhxFtl5V3sURpsJwmWNn7QXhsCMpzV1mNCokdQ8+FnZRoT+hOynZjGLj6aDWTIfdudrkt3hVmScqD4D8bomeuy6JgZ4HlRmDbJSQOzeywBgY9DTuhogKdA+91RHUPZ68Pvn8yTL7aBSDnDvzpqkD3STpGdQXkQe0Z7Ny4TaklebvA9RZhuZJIC7FoNw=;QlgghA+hSxTdS8BnovCqNA=="
 ---

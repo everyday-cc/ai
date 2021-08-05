@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Integration of AI, Machine Learning and Modern Threat Management"
+    excerpt: "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,"
+    publishedDateTime: 2021-08-05T18:10:00Z
+    webUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734"
+    ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg"
+        width: 1910
+        height: 748
+        isCached: true
   - title: "The future of chip design – AI creating AI?"
     excerpt: "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?"
     publishedDateTime: 2021-08-05T08:30:00Z

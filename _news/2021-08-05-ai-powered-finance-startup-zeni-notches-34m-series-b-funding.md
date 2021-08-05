@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-sta
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
         width: 749
         height: 473
+        isCached: true
+  - title: "Zeni receives $34M in funding for AI bookkeeping"
+    excerpt: "The latest round of funding comes on top of the $13.5 million that the Palo Alto, California-based company announced in March from venture capital firms and angel investors ( see story ). The Series B funding was led by Elevation Capital,"
+    publishedDateTime: 2021-08-05T18:25:00Z
+    webUrl: "https://www.accountingtoday.com/news/zeni-receives-34m-in-funding-for-ai-bookkeeping-and-accounting"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/99444f1/2147483647/strip/true/crop/749x393+0+40/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F61%2F55%2Fd577612e443cbdfef81ff407cc37%2Fsnehal-and-swapnil-shinde.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Elevation leads Series B funding in fintech platform Zeni"
     excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagema
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extend-amazon-sagemaker-pipelines-to-include-custom-steps-using-callback-steps/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

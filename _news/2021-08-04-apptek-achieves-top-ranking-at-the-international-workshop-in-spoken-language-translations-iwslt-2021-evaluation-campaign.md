@@ -1,18 +1,22 @@
 ---
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation ( IWSLT 2021) evaluation campaign."
+publishedDateTime: 2021-08-04T12:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
 type: article
-quality: 0
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -34,6 +38,6 @@ related:
         height: 667
         isCached: true
 
-secured: "aNLrzRR1SCR97fTe32LaAKGtsefQh0AGcLt132QaKWbmOZNOePwMNMUbysmrNutKjjpievQQ1SCiZO7NzCzPMMvXXxNmq3FMCIk9a7SAdKx1XzVuvCveaD0/hN5/BVsEPQM93TU5mZBSFq6Cp5/k+LBIU1GQCj8KmrUzxqKkyJBbnjtm42z4DQpM/ys2ZpBgvEX1p41n0V1TGN0b8sJ5qbSgjw8UcbN7iQvqrXW+si60iATBJW2wzk8/BRJp9nKpM8eGsJh4llsnzbyriCGz+U36hD8hNSI1qVqOmz5B2Ez/DZCVkfSrh2P37bKv3a3iuxocah/gbYE6igswunbpZQMqSyqKLUdtKXIYLfvr4Eo=;YFmdkIZ8drfUqMNof01Qng=="
+secured: "Z+H1wIyzhpHMz9mL6Jy/BSt4rC0KE7IjPVRHmKHNG6qqtqmHFPSfa9RatEEuSECvwyQH43ZajMVxpjyssLyVPyXHssuiMSrFJblGQWhtDWwfCKciYnchCoBJsvchuwT0CW86ZBcbuzXiF4T2fh1+AB43tUrYwS8L0rQ0QZs/8Yv9OrA0E0kXQY33cyCPSc2q14fwbmhj1OpuPRf5KPdCpC4u+X6KYbmQ4OYvxcHqV4wcFE9oajlTpK2IZecrPpuC/r1L2J46nZaxV3MKLvZ0nyrRZZuBzuUk/zMVkzTGIgPAObD2Kj8KVPy3Ayl+3/ZrFJJpGNAf65gFI47Rqhl4pSsnVArZLHWoD6WXLOxtMZY=;H1w5fRo02RVAEL8wOsU6tw=="
 ---
 

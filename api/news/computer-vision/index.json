@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-06-these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers.md",
-      "title": "These 6 Indian airports will soon use facial recognition for boarding passengers",
-      "excerpt": "Union minister of state for civil aviation VK Singh told Parliament that work has been awarded to implement the technology in these airports that include Bengaluru, Pune and Kolkata, among others.",
+      "path": "_news/2021-08-06-facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls.md",
+      "title": "Facial recognition-based boarding system under trial in 6 airports: Govt to LS",
+      "excerpt": "Centre also informed that Airports Authority of India (AAI) plans to invest around ₹25,000 crore in next 4-5 years for expansion and development of existing and new terminals, using modern technology",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107.html",
-      "originalUrl": "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107.html",
+      "webUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
+      "originalUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/img/2021/08/05/1600x900/e218a472-f524-11eb-87f0-3ed1cf33608a_1628100405336_1628185608876_1628185617924.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://images.livemint.com/img/2021/08/05/600x338/DSC_6647-01_1590380999692_1628177035268.jpeg",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html",
-      "publishedDateTime": "2021-08-05T10:53:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
+      "publishedDateTime": "2021-08-05T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -84,6 +84,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-facial-recognition-of-students-taking-jee-neet-soon-experts-flag-risks.md",
+      "title": "Facial recognition of students taking JEE, NEET soon? Experts flag risks",
+      "excerpt": "The National Testing Agency, which conducts several exams including the Joint Entrance Examination (Main) as well as Advanced, and the National Eligibility cum Entrance Test (NEET), has floated a tender for facial recognition and fingerprint verification to verify a candidateâ€™s identity on a real-time basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465",
+      "originalUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenewsminute.com/sites/default/files/Exams-covid-1200-pti_0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp",
+      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp",
+      "publishedDateTime": "2021-08-04T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News Minute",
+        "domain": "thenewsminute.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -284,49 +327,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-moscow-metro-introduces-face-recognition-payment-system.md",
-      "title": "Moscow Metro introduces face recognition payment system",
-      "excerpt": "The Tube has Oyster cards and the New York subway its Metrocards, but Moscow’s Metro is going one better – rolling out ticketing based on facial recognition technology. The Face Pay technology use biometric data and bank card details to recognise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "originalUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/08/7594420132_3d36765fe0_b.jpeg",
-          "width": 1023,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "publishedDateTime": "2021-08-03T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

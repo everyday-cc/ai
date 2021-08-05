@@ -25,83 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "These 6 Indian airports will soon use facial recognition for boarding passengers"
-    excerpt: "Union minister of state for civil aviation VK Singh told Parliament that work has been awarded to implement the technology in these airports that include Bengaluru, Pune and Kolkata, among others."
-    publishedDateTime: 2021-08-05T17:53:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html"
+  - title: "Facial recognition of students taking JEE, NEET soon? Experts flag risks"
+    excerpt: "The National Testing Agency, which conducts several exams including the Joint Entrance Examination (Main) as well as Advanced, and the National Eligibility cum Entrance Test (NEET), has floated a tender for facial recognition and fingerprint verification to verify a candidateâ€™s identity on a real-time basis."
+    publishedDateTime: 2021-08-05T04:26:00Z
+    webUrl: "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465"
+    ampWebUrl: "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 58
     images:
-      - url: "https://images.hindustantimes.com/img/2021/08/05/1600x900/e218a472-f524-11eb-87f0-3ed1cf33608a_1628100405336_1628185608876_1628185617924.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Trial on at 6 airports for biometric boarding system using facial recognition tech"
-    excerpt: "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada."
-    publishedDateTime: 2021-08-05T12:58:00Z
-    webUrl: "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    ampWebUrl: "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg"
+      - url: "https://www.thenewsminute.com/sites/default/files/Exams-covid-1200-pti_0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Soon! Facial recognition tech at 6 Indian airports to make boarding process contactless"
-    excerpt: "Soon biometric systems will employ facial recognition technology at 6 Indian airports to make the process of entering the airport and boarding the flight contactless."
-    publishedDateTime: 2021-08-05T10:54:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 66
-    images:
-      - url: "https://imgk.timesnownews.com/story/Airport_passenger.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Facial Recognition-equipped CCTVs installed at 310 railway stations: IT Minister in Parliament"
-    excerpt: "These surveillance systems will be installed at platforms, waiting halls, parking areas, main entrance/exit points, and booking offices."
-    publishedDateTime: 2021-08-05T15:13:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-railway-stations-facial-recognition-cctv-surveillance/"
+  - title: "Exclusive: Major entrance examinations such as JEE, NEET, UGC-NET to come under facial recognition surveillance"
+    excerpt: "The National Testing Agency which conducts JEE, NEET, and other major exams will be deploying facial recognition for candidate verification."
+    publishedDateTime: 2021-08-03T15:01:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-entrance-exams-facial-recognition-surveillance/"
     type: article
     provider:
       name: MediaNama
       domain: medianama.com
-    quality: 42
+    quality: 19
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/08/cctv-1144371_1280.jpg"
-        width: 1280
-        height: 847
-        isCached: true
-  - title: "Four Japan firms to tie up in facial recognition for payment"
-    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
-        width: 870
-        height: 489
+      - url: "https://www.medianama.com/wp-content/uploads/2019/09/18itl009_facial_recognition_graphic.jpg.jpg"
+        width: 1400
+        height: 616
         isCached: true
 
-secured: "ddb5midqDG+nI6rWnGnzg1H4imb4D87Z1wG6XDGBo5CgCqSBQZMMOWtnkS1dR23dXJYKKVzhcb5fv4Ih0Ak+gM+/kidpU41z8IS7C7mPv6WwUqxOIOSc5Y4Qf9N3QCxYxdsE/JkAxqyVAViZGY+tS5E6+IYlRlLT8EjD3r5TWHlVCaLp5D7oMwJYFV1I6Ed0rhQ+faf1WoxDwnmwLSrUVDtaX9YJVboC3gs1wLqTFAgdJ+a7URNIjiqr4O1U9QWlU3J3ugUlhHk8nNXTART4yT7OKzzUpGBWhfZ3DJAXbxlecUeRzyw/G1hwQ/cj2FynfNODrSLg+8mYkKsX+FFC0ryCOMUAky7mGrvgQyEhn3o=;UOQnzur4ru4Iwbax7i1xCg=="
+secured: "hGrcPYtrEhOwa7w40aN9eAfcKwx8yd0nBWW2r+4rFqn00lLa/wYkLU5jkaV6iWFinukxtA7MrRbIosGTXUXJ1VtF1/cFTVnpbQeXW/z7jyvOeCt1zVmpOwFz2VdBi1VVwhg0rtaYTi5Iq/S575e6jyCn1csNp6+Jjy6Je59wHRi+Iwl1UEyzQih94oGs6bc75ZYsqujrpc4y1Lkr0pFJir5xAXCYfuecEp83yid91dv2YE6vwrmtgjlTJ0+XvgRqRUvN9Hw6lH4ALQevBz+JVtNEogKSRHMC3T9IQnwCVxIhqp9/BNXIVhI2sCzqK6BJWb3/y6lKCR9SHbH5MWpTpl+qg128kSZRpS59dd/OcFdiW38wArEBDh6aP/z3zkvvz/xSecAy4XewQHpgkc8ri25rK45yQ8dZLS3k13E/+TOuBME5OxEUG0l1aJuZTz+tvkbj0ipbWuyHrio9C8VfE5fofPuQyW/6rrPmlaMtiLQwOiq/XqHM80pOsYGCjJsrGIvBK+EsfOva4YSaWpT7lg==;2/kHggITQM6hgOuETfqG8A=="
 ---
 

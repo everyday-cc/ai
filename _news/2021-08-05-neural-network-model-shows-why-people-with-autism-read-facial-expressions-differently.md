@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Medical Xpress
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Neural network model shows why people with autism read facial expressions differently"
+    excerpt: "People with autism spectrum disorder interpret facial expressions differently. Researchers have revealed more about how this comes to be. They induced abnormalities into a neural network model to explore the effects on the brain's learning development."
+    publishedDateTime: 2021-08-05T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210805115455.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
 
 secured: "mNPlgpGV8Q4UKL0dI7jiACjKLvSyWQwd1m2BGrfI1Fk3zotqIO+RWFTbr7kBrttMwuMucid3YyZBqnJKBChqwk2LB7d76woBiokxer9+TZzU3MLLQgvr7DTSES67Z4P9XHGBHndLGP5aa5q5MpXzOQjP263QGUAsO0D0g+E2a2gP0WMsnfWJDDv2hPnpwt9s94hd/kAk8+2tuF3XyDvUy8f+2jkul5ihki6rJmiwXVHVDtO9a/bvtWHu73edY78HjlUYvcmZgy2NmI3mhjh5yiqVtQZF8n3rImlllco4ZBgzg0ajzEKxQIkbV+HTb2k9zgFfZnsMu98+FxWDMAkyfuUy1yW95LqyTILtb3K0uPGW8iEKKFSl1/WeGaJBsClapsPKEReOB/cJV4DFXRW3+O52s8JkswTx1ot9MiIrHwqXhG9q0qiaiejmLPRDnOgQ2yDpGRrdUb0EYNErh8P0+ZekS5dl4706QkCIJBQulsCeMXD9EYSxP6NIewD4x/vXwHUJACnBXDmUA6SiIAe7+A==;ObaLhVl0ZWQz3gj9IZZNXg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/pixel-6-tensor-chip-manufacture
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/pixel-6-tensor-chip-manufacturer-2728997/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

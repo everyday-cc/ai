@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-28-orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow.md",
+      "title": "Orchestrate XGBoost ML Pipelines with Amazon Managed Workflows for Apache Airflow",
+      "excerpt": "The ability to scale machine learning operations (MLOps) at an enterprise is quickly becoming a competitive advantage in the modern economy. When firms started dabbling in ML, only the highest priority use cases were the focus. Businesses are now demanding more from ML practitioners: more intelligent",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/orchestrate-xgboost-ml-pipelines-with-amazon-managed-workflows-for-apache-airflow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ml-4775-image007-1002x630.png",
+          "width": 1002,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:14:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines.md",
+      "title": "AI-driven Deep Genomics gets $180M to turn biology into informational medicines",
+      "excerpt": "Softbank led the Series C round of funding for Deep Genomics, a startup that applies its artificial intelligence technology to all aspects of discovering and developing new drugs. The Deep Genomics platform has yielded 10 programs;",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
+      "originalUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2021/07/Brendan_Frey.jpg",
+          "width": 1487,
+          "height": 992,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-can-ai-have-emotional-intelligence.md",
+      "title": "Can AI Have Emotional Intelligence?",
+      "excerpt": "Dr. Rana el Kaliouby is the author of Girl Decoded and a leading expert on technology and empathy and the ethics of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610185027ed9e3b17ef2392c%2F0x0.png",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/",
+      "publishedDateTime": "2021-07-28T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier.md",
       "title": "Financial firms should leverage machine learning to make anomaly detection easier",
       "excerpt": "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions.",
@@ -1070,145 +1217,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-our-quantum-processor-at-the-deutsches-museum.md",
-      "title": "Our quantum processor at the Deutsches Museum",
-      "excerpt": "In 2019, our Quantum AI team achieved a beyond-classical computation by outperforming the world’s fastest classical computer. Today, a quantum processor from the Sycamore generation that accomplished this important computing milestone will be donated to the Deutsches Museum of Masterpieces of Science",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
-      "originalUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20210726-150-_Safe_Agency-Max_Hofstetter.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
-      "publishedDateTime": "2021-07-28T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-with-computer-vision-bzigo-creates-iron-dome-against-mosquitos.md",
-      "title": "With computer vision, Bzigo creates ‘Iron Dome’ against mosquitos",
-      "excerpt": "Israeli startup's tech doesn't kill the pests, just pinpoints them with laser light and alerts your smartphone",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
-      "originalUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/07/Bzigo_From_Behind-e1627155186683-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
-      "publishedDateTime": "2021-07-28T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
-      "title": "Why we need engineers who study ethics as much as maths",
-      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.studyinternational.com/news/study-ethics/",
-      "originalUrl": "https://www.studyinternational.com/news/study-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.studyinternational.com/wp-content/uploads/2021/07/000_9EU6FK-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Study International",
-        "domain": "studyinternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

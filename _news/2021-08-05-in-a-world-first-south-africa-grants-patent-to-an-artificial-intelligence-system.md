@@ -1,28 +1,25 @@
 ---
 category: news
 title: "In a world first, South Africa grants patent to an artificial intelligence system"
-excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
-publishedDateTime: 2021-08-05T14:31:00Z
-originalUrl: "https://www.sabcnews.com/sabcnews/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/"
-webUrl: "https://www.sabcnews.com/sabcnews/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/"
+excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
+publishedDateTime: 2021-08-05T09:18:00Z
+originalUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: SABC
-  domain: sabcnews.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://www.sabcnews.com/sabcnews/wp-content/uploads/2021/08/AI.jpg"
-    width: 780
-    height: 529
-    isCached: true
+  - AI in Robotics
 
 related:
   - title: "Academic City introduces a degree in Artificial Intelligence: first in Africa"
@@ -53,6 +50,6 @@ related:
       domain: theconversation.com
     quality: 40
 
-secured: "YEtzPx5lr9nhni2cN5AnrpHk1UHnIYxmZB3BWqjahRTfEbdP7Hta1tUSszA/dRddjuzgbvdZF4/F8e/r8HXxEblwDXWuES18hYTJ8Ao7I0d2l8EiAd9dtTEFWPJPpoR/ELIbofASXBVxfMiL/9MgGtUgypjd/F20ngosEz0rK+HyH7YEbdx8rlo2L0d4zCpfteXLNRrRgTM/6NFsBaFPK5s6pr06RCvzsxq3NdsKIpTsUXArFQ8oEJM+A8RknX0hxDOLeHXPFi7gu3LrjP/kcKMJ0bhXvT2iDta/0R2s1VCmkXGQPlkNQqat4pDM89iUUcbAiVCG5L2O0gPLY2+MaBYc9hruwBhEEWGUPxpf7ts=;O/cUuzZ6inuQgF8/4Er4XQ=="
+secured: "PpfC2tuCXP0k0DQhv1Q6419a9pTM81emFG3tT2ihiBmp7figHPIQLVzILZPLiTAUswMvkYsksjT6uFP0o37uWipz83+9NOvaWgE6v2peHEq084z/WgbkAQFO77Uea3z7MIt6c4pEDtF9Wub/LekMytJphkZCbtBWCaDmOXufRn2SayDCXNmfNmMdzDeLmEHcXMoFzAOMjTSs9bRq57oIWr0V0Iytf9QVutCUk5wcJYrEg8/IduAZ4edJFkxz4TP1GnUAaJpONcAj5+pZnI6OB9s6abvco6Os2WkBjoEieF+ECLwU+/WMSoczPeZL6kumCBSoPU59kRVw/kZM6kabItlHeTZ0lLaZ0cM6ECPk9lkUo0SdINwkZkQBpxkz4r+23hL5m/W1o0RwU6RUf/tch/uCumUkX/qH1Uidoejn/WWH7wzB0MOeZZzUCP04ocnKm9Y5yGmClTO3VUnqalhaggb/NPLnJRoTOmHRcuXr5QSRNnl61JxWlIHEWU5VsYI26jyzIHAMS+0s+2pemEmASQ==;OpVtiwHMMcm+GSjrZHOZpQ=="
 ---
 

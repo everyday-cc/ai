@@ -2,6 +2,144 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-27-artificial-intelligence-could-dramatically-speed-up-climate-action.md",
+      "title": "Artificial Intelligence Could Dramatically Speed Up Climate Action",
+      "excerpt": "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
+      "originalUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fa-mag.com/images/logo_opengraph.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Advisor",
+        "domain": "fa-mag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-generally-capable-agents-emerge-from-open-ended-play.md",
+      "title": "Generally capable agents emerge from open-ended play",
+      "excerpt": "In new work, algorithmic advances and new training environments lead to agents which exhibit general heuristic behaviours.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
+      "originalUrl": "https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Hxi_DzP2TkP8cH--3-gRNA1H6PToWpgO6Z-YpLyFLMTLfzwf5NcDzBm2ikfwi01HGlp1NQ3JdWZs9U75ySw5CUremqZzuKDm67C4MhB6ocRpuiL3A7g",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-now-in-3d-deep-learning-techniques-help-visualize-x-ray-data-in-three-dimensions.md",
+      "title": "Now in 3D: Deep learning techniques help visualize X-ray data in three dimensions",
+      "excerpt": "A team of scientists has leveraged artificial intelligence to train computers to keep up with the massive amounts of X-ray data taken at the Advanced Photon Source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210727171525.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210727171525.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-the-uspto-ai-innovation-journey-with-scott-beliveau-branch-chief-of-advanced-analytics-at-the-uspto.md",
       "title": "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO",
       "excerpt": "This month’s AI in Government presenter is Scott Beliveau, Branch Chief of Advanced Analytics from the United States Patent and Trademark office (USPTO)! In his interactive discussion '",
@@ -1024,154 +1162,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
-      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
-      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
-          "width": 1187,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
-      "publishedDateTime": "2021-07-26T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
-      "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "originalUrl": "https://www.openpr.com/news/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U726100798_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337136/healthcare-natural-language-processing-nlp-market-including",
-      "publishedDateTime": "2021-07-26T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-despite-controversies-and-bans-facial-recognition-startups-are-flush-with-vc-cash.md",
-      "title": "Despite controversies and bans, facial recognition startups are flush with VC cash",
-      "excerpt": "If efforts by states and cities to pass privacy regulations curbing the use of facial recognition are anything to go by, you might fear the worst for the companies building the technology. But a recent influx of investor cash suggests the facial recognition startup sector is thriving,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
-      "originalUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/facial-recognition-tech.gif?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/facial-recognition-flush-with-cash/amp/",
-      "publishedDateTime": "2021-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

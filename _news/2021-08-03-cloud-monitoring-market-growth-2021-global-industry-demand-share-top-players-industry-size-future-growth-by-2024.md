@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market 2021 : Industry Analysis with Business Scenario, Trends and Forecasts Report 2025 with Leading Regions and Countries Data"
+    excerpt: "AI in Fintech Market Growth Analysis 2021-2025 : The increasing use of AI in Fintech in Virtual Assistants (Chatbots), Business Analytics And Reporting, Customer Behavioral Analytics and other industries is driving the growth of the AI in Fintech market across the globe."
+    publishedDateTime: 2021-08-03T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-industry-analysis-with-business-scenario-trends-and-forecasts-report-2025-with-leading-regions-and-countries-data-2021-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
     publishedDateTime: 2021-08-02T17:28:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Mint
@@ -38,6 +38,20 @@ related:
     quality: 54
     images:
       - url: "https://www.reuters.com/resizer/BmEQhNR3h6WvY4rl0XesUwQsE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Twitter – Qualcomm risks self-driving prang | Reuters"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-05T17:54:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_twitter/twitter-qualcomm-risks-self-driving-prang-reuters/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg"
         width: 1200
         height: 628
         isCached: true
