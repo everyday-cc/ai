@@ -4,6 +4,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/kalyanmoy-deb.md",
+      "title": "Kalyanmoy Deb",
+      "excerpt": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kalyanmoy-deb/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kalyanmoy-deb/",
+      "type": "profile",
+      "name": "Kalyanmoy Deb",
+      "bio": "Koenig Endowed Chair Professor, Electrical and Computer Engineering, Michigan State …",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=paTAXiIAAAAJ",
+        "citations": 163290
+      },
+      "affiliation": {
+        "path": "",
+        "name": "msu.edu",
+        "domain": "msu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=paTAXiIAAAAJ&citpid=3",
+          "width": 116,
+          "height": 127,
+          "title": "Kalyanmoy Deb",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/leo-breiman.md",
       "title": "Leo Breiman",
       "excerpt": "Leo Breiman (January 27, 1928 – July 5, 2005) was a distinguished statistician at the University of California, Berkeley. He was the recipient of numerous honors and awards, and was a member of the United States National Academy of Science.",
@@ -259,29 +293,27 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
-      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
+      "path": "_people/daniele-bonacorsi.md",
+      "title": "Daniele Bonacorsi",
+      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
+      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
       "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
+      "name": "Daniele Bonacorsi",
+      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
       "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 310
+        "username": "DBonacorsi",
+        "url": "https://twitter.com/DBonacorsi",
+        "followers": 705
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 142791
+        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
+        "citations": 152850
       },
       "affiliation": {
         "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
+        "name": "infn.it",
+        "domain": "infn.it"
       },
       "topics": [
         "AI",
@@ -290,98 +322,49 @@
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Javier M. Duarte",
+          "title": "Daniele Bonacorsi",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
       "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
       "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 7441
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 282
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 174711
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 248351
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
-      },
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/kai-fu-lee.md",
-      "title": "Kai-Fu Lee",
-      "excerpt": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kai-fu-lee/index.json",
-      "webUrl": "https://everyday.cc/ai/people/kai-fu-lee/",
-      "type": "profile",
-      "name": "Kai-Fu Lee",
-      "bio": "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. ",
-      "location": "Beijing, China",
-      "website": "https://t.co/1QmLHUi5s4",
-      "twitter": {
-        "username": "kaifulee",
-        "url": "https://twitter.com/kaifulee",
-        "followers": 1522990
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17649
-      },
-      "weibo": {
-        "url": "https://www.weibo.com/kaifulee",
-        "followers": 51934864
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Kai-Fu_Lee"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Sinovation Ventures",
-        "domain": "sinovationventures.com"
+        "name": "unican.es",
+        "domain": "unican.es"
       },
       "topics": [
         "AI",
         "Machine Learning"
       ],
-      "heat": 0,
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1016438132844032001/d6QB0d6c_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Kai-Fu Lee",
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
