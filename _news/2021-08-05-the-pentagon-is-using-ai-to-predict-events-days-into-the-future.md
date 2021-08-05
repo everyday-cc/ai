@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-pre
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/"
 type: article
 quality: 87
-heat: 119
+heat: 122
 published: true
 
 provider:

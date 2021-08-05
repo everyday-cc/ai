@@ -42,6 +42,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The future of chip design – AI creating AI?"
+    excerpt: "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?"
+    publishedDateTime: 2021-08-05T08:30:00Z
+    webUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 54
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "The rise of artificial intelligence in society"
     excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
     publishedDateTime: 2021-08-03T09:03:00Z

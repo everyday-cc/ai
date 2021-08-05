@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 772
         isCached: true
+  - title: "In a world first, SA grants a patent listing an AI as the inventor"
+    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, it's anything but."
+    publishedDateTime: 2021-08-05T09:49:00Z
+    webUrl: "https://techcentral.co.za/in-a-world-first-sa-grants-a-patent-listing-an-ai-as-the-inventor/109895/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/08/idea-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "Federal Court rules AI can be 'inventor'"
     excerpt: "A Federal Court judge has ruled that artificial intelligence (AI) systems can be inventors of patentable inventions in a landmark case. Justice Jonathon Beach handed down his ruling on Friday, saying an inventor could legally be an AI system,"
     publishedDateTime: 2021-08-02T13:37:00Z

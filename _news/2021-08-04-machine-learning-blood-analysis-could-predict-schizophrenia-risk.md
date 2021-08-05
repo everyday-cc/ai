@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/machine-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "Machine offers possibility of predicting risk of schizophrenia by using blood test"
+    excerpt: "A machine-learning algorithm may offer the possibility of early diagnosis of schizophrenia by using a blood test, according to a team led by researchers at Baylor College of Medicine."
+    publishedDateTime: 2021-08-05T09:14:00Z
+    webUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/"
+    ampWebUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 38
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/OURGNOG67JGYJPITYQQ7E5DASQ.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Machine learning approach for predicting risk of schizophrenia using blood test"
     excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by"
     publishedDateTime: 2021-08-03T13:22:00Z

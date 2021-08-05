@@ -39,7 +39,7 @@ related:
     provider:
       name: Forbes India
       domain: forbesindia.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
         width: 800

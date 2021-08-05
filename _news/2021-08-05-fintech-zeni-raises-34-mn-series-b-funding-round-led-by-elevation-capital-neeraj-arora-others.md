@@ -43,6 +43,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital"
+    excerpt: "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,"
+    publishedDateTime: 2021-08-05T08:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/379426"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/379426"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Financial concierge startup Zeni banks $34M to show SMBs their finances in real time"
     excerpt: "Zeni’s AI-powered finance concierge platform offers bookkeeping, accounting, tax and CFO services, essentially becoming a back-end controller for startups."
     publishedDateTime: 2021-08-04T13:00:00Z

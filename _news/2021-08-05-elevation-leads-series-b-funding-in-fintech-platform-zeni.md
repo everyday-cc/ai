@@ -41,6 +41,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital"
+    excerpt: "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,"
+    publishedDateTime: 2021-08-05T08:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/379426"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/379426"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Financial concierge startup Zeni banks $34M to show SMBs their finances in real time"
     excerpt: "Zeni’s AI-powered finance concierge platform offers bookkeeping, accounting, tax and CFO services, essentially becoming a back-end controller for startups."
     publishedDateTime: 2021-08-04T13:00:00Z
@@ -85,6 +101,6 @@ related:
         height: 473
         isCached: true
 
-secured: "MKwz0OSBuY3Bj31RuvS5KdmIhNyhTo/fa1LU2SzNPAvh+UcayXRFQsllWfOtpEm0/+nJ6VME/2sBK66sfdGaZtN7PaSgFQEzGIS9B5YbYfRGCVP/9D/dqTv7UwXU/5BOP9y4hhZuTp9Tdiis5ZaYZJBh2DuqqblZ9HwF7n8Q8uhG5D5pcPWB7VH04ICewnITojZzG5gxNbchIX/fZOvUGrJ7zckfq4w/O2P+5LecgCyUyQJ/jHRoygcRM6byiVUXfrilRX2MGNdIK3AgYj+1acpMXxV/8BZjtWlG30hYAwulbqt/REupyPQxFabsv2zh9JuEN8fWUY0uPy/0Xwr3OyJK4JxSfNGX108aYRaRVCs=;zdCDwfxviLjEk1vu3Sb8wQ=="
+secured: "AUUjbeGAWaiG6YXXhUWYHipWbW1Rl3worpEp7GTm9v7jsFArq7iUsSFs47PnvPVjcXwD1OVnaOxfsK8KAJFVdUzo5yiRFjjC+7mWTdTB2DfaXV+UXEV+X5fs5hnd73PqHMgW8WFp0HlHHzZMfuyML9MEZLJbnvM56q9VpUlsFOdhb3NyFT+PQSqCSXHx2jtR6zFUOwOdn7NbAE9WA9aSPj5XDj3Jt1HzQlZzrl7GSFSTNgyM1DXkSWgnomwLPIOSxCmbPNNTxxuoyOi/GfB4sDWMHsCZRXEEx/IIE4jtM6piggucUc9f76Pmap0npnJSrTMgum/Iu3XNt5lharxkZRGkRAdChjvRKo9I9nUs+pqkvJ2qvOuX9XPSN+UtaJ++o0SpA+GuOoCYa//j/DvLn8/wpXzLOKiZBt2jG2UzubK/o7q05d94lMll8YH40e5jnfkFQ1tCya/n9AbsRBve3fyaN58hNmI50+DDAArdhfSA7aj4nIlPEFqgf53XKsyxJKNwJq1QRzqLUBGboyH2eg==;DVGf1E16Rjg9vGGoqptVBA=="
 ---
 

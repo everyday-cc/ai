@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Is artificial intelligence taking manufacturing jobs?"
-    excerpt: "American scientists predicted that the world is fast approaching a time when machines will be able to outperform humans at almost any task, especially in manufacturing, writes Edward Kayiwa"
-    publishedDateTime: 2021-07-31T15:53:00Z
-    webUrl: "https://www.bukedde.co.ug/news/110585/is-artificial-intelligence-taking-manufacturi"
+  - title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
+    excerpt: "The Wealth Management Institute (WMI) in collaboration with Nanyang Technological University Singapore (NTU Singapore), UBS and leading"
+    publishedDateTime: 2021-08-05T08:42:00Z
+    webUrl: "https://www.miragenews.com/anti-money-laundering-prototype-using-608543/"
     type: article
     provider:
-      name: Bukedde
-      domain: bukedde.co.ug
-    quality: 39
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 44
     images:
-      - url: "https://newvision-media.s3.amazonaws.com/cms/1e31154f-67bb-4e6b-8a69-c5ed5f03058c.jpg"
-        width: 1000
-        height: 637
+      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?Status=Master&#038;sfvrsn=55d6ef2_3"
+        width: 729
+        height: 509
         isCached: true
 
 secured: "P48V6dcx0Ff7/HWiwNFIAwfxPh76Ut7PpEL3RVAdT8Ppi4yoRNSSu16Yso9FxBrNu7NDqdduUTUEstdmlIQn2tpzr5MT80ormTc5L++22A3SBKuKUGh8Bg2QakZWvcFLQof/djXn7s8koQBzuG/Q3qA+Vl328Yrxj3mkxd2uahHUnBpMiRB93BSgYDWLzzhLZ1xV63NBgGetBF/L6lG9pTiBSfihMEA0CRW5lbj0lRv4EOOnF6emimr+q0KT/Pg79R08nBT9c5thY7GfDNGD1mAkLWcUgmXsfRxBTfRdEaa1al8Bm57V7+HAz2x5XM80MJ4cAHuZLSBpJ6A7WSheA8xDR3KEXHFT8/I8W9bG656newRSp9DYOzJaaPTRrkDKS28tRpdRKblLO0SqAfgP5JTj7Dy1oEajJmMm5btQX4OK1/gn3URI1AAz5SGAH2oQvBEcAz6Ih49uzRoBDNapwLppVE5RB6ciuhaZF55Oh3rbDGqu1UbILe8Bx+rpUC9C38a5HRy2AuNM99k6r+cB5g==;qDhZKVa0cqusG+Ea1/L9PA=="

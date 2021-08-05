@@ -56,6 +56,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "In a world first, SA grants a patent listing an AI as the inventor"
+    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, it's anything but."
+    publishedDateTime: 2021-08-05T09:49:00Z
+    webUrl: "https://techcentral.co.za/in-a-world-first-sa-grants-a-patent-listing-an-ai-as-the-inventor/109895/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/08/idea-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "Op-Ed: AI legally recognized as a patent inventor -Emerging status as a legal, real person is now in view"
     excerpt: "Recognition of AI entity DABUS as an inventor is a gigantic, unsure, step into the legal status of artificial intelligence, and it’s a major future issue for the law."
     publishedDateTime: 2021-08-02T01:50:00Z

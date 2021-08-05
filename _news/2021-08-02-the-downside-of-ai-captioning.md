@@ -40,6 +40,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "The future of chip design – AI creating AI?"
+    excerpt: "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?"
+    publishedDateTime: 2021-08-05T08:30:00Z
+    webUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 54
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "Predicting wireless traffic using AI could improve the reliability of future wireless communication"
     excerpt: "The prediction of future wireless traffic volumes using artificial intelligence (AI) would allow communication systems to automatically adjust network resources to maximize reliability. KAUST researchers have now developed a more accurate \"dual attention\" prediction scheme that minimizes the volume of prediction data that needs to be transferred across the network."
     publishedDateTime: 2021-08-02T14:14:00Z
