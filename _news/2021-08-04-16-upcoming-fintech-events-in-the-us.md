@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the market size was valued at USD 27.23 billion in 2019 and is estimated to display a stellar CAGR of 33."
-    publishedDateTime: 2021-08-04T12:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
     excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
     publishedDateTime: 2021-08-04T14:06:00Z
@@ -78,6 +64,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
+    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
+    publishedDateTime: 2021-08-04T12:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "rJCpOvbU1yu+cRcZi5sp+601OEPAssgG9CcH3Z9HbQ/Q9O7igw0Sxfu3HsdehksTBBmVM4HAruEFtoQV2pJmFip3PMufR1m4XASnGpm9BopN+QKDlZO/Q+Qrf40P09o9evgcIr/fOIL0J6Ldt1oOPlNNNuFF262ny8zhi/ihK5eAKP8524Du1kMerfSorTJ2QMvM2ExkpElJH7lBc4aZh7qzoogWCPcm/uRDxPBCHWZtgVtOBpVa9RffEDg/+5GiVWpKtZqo51Ib6Rd/U+4Ll/ZtrfW0Izm7N6NC/oCaHJIcKVfkL1nTmkqIFirZtkIkXzOBu6NgN09DTguGLv89SWUUYkbYiBPOf0u1F/w2t2F3E2sJ+zHGpo6VDkAjRiByQrrMlQqannrBEWhuwfpNZMfuiB6OoMAlGmMoMRH/An+mRlYUH0OSRvejgdILD/BrvmOY/KJ+ze3mG5sOyOQvJY9sCK288O/OiyqRT5ue7XGXJAna2PVKz9PAEPRxTxjMqR3PBi/feqYw8sjNAdOj6Q==;ZFiIIuI6Wj35XISC9RhnwA=="
 ---

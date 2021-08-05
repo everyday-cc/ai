@@ -48,6 +48,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "Here’s why AI transforming banking matters more today"
+    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
+    publishedDateTime: 2021-08-03T15:38:00Z
+    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 37
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ftH/+kOyTHgGC5I7YwVaIUWkETAZe4TgZjaHsoHeOKB2hreC4P0TAS5uF2ZucXBHE6pfHu4BVVfTcoN/IppYWT14LmPVz1XteRbYFrH3WQdaj8R6HkbqRxKN79lKxyHWEKcZN3B6e9IB6JhV8xM6hkrm96j56ttpLzpRJxUHO+XYkLNHWVCJ3SZogfDjbRZ3nHvUk+qMVWR525NptJ/2pTLV/DWBY04CAfxMVJpwLtDuyxej2jy99L0ywYLwQtc5D137qasZGfbG1N8nio/aaf/PSaRz7vTVrIDA02KzJDX1ikDyemZiHOAc4RGFTTqQTgLfEfLAKZ87kRuLOWoi4U2iW9Y10XLxNEsvxqMc2Ks=;oKvXXDWbyU3Z9er/wnutTA=="
 ---

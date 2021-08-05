@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Xiaomi funds another self-driving startup"
-    excerpt: "Self-driving startup Geometrical Pal raised RMB 400 million ($62 million) in pre-Series A funding from backers including Matrix Partners China and Hubei Xiaomi Changjiang Industrial Investment Fund, an investment firm formed by the namesake smartphone maker,"
-    publishedDateTime: 2021-08-03T07:27:00Z
-    webUrl: "https://technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
-    ampWebUrl: "https://technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/Cleantech-side-banner.png?ssl=1"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "DOT moves to allow self-driving car tests on NYC streets"
     excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
     publishedDateTime: 2021-08-03T20:27:00Z

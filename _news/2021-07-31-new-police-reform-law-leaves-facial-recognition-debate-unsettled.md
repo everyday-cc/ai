@@ -77,15 +77,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Police across UK testing new retrospective facial recognition that could identify criminals and missing people"
-    excerpt: "Hampshire Constabulary, Humberside Police, North Wales Police and South Yorkshire Police are among the UK police forces exploring retrospective facial recognition technology"
-    publishedDateTime: 2021-07-31T06:03:00Z
-    webUrl: "https://inews.co.uk/news/technology/uk-police-testing-retrospective-facial-recognition-identify-criminals-1128711"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 0
 
 secured: "0MlP2ZeOcWycFsp/ovqeCeE5RviqKokb4CvRbL8J3s5dTd+ZehFIR5qKMrsBS80Mc/esxLwaNCpNDvaUt04IVVE1ERL6Ffk1CqWakQ+anAKnFO8KLFNYaG06Gmw3NEDTRZtgx6yS+Th80x5sTjMr9JeRE6QOC9lhjmNC7/6RWpwzZ3cNv/N8Llk540T97vFWpMi6wm6C/EHHdGpN48JDs+1FG5ygTPj/wJXDFJWaoBnk+0JvwS63gWl+xE/N0sDpNcMzLl2QnhBQ2PmnyFPfLW+TJoV5Hoz4HUSzB8/42NnqU7t6caD3CSa37m6a38lLP4pg3eXW/6OT76J99tMA6VPRQPkwn4Degyv4Zq+Nablr1WSe+LwCig6mPxtOe2JZkhw+Cvbz0SzkhZ2crgao1HJk+XykH7sFCqDl7oam1m951Xc59viUAvUuJXEe2PuSVBc/wHM+Y/GRAghD5rYWstaqjmnkDcnDnrKOv5rfr0UEEG+FwmlLxBFtOf5/5isjHow5j05MbGMjXpuFqFI+SQ==;WNH3BOC46dvA3JIjRkp+2A=="
 ---

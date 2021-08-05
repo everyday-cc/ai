@@ -7,7 +7,7 @@ originalUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelli
 webUrl: "https://www.yumpu.com/en/document/view/60845191/artificial-intelligence-in-retail-market-to-grow-at-40"
 type: article
 quality: 52
-heat: 66
+heat: 62
 published: false
 
 provider:

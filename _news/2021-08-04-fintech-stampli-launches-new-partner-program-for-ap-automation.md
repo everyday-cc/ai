@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Fintech Stampli Launches New Partner Program for AP Automation"
-excerpt: "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli's award-winning AP automation and payments software."
-publishedDateTime: 2021-08-04T14:11:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fintech-stampli-launches-new-partner-program-ap-automation-/2021/08/04/9423989.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fintech-stampli-launches-new-partner-program-ap-automation-/2021/08/04/9423989.htm"
+excerpt: "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, resellers, consultants, and ERP providers to expand their offerings with Stampli’s award-winning AP automation and payments software."
+publishedDateTime: 2021-08-04T14:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/fintech-stampli-launches-new-partner-program-for-ap-automation/article_4a56bb3b-b933-5ecd-810a-f87c5ea60a1d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/fintech-stampli-launches-new-partner-program-for-ap-automation/article_4a56bb3b-b933-5ecd-810a-f87c5ea60a1d.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "0yOru/jpUQO6nlLsmQOgZo0kfk3PW9tsIGy7rfbq1oJDUjqkyZtVmA9V2cWaiJpyHNL4uA9g5ZPZSUBKnEzJvAMS94XIObuUhGFylxA8dZlvD8Lw1Uvz7+Q7hkCT2upMzmMiDSVgCGh8O6OCKnJjTVJyPAQXSLb6bydIAhmT0h+tHOyLRHHUL73jx3IpjoWxE2nGJ69ckbv4m4uAcd374gq3TkPR42RX+GEjETK6cD+jzWxCzNzC1EH71dNqJWeuW8WPeuyWyqF7hZGQJDIQJF+zuDsWQLWPeF66pYrw0SliYPwC0zMElqB4YcOm0MHks6JrO4V/0inDLVn+po1oXfRlcWKYZvl/fzyUVSwnR+E=;Rnp5ai8kjVVAMN8Zk7ASfQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "b3E9GoY4u5wYRcU1OxRBD0yLP/PCnHImRKkW+LFRZKVtS9RpZUApsNrr+tRPeKV1AhBKTydpClHhW0VRlKNhSLAfUDoHExtZzLr+98TPwRH5bMjLnMAjSjYwOIAa6ZkkTHtzH13DF2WQRfEenY+v2jH/A4A/Cw+y9IiSsZV4hcrS4LRSXZQesTl9jJr4ZIE16/nHVqCBM7U3uBKFRsuRwdKMJWs6WUfeD1/F72Giouv8Mw3mQb6f8SdHomUY7LDiwdtmZuirKoun2r7mLXkN9WAvTkrJnf0GmVvNZ9Fus2slRpN0CUTIlUgFreaxrIKx5FLJ+RD9km8cPZ5wQTyqCy6EDcXIQ4i2hcqWZTzMtUM=;HWKmQ5Uf0StyBgQUVHKHqg=="
 ---
 

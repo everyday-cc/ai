@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

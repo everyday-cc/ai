@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.freep.com/amp/7939422002"
 cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/7939422002"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,42 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s why AI transforming banking matters more today"
-    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
-    publishedDateTime: 2021-08-03T15:38:00Z
-    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
+  - title: "Researchers aim to help protect US Navy divers using AI systems"
+    excerpt: "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from"
+    publishedDateTime: 2021-07-31T13:18:00Z
+    webUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/"
+    ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
+      name: SlashGear
+      domain: slashgear.com
+    quality: 67
+  - title: "Researchers use AI to unlock the secrets of ancient texts"
+    excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"
+    publishedDateTime: 2021-08-03T18:44:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
-        width: 1024
-        height: 682
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/latin.jpg"
+        width: 1920
+        height: 1245
         isCached: true
+  - title: "Researchers use AI to unlock the secrets of ancient texts"
+    excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
+    publishedDateTime: 2021-08-04T18:54:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803175228.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "LpLLvmZi5TqjX1Sep5xBzpbU/7TtRWTa5hrmCs81kw4rflDv6M1XCXLUxS9lN5pPlLciFx/p8+N7sLM7cU3zD8SMxkC1y1EK9HYSf3Ezi+rBGw+vljAw1+ynQ8pTObbTnTEBALvyWLEytFyGeQvGwtws6GPiTGRUdOefoaFi/Tf25KDPMC4DddJQ7uJAFvtbuOY30kKW1ZvpjPf4BERXgFAd/m/ZEXPxSyV7CmOpgiHOX+EixuG3rqMjY48NakjmB76MqO2gQCWABmZfxzg2z0b58wNLhGpitoIKgmrNUBs9tThvzU6xdTAStraJNUlXiQY36fx+52moq0mFgX04zUzYMO3HZl6Duzw6PNZgGsU=;nOJXQg7rSLy3IOVXUUrbNg=="
 ---

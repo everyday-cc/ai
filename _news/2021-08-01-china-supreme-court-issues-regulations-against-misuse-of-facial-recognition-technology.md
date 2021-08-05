@@ -78,15 +78,6 @@ related:
       name: Cape Cod Times
       domain: capecodtimes.com
     quality: 19
-  - title: "Police across UK testing new retrospective facial recognition that could identify criminals and missing people"
-    excerpt: "Hampshire Constabulary, Humberside Police, North Wales Police and South Yorkshire Police are among the UK police forces exploring retrospective facial recognition technology"
-    publishedDateTime: 2021-07-31T06:03:00Z
-    webUrl: "https://inews.co.uk/news/technology/uk-police-testing-retrospective-facial-recognition-identify-criminals-1128711"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 0
 
 secured: "eZkK8eJ6JQkKFXSfrpn181gFBW6pWkBVEUDfCBtpeRsBsrGCSrHCU/6kQuSphYWCsDyjJbw3YxSOJVqZQ+JJQqVSvaXTCkMWFe4eUJZulSsw8cQo4GY7ZoO32v4P6nxmTNuMZAR1ncylhDtY/yeXL+oH2+Cq3n+LAGXYgKn+Igp+n5Ugkj5OTvLwg6dliWrlUas9im/Gs55RaixyKmNq9XdkCOPLgaSrM8dHHH9U65is3m1y1qpvzSeyXe50gpxDg1ikxX/54eGEV/MkOcr2jn7q/Tq599g19cO7mWUv4IvHJG9USjjnL5kdT45fTidS6juBxxefs35RkZjo35pgHLojyl4Jig7rWw2sPr8IvjlnZqR6rnM3WEq8gmQNOofZQxXlK90eSQVC1gjw0xTv0BMDMXUXTSnUZ8laokcx8yqGt99t84i+N2V5I+v59H89YCONLgF3fm+EAAAVNS8IXNk1sqPYqtT3XPkI0A3YQVxqeQ666UeMvo5dWgctixd+Azmlp2x/tyADwUTmvxpASw==;p5XuZVH3zpCpMQ5DYxUucg=="
 ---

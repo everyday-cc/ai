@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "DHS wants AI forces working more as a department-wide team"
-    excerpt: "The U.S. government has published three strategic security goals for AI and machine learning, both defending against them and using them to protect the nation."
-    publishedDateTime: 2021-08-02T17:39:00Z
-    webUrl: "https://www.biometricupdate.com/202108/dhs-wants-ai-forces-working-more-as-a-department-wide-team"
+  - title: "USQ uses AI to deliver more precise rTMS treatment for depression"
+    excerpt: "Researchers at the University of Southern Queensland (USQ) will use AI to improve Transcranial Magnetic Stimulation (rTMS), in treating depression."
+    publishedDateTime: 2021-08-04T22:17:00Z
+    webUrl: "https://www.manmonthly.com.au/news/usq-ai-deliver-precise-rtms-treatment-depression/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
+      name: Manufacturers' Monthly
+      domain: manmonthly.com.au
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://www.manmonthly.com.au/wp-content/uploads/2021/08/8A659D7B-EA73-4290-B329-0E7B69332657_4_5005_c.jpeg"
+        width: 750
+        height: 335
         isCached: true
+  - title: "Using AI to deliver a more precise magnetic stimulation treatment for depression"
+    excerpt: "Researchers at the University of Southern Queensland are planning to use artificial intelligence to improve the procedure."
+    publishedDateTime: 2021-08-03T03:46:00Z
+    webUrl: "https://healthtimes.com.au/hub/mental-health/37/news/nc1/using-ai-to-deliver-a-more-precise-magnetic-stimulation-treatment-for-depression/6066/"
+    ampWebUrl: "https://healthtimes.com.au/amp/hub/mental-health.html"
+    cdnAmpWebUrl: "https://healthtimes-com-au.cdn.ampproject.org/c/s/healthtimes.com.au/amp/hub/mental-health.html"
+    type: article
+    provider:
+      name: healthtimes.com.au
+      domain: healthtimes.com.au
+    quality: 34
 
 secured: "cmmVsZ27rShAwLJ2kwIVZrYdj5foxn2U9kEz5FhAjz2uWV+KsmGmfr3atYwqkh6n/nwgeYuI8rRwzQ3ctekg5cUk88aKASev1rK/epzNRIIYip5tcXlgHYCFJzufLiuYXijwCiWDHSM3nU3I9Kw7sLPgNpR20K9JU3G0sDiyIIT7Cc2CfUiRLlO2w0gJ9EFvn+MuZCyUd6uM3UiJhjc/nsp3t3y3UV01O8JbuQI+cPKvDNPXru5NObxAETdheALoC4BSnNFDvH6NB1H7o9oxGGKLJGwtsCFKOIKjWcPBBBXfhdoO4fBIQYXPGKw10+Vivui6Hwtp2F5XgIp2rSXmXiAiE1iIS7jmyY8/FMVu8Q0=;woM7Zm8w2ek+FyagIMH5kA=="
 ---

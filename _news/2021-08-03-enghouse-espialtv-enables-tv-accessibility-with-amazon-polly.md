@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-en
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:

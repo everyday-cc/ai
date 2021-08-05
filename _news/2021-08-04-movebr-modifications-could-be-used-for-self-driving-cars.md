@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessreport.com/business/movebr-modifications-could-b
 cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,123 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Expands Fleet of Self-Driving Cars"
-    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
-    publishedDateTime: 2021-08-03T15:39:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+  - title: "Self-driving-car based on the Nvidia Xavier Module"
+    excerpt: "Self-driving-car based on the Nvidia Xavier Module. Abstract. This is how the U.S. National Highway Traffic Safety Administration defines level 5 self-driving cars: “The vehicle"
+    publishedDateTime: 2021-08-04T09:25:00Z
+    webUrl: "https://github.com/Aviageek-Consulting/Self-driving-car"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
+      name: GitHub
+      domain: github.com
+    quality: 24
     images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
-    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
-    publishedDateTime: 2021-08-03T18:54:00Z
-    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
-    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 44
-    images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "TDOT, Vanderbilt studying self-driving cars on I-24"
-    excerpt: "Work said he believes the study will help autonomous car makers design better self-driving systems. Images are fed into a high-powered computer. The research will also allow for data to be collected about which road patterns cause the most accidents or ..."
-    publishedDateTime: 2021-08-03T22:44:00Z
-    webUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24"
-    ampWebUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    type: article
-    provider:
-      name: News Channel 5 Nashville
-      domain: newschannel5.com
-    quality: 44
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb021bc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd9%2Fdd%2Fe0d32e564dc8afa851b2039c7986%2Fraw-frame-21182.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
-    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
-    publishedDateTime: 2021-08-03T19:23:00Z
-    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
+      - url: "https://opengraph.githubassets.com/ec60046d7654f2168bb82a7bdc2f0ff4a9ce3cde75986de9a38ab1c313acecc9/Aviageek-Consulting/Self-driving-car"
         width: 1200
-        height: 640
+        height: 600
         isCached: true
-  - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
-    excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
-    publishedDateTime: 2021-08-03T10:11:00Z
-    webUrl: "https://manometcurrent.com/self-driving-vehicles-market-moving-towards-a-brighter-future/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 24
-    images:
-      - url: "https://marketresearch488204729.files.wordpress.com/2021/08/project-single.jpg"
-        width: 790
-        height: 400
-        isCached: true
-  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
-    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
-    publishedDateTime: 2021-08-03T21:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
-  - title: "Self-Driving Cars: Should They Prevent Human Error?"
-    excerpt: "And 81% of these accidents are caused by human error? 1 million people, gone like that. Fortunately, there's a new technology that dramastically decrease this number. This technology is self-driving cars."
-    publishedDateTime: 2021-08-01T02:48:00Z
-    webUrl: "https://www.123helpme.com/essay/Self-Driving-Cars-Should-They-Prevent-Human-FCSAGFUTYKM"
-    type: article
-    provider:
-      name: 123HelpMe
-      domain: 123helpme.com
-    quality: 4
-  - title: "VW boss: Data to be key issue for future of self-driving cars"
-    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
-    publishedDateTime: 2021-08-01T11:11:00Z
-    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
-  - title: "New algorithm helps self-driving cars navigate narrow streets"
-    excerpt: "Researchers at Carnegie Mellon University (CMU) have developed an algorithm to help self-driving cars navigate crowded, narrow streets. Narrow streets can become even worse with parked cars on both sides,"
-    publishedDateTime: 2021-08-03T00:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17013/new-algorithm-helps-self-driving-cars-navigate-narrow-streets"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "gwv0NRxDiunDntqoIFV6VyvhlemXcgsx3yZwrNPYFrnLu8r3lgxhUSim/dgBf0gEwfM2csZc6YC05W1lGY8G6RSeDqDxm68s71OtPwOhGkU2tqtf/fWiompAXt1bFEKs/CQ92402gB3H+kP8a/pbGuNhcTFuCrnCQYilvZqVmudejgsoAr0OoiGwqzsQU7q2LY5C+6O4wB6kckD1DzT8WZnc9o7N1bG+/iV8VFkNGwjO0NeXdZX5nXQbKwOaF2vvK4dKM0+FLm5HjWiZvyg5aipDauH17BAHmLSvA3TBSgQ2DHsL7/Gl3GxZFSlmX+UhjZVlcavfQZccgVS74Ma3KyQCzoc9QY+v/ptfNH/RtY+9DD7dzqCRuIqW/0j0obU01DZwefxrd9yb9umWS3nU/GEXHLmLdm4GzoLBKVpgcACs/NmuGzdwU8P5WrayqHRFbzw1gEY/yfSZlk2Q9lJ288ff2ZgXN2Dqyz03kjw43UA8XlutyqCEkmpL8G4YG/ssgvzYTZMj65/p5493w8D9rw==;iu0vDy9NHqFRphSjbWvvkw=="
 ---

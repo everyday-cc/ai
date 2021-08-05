@@ -27,65 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi invests in a second self-driving company within three months"
-    excerpt: "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total."
-    publishedDateTime: 2021-08-03T11:43:00Z
-    webUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement"
+  - title: "VC Daily: Judging the Future of Self-Driving Truck Startups"
+    excerpt: "Autonomous trucking startups have, by some measures, rebounded from the hardships that hit the self-driving sector in 2020, when funding dropped and the pandemic delayed testing and development."
+    publishedDateTime: 2021-08-03T13:56:00Z
+    webUrl: "https://www.wsj.com/articles/vc-daily-judging-the-future-of-self-driving-truck-startups-11628002586"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FXiaomi.jpg&signature=bc13453f61222aa3c618ab670fc5ffd7"
-        width: 1280
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple Expands Fleet of Self-Driving Cars"
+    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
+    publishedDateTime: 2021-08-03T15:39:00Z
+    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
+    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
+    publishedDateTime: 2021-08-03T19:23:00Z
+    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
+        width: 1200
         height: 640
         isCached: true
-  - title: "DOT moves to allow self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+  - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
+    excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
+    publishedDateTime: 2021-08-03T10:11:00Z
+    webUrl: "https://manometcurrent.com/self-driving-vehicles-market-moving-towards-a-brighter-future/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DOT moves to regulate self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Xiaomi invests in self-driving company Geometrical Partner"
-    excerpt: "For the second time in three months, Chinese tech company Xiaomi has invested in a self-driving vehicle company. Founded in 2018, Geometrical Partner has attracted a $62 million investment fund belonging to Xiaomi,"
-    publishedDateTime: 2021-08-04T07:37:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/xiaomi-self-driving-company-geometrical-partner/"
-    type: article
-    provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
     quality: 24
     images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/03/Xiaomi-electric-cars.jpg"
-        width: 1280
-        height: 720
+      - url: "https://marketresearch488204729.files.wordpress.com/2021/08/project-single.jpg"
+        width: 790
+        height: 400
         isCached: true
 
 secured: "WoaQfm8pUBz13HwNivwrm325KZt2ktL59KHIYtFeQ3yGhJZDcOopFCzHDp+Ypq02gTt/ULOwJtsyEQ3JDMyRvro2LSjDsuLqGdChzvRZ/TCNFBx6nNLKByrC8o3xHgsJkRAJG7ECx/pfjUJfHTWPeaIKUniwojHHoC3esoEPYZ8toBQLfBkwbhlEULsjcHTaR7jyjjts2aZ2C3IzH22F/CE7nM1TzFjHupRVO5/rNcNu2HenG6FH9HC1RMpWMVwi7OFDRLQm7N0/ZFAvVkwogABsEIZjvkUcxg5ZiqO/wPv7i+ixYue7fysxX9S+0Inv1661EN1FmP5mpci6u6zIbIIvAvppIMs/C1V1GMbI9GI=;FIkNJOVwIS5M/dn0nl+Qsw=="

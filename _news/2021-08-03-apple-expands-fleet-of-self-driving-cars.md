@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-dri
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,53 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
-    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
-    publishedDateTime: 2021-08-03T18:54:00Z
-    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
-    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
-    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+  - title: "VC Daily: Judging the Future of Self-Driving Truck Startups"
+    excerpt: "Autonomous trucking startups have, by some measures, rebounded from the hardships that hit the self-driving sector in 2020, when funding dropped and the pandemic delayed testing and development."
+    publishedDateTime: 2021-08-03T13:56:00Z
+    webUrl: "https://www.wsj.com/articles/vc-daily-judging-the-future-of-self-driving-truck-startups-11628002586"
     type: article
     provider:
-      name: iMore
-      domain: imore.com
-    quality: 44
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
-        width: 800
-        height: 533
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "MovEBR modifications could be used for self-driving cars"
-    excerpt: "Traffic-light infrastructure upgrades included in the MovEBR program could be used for self-driving cars to operate on the city’s roads."
-    publishedDateTime: 2021-08-04T15:09:00Z
-    webUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars"
-    ampWebUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
+  - title: "Xiaomi funds another self-driving startup"
+    excerpt: "Self-driving startup Geometrical Pal raised RMB 400 million ($62 million) in pre-Series A funding from backers including Matrix Partners China and Hubei Xiaomi Changjiang Industrial Investment Fund, an investment firm formed by the namesake smartphone maker,"
+    publishedDateTime: 2021-08-03T07:27:00Z
+    webUrl: "https://technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
+    ampWebUrl: "https://technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/08/03/xiaomi-funds-another-self-driving-startup/"
     type: article
     provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
+      name: TechNode
+      domain: technode.com
     quality: 44
     images:
-      - url: "https://s25562.pcdn.co/wp-content/uploads/2018/09/iStock-521229477.jpg"
-        width: 1613
-        height: 1075
-        isCached: true
-  - title: "TDOT, Vanderbilt studying self-driving cars on I-24"
-    excerpt: "Work said he believes the study will help autonomous car makers design better self-driving systems. Images are fed into a high-powered computer. The research will also allow for data to be collected about which road patterns cause the most accidents or ..."
-    publishedDateTime: 2021-08-03T22:44:00Z
-    webUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24"
-    ampWebUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    type: article
-    provider:
-      name: News Channel 5 Nashville
-      domain: newschannel5.com
-    quality: 44
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb021bc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd9%2Fdd%2Fe0d32e564dc8afa851b2039c7986%2Fraw-frame-21182.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/Cleantech-side-banner.png?ssl=1"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
     excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
@@ -103,47 +85,6 @@ related:
         width: 790
         height: 400
         isCached: true
-  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
-    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
-    publishedDateTime: 2021-08-03T21:59:00Z
-    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 24
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
-        width: 870
-        height: 485
-        isCached: true
-  - title: "Self-Driving Cars: Should They Prevent Human Error?"
-    excerpt: "And 81% of these accidents are caused by human error? 1 million people, gone like that. Fortunately, there's a new technology that dramastically decrease this number. This technology is self-driving cars."
-    publishedDateTime: 2021-08-01T02:48:00Z
-    webUrl: "https://www.123helpme.com/essay/Self-Driving-Cars-Should-They-Prevent-Human-FCSAGFUTYKM"
-    type: article
-    provider:
-      name: 123HelpMe
-      domain: 123helpme.com
-    quality: 4
-  - title: "VW boss: Data to be key issue for future of self-driving cars"
-    excerpt: "WOLFSBURG: Data that are crucial for the safety of self-driving cars, and the way they are handled, will be important issues that the technology will have to deal with at some point down the line, predicts Volkswagen Group chief executive Herbert Diess."
-    publishedDateTime: 2021-08-01T11:11:00Z
-    webUrl: "https://www.carsifu.my/news/vw-boss-data-to-be-key-issue-for-future-of-self-driving-cars"
-    type: article
-    provider:
-      name: CarSifu
-      domain: carsifu.my
-    quality: 4
-  - title: "New algorithm helps self-driving cars navigate narrow streets"
-    excerpt: "Researchers at Carnegie Mellon University (CMU) have developed an algorithm to help self-driving cars navigate crowded, narrow streets. Narrow streets can become even worse with parked cars on both sides,"
-    publishedDateTime: 2021-08-03T00:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17013/new-algorithm-helps-self-driving-cars-navigate-narrow-streets"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "hR9l+Y/8c4eRfKzv06+1g6w1wwxF72aDwlLOK46Nr+x9jqFSvG25dIVfb/ZiYizVBZVQ7HMCSosfjA+KhhZGOjKM21LFktMTD8f1v4+YglWe3/BHKhW+LocjtK+kPbDmUXPKjQSgAR3El9QXEfQyaUKorfudP3oLhigQiazjvb7teHtYEO/Bmxe5/SrLhDvHmiMAo4NFFn4f03laHPBSZI72Ef7FPE2TQNUig42T5EpJlhdSZq0jOL09dMsiFYA4FydnnW4Wr+n6sPUtZPCOB479UCGRADq7dIy7gleOeBZ29jqBP2ltRSLbtXA5ga/2UF+aY/DNKs/jmp+zRQLAVS57QiEplPpsDOVuB21aC7DrK/QUx938bJWE8PDc8H5MbYc4kXwYl7RsDn6uh+SELaRv2D7krYffbpjewK4oAW3dN8EcJseVMNbvjWhZvmSJd8FKH31c+pHhvLhC/CogfXQivYFVFjK2ElvpNui7C52VnrbRS8N+aVh6pkXaMDBFn8O6UhtI1eDonQXF06v2iw==;6zGc50XorYR0wzNDH+6Kug=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Today In Healthcare: MedPay, Palta, Embark Veterinary Find Investors; Getting Medical Bills Paid On Time"
+    excerpt: "Today in healthcare, MedPay raises $1.2 million in early venture round, and Palta will use $100 million in funding for preventive healthcare products."
+    publishedDateTime: 2021-08-04T22:08:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-medpay-palta-embark-veterinary-find-investors/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/today-in-healthcare-medpay-palta-embark-veterinary-find-investors/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/today-in-healthcare-medpay-palta-embark-veterinary-find-investors/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-MedPay-investors-Palta-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI, quantum computing and other technologies poised to transform healthcare"
     excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."
     publishedDateTime: 2021-08-02T20:50:00Z

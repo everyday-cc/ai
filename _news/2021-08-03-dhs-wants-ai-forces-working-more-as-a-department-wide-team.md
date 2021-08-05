@@ -23,22 +23,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Using AI to deliver more precise magnetic stimulation treatment for depression"
-    excerpt: "A USQ Professor is helping bring new technology to the forefront in the fight against depression. A decade after Transcranial Magnetic"
-    publishedDateTime: 2021-08-02T21:51:00Z
-    webUrl: "https://www.miragenews.com/using-ai-to-deliver-more-precise-magnetic-606628/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://www.usq.edu.au/-/media/usq/news/2021/08/raj-new-ai-news.ashx"
-        width: 750
-        height: 450
-        isCached: true
-
 secured: "N+nojWAirnW00YlyLukOOx6nr4HjtCnaqiNJ+bz9jen3Jf6hPklVD3Jj7+SQ7FAjTbwBTEI2MCT/G6hz7efWJDd9TNfYpBmQHhHCYid/tqaMiiOAIvIG9jH5buzHgb+F3/AuolDgZMYHxte5591viVowo9mlN1haUL4ZS8OD+nncgx9XzDUpZ7fUGgLoCohlWCxzUxL7hREds4fdQ0mR1v/nM2DU0mLzYKiBXBw5kNDv/EcGMQmuCExrk54txvk8VP9UCysBCvVTiRPPAAtCklQEYjtE/IGmvJO87ptakMnH2yj1KQz65utB1Yft1pojvXcTnhwco1IrzZfF7Ve+2sWcB2Ade5nSc7xsuCXLmxI=;3pGICk2FZ6V4D1U0ie6r6Q=="
 ---
 

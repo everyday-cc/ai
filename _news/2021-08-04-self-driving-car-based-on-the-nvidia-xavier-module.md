@@ -7,7 +7,7 @@ originalUrl: "https://github.com/Aviageek-Consulting/Self-driving-car"
 webUrl: "https://github.com/Aviageek-Consulting/Self-driving-car"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Curtiss-Wright Enhances MIL-grade Rugged Small Form Factor Computer with New Industrial-Grade NVIDIA Jetson AGX Xavier for AI/ML/Edge Computing"
-    excerpt: "Curtiss-Wright’s Defense Solutions division, a proven leading supplier of small form factor (SFF) mission computing and networking solutions, announces that its Parvus DuraCOR AGX-Xavier rugged modular mission supercomputer will now integrate the newly introduced NVIDIA® Jetson AGX Xavier™ Industrial System on Module (SoM)."
-    publishedDateTime: 2021-08-04T17:42:00Z
-    webUrl: "https://www.newswiretoday.com/news/175950/"
+  - title: "MovEBR modifications could be used for self-driving cars"
+    excerpt: "Traffic-light infrastructure upgrades included in the MovEBR program could be used for self-driving cars to operate on the city’s roads."
+    publishedDateTime: 2021-08-04T15:09:00Z
+    webUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars"
+    ampWebUrl: "https://www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
     type: article
     provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 44
+    images:
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2018/09/iStock-521229477.jpg"
+        width: 1613
+        height: 1075
+        isCached: true
 
 secured: "JjCSJGEHHVKVvG3hrksM8OOuAwuw8lcr4LL6D6boBovGouLXent0YZaFmSk6e6XzxeM8yqB0mA5hNO+mdFgRLzZBjzovo3KctA7gWMCcGaq7Wl86qR6D9T9dTvZkyBebIMXEAEwAkn+1JKvT+2mKOsUS718S3lgStDIApoKNO58c9m1LDiIUus+U86gJgUxvef/YkhBYUUcGsSwMIaG/lQa6HkfpR88YXjZQkV9xiMTyNcSUsXnJMqgCbtoPwRJufXbZDQ/tZvqilb7aS5GPWYxRG/0fiqNWo1RBhcRtXZtqtU12qA95ZFfasUKVJjPcHzd09gcsMXledyiwwGHhDYv1iHXdqPT0NkMzpA7h8RFPE5zPBtgGz2kd21N/sL52jGOLTJmLQaCgfCd2P1M0CIVbJSLu2443x/9TdO+JLjxB6WPAktKCpzDUASaLhmTdaxRFdGVKxGEBe/TDCxMlJXQznMdzUzI/YTnLGrrEaVv55wt87x7Kvu4UaqBe497nalrF5Qm4cTF5qZe3MjxEQg==;4PwZAYAPLYMpayH+hk4TbQ=="
 ---
