@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
-    excerpt: "The latest round of funding takes the total seed amount raised by the company to US $8.1Mn, making it one of the biggest seed rounds for a B2B SaaS company in the US-Asia corridor. Nektar.ai 's AI-powered guided selling solution sits adjacent to CRM systems like Salesforce."
-    publishedDateTime: 2021-08-01T00:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to-enable-data-driven-smart-work-for-b2b-saas-revenue-teams-1030676012"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://mma.prnewswire.com/media/1586030/Nektar_Founders.jpg"
-        width: 400
-        height: 295
-        isCached: true
   - title: "Indian sales productivity startup Nektar.ai closes $8.1m seed round led by B Capital, others"
     excerpt: "The company plans to use the funds to accelerate product development and hire talent for its core teams across product, engineering, and GTM."
     publishedDateTime: 2021-08-02T23:15:00Z

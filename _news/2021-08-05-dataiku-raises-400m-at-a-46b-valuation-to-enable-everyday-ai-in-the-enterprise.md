@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
-publishedDateTime: 2021-08-05T07:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
-webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+publishedDateTime: 2021-08-05T07:22:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
 type: article
-quality: 42
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+    width: 746
+    height: 938
+    isCached: true
 
 related:
   - title: "Dataiku raises $400M to democratize AI in the enterprise"
@@ -52,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Platform Dataiku Reaches $4.6B Valuation With $400M Series E"
+    excerpt: "Everyday artificial intelligence (AI) platform Dataiku announced that it had brought in $400 million in a Series E investment led by Tiger Global."
+    publishedDateTime: 2021-08-05T17:10:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/dataiku-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
     excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"
     publishedDateTime: 2021-08-05T14:28:00Z
@@ -67,6 +86,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Nf310GPaTGFRf7tH59xLABIByrK8bOCMyWZeHO4iBXJucNe5HPRdhuGAzEAIruLFgUSay6vlyOMDGViA0oZqk1R7nG3fDK5JzFglCcp/MUpepmER9XYeSRiCd4Z6t4fWtFMmu1T81YjzWg6HU4l99ruf+J9/Coi+Bu7khk+Rb2oPOBmFRXFLtseh6HkB+gXg9OfU2kdyCR/dP1lQtCjMh6eMCWz6ZAS5HRbQ8WnUkHMHUt+4ojxkdzF8PBOqHYfyx4gdiEfdWFMFGOO/I/m9XGDQYs4Lkr+0AV3PkOy3i9OxClSiIwTJlOGKH1SnRVwfBCR+lstvx4bxRE8VT09gaICQsfV1KyGs6PWV468nuzyStLxeDemvBf3DXzdR11zaaFPJ+qI5bC+gpbyAeAcz8A0Ev/1RRsGc1KkXwTH3nutdTCkb9m+TnxaWK/EYZE7m8asvQ04IHdzg80xrKAur3RsGDFGiP0AESfGfuyyY+rwrhxMl3nl/oGrlkYGSV8fIKzz9VVKo5XPvHamIeo4Uuw==;RZti7mmWjbR11cQ3kVVSKw=="
+secured: "4MkbKtNtS58VeLR3Bt77CfREyEiyClsU+u+yt/MTMQgMh7GN3gUZxj/9M/i4OcqI/pbO+H2jF9ZEHyhf79/7sDcgVPVYuC45LBQYsYgBFEDr7PbLI4xiuTZROLeCkDGDscbyve6dFPehaIOP5V52ndIb+W3aeMzUVcxwBnTKzhX1CNaLforbYLOgdkMOs1lD8zYiN13gB7S5Lk7woHklQVeq69+kCqVRkwXXXW4zwAK7ft6DjvTrli9QL8MZMJl/b4zlgQs8CxR2WwfOg68Pi5EddcT70UVV2AWghQ2wXQo+mxnhCA3rt8SP0NPznGq9ZxjF37eDSLi1BQiig7KmY9xUdTPYEuCIPhSoxkMja94=;M7z4i5ZQ3YaADBubr4xX9Q=="
 ---
 

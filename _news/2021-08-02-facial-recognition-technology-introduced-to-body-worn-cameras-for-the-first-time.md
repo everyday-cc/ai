@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police trial body cameras with facial recognition technology to catch suspects"
+    excerpt: "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people"
+    publishedDateTime: 2021-08-02T20:00:00Z
+    webUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/"
+    ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 55
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg"
+        width: 2500
+        height: 1563
+        isCached: true
   - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
     excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
     publishedDateTime: 2021-08-01T03:08:00Z
@@ -39,29 +55,20 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "CSIS report maps human rights risks in developing & deploying facial recognition technology"
-    excerpt: "Mapping the Human Rights Risks in the Development and Deployment of Facial Recognition Technology\", July 2021.... [F]acial recognition technology (FRT) has becom"
-    publishedDateTime: 2021-08-03T17:03:00Z
-    webUrl: "https://www.business-humanrights.org/de/neuste-meldungen/center-for-strategic-and-international-studies-report-maps-the-human-rights-risks-in-developing-and-deploying-facial-recognition-technology/"
+  - title: "UK police forces trialing retrospective facial recognition from bodycam maker"
+    excerpt: "British police are testing retrospective facial recognition software provided by Reveal, which also has a line of bodycams capable of live face biometrics."
+    publishedDateTime: 2021-08-03T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202108/uk-police-forces-trialing-retrospective-facial-recognition-from-bodycam-maker"
     type: article
     provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 29
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
     images:
-      - url: "https://media.business-humanrights.org/media/images/rotary-camera-monitoring-safety-s.2e16d0ba.fill-1200x630.jpg"
-        width: 880
-        height: 462
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
-  - title: "In the News: SEC VIE Disclosures; SPC Facial Recognition; and Hainan Negative List"
-    excerpt: "SEC to require Chinese issuers clarify VIE structures and whether listing has government backing; SPC issues judicial interpretation with restrictions on commercial applications of facial recognition technology;"
-    publishedDateTime: 2021-08-02T12:24:00Z
-    webUrl: "https://www.chinalawandpractice.com/2021/08/02/in-the-news-sec-vie-disclosures-spc-facial-recognition-and-hainan-negative-list/"
-    type: article
-    provider:
-      name: chinalawandpractice.com
-      domain: chinalawandpractice.com
-    quality: 28
 
 secured: "VsmrB2Gr3UFXURwa2XrgNEVD+6x6t/YiNQ6sIpoODH2lLoQM1FSpxq+IUZWGrSRHXDU29kFi7gx+ENAFyAcGDYpkT4u4YqaXbQSa89ue99KfPpKCod8YQWqOTOsggJqpqdGZdnM3K5fgwOUibPQFzkkqZwVR3ZVIwgQlvIyUmkbVunNRkXUzI9zQXiTHpjJWZQOppJtlFWRqdJVmJ/BHvSjgMvMC0vg4STOAh1sSP3Gg7gn4fyuhqlfTDlFQ9La6ad5M5T7spWywdjC0OuX09j94Viwv8nE/cRNcLa7TB/G6kXw4J0T1L/HxBpfHqmRqep5uhvWlrdayZAlrHZTDUtO1CD/JNhVCILyVk2oXGLx7LaWt00SV5JduVwAjYIGOjpwX2/R5USgbRuVYdYYYELy+U3orqKx8mKnY7UA0eFrwI2VB6HJmYRGA/YzH/lyYQU3Qt5I92Cn7Tri+MX1s+qCd52J3n0aNauQtAThGkN8/eU35GtxW1QbPGlGZofugztTCVr+2NWCGWS429RaV9w==;NDBIRyw6HV7KwOLNLWhlsw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 645
     height: 315
     isCached: true
+
+related:
+  - title: "Neural network model unravels why people with autism have difficulty interpreting facial expressions"
+    excerpt: "People with autism spectrum disorder. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be. The journal Scientific Reports published the results on July 26,"
+    publishedDateTime: 2021-08-05T16:13:00Z
+    webUrl: "https://www.news-medical.net/news/20210805/Neural-network-model-unravels-why-people-with-autism-have-difficulty-interpreting-facial-expressions.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210805/Neural-network-model-unravels-why-people-with-autism-have-difficulty-interpreting-facial-expressions.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210805/Neural-network-model-unravels-why-people-with-autism-have-difficulty-interpreting-facial-expressions.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "mNPlgpGV8Q4UKL0dI7jiACjKLvSyWQwd1m2BGrfI1Fk3zotqIO+RWFTbr7kBrttMwuMucid3YyZBqnJKBChqwk2LB7d76woBiokxer9+TZzU3MLLQgvr7DTSES67Z4P9XHGBHndLGP5aa5q5MpXzOQjP263QGUAsO0D0g+E2a2gP0WMsnfWJDDv2hPnpwt9s94hd/kAk8+2tuF3XyDvUy8f+2jkul5ihki6rJmiwXVHVDtO9a/bvtWHu73edY78HjlUYvcmZgy2NmI3mhjh5yiqVtQZF8n3rImlllco4ZBgzg0ajzEKxQIkbV+HTb2k9zgFfZnsMu98+FxWDMAkyfuUy1yW95LqyTILtb3K0uPGW8iEKKFSl1/WeGaJBsClapsPKEReOB/cJV4DFXRW3+O52s8JkswTx1ot9MiIrHwqXhG9q0qiaiejmLPRDnOgQ2yDpGRrdUb0EYNErh8P0+ZekS5dl4706QkCIJBQulsCeMXD9EYSxP6NIewD4x/vXwHUJACnBXDmUA6SiIAe7+A==;ObaLhVl0ZWQz3gj9IZZNXg=="
 ---

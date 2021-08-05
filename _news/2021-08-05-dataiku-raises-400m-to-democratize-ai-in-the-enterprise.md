@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,15 +45,36 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-    excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
-    publishedDateTime: 2021-08-05T07:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+  - title: "AI Platform Dataiku Reaches $4.6B Valuation With $400M Series E"
+    excerpt: "Everyday artificial intelligence (AI) platform Dataiku announced that it had brought in $400 million in a Series E investment led by Tiger Global."
+    publishedDateTime: 2021-08-05T17:10:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/dataiku-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-08-05T07:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+        width: 746
+        height: 938
+        isCached: true
   - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
     excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"
     publishedDateTime: 2021-08-05T14:28:00Z

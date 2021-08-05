@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "These 6 Indian airports will soon use facial recognition for boarding passengers"
+    excerpt: "Union minister of state for civil aviation VK Singh told Parliament that work has been awarded to implement the technology in these airports that include Bengaluru, Pune and Kolkata, among others."
+    publishedDateTime: 2021-08-05T17:53:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/these-6-indian-airports-will-soon-use-facial-recognition-for-boarding-passengers-101628185524107-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/08/05/1600x900/e218a472-f524-11eb-87f0-3ed1cf33608a_1628100405336_1628185608876_1628185617924.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Trial on at 6 airports for biometric boarding system using facial recognition tech"
     excerpt: "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada."
     publishedDateTime: 2021-08-05T12:58:00Z
@@ -43,77 +59,47 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Police trial body cameras with facial recognition technology to catch suspects"
-    excerpt: "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people"
-    publishedDateTime: 2021-08-02T20:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
+  - title: "Facial Recognition-equipped CCTVs installed at 310 railway stations: IT Minister in Parliament"
+    excerpt: "These surveillance systems will be installed at platforms, waiting halls, parking areas, main entrance/exit points, and booking offices."
+    publishedDateTime: 2021-08-05T15:13:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-railway-stations-facial-recognition-cctv-surveillance/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 55
+      name: MediaNama
+      domain: medianama.com
+    quality: 42
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg"
-        width: 2500
-        height: 1563
+      - url: "https://www.medianama.com/wp-content/uploads/2021/08/cctv-1144371_1280.jpg"
+        width: 1280
+        height: 847
         isCached: true
-  - title: "Chip suppliers, startups team up to advance edge AI for biometric applications"
-    excerpt: "Chip suppliers pair up to offer cutting-edge technology for facial and voice recognition as startups move from concept to production for edge AI processors."
-    publishedDateTime: 2021-08-02T19:05:00Z
-    webUrl: "https://www.biometricupdate.com/202108/chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications"
+  - title: "Four Japan firms to tie up in facial recognition for payment"
+    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
+    publishedDateTime: 2021-08-02T13:00:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 52
-    images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
-        height: 734
-        isCached: true
-  - title: "Wearing your facial recognition system around your neck"
-    excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"
-    publishedDateTime: 2021-08-04T17:53:00Z
-    webUrl: "https://www.biometricupdate.com/202108/wearing-your-facial-recognition-system-around-your-neck"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
-        width: 1098
-        height: 604
-        isCached: true
-  - title: "How To Fool Facial Recognition Systems"
-    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
-    publishedDateTime: 2021-08-04T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: The Japan Times
+      domain: japantimes.co.jp
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
-        width: 1024
-        height: 576
+      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
+        width: 870
+        height: 489
         isCached: true
-  - title: "Checkin.com acquires GetID for $9.5M to add face biometrics, image recognition"
-    excerpt: "The Checkin.com Group strategy is to build out its SaaS portfolio with the GetID’s ID document and selfie biometric authentication."
-    publishedDateTime: 2021-08-03T17:40:00Z
-    webUrl: "https://www.biometricupdate.com/202108/checkin-com-acquires-getid-for-9-5m-to-add-face-biometrics-image-recognition"
+  - title: "Facial recognition plans for millions of Indian examination candidates"
+    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
+    publishedDateTime: 2021-08-05T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 20
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
-        width: 1173
-        height: 697
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "mgUwMWGfkMnerUUEuiyfteVwe1sUsyOQfD6dL07V2XCJLkt/22qH7jUWHceeXw4MSVmd8UEwWPbgOJj89biMI44/Iegc4B1Dr0E9+h2PlarI/mycCkX1ULT5OSfRSxRrw55aZIOiyAJp46LmhG/kX7ZouoLiZ2Vzs7mkWVKognmIXc5Y4dmXtL6YcRN0fAVknvJYZ8JsneBJVJNoeV2pViN2dzmcJooL2EL3EU1xfAAPedmMBf2PeT7VycVqXZuUw/6jDsk+8qV9W7tvaFNZqeWaaoiS/I/niqkXVhDDl3p+C42fQt7q9PonzQVBnZuBIZLsM39u/QelWWTT7N1svy5s1MHbzdXpF16Toul2R4jgaLcSO+2svX9Mt1zjBrzXQ6dayOjyBOUlElpv66t3qvIz/vonEEwo89JBftIRFeERwt5SyHJNY2trVFXJ9E60EbAN6rtB77SQgywvMwAfLZrCQY2qN4+PZ9MEmX3euLj1yfLNIxNgR+rzUBRRqd4TPLHa4cdKNViHAgPMztVdcQ==;px2Vc6Nj08kw8eOaQVZP8g=="

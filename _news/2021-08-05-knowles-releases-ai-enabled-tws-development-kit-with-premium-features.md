@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-devel
 cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 986
     height: 645
     isCached: true
+
+related:
+  - title: "Knowles Releases AI-Enabled TWS Development Kit with Premium Features"
+    excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precisi"
+    publishedDateTime: 2021-08-05T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210805005140/en/Knowles-Releases-AI-Enabled-TWS-Development-Kit-with-Premium-Features"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "jFjc8AGBma++0MyuS8J8XI+5iLD/n3FZ/b3E0rlyHtllhA3QNSgT1r688Q/QppZE6jHxr/VHR81WKiSTMRKY8wDBJaMZy9ROKQwazicLBK6M4n218ZMPpIUaoAcs7yXrIQdzmLmvEzX4H/PI3lgLd/7IK+PrG00lFz3sdgcmaU/xFWYajXnBKLTUM/aawb4c+hHHn2/s0IvDC+yOgPPb8QamOlXQ+JlLKfxvsl44Wob7f3KsMSHNcjeK11QWQSAYnHSvn04FmHONgUY0kZjyU9QA3CYcgtPhpcxXCLJDyu1p1xESrKqoBgM6NnpmoLZaSwFOnp8UHheuZf06qPyOhIeL9SYIIoYd0IpeH+IrXJQ=;t2wz0gBfesP317bPV0xyhg=="
 ---

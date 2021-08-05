@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Riiid to present Artificial Intelligence for education sessions at ASU+GSV 2021 Summit"
-excerpt: "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the preeminent global education innovation conference to be held in San Diego on August 9-11."
-publishedDateTime: 2021-08-05T15:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959"
-webUrl: "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959"
+excerpt: "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the"
+publishedDateTime: 2021-08-05T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit/article_bd592e9b-21cc-5537-bd0e-fc2d708e5813.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit/article_bd592e9b-21cc-5537-bd0e-fc2d708e5813.html"
 type: article
-quality: 76
-heat: 76
-published: true
+quality: 46
+heat: 46
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
   - AI in Education
 
 images:
-  - url: "https://mma.prnewswire.com/media/1589184/Riiid.jpg"
-    width: 400
-    height: 340
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/6d/c6d9ef0f-b7bb-5f59-a54a-36b521449834/610bfd41dea6d.image.jpg?resize=688%2C584"
+    width: 688
+    height: 584
     isCached: true
 
-secured: "XD0ldedwoDhUuQ24ee/P5v6Ymk+GinlimtrcgxmmRm6LceW6+cGprvLvtLSeBOMWSCna2Qj5Yzd7GyYcxqfGltsufAZ22Dl7Z0HLi4s8Hgb2ZHvrxIMJdyUPvsf2EwRtVpv4h0zAW2kUTYT1cm/b20VJluth6OEVqe3cOfdMORtAUSEW36vP31j9qeuxVrFhIhhYyT8nj6KtkZVnvdEpuWeCI5xxnO5XBfDQ9PXvkSEV9DyFjX63SvPTSyqydg3jSrfAengg9yGZKRM9NxjKDyugklXcn8q0uqB4xIIhN5PxQINxqO1qGHveRNNA1RsAQdFZoDqn6eQhLBr2OUEC6ttRWbQy2pDuhZUZ0x3yScQ=;EO6FF3Mq00OJShRyuSbmNg=="
+secured: "dChchDaEFUv73phcfcMfJmtYM0uu4E/6BcTdYcUv22LamMnAtszxe+WckJTZAEr9Y2X2HEePNIjee+1HseGJb2TThiyLrVGtVnlMWtDcXoREnb/rVQjwNs1vDfHNHKPIht6F1POl0jCKKNKV0lWrLjAZAyBesgEJtYtUhGi4Z2nOMjnpmHE9j9DZHeTEaTdDtoPJ8pYDTwfEI6DsKuao5bMGlQn+vgrzmtjqQCwInwPJxjBTner48M2pyYL1CDDzMcROZfTadJimOcXP3qcyOvRYWllMN0vDThhw+k8GtVmy1E9SpevjUbwYmzfqCVENYoi+Stg5F5xaLp5DEQPK7UpRbQ/dsxJfbfCX+s8GODM=;a596hN5H5X4XfEm+Q3O4sw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-camera
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: The Daily Telegraph
@@ -27,93 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Trial on at 6 airports for biometric boarding system using facial recognition tech"
-    excerpt: "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada."
-    publishedDateTime: 2021-08-05T12:58:00Z
-    webUrl: "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    ampWebUrl: "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
+  - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
+    excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
+    publishedDateTime: 2021-08-01T03:08:00Z
+    webUrl: "https://www.jurist.org/news/2021/08/china-supreme-court-issues-regulations-against-misuse-of-facial-recognition-technology/"
     type: article
     provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
+      name: Jurist
+      domain: jurist.org
+    quality: 46
     images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/11/communications_technology_1574868315.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Soon! Facial recognition tech at 6 Indian airports to make boarding process contactless"
-    excerpt: "Soon biometric systems will employ facial recognition technology at 6 Indian airports to make the process of entering the airport and boarding the flight contactless."
-    publishedDateTime: 2021-08-05T10:54:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 66
-    images:
-      - url: "https://imgk.timesnownews.com/story/Airport_passenger.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Chip suppliers, startups team up to advance edge AI for biometric applications"
-    excerpt: "Chip suppliers pair up to offer cutting-edge technology for facial and voice recognition as startups move from concept to production for edge AI processors."
-    publishedDateTime: 2021-08-02T19:05:00Z
-    webUrl: "https://www.biometricupdate.com/202108/chip-suppliers-startups-team-up-to-advance-edge-ai-for-biometric-applications"
+  - title: "UK police forces trialing retrospective facial recognition from bodycam maker"
+    excerpt: "British police are testing retrospective facial recognition software provided by Reveal, which also has a line of bodycams capable of live face biometrics."
+    publishedDateTime: 2021-08-03T17:01:00Z
+    webUrl: "https://www.biometricupdate.com/202108/uk-police-forces-trialing-retrospective-facial-recognition-from-bodycam-maker"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 52
+    quality: 36
     images:
-      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
-        width: 1100
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
         height: 734
         isCached: true
-  - title: "Wearing your facial recognition system around your neck"
-    excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"
-    publishedDateTime: 2021-08-04T17:53:00Z
-    webUrl: "https://www.biometricupdate.com/202108/wearing-your-facial-recognition-system-around-your-neck"
+  - title: "Facial recognition technology introduced to body worn cameras for the first time"
+    excerpt: "British technology firm Reveal has introduced new AI that brings facial recognition to body worn cameras for the first time."
+    publishedDateTime: 2021-08-02T09:21:00Z
+    webUrl: "https://www.retailtimes.co.uk/facial-recognition-technology-introduced-to-body-worn-cameras-for-the-first-time/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 34
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
-        width: 1098
-        height: 604
-        isCached: true
-  - title: "How To Fool Facial Recognition Systems"
-    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
-    publishedDateTime: 2021-08-04T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
+      - url: "https://www.retailtimes.co.uk/wp-content/uploads/2021/04/Reveal-2-1-1.jpg"
         width: 1024
-        height: 576
-        isCached: true
-  - title: "Checkin.com acquires GetID for $9.5M to add face biometrics, image recognition"
-    excerpt: "The Checkin.com Group strategy is to build out its SaaS portfolio with the GetID’s ID document and selfie biometric authentication."
-    publishedDateTime: 2021-08-03T17:40:00Z
-    webUrl: "https://www.biometricupdate.com/202108/checkin-com-acquires-getid-for-9-5m-to-add-face-biometrics-image-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
-        width: 1173
-        height: 697
+        height: 683
         isCached: true
 
 secured: "j3Ul9dPsLFlmGjXkiPkLBy5bXBRHdoF5QsVm9Rni+LjsWN2HMsV5AC7bwVXZBQoOYHumFyBNUSujyR3cCZ+ncKMfoXZ09+NgBb6mQyBH2iy9/XzGdTvkCmR9/9FghNmdO8feaI90K7P9tFE7PPq6gb8pBZZwLOQec0oJWwASOBsj+Al+Ovq0xe0UegNauriyti5tKFGD4dL7HTax7q4CZSmDZzutS+RhlUTYNfOYSDi3dPlmq0OOHafbcU4Cx1jyW7RtfGt4MjCwJjM+Ez6nqFyunK/lvCWH0/kw3mZDOBcccgFuw5U9gAse9LX9WnMqxIGUs4M8VGB9ZuUVA6p5pUdg9/IttO1Pqn4NUmqeAJlxqGp3w9+wRTF1X9DxfPcDXsH1VGROywiI8KKeWpSB4Vi6OJ27t7QS4zFyMIh7qaiLAilghJrsKXLlBGP4FM8nWiq6nkVulVc93HzSs+3s92OGHvA0YKOxp8s4lCTBAqIiB98JqMBnEipDFrLoFBKR9YN6y6agWTZepEn5cbPcdQ==;7Z4RGQEYaItWqUC0GHM0fQ=="

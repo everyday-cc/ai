@@ -2,30 +2,26 @@
 category: news
 title: "Global Healthcare Cloud Computing Market to Reach $76.8 Billion by 2026"
 excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Healthcare Cloud Computing - Global Market Trajectory & Analytics\"."
-publishedDateTime: 2021-08-05T14:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026-1030696838"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026-1030696838"
+publishedDateTime: 2021-08-05T14:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026/article_e32e4637-2e11-5037-bcc1-70c036393eb5.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026/article_e32e4637-2e11-5037-bcc1-70c036393eb5.html"
 type: article
-quality: 69
-heat: 99
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1586971/MCP_7948.jpg"
-    width: 400
-    height: 252
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/55/055c48bf-a8be-50d9-ac10-eb0d00540a35/610bf96f8a486.image.jpg?resize=1001%2C630"
+    width: 1001
+    height: 630
     isCached: true
 
 related:
@@ -43,27 +39,30 @@ related:
         width: 689
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Size, Share Analysis, Key Companies, and Forecast To 2026 | Reports And Data"
-    excerpt: "The global Cognitive Computing Market is forecast to reach USD 475.24 Billion by 2026, according to a new report by Reports and Data. The cognitive computing technology derives the answers and works like the human brains."
-    publishedDateTime: 2021-08-02T14:32:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cognitive-computing-market-size-share-analysis-key-companies-and-forecast-to-2026-reports-and-data/"
+  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
+    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
+    publishedDateTime: 2021-08-03T23:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 8
-  - title: "(COVID-19 Impact Analysis) Global Deep Learning in Healthcare Market Forecast Size, Share, Growth, Trends and Opportunities 2026"
-    excerpt: "The recent report titled “Global Deep Learning in Healthcare Market” and forecast to 2026 published by Reportsweb is a focused study encompassing the market segmentation primarily based on type and application."
-    publishedDateTime: 2021-08-04T14:03:00Z
-    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-global-deep-learning-in-healthcare-market-forecast-size-share-growth-trends-and-opportunities-2026/"
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 47
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a3/9a3a2caa-a0d3-5f1e-8852-8bec2f6773f7/6109d5cb5f5ca.image.jpg?resize=1200%2C585"
+        width: 1200
+        height: 585
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"
+    excerpt: "The New Report “ Artificial Intelligence (AI) in Agriculture Market ” published by Reports Intellect, covers the competitive landscape analysis and its growth prospects over the coming years. An in-depth study of some new and prominent industry trends,"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-trends-and-growth-segmentation-and-key-companies-ibm-intel-microsoft-sap-agribotix-the-climate-corporation-mavrx-awhere/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 7
+    quality: 22
 
-secured: "peh/zvk70EAqLPtDNjzDzoUMQQTapa/jF7QAY7z3GFR0zFxA4PbHjM4T7GgKwmpiW6WlKA+wQDtx1HqRThDCDyIc5vetW8aHRJsiuETdt/uOI0Wak/dJzezDpcxrf9f+xsAUx8G0h5VDQK71k7kbz+XuF56CX36HuTEClEO4vKHB+UvwcIa+tmVF2O81Iqp8VrHgBZ8nK6DPVowt+J/NHxD9+PG0cG7Do++pYNS/WHIc7qOhJI8Bf7oF28VXu7P0SHLUI7oIQU/hJRc3fEbfhN21vjR5sn/bqwLOw1B3h2e3pu49plG15QjCJMchQTGH3TjeIJ9ifOek7AKYkD3g6Y6Xb32FCJsPj/zWqrBKhTc=;OT3sQDJlUQ1cAtXPIMgD1Q=="
+secured: "jmbNB9V2JDXR6kT+8Gi/AvWUkhioo3fT0rvrjwG4mwwV7m8F/zkn0Wiw8dVNm0ABwbQwBWaYIFzgfNMr1Q1I8cZhV+hDlOUVTLjXhKO6w+gKRhivG7a7cSC/f0PHloAM4vxSZI3w/XRhLbpL1B0tapnR7z/GjTkDUNxCPrhvSLAbOSaay9GESdfCv2lgL8WDHuelN1mCZ4U/I7Bi0eoU2AHaJwqaVXWPssyNOBixny76Uk77uDhx8RhK8+tzclmtJdLLGtBK3/SP9IWkYv3NxUgrct3V0Uwf+DNgrmPBBu+ljSNAT07+m6eta/mF7gjE+Le8/TnOye9qbz9y52zrEIl5NEwNBeJL2eGCxttz0iY=;hsOy5MLw8o8PSSYQ9Va1ag=="
 ---
 

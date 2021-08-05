@@ -50,6 +50,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "Machine Learning Algorithm Predicts Schizophrenia Risk"
+    excerpt: "By looking at specific parts of the human genome, researchers are developing a machine learning algorithm to determine an individual's risk of schizophrenia through epigenetic markers."
+    publishedDateTime: 2021-08-05T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-predicts-schizophrenia-risk"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Machine offers possibility of predicting risk of schizophrenia by using blood test"
     excerpt: "A machine-learning algorithm may offer the possibility of early diagnosis of schizophrenia by using a blood test, according to a team led by researchers at Baylor College of Medicine."
     publishedDateTime: 2021-08-05T09:14:00Z

@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
+    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
+    publishedDateTime: 2021-08-05T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
     excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
     publishedDateTime: 2021-08-04T14:06:00Z

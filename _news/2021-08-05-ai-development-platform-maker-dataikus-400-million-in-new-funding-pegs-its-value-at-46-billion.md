@@ -54,16 +54,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-    excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
-    publishedDateTime: 2021-08-05T07:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+  - title: "AI Platform Dataiku Reaches $4.6B Valuation With $400M Series E"
+    excerpt: "Everyday artificial intelligence (AI) platform Dataiku announced that it had brought in $400 million in a Series E investment led by Tiger Global."
+    publishedDateTime: 2021-08-05T17:10:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/dataiku-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-08-05T07:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 34
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+        width: 746
+        height: 938
+        isCached: true
 
-secured: "86GqGPCkBp+75SdAq7C2hVAfNgYmOPyzh82Y90U5SEB42kNndsXGdJ9bsT6APa/whFSVLT08Pror7F9FRG9EuGohOqIPkqMXBVpls8zckm6LgensNi0tLqdKCdJqdDS3goQ6kY+4YPwZAm2BdtIrc9UV6gYlZNbrOuFXRQ55krZ5gYcBmsUZxDjdU+vKCRqnPv8BjeXTI9Plb3sDM+xqXKs5HLTlZVfSixvI02+/CdfMb7poCJA/AmCGORVmmkoOtI7uvv3r45q8SG1TRBUEVa4gIdFIeuqvUfHqxzSlD9YeVnY2ZSEE7tXdS5M2wY74YyBnKJRrY/alI8Re920xDs98nx5XhKrWW0WEfidA1bU=;LIIyarBeFy8WSrlzZQwu9Q=="
+secured: "LdRoOnxtKZjXz2/8EA0Uoz//crLTKPxSth8dV8pus67uEAA49Oyzp0fO2JK3ZasY8unwyaiCMoymp9tJz11XcJp0Zdf6MF5CeZdnsCldLCRCCaHgpfmaSNMGr5ecySzJFyGnR/yy83PJ4Xsn2GbGJrlfVQt6wQQbR8LpQuSNGSfFhE2LZPCfsfu/eK4TIQvi5p4s/dOSS0izmQ0WJLkI1/DDNn9SGr834EHYVNyR1XsYh/qJ7zsJH4I6Ugb5knat0u9h8oodJQkM80H+cLzlI3vWbgdnF/djLNi3Of0rjQDc4egL7rqumJiBOYmuZRZ6Oz2M9RaLGQRkX5whwyPieV977ixH1llDyLU73ZR2TcryW+pIuHrGcciyTCy1AulYUQsPeLgbJGlhYkoCN5je12E6/BAuL/VPPAQxV3tEjsZc4GAMjbZJQTsADg8OZ6IYWCF3NmqH9ZixWmq0QX41D9kBfGKUKU1A3Blc2qHMNs5ADvp3EKys99zMdbPX2oYhMqPJ8OVofIXWv7lvCPDHWA==;6N8WD/PXQOdVkyqcFhX36w=="
 ---
 
