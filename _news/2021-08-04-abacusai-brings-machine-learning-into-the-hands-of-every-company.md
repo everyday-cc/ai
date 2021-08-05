@@ -43,6 +43,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million"
+    excerpt: "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said."
+    publishedDateTime: 2021-08-04T23:36:00Z
+    webUrl: "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    ampWebUrl: "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-380494/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "NCC Conversations: How can we reduce bias in artificial intelligence?"
     excerpt: "As part of our NCC Conversations series, we’ve been exploring the issue of systemic racism and how it impacts our industry, wider society, and the"
     publishedDateTime: 2021-08-03T13:24:00Z

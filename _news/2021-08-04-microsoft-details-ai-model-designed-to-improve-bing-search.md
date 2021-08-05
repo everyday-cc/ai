@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-design
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
-  - title: "How Microsoft’s AI For Accessibility Is Addressing The Issue Of Data Desert"
-    excerpt: "AI-based technology has been very generalised and hence very exclusionary in catering to persons with disabilities."
-    publishedDateTime: 2021-07-31T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsofts-ai-for-accessibility-is-addressing-the-issue-of-data-desert/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
 
 secured: "oQtQxRO4fNCzkzMduYeITf0Q2l7KXm5C4jWnlocMVsZNKUVolD3zARZkPP9GsN2L8WMga7k8BqRmYUQAVDTEmD1yThjHmWXBf+lij1eoWSayB0WRfuAMWwHJJxX46Ck4LCM8sAq8CzD+5H9KbwPSjT0HKXMUjJ18uPIpSDC1lEBwxmYAeEyYbJBZ7ORBPhpABBSd7WZLGTTxZjYxFEE2tru9LERami1UtQK2rfLfY186n4qIWGeN/2Kg9ZGoj3P6V4HizDPQZGUeYzXtmSLDxbFwMJ/PaKtXaCkrgM0uGET3uiflaQQ2jWAzyHLUFzyGadAU0jgvYGZmVdKCx/EF8cvZwOAcK1bpD9sT5Z7DmHyrtfCYHqo8IXXYlDzSf0KwM3Se+yDz2IZXHSnGYDIxmpw/0L3F47HzXdVXxAKT6B04xF44gxnkZLd9y9xXH8mWcn5h5jUDoXoj+q/wlhq7gI+r2ZrjdhEG4uq2IcTnOYUQ3dC+whfZ33xnElxSC7xVAcczPwlqxVu70FiwCmPCAQ==;fxQqPytMa5W9awUMSJ++OA=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million"
+    excerpt: "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said."
+    publishedDateTime: 2021-08-04T23:36:00Z
+    webUrl: "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    ampWebUrl: "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-380494/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Abacus.AI Brings Machine Learning Into the Hands of Every Company"
     excerpt: "Abacus.AI was founded by Google, Amazon and Uber Alumnus with vast experience in building machine learning solutions at these companies, with a mission to put cutting edge machine learning into the hands of every company and help them extract meaningful insights from their data."
     publishedDateTime: 2021-08-04T15:34:00Z

@@ -21,6 +21,22 @@ topics:
   - AI in Finance
 
 related:
+  - title: "AI-Powered Finance Startup Zeni Notches $34M Series B Funding"
+    excerpt: "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth."
+    publishedDateTime: 2021-08-04T23:13:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Financial concierge startup Zeni banks $34M to show SMBs their finances in real time"
     excerpt: "Zeni’s AI-powered finance concierge platform offers bookkeeping, accounting, tax and CFO services, essentially becoming a back-end controller for startups."
     publishedDateTime: 2021-08-04T13:00:00Z

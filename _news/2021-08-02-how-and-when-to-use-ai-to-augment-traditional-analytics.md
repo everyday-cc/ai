@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
+    excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."
+    publishedDateTime: 2021-08-05T00:05:00Z
+    webUrl: "https://siliconangle.com/2021/08/04/amazon-transcribe-call-analytics-provides-intelligence-customer-service-calls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/call-telephone-communication-phone-conversation-concept.jpg"
+        width: 2000
+        height: 1421
+        isCached: true
 
 secured: "cwEbE1W7NYSHxLl88c0Y1ZZ6gSa1lAXhrG3DhJSJHtsEGn3Pi0bDLSLntfBNw2F6BBzkYRuWjQGEgcdXLIpePhDK6lIruJL3Gm9TB1WeK6LRO7OmQubcUXYzAzF7BiuEhAmwVkmi6ikgu10v4NXLm8koMetta1LGwRwvnCmu0HYL1EmbacDe9jtm/8RrHJ0nASfhEV1CHi4uiipGAOggKIKhdcjwOUaNsmuNtf9vz4E5YqO1N5GXKvZ40yiyD9pyiiNaPcfbRA9JFmx7DEJqlC0VCf2c6X9C8max+G+A8kRF1oC71EMuR6cqsmcUhdMtPbpAIlwAajN5dmChh8vbHXTCLjuuoWeAzSgp9olF5Ho=;ZBHK+TnY7wkHjr9U+23Bmg=="
 ---

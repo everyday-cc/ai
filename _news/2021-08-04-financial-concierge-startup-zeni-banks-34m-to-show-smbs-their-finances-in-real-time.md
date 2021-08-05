@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/08/04/financial-concierge-startup-zeni-b
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/amp/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered Finance Startup Zeni Notches $34M Series B Funding"
+    excerpt: "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth."
+    publishedDateTime: 2021-08-04T23:13:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 74
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "AI-Powered Finance Concierge Zeni Raises $34M Series B"
     excerpt: "AI-powered finance concierge Zeni has raised a $34 million Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora. Existing investors Saama Capital,"
     publishedDateTime: 2021-08-04T20:13:00Z

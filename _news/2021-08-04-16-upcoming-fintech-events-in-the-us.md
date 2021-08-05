@@ -75,6 +75,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
+  - title: "The HD maps for autonomous vehicles market is estimated to be USD 1.4 Billion in 2021 and is projected to grow at a CAGR of 31.7%"
+    excerpt: "With the growing trend of autonomous driving technology, the global HD maps market is expected to grow at a significant rate in the future.The promising market for self-driving car renting ..."
+    publishedDateTime: 2021-08-03T09:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22291008/the-hd-maps-for-autonomous-vehicles-market-is-estimated-to-be-usd-1-4-billion-in-2021-and-is-proje"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22291008"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22291008"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "rJCpOvbU1yu+cRcZi5sp+601OEPAssgG9CcH3Z9HbQ/Q9O7igw0Sxfu3HsdehksTBBmVM4HAruEFtoQV2pJmFip3PMufR1m4XASnGpm9BopN+QKDlZO/Q+Qrf40P09o9evgcIr/fOIL0J6Ldt1oOPlNNNuFF262ny8zhi/ihK5eAKP8524Du1kMerfSorTJ2QMvM2ExkpElJH7lBc4aZh7qzoogWCPcm/uRDxPBCHWZtgVtOBpVa9RffEDg/+5GiVWpKtZqo51Ib6Rd/U+4Ll/ZtrfW0Izm7N6NC/oCaHJIcKVfkL1nTmkqIFirZtkIkXzOBu6NgN09DTguGLv89SWUUYkbYiBPOf0u1F/w2t2F3E2sJ+zHGpo6VDkAjRiByQrrMlQqannrBEWhuwfpNZMfuiB6OoMAlGmMoMRH/An+mRlYUH0OSRvejgdILD/BrvmOY/KJ+ze3mG5sOyOQvJY9sCK288O/OiyqRT5ue7XGXJAna2PVKz9PAEPRxTxjMqR3PBi/feqYw8sjNAdOj6Q==;ZFiIIuI6Wj35XISC9RhnwA=="
 ---

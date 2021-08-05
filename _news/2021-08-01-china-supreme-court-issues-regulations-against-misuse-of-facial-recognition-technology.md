@@ -69,15 +69,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "New police reform law leaves facial recognition debate unsettled"
-    excerpt: "State legislators last year approved a ban on almost all law enforcement use of facial recognition systems, with exception in only certain situations."
-    publishedDateTime: 2021-07-31T08:00:00Z
-    webUrl: "https://www.capecodtimes.com/story/news/2021/07/31/massachusetts-police-reform-bill-ban-facial-recognition-use/5434850001/"
-    type: article
-    provider:
-      name: Cape Cod Times
-      domain: capecodtimes.com
-    quality: 19
 
 secured: "eZkK8eJ6JQkKFXSfrpn181gFBW6pWkBVEUDfCBtpeRsBsrGCSrHCU/6kQuSphYWCsDyjJbw3YxSOJVqZQ+JJQqVSvaXTCkMWFe4eUJZulSsw8cQo4GY7ZoO32v4P6nxmTNuMZAR1ncylhDtY/yeXL+oH2+Cq3n+LAGXYgKn+Igp+n5Ugkj5OTvLwg6dliWrlUas9im/Gs55RaixyKmNq9XdkCOPLgaSrM8dHHH9U65is3m1y1qpvzSeyXe50gpxDg1ikxX/54eGEV/MkOcr2jn7q/Tq599g19cO7mWUv4IvHJG9USjjnL5kdT45fTidS6juBxxefs35RkZjo35pgHLojyl4Jig7rWw2sPr8IvjlnZqR6rnM3WEq8gmQNOofZQxXlK90eSQVC1gjw0xTv0BMDMXUXTSnUZ8laokcx8yqGt99t84i+N2V5I+v59H89YCONLgF3fm+EAAAVNS8IXNk1sqPYqtT3XPkI0A3YQVxqeQ666UeMvo5dWgctixd+Azmlp2x/tyADwUTmvxpASw==;p5XuZVH3zpCpMQ5DYxUucg=="
 ---

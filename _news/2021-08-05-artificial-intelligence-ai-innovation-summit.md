@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-04T20:50:00Z
 originalUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
 webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
@@ -78,6 +79,6 @@ related:
       domain: wvgazettemail.com
     quality: 17
 
-secured: "8ZC4/SnlbSpZej+1ulxZDmgvM/ZuutU4skxxXSPH8bk665U/d82YWbodKxZjgCUc9DK3T0QdPIUOci0DleVvU/ZNqgQF+PD5Rucmc/jxtlZFSt9fJD0wrZYSB9ozRqUqQ+PsdZRYoX3J8qfmIx09dYISreIJPuDW5BOq8iqVd/T+PFdFXR/J+TFYHjjY/a/C27LNLCXDcCoWdcXCa95ODdX3letICIv+6upsIEP4AcZlhd9puK1S84+tU8uyrFLk3uwc9CghRSgMBsi0t7zWMW9jSFQztdACA3oQ+xYNePFScaEx5WdfKDC4CkMocYjiLVQOunkE2yl9g5tqYzXj41mxKD/7iZz6OoiDwOMkfLA=;tzesalkOZdSZXLkIDG+B1g=="
+secured: "3R9rbjcV3xLTcekAJr1Bnw7N0aBtmCikBcAOHJuVp9i2yVHOhH8WZ5IP/lTO370I8MVgjCBcBCTVkREnnTj0+O2taAglqGybe2qf2ewxfgzvKx7ZSQ2w9+xQ1FHb9S5Wxm5x/JLp/FL/NqWK7Y61fMif2/Y0ST1DO1urftnoI5RU1KqHEuNNcLcsi1W09aubX3dTP+hpjQGn6FG7zdMBF3PfGVhfX7fYFiKINK9k9zKvChMYNwHdgwFlXYEv4YsVNkQ+3x4C0Y+r9OvijokGXTaDxnxJrYbfxQjDziBmDlJW+CupNOfu3vcBLzB8HLkkHkbkCkUNsQWYFVRr2qo9SzQUE5TB1uuP8bebDUO+ipjk16vuut9znoj25f8PXLyxpghNfsq5y0sGq8VG37J+T09Deb8lRSfMdMCun4IfSST7jOsDsWhwiv2iEc1qB6II6EeorLIJ0EOkmPkYnmP0+44d3Pav/N0VUo2zI/ZuiACZHOXX2cGxQpzZn3kkHNbFSX5qg6FFe1uPrPd1u3Rwuw==;pMx1wbRTwK5hb6iVhukXhA=="
 ---
 

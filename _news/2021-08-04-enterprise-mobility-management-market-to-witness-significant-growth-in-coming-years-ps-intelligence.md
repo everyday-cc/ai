@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"
+    excerpt: "The New Report “ Artificial Intelligence (AI) in Agriculture Market ” published by Reports Intellect, covers the competitive landscape analysis and its growth prospects over the coming years. An in-depth study of some new and prominent industry trends,"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-trends-and-growth-segmentation-and-key-companies-ibm-intel-microsoft-sap-agribotix-the-climate-corporation-mavrx-awhere/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
 
 secured: "eABDXgXBglTRfTm9M+6MztrWWJJZNVggrk/PReKvE1B6pbwx0gmo2usi3e8TgKruWW/+PAUd8X5vuxRHl8s9ApWlHN+5U9qCQKb9jJbhzZS3V/l3f3EcBWMD9O5BjOTfnDjhKBYbXO1BKOJF2JBO+6PLiyfcArwDafDkAcQQhXPPebFbvE7JTcV/WiQ0Myhy3GNbapwd2w5KRiXhSm5xX+puW78aVs2vGr35h//LGP0cr/iuXuLgYe/DJ6LEvLWGBhA31lClWH0Guzjcy+tiWLYiom1OiaYxVui5X846/7UxUsRe5yEDQGy+SYQ8LwpJ7B32p/f0mqsOJFNH8ICIan7AlRldAwMj+CFWpigG4X1CG9mp2aVhkFlUvKqr/gsNPAjQdG30E954MuIrLqKaqjp064e11VAPf/Rp520iPE5j4FMUuHtT0J7n4DmRfcKhACaoFupBywyosH7Jqx9wyrahvW8SPaGGwbFhD/txQKLJRKE1fJ73hZKZkKYh1ZjtCPPzW4DM8Gi2fMFU4yivlg==;HgaN6z3e1MNV4OsbOvL8pQ=="
 ---

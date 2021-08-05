@@ -56,7 +56,7 @@ related:
     provider:
       name: eventbrite.com.au
       domain: eventbrite.com.au
-    quality: 52
+    quality: 54
     images:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
         width: 1000

@@ -87,15 +87,6 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
-  - title: "How Microsoft’s AI For Accessibility Is Addressing The Issue Of Data Desert"
-    excerpt: "AI-based technology has been very generalised and hence very exclusionary in catering to persons with disabilities."
-    publishedDateTime: 2021-07-31T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-microsofts-ai-for-accessibility-is-addressing-the-issue-of-data-desert/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
 
 secured: "7Pr4p2yHBrvRdQAhCzSmqqMqYUBHhCpA3M6KEtPuj5Sp0nc6O8YjsOJjkJODCwSjriZBByvblPXo3ijGWXuks1NKE7kEmQGF0+nkwBPGwX3nCr4nFVEe5sgNWG0PfhwAeytrdCKGBRop7JROn+QW58fhhZkJSbcCRgr/wQ2T3IsGpZ3bi2/hZ993mujC68ecmXC/kOvkL9UTseNt363jE+m1wg8XMM3HLjG9FilAdpWIrgC0dMFn4PJdkeQyPIfQK6TcB72cYWnR2W1J1PULJrsdcomSf/baBk09T6t4g/VIgdNhgBvzDqvE+pxb6kM2r1I/piZc+cZQasjt5hLyH1yul3+7Xx4NVMixARNybfU=;ujR9JNrdqqHe9c+TAJNI+w=="
 ---

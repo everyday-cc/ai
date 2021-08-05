@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"
+    excerpt: "The New Report “ Artificial Intelligence (AI) in Agriculture Market ” published by Reports Intellect, covers the competitive landscape analysis and its growth prospects over the coming years. An in-depth study of some new and prominent industry trends,"
+    publishedDateTime: 2021-08-03T07:42:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-agriculture-market-size-trends-and-growth-segmentation-and-key-companies-ibm-intel-microsoft-sap-agribotix-the-climate-corporation-mavrx-awhere/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 22
   - title: "Enterprise Mobility Management Market to Witness Significant Growth in Coming Years: P&S Intelligence"
     excerpt: "The soaring adoption of enterprise mobility management (EMM) services and solutions in various industries and the rapid advancements being made in the internet of things (IoT) technology are driving the growth of the global enterprise mobility management market."
     publishedDateTime: 2021-08-04T09:56:00Z
