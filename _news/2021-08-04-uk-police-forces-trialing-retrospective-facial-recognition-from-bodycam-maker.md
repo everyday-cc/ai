@@ -41,20 +41,6 @@ related:
         width: 2500
         height: 1563
         isCached: true
-  - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
-    excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
-    publishedDateTime: 2021-08-01T03:08:00Z
-    webUrl: "https://www.jurist.org/news/2021/08/china-supreme-court-issues-regulations-against-misuse-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 46
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/11/communications_technology_1574868315.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Facial recognition technology introduced to body worn cameras for the first time"
     excerpt: "British technology firm Reveal has introduced new AI that brings facial recognition to body worn cameras for the first time."
     publishedDateTime: 2021-08-02T09:21:00Z

@@ -24,6 +24,17 @@ images:
     height: 255
     isCached: true
 
-secured: "5LIgxXNPY77zkLtj/9zar5grPU1ELzfcSU2FMb3yr6b8afJYR/jjpyLmG0b8I9HYUUSjXQCt0h8zPlHXmPJ2q7m9Hzu/QN0x7Zet2ITMuowgelXGef0KMd2L6T7qR3m6McSWOKmfpxppAaRhCMqBpHSieh9bXOfZIedPLc3JCF2HJ1GSt50a0JFNjKjkXAhwYYmiDlAR+09VJK3h5nG1jJA+8evV7HC7xc1I1XHnfTysOelTyRAQsOvmOj2h/T3luGKaZcZMWnSxlxzsrShMlIomi2ckY+iVEKOC0g4l57gJdY2ctuWpVzjyv9SheHxAc3P9LpJ/qGRkorKAMdO+YJl9ul8QGHOfR++kxW8vqgM=;zxTXpOcJb3hGQS295ViE/w=="
+related:
+  - title: "John Deere To Acquire Bear Flag Robotics for $250 Million"
+    excerpt: "Bear Flag Robotics, a California-based startup founded in 2017, will be acquired by John Deere for $250 million. This acquisition builds on John Deere’s strategy “to create smarter machines with advanced technology to support individual customer needs."
+    publishedDateTime: 2021-08-05T20:58:00Z
+    webUrl: "https://www.agweb.com/news/business/technology/john-deere-acquire-bear-flag-robotics-250-million"
+    type: article
+    provider:
+      name: AgWeb
+      domain: agweb.com
+    quality: 34
+
+secured: "G6bUzo+qnkpqeHOM7mJpHs3MDnv9kqk93Ni9lIR03zw9WNXOmimm9duZ7/JFb+D10tBpX1315Vf+SNYsuDuLAdUU1+4ftVV24naFAwRhw3d+Gcnc7V36QNxcI0sBPqMRbH/UMDKGCuh31y+xpqcTtFnA7P8e1nAd0snuagNpd8xuxoyfPibaSt29VFEV3vNBPy3a6hLq7DMq8TsJJALJcs2Qv7/q2ZI+Jq+R3fRtnSKAzqI85Gp49FLFw6ZKziyo0123BJxJ012lZ03VrrXWswvRPaYW8C6ki7eUH3T8ne00FwpNmKsn2e80Ms8JjmQZ15gbX+wnBYSITEg8quDzKK0ME8MucamBC7yWbm3rUoCefNu13g4xoVIza/bbZCGrl1FRQxj+IHqwXLqjox4rlHFDi5EpAJYQ6usy4hq9HMo4fn9NpIFsIe1l3jvnUXsl9DICfHNnv7SI8H8sSnF+UUHIr5QQ5gYgcBt/DubtaWmhtGf8eb6gFISO7+OQLojjajMK8Dk1MbcHuXvOTfcDdQ==;12XiGkdPQ4UHCCO5lmLziA=="
 ---
 

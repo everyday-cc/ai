@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-MedPay-investors-Palta-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Ross Mitchell, former AI Officer at the Moffitt Cancer Center, advises that AI adoption requires cultural change and cannot be fast tracked."
+    publishedDateTime: 2021-08-05T19:59:00Z
+    webUrl: "https://www.aitrends.com/healthcare/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic/"
+    type: article
+    provider:
+      name: aitrends
+      domain: aitrends.com
+    quality: 53
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/08/8-6AIinHealthcare-2.jpeg"
+        width: 550
+        height: 550
         isCached: true
   - title: "AI, quantum computing and other technologies poised to transform healthcare"
     excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."

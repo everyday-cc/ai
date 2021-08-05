@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aerospace Artificial Intelligence Market Growth Focusing on Trends & Innovations During the Period Until 2028"
-    excerpt: "According to the report published by Allied Market Research, the global aerospace artificial intelligence market garnered $373.6 million in 2020, and is expected to generate $5.82 billion by 2028, registering a CAGR of 43."
-    publishedDateTime: 2021-08-02T10:35:00Z
-    webUrl: "https://manometcurrent.com/aerospace-artificial-intelligence-market-growth-focusing-on-trends-innovations-during-the-period-until-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 18
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/logo.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence & Advanced Machine Learning Market expected to register noteworthy profits during forecast timeline"
     excerpt: "Request a Free Sample of Artificial Intelligence & Advanced Machine Learning Market Report:  Some of the Major Artificial Intelligence & Advanced Machine Learning Market Players Are: TIBCO Software, Inc."
     publishedDateTime: 2021-08-03T11:02:00Z

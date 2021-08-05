@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

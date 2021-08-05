@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-camera
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Supreme Court issues regulations against misuse of facial recognition technology"
-    excerpt: "The Supreme People's Court of China issued regulations Wednesday for use of facial recognition technology by private businesses. The guidelines require private businesses to receive consent from"
-    publishedDateTime: 2021-08-01T03:08:00Z
-    webUrl: "https://www.jurist.org/news/2021/08/china-supreme-court-issues-regulations-against-misuse-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 46
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2019/11/communications_technology_1574868315.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "UK police forces trialing retrospective facial recognition from bodycam maker"
     excerpt: "British police are testing retrospective facial recognition software provided by Reveal, which also has a line of bodycams capable of live face biometrics."
     publishedDateTime: 2021-08-03T17:01:00Z

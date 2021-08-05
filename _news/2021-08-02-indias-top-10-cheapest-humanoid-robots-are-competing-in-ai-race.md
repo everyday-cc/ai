@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/indias-top-10-cheapest-humanoid-r
 webUrl: "https://www.analyticsinsight.net/indias-top-10-cheapest-humanoid-robots-are-competing-in-ai-race/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Musk’s Neuralink Raises Money, India’s AI for All And More In This Week’s Top News"
-    excerpt: "NEP 2020 event major announcements include the AI for All initiative by the CBSE, SAFAL assessment framework and more"
-    publishedDateTime: 2021-08-01T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/elon-musk-neuralink-funding-modi-india-ai-for-all/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/1627764287424_open-ai-copy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "q80qiWM/2Vu/88QgO0s0bgakKQILciF2ftTnAHAnoA2vvHU/o4eN1jQ+VmVABtVi9grcxsZ8ytptmgGAVN5EEbckVZNlBIQF4tZjHW/1CNTxYTa1FPg4htnVzEp2DZ+Ma8Xj9MaqcKub6KXhJw9TmGGzMQELlrLArTCRdR6xsprdejoIqz7MU6f5q5NGme+7Ozw/1plBzzYjjAHTzEGz/x66swbpyyA0r9Wt3NIuY8tGMOdnqdohrrzuH5uPb4VXQvELp1u49ETnrkh8Gto1DscC2qdJXL11B9ffCwR12w88bcryVKJmACZYNcwmqWaPtvFwmkxatiLm/4Pt9VzUdqjs0zyQT5JOIpesSJa1SCsN+aEiGE2slsPXB5Faj4g3S1mu8uawusAMDA4y818Xs9aKH7pxnYz7SaT+yNRd3IHAoCwh2oTf7cQhrHIx2dA4c8yNG6LxGJ4VFvN8TGXGFBLYQgSlWomxwi1259R0rhKZxVOLxGhzfNyYU3ek0EJkEMYd2NgB5J0NBZy7ZIeakA==;OoZ2hrREA+4KcNmIc6ivNg=="
 ---

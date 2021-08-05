@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare"
-excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review Spotlights Parlance for using Speech Recognition to Improve Caller Experience in Healthcare Becker's Hospital Review,"
-publishedDateTime: 2021-07-29T14:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-beckers-hospital-review-spotlights-parlance-using-voice-recognition-/2021/07/29/9420064.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-beckers-hospital-review-spotlights-parlance-using-voice-recognition-/2021/07/29/9420064.htm"
+excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR."
+publishedDateTime: 2021-07-29T14:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
@@ -17,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/86/d86d8a25-c3fa-5c7e-89b2-11e91e7cc34b/6102b8ccc0895.image.jpg?resize=766%2C351"
+    width: 766
+    height: 351
     isCached: true
 
-secured: "jO5p2QNQBfG9qbvchDUl/Ysso14D2F36s5lk4qQ050EAWWr/oev5SkflhZXKqgbkSZFuw51PacCWk4bahgV4/k74ei/nUCwUUPLe8Leuey7bHeYnN0KUWAbKtAyo/UQN/Pg2XnAYwOFmX2nON8mYJTcSo/5nY2xA9h44DZNLb5vuxPhoLrTC/g00Lneu/gPjXTc1ew5pqMn8nD1lhfH4lOEVgBerob6i0qTQyfe/rTFWnmbwyalRQw9+wsalQ8pQpDyeUlWlL7KMBRXbYn2ZUZH0dGlsA9Jvc6PQW2ZAJD3aDKQYzBehG+AWSsC4qP+l9Dw26tZsUbpdoH/6uTU7NM79iH7IG6SeKy8nf/54iDCI8UnYstotmVbUDLlSxZ1iyy6fnIzllxCJVbkmvmggxDYpZwdW0M1+sIWq3wPHpYwbpiRoSlp1TWnB/Fb3gsVMJipz7lXDQFxga0nRPUKbtLmFnZxt4nSYpdFygUjbUj/HxE1v3WzaKKy5FTeRTXO7sf6SiAhB6RbQqEaaHfjP3g==;nee8GISkcVkXUl801ssr4g=="
+secured: "j8LV7QK/mDuauYFq6Q6x6ieTYpgtV7jpZpha2mNaC1/0qibo9QsOQgtVt49oTmJFFty6jw+oEqWQUGx5jAdTe2Wl2apC8t+SOwys/zm8GG5A0gPSRuKHlIdRuUo+V9ciYMew0GrhIpxEARjr28cZP8P8qJAIF1UX/uN8jstT7f0cRB2+MRZhZpFJmAddNw3qelH2x90dRyzv3CpMabWRoUtS3U1nFYyPfNBU2Dg/Rk4SZmODJwUURJytj9wwPZr1fYrkWnaXPw2p6EozwjTpsvZbMyeKL86SK5zBcMzReHePee0bxsmvcwLthKFTzqgpQ6XLnQcahXC9kctF7+zCzY+yH/zcWSBvbzSzn9sK2zs=;CHpRp9vTaYWCKKCfKEMqjw=="
 ---
 

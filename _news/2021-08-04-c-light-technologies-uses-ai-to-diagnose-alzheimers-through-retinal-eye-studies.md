@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-d
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

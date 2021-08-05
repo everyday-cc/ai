@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-se
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 19
+  - title: "Machine Learning as a Service (MLaaS) Market to Showcase Robust Growth and Is Poised To Reach USD 12.8bn By 2026 – Decisive Markets Insights"
+    excerpt: "Market research study report by DECISIVE MARKETS INSIGHTS includes a closer look at the competitive market industry including the top leading players of the market industry. It examines the various significant market aspects like the market trends,"
+    publishedDateTime: 2021-08-05T21:50:00Z
+    webUrl: "https://www.globalbankingandfinance.com/machine-learning-as-a-service-mlaas-market-to-showcase-robust-growth-and-is-poised-to-reach-usd-12-8bn-by-2026-decisive-markets-insights-2/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 0
 
 secured: "w8m3Du1p9/IKQcCQOLFJ0gXfQzZRkLl6FtmNcZmplUWGbfuKOvq0WZ8Lit0Hv3Mi9A9OjUaloobMb6MF9VgUpANDn+pHMqqRl1RL+3/rq4R7OJg1f4nDSAOXNLio9Jx3nKZNZ/SgIgmAKeBhhWIklUs8L/VAM+zgNJi+SCgWQsCd5II3I5upNLauYiV+GE6+jsWaKqAUQfdUxvBU6FyhViGjUj2kn5S8a42etlpuNrTOstXquI4eKZkiqTwgLg2ONbd5n8OKoPHMDE7Gp73h29wG5o37dO4gvv/ql/kKMbNi8XPgPj9AXyoD1GRl9As+bfCLzN2cybeMGgHGAR1JaF7m4PvRrXlNd3q3bZBX5go=;iVC6pIdlP5Sr/zPLoHuApw=="
 ---
