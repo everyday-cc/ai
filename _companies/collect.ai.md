@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "collectAI"
   url: "https://twitter.com/collectAI"
-  followers: 702
+  followers: 701
 
 size: 11-50 employees
 yearFounded: 2016
