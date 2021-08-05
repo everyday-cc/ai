@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers aim to help protect US Navy divers using AI systems"
-    excerpt: "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from"
-    publishedDateTime: 2021-07-31T13:18:00Z
-    webUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/"
-    ampWebUrl: "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/"
+  - title: "Researchers use AI to look for alien civilisations"
+    excerpt: "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations."
+    publishedDateTime: 2021-08-02T12:15:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 67
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/r5nkkz/article35680756.ece/ALTERNATES/LANDSCAPE_615/oumuamua-impression"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Researchers use AI to unlock the secrets of ancient texts"
     excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
     publishedDateTime: 2021-08-04T18:54:00Z

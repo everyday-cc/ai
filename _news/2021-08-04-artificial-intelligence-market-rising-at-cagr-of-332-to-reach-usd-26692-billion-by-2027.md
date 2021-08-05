@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
-publishedDateTime: 2021-08-04T12:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
+excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the market size was valued at USD 27.23 billion in 2019 and is estimated to display a stellar CAGR of 33."
+publishedDateTime: 2021-08-04T12:27:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-rising-at-cagr-of-332-to-reach-usd-26692-billion-by-2027-2021-08-04"
 type: article
-quality: 27
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025"
@@ -48,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Finetech Market 2021 Analysis May Set New Growth Story, Forecast to 2027"
-    excerpt: "Artificial Intelligence AI in Fintech Market was valued at 6 33 billion in 2019 and is projected to reach 31 billion by 2027 growing at a CAGR of 21 from 2021 to 2027 Increasing availability of data sources driving the"
-    publishedDateTime: 2021-07-31T13:28:00Z
-    webUrl: "https://www.openpr.com/news/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342723/artificial-intelligence-ai-in-finetech-market-2021-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
   - title: "16 Upcoming Fintech Events in the US"
     excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
     publishedDateTime: 2021-08-04T09:05:00Z
@@ -85,6 +82,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "KS3hXCMFOFRWUob68QUVt8WpFWkxpJh5uPL5ByVvY7aWNSibkgoMXeaQuZxegMNixDczmh414QL/BCE2Un37iPbqNCG8ZQug3ra+TlLUU2cUbiYFnQmzbNbxFcYf5TUalny3zQxve8gvCc25AJVyEWAAR7eZ90DqMSZKRGDw3TeNimW7gTlK7jpU8sVVHiew4tIY1CM883cj/OKPiBbEVDiF/DhPhD/jeh+/g0pYekZpCamH7azQmXYPEe2mNC3C9vCOnK80hgSN9fXjLp8Iy832QNlOOoZdr8Hz6euzphL9OSzzzPAy2DzVFqutHSpCsJJbdfakkGZaKH8RYs+0Q++TPxbPcqRnPU/ycv3E7hM=;BxCX83ABwVL9wo4tWSOWXw=="
+secured: "yOmKjFe+WvFTqktyxgCcJ85i2+HYTaZlQnxGV7slQP9jVXR85egIoQSDs4m44DDtHwLQQahjR3HIeoeHov9ctcD7R/IOvQvtCUVZlwajUei41aMPDjHVChr3t4b6+4lFSNUeBMSbJOm4L0YhQKDjg5MwZm/v02FBX0Blk3c78PSWUvh9+zDiIRGmBDfpUknD+t3bKO4DKxFCLQrFgm9PvDUmZkRMEF/kMqpaMc5hg0RaWnsoEoIAoOTV9ciG9i9jDmmUuSS2r1/9ecXQrfHipv4seWRRalBnugJRfsfztj+bES6R5gINZKDf5l4WOM6QZaX/pY9b4HmU2/swQ8RW3XWhMNawA78dOXyuF+4+9ns=;wA0EMnoNjIlx9cT1ntGnJA=="
 ---
 

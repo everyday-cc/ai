@@ -19,6 +19,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Global Artificial Intelligence in Accounting Market SWOT Analysis, Key Indicators, Forecast 2027 : AWS, Microsoft, Intuit, Xero, Sage, UiPath"
+    excerpt: "The report curated by Zion Market Research on the Global Artificial Intelligence In Accounting Market Is Anticipated To Reach Around USD 7,085 Million By 2025 is the finest fabrication of expertise and trust."
+    publishedDateTime: 2021-08-04T10:17:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-accounting-market-swot-analysis-key-indicators-forecast-2027-aws-microsoft-intuit-xero-sage-uipath/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 16
+
 secured: "VR02DzbOp+ADZMsbgrNutyKqf8DIiprP2P6r0VrnRjvAXLpMSZ8/dtGGSPSHJRgdqWqdqmmr8M7b5DSRehqQbv00kugY5pGEQxGvphfsnhfNrYLeZck6K4kw8yIz1mgJa0pDmtKhWrH7jHmdShGiIccogBKdnuUXp7vcOgx+dNbSwHrex+iGQ67trOTka5uLnvdx55H81T+yKui8iexnQwhSiJDxbj83Vg7fNkpU1En8ebIfVVGxZMmMIp4GPZKPQrm7zfyCxgakml8xbppJiSziFdOkhdTM09KrkUoBLruFsjQVAdKnY+4qvQHza5ljSPzP9yFft8HM3LlqLJ9PeywIOWJwsVEuGJqZTy1OffQ=;xq6oDcjC28QndrAaBUmEuw=="
 ---
 

@@ -2,17 +2,17 @@
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+publishedDateTime: 2021-08-04T12:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 667
         isCached: true
 
-secured: "6qIha43Cz/MV0HrnuiNQs7MdJowDJiLc7sgxiZ45vN3Z8mdQYu8uCPP0tr6e4LfdJGqSGAHH3EQ2xeVVaYS8iKYOzeH8QMqbyYafAo1DjThFr7ZzJvOTQv6gSWrJpQMHBAPq4rKbwyF2ev6HrdiIRpH+BuHirz7bKFmzWK+e01GZj+jDT4p4ToEEm6ba+vIJsp1YPEM4nxjddPtJ04cXhdczQj51hNxvKDVsuATuIkcNVgSzPH27in+d6NXrHKXedLIBHi5bd7QnnefAScRU7GYDas2uIGieXIeWwOSLZhsdSNW1lmPlYI5PC8xSCLRnC8xjied8irQifM3XeeqZVcc8i44x0+wY91uyfrG2UQc=;W7QoEba9BQgZIJB9eUYyAQ=="
+secured: "BS03fm1clGAKeuS2Q7GAmg1014pAV95ynKHj0UDAr786N6QLJGhC7f8JFJ1YEZwobFzza95amwycFMVa6tY79wDlzrwX37FnNQ2I0dFi+DAZVXsSsPoFce6Osgir/aZrlkQh2DZYDmDVay6grc5hyIJUGe+Xr1X33S4+MgB8Zla5RrvPfAeC9cHiDvCkj18+/FPPWEby1297z2iSfcl/l723/u1VvhHE1xjVn0MRPj6/NFHSjPBNP6AYmFzpT4aA6KpEfwKP36rVXHqzsqniK1jVRYClSUr96WrqJkGXK1JaQm+sE3gYhkFpXzYsp3QrxEbxIbbgkuLiM1TXtmfpL0xBZEfSIBZ2GLT4K6VfT5s=;WbfauXH/d+LLhYNElnqbRA=="
 ---
 

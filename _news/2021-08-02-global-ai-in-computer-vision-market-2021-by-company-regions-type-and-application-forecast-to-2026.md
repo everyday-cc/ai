@@ -67,6 +67,20 @@ related:
         width: 3200
         height: 1673
         isCached: true
+  - title: "Conversational AI: We need to talk"
+    excerpt: "Interactive conversational AI is now big business, spanning people’s homes as well as customer support at the world’s biggest companies. Deep learning algorithms are becoming increasingly human in the way they interact with humans,"
+    publishedDateTime: 2021-08-05T06:01:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/conver-sational-ai-we-need-to-talk/69599/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165061_conversationalai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "NCC Conversations: How can we reduce bias in artificial intelligence?"
     excerpt: "As part of our NCC Conversations series, we’ve been exploring the issue of systemic racism and how it impacts our industry, wider society, and the"
     publishedDateTime: 2021-08-03T13:24:00Z

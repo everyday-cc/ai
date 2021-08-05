@@ -57,6 +57,36 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
+  - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
+    excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
+    publishedDateTime: 2021-08-05T07:24:00Z
+    webUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
+        width: 749
+        height: 473
+        isCached: true
+  - title: "Elevation leads Series B funding in fintech platform Zeni"
+    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
+    publishedDateTime: 2021-08-05T07:16:00Z
+    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 24
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "f5QkLSx4uK+O7RAWcHlmlAk4bPNVDN2lFiGHXfjbduw7bLRhQsqlzcaSbp5WVvslIBxFcmislNqZhdJi6YFxCqMpSNgCQSWH1UbJop81eA0mL5B+JHCyRTd0s7a+OBEtH+zjAAnwA5vgE7yDREkCCgssg5OaElqe70bs3Iqg6FTBYj50c5DzX0HxjYBHydVysWsy0EgHHchtn4PRYCDZb2b1c7Xcb5CUJOU+7pKYyOr8l9994ZAZLWApkKyxUMFPO19LTSO5YrKgQpMh15KbRKzdkz8EwbFfkJwx99elliOuVC1bFiQ3QSnDxfTq64lrNkbCzdQS/LfHq+5ow/aF4s4IqcMVMFHbEZhhzS+D9PWiqwnODCDMM1AS4VbKohxLNIT6cGL6CJpDHARUgnoaOJuoEnm9uEkGQ5h+EGNFOpi85ujskp/EICkxnkF1j0AsKe7nDAStgUbstpdT/1nvnan68Oe8YvUrwl4QP+FZf2y2mZjol2miCB78YIq+1mJbV+U9PFGywv98svpyVRRd9w==;Ht3+yEuCP8Rua+EEB/cqIQ=="
 ---

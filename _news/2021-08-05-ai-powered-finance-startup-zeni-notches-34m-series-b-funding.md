@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-sta
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -54,6 +54,36 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
+  - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
+    excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
+    publishedDateTime: 2021-08-05T07:24:00Z
+    webUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
+        width: 749
+        height: 473
+        isCached: true
+  - title: "Elevation leads Series B funding in fintech platform Zeni"
+    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
+    publishedDateTime: 2021-08-05T07:16:00Z
+    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 24
+    images:
+      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
+        width: 810
+        height: 506
+        isCached: true
 
 secured: "mb7FFqNfhuQWIQ8KWZ1kc4H3ORjdmo2cvc2N/yfV2RYcSZu96E1NW2JRO1dNVAWIxAyHAdY3IX91tPaGkUJLrj3sGBxjhldea10Li+lY0KD8byEqdqsAnKL2OP32QA1yyFnzhq2I/WjUnIhoXsMsW+pFYFEFPuDCeRzlWAhWTkn5LykHM89qL+1TCUAeS1sOrnpr7rUdOU1H4NBsnLX8GigulXGfBOzs6s0H5V6aMzqXMaPT0cy0L0HCvw1V0qgw1tmiWDxUdsrzi9jSRJ1hSwr5Uk1fEAPPB8xfJlwtFdHMnHjHPCfNyvj1c4iZw08Gffr9TqOf8VtLexyu4MC54YMo353WbfAVJDmZJmVil21eq3yy/LO+9IBfvOM6qGQdXVjjXdwEV0DhEPiiPeaq4eZrhLHsdeViGOshcUbGlw/ah6ek6f7cSirAXu/6Z8ZGdYMzcR7dqmh2w3QOCoAhKdQGe6IM6xuxH/1CbWknkdI0L82yUxqHxY2rDM5SHCvhAECKuXbr4k9zX8iRUUBvwA==;ZILDSfOSLa6bJnl+PQaUZQ=="
 ---

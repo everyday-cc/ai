@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/seeing-the-future-of-ai-an-introduction-to-computer-vision-for-safety/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Responsible AI: Putting humans at the centre of artificial intelligence"
+    excerpt: "Organisations need to adopt basic principles for responsible artificial intelligence to gain competitive advantage; they must also design systems that can effectively deal with biases"
+    publishedDateTime: 2021-08-05T06:23:00Z
+    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/responsible-ai-putting-humans-at-the-centre-of-artificial-intelligence/69601/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 52
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Artificial Intelligence: The Terminator of Truth"
     excerpt: "Science fiction movies like “Blade Runner” and “The Terminator” have defined the perception of artificial intelligence within popular culture. For most people, the term AI conjures up images of a dystopian future dominated by humanoid robots that have taken over the world."
     publishedDateTime: 2021-08-01T18:00:00Z

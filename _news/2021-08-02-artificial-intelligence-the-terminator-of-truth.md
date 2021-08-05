@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Responsible AI: Putting humans at the centre of artificial intelligence"
+    excerpt: "Organisations need to adopt basic principles for responsible artificial intelligence to gain competitive advantage; they must also design systems that can effectively deal with biases"
+    publishedDateTime: 2021-08-05T06:23:00Z
+    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/responsible-ai-putting-humans-at-the-centre-of-artificial-intelligence/69601/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 52
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "fsbp34gaUDpma4LNgrWY64usQGDNw9CSYtImIytketH/UGyxhHaeYHp1ny7XiLNvTezzg9bAyx4Ep+wtTkfR1s64gU6J/rruJ1R5HAp2PAOLUNYIiD/1UHqIk9pNCZW71HtpWBlgA8B2oJCbfU/6cTzGuJGU5MB/q5SJJA6/rdbTbjCg/n7Bllsg7VnM9NTRT72n1IFYCOJ3NHPXAr8MfRD2wC5vkdp4jxUljol5XBdQNErvJNwbtQYET/ywSVKcufUWUkBX8cxIG5ZeyPO7o+Uk/iBtfPrIswWZHyumKBWTrb/U08k4tIleWW/JGFJRj/2FZHmAtftZC7HIPkPykV+MfSLrpgUHHymCxDBCsvyWzBvOpOHuWTtmPs2Uy5tY4XZML4jezsBpeNhRCgo4f1FywVO9fdKnczAbJoYbRpizSMJwoUlhp45O+ahMU7VsVGRgfAcgHQNN/S5aHAvEiGumPw6dThoGzikP/Srvuq4w2JCbv2jJ7OqZMh0f2uJJ2yRLeKLMAVmxeMYbnpr2OQ==;mzvi5tJ2E+gRJGN15B5QUA=="
 ---

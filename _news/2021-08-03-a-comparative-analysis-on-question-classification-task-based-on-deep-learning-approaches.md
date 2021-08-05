@@ -33,7 +33,7 @@ related:
     provider:
       name: Control Engineering
       domain: controleng.com
-    quality: 24
+    quality: 26
     images:
       - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_IMG_Prescient_Fig3-Slider.jpg"
         width: 645

@@ -1,26 +1,61 @@
 ---
 category: news
 title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
-publishedDateTime: 2021-08-05T05:41:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
-webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+publishedDateTime: 2021-08-05T07:22:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
 type: article
-quality: 42
-heat: 42
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
+  - AI in Finance
   - AI
 
-secured: "g5S5Ym3JKa7xWNwSB+2VGL1Cj+M6G2gS8GV2coKwI4jSEKdpdITB+olidPUfALpOdDL730vZ8Xvtyzk+/trBKkRU82Wn/r+74Z7+4JNQukwJRGglSRq4GjOggaPHNQab3WNk/06o54ebMwirxkaXtlaQQbrRwynOn386Yu1JRd283NdhUTgZC1cKKIuVN9L6tz07y6wxO4zoSw+soTA5hOtK/nEFlbC579Mf6iUKdhx6NhGq2CFib/s9Z9F177IV7fL7Gn0gdx6iwDR4qlIr3KObW4DTahmWAkiczADkjbDrPRn2CRvAO1uynaUPnLaqtWxqL+i0Bwhk2IRa8elJ8b+ZtrWoaJHGNqH8naC2qTQhDAetN0jjSI6PpmEID5Eo0IFPDCHxbOmjsnROc7ELavCNo/nCIncGNmwp3NNucI4ndWy58oUxJbHI0aLnBDb8e/k1in2qB9rrSqNfm95F7kK2m3pQ69PpxP8uxhB/sA0G2JlZ2DkbxycvoHbOOwFbnHYG2nk95JQlpKh+UjHKJg==;mDBDx84kdrvzEsFlmRo92g=="
+images:
+  - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
+    width: 746
+    height: 938
+    isCached: true
+
+related:
+  - title: "Dataiku raises $400M to democratize AI in the enterprise"
+    excerpt: "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ..."
+    publishedDateTime: 2021-08-05T07:57:00Z
+    webUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/"
+    ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Enterprise AI Firm Dataiku Raises Cash at $4.6 Billion Valuation"
+    excerpt: "Dataiku Inc., a startup that helps businesses roll out artificial intelligence projects, raised funds at a $4.6 billion valuation to expand in its markets."
+    publishedDateTime: 2021-08-05T03:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-05/enterprise-ai-firm-dataiku-raises-cash-at-4-6-billion-valuation"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "BE8Oi3EbXuRLEsiYy04b7G3xLgIPgVl/VqO5UFKU4czg4tOF64+UIAIdK49nbMkxJenWfw5bxgwS4SuVFvfpfcnE/Gflig8TPlnBbZjvATALCIeEWSKUvXVAu+1qaq17UwWAbPF16CRuUPeovf7nWFqXjRB/7E4P8lWwShh9V93sFM+lVPfuaTP9wySVS64JZsFEWIdZ1WxMaCM4bgwVCLCcwwhtO9Rv/2GZWsvL4n7RLmWyVEaQp5i8pMpC/LhwSkDE6IQ03E+zs1RzNgSGppSrRYQRsIfZGBzmrjcMaAFYjRLpfP5yvvcPbFbC8b9hQLCogIC9FNWVOg2OJ0OeVDBbnKp6IT827lknC9MWETc=;q7aLWm3xdpiNvyoiBgNGew=="
 ---
 

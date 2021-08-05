@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-publishedDateTime: 2021-07-29T16:16:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
-webUrl: "https://www.prnewswire.com/news-releases/shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-301343857.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg?p=facebook"
-    width: 1200
-    height: 628
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "k3t/m0w1tqGdPj2dYoAA+YCbzOUIK4xkSk7SvT6L5XaW/DeFzksDmDA9AGSKJbc0CiJgwFMjLgJ7x4FsygzcBzFXwtTOl0xgaBEVucKOMjuEQ7ZhztfZxD8p8FYiLOnkLgh11VhY3kQziKrkti22wMrlQCPieqsZKVNcP6fKLtfr7cMuaGZPqUCOQWX8EGG0hhakGcJKXOIMBt1IL708PhBv5qs0TRuRA25YAwwVClMtBRFysO4hmw8bLytf6uQpWg29VSWyZ5FSbDDuTFOQehdpZ9i3kgBJLC5gPCrLanjPX4EB884lqpCPFN2GFOwFU3Zk7eSKkiKn1ZrcKKjQ0e0OsQ+09AWA5LTBZa6ceVc=;vSQ2OUdMhTE0YI7i1T8f2g=="
+secured: "GVzBIzuYVRFHMpvPvb86pj8DlM+fdtXX5T5J6O2jdTqFmHSLSk4PFToJ2DQKNdRlDgthFzDVIFHTc2y8XocyWZncyPLgyRzTNY1ALxfHd29wAYPuxwTCYyttEVFZSo1YnGuUfToAYYMEba5Mbs4m07uvONBUwAm/iryRsxlxTjFk6n4GqIwfvRlbFjZ6e1oKaXwiVpJSChY06HxvGwXoZEW3PCJdzTkzhF88nS0A5iBwsxZM6A0BVzI6F3F8hmjtbiD0OZhDXQXqk69KH1zgtgFpy9NvaxboBTLNpWZfzV5UbaVpZ6njSwv6uqWeBglNqZgU1yYKLw1/awxWXM3xT01O3f4BvVB+NgLtQLujBrc=;PAD7mE7LkdzXnudgS/pzjw=="
 ---
 

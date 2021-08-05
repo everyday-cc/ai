@@ -461,19 +461,19 @@
     {
       "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
       "title": "Beijing permits self-driving vehicle testing on expressways",
-      "excerpt": "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles.",
+      "excerpt": "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/international/40003968",
-      "originalUrl": "https://www.nationthailand.com/international/40003968",
+      "webUrl": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html",
+      "originalUrl": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nationthailand.com/uploads/images/md/2021/07/nWtwpDxGVIjgbZ76B1Uo.jpg",
-          "width": 570,
-          "height": 321,
+          "url": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -483,11 +483,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T01:14:00-07:00",
+      "publishedDateTime": "2021-07-29T21:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
+        "name": "CGTN",
+        "domain": "cgtn.com",
         "images": null,
         "publishers": null,
         "authors": null

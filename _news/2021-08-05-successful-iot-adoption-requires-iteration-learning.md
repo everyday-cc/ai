@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-05T05:03:00Z
 originalUrl: "https://www.controleng.com/articles/successful-iot-adoption-requires-iteration-learning/"
 webUrl: "https://www.controleng.com/articles/successful-iot-adoption-requires-iteration-learning/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_IMG_Prescient_Fig3-Slider.jpg"
@@ -40,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "DMOPvoT28Z0dKyNIfEvxFfx1GWcoY+VAuUHYYckIDkRW4ooLq7pHoCDcZsdYZVlHKPDr2+Z5I96GJskZqIpDaSe/mrdTEQx7bgVnVuL5iiwHoUmvECwpOoYLg8u4Firl+eDI5ghKabLvz9dany6y8Kre2jDg2fhAEgk9YRRHuE7zYW0OjRY4EjmJv7kfViL46GoqlgOyFjZcdwXjA2juK8mh3SgACZs1c433Y47UCEbBDe2IWCKjAKZmMdagMffMY/GoCEvWqLn/dyps0Tm1YqWmUWZgXqvtgUt4k5rwb4LKVvNZosd5C5xQfF3Wn1pfILLPoVmH6ibMAPeoA6kClvJz89CotrR6BFmcvYjSk2s=;3EB5j6j3D9b88yv614/bCw=="
+secured: "N4DuGVbsWMJRlLrcdHtNOt9vG47L0jL6fE87JJxxY6Lpotjw0fF00DFQVcK6JkNUQAamlUGCQ11+lIwCfsEaodGzMOiHB9A2Iqy0Yhqi+T2D3QbBUkZHm0G3Ka9L9UtBJpab2n2Ihk2rEm+CTGL1EM4Xog9K6VAhhmnNXsL0h3h15m1RwTKBisbtyOxWmu73wUM1EPaL7HO33wVI9sQ1blX/C5K3MtKESJN57gnWPk93tXA/PkbN+DunV7W7uuDeP4FqlNyGzmSTEBZ+HOPNbW33uTusq8wsZzBYPLSb4S1VLZgTkr72J0OtluQvy17lrxuZcEZ/UJawhmTAYT7Z7TzjsMkr371by9ASzkjQZ0D1UnYcu1itxz64XjgcxD6zZVPgAHCvcAAcNt/hrYKR0KCz0DIt2aJYuyYNZznsvRwX7HVZxiTTCU8M/M/lpiGUNkcAPiuqXxBhYrkj8liQbeuI2gtot5yI1k06tyfnWUyiZOrcXjUpElMxZU1IiDWE8rTC05fPjm2WgnxBI8C+aw==;2XwW3NPSdL1ITrn5CkYwWg=="
 ---
 

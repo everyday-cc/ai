@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Beijing permits self-driving vehicle testing on expressways"
-excerpt: "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
-publishedDateTime: 2021-07-30T08:14:00Z
-originalUrl: "https://www.nationthailand.com/international/40003968"
-webUrl: "https://www.nationthailand.com/international/40003968"
+excerpt: "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles."
+publishedDateTime: 2021-07-30T04:22:00Z
+originalUrl: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html"
+webUrl: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html"
 type: article
 
 provider:
-  name: nationthailand
-  domain: nationthailand.com
+  name: CGTN
+  domain: cgtn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.nationthailand.com/uploads/images/md/2021/07/nWtwpDxGVIjgbZ76B1Uo.jpg"
-    width: 570
-    height: 321
+  - url: "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg"
+    width: 1920
+    height: 1080
     isCached: true
 
-secured: "a0jdMavfEec43M88pTLAxtNnoNwgHHcLL2M48U4fLwHxuczCujJyFtizi+ix2JJVW9fGOoozoHxjzqASsp3VUjpL5MFZLClQAbrstpt8xpMcmqoTvJIl8pS/6qegwthtMeQB7zQg49OJAp/J/NO3PJ7V0QIkR+CgwbJCwli4Nk3Hh1WuzTMlNlO/dG3Gb5W5Z7bn7oC48tFDX8YOZA1Bwm6p+WHYEV8aepzNEfeRC4trVLRIdCm2iX5Ug+jTiWY12+SZu/4Y17c50zGc5JfJI0SEQfylldZyqla8BY8EfpVSVxkTqNSd/teOmmKRmHRZrpqDbAIzWT5zVG+/NYzCCMyRuydGgXgzanoT3BmxoZ8=;ySBtIitJAoPmZIcLpgRsmw=="
+secured: "+RtkPrTsRfeEPAaSeiPbSdfbh3pcLFGNkDn3V4giH1WPcSkFzKgpoX3ixiXkkJ6RHNO4PSLugALVy8wMAe4U9loA01zFaoTTJzjg2abT6fwc/6OI5ar24lrt/b698BeTAZAsa0IK3c4hGXkzil0JZkrV3PX4voRq6aXMBSye8SxDmPu0hH7tpGiBC2XIayzof1QkzRcivyQLpfbF+u9VZldPUkgtnhCmaonKKHLiXrabkuft+FpzAYHrpM1mxPUb7kDlBYbZBlqYpWi735w/9cm6t9CZe2GRpzDGxlQAMVG+a4ROiMkLRV28X3GFODMxuTINzSYlvaHv7XxqvFfviT6ePKP6qhguwpHnN40XLDI=;9E3zedYcreoteCMRDNYPnQ=="
 ---
 
