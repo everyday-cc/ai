@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-07-27-device42-launches-ai-recommendation-engine-for-cloud-usage.md",
+      "title": "Device42 launches AI recommendation engine for cloud usage",
+      "excerpt": "Device42, a cloud management and discoverability platform, launched an AI-powered engine that can cut cloud resource usage and costs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/",
+      "originalUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/amp/",
+      "publishedDateTime": "2021-07-26T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists.md",
+      "title": "Google testing Duplex feature that adds names to restaurant waitlists",
+      "excerpt": "Google appears to be testing a feature, powered by its Duplex technology, that can add a name to restaurant waitlists over the phone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "originalUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/google-assistant-duplex.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "publishedDateTime": "2021-07-26T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-poplar-healthcare-has-been-acquired-by-boston-based-artificial-intelligence-company.md",
+      "title": "Poplar Healthcare has been acquired by Boston-based artificial intelligence company",
+      "excerpt": "Poplar Healthcare provides lab testing services to gastroenterologists, dermatologists, oncologists, urologists and gynecologists across the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.commercialappeal.com/story/money/business/2021/07/26/aipath-acquires-memphis-lab-poplar-healthcare/8093766002/",
+      "originalUrl": "https://www.commercialappeal.com/story/money/business/2021/07/26/aipath-acquires-memphis-lab-poplar-healthcare/8093766002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/07/23/PMCA/aeb48d2d-8974-4a68-b274-cb8ffb7df18c-PR11_CovidTestingPoplarHealthcare_072320_MSG.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.commercialappeal.com/amp/8093766002",
+      "cdnAmpWebUrl": "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/8093766002",
+      "publishedDateTime": "2021-07-26T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Commercial Appeal",
+        "domain": "commercialappeal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-pittsburghs-expertise-in-self-driving-tech-attracts-waymo.md",
       "title": "Pittsburgh’s expertise in self-driving tech attracts Waymo",
       "excerpt": "Waymo, one of the industry’s leaders in self-driving tech, is opening an office in Pittsburgh at Bakery Square.",
@@ -1010,135 +1157,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-amazons-mugshot-ai-says-28-members-of-congress-are-known-criminals.md",
-      "title": "Amazon’s mugshot AI says 28 members of Congress are known criminals",
-      "excerpt": "In a new series of tests by the American Civil Liberties Union a whopping 28 members of Congress have been matched by Amazon’s Rekognition facial identification software with mugshots of known ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "originalUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2018/07/featured_image.jpg?quality=70&strip=all",
-          "width": 1160,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/amazon-rekognition-congress-false-matches-aclu/amp/",
-      "publishedDateTime": "2021-07-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
-      "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
-      "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "originalUrl": "https://www.bbntimes.com/science/what-s-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/IBM_Watson.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-the-woebot-will-see-you-now-how-ai-is-helping-in-the-fight-against-depression.md",
-      "title": "The Woebot will see you now: how AI is helping in the fight against depression",
-      "excerpt": "Bot therapy' engages a demographic that's traditionally reluctant to open up. Could the future of mental health care be algorithmic?",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "originalUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/health-fitness/2021/07/22/TELEMMGLPICT000265024181_trans_NvBQzQNjv4Bqvf93cyop1gpr4w56dB_PHOHO6xmcg-ORQ3PwU054mI8.jpeg",
-          "width": 671,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/mind/woebot-will-see-now-ai-helping-fight-against-depression/amp/",
-      "publishedDateTime": "2021-07-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

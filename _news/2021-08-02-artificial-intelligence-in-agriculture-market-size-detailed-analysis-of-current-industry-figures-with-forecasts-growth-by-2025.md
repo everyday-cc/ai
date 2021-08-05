@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
 type: article
 quality: 55
-heat: 95
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -29,48 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
-    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2021-08-02T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
-    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
-    publishedDateTime: 2021-08-03T06:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
-    excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
-    publishedDateTime: 2021-08-02T17:28:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-in-manufacturing-market-2021-share-growing-rapidly-with-recent-trends-development-revenue-demand-and-forecast-to-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/world-map-image.jpg"
-        width: 800
-        height: 444
-        isCached: true
   - title: "(COVID-19 Impact Analysis) Global Deep Learning in Healthcare Market Forecast Size, Share, Growth, Trends and Opportunities 2026"
     excerpt: "The recent report titled “Global Deep Learning in Healthcare Market” and forecast to 2026 published by Reportsweb is a focused study encompassing the market segmentation primarily based on type and application."
     publishedDateTime: 2021-08-04T14:03:00Z

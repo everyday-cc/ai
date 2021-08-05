@@ -86,6 +86,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
+  - title: "Ex-WhatsApp exec, Elevation join AI bookkeeping startup’s $34m round"
+    excerpt: "As startups automate their finances, Zeni has seen a 550% growth in revenue and a 375% jump in customers year-over-year."
+    publishedDateTime: 2021-08-05T13:43:00Z
+    webUrl: "https://www.techinasia.com/elevation-whatsapp-exec-join-ai-bookkeeping-startups-zeni-34m-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Elevation leads Series B funding in fintech platform Zeni"
     excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
     publishedDateTime: 2021-08-05T07:16:00Z

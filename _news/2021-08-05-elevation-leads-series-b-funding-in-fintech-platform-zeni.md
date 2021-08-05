@@ -84,6 +84,15 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 54
+  - title: "Ex-WhatsApp exec, Elevation join AI bookkeeping startup’s $34m round"
+    excerpt: "As startups automate their finances, Zeni has seen a 550% growth in revenue and a 375% jump in customers year-over-year."
+    publishedDateTime: 2021-08-05T13:43:00Z
+    webUrl: "https://www.techinasia.com/elevation-whatsapp-exec-join-ai-bookkeeping-startups-zeni-34m-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
     excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
     publishedDateTime: 2021-08-05T07:24:00Z

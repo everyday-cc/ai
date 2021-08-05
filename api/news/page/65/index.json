@@ -2,6 +2,137 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-06-18-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration.md",
+      "title": "Seeq Expands Machine Learning Features for Process Engineering and Data Science Integration",
+      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things (IIoT) advanced analytics software, announces the release of R52 with new features to support the use of machine learning innovation in process manufacturing organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "originalUrl": "https://www.dcvelocity.com/articles/51419-seeq-expands-machine-learning-features-for-process-engineering-and-data-science-integration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/b8f649a1-8c12-437c-96b9-98f08dcc904e.png?height=635&t=1623998638&width=1200",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-brytlyt-lauded-by-frost-sullivan-for-building-brytlytdb-a-gpu-powered-analytics-platform-that-is-transforming-the-way-companies-leverage.md",
+      "title": "Brytlyt Lauded by Frost & Sullivan for Building BrytlytDB - A GPU-powered Analytics Platform that is Transforming the Way Companies Leverage Data",
+      "excerpt": "Based on its recent analysis of the European graphics processing unit (GPU)-powered database and analytics platform market, Frost & Sullivan recognizes Brytlyt Limited with the 2021 European Technology Innovation Leadership Award for BrytlytDB.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswiretoday.com/news/175613/",
+      "originalUrl": "https://www.newswiretoday.com/news/175613/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-regulators-know-teleoperation-is-key-for-self-driving-vehicles-to-succeed.md",
+      "title": "Regulators know teleoperation is key for self-driving vehicles to succeed",
+      "excerpt": "Teleoperation is necessary for widespread adoption of autonmous vehicles and new legislation and regulations will help pave the way.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/nvidia-DRIVE-Sim-on-NVIDIA-Omniverse-2555435f76adab108b04.83463724.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/regulators-know-teleoperation-is-a-must-have-for-self-driving-vehicles-to-succeed/amp/",
+      "publishedDateTime": "2021-06-17T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-veritone-bags-14th-us-patent-for-dynamic-ai-model-orchestration.md",
       "title": "Veritone Bags 14th US Patent For Dynamic AI Model Orchestration",
       "excerpt": "Artificial intelligence (A.I.) operating system, aiWARE creator Veritone Inc (NASDAQ:VERI) won a new U.S. patent for its Conductor technology that performs dynamic A.I. model orch",
@@ -1038,153 +1169,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-tractable-hits-1-billion-valuation-by-using-ai-to-see-auto-damage-as-computer-vision-matures.md",
-      "title": "Tractable hits $1 billion valuation by using AI to 'see' auto damage, as computer vision matures",
-      "excerpt": "Tractable uses artificial intelligence to help insurers assess car damage and estimate repair costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
-      "originalUrl": "https://www.businessinsider.com/computer-vision-startup-tractable-1-billion-valuation-2021-6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6082c37e4becb800190f6c58?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-alphabets-waymo-raises-25-billion-in-first-fresh-funding-in-a-year.md",
-      "title": "Alphabet's Waymo raises $2.5 billion in first fresh funding in a year",
-      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
-      "originalUrl": "https://www.reuters.com/article/us-waymo-funding-idCAKCN2DS1EQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKCN2DS1EQ",
-      "publishedDateTime": "2021-06-17T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
-      "title": "NVIDIA and the battle for the future of AI chips",
-      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?mc_cid=33835e015c&mc_eid=a2c3c6d032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/16:9/w_1280,c_limit/1621-WIRED-Chips.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

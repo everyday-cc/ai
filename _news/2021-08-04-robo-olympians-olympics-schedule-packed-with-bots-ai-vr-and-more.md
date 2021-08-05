@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/robo-olympians-olymp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-in-Olympics-Introduces-a-New-Phase-of-Sporting.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Machine Learning Technologies at Tokyo 2020 Olympics"
+    excerpt: "National Olympic teams are using machine learning to gain an edge in competition over their opponents at the Tokyo Olympic Games 2020. Machine learning technologies are being used at the international sports event from athlete data tracking,"
+    publishedDateTime: 2021-08-05T13:40:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/ml-tokyo-2020-olympics"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/08/ml-tokyo-2020-olympics/en/headerimage/ml-tokyo-2020-olympics-1628067723489.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "/skPYsUOr1EbKa3x+V4wAneJJa2nxAbC7jg1nDtmCeuGCLJDPZSByUFD2wIdybT6d9nf01BJpFNVI6VA+BLM7Sk+1ez/5dTdkQ7rHJEoF8m6Xbal+RQQwf1ZdPt/2J8rS2Qk+pkjC4NBEBV+5fLEEiyjTcy6kuzAHdyf9YEybou/OUjY/x8fTv3orPWPxa/n641lvLt4dtf0VE0pBbhZR5oLG4yup6Te637Jvl6gHhtnOFWfWgR+64gnJJ+MV6vvhxojmze0Ycm7bRK5XOTMeFZymCJWoyHqqq6QdMJp9tQSxheu5Q32QZT8Kl6BYhCD2aK0BoMLGOnf+vBjRVG3Nylh7N1GmVdX3QVEHJ4JYCo=;SOrzvOHUewBRyeFNYzgYRg=="

@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Neural Network Model Shows Why People with Autism Read Facial Expressions Differently"
-excerpt: "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on"
-publishedDateTime: 2021-08-05T04:18:00Z
-originalUrl: "https://www.miragenews.com/neural-network-model-shows-why-people-with-608407/"
-webUrl: "https://www.miragenews.com/neural-network-model-shows-why-people-with-608407/"
+title: "Neural network model shows why people with autism read facial expressions differently"
+excerpt: "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be."
+publishedDateTime: 2021-08-05T13:48:00Z
+originalUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html"
+webUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
 type: article
-quality: 32
-heat: 32
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.tohoku.ac.jp/en/press/images/20210805_research_image_t.png"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/neural-network-model-s.jpg"
     width: 645
     height: 315
     isCached: true
 
-secured: "hiXejDoXZGlz7m1OlM0q3Q9MRBBoeWfK/n1urpG+72I4ELG4Rnc+EP+W3k3mqYjL0V+wgrbxwlwD7IALQ+BcmzLXDdtbEJmbERqGpPteHGvK59SDaorsHUFawuhb3wHVl7OWnIBXo1dVDVk9haz2jMvlLspKUeHU3KGk0OA6O7MMtzaHv/UkcTmuq9QnYA5qo6cQhi+X7J2/nvdx89tUwEE+80rHG14d+z7R6WshWniNanBNAgvifoNwT3USVHCv/j/h++ruv21byChA2xshS6NjtNpkHKzS5gI65VCqBE9fbxot8/Y1YYHg5Fs3la/fBUqArQ5b3Del06NwdZdtI9Xr4jjvPY0lgbjnQeXoJPkHxV7b2IibFPyuAW+sWBk8K/CGwMcvVAOMNQYbOEbnKs8qsQDSVJWIoiOuqWGBI1+YMgU0M2FSa6ZtuCHurYSkdZq5OkAmnVRbsZRoAKjUVKLW6Xi4SK3IRd8mEkoOeG23H8K7Zg3uL9ByASsLzBiwKKTpgHTY2dNA1FbBrXywCA==;RVKs9aRzbqRQRUaQMV838A=="
+secured: "l1+RDspjqfQd5VEpGVRLW+4DR6InS2UidMudoQXSfx2bet5cb6udJh1ZMhC5m/kV1nTyAsGuwftG49q4E1gpOuSQROC5b5kimM4TR8JBmlzBGSdfgCOhyCginviP3uCUtcSD2CdVUn6oGeuU8GDo550tRA8kyAUbxuza2cyNw5OaDJIrSVaat0z1EF92ceHU6VZ05h2U97weh+YgY1Q+md15g6DfX761yk4pNnVlcTJJkyzdkzTQM3GlrPzvQzciS+umw5GK7QxWvXcKcMm7ZzMb3N4khUmE4I6JYstDP7GjPQleE00CqNQVXaNhlgGf6dJS97+WmtVLJGKf+HZfacDRrDiOvYL7tTwcIZPue84=;VKW1dM/FcWyolI+xK1WMHg=="
 ---
 

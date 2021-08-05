@@ -58,6 +58,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Machine Learning Technologies at Tokyo 2020 Olympics"
+    excerpt: "National Olympic teams are using machine learning to gain an edge in competition over their opponents at the Tokyo Olympic Games 2020. Machine learning technologies are being used at the international sports event from athlete data tracking,"
+    publishedDateTime: 2021-08-05T13:40:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/ml-tokyo-2020-olympics"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/08/ml-tokyo-2020-olympics/en/headerimage/ml-tokyo-2020-olympics-1628067723489.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "82ML0mzJP7GGp7LfhOyYUdqgSy4DgQf8+zgT7F7nL/y7pRhHkWQIcl51Jw5TabbF65ucO018nGXL8XGJpC7kHG7fZsNbX5XPovsWO0UKdlnPiDiwj/FDEBuKmUUwUB0X1yeDreKYTutRVdvnMFH2ALG55aILoe9nPhWXhXlSQhQHGxEq8Lfj/M6LsRlkq8HmS9zhSD+pYDjjSlIEjtyCvsAV8jFTsr7p4/S4Cj5r01OSzop/wVN1SJoJanNFe3CVSM9KKF9ErpL7iwmWyf68pmaFiK8PX1vVqhg2jmIDBzXcXx07R+pmY+mxqzFdYTbYvKudt7vL2jH6hgpikcRWltdPXSXmvXON8BwLHMYrTvc=;eaihBzQynRqBoAmYiPsf7Q=="
 ---

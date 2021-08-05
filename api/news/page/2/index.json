@@ -2,6 +2,204 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-04-why-ai-is-a-powerful-tool-for-coinnovation.md",
+      "title": "Why AI Is A Powerful Tool For Coinnovation",
+      "excerpt": "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
+          "width": 1200,
+          "height": 839,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-yellowai-raises-78m-to-expand-its-ai-chatbot-platform-globally.md",
+      "title": "Yellow.ai raises $78M to expand its AI chatbot platform globally",
+      "excerpt": "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition.md",
+      "title": "POLITICO AI: Decoded: AI in hospitals — Standards bodies — Facial recognition",
+      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
+      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
+      "publishedDateTime": "2021-08-04T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
+      "title": "AI-fueled app Natural offers new interface for consumer transactions",
+      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
+      "publishedDateTime": "2021-08-04T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-machine-learning-blood-analysis-could-predict-schizophrenia-risk.md",
       "title": "Machine Learning Blood Analysis Could Predict Schizophrenia Risk",
       "excerpt": "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a research team.",
@@ -140,49 +338,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-04-fore-offers-data-analytics-programme-for-healthcare-pros.md",
-      "title": "FORE offers data analytics programme for healthcare pros",
-      "excerpt": "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,",
-      "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
-      "publishedDateTime": "2021-08-03T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-04-intel-dell-technologies-make-acquiring-ai-skills-more-accessible.md",
       "title": "Intel & Dell Technologies Make Acquiring AI Skills More Accessible",
       "excerpt": "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists.",
@@ -191,7 +346,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -661,7 +816,7 @@
       "originalUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1061,162 +1216,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-what-a-career-in-ai-has-to-offer-in-the-2020s.md",
-      "title": "What a career in AI has to offer in the 2020s",
-      "excerpt": "It found that 39% of people thought the path to AI careers was unclear, and one in eight (12%) had no idea about it. Women were more likely than men to lack clarity, as were younger people and undergraduate students versus those studying for master’s and PhDs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1627471083/AI_artificial_intelligence_concept.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s?amp",
-      "publishedDateTime": "2021-08-03T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30.md",
-      "title": "From cybersecurity to the cloud, these IT learning course packages are all available for under $30",
-      "excerpt": "As part of the TNW Deals’ Semi-Annual Sale, you can slash another 60 percent off all of these already discounted cybersecurity courses.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30",
-      "originalUrl": "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FTNW-Cybersecurity-roundup.jpeg&signature=d74ee5faaf2a38a4c68dd6efbeb9f25e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-vc-daily-judging-the-future-of-self-driving-truck-startups.md",
-      "title": "VC Daily: Judging the Future of Self-Driving Truck Startups",
-      "excerpt": "Autonomous trucking startups have, by some measures, rebounded from the hardships that hit the self-driving sector in 2020, when funding dropped and the pandemic delayed testing and development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/vc-daily-judging-the-future-of-self-driving-truck-startups-11628002586",
-      "originalUrl": "https://www.wsj.com/articles/vc-daily-judging-the-future-of-self-driving-truck-startups-11628002586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,153 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-07-01-this-startup-is-offering-personalized-learning.md",
+      "title": "This Startup Is Offering Personalized Learning",
+      "excerpt": "Toppr, a 2014 founded Mumbai-based startup was one among them. In an interaction with Entrepreneur India, Zishaan Hayath, chief executive officer and founder of Toppr shares the reason behind launching Toppr and the future of the edtech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/376262",
+      "originalUrl": "https://www.entrepreneur.com/article/376262",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625136028-ZishanToppr.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376262",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376262",
+      "publishedDateTime": "2021-07-01T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-nice-publishes-ethical-framework-for-applying-ai-to-customer-service.md",
+      "title": "Nice publishes ethical framework for applying AI to customer service",
+      "excerpt": "Robotic process automation firm Nice published an ethical framework for applying AI and RPA to customer support functions.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/",
+      "originalUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/human.bot_.GettyImages-1256204331.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/nice-publishes-ethical-framework-for-applying-ai-to-customer-service/amp/",
+      "publishedDateTime": "2021-07-01T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-unesco-agrees-draft-text-for-ethical-ai.md",
+      "title": "Unesco agrees draft text for ethical AI",
+      "excerpt": "After months of constructive dialogue and negotiation, representatives from UNESCO’s member states have agreed on the draft text of an ambitious and wide-ranging new template for the ethical development and deployment of Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/88382/unesco-agrees-draft-text-for-ethical-ai",
+      "originalUrl": "https://www.finextra.com/pressarticle/88382/unesco-agrees-draft-text-for-ethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-artificial-intelligence-advanced-machine-learning-market.md",
       "title": "Artificial Intelligence & Advanced Machine Learning Market",
       "excerpt": "product/service price, sales, and cost/profit. Demand & Supply and Effectiveness — Artificial Intelligence & Advanced Machine Learning report additionally provides distribution, Production ...",
@@ -1042,160 +1189,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-parrots-4g-connected-anafi-ai-drone-is-the-google-maps-car-of-the-skies.md",
-      "title": "Parrot’s 4G-connected Anafi Ai drone is the Google Maps car of the skies",
-      "excerpt": "Parrot's new 4G-connected Anafi Ai drone has no range limits and a powerful camera for breathtaking photography.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
-      "originalUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/anafi-ai_lifestyle.jpg",
-          "width": 1223,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/anafi-ai-drone-google-maps-car-skies/?amp",
-      "publishedDateTime": "2021-06-30T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-maine-bans-facial-recognition-technology-from-schools-and-most-police-work.md",
-      "title": "Maine bans facial recognition technology from schools and most police work",
-      "excerpt": "Maine has passed the strongest statewide law regulating government use of facial recognition to date. The state’s House and Senate voted unanimously in favor of rules that prohibit law enforcement from using the technology unless they have probable cause that an unidentified person in an image committed a serious crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "originalUrl": "https://www.engadget.com/maine-facial-recognition-law-191252742.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/d57c59d0-d9d5-11eb-bf3d-ab677d87ebbc",
-          "width": 4379,
-          "height": 2919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/maine-facial-recognition-law-191252742.html",
-      "publishedDateTime": "2021-06-30T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-sentinelone-ipo-how-the-company-is-riding-the-ai-wave.md",
-      "title": "SentinelOne IPO: How The Company Is Riding The AI Wave",
-      "excerpt": "SentinelOne . SentinelOne, which develops AI-powered software for cybersecurity, launched its IPO today. There was certainly substantial demand from inves",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dcbbcdf545ce5fff691ffb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/30/sentinelone-ipo-how-the-company-is-riding-the-ai-wave/amp/",
-      "publishedDateTime": "2021-06-30T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

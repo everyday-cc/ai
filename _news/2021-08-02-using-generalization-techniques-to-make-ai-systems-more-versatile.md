@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "The need to make artificial Intelligence more accessible in India"
+    excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"
+    publishedDateTime: 2021-08-05T12:31:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2021/08/05/the-need-to-make-artificial-intelligence-more-accessible-in-india.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 37
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/india/2020/March/Polygonal-brain-shape-AI-artificial-intelligence-smart-city-Internet-of-Things-IoT-smartphone-mobile-phone-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "BXXpae2NAje1qiKKrxAVoSJMxleOxWuiSaMbc0TNBX+v0dJasYuYA5qc2plSA6+hxPRz/HPNaxLntAzN32awH1g6gKVhy7Mh+AQg89bd5GbUUBlBUFEMThjG5wurQhLKDmCXcs/4uBnoa4NWcCXL8eUof38sh5EdcgSp6HQ/No2y2svVqGsqkuvkxHA4Ek5NhTMVWvrEmRZRnUnW8S3cssWrdq8JK1KmW6C81qRHT3qItFsJUY82ACLoZbrE5B4Lc+j1xuLu//ZJA9zWf5nc00KKSWAkAmvrllk3Qv/ZjAVxPgD/8XoAMBakF0G38I5ONSFHbr6eijiMYPVTTfq7a7c6d9vuOpaPTmnJmsFJW7u8gYpnPPMLFaDewP4F5XiKDuUCBQ7RjFstWRwqR1uRn3cd/yHomkeI6XIKTfRg+xI1os1xGD8NUPP+0/E/TwPPU2v9xO1JjdDqXN6rxyWsCYnYv06oDKtyu7LIjTL0zaYdqrEfLA1W7+CKgYh986G3lCk+PJ4Y+9+8eI6fCQcy4g==;T1/5kROAKpH6U8jtypQQQw=="
 ---

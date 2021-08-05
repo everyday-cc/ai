@@ -36,6 +36,17 @@ related:
         width: 900
         height: 562
         isCached: true
+  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
+    excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
+    publishedDateTime: 2021-08-05T09:18:00Z
+    webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 34
 
 secured: "MSm9h6lCKNpoI+9Oupd68WyWJw5BT7u8Wb17LVdnUI9DElrU6Gmt6W0a6R+PvcL5HOOtQC6YV7FlL8+ylbbNvi14i4iooeeDeELSwvPsW8Ew9gCG/VRWUp03WtE0NVNiXIGiFO+/alkzkIgBcd02j0e50upvB8o5p2Q/+l60+VRuvFs2RtJe7aJiZ3+/rjS7oa1jystaGL/iJuye1Ecu9tUptnDb1rNSPnM+puey6S5uIS33bNG9A/FuEidgGGwZoB5OmbZWIUiXucNsFYNWjTQycEGK6UCdCFvzygGDMSDNHoBEipWR2R+Di8SDvMsCSv7WNQcVyE77PhYTCY3AiamWBy1Xa2Vk79j6nUH2yeLmcCK97S54YvAge1THtoDRGoeGp+Z3ubZ7x7gefniigIbbzl+32jIMgmyQsagBwy2x+L2DP6Q9qRMv3kn9bMbiSru+mZOuducV1+wpoXNG23I3fA0WR3St4m6JFCIkTwgVWXIXt+/RqXPCYL23oZSBNCCih7DyTnxvgCo0CRX2Tw==;Tqq8QWqFxPCSfJckyDViFg=="
 ---

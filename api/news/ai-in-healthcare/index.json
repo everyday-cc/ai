@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-04-fore-offers-data-analytics-programme-for-healthcare-pros.md",
-      "title": "FORE offers data analytics programme for healthcare pros",
-      "excerpt": "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,",
+      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
+      "title": "HeyRenee is the next home healthcare startup for Heal founders",
+      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
       "sourceUrl": null,
-      "webUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
-      "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece",
+      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2",
-          "width": 615,
-          "height": 384,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
-      "cdnAmpWebUrl": "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/",
-      "publishedDateTime": "2021-08-03T23:50:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "publishedDateTime": "2021-08-05T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

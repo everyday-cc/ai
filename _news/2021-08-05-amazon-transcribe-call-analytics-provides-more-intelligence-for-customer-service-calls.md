@@ -26,21 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "FORE offers data analytics programme for healthcare pros"
-    excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
-    publishedDateTime: 2021-08-04T06:50:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
+  - title: "Customer engagement analytics startup Retain.ai nabs $23M"
+    excerpt: "Retain.ai, a startup developing software that helps enterprises surface customer engagement data, raised $23 million in venture capital."
+    publishedDateTime: 2021-08-05T13:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2"
-        width: 615
-        height: 384
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/employee.computer.GettyImages-1278403699-e1626807571578.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Momentum builds in AI analytics platforms and robotics"
+    excerpt: "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks"
+    publishedDateTime: 2021-08-04T00:00:00Z
+    webUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=2"
+    type: article
+    provider:
+      name: Construction Global
+      domain: constructionglobal.com
+    quality: 69
+    images:
+      - url: "https://constructionglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_0.jpg.png?itok=NssVRdFF"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "OU Offers New Program on Data Analytics and Machine Learning"
+    excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2021-08-05T13:01:00Z
+    webUrl: "https://patch.com/michigan/rochester/ou-offers-new-program-data-analytics-machine-learning"
+    ampWebUrl: "https://patch.com/michigan/rochester/amp/29750430/ou-offers-new-program-on-data-analytics-and-machine-learning"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/rochester/amp/29750430/ou-offers-new-program-on-data-analytics-and-machine-learning"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 61
+    images:
+      - url: "https://patch.com/img/cdn20/users/22836851/20210804/040837/styles/patch_image/public/machinelearning-450___04160735425.jpg?width=984"
+        width: 450
+        height: 338
         isCached: true
   - title: "Pudding.ai, Nielsen Collaborate on Data Analytics"
     excerpt: "Pudding.ai has announced a strategic relationship with Nielsen to improve the capabilities of creative data analysis using artificial intelligence. As part of the combined efforts, Pudding.ai and Nielsen will be offering a solution for data-driven advertising decisions that will use AI technology to help advertisers better understand which creative elements work,"

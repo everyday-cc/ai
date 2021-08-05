@@ -258,6 +258,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope.md",
+      "title": "Europe Artificial Intelligence Market 2021: Industry Trends, Share, Size, Demand and Future Scope",
+      "excerpt": "According to the latest report by IMARC Group, titled Europe Artificial Intelligence Market Size: Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026, the europe artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026).",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-artificial-intelligence-wants-you-and-your-job.md",
       "title": "Artificial Intelligence Wants You and Your Job",
       "excerpt": "The artificial intelligence (AI) behind the soothing voice telling us where to turn has replaced passenger-seat navigators, maps, even traffic updates on the radio. How on earth did we survive before this technology arrived in our lives?",
@@ -1358,58 +1410,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021.md",
-      "title": "Ford To Deploy Self-Driving Cars in Collaboration With Argo AI and Lyft By End of 2021",
-      "excerpt": "Ford Motor Company (NYSE: F) plans to deploy the first self-driving cars with its partner Argo AI on ride-share service Lyft Inc’s (Nasdaq: LYFT) network by the end of 2021. In a press release on Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ford-to-deploy-self-driving-cars-in-collaboration-with-argo-ai-and-lyft-by-end-of-2021-2021-07-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-generalization-t.jpg"
         width: 1440
         height: 810
+        isCached: true
+  - title: "The need to make artificial Intelligence more accessible in India"
+    excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"
+    publishedDateTime: 2021-08-05T12:31:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2021/08/05/the-need-to-make-artificial-intelligence-more-accessible-in-india.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 37
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/india/2020/March/Polygonal-brain-shape-AI-artificial-intelligence-smart-city-Internet-of-Things-IoT-smartphone-mobile-phone-shut.jpg"
+        width: 760
+        height: 443
         isCached: true
 
 secured: "Bhd4e2pmWvbSaO/PnqEzG2qMA/oXeAofJJk4CSKvFbfQhnLagnMOw4SwY4L6wENAu9wUHcJQZkPqFy8E+zG7rBsPgWnd+3Gt18PtGzZOp3W4YhhCcc5lME2lzGEgj48aAqcegyH3ypBG9p5EC5i5rutQMfzO4aOeXo3MxQDTJOHSwP9TpWOn/XeaoeX75BqpMeHTYyu0BM1xFAZQUeu5EfwucfBtXefuocHy3cdPmFYqy7C1/q2kxSy4m8M3pBtyJ20/MDDn2KtLQnMMsfxrxzfF7ZhDtnNOJyeagIEAFeZX+uBS9ObKLmo0JDKxsOZMLxByZO6ww8sJ7vMLLWzyTqfrhubPlrwx9AK/2WWZOtVS4JggqgjD8u7sxyoVFTq8iprtKI1JYLbZPn+hffUenb1a1wZiO3ByiQkywiajmiVzYcwwbg3tBzRG1FvN0qg41V5TOpjbl1trpmXEdqr57vyCoF4TTBiHswKJ6SUUTCt0YO6vgtubtwgPREcLJMgysSCh7ehaDRZN20foKpcmIQ==;ifISuSJlZO1QLJXp8VGhDw=="

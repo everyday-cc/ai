@@ -9,8 +9,8 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-off
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 59
+published: false
 
 provider:
   name: Business Line
@@ -25,52 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Pudding.ai, Nielsen Collaborate on Data Analytics"
-    excerpt: "Pudding.ai has announced a strategic relationship with Nielsen to improve the capabilities of creative data analysis using artificial intelligence. As part of the combined efforts, Pudding.ai and Nielsen will be offering a solution for data-driven advertising decisions that will use AI technology to help advertisers better understand which creative elements work,"
-    publishedDateTime: 2021-08-03T19:47:00Z
-    webUrl: "https://www.tvtechnology.com/news/puddingai-nielsen-collaborate-on-data-analytics"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/fDa37bDMackyZvsRtLuE5h-1200-80.png"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
-    excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."
-    publishedDateTime: 2021-08-05T00:05:00Z
-    webUrl: "https://siliconangle.com/2021/08/04/amazon-transcribe-call-analytics-provides-intelligence-customer-service-calls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/call-telephone-communication-phone-conversation-concept.jpg"
-        width: 2000
-        height: 1421
-        isCached: true
-  - title: "How and When to Use AI to Augment Traditional Analytics"
-    excerpt: "The cloud has given data practitioners immense power to leverage AI, but it needs to be applied thoughtfully and deliberately."
-    publishedDateTime: 2021-08-02T14:57:00Z
-    webUrl: "https://thenewstack.io/how-and-when-to-use-ai-to-augment-traditional-analytics/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 37
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "a1hEegx9QDe9uqu/tQF5BBsScZU1p9sPzgSivmyUr6kMrnskY1UQyMrNDV2f9cnK1P/obRAt68maS3EpurC3QCtZbvB2J/+vW8meTTTq/vyy+5td78PoH6mUMUM9XJQ39BiprmsHM3KZsrT3PmnOFeHJ45si3XZbTGyK4/V5ENQ45glUKJ9qs3ly/mNiwZsb76FzvW7+qChaEiyRpyzTgGnrr8bP0/uMffrGexkb/gzgYup5Cbsl9EsqT4ng5afl5mP/T+dkni/rVuUD12YJtnvTnj1BHh4FlxQzW1DAINFum0fYocOLfYX8Zu3GdhTrkWM3BPFhs5tNGxBwJUbyK2d2zfMcgar8n8qY8YzBrD52xboKuhEf07EkW5cJxQMZkmMsSRn3+jNEzpm/gntXND35UgDold9qwDKqbzvlOyPls4o8CHHDrskrevbTNX/oTGldkVQ31Njfn8dOoHssom+TGGnmPzXs3i4GonSjS+juQaDT747uFTCfjuePoc+MSqg1zvJya93lddi91CIq9g==;fAZFVIJZAXStL1iGIYm4Kw=="
 ---

@@ -26,6 +26,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "RegeneratOR Workforce Development receives NSF award"
+    excerpt: "With the recent announcement of the RegeneratOR Test Bed to support regenerative medicine start up companies, the Wake Forest Institute for Regenerative Medicine (WFIRM) and the RegenMed Development Organization (RemDO) are embarking on the next step – to help create the future workforce."
+    publishedDateTime: 2021-08-03T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924201"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
+
 secured: "BZYCBRtvz6gnRwtY5fw52ndwFvEoeszafZJt9JVyL36Dol1MdjqAMedmBYvOUjyBzBpOIlOT9U852zY0kQoZBhUry6GAERXiK2SEvBhaWaRGBRMlEAoFShpp6ypHvD/ZHdVeTQ9bTm34LI9NLyoBT6ePuibuGgkx22EXn3AUnQVKbDaSHscCmtzIBykna/j40v4tMfhywBIcBwb39WBkEu+AlaD6ujwXAcoFzqhoXlJzsRhZg4TDfrwKogm7PrhVaEnpFcsLAerDGB/mfBHCQHxC5zECWj0IsI0hWYP+UUuppRRDG/dpjypgNg9h8avneSHIgtmJ23HKLVXxq+mwg55hY2isE8fya+9gkfmRj68=;z7y5w2zSxAbxSKegXOiD8Q=="
 ---
 

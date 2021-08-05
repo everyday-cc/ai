@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-02-artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
-      "title": "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
-      "excerpt": "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025.",
+      "path": "_news/2021-08-02-pixel-6-preview-heres-what-googles-first-smartphone-chip-can-do.md",
+      "title": "Pixel 6 Preview: Here's What Google's First Smartphone Chip Can Do",
+      "excerpt": "Now with five smartphones of its own in the books, Google is gearing up for some major changes that could propel the Pixel lineup to mainstream success. Ahead of the Pixel 6's official launch later this fall— yes,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02",
+      "webUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
+      "originalUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2522a86d58c3a3f2674b60fc4a06646a.jpg",
+          "width": 800,
+          "height": 449,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:05:00-07:00",
+      "ampWebUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
+      "publishedDateTime": "2021-08-02T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,94 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020.md",
+      "title": "Chinese weightlifter Li dominates women's +87kg division at Tokyo 2020",
+      "excerpt": "Li Wenwen of China celebrates during the awarding ceremony for the Weightlifting Women's +87kg Final at Tokyo 2020 Olympic Games in Tokyo, Japan on Aug. 2, 2021. (Xinhua/Yang Lei) China's Li Wenwen shows her supremacy in the women's weightlifting +87kg division and sets three new Olympic records at Tokyo 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://lileicc.github.io/",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020/ar-AAMQvND",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T08:07:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "github.io/",
+        "domain": "github.io/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
+      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
+      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
+      "publishedDateTime": "2021-08-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -582,6 +668,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope.md",
+      "title": "Europe Artificial Intelligence Market 2021: Industry Trends, Share, Size, Demand and Future Scope",
+      "excerpt": "According to the latest report by IMARC Group, titled Europe Artificial Intelligence Market Size: Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026, the europe artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026).",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-01T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
       "title": "Supercomputers are becoming another cloud service. Here's what it means",
       "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
@@ -1052,154 +1190,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine.md",
-      "title": "Mayo Platform’s Halamka on new WHO ethics guidelines for AI in medicine",
-      "excerpt": "The guidelines say humans — not machines — should remain the decision-makers, the technology must do no harm and doctors must be transparent to help patients understand how it's being used.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/story/2021/07/30/mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine",
-      "originalUrl": "https://www.mprnews.org/story/2021/07/30/mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mprnews.org/amp/story/2021/07/30/mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine",
-      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/story/2021/07/30/mayo-platforms-halamka-on-new-who-ethics-guidelines-for-ai-in-medicine",
-      "publishedDateTime": "2021-07-30T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california.md",
-      "title": "Argo AI can now offer the public rides in its autonomous vehicles in California",
-      "excerpt": "Argo AI, the autonomous vehicle technology startup backed by Ford and VW, has landed a permit in California that will allow the company to give people free rides in its self-driving vehicles on the state’s public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/",
-      "originalUrl": "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/30/argo-ai-can-now-offer-the-public-rides-in-its-autonomous-vehicles-in-california/amp/",
-      "publishedDateTime": "2021-07-30T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

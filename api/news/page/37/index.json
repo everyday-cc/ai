@@ -2,6 +2,162 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-07-07-ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel.md",
+      "title": "AI in Fintech Market Next Big Thing : Major Giants IBM, Microsoft, Samsung, Intel",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2021 (Heraldkeepers) -- The latest research on \"Global AI in Fintech Report 2021\" offered by HTF MI provides a comprehensive investigation into the geographical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-next-big-thing-major-giants-ibm-microsoft-samsung-intel-2021-07-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-database-optimization-startup-silk-raises-55m.md",
+      "title": "Database optimization startup Silk raises $55M",
+      "excerpt": "Elevate your enterprise data technology and strategy. Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Silk, a platform designed to improve database ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/",
+      "originalUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/07/database-optimization-startup-silk-raises-55m/amp/",
+      "publishedDateTime": "2021-07-07T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-07-sas-best-in-class-in-health-care-payment-integrity-says-aite-group.md",
+      "title": "SAS best in class in health care payment integrity, says Aite Group",
+      "excerpt": "SAS, the leader in massively parallel analytics and artificial intelligence (AI), is lauded as the best-in-class vendor in Aite Matrix: Payment Integrity in Healthcare. SAS' stability, brand recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-best-in-class-in-health-care-payment-integrity-says-aite-group-1030586131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1559048/Aite_Group_names_SAS_best_in_class_for_health_care_payment_integrity.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-oneplus-nord-2-5g-to-have-new-ai-dimensity-chip.md",
       "title": "OnePlus Nord 2 5G to have new AI Dimensity chip",
       "excerpt": "Global smartphone brand OnePlus on Wednesday announced that it has joined hands with chip-maker MediaTek for Dimensity 1200-AI, which will be featured in the upcoming OnePlus Nord 2 5G smartphone.",
@@ -991,152 +1147,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ai-emotion-detection-software-tested-on-uyghurs.md",
-      "title": "AI emotion-detection software tested on Uyghurs",
-      "excerpt": "A camera system that uses AI and facial recognition intended to reveal states of emotion has been tested on Uyghurs in Xinjiang, the BBC has been ... \"We placed the emotion detection camera ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-57101248",
-      "originalUrl": "https://www.bbc.com/news/technology-57101248?at_medium=custom7&at_custom2=twitter&at_custom4=C413DF0E",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4D18/production/_118663791_surveillance2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-57101248.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57101248.amp",
-      "publishedDateTime": "2021-07-06T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-pentagon-scrubs-a-cloud-deal-and-looks-to-add-more-ai.md",
-      "title": "The Pentagon Scrubs a Cloud Deal and Looks to Add More AI",
-      "excerpt": "JEDI included support for AI projects, but the Pentagon’s acting chief information officer, John Sherman, said in a statement that the department’s need for algorithm-heavy infrastructure had grown still further. “Our landscape has advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "originalUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60e4a8f33082cb0dcce32ba5/master/pass/Business-Pentagon-JEDI-Contract-1223814797.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/pentagon-scrubs-cloud-deal-looks-add-ai/amp",
-      "publishedDateTime": "2021-07-06T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud.md",
-      "title": "Ethics part of curriculum as Singapore inks AI training partnership with Google Cloud",
-      "excerpt": "Participants of Singapore's artificial intelligence (AI) apprenticeship scheme have to go through training that includes ethics and governance, so they are aware of potential issues involving data bias. AI Singapore (AISG), which manages the apprenticeship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ethics-part-of-curriculum-as-singapore-inks-ai-training-partnership-with-google-cloud/",
-      "publishedDateTime": "2021-07-06T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
       ]
     }
   ],

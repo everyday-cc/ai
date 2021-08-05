@@ -2,9 +2,9 @@
 category: news
 title: "Insilico Medicine Announces the Preclinical Candidate for Kidney Fibrosis Discovered Using End-to-End Artificial Intelligence Engine"
 excerpt: "Insilico Medicine, a global company specializing in the applications of the next-generation machine learning technologies for drug discovery and development, announced today that its AI-powered drug discovery platform had delivered the preclinical candidate (\"PCC\") for kidney fibrosis."
-publishedDateTime: 2021-08-04T10:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688179"
-webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688179"
+publishedDateTime: 2021-08-04T12:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688212"
+webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688212"
 type: article
 quality: 36
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 283
         isCached: true
 
-secured: "8KY35hK9qvBMNgpCe1trZiVRX9ikohZJ2fw6cxWFWj8kw6odn7r/p1IdzrlRvOljwrUB5j0Lb2uU+PiKkgvsgUqVw+Ok7MIDkFabQj6WPF9RSde8NG5WShIz8DHbC/MnThmO7VWo2qS7/M08O8gQuihyN3ORmRY6FBLi0NCxwB+MR8PoGqzTTIM5DQrD6buFNyjyNIRRNgsULpEsGeL+4slZXwn9CR5QMXsg0ZPVuu6GcIDBfitOTLGEgeK83/ufbWWCvyAM0tGfjGawbMXSgeCTfCh4jixKth5tiMKJimgspjBk7pfRrUs0BvukXKp/j/AR18n9EOR+61SkPQO6it1Reip/FSN00VfoQw1FDSGIZxDeg/cn+cuWGHag6QH/rcjELt5kwaHidLgRNKH/kw1jyHo9cHwn/TaEPNizb7+x8iefXBVnY9P33oHFBnFu4h9ew1/rXKZ4V6qRhGcudHulM5wZKXj5p0jEvfWh8OVGLuxGYn2p7ADRopxzvRlidBha6v6ch1UDkZ0dTa1Dug==;S5cFah1ZYmDy6z0DpqCuiw=="
+secured: "cR76I7Im++dlYBZo9pRkEV2BPHIjXspUFaBI+xNmGT6s9veg6LJuMuOAKuwJ+ZTw7PC5fbVP4NhiA/rbYF8mbn+cUmD94g61fk0PeQuZW6tA3kqXhw8Rmx2LbOC0ss1ERqHR2w3AVzzB+TAKsxGLyyH8Gblf19d8fy0irhTocaK7OTx1F4DKqma7Efwc18LuVqKNGDZJBS60ohVsYjZ7oWZZYWgQj7Yo2Hgyy/P7PKvgy4RPt5nsW6KmhRffAAtV86CA8ANpTMIEfuVQa7W1SQCw9relHvzDJU8PdyoWCrqCbrkyV522WTFjpGqyrAGRFj7pao1x6tH4NNiJ3XzuAlVao/t8jKzgR7sJp8Vpg48=;i6EBHG0GqyyVXdI9xxlz2Q=="
 ---
 

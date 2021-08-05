@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Former World Economic Forum Member of the Managing Board Murat Sönmez Joins Avellino’s Board of Directors"
-excerpt: "Sönmez brings a wealth of global business, technology policy, artificial intelligence experience in support of Avellino’s technology-centered therapiesMENLO PARK, Calif.--(BUSINESS WIRE)--#AvaGen--Avellino Lab USA,"
-publishedDateTime: 2021-08-03T16:01:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=510302"
-webUrl: "https://us.acrofan.com/detail.php?number=510302"
+excerpt: "Sönmez brings a wealth of global business, technology policy, artificial intelligence experience in support of Avellino’s technology-centered therapies Avellino Lab USA, Inc. (Avellino) today announced the appointment of Murat Sönmez to the company’s Board of Directors."
+publishedDateTime: 2021-08-03T11:01:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210803005873/former-world-economic-forum-member-of-the-managing-board-murat-snmez-joins-avellinos-board-of-directors"
+webUrl: "https://www.morningstar.com/news/business-wire/20210803005873/former-world-economic-forum-member-of-the-managing-board-murat-snmez-joins-avellinos-board-of-directors"
 type: article
-quality: 7
-heat: 7
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "EVG7hN3gPFdH7VtflnxlNyPjEl0XW6ov6rH+K1D33R0hwtfE+24rFWqdPA1DtDLzlbw14z+o3NWCu0pICvTriSgXvado5vPKFSYjB43md1m0myMvW0AJPcvxy3wnd/wQzoVLqsruslPzWLA0CIsCFY4a3fSDKca4HG5M9dtDmayJ8QwMw4y4Kt4r6Fc+aDhXPpvz0fwODnNfzw/2jVvmT2HYgXfgpu0mMOijsFjtoyfNp+zOaAWN4JLwtDYva5d15y2h9EPvJN/Cr2Unjm+tf3n6FEIhCt8ZCYHZw+c8BAuOXb3WphZCQvbTku7tSE/hXyfih3O+epArbviWyC1GI1Ea1VSS/wU7mKHPuUM5PxQ=;J+3nYIH8CaHXGycl1PysrQ=="
+secured: "KZdK+gQxYngZCh0+kAG9Nzlp/4v7eZyFQusfZzzq+L/+mEMCbHPxkQ2nNEdNtXRG3jM6bKLeQVJk1aj9bLJRS7OorcE1TN1S56rTMu7vTpEU6HErRFJ8VWPx4tO5M9tdiQYPYJg3yfqO8JOb98KEE3n8f40dPa6p+yjwFxfUC4eBm2RU3QJmhJbp0dyntsE27hPy/0PFLNFEnYbbZES+cMLx9XZTrb0hmumqho/Y2YJf4bMUVrYncvT4HGeyCUM/HJr4mQtZWp+auZHowDOr0Lu4QO1xUXLpxT/amPWp8EqCXru1G+HFraLeVN/ywlyAnRh0Yo4j99N3VPCu0+CTapPx8aV3yOKtwRXZuBAedAwhBv6++RmmRWKM5YEvy1NgdYzeSqeBa80coJXj1xIcRhN0IoAfkT8/hwSY8eJXMDCpkHzzxq0L+EIleyNwsXrYBw4mZI/BBpFu01nGGdwj4yxq1Wmc6nSTIgnEupeYoP7p7Qf9He0lT+bKe0BcCgMTbIqwopPu6E0xQuLzp3iV6g==;j9BmeYQJkHCWKXQBtrRaig=="
 ---
 

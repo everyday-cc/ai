@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-the-value-of-natural-language-processing-it-makes-ai-more-human-centric.md",
+      "title": "The value of natural language processing? It makes AI more human centric",
+      "excerpt": "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
+      "originalUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/05/f43bbead-a2f2-472c-8962-525e94578436/thumbnail/770x578/b95304a4c6c78c6fa8479dc2d810e8a0/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-customer-engagement-analytics-startup-retainai-nabs-23m.md",
+      "title": "Customer engagement analytics startup Retain.ai nabs $23M",
+      "excerpt": "Retain.ai, a startup developing software that helps enterprises surface customer engagement data, raised $23 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/employee.computer.GettyImages-1278403699-e1626807571578.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/",
+      "publishedDateTime": "2021-08-05T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
+      "title": "HeyRenee is the next home healthcare startup for Heal founders",
+      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "publishedDateTime": "2021-08-05T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-dataiku-raises-400m-to-democratize-ai-in-the-enterprise.md",
       "title": "Dataiku raises $400M to democratize AI in the enterprise",
       "excerpt": "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ...",
@@ -165,7 +320,7 @@
       "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -353,6 +508,49 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-rethinking-education-in-an-ai-first-world.md",
+      "title": "Rethinking Education in an AI-First World",
+      "excerpt": "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/",
+      "originalUrl": "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg",
+          "width": 900,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -1067,204 +1265,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-why-ai-is-a-powerful-tool-for-coinnovation.md",
-      "title": "Why AI Is A Powerful Tool For Coinnovation",
-      "excerpt": "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-yellowai-raises-78m-to-expand-its-ai-chatbot-platform-globally.md",
-      "title": "Yellow.ai raises $78M to expand its AI chatbot platform globally",
-      "excerpt": "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: AI in hospitals — Standards bodies — Facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
-      "publishedDateTime": "2021-08-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
-      "title": "AI-fueled app Natural offers new interface for consumer transactions",
-      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "publishedDateTime": "2021-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
