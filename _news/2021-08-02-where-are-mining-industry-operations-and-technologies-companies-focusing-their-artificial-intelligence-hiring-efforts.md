@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Don’t Lose the Human Touch When Using AI and Big Data for Marketing"
-    excerpt: "Bots, machine learning, predictive models, and big data all impact businesses daily. But are these technological advancements making brands appear less caring? Less real? Less human? It’s a valid concern,"
-    publishedDateTime: 2021-08-01T04:11:00Z
-    webUrl: "https://customerthink.com/dont-lose-the-human-touch-when-using-ai-and-big-data-for-marketing/"
+  - title: "AI and data mining programming languages are \"booming\""
+    excerpt: "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead."
+    publishedDateTime: 2021-08-05T15:31:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
     type: article
     provider:
-      name: CustomerThink
-      domain: customerthink.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
-        width: 3608
-        height: 2336
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
+    excerpt: "NTU, UBS and financial institutions in Singapore will develop new capabilities utilising artificial intelligence (AI) and machine learning to improve detection of money laundering."
+    publishedDateTime: 2021-08-05T10:12:00Z
+    webUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
+    type: article
+    provider:
+      name: Nanyang Technological University
+      domain: ntu.edu.sg
+    quality: 44
+    images:
+      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
+        width: 729
+        height: 509
         isCached: true
 
 secured: "TNi/LBdvUCBodzJx3IivvFSgSAEpJpdA1wiSZVl4FbDt/O6FTQOiCXnmBg1DodZ+Y1jjuFl0V8rZusj4t6d5l1TKbgiwTIp2zBcry08MQOfLVn78Hkos+Ofq1mMPhMfE6uFD8ryp44K9V9SB+1XBi8DQqTth/gNw7PF9MmPnuca9Dhccbdjf64K70oGssS7j5HnKfj+1nQ5RIA3+2TKJ3MlpPuRBznpEbIbp95n3TZ91SjqiBXJA82vIKmOecU/pReYXNtGQGEKsXZwx0wwzy18KLG7Oxo7ytgHF1JV0aJK6AZjq0Dq5SvlYWyzvMdvEwl90dsWlTfwnxVWduFgVbUqU3Tnr1E8Apyue88Cexsk=;DjHTqdWzGzrJTCW3mGgqBg=="

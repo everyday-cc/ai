@@ -38,6 +38,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Embodied AI, Superintelligence, and the Master Algorithm"
+    excerpt: "Superintelligence, roughly defined as an AI algorithm that can solve all problems better than people, would help us make better predictions about challenges such as natural disasters, building resilient supply chains,"
+    publishedDateTime: 2021-08-05T15:39:00Z
+    webUrl: "https://cacm.acm.org/opinion/articles/254584-embodied-ai-superintelligence-and-the-master-algorithm/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "5EgicMrkg87ftaDGbmldiqQGPTCz0pi4rHciWHEeM9TIOdzfAXjv0xIJrnOfo764OyYihOn3lB8tlLFYc+P5KTe9dVMHQPDboHdSztMRY5K1wCSfmiRnzcqCKGkO0YdR7RHeK5md6RSa4r2IFejdwLSshvc0rVKjbwUjg6Hff23RTprDKaiktH82B6bmSUvaDwzJBolUnA3SAJRu8c2e54bLRvKuDdC5H5zkoRWlQqiQhN4RFW6BXL3Gd9Fb0dXSlSCBMswT5sBE5STrZuJlBgPpoTQWThUWTXj7tjbPOaynZ4TBtQ7TbWX7al4J/nmE80GVJwm6t1f+fDMYg6aps0kNGZ4sB+UURIzbCBafqt8=;WJA24AruHti5amqoXk7TNA=="
 ---

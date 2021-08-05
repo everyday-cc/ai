@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processi
 webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
 type: article
 quality: 83
-heat: 83
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "sJl5KEURLPrJIbIR3zPfOuB37FIGZrZd1ooW0H9I/zhoXf1N/fMyGDw/vyoJ/mpcmrIxXb8KgrFIjBhz9DTsY6CZqGZNBPY0LcdKqtnDi06N+Q5R2zvsrUZED3ZY8pY5afXU9SFByZwkjzrqAl/2qf0zNoufP2nO5WMiroZRAqg7dcdtFQwMgMllDOkvsz8iSGSg7cBdfVhW++MLTXTH7P7/cl22docicM/BPqS0JvxH/qkhJQoAmHJnnnXxUT/S4omboehB3Xg4QG6/bYAByVKeqMGEnztorIcFP83wkAA+7rYxeLo3MH0x1oSbls8zWUWUH4aFJ1Y8gcDtc8w2fORatU3kpbzbwEFz3i4LeG8=;lz1mHL3bWWa7fDxNi3snrg=="
+secured: "oBEPWovrgNh27xIgbxmqmJGp2pVlf5F+1FVykUCW8bgHmKkG+DK/nzsI7zUyN/a1DeQ3E4YHPmgx8Eo87VEPJ7P2GFzc/VipaOyZ0ate2frQe8pobcaiWtXwG83FKch7OPe+fn8alLzQ/0k5w9c7l2Uw/q3G0vjGTTHzCBKGWHVGT9IN1DXSV53kaPlgIIFnSuDKgl4xI4Knb7dzB0SyBIAgj98+5wl3u+xmEi70weIhxH8wSX4mzcg7VcOV+5dbLVNBvS5uB9feczO75vRHiYuIqO7nhriILE9zlEUIoc61ki2EcpVoKx+7FQ9Pob/YYdY5/bmBqEIhIxmgaTh7uhcne9mzxl0hyTU+KXDes1qoHvz2nYY4X16hmNl/aYKbSyMVMN1HwROSV5V0L/V2sKJrbnYeN9VwO9+0p5A0+Sk/jVZzNKm9gBeQYyDgov41hHdEQJa9bbs/TJgIUvbfkHoDH6S9N//CyK94w7WLWSR7qZLIRJKxaHQnU+uYSZmZ9MibpSq2AfK9NiXyhXJktQ==;bwHQbmam+tmacXeUtnwWXw=="
 ---
 

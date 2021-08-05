@@ -30,7 +30,7 @@ related:
   - title: "AI accelerator programme helps tech start-ups raise £6.3m"
     excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
     publishedDateTime: 2021-08-05T09:25:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-accelerator-programme-helps-tech-start-ups-raise-6-3m-r3rcpm5d7"
+    webUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
     type: article
     provider:
       name: The Times

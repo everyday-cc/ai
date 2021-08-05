@@ -71,15 +71,6 @@ related:
         width: 1635
         height: 854
         isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "gKS6zfA3GCJhPv3iqBi3KsIwr94OZO4+DYk7joWaWVzXHxBZmkCxmfjwZrAxljxTNLt9iHE0J6LdcwLnFHG+CF/WWL/V+Gqa36hnsoGg0dHt56u7ARVeKpxYJKwdykPTS2bP+o3A7AqLc2xFVXwUbCrjFOFgNC5e2l655fW+Hxs6B6GJ8DPZpeb5dhrEWm92xiLHBWigSYl09gh8/P+AgsMCq96qGNLs4qfhVK0L0YMOAeFuABzBiEKKT2qUkRrL/qVTiQImk7x7VeLA87XfPcNVHWSXpMn26nDklTh2l+3McR1iLgZMp65fTELk3WT51d4ltZKBYMPfxpSK+vZCLHWsbpm16BTEaw1uFlYB7gUGJ/RkJPk6jCB3t+OYbYzbbsiISKAVAvJnF9XF2pXuRLiWuxINmgJiB+RlYL52JgxpBxLBP7STIYv5hgp+aqIVNpTulkaDnnDRXA0vOQ7dqMVvMrViO+eKtGw6xcQVNmLOTBsQMuhJDQh1yxwDDVr0W84sczgc5se74y48xOfWYw==;xrpaee+g5NLxqOgm7i9C4g=="
 ---

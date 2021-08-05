@@ -89,6 +89,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Inside China’s chilling network of AI generated PEOPLE on Facebook & Twitter spreading anti-vaxx lies & Covid fake news"
+    excerpt: "CHINA has a sprawling creepy network of AI generated people who it uses to spread anti-vaxx lies and fake news about Covid. Beijing is believed to use a massive “spamouflage” network"
+    publishedDateTime: 2021-08-05T15:06:00Z
+    webUrl: "https://www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/"
+    ampWebUrl: "https://www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 35
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-FH-OFFPLAT-AIFACES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook Reportedly Researching Ways to Read Encrypted WhatsApp Messages for Targeted Advertisements"
     excerpt: "Facebook is researching ways to analyze encrypted data, such as WhatsApp messages, without actually decrypting the information, according to a"
     publishedDateTime: 2021-08-03T14:24:00Z

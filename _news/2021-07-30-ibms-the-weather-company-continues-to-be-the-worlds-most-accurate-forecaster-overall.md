@@ -2,19 +2,25 @@
 category: news
 title: "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall"
 excerpt: "NEW YORK and ATLANTA, July 29, 2021 /PRNewswire/ -- IBM (NYSE: IBM) and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the ..."
-publishedDateTime: 2021-07-30T00:49:00Z
-originalUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
-webUrl: "https://www.nasdaq.com/press-release/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall"
+publishedDateTime: 2021-07-29T22:46:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html"
+webUrl: "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "ZkFkl7+DF8v7bo/UZ1/vh8icMlKxlUs5my52NpHcYJgoYHZfsAuh77XusbbK3dXe+HqDAem6G3LORUZWGkDYLtiqhsJTCVerrHNkYCQJjysVHWySUAGjpgfPAzfW+rXwRrHtP8QXq1RHZU3b6VNGK7qF6ZUPcM500HzupwDwCSo4tAXReUt2xFHJ2FPCWCT1x8mDFNh0f+ffFCkkLsGLKk6zVCzgMGbFPAKZaAU/L7jTs7oFUC8qs7NCBNshFByCMUAdgsBvY3/n0vnEIkzjBy2u0l+0Ski0Iwrw8vsVtv4cx3Kz+LyaQ0mPXyKtl0ipj7wrpTdx1BFtQXbdlGJQE4OiUwiT29MbF6CvU7p9DKk=;0ObbOnNx//6rI87u89zAFA=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+    width: 2698
+    height: 1414
+    isCached: true
+
+secured: "jCuagL9mKEKKyYsBzB8kmSUyMVIpw+BX37eEc/aBAF4t7jIs2GZKs1JwrAwnMKDygAzLvUgwZYFWSMFIxeQ/FmBGz9AFoPiz/RYCyVDBrHa527PD/rh7iftsvqXK2Z2RRLALt1VhYjZ+MFb3vR1/7QN/tOYHOJ/ZG9mchKu9V/p7EJkc0VJbi1U0cXuowgTzOm2snKUW6sCYR9UvMnHgpupaaJjDX5fPL63jy6xGE2CPzk5VhLnt3OrMjf7nlMbWdyIXRxPReZ8jTMkOteksvocJKNgbpPfI1rS4jM2dy6y+iYu0zBUPLI2I5QV+WCRkh/nYWfg1Qy/iknZCpHH81jwC79/pWSCs7+ipzrXGPpQ=;xcwqsXTlhOXUtY4GJVrOwA=="
 ---
 

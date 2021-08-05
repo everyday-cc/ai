@@ -3,8 +3,8 @@ category: news
 title: "AI accelerator programme helps tech start-ups raise £6.3m"
 excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
 publishedDateTime: 2021-08-05T09:25:00Z
-originalUrl: "https://www.thetimes.co.uk/article/ai-accelerator-programme-helps-tech-start-ups-raise-6-3m-r3rcpm5d7"
-webUrl: "https://www.thetimes.co.uk/article/ai-accelerator-programme-helps-tech-start-ups-raise-6-3m-r3rcpm5d7"
+originalUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
+webUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
 type: article
 quality: 37
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "AJ1+u6QDB/LZs+ocgWCcIn52TdnVnWp2QOyf/BfYC9gtWCsjYS9qC5TFYbx49U//pOj05+FcL/bzyfZhhoi8xvU58TqhuoyiFWFEJrEaR9MdeEa0rmBAGMC3n7KmDBwDeTL/TbTsqW8vfQUBKxj6o6/zU5Nq29lL2MKpj8FvCgol6PkzZ3kRNt3utJ+NnI0OMXdcaursqt+VA9Uee6UzynZ3yBNlQjfcH4hieW1cBXgSZfQabozXDa2ItimIGk4Cc1s/X1l4qLM/YNvBtV9ay7irH0GBQ6DXjD1l9Gb9L19poPM8Vuo5SBx1APG722cPtFnNvV/RIjl+BRR9ALCiK7wAH/31U+ajxI2jYfVzL0RvWe/1PIVh7ZZ/NtpCaDEnl3/1FNKi7wm0LNnYT9mpfaO2X2C5+vdasqDuZuVn4uJq6sPd02amDghdcwJzoguD2c+LZmzTRH/Tf0NBsuVPp50THZX+pL8o1AoguvcxR5NBa6NQjA/mvN2IwY72Nye+iqO8a/3Ph4FdA/UWWZKQ3Q==;DpxqIhtWfswaljzIXWLERQ=="
+secured: "Bnrys3SP0KDbtmW9hE2IiVBhz/X0ZHFCVfyZJf9cBD4fqaGRPcDry53wh1DnQX5cDAveQNY3G88CNbMHAF/uCsXAgtUx98lW6unY2RjfVPqNJ6fLT1xMyvTwGRsgEq8iyQ4xn09Oxkzn1TDufw+IBViQs2Slp4m7E1Bi1qa5HEXSZ5y1ni3AlIBdvPt1EpFGmXSDEqM5TXo0bzsuRgJS62dfXk4z7/OzwcJ4NDgygUQqA+74ax2W5l08AOEOx0B+lru408wmTUDMVjgu7DAKC3dmfy8xh8YuW3ffHehzkMJIRMF1FbsMmpTSSOw4hn2ftXJF0REMiLOaKxlyGB/KAYdIhuGmmP4UQxEpFv48CV4=;mPhAbSnu7yBD2LbM8jimwg=="
 ---
 

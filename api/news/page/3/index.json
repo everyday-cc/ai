@@ -2,6 +2,195 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
+      "title": "Hootsuite acquires conversational AI startup Heyday",
+      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
+      "publishedDateTime": "2021-08-03T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ai-integration-with-email-marketing-could-reduce-shopping-cart-abandonment.md",
+      "title": "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment",
+      "excerpt": "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
+      "publishedDateTime": "2021-08-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc.md",
+      "title": "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc",
+      "excerpt": "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-traceable-ai-releases-the-industrys-first-free-api-security-solution.md",
+      "title": "Traceable AI releases the industry's first free API security solution",
+      "excerpt": "Traceable AI, the leader in API security protection, today announced the introduction of the industry's first free API security solution. Unique in its offering, Traceable's free API security solution enables developers and security operations teams to get started improving the API security of their applications without the need for budgetary approval.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
+          "width": 400,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-what-a-career-in-ai-has-to-offer-in-the-2020s.md",
       "title": "What a career in AI has to offer in the 2020s",
       "excerpt": "It found that 39% of people thought the path to AI careers was unclear, and one in eight (12%) had no idea about it. Women were more likely than men to lack clarity, as were younger people and undergraduate students versus those studying for master’s and PhDs.",
@@ -166,7 +355,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -219,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -759,49 +948,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-moscow-metro-introduces-face-recognition-payment-system.md",
-      "title": "Moscow Metro introduces face recognition payment system",
-      "excerpt": "The Tube has Oyster cards and the New York subway its Metrocards, but Moscow’s Metro is going one better – rolling out ticketing based on facial recognition technology. The Face Pay technology use biometric data and bank card details to recognise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "originalUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/08/7594420132_3d36765fe0_b.jpeg",
-          "width": 1023,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "publishedDateTime": "2021-08-03T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-upcoming-pixel-6-and-6-pro-will-run-googles-own-ai-focused-tensor-chip.md",
       "title": "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip",
       "excerpt": "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets.",
@@ -1108,152 +1254,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
-      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
-      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2021-08-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-police-trial-body-cameras-with-facial-recognition-technology-to-catch-suspects.md",
-      "title": "Police trial body cameras with facial recognition technology to catch suspects",
-      "excerpt": "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "publishedDateTime": "2021-08-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-driven-hr-seeks-to-balance-human-and-resources.md",
-      "title": "AI-driven HR seeks to balance ‘human’ and ‘resources’",
-      "excerpt": "Human resources is an area that is ripe for automation, and in particular, the kind of automation made possible by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1171132289.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "publishedDateTime": "2021-08-02T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

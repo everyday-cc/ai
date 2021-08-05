@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech.md",
+      "title": "Trial on at 6 airports for biometric boarding system using facial recognition tech",
+      "excerpt": "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "originalUrl": "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "publishedDateTime": "2021-08-05T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
       "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
       "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
@@ -189,92 +232,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-moscow-metro-introduces-face-recognition-payment-system.md",
-      "title": "Moscow Metro introduces face recognition payment system",
-      "excerpt": "The Tube has Oyster cards and the New York subway its Metrocards, but Moscow’s Metro is going one better – rolling out ticketing based on facial recognition technology. The Face Pay technology use biometric data and bank card details to recognise,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "originalUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/08/7594420132_3d36765fe0_b.jpeg",
-          "width": 1023,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/moscow-metro-introduces-face-recognition-payment-system/amp/",
-      "publishedDateTime": "2021-08-03T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-police-trial-body-cameras-with-facial-recognition-technology-to-catch-suspects.md",
-      "title": "Police trial body cameras with facial recognition technology to catch suspects",
-      "excerpt": "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg",
-          "width": 2500,
-          "height": 1563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/",
-      "publishedDateTime": "2021-08-02T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1360,6 +1317,58 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
+      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
+      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "publishedDateTime": "2021-07-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

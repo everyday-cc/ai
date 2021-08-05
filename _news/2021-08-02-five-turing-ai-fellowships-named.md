@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5087302&name=five-tur
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5087302&name=five-turing-ai-fellowships-named"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 581
     isCached: true
-
-related:
-  - title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
-    excerpt: "NTU, UBS and financial institutions in Singapore will develop new capabilities utilising artificial intelligence (AI) and machine learning to improve detection of money laundering."
-    publishedDateTime: 2021-08-05T10:12:00Z
-    webUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
-    type: article
-    provider:
-      name: Nanyang Technological University
-      domain: ntu.edu.sg
-    quality: 44
-    images:
-      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
-        width: 729
-        height: 509
-        isCached: true
 
 secured: "P48V6dcx0Ff7/HWiwNFIAwfxPh76Ut7PpEL3RVAdT8Ppi4yoRNSSu16Yso9FxBrNu7NDqdduUTUEstdmlIQn2tpzr5MT80ormTc5L++22A3SBKuKUGh8Bg2QakZWvcFLQof/djXn7s8koQBzuG/Q3qA+Vl328Yrxj3mkxd2uahHUnBpMiRB93BSgYDWLzzhLZ1xV63NBgGetBF/L6lG9pTiBSfihMEA0CRW5lbj0lRv4EOOnF6emimr+q0KT/Pg79R08nBT9c5thY7GfDNGD1mAkLWcUgmXsfRxBTfRdEaa1al8Bm57V7+HAz2x5XM80MJ4cAHuZLSBpJ6A7WSheA8xDR3KEXHFT8/I8W9bG656newRSp9DYOzJaaPTRrkDKS28tRpdRKblLO0SqAfgP5JTj7Dy1oEajJmMm5btQX4OK1/gn3URI1AAz5SGAH2oQvBEcAz6Ih49uzRoBDNapwLppVE5RB6ciuhaZF55Oh3rbDGqu1UbILe8Bx+rpUC9C38a5HRy2AuNM99k6r+cB5g==;qDhZKVa0cqusG+Ea1/L9PA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "(COVID-19 Impact Analysis) Global Deep Learning in Healthcare Market Forecast Size, Share, Growth, Trends and Opportunities 2026"
-    excerpt: "The recent report titled “Global Deep Learning in Healthcare Market” and forecast to 2026 published by Reportsweb is a focused study encompassing the market segmentation primarily based on type and application."
-    publishedDateTime: 2021-08-04T14:03:00Z
-    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-global-deep-learning-in-healthcare-market-forecast-size-share-growth-trends-and-opportunities-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 7
 
 secured: "dyVHkRmn14izwoGIGlRKr38tVly/YKS2Arr8cMN5QaADEfjvzYCTwtftGpVkd53eftDE2TbWoh0oxlK+NOvmmgjrvOs/dnXOg7xTtlwqAizEHYi8+RlMhsUeaR2ly/9eALuLnq48gactxKIKvpFyb7LAjcVsWDjioF0thIWiSW6RkSVJG3weNcsGEJKerm9FfAB4ep/hXR7atUfzkyf74JOKNkGLxBkYZ75NO2Pu1xwkF2T+mWEnj2g3aFBdEaaGKJ4EiO5BnN8WoOZ6zhArKdbdKm/3O3Lm1j3gTT/3gCfJPHtZvDV/iPDiJ1aYRe+jYzP1kj6chNbZHvZhPrntUNhi74I2ZUXkOz5fzrr6H/M=;TOz3cfy9cT3H7xJq5yyKoA=="
 ---

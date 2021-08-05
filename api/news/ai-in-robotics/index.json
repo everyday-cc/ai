@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa.md",
+      "title": "Academic City introduces a degree in Artificial Intelligence: first in Africa",
+      "excerpt": "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
+      "originalUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
+      "publishedDateTime": "2021-08-05T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
       "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
       "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
@@ -1359,59 +1402,6 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
-      "title": "Data Centers in an AI and ML driven future",
-      "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
-      "publishedDateTime": "2021-07-25T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Robotics"
       ]
     }

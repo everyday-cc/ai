@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
-excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
+excerpt: "Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements."
 publishedDateTime: 2021-08-02T10:37:00Z
-originalUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
-webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-3/"
+originalUrl: "https://www.just-auto.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-2/"
+webUrl: "https://www.just-auto.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging-2/"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Power Technology
-  domain: power-technology.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "0tZ8gABb88tFukawQSzFU27syNdTm3zVZQ3gLMRi1JE3g7dlGIsfY9XrUFZRFT4JanJZYY6z5/0vr1SM7IhEGdRgzMRrL6fXsX7eptoTvlkBtIwjHWpvEudmD/e1bK78rYsP9MGSiC82jpXjbI2BkZrof3bljL2wQyjp3vr5PLA/6s3AkVaZjwia8HT4ZyMnL1oWUHN/88SXo3+/BFH4H2HJupx30PWPC65iG7lzqrS2AUQTlnSQrdagDP+phNqiYXZmZu0ZVVF5KHcgiz9+XTqVzgWYWlbxJJKeXyiV05wZa56HIaolmIgadqrapsr1kdeTDSEMTc8IiOVJWRAJmSrjK7pK1UM55ETuEB3u2vpvF+v28ZS70R3Cwo56z3zmWjLu2I9EkvLKe89p8NlzjuiTTcsuxaWyKF6IRiddmuRtv0zY/P2UBpbmVrTCP1Z5BY6Iwy3MxuF/vOLbkC2lx7LKc/0NgFe7dP7+jL3S4a1k9tZcKVTVVHghmbjCABs2OQxGJJoZWb+IVf4jo9EaiA==;JrDT3iAXGMZhTkKZ1RCDlA=="
+secured: "kEWWMTmJW42hqYci1nAianE1dc2ohnLFEFgmshAeUM8X4hZaGwXY2y+35O8PbJ35LmwBrKuKh5la9pDnP442Pywm1ZVbA2N6Y9YqAg8/WdBlsVK8SscxvkSFNfEUAV6jhkep/3cbHCGFaNnMHWANG5lRY/cC+O8nQGsO+ubUlDGrIy40QtHkoinM+t35z4LqsRBZqPIvGufx6N1TZqWWjkmEXT9LeY+xGGWSefEnL3uSWUuYJmoI+OMFMNB5yC+8EseD1H9oTknPUYlzbXb+MNahSYPkyE4efvfGjGlzEhwp8roCQIEt7dTqS3+Wjp0KjgCoXYw+1F1pRWS+ylD3ylLi+jNKmPgaPRFRxVmbLXv9w+W/FwC2jNHbEzaNY4lY13/VcShw85Ikj6JZQUtkx9rJajXdDLW6wlNL19Ns8iZD+V6Y2dEf45gin6/ibtduz3frXBrWaDsNp4lSf5BLv3i9xhIA31q+rA5+FUR6fMaIOMvULfuSG8U839wqLtnpUC/t8bnXPD2XLFkMb30Dsg==;2HkF93JeLPfQPEg3862bPg=="
 ---
 

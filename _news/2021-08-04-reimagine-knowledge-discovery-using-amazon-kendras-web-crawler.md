@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-discovery-using-amazon-kendras-web-crawler/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

@@ -2,6 +2,109 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-19-hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopias-efficiency-by-800.md",
+      "title": "HAI ROBOTICS Enters Australia Market, Boosts Largest Online Book Retailer Booktopia's Efficiency by 800%",
+      "excerpt": "HAI ROBOTICS, a Shenzhen -based warehouse robotics startup, which launched the world's first carton picking and double deep autonomous case-handling system, is announcing its first deployment in Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopia-s-efficiency-by-800-1030619297",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopia-s-efficiency-by-800-1030619297",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1576354/Booktopia_s_Distribution_Center_Lidcombe_NSW.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-edtech-startup-braingroom-raises-inr-15-cr-from-ian-social-alpha-and-startup-oasis.md",
+      "title": "Edtech Startup Braingroom Raises INR 1.5 Cr From IAN, Social Alpha And Startup Oasis",
+      "excerpt": "The startup will use the funding to add more components to the ... It is one of the very few multilingual online learning platforms in India to use AI Chatbots and Gamification to create a completely personalized learning experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377702",
+      "originalUrl": "https://www.entrepreneur.com/article/377702",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626684960-john-schnobrich-FlPc9-VocJ4-unsplash2.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377702",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377702",
+      "publishedDateTime": "2021-07-19T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-artificial-intelligence-in-accounting-market.md",
       "title": "Artificial Intelligence in Accounting Market",
       "excerpt": "This Report provides a 360-degree synopsis of the competitive scenario of artificial intelligence in accounting industry. It has enormous awareness joined to the ongoing item and technical ...",
@@ -1061,109 +1164,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-hungryroot-delivers-ai-powered-grocery-experience.md",
-      "title": "Hungryroot delivers AI-powered grocery experience",
-      "excerpt": "Hungryroot uses AI-powered grocery delivery, matching consumer preferences to the weekly boxes they receive through an AI-powered algorithm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/",
-      "originalUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Asparagus-e1626429647275.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/17/hungryroot-delivers-ai-powered-grocery-experience/amp/",
-      "publishedDateTime": "2021-07-17T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-17-adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom.md",
-      "title": "Adorable Kitten Hiding Under An AI Self-Driving Car Provides Bright-Eyed Pearls Of Wisdom",
-      "excerpt": "Something adorable could have been a heap of unpleasant trouble. A kitten had decided to hide underneath a parked AI self-driving car. I’m sure that you’ve seen or even personally witnessed having a cat or dog that opted to sneak under your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c556e2c64f1f80827d3713%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3342%26cropY1%3D21%26cropY2%3D1900",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/17/adorable-kitten-hiding-under-an-ai-self-driving-car-provides-bright-eyed-pearls-of-wisdom/amp/",
-      "publishedDateTime": "2021-07-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

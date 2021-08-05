@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Insilico Medicine and Usynova Announce Strategic Partnership on Accelerating R&D of Small Molecule Innovative Drugs with AI"
-excerpt: "Insilico Medicine, an industry leader in end-to-end artificial intelligence for target discovery, small molecule"
+excerpt: "The agreement outlines a constructive framework where the two parties will combine the advantages of Insilico Medicine's AI-powered drug discovery platform with Usynova's experience in the small molecule innovative drug development to accelerate the development of small molecule innovative drugs,"
 publishedDateTime: 2021-08-05T10:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-and-usynova-announce-strategic-partnership-on-accelerating-r-d-of-small-molecule-innovative-drugs-with-ai-1030694686"
-webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-and-usynova-announce-strategic-partnership-on-accelerating-r-d-of-small-molecule-innovative-drugs-with-ai-1030694686"
+originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-and-usynova-announce-strategic-partnership-on-accelerating-r-d-of-small-molecule-innovative-drugs-with-ai-1030694782"
+webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-and-usynova-announce-strategic-partnership-on-accelerating-r-d-of-small-molecule-innovative-drugs-with-ai-1030694782"
 type: article
 quality: 41
 heat: 41
@@ -27,6 +27,6 @@ images:
     height: 257
     isCached: true
 
-secured: "PJrk0sB/MOte9nz+1L4/nP3uJKn/z2leDGrShCuK+pPDxCvAgrkhwrp4X7VQeeOrrRmlKafyPoGho6jKatPow6oW1HJzmUOsCb7AhBy2uVWztK7F7hhdr4fu+K7TrYVfhVcQwqyUfTanMo0W6iyV2UFQOLt8aK/teVj5iOqTP4r61WMmDv7Hc2XjFr457ljBhC24MGeOraEHwxH2eEJxvV5+rGJxSipuJ/1G5F/OpUMKqD47OxPtkgYnswGjOWfoGsNEdtj9TM8gJW8r90x0AkKdtidpPAdG90PCwqzggtSOl98p7BPL5mhVr6D9RyJfhB5mudjVaRppGaXAk9JIa7q2UHQIi9g7s7fzIdBWLbQ=;fVtfIfWYsj2O+emrTmHIZA=="
+secured: "1/N/XXuZMuInrEB5AH0aVQmytUJIThKPKzvFUTAf3db7AF0r3ggqhfs0RdwO+YHVGRhgTgD0uqw6gAMcZVEH3tZc/fkD/EZx3JdwWD8M3vcpPHWag/RrPgnBEWGrwEMLtFvjuU/OSIAEVZINOLCA8tPVtbZDONsDulhS+cLRJdcBczT8Fv2wP0d+v11/ITPzoHRHwYC7LgzdK/jjBgKmb46xkIBfopbGVgBsMy3/CO/tYvhZRtvcmiY5nL+pBMYSTFVQOElTbTf7R8d/nOtqAi5nynUO3SSPI3NMfpZ9tqSpaINLXpb2edt6W75dFe1Wfum2SrvVq8u/+3ajqPgT6frf45vU2Ac0RCSpFgmeZRc=;OZAaJ6Qixky9G2q+Gvm+sg=="
 ---
 

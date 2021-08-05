@@ -17,23 +17,25 @@ provider:
   domain: theconversation.com
 
 topics:
-  - AI in Robotics
+  - AI Ethics
   - AI
 
 related:
-  - title: "Rethinking Education in an AI-First World"
-    excerpt: "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the"
-    publishedDateTime: 2021-08-04T20:28:00Z
-    webUrl: "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/"
+  - title: "Academic City introduces a degree in Artificial Intelligence: first in Africa"
+    excerpt: "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI."
+    publishedDateTime: 2021-08-05T14:13:00Z
+    webUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/"
+    ampWebUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
+    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
+      name: business
+      domain: thebftonline.com
+    quality: 56
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg"
-        width: 900
-        height: 562
+      - url: "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
   - title: "In a world first, South Africa grants a patent listing AI as the inventor"
     excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
@@ -47,6 +49,6 @@ related:
       domain: theconversation.com
     quality: 40
 
-secured: "VMlp11k9hM7KGMGliMf4CMBiEkbBGwXlVo2XnNplridDdugcu/I1e+RCW46EuGCxk6M4AdK/ERlLgy5jMJy6wBnO1HSbDTYEl9Xgc3GxW2O+ElPIT3a6RZ1rx5P70J2umGSoHigXU8nRYhOGfzTRz0xKajYwQo9t0xgOiL07/qoFF8f9+HDX0FhiStmR6d+4Wz7/tBi7JEL9czk2bzKLpaoVhuP4m4JnlX7Apte1oG/6SehhbOk3RtuFjzTrHrOeVR5HooJKzNNV3GaAdy85qY2wwAlqt561ZOEvPV+sZLB4km4AJ++XOWTU5p2AP622QLvKbUEFpnOTYGKU3WU8sP2r9kt/UZYd7zRw/T23HtOZfXWLVo4yXl8ym4odoAPpcSt06c3/0XxKqcYTP9yttWWEHGEgb2+G502TQgoIlyFmE73vEniIm5StayT33aQKttV+z+jmseJq9au7fH+J9icbsQnqD7a/c1sFUgmYib2JNv3oUPxTkHLBfZHGvFr4DBU4LhKGuUnfNm8YWRAzzw==;BLoZZPRSBg+IJcKPlWtbSw=="
+secured: "k6HzPIKBGOlFAGIftoLQWW5arrxwNw+Juyw4TXXWCNg4HA4JExqcoya1lIXhIwkjfCXMPv9TYMHzfeYgWwTzCbOEn1aown/A8ik9QsRX226h0RkJL+jvVG9mPEnqmbSzV5aKUwi8tu2PReMRIhoyasJLkdBlDujavEle0vFIK2MDZWgUgTU5jrtssiqzTCYY6dAukGb5hEfaI+qQwQpUUXvmhI203mWChgaVOa2bSfEKnHZDRRfFLTesm+zc+vX/RThAg8CMgXbY1VKdTu+e2CFXlqJGqFIxFxquK8a2hLYHMhizgtsXec7BmjiJPSJA4u1rXzKEp76DF67+3wMFYDYWIMNMhJa3CPGXcs+8vBd3bfdj89e5gQflI7jOiTQfljkK5SyAK4BIJMQ2m8A6jvnx7Wy36PPJv+X2O6J9Walzd16m3/mxBbWihs0mqiBbx+1+XOjd9IYP0wV6Rm3M1iqXxRTn1t886V5RHPRX7L2SG/6aAB5jw8cGAP3LhcWwqqgSkL3RfiFpFJ9vENW6jw==;E0z4uKcP+PZP5a19kPvN5w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-opera
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1635
         height: 854
         isCached: true
-  - title: "AI Innovations In Mining"
-    excerpt: "The mining industry is increasingly using artificial intelligence in innovative ways to optimize processes, enhance decision-making, derive value from data, and improve safety. Do you know how much a mining dump or haul truck may cost?"
-    publishedDateTime: 2021-07-31T22:07:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/07/31/ai-innovations-in-mining/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
     excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
     publishedDateTime: 2021-08-02T14:25:00Z

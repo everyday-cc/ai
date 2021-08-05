@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
+      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
+      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
+      "publishedDateTime": "2021-07-23T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-24-self-driving-fords-set-for-lyft-off-in-miami-and-austin.md",
+      "title": "Self-Driving Fords Set for Lyft-off in Miami and Austin",
+      "excerpt": "Ford might have to adjust its slogan from \"Have you driven a Ford lately?\" to \"Has a Ford driven you lately?\" On Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
+      "publishedDateTime": "2021-07-23T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-24-how-facial-recognition-went-from-bad-tv-to-big-brother.md",
       "title": "How facial recognition went from bad TV to Big Brother",
       "excerpt": "You might not see it, but it sees you. CNN's Jon Sarlin explores the brave new world of facial recognition technology.",
@@ -1082,109 +1177,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2.md",
-      "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
-      "excerpt": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician’s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/09/ML1957-image001.png",
-          "width": 964,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T16:19:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-equipping-ai-with-emotional-intelligence-can-improve-outcomes.md",
-      "title": "Equipping AI with emotional intelligence can improve outcomes",
-      "excerpt": "There is a gap between the ambitious ways enterprises want to use AI and the reality of how the projects turn out, says Intel's Melvin Geer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/intel.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/amp/",
-      "publishedDateTime": "2021-07-22T15:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

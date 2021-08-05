@@ -2,6 +2,109 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-06-29-nhtsa-mandates-crash-reports-for-self-driving-cars-driver-assist-systems.md",
+      "title": "NHTSA mandates crash reports for self-driving cars, driver-assist systems",
+      "excerpt": "If a vehicle equipped with a system like Tesla's Autopilot or GM's Super Cruise is involved in a crash, the agency must get a report within 24 hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
+      "publishedDateTime": "2021-06-29T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging.md",
+      "title": "AI Finds Tennis Is ‘Most Euphoric’ Sport To Watch But Soccer Is Most Engaging",
+      "excerpt": "Emotional AI can detect which sports evoke certain emotions in viewers. The data could be used to improve engagement and commercial activities in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db3b169c8e3bccff0c0623%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
+      "publishedDateTime": "2021-06-29T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-zoom-to-acquire-german-startup-to-bring-real-time-translation-to-meetings.md",
       "title": "Zoom to acquire German startup to bring real-time translation to meetings",
       "excerpt": "As companies expand worldwide and meet online in tools like Zoom, the language barrier can be a real impediment to getting work done. Zoom announced that it intends to acquire German startup Karlsruhe Information Technology Solutions or Kites for short,",
@@ -1094,101 +1197,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ibm-launches-its-ambitious-project-to-eliminate-bias-in-targeted-advertising.md",
-      "title": "IBM launches its Ambitious Project To Eliminate Bias In Targeted Advertising",
-      "excerpt": "Unintentional bias in algorithms has been plaguing the advertising industry for a long time. IBM is taking the issue head-on.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/explained-ibms-ambitious-project-to-eliminate-bias-in-targeted-advertising/",
-      "originalUrl": "https://analyticsindiamag.com/explained-ibms-ambitious-project-to-eliminate-bias-in-targeted-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/06/image-4.png",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-douglas-coupland-fuses-ai-and-art-to-inspire-students.md",
-      "title": "Douglas Coupland fuses AI and art to inspire students",
-      "excerpt": "Have you ever noticed that the word art is embedded in the phrase artificial intelligence? Neither did we, but when the opportunity presented itself to explore how artificial intelligence (AI) inspires artistic expression — with the help of internationally renowned Canadian artist Douglas Coupland —",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/arts-culture/douglas-coupland-slogans-class-2030/",
-      "originalUrl": "https://blog.google/outreach-initiatives/arts-culture/douglas-coupland-slogans-class-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slogans_for_the_Class_of_2030.max-1300x1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

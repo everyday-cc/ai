@@ -41,20 +41,6 @@ related:
         width: 1023
         height: 558
         isCached: true
-  - title: "How To Fool Facial Recognition Systems"
-    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
-    publishedDateTime: 2021-08-04T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "F3EtN6ief6Sn55Z8AKBI8Pe/JxSi12J+BaRDwug0FOQ9y3bug/XKJG3dLD6TyRJB83mq0g6LiVDlEoOGxmeVvJF545NCqgh6TJpNW7D9pzIq+G33pvqji+2IRcnZoiPkep4JRCayx/yEQWInCoajrt5QuGQ5IRo5PS07lWZ/76X07CADW//YP0mIWR0joJzskEwhCq1SxjOob242nHVYRZZoTK9Owq7vuGIRhBN1wLXl6K9lWzO84NdAUPgtd7R/wYkGz0m9OyT2mJGSfpl3SxoO+Rzh/r4DfC8t4uOAEMNgDOJEZbBP9JL6BQ439XWmBKoQ5og8WRiVIvgRetvldX/HnKP0y+EeUqhggrsq58/Mp8EUJwoiB2YLsC0XAL/kudubi5q1mU7hbpVrvdQ4QGZ924zW5NGQaDmGbMEGXZcbX9qLfvwgLCWOZXhT9zjuI4w6amV03+oMW90eWQg7jjckEP9YBGtbI6P2bKBqvmmjzUUL0FAqxOOYNrRpdW5E5Ah9yjkIuRlrIgtR6PUSPw==;X66tUDIJEFG7RjKnFaZoHA=="
 ---

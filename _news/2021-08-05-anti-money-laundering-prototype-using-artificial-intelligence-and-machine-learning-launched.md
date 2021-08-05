@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Five Turing AI fellowships named"
-    excerpt: "Five new fellows have been announced for the UK government’s fellowship programme for artificial intelligence (AI) research."
-    publishedDateTime: 2021-08-02T09:47:00Z
-    webUrl: "https://www.research-live.com/article/news/five-turing-ai-fellowships-named/id/5087302"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5087302&name=five-turing-ai-fellowships-named"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5087302&name=five-turing-ai-fellowships-named"
+  - title: "AI and data mining programming languages are \"booming\""
+    excerpt: "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead."
+    publishedDateTime: 2021-08-05T15:31:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Where are mining industry operations and technologies companies focusing their artificial intelligence hiring efforts?"
+    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the mining sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among mining industry operations and technologies companies."
+    publishedDateTime: 2021-08-02T12:43:00Z
+    webUrl: "https://www.mining-technology.com/features/mining-industry-operations-artificial-intelligence/"
+    type: article
+    provider:
+      name: Mining Technology
+      domain: mining-technology.com
+    quality: 13
+    images:
+      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2017/12/artificial-intelligence-2228610_1920.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
 secured: "+LooUOTX38xBs0aah33qfqm6hB1WphcqVIjCK3r0TTTWqD02jSXZ/eB4JEs1AJIIzWjDoAAsF0wRZFX4VGgdX88kn7pL7oMNgKy+9uVn1Sa32lZL9gV5ANbeU86tmP0c8w/9Wsm/DzBB9yRpK2k9gV1x5WRfGSuTfQov36AozjetQFKMn/Rt2LqRNVR+QOF9ndZawGrF9DuNV0wJQGAB4tzEhdZecbDDj4TU/YvUz9QVXlcd/fX/LXxqPoL6jnA3qk7Lgmqo+KySjabdaJCq/+dgmZeseqPaLmtnw3nPMRi/WsG1y6HYd54WCOEh6+qjcrcLAD66JnEFbjpCaS3XH/4MdmLV5V5Du5RwcxgrmVc=;OBxD9R25CCCTUkxu3rHnTg=="

@@ -36,6 +36,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 65
+  - title: "Raleigh startup InsureLife raises seed round, secures two distribution agreements"
+    excerpt: "A Raleigh-based insurance technology startup that uses artificial intelligence has raised an undisclosed seed round, and plans to raise a Series A round later this year."
+    publishedDateTime: 2021-08-05T15:05:00Z
+    webUrl: "https://www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 52
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/venture-capital-dollars-funding-financing-e1600868030834-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "AI-based agtech startup AgroScout raises $7.5 million"
     excerpt: "Looking to reach more than 500 million mostly underserved farms worldwide, agtech startup AgroScout has raised $7.5 million in a Series A funding round. The company provides farmers with a comprehensive crop management solution,"
     publishedDateTime: 2021-08-04T15:44:00Z

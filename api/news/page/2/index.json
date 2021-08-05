@@ -2,6 +2,211 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
+      "title": "Spell unveils deep learning operations platform to cut AI training costs",
+      "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
+      "publishedDateTime": "2021-08-04T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-a-new-kind-of-alien-ai-and-the-hiring-process.md",
+      "title": "A New Kind Of Alien: AI And The Hiring Process",
+      "excerpt": "Not all aliens are depicted in popular culture as green or humanoid. In short, they could be robots. More specifically, we could venture to call AI an alien life form.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
+      "publishedDateTime": "2021-08-04T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
+      "title": "Accelerating Drug Discovery With Mindful AI",
+      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
+      "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
+      "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/c-light.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-why-ai-is-a-powerful-tool-for-coinnovation.md",
       "title": "Why AI Is A Powerful Tool For Coinnovation",
       "excerpt": "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it.",
@@ -346,7 +551,7 @@
       "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -555,7 +760,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enghouse-espialtv-enables-tv-accessibility-with-amazon-polly/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -608,7 +813,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -867,7 +1072,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -995,7 +1200,7 @@
       "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1027,195 +1232,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
-      "title": "Hootsuite acquires conversational AI startup Heyday",
-      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "publishedDateTime": "2021-08-03T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-integration-with-email-marketing-could-reduce-shopping-cart-abandonment.md",
-      "title": "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment",
-      "excerpt": "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc.md",
-      "title": "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc",
-      "excerpt": "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc-1030684126",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-traceable-ai-releases-the-industrys-first-free-api-security-solution.md",
-      "title": "Traceable AI releases the industry's first free API security solution",
-      "excerpt": "Traceable AI, the leader in API security protection, today announced the introduction of the industry's first free API security solution. Unique in its offering, Traceable's free API security solution enables developers and security operations teams to get started improving the API security of their applications without the need for budgetary approval.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
-          "width": 400,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

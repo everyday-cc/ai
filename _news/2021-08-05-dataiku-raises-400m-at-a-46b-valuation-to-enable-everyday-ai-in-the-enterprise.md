@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-publishedDateTime: 2021-08-05T07:22:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
-webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
+publishedDateTime: 2021-08-05T07:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
 type: article
-quality: 34
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
-
-images:
-  - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
-    width: 746
-    height: 938
-    isCached: true
 
 related:
   - title: "Dataiku raises $400M to democratize AI in the enterprise"
@@ -55,7 +52,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
+    excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"
+    publishedDateTime: 2021-08-05T14:28:00Z
+    webUrl: "https://siliconangle.com/2021/08/05/ai-development-platform-maker-dataikus-400-million-new-funding-pegs-value-4-6-billion/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/PREDICTED-AWAY.00_24_01_04.Still042.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
-secured: "WdgM1GFT4n0wG0pwgshSO2GbDX1/9mZfjhgLGAxpinDRTtNVd+etlHn35RwP2lRprkViKZkJdrl32fQ6EzNKYK8ihvs2AachdMIlYTSwqF8Rbl/AdtyPKjgA2O1w+w68isDJeleO/sRu9+QqViJXlV38H1ZY+EFqJezH9NcDpHrocMKvOlXKoPgLc0HtHTgmxOEXW2FvRe6iNOn0AvKNgX0fyQMnonexxdCPTnZCe6kc5MEmxJuXkhKq5oV6GVzQPJtXX8S87z6/INKonwk1jukuySULBCwd6ra3W6M4AAxPCkjLUJ0+KRt1/NqAi1hmFTtutgYe3K5EUhZfPw1Cu1OPcqufsZGOKDxhzRcx1Sg=;RM/9i1/Kt/sYkU7PHpW7dA=="
+secured: "Nf310GPaTGFRf7tH59xLABIByrK8bOCMyWZeHO4iBXJucNe5HPRdhuGAzEAIruLFgUSay6vlyOMDGViA0oZqk1R7nG3fDK5JzFglCcp/MUpepmER9XYeSRiCd4Z6t4fWtFMmu1T81YjzWg6HU4l99ruf+J9/Coi+Bu7khk+Rb2oPOBmFRXFLtseh6HkB+gXg9OfU2kdyCR/dP1lQtCjMh6eMCWz6ZAS5HRbQ8WnUkHMHUt+4ojxkdzF8PBOqHYfyx4gdiEfdWFMFGOO/I/m9XGDQYs4Lkr+0AV3PkOy3i9OxClSiIwTJlOGKH1SnRVwfBCR+lstvx4bxRE8VT09gaICQsfV1KyGs6PWV468nuzyStLxeDemvBf3DXzdR11zaaFPJ+qI5bC+gpbyAeAcz8A0Ev/1RRsGc1KkXwTH3nutdTCkb9m+TnxaWK/EYZE7m8asvQ04IHdzg80xrKAur3RsGDFGiP0AESfGfuyyY+rwrhxMl3nl/oGrlkYGSV8fIKzz9VVKo5XPvHamIeo4Uuw==;RZti7mmWjbR11cQ3kVVSKw=="
 ---
 

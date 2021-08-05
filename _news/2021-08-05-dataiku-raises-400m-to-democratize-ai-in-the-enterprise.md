@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,18 +46,27 @@ related:
         height: 630
         isCached: true
   - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-08-05T07:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+    excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
+    publishedDateTime: 2021-08-05T07:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
+    excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"
+    publishedDateTime: 2021-08-05T14:28:00Z
+    webUrl: "https://siliconangle.com/2021/08/05/ai-development-platform-maker-dataikus-400-million-new-funding-pegs-value-4-6-billion/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
-        width: 746
-        height: 938
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/PREDICTED-AWAY.00_24_01_04.Still042.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Jbfnto4/Cnf5p88irUeMDfacoqmyN0/XkyglGcNNd5ZObAM8UONZL0OVfYcNgPySr0o+nRgAJXOiGEOeOPc/rpnhEJHvPZreZdbSxaXJh3lYQaWuhMY2HCrRwUQXQmp41LdnwY0jywusZseNm6XdAvL7ipfKGo+ZbHWgujREk6t9p3wCyqMtEW6NknzTm20wRrh28crOviK8WatGMRi3/kEXyymmb17RquPy6XWG9ca+Ea7vCDx9MrJyraTkJ30/H6wuhzZOQ1SzIVnSoSKcs1zLcaPKpKVh5mdNN4XlRb9CIMBCmSUixS3TMXZfKk1rwBUFdy7ue79b2CwZHKAX3hO5eBBACZbGAoQNof5orL9uFUKvZriuAUUtdlS5cyEGM1rCtZOFKBkO+vJ91WAlKLIWEz1NwxFkAdL1VRtoBnIVPAEWC4IvMK/ofxLudCD+HoZycqjRE9ePSnCUqOgzTtkh6gd9cSkoSZl7diRHkVziEMO6BIwebVpMC6+cwfBFc4jOMVQP3VhEBAvAMJWV+g==;I6wDfwwvL7feOED5OTAWtw=="

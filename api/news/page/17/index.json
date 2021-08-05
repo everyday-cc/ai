@@ -2,6 +2,103 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-21-top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence.md",
+      "title": "Top AI & ML Innovations From Allen Institute For Artificial Intelligence",
+      "excerpt": "Over the years, the private research institute and startup incubator has pushed the frontiers of AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "originalUrl": "https://analyticsindiamag.com/top-ai-ml-innovations-from-allen-institute-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/07/Allen_AIM.jpg",
+          "width": 896,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-chinese-driverless-car-start-up-weride-makes-first-acquisition-as-competition-ramps-up.md",
+      "title": "Chinese driverless car start-up WeRide makes first acquisition as competition ramps up",
+      "excerpt": "Chinese driverless car start-up WeRide has made its first acquisition, an autonomous trucking firm called MoonX, as it looks to commercialize self-driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "originalUrl": "https://www.cnbc.com/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106913345-1626761042533-WeRide_robotaxi_.jpeg?v=1626761714",
+          "width": 7952,
+          "height": 5304,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/07/20/chinas-weride-makes-first-acquisition-an-autonomous-trucking-firm.html",
+      "publishedDateTime": "2021-07-20T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-four-ways-to-unlock-marketing-return-on-investment-with-machine-learning.md",
       "title": "Four ways to unlock marketing return on investment with machine learning",
       "excerpt": "Despite the emphasis placed on data-driven marketing over the past decade, 54% of senior marketing practitioners reported in a 2020 Gartner survey that their organisations’ investment in marketing analytics hasn’t had the expected impact.",
@@ -1083,103 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market Trends, Share, Size, Growth, Opportunity and Forecasts by 2025",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-how-artificial-intelligence-can-create-real-value-for-your-business.md",
-      "title": "How Artificial Intelligence can create real value for your business",
-      "excerpt": "Whether we ask Amazon’s Alexa to play our favorite song or shout “Hey, Google” before asking the device a question to help our child with their homework, artificial intelligence (A.I.) has been in the spotlight more frequently in the past few years in consumer applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/",
-      "originalUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://agcdn-2mrybbgckm7omi0k.netdna-ssl.com/wp-content/uploads/2021/07/alphagamma-How-Artificial-Intelligence-can-create-real-value-for-your-business-entrepreneurship-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/?amp=1",
-      "cdnAmpWebUrl": "https://www-alphagamma-eu.cdn.ampproject.org/c/s/www.alphagamma.eu/entrepreneurship/artificial-intelligence-real-value/?amp=1",
-      "publishedDateTime": "2021-07-20T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alphagamma.eu",
-        "domain": "alphagamma.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

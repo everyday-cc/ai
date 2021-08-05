@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-05-ai-and-data-mining-programming-languages-are-booming.md",
+      "title": "AI and data mining programming languages are \"booming\"",
+      "excerpt": "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
+      "publishedDateTime": "2021-08-05T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-riiid-to-present-artificial-intelligence-for-education-sessions-at-asugsv-2021-summit.md",
+      "title": "Riiid to present Artificial Intelligence for education sessions at ASU+GSV 2021 Summit",
+      "excerpt": "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the preeminent global education innovation conference to be held in San Diego on August 9-11.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1589184/Riiid.jpg",
+          "width": 400,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-global-healthcare-cloud-computing-market-to-reach-768-billion-by-2026.md",
+      "title": "Global Healthcare Cloud Computing Market to Reach $76.8 Billion by 2026",
+      "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Healthcare Cloud Computing - Global Market Trajectory & Analytics\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026-1030696838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026-1030696838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1586971/MCP_7948.jpg",
+          "width": 400,
+          "height": 252,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa.md",
+      "title": "Academic City introduces a degree in Artificial Intelligence: first in Africa",
+      "excerpt": "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
+      "originalUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
+      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
+      "publishedDateTime": "2021-08-05T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business",
+        "domain": "thebftonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-the-value-of-natural-language-processing-it-makes-ai-more-human-centric.md",
       "title": "The value of natural language processing? It makes AI more human centric",
       "excerpt": "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience.",
@@ -10,7 +208,7 @@
       "originalUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -105,6 +303,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-05-trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech.md",
+      "title": "Trial on at 6 airports for biometric boarding system using facial recognition tech",
+      "excerpt": "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "originalUrl": "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05",
+      "publishedDateTime": "2021-08-05T05:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
       "title": "HeyRenee is the next home healthcare startup for Heal founders",
       "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
@@ -165,7 +406,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -363,7 +604,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-discovery-using-amazon-kendras-web-crawler/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -508,49 +749,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-rethinking-education-in-an-ai-first-world.md",
-      "title": "Rethinking Education in an AI-First World",
-      "excerpt": "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/",
-      "originalUrl": "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg",
-          "width": 900,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     },
     {
@@ -1045,211 +1243,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
-      "title": "Spell unveils deep learning operations platform to cut AI training costs",
-      "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "publishedDateTime": "2021-08-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-a-new-kind-of-alien-ai-and-the-hiring-process.md",
-      "title": "A New Kind Of Alien: AI And The Hiring Process",
-      "excerpt": "Not all aliens are depicted in popular culture as green or humanoid. In short, they could be robots. More specifically, we could venture to call AI an alien life form.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
-      "publishedDateTime": "2021-08-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
-      "title": "Accelerating Drug Discovery With Mindful AI",
-      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
-      "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
-      "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/c-light.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
