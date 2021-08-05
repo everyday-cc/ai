@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 67
-  - title: "Artificial intelligence and the structure of the universe"
-    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
-    publishedDateTime: 2021-07-31T12:42:00Z
-    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
-    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
-    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
-    type: article
-    provider:
-      name: Las Cruces Sun-News
-      domain: lcsun-news.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence and the workplace"
     excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
     publishedDateTime: 2021-08-03T09:16:00Z

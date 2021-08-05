@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-self-driving-cars-are-not-yet-safe.md",
+      "title": "Self-Driving Cars Are Not (Yet) Safe",
+      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-toyota-buys-us-mapping-road-data-firm-to-bulk-up-driverless-tech.md",
+      "title": "Toyota Buys U.S. Mapping, Road Data Firm To Bulk Up Driverless Tech",
+      "excerpt": "TOKYO: Toyota Motor Corp’s research arm said on Thursday it acquired U.S.-based Carmera, a provider of maps and data for driverless vehicles, marking the Japanese car maker’s latest investment in autonomous technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "originalUrl": "https://www.news18.com/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg?im=FitAndFill,width=1200,height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/tech/toyota-buys-u-s-mapping-road-data-firm-to-bulk-up-driverless-tech-3964145.html",
+      "publishedDateTime": "2021-07-14T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
       "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
       "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
@@ -1294,101 +1380,6 @@
         "name": "Analytics Insight",
         "domain": "analyticsinsight.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-06-developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk.md",
-      "title": "Developing safe self-driving car a 'hard problem', admits Tesla CEO Musk",
-      "excerpt": "Tesla CEO Elon Musk has finally admitted that developing a safe and reliable self-driving car is indeed a difficult task",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
-      "originalUrl": "https://www.business-standard.com/article/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/automobile/developing-safe-self-driving-car-a-hard-problem-admits-tesla-ceo-musk-121070600204_1.html",
-      "publishedDateTime": "2021-07-05T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem.md",
-      "title": "Elon Musk just now realizing that self-driving cars are a ‘hard problem’",
-      "excerpt": "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
-      "originalUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/4C055ZgWGIB5m8h8BXwn3LYWgSs=/0x0:4000x2840/1400x933/filters:focal(1680x1100:2320x1740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69542575/1229901940.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
-      "publishedDateTime": "2021-07-05T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

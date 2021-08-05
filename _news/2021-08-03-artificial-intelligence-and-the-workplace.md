@@ -51,22 +51,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 67
-  - title: "Artificial intelligence and the structure of the universe"
-    excerpt: "Machine learning is justifiably being explored in astronomy as a new tool available in our endeavor to understand the cosmos."
-    publishedDateTime: 2021-07-31T12:42:00Z
-    webUrl: "https://www.lcsun-news.com/story/life/2021/07/31/artificial-intelligence-and-structure-universe/5418098001/"
-    ampWebUrl: "https://amp.lcsun-news.com/amp/5418098001"
-    cdnAmpWebUrl: "https://amp-lcsun--news-com.cdn.ampproject.org/c/s/amp.lcsun-news.com/amp/5418098001"
-    type: article
-    provider:
-      name: Las Cruces Sun-News
-      domain: lcsun-news.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/07/29/PNM2/723e52d8-3bc5-4872-94ef-3c6a2eccdfff-Cosmic_web.png?auto=webp&crop=1391,783,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "9DEjvGk1i/VTGXOVyIKaw2mz9dGvofRvRozWjTQMx0+z7wL9FAuDDCn24se5O1VWsinajvBqvv9+CctFUOESBOuZwVgKxQvv4DzKuWDhlRXNGdZ7vwcFiGx3eG0eeixlSS4uS9XSX1ZSIERr5IhCOXbfumuqnpFO8QWkf3+h7JokIvJKhHnkQl9G4nIHB1dqWhW+LpkJAx8z9TRmxRkpBclmgSVB6wpskjwG0fV3QsYlYX8Ftk7frqRwnv3zycjgWR/Osr/43zk/dCXSAHoIYrQXHvcuaT+3tiogW/qyB5SRYcks86nsgTsIwCDyi5YNmE0EyXBllZETgWE3ep49Y1Vbgp/V3DwW/glkzrf3cmA=;oPw7csu8y74KR6EAXup2eA=="
 ---

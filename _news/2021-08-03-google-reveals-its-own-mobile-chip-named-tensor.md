@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "All you need to know about Tensor, Google’s own processor"
+    excerpt: "Ivan covers Big Tech, India, policy, AI, security ... On Device API to power language-based features, including composing a message through voice and transcription and translation of audio ..."
+    publishedDateTime: 2021-08-03T09:20:00Z
+    webUrl: "https://thenextweb.com/news/google-tensor-chip-ai-image-language-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FGoogle-Tensor.jpg&signature=13dd63619ecf795d416b14d139b34c28"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
     excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, a"
     publishedDateTime: 2021-08-02T23:03:00Z

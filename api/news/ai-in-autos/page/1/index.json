@@ -459,6 +459,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
+      "title": "Beijing permits self-driving vehicle testing on expressways",
+      "excerpt": "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/international/40003968",
+      "originalUrl": "https://www.nationthailand.com/international/40003968",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/uploads/images/md/2021/07/nWtwpDxGVIjgbZ76B1Uo.jpg",
+          "width": 570,
+          "height": 321,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-tesla-ai-day-to-be-held-on-august-19-says-elon-musk.md",
       "title": "Tesla AI Day To Be Held On August 19, says Elon Musk",
       "excerpt": "Tesla is having an event called Tesla AI Day on August 19, company CEO Elon Musk has announced. Tesla had a Tesla Autonomy Day in 2019, and Tesla Battery Day in 2020, but it never had an event solely dedicated to artificial intelligence.",
@@ -489,6 +532,49 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals.md",
+      "title": "TuSimple's Self-Driving Trucks to Use Ryder Sites as Terminals",
+      "excerpt": "Self-driving truck technology company TuSimple Holdings Inc said on Thursday its trucks will use truck leasing and rental company Ryder System Inc's maintenance sites as terminals to help it expand its U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-07-29/tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-07-29/tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1314,92 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445822-units-by-2030-at-a-cagr-of-1368.md",
-      "title": "The robotaxi market is projected to grow from 617 units in 2021 to reach 1445,822 units by 2030, at a CAGR of 136.8%",
-      "excerpt": "Reportlinker.com announces the release of the report \"Robotaxi Market by Application, Level of Autonomy, Vehicle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22098016",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22098016",
-      "publishedDateTime": "2021-07-22T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

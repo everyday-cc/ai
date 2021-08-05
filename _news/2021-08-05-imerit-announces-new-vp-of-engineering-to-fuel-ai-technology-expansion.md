@@ -31,7 +31,7 @@ related:
   - title: "Insilico Medicine Announces the Preclinical Candidate for Kidney Fibrosis Discovered Using End-to-End Artificial Intelligence Engine"
     excerpt: "Insilico Medicine, a global company specializing in the applications of the next-generation machine learning technologies for drug discovery and development, announced today that its AI-powered drug discovery platform had delivered the preclinical candidate (\"PCC\") for kidney fibrosis."
     publishedDateTime: 2021-08-04T10:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688156"
+    webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688179"
     type: article
     provider:
       name: Business Insider

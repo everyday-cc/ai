@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
-publishedDateTime: 2021-08-04T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+excerpt: "Today, California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP (FSML) announced the successful adoption of Foundation AI's SaaS-based offering,"
+publishedDateTime: 2021-08-04T12:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-1030689272"
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-1030689272"
 type: article
-quality: 12
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
-    width: 900
-    height: 471
-    isCached: true
 
 related:
   - title: "Argo AI will now provide free rides in California in its autonomous vehicles"
@@ -84,6 +82,6 @@ related:
         height: 818
         isCached: true
 
-secured: "Kc+cQ2cR0tWcHlQSvl1psJygoeU26IK8XoaJr+wON6Q5Pd272qETPdxvsObR6KAcIu+YzdCPski1knPdXjqrlswaOoU8tuTnIPbzCoEIL1XYesYMHJA5P/yrc7T7a0fXmw5vPtjMRXGuVXyspNrR1deGFIXntFgvFRbNbYqNqagVYGOKlvr+Vf8sPJ1mwhNhXOsRuRsvLJ2UvFQn+wiWcezNRfh7hfCrfmb75NqCPOzyfBZ13VhBEDIcbZwRXx5fCz3rL2/Tkl35hP77Uw12YwNmB1iktMT4xDTfHX/23NbcIfF6XCd9rjryhIaqwQELnXfQXk1jGQB1pGkPZESBOMGqKzrKewW33EB2RmA4zSTFbFNGTQm3i8sFd0L0RP+/Cc6kGcQ1cj9I82vMnIxt/6wNNZari0olRnj9IEaqkeFKybS83Fm0ZI812QZeH9U7nA2TUH/VkrKrL3JtNe20tP4PUmEsJb5xP5pwYVeTap/NgWSsNECFJoEOhTnV3YqKCOwBpUuqeIscuhBkSTvtiw==;vb4jCSsvmjwowmWpxtbIrA=="
+secured: "eQtJtpS92T4Hl5I2161wAbMUWvFGW9O4AsJo+e5UjZyYMgPRxugVVU9GGyretFABQ7WK59YhBfsrJcjAmwHOITv2ebtzvmEulmYswpVa4louWBcSx1ECgCLOe0n+L4i5LezTxEhe34NR3PyZ8/c2V4rrsxv6+qJWWpUZ4NQB6Ac/h++Xnqszn9v0AAcqBF/i4zVxkfMfCKo4W6Xhu8hqb8PM1fXDf4Wkv5wlSdSfGIw6P8Rlcx/Ehj65M16Rg8eFnJOKlLhleUi0hKuLN9ovICslsEhFNw+RQ3VxNsim/BykqlbanPfKARSyRhU51b59xZpTGGLGmikpUkcs99t0h14Efwdb8j9pDFaae32ObEg=;y1VQW8uGRPWTUiuvdFDEWw=="
 ---
 

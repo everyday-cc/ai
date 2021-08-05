@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-05T01:01:00Z
 originalUrl: "https://www.wamda.com/2021/08/ai-work-historical-data"
 webUrl: "https://www.wamda.com/2021/08/ai-work-historical-data"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.wamda.com/feature-images/970da2cfb249e39.png"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "+nLnlEiHtXTtbmJLkceXLJDNRqdJYu7I8RTckWWHj+pK2Ns3gpbXwVbK/D4PGP8/x0yIHtF8iVCWB8YEV3WVQTb/XJcgV0BjbQHl+NysCnWMi+xkthhQxX5QhvM4OHpCWm1EtTwFttsVkmZRFAx+fsObgTOTmPaY5SzOE3YLHSyt/o7Cf5cZkw/Z2noAnEk4eDaDXnOD5GjHXDl6PSsBvggRraia8llLUMZLhq5UuKDuS24vNQnsNuUKMgdWBAZHKv7TOw4dBfS2fDR0MGSHzVQAZLGhM8y8dEBk/FitF7jnm5TbBW2KLYGdAfmFRzLfPVSWZAqeNOqtGpw1GZi/7FAP+EXdZe5YUTGo8JEpmU8=;AhmBVKkkD6QFw8sJEFSRtw=="
+secured: "6ogIeYNBprfyhLBRG45KNjne9b8NdtAb/VzfFX1HKAxX+IOPYcWYJ/YjdSPY4y1Slp65BI9JO8u58Y51K98CgiLWXXz/o6/c72BFiEHh+vguBqNK0eRPG4/muqW5vpC/Qa6jklz9tlz2F+HGdX0adFySZHEI3PX7dubnXbZAwYqSHD/SbnUi5XWd/iUROQ4u6IBnQWqSHuWjUgaVdvlnvt/mbsR4An9zfaAejT/viAXeL1Bl9WvVqBOwL5CabQXVGJ7FgRySmfs5IX5r4vfAR2tEM93ytlkD2VEaPbt6o+Zez0sNmaF682AyfZZVmBmkvChUC84Ep3TexBHmKG155Juk408QQfPoU0b7JLu84/UdZSA8mxtz4pFWZiDg5CeHz5sTt3WA3smlEdia9QpteINHwP2SbLXlPj+j/A0ohVvumDv2a/ORcz4ETvNLeEECvHiIUqAo5hT/NyE2V+w15JhfNt+FgQb/SRjkHlJsObReXq7AmyE8zxs5apUcVAsCSivYUFkoI/FyrCJSqRutdg==;c/AoeNiEIbm/DYhoITksoA=="
 ---
 

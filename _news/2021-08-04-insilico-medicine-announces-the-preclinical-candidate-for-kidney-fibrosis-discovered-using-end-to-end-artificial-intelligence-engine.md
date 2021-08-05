@@ -3,8 +3,8 @@ category: news
 title: "Insilico Medicine Announces the Preclinical Candidate for Kidney Fibrosis Discovered Using End-to-End Artificial Intelligence Engine"
 excerpt: "Insilico Medicine, a global company specializing in the applications of the next-generation machine learning technologies for drug discovery and development, announced today that its AI-powered drug discovery platform had delivered the preclinical candidate (\"PCC\") for kidney fibrosis."
 publishedDateTime: 2021-08-04T10:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688156"
-webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688156"
+originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688179"
+webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-the-preclinical-candidate-for-kidney-fibrosis-discovered-using-end-to-end-artificial-intelligence-engine-1030688179"
 type: article
 quality: 36
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 283
         isCached: true
 
-secured: "cK+vk3TZ9eCVkIChPmODi1ZdUGvZEQ3IStF+KYOxm1qk50+Q89QPFOr+W4jh8PAjM9eCDWIuDt5lhafY9Z7H3lr7aXq8CDIMjLnlDZB+IsdCFA+xC3SN25SgVFj77IgMtfYFrtesUEsdYGau2gMzmtXFbs1t4VBRdREd5oba54dkqqHJ1UM221T3XkyKEbwezdZPKa/tPnzTOO8UpExeA3IMKezhrN1z+JoaCbboVf74U9AOaXCYYSg2eLbEwBKxXW4Zz7kFzgAcG6q3iqtTLv3ilwxmIBTwcsgvqzIvpDL5jV29rj7t5W2sHBFCu/Wm+fTYdCwZhj6HaBLSXrLzySdeZuCo7tEk0YZCaFL/aUI=;9xLiw/oyHAOD9gP2gk5WfQ=="
+secured: "J40awG7FDWOpx+VBm6lR3RtjpWCR4QzudvxQmd+uYsoQU69Hr0l+XBzdGeh24ldg3KUeYycpKE7YbxnokRjdZstxFBU3rY0C4zDrxoLgPyPjXwH7u/8kIueWV2gMoRriQ+9NmDxy/n/7IHIbt1obu3W+Jh1SpPogzRZWDjUVp5/DXHGjb+TnVjh8ntN+kp/H1i3M0CxdWg9/LKj/vC7P2tKsYmzlpJTRPAUvqPMb2/8J2fjpG2TP7ydxQ3WiD2q+jKW4CGVBqS8VbNZhzschtVd+f/i7fKxahowlFmbC5SlNsiNLQt3LpMI4tdK7LQV75TKiSSS8dsaObnLFfLe0sCnJMHdz709erbvuofpTwUI=;JkCSo590MlJq0XmOqnOK2A=="
 ---
 

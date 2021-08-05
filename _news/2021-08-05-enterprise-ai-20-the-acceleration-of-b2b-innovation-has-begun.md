@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 839
         isCached: true
+  - title: "Enterprise AI 2.0: The acceleration of B2B AI innovation has begun"
+    excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
+    publishedDateTime: 2021-08-04T18:17:00Z
+    webUrl: "https://techcrunch.com/2021/08/04/enterprise-ai-2-0-the-acceleration-of-b2b-innovation-has-begun/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=743"
+        width: 743
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence (AI) Innovation Summit"
     excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
     publishedDateTime: 2021-08-04T20:50:00Z

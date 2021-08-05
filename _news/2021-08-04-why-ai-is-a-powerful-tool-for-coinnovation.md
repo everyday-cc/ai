@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Enterprise AI 2.0: The acceleration of B2B AI innovation has begun"
+    excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
+    publishedDateTime: 2021-08-04T18:17:00Z
+    webUrl: "https://techcrunch.com/2021/08/04/enterprise-ai-2-0-the-acceleration-of-b2b-innovation-has-begun/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=743"
+        width: 743
+        height: 400
+        isCached: true
   - title: "Enterprise AI 2.0: the acceleration of B2B innovation has begun"
     excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
     publishedDateTime: 2021-08-04T18:17:00Z

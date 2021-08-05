@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 598
         isCached: true
+  - title: "All you need to know about Tensor, Google’s own processor"
+    excerpt: "Ivan covers Big Tech, India, policy, AI, security ... On Device API to power language-based features, including composing a message through voice and transcription and translation of audio ..."
+    publishedDateTime: 2021-08-03T09:20:00Z
+    webUrl: "https://thenextweb.com/news/google-tensor-chip-ai-image-language-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FGoogle-Tensor.jpg&signature=13dd63619ecf795d416b14d139b34c28"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
     excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, a"
     publishedDateTime: 2021-08-02T23:03:00Z
@@ -320,6 +334,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "rqMN9GDnlSpuYcdyvbaMT3BBUp0k2UnWjiNn4lOCkQ6l3HsWsyz42PRTx2c2Zz5bQp7wPsoZv2G64ByQrfZ7x90Ku47C2KXrxbnMEFMlcubSjQKlJ57DnZMj3/YuOmFVgvH7zK17MPqpLWZdu30yUGpQvn0lCvKoZ0ZfZXqMTVcyxlaIGAEh+TSOzYYga1gYBdxqhUPU6qHhCyV439nBAcuj7gNdJM8sgMH/HYNaRv8e1GyiH8U7t2ic6mYVRZqrnN3qAffVeej9e1hKzOzMFQzkni8xvhAABgs3pj+yhl6uPz12LXNwreZYvdYsayQ2bGkbC4V/DKTae5PUpNFpuABGwCb3JGnunBXkaQgYycM=;hT4bDRKMSMFcPgK5n+NScw=="
+secured: "4rkk5/3/Wn6ftnjNF2xDhXSBUoRtvAMu2ZxBofZDSFags7yvkSK1Ox/y+NmmavaTBCFqmjcQDlLRCIHpQ5BHe2ue/IlmBO/5AH7MhYfcLlUVt4/g/xE8jbJDJHRPxDSGamXpaLpmOypstgic93bUrlCI1PE6+AUhJtn8PL2lF0CPXoF7OMpnXJRE+4rLazbiqsYwb5Lr2Jsk7OLxeWViDby7YSuCXLsRsGCi1nOBIkXHxeTekIWlAnKspChRxI8xB9EPWGmqnesVQ8JGRD+2wPl4QfGCEgM3wavSs895S3MvHExN4cepbkk5lca0JHUBsNdhE+/aV4cs3NO0jbkj24qfwEDuVrlgCc3OW8Ob0bnhrnSVd8ytZLwrw6PYUR0lKufQ6uX7mh/+Nru9Q9x4zzJoGlVryGGYAgfHLOXU13Ri8gxVU5YeDSu2DMpHP9oq/gImBj0dFRynX+1Ku32We1sLKRK1OXkMjmeiU43twZeIwz09s59xZ2I3UeZXksGjJiXRr7IzhLIspj3OdQqbBA==;0byhWvyH6ijkaBefNUKbBg=="
 ---
 
