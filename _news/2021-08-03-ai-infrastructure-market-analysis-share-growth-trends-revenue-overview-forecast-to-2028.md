@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chinese smart city to put AI in charge"
+    excerpt: "A world of fresh thinking. Leading tech experts warn about the future that's being created with unregulated artificial intelligence. The Elamites attached great spiritual importance to mountains. How many people can a 1km long church host? How a court case revealed the shocking way the US government was still manipulating residential segregation. How Putin 'dreamed of being the Russian version of James Bond'. How one of the most haunting images found among cave paintings was created The African-British slave trade history was not only about slaves but the golden wealth of Africa. Warm temperatures are turning almost all green turtles' offspring into females, risking their extinction. Rising sea levels are having a dramatic effect on local communities at the Solomon Islands."
+    publishedDateTime: 2021-08-05T22:44:00Z
+    webUrl: "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ychef.files.bbci.co.uk/1376x774/p09rfz6s.jpg"
+        width: 1376
+        height: 774
+        isCached: true
 
 secured: "wwSo7S7iYJGFmN+T2RAms3wbMyA6WuT1dpizLOtUtQ/e+aqI0TsE/a5RJmoZXDOeoiq6MoG+A1j5VBoKj8sW1y1VnWJfhJUNehK6UDXeuyexvRWB/PwL8BSYwGx//bINDZucqxXK0VNYsgvI3zY+Q0jRkugHZeR9AfFKYLDP5pCTKUZLhYmhEw3ioTh0tkhY9JXsRx5q+ycegAXSYeravyAnyj7v1ssPjot5QRChm89xW5pemWs4YWUl/t7e26JlcB1/JSHxSZBwUfnZuCaApM3Y8BO2xEfV9Na+x66DZkfgmHVVdyIJeDrSzZkEBGeKWZlE5UsAW+eVFmHsVN/jkJrGYSqojce6Gn+S6exNzMc=;UIGqaDCkMYYOgaZNWId1IA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.computerworld.com/article/3627406/covid-19-slows-down-
 webUrl: "https://www.computerworld.com/article/3627406/covid-19-slows-down-machine-learning-adoption-in-australia.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Australia Central region added to Azure HDInsight"
+    excerpt: "Microsoft has added the Australian Central region to its expansion of the general availability of its Azure HDInsight service."
+    publishedDateTime: 2021-08-05T23:13:00Z
+    webUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-to-azure-hdinsight/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_76295649-3.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Israeli startup lands huge 3D mapping deal with Australia"
+    excerpt: "GeoX will map 18 million buildings throughout the Australian continent using satellite imagery, AI and other patented technologies."
+    publishedDateTime: 2021-08-02T09:54:00Z
+    webUrl: "https://www.israel21c.org/israeli-startup-lands-huge-3d-mapping-deal-with-australia/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 22
+    images:
+      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/geox.jpg"
+        width: 1601
+        height: 900
+        isCached: true
 
 secured: "UaFVxMJfoX2i8P20e63cEVSG/LW/tNK8oMnauIK1q69H98zSEdk7Y3p3ELTEdNHqgT9VdE3wDJbSAVKm53K+p8PLF8mis4t9bKGa2fLIncQe4imvcJ0ifKmsCXyYiUooN9hQAWR1n74foptFai2hZRaJ2romOXiOt0PFzlxwDVLsWdXE5H7DzK5w59GCYMZpU568xvLNHmjd98A/8/y1xgAKHWuWuvp2F24tHBRE14A1xUWvJDmLt4DdWeKo8DwBd0XTk9cM+eeWSkP4FQ91HX2+9R20cjclYRk8k0Wu3OCFsiE/wF62EwSINNOGSlIIKM4Tpc1X6/sYmMQrfuGe9ubtSNtJNZJhhD5IOQxM+Iw=;Cai8OykEU59Agm3f9j+ZSg=="
 ---

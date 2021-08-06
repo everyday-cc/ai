@@ -2,17 +2,17 @@
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+publishedDateTime: 2021-08-04T12:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 667
         isCached: true
 
-secured: "0II7RJ8ZCS69O6mqBq50WVENUlC9NiR0jIkmp/UB1ZJmNEbhnmn1rSHZxy+eQuqDerCXcPmyUsI7otETLM9JfhmZ+eihJgv9EwvGoq7Vz/OKCWQWPlvfK0wYPbudjdTacom0cqtM8EnphfftDGW5HMm+SaQVAZUuahAaUPLbQgK/2jLakir5xNBoyaoy++nl9kmUzx6clo2BgtE3akMb5Cax62pKcdTAdc9VQ1ormemL7vb6vtC6fcYOYJIpTpsknE/Ezwoe5i026Nn8HcwJ07w6rfyc1Ah17r4D8ZACSceS0J8gPW4b0EbMMEMCKRN0Q5Na0+sxSebmhOGZPlrdqzEulI0VyFjrSgb7vZ8zOtw=;QEFNh15XyiWN6Ku2CGHeBQ=="
+secured: "9UMI2j75NmASWw2z5BrtQNp/ul25IVX36bWUTKFSPvRpiNkuz1aVX+Am8wGmHDzilT5QU77GCg/z0DfN5sEqAsidp8oxs9Loj2bahw5Brh2x9zw+rj2/SEsxWlQna/Kb7O77uti0YIXJI2qF9D3ei9+/pjbeO8n1qVTNPeiU6XqRm/LaMh+vfDO4e7Ye++79HnwM5qaGe50dHkI/tqLYqWc/lIoF/zzXFooMgz3GVugje9OzhIA/kjMB+JsVDC3Pa/mQTk/zY+6RpU0cV7Pb1Q9cd0nvHD4ekLfWXSPWog3jAYAoC2RG7QVh98OiCKkTIW/9Tmx1jCDP8eVsGqzX9UBKws6NT9xgJYuIeBbF96s=;sIO8LbdN+gk857pDiZwF2A=="
 ---
 

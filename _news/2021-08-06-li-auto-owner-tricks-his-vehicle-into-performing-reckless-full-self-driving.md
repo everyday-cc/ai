@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:

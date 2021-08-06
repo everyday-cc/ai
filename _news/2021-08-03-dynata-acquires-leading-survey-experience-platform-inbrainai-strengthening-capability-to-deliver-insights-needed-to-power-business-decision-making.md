@@ -42,6 +42,17 @@ related:
         width: 800
         height: 445
         isCached: true
+  - title: "Conversational AI and Customer Experience Automation Platform yellow.ai Secures $78M+ via Series C led by Westbridge Capital, Others"
+    excerpt: "Conversational AI and customer experience automation platform yellow.ai secures $78M+ via Series C led by Westbridge Capital, others."
+    publishedDateTime: 2021-08-05T22:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
 
 secured: "MQKDmupNYXBBhT7wrT6IglBI/pzMBCNn/KOks2I3jyrdadc1sFnrl1kqbNM+9cuF6jotECC9pxTG+Ix4usouW1UscASkummJwrGLfp4daOxkBXVKRt0TzzPN6n1GLnYpYLYJj1SCxo2CXtzHzBMoyUanUrzxaJbN/GFngf/jGS92RFKajYbJzsC9oM7PY7UOlfbXh0bPSdYs9f9sQ5za3fJs9vv5iH3mIucExuzUuTsKIzuBz7gDmV8Ruu+w7HX+6ETkWsVpEnslZY+M4vYjypR+wi1cEOBafwJYAJzzsRWJ9t7aLUi9A2X5sm7PpJ2mvP1KvChtjZM37uSVh9dr2pWJJgcte06SiU6R8upwCNM=;YCsviw4lyqwEWkMAwaYzFA=="
 ---

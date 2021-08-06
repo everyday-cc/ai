@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Artificial intelligence algorithm developed to assess metastatic potential in skin cancers"
+    excerpt: "Using artificial intelligence (AI), researchers from UT Southwestern have developed a way to accurately predict which skin cancers are highly metastatic. The findings, published as the July cover article of Cell Systems,"
+    publishedDateTime: 2021-08-05T22:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924645"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 27
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d2ab3885-243d-4e44-a126-211e2beee6dd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 431
+        isCached: true
 
 secured: "rDs2awZGwJgLDv5Zt9yhNkGch+K3lRV69C24xH9dNRGjzLFT0tn16FG4hgfq1tqMj9Q7dax/vfMTVd2v/79X40CzcJun/JSSHuZsdFRDE6cqTsSNp7z5sjihdi6WkfKdGDpdWfsYIBcMoZO6c0seim8Fc0UjCnGIBfScdtr1nsRunBt4p6XdDRcUL9QGnMWYouClKrszHDKc6+tzOl4IpY6zAqFloejZ3m1pOOk1atCLFPdmz5JVZm3ikD/yJDYwopmlB1365Cx6J4mE5we+JrS7OTL6IMwAm7zKXNIyitQoUvaF0bj1qsCFQxYzD3hHwzaFAE1FKfwweTxoF0ZJXfqTh4jssAFTbIyP8tqXj5YR1EERuUrajhUI2fZ3lw562CFdfeeiD9M0K4S6dB8v3ZTBMTIHQBKKXbpHKdyhQ4C5DVbXeS6JyO0Og0yL1eD4fJB4HN32jZb7KcV085fLQM2MMk9YxiGzQVZMd7juHnirRV/y+H3APuXe2tfS0cK7QTvY9bVvoS91Cc4hw4CFtw==;ZGtpftW3dGqCnKNDWBJivg=="
 ---

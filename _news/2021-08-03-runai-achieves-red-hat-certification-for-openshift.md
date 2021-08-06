@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Run:AI Achieves Red Hat Certification for OpenShift"
+    excerpt: "AI, creator of the first cloud-native compute orchestration platform for AI, announced today the completion of certification for their"
+    publishedDateTime: 2021-08-03T18:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/runai-achieves-red-hat-certification-for-openshift-301346894.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+
 secured: "DWIBtEdE8DVSGhlCq26X7ilpYSitd1hKxTi01PWlsclyBbl8zmrbCMdJ6oTFrJViZllsmARzLtAbIwcx3AQ1i4KGucJNCCyCkfoRyykRwlTmfsWGJvlt6r9KlJtUzxD6/OVj8+zmOzDPkcBcQtEYvoqNdJdMzMd8GwH2fyBVUAguSZQB0EjPo6i/G1cLY89sv4p/MS9L5nhdOFwsi0IjUwkW3l33f4nFaMSX54pcnFDWk7Edlryd+4f1yLWXB5u1cSjxtAinSkc9sxVZ18UTD7wPe/2VKyLHXv4UpWcUXsGpsbd7/nr7AU/wtjoXSajRUPBeVfB2FjBnGqoAPRYMj5cAxhQ+3+aGM2OIgMFQDeE=;NXDDPeo3JEMSERT1Vw29KQ=="
 ---
 

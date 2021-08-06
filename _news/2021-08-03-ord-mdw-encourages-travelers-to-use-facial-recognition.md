@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Biometrics for travel: Elenium, SITA deployments, CBP encourages facial recognition"
+    excerpt: "Deployments of biometrics solutions to improve the passenger experience - Elenium partners with Darwin International to deploy its VYGR end-to-end solution."
+    publishedDateTime: 2021-08-05T21:57:00Z
+    webUrl: "https://www.biometricupdate.com/202108/biometrics-for-travel-elenium-sita-deployments-cbp-encourages-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "gB+ed69+NSY1ygfoN7OhHS4PHIlH15i7Dc+XFl/VfylVgol0rfhj//FL051F54/6dRY+Z8tCBUaXPOuzgWXD/2jPFmoeFVKBLjLhHFAvAhnOBtZBEzP6PBfgNQ/3O+g3LhmFq4fSgWjLDd/+U+yo7cP33rJNH7NG3XWUqNIOnDAz1tPN2sk1K2nrLLoQb4a5hnvTZbTFKPlyim5i/6PDXm76Mo3vM8vb+Uz/su3hahSu0mJisWUPEQtY6A0QjCRSOnB3PDs6fCLvwUqElhmfPWmDtE1aE35wJp3iNSK6rs/i9S278LvNF9h4nUVqELuYqPAjL1MKhEGEkePnvoL7f7lYQWLXTa2wO5+Y3nlyNqo=;7WQeuRVpBvG4ijkt32B0xg=="
 ---

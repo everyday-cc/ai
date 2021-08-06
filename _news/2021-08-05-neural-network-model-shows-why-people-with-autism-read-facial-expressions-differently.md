@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Why People With Autism Read Facial Expressions Differently"
+    excerpt: "Artificial neural networks help researchers uncover new clues as to why people on the autism spectrum have trouble interpreting facial expressions."
+    publishedDateTime: 2021-08-05T20:53:00Z
+    webUrl: "https://neurosciencenews.com/aans-asd-facial-expression-19065/"
+    ampWebUrl: "https://neurosciencenews.com/aans-asd-facial-expression-19065/amp/"
+    cdnAmpWebUrl: "https://neurosciencenews-com.cdn.ampproject.org/c/s/neurosciencenews.com/aans-asd-facial-expression-19065/amp/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 44
+    images:
+      - url: "https://neurosciencenews.com/files/2021/08/asd-face-reading-neurosciencces.jpg"
+        width: 770
+        height: 534
         isCached: true
   - title: "Neural network model shows why people with autism read facial expressions differently"
     excerpt: "People with autism spectrum disorder interpret facial expressions differently. Researchers have revealed more about how this comes to be. They induced abnormalities into a neural network model to explore the effects on the brain's learning development."

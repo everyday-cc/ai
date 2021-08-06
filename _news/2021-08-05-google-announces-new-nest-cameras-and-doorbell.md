@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nest has a new doorbell, battery-powered camera, smart floodlight, and the cheapest Nest Cam to date"
+    excerpt: "Though the company leaked it a bit early, the new Nest lineup of smart security cameras is now official and covers a wide spread of options, from new"
+    publishedDateTime: 2021-08-05T13:00:00Z
+    webUrl: "https://www.androidpolice.com/2021/08/05/nest-has-a-new-doorbell-battery-powered-camera-smart-floodlight-and-the-cheapest-nest-cam-to-date/"
+    ampWebUrl: "https://www.androidpolice.com/2021/08/05/nest-has-a-new-doorbell-battery-powered-camera-smart-floodlight-and-the-cheapest-nest-cam-to-date/?amp"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/2021/08/05/nest-has-a-new-doorbell-battery-powered-camera-smart-floodlight-and-the-cheapest-nest-cam-to-date/?amp"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 29
+    images:
+      - url: "https://www.androidpolice.com/wp-content/uploads/2021/08/04/New-Nest-Cameras-Android-Police_MfAPKuQJXBh8-668x439.png"
+        width: 668
+        height: 439
+        isCached: true
 
 secured: "hN2TemxDclpTvwqnB4hMXYd1ePK0NgP8Dmdqv1Uf/CoOpOx5qFsXQvgwaG4WhvlnetjmvyyUyjiHMcvKIXMdXxNYXHSKQuZfelkzuROurAgU58a9kat1/9ZQs3UaKat/LXVuRFg3tnUlspwpIUCe5rgHVdzqm21v5pRpesA6qt/w9v8RKFlIKCCZDlI6KZ1Sd/EACUlvhy0sNKyjVbZ/IhRqwcav0BndlUyp2zAPIyqBgQueFdF/vTduG2iFhO+dYR0V2OGcGxTRJrZttVtk87EfeoddBZML9rJhrF6nI0IIAZIbqsnpWk+8NrpL3lz6xDBJyGr6Ed/8HEkcUemKrlBX+u/IoxxkvYVTbK25P2XI/JYQ6VrZV5BQwLkDU1rW1tZT9dNmvKclA2RvOBAgQdu58hqtpDrv3/7yuZ2rgFbd7PoCSzHwxwa33WrLkRcXkrMr+UNyLS7NvYrIBq28q5uBfyqo5TmSHcYLEhB017fMVnGEfZQGf8iFxA45jokhdfk0ou2BT8Hx28mSazpKYg==;51slqtO7VH/EHOp6XVF/iw=="
 ---

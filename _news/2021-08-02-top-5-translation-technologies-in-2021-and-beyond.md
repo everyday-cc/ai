@@ -27,12 +27,12 @@ images:
 related:
   - title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
     excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-    publishedDateTime: 2021-08-04T12:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+    publishedDateTime: 2021-08-04T12:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "HgReCsoEC5EbbOC6ky4z6mOeHH6XMsS8RunBW2rQn2h60C47pFXQo8uiZSiy7G8cNwj1Y6Xm/AD1vIB2EShyN8PH5vaOvLireGqyIrR36giDfZCTXo+8LUIl3VJoudbm5xMXietZfUbjRkyIeCfYLFOC0F5X//D2NM54N4vPa9o1vmvIGu3buXdXqkrw+FfxCAE0rhzrkmWloqpD0Pzq4CCb/QcWw8UpFnfTgoMK5KtlfNneQSEIjrg06wC/lT0zMfjqjswYtIQEvirYIK8aqzMJ0+tIPzyu5HBlxKIUX6krxp2PkEyG6UIS0AR6k2oIhx4fbbcnZEyMc8zCGA4sp8kg2eFKmw5u1Jw50iUJ5dA=;eAL8IkTbDK3hhfYN6POvEA=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Conversational AI and Customer Experience Automation Platform yellow.ai Secures $78M+ via Series C led by Westbridge Capital, Others"
+    excerpt: "Conversational AI and customer experience automation platform yellow.ai secures $78M+ via Series C led by Westbridge Capital, others."
+    publishedDateTime: 2021-08-05T22:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178763-conversational-ai-and-customer-experience-automation-platform-yellow-ai-secures-78m-via-series-c-led-by-westbridge-capital-others/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 8
 
 secured: "UYWBFzZr8XfC+QF6Y7G0IujjrRWbJI8T1h7pPdmSRYLKY8gez9/eLxfnqRZcq8CiML5PTkQGnHIoSXFzyQuI2y7G4VpeNJsiLrO3ghapOWPa+xGlxiLaVfM79GQOXlehLL/yNyUXolimCz4xe2H4sGeW56Ji6215YnSsuw4mUw30W2kFbA6g2UWJYilQM9HBLPoBfdju68ozWPAV/9y2pz4cZyIPa85DDdbEQRtmwhnTaWrNidpXUJgwBqJEysXFn+z5DyoCROVu8ayW7bRk2VlfQcG1nwRghxvc3cIqE4NaWHwWz70P72+8JXpEHJAydVr6oNNPuu3nq+m2qoJFwnKD/DIdkvBY9syJOOv9dm8=;S4AZDjfENFke5vlV0R//BA=="
 ---
