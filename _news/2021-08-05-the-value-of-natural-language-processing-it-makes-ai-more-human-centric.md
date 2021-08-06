@@ -2,12 +2,12 @@
 category: news
 title: "The value of natural language processing? It makes AI more human centric"
 excerpt: "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience."
-publishedDateTime: 2021-08-05T11:45:00Z
-originalUrl: "https://www.zdnet.com/index.php/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
-webUrl: "https://www.zdnet.com/index.php/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
+publishedDateTime: 2021-08-05T13:24:00Z
+originalUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
+webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
 type: article
 quality: 83
-heat: 83
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 578
     isCached: true
 
-secured: "btJvyjNU3V5lplRkOiKA3Fy6ioWMO2hxlmKfacIisHuKRywsQ2w0CNjC5xNwK+nTFNflwDV9+qOOFUd8AUnrJ/+LLqqXcHr9YzOjhMl0O+wW1jUaRo3EOydxhx/olc2dow51kLd/IwprAKLtlC7NTSKSX2U8NNJADN6KuvtbqQLpPiCJU3UuDwsC7ZafQ52bSaMBC3HHwSn/VkJQeAOpZGhGMmLn1ZC4fE4MF1EfStvxy0jOCyKphoWADtZ3Pk3+sAL8ze5Q8gvk0aC5A9G1qMmI8cecCC38NAo9GZFuoM+zIa28ssO8i1NOROm9iO+/49N8C2iMk/Zac90fSbVVvzjl3Cn6IrmB3HljA898tfo=;ljefuzfpofc9Kgvulajhxw=="
+secured: "UG78FJElqEd9SdUSOPVYVbnmB3hTjdwEcPnWw2oKv5yZqi82sHiEN1giU+3oopGRdOwunAPJFkiHyAN27zaC9I0zz0LplIiuIxLX9UulqEyEP9MM1qPSdkgL5r9ZjsNiaeR6/p051xUJno2eBdaRMOPt2vqn7nowTJK5tN1i0AIwOYs66nb+CcRTTnDQHstw7ifynkkpAVHXHzzarpS/MVXCLcRsZY3gMLQZr0ZSg1PwG1Dllx1isZ99l9/XNqyXJozLKuuysgrR1cJqCmeDJgH5NiMC1qhTaBoSvlvsWPNz7BjfXUltFL/2zq8YacK87z6QpKqUL773Dhpdo+p0SGDZzpwcEn31jsVXY/CnxOE=;cxWvPQqMh3crMSw4Obq5pw=="
 ---
 

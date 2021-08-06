@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 569
         isCached: true
+  - title: "Fintech startup Zeni raises $34 million from Elevation Capital, others"
+    excerpt: "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March."
+    publishedDateTime: 2021-08-06T05:10:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI-Powered Finance Concierge Zeni Raises $34M Series B"
     excerpt: "AI-powered finance concierge Zeni has raised a $34 million Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora. Existing investors Saama Capital,"
     publishedDateTime: 2021-08-04T20:13:00Z

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Connectivity After Covid-19: Why AI Disruption Is Here To Stay"
-    excerpt: "Covid-19 redefined connectivity and immersed us in an accelerated process of digitalization. We may ask ourselves if this process will be reversed or if it has put organizations on the path to an increasingly digital society."
-    publishedDateTime: 2021-08-01T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/esade/2021/08/01/connectivity-after-covid-19-why-ai-disruption-is-here-to-stay/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Natural Language Processing Helps Assess COVID-19 Complications"
     excerpt: "To elevate the relationship between comorbidities and complications regarding COVID-19 infections, researchers are using natural learning processing to sift through EHRs."
     publishedDateTime: 2021-08-04T13:30:00Z
@@ -48,20 +39,15 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Here’s why AI transforming banking matters more today"
-    excerpt: "As organizations have been accelerating their digitalization journeys in recent years, artificial intelligence (AI) is one of those disruptive"
-    publishedDateTime: 2021-08-03T15:38:00Z
-    webUrl: "https://techhq.com/2021/08/heres-why-ai-transforming-banking-matters-more-today/"
+  - title: "Florida hospitals face staffing worries amid Covid-19 surge"
+    excerpt: "Twelve Florida hospitals reported having a “critical staffing shortage” as of Monday, and another 15 hospitals reported that they expected critical shortages within the week."
+    publishedDateTime: 2021-08-05T11:46:00Z
+    webUrl: "https://www.bizjournals.com/tampabay/news/2021/08/05/florida-hospitals-face-staffing-worries.html"
     type: article
     provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 37
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/063_1180388971.jpg"
-        width: 1024
-        height: 682
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "ftH/+kOyTHgGC5I7YwVaIUWkETAZe4TgZjaHsoHeOKB2hreC4P0TAS5uF2ZucXBHE6pfHu4BVVfTcoN/IppYWT14LmPVz1XteRbYFrH3WQdaj8R6HkbqRxKN79lKxyHWEKcZN3B6e9IB6JhV8xM6hkrm96j56ttpLzpRJxUHO+XYkLNHWVCJ3SZogfDjbRZ3nHvUk+qMVWR525NptJ/2pTLV/DWBY04CAfxMVJpwLtDuyxej2jy99L0ywYLwQtc5D137qasZGfbG1N8nio/aaf/PSaRz7vTVrIDA02KzJDX1ikDyemZiHOAc4RGFTTqQTgLfEfLAKZ87kRuLOWoi4U2iW9Y10XLxNEsvxqMc2Ks=;oKvXXDWbyU3Z9er/wnutTA=="
 ---
