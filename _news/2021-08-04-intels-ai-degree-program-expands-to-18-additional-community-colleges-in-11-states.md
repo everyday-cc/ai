@@ -86,15 +86,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Top Trends Driving AI in Education"
-    excerpt: "The many benefits offered by AI technology are driving its demand in institutes and organizations. Increased government spending on upgrading the education sector should encourage the adoption of advanced devices and technologies to enhance the learning experiences for students."
-    publishedDateTime: 2021-08-02T01:29:00Z
-    webUrl: "https://www.eetindia.co.in/top-trends-driving-ai-in-education/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
   - title: "Intel partners with CNM for artificial intelligence workforce training program"
     excerpt: "The semiconductor giant recently partnered with 18 schools in 11 states with a plan to train students in AI-related skills, and Central New Mexico Community College is offering the program."
     publishedDateTime: 2021-08-04T22:20:00Z

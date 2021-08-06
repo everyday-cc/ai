@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/idemias-facial-recognition-
 webUrl: "https://www.biometricupdate.com/202108/idemias-facial-recognition-accuracy-confirmed-as-solution-maintains-top-ranking-in-nist-frvt"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test"
+    excerpt: "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99."
+    publishedDateTime: 2021-08-02T14:04:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Paravision ranked among top-five facial recognition providers in latest NIST test"
     excerpt: "Paravision was ranked among the top-five facial recognition providers globally and first in the U.S. in NIST’s latest FRVT 1:1 Verification report."
     publishedDateTime: 2021-08-06T14:58:00Z

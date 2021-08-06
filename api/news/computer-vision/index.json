@@ -340,6 +340,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-idemias-facial-recognition-algorithm-maintains-1-ranking-in-nists-frvt-test.md",
+      "title": "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test",
+      "excerpt": "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
       "title": "Researchers use AI to look for alien civilisations",
       "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
@@ -651,6 +694,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
+      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
+      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-chinas-supreme-court-sets-limits-on-facial-recognition.md",
       "title": "China’s supreme court sets limits on facial recognition",
       "excerpt": "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology.",
@@ -691,41 +787,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1309,58 +1370,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
-      "title": "Galaxy S10 5G update reportedly breaks face recognition",
-      "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/samsung-galaxy-s10-sg-30.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "publishedDateTime": "2021-07-25T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

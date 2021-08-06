@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
+      "title": "SenpAI.GG wants to be your AI-powered video game coach",
+      "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
+      "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Valorant.jpg?w=1024",
+          "width": 1024,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
+      "publishedDateTime": "2021-08-06T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
+      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
+      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
+          "width": 903,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T12:06:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-detect-anomalies-in-operation-metrics-using-dynatrace-and-amazon-lookout-for-metrics.md",
+      "title": "Detect anomalies in operation metrics using Dynatrace and Amazon Lookout for Metrics",
+      "excerpt": "Organizations of all sizes and across all industries gather and analyze metrics or key performance indicators (KPIs) to help their businesses run effectively and efficiently. Operational metrics are used to evaluate performance, compare results, and track relevant data to improve business outcomes. For",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-operation-metrics-using-dynatrace-and-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-operation-metrics-using-dynatrace-and-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4682-image001.png",
+          "width": 1069,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T11:20:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
+      "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
+      "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "publishedDateTime": "2021-08-06T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-mainframes-the-missing-link-to-ai-artificial-intelligence.md",
       "title": "Mainframes: The Missing Link To AI (Artificial Intelligence)?",
       "excerpt": "But the benefits of AI are too important to ignore. So what can be done? Well, one strategy is for leveraging cloud platforms outside of the mainframe environment. “New approaches to cloud migration replace the traditional ETL (extract,",
@@ -34,6 +241,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk.md",
+      "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
+      "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381765/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "publishedDateTime": "2021-08-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -963,238 +1221,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ai-and-data-mining-programming-languages-are-booming.md",
-      "title": "AI and data mining programming languages are \"booming\"",
-      "excerpt": "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
-      "publishedDateTime": "2021-08-05T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-riiid-to-present-artificial-intelligence-for-education-sessions-at-asugsv-2021-summit.md",
-      "title": "Riiid to present Artificial Intelligence for education sessions at ASU+GSV 2021 Summit",
-      "excerpt": "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the preeminent global education innovation conference to be held in San Diego on August 9-11.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589184/Riiid.jpg",
-          "width": 400,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa.md",
-      "title": "Academic City introduces a degree in Artificial Intelligence: first in Africa",
-      "excerpt": "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
-      "originalUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
-      "cdnAmpWebUrl": "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp",
-      "publishedDateTime": "2021-08-05T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business",
-        "domain": "thebftonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-neural-network-model-shows-why-people-with-autism-read-facial-expressions-differently.md",
-      "title": "Neural network model shows why people with autism read facial expressions differently",
-      "excerpt": "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/neural-network-model-s.jpg",
-          "width": 645,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp",
-      "publishedDateTime": "2021-08-05T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-knowles-releases-ai-enabled-tws-development-kit-with-premium-features.md",
-      "title": "Knowles Releases AI-Enabled TWS Development Kit with Premium Features",
-      "excerpt": "New TWS development kit shortens design cycle for OEMs and accelerates timeline to bring TWS products with advanced features to market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "originalUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twice.com/wp-content/uploads/2021/08/TWS-Development-Kit.png",
-          "width": 986,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "cdnAmpWebUrl": "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "publishedDateTime": "2021-08-05T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twice",
-        "domain": "twice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

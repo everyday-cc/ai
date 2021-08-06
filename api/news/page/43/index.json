@@ -2,6 +2,221 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-07-04-the-future-of-the-ai-based-enterprise.md",
+      "title": "The future of the AI-based enterprise",
+      "excerpt": "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
+      "originalUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
+      "publishedDateTime": "2021-07-04T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum.md",
+      "title": "Mobile Speech Recognition Software Market is Anticipated to Gain Moderate CAGR by 2027 | Amazon, VoiceVault, Pareteum",
+      "excerpt": "Critical factors that are responsible for bringing or hindering sales growth, as well as promising market openings, have been recognized via identification and quantification. This Mobile Speech Recognition Software market report furthermore anticipates the global market’s scope and revenue over the next 6 years.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum/",
+      "originalUrl": "https://manometcurrent.com/mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/Market-Monitor-Featured-Image-6.gif",
+          "width": 1050,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-04T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-healthcare-an-ideal-jumping-off-point-for-artificial-intelligence-president-of-mbzuai.md",
+      "title": "Healthcare an ideal jumping-off point for Artificial Intelligence: President of MBZUAI",
+      "excerpt": "ABU DHABI - Professor Eric Xing, President of the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), has said that healthcare is an \"ideal jumping-off point for Artificial Intelligence (AI) because it generates so much data\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Healthcare_an_ideal_jumpingoff_point_for_Artificial_Intelligence_President_of_MBZUAI-WAM20210704091733273/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210624063038PGNY.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20210704091733273/",
+      "publishedDateTime": "2021-07-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-meet-the-scientist-teaching-ai-to-police-human-speech.md",
+      "title": "Meet the Scientist Teaching AI to Police Human Speech",
+      "excerpt": "Facebook and Google have engineered artificial intelligence systems capable of understanding dozens of languages through the efforts of scientists like Alexis Conneau.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/253926-meet-the-scientist-teaching-ai-to-police-human-speech/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/253926-meet-the-scientist-teaching-ai-to-police-human-speech/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T20:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-04-ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic.md",
+      "title": "AI-powered therapy bots at workplace for employees during Covid pandemic",
+      "excerpt": "AI is better than humans at providing support, according to a study undertaken by Workplace Intelligence.  The future of work will be influenced by the past. Last year’s virus invasion changed everything for the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "originalUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/7/3/w600X390/robot.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/magazine/2021/jul/04/ai-powered-therapy-bots-at-workplace-for-employees-during-covid-pandemic-2324136.amp",
+      "publishedDateTime": "2021-07-03T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-israeli-firm-brings-ai-to-africas-fight-with-malaria.md",
       "title": "Israeli firm brings AI to Africa’s fight with malaria",
       "excerpt": "One of the world’s biggest prizes for innovation has gone to an app that aims to eliminate malaria — and the award will boost the fight against malaria in Sub-Saharan Africa. XPRIZE, an incentive competition geared towards solving some of humanity’s challenges,",
@@ -981,223 +1196,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
-      "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
-      "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
-      "originalUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202107/nlp%20perfcon%20hero.jpg?itok=RszSk-uo",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2021/07/ai-strategies-what-natural-language-processing-and-how-can-it-help-businesses-perfcon?amp",
-      "publishedDateTime": "2021-07-02T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems.md",
-      "title": "Adversa AI Red Team Introduces Technology for Ethical Hacking of Facial Recognition Systems",
-      "excerpt": "The Adversa AI Red Team has performed a proof-of-concept attack on PimEyes, the most popular and advanced public picture face search engine. FREMONT, CA: Adversa AI, a trusted AI research leader, has presented a novel attack method for AI facial recognition applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "originalUrl": "https://www.cioapplications.com/news/adversa-ai-red-team-introduces-technology-for-ethical-hacking-of-facial-recognition-systems--nid-8028.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/m2u1g450308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-02T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence.md",
-      "title": "Soon, it is going to be AI Vs AI battle in cybersecurity, fake news and defence",
-      "excerpt": "Applications of Artificial Intelligence technologies are showing their impact on society and are growing very fast. It is revolutionizing all industry verticals and social dimensions. With most AI tools available as open sources and",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/07/MEA-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/breaking-shackles/soon-it-is-going-to-be-ai-vs-ai-battle-in-cybersecurity-fake-news-and-defence/",
-      "publishedDateTime": "2021-07-02T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns.md",
-      "title": "Attackers use ‘offensive AI’ to create deepfakes for phishing campaigns",
-      "excerpt": "In a survey of organizations including Airbus and Huawei, respondents identify the top threats in AI-powered cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
-      "originalUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/02/attackers-use-offensive-ai-to-create-deepfakes-for-phishing-campaigns/amp/",
-      "publishedDateTime": "2021-07-02T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings.md",
-      "title": "Zebra (ZBRA) to Buy Fetch Robotics, Enhance Product Offerings",
-      "excerpt": "Zebra Technologies Corporation ZBRA recently announced its intention to buy Fetch Robotics, Inc., a leading developer of autonomous mobile robots (AMRs) for $290 million. It’s worth noting that Zebra already owns 5% of Fetch Robotics and the latest announcement is related to the acquisition of the remaining 95% of the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
-      "originalUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/zebra-zbra-to-buy-fetch-robotics-enhance-product-offerings-2021-07-02?amp",
-      "publishedDateTime": "2021-07-02T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

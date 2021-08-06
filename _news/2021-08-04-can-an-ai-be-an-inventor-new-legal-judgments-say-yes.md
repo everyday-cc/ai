@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 648
         height: 365
         isCached: true
-  - title: "Op-Ed: AI legally recognized as a patent inventor -Emerging status as a legal, real person is now in view"
-    excerpt: "Recognition of AI entity DABUS as an inventor is a gigantic, unsure, step into the legal status of artificial intelligence, and it’s a major future issue for the law."
-    publishedDateTime: 2021-08-02T01:50:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-legally-recognized-as-a-patent-inventor-emerging-status-as-a-legal-real-person-is-now-in-view/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "Y26rbw+wPDE1am55083tewL5l5ujIGN8xJNH8xlI+YG2UzHh0St6bt+khfflxOer21xjIrboru66bI0SNMGx2GiSo73s/9LNFPr9PMNymvHcM5sImG8sE5A/TfkKPhWrt4K3YTD+xDmE9wHxHZBI4R8iM9LLGXE7gpbIS704thB2aHHDxPU9L3y2JZiNjR0UefLlkoWVetGOFYBK28RBzjgLFKpQQSwKiHhUN1MNcsLACU5gvWJN+3R6JJUHQW/QEY9h5/K/T9Psk4iYzMs3SE7tSV5KUiPee4re3vATXaQLkHDV2PIazQmSO7Pd7PdeEPWYEATXoS2XPFpYnohhz7GKdVNJB/nttgBLzSXD5kY7PL4qe6gLKnrKPYZS+xCsPyEuFlzRdIClNMHdqaVztha6O9jVqJpJNt0lm//0qaiNnt2/L+HY4d1M3j7U1RGNQVkw+9upg4Pld2ra265/bKEeP170r0gX1f1112PJC0UH8B+koffPW0cCQT/Hc1ABA5sIJk6GGW++nInrfMRESA==;/9j5raXYMbzkX1pZYocgFg=="
 ---

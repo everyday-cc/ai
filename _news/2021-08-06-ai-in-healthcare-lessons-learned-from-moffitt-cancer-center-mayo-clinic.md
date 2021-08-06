@@ -85,15 +85,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "AI in healthcare: should we break the black box?"
-    excerpt: "But despite these promises, there are serious obstacles to deploying AI in clinical practice. Many of the AI models coming out of research fail to meet the transparency requirements of clinicians, patients and regulators."
-    publishedDateTime: 2021-08-02T01:07:00Z
-    webUrl: "https://www.eventbrite.sg/e/ai-in-healthcare-should-we-break-the-black-box-tickets-165522308681"
-    type: article
-    provider:
-      name: Eventbrite
-      domain: eventbrite.sg
-    quality: 34
 
 secured: "Mz0+KhZyYJkvx1NGd2iByXa5ZB01fQUmJHvZT728uFAEXyJvyA72Z9VfSAmbVq0gPVZC7pdj95nvZ6KB5ikQ507CuAhDhW3P5OEqyrKsMPoiNl8ajXzjDhPJ38NxODgRu2N787V3d53u4q+9WUlwlOBhNIKsjWDvEkB08IdW6llEKQYIDtovd4Vnqw2uiz1kN/Pj7lfzw043ou4KZmRvdQ+rDEXR7Z0rDhDBrTDtYChpLljYlIsIgIZOrIEbi7vp+boRELfei7o42ujETISVnC7ZVyrm3dNebAeX1cXWH1SGjDVlqDpUtaIU5xOg/671GLSoONyZkd5ZeDXl7AkA8/3xVyofoiacO5Vo9nuxS3aM4ZUWhQVZ1MP/GAgw5AGlGg4cwhZYqye/gA2cggIgARQxtyObAQYvCdi88hVQUL8CBCbx7nCY7hdnltmyIvVUbPrMosRuVVkwGA1CBgtC8nmpZ/vNoU/KQ0IRPfQO2G3Ul456vjWzeHsYcMpA3yuC4MG0BMrcNQmSWmNKyt5FHQ==;UiSah3CdMXCCM7j7+33mtw=="
 ---

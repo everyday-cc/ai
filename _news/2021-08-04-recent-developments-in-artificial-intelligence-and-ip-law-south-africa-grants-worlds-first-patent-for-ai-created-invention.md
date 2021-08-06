@@ -70,15 +70,6 @@ related:
         width: 648
         height: 365
         isCached: true
-  - title: "Op-Ed: AI legally recognized as a patent inventor -Emerging status as a legal, real person is now in view"
-    excerpt: "Recognition of AI entity DABUS as an inventor is a gigantic, unsure, step into the legal status of artificial intelligence, and it’s a major future issue for the law."
-    publishedDateTime: 2021-08-02T01:50:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-legally-recognized-as-a-patent-inventor-emerging-status-as-a-legal-real-person-is-now-in-view/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 0
 
 secured: "k1svP0TEvUrfFSQ2Y5j92+I/H+8fjNtGEzXCsPOUcQXTtpuQD5Yz8g4JKYuEQRhOft5yxlaJxbrGYoKtcAr5Em5k/SOVPRj7fng397gOiAamwp4zA/pOpBz85Vw9BQ55Fns3xDDZaB9nDr4PmeDvyfcJyjsmaO4pyceuL24B+vSSfDVV7sMiKLiKnJCDJUIK2w5j3sSLCdOgsKAonr63F5BRjQGmYSUZnkk6Yl7sNflNDGzWF1fUR7EnU5JJuQWIQdws3Mm3EccvQtaL5q6YkSUbQMYmnd1XXXlWttCTpcMNehfFIQixRr47wb6w2xDKUV1IV0g0iW81nk7zOgqQwZux7dC95F4tvpCIPY/qBqo=;zQhA7l2sKzJV7B15A1u9EA=="
 ---

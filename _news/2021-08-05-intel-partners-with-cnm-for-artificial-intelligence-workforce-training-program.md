@@ -90,15 +90,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Top Trends Driving AI in Education"
-    excerpt: "The many benefits offered by AI technology are driving its demand in institutes and organizations. Increased government spending on upgrading the education sector should encourage the adoption of advanced devices and technologies to enhance the learning experiences for students."
-    publishedDateTime: 2021-08-02T01:29:00Z
-    webUrl: "https://www.eetindia.co.in/top-trends-driving-ai-in-education/"
-    type: article
-    provider:
-      name: eetindia.co.in
-      domain: eetindia.co.in
-    quality: 34
   - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
     excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."
     publishedDateTime: 2021-08-04T17:02:00Z

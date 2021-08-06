@@ -38,6 +38,15 @@ related:
         width: 1536
         height: 804
         isCached: true
+  - title: "Artificial Intelligence(AI) in Healthcare Market"
+    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
+    publishedDateTime: 2021-08-06T13:49:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
   - title: "Global Healthcare Cloud Computing Market to Reach $76.8 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Healthcare Cloud Computing - Global Market Trajectory & Analytics\"."
     publishedDateTime: 2021-08-05T14:40:00Z

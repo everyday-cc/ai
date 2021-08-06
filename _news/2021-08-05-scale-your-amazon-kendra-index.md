@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra"
+    excerpt: "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion"
+    publishedDateTime: 2021-08-06T19:06:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 99
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png"
+        width: 903
+        height: 571
+        isCached: true
   - title: "Reimagine knowledge discovery using Amazon Kendra’s Web Crawler"
     excerpt: "When you deploy intelligent search in your organization, two important factors to consider are access to the latest and most comprehensive information, and a contextual discovery mechanism. Many companies are still struggling to make their internal documents searchable in a way that allows employees"
     publishedDateTime: 2021-08-04T22:46:26Z

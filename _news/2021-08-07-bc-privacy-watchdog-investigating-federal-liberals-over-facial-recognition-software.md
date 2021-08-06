@@ -1,12 +1,12 @@
 ---
 category: news
 title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
-excerpt: "B.C.’s privacy watchdog is launching an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation today following a complaint from the Canadian Civil Liberties Association."
+excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
 publishedDateTime: 2021-08-06T17:52:00Z
-originalUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28"
-webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28"
-ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28/amp/"
-cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28/amp/"
+originalUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
+webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
+ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
+cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
 type: article
 quality: 52
 heat: -1
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://smartcdn.prod.postmedia.digital/theprovince/wp-content/uploads/2021/08/privacy-report-20200902.jpg"
+  - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
     width: 1000
     height: 750
     isCached: true
@@ -143,6 +143,6 @@ related:
       domain: theglobeandmail.com
     quality: 28
 
-secured: "HYNUWldfzqszsMzOb6Hm33OQVjkJEbb3nM/bGMcNy7xqULIFerx3lE1QvXIeoJwj55kFzv6xtx00VXX9SqiTV8XvTlSZPUTizQPmg8iLY5tX5H/pyM4hcAxPfqmLyfvTfdB3XTi2XGl9x9+qAvbnKG5oElzqLHNb09oWelRJvT5IMGNzcraV7hNsLLC9eMdKXwX3cdXN8ilWZQbKtxhWIPU2eQdgzCiX7Q6BA/MNhJkWhUZ5tAz3221ClJgUNMQI+LQ0VE36e8eTVb1Yc7XDiOw8N38lluEIEvaiEnhZs9CixmXv6I98anUT7eBEqLeS+fzAOYVyukP6PLVJSheD5H4R88rXTMDlLomKGL5gFZM=;04anWL0itesASnzbFzKjSw=="
+secured: "zLgwbwLOiTMwiR+X2S0bZ29hQ5ajiV0dsd2okhDsDvKZEHhiWBW8iJJConj/kZcYcg2NnurTn1Dr4eSUwvqcbEFNI0fxds/isltfUL82t5kvxKnDyIxs9uJa/VtirvOTD9IDBSgP70IBAKtUg16b7Q09ApUo58ut8gmapjaoV70WyXIPlx6lPa9WHmXjDIuXFneji3kOJQuKPBz7KdNSlZeuP/x92yhnWjUWAk33aJtmIP1cItQqprwEmingX03dJj9ZcWwnlK7wCvNTly0K5skCHYkR1z8Bum0PdidrE8faUVDJDwZGKWHjmHClLI9/BsBKXuZxrKu4UBWVtZagARgeFU9wRJ3+9FxvGlNjLp4=;tbqVqug173RuBDowsx1wxA=="
 ---
 

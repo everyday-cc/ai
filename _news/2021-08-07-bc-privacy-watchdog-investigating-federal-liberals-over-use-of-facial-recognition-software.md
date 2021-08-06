@@ -54,18 +54,18 @@ related:
         height: 1563
         isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
-    excerpt: "B.C.’s privacy watchdog is launching an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation today following a complaint from the Canadian Civil Liberties Association."
+    excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
     publishedDateTime: 2021-08-06T17:52:00Z
-    webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28"
-    ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/7fbc0ca1-a30a-4fa5-ba03-deff03ceac28/amp/"
+    webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
+    ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
     type: article
     provider:
       name: Windsor Star
       domain: windsorstar.com
     quality: 52
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/theprovince/wp-content/uploads/2021/08/privacy-report-20200902.jpg"
+      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
         width: 1000
         height: 750
         isCached: true

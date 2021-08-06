@@ -2,6 +2,186 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
+      "title": "Facebook to use AI to analyze encrypted content - report",
+      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
+      "sourceUrl": null,
+      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
+      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
+      "publishedDateTime": "2021-08-03T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "teletrader.com",
+        "domain": "teletrader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-global-artificial-intelligence-ai-robots-market-to-reach-214-billion-by-2026.md",
+      "title": "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026",
+      "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook",
+          "width": 1536,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
+      "title": "Hootsuite acquires conversational AI startup Heyday",
+      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
+      "publishedDateTime": "2021-08-03T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ai-integration-with-email-marketing-could-reduce-shopping-cart-abandonment.md",
+      "title": "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment",
+      "excerpt": "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
+      "publishedDateTime": "2021-08-03T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc.md",
       "title": "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc",
       "excerpt": "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase",
@@ -409,7 +589,7 @@
       "originalUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1048,205 +1228,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-can-ai-improve-your-pickup-lines.md",
-      "title": "Can AI improve your pickup lines?",
-      "excerpt": "Can AI help people enhance their online dating game? Would you trust a computer with your digital pickup lines? A team at Medzino, a digital health and wellness clinic, had some fun prompting OpenAI 's GPT-3 language prediction model to generate dating advice for different situations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
-      "originalUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/50135686-3e51-431c-a8a2-bbf43f0162bb/love-heart-artificial-intelligence.jpg",
-          "width": 1499,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
-      "publishedDateTime": "2021-08-02T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
-      "title": "Building architectures that can handle the world’s data",
-      "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
-      "originalUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/1n_yePOWxc4Hkbu9VGKwp9vPA8csYODFddaa3hmB7hWu0ln1sz6s6w_xHVluAqsO7-zEYo5xt6C3b1ACrlCve1sOYAG7w2R8mSM2nwnsU2DARM8y9fY",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
-      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
-      "excerpt": "OpenAI, the nonprofit venture whose professed mission is the ethical advancement of artificial intelligence (AI), has released the first version of the Triton language, an open source project that allows researchers to write GPU-powered deep learning projects without needing to know the intricacies of GPU programming for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
-      "originalUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_190606740_16.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-why-the-pixel-6s-tensor-chip-is-actually-a-big-deal-and-why-it-isnt.md",
-      "title": "Why the Pixel 6's Tensor chip is actually a big deal (and why it isn’t)",
-      "excerpt": "The Google Tensor SoC sets the Pixel 6 up as an artificial intelligence powerhouse, but that's not the only thing to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
-      "originalUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-tensor-processor-2728246/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-tensor-processor-2728246/",
-      "publishedDateTime": "2021-08-02T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

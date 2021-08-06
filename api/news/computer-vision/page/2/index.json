@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
+      "title": "Galaxy S10 5G update reportedly breaks face recognition",
+      "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
+      "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/samsung-galaxy-s10-sg-30.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
+      "publishedDateTime": "2021-07-25T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-robbery-on-10th-facial-recognition-tech-migrant-minors-moved.md",
       "title": "Robbery on 10th + Facial Recognition Tech + Migrant Minors Moved",
       "excerpt": "Also, the LB PD's use of facial recognition software is under fire. Finally, 1,538 migrant minors went through the Convention Center shelter before its closure. First, today's weather: Mostly cloudy throughout the day.",
@@ -1334,58 +1386,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life.md",
-      "title": "Smart Cities: How Facial Recognition Can Facilitate The Safe Return To Urban Life",
-      "excerpt": "When deployed correctly and used to its highest potential, facial recognition technology can help facilitate safe interactions and support a flourishing economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ef458fb64fa807a6922555%2F0x0.jpg",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/15/smart-cities-how-facial-recognition-can-facilitate-the-safe-return-to-urban-life/amp/",
-      "publishedDateTime": "2021-07-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

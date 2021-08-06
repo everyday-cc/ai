@@ -2,6 +2,223 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-22-people-suck-so-a-robot-with-microsoft-ai-has-to-pick-up-cigarette-butts.md",
+      "title": "People suck, so a robot with Microsoft AI has to pick up cigarette butts",
+      "excerpt": "A robot that utilizes Microsoft AI is being used to clean up beaches. It uses machine learning to identify cigarette butts in the sand and then picks up the waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "originalUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/07/cigarette-robot-project-bb-4-3_0.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/people-suck-so-robot-microsoft-ai-has-pick-cigarette-butts?amp",
+      "publishedDateTime": "2021-07-22T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-its-time-to-change-the-debate-around-ai-ethics-heres-how.md",
+      "title": "It’s time to change the debate around AI ethics. Here’s how",
+      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial",
+      "sourceUrl": null,
+      "webUrl": "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/",
+      "originalUrl": "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://europeansting.files.wordpress.com/2021/07/robots_.jpeg",
+          "width": 800,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/",
+      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/07/22/its-time-to-change-the-debate-around-ai-ethics-heres-how/amp/",
+      "publishedDateTime": "2021-07-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "europeansting.com",
+        "domain": "europeansting.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027.md",
+      "title": "AI-based Surgical Robots Market Size to Register 16% CAGR During 2021-2027",
+      "excerpt": "Selbyville, Delaware, Global AI-based Surgical Robots Market size to reach USD 13.2 billion by 2027 and is valued approximately USD 4.7 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 16% over the forecast period 2021-2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-to-register-16-cagr-during-2021-2027-2021-07-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T01:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-detecting-acute-stroke-early-with-artificial-intelligence-and-imaging.md",
+      "title": "Detecting Acute Stroke Early with Artificial Intelligence and Imaging",
+      "excerpt": "Scientists are using artificial intelligence (AI) to improve imaging techniques so that ischemic and hemorrhage strokes might be identified faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "originalUrl": "https://www.azooptics.com/Article.aspx?ArticleID=1976",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d36nqgmw98q4v5.cloudfront.net/images/Article_Images/ImageForArticle_1976_16269415644258204.jpg",
+          "width": 1000,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "cdnAmpWebUrl": "https://www-azooptics-com.cdn.ampproject.org/c/s/www.azooptics.com/amp/article.aspx?ArticleID=1976",
+      "publishedDateTime": "2021-07-22T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZoOptics",
+        "domain": "azooptics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445822-units-by-2030-at-a-cagr-of-1368.md",
+      "title": "The robotaxi market is projected to grow from 617 units in 2021 to reach 1445,822 units by 2030, at a CAGR of 136.8%",
+      "excerpt": "Reportlinker.com announces the release of the report \"Robotaxi Market by Application, Level of Autonomy, Vehicle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22098016",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22098016",
+      "publishedDateTime": "2021-07-22T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-uk-fintech-napier-sets-up-office-at-dubais-leading-financial-center.md",
       "title": "UK fintech Napier sets up office at Dubai’s leading financial center",
       "excerpt": "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC",
@@ -972,259 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
-      "title": "What machine learning can offer Nigeria's healthcare system",
-      "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg",
-          "width": 926,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
-      "publishedDateTime": "2021-07-21T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
-      "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
-      "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
-      "originalUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60a1038ef27b4c0019444b4e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-upgrade-fsd-price-500-off-2021-7?amp",
-      "publishedDateTime": "2021-07-21T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-microsoft-powered-autonomous-beach-cleaning-robot-is-here-to-clean-our-shores.md",
-      "title": "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores",
-      "excerpt": "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
-      "publishedDateTime": "2021-07-21T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-google-looker-gets-azure-support-api-explorer.md",
-      "title": "Google Looker gets Azure support, API explorer",
-      "excerpt": "As a part of Looker 21, the newest version of the Looker platform, Google launched new features including Microsoft Azure support.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Looker-Life-1-21.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/google-looker-gets-azure-support-api-explorer/amp/",
-      "publishedDateTime": "2021-07-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
-      "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
-      "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "originalUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "publishedDateTime": "2021-07-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

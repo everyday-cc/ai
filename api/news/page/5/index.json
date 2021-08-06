@@ -2,6 +2,205 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-03-can-ai-improve-your-pickup-lines.md",
+      "title": "Can AI improve your pickup lines?",
+      "excerpt": "Can AI help people enhance their online dating game? Would you trust a computer with your digital pickup lines? A team at Medzino, a digital health and wellness clinic, had some fun prompting OpenAI 's GPT-3 language prediction model to generate dating advice for different situations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-improve-your-pickup-lines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/50135686-3e51-431c-a8a2-bbf43f0162bb/love-heart-artificial-intelligence.jpg",
+          "width": 1499,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-improve-your-pickup-lines/",
+      "publishedDateTime": "2021-08-02T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-building-architectures-that-can-handle-the-worlds-data.md",
+      "title": "Building architectures that can handle the world’s data",
+      "excerpt": "Perceiver IO, a more general version of the Perceiver architecture, can produce a wide variety of outputs from many different inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
+      "originalUrl": "https://deepmind.com/blog/article/building-architectures-that-can-handle-the-worlds-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/1n_yePOWxc4Hkbu9VGKwp9vPA8csYODFddaa3hmB7hWu0ln1sz6s6w_xHVluAqsO7-zEYo5xt6C3b1ACrlCve1sOYAG7w2R8mSM2nwnsU2DARM8y9fY",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
+      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
+      "excerpt": "OpenAI, the nonprofit venture whose professed mission is the ethical advancement of artificial intelligence (AI), has released the first version of the Triton language, an open source project that allows researchers to write GPU-powered deep learning projects without needing to know the intricacies of GPU programming for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
+      "originalUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_190606740_16.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-why-the-pixel-6s-tensor-chip-is-actually-a-big-deal-and-why-it-isnt.md",
+      "title": "Why the Pixel 6's Tensor chip is actually a big deal (and why it isn’t)",
+      "excerpt": "The Google Tensor SoC sets the Pixel 6 up as an artificial intelligence powerhouse, but that's not the only thing to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
+      "originalUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/google-tensor-processor-2728246/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-tensor-processor-2728246/",
+      "publishedDateTime": "2021-08-02T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
       "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
       "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
@@ -295,6 +494,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-02-idemias-facial-recognition-algorithm-maintains-1-ranking-in-nists-frvt-test.md",
+      "title": "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test",
+      "excerpt": "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-levi-strauss-dr-katia-walsh-on-why-diversity-in-ai-and-ml-is-non-negotiable.md",
       "title": "Levi-Strauss’ Dr. Katia Walsh on why diversity in AI and ML is non-negotiable",
       "excerpt": "Levi's chief strategy and artificial intelligence officer talks about the power of diversity and using technology for good.",
@@ -406,7 +648,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -957,254 +1199,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles.md",
-      "title": "Argo AI will now provide free rides in California in its autonomous vehicles",
-      "excerpt": "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "originalUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg",
-          "width": 760,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-4-conversations-every-company-needs-to-be-having-about-ai.md",
-      "title": "4 conversations every company needs to be having about AI",
-      "excerpt": "Riding the AI wave doesn’t have to be that hard. And getting started is lot easier if companies can ask and answer 4 key questions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/",
-      "publishedDateTime": "2021-08-01T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-01-computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026.md",
-      "title": "Computer Vision Market Report 2021, Industry Overview, Growth Rate and Forecast 2026",
-      "excerpt": "According to the latest report by IMARC Group “Computer Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026“, The global computer vision market exhibited strong growth during 2015-2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026-2021-08-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-report-2021-industry-overview-growth-rate-and-forecast-2026-2021-08-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-31T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-ai-vendors-must-offer-more-solutions-for-niche-use-cases.md",
-      "title": "AI vendors must offer more solutions for niche use cases",
-      "excerpt": "Generic AI models can't deliver the kind of accuracy we need for widespread adoption. We need more tailored solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/",
-      "originalUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-617375080.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/31/ai-vendors-must-offer-more-solutions-for-niche-use-cases/amp/",
-      "publishedDateTime": "2021-07-31T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-researchers-aim-to-help-protect-us-navy-divers-using-ai-systems.md",
-      "title": "Researchers aim to help protect US Navy divers using AI systems",
-      "excerpt": "A group of researchers, including scientists from the University of Illinois Chicago, were given $725,000 from the US Office of Naval Research to develop an AI system to help protect divers from",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/",
-      "originalUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-aim-to-help-protect-us-navy-divers-using-ai-systems-31684737/amp/",
-      "publishedDateTime": "2021-07-31T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

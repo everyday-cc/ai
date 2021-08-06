@@ -33,6 +33,15 @@ related:
         width: 1536
         height: 804
         isCached: true
+  - title: "Artificial Intelligence(AI) in Healthcare Market"
+    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
+    publishedDateTime: 2021-08-06T13:49:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
   - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
     excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
     publishedDateTime: 2021-08-03T23:45:00Z
