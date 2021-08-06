@@ -74,20 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "16 Upcoming Fintech Events in the US"
-    excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
-    publishedDateTime: 2021-08-04T09:05:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/16-upcoming-fintech-events-in-the-us/47848/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Upcoming-Fintech-Events-in-the-US.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
 
 secured: "xMvFx+xMpqnCMElPcaZKpXJoMmqxc6Y6WdR/4efIp+faQ5Tgf1hruQEr64FyvVSIsUEivcMTPsLtk/sPC3l3Iip28/S22PKh/Rx7uIIdQQ50qe3vzCMJlB41IhZBSdzVDMPPQsv14+TWS4gLV73aqXpRui/DmL7gGm7Egy9hMa9qSSmoMTzKtkueWfH+LrsFOxQmuSi5RMelTHrY0JrnFoy2sRKf0KyIKWc6MSFFYCqPW35Z/jyfggE6c/DHwOJsSbNv5pJoK5N/uM+suzskj3DPp+sC/G6UI74Ihi1OUcSWrZDlVIVFY5psLI9T08/8yWDpQhabTMkzSs12F0ASRTbXR/QrTfJ43xjPTG5w0DY=;Je6ldKjyMwXBR4LhLVsy4w=="
 ---

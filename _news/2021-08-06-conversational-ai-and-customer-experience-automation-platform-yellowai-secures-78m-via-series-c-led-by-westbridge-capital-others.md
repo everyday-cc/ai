@@ -35,6 +35,20 @@ related:
         width: 800
         height: 445
         isCached: true
+  - title: "Conversational AI: We need to talk"
+    excerpt: "Interactive conversational AI is now big business, spanning people’s homes as well as customer support at the world’s biggest companies. Deep learning algorithms are becoming increasingly human in the way they interact with humans,"
+    publishedDateTime: 2021-08-05T06:01:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/conver-sational-ai-we-need-to-talk/69599/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165061_conversationalai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Dynata Acquires Leading Survey Experience Platform inBrain.ai, Strengthening Capability To Deliver Insights Needed To Power Business Decision-Making"
     excerpt: "Dynata, the world's largest first-party data platform for insights, activation and measurement, today announced the acquisition of inBrain.ai, a people-based insights and survey platform. The acquisition furthers Dynata's mission of investing in user experience to collect the highest quality data from real,"
     publishedDateTime: 2021-08-03T12:48:00Z

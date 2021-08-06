@@ -7,7 +7,7 @@ originalUrl: "https://peerj.com/articles/cs-570"
 webUrl: "https://peerj.com/articles/cs-570"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 547
     height: 600
     isCached: true
+
+related:
+  - title: "Laser-Driven Ion Acceleration With Deep Learning Neural Networks"
+    excerpt: "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology."
+    publishedDateTime: 2021-08-06T06:19:00Z
+    webUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/"
+    ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 74
+    images:
+      - url: "https://scitechdaily.com/images/Maximum-Ion-Energy-Function-Laser-Pulse-Duration-777x466.jpg"
+        width: 777
+        height: 466
+        isCached: true
+  - title: "Successful IoT adoption requires iteration, learning"
+    excerpt: "Control Engineering - Learning Objectives Integrating Internet of Things (IoT) components into products and processes will increase operational efficiency and create"
+    publishedDateTime: 2021-08-05T05:03:00Z
+    webUrl: "https://www.controleng.com/articles/successful-iot-adoption-requires-iteration-learning/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 26
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_IMG_Prescient_Fig3-Slider.jpg"
+        width: 645
+        height: 350
+        isCached: true
 
 secured: "KTKlpXRT/tnD8IN4yMdwabTe9/63Q0m/dAqlD1rpYr2gn+mdFBW47CNznL07RPhtbaQdVuKjU1JqGqMFwiIgSi45z1MqfUIh8dU3u61UrA6yLCx6UdqnsxiQGFsEjZJgtPEtSyzy9TF13vwB9VEE2gp6QTjruylqwJ9xGRirbWoNui4IiHpaXtfZv9i/bq46wZnIbHbPJbNlt+aD4pY1lsZetOwEBYkEad7oBxMMprurh2rVawLSrUJ5zIr8DZpWlSqD+5K9uXQEk6wtorQeo9QUT67zBBEcMv7GMmrkRkruR+hirKR/73BXjWus27Tih/Z2INFZrQD+7UU+sdoujuPo6oSK1ymo6El/Sp71nA0=;MuuSWRPrWxDCxuHXSxDQ5Q=="
 ---

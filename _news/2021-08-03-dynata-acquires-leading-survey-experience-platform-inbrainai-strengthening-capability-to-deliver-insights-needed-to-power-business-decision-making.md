@@ -42,6 +42,20 @@ related:
         width: 800
         height: 445
         isCached: true
+  - title: "Conversational AI: We need to talk"
+    excerpt: "Interactive conversational AI is now big business, spanning people’s homes as well as customer support at the world’s biggest companies. Deep learning algorithms are becoming increasingly human in the way they interact with humans,"
+    publishedDateTime: 2021-08-05T06:01:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/conver-sational-ai-we-need-to-talk/69599/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165061_conversationalai.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Conversational AI and Customer Experience Automation Platform yellow.ai Secures $78M+ via Series C led by Westbridge Capital, Others"
     excerpt: "Conversational AI and customer experience automation platform yellow.ai secures $78M+ via Series C led by Westbridge Capital, others."
     publishedDateTime: 2021-08-05T22:39:00Z

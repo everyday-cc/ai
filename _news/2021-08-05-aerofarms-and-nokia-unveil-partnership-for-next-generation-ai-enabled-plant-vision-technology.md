@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
-excerpt: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology. AeroFarms and Nokia (News - Alert) Bell Labs today unveiled a groundbreaking multi-y"
-publishedDateTime: 2021-08-05T13:23:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/08/05/9424752.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/08/05/9424752.htm"
+excerpt: "AeroFarms and Nokia Bell Labs have been working together since 2020 and have reached an important milestone of achieving a proof of concept for this state-of-the-art integrated system and testing the technologies with AeroFarms' current commercial crop varieties."
+publishedDateTime: 2021-08-05T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/05/9424752.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/05/9424752.htm"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
-
-secured: "NI0R4NlLeLqpewhUwpAB2x4DdhsAJO2PsWzBLW7mEuiN85F5ubZ/l9RpTZdiUXvaKq5hdo2r2Psr8K6tzz1Hs18nQKPIvMrpVjqIC/1BwRrhLlS3Fg4mm1Vo5Fm4iCXOmlXVJ6VgMRc+K1JcWy+VMpsxSxkalHNvQVJVsIxOHq2Bu1rTN0BxMZiNzwV4XpC4YUctTN/Gm7X7uAgSgA0dsN43IhGceAhd3gHwQVKO7Z2JtjiPyht8eQk72zlFdNyrYdGF7N31lrG/ANJ0D06G1IP3jILts8kZyloazgreU1mXt6d+5um4UbXpQy2D3og8W9dMAyZ2dV86SRQma8pHd6LiWOnw2+K6Lxa5wHWf7go=;Zfh3FODfvWFolagJh6huig=="
+secured: "1c7/Ul2uSoWitZ3IccvTKDiGFu2KJUNZ/y8/LvkovIaSWeE4FqevSx5j71dTT1tfYZIbDhxmkprfVclrjKhGdedBaN0QFUBjDT6NVwYfteqzis8Bwt0kaWUB4GN3EzI3uhPJs99+uWhexnjqCjfqevzHaTI+gQXCVmnKIylDlfBAMvUqGyWlYJBKqpXUS5xrikR1Wx+u1wH3QlSzsMriuJ8WM/CKTeS5dcJw2Kipws2yv1cQu4k4tKFeNcLOI9x+u5yxFUMgLGIBTPPtzwS5Tbwqgk1PnHVnMuSJ8JN6xP1Q5Y1rDE0dYded6YczpQE9mOyjyLSRZwkS77wdP3SNOvM7P6sfOyMQ1DGTnA7v+Pc=;tO9EJ6ZG/CC5kehuT5iCaA=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "BREAKING: John Deere acquires AgFunder portfolio company Bear Flag Robotics for $250m"
-excerpt: "John Deere has acquired Bear Flag Robotics, a Californian agtech startup offering autonomous solutions to farmers, for $250 million. [*Disclosure: Bear Flag Robotics is a portfolio company of AgFunder,"
-publishedDateTime: 2021-08-05T18:52:00Z
-originalUrl: "https://agfundernews.com/breaking-john-deere-acquires-agfunder-portfolio-company-bear-flag-robotics-for-250m.html"
-webUrl: "https://agfundernews.com/breaking-john-deere-acquires-agfunder-portfolio-company-bear-flag-robotics-for-250m.html"
+excerpt: "Bear Flag Robotics is John Deere’s second major automation acquisition in the past four years, following its 2017 buyout of Blue River Technology."
+publishedDateTime: 2021-08-06T02:32:00Z
+originalUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
+webUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
 type: article
 quality: 47
 heat: 47
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://agfundernews.com/wp-content/uploads/2020/06/Bear-Flag-Robotics.jpg"
+  - url: "https://agfundernews.com/wp-content/uploads/2020/06/Bear-Flag-Robotics-e1628216888716.jpg"
     width: 340
     height: 255
     isCached: true
@@ -35,6 +35,6 @@ related:
       domain: agweb.com
     quality: 34
 
-secured: "G6bUzo+qnkpqeHOM7mJpHs3MDnv9kqk93Ni9lIR03zw9WNXOmimm9duZ7/JFb+D10tBpX1315Vf+SNYsuDuLAdUU1+4ftVV24naFAwRhw3d+Gcnc7V36QNxcI0sBPqMRbH/UMDKGCuh31y+xpqcTtFnA7P8e1nAd0snuagNpd8xuxoyfPibaSt29VFEV3vNBPy3a6hLq7DMq8TsJJALJcs2Qv7/q2ZI+Jq+R3fRtnSKAzqI85Gp49FLFw6ZKziyo0123BJxJ012lZ03VrrXWswvRPaYW8C6ki7eUH3T8ne00FwpNmKsn2e80Ms8JjmQZ15gbX+wnBYSITEg8quDzKK0ME8MucamBC7yWbm3rUoCefNu13g4xoVIza/bbZCGrl1FRQxj+IHqwXLqjox4rlHFDi5EpAJYQ6usy4hq9HMo4fn9NpIFsIe1l3jvnUXsl9DICfHNnv7SI8H8sSnF+UUHIr5QQ5gYgcBt/DubtaWmhtGf8eb6gFISO7+OQLojjajMK8Dk1MbcHuXvOTfcDdQ==;12XiGkdPQ4UHCCO5lmLziA=="
+secured: "iNsurdZbeFRbbQ1mY8qeXaMnK0mTMsgZ/JMXDAI8UdVoUJ50gJlX3SZZ0NQyJELBg8mePCN1gIF3HCjYghN9f9POc0jzidmHodzgwK596/4Kg2U5roe2RIp7s5ED89Sgy9bEW9KSZ1GSCEmo8++OBv9Ex3w8N7OUqof5FAT/1bP3UmIbBvHl0uI6mu7IND5DIcPL8GBG4eJEejsmksUfuEM4cAmZMR9wBCIzhWvFWW7LG0kMlBTJyOMZsnGBnNsLqVU4cVcw6UPGGmFldQ+HBjcevGnJm61ZcNE9ysNZ6iYfCUNaE/qeAZOZBPork9xEoWdWYemuzpNPs0CDMwr63pwKlds949a1CyskvgvoJVU=;dvFO86c6qnp2CM3g8RrNbg=="
 ---
 

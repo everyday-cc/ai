@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play"
-    excerpt: "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them."
-    publishedDateTime: 2021-08-01T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/"
-    ampWebUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 73
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
 
 secured: "scAiQmv8e0ZA5xmxdJS0T8gMUBD5T5yisjcWy9f6go8cfh2ZcLPP21o7DVa+Ip0jjbI4yrAFBUHVCz1vkOIiTY0qy5BWri54zo6QSz+Fawknc/Fnyhs/rjAEvnNC86Psf+tqAIMwdHFF6AvXj4DBQ+Gi/3+HAL2Zw2csAGflyhGy/aKN7N8K/PTVhlnmMA5wWOM9gZhERkjSK3vvGkRwlDg9ZSczQLXGHyOVobv+3LRfNwbmo+ac/liGw7h34Bt92mampCS3l2A6Gpe8SPUF1SXWrbCxQ4ai7JxYRajGAs4Z+rhiEKifIKIavURM+fWJzOrhews5z0nntqXT85haqOir4NZwIsq6oPk+68cqLzm/h3jvVxcV1r5wGKtiYk35WY5OQI67PAYDTAtkyjWal2vAz93Wag/sCy+Yju9yuaein4jiAmYlUeFeHJUN6prXRY3XbTk/Fl9k7+uJXWaAI/IHS06PzNzwFkY2b5/UaLXwqYgAazyNg3odCiZvQR0kIwJ+hRWjryngfTWtY+OEJw==;m3ov8yRGGPJc8bYTL4TkWw=="
 ---

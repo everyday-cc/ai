@@ -42,6 +42,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million"
+    excerpt: "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said."
+    publishedDateTime: 2021-08-04T23:36:00Z
+    webUrl: "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    ampWebUrl: "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-380494/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Hootsuite Acquires Conversational AI Leader Heyday for CA $60 Million"
     excerpt: "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results."
     publishedDateTime: 2021-08-03T05:40:00Z

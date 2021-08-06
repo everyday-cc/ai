@@ -2,17 +2,17 @@
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
 excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/04/9423741.htm"
+publishedDateTime: 2021-08-04T12:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 667
         isCached: true
 
-secured: "JSwkXIjhiUrOx1hnpT0W1CnFoh20ex7QFZPG3nTiLapvvgqU6Ksu8hb7tpAjEa4tZSB2XJfrGYwj4+f4aTRCWAAW9u0BMR+KLrPj+r4bM8D9rSImI4Dj37OnjYtuaWzfbpdmpgsAraFf4c12+iQ2KazU7EX7olVUwkIyeUM1TBhaw3KckwytbWWliwFXMewzGVJGckX/877GlqlGakFL+gr/MBjnFl3QTRGJlLpiNDQLtgdFrL1D4eeyngo722ERYTXb2UPQ8LYys+u7aFDdt8DsuB4+ELufG2bCA836OEEv2YJjN4Yc+GSEB3TIBIpTAIMve8Ui3+UTTAcaGvUwjW4ZiSoQ0o0ViTd1D5W3svw=;K3yrs8A7HIRubA/LNdCDJg=="
+secured: "fdSd4oRgFim7baN7RIncMSrwV7vsHDKjZBr2prKA34uihMAxfwFB+7UzRxjBbssxvPfH0CqjPryrwUo9ZaNRyFEY8t8KXiz8bIIxeL64lPseVphHPb8H4GKrE1AWlcHAWKNCNvx4M/oCBTpviJJmXH+PeKBwBabkwxWoXuicxsVAT2nLcuv29CQ2Zorssl8pzVkgBurui1aOFFxjiGNnyriodUzsYXP0ZxAjDCPD4BYZoN5j1tq0+SUF2nfKSEHs9bTzFYrRx3KLZuZN49ySOI0Epd0s5VRGEpIit+vJUFEO4ov0mZ7mI+gBmjlVzmdKAGcdITeO33C8PpkMc/pBMwVvKitplbII/i2l3EsfGz0=;NtMfBMZG9gwjJ/EPDHFzPQ=="
 ---
 

@@ -60,6 +60,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 40
+  - title: "A Chatbot for Every Industry – AI Chatbots in Action"
+    excerpt: "Wondering where a chatbot fits within your business model? Consider your most pressing employee and customer needs—it’s likely a chatbot can take on responsibilities to alleviate those demands. Here are some examples from organizations in five different industries to get you started: AI brings the best of automation and one-on-one interactions together to provide solutions in higher education."
+    publishedDateTime: 2021-08-06T07:19:00Z
+    webUrl: "https://customerthink.com/a-chatbot-for-every-industry-ai-chatbots-in-action/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 37
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/chatbot-3936760_1280-pixabay-chatbot-contact-service-tech.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "Bangalore-based Conversational AI Startup Yellow.ai Raises $78 Million In Series C"
+    excerpt: "Yellow.ai, a conversational AI platform, has recently raised funding of $78.15 Mn in Series C led by WestBridge Capital, Sapphire Ventures & Salesforce Ventures"
+    publishedDateTime: 2021-08-06T07:41:00Z
+    webUrl: "https://analyticsindiamag.com/bangalore-based-conversational-ai-startup-yellow-ai-raises-78-million-in-series-c/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Bangalore-based-Conversational-AI-Startup-Yellow.ai-Raises-78-Million-In-Series-C.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "yO1WldIpIHlnnXjvc0ZC/vX6wi+mpjNEneAV9lxnSaXwtKWFkZLXca7A4Oi3qqY1a7TYM4p5XLNY7nJtkfd5JsXQJ7JMTDIYVqeY2dU6pDvSyZp+EVdnhJUT14lOFCPwyFvii2VYlJEsrRdt12m/FhhI0/4Imh8Vh8hIjK6YNHKrz99ujIFFPg3nAd/q9ZImSKixhMq5ooilXt1DhtJz3emBpAv2us4YHNuXBayKPbpWOU2usFv0aDkmyoGMDK/DBvQ4QJKTB+QHHJ2t7/j7x7EZXe5n8BzO71d6qBwdtsWK9PVxhL6KmTFdHMcP+bgHLs08QoUzxb1k1ycwccV5M+l4sFYwUSd3skU+OuFso2o=;S1DHGQKNzXh6pb+qy3vcXw=="
 ---

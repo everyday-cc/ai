@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintec
 webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
-  - title: "16 Upcoming Fintech Events in the US"
-    excerpt: "We’ve compiled a list of the top upcoming fintech events and gatherings for professionals to keep up with the latest developments and build meaning connections with industry leaders."
-    publishedDateTime: 2021-08-04T09:05:00Z
-    webUrl: "https://fintechnews.ch/fintechusa/16-upcoming-fintech-events-in-the-us/47848/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Upcoming-Fintech-Events-in-the-US.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "The HD maps for autonomous vehicles market is estimated to be USD 1.4 Billion in 2021 and is projected to grow at a CAGR of 31.7%"
     excerpt: "With the growing trend of autonomous driving technology, the global HD maps market is expected to grow at a significant rate in the future.The promising market for self-driving car renting ..."
     publishedDateTime: 2021-08-03T09:16:00Z

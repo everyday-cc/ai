@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind’s Vibrant New Virtual World Trains Flexible AI With Endless Play"
-    excerpt: "Algorithms played around 700,000 games in 4,000 worlds. Notably, they developed a general skillset not related to any one game, but useful in all of them."
-    publishedDateTime: 2021-08-01T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/"
-    ampWebUrl: "https://singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/08/01/deepminds-vibrant-new-virtual-world-trains-flexible-ai-with-endless-play/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 73
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/07/deepmind-xland-artificial-intelligence-ai-training-virtual-world.jpeg"
-        width: 1408
-        height: 792
-        isCached: true
   - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
     excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
     publishedDateTime: 2021-08-04T05:30:00Z

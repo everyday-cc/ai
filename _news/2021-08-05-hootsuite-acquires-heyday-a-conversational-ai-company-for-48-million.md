@@ -30,103 +30,108 @@ images:
     isCached: true
 
 related:
-  - title: "4 conversations every company needs to be having about AI"
-    excerpt: "Riding the AI wave doesn’t have to be that hard. And getting started is lot easier if companies can ask and answer 4 key questions."
-    publishedDateTime: 2021-08-01T13:21:00Z
-    webUrl: "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/01/4-conversations-every-company-needs-to-be-having-about-ai/amp/"
+  - title: "Hootsuite acquires conversational AI startup Heyday"
+    excerpt: "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks."
+    publishedDateTime: 2021-08-03T15:24:00Z
+    webUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday"
+    ampWebUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1277380132.jpg?fit=800%2C533&strip=all"
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Hootsuite to acquire artificial intelligence chatbot company for $60M"
+    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday."
+    publishedDateTime: 2021-08-03T14:14:00Z
+    webUrl: "https://bc.ctvnews.ca/hootsuite-to-acquire-artificial-intelligence-chatbot-company-for-60m-1.5532572"
+    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 57
+    images:
+      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 800
-        height: 533
+        height: 449
         isCached: true
-  - title: "Abacus.AI Brings Machine Learning Into the Hands of Every Company"
-    excerpt: "Abacus.AI was founded by Google, Amazon and Uber Alumnus with vast experience in building machine learning solutions at these companies, with a mission to put cutting edge machine learning into the hands of every company and help them extract meaningful insights from their data."
-    publishedDateTime: 2021-08-04T15:34:00Z
-    webUrl: "https://techround.co.uk/tech/abacus-ai/"
-    ampWebUrl: "https://techround.co.uk/tech/abacus-ai/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/abacus-ai/amp/"
+  - title: "Hootsuite Acquires Conversational AI Leader Heyday for CA $60 Million"
+    excerpt: "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results."
+    publishedDateTime: 2021-08-03T05:40:00Z
+    webUrl: "https://www.hootsuite.com/newsroom/press-releases/hootsuite-acquires-conversational-ai-leader-heyday-for-ca-60-million"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 74
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2021/08/abacus-ai.png"
-        width: 3200
-        height: 1673
-        isCached: true
-  - title: "Conversational AI: We need to talk"
-    excerpt: "Interactive conversational AI is now big business, spanning people’s homes as well as customer support at the world’s biggest companies. Deep learning algorithms are becoming increasingly human in the way they interact with humans,"
-    publishedDateTime: 2021-08-05T06:01:00Z
-    webUrl: "https://www.forbesindia.com/article/ai-special/conver-sational-ai-we-need-to-talk/69599/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
+      name: Hootsuite
+      domain: hootsuite.com
     quality: 39
     images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165061_conversationalai.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "NCC Conversations: How can we reduce bias in artificial intelligence?"
-    excerpt: "As part of our NCC Conversations series, we’ve been exploring the issue of systemic racism and how it impacts our industry, wider society, and the"
-    publishedDateTime: 2021-08-03T13:24:00Z
-    webUrl: "https://www.mynewsdesk.com/nccgroup/news/ncc-conversations-how-can-we-reduce-bias-in-artificial-intelligence-431743"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 37
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ehsnft8yzux2qgaf9d5q.jpg"
+      - url: "https://www.hootsuite.com/dist/images/placeholders/social-share.jpg"
         width: 1200
-        height: 628
+        height: 627
         isCached: true
-  - title: "$20M for conversational-AI builder in warming market"
-    excerpt: "It is a good time to invest in products that make sophisticated conversational-AI and voice recognition products easier to roll out."
-    publishedDateTime: 2021-08-03T18:28:00Z
-    webUrl: "https://www.biometricupdate.com/202108/20m-for-conversational-ai-builder-in-warming-market"
+  - title: "Hootsuite Acquires AI Platform Heyday for $60M"
+    excerpt: "The deal, announced today by Hootsuite, is evidence that the social media tool is expanding further into ecommerce and customer support."
+    publishedDateTime: 2021-08-03T19:41:00Z
+    webUrl: "https://tech.co/news/hootsuite-acquires-ai-platform-heyday"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Tech.co
+      domain: tech.co
     quality: 37
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
-        width: 900
-        height: 499
+      - url: "https://images.tech.co/wp-content/uploads/2021/01/25115801/Social-Media-Management.jpeg"
+        width: 1920
+        height: 960
         isCached: true
-  - title: "3 Misconceptions about AI that Distributors Need to Put to Rest"
-    excerpt: "Proton.ai's Jill Voege writes that while many distributors tend to think of AI as an abstract concept, it's actually a technology that can provide real value for their businesses."
-    publishedDateTime: 2021-08-05T18:25:00Z
-    webUrl: "https://www.mdm.com/blog/technology/3-misconceptions-about-ai-that-distributors-need-to-put-to-rest/"
+  - title: "Hootsuite acquires artificial intelligence chatbot company Heyday for $60 million"
+    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday."
+    publishedDateTime: 2021-08-03T15:24:00Z
+    webUrl: "https://www.castanet.net/news/Business/341797/Hootsuite-acquires-artificial-intelligence-chatbot-company-Heyday-for-60-million"
     type: article
     provider:
-      name: MDM
-      domain: mdm.com
-    quality: 37
+      name: Castanet
+      domain: castanet.net
+    quality: 32
     images:
-      - url: "https://s33009.pcdn.co/wp-content/uploads/elementor/thumbs/AdobeStock_213593664-pb6i59179a3c4sxngduosbiygc4wlz78pvhtov1gnu.jpeg"
-        width: 900
-        height: 425
+      - url: "https://www.castanet.net/content/2021/8/20210730100724-61040ba15b9abc0c4ffc6053jpeg_p3544803.jpg"
+        width: 640
+        height: 416
         isCached: true
-  - title: "Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI In Computer Vision market report provides a"
-    publishedDateTime: 2021-08-02T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4723060-global-ai-in-computer-vision-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+  - title: "Hootsuite to acquire artificial intelligence chatbot company Heyday for $60 million"
+    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday. Vancouver-based Hootsuite says it agreed to pay $60 million for the company."
+    publishedDateTime: 2021-08-03T13:35:00Z
+    webUrl: "https://www.nsnews.com/the-mix/hootsuite-to-acquire-artificial-intelligence-chatbot-company-heyday-for-60-million-4187943"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
+      name: News
+      domain: nsnews.com
+    quality: 31
+    images:
+      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/08/20210730100724-61040ba15b9abc0c4ffc6053jpeg.jpg;w=650;h=422;mode=crop"
+        width: 650
+        height: 422
+        isCached: true
+  - title: "Hootsuite nabs conversational AI startup Heyday in $60 million deal to further social commerce push"
+    excerpt: "Hootsuite has acquired artificial intelligence (AI) chatbot startup Heyday in a $60 million CAD deal that further expands Hootsuite’s push into e-commerce and customer service software."
+    publishedDateTime: 2021-08-03T09:59:00Z
+    webUrl: "https://betakit.com/hootsuite-nabs-conversational-ai-startup-heyday-in-60-million-deal-to-further-social-commerce-push/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 23
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/hootsuite.jpg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "Zn5yp8L11yqfvcM3cPdheCxq56TiBOcUaM19ePeIG6atmtOJmIU9EzyNNK240uBwK33f1oIrEd1iwpYIWTH/hTkJFxCMN6d3akYUOpfm7TAajxOxzLm7/FkR6+SCwdLi1qRfWKPQz3yvUEFJIYHAe7DRkuSwXu+loT9as2iRtluyIFTU1gx9dphb6mK1TfR1+HAK3zTD5N/FbhbO/PJvnXCq85cFa19hH4DgdWLt+3jvvCXlg8i4xZzxpyI2oG0uT3bfXt7Dk6mWfsWCGjjAsBd9XGFZC02SzJXBlZxTrkpb1vTedCoWFJkQb5OBHNOoy0IQ0RKifSJqR4NNmhjLmL4Cv4uJdG6FLblw5p9/2FnlNpBz46Tb8W+9jqBqoHSceszF+SJJMuM9YVCTrtjOvSNcskO1k8/XFnRhAaqlT+cgSYGv4/VOSpZtPSysDsjIJit9kKs1s++OMgP6f42KS9QVEuTgARJlMhonUwc7FQnx7yygY94p5RUllMzUJOJO106KQjsVfqYRlAjJxnIgrw==;EapX1h628mqTglp/kecvXw=="
 ---

@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Yellow.ai raises $78M to expand its AI chatbot platform globally"
-excerpt: "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital."
-publishedDateTime: 2021-08-04T11:00:00Z
-originalUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/"
-webUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/"
-ampWebUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
+title: "Bangalore-based Conversational AI Startup Yellow.ai Raises $78 Million In Series C"
+excerpt: "Yellow.ai, a conversational AI platform, has recently raised funding of $78.15 Mn in Series C led by WestBridge Capital, Sapphire Ventures & Salesforce Ventures"
+publishedDateTime: 2021-08-06T07:41:00Z
+originalUrl: "https://analyticsindiamag.com/bangalore-based-conversational-ai-startup-yellow-ai-raises-78-million-in-series-c/"
+webUrl: "https://analyticsindiamag.com/bangalore-based-conversational-ai-startup-yellow-ai-raises-78-million-in-series-c/"
 type: article
-quality: 87
-heat: 137
-published: true
+quality: 31
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
-    width: 1200
-    height: 600
+  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Bangalore-based-Conversational-AI-Startup-Yellow.ai-Raises-78-Million-In-Series-C.jpg"
+    width: 1600
+    height: 1000
     isCached: true
 
 related:
+  - title: "Yellow.ai raises $78M to expand its AI chatbot platform globally"
+    excerpt: "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital."
+    publishedDateTime: 2021-08-04T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/"
+    ampWebUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Startup which helps build chatbots, voice bots raises $78m in series C round"
     excerpt: "Customer experience automation platform Yellow.ai announced it has raised US$78.15 million in series C round led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Existing investor Lightspeed Venture Partners also participated in this round."
     publishedDateTime: 2021-08-04T14:59:00Z
@@ -78,21 +88,7 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Bangalore-based Conversational AI Startup Yellow.ai Raises $78 Million In Series C"
-    excerpt: "Yellow.ai, a conversational AI platform, has recently raised funding of $78.15 Mn in Series C led by WestBridge Capital, Sapphire Ventures & Salesforce Ventures"
-    publishedDateTime: 2021-08-06T07:41:00Z
-    webUrl: "https://analyticsindiamag.com/bangalore-based-conversational-ai-startup-yellow-ai-raises-78-million-in-series-c/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Bangalore-based-Conversational-AI-Startup-Yellow.ai-Raises-78-Million-In-Series-C.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
 
-secured: "V9OlyjYPr6/PIKU6/M2smEN9e4O0sLUUkJfSr5Z/B7zQt3cAHLC69Bv8mjm2kWTHnfL9jl7qKJZwlykZVZh46JCpmnFVMO7z0f9JhqJeNbOQQNZHRx16pnWxWFw2pKs54GVKJ4itmbGZmnn1+Bj41JiJyPDQ4hOnZvLiXtxMhXt+S54Ij8faUVtBqvnCbYz02uGrXHUiWnVmkLve3TleqNemf0HIdvxr9bhWZvNwDbM2Rsx4UD7tguQRbXA7H3GEFqydKl3ITnXXE4bZ97UB7NDXUQtwHejTlwaMOeiDLI8/WSKpIQ26dpne42tC2VlT39UDJ4pSAf7U2AYBBOsSQA8WSkUIWWj9NsBj3/n+7QevnbYsjcTRsmoB7P7ZVtteDP8PO1BKU3osi7kyWWmSry6wP6vi5zI3yuz85TlekHrwRWio6RDcn+yCHpvsbSkA8QgeX4DZrIOPI4w3gUWebgjLokpPC3rawABxltXJWVl9CNP7LrVJ0L33GqitPKwbRcEdH7rUK1XdS3vtyng3vA==;z0cusbtcDKW2H0/gytMCaQ=="
+secured: "7BGt5I6v1G8YSPRmIpY2kxk0C2OgM+FfAGRg6a11UY83ovhKlUJLtXEZsTW1H8qOCQjraYPl6G9Ov7A1CFm/dYx7ZjVh/RemIVb1Jk6Uvf30dqr5RxXk/156xdFkJm5IfPg4A/EPh+JQKQ20/bTr9aG1VAJbrPw+ITUIr3H+9+eXLLh389v3p/d2gsSgv8PlwnpsILcBcUQA61zVhyH/I5Xu2IO1ODZa6+kHXgkcdmlDeiVB5k0ZeVnXDNDxZO3QfND7roi59v3kHQGxinRZyBH3xhuQ7KZBPA/BHus1xXHfymp40AgFbGsTsgW5sw2Cq3T0wG9IYszMIQlpSgr0ZfojWLuX2po+ziQw15Y5FtA=;Wjb/T4gpQ9ac0szE3ElovQ=="
 ---
 
