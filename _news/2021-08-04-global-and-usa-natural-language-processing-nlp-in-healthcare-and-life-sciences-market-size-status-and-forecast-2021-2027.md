@@ -20,6 +20,15 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Healthcare Natural Language Processing (NLP) Market"
+    excerpt: "Market is expected to grow at a significant CAGR over the forecast period, owing to rising population focus on staying safe and healthy and investing in healthcare checkup activities, such as medical reasons for regular checkups and opting for insurance coverage,"
+    publishedDateTime: 2021-08-06T12:59:00Z
+    webUrl: "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 51
   - title: "Global Natural Language Processing (NLP) in Healthcare Market May see a big Move| with Brand Players| Forecast 2021-2027"
     excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Research Report 2021 offers a unique stratagies for assessing the market, featuring possibilities, and helping strategic and tactical decision-making."
     publishedDateTime: 2021-08-02T17:17:00Z

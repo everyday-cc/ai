@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-06-healthcare-natural-language-processing-nlp-market.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market",
+      "excerpt": "Market is expected to grow at a significant CAGR over the forecast period, owing to rising population focus on staying safe and healthy and investing in healthcare checkup activities, such as medical reasons for regular checkups and opting for insurance coverage,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/",
+      "originalUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-john-deere-acquires-automated-agritech-start-up-bear-flag-robotics.md",
       "title": "John Deere acquires automated agritech start-up Bear Flag Robotics",
       "excerpt": "The $250m deal will see autonomous tractor company Bear Flag continue to operate from its Silicon Valley base.",
@@ -96,7 +131,7 @@
       "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1160,58 +1195,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-master-face-researchers-say-theyve-found-a-wildly-successful-bypass-for-face-recognition-tech.md",
-      "title": "'Master Face': Researchers Say They've Found a Wildly Successful Bypass for Face Recognition Tech",
-      "excerpt": "Indeed, computer scientists at Tel Aviv University in Israel say they have discovered a way to bypass a large percentage of facial recognition systems by basically faking your face. The team calls this method the “master face” (like a “master key,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710",
-      "originalUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/45fb2850aed935b91d16304f20a38965.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710/amp",
-      "publishedDateTime": "2021-08-04T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

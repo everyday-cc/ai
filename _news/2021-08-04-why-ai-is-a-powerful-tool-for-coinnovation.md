@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -114,15 +114,6 @@ related:
         width: 1919
         height: 1080
         isCached: true
-  - title: "EarthTalk: How is artificial intelligence being used for conservation?"
-    excerpt: "How is artificial intelligence being used for conservation? — Katy P., Chevy Chase, Maryland You would never think that computers and artificial intelligence (AI) could help humans save nature, but in fact these tools may be key to whether or not we can halt global warming in time let alone solve many other vexing environmental problems."
-    publishedDateTime: 2021-08-01T20:00:00Z
-    webUrl: "https://www.wvgazettemail.com/news/earthtalk-how-is-artificial-intelligence-being-used-for-conservation/article_8fbdeb20-d478-5e2d-963e-6d7ed99de2b1.html"
-    type: article
-    provider:
-      name: Charleston Gazette-Mail
-      domain: wvgazettemail.com
-    quality: 17
 
 secured: "gEZw3LW5UulAdCEEtq5xwu+zD7UHXVsmugxNIhHJoMoLzw95QX2kOoubXfI1JS081IQJt6NrrPZTyZJZO6gSa97s/wabXqFBwOvt0A9vo3fTksBc1/2I/G9sBPR+q3j4f3gry4TGojl2xFhnVVe7YVsNrB96tb53Arn8XYJJMBuVBH6cPLxiNV5S0z20Cc7mgMLMMLyZ4qysDpjJuXBsAUyFEdfYX4ixVpCAlhQQbdoupRe41mPo/4ROj7wcDVDqKgtASU8LB1J8A+J2+6//XURHSyAM5aYFltPA8QrmTbpJOOi9CJvf01wAoWgxTu6MghH2fV+FclbC4bJG1Ug7d2hAX4/nqJNRo6lU2NtCDduSrc95+0yHHemFTSJXjvJOsw/5baoEo1S5CO85lZYtVYiTx9HAZOIUrjwu2M6COv2tUj7AxPIP+WDPgQKgK4gclAU7TR8n7KIkINEa25IUSNr+nb76PLLiHuplaWqs4HiqXLLia1NQCXTBmoRRqoF6MeAQoyKTQaK7X8duJ9ejxw==;vUh/shLQsm6JrbuvE1zzng=="
 ---

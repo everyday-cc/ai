@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind’s new system could be a step towards general AI, but there’s a way to go"
+    excerpt: "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”."
+    publishedDateTime: 2021-08-06T13:00:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
     excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
     publishedDateTime: 2021-08-04T05:30:00Z

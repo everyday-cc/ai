@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2021/08/ai-system-used-t
 webUrl: "https://eandt.theiet.org/content/articles/2021/08/ai-system-used-to-identify-breast-cancer-in-irish-healthcare-system/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 450
     isCached: true
-
-related:
-  - title: "Artificial Intelligence on the rise in UAE's healthcare sector"
-    excerpt: "The UAE is one of the biggest adopters of AI in the region and has invested a total of $2.15 billion in the sector over the last decade. Artificial intelligence (AI) is transforming the healthcare industry - along with several other industries in the country and has augmented efficiency and productivity during the pandemic."
-    publishedDateTime: 2021-08-01T19:50:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/Artificial_Intelligence_on_the_rise_in_UAEs_healthcare_sector-ZAWYA20210801121423/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 34
 
 secured: "xsXfi63HDfiXV8FTjiBnHl6u2/hQTD1pe/Qb1a6UPAD5KK7LE1nZhWu5umyp/EeK6IptVkHh/+FDx4X9tSoFwfWxQKeNmbNJ1wKJshmdmr8yTbrb0CovkGq8iKI/Zi+z0QaPORP+4HSMTbrEb3vqU7SFom3t51Nb9ycTOvWFHbZOHIPvJUfgCZ92n0Z5BLtLiot5VxwBVPrI64dCpGynj2JGVmzLPBbPvsQ3UP0BOafOKUT40Q2jZwJTY4XpCRpOcHjJnhRbK8WroG3pKeYPQWo4gQrI9L1N6KlPn+/dusJ0IpgaUErsAL/1R2eTt7xhJaitvm/JUDyKkfjmV4iNuFDoGDnniytxXiMlYop/PVI=;xwqewH/96ewxQ6Q2GRxz4w=="
 ---

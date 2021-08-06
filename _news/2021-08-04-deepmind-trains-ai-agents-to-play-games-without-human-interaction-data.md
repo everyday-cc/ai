@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind’s new system could be a step towards general AI, but there’s a way to go"
+    excerpt: "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”."
+    publishedDateTime: 2021-08-06T13:00:00Z
+    webUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 79
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "scAiQmv8e0ZA5xmxdJS0T8gMUBD5T5yisjcWy9f6go8cfh2ZcLPP21o7DVa+Ip0jjbI4yrAFBUHVCz1vkOIiTY0qy5BWri54zo6QSz+Fawknc/Fnyhs/rjAEvnNC86Psf+tqAIMwdHFF6AvXj4DBQ+Gi/3+HAL2Zw2csAGflyhGy/aKN7N8K/PTVhlnmMA5wWOM9gZhERkjSK3vvGkRwlDg9ZSczQLXGHyOVobv+3LRfNwbmo+ac/liGw7h34Bt92mampCS3l2A6Gpe8SPUF1SXWrbCxQ4ai7JxYRajGAs4Z+rhiEKifIKIavURM+fWJzOrhews5z0nntqXT85haqOir4NZwIsq6oPk+68cqLzm/h3jvVxcV1r5wGKtiYk35WY5OQI67PAYDTAtkyjWal2vAz93Wag/sCy+Yju9yuaein4jiAmYlUeFeHJUN6prXRY3XbTk/Fl9k7+uJXWaAI/IHS06PzNzwFkY2b5/UaLXwqYgAazyNg3odCiZvQR0kIwJ+hRWjryngfTWtY+OEJw==;m3ov8yRGGPJc8bYTL4TkWw=="
 ---

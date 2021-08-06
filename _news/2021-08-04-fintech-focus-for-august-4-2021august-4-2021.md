@@ -24,22 +24,6 @@ images:
     height: 238
     isCached: true
 
-related:
-  - title: "Music Fintech Company Offers Advances Up To $1 Million To Drive Artist Empowerment And Freedom"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-01T19:37:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/music-fintech-company-offers-advances-up-to-1-million-to-drive-artist-empowerment-and-freedom/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 12
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/98e03718d045ba1b9828cf3120163f4e.jpeg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "2SRBLjmrqvQJlLbwlo0QacYKL2KeUJDH5718btm9L2am9RvfkjLxjW0F58OoXNK9P8G/nAQnuUriTNMiTLZ3CP4rgvtD2gfJNUWQnaXLw6867g2M/VgXiuXpIfaY6FOOvXdgo1Up13KX4ngEwa03heDa6KJLFtnC3WLuQmT8jjH1Gi9avSU+Nr/CCELMIgpq+xEofN+7RT7su9Z5EmlnvNmszIlLWmDSI7s65Aq4B0gmemda7092gubomhilxEQwrjrOEN9j8v4jLDM55fkmrencS6hA7XKAMyghmeL7mlK9w5d2/6ipE2ZDhi5D1AB58vRvcJezddvlPCcbgXZ3KxkV+to619GJEbJxZ+dxOtQ=;PlNsFi8HhMIbXMFWZi7QSQ=="
 ---
 

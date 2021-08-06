@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-cohere
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/gsx.gif"
         width: 500
         height: 288
+        isCached: true
+  - title: "Using artificial intelligence to map African cities to improve services and infrastructure at low cost"
+    excerpt: "Using aerial imagery provided by the Zambia Survey Department in the Ministry of Lands and Natural Resources, OS has utilised its advanced automated process to generate a new base map using Artificial Intelligence across 420km2 of Lusaka. This innovative ..."
+    publishedDateTime: 2021-08-06T13:07:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10955"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 23
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/August/6/7/5f2a6510-0356-4423-8b1a-1e153686c68e-sized"
+        width: 800
+        height: 800
         isCached: true
 
 secured: "ClwapfCQ1b8yuDphCccnB4s5YLBjDGu9DP3Q9NYihwrB3DKtbLPflPrfPCYNyS1GFOkwvG2WDG8PfViPAfhW6h6S7mrnKr5Wu6A9DovNVyQ49bLpTWx15t6co/Y9HG8KGR55QiavLK3SzFY6VQNuK7lSrDEQneUp/fGOmr7x89NrjgS0tUdcnuxNdCKpBgp/wov1RWzzWi8QPVdjqS9F8dG2Mg1YRrV2Wwltv+0paFsCKCfzpgmhKGLkETA9v1C/VT36JxZMxTmBjftMWesSH4M4+LIdGC6ELtkEQBBTgUhCj1JstnZX8WWFsH699NBOneT+9iPSBtCExvNq2bBmNpWLBF1mf5Qo4p5f7jwnSuKB1GP6aA/swCJCbUFgCkm6z3B8VC0/YiTyRpLVeXUXEm+CrVIThiTsBZA3XLVk036BXIkVn2jM7tyRr2TwOydBKszsOlqPxg+yIY4xP7CwqyNHlEk/ymCGFNK4hgPR89ayZG0vz/5f3LS3PJX9S2SPWEQaDUQzeyZX4s97TH5+Pw==;CuJrq5LfYP7qkkX/6asx3w=="

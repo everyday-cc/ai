@@ -123,6 +123,20 @@ related:
         width: 1600
         height: 942
         isCached: true
+  - title: "Google's Tensor Chip Could Spell Trouble for 5G"
+    excerpt: "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G."
+    publishedDateTime: 2021-08-06T13:28:00Z
+    webUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05M7Sgx0f25cX2q7OKHezIg-1.1628184011.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Pixel 6 Pro, Pixel 6 announced with Google Tensor chip, Android 12: Check details here"
     excerpt: "The Pixel 6 gets a dual-camera setup with a main and an ultrawide sensor. The Pixel 6 Pro camera module has a triple-camera setup with an additional telephoto lens that supports 4x zoom."
     publishedDateTime: 2021-08-02T17:51:00Z
