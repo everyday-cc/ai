@@ -9,8 +9,8 @@ ampWebUrl: "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-devel
 cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Twice
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "TWS Development Kit Puts AI Into Ears"
+    excerpt: "A TWS development kit shortens design cycle for OEMs and gets Bluetooth-enabled earbuds and headphones with advanced AI features more quickly to market."
+    publishedDateTime: 2021-08-06T14:01:00Z
+    webUrl: "https://www.mwrf.com/technologies/systems/article/21171626/microwaves-rf-tws-development-kit-puts-ai-into-ears"
+    type: article
+    provider:
+      name: Microwaves & RF
+      domain: mwrf.com
+    quality: 39
+    images:
+      - url: "https://img.mwrf.com/files/base/ebm/mwrf/image/2021/08/0821MW_Knowles_TWS_dev_kit_promo.610d3ab066c07.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Knowles Releases AI-Enabled TWS Development Kit with Premium Features"
     excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precisi"
     publishedDateTime: 2021-08-05T17:00:00Z

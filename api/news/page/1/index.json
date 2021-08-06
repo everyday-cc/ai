@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-06-famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars.md",
+      "title": "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars",
+      "excerpt": "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-06T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area.md",
+      "title": "Nvidia has absolutely trounced AMD in this vital chip area",
+      "excerpt": "Despite the competition coming in droves, Nvidia has managed to maintain its leading position in the global market for Artificial Intelligence (AI) chips used in cloud and data centers. Nvidia has also managed to maintain a large gap between itself and the rest,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p8a2RidshtSAWMtQWPVTbe-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "publishedDateTime": "2021-08-06T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-remote-sales-startup-goodmeetingsai-raises-17-mn-funding.md",
+      "title": "Remote Sales Startup Goodmeetings.ai Raises $1.7 Mn Funding",
+      "excerpt": "The platform will use the proceeds over the next 12-18 months to build technology and scale up teams in the US",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379552",
+      "originalUrl": "https://www.entrepreneur.com/article/379552",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628258630-visual-stories-micheile-lZ-4nPFKcV8-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379552",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379552",
+      "publishedDateTime": "2021-08-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
+      "title": "Schools Look for Help From AI Teacher’s Assistants",
+      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "publishedDateTime": "2021-08-06T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
+      "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
+      "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "publishedDateTime": "2021-08-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-healthcare-natural-language-processing-nlp-market.md",
       "title": "Healthcare Natural Language Processing (NLP) Market",
       "excerpt": "Market is expected to grow at a significant CAGR over the forecast period, owing to rising population focus on staying safe and healthy and investing in healthcare checkup activities, such as medical reasons for regular checkups and opting for insurance coverage,",
@@ -131,7 +389,7 @@
       "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -518,7 +776,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -695,6 +953,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-knowles-releases-ai-enabled-tws-development-kit-with-premium-features.md",
+      "title": "Knowles Releases AI-Enabled TWS Development Kit with Premium Features",
+      "excerpt": "New TWS development kit shortens design cycle for OEMs and accelerates timeline to bring TWS products with advanced features to market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
+      "originalUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.twice.com/wp-content/uploads/2021/08/TWS-Development-Kit.png",
+          "width": 986,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
+      "cdnAmpWebUrl": "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
+      "publishedDateTime": "2021-08-05T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Twice",
+        "domain": "twice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -902,299 +1203,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-facial-recognition-of-students-taking-jee-neet-soon-experts-flag-risks.md",
-      "title": "Facial recognition of students taking JEE, NEET soon? Experts flag risks",
-      "excerpt": "The National Testing Agency, which conducts several exams including the Joint Entrance Examination (Main) as well as Advanced, and the National Eligibility cum Entrance Test (NEET), has floated a tender for facial recognition and fingerprint verification to verify a candidateâ€™s identity on a real-time basis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465",
-      "originalUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thenewsminute.com/sites/default/files/Exams-covid-1200-pti_0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp",
-      "cdnAmpWebUrl": "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp",
-      "publishedDateTime": "2021-08-04T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The News Minute",
-        "domain": "thenewsminute.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
-      "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
-      "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
-      "originalUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/610af9dd3b00007491ecdf6b.jpeg?ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-pentagon-is-using-ai-to-predict-events-days-into-the-future.md",
-      "title": "The Pentagon is using AI to predict events days into the future",
-      "excerpt": "Before we talk about the US military using big data and artificial intelligence to try to predict future events, we might as well address the elephant -- or rather the notoriously small-statured but undeniably charismatic actor -- in the room.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
-      "originalUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/AS85k6X7nbbOhJOkXkV7N59q-aQ=/1200x630/2021/08/03/25f8c78a-6b58-49ba-a00d-5e92705e81ba/210713-f-zd999-001.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
-      "publishedDateTime": "2021-08-04T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
-      "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
-      "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "publishedDateTime": "2021-08-04T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-reimagine-knowledge-discovery-using-amazon-kendras-web-crawler.md",
-      "title": "Reimagine knowledge discovery using Amazon Kendra’s Web Crawler",
-      "excerpt": "When you deploy intelligent search in your organization, two important factors to consider are access to the latest and most comprehensive information, and a contextual discovery mechanism. Many companies are still struggling to make their internal documents searchable in a way that allows employees",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-discovery-using-amazon-kendras-web-crawler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reimagine-knowledge-discovery-using-amazon-kendras-web-crawler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/28/1-4821-WebcrawlerIndex.jpg",
-          "width": 800,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T15:46:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-prompt-based-learning-can-make-language-models-more-capable.md",
-      "title": "Prompt-based learning can make language models more capable",
-      "excerpt": "Supervised learning, where AI models are trained on input data annotated for a particular output until they can detect the underlying relationships between the inputs and outputs, plays a major role in natural language processing (NLP).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
-      "publishedDateTime": "2021-08-04T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

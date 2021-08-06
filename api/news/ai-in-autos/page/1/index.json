@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-06-famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars.md",
+      "title": "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars",
+      "excerpt": "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-08-06T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
       "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
       "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
@@ -214,7 +266,7 @@
       "originalUrl": "https://www.wsj.com/articles/vc-daily-judging-the-future-of-self-driving-truck-startups-11628002586",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -288,6 +340,58 @@
         "name": "9to5Mac",
         "domain": "9to5mac.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-xiaomi-invests-in-a-second-self-driving-company-within-three-months.md",
+      "title": "Xiaomi invests in a second self-driving company within three months",
+      "excerpt": "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
+      "originalUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FXiaomi.jpg&signature=bc13453f61222aa3c618ab670fc5ffd7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1304,102 +1408,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise.md",
-      "title": "Tesla Full Self-Driving explained: Its capabilities, cost and puzzling over-promise",
-      "excerpt": "Perhaps the most overly optimistic technology in all of the auto industry is Tesla's Full Self-Driving package. No car for sale to the general public can do what that name says. Here's what it really does and how to get it on your Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "originalUrl": "https://www.cnet.com/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/hTc2mT4Ktz7OJaDFafDjDPV8KhE=/2016/10/20/2d92b545-6e58-409b-b494-76c8511dfc32/tesla-self-driving-hardware-4.jpg",
-          "width": 1590,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-explained-its-capabilities-cost-and-puzzling-over-promise/",
-      "publishedDateTime": "2021-07-23T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-robots-take-the-wheel-lyft-to-offer-driverless-rides-in-austin-next-year.md",
-      "title": "Robots take the wheel: Lyft to offer driverless rides in Austin next year",
-      "excerpt": "Austin will be one of the first markets to offer autonomous ride-hailing options through a partnership between Lyft, Ford and Argo AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
-      "originalUrl": "https://www.statesman.com/story/business/2021/07/23/robots-take-wheel-lyft-offer-driverless-rides-austin-next-year/8058042002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/def4af00-1044-45e0-8c46-e92a92bca497-Lyft-Argo-Ford_AV_Escape_Hybrid_02.jpg?auto=webp&crop=7359,4140,x0,y376&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.statesman.com/amp/8058042002",
-      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/8058042002",
-      "publishedDateTime": "2021-07-23T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

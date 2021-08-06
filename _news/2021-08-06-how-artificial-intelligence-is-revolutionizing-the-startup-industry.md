@@ -3,8 +3,8 @@ category: news
 title: "How Artificial Intelligence is revolutionizing the startup industry"
 excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
 publishedDateTime: 2021-08-06T11:27:00Z
-originalUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
-webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
+originalUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
+webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628265600&Signature=03nqCs8d%2FdS7UDWlvvjgOIhpeTw%3D"
+  - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628272800&Signature=PyoDG0rBWLN9J5aM07coTm9BlwA%3D"
     width: 453
     height: 640
     isCached: true
@@ -69,6 +69,6 @@ related:
         height: 300
         isCached: true
 
-secured: "FonVFul9o+9foOYxz/DNrKvs4UaFrQcpsV0/uKxM0An5/W02gz9pkx91hdrTzhvRXewTXuqNg0S1WBqRTBsn/mJVdnN1Z0BIi99X/iyVgsi3qwa5lXpbVVLpRSfCNzGicqDIhXZE/C8z4wOjA3UFVotcZcwJwOqNZvhKxxnesY/yGJXky3q0GOboXzh4EOiSANmcpBl/5PLfSHZucI+KbZIm4+7iTz+dkvdB6mzNfjyd+Xz5HEkwhfrJnd33m5LsIIpSNUUjKzE616fasRWTMLO9rr5JpvwhhSume1zAMkq4pb4T9KCt/3brXGY6N6iKE/vwQX4fYQVq2mcgZRT4Sk2RE4Quhai7+N/TL4ZdlS0=;8IkY/q+xDMjsszrkJIkqpg=="
+secured: "ebPLfVFcxHl1/cwJXM4xK6/EkN8Kd/iG8N439kZqij+3fhz66sQTvJ1rYoB09aQlV1ZXOf6HfzP5PH1x/9s8z9/Hl+g7F7mEovbd1m+/ayk67G++1P+/00birlVmfJxU35tGVP/72Lir6T25wicjHlWb6B1a/4I5xj8Vp1AEsS/aU7QQ5BJBeP8ET9cXCo4qd1CVq1s/Lu8MwQcsurmJz8ID1S+qUIi5xkswSYHP2Kxe1nODMMbMnhzoSmexszPHgXQ9mTzheC7jIVQNc0EDC2Qjt5X88TEpECKlWvIcUPWqbHud7OqMBOWT3uckvUzQcEUfNVbbExxdm/PqAtrK3N6J9G8WKH4fYNKb25DdQck=;0ST4HVtTzzdxCvJtYIbfZQ=="
 ---
 

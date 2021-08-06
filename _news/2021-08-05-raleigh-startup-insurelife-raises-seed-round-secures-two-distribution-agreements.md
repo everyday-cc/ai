@@ -37,20 +37,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 65
-  - title: "Sales productivity startup Nectar.AI raises funding led by 3One4, others"
-    excerpt: "Nektar.AI, a SaaS-based B2B sales productivity startup, has raised $6 million (Rs 44.6 crore) in seed funding led by B Capital"
-    publishedDateTime: 2021-08-02T14:02:00Z
-    webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 53
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "AI-based agtech startup AgroScout raises $7.5 million"
     excerpt: "Looking to reach more than 500 million mostly underserved farms worldwide, agtech startup AgroScout has raised $7.5 million in a Series A funding round. The company provides farmers with a comprehensive crop management solution,"
     publishedDateTime: 2021-08-04T15:44:00Z

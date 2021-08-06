@@ -2,6 +2,334 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-06-16-automate-amazon-sagemaker-studio-setup-using-aws-cdk.md",
+      "title": "Automate Amazon SageMaker Studio setup using AWS CDK",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). Studio provides a single web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. You can quickly upload",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-studio-setup-using-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-studio-setup-using-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T08:06:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-facebooks-ai-moderator-will-tell-group-admins-when-users-are-beefing-in-the-comments.md",
+      "title": "Facebook’s AI moderator will tell group admins when users are beefing in the comments",
+      "excerpt": "Facebook is launching a suite of new tools to help group admins get a grip on their communities. Some simply offer a clearer overview of posts and members, while others are designed to help admins tackle conflict — including an AI-powered feature that Facebook says can identify “contentious or unhealthy conversations” taking place in the comments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-e2-80-99s-ai-moderator-will-tell-group-admins-when-users-are-beefing-in-the-comments/ar-AAL71XO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_1z-fkl00kxNZgBGxSWX4S8mK-s=/5x66:2700x1760/1400x933/filters:focal(1104x771:1536x1203):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69460942/facebook_conflict_alerts.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+      "publishedDateTime": "2021-06-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+        "domain": "theverge.com/2021/6/16/22534643/facebook-group-admin-moderation-tools-ai-flag-comments-fighting",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-tusimple-stock-the-driverless-truck-stock-that-counts-nvidia-and-cathie-wood-as-investors.md",
+      "title": "TuSimple Stock: The Driverless Truck Stock That Counts NVIDIA and Cathie Wood as Investors",
+      "excerpt": "We're going to take a look at TuSimple (NASDAQ:TSP), which develops self-driving technology for long-haul trucks. This is probably a new name for many investors, as it just held its initial public offering (IPO) on April 15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F630573%2Ftsp-stock-tusimple-stock-driverless-vehicle-stocks-autonomous-truck-stocks-ev-stocks-nvda-stock-cathie-wood-stocks-is-tsp-stock-a-buy-in-2021-2.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/tusimple-stock-the-driverless-truck-stock-that-cat/",
+      "publishedDateTime": "2021-06-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first.md",
+      "title": "Vodafone and AWS Wavelength launch edge computing in Europe-wide first",
+      "excerpt": "Wavelength on the Vodafone 4G and 5G networks delivers ultra-low latency capabilities to UK business customers and software developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
+      "originalUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/vodafone-and-aws-wavelength-launch-edge-computing-in-europe-wide-first-41699/amp/",
+      "publishedDateTime": "2021-06-16T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-alphabets-waymo-raises-25-billion-in-first-fresh-funding-in-a-year.md",
+      "title": "Alphabet's Waymo raises $2.5 billion in first fresh funding in a year",
+      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,\" Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/stock-market-news/alphabets-waymo-raises-25-billion-in-funding-round-2533766",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/alphabets-waymo-raises-25-billion-in-funding-round-2533766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXMPEE0U1TO_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone.md",
+      "title": "Self-driving trucks startup Kodiak Robotics snags investment, partnership from Bridgestone",
+      "excerpt": "Tire-making giant Bridgestone has taken a minority stake in Kodiak Robotics, the Silicon Valley-based startup developing autonomous trucks, as part of a broader partnership to test and develop smart tire technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
+      "originalUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-fedex-partners-with-ai-robotics-company-on-last-mile-delivery.md",
+      "title": "FedEx partners with AI robotics company on last-mile delivery",
+      "excerpt": "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
+      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fleet Owner",
+        "domain": "fleetowner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-update-3-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
       "title": "UPDATE 3-Alphabet's Waymo raises $2.5 bln in first fresh funding in a year",
       "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a statement. The duo became co-CEOs after John Krafcik stepped ...",
@@ -842,341 +1170,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
-      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
-      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:25:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud.md",
-      "title": "Unlocking the enterprise opportunity with 5G, edge compute, and cloud",
-      "excerpt": "The power of 5G, IoT, and real-time AI will unlock new and innovative services for enterprises across the world to accelerate their transformation toward Industry 4.0 as they evolve and adopt diverse new business models. Today, we’re introducing Azure private multi-access edge compute (MEC), new services",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
-      "originalUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
-      "title": "NVIDIA and the battle for the future of AI chips",
-      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
-      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
-      "publishedDateTime": "2021-06-15T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-europe-ai-in-computer-vision-market.md",
-      "title": "Europe AI in Computer Vision Market",
-      "excerpt": "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
-      "originalUrl": "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U616144349_g.jpg",
-          "width": 439,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
-      "publishedDateTime": "2021-06-15T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc.md",
-      "title": "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc",
-      "excerpt": "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-movie.md",
-      "title": "Jennifer Lopez Will Battle a Killer AI in a New Netflix Movie",
-      "excerpt": "Deadline reports she’s set to star and produce a new film called Atlas, which is being made for Netflix. Brad Peyton ( Rampage, San Andreas) is attached to direct from an original script by Leo Sardarian (Crackle’s StartUp ),",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
-      "originalUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/230200c1759aa0f9748bfdf710315924.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
-      "publishedDateTime": "2021-06-15T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation.md",
-      "title": "Hungryroot's AI-Powered Personalized Grocery Service Reaches $750M Valuation",
-      "excerpt": "Artificial intelligence (AI) is becoming a greater part of multiple industries, including groceries. Investments in AI are also increasing as more companies look to technology to remain competitive, and more consumers continue to shop online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
-      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c925b5cf33a1b67bd71929%2F0x0.jpg%3FcropX1%3D1031%26cropX2%3D3525%26cropY1%3D230%26cropY2%3D1893",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
-      "publishedDateTime": "2021-06-15T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

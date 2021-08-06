@@ -2,6 +2,341 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
+      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
+      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:25:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud.md",
+      "title": "Unlocking the enterprise opportunity with 5G, edge compute, and cloud",
+      "excerpt": "The power of 5G, IoT, and real-time AI will unlock new and innovative services for enterprises across the world to accelerate their transformation toward Industry 4.0 as they evolve and adopt diverse new business models. Today, we’re introducing Azure private multi-access edge compute (MEC), new services",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "originalUrl": "https://azure.microsoft.com/blog/unlocking-the-enterprise-opportunity-with-5g-edge-compute-and-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fa65174f-da4b-455a-9df3-f85a7f2fee42.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T00:00:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-nvidia-and-the-battle-for-the-future-of-ai-chips.md",
+      "title": "NVIDIA and the battle for the future of AI chips",
+      "excerpt": "NVIDIA’s GPUs dominate AI chips. But a raft of startups say new architecture is needed for the fast-evolving AI field",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
+      "originalUrl": "https://www.wired.co.uk/article/nvidia-ai-chips?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/60c7b882edeb9d79d47f89f4/master/pass/1621-WIRED-Chips.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "cdnAmpWebUrl": "https://www-wired-co-uk.cdn.ampproject.org/c/s/www.wired.co.uk/article/nvidia-ai-chips/amp",
+      "publishedDateTime": "2021-06-15T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-europe-ai-in-computer-vision-market.md",
+      "title": "Europe AI in Computer Vision Market",
+      "excerpt": "The AI in computer vision market in Europe is expected to grow from US 1 212 90 million in 2019 to US 27 107 46 million by 2027 it is estimated to grow at a CAGR of 48 5 from",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
+      "originalUrl": "https://www.openpr.com/news/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U616144349_g.jpg",
+          "width": 439,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2306094/europe-ai-in-computer-vision-market-witness-huge-growth-by-2027",
+      "publishedDateTime": "2021-06-15T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc.md",
+      "title": "Cognitive Services Market Size, Revenue Share, Drivers & Trends Analysis, 2020-2026 | Top Key Players Microsoft, IBM, AWS etc",
+      "excerpt": "The global cognitive services market is forecast to reach USD 36.85 Billion by 2026, according to a new report by Reports",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-size-revenue-share-drivers-trends-analysis-2020-2026-top-key-players-microsoft-ibm-aws-etc-2021-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-15T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-movie.md",
+      "title": "Jennifer Lopez Will Battle a Killer AI in a New Netflix Movie",
+      "excerpt": "Deadline reports she’s set to star and produce a new film called Atlas, which is being made for Netflix. Brad Peyton ( Rampage, San Andreas) is attached to direct from an original script by Leo Sardarian (Crackle’s StartUp ),",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "originalUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/230200c1759aa0f9748bfdf710315924.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/jennifer-lopez-will-battle-a-killer-ai-in-a-new-netflix-1847106551/amp",
+      "publishedDateTime": "2021-06-15T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation.md",
+      "title": "Hungryroot's AI-Powered Personalized Grocery Service Reaches $750M Valuation",
+      "excerpt": "Artificial intelligence (AI) is becoming a greater part of multiple industries, including groceries. Investments in AI are also increasing as more companies look to technology to remain competitive, and more consumers continue to shop online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c925b5cf33a1b67bd71929%2F0x0.jpg%3FcropX1%3D1031%26cropX2%3D3525%26cropY1%3D230%26cropY2%3D1893",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2021/06/15/hungryroots-ai-powered-personalized-grocery-service-reaches-750m-valuation/amp/",
+      "publishedDateTime": "2021-06-15T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-mexican-fintech-credijusto-buys-bank-to-serve-x-border-smbs.md",
       "title": "Mexican FinTech Credijusto Buys Bank To Serve X-Border SMBs",
       "excerpt": "Credijusto says it’s the first Mexican FinTech to buy a regulated bank, transforming itself into Latin America’s only neobank concentrated on working with small to medium-sized businesses (SMBs). “Our acquisition of Banco Finterra creates the first truly digital banking platform for Mexican [SMBs],",
@@ -831,324 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-cord-raises-45m-to-automate-computer-vision-annotation-processes.md",
-      "title": "Cord raises $4.5M to automate computer vision annotation processes",
-      "excerpt": "Cord, a computer vision annotation automation platform, has raised an estimated $4.5 million in a seed funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/cord-raises-4-4m-to-automate-computer-vision-annotation-processes/amp/",
-      "publishedDateTime": "2021-06-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word.md",
-      "title": "Facebook's new AI project: Copy text style from image using a single word",
-      "excerpt": "The first self-supervised AI model can ... in images to different languages, creating personalized messaging and captions, and \"maybe one day facilitating real-world translation of street signs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "originalUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "publishedDateTime": "2021-06-15T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-fedex-to-test-package-deliveries-with-self-driving-start-up-nuro.md",
-      "title": "FedEx to test package deliveries with self-driving start-up Nuro",
-      "excerpt": "FedEx and robotics company Nuro on ... Kroger Co and Domino's Pizza Inc in the Houston area. Nuro continues to test its technology in Arizona. Nuro, whose R2 unit has space for delivery cargo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/dominos-nuro-start-robot-pizza-delivery-houston-2021-04-12/",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/fedex-to-test-package-deliveries-with-self-driving-start-up-nuro-15019992",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/P6R3TDh9hd2YHy_v_9e5jwM7a9A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B4HR3XMWWROH3K4V6SMATGKLSQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-nlp-parses-text-data-to-drive-value-in-the-enterprise.md",
-      "title": "NLP parses text data to drive value in the enterprise",
-      "excerpt": "Natural language processing (NLP), a subfield of AI involved with natural language understanding, can drive business value in the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/nlp-parses-text-data-to-drive-value-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-06-15T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021.md",
-      "title": "State of AI report: AI industry showing strong signs of maturity in 2021",
-      "excerpt": "The findings not only show a maturing industry, they also serve as a useful resource for AI practitioners working on their own deployments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "originalUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1183941934.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/15/state-of-ai-report-ai-industry-showing-strong-signs-of-maturity-in-2021/amp/",
-      "publishedDateTime": "2021-06-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte.md",
-      "title": "Exscientia Acquires Personalised Medicine AI Pioneer Allcyte",
-      "excerpt": "Pioneering work by Allcyte has delivered a platform able to anticipate the effectiveness of cancer treatments in the clinic by using AI to analyse the activity of drugs in live patient samples at single-cell resolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-exscientia-acquires-personalised-medicine-ai-pioneer-allcyte-/2021/06/15/9390381.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "A rtificial intelligence will likely reshape the world in the coming decades. Autonomous machines will be able to hear, see, learn, think, and make decisions. This will drive productivity and innovation across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?time=1623757801",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-06-15?amp",
-      "publishedDateTime": "2021-06-15T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,327 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
+      "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
+      "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
+      "title": "What Ever Happened to IBM’s Watson?",
+      "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "originalUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/07/16/business/16Watson-video-still/16Watson-video-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/16/technology/what-happened-ibm-watson.amp.html",
+      "publishedDateTime": "2021-07-16T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-satya-nadella-on-microsofts-structural-transformation.md",
+      "title": "Satya Nadella on Microsoft's 'structural transformation'",
+      "excerpt": "With Azure Machine Learning, you can build advanced AI models to identify trends and predict outcomes. With Synapse and Power BI, an entirely new generation of SaaS applications is being created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/satya-nadella-on-microsofts-structural-transformation-567447",
+      "originalUrl": "https://www.crn.com.au/news/satya-nadella-on-microsofts-structural-transformation-567447",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/satya_bookcover-print-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-unfairly-kicked-out-of-skating-rink.md",
+      "title": "Backlash to retail use of facial recognition grows after Michigan teen unfairly kicked out of skating rink",
+      "excerpt": "Apple, Macy's, Albertsons, Lowes and Ace Hardware all use facial recognition software in their stores. Multiple civil rights groups banded together this week to end the use of facial recognition tools by large retailers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
+      "publishedDateTime": "2021-07-15T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
+      "title": "eBay taps computer vision to transform online shopping",
+      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
+      "publishedDateTime": "2021-07-15T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-robotics-and-ai-will-reshape-the-life-sciences-buildings-of-the-future.md",
+      "title": "Robotics And AI Will Reshape The Life Sciences Buildings Of The Future",
+      "excerpt": "Robotics and AI are changing life sciences workspaces, challenging life sciences developers to adapt to these emerging technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
+      "originalUrl": "https://www.bisnow.com/national/news/life-sciences/robotics-and-ai-will-reshape-the-life-sciences-labs-of-the-future-109563",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F07%2F60f0a5516ee89-thisisengineering-raeng-mf6gb6hv5ou-unsplash-2.jpeg&width=1200&sign=WKj1WTXyhuhiludNCGLnB5eA_19OTjhPg0lpXHPeci4",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bisnow",
+        "domain": "bisnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts.md",
+      "title": "Latest Qld Covid-19 exposure sites: full list of Queensland coronavirus hotspots and case location alerts",
+      "excerpt": "Here are the current coronavirus hotspots and Covid-19 public exposure sites in Queensland and what to do if you’ve visited them.",
+      "sourceUrl": null,
+      "webUrl": "https://spectrum.ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+      "originalUrl": "https://www.msn.com/en-au/news/australia/latest-qld-covid-19-exposure-sites-full-list-of-queensland-coronavirus-hotspots-and-case-location-alerts/ar-AAMcLn6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T17:01:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+        "domain": "ieee.org/computing/software/many-experts-say-we-shouldnt-worry-about-superintelligent-ai-theyre-wrong",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-content-analytics-discovery-and-cognitive-software-market-may-set-new-growth-story-hewlett-packard-baidu-elastic-google.md",
       "title": "Content Analytics Discovery and Cognitive Software Market May Set New Growth Story | Hewlett-Packard, Baidu, Elastic, Google",
       "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. Rise in Adoption of Cloud Based Technology ...",
@@ -828,334 +1149,6 @@
         "AI Ethics",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-native-voice-nabs-14m-to-convert-devices-into-branded-voice-assistants.md",
-      "title": "Native Voice nabs $14M to convert devices into branded voice assistants",
-      "excerpt": "Native Voice, a company developing an SDK that allows companies to bring branded voice assistants to devices, has raised $14 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ScreenShot2021-01-03at10.04.26AM.png?w=1200&strip=all",
-          "width": 1000,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "publishedDateTime": "2021-07-15T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-what-happens-when-robots-make-fake-news.md",
-      "title": "What Happens When Robots Make Fake News?",
-      "excerpt": "Writing created by artificial intelligence has dramatically improved over the last few years. Such robot-generated text is now used in newsrooms as well as by companies looking to generate content quickly and cheaply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "originalUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f083d5cfdd52608822ee31%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/helenleebouygues/2021/07/15/what-happens-when-robots-make-fake-news/amp/",
-      "publishedDateTime": "2021-07-15T12:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
-      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
-      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/470834",
-      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds.md",
-      "title": "Attackers can elicit ‘toxic behavior’ from AI translation systems, study finds",
-      "excerpt": "Watch now! Neural machine translation (NMT), or AI techniques that can translate between languages, is in widespread use today owing to its robustness and versatility. But it’s been shown that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/attackers-can-elicit-toxic-behavior-from-ai-translation-systems-study-finds/amp/",
-      "publishedDateTime": "2021-07-15T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model.md",
-      "title": "Researchers match DeepMind’s AlphaFold2 protein folding power with faster, freely available model",
-      "excerpt": "DeepMind stunned the biology world late last year when its AlphaFold2 AI model predicted the structure of proteins (a common and very difficult problem) so accurately that many declared the decades-old problem “solved.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "originalUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/rosettafold.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/15/researchers-match-deepminds-alphafold2-protein-folding-power-with-faster-freely-available-model/amp/",
-      "publishedDateTime": "2021-07-15T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-self-driving-startup-aurora-to-go-public-through-spac.md",
-      "title": "Self-Driving Startup Aurora to Go Public Through SPAC",
-      "excerpt": "The special-purpose acquisition company behind the deal is backed by the founders of LinkedIn and Zynga Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-370052/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-startup-aurora-to-go-public-through-spac-11626371629",
-      "publishedDateTime": "2021-07-15T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
-      "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
-      "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

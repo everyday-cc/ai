@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Sales productivity startup Nectar.AI raises funding led by 3One4, others"
-    excerpt: "Nektar.AI, a SaaS-based B2B sales productivity startup, has raised $6 million (Rs 44.6 crore) in seed funding led by B Capital"
-    publishedDateTime: 2021-08-02T14:02:00Z
-    webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 53
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Raleigh startup InsureLife raises seed round, secures two distribution agreements"
     excerpt: "A Raleigh-based insurance technology startup that uses artificial intelligence has raised an undisclosed seed round, and plans to raise a Series A round later this year."
     publishedDateTime: 2021-08-05T15:05:00Z

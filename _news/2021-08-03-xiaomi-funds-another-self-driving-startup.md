@@ -41,36 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Apple Expands Fleet of Self-Driving Cars"
-    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
-    publishedDateTime: 2021-08-03T15:39:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
-  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
-    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
-    publishedDateTime: 2021-08-03T19:23:00Z
-    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
-        width: 1200
-        height: 640
-        isCached: true
   - title: "Self-driving Vehicles Market: Moving Towards a Brighter Future"
     excerpt: "The “Self-driving Vehicles Market” report includes an in-depth analysis of the global Self-driving Vehicles market for the present as well as forecast period. The report encompasses the competition landscape entailing share analysis of the key players in the Self-driving Vehicles market based on their revenues and other significant factors."
     publishedDateTime: 2021-08-03T10:11:00Z

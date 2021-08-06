@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Xiaomi’s latest car related investment is in Geometrical Pal, an autonomous driving company"
+    excerpt: "Xiaomi has just invested into Geometrical Pal, a company that specializes in autonomous driving technology. This marks another investment from the company in to the automobile related industry. According to a Sohu report,"
+    publishedDateTime: 2021-08-02T12:34:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/02/xiaomi-invest-geometrical-pal-autonomous-driving/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 44
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/03/Xiaomi-Logo-Branding-2021.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "3Tsc/phcbHvd3OtTZ2jXjMAvY00j/CwWf2ztf+OviPFerzpkL4CDCe+lifdet5CQ/g/ivGabVFr3sZ8KNBikQfbuGeGMUo+ZnDI+QdpB4WEBWco+aZrEZ+i0jO75joPOW91o9cXI2KiIhmYJA6AHim9SIIr215Wen0lQTdtnoJmz70tVsVmK+w/QtCjG7dK4UHZoWN/ec0nGy767mQMW3pZbu/4w7O+UlFP+Y71mHk01Pat1bhSuXnJmGGnhqzKeD1g+ZEuMl2p/rGBx9smXe9CqmvRm8q3Z/cMrfCtBBcvVtirkBxMXZ9lF+08ZGOSAjL56tpZmAR7AZe8v4euWe09Y6B2E5dY6UPtv7od2tKDpdRUxuicTs8WgLnkiQ6CcyEvVCDFCAXrwL5x3bzGBjCL1I/yMK6jM/B6WaXr4l6Qcmyg/isr2476qJ7ZYGiASrnK2xSC40Rd9ak2AGVW1SUqEtu6xjPhpdO5C8L+x2YI9/50DSK8wkXoD00ghx3x/GQ6qykTQd6bDzlYUC8QnxA==;6vnLuyBzCAONwYSrbcASpA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessreport.com/business/movebr-modifications-could-b
 cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/movebr-modifications-could-be-used-for-self-driving-cars?amp=1"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving-car based on the Nvidia Xavier Module"
-    excerpt: "Self-driving-car based on the Nvidia Xavier Module. Abstract. This is how the U.S. National Highway Traffic Safety Administration defines level 5 self-driving cars: “The vehicle"
-    publishedDateTime: 2021-08-04T09:25:00Z
-    webUrl: "https://github.com/Aviageek-Consulting/Self-driving-car"
+  - title: "Famous Game Of Go Shines Spotlight On Novelty By Humans And By AI, Fortuitously For Self-Driving Cars"
+    excerpt: "Using the famous game of Go, and a groundbreaking match entailing the novelty of AI, allows for great insights into self-driving cars."
+    publishedDateTime: 2021-08-06T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://opengraph.githubassets.com/ec60046d7654f2168bb82a7bdc2f0ff4a9ce3cde75986de9a38ab1c313acecc9/Aviageek-Consulting/Self-driving-car"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f821ed8ce958ffa98e965c4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D93%26cropY2%3D3543"
         width: 1200
-        height: 600
+        height: 563
+        isCached: true
+  - title: "Apple Expands Fleet of Self-Driving Cars"
+    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
+    publishedDateTime: 2021-08-03T15:39:00Z
+    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
+    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 44
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
+  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
+    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
+    publishedDateTime: 2021-08-03T19:23:00Z
+    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 39
+    images:
+      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
+        width: 1200
+        height: 640
         isCached: true
 
 secured: "gwv0NRxDiunDntqoIFV6VyvhlemXcgsx3yZwrNPYFrnLu8r3lgxhUSim/dgBf0gEwfM2csZc6YC05W1lGY8G6RSeDqDxm68s71OtPwOhGkU2tqtf/fWiompAXt1bFEKs/CQ92402gB3H+kP8a/pbGuNhcTFuCrnCQYilvZqVmudejgsoAr0OoiGwqzsQU7q2LY5C+6O4wB6kckD1DzT8WZnc9o7N1bG+/iV8VFkNGwjO0NeXdZX5nXQbKwOaF2vvK4dKM0+FLm5HjWiZvyg5aipDauH17BAHmLSvA3TBSgQ2DHsL7/Gl3GxZFSlmX+UhjZVlcavfQZccgVS74Ma3KyQCzoc9QY+v/ptfNH/RtY+9DD7dzqCRuIqW/0j0obU01DZwefxrd9yb9umWS3nU/GEXHLmLdm4GzoLBKVpgcACs/NmuGzdwU8P5WrayqHRFbzw1gEY/yfSZlk2Q9lJ288ff2ZgXN2Dqyz03kjw43UA8XlutyqCEkmpL8G4YG/ssgvzYTZMj65/p5493w8D9rw==;iu0vDy9NHqFRphSjbWvvkw=="
