@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zoox"
   url: "https://twitter.com/zoox"
-  followers: 18185
+  followers: 18186
 
 size: 1,001-5,000 employees
 yearFounded: 2014
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "WyEDT4M2iEk7pgxIRt594IFdE9DcSxEzE2CqfpNPEZ5SsQZTT7/TGepe6MAjr9y11uERFWp8gFmTXG1SIFwNpJQANMNQSxdbWYTMF01sW3SANN9bZ279n+wJssTjTGwmH0FzMkhgxc78g7LmbvnixW8eIkwrtjdvqiRsC5vMCbQtd1oMuX+jt4OM6EPhgNvPLLEh2AE59CT+MX3DhoRe1Yq40p60R1522CsbQxz5cW61t04ff9b3Js94zPEo7U84U3NhSPTP5bzoDp46MfE0t0lDUa59+RRYKmrEO7gD24Z1HhV+Sx3vH1UGnKnE47NmceJr1Ahco/9gl8tq14f5YPqkMpz0q1FfwR0be69k5hVT7lrYsF2AwgwW5lAvdwjcw5k7g/mynBhFOsuwyVyX5i3cv7Anik4jCeLrroHlokg=;/73A0ZZCTj1qFz2ezGPYsg=="
+secured: "CvLu94vAHR1ZwLTnilko4TilAx9phZTS6Qm4EnZNKJ6mBJxASeoZy+d823RSJA92HZrk5GJYIgF3ioSrjxp3U1K31BjeuLBKelAcpHVaLNqrfJyOrwgeS6ighQHQidfCKH1TSd/ISOlub321jvlje3T1JRASGfapmH+jDhnY6TIotfCkqorEwmZQBU7mRGx+F7ernuaCxQKrwnV9Oi8k2z2lps5lGzJqFQQiDEkkbqANYwfyI5DQ8VJjHVZ+ruPZxSAw3ld0+mUVctC9BhD877RNsy4B4IkWh7vZRwtLNbAwn1A6DCyou+HiMyHsl09wISQHKWO+i68w3f017RFiEU8e3OqslYg9dW5ss446swCEK0DbweM/JvDZjQDwRgRI8L0vYbmhoBGZvBRrPC25s/Zqxzkgk+pd7RmClXVmlF8=;FrlbGnB8RHuavsJC0vx/ww=="
 ---
 
