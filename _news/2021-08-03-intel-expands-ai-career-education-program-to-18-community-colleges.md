@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-expands-ai-career-educati
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
 type: article
 quality: 108
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
       name: eetindia.co.in
       domain: eetindia.co.in
     quality: 34
-  - title: "Convocation Ceremony - Lila Scholars on completion of AI Education Program"
-    excerpt: "WiselyWise is proud to conduct a Virtual Convocation Ceremony for 180 plus Lila Scholars who completed our AI Education Program."
-    publishedDateTime: 2021-08-02T00:47:00Z
-    webUrl: "https://www.eventbrite.sg/e/convocation-ceremony-lila-scholars-on-completion-of-ai-education-program-tickets-165402381977"
-    type: article
-    provider:
-      name: Eventbrite
-      domain: eventbrite.sg
-    quality: 32
   - title: "Intel partners with CNM for artificial intelligence workforce training program"
     excerpt: "The semiconductor giant recently partnered with 18 schools in 11 states with a plan to train students in AI-related skills, and Central New Mexico Community College is offering the program."
     publishedDateTime: 2021-08-04T22:20:00Z

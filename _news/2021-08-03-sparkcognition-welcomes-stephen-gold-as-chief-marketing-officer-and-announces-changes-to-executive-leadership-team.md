@@ -34,7 +34,12 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 0
+    quality: 6
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Personal-Care-Appliances-Market-390x220.jpeg"
+        width: 390
+        height: 220
+        isCached: true
 
 secured: "IrytdLJrGTOUrFfuP7Qjxh/Z0uJ9IhNE8uQcsWsip+xs9aq4r1uRapXA4AhzCBFKIBAPAGq+OU6P6HVhbLd8U0oRRpAbS03hXgjTKU1NM1U/tKpBZzfXKrRC2raJLlWLGQ55FY5a5tlIfg1FS/qTXjSunRkNYx2OclH5kM5fG17YDeFPrLlsTRlabD6oWTVGXbOntXHsx4WxAW/3JWWlLquujB8PqcTiYOSCyIpfHOnpJqsBEo9WB24xuGYgXSUd8zB18flvFsO8xIPjzb6yYCV8QfEDuFZrgaRQVXVz0+WJ6tZZc9cKVMPdYrUEJ9gtw0FIKO8dfSjWjlvQu/l4vB0TiBWzPQcfRhEgjyzIoBE=;TaL8gZ4OduIj2ClTLP0dRg=="
 ---

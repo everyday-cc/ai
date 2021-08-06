@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition plans for millions of Indian examination candidates"
-    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
-    publishedDateTime: 2021-08-05T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
 
 secured: "WZsGX33xU98PXwozjXN1c2/6UYSbM1R+Me+c4gvscAPp5HjyXuinkEQI2q4l03fTArYvALeKzM6RnsF6rbKXlBu98p633IMuI13pLiAeNxPS4u2/t6owYISNUsvhSblFNpUSLkYO/GYW7KuNFlKFRbENqVvQwy5b0MaHSU/nWRiY6LlELcnv7oz2IqbnUoBf1GaWTieT9OwFTuBRCfJMZ5QZ5Z24jENdZnCO/cUr7t82FLkR1oXz7p69FXhyiki6rmEWfhnGdJu5rUB7/A7r6DkGe9kiufF7qy0gZRvpq46nr9hf5NpUPIqe1XtogweyEPLyVqmBwDwFJT4KxPsrqwcGV4cMixeFLdSammO6b/+cQVFkh01IJvPXySvqSwaGCpvl60e6CMaep3AbavTNAv6SSg/Aj8Hdj8oaVr3u1LdHRlk4aRe5ZHz/bPeRBwdNoxB2DIUPOCUnXvMDM2renmGiZeo/N8JH/PyATUDMXtMdUc6d9wkEQ93/pwaImwWDj3Z/vHcVoRoDG6tXEy4fSA==;Wq/M1b9w1m0qo/fw/1nQAQ=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Australia eyes recycling robot to solve plastic film challenges"
+    excerpt: "A robot that uses artificial intelligence and computer vision to identify different forms of waste, even plastic films, and sort it into separate streams for recycling is in development in Australia."
+    publishedDateTime: 2021-08-06T14:42:00Z
+    webUrl: "https://www.plasticsnews.com/news/australia-eyes-recycling-robot-solve-plastic-film-challenges"
+    type: article
+    provider:
+      name: Plastics News
+      domain: plasticsnews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.plasticsnews.com/s3fs-public/styles/800x600/public/smart-MRF-researchers_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "COVID-19 slows down machine-learning adoption in Australia"
     excerpt: "COVID-19 may have put a hold on machine-learning projects but now could be the time for Australian enterprises to revisit those projects."
     publishedDateTime: 2021-08-04T17:00:00Z

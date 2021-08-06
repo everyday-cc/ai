@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 related:
   - title: "Spell unveils deep learning operations platform to cut AI training costs"
@@ -84,6 +84,6 @@ related:
         height: 313
         isCached: true
 
-secured: "mfEkEteMJ8gtKCEt6yuAVGvNcpeJ/4As9SgEXg8kCXn7C0/Kibvq+JX2ddKqa31+ZmHdXzNVgRKxGHy0nftUY8iNBWKP4R2RagOaNja5KQRpBiAEZoQId2eg3mufu7RUbzbC0cchE1QV01ugH05TF1dxRmsmjH5ijEaSuK/eqJShLJffmUP/krR9tUrna/TwkGPj/CvVaH8xYTmlTSc+KNafg6+POSBOVq7PwbOLGTw8J15gFRjMvDgZhNW/FTTwQScjZRkOs7Al+BHz+kYUAViHHD9azv52vXr2BZP4Vwry80bSUUiuOE7OuOAyHp6tYiNG/2odpI6rxUoM6rE00k9FrFYMoA6sXWnlXYaKuWYBNtQ1X0aJOWuwjDaFwCT33m2/rqcEO3c1ve/Zeml82p/qU5FhrEjPTfnAipF9SVc+udcECfcQti7mHZpubJlZriNcvohtBeTpNxZIu8G+ZMVWN8faauuJCTKSFIxAT8yl5lmVmLR7KNpsPBhffBfqJiN3Ks8gCTxkFb1zQMhAOw==;/4OgVcgXVdMZZ9bUkUWo1g=="
+secured: "sJEEi3CwB3kUgdov9aQ+HepB+BU0JxpyE0DqetwNid/oX61vLClqi6+Qolm2cZpXFB8TWYjpsSqDIIbGuzVAazvWnj++Dtzh7iEqeGMiRzV8lm7TXDmIenCkpUoaZhffwwvGhIAttvw6+7nEzHntxA5AX+HGiD8xhTbN0LaEX5asHgKanSz6f7962nyX4u7B3AlrsnyyT9cmT3kVnsu3HVLiKHYM2Uwtb8cfUHEE6Ty0FIDGb17ZrMaWdQF3kEyT3G1XRCjs88P3wZMHsMsCyQlq5zXp6lSIhD36QiYwkRYv5hne6Z4DpkR1xwFRb9LmvpvU7Iqax+OCYF2cGV2wakbmuHSBGPtyrY/4t7LRzjFg8TomPzzlsKBRSRLRO8EvAcgh7lJkuU/k5p6Oy3kH8mngXq6wJ92fLTfgRCjXu48dz6kCd4LHAdPSi2GuYFec422SX6YnjkL/soVTKk2LgvlCjbhyPoU0+KT/u4ftc+aHStZDVS8ezhbbDp0R1QwBzAdKJOw+8C5phq9JvE3LEA==;tbAKfjfIQ+fHCRiLfSXNkg=="
 ---
 

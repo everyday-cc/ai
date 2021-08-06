@@ -7,8 +7,8 @@ originalUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earne
 webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: Wipro
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-08-02T00:00:00Z
-    webUrl: "https://www.pressreleasepoint.com/wipro-has-earned-kubernetes-microsoft-azure-advanced-specialization"
-    type: article
-    provider:
-      name: KLAS Press Release
-      domain: pressreleasepoint.com
-    quality: 52
-    images:
-      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "IronNet Announces Expanded Support for Cyber Threat Detection and Management in Microsoft Azure Environments"
     excerpt: "IronNet Cybersecurity, in its mission to transform cybersecurity through Collective Defense, announced today expanded support for detecting and preventing cyber attacks in Microsoft Azure. As a Microsoft partner,"
     publishedDateTime: 2021-08-04T13:05:00Z

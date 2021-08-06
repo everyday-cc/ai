@@ -61,15 +61,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 22
-  - title: "Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global AI In Computer Vision Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The AI In Computer Vision market report provides a"
-    publishedDateTime: 2021-08-02T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4723060-global-ai-in-computer-vision-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 19
   - title: "Global Artificial Intelligence (AI) Chipsets Market size estimated to see upswing in upcoming period"
     excerpt: "Chipsets Market size estimated to see upswing in upcoming period” Market Overview. Zion market research published"
     publishedDateTime: 2021-08-05T14:36:00Z

@@ -3,12 +3,9 @@ category: news
 title: "USA: Facial recognition in use at major chains without customer knowledge"
 excerpt: "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,"
 publishedDateTime: 2021-07-23T21:39:00Z
-originalUrl: "https://www.business-humanrights.org/zh-hans/最新消息/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
-webUrl: "https://www.business-humanrights.org/zh-hans/最新消息/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
+originalUrl: "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
+webUrl: "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/"
 type: article
-quality: 33
-heat: -1
-published: false
 
 provider:
   name: 洗護用品和肥皂
@@ -18,22 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Here’s What You Need to Know About Recent Major Investments in Facial Recognition"
-    excerpt: "The biometrics industry has seen a huge amount of venture capital investment this year, particularly in the facial recognition arena."
-    publishedDateTime: 2021-07-26T20:06:00Z
-    webUrl: "https://mobileidworld.com/heres-what-you-need-know-about-recent-major-investments-facial-recognition-77202101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 34
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/HiRes14-e1435871446756.jpg"
-        width: 708
-        height: 800
-        isCached: true
+images:
+  - url: "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg"
+    width: 788
+    height: 488
+    isCached: true
 
-secured: "KApAxf7hHSZz2bOpGHcrl8MA2ZpvQ2bZ1yZg4W4j3fN15vbVsWdJIfVaHZTlgVsDIiOmD9u+XexDUCAxwZCn8ZSIeqblzVBXNVBhaYYnrc5Y9nfAksxMDDdhJ/oiuA24WpCpbT9FZnOeEFOJKD55+NwzjpEMCpu4vKCjgwLVitfApxMpTx7oWA73XtthmdcIkxEyNz20juaD+8mBt6tRrAuAGvnvd2UN6j/vK/3DUoa5dEqsYC8NqJ5CiyQ6IhsGiikZbXMvIylXst9Lz7P/5ok14H/n9OAy8DWZwpaB3alLrsPEV1H04oOdaBtD1qDFEfmba7fk3bzAu2KB94/7DaCuJkYbX6BCbzX6+Q5j5jc=;ehY55vQ/QUFUhiGbereU+w=="
+secured: "N79ie4V9ynPZBAIONP9HVKF1Cq7Zn2XtEHkqWCzHBcQFqTwnUp1nzr9Da1ziTM1bEQ9h0KUrLH0Ob9zgR5FLZyQbQ0Mup18jy9h+qS1MBBwSDjTRTJ0euiK2fvUmoyme2OBslQsZ1JEtmwCG5gvSdM1KVopJE8xNt2T17xiT0S8lmMrxuYM79MUxoEJMFIu2SCqEC3afIVMPCx7XgroIJ8QOA9ru8GTtT1K8M3yOkberBQzC0MTQ74z89uJTM3sunohfQslLOnx1FUgN8M5VLtakUk+wn0sYi/6EMKcEsfwFf6dymN6XDu6U3Ckg2owtu6+pQJt1uuviJ/D6L5HuT/GtsYXMIqKkycflk5hHAvs=;YGhyhE693XD05HNdnXhqyA=="
 ---
 

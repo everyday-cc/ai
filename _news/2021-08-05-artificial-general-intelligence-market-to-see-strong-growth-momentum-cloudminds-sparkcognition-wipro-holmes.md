@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-05T01:40:00Z
 originalUrl: "https://manometcurrent.com/artificial-general-intelligence-market-to-see-strong-growth-momentum-cloudminds-sparkcognition-wipro-holmes/"
 webUrl: "https://manometcurrent.com/artificial-general-intelligence-market-to-see-strong-growth-momentum-cloudminds-sparkcognition-wipro-holmes/"
 type: article
-quality: 0
+quality: 6
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Personal-Care-Appliances-Market-390x220.jpeg"
+    width: 390
+    height: 220
+    isCached: true
 
 related:
   - title: "SparkCognition Welcomes Stephen Gold as Chief Marketing Officer and Announces Changes to Executive Leadership Team"

@@ -99,15 +99,6 @@ related:
       name: eetindia.co.in
       domain: eetindia.co.in
     quality: 34
-  - title: "Convocation Ceremony - Lila Scholars on completion of AI Education Program"
-    excerpt: "WiselyWise is proud to conduct a Virtual Convocation Ceremony for 180 plus Lila Scholars who completed our AI Education Program."
-    publishedDateTime: 2021-08-02T00:47:00Z
-    webUrl: "https://www.eventbrite.sg/e/convocation-ceremony-lila-scholars-on-completion-of-ai-education-program-tickets-165402381977"
-    type: article
-    provider:
-      name: Eventbrite
-      domain: eventbrite.sg
-    quality: 32
   - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
     excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."
     publishedDateTime: 2021-08-04T17:02:00Z

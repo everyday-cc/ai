@@ -39,6 +39,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Australia eyes recycling robot to solve plastic film challenges"
+    excerpt: "A robot that uses artificial intelligence and computer vision to identify different forms of waste, even plastic films, and sort it into separate streams for recycling is in development in Australia."
+    publishedDateTime: 2021-08-06T14:42:00Z
+    webUrl: "https://www.plasticsnews.com/news/australia-eyes-recycling-robot-solve-plastic-film-challenges"
+    type: article
+    provider:
+      name: Plastics News
+      domain: plasticsnews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.plasticsnews.com/s3fs-public/styles/800x600/public/smart-MRF-researchers_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Israeli startup lands huge 3D mapping deal with Australia"
     excerpt: "GeoX will map 18 million buildings throughout the Australian continent using satellite imagery, AI and other patented technologies."
     publishedDateTime: 2021-08-02T09:54:00Z
