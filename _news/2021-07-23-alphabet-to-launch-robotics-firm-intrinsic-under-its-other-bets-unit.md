@@ -1,21 +1,15 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent’s segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and advertising business, Google in 2015 established Alphabet as ..."
-publishedDateTime: 2021-07-23T13:58:00Z
-originalUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
-webUrl: "https://cn.reuters.com/article/alphabet-other-bets-intrinsic-idCNL4N2OZ212"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL4N2OZ212"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL4N2OZ212"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. FILE PHOTO: A sign is seen at the ..."
+publishedDateTime: 2021-07-23T15:37:00Z
+originalUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
+webUrl: "https://www.channelnewsasia.com/news/business/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-15280056"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
@@ -23,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210723&t=2&i=1569760090&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH6M0RJ"
-    width: 817
-    height: 545
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--wpGt0NQs--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg?itok=4jDRqfE1"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "DOhmHtcyq8UEmZUnxvcOl6hucSBF+vBS6ijpVQrbLsKWAGnLG7XAvdvmHyOhDtUHXI8gNkfr/SSsIkKW++fEEaqQMe4xiN9uwyiDtEd9biXpj4JDq6nj4CcguGCOmk39mOT4CovRfex2EiaD6UAYnUm1tb4l7CvJBBxwBjS6mRSmedVdq9T/3yvrkSeWogoreztvW+5oRdHS4vMSw8W1dQloZgkgQZGQOgYe4d6PlVb9Pb6wiMcZrNY1t2Hy1Q4q5beqSj2niT0CqHLA0q22EVZ0YsYywekdPPf/mhPdUoR5waV7B92xsXah6+HgTtlrLXeYswOVMprRay0pY08g7Y2iTERC47qQKlWe8KyK62U=;vPFribqyMF/tXO+OWwaYsw=="
+secured: "SE+YtepHRamILyYUYYMW36jTo0SrtSD4rO93ibrWTkB12hjN65vn4jt0yol7Sk/O63SbfUmoiW3wqH9pZpTW+jSOpbVWjTyp3xxT8O0VmzTm55sLTgEtZ/9LAe8s3Lo/TYthNWR38Vqn9XYwXlvo9NUYK03En+QSTb3547Xa8dnKjnmS7jOYUheZZjIPC8pnkhIRTgSFOsjE57f015a8yMz4KUFQPY6aHLQ09M3t3eAHY3dpI6VAekbl72TMxKCzg5QuMRHvnMynUmGXf1ylCMguslX4csdJmcVXgmNwc44Gt8vXPm8fvTodC1hZL//6GYQrXJAdfOX8Gi+gRXEilVF4NzVmJaEH7yPS8iJEYPw=;YWHDFfgO3Hv/ix0kxIVTNw=="
 ---
 

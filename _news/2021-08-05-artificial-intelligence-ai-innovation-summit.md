@@ -91,11 +91,25 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Acceleration in Innovation! The Latest Breakthroughs in Conversational AI, Computer Vision and Recommender Systems with NVIDIA"
+    excerpt: "It is a dynamic and threshold breaking time for advancing innovation across Conversational Artificial Intelligence, Computer Vision and Recommender Systems (RecSys), with NVIDIA accelerating new ground with the launch of TensorRT 8,"
+    publishedDateTime: 2021-08-06T10:38:00Z
+    webUrl: "https://www.bbntimes.com/technology/acceleration-in-innovation-the-latest-breakthroughs-in-conversational-ai-computer-vision-and-recommender-systems-with-nvidia"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 26
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Acceleration_in_Innovation_The_Latest_Breakthroughs_in_Conversational_AI_Computer_Vision_and_Recommender_Systems_with_NVIDIA.jpg"
+        width: 1919
+        height: 1080
         isCached: true
   - title: "EarthTalk: How is artificial intelligence being used for conservation?"
     excerpt: "How is artificial intelligence being used for conservation? — Katy P., Chevy Chase, Maryland You would never think that computers and artificial intelligence (AI) could help humans save nature, but in fact these tools may be key to whether or not we can halt global warming in time let alone solve many other vexing environmental problems."

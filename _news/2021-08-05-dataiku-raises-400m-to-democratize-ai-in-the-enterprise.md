@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
         width: 746
         height: 938
+        isCached: true
+  - title: "French startup Dataiku raises $400 million to bring AI and data into the enterprise"
+    excerpt: "Dataiku, whose cloud and big data solutionis available on Azure, Microsoft’s market space, has announced that it has raised $400 million from investment fund Tiger Global. With this new financing, the French unicorn is now valued at 4."
+    publishedDateTime: 2021-08-06T09:56:00Z
+    webUrl: "https://www.actuia.com/english/french-startup-dataiku-raises-400-million-to-bring-ai-and-data-into-the-enterprise/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 31
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2021/06/Dataiku.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
     excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"

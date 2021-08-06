@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://hackster.imgix.net/uploads/attachments/1331868/_8JalOumOm2.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
         width: 600
         height: 450
+        isCached: true
+  - title: "Peek behind the paper: how artificial intelligence can be used in drug discovery"
+    excerpt: "How artificial intelligence can be used in drug discovery to design more efficious drugs and eliminate the need for animal models"
+    publishedDateTime: 2021-08-06T11:35:00Z
+    webUrl: "https://www.biotechniques.com/drug-discovery-development/peek-behind-the-paper-how-artificial-intelligence-can-be-used-in-drug-discovery/"
+    type: article
+    provider:
+      name: BioTechniques
+      domain: biotechniques.com
+    quality: 32
+    images:
+      - url: "https://www.biotechniques.com/wp-content/uploads/2021/08/BTN-800x345-23.png"
+        width: 800
+        height: 345
         isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market to acquire new heights with increase in innovations"
     excerpt: "In Drug Discovery Market research report offers an in-depth evaluation of all happenings in the Artificial Intelligence (AI) In Drug Discovery Market sector. This report is crafted to assist every participant,"

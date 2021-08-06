@@ -98,11 +98,25 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Acceleration in Innovation! The Latest Breakthroughs in Conversational AI, Computer Vision and Recommender Systems with NVIDIA"
+    excerpt: "It is a dynamic and threshold breaking time for advancing innovation across Conversational Artificial Intelligence, Computer Vision and Recommender Systems (RecSys), with NVIDIA accelerating new ground with the launch of TensorRT 8,"
+    publishedDateTime: 2021-08-06T10:38:00Z
+    webUrl: "https://www.bbntimes.com/technology/acceleration-in-innovation-the-latest-breakthroughs-in-conversational-ai-computer-vision-and-recommender-systems-with-nvidia"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 26
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Acceleration_in_Innovation_The_Latest_Breakthroughs_in_Conversational_AI_Computer_Vision_and_Recommender_Systems_with_NVIDIA.jpg"
+        width: 1919
+        height: 1080
         isCached: true
 
 secured: "h+0vz1uM6saovt4YKQ+jZGTI+o9hdJEJq0XOy0Kh+qaourc4jYkdqTcB0bUlJXrnnlEyp3XZSZASTkBLPBI+o7DNNRMp9+udBWus/lZv1tV5U+EEb1VIAmyMGFILyvdLKJxdJapv4iv0rBoHi7jN3hph4TW/+5i+19rY74GoEJ9w8f9y1sb8L97m/fy08W/zTHAgJsxUa+gamSqYgPC6qvDx/ETA750Uu3XTZbhcY3ezu1wsyGAzKZAPeIBy4Llvc83e8cfT0rERgPujPKy/wU2qSwxLK/4d0/3yfiSNSf6noufdgFbgmDAm2cn3IGj6GshV9/9KkDUEqV543jaJqsF2H2zYuX+ifZJnd3xztgkP44JuuSOOT/H26NXiE3HvHL88521c7wEKj+V6T+ba0kMk7fN27ox9g7be+bOBGswNWFsHGEJCpnqoc/JXWoPJ38YFt0N9/xi75f8w+3R2W1ztLjbNmWA8tQeH2PqtlJg7xO7v10VatI30GT0Nj/uNsoK4gq9j/ofrYSMYzJd/BA==;QxjhcwuIPKn5OyxHVzjkCg=="

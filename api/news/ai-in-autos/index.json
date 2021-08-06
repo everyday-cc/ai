@@ -258,21 +258,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-xiaomi-invests-in-a-second-self-driving-company-within-three-months.md",
-      "title": "Xiaomi invests in a second self-driving company within three months",
-      "excerpt": "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total.",
+      "path": "_news/2021-08-03-apple-once-again-expands-california-self-driving-test-fleet.md",
+      "title": "Apple once again expands California self-driving test fleet",
+      "excerpt": "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
-      "originalUrl": "https://thenextweb.com/news/xiaomi-second-self-driving-investement",
+      "webUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/",
+      "originalUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FXiaomi.jpg&signature=bc13453f61222aa3c618ab670fc5ffd7",
-          "width": 1280,
-          "height": 640,
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -280,23 +280,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T04:43:00-07:00",
+      "ampWebUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/",
+      "publishedDateTime": "2021-08-03T06:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -35,7 +35,7 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 57
+    quality: 74
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/01/robot-tile.gif?w=480"
         width: 480

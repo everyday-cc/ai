@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence: The Terminator of Truth"
-    excerpt: "Science fiction movies like “Blade Runner” and “The Terminator” have defined the perception of artificial intelligence within popular culture. For most people, the term AI conjures up images of a dystopian future dominated by humanoid robots that have taken over the world."
-    publishedDateTime: 2021-08-01T18:00:00Z
-    webUrl: "https://dailynexus.com/2021-08-01/artificial-intelligence-the-terminator-of-truth/"
-    type: article
-    provider:
-      name: Daily Nexus
-      domain: dailynexus.com
-    quality: 19
 
 secured: "p3+yskQ0QHE4+m3H93eDZnabBiVYRs4EuJ9pDL9zkZlmJ1KPot/A3GboIowT5pLvihO8PnWNvud+rdDuipjhvp9eLvvNRDn7MBt3ypOH1F0nWCOs7qUPj/ZK79ZFI7gbI2iplHV9ErIQsw93Jlfo6sSSF+QpD5O+2Aewg4KehXsdwR/GTGWtLUI9ZKNSmjhpNu2ma6ZP2ngCtYc4zVt0JZv1JYJOyk61pZtgLNQUYz6418AkBMo273zOdVJhZsDJ76OOn0wyClyrcmdema3Im/g1tp4JUTjl2AP090WzZkX0kzxQwNlV04vEolT61iZVM4cfo3dXRVm4RV+y/83mAk3IpYKo8KI9MW7JHG18SCCm39KrcSn/Hb1yPQOUAHan0sntr2aJqk3OFo0d2G76C2qCZYRFJjIh7DP68ZAq6yTa4WKkyBAMNHqMmAgRMKL6+wfrIv6EfSuQQzlRhwUAvBBkgPO0kdCKaHZMbDhPY46DrVmgSEsfOADdrHkJzn/niyccq6nbuIZQtfs2E3aVkw==;bjFrSK2IY/gJWbTxdA35PQ=="
 ---

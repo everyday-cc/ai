@@ -40,6 +40,20 @@ related:
         width: 400
         height: 244
         isCached: true
+  - title: "How Artificial Intelligence is revolutionizing the startup industry"
+    excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
+    publishedDateTime: 2021-08-06T11:27:00Z
+    webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
+    type: article
+    provider:
+      name: Yumpu
+      domain: yumpu.com
+    quality: 37
+    images:
+      - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628258400&Signature=KB49%2BoCxfHnPjYACZKm98i67nk0%3D"
+        width: 453
+        height: 640
+        isCached: true
   - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
     excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
     publishedDateTime: 2021-08-02T09:34:00Z

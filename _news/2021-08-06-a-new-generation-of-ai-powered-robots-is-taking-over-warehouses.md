@@ -8,9 +8,9 @@ webUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over
 ampWebUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
   name: MIT Technology Review
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/01/robot-tile.gif?w=480"
@@ -41,6 +42,6 @@ related:
         height: 419
         isCached: true
 
-secured: "rV9oqf6+JW5Jk6TXNLuAba/c5TJcEp7KyYPFZltt71Uem0weUcCc/Ei35qVvFahNabSQIRAYewobVjrBMAFmmtm5qsTpPj815ff2uzhki2csHb3qhkVaoDbFznv03X4RxmdFmwl/U/9UIx1KPxLiwfH8mjDNaF8tv2vBsrare6dj8jp9Lcdnwq+KhXkbg1G8SMoK+860KwAwpxqmMufwNblo0ye9ZIdIwmLmk9Wb0WgrfNkhzsmBicFFbxDy/pEZ+kksiIpzIb+//5U7cqdM7NMqkEMnhvUtSvDV2laewW+XIqyTOPGo6ievQuWY9JPHrrPoxRmnqTSj+pInuHM41d0NZEfuF91UmCRCefhn9ZI=;cbdM37OfW87c40wAMmyp6Q=="
+secured: "5K8HtduZV78Bc+zeuWJ2D6D/m3OJMkOaByGGOmRsn+MU4DfSdk/+sk9/xHHnu3LufIsKHtc4SlpMMiq6ASQaLMQ7nPO/luASOs63AGNKLaQQHig7GcNyUVn311Kj9mEPdlE77xtyvwrIx7rA5j4MASA8uK5+xGxHBKMEt1lfCXLk8VTKsfg+bpnGpeWqwilO9qmF9N1Q0cenwTxXVqx94dE2sZcyXBsLT8ppl87zXONGvdKUnYmdDfmIJyLlwQgUgbtWPDsgFemZaqALPn01gUIoaO+g6TkSjtXHOOfLk1AvNsl9nKx2FQWq2kVNMcWp8ZcrjJVSt9ErzQrfnUHV3L2+Mcwc8RdDL7HNyq1U3kvpNDuw+uaF5uwromI78uNx1+oYJ/lqpV1gitqYz/0o92vyr3rScScPayy3KYJdAZPGwd9oalyJXDPZQTYtLm8WGn0Djlnczr/i5I/7k6KhagRpvb0McLRI5iPrsun27wBTRVWWUm2TbCph8OrTnhGnimN04FdNAqwWRTs/7HBT2Q==;2RRA2yGiX3YGVswMXvfqRg=="
 ---
 

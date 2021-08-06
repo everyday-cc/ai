@@ -9,7 +9,7 @@ ampWebUrl: "https://techround.co.uk/tech/abacus-ai/amp/"
 cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/abacus-ai/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Man vs machine: Artificial Intelligence is a force to reckon with"
-    excerpt: "Even businesses that are betting on AI are cautious about the returns on the massive investments required for such initiatives and therefore for AI solutions to become common place would take a long time."
-    publishedDateTime: 2021-08-01T18:15:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/man-vs-machine-artificial-intelligence-is-a-force-to-reckon-with/2301191/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 23
 
 secured: "3D/nyTHXHRQFgN0uc9jTjbj3Bpv1WAGel1oONTOhBtg0XiOULsaJsp22Y3MEVaeNF51mlfMxkw/ucrauHH1CHk6eYI95Au4JGjvODNytPZv8p6bHu+enz67rtjWmmrvq/Hy2KAwMYww7zH2SzXmCOKtN+9ka2HYBuXg624eGmI+xSG8o9d8HbnX3fvuPc9V2vNWCxAl0RXKojTaXJ35jD3AdSlfF+o8AF7xAizjnwmNx8FB9BvUHkFBm2sUwqiCbBEDe6tq7pDpD001muhyvLY/78EqmwcOXSu4YP5f5js2xtUzlKvBd/EgPTBc92KrB4AWsjntWcWmK0cStzMVxhhCEN6Pf4KaErVaHiktHuyQ=;Qz3FDqkOwqVY86hjRbmYIg=="
 ---

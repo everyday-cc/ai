@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi invests in a second self-driving company within three months"
-    excerpt: "Xiaomi led a pre-series-A round of investment in a self-driving startup. All investors pumped in $62 million in total."
-    publishedDateTime: 2021-08-03T11:43:00Z
-    webUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement"
+  - title: "Apple once again expands California self-driving test fleet"
+    excerpt: "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'"
+    publishedDateTime: 2021-08-03T13:49:00Z
+    webUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/"
+    ampWebUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 59
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FXiaomi.jpg&signature=bc13453f61222aa3c618ab670fc5ffd7"
-        width: 1280
-        height: 640
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
+    excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
+    publishedDateTime: 2021-08-02T20:52:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 49
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
+    excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
+    publishedDateTime: 2021-08-03T18:54:00Z
+    webUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20"
+    ampWebUrl: "https://www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+    cdnAmpWebUrl: "https://www-imore-com.cdn.ampproject.org/c/s/www.imore.com/apple-increases-drivers-its-self-driving-car-fleet-more-20?amp"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 44
+    images:
+      - url: "https://www.imore.com/sites/imore.com/files/styles/large/public/field/image/2019/12/apple-car.jpeg"
+        width: 800
+        height: 533
         isCached: true
   - title: "DOT moves to regulate self-driving car tests on NYC streets"
     excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
@@ -57,20 +89,43 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Xiaomi invests in self-driving company Geometrical Partner"
-    excerpt: "For the second time in three months, Chinese tech company Xiaomi has invested in a self-driving vehicle company. Founded in 2018, Geometrical Partner has attracted a $62 million investment fund belonging to Xiaomi,"
-    publishedDateTime: 2021-08-04T07:37:00Z
-    webUrl: "https://www.noypigeeks.com/tech-news/xiaomi-self-driving-company-geometrical-partner/"
+  - title: "Apple expands California self-driving car fleet amid 'Apple Car' rumors"
+    excerpt: "Apple continued to forward development of in-house self-driving car technology over the past two months, with the company adding one new vehicle to its fleet and 16 driver permits for use on California roads."
+    publishedDateTime: 2021-08-03T21:59:00Z
+    webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
     type: article
     provider:
-      name: NoypiGeeks
-      domain: noypigeeks.com
+      name: AppleInsider
+      domain: appleinsider.com
     quality: 24
     images:
-      - url: "https://www.noypigeeks.com/wp-content/uploads/2021/03/Xiaomi-electric-cars.jpg"
-        width: 1280
-        height: 720
+      - url: "https://photos5.appleinsider.com/gallery/43579-84743-210803-SelfDriving-xl.jpg"
+        width: 870
+        height: 485
         isCached: true
+  - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
+    excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
+    publishedDateTime: 2021-08-04T08:14:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
+        width: 1524
+        height: 818
+        isCached: true
+  - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
+    excerpt: "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value."
+    publishedDateTime: 2021-08-04T12:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "AJHhwH8/qbGc5ktne1v5bjuRp7z1OIaH0wrqDP6yUODjotOpI8pG5VqnLiJ5pJqXz76ZxMRlzv3g16wlWhd/DFSNtEHKSQSzNldCzUrhxatGhY8JKUYCOibmLdDUf1OtnOLU/QzGu2RsJT3nn05CDeqevSOstZqfZiWDnNVHOrwZ023ZX6PEVY1b298yAWq+z4Hpvla5sE3ZhJTw96Iyc+H/sxwYVvTOd9118+IVel7zeyD0In2ALfPv0KyAzgjXW9e9Z5CYRKDgtjrnuiCt/6RfSFJPEWaOkPJsz8sH38LCdZqphBbyVVNYCUqvLKi9dwXJkoUoc5fnCQiGnqkeGh6v5+s2IhpJ0dXN4nH9wW+B1oo04AYKZhtEMiP2oelSeJyrDESRUiIvA5+gjRRlg6QMBRXXeZ3acKIxlWXvFpCOgf5DgsxuMmxkqP+b1iCRlWiTsMLF3TxKpNdBDwkd8BROeQVqOPXkW2dfUM5sH+Yvfe4co/qQgdiAnPGV/jhvaBK9euoxevg7UPkPEKEnNQ==;CHByyIvLZXV+51Ec4r8kCQ=="
 ---

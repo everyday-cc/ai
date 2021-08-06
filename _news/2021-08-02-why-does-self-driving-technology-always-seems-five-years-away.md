@@ -24,6 +24,22 @@ images:
     height: 1260
     isCached: true
 
+related:
+  - title: "Arrival Announces Achievement for Self-Driving Technology"
+    excerpt: "Before this achievement, the vehicle was able to autonomously complete all operations that are performed daily by a commercial fleet driver."
+    publishedDateTime: 2021-08-04T18:00:00Z
+    webUrl: "https://www.automotive-fleet.com/10148476/arrival-announces-achievement-for-self-driving-technology"
+    type: article
+    provider:
+      name: Automotive Fleet
+      domain: automotive-fleet.com
+    quality: 24
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/automotive-fleet/content/news/2021-08/robopilotweb-__-1200x630-s.jpg"
+        width: 945
+        height: 630
+        isCached: true
+
 secured: "rO1Pr6+abDybSiYIIZe9nr6LbhSgmW2uafHnOCafaA/9CsH0XrZ3HjACdPLqduqICo3kiOqkbffkTCmzHy/VpXPhTfjHs0lviGbi/+wCZXbwMtaROtQWyFuPxs/jad1msURY07DILDAjRn85r2rj/E7wXlwSHDG79GlKZ9YyNJgAhN0axLVWK9ltsBMhZDq8+FJWy9O1hvwZTO7UONXYiJXC05+Lra6SDWxtcyd446pEBOgDLTnS4V9UTdV+zRHjcHzZ80vlBWlFJX1MjzmEsDfMCbFfHmGoDxQd2sZjnsQXjlIIHPIovZNiH0MmCYLyCC+FKyijWeEA2oD5NVw3IeYAYhwxrHp1RoBMN2oFP1Q=;rIJmgA9wKBCp4JLdhWcb2w=="
 ---
 

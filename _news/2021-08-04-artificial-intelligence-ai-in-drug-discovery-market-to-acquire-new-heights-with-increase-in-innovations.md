@@ -49,6 +49,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Peek behind the paper: how artificial intelligence can be used in drug discovery"
+    excerpt: "How artificial intelligence can be used in drug discovery to design more efficious drugs and eliminate the need for animal models"
+    publishedDateTime: 2021-08-06T11:35:00Z
+    webUrl: "https://www.biotechniques.com/drug-discovery-development/peek-behind-the-paper-how-artificial-intelligence-can-be-used-in-drug-discovery/"
+    type: article
+    provider:
+      name: BioTechniques
+      domain: biotechniques.com
+    quality: 32
+    images:
+      - url: "https://www.biotechniques.com/wp-content/uploads/2021/08/BTN-800x345-23.png"
+        width: 800
+        height: 345
+        isCached: true
 
 secured: "i0tpeMvVMxc9+W2K2/YG8URULvoMW20XPRcbabbgXeUdCAJ7H7owQfLdCT0lA4IdMxFQg8PrEFQE2TVys/xb7rrXsne5j1Q47WsS+Qd/2NJW08F9RRO3caJBgZI5HeWWSYHMjfcWc83RDn8kC8027BwSF/MRLpQUMBSCLbfSKFiNMlhsKT6Nwy8KVKIq2g+Y1rImlAMiOv3sXngzzIGxb4haVkHuCxhU3WY5jAw0mSjI1u8Ze32ke14REjcms6KRmYVbroF/uZCw/BGnnINxdaGCCjZao73c1ctRBpitg1K6p2Vvf90SxHv1c8SN8tu0jBOVjY1PZd2cjLpmA8/eCDjOJCDrChvPLijq7wHOp60=;SMrKE/X2qirhXLoj4kql2g=="
 ---

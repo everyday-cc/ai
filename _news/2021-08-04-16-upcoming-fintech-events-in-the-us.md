@@ -41,15 +41,6 @@ related:
         width: 3200
         height: 1673
         isCached: true
-  - title: "Man vs machine: Artificial Intelligence is a force to reckon with"
-    excerpt: "Even businesses that are betting on AI are cautious about the returns on the massive investments required for such initiatives and therefore for AI solutions to become common place would take a long time."
-    publishedDateTime: 2021-08-01T18:15:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/man-vs-machine-artificial-intelligence-is-a-force-to-reckon-with/2301191/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 23
 
 secured: "rJCpOvbU1yu+cRcZi5sp+601OEPAssgG9CcH3Z9HbQ/Q9O7igw0Sxfu3HsdehksTBBmVM4HAruEFtoQV2pJmFip3PMufR1m4XASnGpm9BopN+QKDlZO/Q+Qrf40P09o9evgcIr/fOIL0J6Ldt1oOPlNNNuFF262ny8zhi/ihK5eAKP8524Du1kMerfSorTJ2QMvM2ExkpElJH7lBc4aZh7qzoogWCPcm/uRDxPBCHWZtgVtOBpVa9RffEDg/+5GiVWpKtZqo51Ib6Rd/U+4Ll/ZtrfW0Izm7N6NC/oCaHJIcKVfkL1nTmkqIFirZtkIkXzOBu6NgN09DTguGLv89SWUUYkbYiBPOf0u1F/w2t2F3E2sJ+zHGpo6VDkAjRiByQrrMlQqannrBEWhuwfpNZMfuiB6OoMAlGmMoMRH/An+mRlYUH0OSRvejgdILD/BrvmOY/KJ+ze3mG5sOyOQvJY9sCK288O/OiyqRT5ue7XGXJAna2PVKz9PAEPRxTxjMqR3PBi/feqYw8sjNAdOj6Q==;ZFiIIuI6Wj35XISC9RhnwA=="
 ---
