@@ -3,8 +3,8 @@ category: news
 title: "Can AI work in oil and gas without historical data?"
 excerpt: "In some countries in the Middle East, the oil and gas (O&G) sector contributes as much as 90 per cent to gross domestic product"
 publishedDateTime: 2021-08-05T01:01:00Z
-originalUrl: "https://www.wamda.com/2021/08/ai-work-historical-data"
-webUrl: "https://www.wamda.com/2021/08/ai-work-historical-data"
+originalUrl: "https://www.wamda.com/ar/2021/08/ai-work-historical-data"
+webUrl: "https://www.wamda.com/ar/2021/08/ai-work-historical-data"
 type: article
 quality: 39
 heat: 39
@@ -15,7 +15,7 @@ provider:
   domain: wamda.com
 
 topics:
-  - Facebook AI
+  - IBM AI
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 500
     isCached: true
 
-secured: "Z56MOwJisyFU9ruIXNIA/WV/qCOhbi73ttjTzO1UYBim+N1yYpSA2Zrvs0YXaMC56blJpDGbU62y+f4j8k+0kU9dAVrwy8KMOm9bOqTPybXmxF6AdfOOGl3CsKP5RU5Hu1xsoXsxrpLTBzTCVSUDV7J3jNbl1ps7mfDhV6M/BZlINKpkGXTbj+4NGZFO8I3SDa0t6WCPu28xGuUw4A+dFfVTl0bAfU+t8HAnFKWtdfoK0uU2YyapM3f7AkuT99z53yaRCzLF196lZ7LZipn22NulYv0hIjIQ5lKS7yJDl3gUuuc+x8PjFy1VP9QIYduk3K4m0Yu3lrzOgS9ORcXZtt/RRy1uLDfpEjbkr822esE=;SuddEIl4x+HIdqdip21LZQ=="
+secured: "kpi49TkD+3HUYXm3SI3krOpgPxrVZwQilZ5kZ9S7Kko9SDajMuzBzarU/YzQpFHFuZqNTOpotM27rrl9OjSJ+ovXQm76IloQqv4HL7NMUWYH3pB3gePiraact3/6H/V+N8ureQ/tW/73w025GVUkjr/tj9sYwipOT6kXgeMOfTrU+jvBnh4R7nXGBPF7An7pis6LAH8qlupulrzkl8WCC5cWBHFFs/FYq7mUl7adhozO3X4i9t46fkHWQjUs0xRZdFmV6R5tiU/nU608VZsp9lpPqKob+rNfo692wu/fCEBScHPj3rmJtKr/Qoqo8pR8o/kNarzBls6qJcBe5zSF/2hpt2ZgcAOmf6B23YAqMQY=;YDwqGoos7pylBIO91AGrtg=="
 ---
 

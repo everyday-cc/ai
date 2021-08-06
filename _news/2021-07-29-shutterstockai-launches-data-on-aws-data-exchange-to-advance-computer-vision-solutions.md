@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-publishedDateTime: 2021-07-29T11:02:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html"
+excerpt: "PRNewswire/ -- (NYSE: SSTK), a leading global creative platform offering full-service solutions, high-quality content, and tools for brands, businesses and media companies, today"
+publishedDateTime: 2021-07-29T11:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions/article_31d7e0e3-2c2f-55cf-8c77-21f2734b7df4.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
-secured: "OWEpVt1rpp/8YiMKCwRVl0JxhPF36G03HhjbFbEb5xh2MA9URdCnncXovAbszqadxJ7VsL9aBbcXNy0wDugF9z5vPnx3ISCJmZE6X80nz/KLBAcaBqiuold3nqSLSwvhzrIahnAdiX8shZfdsh8OpSXDKmh7uYm3Z5vmdC2JfGXmctQ9r0sPRC1E+2K93eZJwaZcReFPgEaR9ePlSOcgfkIpBqeBMp96T0/e6TeV9ZwcILlb8fUzIrTYC6ItvdJAxe1eCVQs5B26zvZWMqt0wF3ss2rTAUWEBOg5Wlb3F/z9ANDvHtrzP1sUbyd8+mJMaV9Lg282eR8JlvFz9nv64C/FhP4AsO1Z+sN+CY9fZyw=;VJdD4n6enhqem2NMY6LUVA=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/eb/aeb35514-85fd-5044-bcca-245e6d1ad27e/61028aea5714a.image.jpg?resize=945%2C630"
+    width: 945
+    height: 630
+    isCached: true
+
+secured: "J0wRb82zO6Jqg2GrkeLSDtpEZ4NuKRKnZPpU6Mz+uI+UmB0Dfq8SAwEV/elDD+PEnk7zU+xwSQJtJaFNwJqUDZasRd9/7N6NPB5XHT8Y8ExVxp/lD1QmzekhX5MPglqvIL71t9iT4REZPI0DrA5AXQ/EGlz61UoMIdbEp1eFEfrcuYLrc+jEUI2ssGD7o0Jf1lM+bZ7pyiG9IA7n0hwbnHX3GtUb7REGCvQMi5IcIdBGv9tJh+SATkxKJyf8CBWqH8hICpFOZ1HDynouKUCeCl/XbSgWDHCN7aKzh9uXzokMt4QwLamfxGQkm4QMHqDwHSDngAGRC6Om5cLTBduJ/T7ChSDH11cVB/6t/UuhEgE=;D1cTz5bALdO/0SZNv3ZbEQ=="
 ---
 

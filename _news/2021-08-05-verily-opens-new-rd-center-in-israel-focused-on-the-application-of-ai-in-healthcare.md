@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210805005130/en/Verily-Op
 webUrl: "https://www.businesswire.com/news/home/20210805005130/en/Verily-Opens-New-RD-Center-in-Israel-Focused-on-the-Application-of-AI-in-Healthcare"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Vita Mobile Systems Acquires Artificial Intelligence Company with Location-based Health and ..."
-    excerpt: "Vita Mobile Systems, Inc. (OTC PINK: VMSI), a technology company focused on digital imaging in mobile devices, collection and management of big data and development of artificial intelligence, today announced the acquisition of My2Tum through a share exchange agreement."
-    publishedDateTime: 2021-08-05T10:32:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-artificial-intelligence-cc4d4dcfbeac221b93e7bbf1ed69c9b7"
+  - title: "Verily launches healthcare AI center in Israel, adopts Google Health projects"
+    excerpt: "Verily, the healthcare and life sciences sister company of Google, said Aug. 5 it is launching a new artificial intelligence research and development center in Israel. The center will focus on using AI to address problems and inefficiencies facing the medical field,"
+    publishedDateTime: 2021-08-05T20:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/verily-launches-healthcare-ai-center-in-israel-adopts-google-health-projects.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 51
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "mJqvSYRLpO00wvJLcRHMdYsixfUo3aqvztI1iRSGfhPJF3lnpw8YrsWqYoZIfSzzZoy13r19xxUT2WMQGQg2GwmtEy4uB9wSRscrhnSYXk2p8MXQ3JdVZrbSSF7wzjVD1a3JPibq8+ixPHNOMf5tVzrKEV3lleTi9Dl8Dk/Km7BgcBN/S1ClBGBx6JdtCKvHyPTo+joNTfi0wDa/hH6laSJjOE7V+IW0oVCPSrGmlgdtgr9+IfQKcBMVc9+Wl/Sj1OIhFUypeOT4KZNtGGMBtjYh9S4SRaeOMh8b1+tHd+oUlGQlOkjz5xcADtj3OccWRZBO8qiCdDfQKSvMXsrSlMcB4+TVI9IW5vaRTKzjdbk=;U0mVDndtbd4nusIn3qlk+g=="
