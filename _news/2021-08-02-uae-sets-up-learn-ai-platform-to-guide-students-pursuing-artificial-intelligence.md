@@ -71,14 +71,14 @@ related:
         height: 313
         isCached: true
   - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
-    publishedDateTime: 2021-08-06T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
+    excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
+    publishedDateTime: 2021-08-06T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "fcSg7GRI/zlI20fRo9Bq9we8rbX0CBxRIX+2JU2N8yVRG5/MYbKONydQdz4mTaGBIcl1RfnqeuekdKbsWezkX/4duRqAKRL9dKHk2RSzmIM1fzbXaMMNDgGEsNaQ+WquM5xFYkk/lCoMmVq8fRiPeFiZ8w5TvnLM6Yo3f2Ptr6vZyM3Wjbifo8aPB1JSsGm7pAD/NHdbx02Q0iHjqoWSBg+IL/1/sZ8DtC+OdHiawnBdzQeECDkqQc7N2rHJiJHJThko0CGZzM6JrpnpbQ/NUmYMTGnoZ1iHgxEE2XYLlfSetixTJaccc8teHq/J9Ajqcy+3YIUnVUPoIaJrb0DOyLy/NM/OzXBHDoIEyj15HfU=;2DTxM4b7mFdWPu4K5ckPxg=="
 ---

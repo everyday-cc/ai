@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cupid’s Algorithm: Artificial Intelligence is Being Used for Matchmaking"
-    excerpt: "Artificial intelligence is transforming industries, including the online dating industry. Here’s how AI and machine learning technology can get you better dates."
-    publishedDateTime: 2021-08-02T04:37:00Z
-    webUrl: "https://www.analyticsinsight.net/cupids-algorithm-artificial-intelligence-is-being-used-for-matchmaking/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Overbond and IPC Accelerate Automation of Fixed Income Trading With Voice-to-AI Partnership"
     excerpt: "Overbond has partnered with IPC (News - Alert), a leading provider of secure, compliant communications and multi-cloud connectivity solutions for the global financial markets, to integrate IPC's point-of-trade voice transaction data into Overbond's AI algorithms powering automated fixed-income trading."
     publishedDateTime: 2021-08-05T12:09:00Z

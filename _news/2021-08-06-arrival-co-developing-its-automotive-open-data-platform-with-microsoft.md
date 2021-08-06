@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft and Partners Producing Competition to ‘Attack’ AI Security"
-    excerpt: "The artificial intelligence (AI) and security communities are being invited to participate in a competition to “attack” critical AI systems:"
-    publishedDateTime: 2021-08-02T04:36:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 71
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
   - title: "Microsoft expands data interoperability, search offerings in healthcare cloud: 6 details"
     excerpt: "Microsoft rolled out new health data services for its healthcare cloud platform Aug. 3, including the ability to share multiple data types in the Fast Healthcare Interoperability Resources format. 1."
     publishedDateTime: 2021-08-03T21:46:00Z
@@ -111,15 +97,6 @@ related:
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z
     webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-discover-ai-upskilling-journey/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
-  - title: "Microsoft Releases Toolkit on Designing AI for Humans"
-    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
-    publishedDateTime: 2021-08-02T04:50:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
     type: article
     provider:
       name: fintechzoom

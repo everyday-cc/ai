@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Why Does Self-Driving Technology Always Seems Five Years Away?"
-    excerpt: "A decade ago, industry stakeholders thought fully self-driving vehicles (SDVs) would become a reality in five years. It's 2021 already, and there are still no signs of autonomous vehicles at a scale many experts had anticipated."
-    publishedDateTime: 2021-08-02T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/why-does-self-driving-technology-always-seems-five-years-away/"
+  - title: "John Deere bringing self-driving technology to tractors"
+    excerpt: "Bear Flag, a startup originally part of Deere’s Startup Collaborator program, will help Deere move into the self-driving technology market. The $250 million deal will deliver customized technology to help farmers create more profitable operations."
+    publishedDateTime: 2021-08-06T20:00:00Z
+    webUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/"
+    ampWebUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
+      name: The Gazette
+      domain: thegazette.com
+    quality: 44
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Why-Is-Self-Driving-Technology-Always-5-Years-Away.jpg"
-        width: 2240
-        height: 1260
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=7C1B4E86-0329-4F11-A662-2005EB40E9E1&type=preview&q=75&width=1200&height=800"
+        width: 800
+        height: 534
         isCached: true
+  - title: "Technology & Innovation Roundup: Lyft to deploy self-driving cars in Miami"
+    excerpt: "Interested in riding in a self-driving car? Miami-area Lyft passengers will soon have that option. Ford, self-driving car startup Argo AI and ride-hailing giant Lyft (Nasdaq: LYFT) announced they are partnering to offer automated vehicles to customers in the Magic City beginning in late 2021."
+    publishedDateTime: 2021-08-02T11:29:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2021/08/02/technology-innovation-roundup-07-30-21.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "tvRFpMNikft+3krZOzoT5DoK0w7scqz1h4ua4K6IZRpo+tC/K8A/V7pjCvgNBtYlnZLSK6AVcgj9oCHd8NmLT0Gb6XfBahDD+kMp4cw16zuAnet4gLPvncdLh/0Cw9MdQqa/wmviDzed07AGhuv6iZk7b40R4agDRiYR5kCfaQ9HVCO8kmYQfH2tM6qr6ebjO99IOYuFg4vGnKyGHNbLvGdSWRh3xOZVGkszsDn6+E5ghe402ry2+/zkfvQD+PyQsXiQ75hCq9uPa389639Ljv1bgB0rn6cUao2tTwL/cJP85XApEWbWR+T1qM0wppQL1WybtDVZhOyVuIvsfjfqobxp4NRV623prTdZkE5snlHGd/HoU08UN1Hr0bpotPwkfvsgJgVth9JoKGTx0sul61qdnKMHmgxuhbegwwMsmcB9/lo/gAhZXo8NUNmU2alTs8y8nxM6UUTXF+I7RTRAoFETeUyo6an88JpdvPJC9pnWSAFjuf9IjT+FZ8rHKlfDhfKrAu8xHzlTizz8hcrssw==;4er2olEOCCNL7/XJcl6tAw=="
 ---

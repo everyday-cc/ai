@@ -28,13 +28,13 @@ related:
   - title: "Federal Liberals probed for facial recognition use"
     excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
     publishedDateTime: 2021-08-06T16:59:00Z
-    webUrl: "https://www.vancouverisawesome.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-    ampWebUrl: "https://www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-    cdnAmpWebUrl: "https://www-vancouverisawesome-com.cdn.ampproject.org/c/s/www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    webUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
     type: article
     provider:
-      name: Vancouver Is Awesome
-      domain: vancouverisawesome.com
+      name: News
+      domain: nsnews.com
     quality: 59
     images:
       - url: "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop"

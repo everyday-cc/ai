@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://www.chicagotribune.com/resizer/aLvYYk85TKO1YHRxSofZgVTSHno=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA75OJOKHPEDRHNIFD3SAN6FTA.jpg"

@@ -43,22 +43,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "'Courage The Cowardly Dog’ voice star Thea White dies at 81"
-    excerpt: "Courage the Cowardly', a Cartoon Network series, brought her global recognition for voicing Muriel, the elderly woman who adopts Courage into the family despite the grumpy attitude of her husband, Eustace."
-    publishedDateTime: 2021-08-02T04:53:00Z
-    webUrl: "https://www.indiatvnews.com/entertainment/hollywood/courage-the-cowardly-dog-voice-star-thea-white-dies-at-81-723666"
-    ampWebUrl: "https://www.indiatvnews.com/amp/entertainment/hollywood/courage-the-cowardly-dog-voice-star-thea-white-dies-at-81-723666"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/entertainment/hollywood/courage-the-cowardly-dog-voice-star-thea-white-dies-at-81-723666"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/08/thea-white-1627879786.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Thea White, best known as the voice of Muriel on Courage the Cowardly Dog, passes away aged 81"
     excerpt: "Thea White passed away on Friday morning at Cleveland Clinic in Ohio, two days after undergoing a second surgery related to liver cancer."
     publishedDateTime: 2021-08-02T05:03:00Z

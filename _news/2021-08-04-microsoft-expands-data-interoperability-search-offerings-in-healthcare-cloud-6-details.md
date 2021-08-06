@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft and Partners Producing Competition to ‘Attack’ AI Security"
-    excerpt: "The artificial intelligence (AI) and security communities are being invited to participate in a competition to “attack” critical AI systems:"
-    publishedDateTime: 2021-08-02T04:36:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/microsoft-ai-machine-learning-security-evasion-competition/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 71
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
   - title: "Microsoft researchers reveal neural network with 135B parameters"
     excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
     publishedDateTime: 2021-08-04T20:32:00Z
@@ -104,15 +90,6 @@ related:
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z
     webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-discover-ai-upskilling-journey/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
-  - title: "Microsoft Releases Toolkit on Designing AI for Humans"
-    excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
-    publishedDateTime: 2021-08-02T04:50:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-releases-toolkit-on-designing-ai-for-humans/"
     type: article
     provider:
       name: fintechzoom

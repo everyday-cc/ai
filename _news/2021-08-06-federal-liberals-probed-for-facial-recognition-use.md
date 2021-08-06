@@ -3,18 +3,18 @@ category: news
 title: "Federal Liberals probed for facial recognition use"
 excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
 publishedDateTime: 2021-08-06T16:59:00Z
-originalUrl: "https://www.vancouverisawesome.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-webUrl: "https://www.vancouverisawesome.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-ampWebUrl: "https://www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-cdnAmpWebUrl: "https://www-vancouverisawesome-com.cdn.ampproject.org/c/s/www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+originalUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+webUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
 type: article
 quality: 59
 heat: 139
 published: true
 
 provider:
-  name: Vancouver Is Awesome
-  domain: vancouverisawesome.com
+  name: News
+  domain: nsnews.com
 
 topics:
   - Computer Vision
@@ -143,6 +143,6 @@ related:
       domain: theglobeandmail.com
     quality: 28
 
-secured: "3Tnc7u+WVVQ0TcRCrVdPK86j8qUPvvOQnqOdYRj4eW49T1joVx17eQYxj1AnJMS4DaJDmnL3kUsKIbFrSpnKcCsAX3s2/UcQnnHRThwURKoAJJ98DrMlFVLAJq1Rpb9Q6RPGABme2Jp1Mbyve+PdKyBcId74qPyuEq0ibNYSsShbmsScn+jP7pJcfgSpoV8CPoeJUmf8VF4kPmyr4Y5p8Gk1a66pg4w64Hbcwe2KXRaZehNq7Jhkvu28/v0hp2qhjHWHKBtB6TyXdyy7Q067DLIWL2dyArVqrLeDNPoFQ4+67YmV8nqHXbFs1/kjL7E48iKxHBB/kcr4baWROX92FNIZxrrwZeKUpfSiyNRAL9yQ3A3GAiDprAzaW9JhQhsgjYJa5fm97YLhoy809DdPjSeGj9/CzNYyU+LyNCo8LQP80DD0YpFpfu1nGOwiZCborxf9LvQTeNW2bI4OqHTgtMq1NiMiSuIO8zNL0o5TXQ8lY4x1TrPHgCrwhQsDu6E6VGtyDVYdG3+suc/BZG62gQ==;IkOKbYtZigs5nWF/RH9ACQ=="
+secured: "pUMaDM7/oZDNBGhu+HTanNTMn0ARiTclA5HNivvok67X/0pw2C58Hh4/E/IHWgrk5IovdW6IS+GNU5N9xUDxAqT2xHmc97RvZbPxCObg31uGZnZ8E82H1jvn5NBlmPj5/GEizTmJJQ3InIlssoYXJZN5wZiJg/yrbVdTt6kTbu6ogVqfNf7iiWHrb6WHsnrG+g1Li0glJOU75d0YkZmM4ZTYX2al/4Mt0MrXVMfBGVw8D1J9MeFlnnLriCMPdv5vfD5Ex4k0m7GsSTHMymvbl/V4z0ulXmULm9icruXjyduauO8HkY+sXBhc5ofvttcCodqM7QwfGWAugbHEX8e956e9rV675QEQD9YOUNhG4IM=;2y6bTyPHT8Ifc7wkofPfhA=="
 ---
 

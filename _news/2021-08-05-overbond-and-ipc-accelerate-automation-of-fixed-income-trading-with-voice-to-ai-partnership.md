@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cupid’s Algorithm: Artificial Intelligence is Being Used for Matchmaking"
-    excerpt: "Artificial intelligence is transforming industries, including the online dating industry. Here’s how AI and machine learning technology can get you better dates."
-    publishedDateTime: 2021-08-02T04:37:00Z
-    webUrl: "https://www.analyticsinsight.net/cupids-algorithm-artificial-intelligence-is-being-used-for-matchmaking/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 36
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "rkUKzTmw1I+0L6AT9daHf1q00Zrugiaf+MMJmj9Eb/qiDWHncVy3NnLeV1Xd5JKSPvCmNOavRKP3xPeU5/BygnDoWBoAGJb9oR0ItEV93RQiX+VLBHMou+o6pThmAI8Rn1bQTqURCmEwyuK5TAN2OkR6OKvl0wu2uqRpaXvT49d88sl21s1QowlNZ+wFcRXzV5LDwPbxE0JZKJxxv4SjfRmYucV8Ek59MKv9z+T8fIggYoMXyzivOH6LkyNnV+zmNl+B8llrfy9Qyt4/MYi5Qtt+NJwNrmv6acU2am9JJlHnAvlOYZG5ZbsTAa+SRuakUb0GtS3wxc11F9u0m426civkLgjN9WsqKUMl6j/sigE=;GmOy6hzOMn5ku0W0xQyhng=="
 ---

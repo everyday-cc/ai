@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
+      "title": "Pilot on the AI-driven ‘financial back office’",
+      "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-593344-e1628104244395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "publishedDateTime": "2021-08-06T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
       "title": "SenpAI.GG wants to be your AI-powered video game coach",
       "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
@@ -315,8 +366,8 @@
       "title": "Federal Liberals probed for facial recognition use",
       "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
       "sourceUrl": null,
-      "webUrl": "https://www.vancouverisawesome.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "originalUrl": "https://www.vancouverisawesome.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "webUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "originalUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
       "featuredContent": null,
       "highlight": null,
       "heat": 139,
@@ -333,13 +384,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
-      "cdnAmpWebUrl": "https://www-vancouverisawesome-com.cdn.ampproject.org/c/s/www.vancouverisawesome.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "ampWebUrl": "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "cdnAmpWebUrl": "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
       "publishedDateTime": "2021-08-06T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Vancouver Is Awesome",
-        "domain": "vancouverisawesome.com",
+        "name": "News",
+        "domain": "nsnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1169,58 +1220,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-googles-overhauled-nest-cams-are-smarter-and-easier-to-use-without-a-subscription.md",
-      "title": "Google's Overhauled Nest Cams Are Smarter and Easier to Use Without a Subscription",
-      "excerpt": "We’ve been waiting quite awhile for Google to refresh its lineup of security cameras, and today’s the day.: Google However, if you’re looking for something more multi-functional, there’s the new battery-powered indoor/outdoor Nest Cam.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/googles-overhauled-nest-cams-are-smarter-and-easier-to-1847423291",
-      "originalUrl": "https://gizmodo.com/googles-overhauled-nest-cams-are-smarter-and-easier-to-1847423291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/763b92b7c9fc5076135caec1ba37ef88.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/googles-overhauled-nest-cams-are-smarter-and-easier-to-1847423291/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-overhauled-nest-cams-are-smarter-and-easier-to-1847423291/amp",
-      "publishedDateTime": "2021-08-05T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

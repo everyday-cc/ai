@@ -82,7 +82,7 @@ related:
     provider:
       name: Actu IA
       domain: actuia.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.actuia.com/wp-content/uploads/2021/06/Dataiku.jpg"
         width: 800

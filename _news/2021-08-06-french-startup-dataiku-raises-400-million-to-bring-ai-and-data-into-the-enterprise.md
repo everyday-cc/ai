@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-06T09:56:00Z
 originalUrl: "https://www.actuia.com/english/french-startup-dataiku-raises-400-million-to-bring-ai-and-data-into-the-enterprise/"
 webUrl: "https://www.actuia.com/english/french-startup-dataiku-raises-400-million-to-bring-ai-and-data-into-the-enterprise/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.actuia.com/wp-content/uploads/2021/06/Dataiku.jpg"
