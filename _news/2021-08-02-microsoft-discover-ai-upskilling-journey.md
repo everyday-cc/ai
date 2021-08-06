@@ -94,6 +94,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Arrival co-developing data platform with Microsoft"
+    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
+    publishedDateTime: 2021-08-06T08:18:00Z
+    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
+        width: 1882
+        height: 753
+        isCached: true
   - title: "Microsoft Releases Toolkit on Designing AI for Humans"
     excerpt: "Microsoft is offering guidance to companies to develop human-centered artificial intelligence (AI) technologies. Microsoft released the Human-AI eXperience (HAX) Toolkit or a set of tools to create and implement best practices when creating AI that interacts with people,"
     publishedDateTime: 2021-08-02T04:50:00Z
@@ -103,6 +117,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
+    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-06T09:38:00Z
+    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 19
 
 secured: "7Pr4p2yHBrvRdQAhCzSmqqMqYUBHhCpA3M6KEtPuj5Sp0nc6O8YjsOJjkJODCwSjriZBByvblPXo3ijGWXuks1NKE7kEmQGF0+nkwBPGwX3nCr4nFVEe5sgNWG0PfhwAeytrdCKGBRop7JROn+QW58fhhZkJSbcCRgr/wQ2T3IsGpZ3bi2/hZ993mujC68ecmXC/kOvkL9UTseNt363jE+m1wg8XMM3HLjG9FilAdpWIrgC0dMFn4PJdkeQyPIfQK6TcB72cYWnR2W1J1PULJrsdcomSf/baBk09T6t4g/VIgdNhgBvzDqvE+pxb6kM2r1I/piZc+cZQasjt5hLyH1yul3+7Xx4NVMixARNybfU=;ujR9JNrdqqHe9c+TAJNI+w=="
 ---

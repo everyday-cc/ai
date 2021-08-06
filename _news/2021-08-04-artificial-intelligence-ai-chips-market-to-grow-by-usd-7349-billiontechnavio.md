@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
     publishedDateTime: 2021-08-03T15:25:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 64
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e0/de09a86f-53df-5fbd-bf9f-fa7592e9842f/610961fd14fe6.image.jpg?resize=689%2C630"
-        width: 689
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
+        width: 1536
+        height: 804
         isCached: true
   - title: "Global Healthcare Cloud Computing Market to Reach $76.8 Billion by 2026"
     excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Healthcare Cloud Computing - Global Market Trajectory & Analytics\"."

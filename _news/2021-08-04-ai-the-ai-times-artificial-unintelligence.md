@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google is developing a new superintelligent AI but ethical questions remain"
+    excerpt: "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems."
+    publishedDateTime: 2021-08-06T08:01:00Z
+    webUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/"
+    ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 102
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Embodied AI, superintelligence and the master algorithm"
     excerpt: "In the next year and a half, we’re going to see increasing adoption of technologies which will trigger a broader industry shift, much as Tesla triggered the transition to EVs."
     publishedDateTime: 2021-08-03T19:47:00Z

@@ -83,6 +83,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Top 10 AI Innovations Of 2021 So Far"
+    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
+    publishedDateTime: 2021-08-06T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "EarthTalk: How is artificial intelligence being used for conservation?"
     excerpt: "How is artificial intelligence being used for conservation? — Katy P., Chevy Chase, Maryland You would never think that computers and artificial intelligence (AI) could help humans save nature, but in fact these tools may be key to whether or not we can halt global warming in time let alone solve many other vexing environmental problems."
     publishedDateTime: 2021-08-01T20:00:00Z

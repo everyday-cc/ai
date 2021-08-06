@@ -7,7 +7,7 @@ originalUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-ag
 webUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "John Deere acquires automated agritech start-up Bear Flag Robotics"
+    excerpt: "The $250m deal will see autonomous tractor company Bear Flag continue to operate from its Silicon Valley base."
+    publishedDateTime: 2021-08-06T09:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear-flag"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/BFR_Tractor_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "John Deere To Acquire Bear Flag Robotics for $250 Million"
     excerpt: "Bear Flag Robotics, a California-based startup founded in 2017, will be acquired by John Deere for $250 million. This acquisition builds on John Deere’s strategy “to create smarter machines with advanced technology to support individual customer needs."
     publishedDateTime: 2021-08-05T20:58:00Z
@@ -35,6 +49,6 @@ related:
       domain: agweb.com
     quality: 34
 
-secured: "iNsurdZbeFRbbQ1mY8qeXaMnK0mTMsgZ/JMXDAI8UdVoUJ50gJlX3SZZ0NQyJELBg8mePCN1gIF3HCjYghN9f9POc0jzidmHodzgwK596/4Kg2U5roe2RIp7s5ED89Sgy9bEW9KSZ1GSCEmo8++OBv9Ex3w8N7OUqof5FAT/1bP3UmIbBvHl0uI6mu7IND5DIcPL8GBG4eJEejsmksUfuEM4cAmZMR9wBCIzhWvFWW7LG0kMlBTJyOMZsnGBnNsLqVU4cVcw6UPGGmFldQ+HBjcevGnJm61ZcNE9ysNZ6iYfCUNaE/qeAZOZBPork9xEoWdWYemuzpNPs0CDMwr63pwKlds949a1CyskvgvoJVU=;dvFO86c6qnp2CM3g8RrNbg=="
+secured: "Ly+T9X3VRqDlMDY6JVJFwX6TIMFgeffLa6tS+oV7/u8+/skV4SuS2JDPvEUVlhH2OUrkNQpqjYfU8mG3Fz2ViKB7kaYLP5/fQcVHNMX1uchB7sUaAGgqLWzZ7ErqZwmzu0ABlu/WnbDFhCyl7F0l/JZ4dtC7IwELNSKILPyyFbva3sqJyyuca08fxjuTybAwZ2aDRIiNNV/V9/5q+v/id/ARuEKMo7FTu9pBP9yC1HOO4lLLuyjnWgrz8ZPha69ag0tKYU/aj6d1GMSq/AlcTJz06U2M+jKsnpe+HpRkvfyhWFVZpPYYJ8CjYc4Z8a9lyahsCVEap+ZnqqOcj0FYBAhTqV4sfCK4mLvZWN4/aFa9zd6At1NmN5ga/kgA4YIkXc1vX1C6unTC3q1kCMEUs0D+RfRt1bdpvj8KpCqIb/La1owDzZyj6fzAiu4qcFrkQFp2/Mm/8srJfUcsGOD3QoAkxBWcc3R8faloOwoGRleK/Vj5ynw89FrbpkBTsl/1D2pvUYbRJhWsqNkS0so8nw==;89hZL7l8H7M9VtIKebXMlA=="
 ---
 

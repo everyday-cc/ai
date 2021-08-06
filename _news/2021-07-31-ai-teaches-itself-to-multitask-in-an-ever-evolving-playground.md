@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Ne6NK4kWw5/sizes/deepmind_resize_md.jpg"

@@ -43,6 +43,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech start-up Revio secures R15m seed funding"
+    excerpt: "The start-up, which is focused on the South African market currently, plans to formally launch in East Africa in 2022."
+    publishedDateTime: 2021-08-06T09:35:00Z
+    webUrl: "https://www.itweb.co.za/content/mQwkoq6PVZ673r9A"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/WhskqGohOzjTZ9hIfI0BeTilXJwDYpAEs2VENb20ne2ZxZYaQyno2kD_vQQ_vc8m982oz2Z9_AOYMm98zi5GSfKX82qm7wV_s4jt=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Smart Money Fintech App Snoop Secures £15M via Series A with Participation from US Investment Firm Paulson & Co. Inc"
     excerpt: "Smart money Fintech app Snoop secures £15M via Series A with participation from US investment firm Paulson & Co. Inc."
     publishedDateTime: 2021-08-02T12:05:00Z

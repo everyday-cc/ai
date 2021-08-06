@@ -90,6 +90,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Top 10 AI Innovations Of 2021 So Far"
+    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
+    publishedDateTime: 2021-08-06T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "h+0vz1uM6saovt4YKQ+jZGTI+o9hdJEJq0XOy0Kh+qaourc4jYkdqTcB0bUlJXrnnlEyp3XZSZASTkBLPBI+o7DNNRMp9+udBWus/lZv1tV5U+EEb1VIAmyMGFILyvdLKJxdJapv4iv0rBoHi7jN3hph4TW/+5i+19rY74GoEJ9w8f9y1sb8L97m/fy08W/zTHAgJsxUa+gamSqYgPC6qvDx/ETA750Uu3XTZbhcY3ezu1wsyGAzKZAPeIBy4Llvc83e8cfT0rERgPujPKy/wU2qSwxLK/4d0/3yfiSNSf6noufdgFbgmDAm2cn3IGj6GshV9/9KkDUEqV543jaJqsF2H2zYuX+ifZJnd3xztgkP44JuuSOOT/H26NXiE3HvHL88521c7wEKj+V6T+ba0kMk7fN27ox9g7be+bOBGswNWFsHGEJCpnqoc/JXWoPJ38YFt0N9/xi75f8w+3R2W1ztLjbNmWA8tQeH2PqtlJg7xO7v10VatI30GT0Nj/uNsoK4gq9j/ofrYSMYzJd/BA==;QxjhcwuIPKn5OyxHVzjkCg=="
 ---

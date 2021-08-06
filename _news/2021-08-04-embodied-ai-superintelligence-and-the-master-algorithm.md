@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-an
 webUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google is developing a new superintelligent AI but ethical questions remain"
+    excerpt: "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems."
+    publishedDateTime: 2021-08-06T08:01:00Z
+    webUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/"
+    ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 102
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A|I: The AI Times – Artificial unintelligence"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2021-08-04T09:30:00Z

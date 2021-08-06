@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-excerpt: "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Artificial Intelligence"
+excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
 publishedDateTime: 2021-08-03T15:25:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026/article_4afbcf99-b602-5ded-b890-0e8001f616fe.html"
+originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 64
+heat: 104
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/e0/de09a86f-53df-5fbd-bf9f-fa7592e9842f/610961fd14fe6.image.jpg?resize=689%2C630"
-    width: 689
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
+    width: 1536
+    height: 804
     isCached: true
 
 related:
@@ -71,6 +72,6 @@ related:
       domain: reportsnreports.com
     quality: 19
 
-secured: "yK7PlkIp2ovYYl3AdxB8CpGufw5mq0Cqi7dWj07LLqt5NJZhvWzd7SuWoOvzeOqdbM9yzZ3njMTtXkHc8gCtYOruDVhMHASjzQbwehtMenSMvGqh7DnxH8+cTn1DJdP/MEv5fhVbwfKvdCgxKl4pFp9f8MlbiAmXVwe0+coUHwQolLEQkmV7T68p+pm9oKZ+fv5lZBSqxGVNP83jgNfuvmu8AAuVHzOlZ7sj5aUDSUEdzIL5BWVtmjXFYOQIlhkKzxK9Z4xydf1bTz+FYgvGHkxolfvkSFISBSC1zTo+816dKErGxnm7mzDPZV3gqdJ1mRQyA4EnC7g+Og93VXd+z3RBnp7bx1oPB0tHDaxJ5OU=;JbhhelPgTnJQLji+RFYi4A=="
+secured: "sk3kixUPtRFPiVvPRJRbu84UluUqdKyyem9Fwoy+d0C+UVmo8MxGy5Kj++Na+6m/Lo96MQbhYNNkDsCudCqXFB2sCtl3U4qTvLOeq3KDCuUtdDV8U2sWTPXqgkw+UP4hj2VnBkJLXbyRnlPJbVU3KkjTxPwTf8CM3ssXN2vFJIVjFQCXVl9GWUlu7FuZnUd03rWpt4gApdzKeH031k5gFh7OBABkdY2R+OYf8obQ7GDznH8LulMKomuQe500N1X2MFxBsMo6RV1hRpq2WyldzzhxM6raN1oTqM+ZBAW9NnDoiiIi3QSveUZfQw9LR3O5t8RYdszfFlSPpRDCip+hdUFPhF6JN3Xsz2moBfp2ADI=;YkgHBuvDC4pxes4/1T970g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

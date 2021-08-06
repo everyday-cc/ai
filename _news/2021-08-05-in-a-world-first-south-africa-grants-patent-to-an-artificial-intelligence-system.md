@@ -49,6 +49,20 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
+  - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
+    excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
+    publishedDateTime: 2021-08-06T08:44:00Z
+    webUrl: "https://allafrica.com/stories/202108060245.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 31
+    images:
+      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00501792:19e48f25f754ab656a2f8c462ffdce6d:arc614x376:w1200.jpg"
+        width: 1200
+        height: 735
+        isCached: true
 
 secured: "PpfC2tuCXP0k0DQhv1Q6419a9pTM81emFG3tT2ihiBmp7figHPIQLVzILZPLiTAUswMvkYsksjT6uFP0o37uWipz83+9NOvaWgE6v2peHEq084z/WgbkAQFO77Uea3z7MIt6c4pEDtF9Wub/LekMytJphkZCbtBWCaDmOXufRn2SayDCXNmfNmMdzDeLmEHcXMoFzAOMjTSs9bRq57oIWr0V0Iytf9QVutCUk5wcJYrEg8/IduAZ4edJFkxz4TP1GnUAaJpONcAj5+pZnI6OB9s6abvco6Os2WkBjoEieF+ECLwU+/WMSoczPeZL6kumCBSoPU59kRVw/kZM6kabItlHeTZ0lLaZ0cM6ECPk9lkUo0SdINwkZkQBpxkz4r+23hL5m/W1o0RwU6RUf/tch/uCumUkX/qH1Uidoejn/WWH7wzB0MOeZZzUCP04ocnKm9Y5yGmClTO3VUnqalhaggb/NPLnJRoTOmHRcuXr5QSRNnl61JxWlIHEWU5VsYI26jyzIHAMS+0s+2pemEmASQ==;OpVtiwHMMcm+GSjrZHOZpQ=="
 ---

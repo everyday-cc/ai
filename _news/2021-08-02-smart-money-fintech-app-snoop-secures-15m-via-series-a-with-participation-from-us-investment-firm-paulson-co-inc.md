@@ -43,6 +43,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech start-up Revio secures R15m seed funding"
+    excerpt: "The start-up, which is focused on the South African market currently, plans to formally launch in East Africa in 2022."
+    publishedDateTime: 2021-08-06T09:35:00Z
+    webUrl: "https://www.itweb.co.za/content/mQwkoq6PVZ673r9A"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/WhskqGohOzjTZ9hIfI0BeTilXJwDYpAEs2VENb20ne2ZxZYaQyno2kD_vQQ_vc8m982oz2Z9_AOYMm98zi5GSfKX82qm7wV_s4jt=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Rapyd To Step Up FinTech-as-a-Service Offerings With $300M In New Funding"
     excerpt: "Global FinTech startup Rapyd on Tuesday (Aug. 3) announced a $300 million Series E funding round led by Target Global."
     publishedDateTime: 2021-08-03T16:57:00Z

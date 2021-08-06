@@ -60,6 +60,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible"
+    excerpt: "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life."
+    publishedDateTime: 2021-08-06T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-In-India-5-Reasons-to-make-it-more-accessible.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "The need to make artificial Intelligence more accessible in India"
     excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"
     publishedDateTime: 2021-08-05T12:31:00Z

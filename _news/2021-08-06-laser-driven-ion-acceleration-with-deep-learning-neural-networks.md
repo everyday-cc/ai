@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-lea
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 96
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         height: 350
         isCached: true
 
-secured: "gL55H0rr55R36NUbdVRR+NtfrOzaTxma6VNxHxmeD5zQ8+qRHEI7bNxKRJnUQLr9ug3PAhsXq1b242FS+EuUQwU9f5WjnNJtdbX3S3jWS60TTSyTsK1ceG9bBqJ09iCiAiEE9Jym50LAnXwdKLoOaXd+YVSzXTcdEFBwJsm9ZsOBld/wpg0PSZdtrCmVVQg2Fx1tWMil0hdOc0Xg7TcUX4vuM6gJjG0Nc/fsf/FhULeZU4gI1WiumxwRsx7OtKjPCu+l+nh8Zjn4yG1x+0N7ZzPvQ8QSBd1/CIgdIqe2gCh5V4w0didJi9bU9OLF4Yx2yyIvNcO7+D6rHhCBjGTRlQHuK/bx2McO7L/Q1e/huwI=;YymnB7+6MezyRglkOzSv5Q=="
+secured: "BGU2YhfkpfD48it0Q+jM2rSSHfWH1XnsKiVHx9J0EwNaJIeJmAJ2Uy9WPw/V19fJGP5oK3owxuSzC7tyfgM/CJdSsCCR9BpwNkf0Zb6JpiqmFl16wl27zcV72XziPgflKtY1URZojD5yviLBbEn5QTanhBado4LaBkiF31ySzgActK31moPvAJkLkwUJht5KFFGB5caNcZUAn8cSw/Jloib4CS96UIXLueMhJ97EDUuZ49Yv/ihG/T2Kx/NIGvoLlrSYzOGaBVzPgYHv1Hv2UhuB91OyFHPYpDmdvVIkKAVUikyc9kdr/I72of7TD4cF4te8CRfFX+zJdnwsSVCvObNW94fuGsQA3njsz6iXLZxZ1j9zhIYCs1aIR4jKFOkjDKRmnCOL5AUhSIXabJPgotzemlMvCLCBnZ9SpR8RwPyzcfI59NqINmFYrm1VGjr2Tjmkql+GSCI2U4MwVWhZB3EJfsrlvJYnIn3uUSA5fBW+4FJrvoNLEXcutQ3Pf6RVJg+tvU+emJlsqb2DFhMQ2Q==;mP4SoquOn+H8PPyRD0GFOw=="
 ---
 

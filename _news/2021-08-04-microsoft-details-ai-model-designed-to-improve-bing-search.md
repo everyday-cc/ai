@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-design
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Arrival co-developing data platform with Microsoft"
+    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
+    publishedDateTime: 2021-08-06T08:18:00Z
+    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
+        width: 1882
+        height: 753
+        isCached: true
   - title: "Microsoft Discover AI Upskilling Journey"
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z
@@ -107,6 +121,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
+    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-06T09:38:00Z
+    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 19
 
 secured: "oQtQxRO4fNCzkzMduYeITf0Q2l7KXm5C4jWnlocMVsZNKUVolD3zARZkPP9GsN2L8WMga7k8BqRmYUQAVDTEmD1yThjHmWXBf+lij1eoWSayB0WRfuAMWwHJJxX46Ck4LCM8sAq8CzD+5H9KbwPSjT0HKXMUjJ18uPIpSDC1lEBwxmYAeEyYbJBZ7ORBPhpABBSd7WZLGTTxZjYxFEE2tru9LERami1UtQK2rfLfY186n4qIWGeN/2Kg9ZGoj3P6V4HizDPQZGUeYzXtmSLDxbFwMJ/PaKtXaCkrgM0uGET3uiflaQQ2jWAzyHLUFzyGadAU0jgvYGZmVdKCx/EF8cvZwOAcK1bpD9sT5Z7DmHyrtfCYHqo8IXXYlDzSf0KwM3Se+yDz2IZXHSnGYDIxmpw/0L3F47HzXdVXxAKT6B04xF44gxnkZLd9y9xXH8mWcn5h5jUDoXoj+q/wlhq7gI+r2ZrjdhEG4uq2IcTnOYUQ3dC+whfZ33xnElxSC7xVAcczPwlqxVu70FiwCmPCAQ==;fxQqPytMa5W9awUMSJ++OA=="
 ---

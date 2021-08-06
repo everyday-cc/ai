@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Ostrich Robot Machine-Learns Itself To 5K"
-    excerpt: "Ever since humanity has grasped the idea of a robot, we’ve wanted to imagine them into walking humanoid form. But making a robot walk like a human is not an easy task, and even the best of"
-    publishedDateTime: 2021-08-01T17:00:00Z
-    webUrl: "https://hackaday.com/2021/08/01/ostrich-robot-machine-learns-itself-to-5k/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 21
 
 secured: "+qYsXhHFNW202Y3AhVo/iazX+wFoZGI4/kTrgcBEh/xldSulA9EE7/hZ3XUUXDUfV1JcV7seqkhG/r6+HlLHhHakUpaadzpF0+Q5WhrUj+hjiZrejQX52f6pGiA8TJorqj8v38noaAldHB8kBPpB/D1NrvEJIxPyEwCv3r+D6JiHGToWbY/P74XFvPKs90G42CSng35/TAjGAqFTs1DvZM+dzvuJ9K83eTPXmPGMZfEAzmlQyrS7V8gfpdnkadSdVBcLwVBHfRC/skAj1L2k4sy4q0w/Z2lzXfQiHUZe8KG26PO8vXYOiFhWEN82a2fdEg1w5TejcKv+f4n0agSbZWM0Q1rm46CPfQOhJf9BDmU=;NokDVmDZ2q5lnqqAPI6zew=="
 ---

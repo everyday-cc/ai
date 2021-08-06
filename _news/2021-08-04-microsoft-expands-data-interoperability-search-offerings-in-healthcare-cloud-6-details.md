@@ -86,6 +86,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Arrival co-developing data platform with Microsoft"
+    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
+    publishedDateTime: 2021-08-06T08:18:00Z
+    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
+        width: 1882
+        height: 753
+        isCached: true
   - title: "Microsoft Discover AI Upskilling Journey"
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z
@@ -104,6 +118,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
+    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-06T09:38:00Z
+    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 19
 
 secured: "TMKU+Xk1qjG5U+xitBvX6brboqf8KvNPklJnO3oig9W7wXgaNPVDKobcS3P7T3ZlHe1pw3Gm35JGQehu9yjVM0oEvDh5nq7cSsOC4ZactZgvqVNLn0uEdTaJjiKzxjzGm0XKq7q+wMcTcxXQgSz80VUPA2DteDDHechk3pqUwgv3bq7FGL8rDR9p/pVpv9yUVGNAMGGi8KbBSId2M03lt5mpPbgwORWVSTSUVz1rXtzzk/RQ8eBUn88DtI7JxlfzHSxl2sU5MxdwcmC2o1KHxiJQ4csJ3G7AyOxwpLI2bEnOvkpYfmnGriku5kU33/jkUseBwFoeaH/t+ZEmSNWFiSuYwbJkDHU3Mk+2/raKT+Y=;EPestZJjkprBW9NUGtz0/g=="
 ---

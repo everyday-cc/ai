@@ -89,6 +89,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Arrival co-developing data platform with Microsoft"
+    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
+    publishedDateTime: 2021-08-06T08:18:00Z
+    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
+        width: 1882
+        height: 753
+        isCached: true
   - title: "Microsoft Discover AI Upskilling Journey"
     excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
     publishedDateTime: 2021-08-02T12:56:00Z
@@ -107,6 +121,15 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 36
+  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
+    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-06T09:38:00Z
+    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 19
 
 secured: "RY6w0PP095MENVKgaG5mw5kE6vnQ0tSpv8LdDcEVqloTmAlbRFtGAA2bHeFR3PuOVazDNOYC57pm47MH8z9XfauV3Goix4zMn8bedWZQYxKBRlXuAJJlJ0UAHrhlhLVNamyeuweCgmBg1cImirxTsSBPrlYO4Fcsp0QiMYB+ALjFWA/VwGJQWAYKS2JSsX+7+vhKInsru+IBhJn77GCGLjZxbmd6f62cAVXpRPU8L9huXokT5gY7WQ2luhsGG8FvMfqc3Gu3KyJqgAgbdoB62NiheyOGQsGR0VGJOcUF/47Pa7aJOnBMhuD4+Enu4PwjNMx7/aoa9FeZb+yQ0MAW/lWcNt/kMo3qUIup9444+i1CMqDgO2EAzPfXHuRT1mGjOE9x1O3+mXh5zsjc5zydIkrVYoyonOoDPSHfcjprwpw3l1X5DJubTphYaH2kJQM8BdGu/5Zhxzf2qw9zFvff2/6FLvWdPeGvkRh+zMynoQpyFC7GXnmcbmpiWEL1ofMUWedKP5HPI+JFYDdlwNjmoA==;e6eApCte1n8YX5Yb5buUig=="
 ---

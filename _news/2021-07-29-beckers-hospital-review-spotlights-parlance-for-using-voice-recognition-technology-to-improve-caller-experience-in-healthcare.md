@@ -1,15 +1,19 @@
 ---
 category: news
 title: "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare"
-excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR."
-publishedDateTime: 2021-07-29T14:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
+excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,"
+publishedDateTime: 2021-07-29T14:23:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
+webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -17,11 +21,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/86/d86d8a25-c3fa-5c7e-89b2-11e91e7cc34b/6102b8ccc0895.image.jpg?resize=766%2C351"
-    width: 766
-    height: 351
+  - url: "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "eylqEuQwspXJQNCKzgtRW1rP2FgVbDeHBoFriRwpbRmBOeXpFLAohR5iETVMHyJymxJLkBpLotmcWuflla9UPojxRUjZMIlygOw4hegDXdI4HACIPjfbWwLcBU0xwMs4Tv4xreteXrkUYnoOZGHhsgAhf7fhUYNATX499oow5xeGNDC3MSlOem7FGPW6Op9D6dxGQa8HLy3UyVyWenBlTS08f7YMjk+y6ErOCqFaWBxjBpURF1NrpG9A93M9cCa2j95TZ48n6BcePQGJY8S+FHY0FVoPe9GoBNI19Kphy/UbEvZa/uwNJZicbaNwbgVQwJWZGX1YZXcz0FF4oQJyFAGYTAvSMKf8jPU0Gx/Xj/TZQ7DOCKZ2IvyLTqSjMbSf9TC69O3JhxQODVel8Am3AvUkKAu/M7MqoLv76Mk8UMHSLm3xdSVaZ9ZU54CU86anZmZJ3FgCknFKio7Jo07p4MfXHKKX8Y82RuCgj1Cc2VfRAam/ar7+uuc50jKhz6fQ3OGRDL1oTsYYtpIACcIoWg==;WfqyX4cTUM/CdWAYWApBoQ=="
+secured: "LF5h0ll6VB1NzJct8HaYu5Opa/H2H2QS6QDBoLhJl4thEmZ24fV+ZjXuo+w2KH1M6SC0tglKep5yN4Z8GEzLhSOT8p/duEUdaDnFkZYCrKA7hqDqApGhPYvwpXhD9BUk4b80KQz6GJZ5E/z1wexDE6B8AtPjGTlri/TJdr9CiBfDv9HyjslaIA+Ovu9DdXY2s51DFBHwi9GiExECuxX4Kft8XMBtinEnGQwpZeRU3w0E9LCKVH1DtET+8Uvc1rV4EoJCAnBmQ2Q4dJmUB1AgPvoWoT2pz12y6nTiahPS98iKEA10UvdHu9ho3haJl3PckXWdFIgnONrFSHCK3wt3FeP26z1XI1kxH3/6fibgNkI=;HCBlaCSsoEl61ITB51Jtfw=="
 ---
 
