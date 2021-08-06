@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
-publishedDateTime: 2021-08-03T18:20:00Z
-originalUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295071"
-webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=295071"
+excerpt: "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are able to earn the Kubernetes on Azure advanced specialization."
+publishedDateTime: 2021-08-03T18:32:00Z
+originalUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Equity Bulls
-  domain: equitybulls.com
+  name: Wipro
+  domain: wipro.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.wipro.com/content/dam/nexus/images/search/loading.gif"
+    width: 350
+    height: 350
+    isCached: true
 
 related:
   - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
@@ -57,6 +63,6 @@ related:
       domain: publicnow.com
     quality: 32
 
-secured: "MT8fpQht1whd/zBAEdhL0T0UFekywml285Bw2KbdB5ef8QDKaCh4qJ4ZbJLYjjrKdbwXS97uGXT34M92pJiz7q7QmHYno6/f+XDxEkuP0JVaj9zczseat9dWg0yqlTRNHxlZzDnFhXzI36xiCnOjNYuUo6XkDitKDOtD+aND90xhH4QKzDnnNFijWtsnKk6Pni7ksrzdJeUK51Y3V3aO4t+sEzGaE3IyAlgZuMYY2n+bJ77h+tYz4hfR3Lzt4TPR+oKCSmPk039tomPT3+AMeWq6MCrvR5NKqzNZgyRLDbdc2W+38ZM9DGu8UipTOatNJtsXg/RQ+y7H0qbF238Dq33b8CS9qZSwM88Ju8Bz2+4=;7uO9LALxFD1FXBYttHhTqA=="
+secured: "zz7/fIVMJRWukHp7YuVWfQY2C20flIiTxDEf4WC1GJUHNFIs0TkygAD5MFiovi/c9uYpYns9uw6YnbnZnCqtErXhMkRXUQzQyXNWwkfhKshA4Gz/K5uXZLqlnKnoN+ffsgV51aKQBONLhHJPqR4Ej2wzJJBaN9/QbYKNx0BewYf9J+ET9DaWykiEXTJLJ0bZsA644Yr6iVDyRM3Lxyg79QOrJTsCQN8ysXqhBLI2lZXi44/PRkXXhTwwJ3IFf3HPvcbOSInKxefx4oaQ+cdsk3soV3CJ40QbEjRD0GKFMhYbkAoTTBZwAvYJX3224NhbNPNjo85CnDTUHp9XbDd0cfFwT62R3gscb8y+3DrYLRA=;j5XyVbyjfDC6B5G+7fRzOQ=="
 ---
 

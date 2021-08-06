@@ -73,14 +73,14 @@ related:
         height: 818
         isCached: true
   - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-    excerpt: "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value."
-    publishedDateTime: 2021-08-04T12:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
+    excerpt: "Today, California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP (FSML) announced the successful adoption of Foundation AI's SaaS-based offering,"
+    publishedDateTime: 2021-08-04T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-1030689272"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "QRvtsV/QKRdt831p6j7yFaI6vIlucJh2OZ9+0499GA6m7yl7EzLSe7kFtFDYeVowkSd+JU/A/bt4z1ihO1ALtt8RIpnik5z8oFIlWqE72UotrosCxThaYPZJBhdgTgH0nEZ6EsKspaYyhE2wJ63WoWaYsCUsBK4VG273p1YrFKTmtvPEHzcXNTnzA6TAFvQglXOQ9DH/sV4I/XCReHbofLnHnITia2pq31Zma8pW4EGFQevNQ+h3oSr2k8UUPjt60dQhnO7mbh5YZiTRB5eTgJGOgK/OPw2dUMGtyuMxhOL1igmpqGmxrh8Qqhv5V6Y3+N3BtLxpP0rZHWy/kF08fLcU/YGkEbqMqS9xd885AAY=;z+8kP2ryXwEAPGhl2WdXyg=="
 ---
