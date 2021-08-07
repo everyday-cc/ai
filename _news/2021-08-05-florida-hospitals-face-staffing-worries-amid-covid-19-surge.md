@@ -33,20 +33,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
-    excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
-    publishedDateTime: 2021-08-02T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1201116&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1579813/Alzheimers_Association_International_Conference_2021_Logo.jpg"
-        width: 400
-        height: 217
-        isCached: true
 
 secured: "zBMmnpcuyHFCrw7gKZi072z8kVFq5bBu4dM1smj9f/EdTjNmZUnlyKHKEulmS8yG49Os/xOwvN4AtY7PrUDEJx0/XKV+wJRGSjG1uRUQJe76G3+OSNx0Vo6vTt9EtQifpIlYgOhjwv1aBO057+Z8kutpVeRHLXLq/lgWehbkI4dqa/7b1XBn6IoCAQ7HL6AYkzKJVnUVIfZS7oAhoZ4zZ+G81MC590d1adbMo6UP4qkOJayIrQPgzHhJRq9I2AYDaQu5LCoDx9JqAKjWZcGMrwgFDqRTs8Xxeal2aDcPV69n8w2KSR6/L0O/iosKyQ9XYVqTP2VH7h3C8LRHNulHwUVQ8CrnEPycGknqaNVDhBhdoI2yVfQedlM+teApV13ZrlqJ/MDOup7C0/8nfMbgBVTUFnskqew/w+bxFYfbyd8vpVMlxEUsOjfBgbTveisAsyd8p1MWlut01okmkgbSfTLy0/GA+hAL92jXlCKcbIjn2xClyFJQsyy2DUkYNanyicGXpQS9VwX3k4YcvtpnMg==;8UHESl/191crFuTURAfiNg=="
 ---

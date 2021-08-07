@@ -38,15 +38,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "NIFA and NSF Investing $220 Million in Artificial Intelligence Research"
-    excerpt: "The USDA’s National Institute of Food and Agriculture and the National Science Federation announced a $220 million investment in 11 new NSF-led Artificial Intelligence Research Institutes. NIFA and ot"
-    publishedDateTime: 2021-08-02T18:21:00Z
-    webUrl: "https://www.newsdakota.com/2021/08/02/nifa-and-nsf-investing-220-million-in-artificial-intelligence-research/"
-    type: article
-    provider:
-      name: News Dakota
-      domain: newsdakota.com
-    quality: 19
   - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
     excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
     publishedDateTime: 2021-08-02T22:23:00Z

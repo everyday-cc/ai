@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "COVID-19 Associated With Long-Term Cognitive Dysfunction, Acceleration Of Alzheimer's Symptoms"
-    excerpt: "New research reported at the Alzheimer's Association International Conference ® (AAIC ®) 2021, held virtually and in Denver found associations between COVID-19 and persistent cognitive deficits ..."
-    publishedDateTime: 2021-08-02T18:36:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1201116&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 12
-    images:
-      - url: "https://mma.prnewswire.com/media/1579813/Alzheimers_Association_International_Conference_2021_Logo.jpg"
-        width: 400
-        height: 217
-        isCached: true
   - title: "Florida hospitals face staffing worries amid Covid-19 surge"
     excerpt: "Twelve Florida hospitals reported having a “critical staffing shortage” as of Monday, and another 15 hospitals reported that they expected critical shortages within the week."
     publishedDateTime: 2021-08-05T11:46:00Z

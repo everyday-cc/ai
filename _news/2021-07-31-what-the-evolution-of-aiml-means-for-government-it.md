@@ -3,8 +3,8 @@ category: news
 title: "What the evolution of AI/ML means for government IT"
 excerpt: "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions."
 publishedDateTime: 2021-07-30T18:10:00Z
-originalUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx"
-webUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx"
+originalUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1"
+webUrl: "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1"
 type: article
 
 provider:
@@ -15,7 +15,6 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
-  - Microsoft AI
 
 images:
   - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg"
@@ -23,6 +22,6 @@ images:
     height: 368
     isCached: true
 
-secured: "Pcw8QPvwhqx6Q/i2rcWH1l+7dimYBXNrEhrLP1Y4z62KUVGpm2dcmcw+cXllxUCwsEmwVcFqDYIYCGjmG6L4LNsDyMTD/czHcudsnUNz2RkYgAjTNCXOnfY6fZgjVxOrfq5zbhHIapnr9XYvPP+WFg2OBvqbMtpO+3Z29MFvnCfcQ7aQU/hg8GvuBDSOYujqL29Y5RJL+cmxQAdCMOTNk4RPlOpImTMPpJiTY7IBZQwnTtcsKj58AYyBF1sNappMyv6zF7dcU2FtMP+jN73MJgAGoHo2xM7EGbVv9d+gbN0yIeycwU7QEQTKniqcOls1eXtZtpfyclJKkXgfPneacglE8BGLqRjYFt1bkXpnaUf4JnrrUXBaVVNgDUa1lotkqI5gYyq/KY40Sy2Jtaemls9+DFCgAZ3MZ9E1nzMJKlNPzPm5WkUvfel/V+0DZ7c7jimgAtkjBr6Q/xxmhWqur8E6L81up2etkRWNNayqUNwv+574LgS8HYZHPnHdO4c/TLExRIivNOJSRVuhRT30dw==;TqyPNDY6FjqsugIeDoRInQ=="
+secured: "vOgEUHggt1SaFlO7vUEx2iI2JLktUJmUj8EjDCZGCY2bNa35k7llRWMWAP8Fio+kO8ALLKqEO5kE7ShG1k0Zp/TmqbmaGvejHMdeKHgipnxsLfq7ignaCTZ6mtu510l0DVFoBWnC117zQpQfcCryQOgFxekW43+WAUP64WoU8HS6ELNa8EPINO9muMZ+xYMOug0kS6hBQE/l70h1f3ztUdQtmvnNnQPuH2QBq44XwO9MEzUr6uugoSupHm7AUlsNyXD469ewOs8iA1jy61jSZ7Py0zTHAOTD8aqWoxJ9gDDmeerv25I2VVqHPJBWgeUAQcu5kZMMVuFhD9kv7y63+PoclpoK+MOgGf1FbTbihjU=;FwIg4lGiQ+b91lTjyK2vrw=="
 ---
 

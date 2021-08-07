@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
-excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
-publishedDateTime: 2021-08-05T07:24:00Z
-originalUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
-webUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
-ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
-cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+title: "Fintech startup Zeni raises US$34m in Series B funding"
+excerpt: "Zeni has raised $34m in Series B funding and will use it to bring its platform and services to more customers by investing in its team in the US and India"
+publishedDateTime: 2021-08-07T10:04:00Z
+originalUrl: "https://fintechmagazine.com/digital-payments/fintech-startup-zeni-raises-usdollar34m-series-b-funding"
+webUrl: "https://fintechmagazine.com/digital-payments/fintech-startup-zeni-raises-usdollar34m-series-b-funding"
 type: article
-quality: 46
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Free Press Journal
-  domain: freepressjournal.in
+  name: fintechmagazine
+  domain: fintechmagazine.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
-    width: 749
-    height: 473
+  - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1150203445.jpg.png?itok=u63hmcNZ"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -111,6 +109,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
+  - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
+    excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
+    publishedDateTime: 2021-08-05T07:24:00Z
+    webUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
+    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 46
+    images:
+      - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
+        width: 749
+        height: 473
+        isCached: true
   - title: "AI-Powered Fintech Startup Zeni Raises $34m in Series B Round"
     excerpt: "The Palo Alto and Pune-based Al-powered fintech startup Zeni has completed a Series B fundraising round and secured $34 million."
     publishedDateTime: 2021-08-06T09:18:00Z
@@ -124,20 +138,6 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/08/Zeni-series-B-funding.jpg"
         width: 1024
         height: 1024
-        isCached: true
-  - title: "Fintech startup Zeni raises US$34m in Series B funding"
-    excerpt: "Zeni has raised $34m in Series B funding and will use it to bring its platform and services to more customers by investing in its team in the US and India"
-    publishedDateTime: 2021-08-07T10:04:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/fintech-startup-zeni-raises-usdollar34m-series-b-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1150203445.jpg.png?itok=u63hmcNZ"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Zeni receives $34M in funding for AI bookkeeping"
     excerpt: "The latest round of funding comes on top of the $13.5 million that the Palo Alto, California-based company announced in March from venture capital firms and angel investors ( see story ). The Series B funding was led by Elevation Capital,"
@@ -177,6 +177,6 @@ related:
       domain: businesswire.com
     quality: 2
 
-secured: "dWGetBQZl4VGgsjtBGU5kNZfX8+Svjyp4YOIhx040ymyYtO6XXzOeRYmuc4yhtrKwJWVbI5pEiXqj72t5Tc0kLkLMNT5bh4RJH0+suxlDVFibWT0ArhgdwNHl2tuSAOoFr7e79ETagvf3/dBZwEC/Gbal5L0cySFFKWb2Yoct4ykZrXflGarOK1FxBrx1GYNTALrYgLIfvrbK37gA0ef0lW9iAd0NwGMOqsjcbTgi9bn5c2Jvr2+eTSsQiBHw/nBdYBl+3iwX+Q1ykHBRcxxXu+twqo47cNgYtZ7yEujKeSq8xWTiAAYKw7j6/uiyyZKPbUk7rZcgqstE57UsOFWkq2xKdNVK8xytO9IaOZ0968=;H45wPirO7jz67r28NKJ5Eg=="
+secured: "lavlzF8/cxhMDD+787zXGPpKP+g4hPmnx2qxWHeCnItBqlwg8V2ZMbslHDyRrg2OH7HB5sBlzsjlRAS1OYSViH4ONRFdhGqb90KCTVKvF7EdRYqCsFGsyB+rRJFAEjWx6uOPaW3+Vtt57Mw4CTUc50vnx3yFBumLAyi3/LW5HfPkLdUv1TvkpDTCQTChBpP6rVKfhiDv32JZ043maBYTYMV3rK83FiBNyBH516o11eG+fhT3C/1bWW8GaVkslc4SVTf6DkFNfSRQ6Bokw5p9QHwRBq4OjcxxB9Xn7YxsQ4rCaufqfvdyHB8DGBRKgACkTpT5qT9wEcT0RoZ8ucLmBlVHoJt0dOE8y67O0lyNQno=;uf6lGB2guhtJAsoY7BgCkg=="
 ---
 

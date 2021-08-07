@@ -152,8 +152,8 @@
       "title": "What the evolution of AI/ML means for government IT",
       "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
       "sourceUrl": null,
-      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
-      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -188,8 +188,7 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {

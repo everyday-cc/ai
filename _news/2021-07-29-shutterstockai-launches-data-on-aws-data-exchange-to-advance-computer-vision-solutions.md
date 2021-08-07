@@ -1,21 +1,31 @@
 ---
 category: news
 title: "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions"
-excerpt: "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ..."
-publishedDateTime: 2021-07-29T11:02:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html"
+excerpt: "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology."
+publishedDateTime: 2021-07-29T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
+webUrl: "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
-secured: "/2g1fH4uerLWIyskmKUCmWGrfGSj/S950UNSXJi5fVlXoukq9Twm+nXai6uQk5Gft99Qb9W6dOWUaV4V6lWxgMqhZDfccZw5fAEuBj3JmQy9vGdXuyk+Gd5FnvsZbOTHES2Ipu+BQaFX80lQue5/6nuXdszPN+NT40hymkeeMNe9S7hGnd4dRKvuexgPtZfx80zUNEbizpN8TBL9sksh0Cu36vcntKmEvyDF1lRiDMQpEXT7smAyZeTcb3Wj+Q2uam8H97KwJsBx93zflUCffhD9RzPb93bIc4hsSPtwUkJFCy3R8qDvV0L0P06fW5tJVceXy5x4MGA3RQpDOvo51mnEn03qgmdRYQqU4B9UDns=;CNfbc1DiCKf5cZcpBxQrog=="
+images:
+  - url: "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "ss3NYcf3dkoB+NmAlAFIJBZ3pB/U3MCjSue/iBnnFIXOc6xtQ4q2dX4VQvcBEiuWkozPmOVuaYJXfShpNpoW2m3c/QrPF4DXRYI1VPQYtKVsaRNROCnXbnztZI2S38adhtdV59aHqsxGDF8LK6BRSovBCJvEpOKV3jEBISEz0rYRnJpnz87K3j9w5PUJ4P8JDTV7kwd22wtbz8gSJCaipq4VwqqCfadsQrf9Q+kwK+eyqMiBPWjlciUPhq8Mbv3H/HyZiyyu3RGCahryfngq7CDLYNJrNz4NBJ3h2TgybWor4e5nIO+Mv0raZ76oz88OHvSoHlPUqGf4Xdymj2wJ3IrdXuG4WDTE9SO7I3RqYJE=;Ck6m/HIHYRQKHERvse/oSw=="
 ---
 

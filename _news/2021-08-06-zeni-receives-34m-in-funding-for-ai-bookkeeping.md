@@ -138,6 +138,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Fintech startup Zeni raises US$34m in Series B funding"
+    excerpt: "Zeni has raised $34m in Series B funding and will use it to bring its platform and services to more customers by investing in its team in the US and India"
+    publishedDateTime: 2021-08-07T10:04:00Z
+    webUrl: "https://fintechmagazine.com/digital-payments/fintech-startup-zeni-raises-usdollar34m-series-b-funding"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1150203445.jpg.png?itok=u63hmcNZ"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elevation leads Series B funding in fintech platform Zeni"
     excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
     publishedDateTime: 2021-08-05T07:16:00Z
