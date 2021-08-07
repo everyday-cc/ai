@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelli
 webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/55/055c48bf-a8be-50d9-ac10-eb0d00540a35/610bf96f8a486.image.jpg?resize=1001%2C630"
         width: 1001
+        height: 630
+        isCached: true
+  - title: "At 22.7% CAGR, Global Autonomous Cars Market Share Revenue Expected to Reach USD 64.88 Billion by 2026: FnF Research"
+    excerpt: "\"According to the recent research report, the demand of global Autonomous Cars Market size & share expected to reach to USD 64.88 Billion by 2026 from USD 23.33 Billion in 2020, at a compound annual growth rate (CAGR) of 22."
+    publishedDateTime: 2021-08-06T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-227-cagr-global-autonomous-cars-market-share-revenue-expected-to-reach-usd-6488-billion-by-2026-fnf-research-2021-08-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Agriculture Market Growth (Status and Outlook) 2021-2026"

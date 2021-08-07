@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-to-max
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-to-maximize-social-media-artificial-intelligence-to-drive-sales/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Salesforce Helps Enterprises Drive Loyalty Using AI"
-    excerpt: "Concept: Salesforce has rolled out a Rebate Management solution to assist companies in automating, scaling and leveraging AI-enhanced observations for their rebate programs. Companies selling through various distribution channels can use the solution that provides a modifiable data model to foster visibility and collaboration for sales teams and partners."
-    publishedDateTime: 2021-08-02T05:54:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/research-reports/salesforce-helps-enterprises-drive-loyalty-using-ai/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 37
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/08/technology-3402365_1920.jpg"
-        width: 1920
-        height: 1193
-        isCached: true
 
 secured: "WJv1qPwdfVmLWJZUX0Gt/m1zARp/3NQgTJKU7nVCcsHefyQ2OG4xxvhdTHiLrB2hnvrAcOHu8YxLXsE/6pBUCta1emELo7PseeGy6sIVjS2ElMoIdql4Ei+EySFWhk/m8McbjFJ89NFSDV8Aad9j+0GP8FjohZ4wu77Eq8kdSxPpyU08t+zG/6vRYoF560XIVdYRnP2yYYawxoo3qrVUDozYr+/KI+SzlKSaoTyI83otK83gnQ+0NLzbkGQKuD6gzDEytW6wfHD0HMkMATXa8UYcrfIhO8F9Xz8AgLBurvvxtttF/93dPGzxkczoGI2r5gQ4eydDqhJZ1fwS4mZgfiMfWdEutYnOwCv9h522c4mWyL6usJqdVMAOl2/YmNIHWrjkmybXTnxAUmyygQAUDyE8aRnBsar23R6URur9DPBT3dGjR3AT9sVF0jXc4YMHgUH7/OdfsMKPY2ID4jL1xAcAEls4O8nF97IdYuLOHDM4ktxfge2cIEA9mQGsb6FNsGw7n9Q+QE2ioJvn4UfTpA==;mdGRa23ePw7+3YQOubm8Ow=="
 ---

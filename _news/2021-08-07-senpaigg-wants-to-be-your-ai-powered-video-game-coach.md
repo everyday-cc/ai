@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

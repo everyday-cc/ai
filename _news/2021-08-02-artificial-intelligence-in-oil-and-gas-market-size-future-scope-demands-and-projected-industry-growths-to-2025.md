@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Europe Artificial Intelligence Market 2021: Industry Trends, Share, Size, Demand and Future Scope"
-    excerpt: "According to the latest report by IMARC Group, titled Europe Artificial Intelligence Market Size: Industry Trends, Share, Growth, Opportunity and Forecast 2021-2026, the europe artificial intelligence market expected to continue its robust growth during the forecast period (2021-2026)."
-    publishedDateTime: 2021-08-02T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-market-2021-industry-trends-share-size-demand-and-future-scope-2021-08-02"
+  - title: "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
+    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
+    publishedDateTime: 2021-08-02T14:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -98,6 +98,15 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "(COVID-19 Impact Analysis) Global Deep Learning in Healthcare Market Forecast Size, Share, Growth, Trends and Opportunities 2026"
+    excerpt: "The recent report titled “Global Deep Learning in Healthcare Market” and forecast to 2026 published by Reportsweb is a focused study encompassing the market segmentation primarily based on type and application."
+    publishedDateTime: 2021-08-04T14:03:00Z
+    webUrl: "https://manometcurrent.com/covid-19-impact-analysis-global-deep-learning-in-healthcare-market-forecast-size-share-growth-trends-and-opportunities-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 7
 
 secured: "Q0Z41doe2a1Tik/Ws4lnf15jDcKga3Xa6CEMJsk1/439u1KqFq4B35/KXP/9kB/U3bGJWZ8oSCSDSZV3ZMdfQLjeEKHyL4nlM4DYgMwbZKK3yYkCq81nBIDGAjmxqxXntDtglMN9LKryfmYCGR4uIU+QUfAZq+n7fbUJIGrV8uC0WCL+xvGdSzUP9wN5EokMwPG5YKp3OSrurbJyLyO1JbIRDNGBoLLrPURZINXeUJWBs8FXmZMl12GFx5Cxy+7dsZGm3iMFtUisTW2+HAL9VhX7THOOvMuQU7CpUMml41w6uELC/HFlXAWe5ww77XRKFC2sBFXgj80vH/qrL/UBN7pm8yi6UeV7eO43Pd0xpQY=;6Zn1teeNiKDR1g1W2oeAUQ=="
 ---

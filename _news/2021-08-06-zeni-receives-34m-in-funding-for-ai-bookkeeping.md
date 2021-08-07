@@ -124,6 +124,20 @@ related:
         width: 749
         height: 473
         isCached: true
+  - title: "AI-Powered Fintech Startup Zeni Raises $34m in Series B Round"
+    excerpt: "The Palo Alto and Pune-based Al-powered fintech startup Zeni has completed a Series B fundraising round and secured $34 million."
+    publishedDateTime: 2021-08-06T09:18:00Z
+    webUrl: "https://dataconomy.com/2021/08/ai-fintech-startup-zeni-raises-34m/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/08/Zeni-series-B-funding.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Elevation leads Series B funding in fintech platform Zeni"
     excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
     publishedDateTime: 2021-08-05T07:16:00Z

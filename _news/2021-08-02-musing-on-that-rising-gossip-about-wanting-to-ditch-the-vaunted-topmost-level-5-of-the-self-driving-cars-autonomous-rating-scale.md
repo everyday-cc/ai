@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 1293
         isCached: true
-  - title: "Apple Rival Building Level 4 Self-Driving Car, Currently on a Hiring Spree"
-    excerpt: "Apple’s long-term plan of expanding to the automotive industry has caught the attention of all its rivals, including those based in China who immediately noticed the potential of such a move, especially given the trends that are signaling an obvious transition to electric power."
-    publishedDateTime: 2021-08-02T05:43:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-rival-building-level-4-self-driving-car-currently-on-a-hiring-spree-166413-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "mFwk6lr4o9MHVQQTWx+AHVAQjcKMNPoLDpEUiKT4L5LeMNKCOZ1qY9b2P0nLwUVjtiQVNmpNfsfXEjxyp0+PhO/5N+0J2bPs0dzI0SwHqakl7/YVR11gWYBsE1w/DQjNmKUEpNFnagEMKOZjiE8OM0HWp8z4xlBB3Rk1ZRLqQnh/DVy2h+QRG+7BLHJnGJpeXE3YXe6yTTmgtgS4F0oGLVv7QAj4HkiQBXWPFp6Lic2DDM8xyax2ysHIL4xlzwAxS6HssnGWYEpKiqUNANO0dPhu/6ytr6QOn2Eob/FdGViA1a04LjgK1Imjmo8ZDNqhNNlV6LgjWPRPpSSOkImfNngvANn85w5lbYnmFh8ra9QA3I1NNf3By6VWvcdzr30QUuxk0pOmRrwhELyX363dgyfrB1deAhsF73JgFx9i0xiqK582m5kUnSBicOTVA0dOjeh/nqlUvOIt+gJ05lduxiwn9xl/kQWadv+mFf9ex4/74+K5TBWkkuIwSL5dD/IbvtkaKjKfgxa7KfHUzSKfeA==;2+GPSs7QAPJNk43PxJxBbQ=="
 ---
