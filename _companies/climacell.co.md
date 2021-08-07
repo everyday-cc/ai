@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "weatherrevealed"
   url: "https://twitter.com/weatherrevealed"
-  followers: 17
+  followers: 16
 
 size: 51-200 employees
 yearFounded: 2015
