@@ -24,19 +24,6 @@ images:
     height: 335
     isCached: true
 
-related:
-  - title: "Using AI to deliver a more precise magnetic stimulation treatment for depression"
-    excerpt: "Researchers at the University of Southern Queensland are planning to use artificial intelligence to improve the procedure."
-    publishedDateTime: 2021-08-03T03:46:00Z
-    webUrl: "https://healthtimes.com.au/hub/mental-health/37/news/nc1/using-ai-to-deliver-a-more-precise-magnetic-stimulation-treatment-for-depression/6066/"
-    ampWebUrl: "https://healthtimes.com.au/amp/hub/mental-health.html"
-    cdnAmpWebUrl: "https://healthtimes-com-au.cdn.ampproject.org/c/s/healthtimes.com.au/amp/hub/mental-health.html"
-    type: article
-    provider:
-      name: healthtimes.com.au
-      domain: healthtimes.com.au
-    quality: 34
-
 secured: "oTIdUqAYrTKhukREADDEpT/G8Iy9VM/l29YoxQ3pjV5KrxFTMfz3FLrxrSR/tJ82Mejq79W6TMxjUdZgPR8LPOg5mGoEhurLACDKSijgGzLwiGu7j03+1f6uoqdNKUqEg4ZzpV3RNrKhmOrw4MicixNfc9eUWZfgyWz7qvWt/rp3ndSbMmt51oTdzdMIWyPTFAkBhaDcd4uy4C/BMtPo/M1XufPYtAATRosKZ+jykLfvgWqdK2qLf6QclT6DTua5ZmOgbDUbu0+ibFwbxMN+zENHliXU7iGpsGEaHS67QisJZ7q7Y+sISbLJi4XQW0w91Fw4hTx3G2ieQj33el8nkO23uf4sG8ckm44RkK7O94B3G/oHO3cgArppqwQxtkDwHmy/u7xHRTtlIKCPv4bnIkt1D3D0yGFTyQEPRJ0XGf/6pR1pGReZNybluUungWFXHMBrBfJmH9/Xe76VNQQvDxpE9xGDbVeeBqB+DWP2PzxiYIeCOAZPpQ6IULqvPDWKpcr5ygYKe0OjrF3pWxZd8Q==;q97bWQYN/weiwPqLBxsOxA=="
 ---
 

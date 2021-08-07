@@ -1,28 +1,26 @@
 ---
 category: news
-title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
-excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
-publishedDateTime: 2021-08-04T05:30:00Z
-originalUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
-webUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
+title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
+excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2021-08-05T14:44:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
+webUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
 type: article
-quality: 54
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
-
-images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
-    width: 1600
-    height: 960
-    isCached: true
 
 related:
   - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
@@ -55,16 +53,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-08-05T14:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
+  - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
+    excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
+    publishedDateTime: 2021-08-04T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
+        width: 1600
+        height: 960
+        isCached: true
 
-secured: "scAiQmv8e0ZA5xmxdJS0T8gMUBD5T5yisjcWy9f6go8cfh2ZcLPP21o7DVa+Ip0jjbI4yrAFBUHVCz1vkOIiTY0qy5BWri54zo6QSz+Fawknc/Fnyhs/rjAEvnNC86Psf+tqAIMwdHFF6AvXj4DBQ+Gi/3+HAL2Zw2csAGflyhGy/aKN7N8K/PTVhlnmMA5wWOM9gZhERkjSK3vvGkRwlDg9ZSczQLXGHyOVobv+3LRfNwbmo+ac/liGw7h34Bt92mampCS3l2A6Gpe8SPUF1SXWrbCxQ4ai7JxYRajGAs4Z+rhiEKifIKIavURM+fWJzOrhews5z0nntqXT85haqOir4NZwIsq6oPk+68cqLzm/h3jvVxcV1r5wGKtiYk35WY5OQI67PAYDTAtkyjWal2vAz93Wag/sCy+Yju9yuaein4jiAmYlUeFeHJUN6prXRY3XbTk/Fl9k7+uJXWaAI/IHS06PzNzwFkY2b5/UaLXwqYgAazyNg3odCiZvQR0kIwJ+hRWjryngfTWtY+OEJw==;m3ov8yRGGPJc8bYTL4TkWw=="
+secured: "nNCDDkw40ark5BFPYdspRF5NgUi4zcTOcWZAH8C2xVg0hqwbMxOzFDvtyiwVZWRzIGYCnCruU7LN30A7SmpDDNobwApk4HpK3EFgzQJ1lOnPRj77kjPvI5xDAFI/B9YHngbsb2Jyo1p50liAk3MgTvk5Np2cueKPMqSFJbOQ+X2jG/nHQ9zFXW3gCi4FUOKtPIA7EZta1iXQskKVcm4Uw8y4/n637ltbG98SMaGR4bp51wrkbvdKOWaTATP2NbYVti66HWUJBox2fg7DQdPe0Y5vWk3VOKcsXTEazkWXq3XvVSgmDjjWwm0iFtoDX1AeY0/6pcIz+eYYuof4VaPFMhHIH2e8nl3jlPZQG9sIKlo=;aKtNdn25TsH4TJy/95nqEg=="
 ---
 

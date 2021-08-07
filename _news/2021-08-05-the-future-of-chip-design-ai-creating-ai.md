@@ -33,7 +33,7 @@ related:
     provider:
       name: Daily Excelsior
       domain: dailyexcelsior.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/08/14.jpg"
         width: 630

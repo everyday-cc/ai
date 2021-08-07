@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
+    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2021-08-05T14:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
     excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
     publishedDateTime: 2021-08-04T05:30:00Z

@@ -36,11 +36,25 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Facebook – Meet Facebook’s Experimental Droidlet A.I."
+    excerpt: "Between Facebook’s core social network product and apps like Messenger and WhatsApp, Mark Zuckerberg’s tech giant has undeniably changed the way people communicate. Could it next help change the way we communicate with robots?"
+    publishedDateTime: 2021-08-07T20:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-meet-facebooks-experimental-droidlet-a-i/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-720x720.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "Td9Z6ixNGoBJ0g9WUAnCyLQGlOANrTCzL/t7DWXprdHdSgD8vMdV10XAR1c2/qpks/Vwl7Mz67gv88dqkCOh9Y1/v1SdwCCNfzuvkhCsxxK1qxPee5g6QhGVfr9FB/0aoPpkzR5P6KJefjT57FOMncWXauHbfLv+wJ8uMnXxgEntfWYFpeg2bpsrF3eusgcBfBuFmgH5NCQ9BxDQBMVLfz1pH4oUmaNCjpxYdiPsqlrLPStJIoCipdBOxwUKETB+siI2fX26LxhLkXmnHPLVA1FmoyEd7qIYDy77/ST34KrYtkzFujlg/stPuXukf8/QhIchWQzvCg5Q7TXLMgxuAhfs6XOK66AKz059K/U6ZSs=;KCKrXuwTLDDFlW5Zy7+CTw=="

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-07T19:11:00Z
 originalUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-livestock-farming/"
 webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-livestock-farming/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/08/14.jpg"
@@ -39,6 +40,6 @@ related:
         height: 240
         isCached: true
 
-secured: "hCRus4w9oIAetejb9czTpTVcsQqVmsZbifaHtWaS8SrNE9TmYhGwqfBpHYEG0kmjS6Oo6040Dg07+c3WJnD3o6XoVFntrHHJjScG7Z3gQxpLbB/xS2X9gLPzpudQ4tumFaZRYxuJ3YxKD25k4H++9RP1SZeTZy+PIbCSibD1+H2zJyBUCjMj2BlQTbCwlShwls48fHGKbYn89TP2MpOXXvh1VbSADl/Jv3Uly+5fVc+eaA5ZHfu/l5BetamKoQ1XpMKLZ5P/uSzDkD6oEZ35aafCuonpn/J2nQ9EDpNzLX8lEyP7DR3138WaEJPdrFSCS4kealLB16Q2Nrn9pj5tzxqtyeouYTIuWFefAF4ec9g=;M1fHZF1Gi1Dd17JkQoqBSA=="
+secured: "IUEvdAgNqBN8QgIS2WaKKqvF2wM0mEznfIpbNtTHZOmxzG9mGKoO8sRVIdsF9tUJfHHKooHFXfqiTtHyOUfMOLqmgvWIuzSfJeC17ugZFFo7A/bXVdo3APHAL//pws31uVlyVdoBb1itsHOucyGMy6EK6EEzV+exmaSqUti5wvlIpPrslyEG5YjQ85H+Y9axoXsquVOzbAztnGCr63HckG5JpRJfl0pDjOtbbLQ5K+3O5kuFS134q56ANJXW0FgRHoRM6RbTSC2TVoMx/0WpV0sdHdfuHt/QLXSgNfTZzk3+Swx4AeAm0aVyq9vsIWzc0l2BWWxmyTepv0goESY7+47YUnXWvLVmWroXVqObnYE+NBzJXkDhWzP3fwJTMbg7jK0wvwPZuxMizVUvaj2Qtad7v9hl1q/mtiKL1jkqUJkKXFo0Aa/G8L9gLJCcsJ/OGZDGfCOlBPxh75dsmK26L8SIqQQ1Gh54GgB9Ot/1TKIYUf4b4SfpUU/Ome1I/tc6fCo6zCT3yNG2OmTu/44cKg==;wulfjIVQ/vqCZg1cR79hRg=="
 ---
 

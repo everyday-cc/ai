@@ -8,8 +8,8 @@ webUrl: "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robot
 ampWebUrl: "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp"
 type: article
-quality: 86
-heat: 96
+quality: 88
+heat: 108
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg"
@@ -45,7 +46,21 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Facebook – Meet Facebook’s Experimental Droidlet A.I."
+    excerpt: "Between Facebook’s core social network product and apps like Messenger and WhatsApp, Mark Zuckerberg’s tech giant has undeniably changed the way people communicate. Could it next help change the way we communicate with robots?"
+    publishedDateTime: 2021-08-07T20:04:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-meet-facebooks-experimental-droidlet-a-i/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 24
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-720x720.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "8w9dgZr1Ey3sGSSKnT7FHG4m852wGnffFQwH3+bfLG4x9TSkWcVHyQwD1ysTy9tZSAsZq47/iFoAJ7x1iZJUXXfd6gAlVCnCBf9hVIKjFb/Pu++wkjZfHJdys3TVBIwDW+6zHFg812KJFcOjIakLwH7A5mT3QbxlkLl1K0DBSNSp7pKyLxy8I/OTpTmFo0Rp4vwS8FlceK3mofcY7dPiPrcfoICxKuqx5XeVlO9qt78vWYdHdefVHBcHaM8E2JUih+yASrKlertfLQIbnkS6GWAUmJMmBIe8EOgEfTTPMnSKerh+0Nx0IYJyonux4e4RfHCNy4cPKVPhM6QWzYIguvK+gki3H6Z3GJzL87+pO6c=;iBKQ92FWaFqobBeeKr82iQ=="
+secured: "fbV692wUnA1uneOUR0Ayk4PS29wZNPzVzWw08i7wT2vDgwa1/teO6mwdvmr34cBxXo1hQxmR1rHJ0WyndlX+Z5AfylxSo0DWC8gM5g0uOu8OE2ohDUeDIkQ/KKqabtEQwQNgC33F8x5LxnQfn8QU+rSujuePAXZrxFWDa6v+f5a7SPuKP9GNJdCI1vUs6PAWRI/KYQhf/q74/gzDV1cF0A3ipaIlMlXsoKMqYDbyjAtN705Ss+U/wGt1R8qYQR4OnqfNiFQ+qGC2oxVgTWu+EPMFpqsBLLZkocFIanRr9GYj07Yh5lm29yOaJ/UjUC32g2ryIWOplDz2tTDQZfnvQLWmq4ZgqsxnYv/vLVZOQB2dKybxJ/f/me+Kn61RJF1413YWWm6NfcF1U5djdsTJoeFoc2UUjRl07l1wKtme2a1Xh9lLvg8w9SDuYDWWLM6fZVPAwCweZav0KuF6bEXpJeBTtjLsPXCkydu4ngvFL6CE5oC01hxUjtxPFYZFjE0IUE7lonsvp5i7JfxCGT2nlw==;kkh0LoPETlj3ERBYKq0PSQ=="
 ---
 

@@ -125,20 +125,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Google Reveals its Own Mobile Chip Named Tensor"
-    excerpt: "The Google Pixel 6 will be the first phone to use Google‘s all-new Tensor mobile processor, the first system-on-chip designed by Google. The chip is named after Google’s open-source machine learning platform,"
-    publishedDateTime: 2021-08-03T04:06:00Z
-    webUrl: "https://hypebeast.com/2021/8/google-mobile-chip-tensor-introduction-info"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F08%2Fgoogle-reveals-its-own-mobile-chip-named-tensor-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
 
 secured: "7h9BuxbmSX/nrO62HK5pZeL5Oyam4RMbClZDZbvHPvD3OYpLZalxQ/yyu8/3F5yHrcGvuB9wTMGMjYe+YueKekB5p9uwDLtK3DDuksMmW/brdz7TmsGTOqhJVFuSXXoVqXI+MjIG2nIPC0uhTBA3fL6dve8iftir64w1PWP6m5GouTKIQ4JOpQCG5G7tgnOUoFBc3j6w+r8HjWK5qStjF8Ko+ztDtmFN9xJozOd/nVrggCWlNi8sFPydc8Zmp6KfQc4itZlzf/4OGxoHLr+nyVtsY7SX0tJunLuS6zKMIuDKrQQTIaLQqjhle5PuNcKCOb2Hm2OxcKbmShFbcQpXrMh0iCslsKuppf4VUspD/qs=;4hGQ3dkC1OL4l8soJtuicw=="
 ---
