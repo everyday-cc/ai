@@ -55,17 +55,6 @@ related:
         width: 836
         height: 627
         isCached: true
-  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
-    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
-    publishedDateTime: 2021-08-02T22:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22287720/national-university-part-of-prestigious-team-selected-for-20m-national-science-foundation-grant-to"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22287720"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22287720"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
 secured: "YtCFW/MCLQLBHuEEEL0fqIJOas7NtPjCPhp640ym48+/YV+v5OkH60pP7i9ytQa01eKCSpLoC6KCUieYCPXC6S5Dx4x/cBKsN+a3rSE97WeMfGEBLAlxArfxP2hGNpGgwzxf1BZdgTnJXaMkfh2YBI4F+mC1xqKtaXyPGkV98Yp3cDLSbTFyxJuysZmrTcLbXqt4eMeBlIR/N7Q03YGqM+IMUzvtNhFMYbuTnwX+r1lzhmgVJ+w4Qojn/ZKFCm+0PStOHPfmE7iI/MzavZzQe65lPDwVXA+++mJLApu5oEBN06AAdMx4Fpg2KUUaffqUIyiVwWAOTcfiEV27Nz/+iK3mB3qtNIG0JDtCMkfH7uGnbuJCOA4WTiMTY3bpvYRrr4+VZdqpMWO7r8eNSo+LZY7cagf4RvqXAbgt5fvFumgV6VJAaFyBRrRj9qqCcIDKnoZckK0aLJ47Y01kVwizEPgn3BMMR2kYGtiQWGQvy1rVYypu2xZFJGqxPy61u4qHhttBTsXvqPlA5Q/F49NTZQ==;yY3cuLNnmDMNM8KaI+sx3Q=="
 ---

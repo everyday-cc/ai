@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-
 webUrl: "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Next Web
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "LookingGlass Expands Team with Experts in Cybersecurity, National Security, and Artificial Intelligence"
-    excerpt: "Prior to joining LookingGlass, Jackson served as a Director of Research and Analysis for the National Security Commission on Artificial Intelligence. While there, he was instrumental in developing recommendations for the U."
-    publishedDateTime: 2021-08-02T21:29:00Z
-    webUrl: "https://www.hstoday.us/people-on-the-move/lookingglass-expands-team-with-experts-in-cybersecurity-national-security-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 38
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/01/HIGH5_2-300x202-1.jpg"
-        width: 300
-        height: 202
-        isCached: true
   - title: "DOE bolstering electric grid cybersecurity with firmware machine learning"
     excerpt: "The Department of Energy is integrating machine learning (ML) with a threat information-sharing tool it developed to find cybersecurity adversaries embedded in electric grid control systems. DOE‘s Grid Modernization Laboratory Consortium (GMLC) consists of the Idaho,"
     publishedDateTime: 2021-08-04T20:08:00Z

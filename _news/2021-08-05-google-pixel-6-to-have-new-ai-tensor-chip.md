@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google previews its AI-focused Pixel 6 chip"
-    excerpt: "Google is revealing some of the details of its Pixel 6 and Pixel 6 Pro, and they have a new focus on artificial intelligence."
-    publishedDateTime: 2021-08-02T22:56:00Z
-    webUrl: "https://www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/"
-    ampWebUrl: "https://www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/amp/"
-    cdnAmpWebUrl: "https://www-pickr-com-au.cdn.ampproject.org/c/s/www.pickr.com.au/news/2021/google-previews-its-ai-focused-pixel-6-chip/amp/"
-    type: article
-    provider:
-      name: pickr
-      domain: pickr.com.au
-    quality: 74
-    images:
-      - url: "https://www.pickr.com.au/wp-content/uploads/2021/08/CE29DB44-E321-4923-A54D-A7FE79E42149.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Google's Tensor Chip Could Spell Trouble for 5G"
     excerpt: "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G."
     publishedDateTime: 2021-08-06T13:28:00Z
@@ -147,17 +131,6 @@ related:
         width: 600
         height: 353
         isCached: true
-  - title: "Google turns to in-house chips for AI-powered premium phone"
-    excerpt: "Google’s upcoming smartphones will use chips designed wholly in-house for the very first time this year, as the web giant seeks to accelerate AI-powered mobile operations and further differentiate its Pixels from the Android pack."
-    publishedDateTime: 2021-08-02T21:39:00Z
-    webUrl: "https://www.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
-    ampWebUrl: "https://amp.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/technology/google-turns-to-in-house-chips-for-ai-powered-premium-phone-20210803-p58fb5.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 54
   - title: "Google Reveals its Own Mobile Chip Named Tensor"
     excerpt: "The Google Pixel 6 will be the first phone to use Google‘s all-new Tensor mobile processor, the first system-on-chip designed by Google. The chip is named after Google’s open-source machine learning platform,"
     publishedDateTime: 2021-08-03T04:06:00Z

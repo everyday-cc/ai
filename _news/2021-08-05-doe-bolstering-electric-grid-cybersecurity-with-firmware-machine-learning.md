@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "LookingGlass Expands Team with Experts in Cybersecurity, National Security, and Artificial Intelligence"
-    excerpt: "Prior to joining LookingGlass, Jackson served as a Director of Research and Analysis for the National Security Commission on Artificial Intelligence. While there, he was instrumental in developing recommendations for the U."
-    publishedDateTime: 2021-08-02T21:29:00Z
-    webUrl: "https://www.hstoday.us/people-on-the-move/lookingglass-expands-team-with-experts-in-cybersecurity-national-security-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 38
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/01/HIGH5_2-300x202-1.jpg"
-        width: 300
-        height: 202
-        isCached: true
 
 secured: "MuPeJ8IPQ3CjWAYqR9DP303EFmxQvvi01MViJN2AZVYzkt6WsPA3ANGDQSPKnyOndXZAT7k8rUof4gCTxibACZbqSeALtbysokJhFNaQqSrrFWNJR0h0W6WYpmB0J+bKjfe5rEmphabAiyQ5/z10ONMsYicIULcIYvZprbyvP8sv3lhS7/7qTmUZ1vLkqGXsf87wmAVjGW57ptU1Wmqj1CW1A2ZZ/BJ/r2blgGv29oOKf2oU7n9em6ugpsPUKbOc7V0ANHeFJ4IYSQI6p4jEaPDI9s4LRkrdWP1xQlfUaVwOXbhgZS2SBLAhJBZ/QP3j4cso/Igc2D7Vun/I6Z4oP/fuQnHvmDMiZSo4IGOUKQc=;3e4vPp1hs/zLkCkaeNnEug=="
 ---

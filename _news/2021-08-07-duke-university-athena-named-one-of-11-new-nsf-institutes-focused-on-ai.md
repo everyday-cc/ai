@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,18 +55,7 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "National University Part Of Prestigious Team Selected For $20M National Science Foundation Grant To Study AI And Optimization"
-    excerpt: "As part of an initiative to establish a series of artificial intelligence research institutes nationwide, the National"
-    publishedDateTime: 2021-08-02T22:23:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22287720/national-university-part-of-prestigious-team-selected-for-20m-national-science-foundation-grant-to"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22287720"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22287720"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
 
-secured: "33UzFHHKm1Zl2g0z2t+RkGQICn/CXr+UW02/UgyME3/dkAD9H4moAEtNYctXwxZMWvP7zg2ryo7Olw1MNXiGXNKOfUZOqQLJePihW9CLFKPk+PfIpnzzbGRkrIwjqqtB5UD+SSNLLhcLAfZqE2s/tHuN0OEsgRS2pED+5tKHUyJQF0Pkfr0ETXis1ql7FoSjFlKr3+mppAEE+xdobcecsT+kJCzF2RobbozlVGA6ZIejT2xbzSFnrahq53pLRw1fFlkQuntoWz2pSBlKo2tyNXG2if1r4QLpEBnOHRxNflxa+uJzBPOJPVqwQqp2QcenYdTed5S4Ty7JnbKi1d22nb5ETU23ME+5MVwcx3bJwrQ=;u+GkcmJOneg2qM30lHkP8w=="
+secured: "chnWzEakWWv6wCoO5b9eFsWC1n3AsJMIzG6umoGL23bc03RFUif2uMKfaPqi9SmbtDLP0e9d55ltlEpajxw/yglGRWg/yibPMJ+kglEzNovvqhV7bJgvGZ1QrPTKTSd4LvW5ENjc/VAAjYTYALMG01TOvYdLtywyBgBOim4PScnMFrtLX6Mv/TPFtlfkMSgSXHywy+8+PNaYFy5xFrIkqcUmO+X0kkyFNUbQsriYaJRPrsVJjO+ioW7A9MKgO33Ghae6ZIEOklF2dYwA+oIs1g9OFiG/BZBvO5XMijuKxHhLmJTdoycckjRsCiD2Immv3wOgUV/Lg71BzKeELc7PPjuiT+1MsQczxQuSgfkhLfnBfqDdWX0m7V2mSaBEPwEg1LLSiJwyc2F3q3Ap7MaHf5Q/yBvYcXybOacb5PTeRHsFuPguWqNFBvcNnKhWpF+dKiWnpJ5HiM3dIMfxSO98FyuLzhFlePjVfM6gmh4nIdp7oigWMZh0JmSYRk+qDyLg+DS8TLgsWSZKqUawDnPOQQ==;TQxV3jfXy96zpLDvaXbI1A=="
 ---
 
