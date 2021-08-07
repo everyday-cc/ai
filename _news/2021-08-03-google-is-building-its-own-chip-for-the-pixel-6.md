@@ -63,22 +63,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "The Pixel 6 and Pixel 6 Pro are coming with a new chip, AI, and a 4x zoom camera"
-    excerpt: "Google has given us a tantalizing preview of the Pixel 6 and Pixel 6 Pro smartphones, complete with a new custom chip called the Tensor, before a fall launch."
-    publishedDateTime: 2021-08-02T16:50:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-6-pro-preview-news/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 99
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/google-pixel-6-preview.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Google previews its AI-focused Pixel 6 chip"
     excerpt: "Google is revealing some of the details of its Pixel 6 and Pixel 6 Pro, and they have a new focus on artificial intelligence."
     publishedDateTime: 2021-08-02T22:56:00Z
@@ -94,20 +78,6 @@ related:
       - url: "https://www.pickr.com.au/wp-content/uploads/2021/08/CE29DB44-E321-4923-A54D-A7FE79E42149.jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Google’s Pixel 6 and Pixel 6 Pro will use AI everywhere"
-    excerpt: "A first look at Google's upcoming Pixel 6 and Pixel 6 Pro flagships, which will launch with the company's first mobile processor.."
-    publishedDateTime: 2021-08-02T16:32:00Z
-    webUrl: "https://www.engadget.com/google-pixel-6-pixel-6-pro-first-look-tensor-processor-better-cameras-160005582.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/9a6bfa10-f282-11eb-bbdf-ac92842b242f"
-        width: 1600
-        height: 942
         isCached: true
   - title: "Google's Tensor Chip Could Spell Trouble for 5G"
     excerpt: "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G."

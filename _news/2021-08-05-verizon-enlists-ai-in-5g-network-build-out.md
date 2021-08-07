@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-bu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Verizon Gets Deeper into Robotics and Drones"
-    excerpt: "Communications giant starts new division focused on expanding enterprise solutions for aerial and ground robotics."
-    publishedDateTime: 2021-08-02T15:24:00Z
-    webUrl: "https://www.sourcetoday.com/industries/article/21171124/verizon-gets-deeper-into-robotics-and-drones"
-    type: article
-    provider:
-      name: sourcetoday
-      domain: sourcetoday.com
-    quality: 54
-    images:
-      - url: "https://img.sourcetoday.com/files/base/ebm/sourcetoday/image/2021/07/dreamstime_l_72543101.610425f644a50.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Verizon Gets Deeper into Robotics and Drones"
     excerpt: "Communications giant starts new division focused on expanding enterprise solutions for aerial and ground robotics."
     publishedDateTime: 2021-08-03T13:23:00Z

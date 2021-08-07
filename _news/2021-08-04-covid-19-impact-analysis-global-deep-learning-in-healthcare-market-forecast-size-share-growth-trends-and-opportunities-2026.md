@@ -99,6 +99,15 @@ related:
         width: 800
         height: 444
         isCached: true
+  - title: "Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Face Recognition Turnstile market report provides a detailed"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4739282-global-face-recognition-turnstile-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "aQMa0HIFi+QdCusam4U3UjTn3m05zafxC10WTExXH7S7vCk1WHV+3zxXtr/LUKNewDekuBCK4RDhn6s3BSdiguYG+hD6lFjPQZOG5wJ28b9RgVNYdCc0L1EbXP0wsYhqo0Q3SvrejUdXYFKXr83r20ry8XevbJSfLFr+3X1UwY8kODqZu92E3PLTNt9ymiNuGdUEuIGEPaBrt7SR9YrffZQ1f4N1daUVGGFFNNGv3YRx7M9x1LGMDWXZxc1RtFovvGsuU6ZMWHS29rY0hoR4aFAamvh+4pHDzpZVFHYcFnobNzr8hxQcABSOhfRhUTA2cMTLSUsmj+e2pveSvmist41H3V9nSNcu+XNWy/WQQps=;3d51EhK8vdfxn27yqT2O4w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05"
 type: article
 quality: 54
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 7
+  - title: "Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Face Recognition Turnstile market report provides a detailed"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4739282-global-face-recognition-turnstile-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "q930BG9KlIrZ+kkQhmP7AKJJ1fE6Hl5+D9uxgRi+jMY7l394b0DguWIJJeLcCEv62W4tQzAI530BfQoFQjcHafQnNb90hwi+UxeuiWJE00m0hFk0km7f4opshX3GyUDP/5HrpjxnnM1Ol99waCZGeVN+x964DaQECFj4FnuCybuN1LTZ+tnGblERS9wLw5OWDgKV7v6FPZ8xTW24nq0YE+U+LA9KUP+oEQ9bm83fHPOitP6d2XnWJHuV2yfLUC0kP6SXriW63kTdEPexaUZo5IzttPiwApZG5lXNlHK9HnRkF9c1+Qov15pnWHGqQVNE0STCR+HFpi73McNlzqr1vzpqddzPwlmeFA2/iY0TYes=;qSDmTPFC8EU9H12sWGNPnA=="
 ---

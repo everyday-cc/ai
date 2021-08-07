@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-o
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Are AI-Powered Robots the Future of Healthy Fast Food Models?"
+    excerpt: "It's no secret that convenience and monetary confinements often tend to overcome nutritional value when it comes to our to-go food choices. Blendid, a robotic food automation solution with commercial contracts and strategic investment under its belt from global brands,"
+    publishedDateTime: 2021-08-07T08:41:00Z
+    webUrl: "https://www.chron.com/business/article/Are-AI-Powered-Robots-the-Future-of-Healthy-Fast-16369965.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/26/53/21326554/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Global Warehouse Automation Markets 2021-2025 - Expanding Use of Artificial Intelligence & Increasing Adoption of Robotics in Warehouse Automation"
     excerpt: "The global warehouse automation market is likely to record growth at a CAGR of 13.6% during the period spanning 2021-2025, and reach US$30.99 billion in 2025. Growth in the global warehouse automation market was supported by several factors like surging adoption of industrial IoT,"
     publishedDateTime: 2021-08-05T21:15:00Z

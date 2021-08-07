@@ -103,6 +103,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 7
+  - title: "Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Face Recognition Turnstile market report provides a detailed"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4739282-global-face-recognition-turnstile-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "XueJf0QHK/wfVNKkaOGlpggQlZ90O9LNiQ4BA1kowbazANaSrahNsByrUmaR9VgO+fSk+ZRARi3l2gkyU34VsQ7porYuy8ATu5ZVEa55JZquO9zsxifik691P5UNrVzhBe1th2czVUWuxG+Cs/T3NsmtHAeHqpsBWCj99zfuTn7E0ADygaJbTEacXLHSBoIQG5GaxEan2c1kycSB7Fkni9cHwP/jRK4KTA8MBdZoUEaqYpOT9YSQPcRfKJIzmoXkHYELsbbP939FWS0xq52BAYROCqaQZelnjAD+3+9NyQfoJp0qNNMWwW8vTKb1hBz9bWHrmAKTDpwfN2WlQPCfSbHF3yUWXa15Ko+sQmJf5/0=;rr3HimgWTJy7sKumngqizA=="
 ---

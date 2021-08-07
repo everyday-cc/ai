@@ -41,6 +41,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Are AI-Powered Robots the Future of Healthy Fast Food Models?"
+    excerpt: "It's no secret that convenience and monetary confinements often tend to overcome nutritional value when it comes to our to-go food choices. Blendid, a robotic food automation solution with commercial contracts and strategic investment under its belt from global brands,"
+    publishedDateTime: 2021-08-07T08:41:00Z
+    webUrl: "https://www.chron.com/business/article/Are-AI-Powered-Robots-the-Future-of-Healthy-Fast-16369965.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/21/26/53/21326554/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "snukVmN4FORFPCre2+gaXQxKqmMnFDq8e8mBuf1YePCi9iMOS+vmeBP9XGeCWzVyNnBVJbXuYC3gt77b5D5nuMK48bjnT19E4ySieMXdUzIG370YirY+flzIRHjk0zS1euctzUbcCOGa8BUvT3Evo+w+1u9M9PxFlNzv9acffcufbnamcODVcBFMS90rD+L3LGpyEpyPSwe7/pE+ohkhIMJwYAqPaFO/Dce5laDrK9QbUYNc7yrQdapsnJGd7yD0YQP9vLfVYYbUzQ5GlHCAdDFnYYVYXq289tuIIwBZY1uSY992oZsCQTEwBjTSrxBgysLLf4ncc+nBe/euAQ3SWlexZVmw8OyZ7caEKA2Liyfz6GGvijbA8VwwBpBZN9fkgbTP1XG6Eu1qISOQpRxN8LZ7RW10BuBxKflekLINzeLggBMi6SrwWY/8XKYZbrsbK+s5EBhD8jeFFGbllDK8PRHZVZjzm/7tyP+ppvuqUf50NXaMouyt0QgD0BwXYiVKYm1yDNH/r7W1qzBlV4bCbQ==;+UHgzAoeDt2QehCLY+RWmw=="
 ---

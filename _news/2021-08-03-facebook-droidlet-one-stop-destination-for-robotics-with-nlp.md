@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/facebook-droidlet-one-stop-destin
 webUrl: "https://www.analyticsinsight.net/facebook-droidlet-one-stop-destination-for-robotics-with-nlp/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "Facebook – Facebook Introduces New Platform For Building Robots"
+    excerpt: "Facebook has introduced Droidlet, an open-source, modular, heterogeneous embodied agent architecture. The Droidlet platform can be used to build embodied agents using natural language processing, computer vision,"
+    publishedDateTime: 2021-08-07T09:05:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-introduces-new-platform-for-building-robots/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 4
 
 secured: "Td9Z6ixNGoBJ0g9WUAnCyLQGlOANrTCzL/t7DWXprdHdSgD8vMdV10XAR1c2/qpks/Vwl7Mz67gv88dqkCOh9Y1/v1SdwCCNfzuvkhCsxxK1qxPee5g6QhGVfr9FB/0aoPpkzR5P6KJefjT57FOMncWXauHbfLv+wJ8uMnXxgEntfWYFpeg2bpsrF3eusgcBfBuFmgH5NCQ9BxDQBMVLfz1pH4oUmaNCjpxYdiPsqlrLPStJIoCipdBOxwUKETB+siI2fX26LxhLkXmnHPLVA1FmoyEd7qIYDy77/ST34KrYtkzFujlg/stPuXukf8/QhIchWQzvCg5Q7TXLMgxuAhfs6XOK66AKz059K/U6ZSs=;KCKrXuwTLDDFlW5Zy7+CTw=="
 ---

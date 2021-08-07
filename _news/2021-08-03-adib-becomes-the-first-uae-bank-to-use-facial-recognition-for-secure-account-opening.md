@@ -40,22 +40,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Abu Dhabi Islamic Bank becomes the first UAE bank to use facial recognition for instant and secure account opening"
-    excerpt: "ADIB becomes the first UAE bank to use facial recognition for instant and secure account opening The service enhances security against fraud and other forms of identity theft Abu Dhabi: . Through secure access to the Ministry's Facial Recognition verification system,"
-    publishedDateTime: 2021-08-02T16:43:00Z
-    webUrl: "https://gulfnews.com/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
-    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 54
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/05/19/ADIB-HQ_179839c740b_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "ORD - MDW encourages travelers to use facial recognition"
     excerpt: "US Customs and Border Protection (CBP) at Chicago's O'Hare International Airport (ORD) and Midway International Airport (MDW) are enco"
     publishedDateTime: 2021-08-03T11:16:00Z
