@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
 type: article
 quality: 191
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
         width: 455
         height: 600
-        isCached: true
-  - title: "Nvidia’s Base Command Platform launches today, providing cloud access to accelerated AI computing resources"
-    excerpt: "Nvidia's Base Command Platform launches today, providing cloud access to accelerated AI computing resources - SiliconANGLE"
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/02/nvidias-base-command-platform-launches-today-providing-cloud-access-accelerated-ai-computing-resources/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/NVIDIA-Base-Command-Platform-August-2021.jpeg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "CgLdix4wU/yMYoEKhKmlIUbQtbZJRoO2tOPrHYdYt6wEqoZGy70ydvsJyTcq0nk/O3IKjnpgmOoTtSCuzcl/DZMZXlRPvzXKC4jXyhBZmHqzkt/PyZ2of1/RBs+3yxAN4z2wf62YAODyPN6pfTq/SONPVlQN/W14hMXgNwVb1g/E7ovQyYGdrG76jlJOImBnFGkdpA+5ueKNX1xiXBIlwQHsrKMzyXRBthpoXgOWzT7Jzw4GXDnMH1TxFb7BYhcSnBmBdKiC5lzFCBbKsaoLGu5pCDZ+/MwIgfyKtaQ7jO0MmwmhUezrZa9WP+otq/bKPy1kJ5WHx7VJJxTiuSuXQq9kQ7U6B7jQ7ZW6vy255o8qh7ZOtunyNMuea92S2weh04CRdW4aM7DmvEGIQWUQV/y1W8Pynw948K1zYDMxANGjcqtkRtM6CZQb24HX4Qt/4fBMfW3tgBjcToc635SZ7kbrNrVauBfsz1J8HVCKZXGqjatyCp9R5IILijDrtTpSyzsHGoxQlkQDB2NO/BsstoNQBZS9wguhJZsPZnF4tuc=;9lx/3NywaYDR3vEJLmgUKA=="

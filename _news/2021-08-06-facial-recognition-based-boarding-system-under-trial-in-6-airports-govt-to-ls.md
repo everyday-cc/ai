@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/facial-recognition-based-boardin
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
 type: article
 quality: 70
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -74,6 +74,22 @@ related:
       - url: "https://imgk.timesnownews.com/story/Airport_passenger.jpg?tr=w-400,h-300,fo-auto"
         width: 400
         height: 300
+        isCached: true
+  - title: "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful"
+    excerpt: "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years."
+    publishedDateTime: 2021-08-07T03:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85120431,imgsize-233149,width-800,height-434,overlay-etcio/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.jpg"
+        width: 800
+        height: 434
         isCached: true
   - title: "Wearing your facial recognition system around your neck"
     excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"

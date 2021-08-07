@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
+    excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
+    publishedDateTime: 2021-08-05T19:57:00Z
+    webUrl: "https://www.datanami.com/2021/08/05/enterprises-needing-accelerated-data-analytics-and-ai-workloads-get-help-from-nvidia-and-cloudera/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/GPU_shutterstock_mmaxer.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "+d4LRn02J7XZ5QU88VXEI7fu2XO25X8TQFunTuzd8DqPfyW5b62JySbQQfK3WioJHHXsOjJDJwu9LRIsLVXaHhPZxZ8QPSSF0I/4N57c2J3nWJFVsPuFXtMqlHrBvaAc3szMoL/FbLGST6nSPk0Wu4iTmksT4pon9tG7REBpeW6cLlDpM3msdXlckFauAcMe3glM74KMhohOSOwVV/S6TkWyW1SW6vXzo8lrIDT/8U1kpu0Tg8jbcIlBkpEzFc018HQv8CFx3794eqk5fMsLRlm8hk+/rLJ07fxtsf+oLe/2Bpr5ExGDQzZTz8E0en6tvxQT/gvzcpP25pkDw6WmS78bt7k6alyaO0zZKeZa36ue/9PLKwdCZ8vWGkfO2ayZuMYC3C/fxfjKwp3ZwVUmOry/IWoMIpbqO41gujz4sAeVbCq4V40SZZWtIOE5DAJRCgzgA+2SxG+RalkaXhR+oLS2VNkz7mWGkicpE5XYb1ZewGtgzuD7iGCjs37BLUV8tY5tzBTUNtpMBuh+uvdw0A==;heji7QQk+W05pVvR92PtVA=="

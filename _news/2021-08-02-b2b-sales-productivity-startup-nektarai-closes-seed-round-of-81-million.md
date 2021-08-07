@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Mint
@@ -27,21 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore-based Nektar.ai gets $6M to help B2B sales team collaborate more effectively"
-    excerpt: "Organizing information about prospective deals is a challenging task for B2B sales teams, since salespeople usually rely on multiple tools (email, Zoom, WhatsApp, etc) to talk with buyer committees. It becomes even more unwieldy when sales teams work remotely."
-    publishedDateTime: 2021-08-02T11:30:00Z
-    webUrl: "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/"
-    ampWebUrl: "https://techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/02/singapore-based-nektar-ai-gets-6m-to-help-b2b-sales-team-collaborate-more-effectively/amp/"
+  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
+    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
+    publishedDateTime: 2021-08-04T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 96
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/Founders_picture.jpg"
-        width: 2629
-        height: 1938
+      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
+        width: 400
+        height: 271
+        isCached: true
+  - title: "Indian sales productivity startup Nektar.ai closes $8.1m seed round led by B Capital, others"
+    excerpt: "The company plans to use the funds to accelerate product development and hire talent for its core teams across product, engineering, and GTM."
+    publishedDateTime: 2021-08-02T23:15:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/nektar-ai-seed-round-253755/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 43
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/03/indian-rupee-1-reu-e1521781642703.jpg"
+        width: 979
+        height: 543
+        isCached: true
+  - title: "Nektar.ai Closes US$8.1M Seed Funding Round"
+    excerpt: "Nektar.ai, a Bengaluru, India and Singapore-based sales productivity startup, raised US$8.1M in seed funding. The round was led by B Capital Group, 3One4 Capital, and Nexus Venture Partners with participation from Amit Midha,"
+    publishedDateTime: 2021-08-02T14:40:00Z
+    webUrl: "https://www.finsmes.com/2021/08/nektar-ai-closes-us8-1m-seed-funding-round.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/L-R-Aravind-and-Abhijeet-scaled.jpg"
+        width: 2560
+        height: 1887
+        isCached: true
+  - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
+    excerpt: "B2B Sales Productivity startup, Nektar.ai has raised an additional US$ 6Mn seed round of funding led by B Capital Group, 3one4 Capital and Nexus Venture Partners. Several prominent Go To Market leaders in the US-Asia cross border SaaS ecosystem also participated in the round."
+    publishedDateTime: 2021-08-04T17:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-0ea9d324e6e5823d6979f95895efdf90"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "+X07CTFgTjJGLbsVVCDO/OVOu1wpp0OC0tnh391Qlh5cmkc4b6o/LW90/fn6MLRMnmzoMoEdJBIVbGT3t0hTC9HEatEKz+4/xoJWItQ7ps4mS9qb5Ja8frGrpIMlGGcost1zdHPO0g8lzfIS7gquHtB8HYcLAyPEXZTIABY8nn0nSsQHj5smEL2uI8ocm9yFSji6fmMWq6VodN0eiNjw392NkcQF88seT/WXppLxuynS65KlzlqOIZkKm+nfzp0JK8rkS0UkAB5QdiOoMdFvGl9QxGHtu1x56F6bVk3yfK5wLOgOL8TaAWwqACsAn4BuUcgyYfT/HF/y7mFedSh2HuxK2BtnFlF6OPYRD8716yjgKWiApLu0KqkmpclTNpQYFZQYFI+uqQcnYlSTULCN044Enun30r0SRxsfYH3CwVr61FF6OMZi1OgzW6IIrsKGX1634CLCGccu9tmdQavpxCCKPOnqeajiDnX5XRnYQMnS/RhgPbXBI9cupYto0gE76Nr8AnbXCOfhVweDbFGKgw==;X/1focMWCS9zCTEBcpk1bg=="

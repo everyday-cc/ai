@@ -82,20 +82,6 @@ related:
         width: 455
         height: 600
         isCached: true
-  - title: "Nvidia’s Base Command Platform launches today, providing cloud access to accelerated AI computing resources"
-    excerpt: "Nvidia's Base Command Platform launches today, providing cloud access to accelerated AI computing resources - SiliconANGLE"
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/08/02/nvidias-base-command-platform-launches-today-providing-cloud-access-accelerated-ai-computing-resources/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/NVIDIA-Base-Command-Platform-August-2021.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ULGcpIFF5guL0wFQLfq3bPDXXFIdsp0ekz6U+una4MPstAJeGBFggxBvKLFO6M3RCe87RzVd2o+DuvdKof9YQIIGHVO+qo2HjAOCLLjttHqzgPnuDrBpjVo7SgFb6jJLXXv/8C0ZZMI9SV/6IMvenynfaAC6TaukWOB/9pluPXJrB10VfCdjko1n0qDb6Tsf/99uV/j0cxR/jss110nEgPenpv3Sn282lIV0fgLBPWuOiyr5UoG09JbC0Pqwqf6Lmo1fV4LXKmNkV52lnXWa8YBsiEf+fqbRkwcA1dUcRWyGbxjqtdxkRP9SN+PqZxFMvP5g0Fe49MMU9aE/2P0AVjSKU9QUvpW5qyQ21BUMI1v/A16xek+91RuPW+51lA5+3mr2yWMkX3RM+jenVljZURe4d6LmCykEr7lJVnkxLEBzKwlXm9prqZsusPQgafQROpfJnOkKCpq/GxEDrau5vNw85O/QfO19PxLNYUWEUmUAV3jl8L8tkUHyaO4yPoS+u4tvtTzleKLavCBtL1a9Wg==;73mSZYLy5rKCieioy5CKTw=="
 ---

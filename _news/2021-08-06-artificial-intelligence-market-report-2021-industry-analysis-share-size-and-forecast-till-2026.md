@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Size Future Scope, Demands and Projected Industry Growths to 2025"
-    excerpt: "The Artificial Intelligence in Oil and Gas market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2021-08-02T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-size-future-scope-demands-and-projected-industry-growths-to-2025-2021-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in Fintech Market 2021 : Industry Analysis with Business Scenario, Trends and Forecasts Report 2025 with Leading Regions and Countries Data"
     excerpt: "AI in Fintech Market Growth Analysis 2021-2025 : The increasing use of AI in Fintech in Virtual Assistants (Chatbots), Business Analytics And Reporting, Customer Behavioral Analytics and other industries is driving the growth of the AI in Fintech market across the globe."
     publishedDateTime: 2021-08-03T06:55:00Z

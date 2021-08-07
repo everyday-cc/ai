@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -88,34 +88,6 @@ related:
       name: Australian Times
       domain: australiantimes.co.uk
     quality: 41
-  - title: "How to Leverage Artificial Intelligence in Public Relations"
-    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
-    publishedDateTime: 2021-08-02T12:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Downside of AI Captioning"
-    excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=147393"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/138524-downside-ai-cms-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "u/xpUL+pl2VqrMwpvIpH+lHveS1LZ+o9/SGkTWqDiaXqZ+OGSbB8SbMeWkXUlzIiNZHVpg4L3rRxn14/FHLEBLxKUnvAQHrFBVt2OpErJtfzXdoqv+M7NY1p3ESkhCib7k7CgLbDu2GZV66fmJR54krFjuWAJNzyLcPc1vaPb2I8ZXd7KIwWDOv7v9Di5ExNoJS6222jHSkeSDHcufy2cYNEbdYjDcE9ZQ/1gCKjzdeI9FWO52eRkh4m6ZwEla+k+jLTvAMgufVOa/zYOpi6/4E9hQtNOY4JOA2kv85pFvJoUUi9TIQAEiDXXncMrCd/6+A7gY8rUGkuuJ2HMCUuR2CU5GrZ5zuYT5wzP6OJOVIEOusJ8HQOzb3Ft7V5K5e7do0U4WY/R7d/69x59mzaovhchq8Vl8GZz3ENLNDM8HjlNimMOA3YJuTiYUTmE1xfEulQe3twAcDtfmemLHCbMSpt2dVoD03Q/oe7tqAhl+is0Uha81FpglPYrh/GFCg0aEd03UJ0xjKLtlBtAjAm3Q==;5xAbNULAx8CZ4CWhAJTQyA=="
 ---

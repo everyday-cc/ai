@@ -59,22 +59,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Smart Money Fintech App Snoop Secures £15M via Series A with Participation from US Investment Firm Paulson & Co. Inc"
-    excerpt: "Smart money Fintech app Snoop secures £15M via Series A with participation from US investment firm Paulson & Co. Inc."
-    publishedDateTime: 2021-08-02T12:05:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/08/178606-smart-money-fintech-app-snoop-secures-15m-via-series-a-with-participation-from-us-investment-firm-paulson-co-inc/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/178606-smart-money-fintech-app-snoop-secures-15m-via-series-a-with-participation-from-us-investment-firm-paulson-co-inc/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178606-smart-money-fintech-app-snoop-secures-15m-via-series-a-with-participation-from-us-investment-firm-paulson-co-inc/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/One-Pound-Coin-286x300.jpg"
-        width: 286
-        height: 300
-        isCached: true
 
 secured: "McyZ0cWEeQKqS9zWui6augNItQzfN9EXJsCA2pOU00KAopPZAPVzgO4/dyC4BGb0Tgqz/dglgo2TxrDgaTRkyApm09x+2X8/Zh2sSheRz8X1gP7qUbP6x8eazn9QH1ZCDCmwwYkRf2x8JYq0c0WtNWYI16wh0mCIIZGLpYVS7CYJbQCczTZ11QUUfHwdXYjLILbzJ3aKfxXtnWonGgp+u/0YbJEs5WdZ+u/gI0BNJqCquYg+HsdhNcVrfatUKAq+5C3XlNGQQgmRdTuXNMJ3g7AAQS/D+Fk7Ib4TVXrAvJI0hRrvbGmXhcsEF1ZODFSClI1QWFDq2dQ5mplJJbkMfi9NLcYQUjkpkapq9H7rqRo=;nFQOghWCc1wGAwUuxiaHWg=="
 ---

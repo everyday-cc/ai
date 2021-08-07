@@ -3,8 +3,8 @@ category: news
 title: "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk"
 excerpt: "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats."
 publishedDateTime: 2021-08-06T17:04:00Z
-originalUrl: "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos4"
-webUrl: "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos4"
+originalUrl: "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
+webUrl: "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
 ampWebUrl: "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "VA9ZwNrKdwbKlOrg32j8UYaLQeGnoeZTXaHmb5huJ4TJp4fP7v9WEORkqgDNR6Jo5B35rt1N/Aa62c/PQlzwxdmbKKZFi5Sgaedw6DvYXVD717CUrwysGfB2Zc+Fvw7VjI/qXX+K9f8YApcWSXPbUWmAk+MYFy6hGGB8euBC3FDGGdU437/QehsrGvlwmqka5QCP+Z4LuTuvs/BoOs+guNcs5LVJWDNPO7FbJdGEh/fUNNc18Nd7++g5Osd+NUulYQYU4j3llxNCHogWQ699T5gXCpXIGNC7ROBdHhucSvLkiUPO2dXJpwYSkc7VHibzmTJ9IPUaWZUn6ViRI14WGHXyxpXNNKhpJv2qG9gt3Hs=;9G+muW/rtFxv7VP+jrK+dA=="
+secured: "AGA83F4ptxmPV7tP4I9smnsWuv5mhnMD4EapuBRm2B2GLT//sUvcJu1KjvbK+ks9/jAo3d+XSECURzDUz8bNVKMP0yNQ6UFwx9q0W4yKMygvqMmkdHhrv9YDPO7bxEoe/mlqbC2LXmIiDJ10sRcB0Ls9+R7pHoEnIyrrePvdTtwWrT5k1K3MySAM5YpUiF/GdD7QyvNleFW7YI5VJmT+ixPHkPgeqLP4p4dD+44saQDEg+L0anQd5NTQ28AYNNgSaDYGavIQpOHtxM1N0m8JtlnYpNfeq2yeFpu9Jq0qmd6srivEN1QlhoyLOAZljMXVJJpNBrdRlJJikJiA9rzJ0Z8reQD5EXDkTcxgGFlotj0=;0Oua+CX4vXIkxqO9CZqBag=="
 ---
 

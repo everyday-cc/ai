@@ -93,15 +93,6 @@ related:
         width: 1882
         height: 753
         isCached: true
-  - title: "Microsoft Discover AI Upskilling Journey"
-    excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
-    publishedDateTime: 2021-08-02T12:56:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-discover-ai-upskilling-journey/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
 
 secured: "L0Mg575l58rjSPjhHX78bqD0x9qUoqpju5XdUJi3ZL7N5BDBmrOD+biqNMG0QkfsosXCjvouQ6KmDAVGdsNYoE99gY3mZCu5T87+XGlX0UgYT11DZAdbwYgSUT00cSkadPyEo6f02JyxCjG13DZq4eLhnGLVpDKD3Aa0v0NYu+XNAxZ5Kcks3T3J/ig/0m0qw5ENnUW1lPZjwsmzx73QgxWs1AA24W3Asoq7jc8yOuDcbMO7NIdC5ZUwoTXYwKMKglYOks9QoWv3twGrv0RySGOfryTevr6dsi1RE/D7yu6v1YJQArXGeROhiLf1h15/I8mpI8+1cH7exylo8w8TwNnCfKRz/uP1J2WxiQaI8jQ=;ea3MO+KlWl7K6RgDu/HYvg=="
 ---

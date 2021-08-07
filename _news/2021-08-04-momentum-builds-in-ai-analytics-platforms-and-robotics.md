@@ -101,6 +101,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
+    excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
+    publishedDateTime: 2021-08-05T19:57:00Z
+    webUrl: "https://www.datanami.com/2021/08/05/enterprises-needing-accelerated-data-analytics-and-ai-workloads-get-help-from-nvidia-and-cloudera/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/GPU_shutterstock_mmaxer.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "NI4iGK5EPbuRfZBxLX4F5fX2TdRd8zk2aikpo2bUkVZs2xMzkbWCZek+n5/tYkDCZojJ7q3uAKrEcnAraILWwq7u3jdRW+IHOsXrrfGp/Hks3FkuC5bKSflrsHKVGJFdxbRquVC+E8DcgjgGTweSmjh4tLeUl9v2EKfZaKfFfaSbKS1ymows/cky4NIOmMCR5Iw/UIl5tuy1xdirPL07QJBrw/nRpkuS+0YEgaq37EqZ0zlSbG8wNkH3t60kVOQ5X1p+pFTTu94egMMQqdcUzN59vxb0iEL29jA/+JrgpBsPAAtO5OYe2peIbovCCDGoQbaF9MIwWDgkvgiMiCilmhZxbq767VC4UOwgfsQyyZDOh18DmowcvUllvVip62Ywu3ekgrh7zdsp0vUOh2eaHEjI3w8drS/11uioxYOYi+Y5hDC6kRU++M0uxNt5gTirgAhWzBSQEzEYFRmmQ6CwQopoJZ5LGmWhDOC9W2IXd+gI7ji5bE2dxCIRvPA2wz4JEdwqSivHomufO7l5g6DRqQ==;SgFEYCBcXCRiZKPntjqTTw=="
 ---

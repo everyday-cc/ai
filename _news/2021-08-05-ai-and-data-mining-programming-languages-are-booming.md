@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-p
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
         width: 729
         height: 509
-        isCached: true
-  - title: "Where are mining industry operations and technologies companies focusing their artificial intelligence hiring efforts?"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the mining sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among mining industry operations and technologies companies."
-    publishedDateTime: 2021-08-02T12:43:00Z
-    webUrl: "https://www.mining-technology.com/features/mining-industry-operations-artificial-intelligence/"
-    type: article
-    provider:
-      name: Mining Technology
-      domain: mining-technology.com
-    quality: 13
-    images:
-      - url: "https://www.mining-technology.com/wp-content/uploads/sites/8/2017/12/artificial-intelligence-2228610_1920.jpg"
-        width: 1920
-        height: 1200
         isCached: true
 
 secured: "f7CHwsEquGPY3kLTihf9jIoZUXue8Qmef8VNkDgdK5frxUIBctK7l/b8ZnML0FlaSQWpTvzYqbMTPiyDq5/I/60orF26jOHArAd/YFKd2tPYSEMJq4gbcJI+gXEhgSoKIOY05+pa2w3QLqqnuFrrwgo/pH43tHm6UQ3SV/Pi3UeveRIF8QOMoNEex1IyN7AGSsF2NGlanZibM1GRX4WY2XhP3WU8LF+Cx6x/djyyZ6QnfL5XZ829xLE7uOifMVXV+wExUPJcCp1SqxodSXdpDGkI7hy1izymm+nCMpmhIqvGXckKStl3LKlxIhJBIDu1qT+W2QXJDKS+JJ8o0iBgVu5/ubQWJAn2PKAviIGW8/s=;ldDYg/xR3TuCPOrCvJCLGg=="

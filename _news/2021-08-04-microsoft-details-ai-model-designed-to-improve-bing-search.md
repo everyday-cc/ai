@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-design
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 1882
         height: 753
         isCached: true
-  - title: "Microsoft Discover AI Upskilling Journey"
-    excerpt: "From January to June 2021, students and young professionals from around the world took on Microsoft’s Discover AI Upskilling Journey to acquire or improve their AI skills. The bottom line? No technical skills needed,"
-    publishedDateTime: 2021-08-02T12:56:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-discover-ai-upskilling-journey/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 36
   - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
     excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-06T09:38:00Z

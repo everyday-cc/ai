@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement
 webUrl: "https://thenextweb.com/news/xiaomi-second-self-driving-investement"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Next Web
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi’s latest car related investment is in Geometrical Pal, an autonomous driving company"
-    excerpt: "Xiaomi has just invested into Geometrical Pal, a company that specializes in autonomous driving technology. This marks another investment from the company in to the automobile related industry. According to a Sohu report,"
-    publishedDateTime: 2021-08-02T12:34:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/02/xiaomi-invest-geometrical-pal-autonomous-driving/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 44
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/03/Xiaomi-Logo-Branding-2021.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Xiaomi invests in self-driving company Geometrical Partner"
     excerpt: "For the second time in three months, Chinese tech company Xiaomi has invested in a self-driving vehicle company. Founded in 2018, Geometrical Partner has attracted a $62 million investment fund belonging to Xiaomi,"
     publishedDateTime: 2021-08-04T07:37:00Z

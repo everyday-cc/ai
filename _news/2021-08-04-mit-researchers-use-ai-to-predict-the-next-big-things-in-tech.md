@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pentagon developing Minority Report-style AI to predict future and see ‘days in advance’"
-    excerpt: "THE Pentagon has been developing Minority Report-style Artificial Intelligence to allow it to see threats days in advance. US military commanders have been carrying out futuristic experiments that"
-    publishedDateTime: 2021-08-02T11:19:00Z
-    webUrl: "https://www.the-sun.com/news/3396090/pentagon-minority-ai-predict-future-advance/"
-    ampWebUrl: "https://www.the-sun.com/news/3396090/pentagon-minority-ai-predict-future-advance/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3396090/pentagon-minority-ai-predict-future-advance/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 48
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/KH-COMPOSITE-MAP-WORLD-PENTAGON-MINORITY-REPORT-1.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "410Zj/JHB2mwREFNtbyEoxMLIGwDOOFtm3aboTnJ03OCHtm55B07hsnhvEBNBWpfdd1F24LW3x+7LqvjUsbyncD1huz73lSewmCLiX7lvZ3PxBgEQWoPjOWuB0ZWIM54Q2ZQJtZN1fNxYfwi7FgjNn5lFjXMCV9jAvM/EwcHPD6B+NunFgKSKvUm0aqdSrTXPzeC92eAr8Cd076SiezYNzYULztzMPUmVWliyUWf52WG5fbvCaW6CLNY/tVy73zXnMHlXuxbOAnf+iG9no6iGPk2Lh9d4b4YO0wuMsOPHxVwRk6uKTEZGJ926klNX4RFVW2+R0OFPw/fgw0IXYKIIl6opJOkgkIfDBBXthL6Hd9hvtN7aWQBERtIdFWqrG/jFZedwmrI7X561oYS+gwDvCfJLvGTk6Vs+k1dHT9TUweKl5jtD/wqYzKsZQV/sC/lqSVLBcIomDsMg9KhmxYYWsdWrNcQQQJ0gu5Z8D5Ko055UgGNVXcQWZea62orS6IA9BlWDojlkbHu/qiplJJLNg==;oCwQ0ASU7IdGwaCySBFrWw=="
 ---

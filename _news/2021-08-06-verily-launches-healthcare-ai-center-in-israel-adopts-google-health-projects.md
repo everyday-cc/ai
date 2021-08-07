@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/veri
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/verily-launches-healthcare-ai-center-in-israel-adopts-google-health-projects.html"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Verily Opens New R&D Center in Israel Focused on the Application of AI in Healthcare"
-    excerpt: "Verily, an Alphabet company founded at the convergence of healthcare, data science and technology, today announced the opening of its new research and"
-    publishedDateTime: 2021-08-05T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210805005130/en/Verily-Opens-New-RD-Center-in-Israel-Focused-on-the-Application-of-AI-in-Healthcare"
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Ross Mitchell, former AI Officer at the Moffitt Cancer Center, advises that AI adoption requires cultural change and cannot be fast tracked."
+    publishedDateTime: 2021-08-05T19:59:00Z
+    webUrl: "https://www.aitrends.com/healthcare/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
+      name: aitrends
+      domain: aitrends.com
+    quality: 53
+    images:
+      - url: "https://www.aitrends.com/wp-content/uploads/2021/08/8-6AIinHealthcare-2.jpeg"
+        width: 550
+        height: 550
+        isCached: true
 
 secured: "XyTCsWfMoSLXyevlUnMQoqqY0L51sMjLk4LWHIb6IRGzmFW+LatgXjmF2vjT67nnow8TtNa11N/mgIsg430mZ2BP8SfyvEiz8nKOnlcOGOHGD7wUFn92rtmur2OSzJ0nAkFsSDnXYaosjHYO2SJsulzzshvFua6DqFTPTA70ajUVhxdnskNfXw7SPmMDHuP6dxkcv7vg6VCOIYH5uGrSmWrouamQCM84gyeJVfgXimBvTq73xBW1RtQpqj2S/n4vCe3QGSVFOcNhlvk/+n80vcorP5nUnPvJLw0C2CUi7UBzkRq22vgxs/DWFk4tNEj1dPMr+gwImRLOLdZzSDaVJHD6PIViLRo97q4ssDc7Bg4=;T5Hj5gIfn3VAF30KOWELzw=="
 ---

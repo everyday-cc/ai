@@ -84,34 +84,6 @@ related:
       name: Australian Times
       domain: australiantimes.co.uk
     quality: 41
-  - title: "How to Leverage Artificial Intelligence in Public Relations"
-    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
-    publishedDateTime: 2021-08-02T12:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Downside of AI Captioning"
-    excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=147393"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/138524-downside-ai-cms-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kd6hB9F0GHKoLzNEYtSRhVQ9VCvuQ0fkLmXgn64X7RU24NP8E6wBInv+jYwBHOSrSM4WqzNIb02en5ZABSgV8SVE98FMS0zLkzuErSxIuPrqyugCuN9GJ/UB5/mnBNlzfGMprlvSP1s7+CxXCa6PfoYBSoFietX+xYQ2RSotnbCl0JwExNK0G78L/ksasvnVb8BQh/pfcYE8QOPKaoQvqGMeg60fsxUKyFi7ptcwJ6pCZlsqgWJd1m0zliSEIG11WRdS0wJDhi7iBRPs0gAgG4LIN+IzHKplIx18zNvGCLgZD/McQhMr2GTzRjw794N/leZY9/GrRfg6DFLQVg02hQ94Xir17J0g5q1wpae7s3EH3MwgTHze4fKilFVGFwnjPNxfV4gmikUDBBGSCuTO2hLHmLj+JDB25n0BhFEWKbLQFKWMPBzNqtsZEULQcwmOTtj/0VHGpI2DaEhVRK2wSil0STPjWYR5RdyhK119JCMNhfDOpJAI6lROwi2MCk08w/0Y1vu8tJ+Z1RzUjZmwcw==;NjrgrqjH/66ODgO54AxEFQ=="
 ---

@@ -24,6 +24,36 @@ images:
     isCached: true
 
 related:
+  - title: "B2B sales productivity startup Nektar.ai closes seed round of $8.1 million"
+    excerpt: "The company intends to use the funding to accelerate product development and hire talent for its core team across product, engineering, and GTM functions"
+    publishedDateTime: 2021-08-02T15:14:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 72
+    images:
+      - url: "https://images.livemint.com/img/2021/08/02/600x338/startup-kElG--621x414@LiveMint_1627917168314.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
+    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
+    publishedDateTime: 2021-08-04T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
+        width: 400
+        height: 271
+        isCached: true
   - title: "Indian sales productivity startup Nektar.ai closes $8.1m seed round led by B Capital, others"
     excerpt: "The company plans to use the funds to accelerate product development and hire talent for its core teams across product, engineering, and GTM."
     publishedDateTime: 2021-08-02T23:15:00Z
@@ -37,20 +67,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/03/indian-rupee-1-reu-e1521781642703.jpg"
         width: 979
         height: 543
-        isCached: true
-  - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
-    excerpt: "B2B Sales Productivity startup, Nektar.ai has raised an additional US$ 6Mn seed round of funding led by B Capital Group, 3one4 Capital and Nexus"
-    publishedDateTime: 2021-08-02T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/nektar-ai-closes-a-seed-round-of-us-8-1-million-as-it-aims-to/article_4d7cbca1-b879-5e0d-b562-945a0fd7966f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 13
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/e2/3e201072-0525-501e-b6c6-ec2369923801/6107df13e9a95.image.jpg?resize=855%2C630"
-        width: 855
-        height: 630
         isCached: true
   - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
     excerpt: "B2B Sales Productivity startup, Nektar.ai has raised an additional US$ 6Mn seed round of funding led by B Capital Group, 3one4 Capital and Nexus Venture Partners. Several prominent Go To Market leaders in the US-Asia cross border SaaS ecosystem also participated in the round."

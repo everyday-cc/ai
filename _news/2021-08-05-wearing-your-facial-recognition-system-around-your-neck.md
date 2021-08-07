@@ -90,6 +90,22 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful"
+    excerpt: "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years."
+    publishedDateTime: 2021-08-07T03:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85120431,imgsize-233149,width-800,height-434,overlay-etcio/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "How To Fool Facial Recognition Systems"
     excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
     publishedDateTime: 2021-08-04T04:30:00Z

@@ -23,21 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Researchers use AI to look for alien civilisations"
-    excerpt: "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations."
-    publishedDateTime: 2021-08-02T12:15:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/researchers-use-ai-to-look-for-alien-civilisations/article35680523.ece/amp/"
+  - title: "AI Used To Unlock Secrets of Ancient Texts"
+    excerpt: "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
+    publishedDateTime: 2021-08-04T10:39:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: technologynetworks.com
+      domain: technologynetworks.com
     quality: 59
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/r5nkkz/article35680756.ece/ALTERNATES/LANDSCAPE_615/oumuamua-impression"
-        width: 615
-        height: 384
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441"
+        width: 640
+        height: 360
         isCached: true
   - title: "Researchers use AI to unlock the secrets of ancient texts"
     excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"

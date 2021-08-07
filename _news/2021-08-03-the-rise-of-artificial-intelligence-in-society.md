@@ -84,34 +84,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "How to Leverage Artificial Intelligence in Public Relations"
-    excerpt: "While the human touch will always prevail, you should know that there are many ways in which we can all utilize artificial intelligence (AI) wisely in order to run more efficient and effective PR campaigns."
-    publishedDateTime: 2021-08-02T12:09:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-to-Leverage-Artificial-Intelligence-in-Public-16355938.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/21/44/21305629/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "The Downside of AI Captioning"
-    excerpt: "LiveX's Corey Behnke discusses the need for accuracy in captioning that goes beyond what AI can do, particularly with the increased demand for accessibility that has accelerated during the pandemic, in this clip from Streaming Media East Connect 2021."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=147393"
-    type: article
-    provider:
-      name: Streaming Media Magazine
-      domain: streamingmedia.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/138524-downside-ai-cms-ORG.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "avBgc3Cl6drTcLtRAFPx3Z76re36jdWdJCqrt0OaP9ibfiWLjzfpA9zREehqvpT5ShO/4GULMlN20/iGWFGX0A8E9ftXu4qgqRxcpNunWqak6IP4EIeM/7n4nCIQdaio720pGgQ7f5v1j3MhI73PeXaIq6GaaWqR3FcN2w/b+jewn++xWW3LdtfSUAIvRwZucuSrKEW7Vbg/oKwMDye7wW3TnCqOnOYbneOQhujTVp2djktIw8JFDgR3pS4tUd3n3NRPaSIh5Dt21R0UClS+mVEoh0BrHKOesMGthJOcoPJZcEINOcNWRk8PqkEx8/wqrBkj2TjR+NQ6WjNObACzv9d1QB7mHwAEUqmp6qviCnQeA9rVqdssk4e2V2TRT01vmyevkAgHu/fp93o4A2RrwBMGrWBdv6/gWo576uvJbMe2K4qzVWLqNyTeGjQnhJq/ACHh5L6a99EYKoB8PCGP8DKMqpkaeVVow56dkBnDPceIs2OHXWCS7Kca9Nm1bMLrmsc4otTgDlHezo5zY7bjWw==;AArC7p1ZRodqWNYvjLV4yQ=="
 ---

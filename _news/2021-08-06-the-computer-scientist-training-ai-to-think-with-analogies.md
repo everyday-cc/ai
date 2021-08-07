@@ -18,19 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "AI Takes Call Center Language Screening to the Next Level"
-    excerpt: "Artificial intelligence (AI) can rapidly reduce bias and cost in the hiring processes at call centers. We take a look at the hows and whys."
-    publishedDateTime: 2021-08-06T18:01:00Z
-    webUrl: "https://nearshoreamericas.com/ai-call-center-language-screening-recruitment/"
+  - title: "AI, quantum computing and other technologies poised to transform healthcare"
+    excerpt: "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic."
+    publishedDateTime: 2021-08-02T20:50:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare"
     type: article
     provider:
-      name: Nearshore Americas
-      domain: nearshoreamericas.com
-    quality: 39
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 52
     images:
-      - url: "https://nearshoreamericas.com/wp-content/uploads/2021/08/AI.jpeg"
-        width: 1920
-        height: 1078
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg"
+        width: 635
+        height: 353
+        isCached: true
+  - title: "Interesting Books to Read on Artificial Intelligence for Tech Enthusiasts"
+    excerpt: "Artificial intelligence is transforming our lives with innovative AI applications. To understand how the technology works, here are the best AI books."
+    publishedDateTime: 2021-08-03T04:15:00Z
+    webUrl: "https://www.analyticsinsight.net/interesting-books-to-read-on-artificial-intelligence-for-tech-enthusiasts/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 40
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-1.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "UKjVziCcV65oau0Dbb3DteyA26/4Smbk6yaPVeeoKKfN2GQNtmEmUcpnscoS4UZzd9Y1uZCmx3TiC5s9LwWholC+w4gB/IENxt8z9uUFn+iUegRVEkfvzXbwvuaUsrsk90Xt9XMW2dMdcFogqpP4s2VgCPTvNW2mAWUIW2GXPqUH06W3moxDG5gELgPamI1tbo7wVVJqHtXMULS6hE8Mx1+TmRvCCREPAEX5ELXO++4fg+NJM+nRvXikoFVxyy47Ts8J1489jKzFJn6sNF8SsJBj0bPxp8yzuiKmg7irxs1AayOd8tBDR6vZBliKDMJLXR/BTqqTEwGA5sImNL5Zm1g6RZdyJ0hWpAmJFjJ+BQrF3htSZtGYT/JemoP8iQ8VEXrx/yglRcf52kX2VxOTOQDANPgaLSNi5nBEeazjtOCpoZXKum1V9AUn1ek+BUHs8wtf76JbSNlDg42j6fKF1ywtM8s6hPmREWsiN8wHftgXObJasZa0IkroXxzaYGMw2gBbudO4wFHNUFIFCFLnLQ==;w6PNu/fgWNgsiVa2ObKqBA=="

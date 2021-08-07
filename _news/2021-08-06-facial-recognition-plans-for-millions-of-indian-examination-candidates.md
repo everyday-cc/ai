@@ -89,20 +89,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Four Japan firms to tie up in facial recognition for payment"
-    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
-        width: 870
-        height: 489
-        isCached: true
   - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
     excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
     publishedDateTime: 2021-08-02T13:13:00Z

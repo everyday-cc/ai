@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facia
 cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Four Japan firms to tie up in facial recognition for payment"
-    excerpt: "Panasonic Corp., Resona Holdings Inc., JCB Co. and Dai Nippon Printing Co. aim to introduce a payment platform using facial recognition technology."
-    publishedDateTime: 2021-08-02T13:00:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2021/08/02/business/tech/facial-recognition-tie-up/"
-    type: article
-    provider:
-      name: The Japan Times
-      domain: japantimes.co.jp
-    quality: 39
-    images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_103429-870x489.jpeg"
-        width: 870
-        height: 489
         isCached: true
   - title: "Facial recognition plans for millions of Indian examination candidates"
     excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."

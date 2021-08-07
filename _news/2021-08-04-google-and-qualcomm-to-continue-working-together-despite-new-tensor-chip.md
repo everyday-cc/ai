@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI In Computer Vision system Market is Thriving Worldwide with Intel, NVIDIA, Qualcomm, Alphabet"
-    excerpt: "A report was released recently that sheds lots of light on the AI In Computer Vision system Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
-    publishedDateTime: 2021-08-06T10:45:00Z
-    webUrl: "https://manometcurrent.com/ai-in-computer-vision-system-market-is-thriving-worldwide-with-intel-nvidia-qualcomm-alphabet/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 23
 
 secured: "SP+/p3J+mJTUUk9wALaKnw4XX2pMw34IKbjhusbzdax1XU1AelEkpWYJyjNd5yL0km4hqRtrGXDn6irFJH65zoS4/Nb4oII9Ny9N7dpVjTvtkf9sU7+RepmpM2rWIC1GVmLz1j7XbUs2953oXjO8I6SxF9+BfYjiidmJdEemc56GSrbh2J5qmyFuQOak5pbcEGW5+z+ulrjxp1N4rWkKevuHsOIIgSfkfMfmJ6BSduDqaWgFU0lh8hk+tWaTI3z5OqFI6IHnw35XAy1yTT6K+noLIzarqD87VeLLXOO/7p3ZZexTsZcowRe310kpYQzlUYmgHkF09MGETWOLBv3LM8yZobM8utT5rf/mrxRTNpg=;GSNo/WztaMux6U6j2cBusw=="
 ---
