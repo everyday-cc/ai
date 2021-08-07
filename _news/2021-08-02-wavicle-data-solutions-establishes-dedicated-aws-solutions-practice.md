@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice"
-excerpt: "Chicago-based Wavicle Data Solutions, a leading data analytics firm offering cloud migration services and data management consulting, has established a dedicated Amazon Web Services"
+excerpt: "New AWS Solutions Practice focuses on building and enhancing AWS-centric solutions for faster time-to-value for Wavicle customers CHICAGO (PRWEB)"
 publishedDateTime: 2021-08-02T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice/article_67bf8f85-b0a7-54a4-b144-111eaac43b87.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice/article_67bf8f85-b0a7-54a4-b144-111eaac43b87.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/p22276802/wavicle-data-solutions-establishes-dedicated-aws-solutions-practice"
+ampWebUrl: "https://www.benzinga.com/amp/content/22276802"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22276802"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "0qGuQqCVQlgKaFRVMVoQvHdZIYqyvLbWrD+9lMNyccpLdUPVokW8x2BsV94DK2TlggRNk/wxZK9PiLeAauZPAu139RiYd7tedmhcC3LcvjOv83wC1DkE6YWx5a9NX1c2uhWpeEDVuNQLMiy4gfOpiJ65jYT9o5YD8rJ1cJv1LFscYeHqC0ikeyAqa78kFrgbgCulLTWJ8RVWOU+UWM7OIlhLaHi4jjeLKnrK4nLxKinbm4dx90y1U8Ksmmir2AgR0BMDY6KrNxv/5lkM4m4Gqk1sTCN7QHMcOZCF33kh5cCh+QmSND6rlc9Wj3u6gnDca5gBNYRjI4lDl+I/i1Xe55uHNNlGEA4X2RiZA9+R3jw=;qIdqvJm15zscAIskI8lE2w=="
+secured: "OaMp1IxDlPhq856EjvSD0k43T5vLytd2tO26urIxUtn1FEZiSvf8/3VuoPfwcDsi5KPmX6teSuEiRdhJgwQHnyJhCB5NNxE22mamf64WsywKYWoDQ7TTtC2F8CeXROHmEF0GWNhyH+wutjeExRHM8X0TwAEdk3MCdXuhDtYHm5vC+YLxhlr7qVDj0gvdFOvgJGweKVfmKClo5vFpXljQQ5jScQcRUQ9xh39GLKQ6MQgDKegB7Z4Rqthh3pHKVxumvQCiK5vNX4Iitnth3tviy1cKONlayd/Lg0/1qSjJ8UDHozNW/XpR2CdldI9xDDMK2Jlsj3oyJ8cm81FKrwfv7QCqy1+wSata1nOL5TrIv4g=;tEP++qKKOvPc96u368P6UA=="
 ---
 

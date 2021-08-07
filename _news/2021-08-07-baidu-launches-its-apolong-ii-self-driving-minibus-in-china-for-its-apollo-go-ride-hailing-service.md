@@ -3,8 +3,8 @@ category: news
 title: "Baidu Launches its Apolong II Self-Driving Minibus in China for its 'Apollo Go' Ride-Hailing Service"
 excerpt: "Chinese technology giant Baidu, Inc. announced the launch of Apolong II, a new generation of multi-purpose autonomous minibuses that are being rolled out in Guangzhou Huangpu District. The fully-autonomous shuttle will be used as part of a commercial robotaxi service and is powered by the company’s Apollo autonomous driving platform."
 publishedDateTime: 2021-08-06T19:25:00Z
-originalUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service"
-webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service"
+originalUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
+webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
 type: article
 quality: 24
 heat: -1
@@ -42,7 +42,7 @@ related:
   - title: "Baidu Launches its Apolong II Self-Driving Minibus in China with No Steering Wheel or Pedals for its 'Apollo Go' Ride-Hailing Service"
     excerpt: "Chinese technology giant Baidu, Inc. announced the launch of Apolong II, a new generation of multi-purpose autonomous minibuses that are being rolled out in Guangzhou Huangpu District. The fully-autonomous shuttle will be used as part of a commercial robotaxi service and is powered by the company’s Apollo autonomous driving platform."
     publishedDateTime: 2021-08-06T19:25:00Z
-    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
+    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-'Apollo-Go'-Ride-Hailing-Service-"
     type: article
     provider:
       name: futurecar
@@ -54,6 +54,6 @@ related:
         height: 533
         isCached: true
 
-secured: "QyoYb286Flizs8YxvlqHsEyV1Qg5BE77EG2sTpeQB7QXAsUOS2TkZfGD935vDr/HCVEM1UyidGdG7fyT+tRgkTPO8ONOOjKC63TcHhGhG4lAlAkShO65TwShnOMyazLS+jKWB8nUGGUvKPNpV73/0fSopcCC3oA20Zb2qqtVAQvcfD7P+b4vhnbT2QAdljpxCleJBbgGyya1syzcHsXcHiLaFA/txO+q747LewUzDA3OEpgXJCzzeFA4VOcGSlyuVfBFge+718OKayJqfMngoVwfgJbfGHwzvA96GiE4KYP8Wo/YJ0o9SkfX3K7KWCuXxQ9nVie5nP8nzVwU5pE5i6cuZhLQdLLMGyuc0kMtkvvZQXpN71DMCWqjqepBHE7qaLoIB08ygIqquBr9vExZm+V9jDI01UpNCLr4Mg1rXoK9zOo8PsISVnIZ01lGabhnbgvgoqFg1sZhPZ+b3ibWqVENUXhFntxJ7aFPfLEma+fNYPNWBTotEYGb/6HZiU4tg8q0OpTd/0gNSANbGBNzdg==;UfUD7rHtgyRXgQ3eDhCOww=="
+secured: "NsPnJPV5xvsbqmsh4wudOENwSIQNoPKJs0SeYoAmtZO6+ZHMoqKLlpDkCfSDV4W17UtuT9h9/FCbJSIts9p5mWhToS5qLfLhJZEYQ+7CL1vKmTnT09fYun6ZK4Mai4MrN4MV1uiEfFvjUB+8SjdNCNrj1S6rMVOiXqKxyZdf8KWgrTdJG1fmKi4voFnUB4j3YbfJYUgwB73aWScVq0FSJ3aDOiy7c7ECMOSfrs8gYFHabIJdp7J9RVeLx+w+LEkj1MwFrTGYONVMCO0sAyX5dntfmfhAY0MfTvAHdLjCK8/xI7WpiBfLR+F9mpV+ZxLpggqew1PpGsyXYpcsKPLV1gVT+gPfCwOaxuzIkz00PTQ=;WZG8tS8xT6eFko4AMaJ56A=="
 ---
 

@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-publishedDateTime: 2021-08-05T07:22:00Z
-originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
-webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
+publishedDateTime: 2021-08-05T07:32:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
+webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
 type: article
-quality: 34
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: fintechzoom
-  domain: fintechzoom.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
   - AI
-
-images:
-  - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
-    width: 746
-    height: 938
-    isCached: true
 
 related:
   - title: "Dataiku raises $400M to democratize AI in the enterprise"
@@ -100,6 +97,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "EB52sySODUjEJktfE8O8fqCZStEQPnekRs95wzyu7FWLymK4TNDuPXrJ77GOnPmrJlcCKcdDBeNPE+2Hv11cOUeAcuU7IG/U726Fus1Vo33wNQyf0uA7CFpITZfrYsid5PE4BpGWXxnEvcMGFXJQtaxArIRZiW2UOPQbYIqCKwHgkvxqxRJEjQKar8SnBLzEBRiyZc3CrtoFPzeikGkZJS8VpZuI8FRC0eIllnQOr2QpBBa7VuKY66tadLVROmt+Tw00G9w79NvH9tUF4LT4tL0bXtvCetKeGvM0hZ9R9hHN2Rx4IKe1v5idsAW7w7+OHIkBF+1f5GgARcX1ovCD2WPR8MRgw+r0UM0IcUuwOwANB28nN2ZKEbCaxKqQLs9wzDLkuGV/glgtKUW6FVhFNT6j4Au3SphiAv11i5sqo/Fhabt7u5nbPX5dcy5p2cg+jJdQqkDZ9dxE5lSX6MaVZNl8uudZso49K0KhhXhh29XaWYUzzuPHSZ9oI7F8ExA0Rj0EkHnmh41mjUYz4vB8Hw==;k/hpbLpjqPbZwYnwsZJUjw=="
+secured: "E/uv8yrveTAzH+oaGz2AxkMa1xW9AHAe+Q8ThvPslOa9bcl9axmbhgZWZW4QHMaDvxYajOYOLJmQ2UOiEnbuYNpmyBxqX+9j1Q+q4vzP28/JRmeYhxc70BkmvIXdsPCxTrF1tYdihuHXNqiCVhRBLIefzDrCShcxo2xd3BC2aALW00Twkj01MDytndqyi9oTJVtt8EVOMQSTa744kb52S9Oe21rUKITC84oup+28IJjZwMk7FoD2AW0LpAe5c4t5qbzT5yIOk2b3EBlYeqoAINX9jrUuwVvOrG7iouWcf0Vkv9VoUYp2woCusjUbNWV058zsfC+nmG7DGTWHJM2L49W3oQkNJCUgmroXXzaW/XYBh+XIFFgSlFHCe0btIu/O5hEAuKZ9iPgnwXeL94qhAa0zqUXoiryY8UgRBaSsvcaMJRNKNCzdbbEQOR+YL1GLLmh4w0unRVKmZxithpHhSwFV7HVtvAayv+3FaGKzzfykJMaCMdT2xgsuFXF5088cPfX2QZYWyzhZpRqppUI+1g==;oYMzrGsTo03Wy5ioufouZw=="
 ---
 

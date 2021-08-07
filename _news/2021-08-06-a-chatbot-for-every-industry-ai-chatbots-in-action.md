@@ -60,20 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 40
-  - title: "How AI Chatbot is changing businesses rapidly"
-    excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
-    publishedDateTime: 2021-08-03T01:10:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65750826/how-ai-chatbot-is-changing-businesses-rapidly/2"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 37
-    images:
-      - url: "https://documents.yumpu.com/000/065/750/826/27615d560f023203a612ea9740c9ec17c6c3277d/75765532536a4779494c456c386b2b335142765742413d3d/79753036304871497766713841386f502f6c4a6567413d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627963200&Signature=deIqjUTKdmV9k8yW2EsyHtRQen4%3D"
-        width: 500
-        height: 375
-        isCached: true
   - title: "Bangalore-based Conversational AI Startup Yellow.ai Raises $78 Million In Series C"
     excerpt: "Yellow.ai, a conversational AI platform, has recently raised funding of $78.15 Mn in Series C led by WestBridge Capital, Sapphire Ventures & Salesforce Ventures"
     publishedDateTime: 2021-08-06T07:41:00Z

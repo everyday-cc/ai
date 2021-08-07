@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelli
 webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 8
+  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
 
 secured: "Mt9mttl3zWz0RsW//s9uqIv/SZIDIOiFMwNvbD7aYnLORbJl/UqK0XGj+feWJZQLRBL3khDgtXz0QEoOTPVv6FtDcGu6I+Dvr78nvMRQwAWrHXTlVz+datoXRguQPrgqyeEC814h/YawVWlBCavtIO5JZOY/6bVlCU/KL5xZQqH1yPV8OB5sOa1yqLj//s4gJ9FG7GQg3A5/WJYNbFcfdIdJoQH1nyeVSBWi68Wc3c+uar6GIkOHPb+QxzE5yI00Vg5+NFtx0nm8d+1VG2hMOeLShxlrxv4n6WcrknNSFI5e0/URnkZid+8OACHGpWNhvZJjuyNEsIDKb8SdqTcovcjjf+Y9OeWu6MfZWGQvuKyI/LbXzOyUgRGgMe+NDqYTuZXBG6jD6+QfkmqmcjQwEuye2MUxhogOL+KmqJAxyjOB08ALF4K/iR91OEeUqE4vxYSLYy0jRJqEHbm1j2Rca6CsQM8UAI3uBCl/xHPBYrn5F+x2vFRR51VHpKB3k4xv4bvX6JQaauoAwapzCUAX1w==;K75SCKev5IViSMIEgg985g=="
 ---

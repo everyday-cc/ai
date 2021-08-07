@@ -140,6 +140,15 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 24
+  - title: "Facebook – Facebook Introduces New Platform For Building Robots"
+    excerpt: "Facebook has introduced Droidlet, an open-source, modular, heterogeneous embodied agent architecture. The Droidlet platform can be used to build embodied agents using natural language processing, computer vision,"
+    publishedDateTime: 2021-08-07T09:05:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-introduces-new-platform-for-building-robots/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 4
 
 secured: "03N9uMbAJsiL0QGYk85qoyEQ+E8tRnTLmheax081hWDgGqlX2dXMEu736S9OWQYysaqtHeGdCsK92xWmDZrTGfugSfRwwIp9Fh20XxMlzprJ4X+1OK2QX7fhKNiazNp37mc3VeSWHAdj6h2Ot5t5hXoVdiPy+yva8DfLW9el81pUy+hKEfhBlyP1w6hP8hCHZtdle+SLB9c5RTcRmO7fEjL60Wi5Dx36E0o1n2b0x0jdtDH/vRCEErAk/XP7A0uezgGrUPwU4bI//sxUM1u9CALm+ShjTsug754EAV/ENdGIVUbHhahurO8+3ylY7wBvyeWdqsX1YDYmIVSNUS3KS9eNoDtUbgQPkcmZPzviryo=;YvCsVIXPmlnXYU7ze7LQFw=="
 ---

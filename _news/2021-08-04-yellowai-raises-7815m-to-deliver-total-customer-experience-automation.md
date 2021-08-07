@@ -47,20 +47,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 44
-  - title: "How AI Chatbot is changing businesses rapidly"
-    excerpt: "Technology is rapidly changing how companies of all types and sizes conduct business. This is true in the realm of customer service and support. Using Artificial intelligence (AI) in the right ways can provide businesses with a range of benefits."
-    publishedDateTime: 2021-08-03T01:10:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65750826/how-ai-chatbot-is-changing-businesses-rapidly/2"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 37
-    images:
-      - url: "https://documents.yumpu.com/000/065/750/826/27615d560f023203a612ea9740c9ec17c6c3277d/75765532536a4779494c456c386b2b335142765742413d3d/79753036304871497766713841386f502f6c4a6567413d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1627963200&Signature=deIqjUTKdmV9k8yW2EsyHtRQen4%3D"
-        width: 500
-        height: 375
-        isCached: true
   - title: "A Chatbot for Every Industry – AI Chatbots in Action"
     excerpt: "Wondering where a chatbot fits within your business model? Consider your most pressing employee and customer needs—it’s likely a chatbot can take on responsibilities to alleviate those demands. Here are some examples from organizations in five different industries to get you started: AI brings the best of automation and one-on-one interactions together to provide solutions in higher education."
     publishedDateTime: 2021-08-06T07:19:00Z

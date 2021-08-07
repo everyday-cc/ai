@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/lifestyle/tech/2021/aug/06/a-neuron
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/aug/06/a-neuron-model-for-efficient-ai-systems-2340796.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Papa John's serves up AI for more efficient ordering"
-    excerpt: "The quick-service chain rolls out AI-assisted call center software to help humans focus more on making and delivering its pizzas."
-    publishedDateTime: 2021-08-03T09:00:00Z
-    webUrl: "https://www.cio.com/article/3627229/papa-johns-serves-up-ai-for-more-efficient-ordering.html"
+  - title: "Systems of systems: The next big step for edge AI"
+    excerpt: "A system of systems connects an enterprise’s multiple, purpose-dedicated systems using a single common language."
+    publishedDateTime: 2021-08-07T19:15:00Z
+    webUrl: "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2021/07/papa_johns_mobile_app_by_rafapress_shutterstock_1823976080_editorial-only_digital-only_2400x1600-100897165-large.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-135456171.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true

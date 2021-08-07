@@ -28,7 +28,7 @@ related:
   - title: "Baidu Launches its Apolong II Self-Driving Minibus in China for its 'Apollo Go' Ride-Hailing Service"
     excerpt: "Chinese technology giant Baidu, Inc. announced the launch of Apolong II, a new generation of multi-purpose autonomous minibuses that are being rolled out in Guangzhou Huangpu District. The fully-autonomous shuttle will be used as part of a commercial robotaxi service and is powered by the company’s Apollo autonomous driving platform."
     publishedDateTime: 2021-08-06T19:25:00Z
-    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-for-its-Apollo-Go-Ride-Hailing-Service"
+    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
     type: article
     provider:
       name: futurecar
@@ -42,7 +42,7 @@ related:
   - title: "Baidu Launches its Apolong II Self-Driving Minibus in China with No Steering Wheel or Pedals for its 'Apollo Go' Ride-Hailing Service"
     excerpt: "Chinese technology giant Baidu, Inc. announced the launch of Apolong II, a new generation of multi-purpose autonomous minibuses that are being rolled out in Guangzhou Huangpu District. The fully-autonomous shuttle will be used as part of a commercial robotaxi service and is powered by the company’s Apollo autonomous driving platform."
     publishedDateTime: 2021-08-06T19:25:00Z
-    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
+    webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-'Apollo-Go'-Ride-Hailing-Service-"
     type: article
     provider:
       name: futurecar

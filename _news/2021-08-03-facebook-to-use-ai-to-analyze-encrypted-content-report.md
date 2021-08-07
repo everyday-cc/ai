@@ -9,7 +9,7 @@ ampWebUrl: "https://www.teletrader.com/amp/news/details/56129483"
 cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -132,6 +132,15 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 24
+  - title: "Facebook – Facebook Introduces New Platform For Building Robots"
+    excerpt: "Facebook has introduced Droidlet, an open-source, modular, heterogeneous embodied agent architecture. The Droidlet platform can be used to build embodied agents using natural language processing, computer vision,"
+    publishedDateTime: 2021-08-07T09:05:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-introduces-new-platform-for-building-robots/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 4
   - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
     excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
     publishedDateTime: 2021-08-03T18:14:00Z
