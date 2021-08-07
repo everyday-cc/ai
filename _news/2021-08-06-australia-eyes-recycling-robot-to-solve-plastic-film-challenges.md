@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Israeli startup lands huge 3D mapping deal with Australia"
-    excerpt: "GeoX will map 18 million buildings throughout the Australian continent using satellite imagery, AI and other patented technologies."
-    publishedDateTime: 2021-08-02T09:54:00Z
-    webUrl: "https://www.israel21c.org/israeli-startup-lands-huge-3d-mapping-deal-with-australia/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 22
-    images:
-      - url: "https://www.israel21c.org/wp-content/uploads/2021/07/geox.jpg"
-        width: 1601
-        height: 900
-        isCached: true
 
 secured: "MsdModFFFEPUmVgFlDjCpLfV6osF5LkJhJvW0MOaRq12iKnSiVs0JJh8gLRHCGywV6EGToK2CivJ87cEW0qu7z1uBueoF4oKvXiYj/JnVWAoNYIU5Bh7UBrx//wZSuhTXK/NJtmDzoL83pqfJWxy8EsRmDKeydQUQs7TBuWTPRwwmM7UiS0I9aRlyeQ2xgowLxZdTKuRE5vzr3uYUodM8zLNYdXb1s+ceNzqn2eGT5c2SXRK+9dbebu7evczkSn96sEprq+4WSHez8WCGA65GpnPhzSzB1pVICsbGmMTbwAk+T0ciuOlwM1j4xNmvefq0WngkqhgSI0amgAj4WUJaGShvb1EvhYNtfOLuHDjuMdVS8q0w4tRAeXfAFIISjFLWPnk04k0rpFSLE16nd7qMNkAHvF5XPGVPIGKXDFjR6Sfxl5CQX9+Yp0QUraEuYgC6JQ5p7U198lL1sQQvHuWfgZT0n7CAgkifyfnAVvviPAPqcOyuvu72ZqMLEZoieB2OzDmKUP2iqmV4rd6muWOSQ==;oNRHxXh2S77iX+RuyPoz7w=="
 ---

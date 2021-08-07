@@ -1,29 +1,29 @@
 ---
 category: news
 title: "How a deepfake Tom Cruise on TikTok turned into a very real AI company"
-excerpt: "By Rachel Metz, CNN Business Earlier this year, videos of Tom Cruise started popping up on TikTok of the actor doing some surprisingly un-Tom-Cruise-like stuff: goofing around in an upscale men’s clothing store;"
-publishedDateTime: 2021-08-06T16:04:00Z
-originalUrl: "https://kyma.com/cnn-social-media-technology/2021/08/06/how-a-deepfake-tom-cruise-on-tiktok-turned-into-a-very-real-ai-company/"
-webUrl: "https://kyma.com/cnn-social-media-technology/2021/08/06/how-a-deepfake-tom-cruise-on-tiktok-turned-into-a-very-real-ai-company/"
+excerpt: "The deepfakes — a combination of the terms “deep learning” and “fake” — were created by visual and AI effects artist Chris Umé with the help of a Cruise stand-in, actor Miles Fisher. This ersatz Cruise was so popular,"
+publishedDateTime: 2021-08-06T15:25:00Z
+originalUrl: "https://fintechzoom.com/fintech_news_world/how-a-deepfake-tom-cruise-on-tiktok-turned-into-a-very-real-ai-company/"
+webUrl: "https://fintechzoom.com/fintech_news_world/how-a-deepfake-tom-cruise-on-tiktok-turned-into-a-very-real-ai-company/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: KYMA
-  domain: kyma.com
+  name: fintechzoom
+  domain: fintechzoom.com
 
 topics:
-  - AI Ethics
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://kyma.b-cdn.net/2021/08/hypatia-h_62949241f64d8d4edf758a87ccbedd28-h_f1e9acf4d9c339ac8b0ef2196a0151ab-300.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729120511-chris-ume-metaphysic-ai-large-169.jpg"
+    width: 460
+    height: 259
     isCached: true
 
-secured: "h+Bgw5KKrVzV0xZ/UeKdxuXJKxwmkpLxD+NCopqX1Ju/D671ovtuu7HZQn/x7xUVZIMcDa0KqVFy9I4lr27fh0PvIl+gNj5yYo+ZPuCwg1nE2iYgcQVH2KI1VchSoIO6AYuTaf4oR2GtjV9lXPOqnG1oVIxnttmVfqLsxCtcWfPL8ECW/vPiEP1P+qhNBO781ULk7ewNGgYvXtMg20pHfmmbWddGbE6OcDB47AdVp/eOR3G+S9RrFLN9aufotFRTOA+fgkZJYwhyh7PwDYagLu9R8sVf/9KhkyIhyQpeG8WdOGyiGthWwai9FbdsRJ/m9cpDacA8d/t10IsJHgmOO+SOquhlz3KCplquMkpnBEo=;x1N1cL3MyAW0ogBmfWTQ9A=="
+secured: "tGuKCYcgigHIGC5UzEYzXPeWMCPeYZOIncrLeICSzseQE+RJbMERM8yI3/5qTbpOHnU81Rp0A4Za95dnxvkRcVY5CuVsm88Z5TyvV8hlXrS/BRhPaz5RmEXbWVS69Tie6AtPWi9cbN0GbN2MIW2W2yFO3kfRLILnu5eT83GYEok79wsxzRKunvda61MbDnNO4e61sCBhPOmIoz5CjHvSyQnOlHq6FRd0zKFpgwu8Ybb6Y68OTguzjJdxesZSUtLRMOL3ivqW9Es64OWFZPYWBp2nwSqvZ8vhkm67jI1NwQUwd/yT8Gj+tJ2IYuXT19HE8I3rLdyJUpugDkcoK5Zt7oH9xmyBCEY6cuk4sS6hMtg=;GHoUElx5yBoEc8lARMzu5w=="
 ---
 

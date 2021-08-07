@@ -3,8 +3,8 @@ category: news
 title: "How Artificial Intelligence is revolutionizing the startup industry"
 excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
 publishedDateTime: 2021-08-06T11:27:00Z
-originalUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
-webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
+originalUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
+webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628308800&Signature=zqaPMM87i4Xgwgj7I2Qcky8x%2B5I%3D"
+  - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628316000&Signature=D0NJE6kwjIfEoF%2BQVIZS4TxuaeU%3D"
     width: 453
     height: 640
     isCached: true
@@ -54,21 +54,7 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
-    publishedDateTime: 2021-08-02T09:34:00Z
-    webUrl: "https://www.power-technology.com/features/the-artificial-intelligence-hiring-focus-of-power-industry-operations-and-technology-companies/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 25
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/main-305.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
-secured: "EMDeH4v+cgvezJZaHjrGrWeiJ8u/Rg3k9gmBsorp56Xd/WNwwIe3dhTkbhJLXjJ8a6+G1kx23Gimj14tsUtOTzYGdljF3F3/N+8HwC6Q5+AF7z97MK/AbBVFlFomWLuqqENkSrPqmLnNHyqywlpYH1QU64BNJsUIQ/vsqNlyCTjANO+zDWktOaCGA9tWvK4jO7sOO3Sgq7dUzJKlc6t8NdPybGpnK8V1Zyau10Z++WD1UPoW+LR4qtYTtJoUPZm11SohgXq7WcIx9hidhVUYeRzwb0u4RqSe2FGiaeK8nUSAPtI+U3HjdvWj4Ji5XjEz4biac6Agb0pQXSq6ZizlAJ4GRuM/OBkEMS/bh2DOrb4=;k0lR5aWyFcE4A/7hIHgbOA=="
+secured: "9vCOqzJrzRv5u2MrcxP6WwAmfqFTg11Sk87ajhVpGepwxfTIIS0fpHan5KwVb7Iob5cJXEF1gOBiK6EtMoaILOcv1gvgB8wfVBDtPpOw7KqtC9n3MUChGC/DvjSXMjkK4kIKKTesHt+YViTqooczhe1mJnMKdwoL0o0c4HFcuX+d9cQDSRuN+53ZYgoFpiZ69YkTocPH+w/gbDq0k0IFjoij3PDuvXWGt/x+E5BbcOMpKIQNOlDoTKu7/CIzIe75fSJlI/vNQezKiUCLMaeIL09LUONAouse9F93kwR9fLZZwnAhezr+4pwXioGoov4vJ0pKq/86BM1Baa+jcERcRsveup1hVbdCGMi6LtEfKuU=;gI2ybDttxQAwI+ol5Ou6zw=="
 ---
 

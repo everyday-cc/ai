@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UAE sets up ‘Learn AI Platform’ to guide students pursuing artificial intelligence"
-    excerpt: "Dubai: The UAE’s National Programme for Artificial Intelligence (AI) has launched the ‘Learn AI Platform’ to enhance student awareness about the latest developments in the field of AI. The platform introduces youth to the most prominent universities and academic institutions that provide courses in various specialisations under AI,"
-    publishedDateTime: 2021-08-02T10:32:00Z
-    webUrl: "https://gulfnews.com/uae/education/uae-sets-up-learn-ai-platform-to-guide-students-pursuing-artificial-intelligence-1.81226221"
-    ampWebUrl: "https://gulfnews.com/amp/uae/education/uae-sets-up-learn-ai-platform-to-guide-students-pursuing-artificial-intelligence-1.81226221"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/education/uae-sets-up-learn-ai-platform-to-guide-students-pursuing-artificial-intelligence-1.81226221"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 66
-    images:
-      - url: "https://imagevars.gulfnews.com/2021/08/02/shutterstock_Artificial-Intelligence-1627899628391_17b06610b99_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
     excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
     publishedDateTime: 2021-08-02T14:25:00Z
@@ -73,14 +57,14 @@ related:
         height: 313
         isCached: true
   - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-    excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-    publishedDateTime: 2021-08-06T12:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
+    publishedDateTime: 2021-08-06T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "e49VIzfTLlAFNG7z1jVcWb2AsW7LvWDwux0vbisI1D2UCkpj5wBVonB1U9K72JFJpiUQYgf+nwtKBFPJ7TD0SGHjCypCGuTiaCSMWrNc+H44JE7WkUR8As2/VY+pB+51tv3Ztta4lpUp7kEKtWp5ijVWAjnpcf5u1GdOqElhtHAl52bcvBwsgciown696nHgPTe+mymLiT+pUUVpOES77eJDBu0yGYAzouttPsFe5+yPdepFH+CD6x0xQ2kCKU1fmYhfYrnV7B0IpTWYS7Gx6redus0MqG+v3xwRFT9ulmHktEALF6iMshUd+1RGjMfPdk8YAqueDikqsSDa8QrJkRWvEh+HIHe3NbQhe0RgjzHr6iyu/huHa7VnwDUspYKvGJ7hABZB8E8WQqjZ0Lh5vWHcA9f146g2FH0M7K5s2O3tNgpdCcLMDHorFDdQ9XXGJKkrESjl8hRJw0sMQ5VQlWS+1bN6DQu1DTiBfqrtE8QXzfsl2WcgRYeNS+nJbRK+HvvEFDZGCMjnBD24DD4DdA==;m3ibCV9coqBCFbcHBG2MyA=="
 ---

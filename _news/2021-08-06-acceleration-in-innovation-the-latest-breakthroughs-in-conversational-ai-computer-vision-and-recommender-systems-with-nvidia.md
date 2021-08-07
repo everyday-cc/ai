@@ -83,20 +83,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
-    excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"
-    publishedDateTime: 2021-08-02T09:45:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/211161"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 46
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4fec2476-5f9c-4e8d-8bc9-8bc75575ab65-maternidades-web.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Top 10 AI Innovations Of 2021 So Far"
     excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
     publishedDateTime: 2021-08-06T09:30:00Z

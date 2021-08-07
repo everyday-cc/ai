@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1102557868/ORD-MDW-encourages-travelers-to-use-
 webUrl: "https://menafn.com/1102557868/ORD-MDW-encourages-travelers-to-use-facial-recognition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "ORD and MDW Encourages Travelers to Use Facial Recognition"
-    excerpt: "Global Entry is CBP’s premiere Trusted Traveler program that allows pre-approved, low-risk travelers to receive expedited clearance upon arrival into the United States at select airports. Participation in the program is open to U."
-    publishedDateTime: 2021-08-04T15:33:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/ord-and-mdw-encourages-travelers-to-use-facial-recognition/"
+  - title: "ADIB is the first UAE bank to use facial recognition for account opening"
+    excerpt: "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally."
+    publishedDateTime: 2021-08-03T08:25:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/"
     type: article
     provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 55
     images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2021/08/AA_Blast_Banner_HST_300x300_2021-07.jpg"
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg"
         width: 300
         height: 300
         isCached: true
-  - title: "Biometrics for travel: Elenium, SITA deployments, CBP encourages facial recognition"
-    excerpt: "Deployments of biometrics solutions to improve the passenger experience - Elenium partners with Darwin International to deploy its VYGR end-to-end solution."
-    publishedDateTime: 2021-08-05T21:57:00Z
-    webUrl: "https://www.biometricupdate.com/202108/biometrics-for-travel-elenium-sita-deployments-cbp-encourages-facial-recognition"
+  - title: "Abu Dhabi Islamic Bank becomes the first UAE bank to use facial recognition for instant and secure account opening"
+    excerpt: "ADIB becomes the first UAE bank to use facial recognition for instant and secure account opening The service enhances security against fraud and other forms of identity theft Abu Dhabi: . Through secure access to the Ministry's Facial Recognition verification system,"
+    publishedDateTime: 2021-08-02T16:43:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/abu-dhabi-islamic-bank-becomes-the-first-uae-bank-to-use-facial-recognition-for-instant-and-secure-account-opening-1.1627922633204"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/13132346/airport-facial-recognition-masks.jpg"
-        width: 1200
-        height: 800
+      - url: "https://imagevars.gulfnews.com/2021/05/19/ADIB-HQ_179839c740b_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "ADIB becomes the first UAE bank to use facial recognition for secure account opening"
+    excerpt: "Abu Dhabi Islamic Bank (ADIB), a leading financial institution, with alignment to the UAE government vision in promoting digital services, pleased to announce opening of accounts remotely and digitally."
+    publishedDateTime: 2021-08-03T10:31:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88786/adib-becomes-the-first-uae-bank-to-use-facial-recognition-for-secure-account-opening"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 49
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "gB+ed69+NSY1ygfoN7OhHS4PHIlH15i7Dc+XFl/VfylVgol0rfhj//FL051F54/6dRY+Z8tCBUaXPOuzgWXD/2jPFmoeFVKBLjLhHFAvAhnOBtZBEzP6PBfgNQ/3O+g3LhmFq4fSgWjLDd/+U+yo7cP33rJNH7NG3XWUqNIOnDAz1tPN2sk1K2nrLLoQb4a5hnvTZbTFKPlyim5i/6PDXm76Mo3vM8vb+Uz/su3hahSu0mJisWUPEQtY6A0QjCRSOnB3PDs6fCLvwUqElhmfPWmDtE1aE35wJp3iNSK6rs/i9S278LvNF9h4nUVqELuYqPAjL1MKhEGEkePnvoL7f7lYQWLXTa2wO5+Y3nlyNqo=;7WQeuRVpBvG4ijkt32B0xg=="

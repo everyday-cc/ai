@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-relea
 webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -48,30 +48,16 @@ related:
   - title: "How Artificial Intelligence is revolutionizing the startup industry"
     excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
     publishedDateTime: 2021-08-06T11:27:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry"
+    webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
     type: article
     provider:
       name: Yumpu
       domain: yumpu.com
     quality: 37
     images:
-      - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628308800&Signature=zqaPMM87i4Xgwgj7I2Qcky8x%2B5I%3D"
+      - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628316000&Signature=D0NJE6kwjIfEoF%2BQVIZS4TxuaeU%3D"
         width: 453
         height: 640
-        isCached: true
-  - title: "The artificial intelligence hiring focus of power industry operations and technology companies"
-    excerpt: "Companies are increasingly hiring for artificial intelligence roles in the power sector, but some parts of the world are proving more attractive than others Artificial intelligence is an area which has seen rapid growth across a variety of industries in recent years – not least among power industry operations and technologies companies."
-    publishedDateTime: 2021-08-02T09:34:00Z
-    webUrl: "https://www.power-technology.com/features/the-artificial-intelligence-hiring-focus-of-power-industry-operations-and-technology-companies/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 25
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2017/09/main-305.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "vMLBlmPw15Do0rgELY0mwQEru6BqGEFBTog4aTHMtzOQTHjv8iYSRvSn71VNVFYIJgo8w/fl/pFGjGRsQP/5JBYYhkZDGI2j1KX7sNPYLeymoM/yNANIMOdQZDxiluaVBM08hcnF+sWsH+nnjZ4cG848RT/em+qvBpZpDX53wZONoskdVLceEyVNTEvWRi2ABBoYvRPd4XGkvx/GGXKMX41kWT7QcrG/u8vgJ4BhUbE1swcXteG7IuFgNLgU4388fDdd1MKrM0J+U3/QHaS0u+isndzA7Yv3hOVYXesFpPZSd32U438fgCFcmLRgMuHIIEpC9ove7srvDn6q9EwHkMiyAfmxZFj5cIKIkV2oPQmEeix02+nfS80wg8fBSJbq6vWEuEM86PfjnuNXu1dUQ3dzREEbXJS1Ekt9GUbRyICSE7JMAhTdPb/sD0DSQ+5sNnJqEn0SMo5wAPfEbwUaBJVMrEQ4bIWPyg+UkqXeNqGZOZrt4hvEx6gEl8nNspWmV766CxWw9YDGLLoFcJiWYw==;7aP8CyqAaYwCyIB+ilpq+Q=="

@@ -113,6 +113,15 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
+    excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
+    publishedDateTime: 2021-08-02T13:13:00Z
+    webUrl: "https://www.arabianbusiness.com/commercial-banking/466694-adib-becomes-first-uae-bank-to-use-facial-recognition-for-account-opening"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 35
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
     publishedDateTime: 2021-08-06T16:20:00Z
@@ -126,20 +135,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c1218526-4057-4665-8c6c-d3f7ca861bcd/Rendition/low-res/Content/Public"
         width: 700
         height: 464
-        isCached: true
-  - title: "Facial recognition technology introduced to body worn cameras for the first time"
-    excerpt: "British technology firm Reveal has introduced new AI that brings facial recognition to body worn cameras for the first time."
-    publishedDateTime: 2021-08-02T09:21:00Z
-    webUrl: "https://www.retailtimes.co.uk/facial-recognition-technology-introduced-to-body-worn-cameras-for-the-first-time/"
-    type: article
-    provider:
-      name: Retail Times
-      domain: retailtimes.co.uk
-    quality: 34
-    images:
-      - url: "https://www.retailtimes.co.uk/wp-content/uploads/2021/04/Reveal-2-1-1.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "aLLbGyxBaCuhsVo+kDZzYhoATaX+XBYmS5oVVI9h5sbd6LVPg/h8JVuNcRRRbSeUpCBsFzffR8HwqYjTKGX5ddRqGuJHbD19FEO3MIAFPyJaoOxP+HOpxhyFWG0ZXrDA/orC4wMgYl6SLnbRQSK0FePf3AuAqPGN2AOhw3+E4S45p/ZDdqLyzJoMOV5vOIzBYq2Dff1W7XuhT6EaIKfAyDsfSquqC7fvi8G2OQnDoIP7pJn9fcVxqvZUYM7zLWivNNQ1Cr87dWAtsckeb/9s1WAOjv2KXBbCTbbFwh9Xepu4eP3+sNKzY/Y6j6hiS3YDzYcvDU2OGLM6MpxFOQdhBTsWxb0Yt8KgzmFnsWkqxuia2XmlhwUaIr5qQ66EvjKCsj/idQwryo1VwcNBaSwenbuLP/Bl/FqYRIRdypqw9/b5MJD2YjawtY/a0eNTaIEqbX5dH+9G+yHQHUVzZqPVUfMv4jvHyBpDQj2MAcKr34CyrHvVCg8uMov2/vtZLapJL4ubca2DyKiKU/xFRy7yAw==;pgc7/JbwRigLZSTdN7VgRQ=="

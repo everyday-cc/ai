@@ -103,6 +103,15 @@ related:
         width: 870
         height: 489
         isCached: true
+  - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
+    excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
+    publishedDateTime: 2021-08-02T13:13:00Z
+    webUrl: "https://www.arabianbusiness.com/commercial-banking/466694-adib-becomes-first-uae-bank-to-use-facial-recognition-for-account-opening"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 35
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
     publishedDateTime: 2021-08-06T16:20:00Z
@@ -116,20 +125,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c1218526-4057-4665-8c6c-d3f7ca861bcd/Rendition/low-res/Content/Public"
         width: 700
         height: 464
-        isCached: true
-  - title: "Facial recognition technology introduced to body worn cameras for the first time"
-    excerpt: "British technology firm Reveal has introduced new AI that brings facial recognition to body worn cameras for the first time."
-    publishedDateTime: 2021-08-02T09:21:00Z
-    webUrl: "https://www.retailtimes.co.uk/facial-recognition-technology-introduced-to-body-worn-cameras-for-the-first-time/"
-    type: article
-    provider:
-      name: Retail Times
-      domain: retailtimes.co.uk
-    quality: 34
-    images:
-      - url: "https://www.retailtimes.co.uk/wp-content/uploads/2021/04/Reveal-2-1-1.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
     excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"

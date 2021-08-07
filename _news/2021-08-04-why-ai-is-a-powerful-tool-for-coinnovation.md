@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
-    excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"
-    publishedDateTime: 2021-08-02T09:45:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/211161"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 46
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4fec2476-5f9c-4e8d-8bc9-8bc75575ab65-maternidades-web.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Top 10 AI Innovations Of 2021 So Far"
     excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."

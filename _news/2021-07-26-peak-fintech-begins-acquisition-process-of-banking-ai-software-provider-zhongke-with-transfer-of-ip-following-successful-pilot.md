@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Begins Acquisition Process of Banking AI Software Provider Zhongke with Transfer of IP Following Successful Pilot"
-excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-07-26T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
+excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-07-26T12:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 235
     isCached: true
 
-secured: "NqT8+0jyDX+9kEdAeKoi/GGsfiUdrPEpccHXQqLYscwntEkIU2ygu1hvVQkbheiiAvlCfttvb4gPInoxj2voJB2D9QdDIwtD0IPjBMLDEFHckm+1ynrKwZkfkEEf35M+WC9F2j9UicKJcdXTw7jLXaKDh5jy1EQmY+vuRFyCKUtR4D/Jl+O3Cf29J6CpsfpGFfjt03EFXy7oV9OYJvGIdYEZmHFbk5V7EvBldmqnnBubLKKw+fraFhAxoipyXoxR6MGBCLXPsn4sh//IA0342Oop+nMQYFuI8T5O1qoJguW8MZPliSmMuI7LpbivoHXyS1Nus0kmlyuv0z8PqbinOeRQCTOBHTX0I+X30CDifcw=;94PRdOUkwazB13fTgmD+UQ=="
+secured: "Dxdp/Qn07Zp8oee65ubL89HyFuZi306JJhocA0oszh/qh7LiBm5GXqL58XgDe/5z5llKaQ3/6juXGWoG4ttEjnyBv4BhKPRcxBm1ND/4vbwozVT0ECXSSLXEBx92hpZ7h2a+PpvhoI/+WALY3iWn+DnJZhFeqRgEkFmRq8Jlql38POBtER6CJPB2Bu1B0GEmxBo3vJpH1Ez7pItE+hRWaUI5uWX0IaFx35wIjEhxKjTXlFIiNmbpWhxmXqh/LzqziRnjt2eUulCoqlZKkPC3q6Rim15qHVpLao8DTBXQdInA1xrRoSE1x3WlwTvvIWfwdVH/OodXJxBg1OMvVIiX3WaSislYJ5VcHT2XqVq6ht4=;96f1/AyaPESbjlwE3SrDAQ=="
 ---
 

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition in UAE: Now, open a bank account with a selfie"
-    excerpt: "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie."
-    publishedDateTime: 2021-08-02T09:24:00Z
-    webUrl: "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie"
-    ampWebUrl: "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie"
-    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 76
-    images:
-      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9"
-        width: 400
-        height: 225
-        isCached: true
   - title: "ADIB is the first UAE bank to use facial recognition for account opening"
     excerpt: "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally."
     publishedDateTime: 2021-08-03T08:25:00Z
@@ -72,15 +56,20 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
-    excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
-    publishedDateTime: 2021-08-02T13:13:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/466694-adib-becomes-first-uae-bank-to-use-facial-recognition-for-account-opening"
+  - title: "ORD - MDW encourages travelers to use facial recognition"
+    excerpt: "US Customs and Border Protection (CBP) at Chicago's O'Hare International Airport (ORD) and Midway International Airport (MDW) are enco"
+    publishedDateTime: 2021-08-03T11:16:00Z
+    webUrl: "https://menafn.com/1102557868/ORD-MDW-encourages-travelers-to-use-facial-recognition"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 35
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-08/02/CNG_bc16bimage_story.jpg"
+        width: 696
+        height: 464
+        isCached: true
 
 secured: "t25eFPQ1sOR1mRK4dnbO+eFD5X/3gqv2zGO2z+vHlEin6u+WNNUnuXBykpOlX/ewnRVRiJc498iDZFlqUfq/HkoeNn1su5mAeML4q89DOro/t2anIo8VVrrURJnYuFdupBlvKtok5bn0OTYVGtyXW86pefUmLWrEEbswDVl3fHXBspLF+8ZFZ38l6KfgHSTyvX/uC0g4RLr3FB2kmQSVhiw9vnO5yBmY9mIFv/2WFEWHCu/FnopP2BtcrOjyt78fsqZ/s2zeA+y6rNfxSGEfmCDYxF9ay3g+T3if9lxRWKRANxstIbAXtgXxNAOqbo3aCkPT1e1hq3GbpxFpNM7KkilFc8+SIhcMeMVbVAleQ+c=;zU/IUzxc0HhZBX915rgTtg=="
 ---

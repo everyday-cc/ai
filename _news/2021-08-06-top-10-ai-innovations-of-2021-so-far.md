@@ -84,20 +84,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Next Generation Computing: Energy-efficient AI chips for atrial fibrillation detection"
-    excerpt: "AI systems can improve healthcare, increase recovery chances for patients and assist physicians in their diagnoses. The challenge is that artificial"
-    publishedDateTime: 2021-08-02T09:45:00Z
-    webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/211161"
-    type: article
-    provider:
-      name: AlphaGalileo
-      domain: alphagalileo.org
-    quality: 46
-    images:
-      - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/4fec2476-5f9c-4e8d-8bc9-8bc75575ab65-maternidades-web.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Acceleration in Innovation! The Latest Breakthroughs in Conversational AI, Computer Vision and Recommender Systems with NVIDIA"
     excerpt: "It is a dynamic and threshold breaking time for advancing innovation across Conversational Artificial Intelligence, Computer Vision and Recommender Systems (RecSys), with NVIDIA accelerating new ground with the launch of TensorRT 8,"
     publishedDateTime: 2021-08-06T10:38:00Z
