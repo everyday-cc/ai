@@ -32,6 +32,20 @@ related:
         width: 1920
         height: 1078
         isCached: true
+  - title: "The Computer Scientist Training AI to Think with Analogies"
+    excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"
+    publishedDateTime: 2021-08-07T06:19:29Z
+    webUrl: "https://www.scientificamerican.com/article/the-computer-scientist-training-ai-to-think-with-analogies/?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B79B9A2A-FC8F-45E6-BA22A19888F807ED.jpg"
+        width: 791
+        height: 496
+        isCached: true
 
 secured: "UKjVziCcV65oau0Dbb3DteyA26/4Smbk6yaPVeeoKKfN2GQNtmEmUcpnscoS4UZzd9Y1uZCmx3TiC5s9LwWholC+w4gB/IENxt8z9uUFn+iUegRVEkfvzXbwvuaUsrsk90Xt9XMW2dMdcFogqpP4s2VgCPTvNW2mAWUIW2GXPqUH06W3moxDG5gELgPamI1tbo7wVVJqHtXMULS6hE8Mx1+TmRvCCREPAEX5ELXO++4fg+NJM+nRvXikoFVxyy47Ts8J1489jKzFJn6sNF8SsJBj0bPxp8yzuiKmg7irxs1AayOd8tBDR6vZBliKDMJLXR/BTqqTEwGA5sImNL5Zm1g6RZdyJ0hWpAmJFjJ+BQrF3htSZtGYT/JemoP8iQ8VEXrx/yglRcf52kX2VxOTOQDANPgaLSNi5nBEeazjtOCpoZXKum1V9AUn1ek+BUHs8wtf76JbSNlDg42j6fKF1ywtM8s6hPmREWsiN8wHftgXObJasZa0IkroXxzaYGMw2gBbudO4wFHNUFIFCFLnLQ==;w6PNu/fgWNgsiVa2ObKqBA=="
 ---

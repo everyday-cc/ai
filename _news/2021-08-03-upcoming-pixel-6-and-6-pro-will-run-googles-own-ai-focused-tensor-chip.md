@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chi
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FGoogle-Tensor.jpg&signature=13dd63619ecf795d416b14d139b34c28"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Google equips Pixel 6 with its own chip to exploit AI to the max"
-    excerpt: "For the first time, Google will outfit its new Pixel 6 smartphone with a chip manufactured by the company and designed specifically to exploit artificial intelligence to the maximum degree possible, a"
-    publishedDateTime: 2021-08-02T23:03:00Z
-    webUrl: "https://www.efe.com/efe/english/world/google-equips-pixel-6-with-its-own-chip-to-exploit-ai-the-max/50000262-4600653"
-    type: article
-    provider:
-      name: EFE
-      domain: efe.com
-    quality: 54
-    images:
-      - url: "https://estaticos.efe.com/efecom/recursos2/imagen.aspx?-P-2fL4Jfo8HOMj5TZSs7fWItB0HNHBkrfGQQ4TncnkXVSTX-P-2bAoG0sxzXPZPAk5l-P-2fU5UOVbGRy2zIJ-P-2f-P-2bbX0TxGz1Hg-P-3d-P-3d"
-        width: 600
-        height: 353
         isCached: true
   - title: "Google Pixel 6 to have new AI Tensor chip"
     excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."

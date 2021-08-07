@@ -41,20 +41,6 @@ related:
         width: 740
         height: 416
         isCached: true
-  - title: "Google wants its new chip to totally transform the smartphone. Its hardware chief tells us how."
-    excerpt: "Google is betting its future on its new Tensor processor, which will arrive in the Pixel 6 and Pixel 6 Pro this fall and bring advances in AR."
-    publishedDateTime: 2021-08-02T23:02:00Z
-    webUrl: "https://www.businessinsider.com/google-pixel-6-tensor-processor-ar-rick-osterloh-interview-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/61086424372268001a5950bc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "4Bp/VMo+Poyq2RBFyJCPDwrxXhz3fMtXF/Foio93skut0VSrbqHoRzXVnOjJGsNN6fVWVhRmizhbOId84tctz3HUp9whL6pU9f/3EbcVpULN6jqosZHDo5CIGm7mvV/7bMlr+lazLnFSa6evqE3nHKnx0KYLl0f9brBuyk97eQ/5LE2rdozSUQuzvIX7Rp0FFg2qYSuvJZrz8C82YuXnn/+Ped6LWO5wbaOIryp+KnC+zE5zo2uHPX2LrxeCNpaVFzsMG8GgTkOa2bCYu1m/1mEmbY6bfh2e51v6/nC7/rQ9smiPeQQRj66FPwkp/lFDhXlL4/hzTgPXrYuSeGqeeeEwA7HbnSCzroerTX9Gc/zjYFeyxIMzPt3B8FjOkyx10GZVUWM4Hxj3pfJL7T2If2w8b5qWI6LKHS0qXJRxWbEyeee/+I0FzaY1G9pqlixuo4nIJYfvcefo8EFdqyImgyZRcwEaPtOv3WlYMP3GtcB97B8blnnvyJ1LOgSQOJ7OVKxE6T5/v3+doE4ThGF1Tw==;5xi2jxZVCB0M0znmWq3p3A=="
 ---

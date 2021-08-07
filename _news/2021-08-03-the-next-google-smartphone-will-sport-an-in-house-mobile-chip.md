@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rcrwireless.com/20210803/chips/the-next-google-smartphon
 cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20210803/chips/the-next-google-smartphone-will-sport-an-in-house-mobile-chip/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: RCR Wireless News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google wants its new chip to totally transform the smartphone. Its hardware chief tells us how."
-    excerpt: "Google is betting its future on its new Tensor processor, which will arrive in the Pixel 6 and Pixel 6 Pro this fall and bring advances in AR."
-    publishedDateTime: 2021-08-02T23:02:00Z
-    webUrl: "https://www.businessinsider.com/google-pixel-6-tensor-processor-ar-rick-osterloh-interview-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/61086424372268001a5950bc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google to power new Pixel phones with own chip"
     excerpt: "Google will use a custom chip designed in house to power the next generation flagship Pixel smartphones, following in the footsteps of Apple and Samsung to rid themselves of the perceived limitations of off-the-shelf offerings."
     publishedDateTime: 2021-08-03T08:37:00Z
