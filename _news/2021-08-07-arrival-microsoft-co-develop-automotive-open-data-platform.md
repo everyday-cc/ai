@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Arrival co-developing data platform with Microsoft"
-excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
-publishedDateTime: 2021-08-06T08:18:00Z
-originalUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
-webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
+excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
+publishedDateTime: 2021-08-07T12:32:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
-    width: 1882
-    height: 753
+  - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
+    width: 800
+    height: 434
     isCached: true
 
 related:
@@ -71,22 +73,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
-    excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
-    publishedDateTime: 2021-08-07T12:32:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "Microsoft researchers reveal neural network with 135B parameters"
     excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
     publishedDateTime: 2021-08-04T20:32:00Z
@@ -101,6 +87,20 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "Arrival co-developing data platform with Microsoft"
+    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
+    publishedDateTime: 2021-08-06T08:18:00Z
+    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
+        width: 1882
+        height: 753
+        isCached: true
   - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
     excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-06T09:38:00Z
@@ -111,6 +111,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "crnc3ftDFWSnCkEU63heuieG70X4C7OITLgYAw6F9jCQlYhanmB6swJTDOShNUmw8nEX2C3yXf7VS54GqRfZeD5HsZK1NTEqQsO+5CwJYOnrqW200FJwFCrFGhoJLvSiGNMHs3S5lXf2aNVh0fMSNWDqoKuhtkm+MYe/NHmQT7elk+c3M91U3v86wt9HPvZ2hPSkbnqJXc14cZSLUZQQR3x3N4dKYkfe8TR+ajsR09T414tweJ5hyNetgorbB/UYPX/lvREAxiqdFIVpvkcfBUqQL0uKVRDYaB+kKIEegIBui17EbBcAee6nLs1CV73BvtgT2YPaBMCN/7lHfyeVZ/+QX7Z2sZnNdXkSZb9Ddyq9GqXsq4NySeVMj9ir67X6BlOT6s1LaIftaWjcYMfy8GBAXB5yki8Mi1K8XnV7YFzjaS/yD7nXcIIFcY1j418RJ3DwVJ9h1qYFCZiTAIzx305EHvjsw1dRWi6uxP4Q7TNgCdxaQamn+hU0rC8kzP/EaFTXFSKUKptoGBM5wnB59Q==;JCYUTCRBTP3iHBrX2ma5Xg=="
+secured: "D2sGadROa73OLiyGoqWHXd5cVAV9RX03+T8GVJ0nc+2ttbwjrVpp/RDOtr/L6NceG5qprVrujZ1rAVlCfywkjrhkQ+Gg0l0WZB44IwA9ZoaK1Sz5siMIIhAKeT+A1qayJHmucFdDnumwEj3BudUFYbMCruC4O34mTCNrB421gwqcQeHW2CpUQMUV8gSKVYVCSHWTeaD8PX0byLnCeVOYspLMwZKEfMFSpolTKB/STzCvDX6JK/Y3LMrxi6s/Xm8c9UQutwHUaiwRL8kw7+YIIKVDhw3ozVFXZQw8D5I+cznr3XDTYDpSJzj2UCa31+b/le+4xCw30efnPPWIjGkoKxRhK/DmaRs0EC8Ov5yMHEk=;/6Y0NKQEOPCRli7ZuEuekw=="
 ---
 

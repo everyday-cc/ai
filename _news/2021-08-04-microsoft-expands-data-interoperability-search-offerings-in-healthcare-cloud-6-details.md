@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
+    excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
+    publishedDateTime: 2021-08-07T12:32:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Microsoft researchers reveal neural network with 135B parameters"
     excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
     publishedDateTime: 2021-08-04T20:32:00Z

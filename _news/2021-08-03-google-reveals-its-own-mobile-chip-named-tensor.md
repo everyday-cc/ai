@@ -147,20 +147,6 @@ related:
         width: 600
         height: 353
         isCached: true
-  - title: "Google previews new Pixel phones with AI-optimized Tensor chip"
-    excerpt: "Google LLC today previewed its next two Pixel smartphones, which the search giant says will be powered by an internally-developed chip with an embedded machine learning module. The Pixel 6 and Pixel 6 Pro are set to become available for consumers in the fall."
-    publishedDateTime: 2021-08-02T19:10:00Z
-    webUrl: "https://siliconangle.com/2021/08/02/google-previews-new-pixel-phones-ai-optimized-tensor-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio_Shot_345IXG4.max-1000x1000.jpg"
-        width: 1000
-        height: 588
-        isCached: true
   - title: "Google turns to in-house chips for AI-powered premium phone"
     excerpt: "Google’s upcoming smartphones will use chips designed wholly in-house for the very first time this year, as the web giant seeks to accelerate AI-powered mobile operations and further differentiate its Pixels from the Android pack."
     publishedDateTime: 2021-08-02T21:39:00Z
@@ -185,20 +171,6 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/google%20pixel%20AI%20chip.jpg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Google’s upcoming Pixel 6 will feature a brand-new chip and a big-ass camera bar"
-    excerpt: "It’s been five years since Google first launched the Pixel line, and now it’s time for the sixth iteration. The Pixel 6 and Pixel 6 Pro are going to be hitting stores later this fall, powered by Google’s own custom-built chips."
-    publishedDateTime: 2021-08-02T19:58:00Z
-    webUrl: "https://knowtechie.com/googles-upcoming-pixel-6-will-feature-a-brand-new-chip-and-a-big-ass-camera-bar/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 34
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2021/08/google-pixel-6-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
     excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."

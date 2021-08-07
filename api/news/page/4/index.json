@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-04-robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more.md",
+      "title": "Robo Olympians? Olympics schedule packed with bots, AI, VR and more",
+      "excerpt": "Aside from premier athletic competition, the quadrennial event is also showcasing a number of cutting-edge technologies, carrying on a tradition of Olympic innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "originalUrl": "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/03/ac96dff2-23aa-417c-8954-e4c2aadef4ce/resize/1200x/688a721932d9c2efbf5f45f9d06ae5d7/olympics.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/",
+      "publishedDateTime": "2021-08-03T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-music-tech-startup-moises-raises-oversubscribed-seed-round-of-16-million.md",
+      "title": "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million",
+      "excerpt": "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/",
+      "originalUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/",
+      "publishedDateTime": "2021-08-03T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
       "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
       "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
@@ -268,49 +361,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-ai-integration-with-email-marketing-could-reduce-shopping-cart-abandonment.md",
-      "title": "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment",
-      "excerpt": "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/",
-      "publishedDateTime": "2021-08-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-08-03-artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc.md",
       "title": "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc",
       "excerpt": "Robotics has become a key strategy in the implementation of Industry 4.0. It helps save on labor costs, improve productivity, and increase",
@@ -570,7 +620,7 @@
       "originalUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1150,49 +1200,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-consulting-firm-affines-deeptech-accelerator-program-goes-live.md",
-      "title": "AI Consulting firm Affine’s DeepTech accelerator program goes live",
-      "excerpt": "The program will provide hands-on assistance to start-ups to improve their products and solutions, mentoring start-ups in the emerging and exciting areas of Industry4.0, IIoT, Gaming & Entertainment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/",
-      "originalUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/",
-      "publishedDateTime": "2021-08-03T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

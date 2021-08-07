@@ -98,6 +98,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-the-integration-of-ai-machine-learning-and-modern-threat-management.md",
+      "title": "The Integration of AI, Machine Learning and Modern Threat Management",
+      "excerpt": "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "originalUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg",
+          "width": 1910,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "publishedDateTime": "2021-08-05T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-neural-network-model-shows-why-people-with-autism-read-facial-expressions-differently.md",
       "title": "Neural network model shows why people with autism read facial expressions differently",
       "excerpt": "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be.",
@@ -963,12 +1006,46 @@
       ]
     },
     {
+      "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
+      "title": "Platform Teaches Nonexperts to Use Machine Learning",
+      "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
+      "originalUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
       "title": "What the evolution of AI/ML means for government IT",
       "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
       "sourceUrl": null,
-      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
-      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1001,7 +1078,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
@@ -1337,111 +1414,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier.md",
-      "title": "Financial firms should leverage machine learning to make anomaly detection easier",
-      "excerpt": "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
-      "originalUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711",
-          "width": 711,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-sean-gallagher-and-an-ai-expert-talk-about-our-crazy-machine-learning-adventure.md",
-      "title": "Sean Gallagher and an AI expert talk about our crazy machine-learning adventure",
-      "excerpt": "Our three-person panel will consisted of Ars Infosec Editor Emeritus Sean Gallagher and me, along with Amazon Senior Principal Technical Evangelist (and AWS expert) Julien Simon. To watch, use the player embedded at the top of this story.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/come-talk-with-us-about-machine-learning-experiments-gone-right-and-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Evite-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

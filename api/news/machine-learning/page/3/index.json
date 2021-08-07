@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-21-machine-learning-models-to-help-photovoltaic-systems-find-their-place.md",
+      "title": "Machine learning models to help photovoltaic systems find their place",
+      "excerpt": "With the looming threat of climate change, it is high time we embrace renewable energy sources on a larger scale. Photovoltaic systems, which generate electricity from the nearly limitless supply of sunlight energy,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/photovoltaic.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-machine-photovoltaic.amp",
+      "publishedDateTime": "2021-07-20T11:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-oxya-wins-google-clouds-2020-global-partner-of-the-year-award-sap-specialization-on-google-cloud.md",
+      "title": "oXya Wins Google Cloud's 2020 Global Partner of the Year Award - SAP Specialization on Google Cloud",
+      "excerpt": "JERSEY CITY, N.J., July 20, 2021 /PRNewswire/ -- oXya, a Hitachi Group Company, announces today that it has received the 2020 Google Cloud Global SAP Specialization Partner of the Year",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/oxya-wins-google-clouds-2020-global-partner-of-the-year-award---sap-specialization/article_90220219-b28d-5a77-b73e-9bcb4ecf6e53.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-softserve-wins-google-cloud-specialization-partner-of-the-year-award-for-machine-learning.md",
       "title": "SoftServe Wins Google Cloud Specialization Partner of the Year Award for Machine Learning",
       "excerpt": "SoftServe, a leading digital authority and consulting company and Google Cloud Premier Partner has won the 2020 Google Cloud Global Specialization Partner of the Year – Machine Learning award. This press release features multimedia.",
@@ -1358,110 +1444,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence.md",
-      "title": "Is our machine learning? Ars takes a dip into artificial intelligence",
-      "excerpt": "In my days as a staffer at Ars, I wrote no small amount about artificial intelligence and machine learning. I talked with data scientists who were building predictive analytic systems based on terabytes of telemetry from complex systems,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/is-our-machine-learning-ars-takes-a-dip-into-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/ars-machine-learning1-boxing-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-machine-learning-model-from-the-largest-us-covid-19-dataset-predicts-disease-severity.md",
-      "title": "Machine learning model from the largest US COVID-19 dataset predicts disease severity",
-      "excerpt": "The study, published in the journal JAMA Network Open, looked at risk factors for severe cases of COVID-19 and traced the progression of the disease over time. The authors built machine learning models to predict which hospitalized patients would develop severe disease based on information collected on their first day in a hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
-      "originalUrl": "https://www.theverge.com/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/wycNcUptzTs63ZG67FZ5p5ZJ0Ns=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69575654/acastro_200428_1777_coronavirus_0002.0.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/13/22573753/covid-data-health-records-machine-learning-disease",
-      "publishedDateTime": "2021-07-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

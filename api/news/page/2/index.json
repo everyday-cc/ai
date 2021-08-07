@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
+      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
+      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "publishedDateTime": "2021-08-05T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
+      "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
+      "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Li-Auto-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "publishedDateTime": "2021-08-05T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-googles-overhauled-nest-cams-are-smarter-and-easier-to-use-without-a-subscription.md",
       "title": "Google's Overhauled Nest Cams Are Smarter and Easier to Use Without a Subscription",
       "excerpt": "We’ve been waiting quite awhile for Google to refresh its lineup of security cameras, and today’s the day.: Google However, if you’re looking for something more multi-functional, there’s the new battery-powered indoor/outdoor Nest Cam.",
@@ -647,7 +750,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1106,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1137,110 +1240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red.md",
-      "title": "Word To The Wise: Do Not Try Asking An AI Self-Driving Car To Park In The Red",
-      "excerpt": "If a passenger inside a self-driving car asks to be dropped off at a red curb, should the AI perform this potentially illegal act?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6108c783af8a8c472c810b03%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2166%26cropY1%3D562%26cropY2%3D2896",
-          "width": 1200,
-          "height": 1293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/04/word-to-the-wise-do-not-try-asking-an-ai-self-driving-car-to-park-in-the-red/amp/",
-      "publishedDateTime": "2021-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-sensorium-demos-ai-driven-avatars-as-latest-virtual-beings.md",
-      "title": "Sensorium demos AI-driven avatars as latest virtual beings",
-      "excerpt": "All the sessions from Transform 2021 are available on-demand now. Watch now. Sensorium Galaxy is an upcoming virtual world that will blend human and AI characters so that humans can have unscripted conversations with virtual beings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/sensorium.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/sensorium-demos-ai-driven-avatars-as-latest-virtual-beings/amp/",
-      "publishedDateTime": "2021-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

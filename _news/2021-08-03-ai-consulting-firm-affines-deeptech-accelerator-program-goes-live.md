@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelera
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Dataquest
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "AI accelerator programme helps tech start-ups raise £6.3m"
     excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
     publishedDateTime: 2021-08-05T09:25:00Z

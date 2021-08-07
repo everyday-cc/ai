@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers develop anti-spoofing techniques for iris biometric recognition"
+    excerpt: "The scientists said they will continue their collaboration to improve the anti-spoofing capabilities of their iris recognition algorithms further."
+    publishedDateTime: 2021-08-06T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202108/researchers-develop-anti-spoofing-techniques-for-iris-biometric-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
+        width: 1720
+        height: 1032
+        isCached: true
   - title: "Josh collaborates with D-ID to bring facial animation tech to India’s short-video app users"
     excerpt: "Milestone partnership marks the most powerful use yet of AI and synthetic media by a short-video app BENGALURU, India and TEL AVIV, Israel, Aug. 6, 2021 /PRNewswire/ -- India’s fastest growing and most-engaged short-video app,"
     publishedDateTime: 2021-08-06T11:02:00Z

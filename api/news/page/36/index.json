@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-07-09-oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai.md",
+      "title": "OneConnect Impresses at World Artificial Intelligence Conference 2021 in Shanghai",
+      "excerpt": "Leading technology-as-a-service platform provider OneConnect Financial Technology Co., Ltd. (NYSE: OCFT) (\"OneConnect\" or \"the Company\"), an associate company of Ping An Group, recently displayed a lineup of impressive fintech solutions at the (WAIC 2021) held in Shanghai from July 8-10,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-impresses-at-world-artificial-intelligence-conference-2021-in-shanghai-1030592354",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1560742/OneConnect_at_World_Artificial_Intelligence_Conference_2021.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-09T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-09-cell-therapy-technologies-global-market-report-2021-covid-19-growth-and-change.md",
       "title": "Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth And Change",
       "excerpt": "Reportlinker.com announces the release of the report \"Cell Therapy Technologies Global Market Report 2021: COVID-19 Growth",
@@ -1072,49 +1123,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-developers-have-a-moral-duty-to-create-ethical-ai.md",
-      "title": "Developers have a moral duty to create ethical AI",
-      "excerpt": "Developers of artificial intelligence (AI), machine learning (ML ... “Training, bias awareness, policies upon deployment, adherence to law, rules, regulations and ethics are key ingredients. “Developers must work with the human to create a product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "originalUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/CCTV-facial-recognition-3-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252503741/Developers-have-a-moral-duty-to-create-ethical-AI?amp=1",
-      "publishedDateTime": "2021-07-08T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

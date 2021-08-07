@@ -2,6 +2,57 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
+      "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
+      "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "originalUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/KT-1.png?w=1024",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
+      "publishedDateTime": "2021-06-17T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-microsoft-all-things-must-end-even-windows-10.md",
       "title": "Microsoft: All things must end ... even Windows 10",
       "excerpt": "Not because of pages flying from a stock calendar shot, but because of the cognitive dissonance ... wiped it out). Services do not have retirement dates. More subtly, Microsoft's attention ...",
@@ -1144,40 +1195,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-fis-launches-first-in-a-new-series-of-ai-enabled-risk-solutions-with-c3-ai-for-financial-services-industry.md",
-      "title": "FIS Launches First in a New Series of AI-Enabled Risk Solutions with C3 AI for Financial Services Industry",
-      "excerpt": "The AML Compliance Hub leverages C3 AI’s advanced machine learning technology ... fast-moving challenges for the financial services sector, and the data necessary to identify financial crimes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
-      "originalUrl": "https://www.businesswire.com/news/home/20210617005027/en/FIS-Launches-First-in-a-New-Series-of-AI-Enabled-Risk-Solutions-with-C3-AI-for-Financial-Services-Industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

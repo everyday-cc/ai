@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
+      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
+      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
+          "width": 3461,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "publishedDateTime": "2021-07-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
       "title": "New law leaves facial recognition debate unsettled",
       "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
@@ -152,8 +195,8 @@
       "title": "What the evolution of AI/ML means for government IT",
       "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
       "sourceUrl": null,
-      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
-      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx?m=1",
+      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
+      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -186,7 +229,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]
@@ -1147,48 +1190,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-beckers-clinical-leadership-infection-control-e-newsletter.md",
-      "title": "Becker's Clinical Leadership & Infection Control E-Newsletter",
-      "excerpt": "To sign up for Becker's Clinical Leadership & Infection Control E-Newsletter or any of our other E-Newsletters, click here. If you are experiencing difficulty receiving our newsletters, you may need to whitelist our new domain. Please visit https://www ...",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
-      "originalUrl": "https://www.beckersasc.com/infection-control-e-weeklies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's ASC",
-        "domain": "beckersasc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: IT World Canada
@@ -27,47 +27,89 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Religion, Faith, And Creativity In The Age Of AI"
-    excerpt: "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?"
-    publishedDateTime: 2021-08-02T20:08:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
+  - title: "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment"
+    excerpt: "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,"
+    publishedDateTime: 2021-08-03T15:00:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 72
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666"
-        width: 750
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Use of Artificial Intelligence and Machine Learning in NASA"
+    excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
+    publishedDateTime: 2021-08-05T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-and-machine-learning-in-nasa/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
+        width: 900
         height: 500
         isCached: true
-  - title: "The future of chip design – AI creating AI?"
-    excerpt: "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?"
-    publishedDateTime: 2021-08-05T08:30:00Z
-    webUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai"
+  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
+    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
+    publishedDateTime: 2021-08-05T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
     type: article
     provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 54
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
     images:
-      - url: "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg"
-        width: 360
-        height: 240
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "The rise of artificial intelligence in society"
-    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
-    publishedDateTime: 2021-08-03T09:03:00Z
-    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
-    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
-    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
+    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
+    publishedDateTime: 2021-08-06T00:43:00Z
+    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
+    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
     type: article
     provider:
-      name: Australian Times
-      domain: australiantimes.co.uk
-    quality: 41
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
+    excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."
+    publishedDateTime: 2021-08-03T09:32:00Z
+    webUrl: "https://internetretailing.net/guest-comment/guest-comment-intelligent-automation-and-organic-search---preserving-your-brand-in-the-ai-era"
+    type: article
+    provider:
+      name: InternetRetailing
+      domain: internetretailing.net
+    quality: 26
+    images:
+      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/036/Fotolia_211596980_Subscription_Monthly_M_Cropped_Thumb.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
+    excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
+    publishedDateTime: 2021-08-05T10:30:00Z
+    webUrl: "https://www.mondaq.com/canada/copyright/1099292/copyright-act-consultation-to-address-artificial-intelligence-and-the-internet-of-things-"
+    type: article
+    provider:
+      name: Mondaq
+      domain: mondaq.com
+    quality: 24
+    images:
+      - url: "https://www.mondaq.com/images/Mondaq_Share.jpg"
+        width: 552
+        height: 289
+        isCached: true
 
 secured: "kd6hB9F0GHKoLzNEYtSRhVQ9VCvuQ0fkLmXgn64X7RU24NP8E6wBInv+jYwBHOSrSM4WqzNIb02en5ZABSgV8SVE98FMS0zLkzuErSxIuPrqyugCuN9GJ/UB5/mnBNlzfGMprlvSP1s7+CxXCa6PfoYBSoFietX+xYQ2RSotnbCl0JwExNK0G78L/ksasvnVb8BQh/pfcYE8QOPKaoQvqGMeg60fsxUKyFi7ptcwJ6pCZlsqgWJd1m0zliSEIG11WRdS0wJDhi7iBRPs0gAgG4LIN+IzHKplIx18zNvGCLgZD/McQhMr2GTzRjw794N/leZY9/GrRfg6DFLQVg02hQ94Xir17J0g5q1wpae7s3EH3MwgTHze4fKilFVGFwnjPNxfV4gmikUDBBGSCuTO2hLHmLj+JDB25n0BhFEWKbLQFKWMPBzNqtsZEULQcwmOTtj/0VHGpI2DaEhVRK2wSil0STPjWYR5RdyhK119JCMNhfDOpJAI6lROwi2MCk08w/0Y1vu8tJ+Z1RzUjZmwcw==;NjrgrqjH/66ODgO54AxEFQ=="
 ---

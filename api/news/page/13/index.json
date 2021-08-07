@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-26-bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor.md",
+      "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
+      "excerpt": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn’t behave the same way as it did during the training phase. This concept is generally called data drift",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg",
+          "width": 785,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T14:37:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-device42-launches-ai-recommendation-engine-for-cloud-usage.md",
       "title": "Device42 launches AI recommendation engine for cloud usage",
       "excerpt": "Device42, a cloud management and discoverability platform, launched an AI-powered engine that can cut cloud resource usage and costs.",
@@ -1104,58 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-galaxy-s10-5g-update-reportedly-breaks-face-recognition.md",
-      "title": "Galaxy S10 5G update reportedly breaks face recognition",
-      "excerpt": "Samsung has been making good in its promise to roll out Android updates more regularly, even if a bit belatedly. Part of that involves improving its process for integrating and testing those",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "originalUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/samsung-galaxy-s10-sg-30.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/galaxy-s10-5g-update-reportedly-breaks-face-recognition-26684006/amp/",
-      "publishedDateTime": "2021-07-25T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

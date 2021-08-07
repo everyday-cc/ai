@@ -26,35 +26,90 @@ images:
     isCached: true
 
 related:
-  - title: "AI Consulting firm Affine’s DeepTech accelerator program goes live"
-    excerpt: "The program will provide hands-on assistance to start-ups to improve their products and solutions, mentoring start-ups in the emerging and exciting areas of Industry4.0, IIoT, Gaming & Entertainment,"
-    publishedDateTime: 2021-08-03T11:09:00Z
-    webUrl: "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/"
-    ampWebUrl: "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/"
+  - title: "The Integration of AI, Machine Learning and Modern Threat Management"
+    excerpt: "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,"
+    publishedDateTime: 2021-08-05T18:10:00Z
+    webUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734"
+    ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg"
-        width: 850
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg"
+        width: 1910
+        height: 748
+        isCached: true
+  - title: "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment"
+    excerpt: "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,"
+    publishedDateTime: 2021-08-03T15:00:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 72
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Use of Artificial Intelligence and Machine Learning in NASA"
+    excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
+    publishedDateTime: 2021-08-05T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-and-machine-learning-in-nasa/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
+    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
+    publishedDateTime: 2021-08-06T00:43:00Z
+    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
+    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
+    excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."
+    publishedDateTime: 2021-08-03T09:32:00Z
+    webUrl: "https://internetretailing.net/guest-comment/guest-comment-intelligent-automation-and-organic-search---preserving-your-brand-in-the-ai-era"
+    type: article
+    provider:
+      name: InternetRetailing
+      domain: internetretailing.net
+    quality: 26
+    images:
+      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/036/Fotolia_211596980_Subscription_Monthly_M_Cropped_Thumb.jpg"
+        width: 600
         height: 400
         isCached: true
-  - title: "AI accelerator programme helps tech start-ups raise £6.3m"
-    excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
-    publishedDateTime: 2021-08-05T09:25:00Z
-    webUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
+  - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
+    excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
+    publishedDateTime: 2021-08-05T10:30:00Z
+    webUrl: "https://www.mondaq.com/canada/copyright/1099292/copyright-act-consultation-to-address-artificial-intelligence-and-the-internet-of-things-"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 37
+      name: Mondaq
+      domain: mondaq.com
+    quality: 24
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff4f83270-f578-11eb-8f01-2c678acbb979.jpg?crop=3374%2C1898%2C70%2C105&resize=685"
-        width: 685
-        height: 385
+      - url: "https://www.mondaq.com/images/Mondaq_Share.jpg"
+        width: 552
+        height: 289
         isCached: true
 
 secured: "+0EhrDjvm0ZR2dNwrCLir2VfOGwH59Erii52nwkHSMpvn88fFlAZT2TgX6R2taTmOGu5XOm7Lex0Ez6FeoWA1r9QX1IY9x4s4WbMORoQQfUhZs4QjqX3StD7Ei2FwPvvfO+rjDIATrH5fQFs6ey8qleIbJalTD1ujlG/7j9VtY06yWQheEj6KU3Qx5TNEKSSZn2npg7tO1ggb7Cr/SCNt+33ogty4vgs5Ta3eTyv+F2sK21VeojRYqz6Xm6qSYWb43sYj/RMfU+M8HObPfrrX09S3oS5VXqBEUYjQhK7Vexd0Xl7NsP+wQ6dhDf0BI6ZRnjCKWVsc2MgS3VsmLPPPAP202Ju/kLwQgb5zX3g9eu572r6SxCD8EYtwkLPG+h/e27zRAU4qwRJIB5aWMemRg3vSPQDNz2K2RTrw4p0H5k8d6nV2nwfVldHrIS2a+whrlqoyQAL6sKlmBzEalcEuGhLN42POyd8JFAdJ7GUZvkYlcHfn1AfYb/J3J2bZZDM1m4OHRkaZWVK7LL42eYKFQ==;7AHQyq5PxCF04lMlJK5b5A=="

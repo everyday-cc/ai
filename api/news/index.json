@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-07-duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai.md",
+      "title": "Duke University Athena named one of 11 new NSF institutes focused on AI",
+      "excerpt": "The Duke University Athena program, supported by the National Science Foundation and the Department of Homeland security, is underway, backed by splitting $220 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/",
+      "originalUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/10/artificial-intelligence-4417279_1280-e1603452859912-1024x575.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1",
+      "publishedDateTime": "2021-08-07T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
       "title": "Pilot on the AI-driven ‘financial back office’",
       "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -61,7 +104,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -315,8 +358,8 @@
       "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
       "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos4",
-      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos4",
+      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -370,7 +413,7 @@
       "originalUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -466,7 +509,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/06/meet-the-ai-research-pioneer-who-wants-to-redefine-progress/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1094,6 +1137,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-the-integration-of-ai-machine-learning-and-modern-threat-management.md",
+      "title": "The Integration of AI, Machine Learning and Modern Threat Management",
+      "excerpt": "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "originalUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg",
+          "width": 1910,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "publishedDateTime": "2021-08-05T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls.md",
       "title": "Facial recognition-based boarding system under trial in 6 airports: Govt to LS",
       "excerpt": "Centre also informed that Airports Authority of India (AAI) plans to invest around ₹25,000 crore in next 4-5 years for expansion and development of existing and new terminals, using modern technology",
@@ -1133,109 +1219,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
-      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
-      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "publishedDateTime": "2021-08-05T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
-      "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
-      "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
-      "originalUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Li-Auto-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
-      "publishedDateTime": "2021-08-05T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

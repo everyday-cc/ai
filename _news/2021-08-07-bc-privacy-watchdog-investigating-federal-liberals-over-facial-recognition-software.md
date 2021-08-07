@@ -43,22 +43,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Police trial body cameras with facial recognition technology to catch suspects"
-    excerpt: "Privacy fears as forces test new gear equipped with artificial intelligence to help identify possible criminals or find missing people"
-    publishedDateTime: 2021-08-02T20:00:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2021/08/02/police-trial-body-cameras-facial-recognition-technology-catch/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 55
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2021/08/02/TELEMMGLPICT000197244899_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg"
-        width: 2500
-        height: 1563
-        isCached: true
   - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
     excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
     publishedDateTime: 2021-08-06T17:13:00Z

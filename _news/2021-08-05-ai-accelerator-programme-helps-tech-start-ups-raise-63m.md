@@ -40,20 +40,6 @@ related:
         width: 850
         height: 400
         isCached: true
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Bnrys3SP0KDbtmW9hE2IiVBhz/X0ZHFCVfyZJf9cBD4fqaGRPcDry53wh1DnQX5cDAveQNY3G88CNbMHAF/uCsXAgtUx98lW6unY2RjfVPqNJ6fLT1xMyvTwGRsgEq8iyQ4xn09Oxkzn1TDufw+IBViQs2Slp4m7E1Bi1qa5HEXSZ5y1ni3AlIBdvPt1EpFGmXSDEqM5TXo0bzsuRgJS62dfXk4z7/OzwcJ4NDgygUQqA+74ax2W5l08AOEOx0B+lru408wmTUDMVjgu7DAKC3dmfy8xh8YuW3ffHehzkMJIRMF1FbsMmpTSSOw4hn2ftXJF0REMiLOaKxlyGB/KAYdIhuGmmP4UQxEpFv48CV4=;mPhAbSnu7yBD2LbM8jimwg=="
 ---

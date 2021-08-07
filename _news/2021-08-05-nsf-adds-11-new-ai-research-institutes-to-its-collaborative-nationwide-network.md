@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Duke University Athena named one of 11 new NSF institutes focused on AI"
+    excerpt: "The Duke University Athena program, supported by the National Science Foundation and the Department of Homeland security, is underway, backed by splitting $220 million."
+    publishedDateTime: 2021-08-07T11:55:00Z
+    webUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/10/artificial-intelligence-4417279_1280-e1603452859912-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "NSF and NIFA invest $220M in artificial intelligence research"
     excerpt: "USDA’s National Institute of Food and Agriculture and the U.S. National Science Foundation have announced a $220 million investment in 11 new Artificial Intelligence Research Institutes that will be led by NSF."
     publishedDateTime: 2021-08-04T12:04:00Z

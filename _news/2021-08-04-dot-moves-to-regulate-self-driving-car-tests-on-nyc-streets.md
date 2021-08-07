@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Self-driving startup Argo AI locks down key permit needed for robotaxis in California"
-    excerpt: "The company may now offer autonomous vehicle rides as long as it has human safety operators in control of its vehicles."
-    publishedDateTime: 2021-08-02T20:52:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-startup-argo-ai-locks-down-key-permit-needed-robotaxis-california"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 49
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/ARGO2-01_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
     excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
     publishedDateTime: 2021-08-03T18:54:00Z

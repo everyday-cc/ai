@@ -2,6 +2,40 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-07-13-informatica-expands-cloud-footprint-on-microsoft-azure-germany.md",
+      "title": "Informatica Expands Cloud Footprint on Microsoft Azure Germany",
+      "excerpt": "New Intelligent Data Management Cloud on Azure Bolsters Cloud Momentum in the European region FRANKFURT, Germany,  /PRNewswire/ -- Informatica, the enterprise cloud data management leader, today announced it will make its Intelligent Data Management Cloud (IDMC),",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-informatica-expands-cloud-footprint-microsoft-azure-germany-/2021/07/13/9407196.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-sk-ecoplant-develops-eco-friendly-ai-powered-incinerator-solution-using-aws.md",
       "title": "SK ecoplant Develops Eco-friendly AI-powered Incinerator Solution Using AWS",
       "excerpt": "SK ecoplant, the plant engineering and construction arm of SK Group, announced that it will build an artificial intelligence (AI) incinerator solution, using Am",
@@ -1109,49 +1143,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-the-technology-202-sen-warren-calls-for-federal-probe-of-mask-sales-on-amazon.md",
-      "title": "The Technology 202: Sen. Warren calls for federal probe of mask sales on Amazon",
-      "excerpt": "The senator’s letter highlights mounting federal ... style antitrust framework to all sections of the American economy,” Carl Szabo, vice president and general counsel of NetChoice, said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/07/12/technology-202-sen-warren-calls-federal-probe-mask-sales-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

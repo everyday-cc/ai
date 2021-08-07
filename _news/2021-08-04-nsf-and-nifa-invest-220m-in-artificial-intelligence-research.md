@@ -7,7 +7,7 @@ originalUrl: "https://www.agri-pulse.com/articles/16265-nsf-and-nifa-invest-220m
 webUrl: "https://www.agri-pulse.com/articles/16265-nsf-and-nifa-invest-220m-in-artificial-intelligence-research"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Duke University Athena named one of 11 new NSF institutes focused on AI"
+    excerpt: "The Duke University Athena program, supported by the National Science Foundation and the Department of Homeland security, is underway, backed by splitting $220 million."
+    publishedDateTime: 2021-08-07T11:55:00Z
+    webUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/"
+    ampWebUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/10/artificial-intelligence-4417279_1280-e1603452859912-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "NSF Adds 11 New AI Research Institutes to Its Collaborative, Nationwide Network"
     excerpt: "The National Science Foundation officially extended the reach of its National Artificial Intelligence Research Institutes across more of the United States. On the heels of funding seven institutes in 2020,"
     publishedDateTime: 2021-08-04T20:00:00Z

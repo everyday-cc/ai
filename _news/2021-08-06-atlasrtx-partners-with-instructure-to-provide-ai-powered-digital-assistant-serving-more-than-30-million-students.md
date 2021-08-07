@@ -28,14 +28,14 @@ related:
   - title: "AtlasRTX Partners with Instructure to Provide AI-Powered Digital Assistant, Serving More than 30 Million Students"
     excerpt: "AtlasRTX™ (  a leading AI-powered digital assistant SaaS solution building sophisticated real-time experiences, announced today a successful partnership with Instructure (  a leading global education technology company supporting more than 30 million students,"
     publishedDateTime: 2021-08-04T12:02:00Z
-    webUrl: "https://www.bakersfield.com/ap/news/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million/article_3d08a176-3665-5066-aa1f-5105731793da.html"
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million/article_9159fb87-5ffd-5a66-94fe-bb2eadd02c16.html"
     type: article
     provider:
-      name: The Bakersfield Californian
-      domain: bakersfield.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 18
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/d/32/d324b085-a6fb-552a-8ecd-47c123eb558b/610a895bf2654.image.jpg?resize=822%2C630"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/60/f6025337-4588-5934-89a8-146abab2ab41/610a8598059f8.image.jpg?resize=822%2C630"
         width: 822
         height: 630
         isCached: true

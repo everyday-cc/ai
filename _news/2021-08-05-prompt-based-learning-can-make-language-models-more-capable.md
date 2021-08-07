@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-la
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:
