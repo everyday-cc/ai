@@ -35,6 +35,22 @@ related:
         width: 705
         height: 419
         isCached: true
+  - title: "Doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T14:18:00Z
+    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
+        width: 700
+        height: 464
+        isCached: true
   - title: "Ampere Computing Buys An AI Inference Performance Leap"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-08-03T18:26:00Z

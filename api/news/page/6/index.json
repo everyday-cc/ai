@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-02-a-parasite-is-turning-cicadas-into-mind-controlled-sex-zombies.md",
+      "title": "A parasite is turning cicadas into mind-controlled ‘sex zombies’",
+      "excerpt": "Don't Miss: Today’s top deals: Exclusive deals for Prime members only, $6 car detailing tool, $200 off MacBook Pro, $73 robot vacuum, more The actions of the fungus are like something straight ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
+      "originalUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2020/07/c809caf4-b90c-4bc9-88b3-461a0e29bf8d.jpg?quality=70&strip=all",
+          "width": 826,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-csras-cloud-migration-experience-moving-mission-critical-applications-to-aws-govcloud-us.md",
       "title": "CSRA's Cloud Migration Experience: Moving Mission-Critical Applications to AWS GovCloud (US)",
       "excerpt": "\"We were given a very aggressive timeline of just four months to get everything up and running,\" Bergen says. \"During that time we had to go from having nothing to having all of our applications replicated so we could support our 15,000 employees.",
@@ -1129,50 +1172,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
-      "title": "Facebook open-sources Droidlet robotics development platform",
-      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

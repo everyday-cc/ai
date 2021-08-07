@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ADU Prepares Its Students For The Future Of Artificial Intelligence"
-    excerpt: "The College of Engineering at Abu Dhabi University (ADU), the largest college of its kind in the UAE, is preparing its engineering students for the chal"
-    publishedDateTime: 2021-08-02T09:00:00Z
-    webUrl: "https://www.albawaba.com/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 63
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/Photo%202.jpeg?itok=960EgyHy"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Pentagon developing Minority Report-style AI to predict future and see ‘days in advance’"
     excerpt: "THE Pentagon has been developing Minority Report-style Artificial Intelligence to allow it to see threats days in advance. US military commanders have been carrying out futuristic experiments that"
     publishedDateTime: 2021-08-02T11:19:00Z

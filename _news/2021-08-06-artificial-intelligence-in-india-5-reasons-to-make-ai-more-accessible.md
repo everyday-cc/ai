@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "Honor teases Magic 3 series, will feature various AI technologies"
-    excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
-    publishedDateTime: 2021-08-02T07:32:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/honor-magic-3-render.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Using generalization techniques to make AI systems more versatile"
     excerpt: "A group at DeepMind called the Open-Ended Learning Team has developed a new way to train AI systems to play games. Instead of exposing it to millions of prior games, as is done with other game playing AI systems,"
     publishedDateTime: 2021-08-02T14:43:00Z

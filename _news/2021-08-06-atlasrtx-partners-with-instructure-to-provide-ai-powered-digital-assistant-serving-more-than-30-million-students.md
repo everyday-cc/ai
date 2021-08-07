@@ -1,25 +1,25 @@
 ---
 category: news
 title: "AtlasRTX Partners with Instructure to Provide AI-Powered Digital Assistant, Serving More than 30 Million Students"
-excerpt: "PARK CITY, Utah– AtlasRTX™ ( a leading AI-powered digital assistant SaaS solution building sophisticated real-time experiences, announced today a successful ... Read more"
-publishedDateTime: 2021-08-05T23:11:00Z
-originalUrl: "https://www.ecampusnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
-webUrl: "https://www.ecampusnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
+excerpt: "PARK CITY, Utah– AtlasRTX™ ( a leading AI-powered digital assistant SaaS solution building sophisticated real-time experiences, announced today a successful"
+publishedDateTime: 2021-08-05T23:10:00Z
+originalUrl: "https://www.eschoolnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
+webUrl: "https://www.eschoolnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: ecampusnews.com
-  domain: ecampusnews.com
+  name: eSchool News
+  domain: eschoolnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.ecampusnews.com/files/2021/08/AtlasRTX-Instructure.jpg"
+  - url: "https://www.eschoolnews.com/files/2021/08/AtlasRTX-Instructure.jpg"
     width: 599
     height: 456
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "xyCMr8TIKTPyYxE6ZtrcCPy35/Vho8GDUIKqflkf9x552MY0KpWEe/Qmyi0MYtvH7U262/xdgdH8uAoqXe9QZyEaDMBb+7wb4o83p9qwHC8p+tM8G88HxWJULEjUAGqmIp1fOf4xcmJaNCIHL/wHQ/2w+YYerTKmBYNxgay0+VQI+ifpulkzIIxFMVWl9j5vTtPivNAIOWTE+Y9C0dvnKFK3bP3IaaCuhy1ukZszstWqM3WjPJywz6Acv7bFVRA0BO57sXCXsGQCFvA3bEDglReydOYTkjupWrh3iIJe8V2sb99qm7yuNS05sOfeg6ICd/ZHlFRv6alRWEe9yV8ISRb72UhOxfy1E0KbDV7BaWt0y/bbHq//p2SUYsz5B5Vvyv2kkAW9AJhekapuyD1ydf22QxPivgTsIwHLnULPFH+ZoV17DLzbhDAGpXCCB0GvaD2WyXtcUPsnxDqe0Su9Bgu+C2TnvA1MNeN+VE6XnN72AXCrMbt8WSFTMOqT3bUnKijnDQYstBocs6Zm66/x+w==;h4okwKiMLLc0d+gfox89Yw=="
+secured: "T9gUtDmRDX8XleFeuO2jWI0l9P6+SS8H/UlsnRyl7xvMWKHLV/dI6eZX6ghiGJ80wC81dspLEcEMEh6QtdjMEwxBr3T8GyYnz4jvpSsH3Eq2BENvr1xbP1BIWRiJusLL9dEsA3n/GbBgZvOY1Y4Kn1jFC/Ic08U/weU2ewejkj4Ua33JtY0byLv9ySfE48djgiQN25JwxG731aL1CYMBjgivQ881aNudYWMk5jYqK756snsn1Tm0gbVF/hC9xx5hAv5or7FK+lQYgTs/GXQVSOhHUnUf0m5OAZu84Z2IsShtY+oEM/qvbZNeRqqgWuTWBOJ1CSROMd5zB9O18VZyaG8DSF3JX8Mn4+K+WQLN5wg=;hZpQCkokxL6Eyg0PHDZraw=="
 ---
 

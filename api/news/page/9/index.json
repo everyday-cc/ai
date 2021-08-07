@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
+      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
+      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "originalUrl": "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T17:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-artificial-intelligence-learns-better-when-distracted.md",
       "title": "Artificial Intelligence learns better when distracted",
       "excerpt": "Computer scientists from the Netherlands and Spain have determined how a deep learning system well suited for image recognition learns to recognize its surroundings. They were able to simplify the learning process by forcing the system's focus toward secondary characteristics.",
@@ -1136,58 +1170,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-in-computer-vision-market-trends-and-forecast-2028.md",
-      "title": "AI in Computer Vision Market Trends and Forecast 2028",
-      "excerpt": "The Global AI in Computer Vision Market is estimated to value over USD 72.5 billion by 2028 finish at a CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-trends-and-forecast-2028-2021-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

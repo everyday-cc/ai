@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-06T13:00:00Z
 originalUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
 webUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
 type: article
-quality: 79
+quality: 81
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f"

@@ -2,6 +2,59 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
+      "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
+      "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
+      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg",
+          "width": 1200,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
+      "publishedDateTime": "2021-07-29T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
       "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
       "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
@@ -580,59 +633,6 @@
       ]
     },
     {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-honeypot-security-technique-can-also-stop-attacks-in-natural-language-processing.md",
       "title": "Honeypot security technique can also stop attacks in natural language processing",
       "excerpt": "As online fake news detectors and spam filters become more sophisticated, so do attackers' methods to trick them—including attacks through the \"universal trigger.\" In this learning-based method, an attacker uses a phrase or set of words to fool an indefinite number of inputs.",
@@ -963,6 +963,41 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
+      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
+      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-a-mid-year-tour-of-ai-in-2021-and-what-it-means-for-communications-pros.md",
       "title": "A Mid-Year Tour Of AI In 2021 — And What It Means For Communications Pros",
       "excerpt": "The AI industry is evolving quickly, and capturing an accurate snapshot of it at any given time is critical. Experts conduct surveys and research each year to evaluate the current priorities and challenges,",
@@ -1114,40 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
-      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
-      "excerpt": "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "originalUrl": "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T17:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

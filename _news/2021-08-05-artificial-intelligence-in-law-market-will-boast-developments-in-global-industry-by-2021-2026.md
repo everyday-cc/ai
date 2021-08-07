@@ -1,30 +1,38 @@
 ---
 category: news
-title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-publishedDateTime: 2021-08-03T15:25:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
-webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
+excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
+publishedDateTime: 2021-08-05T16:03:00Z
+originalUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
+webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
 type: article
-quality: 64
-heat: 134
-published: true
+quality: 8
+heat: -1
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: manometcurrent.com
+  domain: manometcurrent.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
-    width: 1536
-    height: 804
-    isCached: true
-
 related:
+  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
+    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
+    publishedDateTime: 2021-08-03T15:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 64
+    images:
+      - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
+        width: 1536
+        height: 804
+        isCached: true
   - title: "Artificial Intelligence(AI) in Healthcare Market"
     excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
     publishedDateTime: 2021-08-06T13:49:00Z
@@ -94,16 +102,7 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 17
-  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-08-05T16:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
 
-secured: "Mt9mttl3zWz0RsW//s9uqIv/SZIDIOiFMwNvbD7aYnLORbJl/UqK0XGj+feWJZQLRBL3khDgtXz0QEoOTPVv6FtDcGu6I+Dvr78nvMRQwAWrHXTlVz+datoXRguQPrgqyeEC814h/YawVWlBCavtIO5JZOY/6bVlCU/KL5xZQqH1yPV8OB5sOa1yqLj//s4gJ9FG7GQg3A5/WJYNbFcfdIdJoQH1nyeVSBWi68Wc3c+uar6GIkOHPb+QxzE5yI00Vg5+NFtx0nm8d+1VG2hMOeLShxlrxv4n6WcrknNSFI5e0/URnkZid+8OACHGpWNhvZJjuyNEsIDKb8SdqTcovcjjf+Y9OeWu6MfZWGQvuKyI/LbXzOyUgRGgMe+NDqYTuZXBG6jD6+QfkmqmcjQwEuye2MUxhogOL+KmqJAxyjOB08ALF4K/iR91OEeUqE4vxYSLYy0jRJqEHbm1j2Rca6CsQM8UAI3uBCl/xHPBYrn5F+x2vFRR51VHpKB3k4xv4bvX6JQaauoAwapzCUAX1w==;K75SCKev5IViSMIEgg985g=="
+secured: "9fmD34OrAF1t2Ge8kOP+CDogq34uvF9q0SRfeQqioecpX+BKYOVPQKbRmFpWg/eQFtLQJgq1TQ8cttCYIneIAjhd4T4dhHWpR7Or4EHFY4UPRGD+s56r96Wg9c4ixaCS6sJ41L0b/Sxv9KLuFzZVNnlUzIVCQTOhB9aaQD0CZ7wSMujdNiGh2F/rVvbvMHjfr1/rXLgQceMcd42CKy77zxXSPuvyMP67XHFJDiSS4S+Nm+UNVh933qMBD5wCxdve8mV5uweZ/kgug42bO66LGnROpAcgficCccqjDBIDCIh0oHwaoLCfaHeEm9K5f4tRaMzVZiaxgIlld5hAg8Z/tx8O9h64AKspmJwo+U6qR2U=;IsRN1o+oFXq0qdBDRUE1uw=="
 ---
 

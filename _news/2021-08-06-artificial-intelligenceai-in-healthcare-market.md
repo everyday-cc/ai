@@ -93,6 +93,15 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 17
+  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-08-05T16:03:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 8
 
 secured: "6F/7wrbuVjF71YoBJ6sQjOhLV1CsjH5IKBCAZBdP8if2KhKbfd+bBDB+2H+MP9Fwqnr2YkCzzdIgkRQKDwZ3DEH/GDCIqgHGf9K1C9JDh8lHiygQobq5HWoOUgPbqMMLb/yxG0/D2XRbYqAjP09v40SZybOH9A8HMxLgqPJpi81fJRLkSR7ueBrscM8mgzWOGhRvQXpiIvhV13xKOc2i0GQ5UYACS41NO7XWLvShlCOOn3xZMsXSD5dEyRhr6dRV5b1Pt5ZkHTQbTA+tK/lFg7IAhLmqGsovSXPESqURPDeTpHaEIBLi08CzVwR/f5fuBoVyPKq3fsRem0Hunl8ngf0Aq7sLAmifZ5IfIMufIRw=;1W2PE1fVY7blFTMxdEjkBA=="
 ---

@@ -56,22 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "ADU Prepares Its Students For The Future Of Artificial Intelligence"
-    excerpt: "The College of Engineering at Abu Dhabi University (ADU), the largest college of its kind in the UAE, is preparing its engineering students for the chal"
-    publishedDateTime: 2021-08-02T09:00:00Z
-    webUrl: "https://www.albawaba.com/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/adu-prepares-its-students-future-artificial-intelligence-1440815"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 63
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/Photo%202.jpeg?itok=960EgyHy"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "m5+sOl9aPdoF8kP/8ZLoDHAAnUS8/y2Augu8R7m3KqDuB+Sbz5oZUZ1HiE9fudnHUJN0Elv3RIythn7isq+7YKEsYCy7L8SLY5mV9VeVq3OpfEaMJVbt2j/GgKtqRTJC064Du0ojY1WdZVz8NjIkyuEUq5AqzIB3QHGAjSWf8ArxxbmO2n69x0HW3D5dwAF0/LcJVcBo/Qh/tcJD+d9hzREjbBRGJk9JHBdYbqB2WaGK0nXR/8DZqmfbhnl6siIqcG5TOkgb4y+ioYvyKIezgD/rnWX4BU7YScrj8XZG14+1c8sawU+6GAXAFnMul2BlH5gkKmtIlq2WOnqEBPKeDYUfTPrEd/BxXCd+4MVSseNEdSD5LIL3Br8qaRm4rjyeIs/Lwou/BgrWkCrgbXvJb1GsW06BWoBY9TVGUADLaC9J1nWjaghh04aUhxsWS3sPRPHmXyK2rG9LL0oze9gQopoLHOoZaBP1C4496Ex5+0ipZBM4YdM9gC4BmkkOwixsHFa3bufMubEsBdVe9/SP0A==;qgUThhnuA8DO2H17b4FqbQ=="
 ---

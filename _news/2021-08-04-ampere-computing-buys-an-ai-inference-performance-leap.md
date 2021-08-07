@@ -41,6 +41,22 @@ related:
         width: 705
         height: 419
         isCached: true
+  - title: "Doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T14:18:00Z
+    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
+        width: 700
+        height: 464
+        isCached: true
   - title: "Healthcare Providers Discover the Difference with Currance Rev-Cycle Yield Performance Solutions"
     excerpt: "Currance, a leading healthcare revenue cycle industry innovator, announces the launch of Rev-Cycle Yield SM Performance Solutions designed to enable healthcare providers to achieve and sustain a 2 to 6 percent earned revenue improvement."
     publishedDateTime: 2021-08-03T17:06:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "Honor teases Magic 3 series, will feature various AI technologies"
-    excerpt: "Honor has released another teaser of its new Magic 3 series of smartphones. The company’s CEO has just recently participated in an upcoming conference regarding new technologies with one of the highlighting topics being about the AI technologies that will arrive with the Magic 3 series."
-    publishedDateTime: 2021-08-02T07:32:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/02/honor-tease-magic-3-feature-ai-technologies/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 67
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/07/honor-magic-3-render.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible"
     excerpt: "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life."
     publishedDateTime: 2021-08-06T09:00:00Z

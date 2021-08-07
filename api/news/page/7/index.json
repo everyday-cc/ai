@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-07-30-facebook-open-sources-droidlet-robotics-development-platform.md",
+      "title": "Facebook open-sources Droidlet robotics development platform",
+      "excerpt": "Facebook researchers wrote in a blog today that Droidlet ... but we believe that by sharing our research work with the AI community, all of us will get there faster.” You can read more about Droidlet here or check out the platform’s GitHub page.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
+      "originalUrl": "https://www.therobotreport.com/facebook-open-sources-droidlet-robotics-development-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/facebook-droidlet-platform.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-how-to-approach-ai-more-responsibly-according-to-a-top-ai-ethicist.md",
       "title": "How to approach AI more responsibly, according to a top AI ethicist",
       "excerpt": "A conversation with DataRobot's Haniyeh Mahmoudian, a winner of VentureBeat’s Women in AI responsibility and ethics award.",
@@ -1140,59 +1184,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
-      "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
-      "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6102ef37f481281f327c9112%2F0x0.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/07/29/human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai/amp/",
-      "publishedDateTime": "2021-07-29T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
       ]
     }
   ],

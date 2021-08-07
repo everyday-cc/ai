@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "AtlasRTX Partners with Instructure to Provide AI-Powered Digital Assistant, Serving More than 30 Million Students"
-    excerpt: "PARK CITY, Utah– AtlasRTX™ ( a leading AI-powered digital assistant SaaS solution building sophisticated real-time experiences, announced today a successful ... Read more"
-    publishedDateTime: 2021-08-05T23:11:00Z
-    webUrl: "https://www.ecampusnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
+    excerpt: "PARK CITY, Utah– AtlasRTX™ ( a leading AI-powered digital assistant SaaS solution building sophisticated real-time experiences, announced today a successful"
+    publishedDateTime: 2021-08-05T23:10:00Z
+    webUrl: "https://www.eschoolnews.com/2021/08/05/atlasrtx-partners-with-instructure-to-provide-ai-powered-digital-assistant-serving-more-than-30-million-students/"
     type: article
     provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
+      name: eSchool News
+      domain: eschoolnews.com
     quality: 18
     images:
-      - url: "https://www.ecampusnews.com/files/2021/08/AtlasRTX-Instructure.jpg"
+      - url: "https://www.eschoolnews.com/files/2021/08/AtlasRTX-Instructure.jpg"
         width: 599
         height: 456
         isCached: true
