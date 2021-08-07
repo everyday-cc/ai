@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2021/08/idea-2156-1120.jpg"
         width: 2156
         height: 1120
-        isCached: true
-  - title: "Federal Court rules AI can be 'inventor'"
-    excerpt: "A Federal Court judge has ruled that artificial intelligence (AI) systems can be inventors of patentable inventions in a landmark case. Justice Jonathon Beach handed down his ruling on Friday, saying an inventor could legally be an AI system,"
-    publishedDateTime: 2021-08-02T13:37:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/federal-court-rules-ai-can-be--inventor.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ai%20inventor.jpg"
-        width: 648
-        height: 365
         isCached: true
 
 secured: "Y26rbw+wPDE1am55083tewL5l5ujIGN8xJNH8xlI+YG2UzHh0St6bt+khfflxOer21xjIrboru66bI0SNMGx2GiSo73s/9LNFPr9PMNymvHcM5sImG8sE5A/TfkKPhWrt4K3YTD+xDmE9wHxHZBI4R8iM9LLGXE7gpbIS704thB2aHHDxPU9L3y2JZiNjR0UefLlkoWVetGOFYBK28RBzjgLFKpQQSwKiHhUN1MNcsLACU5gvWJN+3R6JJUHQW/QEY9h5/K/T9Psk4iYzMs3SE7tSV5KUiPee4re3vATXaQLkHDV2PIazQmSO7Pd7PdeEPWYEATXoS2XPFpYnohhz7GKdVNJB/nttgBLzSXD5kY7PL4qe6gLKnrKPYZS+xCsPyEuFlzRdIClNMHdqaVztha6O9jVqJpJNt0lm//0qaiNnt2/L+HY4d1M3j7U1RGNQVkw+9upg4Pld2ra265/bKEeP170r0gX1f1112PJC0UH8B+koffPW0cCQT/Hc1ABA5sIJk6GGW++nInrfMRESA==;/9j5raXYMbzkX1pZYocgFg=="

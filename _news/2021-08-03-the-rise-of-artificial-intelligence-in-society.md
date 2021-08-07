@@ -68,22 +68,6 @@ related:
         width: 360
         height: 240
         isCached: true
-  - title: "Predicting wireless traffic using AI could improve the reliability of future wireless communication"
-    excerpt: "The prediction of future wireless traffic volumes using artificial intelligence (AI) would allow communication systems to automatically adjust network resources to maximize reliability. KAUST researchers have now developed a more accurate \"dual attention\" prediction scheme that minimizes the volume of prediction data that needs to be transferred across the network."
-    publishedDateTime: 2021-08-02T14:14:00Z
-    webUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wireless.jpg"
-        width: 2880
-        height: 2160
-        isCached: true
 
 secured: "avBgc3Cl6drTcLtRAFPx3Z76re36jdWdJCqrt0OaP9ibfiWLjzfpA9zREehqvpT5ShO/4GULMlN20/iGWFGX0A8E9ftXu4qgqRxcpNunWqak6IP4EIeM/7n4nCIQdaio720pGgQ7f5v1j3MhI73PeXaIq6GaaWqR3FcN2w/b+jewn++xWW3LdtfSUAIvRwZucuSrKEW7Vbg/oKwMDye7wW3TnCqOnOYbneOQhujTVp2djktIw8JFDgR3pS4tUd3n3NRPaSIh5Dt21R0UClS+mVEoh0BrHKOesMGthJOcoPJZcEINOcNWRk8PqkEx8/wqrBkj2TjR+NQ6WjNObACzv9d1QB7mHwAEUqmp6qviCnQeA9rVqdssk4e2V2TRT01vmyevkAgHu/fp93o4A2RrwBMGrWBdv6/gWo576uvJbMe2K4qzVWLqNyTeGjQnhJq/ACHh5L6a99EYKoB8PCGP8DKMqpkaeVVow56dkBnDPceIs2OHXWCS7Kca9Nm1bMLrmsc4otTgDlHezo5zY7bjWw==;AArC7p1ZRodqWNYvjLV4yQ=="
 ---

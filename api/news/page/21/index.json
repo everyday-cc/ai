@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-20-dotdata-announces-automated-feature-engineering-on-the-databricks-platform.md",
+      "title": "dotData Announces Automated Feature Engineering On The Databricks Platform",
+      "excerpt": "SAN MATEO, Calif., July 20, 2021 /PRNewswire/ -- dotData, a leader in full-cycle enterprise AI automation solutions, today announced that its award-winning Automated Feature Engineering (AutoFE) technology is now fully integrated with and available on the Databricks Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-why-are-there-so-few-direct-to-consumer-ai-startups.md",
       "title": "Why Are There So Few Direct-To-Consumer AI Startups?",
       "excerpt": "Jensen Huang, CEO of Nvidia, famously said, “Software is eating the world, but AI is going to eat software.” Somehow, most of the events in the artificial intelligence world are still happening behind the scenes.",
@@ -1100,49 +1143,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications.md",
-      "title": "Ultima's IA-Connect enables Microsoft's Power Automate to be used with Legacy Applications",
-      "excerpt": "Cloud specialist and automation provider, Ultima, has today announced it has extended the capabilities of its IA-Connect tool to help… | Technology | Technology | National | Business Growth |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "originalUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/hZVUA1u8omtjKQKsQs6ptdMXaBoLWBvAg3u3WSYR.jpeg?w=940&h=430&fit=crop-49-50&s=7298f6803204db67fcacff60ecba7168",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

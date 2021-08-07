@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/nvidia-offers-hosted-large-scale-processing
 webUrl: "https://thenewstack.io/nvidia-offers-hosted-large-scale-processing-for-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia is tracking more than 8,500 AI startups with $60B in funding"
-    excerpt: "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion."
-    publishedDateTime: 2021-08-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/"
-    ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 191
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "NVIDIA Looks to Lower AI Barrier to Entry"
     excerpt: "The Base Command Platform aims to reduce the cost of training AI models and lowers risks for organizations when prototyping models."
     publishedDateTime: 2021-08-03T15:45:00Z

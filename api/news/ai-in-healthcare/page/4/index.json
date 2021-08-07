@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-06-21-the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade.md",
-      "title": "The Healthcare Artificial Intelligence Market to grow at an invigorating pace in the next decade",
-      "excerpt": "The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Healthcare Artificial Intelligence market, as it emerges from COVID-19 shut down.",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/21/the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade/",
-      "originalUrl": "https://ksusentinel.com/2021/06/21/the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-ping-an-makes-breakthrough-in-artificial-intelligence-driven-drug-research.md",
       "title": "Ping An Makes Breakthrough in Artificial Intelligence-Driven Drug Research",
       "excerpt": "Research by Ping An Healthcare Technology Research Institute and Tsinghua University has led to a promising deep learning framework for drug discovery, announced, Ltd. (hereafter \" Ping An \" or the \"Group\",",

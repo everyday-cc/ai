@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-07-27-google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists.md",
+      "title": "Google testing Duplex feature that adds names to restaurant waitlists",
+      "excerpt": "Google appears to be testing a feature, powered by its Duplex technology, that can add a name to restaurant waitlists over the phone.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "originalUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/google-assistant-duplex.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/google-testing-duplex-feature-that-adds-names-to-restaurant-waitlists/amp/",
+      "publishedDateTime": "2021-07-26T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-poplar-healthcare-has-been-acquired-by-boston-based-artificial-intelligence-company.md",
       "title": "Poplar Healthcare has been acquired by Boston-based artificial intelligence company",
       "excerpt": "Poplar Healthcare provides lab testing services to gastroenterologists, dermatologists, oncologists, urologists and gynecologists across the US.",
@@ -1097,49 +1149,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth.md",
-      "title": "Cloud Focus: Mphasis doubles down on cloud, cognitive services to accelerate growth",
-      "excerpt": "Digital-first strategy The company applies advancements in cognitive and cloud to traditional application and infrastructure services to bring much needed agility, efficiency and cost effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/07/1-553.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/cloud-focus-mphasis-doubles-down-on-cloud-cognitive-services-to-accelerate-growth/2296446/lite/",
-      "publishedDateTime": "2021-07-25T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

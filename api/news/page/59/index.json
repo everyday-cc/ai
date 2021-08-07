@@ -2,6 +2,58 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-06-23-intel-restructures-to-create-units-for-gpu-high-performance-computing.md",
+      "title": "Intel restructures to create units for GPU, high-performance computing",
+      "excerpt": "Intel said it would create two new business units that would focus separately on software and high-performance computing and graphics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
+      "originalUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-tiger-lake-h.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
+      "publishedDateTime": "2021-06-23T02:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-3d-facial-recognitionmarket-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-2020-2025.md",
       "title": "3D Facial RecognitionMarket Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News forecast 2020-2025",
       "excerpt": "Three-dimensional face recognition (3D face recognition) is a modality of facial recognition methods in which the three-dimensional geometry of the human face is used. This report elaborates the market size,",
@@ -1140,41 +1192,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

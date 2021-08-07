@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test"
-    excerpt: "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99."
-    publishedDateTime: 2021-08-02T14:04:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-f9a4dee661c078eee3d827267be39e58"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Idemia’s facial recognition accuracy confirmed as solution maintains top ranking in NIST FRVT"
     excerpt: "Idemia has again taken the number one spot on the National Institute of Standards and Technology's Face Recognition Vendor Test."
     publishedDateTime: 2021-08-03T18:53:00Z

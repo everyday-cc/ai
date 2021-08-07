@@ -55,41 +55,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-06-healthcare-natural-language-processing-nlp-market.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market",
-      "excerpt": "Market is expected to grow at a significant CAGR over the forecast period, owing to rising population focus on staying safe and healthy and investing in healthcare checkup activities, such as medical reasons for regular checkups and opting for insurance coverage,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/",
-      "originalUrl": "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-08-05-the-value-of-natural-language-processing-it-makes-ai-more-human-centric.md",
       "title": "The value of natural language processing? It makes AI more human centric",
       "excerpt": "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience.",
@@ -1409,6 +1374,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-voice-recognition-expands-across-healthcare-and-transportation.md",
+      "title": "Voice Recognition Expands Across Healthcare and Transportation",
+      "excerpt": "Voice recognition has gained momentum within key application areas like digital banking, automotive control, healthcare, and consumer electronics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "originalUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.sourcetoday.com/files/base/ebm/sourcetoday/image/2021/07/Voice_recognition_promo.60c0c0cb43e4c.60fae3addc405.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sourcetoday",
+        "domain": "sourcetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

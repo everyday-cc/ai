@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-i
 webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025"
-    excerpt: "Worldwide AI in Fintech market size is projected to expand at 17.1% CAGR over the analysis timeframe from 2020 to 2025, taking the industry valuation of USD 4779.7 million in 2019 to USD 8984.9 million by the year 2025."
-    publishedDateTime: 2021-08-02T14:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
     excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
     publishedDateTime: 2021-08-04T12:26:00Z

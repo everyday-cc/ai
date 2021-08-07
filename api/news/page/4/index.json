@@ -371,7 +371,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360393/what-a-career-in-ai-has-to-offer-in-the-2020s",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1111,6 +1111,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-ai-consulting-firm-affines-deeptech-accelerator-program-goes-live.md",
+      "title": "AI Consulting firm Affine’s DeepTech accelerator program goes live",
+      "excerpt": "The program will provide hands-on assistance to start-ups to improve their products and solutions, mentoring start-ups in the emerging and exciting areas of Industry4.0, IIoT, Gaming & Entertainment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/",
+      "originalUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/",
+      "publishedDateTime": "2021-08-03T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-upcoming-pixel-6-and-6-pro-will-run-googles-own-ai-focused-tensor-chip.md",
       "title": "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip",
       "excerpt": "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets.",
@@ -1160,50 +1203,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
-      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
-      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

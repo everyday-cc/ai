@@ -7,8 +7,8 @@ originalUrl: "https://manometcurrent.com/healthcare-natural-language-processing-
 webUrl: "https://manometcurrent.com/healthcare-natural-language-processing-nlp-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-microsoft-us-google-us-ibm-us-cerner-us-3m-us-aws/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: manometcurrent.com
@@ -29,15 +29,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 26
-  - title: "Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing (NLP)"
-    publishedDateTime: 2021-08-04T09:54:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4725599-global-and-usa-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 25
 
 secured: "tGZkJUSZ92IZJ9IEDXjSf9K9TQf1pZ66/4NjpG3GpS32E5Jd2R00U2PzbvyxL/JfryldNfXVXa0L2vPI+N/JbHsKl8NfXfwe8N2n3xJ3C30XDgYAZELwQ29UK+jYh4qaQt1DeukOln+BSd+kBjHnDz4ZHU6FOwrjZvzNkQ/2mB8xZc3AvnBpBu1kj4HBS3/fJeQ7WjJxgFLLn5CJhWnHNdjN7lcipTVK/iOYON90n3c+vmXrPhbm9qKubJVde3UeVjM1BkTqarTu0ej8XqrXYS6PqDRcD9JuLQuwRvsvviJ93tRhGMCvmB7b5QN44esgjSpDLy5Nm/cDz4bRC3Up/mEXFdmjY4C8/qHBQ6nsvjM=;rMx1ywRo5jpmN/jAUprYrQ=="
 ---

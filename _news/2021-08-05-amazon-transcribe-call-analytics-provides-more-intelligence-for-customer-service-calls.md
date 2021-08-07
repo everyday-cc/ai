@@ -88,20 +88,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "How and When to Use AI to Augment Traditional Analytics"
-    excerpt: "The cloud has given data practitioners immense power to leverage AI, but it needs to be applied thoughtfully and deliberately."
-    publishedDateTime: 2021-08-02T14:57:00Z
-    webUrl: "https://thenewstack.io/how-and-when-to-use-ai-to-augment-traditional-analytics/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 37
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/07/dd235f55-abstract-6133076_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
     excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
     publishedDateTime: 2021-08-05T19:57:00Z

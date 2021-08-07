@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg"
         width: 360
         height: 240
-        isCached: true
-  - title: "Predicting wireless traffic using AI could improve the reliability of future wireless communication"
-    excerpt: "The prediction of future wireless traffic volumes using artificial intelligence (AI) would allow communication systems to automatically adjust network resources to maximize reliability. KAUST researchers have now developed a more accurate \"dual attention\" prediction scheme that minimizes the volume of prediction data that needs to be transferred across the network."
-    publishedDateTime: 2021-08-02T14:14:00Z
-    webUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-wireless-traffic-ai-reliability-future.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 43
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/wireless.jpg"
-        width: 2880
-        height: 2160
         isCached: true
   - title: "The rise of artificial intelligence in society"
     excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
+      "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
+      "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
+      "originalUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2021/08/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
+      "publishedDateTime": "2021-08-02T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-iit-delhi-sets-up-chair-in-artificial-intelligence.md",
       "title": "IIT Delhi Sets up Chair in Artificial Intelligence",
       "excerpt": "IIT Delhi alumni Rupam Shrivastava and Ajay Singh from the BTech class of 2003 have endowed the “Indu Shrivastava & Serla Singh Chair Professor” in Artificial Intelligence.",
@@ -1119,58 +1162,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-keys-to-personalizing-ai-for-sales.md",
-      "title": "Keys to personalizing AI for sales",
-      "excerpt": "With its broad access to data, AI can create a personalized customer experience at a much greater scale than that of a human sales team.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/enterprise-e1627412579683.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/keys-to-personalizing-ai-for-sales/amp/",
-      "publishedDateTime": "2021-07-30T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

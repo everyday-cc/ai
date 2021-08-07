@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 712
         isCached: true
-  - title: "Using generalization techniques to make AI systems more versatile"
-    excerpt: "A group at DeepMind called the Open-Ended Learning Team has developed a new way to train AI systems to play games. Instead of exposing it to millions of prior games, as is done with other game playing AI systems,"
-    publishedDateTime: 2021-08-02T14:43:00Z
-    webUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-techniques-ai-versatile.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-generalization-t.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "The need to make artificial Intelligence more accessible in India"
     excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"
     publishedDateTime: 2021-08-05T12:31:00Z

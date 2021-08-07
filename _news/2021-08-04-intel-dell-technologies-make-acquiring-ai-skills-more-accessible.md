@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using generalization techniques to make AI systems more versatile"
-    excerpt: "A group at DeepMind called the Open-Ended Learning Team has developed a new way to train AI systems to play games. Instead of exposing it to millions of prior games, as is done with other game playing AI systems,"
-    publishedDateTime: 2021-08-02T14:43:00Z
-    webUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-techniques-ai-versatile.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-techniques-ai-versatile.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-generalization-t.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible"
     excerpt: "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life."
     publishedDateTime: 2021-08-06T09:00:00Z

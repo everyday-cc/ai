@@ -38,6 +38,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI-Guided Selling is Finally Here. What Do Business Leaders Need to Know?"
+    excerpt: "The interest is certainly there — in a recent survey, 97% of sales enablement leaders predicted that artificial intelligence capabilities will be embedded in sales enablement platforms in the next two to three years."
+    publishedDateTime: 2021-08-07T06:35:00Z
+    webUrl: "https://customerthink.com/ai-guided-selling-is-finally-here-what-do-business-leaders-need-to-know/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 36
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/ThinkstockPhotos-511942952-ctmedia.jpg"
+        width: 3608
+        height: 2336
+        isCached: true
 
 secured: "gZGd5TIamVCSbInOYDgdsUeWVd7cCut1o7yriNbgtu9zgkkrQ/t+12SO8euYb7wmQtar4DlZfUKE6tyo360PqoN479UIzItBif5A1qncATxXVOPAKScLLV5e/1aModauT4QXcti5v7MpO1vKVOl7zDcIGF0yg4FZv2SWMMR7wvplfKhFvxjdM/1GigZhPguM6M+InEfwy6ISRy1R5yY098gwjNiZ+/KiYqjxX0S1da+cSwel77KgngDvvmFUYoCKAEJ2D+jNJvYj+WEQKI+dpju04uCnMeCQ/iTt90gt88a9rA9yg/NhnuRL9dzFtTO0fDDjsGxA4SIcXNQfzCbw+iKWywN7AQt8cGpCLpTCzVM=;lx863FMipA6et3hGx0PttQ=="
 ---

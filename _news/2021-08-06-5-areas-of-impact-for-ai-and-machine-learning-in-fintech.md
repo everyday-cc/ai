@@ -26,56 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "At 17.1% CAGR, AI in Fintech Market Size is Expected to Exhibit 8984.9 million USD by 2025"
-    excerpt: "Worldwide AI in Fintech market size is projected to expand at 17.1% CAGR over the analysis timeframe from 2020 to 2025, taking the industry valuation of USD 4779.7 million in 2019 to USD 8984.9 million by the year 2025."
-    publishedDateTime: 2021-08-02T14:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-is-expected-to-exhibit-89849-million-usd-by-2025-2021-08-02"
+  - title: "AI Consulting firm Affine’s DeepTech accelerator program goes live"
+    excerpt: "The program will provide hands-on assistance to start-ups to improve their products and solutions, mentoring start-ups in the emerging and exciting areas of Industry4.0, IIoT, Gaming & Entertainment,"
+    publishedDateTime: 2021-08-03T11:09:00Z
+    webUrl: "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/"
+    ampWebUrl: "https://www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-consulting-firm-affines-deeptech-accelerator-program-goes-live/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Dataquest
+      domain: dqindia.com
     quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/06/deeptech.jpg"
+        width: 850
+        height: 400
         isCached: true
-  - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
-    excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
-    publishedDateTime: 2021-08-04T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
+  - title: "AI accelerator programme helps tech start-ups raise £6.3m"
+    excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
+    publishedDateTime: 2021-08-05T09:25:00Z
+    webUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff4f83270-f578-11eb-8f01-2c678acbb979.jpg?crop=3374%2C1898%2C70%2C105&resize=685"
+        width: 685
+        height: 385
         isCached: true
-  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
-    publishedDateTime: 2021-08-04T12:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
-  - title: "The HD maps for autonomous vehicles market is estimated to be USD 1.4 Billion in 2021 and is projected to grow at a CAGR of 31.7%"
-    excerpt: "With the growing trend of autonomous driving technology, the global HD maps market is expected to grow at a significant rate in the future.The promising market for self-driving car renting ..."
-    publishedDateTime: 2021-08-03T09:16:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22291008/the-hd-maps-for-autonomous-vehicles-market-is-estimated-to-be-usd-1-4-billion-in-2021-and-is-proje"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22291008"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22291008"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "+0EhrDjvm0ZR2dNwrCLir2VfOGwH59Erii52nwkHSMpvn88fFlAZT2TgX6R2taTmOGu5XOm7Lex0Ez6FeoWA1r9QX1IY9x4s4WbMORoQQfUhZs4QjqX3StD7Ei2FwPvvfO+rjDIATrH5fQFs6ey8qleIbJalTD1ujlG/7j9VtY06yWQheEj6KU3Qx5TNEKSSZn2npg7tO1ggb7Cr/SCNt+33ogty4vgs5Ta3eTyv+F2sK21VeojRYqz6Xm6qSYWb43sYj/RMfU+M8HObPfrrX09S3oS5VXqBEUYjQhK7Vexd0Xl7NsP+wQ6dhDf0BI6ZRnjCKWVsc2MgS3VsmLPPPAP202Ju/kLwQgb5zX3g9eu572r6SxCD8EYtwkLPG+h/e27zRAU4qwRJIB5aWMemRg3vSPQDNz2K2RTrw4p0H5k8d6nV2nwfVldHrIS2a+whrlqoyQAL6sKlmBzEalcEuGhLN42POyd8JFAdJ7GUZvkYlcHfn1AfYb/J3J2bZZDM1m4OHRkaZWVK7LL42eYKFQ==;7AHQyq5PxCF04lMlJK5b5A=="
 ---

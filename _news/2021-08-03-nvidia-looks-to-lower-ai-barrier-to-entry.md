@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia is tracking more than 8,500 AI startups with $60B in funding"
-    excerpt: "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion."
-    publishedDateTime: 2021-08-02T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/"
-    ampWebUrl: "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 191
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Nvidia Offers Hosted Large-Scale Processing for AI"
     excerpt: "The GPU maker this week is making its Base Command Platform generally available to North American companies. The platform is a hosted AI development offering that is based on Nvidia’s DGX SuperPod supercomputer and is part of its larger LaunchPad program for making its AI and machine learning infrastructure available via hosted platforms."
     publishedDateTime: 2021-08-04T18:15:00Z

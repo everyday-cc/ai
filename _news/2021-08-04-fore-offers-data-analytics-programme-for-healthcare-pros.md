@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-off
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "What Are the Benefits of Predictive Analytics in Healthcare?"
-    excerpt: "How predictive analytics can improve patient outcomes, assist in the decision making process, and provider relief for healthcare workers."
-    publishedDateTime: 2021-08-02T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/what-are-the-benefits-of-predictive-analytics-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1164501571.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "a1hEegx9QDe9uqu/tQF5BBsScZU1p9sPzgSivmyUr6kMrnskY1UQyMrNDV2f9cnK1P/obRAt68maS3EpurC3QCtZbvB2J/+vW8meTTTq/vyy+5td78PoH6mUMUM9XJQ39BiprmsHM3KZsrT3PmnOFeHJ45si3XZbTGyK4/V5ENQ45glUKJ9qs3ly/mNiwZsb76FzvW7+qChaEiyRpyzTgGnrr8bP0/uMffrGexkb/gzgYup5Cbsl9EsqT4ng5afl5mP/T+dkni/rVuUD12YJtnvTnj1BHh4FlxQzW1DAINFum0fYocOLfYX8Zu3GdhTrkWM3BPFhs5tNGxBwJUbyK2d2zfMcgar8n8qY8YzBrD52xboKuhEf07EkW5cJxQMZkmMsSRn3+jNEzpm/gntXND35UgDold9qwDKqbzvlOyPls4o8CHHDrskrevbTNX/oTGldkVQ31Njfn8dOoHssom+TGGnmPzXs3i4GonSjS+juQaDT747uFTCfjuePoc+MSqg1zvJya93lddi91CIq9g==;fAZFVIJZAXStL1iGIYm4Kw=="
 ---

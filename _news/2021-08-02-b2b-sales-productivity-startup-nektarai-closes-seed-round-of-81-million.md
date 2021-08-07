@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/03/indian-rupee-1-reu-e1521781642703.jpg"
         width: 979
         height: 543
-        isCached: true
-  - title: "Nektar.ai Closes US$8.1M Seed Funding Round"
-    excerpt: "Nektar.ai, a Bengaluru, India and Singapore-based sales productivity startup, raised US$8.1M in seed funding. The round was led by B Capital Group, 3One4 Capital, and Nexus Venture Partners with participation from Amit Midha,"
-    publishedDateTime: 2021-08-02T14:40:00Z
-    webUrl: "https://www.finsmes.com/2021/08/nektar-ai-closes-us8-1m-seed-funding-round.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/L-R-Aravind-and-Abhijeet-scaled.jpg"
-        width: 2560
-        height: 1887
         isCached: true
   - title: "Nektar.ai closes a seed round of US$8.1 million as it aims to enable data-driven smart work for B2B SaaS revenue teams"
     excerpt: "B2B Sales Productivity startup, Nektar.ai has raised an additional US$ 6Mn seed round of funding led by B Capital Group, 3one4 Capital and Nexus Venture Partners. Several prominent Go To Market leaders in the US-Asia cross border SaaS ecosystem also participated in the round."

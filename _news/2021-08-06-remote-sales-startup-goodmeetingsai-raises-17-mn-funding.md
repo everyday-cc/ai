@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/379552"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379552"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 600
     height: 338
     isCached: true
-
-related:
-  - title: "Sales productivity startup Nectar.AI raises funding led by 3One4, others"
-    excerpt: "Nektar.AI, a SaaS-based B2B sales productivity startup, has raised $6 million (Rs 44.6 crore) in seed funding led by B Capital"
-    publishedDateTime: 2021-08-02T14:02:00Z
-    webUrl: "https://www.vccircle.com/sales-productivity-startup-nectar-ai-raises-funding-led-by-3one4-others"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 53
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/Fundingrf2.jpg"
-        width: 810
-        height: 506
-        isCached: true
 
 secured: "dte2WSDhQ8cg+XmxpqKymzD0ENjM+7PZ6pE0KhZOZxUlmb55Uq3QAlSYdgLlTM/nUhP8Bthd3KNj/bCNg8P0eUDeHoJOwBb2fsL8clig8rhFowq1F00U9vy4hDPjHF5slkFaR1VsJ51u2pqDtPGl5yRKXFIe+84K1sfJUDZ+Wwkw4c2on13VLoSnj63gJmkxUVpp16LcJ4mStJSAqB6BNInIWG0rued1GVKtU6MUYT9nlXFidrYyBYl+lHdIrzyHvAKtOmWVH/lHQcNXdVKzs4MfU7BkQWI2EoM9SguF7yi4/kFZz3+W4+QFc09bd9kMSy16wiMLKbjGsIvcTVNPLONo1Vd5dnWnjFcZaiAsoNFbr2fHWmX3Gb7LQ4uZnb7pogXeTV8N4FgvuarEdUYC6/mXWz0C2iTnhZBImMCLTN/4U/ziJvVxwHwajxmM73mtu4Rf3Ty4M+PpghsdN7WorWI4a0HseuzG2vtZgfxOgvUh4S9r0dalWgVFHnlC66MEJWrZlOfiLSKIiQp8uzTM1A==;kqoZXc5J9oE3QbP4PsFqTg=="
 ---

@@ -2,6 +2,48 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-07-03-ford-not-worth-the-risk.md",
+      "title": "Ford: Not Worth The Risk",
+      "excerpt": "Ford could be a great turnaround play ... The effect ends up being that the company wasn't able to retain its advantage - and everyone else in the industry was forced to pay money to keep up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/?sh=55bcc5223606",
+      "originalUrl": "https://seekingalpha.com/article/4437700-ford-not-worth-the-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/05/04/argo-ai-shares-some-details-on-the-lidar-that-will-be-used-on-ford-automated-vehicles/amp/",
+      "publishedDateTime": "2021-07-02T22:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-madden-22s-next-gen-stats-and-star-driven-ai-may-have-an-important-disconnect.md",
       "title": "Madden 22’s Next-Gen Stats And Star-Driven AI May Have An Important Disconnect",
       "excerpt": "The concept of Next-Gen Stats and star-driven AI are great, but both enhancements might still miss the mark in fixing a legacy issue in the Madden series.",
@@ -1121,59 +1163,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-five-smart-marketing-use-cases-for-artificial-intelligence.md",
-      "title": "Five Smart Marketing Use Cases For Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) is transforming marketing. Here we look at the different ways companies of any size, and with any budget, can make use of this technology to improve marketing performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de92ae206792710c446fdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T21:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

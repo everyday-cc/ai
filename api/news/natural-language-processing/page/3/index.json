@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
-      "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
-      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom.md",
       "title": "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom",
       "excerpt": "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom.",
@@ -1347,6 +1304,49 @@
       "provider": {
         "name": "Business Insider India",
         "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-bytedance-selling-tiktok-ai-to-companies-including-in-india.md",
+      "title": "ByteDance selling TikTok AI to companies including in India",
+      "excerpt": "iBeat Analytics Ibeat 1 Year HTTPS To track article's statistics New Delhi: China-based ByteDance which is the parent company of TikTok, has reportedly started selling the AI technology of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-84134593,imgsize-488272,width-800,height-434,overlay-ettelecom/bytedance-selling-tiktok-ai-to-companies-including-in-india.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/bytedance-selling-tiktok-ai-to-companies-including-in-india/84134593",
+      "publishedDateTime": "2021-07-04T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

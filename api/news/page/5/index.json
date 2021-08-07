@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
+      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
+      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-gapsquare-a-pioneer-of-machine-learning-into-gender-pay-disparity-is-acquired-by-xperthr.md",
       "title": "Gapsquare, a pioneer of machine learning into gender pay disparity, is acquired by XpertHR",
       "excerpt": "Inequalities between women and men in the workplace have been exacerbated during the COVID-19 pandemic and are likely to persist in the near future, according to the International Labour Organization (ILO).",
@@ -355,7 +399,7 @@
       "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -510,7 +554,7 @@
       "originalUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1164,49 +1208,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
-      "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
-      "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "originalUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "publishedDateTime": "2021-08-02T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

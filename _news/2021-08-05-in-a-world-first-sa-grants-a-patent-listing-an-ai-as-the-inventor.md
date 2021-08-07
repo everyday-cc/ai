@@ -57,20 +57,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Federal Court rules AI can be 'inventor'"
-    excerpt: "A Federal Court judge has ruled that artificial intelligence (AI) systems can be inventors of patentable inventions in a landmark case. Justice Jonathon Beach handed down his ruling on Friday, saying an inventor could legally be an AI system,"
-    publishedDateTime: 2021-08-02T13:37:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/federal-court-rules-ai-can-be--inventor.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/ai%20inventor.jpg"
-        width: 648
-        height: 365
-        isCached: true
 
 secured: "87REFYVG4ViW0gJYsAzp0LhBa8SqL3B5+VKuQ2EZmpIOLcMTfC0ITb2LgGsUgJJKkyNY8SfT0uY92Xs4UcZnj6BBzIpscK04KhTHMKUJmIES4xoowhBkYYwflewCzjnqBqsHruekICDj+OcUEAHoXXRe0jPiP1FiocIicPi0WBgw2h7T/PPYk56wkvLgikAa0gQPJyqiT4X4DpcWj1s3P8ZwFE0lZmTDitv+RDc+ZeMiF1pGlqUBc4nZ4UDAZBBgYLGBT2Hh0n6OlnmhouRMrLywF4NzmBt+AN9MmGfX2Eacg0yhCsk3pYGajB2yFpATDNcTzPDRt7J1/1dGhqde9tbpi5Bv1nYk1N8hNVQ26/aKDXeVtM2INIjpvd3jHRdy0cktzdiESE8KADqBwZSC2bLNQbIs7acCDkY56DTPMsTOeXvOe2Qq2m48zlJcHx4Qrl8AwJGzxQZ5bd8MhnxSiajTyHpAN1WYZRAVnATmXw5MYMt6MKKW8abs8uYMhOxxOryQ2ItrXV6wSmkA/SUqSQ==;fgQa5bJS8GVaAB3yuSr4LQ=="
 ---

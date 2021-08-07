@@ -103,15 +103,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
-    excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
-    publishedDateTime: 2021-08-02T13:13:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/466694-adib-becomes-first-uae-bank-to-use-facial-recognition-for-account-opening"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 35
   - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
     excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
     publishedDateTime: 2021-08-06T17:09:00Z

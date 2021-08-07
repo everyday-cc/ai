@@ -1,23 +1,26 @@
 ---
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-publishedDateTime: 2021-08-06T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
+publishedDateTime: 2021-08-06T12:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
+webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
 type: article
-quality: 12
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Spell unveils deep learning operations platform to cut AI training costs"
@@ -50,21 +53,7 @@ related:
         width: 1635
         height: 854
         isCached: true
-  - title: "Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry"
-    excerpt: "Learn more about Artificial Intelligence, Machine Learning, and Automation Transforming the Film Industry at Automation.com"
-    publishedDateTime: 2021-08-02T14:25:00Z
-    webUrl: "https://www.automation.com/en-us/articles/august-2021/artificial-intelligence-machine-learning-film"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 45
-    images:
-      - url: "https://www.automation.com/getmedia/38598196-fdf2-480b-b9a6-ab388bd2b7af/Tom-and-jacob-feature-aug-2-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
 
-secured: "KhZFIHw5zJnbgdtbVNxeQfMEwXYeKsfaPWLnTNvb9NS0bjd7UnLYUgN+rjTimHI7ANsATnmCUYuUFB+/KJ0ipTdQ9qUF9Gya1LE/gzhgSnT0utF+PUNkm5EK2Vk4/YAaD/hEzmEnVXq4vLS5oPAStofxH3VUjQd8Vs9kanpPOiwzlIj+OIQDObWVYo4pNeMLdtivXeJwqMxN9cH4nmdalu6BJqjvdhDKBSVMGEwy1sUEILkfLCrPWwxHIJYZ7A24wTost9oBMMeORzMrwnITmD594ugos3TkFbMG97mYNRNo6LBricYJ9ZUjD462ZoTX9LESemmo4d8LIIqev5iBU/tK5HvcuvgVohP6hqD2Z8r2+R7YyMWyEp8m4iUmKYbZm8xOAC24X10jUz7pXIt1IcaJ7TTkLHEchm9tWkNu2Bpl3ME7VTdef9S5RNrEa1AtXg7KAeB8wjwuorW5bSaY2d2GtBF2f4/9YR3VjWZTpBff2o6OLh1lCxNKl1eAOO6GXY6mU4wS1w5yKuEkiq5mYw==;J48lB90mLvajUFI3faSanw=="
+secured: "0sshK5DOpC+wJHfv4NdMVeSbrj00BRXsvbJhrzVbJ6upTE9imbSCO/NkXM+TmCaI65Q3SJdVifhdMou61Uyu5CVYXqDUy87EedQA993HJicrZ2eG/+xrvdqa+PdSCGy2AoKLe1Uw759jLnJaRNB5X6cnY4mTO5wZ5SJj4mytoEP4Q1MZl8kPDd5ksKizeBeuTE2Z/9QOtOlvLLG5n4xihU/V1U51ZbDJmC4T/9OdFYNmi8j+JbjZs8LdMfcduQ+jfBkbRLlSca+4H14TepjNCH45QcB8Ngez54ihqqbiuT911bWwn63W4KFE7Flci/NcemMDj1VOpcbxnULPQBdIfankgIBw3wiTQzputd999BDtYv5FEYdhosBGRCbvZByluN6d+Eu8TknaxhHZl5txhLC3mS4I/YS2Y3hMuALJlrr9XZQJPKnWE4hBF+fHylsHC75U85xqiK74wDhzkn6nZBtHfIzkyJE+dHVE+H63Oc7j3gi0qyuEldxx8PHY5a89KBbplleaINnuJ+/qf63WGw==;7sjzIuG5c1XqwX/1hUYg8w=="
 ---
 

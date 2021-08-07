@@ -99,15 +99,6 @@ related:
         width: 1800
         height: 734
         isCached: true
-  - title: "ADIB becomes first UAE bank to use facial recognition for account opening"
-    excerpt: "Facial recognition system, provided by the UAE's Ministry of Interior, allows for instant identity verification for new account opening"
-    publishedDateTime: 2021-08-02T13:13:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/466694-adib-becomes-first-uae-bank-to-use-facial-recognition-for-account-opening"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 35
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
     publishedDateTime: 2021-08-06T16:20:00Z

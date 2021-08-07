@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Agriculture Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Global Artificial Intelligence in Agriculture Market industry valued approximately USD 432.2 million in 2016 is anticipated to grow with a healthy growth rate of more than 22.5% over the forecast period 2017-2025."
-    publishedDateTime: 2021-08-02T14:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2021-08-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Report 2021, Industry Analysis, Share, Size and Forecast Till 2026"
     excerpt: "By IMARC group the global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Sheridan,"
     publishedDateTime: 2021-08-06T02:06:00Z
@@ -52,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2026."
+    excerpt: "Artificial Intelligence in Retail is used to preserve inventory accuracy, enhance customer service, and improve"
+    publishedDateTime: 2021-08-03T11:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2026-2021-08-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027"
+    excerpt: "Pages Report] Check for Discount on Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing (NLP)"
+    publishedDateTime: 2021-08-04T09:54:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4725599-global-and-usa-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-status-and-forecast-2021-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 25
   - title: "Deep Learning in Manufacturing Market 2021 Share Growing Rapidly with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "For the period 2021-2026, the growth among segments provides accurate calculations and forecasts for revenue by Application and by Type. This analysis can help you expand your business by targeting qualified niche markets."
     publishedDateTime: 2021-08-02T17:28:00Z

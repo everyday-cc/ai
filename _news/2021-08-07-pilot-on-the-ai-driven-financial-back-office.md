@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
