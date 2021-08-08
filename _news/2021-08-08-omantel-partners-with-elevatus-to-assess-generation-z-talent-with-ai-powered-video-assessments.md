@@ -3,8 +3,8 @@ category: news
 title: "Omantel Partners with Elevatus to Assess Generation Z Talent with AI-Powered Video Assessments"
 excerpt: "Omantel is the first company in Oman to strategically partner with Elevatus, to leverage and utilize its video assessment solution that is powered by AI. With over 2,400 employees, the highly acclaimed and leading telecommunication company used the innovative AI technology to assess a mass number of applicants for an internship program."
 publishedDateTime: 2021-08-08T13:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704342"
-webUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704342"
+originalUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704343"
+webUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704343"
 type: article
 quality: 35
 heat: 35
@@ -37,6 +37,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wT2xkPL5TQHtPQVD3PNIIoNSQzwP7ob+tNtsac74EsiVg4vH2CXN2X/JMsA5xaMRFGKdymacRJwbCTjGACQp/24ptbLb3ZTDPIgIYvevliv/3+373GPZEZnTIW1DxhwESmmsl/zqG/i8kiH0cQYfNfAyra51eF0svSXa4KAjWBWvWpVHAVSrhEqOoNSo13/8Ni8YgreVcsfBesUMHeofniJGyluiMl9kKrFV0msqoP7CKIHCuuv0QWI2/B/NmRbghNQ7mysnO/vW6wNfMkSjO5qoz9Hes02pGHdmHrX+UQ5iYX8eQIhLElZkaKLOCT3B5rV1QoLXI4V8j34KNezdBVBAtWERg1Of063+VgoIK2qJQrKxfeVXSKCVZJbnodKVH+BR85dJlGwe3/xYWO8F/abYG7I3ChnTo3MxKDrKhzhiwZqkkDylrXkcFfIh+9UZSHZDdGKCranTzndGGPM5udAsqyJo9poYx6kvWCWluxhKSw0qtMR4CJ2uzdMDjoBct7GBJx3N3pkojbZmlBK7Yw==;dihqEPswyelX+VfuCKPYnQ=="
+secured: "xwDtged7YQ/L6iut3GAKYgXglK6FnAE5WMqC1Ee4nDoSGgE6EGsFHWKdfWu3fVZXDPtivLs5YS4SWQ9CrDoAg0Xwl2yKHacKK75y6rYXpuLV8Bjnxotol2qW3YDIopdv1xsUCxx0H7IGa1Fee0MWu5OamjP2KRCc88qhryNilSl/qoWivvcBbQjeHa8gr0GOL2z+WuqupncKO8wfCSVUa38aOIRwqFdWsAY9sfjbkvCklQtb82RUMM8f2dmGWtz44lwTBALS/F/q9azgDd1t1CXb2fS5deWm+cwMpaaEk74+K5/QdPlP9PyJc9u54aLeQXG0WUPHMNKyQnonjYmtElAX97RGttX7XC8ScdDs4qeE1UKGBoDDjKgkN5eghxvuCODU/K3m2RwC2XIt94ISw1dHUfUVgBfmViwdyyCmYm+XUTD0HO8p4CkSrT4Pt/BreUzKO95RIOJmNQpHExmCye1rLaFuyKlWSGishvaZ2/2rELVk5VudRCTroOSMtAV1sMwvnqKlqVCTMIhlEKIbNw==;1c8P8h9xXJcpl+R+JwYftA=="
 ---
 

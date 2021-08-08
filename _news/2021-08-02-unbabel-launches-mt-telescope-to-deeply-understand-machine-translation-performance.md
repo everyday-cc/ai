@@ -1,29 +1,20 @@
 ---
 category: news
 title: "Unbabel Launches MT-Telescope to Deeply Understand Machine Translation Performance"
-excerpt: "Unbabel, an AI-powered Language Operations platform that helps businesses deliver multilingual support at scale, today announced the launch of MT-Telescope - a new tool that enables developers and users of Machine Translation (MT) systems to deeply analyze and understand MT quality performance."
-publishedDateTime: 2021-08-02T13:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-14ef2578f1324f7eb5aeaff16fba173a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-14ef2578f1324f7eb5aeaff16fba173a"
+excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Unbabel, an AI-powered Language Operations platform ... tool that enables developers and users of Machine Translation (MT) systems to deeply analyze and understand ..."
+publishedDateTime: 2021-08-02T13:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance"
+webUrl: "https://www.businesswire.com/news/home/20210802005131/en/Unbabel-Launches-MT-Telescope-to-Deeply-Understand-Machine-Translation-Performance"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "0mZBeip52Q2K276E8DnMxgM6yMlzXfZfuPNWux/wqSizcE0lNhnldY4jh1F1CuVb8ZByC8EWrjvsfKFs1TTDwXv2yZadnomHAxWhqWoIaZzvQ+GqKkuwH0gOWy+2Ib2yTUwvvBSZnoZ+t05vrH4A3p3jtlHxg8qeDnpWI0C19E7/RXnxYIpVlE9QMOnQNTKJhVSIiwL3R8IfTL1sn0hN5z2zrc5RkyF6EN0q7FER032ZeSgyJO+KIz9Q42c9of4uVvco7vkYqCvTaQOEIlBQIdgQVGWJP/CTfSRFX18L0esqsL+cty1phoTVHQSg9lKDqbazzyPP0/l0AwI8Gv62Jr9ncjVG/nypGM6X9IqeWqI=;gr9pU6XRQwnsbil8TswTgA=="
+secured: "YoUwQAMffxBZrcK8hj2HqGS+Lzt9Tj5bNkkffTbNuRU41PTPTXfX/W/Cx8tehnNJp6Hjzxdj9WHjPL3p3PgFl2mhp9iNRO3RilqPgWhs7EOHEr1e2NbYWTknQNtKuEe7Yz8odXa0ZI67lBwT+8vD6byvwhr6M6Fwqk0Du3Sc5DvLHdz/DaMgtcXESUUGvaTrfhsLtuxCmMzUB1alL2EKaL50+ljS8vvJJUvImosLXxT+qxqQmFABDiLSuw7EzyhMS/8v64X83yaSjneS7DExuaaFXBljvSqn4QOwrRL9MOUgFo1fJ6WZCUvZrmcuUygf0k4zTTOS0vYxOMhwrAzPpd4dZ/ifAbaeD/URp7seKN8=;8sY1qy+xU9Rd5sk1vuSNGg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/the-computer-scientist-
 webUrl: "https://www.scientificamerican.com/article/the-computer-scientist-training-ai-to-think-with-analogies/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,25 +33,11 @@ related:
     provider:
       name: Nearshore Americas
       domain: nearshoreamericas.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://nearshoreamericas.com/wp-content/uploads/2021/08/AI.jpeg"
         width: 1920
         height: 1078
-        isCached: true
-  - title: "Analog compute is the key to powerful, yet power-efficient, AI processing"
-    excerpt: "As artificial intelligence (AI) applications are becoming more popular in a growing number of industries, the need for more throughput, more storage"
-    publishedDateTime: 2021-08-04T13:54:00Z
-    webUrl: "https://www.ept.ca/features/analog-compute-is-the-key-to-powerful-yet-power-efficient-ai-processing/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 38
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/08/Screen-Shot-2021-08-04-at-9.51.37-AM.png"
-        width: 297
-        height: 217
         isCached: true
   - title: "The Computer Scientist Training AI to Think with Analogies"
     excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"

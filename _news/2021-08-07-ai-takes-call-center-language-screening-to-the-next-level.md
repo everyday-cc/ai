@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-06T18:01:00Z
 originalUrl: "https://nearshoreamericas.com/ai-call-center-language-screening-recruitment/"
 webUrl: "https://nearshoreamericas.com/ai-call-center-language-screening-recruitment/"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://nearshoreamericas.com/wp-content/uploads/2021/08/AI.jpeg"
@@ -38,20 +39,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/B79B9A2A-FC8F-45E6-BA22A19888F807ED.jpg"
         width: 791
         height: 496
-        isCached: true
-  - title: "Analog compute is the key to powerful, yet power-efficient, AI processing"
-    excerpt: "As artificial intelligence (AI) applications are becoming more popular in a growing number of industries, the need for more throughput, more storage"
-    publishedDateTime: 2021-08-04T13:54:00Z
-    webUrl: "https://www.ept.ca/features/analog-compute-is-the-key-to-powerful-yet-power-efficient-ai-processing/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 38
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/08/Screen-Shot-2021-08-04-at-9.51.37-AM.png"
-        width: 297
-        height: 217
         isCached: true
   - title: "The Computer Scientist Training AI to Think with Analogies"
     excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"

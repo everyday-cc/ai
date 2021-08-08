@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Fintech Stampli Launches New Partner Program for AP Automation"
+    excerpt: "Stampli, a leader in AI-driven Accounts Payable (AP) automation, is introducing a new partner program for accounting firms, bookkeeping services, rese"
+    publishedDateTime: 2021-08-04T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210804005304/en/Fintech-Stampli-Launches-New-Partner-Program-for-AP-Automation"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
+
 secured: "b3E9GoY4u5wYRcU1OxRBD0yLP/PCnHImRKkW+LFRZKVtS9RpZUApsNrr+tRPeKV1AhBKTydpClHhW0VRlKNhSLAfUDoHExtZzLr+98TPwRH5bMjLnMAjSjYwOIAa6ZkkTHtzH13DF2WQRfEenY+v2jH/A4A/Cw+y9IiSsZV4hcrS4LRSXZQesTl9jJr4ZIE16/nHVqCBM7U3uBKFRsuRwdKMJWs6WUfeD1/F72Giouv8Mw3mQb6f8SdHomUY7LDiwdtmZuirKoun2r7mLXkN9WAvTkrJnf0GmVvNZ9Fus2slRpN0CUTIlUgFreaxrIKx5FLJ+RD9km8cPZ5wQTyqCy6EDcXIQ4i2hcqWZTzMtUM=;HWKmQ5Uf0StyBgQUVHKHqg=="
 ---
 
