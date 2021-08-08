@@ -7,7 +7,7 @@ originalUrl: "https://www.fedscoop.com/doe-grid-ml-threat-sharing-tool/"
 webUrl: "https://www.fedscoop.com/doe-grid-ml-threat-sharing-tool/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2121
     height: 1414
     isCached: true
-
-related:
-  - title: "From cybersecurity to the cloud, these IT learning course packages are all available for under $30"
-    excerpt: "As part of the TNW Deals’ Semi-Annual Sale, you can slash another 60 percent off all of these already discounted cybersecurity courses."
-    publishedDateTime: 2021-08-03T14:00:00Z
-    webUrl: "https://thenextweb.com/news/from-cybersecurity-to-the-cloud-these-it-learning-course-packages-are-all-available-for-under-30"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 55
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FTNW-Cybersecurity-roundup.jpeg&signature=d74ee5faaf2a38a4c68dd6efbeb9f25e"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "MuPeJ8IPQ3CjWAYqR9DP303EFmxQvvi01MViJN2AZVYzkt6WsPA3ANGDQSPKnyOndXZAT7k8rUof4gCTxibACZbqSeALtbysokJhFNaQqSrrFWNJR0h0W6WYpmB0J+bKjfe5rEmphabAiyQ5/z10ONMsYicIULcIYvZprbyvP8sv3lhS7/7qTmUZ1vLkqGXsf87wmAVjGW57ptU1Wmqj1CW1A2ZZ/BJ/r2blgGv29oOKf2oU7n9em6ugpsPUKbOc7V0ANHeFJ4IYSQI6p4jEaPDI9s4LRkrdWP1xQlfUaVwOXbhgZS2SBLAhJBZ/QP3j4cso/Igc2D7Vun/I6Z4oP/fuQnHvmDMiZSo4IGOUKQc=;3e4vPp1hs/zLkCkaeNnEug=="
 ---

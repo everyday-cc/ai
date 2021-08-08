@@ -2,9 +2,9 @@
 category: news
 title: "Enhancing mobile engagement through the power of natural language processing"
 excerpt: "Advancements in technology have changed how customers engage with businesses, and it's becoming more evident that customers want to be met wherever they are, in their preferred channel"
-publishedDateTime: 2021-08-04T13:00:00Z
-originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148261"
-webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=148261"
+publishedDateTime: 2021-08-04T13:32:00Z
+originalUrl: "https://www.kmworld.com/Articles/Editorial/ViewPoints/Enhancing-mobile-engagement-through-the-power-of-natural-language-processing-148261.aspx"
+webUrl: "https://www.kmworld.com/Articles/Editorial/ViewPoints/Enhancing-mobile-engagement-through-the-power-of-natural-language-processing-148261.aspx"
 type: article
 quality: 36
 heat: 36
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "x8qMTAtZepTfydAII6xJ8Aa+OQzzXmhAFejwm3dXWzmCc6KdVUGdwT8INqFAmxKFJu33ZSoBZFPVSEOUb86Bnr2vXXDwlghOQs1zy5sde3tqMGQpjMstveAUCwT42Q/0JAMJWK53jbLqW+7KAuk+3qNhTw7kEKV2U6yAhHh6dOtrTK1POBtuBm3Ubx7xIStGLq53YW3fHGttBEkWYkbtBq2fT7ZaG/p6Y8Eko/0enD95HXCF1yAOTjkdoY2umSCxlHYsQjPvFDb1Twh5c1weG8gtjbNZ4KqBdjYMiNWT8wmYhh3d1PLvN3Gea851O54l2HiqocAhqeQxQfwG84dibtmknj2lRjiav5tyx+GQWhY=;4IdPGnf1DqV8z4NIJa0Cew=="
+secured: "rtymBszEfXy9Nr4GJO1NAuC6sC9+pOMszpG2cGVuv4wXUHzJ+TEfFoOJAgiDpZ6/oq81O65G/g7E2JyfJfzX/9bOLa6RrC1KaKDTazVw+uMsjiTu5MRw+g81HwmrcaD+c8UL9/yOtPpUj6vzld2G1454D0AFO2sRE4c7uCiCrRcogDUKPHGMh43N3ZlxaDcF9S/sBdXcF1Qtg54ST96aTyswayCu+o+JQARQ07Bf6SihpN3ZIDROjPL7S4kW4m6JLsx73htoaXAQNAJAofm2IhT/ncr54oWX1OgWwTT/cu9QGLFHP/syvs1J4xuy0nVJ3r3vjT1tyqht7Yi8/8ckNLlbFH/jWaghf0von6konQU=;WXhyCnsKmua0JpfzwxXl+Q=="
 ---
 

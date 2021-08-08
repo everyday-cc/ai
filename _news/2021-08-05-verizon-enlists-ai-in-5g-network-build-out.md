@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-bu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Verizon Gets Deeper into Robotics and Drones"
-    excerpt: "Communications giant starts new division focused on expanding enterprise solutions for aerial and ground robotics."
-    publishedDateTime: 2021-08-03T13:23:00Z
-    webUrl: "https://www.machinedesign.com/markets/robotics/article/21171316/verizon-gets-deeper-into-robotics-and-drones"
-    type: article
-    provider:
-      name: Machine Design
-      domain: machinedesign.com
-    quality: 54
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/08/dreamstime_l_72543101.610425f644a50.61093ff90d2b7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oj7JDsP7tiF8qM7huszZONsZRC1aU93ZTi5HopmwThP/TL/8qIteMCpRlEfgmrACK6K5pm/0AXq5VVKS1+G/6muL0vB5mDWpO1pyR9/jbhsDALUwz+JgXk4mG5Qaj7aA22drbu7urKth5L3oIO/3tJedPt2qjLPn3kyy2d4+k1hH9kalcAmmLc2iBpos0psweXLxf91b5woUTFpK6pXN/Uhip4S2TuN4/DBvcClMjy2Q9HPxKN7YW8gJLmswgYOWiXbkn9t4755BnOD9GhNWm+HUVCGkSUzcsC+bILmY9Tn8ajtJFkYRpfzvHzVFOdEYFcdm4C3AooRu3cyvKI8xRjIsaNyLPhRsGCWx2GQ8pp4ofTnr3YsLux7o+oMuc8+uSg04dFGIxm2hctmcGjSiBgN99eg1PMKKtD3umA8v3tc8oz7Js8BJLN/s7OEHCkzOum9eyCf4rlP12Ay6CIT8kx6cIkVH2g5STo3A4kl6x8brZ2Ql7vWDZyULJ3OqnhHG/gE54JkrJMtYMtkxzmnGvA==;OR5l8TixC3yvxB1yROiasw=="
 ---

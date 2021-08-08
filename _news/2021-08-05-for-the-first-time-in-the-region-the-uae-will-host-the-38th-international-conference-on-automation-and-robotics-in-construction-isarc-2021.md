@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai to Host Int'l Conference on Automation and Robotics in Construction"
+    excerpt: "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction"
+    publishedDateTime: 2021-08-06T08:44:00Z
+    webUrl: "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction"
+    type: article
+    provider:
+      name: News
+      domain: ftnnews.com
+    quality: 68
+    images:
+      - url: "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Worldwide Machine Vision and Vision Guided Robotics Industry to 2029 - by Product, Technology, Application and Region"
     excerpt: "Machine vision is utilized in a variety of industrial operations, including material inspection, object recognition, electronic component analysis, signature recognition, optical character recognition, and currencies. A vision-guided robot (VGR ..."
     publishedDateTime: 2021-08-03T15:44:00Z

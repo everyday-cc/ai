@@ -38,6 +38,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
+    excerpt: "The inventor of the product is an artificial intelligence (AI) system called DABUS, an AI system created by Stephen Thaler, a pioneer in the field of AI and programming."
+    publishedDateTime: 2021-08-08T07:02:00Z
+    webUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 54
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/08/artificial-intelligence-3382507_960_720-960x573.jpg"
+        width: 960
+        height: 573
+        isCached: true
   - title: "In a world first, South Africa grants a patent listing AI as the inventor"
     excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
     publishedDateTime: 2021-08-05T09:18:00Z

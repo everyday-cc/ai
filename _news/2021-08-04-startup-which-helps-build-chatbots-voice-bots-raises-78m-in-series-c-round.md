@@ -77,6 +77,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Life Clips’ Cognitive Apps To Release Aiki, AI-Based Intuitive Mental Health ChatBot"
+    excerpt: "AVENTURA, Fla., Aug. 06, 2021 (GLOBE NEWSWIRE) -- Life Clips, Inc. (OTC Pink: LCLP) (the “Company”) announced today that its subsidiary Cognitive Apps Software Solutions unveiled Aiki ..."
+    publishedDateTime: 2021-08-06T11:39:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/14255290-life-clips-cognitive-apps-to-release-aiki-ai-based-intuitive-mental-health-chatbot/all"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 12
 
 secured: "JYIT7hwWKao55VlSZ+fdIJkBpsCXgIrOzbxnRH66c+dbN2SirHXEIW0JfWpz1qEgMNvmXk7ePF4xGF43EW0WsQs/WcKPKML3bxD85MBqVdahozg4f/mSQOVNAhUH9mbaXLHUVuG/AtU2NFLHLpHFvV8J5DshaWKSs6H9ge2399Lgnp9ck9uvw62lhH4QRR3JmuqxxhtdD2zR+NvolpDAZ2M0sGjub4gV87stxFwdGTOIxySGjLeiOm+Gd+wQG5Q2aeEiKk9jzJLszzKIWQ73ylaMggQ7U7CjVJ3xhT0caw+kBMuPsVg8xxbT4ScN87ofDPbH/A4k3+SY9NeJFLZMhCqdK8ILBOmoQvqboKiQKamGvlOi3CLsp06aeR4p5eeKCod16jnNoAMxRCNrrMqn3o0Ke0BxG11hKk/fXwRkFKSJrBQos2GuHo3qaOHrR0R7bQHDw+L5OG4iS/Si7pqAuZsmhym0C1JmRihAgXJn/DqcODwinxg399qlgT+10Cxu4kW4sXGjypoxyNJ4WU1vyw==;Gi8Q9/s1mpbe4WG6mHzTKQ=="
 ---

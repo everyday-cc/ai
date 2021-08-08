@@ -115,22 +115,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook Reportedly Researching Ways to Read Encrypted WhatsApp Messages for Targeted Advertisements"
-    excerpt: "Facebook is researching ways to analyze encrypted data, such as WhatsApp messages, without actually decrypting the information, according to a"
-    publishedDateTime: 2021-08-03T14:24:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 29
-    images:
-      - url: "https://images.macrumors.com/t/o3dnDC9JVz00TKFeL8xScHwdM0g=/2250x/https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg"
-        width: 2250
-        height: 1266
-        isCached: true
   - title: "Facebook – Facebook Introduces New Platform For Building Robots"
     excerpt: "Facebook has introduced Droidlet, an open-source, modular, heterogeneous embodied agent architecture. The Droidlet platform can be used to build embodied agents using natural language processing, computer vision,"
     publishedDateTime: 2021-08-07T09:05:00Z

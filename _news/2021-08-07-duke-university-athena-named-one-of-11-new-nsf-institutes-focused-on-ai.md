@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

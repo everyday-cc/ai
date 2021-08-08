@@ -37,22 +37,6 @@ related:
         width: 1910
         height: 748
         isCached: true
-  - title: "AI Integration With Email Marketing Could Reduce Shopping Cart Abandonment"
-    excerpt: "Shopping cart abandonment, where a customer places an item in a virtual cart but never checks out, impacts 75 percent of purchases globally and can cost merchants about $4 trillion each year. Google isn’t the only one focusing on this issue: Smaller companies,"
-    publishedDateTime: 2021-08-03T15:00:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/ai-integration-email-marketing-shopping-cart-abandonment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 72
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shopping-cart-ecommerce-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Use of Artificial Intelligence and Machine Learning in NASA"
     excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
     publishedDateTime: 2021-08-05T19:30:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolut
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Traceable AI releases the industry's first free API security solution"
-    excerpt: "Traceable AI, the leader in API security protection, today announced the introduction of the industry's first free API security solution. Unique in its offering, Traceable's free API security solution enables developers and security operations teams to get started improving the API security of their applications without the need for budgetary approval."
-    publishedDateTime: 2021-08-03T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022"
+  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
+    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
+    publishedDateTime: 2021-08-04T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 84
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
+      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
         width: 400
-        height: 244
+        height: 271
+        isCached: true
+  - title: "Zillow – US-Israeli Startup uses AI to revolutionize real estate industry"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-05T02:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/429988.jpeg"
+        width: 822
+        height: 537
         isCached: true
   - title: "How Artificial Intelligence is revolutionizing the startup industry"
     excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
@@ -53,6 +67,20 @@ related:
       - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628316000&Signature=D0NJE6kwjIfEoF%2BQVIZS4TxuaeU%3D"
         width: 453
         height: 640
+        isCached: true
+  - title: "Artificial Intelligence in Real Estate: Embassy Group to Leverage AI Startup Staqu’s Platform Across Its Properties"
+    excerpt: "Its AI platform JARVIS to unlock a safe, secure, and more hygienic living experience at Embassy Group-owned real estate properties and"
+    publishedDateTime: 2021-08-04T13:53:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/artificial-intelligence-in-real-estate.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 30
+    images:
+      - url: "https://1.bp.blogspot.com/-5mMMcrYA9MY/YQqbksHeQiI/AAAAAAAAERQ/srUe9Y5jN4k8xqJPr5otzN9ahBwLa_esQCLcBGAsYHQ/s16000/construction-1210677_1280%25282%2529.jpg"
+        width: 1280
+        height: 855
         isCached: true
 
 secured: "5NH7nRY/bMnDODnERsA3rTX9x+o5LDlGjW3HDqGXBHqMSbWKIeCSX31zG57w1W6Qp30Axtq0YCvDyx1Ggj6vcaeadtNUZbsS7tyII7G53dOk61ImKX7pP1I5MXUtlNwtDImkUnysn46QwXCzQ7F0BGSWCalPUaCRUpKLxjs1kpXyfVpnUKoEOQX0P4x1tPmUa9pDh/1BEMctxD9KMQcas7RdXqAeVkRRiqy1Zq2r544XAtwSLX3BIheWBF+7UzCAZPqcv7sK0A7DFB5Q+Yu2CHWVZjsNflWJ0IAj+AI9hZA9K/yiIUvl4HOzZex2V6tkFjX97+QllRaxHfGZJQ7NylKDjhlDDMwRbjy2zdLTVyM5ajXoJi5ugSUsG65yjsnd0wtgHppsfxLjWhcmZaeb2NI4af9CsgmqgE4c58DAG3nA1N9lNEc5/NGtkZeGeOBcmbdHFgTdOroiHUntnHtiB8Z3M9HxBPaEveMZoJb0QilFJDCvQCuKk2wKXTMyWgVIkWmrsGJToiTG0xFtSNbO6A==;fojYX9v4abGnObGLLCd9eA=="

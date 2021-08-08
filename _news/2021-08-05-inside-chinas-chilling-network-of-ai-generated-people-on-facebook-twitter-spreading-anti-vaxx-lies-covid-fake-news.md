@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook Reportedly Researching Ways to Read Encrypted WhatsApp Messages for Targeted Advertisements"
-    excerpt: "Facebook is researching ways to analyze encrypted data, such as WhatsApp messages, without actually decrypting the information, according to a"
-    publishedDateTime: 2021-08-03T14:24:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/facebook-researching-analyzing-encrypted-data/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 29
-    images:
-      - url: "https://images.macrumors.com/t/o3dnDC9JVz00TKFeL8xScHwdM0g=/2250x/https://images.macrumors.com/article-new/2021/03/Whatsapp-Feature.jpg"
-        width: 2250
-        height: 1266
-        isCached: true
   - title: "Facebook is trying to monetize encrypted WhatsApp messages"
     excerpt: "Facebook is seeking a new way to earn revenue from targeted monetization, this time focusing on its subsidiary company WhatsApp."
     publishedDateTime: 2021-08-04T08:21:00Z

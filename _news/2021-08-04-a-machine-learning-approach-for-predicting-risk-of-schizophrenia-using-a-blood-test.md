@@ -69,20 +69,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Machine learning approach for predicting risk of schizophrenia using blood test"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by"
-    publishedDateTime: 2021-08-03T13:22:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-approach-for-predicting-risk-607092/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 35
-    images:
-      - url: "https://images.unsplash.com/photo-1526470608268-f674ce90ebd4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80"
-        width: 1267
-        height: 950
-        isCached: true
   - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
     excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by researchers at Baylor College of Medicine. The strategy applied a machine learning algorithm called SPLS-DA to analyze specific regions of the human genome called CoRSIVs,"
     publishedDateTime: 2021-08-03T15:33:00Z

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Olympics Timekeeper Omega, Intel Debut New AI Tools in Tokyo"
-    excerpt: "Athletes, coaches and broadcasters are leveraging machine learning and computer vision to analyze events in real time."
-    publishedDateTime: 2021-08-03T14:38:00Z
-    webUrl: "https://www.wsj.com/articles/olympics-time-keeper-omega-intel-debut-new-ai-tools-in-tokyo-11628005106"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-379538/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Machine Learning Technologies at Tokyo 2020 Olympics"
     excerpt: "National Olympic teams are using machine learning to gain an edge in competition over their opponents at the Tokyo Olympic Games 2020. Machine learning technologies are being used at the international sports event from athlete data tracking,"
     publishedDateTime: 2021-08-05T13:40:00Z

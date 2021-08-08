@@ -41,22 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google is Making its Own Chips for its Upcoming Pixel Smartphones"
-    excerpt: "Google has announced that it will be manufacturing its own custom SoC (system on a chip) called Tensor, which will debut within the Pixel 6 and Pixel 6 Pro Android smartphones. This means that the Alphabet-owned tech titan will be moving away from Qualcomm chips on its higher-end systems,"
-    publishedDateTime: 2021-08-03T13:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/google-is-making-its-own-chips-for-its-upcoming-pixel-smartphones/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/06/Google.jpg"
-        width: 800
-        height: 520
-        isCached: true
   - title: "Google Pixel 6 to have new AI Tensor chip"
     excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."
     publishedDateTime: 2021-08-05T03:31:00Z

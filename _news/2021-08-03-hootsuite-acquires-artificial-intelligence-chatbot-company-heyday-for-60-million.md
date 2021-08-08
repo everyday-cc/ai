@@ -56,22 +56,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Hootsuite to acquire artificial intelligence chatbot company for $60M"
-    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday."
-    publishedDateTime: 2021-08-03T14:14:00Z
-    webUrl: "https://bc.ctvnews.ca/hootsuite-to-acquire-artificial-intelligence-chatbot-company-for-60m-1.5532572"
-    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 57
-    images:
-      - url: "https://beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Hootsuite Acquires AI Platform Heyday for $60M"
     excerpt: "The deal, announced today by Hootsuite, is evidence that the social media tool is expanding further into ecommerce and customer support."
     publishedDateTime: 2021-08-03T19:41:00Z
@@ -85,20 +69,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2021/01/25115801/Social-Media-Management.jpeg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Hootsuite to acquire artificial intelligence chatbot company Heyday for $60 million"
-    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday. Vancouver-based Hootsuite says it agreed to pay $60 million for the company."
-    publishedDateTime: 2021-08-03T13:35:00Z
-    webUrl: "https://www.nsnews.com/the-mix/hootsuite-to-acquire-artificial-intelligence-chatbot-company-heyday-for-60-million-4187943"
-    type: article
-    provider:
-      name: News
-      domain: nsnews.com
-    quality: 31
-    images:
-      - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/08/20210730100724-61040ba15b9abc0c4ffc6053jpeg.jpg;w=650;h=422;mode=crop"
-        width: 650
-        height: 422
         isCached: true
 
 secured: "+7c74uGa1uzeHcEtTaHTsKSQXvBjhMOLC5flqgqmF66TfIswKuR2D1IVztmbmMt6tOfexsNZ6MzVSHSS6hyxgcbXGubzw0h+qD15OW70SU4lLQilBK9VgPTfL4q6YyG3FrAyItHrS5RnkcfoygpD1lXiKTNbaOYw3NVIaJKipVLUrWsbXn5iCD8aEaUt7MGSEvIySvuJJ6ebppJKdyEliT1dpTz7++PnmfdqqVZCuU5Cs4U5Yyquimf2j92uj1Fp6x3xdqyLwLT5/LdAznRRI88YotRJ0vkEFgJi7+lBnlT25tMsCG/UANaYvv/d+Iy5uBahJAdSyb52N7XfYY7wB/+XKy0Agms6Q+hVSgVsqIiwddjD1fsZJKFwV0ENZbSHJ5vFwh0YV0Y64g+DLpCgoV5kAEA4RYF5/+xH5RtoHeAMVag5y+UmVsuZXKsSRVyIlT9fCZuWB5Bj2fFSdZW2um19QRQQzWSZOhKm+R/SE/J27R4Uo4TdOuW0WA7ttzrlaixKGQKgCODjrTPEXdlmZw==;k0BxFI5IHAhYA3hPsD6SsA=="

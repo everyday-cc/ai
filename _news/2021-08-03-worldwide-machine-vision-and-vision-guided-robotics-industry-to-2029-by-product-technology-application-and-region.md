@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/worldwide-machine-vision-
 webUrl: "https://www.prnewswire.com/news-releases/worldwide-machine-vision-and-vision-guided-robotics-industry-to-2029---by-product-technology-application-and-region-301347013.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai to Host Int'l Conference on Automation and Robotics in Construction"
+    excerpt: "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction"
+    publishedDateTime: 2021-08-06T08:44:00Z
+    webUrl: "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction"
+    type: article
+    provider:
+      name: News
+      domain: ftnnews.com
+    quality: 68
+    images:
+      - url: "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "For the first time in the region The UAE will host the 38th International Conference on Automation and Robotics in Construction (ISARC 2021)"
     excerpt: "Under the patronage of His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, the UAE’s hosting"
     publishedDateTime: 2021-08-05T01:28:00Z

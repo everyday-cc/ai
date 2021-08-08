@@ -54,20 +54,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
-    excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
-    publishedDateTime: 2021-08-03T13:32:00Z
-    webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 61
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "FORE offers data analytics programme for healthcare pros"
     excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
     publishedDateTime: 2021-08-04T06:50:00Z

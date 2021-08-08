@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-it
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Life Clips’ Cognitive Apps To Release Aiki, AI-Based Intuitive Mental Health ChatBot"
+    excerpt: "AVENTURA, Fla., Aug. 06, 2021 (GLOBE NEWSWIRE) -- Life Clips, Inc. (OTC Pink: LCLP) (the “Company”) announced today that its subsidiary Cognitive Apps Software Solutions unveiled Aiki ..."
+    publishedDateTime: 2021-08-06T11:39:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/14255290-life-clips-cognitive-apps-to-release-aiki-ai-based-intuitive-mental-health-chatbot/all"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 12
 
 secured: "V9OlyjYPr6/PIKU6/M2smEN9e4O0sLUUkJfSr5Z/B7zQt3cAHLC69Bv8mjm2kWTHnfL9jl7qKJZwlykZVZh46JCpmnFVMO7z0f9JhqJeNbOQQNZHRx16pnWxWFw2pKs54GVKJ4itmbGZmnn1+Bj41JiJyPDQ4hOnZvLiXtxMhXt+S54Ij8faUVtBqvnCbYz02uGrXHUiWnVmkLve3TleqNemf0HIdvxr9bhWZvNwDbM2Rsx4UD7tguQRbXA7H3GEFqydKl3ITnXXE4bZ97UB7NDXUQtwHejTlwaMOeiDLI8/WSKpIQ26dpne42tC2VlT39UDJ4pSAf7U2AYBBOsSQA8WSkUIWWj9NsBj3/n+7QevnbYsjcTRsmoB7P7ZVtteDP8PO1BKU3osi7kyWWmSry6wP6vi5zI3yuz85TlekHrwRWio6RDcn+yCHpvsbSkA8QgeX4DZrIOPI4w3gUWebgjLokpPC3rawABxltXJWVl9CNP7LrVJ0L33GqitPKwbRcEdH7rUK1XdS3vtyng3vA==;z0cusbtcDKW2H0/gytMCaQ=="
 ---

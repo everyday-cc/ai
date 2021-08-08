@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple once again expands California self-driving test fleet"
-    excerpt: "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'"
-    publishedDateTime: 2021-08-03T13:49:00Z
-    webUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/"
-    ampWebUrl: "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Apple increases drivers for its self-driving car fleet by more than 20%"
     excerpt: "According to the California DMV, Apple has increased the number of cars and drivers for its autonomous vehicle fleet."
     publishedDateTime: 2021-08-03T18:54:00Z
@@ -57,37 +41,19 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "DOT moves to allow self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+  - title: "Arrival Announces Achievement for Self-Driving Technology"
+    excerpt: "Before this achievement, the vehicle was able to autonomously complete all operations that are performed daily by a commercial fleet driver."
+    publishedDateTime: 2021-08-04T18:00:00Z
+    webUrl: "https://www.automotive-fleet.com/10148476/arrival-announces-achievement-for-self-driving-technology"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
+      name: Automotive Fleet
+      domain: automotive-fleet.com
+    quality: 24
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DOT moves to regulate self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://fleetimages.bobitstudios.com/upload/automotive-fleet/content/news/2021-08/robopilotweb-__-1200x630-s.jpg"
+        width: 945
+        height: 630
         isCached: true
   - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
     excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
@@ -103,15 +69,6 @@ related:
         width: 1524
         height: 818
         isCached: true
-  - title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-    excerpt: "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value."
-    publishedDateTime: 2021-08-04T12:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "VSogRTfvlrSMEjC63c2caF0/ADxn29UcKT/YnRjEKCpyORmcnJtlUgzSWpy8VDqyxrbdb/7zwb7MyolXd0gKsZttQFIM162M0GWBiHDfdEVR8jopGHYFDUxDuguUDzbUXuHFFVR3GRRBHQO93b8dzSoJQHoxULv6uNjz9PPF2pmTA7glhsAE+Ca64vvYLmiXHyeVkDukJzG5Ml6gbpFi0j5T0zMpzrHF3qzqIvAFlvUJuDoYPxqzcP1GDnOGdJ2AKQhAVH9TMrP9c/0w56Lx6X33fE2WInd1uwjj+yIe3g2r24ZVw0DZnwt/9qCoAoE7r1Oq9H+dOAoqgcRNDSbJHNphHWI44q9bCJ10AQRjIKJUZXD9uu3TxSGQ6WfUH3kZby1L/Eii5UFYWLzPVRhzvMbHQaGK/3WPOhrC6O4lYQnpcS2lnBhAv7OlasK4ZmF3F3EjRSxsrn1/sfqnvd22HfzTZFYCE+PjvsOlPkGSwY/3+TDL9RWpPUzVvWikUMylohqc8W5j+wMaalA4e3x4xg==;SzvRS7sfMtmAV7PzWjX7hQ=="
 ---

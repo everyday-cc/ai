@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Traceable AI releases the industry's first free API security solution"
-    excerpt: "Traceable AI, the leader in API security protection, today announced the introduction of the industry's first free API security solution. Unique in its offering, Traceable's free API security solution enables developers and security operations teams to get started improving the API security of their applications without the need for budgetary approval."
-    publishedDateTime: 2021-08-03T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/traceable-ai-releases-the-industry-s-first-free-api-security-solution-1030684022"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg"
-        width: 400
-        height: 244
-        isCached: true
   - title: "US-Israeli Startup uses AI to revolutionize real estate industry"
     excerpt: "The AI technology collects information from billions of data points and transforms them into selectable attributes for prospective homebuyers."
     publishedDateTime: 2021-08-04T20:15:00Z
@@ -53,6 +39,48 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/429988"
         width: 640
         height: 428
+        isCached: true
+  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
+    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
+    publishedDateTime: 2021-08-04T11:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
+        width: 400
+        height: 271
+        isCached: true
+  - title: "Zillow – US-Israeli Startup uses AI to revolutionize real estate industry"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-05T02:18:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/429988.jpeg"
+        width: 822
+        height: 537
+        isCached: true
+  - title: "Artificial Intelligence in Real Estate: Embassy Group to Leverage AI Startup Staqu’s Platform Across Its Properties"
+    excerpt: "Its AI platform JARVIS to unlock a safe, secure, and more hygienic living experience at Embassy Group-owned real estate properties and"
+    publishedDateTime: 2021-08-04T13:53:00Z
+    webUrl: "https://www.indianweb2.com/2021/08/artificial-intelligence-in-real-estate.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 30
+    images:
+      - url: "https://1.bp.blogspot.com/-5mMMcrYA9MY/YQqbksHeQiI/AAAAAAAAERQ/srUe9Y5jN4k8xqJPr5otzN9ahBwLa_esQCLcBGAsYHQ/s16000/construction-1210677_1280%25282%2529.jpg"
+        width: 1280
+        height: 855
         isCached: true
 
 secured: "tPQBXtQhK790QF5E6aads8xvlKyK3hkSgVycRNzgIYVmBwHM7L9kZS96rfs0WIqhhjDCImKLLgTpB21DUjhfPwYUuYm6+ZVQPS7XxQZkA0sKOU+05ltbOByah+pzKtlwAJ/svfGaH5Y39orMuTR2lLYTWHl2qc6NWeO6wt+bqBxWWiCGzKxiTA+ewx1WVKIl2dvZMmrCb+Lh0gxpopzwMO3BaTDwiPNwyKngcQybS5rtH96xYUMll0LzOtONDnN6JSVyO1a+hOJ2xDemRGgdzjwJUs15QRs7Zd3QFKCc9OSa009TUVVGf26Yy+DEi+THBrVKnXIyrgXtLsZhPXAIWi3SNBLmVH0GEhROdF7akZha63XkZTZiDs8RHSKZvIBXLpi5AJGn+WLiNeOXrtVsIzZyEWDYef9GQOdFiy2a0i1Ptw7qF2uWXgFGN1b9jLyH1O7rKClG1XYsESRW1QAUQtwBxGhxAxaXZRnhDbA4RU+8isPAoiIiaaaTovY7Z9bgpXUio6MLnlQQAVwtH85YbQ==;XdiGrBgKn3WvwnodAau8ag=="
