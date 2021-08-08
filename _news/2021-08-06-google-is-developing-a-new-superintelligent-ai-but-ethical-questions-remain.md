@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintellig
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Embodied AI, superintelligence and the master algorithm"
-    excerpt: "In the next year and a half, we’re going to see increasing adoption of technologies which will trigger a broader industry shift, much as Tesla triggered the transition to EVs."
-    publishedDateTime: 2021-08-03T19:47:00Z
-    webUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1326099437.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "A|I: The AI Times – Artificial unintelligence"
     excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
     publishedDateTime: 2021-08-04T09:30:00Z

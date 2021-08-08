@@ -25,51 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Tensor Chip Could Spell Trouble for 5G"
-    excerpt: "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G."
-    publishedDateTime: 2021-08-06T13:28:00Z
-    webUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g"
+  - title: "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report"
+    excerpt: "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung."
+    publishedDateTime: 2021-08-05T10:57:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Gizmochina
+      domain: gizmochina.com
     quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05M7Sgx0f25cX2q7OKHezIg-1.1628184011.fit_lim.size_1200x630.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg"
+        width: 453
+        height: 558
         isCached: true
-  - title: "Google Tensor Chip: Everything You Need to Know"
-    excerpt: "Google has announced its first custom chip called Google Tensor for Pixel 6 phones. Here's all we know about the Google Tensor chipset so far."
-    publishedDateTime: 2021-08-04T07:44:00Z
-    webUrl: "https://beebom.com/google-tensor/"
-    ampWebUrl: "https://beebom.com/google-tensor/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-tensor/amp/"
+  - title: "Report: Google Tensor Chip Will Use 5nm Process, Samsung to Manufacture"
+    excerpt: "This chip will come in the new Pixel 6 and 6 Pro later this year, but Google didn't offer any real hardware details on Tensor, except to say it's based on technology from its Tensor AI server chips. A new report includes a few tantalizing details,"
+    publishedDateTime: 2021-08-04T14:42:00Z
+    webUrl: "https://www.extremetech.com/mobile/325403-report-google-tensor-chip-will-use-5nm-process-samsung-to-manufacture"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
     images:
-      - url: "https://beebom.com/wp-content/uploads/2021/08/Google-Tensor-Chip-Everything-We-Know-so-Far.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "What does Google Tensor mean for you"
-    excerpt: "Google will use third party designs for CPU, GPU and modem. This along with the fact that Qualcomm has said it intends to continue working with Google suggests that Tensor chips will be similar to cur"
-    publishedDateTime: 2021-08-06T11:26:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you-11628248184327.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/08/06/600x338/Google_1_1627956803628_1628249103870.jpg"
-        width: 600
-        height: 338
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/google-tensor.jpg"
+        width: 1344
+        height: 742
         isCached: true
 
 secured: "4rkk5/3/Wn6ftnjNF2xDhXSBUoRtvAMu2ZxBofZDSFags7yvkSK1Ox/y+NmmavaTBCFqmjcQDlLRCIHpQ5BHe2ue/IlmBO/5AH7MhYfcLlUVt4/g/xE8jbJDJHRPxDSGamXpaLpmOypstgic93bUrlCI1PE6+AUhJtn8PL2lF0CPXoF7OMpnXJRE+4rLazbiqsYwb5Lr2Jsk7OLxeWViDby7YSuCXLsRsGCi1nOBIkXHxeTekIWlAnKspChRxI8xB9EPWGmqnesVQ8JGRD+2wPl4QfGCEgM3wavSs895S3MvHExN4cepbkk5lca0JHUBsNdhE+/aV4cs3NO0jbkj24qfwEDuVrlgCc3OW8Ob0bnhrnSVd8ytZLwrw6PYUR0lKufQ6uX7mh/+Nru9Q9x4zzJoGlVryGGYAgfHLOXU13Ri8gxVU5YeDSu2DMpHP9oq/gImBj0dFRynX+1Ku32We1sLKRK1OXkMjmeiU43twZeIwz09s59xZ2I3UeZXksGjJiXRr7IzhLIspj3OdQqbBA==;0byhWvyH6ijkaBefNUKbBg=="

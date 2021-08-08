@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympi
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Technologies at Tokyo 2020 Olympics"
-    excerpt: "National Olympic teams are using machine learning to gain an edge in competition over their opponents at the Tokyo Olympic Games 2020. Machine learning technologies are being used at the international sports event from athlete data tracking,"
-    publishedDateTime: 2021-08-05T13:40:00Z
-    webUrl: "https://www.infoq.com/news/2021/08/ml-tokyo-2020-olympics"
+  - title: "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball"
+    excerpt: "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U."
+    publishedDateTime: 2021-08-08T07:50:21Z
+    webUrl: "https://lileicc.github.io/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2021/08/ml-tokyo-2020-olympics/en/headerimage/ml-tokyo-2020-olympics-1628067723489.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: github.io/
+      domain: github.io/
+    quality: 102
 
 secured: "QuWWd1nSKTsAWbzMAey9WrYXGm6u7iNoZV0hII8FXiYpjzluspKaxFH3AqaubdBBPbjOEEDqY6FS/C2JYdObVYE71ucI9SnVfOgjj0JwhCwk1Blldl4spfzQN6gEcLwqM2qbys7/YBPTpKjcRYsR1sZRVerUQ8bZkP/fjGaDcT+vW1sFtY0FJ+gvWug3/5pwwjYVQ9OgDPDYBE6DxZuD1uLYjA3B272GcxyIj7t8neIrvMuukNA7m/jIafb0EYzAEZF6tmJ6l4sTCP6ByAc8ZIzS+9dUGkL/XXS6gqqoadohas9g6uaFlKyl2vMH70akF59+SNjh6a71K7sYSJdpr9+Q1fuC2dVO07qG/s73OpeDWVAkdV76O10QJwSfNcjciGaElM4MNXcjzu8HAkVwm3VA9coIvz18jvbWAzXey1KiP+uhrkXLDIJyCQFJEvwoLfQWvssn0lK3fKbqYNt3VqfW3Sz+AjUTyVLKncDTNl3YKT348UBPpmzirDVbIxvjJOD6SE7NWIoBAZSnjfVrqA==;Bq1d3qUkwJvpIOSBFROjag=="
 ---

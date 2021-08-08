@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/06/famous-game-of-go-shines-spotlight-on-novelty-by-humans-and-by-ai-fortuitously-for-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://s25562.pcdn.co/wp-content/uploads/2018/09/iStock-521229477.jpg"
         width: 1613
         height: 1075
-        isCached: true
-  - title: "Apple Expands Its Fleet Of Self-Driving Cars, Again"
-    excerpt: "Apple has expanded the number of self-driving cars it has on the roads of California to 69 with 92 drivers, according to a new report. According to numbers shared by MacReports after collating them from the California DMV,"
-    publishedDateTime: 2021-08-03T19:23:00Z
-    webUrl: "https://www.redmondpie.com/apple-expands-its-fleet-of-self-driving-cars-again/"
-    type: article
-    provider:
-      name: Redmond Pie
-      domain: redmondpie.com
-    quality: 39
-    images:
-      - url: "https://cdn.redmondpie.com/wp-content/uploads/2021/02/apple-car-1200.jpg"
-        width: 1200
-        height: 640
         isCached: true
 
 secured: "XtfWudh1LN4OpmrXTsWnW4pNVTKlV1vj9BN85BYUBfOvlM/2L3+7EzIyp17AUfIXHVJxih/d/Ea2k2EPnoeNU8e8HfIWjSgaZeELZMGKETfeLHTK4ne/FiJsc53HufyIyXevKWYSQEMQnXYbEhzcc7xyzzJ1hYz/ganc7xgZUFX/4VqNkp89rWONkq9U9QQjMKBREHTu7/NoQ+4Bt1U8BUMLs9T83V6lfJGY8EZo+TxdTm/4ql7sEMBoyzbhq8TTqKpNAVTF8gk5wQwpHy8mhyf2ekEb0escCtXCQ/4YjHbU6tItPHE+sUYeq/gXL1d544KwgaE+mDj+S9/kHsa3bw+bHpRf8e+NW200l2vmiAsj0T7M8Zclr8dECdfZ7cW9FUTsKyPiwhMJNRX00rpkWBclwyT5xeVoSbI2sOTShoXrIHnMD6pt8LNPlG5hOtj/74oMAPsMjbdg1Fhslvgla5ZNOz/oT+PTP/ehIIw1uF+GhpQIM1Nc2Sl0eySBEmI/ivOyLUKZHUPloeVDmUhlTg==;8IIO6RzlNxB7PJtioPMO8A=="

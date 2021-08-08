@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://patch.com/img/cdn20/users/22836851/20210804/040837/styles/patch_image/public/machinelearning-450___04160735425.jpg?width=984"
         width: 450
         height: 338
-        isCached: true
-  - title: "Pudding.ai, Nielsen Collaborate on Data Analytics"
-    excerpt: "Pudding.ai has announced a strategic relationship with Nielsen to improve the capabilities of creative data analysis using artificial intelligence. As part of the combined efforts, Pudding.ai and Nielsen will be offering a solution for data-driven advertising decisions that will use AI technology to help advertisers better understand which creative elements work,"
-    publishedDateTime: 2021-08-03T19:47:00Z
-    webUrl: "https://www.tvtechnology.com/news/puddingai-nielsen-collaborate-on-data-analytics"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/puddingai-nielsen-collaborate-on-data-analytics"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/fDa37bDMackyZvsRtLuE5h-1200-80.png"
-        width: 1024
-        height: 1024
         isCached: true
   - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
     excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."

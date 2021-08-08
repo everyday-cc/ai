@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) As a Service Market"
+    excerpt: "Market size assessments and deal expectations for the business have likewise been created. Get a Sample Copy of the Report to understand the structure of the complete report Top key players: International Business Machines Corporation (IBM,"
+    publishedDateTime: 2021-08-06T06:05:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-as-a-service-market-size-status-and-global-outlook-international-business-machines-corporation-ibm-us-sap-se-germany-google-us/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 32
   - title: "Global Artificial Intelligence (AI) Chipsets Market size estimated to see upswing in upcoming period"
     excerpt: "Chipsets Market size estimated to see upswing in upcoming period” Market Overview. Zion market research published"
     publishedDateTime: 2021-08-05T14:36:00Z

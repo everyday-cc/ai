@@ -7,7 +7,7 @@ originalUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-californi
 webUrl: "https://appleinsider.com/articles/21/08/03/apple-expands-california-self-driving-car-fleet-amid-apple-car-rumors"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,53 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "DOT moves to allow self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
+  - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
+    excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
+    publishedDateTime: 2021-08-04T08:14:00Z
+    webUrl: "https://www.autoevolution.com/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608.html"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 22
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DOT moves to regulate self-driving car tests on NYC streets"
-    excerpt: "NYC wants to let companies road-test self-driving cars on the streets in spots around the five boroughs, according to recently proposed changes to city rules."
-    publishedDateTime: 2021-08-03T20:27:00Z
-    webUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/"
-    ampWebUrl: "https://nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/08/03/dot-moves-to-allow-self-driving-car-tests-on-nyc-streets/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/08/GettyImages-1155290071.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "TDOT, Vanderbilt studying self-driving cars on I-24"
-    excerpt: "Work said he believes the study will help autonomous car makers design better self-driving systems. Images are fed into a high-powered computer. The research will also allow for data to be collected about which road patterns cause the most accidents or ..."
-    publishedDateTime: 2021-08-03T22:44:00Z
-    webUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24"
-    ampWebUrl: "https://www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    cdnAmpWebUrl: "https://www-newschannel5-com.cdn.ampproject.org/c/s/www.newschannel5.com/news/tdot-vanderbilt-studying-self-driving-cars-on-i-24?_amp=true"
-    type: article
-    provider:
-      name: News Channel 5 Nashville
-      domain: newschannel5.com
-    quality: 44
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb021bc/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd9%2Fdd%2Fe0d32e564dc8afa851b2039c7986%2Fraw-frame-21182.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
+        width: 1524
+        height: 818
         isCached: true
 
 secured: "VSogRTfvlrSMEjC63c2caF0/ADxn29UcKT/YnRjEKCpyORmcnJtlUgzSWpy8VDqyxrbdb/7zwb7MyolXd0gKsZttQFIM162M0GWBiHDfdEVR8jopGHYFDUxDuguUDzbUXuHFFVR3GRRBHQO93b8dzSoJQHoxULv6uNjz9PPF2pmTA7glhsAE+Ca64vvYLmiXHyeVkDukJzG5Ml6gbpFi0j5T0zMpzrHF3qzqIvAFlvUJuDoYPxqzcP1GDnOGdJ2AKQhAVH9TMrP9c/0w56Lx6X33fE2WInd1uwjj+yIe3g2r24ZVw0DZnwt/9qCoAoE7r1Oq9H+dOAoqgcRNDSbJHNphHWI44q9bCJ10AQRjIKJUZXD9uu3TxSGQ6WfUH3kZby1L/Eii5UFYWLzPVRhzvMbHQaGK/3WPOhrC6O4lYQnpcS2lnBhAv7OlasK4ZmF3F3EjRSxsrn1/sfqnvd22HfzTZFYCE+PjvsOlPkGSwY/3+TDL9RWpPUzVvWikUMylohqc8W5j+wMaalA4e3x4xg==;SzvRS7sfMtmAV7PzWjX7hQ=="

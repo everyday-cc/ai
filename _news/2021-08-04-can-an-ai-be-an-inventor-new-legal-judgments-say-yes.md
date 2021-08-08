@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Recent Developments in Artificial Intelligence and IP Law: South Africa Grants World’s First Patent for AI-Created Invention"
-    excerpt: "On July 28, the Companies and Intellectual Property Commission of South Africa granted the world’s first patent on an invention created by an artificial intelligence (“AI”) inventor."
-    publishedDateTime: 2021-08-03T19:44:00Z
-    webUrl: "https://www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s"
-    ampWebUrl: "https://www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 45
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "In a world first, SA grants a patent listing an AI as the inventor"
     excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, it's anything but."
     publishedDateTime: 2021-08-05T09:49:00Z

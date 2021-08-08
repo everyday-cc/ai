@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 772
         isCached: true
-  - title: "Recent Developments in Artificial Intelligence and IP Law: South Africa Grants World’s First Patent for AI-Created Invention"
-    excerpt: "On July 28, the Companies and Intellectual Property Commission of South Africa granted the world’s first patent on an invention created by an artificial intelligence (“AI”) inventor."
-    publishedDateTime: 2021-08-03T19:44:00Z
-    webUrl: "https://www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s"
-    ampWebUrl: "https://www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/recent-developments-artificial-intelligence-and-ip-law-south-africa-grants-world-s?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 45
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "87REFYVG4ViW0gJYsAzp0LhBa8SqL3B5+VKuQ2EZmpIOLcMTfC0ITb2LgGsUgJJKkyNY8SfT0uY92Xs4UcZnj6BBzIpscK04KhTHMKUJmIES4xoowhBkYYwflewCzjnqBqsHruekICDj+OcUEAHoXXRe0jPiP1FiocIicPi0WBgw2h7T/PPYk56wkvLgikAa0gQPJyqiT4X4DpcWj1s3P8ZwFE0lZmTDitv+RDc+ZeMiF1pGlqUBc4nZ4UDAZBBgYLGBT2Hh0n6OlnmhouRMrLywF4NzmBt+AN9MmGfX2Eacg0yhCsk3pYGajB2yFpATDNcTzPDRt7J1/1dGhqde9tbpi5Bv1nYk1N8hNVQ26/aKDXeVtM2INIjpvd3jHRdy0cktzdiESE8KADqBwZSC2bLNQbIs7acCDkY56DTPMsTOeXvOe2Qq2m48zlJcHx4Qrl8AwJGzxQZ5bd8MhnxSiajTyHpAN1WYZRAVnATmXw5MYMt6MKKW8abs8uYMhOxxOryQ2ItrXV6wSmkA/SUqSQ==;fgQa5bJS8GVaAB3yuSr4LQ=="
 ---

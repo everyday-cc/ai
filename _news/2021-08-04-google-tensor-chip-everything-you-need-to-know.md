@@ -41,20 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google Pixel 6 to have new AI Tensor chip"
-    excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."
-    publishedDateTime: 2021-08-05T03:31:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/google-pixel-6-to-have-new-ai-tensor-chip.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 54
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/google%20pixel%20AI%20chip.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "What does Google Tensor mean for you"
     excerpt: "Google will use third party designs for CPU, GPU and modem. This along with the fact that Qualcomm has said it intends to continue working with Google suggests that Tensor chips will be similar to cur"
     publishedDateTime: 2021-08-06T11:26:00Z

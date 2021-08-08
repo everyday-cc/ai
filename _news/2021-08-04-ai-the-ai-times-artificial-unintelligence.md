@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Embodied AI, superintelligence and the master algorithm"
-    excerpt: "In the next year and a half, we’re going to see increasing adoption of technologies which will trigger a broader industry shift, much as Tesla triggered the transition to EVs."
-    publishedDateTime: 2021-08-03T19:47:00Z
-    webUrl: "https://techcrunch.com/2021/08/03/embodied-ai-superintelligence-and-the-master-algorithm/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1326099437.jpg?w=600"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Embodied AI, Superintelligence, and the Master Algorithm"
     excerpt: "Superintelligence, roughly defined as an AI algorithm that can solve all problems better than people, would help us make better predictions about challenges such as natural disasters, building resilient supply chains,"
     publishedDateTime: 2021-08-05T15:39:00Z

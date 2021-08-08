@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-
 ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610f2050ad1276be1f7b70ae%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 844
     isCached: true
 
-secured: "vhC45qYpeumXzeW8xfL3nR+hiYJ06RE00570o8swxQa5yhg2r/cHRKdwQFOmW3yunCOrLH3cf9DVGBF3kPQfIa8lN7P9unnWBcWVoV4URD7p0Xkd3TTRu/fod01ZjQsl5myEBRlUkY5qQcTZ7/sKUkLoPlk6CRyKyVzu1xxUdk27GA+wzRtu1Cdu1e75OuUsnlbV2hGyiTvYWwHoi6+Ga/1BFEOJG/SDjmqpl8eJJiC5fGKLxAneJ5aggvGI0kKD4Ur0bxVk6TYR/a/kWRhh+YmiwZ/dIyRZvDfL7oZ2gyYvYJJLoTwQaSqCzPKuIe4FIvY+voudpMNcg8BK4EzyWTU0obCz5NrIg4GfCI8brHE=;rgOM9cAyOwSpw2+tDen9Nw=="
+secured: "z022SFykZde0UTfHuRBeCK2cg7K4ItFYR/96KZ5+WjNT9xy37cn9ARj0/5oamVKVhCyWHWfSMEWOUlXVzjo2VGdbQFtr//Sj+/SJJWihfTY++Mhhzxe0EjgxfxRAMn5QFbFBHTDmXjufvngOs4a+rIwcQkAxkC4yxuaF60ByYO4ZlYlGa+klmPvY7AQS4qf+uqJyJPYyBkcmbwyBgbZ9CNAwl0BlpiBmI8JMrwmFCKd2kkzas/kouoXdjTXLA/60a0obWkTGLrimoQKsU2VdOnb2TRb+uM/R//P1B63b7/feIMR6svOkQxz1l/r4BN0tqXIN27B+62eliiqW9yfbO+a6eD1Ykzwlce+AvPi149Vq7MXmxD8o1xxgPA3qVdzTUrKus/lR2xdf6yDmN948pVLzJQCmb5/ifHNJOjtK7ZKufIvlo2qUbo4lx3QIRiFgpxCp7tpbOr3Db8uMCrenHp875N/cdaDWbCOa8En2UgHQqSRYWI+qR9TyTtYvraF8X267w7AShwOq9ZaEH76FDw==;r2xADY/oYPagtpjWry1vyw=="
 ---
 
