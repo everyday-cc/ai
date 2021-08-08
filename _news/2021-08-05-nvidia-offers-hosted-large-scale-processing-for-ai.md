@@ -39,34 +39,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "NVIDIA’s AI Startup Acceleration Platform Surpasses 8,500 Mark"
-    excerpt: "NVIDIA Inception, an acceleration platform for AI startups has now surpassed 8,500 members. It now accounts for about two-thirds of the total number of AI startups worldwide, as per Pitchbook. NVIDIA Inception is one of the largest AI startup ecosystems in the world with cumulative funding of $60 billion and has members in 90 countries."
-    publishedDateTime: 2021-08-03T12:11:00Z
-    webUrl: "https://analyticsindiamag.com/nvidias-ai-startup-acceleration-platform-surpasses-8500-mark/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/NVIDIA_AIM.jpg"
-        width: 1280
-        height: 680
-        isCached: true
-  - title: "Accelerate Artificial Intelligence Initiatives with DDN and NVIDIA at Any Scale"
-    excerpt: "Sponsored Post] In this whitepaper, DDN and NVIDIA invited ESG to interview several of their joint customers that have been running production AI environments to better understand their needs and to confirm the value that DDN and NVIDIA are providing."
-    publishedDateTime: 2021-08-03T12:13:00Z
-    webUrl: "https://insidehpc.com/2021/08/accelerate-artificial-intelligence-initiatives-with-ddn-and-nvidia-at-any-scale/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 33
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/07/DDN-Accelerate-Artificial-Intelligence-WP-Cover.png"
-        width: 455
-        height: 600
-        isCached: true
 
 secured: "9nobAAeBAYp2d4VaUQExjGUskq/ab7C+sLBHNBt0XEKTJLgnaFIZpfzieLUBF5PLvBsLr7E46xeQNEV2ZcHjftaYogtzAHvhZ5LcXEopWZHNT9ynXHCrw1SlblN4DBiTCVCoJk9AWzEq0kKxSit1FPugmRT76LH8NUyMqwPhQlln9Bh+LWb/tvAWib1ME7LhQJDUMcXkyh3mQI9ye6IqGFSNCm71ZLT3E7h1O055EqDS0E3iTZTaxKEa4CKkLv4nEG52iWKQzpmSXg2HXA2Z43ktbQNq1Yr5P/TOToODyGvxWpu+lPXFTGELbXgrLXC5SqIf7mQmWf7na/XG/brjlIE7gnG2i8ZSqSGg7SNtK7I9k9uZrVhmKAH/r8hr+iUWJyH0k33ANmoHyMbj0aqCHKs12tGpNgBpdaOD9H7sOl4LhitAEDR/QtA66V7cqcb90o4eSlv4M6/eTdlXVPfi99N9U+Ey4JAK18RJD/iEocm5rTMU4rtwthkXEgbtd0V7yaklrYuip6ysfE2qjBMriQ==;/rFcA5ChEscJQ63sD83uxA=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Intel expands AI career education program to 18 community colleges"
-    excerpt: "Program will teach data collection, computer vision and AI model training to community college students in 11 states."
-    publishedDateTime: 2021-08-03T13:00:00Z
-    webUrl: "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 108
-    images:
-      - url: "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg"
-        width: 644
-        height: 362
-        isCached: true
   - title: "Intel expands college AI training programme to 11 US states"
     excerpt: "Intel is working with Dell to expand its AI for Workforce Program to 18 additional institutions across 11 US states to help educate the next generation of US technologists, engineers, and inventors. The programme,"
     publishedDateTime: 2021-08-04T12:20:00Z
@@ -78,6 +62,36 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "FORE offers data analytics programme for healthcare pros"
+    excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
+    publishedDateTime: 2021-08-04T06:50:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
+    images:
+      - url: "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "AI accelerator programme helps tech start-ups raise £6.3m"
+    excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
+    publishedDateTime: 2021-08-05T09:25:00Z
+    webUrl: "https://www.thetimes.co.uk/article/2fc0f5fc-f5cb-11eb-a2a3-afea84050239?shareToken=3592b19cb2424354fa6025be563916c8"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff4f83270-f578-11eb-8f01-2c678acbb979.jpg?crop=3374%2C1898%2C70%2C105&resize=685"
+        width: 685
+        height: 385
         isCached: true
   - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
     excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."

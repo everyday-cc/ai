@@ -41,22 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google develops custom chip for upcoming Pixels"
-    excerpt: "Google revealed its upcoming Pixel 6 smartphones would be powered by in-house chip Tensor, boosting AI and machine learning capabilities."
-    publishedDateTime: 2021-08-03T11:37:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels"
-    ampWebUrl: "https://www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels/amp"
-    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/google-develops-custom-chip-for-upcoming-pixels/amp"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 59
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2021/08/MWL_Google_Pixel_6__Portfolio_Shot_650.jpg"
-        width: 651
-        height: 400
-        isCached: true
   - title: "Google Tensor Chip: Everything You Need to Know"
     excerpt: "Google has announced its first custom chip called Google Tensor for Pixel 6 phones. Here's all we know about the Google Tensor chipset so far."
     publishedDateTime: 2021-08-04T07:44:00Z

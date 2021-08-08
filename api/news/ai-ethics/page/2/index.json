@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-17-announcing-the-ai-innovation-awards-winners-at-transform-2021.md",
+      "title": "Announcing the AI Innovation Awards winners at Transform 2021",
+      "excerpt": "The AI Innovation Awards recognize work in natural language processing, business applications, edge computing, startups, and AI for Good.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/announcing-the-ai-innovation-awards-winners-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-anthony-bourdain-documentary-roadrunner-sparks-a-strange-ethics-debate.md",
       "title": "Anthony Bourdain Documentary ‘Roadrunner’ Sparks A Strange Ethics Debate",
       "excerpt": "Neville stated: “If you watch the film, other than that line you mentioned, you probably don’t know what the other lines are that were spoken by the AI, and you’re not going to know. We can have a documentary-ethics panel about it later.”",
@@ -1377,58 +1430,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-google-sold-25-million-in-ai-to-the-pentagon-for-its-covid-19-recovery.md",
-      "title": "Google Sold $2.5 Million In AI To The Pentagon For Its Covid-19 Recovery",
-      "excerpt": "A previously-undisclosed deal with the Pentagon reveals Google sold AI tech for the DOD’s Covid-19 recovery. But, with no contractual “red line,” there were concerns it could have been repurposed for non-Covid military projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dc766f9b49abb41e383c3e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/07/01/google-sold-millions-in-ai-to-support-the-pentagon-covid-19-recovery/amp/",
-      "publishedDateTime": "2021-07-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

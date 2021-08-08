@@ -7,8 +7,8 @@ originalUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earne
 webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Wipro
@@ -39,15 +39,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-08-03T12:07:00Z
-    webUrl: "https://www.publicnow.com/view/90D1D418923960C141FF3122DBD1BB4C901736A6"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 32
 
 secured: "zz7/fIVMJRWukHp7YuVWfQY2C20flIiTxDEf4WC1GJUHNFIs0TkygAD5MFiovi/c9uYpYns9uw6YnbnZnCqtErXhMkRXUQzQyXNWwkfhKshA4Gz/K5uXZLqlnKnoN+ffsgV51aKQBONLhHJPqR4Ej2wzJJBaN9/QbYKNx0BewYf9J+ET9DaWykiEXTJLJ0bZsA644Yr6iVDyRM3Lxyg79QOrJTsCQN8ysXqhBLI2lZXi44/PRkXXhTwwJ3IFf3HPvcbOSInKxefx4oaQ+cdsk3soV3CJ40QbEjRD0GKFMhYbkAoTTBZwAvYJX3224NhbNPNjo85CnDTUHp9XbDd0cfFwT62R3gscb8y+3DrYLRA=;j5XyVbyjfDC6B5G+7fRzOQ=="
 ---

@@ -2,6 +2,109 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-06-29-deep-instinct-chairman-talks-deep-learning-cyberthreats-and-plans-to-go-public.md",
+      "title": "Deep Instinct chairman talks deep learning, cyberthreats and plans to go public",
+      "excerpt": "Deep Instinct Chairman Lane Bess joined Jim Cramer on \"Mad Money\" to discuss how the privately held outfit applies artificial intelligence to cybersecurity in preventing hacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/06/28/deep-instinct-chairman-on-deep-learning-cyberthreats-and-going-public.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106903794-16249247252ED1-MM-Block-B-062821.jpg?v=1624924723",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-ai-fueled-e-discovery-company-disco-plans-ipo.md",
+      "title": "AI-fueled e-discovery company DISCO plans IPO",
+      "excerpt": "E-discovery company CS Disco Inc is planning an initial public offering, becoming the latest legal technology company in recent weeks to signal an intention to go public.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "originalUrl": "https://www.reuters.com/article/us-legalinnovation-disco-ipo/ai-fueled-e-discovery-company-disco-plans-ipo-idUSKCN2E42IO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/xp3SDa5zAMdtot6k2OQH8qSHMmo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6NABBBIZSBKV7BEZR3CEN6IG7A.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-federal-judge-dismisses-ftc-antitrust-complaint-against-facebook.md",
       "title": "Federal Judge Dismisses FTC Antitrust Complaint Against Facebook",
       "excerpt": "A federal court on Monday (June 28) dismissed a Federal Trade Commission (FTC) antitrust complaint against Facebook.",
@@ -1003,91 +1106,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-big-techs-car-obsession-is-all-about-taking-eyes-off-the-road.md",
-      "title": "Big Tech’s car obsession is all about taking eyes off the road",
-      "excerpt": "Giants from Huawei Technologies to Baidu have pledged to plow almost $19 billion into electric and self-driving vehicle ventures this year alone. Smartphone giant Xiaomi and even Apple’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "originalUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/big-techs-car-obsession-is-all-about-taking-eyes-off-the-road/?amp=1",
-      "publishedDateTime": "2021-06-28T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-28-meet-the-new-standard-in-risk-management.md",
-      "title": "Meet the new standard in risk management",
-      "excerpt": "Legacy assessment based third-party risk management (TPRM) practices have struggled for years to keep pace with business needs. During the COVID-19 crisis, these shortcomings became even more acute. Companies faced additional unanticipated challenges involving the rapid onboarding of new service providers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/06/new-standard-in-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/OpenPages-and-Supply-Wisdom.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-28T06:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

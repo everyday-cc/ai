@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-04-wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization.md",
-      "title": "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization",
-      "excerpt": "Only partners that meet stringent criteria around customer success and staff skilling, as well as pass a third-party audit of their container-based workload deployment and management practices are able to earn the Kubernetes on Azure advanced specialization.",
+      "path": "_news/2021-08-03-tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it.md",
+      "title": "Tennis Is Now On The Cloud And Powered By Applied AI, And This Is How Roland-Garros Did It",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into the Roland-Garros Players Application for players and coaches. Patrick talks about how it offers AI-powered match analysis with cognitive capabilities such as natural language search.",
       "sourceUrl": null,
-      "webUrl": "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/",
-      "originalUrl": "https://www.wipro.com/newsroom/press-releases/2021/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/",
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wipro.com/content/dam/nexus/images/search/loading.gif",
-          "width": 350,
-          "height": 350,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61096882d03b841ec749f140%2F0x0.jpg",
+          "width": 468,
+          "height": 312,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,14 +128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T11:32:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/08/03/tennis-is-now-on-the-cloud-and-powered-by-applied-ai-and-this-is-how-roland-garros-did-it/amp/",
+      "publishedDateTime": "2021-08-03T09:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wipro",
-        "domain": "wipro.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -144,8 +153,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

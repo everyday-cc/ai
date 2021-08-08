@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2026."
-    excerpt: "Artificial Intelligence in Retail is used to preserve inventory accuracy, enhance customer service, and improve"
-    publishedDateTime: 2021-08-03T11:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2026-2021-08-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing (NLP)"
     publishedDateTime: 2021-08-04T09:54:00Z

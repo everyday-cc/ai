@@ -19,20 +19,32 @@ topics:
   - AI
 
 related:
-  - title: "Meet Cassie, the first two-legged robot to set a running record using machine learning"
-    excerpt: "Cassie, a robot invented at Oregon State University in Corvallis, has set a record as the first two-legged robot to use machine learning to control its running gait on outdoor terrain, the university said."
-    publishedDateTime: 2021-08-03T12:24:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning/articleshow/84999326.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning/amp_articleshow/84999326.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning/amp_articleshow/84999326.cms"
+  - title: "Bipedal robot from Oregon State University completes 5-km run using machine learning"
+    excerpt: "A bipedal robot from Oregon State University has become the first to run a five-kilometre course using machine learning, according to the school."
+    publishedDateTime: 2021-08-08T01:25:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/bipedal-robot-from-oregon-state-university-completes-5-km-run-using-machine-learning-1.5538770"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 68
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 49
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1251483,msid-85000633/cassie-the-robot.jpg"
-        width: 600
+      - url: "https://www.ctvnews.ca/polopoly_fs/1.5538773.1628384195!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Machine-learning robot completes 5km run in record time"
+    excerpt: "The fastest ever 5km sprint by a bipedal robot using machine learning (ML) has been achieved with a device named 'Cassie', developed at Oregon State University."
+    publishedDateTime: 2021-08-03T16:03:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/machine-learning-robot-completes-5km-run-in-record-time/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 41
+    images:
+      - url: "https://eandt.theiet.org/media/16453/cassie_5k.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132724803900000000"
+        width: 1200
         height: 450
         isCached: true
 

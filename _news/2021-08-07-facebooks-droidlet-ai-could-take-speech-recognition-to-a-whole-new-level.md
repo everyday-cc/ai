@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-is-trying-to-make-ro
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Droidlet: One-Stop Destination for Robotics with NLP"
-    excerpt: "Facebook has launched an open-source heterogeneous Robotics development platform known as Droidlet. This article features how Droidlet is created to help researchers and developers to build smart robots through NLP and Artificial Intelligence."
-    publishedDateTime: 2021-08-03T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/facebook-droidlet-one-stop-destination-for-robotics-with-nlp/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Facebook-Droidlet.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Facebook – Meet Facebook’s Experimental Droidlet A.I."
     excerpt: "Between Facebook’s core social network product and apps like Messenger and WhatsApp, Mark Zuckerberg’s tech giant has undeniably changed the way people communicate. Could it next help change the way we communicate with robots?"
     publishedDateTime: 2021-08-07T20:04:00Z

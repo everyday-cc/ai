@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-s
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-customer-service-experiences-using-conversational-ai-power-your-contact-center-with-amazon-lex-and-genesys-cloud/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165061_conversationalai.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Dynata Acquires Leading Survey Experience Platform inBrain.ai, Strengthening Capability To Deliver Insights Needed To Power Business Decision-Making"
-    excerpt: "Dynata, the world's largest first-party data platform for insights, activation and measurement, today announced the acquisition of inBrain.ai, a people-based insights and survey platform. The acquisition furthers Dynata's mission of investing in user experience to collect the highest quality data from real,"
-    publishedDateTime: 2021-08-03T12:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dynata-acquires-leading-survey-experience-platform-inbrain-ai-strengthening-capability-to-deliver-insights-needed-to-power-business-decision-making-1030682997"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-    images:
-      - url: "https://mma.prnewswire.com/media/808175/Dynata_Logo.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Conversational AI and Customer Experience Automation Platform yellow.ai Secures $78M+ via Series C led by Westbridge Capital, Others"
     excerpt: "Conversational AI and customer experience automation platform yellow.ai secures $78M+ via Series C led by Westbridge Capital, others."

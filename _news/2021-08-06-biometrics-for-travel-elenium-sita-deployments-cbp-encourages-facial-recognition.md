@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ORD - MDW encourages travelers to use facial recognition"
-    excerpt: "US Customs and Border Protection (CBP) at Chicago's O'Hare International Airport (ORD) and Midway International Airport (MDW) are enco"
-    publishedDateTime: 2021-08-03T11:16:00Z
-    webUrl: "https://menafn.com/1102557868/ORD-MDW-encourages-travelers-to-use-facial-recognition"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-08/02/CNG_bc16bimage_story.jpg"
-        width: 696
-        height: 464
-        isCached: true
   - title: "ORD and MDW Encourages Travelers to Use Facial Recognition"
     excerpt: "Global Entry is CBP’s premiere Trusted Traveler program that allows pre-approved, low-risk travelers to receive expedited clearance upon arrival into the United States at select airports. Participation in the program is open to U."
     publishedDateTime: 2021-08-04T15:33:00Z

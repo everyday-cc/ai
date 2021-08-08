@@ -41,20 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Facebook Droidlet: One-Stop Destination for Robotics with NLP"
-    excerpt: "Facebook has launched an open-source heterogeneous Robotics development platform known as Droidlet. This article features how Droidlet is created to help researchers and developers to build smart robots through NLP and Artificial Intelligence."
-    publishedDateTime: 2021-08-03T11:45:00Z
-    webUrl: "https://www.analyticsinsight.net/facebook-droidlet-one-stop-destination-for-robotics-with-nlp/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 71
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Facebook-Droidlet.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "Vbo6ygGDZhnYg9c+aubv6kkUsHR2S/nhIMt9aqDopsHwcBIenLf5NzzQ8oyOxSBWcb+LQavOoOxtkULiyjAQF2jKucSYkZ7UpC4OehLiPHml8xrs0t6GgKGxBS2pyba2a3vnIp+pClT8r4uCN0wo1IKP2FrtC47GzX128aNWb8F0yvmWI+q/qWe28kA+cl994oeyyxYZNBqCgRd/MHOzvOMQ5FieWKVhk1UANC8LhoP68OsUfHFKZOIjha5D5DT1wmWcdRVRGLG2J09E5vw+AxCzeoYUDm/r1XVcxcXFQ1PkPemDYH8DVRzbYpPBuZkMiwHpN6XaARl1A1cBQ1GfoKDFddCCYhTeNIMJNsNlsjjmoX2elauJPdwMHDPb432oMMiWlxZiSInXP61fk+L5sVa2g9XDc+fYFMtiLVvnRynw6U1BL/SCGj74SUugpyFB5shdyvd+H4p6RKVxmx1TLEnNeVihJOTzvREjYaIbH6fcx7sWoIvRDd7O6wKiUMj4pJcStHKzcvsUnGdw0kIaJQ==;Zj/9d4eP5UUAWzisHRzKmA=="
 ---

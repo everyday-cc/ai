@@ -2,6 +2,112 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-16-can-religion-guide-the-ethics-of-ai.md",
+      "title": "Can Religion Guide the Ethics of A.I.?",
+      "excerpt": "to remake the world. These believers are fighting to make sure thousands of years of text and tradition find a place among the algorithms. Artificial intelligence promises to remake the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
+      "originalUrl": "https://www.nytimes.com/interactive/2021/07/16/opinion/ai-ethics-religion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
+          "width": 4500,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
+      "publishedDateTime": "2021-07-16T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021.md",
+      "title": "VentureBeat presents AI Innovation Awards nominees at Transform 2021",
+      "excerpt": "The AI Innovation Awards honors companies and individuals who stand out from their peers in solving challenges in creative ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "originalUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/jason-leung-Xaanw0s0pMk-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/venturebeat-presents-ai-innovation-awards-nominees-at-transform-2021/amp/",
+      "publishedDateTime": "2021-07-16T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-what-ever-happened-to-ibms-watson.md",
       "title": "What Ever Happened to IBM’s Watson?",
       "excerpt": "IBM’s artificial intelligence was supposed to transform industries and generate riches for the company. Neither has panned out. Now, IBM has settled on a humbler vision for Watson.",
@@ -1050,102 +1156,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
-      "title": "Why we need engineers who study ethics as much as maths",
-      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why comprehensive education in ethics should be embedded in the training of engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "originalUrl": "https://theconversation.com/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/404650/original/file-20210606-80132-z4b58d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-we-need-engineers-who-study-ethics-as-much-as-maths-161356",
-      "publishedDateTime": "2021-07-15T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-native-voice-nabs-14m-to-convert-devices-into-branded-voice-assistants.md",
-      "title": "Native Voice nabs $14M to convert devices into branded voice assistants",
-      "excerpt": "Native Voice, a company developing an SDK that allows companies to bring branded voice assistants to devices, has raised $14 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ScreenShot2021-01-03at10.04.26AM.png?w=1200&strip=all",
-          "width": 1000,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/native-voice-raises-14-million-to-bring-branded-voice-assistants-to-more-devices/amp/",
-      "publishedDateTime": "2021-07-15T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
