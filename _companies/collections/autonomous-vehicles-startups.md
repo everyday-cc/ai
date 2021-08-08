@@ -2,7 +2,7 @@
 name: "Autonomous Vehicles Startups"
 overview: "Here is a list of autonomous vehicles startups with early stage venture funding."
 type: "collection"
-heat: 85
+heat: 104
 
 
 query: item.tags contains 'Autonomous Vehicles'

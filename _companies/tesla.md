@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 567
+heat: 576
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 10698204
+  followers: 10699025
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "tCil2IEK9y/RLeeVkgROzmZKLUKYp89+6FFmRbt/L+EWwEjMUBn6kdLPx3/Bo8LnnQm5m/PolNQXn5O01f/SGSHMmlXw7lKeXFLbVrKQkR/46nLY/sWlbkWUEzmcjk2x7TsOunq58hzsoiWsZ+dJ6Rg6L4jU5UfrQQWoAa+vBQRe2Sh3nHKqLtkvwIHy8EeUpEPuTT6xoOlFIbno705uXB0rTvLs6uof8AvuUFMb/+OdhGCnYc6AaQf7vPzl8aeV8UnQayoLdLKbi2GDV5JqVFSMHHP+FHbkrRZeH5aHbv2m5JiUovGDZbFj+sVYeTEirVJZelfH0yl6o96a/jtThzYDFsYgUUxCviQK8ROkwc09Nqm+vSsrXL1xmBfMKg1WCyecJqAdvU1W0UaBb8CwB/ax2fV0Wt3X1ybbqqk2G4g=;Nd3S/awlbZcIbiTpzy7aBw=="
+secured: "KWT91lPpboRwKRfun+gv7H0f2J+f+486EDmLat8byLGx/qtd3Uf0n1ShYDXyZDsRTALiYLdXljf8izs/ENHaD6ITB1syL8AGkmPaRptPtnxP8iDPLuIOqPIAgt8P2W3z+H105T21bk0nOIvmEwFoHKtNLytLoaJJpUzJXgy96O88wqTIAdifR1mSTTib9dWAwp/eGJvTOXzDbW4MYKc5kHfuZ8ueGByGOM/xP4RLjZFMbm0wAp4XoUop46q9OCKhiLLKrrETEPRFmF1+Ik+qtogTWjIoiHSYzBbGgAS/fUUCR3TVwy+lqczWtJSI++j9n3ZtLkzCWqjgrbDZnzpQJMpSKDB4JDfy4oXPfQ0OI9kmW2yr1KyLrYBpDT/jxLumvhJ+mrdBMjXM/GP5Q0wJ8G1WRZ851Y/Fy4JUIWfwfqA=;7aRKCZY03l1Jn4GLTLo++w=="
 ---
 
