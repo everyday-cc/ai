@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft expands data interoperability, search offerings in healthcare cloud: 6 details"
-    excerpt: "Microsoft rolled out new health data services for its healthcare cloud platform Aug. 3, including the ability to share multiple data types in the Fast Healthcare Interoperability Resources format. 1."
-    publishedDateTime: 2021-08-03T21:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-expands-data-interoperability-search-offerings-in-healthcare-cloud-6-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 62
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/9.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
     excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
     publishedDateTime: 2021-08-07T12:32:00Z

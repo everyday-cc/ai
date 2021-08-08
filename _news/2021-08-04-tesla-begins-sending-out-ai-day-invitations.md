@@ -43,6 +43,20 @@ related:
         width: 872
         height: 872
         isCached: true
+  - title: "What to Expect From Tesla's AI Day Scheduled for Aug. 19"
+    excerpt: "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week."
+    publishedDateTime: 2021-08-08T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Tesla AI Day: Five Things You Should Know"
     excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."
     publishedDateTime: 2021-08-04T21:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/"
 type: article
 quality: 79
-heat: 81
+heat: 79
 published: true
 
 provider:

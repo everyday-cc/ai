@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-design
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Arrival-Van-Binary-Code.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Microsoft expands data interoperability, search offerings in healthcare cloud: 6 details"
-    excerpt: "Microsoft rolled out new health data services for its healthcare cloud platform Aug. 3, including the ability to share multiple data types in the Fast Healthcare Interoperability Resources format. 1."
-    publishedDateTime: 2021-08-03T21:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/microsoft-expands-data-interoperability-search-offerings-in-healthcare-cloud-6-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 62
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/9.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
     excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."

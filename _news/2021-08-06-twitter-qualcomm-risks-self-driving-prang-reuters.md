@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Qualcomm to continue working together despite new Tensor chip"
-    excerpt: "While neither Google nor Qualcomm, have said anything about what these partnerships will be, it's possible that Google will continue sourcing modems and other components from Qualcomm"
-    publishedDateTime: 2021-08-03T21:38:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://images.livemint.com/img/2021/08/03/600x338/Google_1572917561307_1627985235381.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Qualcomm risks self-driving prang"
     excerpt: "Qualcomm’s (QCOM.O) excitement over self-driving may be dragging it off the financial highway. The $165 billion U.S. telecommunications technology group is offering $4.6 billion for Sweden’s Veoneer (VNE."
     publishedDateTime: 2021-08-05T17:30:00Z

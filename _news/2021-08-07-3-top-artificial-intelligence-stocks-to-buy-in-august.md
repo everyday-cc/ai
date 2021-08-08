@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "6 AI Business Tools That Will Matter in 2022"
+    excerpt: "Today, many companies are looking towards AI solutions to help manage key aspects of their business, from communication all the way to human resources."
+    publishedDateTime: 2021-08-08T12:33:00Z
+    webUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963"
+    ampWebUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/08/6-ai-business-tools-will-matter-2022.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "dhmCB5zOZU6T5ffMBopzpsklekbx8y545V4AXxNQckJs2lwLY1F1AkLifFjYdpf5WNZi1mddEhaGqqRPPUmXTnUGN7CtZ3kfdBptACwN9KxWvYol7jf15x3ndLooNdJ+nJNm8Ll04vDEK8vGIQOZnZnRBZEdO+29UnQJ72cxULFY5Dgpj7mTsHDHZp0o0BO4DhIxp4nPZ8zImJL5jAZN63XuO77QGjDIX9HAspB2QHHnqvmZEZgWSX/8anAyC0gdoHiwwZ6w7No53NJ/ZBJA4TStMiFICSgcjb1PRZGRDlMnhzMYEvz8xulQYUUucn7o7KJ/5jVkLxYVYKppDyv2e3uLIkWoTYFvkj0ldyP8rVfruOp9K1qfaikGuoxsmjM/W/N47jaGsuqUUuwXidBV9GPphpU66345msrg86F0yjYIO6A6EX1Zz6GSa97n9+/zslxYBeIMcSnx08tfZp6Ve1R//xi8sRPRjMIRAZc37DBfmR4dva9SIGffrS31h3h6GQFlF/TzMjp5QMrDBxRc7g==;bnxVNAEhNZvQQNh/QqmyTQ=="
 ---

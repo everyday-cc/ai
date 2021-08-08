@@ -56,20 +56,6 @@ related:
         width: 777
         height: 824
         isCached: true
-  - title: "Fighting Porch Pirates with Artificial Intelligence"
-    excerpt: "To ensure that porch pirates don't go unpunished, he turned to artificial intelligence to unleash righteous vengeance. Machine learning is a form of artificial intelligence that excels at recognizing patterns within enormous data sets."
-    publishedDateTime: 2021-08-03T21:25:00Z
-    webUrl: "https://www.hackster.io/news/fighting-porch-pirates-with-artificial-intelligence-810bb6042626"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 37
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1331868/_8JalOumOm2.blob?auto=compress%2Cformat&w=600&h=450&fit=min"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence (AI) In Drug Discovery Market to acquire new heights with increase in innovations"
     excerpt: "In Drug Discovery Market research report offers an in-depth evaluation of all happenings in the Artificial Intelligence (AI) In Drug Discovery Market sector. This report is crafted to assist every participant,"
     publishedDateTime: 2021-08-04T12:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-
 webUrl: "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google and Qualcomm to continue working together despite new Tensor chip"
-    excerpt: "While neither Google nor Qualcomm, have said anything about what these partnerships will be, it's possible that Google will continue sourcing modems and other components from Qualcomm"
-    publishedDateTime: 2021-08-03T21:38:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip-11627984911443.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/google-and-qualcomm-to-continue-working-together-despite-new-tensor-chip/amp-11627984911443.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://images.livemint.com/img/2021/08/03/600x338/Google_1572917561307_1627985235381.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Twitter – Qualcomm risks self-driving prang | Reuters"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-05T17:54:00Z

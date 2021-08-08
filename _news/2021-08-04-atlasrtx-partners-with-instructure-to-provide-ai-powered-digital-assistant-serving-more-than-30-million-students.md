@@ -28,7 +28,7 @@ related:
   - title: "Omantel Partners with Elevatus to Assess Generation Z Talent with AI-Powered Video Assessments"
     excerpt: "Omantel is the first company in Oman to strategically partner with Elevatus, to leverage and utilize its video assessment solution that is powered by AI. With over 2,400 employees, the highly acclaimed and leading telecommunication company used the innovative AI technology to assess a mass number of applicants for an internship program."
     publishedDateTime: 2021-08-08T13:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704343"
+    webUrl: "https://markets.businessinsider.com/news/stocks/omantel-partners-with-elevatus-to-assess-generation-z-talent-with-ai-powered-video-assessments-1030704342"
     type: article
     provider:
       name: Business Insider

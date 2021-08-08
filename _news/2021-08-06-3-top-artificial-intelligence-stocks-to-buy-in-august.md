@@ -36,6 +36,22 @@ related:
         width: 720
         height: 433
         isCached: true
+  - title: "6 AI Business Tools That Will Matter in 2022"
+    excerpt: "Today, many companies are looking towards AI solutions to help manage key aspects of their business, from communication all the way to human resources."
+    publishedDateTime: 2021-08-08T12:33:00Z
+    webUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963"
+    ampWebUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/08/6-ai-business-tools-will-matter-2022.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "b3eA90sgqIhl4somvjOxJi/Gtsyg/utR1k7OIgfHuTcxfdguaAx18SjWrKSf5i838q4fcXsuatZIC5fU6+NroSgFO0je6LJ6bFRQTWKlgeSmh3x/F/8uIHMPeOhX5UztUsXaDmZ+Gy4vFDUYE5D4G8d5/qFMUgQAS+eHe4vhxjx5+8ETiWtmzKjQ7SM0ZOuZzRzAVdBA/Jbgs2m6pJURq40GMa0LFm4wLjz/dQVGYNKAVIXd+E3jzZXMjxqsLerxnuN6JQ10YrITe0xWUnYM9sf+yi/nF2Z502NyIGNhtvJ/yDoQ4kGd96uqTV9hpwr7ENxLi39EaB7cO67Xp7mDc1leUywWQ0jX7FsoMGxLHgE=;hWw7azD7VzmBzVEUodRUSg=="
 ---

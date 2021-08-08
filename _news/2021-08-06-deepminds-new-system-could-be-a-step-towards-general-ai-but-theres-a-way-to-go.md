@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to
 webUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: The Next Web
@@ -31,22 +31,6 @@ images:
 
 related:
   - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
-    excerpt: "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems."
-    publishedDateTime: 2021-08-03T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
     excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
     publishedDateTime: 2021-08-05T14:44:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
@@ -68,6 +52,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
         width: 1600
         height: 960
+        isCached: true
+  - title: "Read the leaked email that Google's AI firm DeepMind sent to staff after the bombshell news its cofounder faced a bullying investigation"
+    excerpt: "DeepMind, Google's artificial intelligence startup, said it was made aware of complaints about its cofounder Mustafa Suleyman's behavior."
+    publishedDateTime: 2021-08-04T12:24:00Z
+    webUrl: "https://www.businessinsider.com/google-deepmind-leaked-email-mustafa-suleyman-bullying-claims-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/60d469598c8b40001809643b?width=1200&format=jpeg"
+        width: 1133
+        height: 566
         isCached: true
 
 secured: "+frakjLo/Di7dgahiunR4t6xKs5YSzJg+6f7J9gCTmwDBtlPCnOZMwfgrRHCXrt9sDpAUZqWzXGHwXSE1hw8MQo7xRD3RTh1MXnwf5NrsJv2AIEkaIMianXzxAOELSE5bwzpzDtOFFjCsF1NEzyA8VMEhk2sMHIWkC8yPv+8rtL3nKyGdbRSH00Hp4NxSzv3SWD40RtXPN9EInRIw50a0BKeGX4Df0k930j98hyshXpSPOIEgHZx5VfFXAXtfHVw4soVGcDfw7LKthSaWHr1s3rq21sxYYpxgpkNwqEWNrOrNmzAwHlLDQ5P8c1ZbOrDU6KZMR22VyG1E1kfbt8XcZ0SLdLp8cjvjNUaEs/LelAnATLTUeg4azpCf5Ue0GSUAdkYqq4mFqZe6duz2d2BGxqmLsDZgYpd0CnKwbWFPyFed68w9+93m273GM+0R3J9u3tJLztqYxCQsNeJx3Y5T/MTtgexNlOwjohQzq7yncj5xSIL2k/I8uPNJaOtBKHDvvGKSQLpGTrX8a4EQFdcLw==;VjTqEmZFHjOgZT8OzzRw5Q=="

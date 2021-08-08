@@ -36,20 +36,6 @@ related:
         height: 369
         isCached: true
   - title: "Artificial intelligence algorithm developed to assess metastatic potential in skin cancers"
-    excerpt: "Using artificial intelligence (AI), researchers from UT Southwestern have developed a way to accurately predict which skin cancers are highly metastatic."
-    publishedDateTime: 2021-08-03T21:49:00Z
-    webUrl: "https://www.utsouthwestern.edu/newsroom/articles/year-2021/ai-melanoma.html"
-    type: article
-    provider:
-      name: UT Southwestern Medical Center
-      domain: utsouthwestern.edu
-    quality: 27
-    images:
-      - url: "https://www.utsouthwestern.edu/asset/139291be-23c4-4a43-a56c-f06a49e262c7/melanoma-cell-images-thumbnail.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Artificial intelligence algorithm developed to assess metastatic potential in skin cancers"
     excerpt: "Using artificial intelligence (AI), researchers from UT Southwestern have developed a way to accurately predict which skin cancers are highly metastatic. The findings, published as the July cover article of Cell Systems,"
     publishedDateTime: 2021-08-05T22:59:00Z
     webUrl: "https://www.eurekalert.org/news-releases/924645"

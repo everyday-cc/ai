@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
-    excerpt: "The paper's findings show some impressive advances in applying reinforcement learning to complicated problems."
-    publishedDateTime: 2021-08-03T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/DeepMind-reinforcement-learning-AI-XLand.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind’s new system could be a step towards general AI, but there’s a way to go"
     excerpt: "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”."
     publishedDateTime: 2021-08-06T13:00:00Z
@@ -66,6 +50,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
         width: 1600
         height: 960
+        isCached: true
+  - title: "Read the leaked email that Google's AI firm DeepMind sent to staff after the bombshell news its cofounder faced a bullying investigation"
+    excerpt: "DeepMind, Google's artificial intelligence startup, said it was made aware of complaints about its cofounder Mustafa Suleyman's behavior."
+    publishedDateTime: 2021-08-04T12:24:00Z
+    webUrl: "https://www.businessinsider.com/google-deepmind-leaked-email-mustafa-suleyman-bullying-claims-2021-6"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/60d469598c8b40001809643b?width=1200&format=jpeg"
+        width: 1133
+        height: 566
         isCached: true
 
 secured: "nNCDDkw40ark5BFPYdspRF5NgUi4zcTOcWZAH8C2xVg0hqwbMxOzFDvtyiwVZWRzIGYCnCruU7LN30A7SmpDDNobwApk4HpK3EFgzQJ1lOnPRj77kjPvI5xDAFI/B9YHngbsb2Jyo1p50liAk3MgTvk5Np2cueKPMqSFJbOQ+X2jG/nHQ9zFXW3gCi4FUOKtPIA7EZta1iXQskKVcm4Uw8y4/n637ltbG98SMaGR4bp51wrkbvdKOWaTATP2NbYVti66HWUJBox2fg7DQdPe0Y5vWk3VOKcsXTEazkWXq3XvVSgmDjjWwm0iFtoDX1AeY0/6pcIz+eYYuof4VaPFMhHIH2e8nl3jlPZQG9sIKlo=;aKtNdn25TsH4TJy/95nqEg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.dispatch.com/amp/5490323001"
 cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/5490323001"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "As banks push AI, worry about worsening inequality follows"
+    excerpt: "Banks, consumer advocates and think tanks are weighing in to federal bank regulators about potential pitfalls in the use of artificial intelligence and machine learning in making loan decisions."
+    publishedDateTime: 2021-08-08T13:00:00Z
+    webUrl: "https://www.columbian.com/news/2021/aug/08/as-banks-push-ai-worry-about-worsening-inequality-follows/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 37
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/08/0809_met_BIZ-CPT-AI-BANKING-MCT.jpg"
+        width: 812
+        height: 899
+        isCached: true
 
 secured: "G6U5lvqHAsIiIEpRJsuRb7G8lr3XmjyUUAPPC4H2kpu7TeoHof6pAkceJkkL/TdDVv/U+YrIWSaVzv5yBTeHyqEc1KHqiUoIRSY7Kv6wJfZWEWlrZR7yxME0qGfzasTi2HtJvQJ5tWZPRnISfPJGGygmNpn0Ysq9ml+oCBxXJv/64fu77vqG56qYcKLNcqMhLjuCHbZriiBa0UA3X8UpPmcSpu/KzRx83krDlcoAoFleVdDOQvYUdoU2H5RUaWcL8DkfUZ+MBcNcUQ/JFimtup67mDOoyTq8T52yCu8L8GNiphBHlJGphzzoOJABMWGhGaVunNbWrvYJmN6wKHmfyOJ6Sc+Cx554CwMIg6SXoEUe1h1+TNnubVGiJRMKCU3SzOiwrTAIfMIakGmqN1GuRc1qHcsp3+akHl/MjnzyEJ3yKhwj1frahmeeWVq6TETZOP1monPuWYm55AtdPRlT9GPbBTnx/rC41C9+6s2CqIutKNrdeIpbgfUJiek6mMsT6tUrQVvczKWjfhE3Jz2Q8A==;kTAiyjQl5tW9gmKXS9DPaA=="
 ---
