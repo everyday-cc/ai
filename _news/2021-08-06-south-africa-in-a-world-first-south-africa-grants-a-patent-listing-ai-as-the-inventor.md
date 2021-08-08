@@ -42,20 +42,36 @@ related:
         height: 1707
         isCached: true
   - title: "In a world first, South Africa grants patent to an artificial intelligence system"
-    excerpt: "The inventor of the product is an artificial intelligence (AI) system called DABUS, an AI system created by Stephen Thaler, a pioneer in the field of AI and programming."
-    publishedDateTime: 2021-08-08T07:02:00Z
-    webUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
+    excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
+    publishedDateTime: 2021-08-08T08:23:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
     type: article
     provider:
-      name: cnbctv18
-      domain: cnbctv18.com
+      name: The New Indian Express
+      domain: newindianexpress.com
     quality: 54
     images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2019/08/artificial-intelligence-3382507_960_720-960x573.jpg"
-        width: 960
-        height: 573
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "In a world first, South Africa accords patent to an artificial intelligence system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That's because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS (which stands for “device for the autonomous bootstrapping of unified sentience”) is an AI system created by Stephen Thaler,"
+    publishedDateTime: 2021-08-08T07:28:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 53
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202108/ai_1-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In a world first, South Africa grants a patent listing AI as the inventor"
     excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."

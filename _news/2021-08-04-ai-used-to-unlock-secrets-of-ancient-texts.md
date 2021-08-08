@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-u
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: technologynetworks.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI to unlock the secrets of ancient texts"
-    excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"
-    publishedDateTime: 2021-08-03T18:44:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/latin.jpg"
-        width: 1920
-        height: 1245
-        isCached: true
   - title: "Researchers use AI to unlock the secrets of ancient texts"
     excerpt: "Researchers at University of Notre Dame are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription."
     publishedDateTime: 2021-08-04T18:54:00Z

@@ -84,15 +84,6 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 24
-  - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
-    excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
-    publishedDateTime: 2021-08-03T18:14:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-reportedly-trying-to-analyze-encrypted-data-without-deciphering-it/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "Y/MAYozw4dpqiGnSMycZmN1CY38dO47T7+s+CFsryKXhVT6FjG7Rvh/eJm1kNywjPSYv1f5mfgXZKhDc+esNGnLuKFEXxgcjOdYu6zVnVGAxJPLESWKAiwHmPNEyAKh2ao3vTvGRyq4Xx+JHBNHww7gFNduZ9OOQoYIhf+Su0TEX0yFaKzumwXvKWQCo35BeX4SZ1UPO5NI0TV2eO1y/SkRffbL+xXKihJSNzINEBkZd1mhJEiB5n9H51K5QhUmB5GSmwvoo6nOo+Cy0CzH1wPH1IWePKdYA+qKZiylB+9J0RKN71FSQHLgQJSgGqREkFfGIQVSVkYC8KPo4hgmp5yyWBslDD6ae6I1pcD55GVQ7/NUVL6/tJQCC0p5gEurN69F0Q5nUMTGGOB+V3w+9nb9kaX9+oZJ8V1N1WmFgbe98NNL0uTfxTwGsGFVCATysPnvzfOy8aaEBgB1cjU+yBGErgm0rZwMUH66bFlHIdI+ZKdi4PgdHaFltQnsLX0Rw0MqP7sTgkb2JbszGq8tR1w==;DuwC/NzOEj5MyJJk2IkWnw=="
 ---

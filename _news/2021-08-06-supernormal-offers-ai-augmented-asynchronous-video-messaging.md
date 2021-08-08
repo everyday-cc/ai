@@ -87,20 +87,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Ampere Computing Buys An AI Inference Performance Leap"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-03T18:26:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/ampere-computing-buys-an-ai-inference-performance-leap/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg"
-        width: 705
-        height: 419
-        isCached: true
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
     publishedDateTime: 2021-08-06T16:20:00Z

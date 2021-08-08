@@ -1,29 +1,29 @@
 ---
 category: news
 title: "In a world first, South Africa grants patent to an artificial intelligence system"
-excerpt: "The inventor of the product is an artificial intelligence (AI) system called DABUS, an AI system created by Stephen Thaler, a pioneer in the field of AI and programming."
-publishedDateTime: 2021-08-08T07:02:00Z
-originalUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm"
-webUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm"
-ampWebUrl: "https://www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
-cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-10297141.htm/amp"
+excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
+publishedDateTime: 2021-08-08T08:23:00Z
+originalUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.html"
+webUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.html"
+ampWebUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: cnbctv18
-  domain: cnbctv18.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.cnbctv18.com/wp-content/uploads/2019/08/artificial-intelligence-3382507_960_720-960x573.jpg"
-    width: 960
-    height: 573
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+    width: 600
+    height: 390
     isCached: true
 
 related:
@@ -42,6 +42,22 @@ related:
       - url: "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "In a world first, South Africa accords patent to an artificial intelligence system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That's because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS (which stands for “device for the autonomous bootstrapping of unified sentience”) is an AI system created by Stephen Thaler,"
+    publishedDateTime: 2021-08-08T07:28:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 53
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202108/ai_1-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In a world first, South Africa grants a patent listing AI as the inventor"
     excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
@@ -80,6 +96,6 @@ related:
         height: 735
         isCached: true
 
-secured: "rpPKVMPc6HLYpzGdSC43OblaX+VVtMll7RfXdru0OOvye6FpGE9BOWu5xXJziwvout05GVPZ9rjq2d4QK6Vsp+NGcaNrQiMsSOO3zKJV2lX3g9un4zWkj2LKxl9RPC7aOHZsnL6C9KI9/4OKoPFl/acKimO7LVY0k4WhPiVfznWsZ9pzIbBTVIQqBEx15n9nh6HVGk0SxBxyNtXJAsFYAbtzs0ZKMgNIC9D8tmOdnLq0vfLOkRIHfPktQhHgaPQPrNVbfDql0aH92DwN2jLkSeNwStQDhQs5w2l/wJVvO1fhS3kcX23qzGnRLXtn74A4WJ/7xREjB9J6/fSDGsGHGrj/aQlOktWvDvKm3z5Tb6kFtVfbC9IS9PnMogz02fq1wlgc0U6/bZHRf32wDRvhsu39xQJ0SVUMHynB5ei64M6pNbIyHQuhXLIhpKGL16ZKssmrCLs/0eH3kfI+nkB2ITd9LxIbJ5AizCMs8WS/IOgOb9PiLGivj4ueDRFy3uQULhITjCYMMAHPzqcZ56SwWg==;XUfkFAX9U0wEHdVsTwB/Ow=="
+secured: "q4k5drZQlBnr9Fiy5JTpMc4b2P4vOP9RzpCsoWfATggEoRj6Bq3fl6/TxJ9Roh4d8oPOllrYELMUVTr+yI4UB3XKsIZ7vzEyVtM5E+OAu0yXhykRYAGD8OR0vo/QJNR/vMPEfSuibifAxsN37kbDx+GYDLJzeQHhm04OSvKzCVnmue0Js9b5aek5DShAk6myfbEqRi0/vm52WvFgD6omw1UN1BtYDPbHrTt5gplV20wH2H2fnLTY9AE7s5IXQijVHIHloYHPYqGUr9QQuXn0kWPao0B8BJ5hXITrP2MkslMr+44WOeOE9L9KryXT5OxfnuuZT64yGVeSawqrbc1fqNku1alzrqUrnu/L5w4FtRM=;38NeiJpmEKqNo6rDp+73iA=="
 ---
 

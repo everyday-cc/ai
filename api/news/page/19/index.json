@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-21-what-machine-learning-can-offer-nigerias-healthcare-system.md",
+      "title": "What machine learning can offer Nigeria's healthcare system",
+      "excerpt": "Imagine it's 2030—and a typical day in a Nigerian healthcare setting. In earlier decades, when a patient walked in, they could see piles of folders and a clutter of pens scattered all over the office.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/what-machine-learning.jpg",
+          "width": 926,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-07-machine-nigeria-healthcare.amp",
+      "publishedDateTime": "2021-07-21T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
       "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
       "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
@@ -1108,59 +1152,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-global-ai-based-edge-computing-chip-market-2021-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2026.md",
-      "title": "Global AI based Edge Computing Chip Market 2021 Growth, Industry Trend, Sales Revenue, Size by Regional Forecast to 2026",
-      "excerpt": "MarketsandResearch.biz has published the obtainability of a new report to its repository titled as, Global AI based Edge Computing Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2026-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-based-edge-computing-chip-market-2021-growth-industry-trend-sales-revenue-size-by-regional-forecast-to-2026-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

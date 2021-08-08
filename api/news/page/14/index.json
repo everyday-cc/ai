@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-26-alina-allen-on-the-natural-history-of-lean-nafld.md",
+      "title": "Alina Allen on the Natural History of 'Lean' NAFLD",
+      "excerpt": "With little known about how different BMI categories impact disease and survival, Alina M. Allen, MD, and colleagues at the Mayo Clinic in Rochester, Minnesota, conducted a population-based study to compare the natural history of lean,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "originalUrl": "https://www.medpagetoday.com/aga/lower-gi/93745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-how-will-robots-impact-warehouse-design.md",
       "title": "How Will Robots Impact Warehouse Design?",
       "excerpt": "JLL, a leader in real estate services, recently put out a research paper called “The future of global logistics real estate.” New warehouse designs need to incorporate features that take advantage of robots.",
@@ -1126,58 +1160,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-auroras-spac-merger-comes-amid-self-driving-car-delays.md",
-      "title": "Aurora’s SPAC merger comes amid self-driving car delays",
-      "excerpt": "Self-driving car startup Aurora is ready to go public in a reverse merger with SPAC Reinvent Technology Partners Y.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/",
-      "originalUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/intel-cars-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/24/auroras-spac-merger-comes-amid-self-driving-car-delays/amp/",
-      "publishedDateTime": "2021-07-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor"
 webUrl: "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor"
 type: article
 quality: 51
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -88,15 +88,6 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 24
-  - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
-    excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
-    publishedDateTime: 2021-08-03T18:14:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-reportedly-trying-to-analyze-encrypted-data-without-deciphering-it/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "SaILlBhqPo6E02E8lsLKrzKhNpJVqOSmyCweQ4LF7Ou5SCfMUiTTxl07qBmr5bMWLgL+/s670qQOFrUSvxzzGN3lIOKxZsDcNUKkIS+YHFflYxVawWVIvJX4cXEFy3s6AVboxp9MkHeCJR6mD+u59IqaEU9bNpWR+JFnsy0WaRzdNuMQOKnY65aWLEHY44kwNcECoXvHOpUkDszY3XIgDwLYSLAgM0HMuaBiw0B31b8RDJoC/2lExa+ZP50GxVbsXWQUZZt7olq7frua9bNKQIViM2cAYkhHrSuD9RwzUKHR3REL5/s0oe+PaVRsXtWkN/gEPAgy8IWAS8e8wtY6e/4u5rkpJj+PF1+25akyI4iKai+6VZFaIxV18Xs2r4pdIZR+26RsF990GFt0dD/XjeDjwjWBgDLIIhEmNdYWEiUr7tVd+QYdxal3kNSSakuh7CXxbduH5xDNPURu3TFaLE22e2zTnY3tS33fmKEalO8N+ZGf/4OTdBUcekf00QSrMtDoYvz7bImJTQ7YRxZ/Fg==;p7HyjVx2tVw/DePe+jWACg=="
 ---

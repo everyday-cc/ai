@@ -39,22 +39,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Researchers use AI to unlock the secrets of ancient texts"
-    excerpt: "The Abbey Library of St. Gall in Switzerland is home to approximately 160,000 volumes of literary and historical manuscripts dating back to the eighth century—all of which are written by hand, on parchment,"
-    publishedDateTime: 2021-08-03T18:44:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-secrets-ancient-texts.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/latin.jpg"
-        width: 1920
-        height: 1245
-        isCached: true
 
 secured: "a/B5lyw1QFFcvvnoCD+sTmEQCDNslqO324paRScjlpS3FXBni2c7OVSF9Wdlm480OeD+Ch9If1NzZCVwPK+WNcI+X+jpLCaYftv7M4jh73EO0W8zqOP5m2bpYv5DCfS4XwtRusgeEiApTndWx+Lw11ojAett9XC4sEBFab8vZHOp85dfrBCqFRZu63wy+/0iI8oatPXQvdBeCocsw96doFaHoALfjQrYKzrqCYiTBAZeuY0OsDAwfL8vE4ioFi/N6sckBiYau/PAiI+MZBz6Ob18PhX7hshpB+WnaFjt463X1mIDYYhGuJxC0knW8UKmLDaxWWEdx+YHaaWIXXL+2RxQBAIWzmyjooCZw4pvpmU=;YExiVALvXhjNz/kIm70Qnw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympi
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robo Olympians? Olympics schedule packed with bots, AI, VR and more"
-    excerpt: "Aside from premier athletic competition, the quadrennial event is also showcasing a number of cutting-edge technologies, carrying on a tradition of Olympic innovation."
-    publishedDateTime: 2021-08-03T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robo-olympians-olympics-schedule-packed-with-bots-ai-vr-and-more/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/03/ac96dff2-23aa-417c-8954-e4c2aadef4ce/resize/1200x/688a721932d9c2efbf5f45f9d06ae5d7/olympics.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Machine Learning Technologies at Tokyo 2020 Olympics"
     excerpt: "National Olympic teams are using machine learning to gain an edge in competition over their opponents at the Tokyo Olympic Games 2020. Machine learning technologies are being used at the international sports event from athlete data tracking,"
     publishedDateTime: 2021-08-05T13:40:00Z

@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-07-11-ai-has-become-a-design-problem.md",
+      "title": "AI has become a design problem",
+      "excerpt": "The bulk of the discussion around making AI trustworthy centers on engineering. But it should really be focused on design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/",
+      "originalUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/11/ai-has-become-a-design-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/11/ai-has-become-a-design-problem/amp/",
+      "publishedDateTime": "2021-07-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-11-google-facebook-and-microsoft-are-working-on-ai-ethics-heres-what-your-company-should-be-doing.md",
       "title": "Google, Facebook, And Microsoft Are Working On AI Ethics. Here’s What Your Company Should Be Doing",
       "excerpt": "As AI is making its way into more companies, the board and senior executives need to mitigate the risk of their AI-based systems. One area of risk includes the reputational, regulatory, and legal risks of AI-led ethical decisions.",
@@ -1094,57 +1145,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts.md",
-      "title": "AI is trying to prevent online shoppers from ditching their carts",
-      "excerpt": "Conversion to a sale is the ultimate goal for online retailers. Trying to learn shoppers' intent helps sellers see better returns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/07/09/b77f2cb5-a5e4-48d9-847c-ec6e763858aa/thumbnail/1200x675/8f627eb46351233a4b4de4667bad42b0/20210708-lucidworks-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-trying-to-prevent-online-shoppers-from-ditching-their-carts/",
-      "publishedDateTime": "2021-07-09T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

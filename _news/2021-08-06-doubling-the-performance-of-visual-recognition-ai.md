@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
         width: 1000
         height: 750
-        isCached: true
-  - title: "Ampere Computing Buys An AI Inference Performance Leap"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-03T18:26:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/ampere-computing-buys-an-ai-inference-performance-leap/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg"
-        width: 705
-        height: 419
         isCached: true
   - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
     excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."

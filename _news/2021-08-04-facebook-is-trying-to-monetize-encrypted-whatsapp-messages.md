@@ -83,15 +83,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
-    excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
-    publishedDateTime: 2021-08-03T18:14:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-is-reportedly-trying-to-analyze-encrypted-data-without-deciphering-it/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 0
 
 secured: "h6S+4IZfRzbDRR2Tpna8ToIlMScyY3Y72mSVg2OezfuTkeEQzcFsXYXyt65vWTpbZx9NFVWtwTy6hVmoAlUz5sqN2lX1elDYrA5meXYwWQBrCO8oUAGHX12XJ+tyytNQAwA4fBNpyatOMXXof2oUkDGi1bfziLzp5e9/6MF/Xj1CBp+QAzUaadpnYsfpdPrpjQxmm0WKuAyW+xnZNvLKLah/SmhF0GuIv93cJjXkscfQAfMmgNwzTQrYhaqQH+OQrKuC7AkTg0+N61bLLpdQvF6RHFpra2czQ2ltnz4i1yJS/mAUtXY55Y9PD+p1CDAICbTWIqe2Nd8zvUysZYQ2Uc9wPTcnyj+LO+BeEtVe2ljTwg7yNH+/W2+4PZ6fR35qMmj2n1f9YzMaOTmKLNNZsDczx421icLxw+7atCmSlD8v+/IyQ4FDVfhQTdiCgEZE/FQQ4sEIcdAqx3NK6wnm6CaXHGF32fAJ0svDGO/fcg272PDlE7Zn7BTaeOUIOKXlcAzw5skK5PuIfBEFWQBiVw==;KRYQqyz6fRHeuBgJxU/H9A=="
 ---
