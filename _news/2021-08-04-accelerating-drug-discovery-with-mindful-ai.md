@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerati
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
+    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
+    publishedDateTime: 2021-08-07T23:42:00Z
+    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
+    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
+        width: 777
+        height: 824
+        isCached: true
   - title: "Fighting Porch Pirates with Artificial Intelligence"
     excerpt: "To ensure that porch pirates don't go unpunished, he turned to artificial intelligence to unleash righteous vengeance. Machine learning is a form of artificial intelligence that excels at recognizing patterns within enormous data sets."
     publishedDateTime: 2021-08-03T21:25:00Z

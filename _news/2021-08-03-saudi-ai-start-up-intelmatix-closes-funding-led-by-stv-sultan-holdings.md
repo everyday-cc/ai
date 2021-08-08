@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210803083405/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210803083405/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1199
     height: 800
     isCached: true
-
-related:
-  - title: "Saudi AI startup Intelmatix secures investment from STV and Sultan Holdings"
-    excerpt: "Saudi Arabia-based AI startup Intelmatix has raised an undisclosed investment round, led by STV and Sultan Holdings."
-    publishedDateTime: 2021-08-03T06:00:00Z
-    webUrl: "https://www.wamda.com/2021/08/saudi-ai-startup-intelmatix-secures-investment-stv-sultan-holdings"
-    type: article
-    provider:
-      name: wamda.com
-      domain: wamda.com
-    quality: 35
-    images:
-      - url: "https://cdn.wamda.com/feature-images/d9b74feb46101a9.png"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "ejFAhcDm34vcxRNRXWg2h8hgqHRXDWez8rFO6T+hamKZwhqeD1jxKRaFBHdNQhZHwnCxzVoHgSrDgf5p3LiIJE1iUBShWnfmZZXpwPpEImQzXQT4hHpYKQUOPjz3VdqQnBpHy3UEKnfX2svhmqD+HIR8VPAiaVBWrud/lYyQRXojkADEy+FjxSTjDlqcabMnyVi5eepYJpmTjZ6eHbbxq55JAB2xRUwjtNzGDIwsk0rVwWbES+bEpnqVN+rn0UlmyBfbyHkO+swwQ1DogjyePh4aRTafku/9BatCfMURUQeLe9VjjfgRYUEpZDSAU236z1Dil2R9/gb7wfWWT5XikU+ScS3WKO6HzrPlPpc5K5ShYKyL7dVGU4zA0w+BI+lkIxY5u21I5FEAB+sH8WZIvlKN0cNON9XMNNsY4smBkcLkjKDb+eHEIa2azjZUSt+X0qodScL1Mag7s1+e9WWZN7dO1KuqzkZ0feuffhpqX6WGWqf67OsHhE/YQRSgI7odjpmC3v37V5tN9+TSMGeO/A==;TT/tSbZmdGzRLeHqbYzMTA=="
 ---

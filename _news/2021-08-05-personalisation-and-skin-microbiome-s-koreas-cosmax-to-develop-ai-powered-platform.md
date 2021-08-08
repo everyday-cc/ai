@@ -24,22 +24,6 @@ images:
     height: 375
     isCached: true
 
-related:
-  - title: "Personalization Meets Health Care Privacy"
-    excerpt: "Personalization has long been the holy grail of health care. And, during the pandemic, as our reliance on digital tools that easily collect personal information has soared, the pr"
-    publishedDateTime: 2021-08-03T06:05:00Z
-    webUrl: "https://www.thinkadvisor.com/2021/08/03/personalization-meets-health-care-privacy/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 24
-    images:
-      - url: "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/07/2021-7-14-03_Tech_Advice_Data_Shutter_640x640.jpg"
-        width: 640
-        height: 640
-        isCached: true
-
 secured: "fVC+OhzNGV/rNMqCvxkQKHtwDF1ywIWngwx9R9f/ZmGUd/ZKXgWW7u7S9lTO/+f4rj6sRMTgSqRqXwIhgV2Xs1tNEcCXcP95Vk7N9n3rR15wyc8lLiCHxMWM2AxVkUhBcTsLIcKduevjV4x5Fh6Nd9iZJ4itbrQdnfjM6viVa5OxHh4KiVXdC8dNeEs7SWBDiGG/X0gmRPHBnokkJ8j0utRLfmjbXttcY491Q1vOZdzuicH6jeclKmc9/ck9NFXuvOTMaMc9YUvUKydZCZV+AeFy8qV2PsYM34Cx3cqQ1SNH5INW7hkkXODTYgq2DizB4s23DdlOZJji7P7N5efViayfoF4BQKQLn+csl2fpGDk=;+zrm7PRaTqpUPRsD9fA1/Q=="
 ---
 

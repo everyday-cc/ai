@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-expands-ai-career-educati
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -49,17 +49,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Intel, Dell bring \"AI for Workforce\" program to 18 community colleges"
-    excerpt: "The program helps community colleges develop courses on topics like data collection, computer vision, AI model training, coding, and the societal impacts and ethics of AI technology."
-    publishedDateTime: 2021-08-03T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-dell-bring-ai-for-workforce-program-to-18-community-colleges/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
     excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
     publishedDateTime: 2021-08-04T14:38:00Z

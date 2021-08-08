@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuit
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://beta.ctvnews.ca/local/british-columbia/2021/8/3/1_5532572/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "Hootsuite Acquires Conversational AI Leader Heyday for CA $60 Million"
-    excerpt: "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results."
-    publishedDateTime: 2021-08-03T05:40:00Z
-    webUrl: "https://www.hootsuite.com/newsroom/press-releases/hootsuite-acquires-conversational-ai-leader-heyday-for-ca-60-million"
-    type: article
-    provider:
-      name: Hootsuite
-      domain: hootsuite.com
-    quality: 39
-    images:
-      - url: "https://www.hootsuite.com/dist/images/placeholders/social-share.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Hootsuite Acquires AI Platform Heyday for $60M"
     excerpt: "The deal, announced today by Hootsuite, is evidence that the social media tool is expanding further into ecommerce and customer support."

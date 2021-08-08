@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Hootsuite Acquires Conversational AI Leader Heyday for CA $60 Million"
-    excerpt: "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results."
-    publishedDateTime: 2021-08-03T05:40:00Z
-    webUrl: "https://www.hootsuite.com/newsroom/press-releases/hootsuite-acquires-conversational-ai-leader-heyday-for-ca-60-million"
-    type: article
-    provider:
-      name: Hootsuite
-      domain: hootsuite.com
-    quality: 39
-    images:
-      - url: "https://www.hootsuite.com/dist/images/placeholders/social-share.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Hootsuite Acquires AI Platform Heyday for $60M"
     excerpt: "The deal, announced today by Hootsuite, is evidence that the social media tool is expanding further into ecommerce and customer support."
     publishedDateTime: 2021-08-03T19:41:00Z

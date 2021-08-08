@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
+    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
+    publishedDateTime: 2021-08-07T23:42:00Z
+    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
+    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
+        width: 777
+        height: 824
+        isCached: true
   - title: "Peek behind the paper: how artificial intelligence can be used in drug discovery"
     excerpt: "How artificial intelligence can be used in drug discovery to design more efficious drugs and eliminate the need for animal models"
     publishedDateTime: 2021-08-06T11:35:00Z

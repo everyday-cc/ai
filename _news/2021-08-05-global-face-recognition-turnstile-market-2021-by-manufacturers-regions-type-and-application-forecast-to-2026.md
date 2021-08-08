@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fintech Market 2021 : Industry Analysis with Business Scenario, Trends and Forecasts Report 2025 with Leading Regions and Countries Data"
-    excerpt: "AI in Fintech Market Growth Analysis 2021-2025 : The increasing use of AI in Fintech in Virtual Assistants (Chatbots), Business Analytics And Reporting, Customer Behavioral Analytics and other industries is driving the growth of the AI in Fintech market across the globe."
-    publishedDateTime: 2021-08-03T06:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-industry-analysis-with-business-scenario-trends-and-forecasts-report-2025-with-leading-regions-and-countries-data-2021-08-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Monitoring Market Growth 2021, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2024"
-    excerpt: "Cloud Monitoring Market Trend 2021-2024 presents detailed competitive analysis including the market Share, Size, Future scope. This study categorizes the global Health and Safety"
-    publishedDateTime: 2021-08-03T06:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-monitoring-market-growth-2021-global-industry-demand-share-top-players-industry-size-future-growth-by-2024-2021-08-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027"
     excerpt: "Pages Report] Check for Discount on Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing (NLP)"
     publishedDateTime: 2021-08-04T09:54:00Z

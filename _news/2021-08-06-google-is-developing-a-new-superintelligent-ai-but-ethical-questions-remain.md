@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintellig
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
 type: article
 quality: 102
-heat: 139
+heat: 132
 published: true
 
 provider:

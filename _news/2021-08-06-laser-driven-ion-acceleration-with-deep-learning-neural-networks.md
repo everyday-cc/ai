@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-lea
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
 type: article
 quality: 74
-heat: 96
+heat: 94
 published: true
 
 provider:

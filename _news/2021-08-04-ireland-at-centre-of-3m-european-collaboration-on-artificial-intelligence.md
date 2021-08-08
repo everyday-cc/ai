@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Writing Tools European Entrepreneurs Can Use in Our Digital Age"
-    excerpt: "Many global businesses, small and large, use these platforms to create or edit successful and awe-inspiring copy. ShortlyAI offers one way to help: its contract utilizes a “backdoor” access to OpenAI’s GPT-3,"
-    publishedDateTime: 2021-08-03T05:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/376438"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376438"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1625588196-GettyImages-1313070627.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Ireland joins €3m European ethical AI postgraduate education effort"
     excerpt: "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2."
     publishedDateTime: 2021-08-04T17:07:00Z

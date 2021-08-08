@@ -7,8 +7,8 @@ originalUrl: "https://www.techcentral.ie/jqa4h"
 webUrl: "https://www.techcentral.ie/jqa4h"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Mozilla
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Writing Tools European Entrepreneurs Can Use in Our Digital Age"
-    excerpt: "Many global businesses, small and large, use these platforms to create or edit successful and awe-inspiring copy. ShortlyAI offers one way to help: its contract utilizes a “backdoor” access to OpenAI’s GPT-3,"
-    publishedDateTime: 2021-08-03T05:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/376438"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/376438"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376438"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1625588196-GettyImages-1313070627.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Ireland at centre of €3m European collaboration on Artificial Intelligence"
     excerpt: "A major collaborative project across Europe is designing a new Master's programme in Artificial Intelligence that addresses human and ethical issues around AI."
     publishedDateTime: 2021-08-04T08:56:00Z
