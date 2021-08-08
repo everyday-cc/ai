@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Momentum builds in AI analytics platforms and robotics"
-    excerpt: "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks"
-    publishedDateTime: 2021-08-04T00:00:00Z
-    webUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=2"
-    type: article
-    provider:
-      name: Construction Global
-      domain: constructionglobal.com
-    quality: 69
-    images:
-      - url: "https://constructionglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_0.jpg.png?itok=NssVRdFF"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OU Offers New Program on Data Analytics and Machine Learning"
     excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
     publishedDateTime: 2021-08-05T13:01:00Z

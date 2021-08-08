@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Momentum builds in AI analytics platforms and robotics"
-    excerpt: "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks"
-    publishedDateTime: 2021-08-04T00:00:00Z
-    webUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=2"
-    type: article
-    provider:
-      name: Construction Global
-      domain: constructionglobal.com
-    quality: 69
-    images:
-      - url: "https://constructionglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1275786906_0.jpg.png?itok=NssVRdFF"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
     excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."
     publishedDateTime: 2021-08-05T00:05:00Z

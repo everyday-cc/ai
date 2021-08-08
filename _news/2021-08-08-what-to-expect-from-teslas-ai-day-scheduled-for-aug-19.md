@@ -77,21 +77,7 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Ahead of AI day Tesla’s in-house Dojo chip teased by a professor, who possibly provided insights during developments"
-    excerpt: "The teaser of Tesla's in-house Dojo chip came from a former professor at the University of California, Dennis Hong."
-    publishedDateTime: 2021-08-04T00:33:00Z
-    webUrl: "https://techstory.in/ahead-of-ai-day-teslas-in-house-dojo-chip-teased/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 48
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/E72B0fhVkAIEUFw.jpg"
-        width: 872
-        height: 872
-        isCached: true
 
-secured: "d7yfFqs0k8KEaEHVUgPF4+krpY3DmkBp72sgXNXqdiUZDnMp4PmUNbvuzO2+y+jC9zPg9I7BJVlUVvQb1RyCbct3jTbIusJz28ZE3+M1S+vXqLmhUFolJMs/2WZtFziVkabChg7pWxxtExF1fnskt1IrV8XVVzh02QMAO/bV6PT8YTV0FpXSSFIVbDQo5zzuYldACjftLOo/zKVohEIMR8gp++9x/8d+1zKHmpVuL40lAPcb/o6/oUf/c7w3ALv1laL8ujS5kKtWIzyGSfAbRKlGbX8zP+yK/8D9YhEjnQ6HBUDDlmoOXQU0S9PPaUkGF0nXNS7tATaavkOjD0tXvWtL0za7q38Xz3FtCLIvir0=;pU4WBs30PIyVwelygG9lGA=="
+secured: "OhJd+pxBvYiIg6cBmA8DJ+1fmm48lS2fDYairx/N9CTsmv+Wk5OxEH49W/cwKQNta3gXUj+VK0yG6Z+TmIXoOg8UsFbP3lyTO+D7b9uKEmeeb9xxbM6qhWlfr2ThPUgj4dsZBWtKrLURnvBuN9pAOPCOGLxNkQ3OCJXCnJNNBnrtj6p+xvpgmitmpJnlhmUUue1g7pswp0Gn+X2q2+ReAcRbhLMYQiaBmaDEptjDew9cbvBx+g9i66zEZHlPQKopxNiF3d/Hh3r1ghva2rzOAg582HSegNa5IBmQH5vs+txbDC0fu7WBe6934S0kqhIYQ5afabm2gU8Pd1mlaVAKlu08sZx42/KV+e0TQRHYUHoujoVk0/6Pot3C0A4TT9nG001IHuAAaJPJFJlG+AVr14uA6jJL0oyXeRpRuHAby7FWEmvVYaxEDpLQam5wWXT+7tjjq9y/dVSwrZOkAqGdJEgNsPk6DW1yUJGSDq2r8Zhka/mUBu5JXgU3mnFTHA+KS1gAwzFlpY6VNiqPe+B1RA==;w/pGGEojz4U9xzO7YddOxQ=="
 ---
 

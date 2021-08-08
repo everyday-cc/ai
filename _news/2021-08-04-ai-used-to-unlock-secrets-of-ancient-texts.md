@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-u
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652"
 type: article
 quality: 59
-heat: 71
-published: true
+heat: 69
+published: false
 
 provider:
   name: technologynetworks.com

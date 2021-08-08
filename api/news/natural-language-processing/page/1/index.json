@@ -168,7 +168,7 @@
       "originalUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -303,49 +303,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
-      "title": "AI Used To Unlock Secrets of Ancient Texts",
-      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "publishedDateTime": "2021-08-04T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1435,6 +1392,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-voice-recognition-expands-across-healthcare-and-transportation.md",
+      "title": "Voice Recognition Expands Across Healthcare and Transportation",
+      "excerpt": "Voice recognition has gained momentum within key application areas like digital banking, automotive control, healthcare, and consumer electronics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "originalUrl": "https://www.sourcetoday.com/industries/article/21170454/voice-recognition-expands-across-healthcare-and-transportation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.sourcetoday.com/files/base/ebm/sourcetoday/image/2021/07/Voice_recognition_promo.60c0c0cb43e4c.60fae3addc405.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sourcetoday",
+        "domain": "sourcetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

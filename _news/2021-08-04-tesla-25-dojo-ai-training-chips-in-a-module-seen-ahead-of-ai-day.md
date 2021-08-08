@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgxNjU5MjY4NjE1Nzc2MDEz/tesla.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Ahead of AI day Tesla’s in-house Dojo chip teased by a professor, who possibly provided insights during developments"
-    excerpt: "The teaser of Tesla's in-house Dojo chip came from a former professor at the University of California, Dennis Hong."
-    publishedDateTime: 2021-08-04T00:33:00Z
-    webUrl: "https://techstory.in/ahead-of-ai-day-teslas-in-house-dojo-chip-teased/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 48
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/E72B0fhVkAIEUFw.jpg"
-        width: 872
-        height: 872
         isCached: true
 
 secured: "wn8YduutvJ3C4IsCbe+4h6F05yukBJFDiiKGOnnjx3XZtn9tcqtGKPbzqi9bCAKxmnbt0k0yhftCQPMqxvFKKvygMRfKtdxwm7KyKJw7WQCDEBw1hBKIpCfNhYEI5XUirXpgMWLocMHDJSYJT3vMemQqAIOGTqgkj4l7n9/xs0Xc76HRXfuTal6rRQJ4AEkB2AHXhYc/TM2EHJI6ORuMiuuOZySjEraV5wtb0eIotqD7uZpGwIotSheaqwItcstsPdQqCuKSvkDPVVMspvFiUS9UlQyxlFD02NYltW7mLQYTOqVtm/Xk3la7b/i0QMQ3UoTCMkZgBZNL2sx36wcq4ImKBbeVF2lYV2HfJdvK734N5Z+6QKHZFx64x2UzBLTtydmMdwWc5aCDxBWA3i4rISpPC4N2RgZHbGdVEXK+4EowONxM7pfXtREx75Sqqk5DyY+tm9w0PeATtoa4y+XRbBC52CiQMjGO/3feemEgE10eHqeiTqNHFV9fLyYA7VLu5yaaTohmh54Wy5RHzEoNFQ==;Vq+S2t51XrlGZ/2tUWg9sA=="
