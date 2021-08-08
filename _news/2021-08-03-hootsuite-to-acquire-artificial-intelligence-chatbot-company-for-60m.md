@@ -100,20 +100,6 @@ related:
         width: 650
         height: 422
         isCached: true
-  - title: "Hootsuite nabs conversational AI startup Heyday in $60 million deal to further social commerce push"
-    excerpt: "Hootsuite has acquired artificial intelligence (AI) chatbot startup Heyday in a $60 million CAD deal that further expands Hootsuite’s push into e-commerce and customer service software."
-    publishedDateTime: 2021-08-03T09:59:00Z
-    webUrl: "https://betakit.com/hootsuite-nabs-conversational-ai-startup-heyday-in-60-million-deal-to-further-social-commerce-push/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 23
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/hootsuite.jpg"
-        width: 1050
-        height: 700
-        isCached: true
 
 secured: "0vLHxYW/EO30wptPKuWuShmxBsKRLRwkK0T3JpiU0Ml4hkLoZPcZIzYtdfhhNrfsKAbvuaIqpV42VZqH8Oh2s70B309p0SB+7sT3DUoyJ8ECR05cuavEP5I1SKFdxfy/KPGxZAy2MyOwbV3AHcYOAf75PU70N0iiJCPrHd+St+BaoLCxNYdCdJcgH3WhorVbJfa2BPZXR5p4gdhe2KTayiasJ565hnPZErrEczsBilkHwrF+qdUA2HlvbVhGUc4pqw6+cnF34yVx8uyG2W/1qUAMen94ZjEYZVV0fXE+qjVofv5BwRRHXhAI2CFwzOfZ0f9FEU3zfm/O6DXrLQhbLHo85cIuthOLo798dFGST08=;Or/OlCzlG00rmBX4U8o+Vg=="
 ---

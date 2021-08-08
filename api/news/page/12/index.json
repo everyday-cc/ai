@@ -2,102 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2021-07-27-deeptarget-enhances-its-machine-learning-algorithms-further-increasing-predictive-accuracy-to-improve-consumer-experience-and-engagement.md",
-      "title": "DeepTarget Enhances Its Machine Learning Algorithms, Further Increasing Predictive Accuracy to Improve Consumer Experience and Engagement",
-      "excerpt": "DeepTarget Inc., a solution provider that utilizes data mining and machine learning to deliver targeted communications across digital channels for banks and credit unions, announced it has expanded its use of leading-edge machine learning techniques to further help community financial institutions use predictive campaigns to present more relevant offers with virtual.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=506203",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=506203",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Education Market Future Scope, Demands and Projected Industry Growths to 2025",
-      "excerpt": "Jul 27, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Education market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-future-scope-demands-and-projected-industry-growths-to-2025-2021-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2021-07-27-spatial-vision-in-humans-and-robots.md",
       "title": "Spatial Vision in Humans and Robots",
       "excerpt": "This collection will be of interest to biological researchers investigating how the brain solves spatial problems, as well as to researchers in robotics and computer vision systems.",
@@ -1161,6 +1065,100 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-now-in-3d-deep-learning-techniques-help-visualize-x-ray-data-in-three-dimensions.md",
+      "title": "Now in 3D: Deep learning techniques help visualize X-ray data in three dimensions",
+      "excerpt": "A team of scientists has leveraged artificial intelligence to train computers to keep up with the massive amounts of X-ray data taken at the Advanced Photon Source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210727171525.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210727171525.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-the-uspto-ai-innovation-journey-with-scott-beliveau-branch-chief-of-advanced-analytics-at-the-uspto.md",
+      "title": "The USPTO AI Innovation Journey with Scott Beliveau, Branch Chief of Advanced Analytics at the USPTO",
+      "excerpt": "This month’s AI in Government presenter is Scott Beliveau, Branch Chief of Advanced Analytics from the United States Patent and Trademark office (USPTO)! In his interactive discussion '",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/uspto-ai-innovation-journey-scott-beliveau-branch-chief-advanced-analytics-uspto/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/October-2021-AI-in-Government-Scott-Graphic-Updated.png",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

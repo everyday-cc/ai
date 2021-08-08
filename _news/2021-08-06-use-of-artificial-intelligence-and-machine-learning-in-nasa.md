@@ -84,20 +84,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
-    excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."
-    publishedDateTime: 2021-08-03T09:32:00Z
-    webUrl: "https://internetretailing.net/guest-comment/guest-comment-intelligent-automation-and-organic-search---preserving-your-brand-in-the-ai-era"
-    type: article
-    provider:
-      name: InternetRetailing
-      domain: internetretailing.net
-    quality: 26
-    images:
-      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/036/Fotolia_211596980_Subscription_Monthly_M_Cropped_Thumb.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
     excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
     publishedDateTime: 2021-08-05T10:30:00Z

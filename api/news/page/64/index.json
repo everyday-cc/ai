@@ -2,58 +2,6 @@
   "page": 64,
   "value": [
     {
-      "path": "_news/2021-06-21-evolution-rewards-and-artificial-intelligence.md",
-      "title": "Evolution, rewards, and artificial intelligence",
-      "excerpt": "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-20T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-21-evaluate-the-utility-companys-ai-maturity-curve-to-determine-next-steps.md",
       "title": "Evaluate the utility company’s AI maturity curve to determine next steps",
       "excerpt": "Utilities acknowledge the transformational power of data, but where they are on the AI maturity curve determines how effectively they use it.",
@@ -1149,6 +1097,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-19-bidens-ai-initiative-will-it-work.md",
+      "title": "Biden’s AI Initiative: Will It Work?",
+      "excerpt": "It has a good chance of working. The program has a decent budget and there is a focus on unleashing government data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1145585734%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/06/18/bidens-ai-initiative-will-it-work/amp/",
+      "publishedDateTime": "2021-06-18T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

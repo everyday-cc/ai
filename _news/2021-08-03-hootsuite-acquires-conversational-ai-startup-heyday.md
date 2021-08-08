@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuit
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://www.vmcdn.ca/f/files/shared/feeds/cp/2021/08/20210730100724-61040ba15b9abc0c4ffc6053jpeg.jpg;w=650;h=422;mode=crop"
         width: 650
         height: 422
-        isCached: true
-  - title: "Hootsuite nabs conversational AI startup Heyday in $60 million deal to further social commerce push"
-    excerpt: "Hootsuite has acquired artificial intelligence (AI) chatbot startup Heyday in a $60 million CAD deal that further expands Hootsuite’s push into e-commerce and customer service software."
-    publishedDateTime: 2021-08-03T09:59:00Z
-    webUrl: "https://betakit.com/hootsuite-nabs-conversational-ai-startup-heyday-in-60-million-deal-to-further-social-commerce-push/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 23
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/06/hootsuite.jpg"
-        width: 1050
-        height: 700
         isCached: true
 
 secured: "3473A/7KrNSWFQunVwYB7oG5lqSbBidN1CCCOlkorUOx/0n1SUppVEiplYTinmWfEEt3mdLpFOUNNZuqC5dWt8/nDFHYGoxyn/tZWK8tIe6Po5Yvs+BWsD1XkgVK/EiU3aNkTM5L24vbA0lDc10p/mKRF6sq3GnoGt07NL549OgCvOd9xChUuuKNIrLM8sXkxf5Od5B/Qm2hmJ2ePFF7VqiKGRmqlhp4rxznqNPb6VCege4r0ppQ1KiSPdlcSMpEjM5epBdGFTB+JhrX2t0hPXi7ATxXSJ1sxQYpl6iQBKGCBkJzq8TMgKVXg0YvzY3aclf+D136ac92lPj1DtSkmYWPhvJGegtTlFcI3+6Yc1rgSBC+tdVmTtzyb3LZ0FtM4c1D0vs21L18ndeNoDWy0nK/d2tFYPm2A6CfOFf8994oITcSoKYH6YwN+VAiQttBuNM8qXlPEBp1q+1VrS5KDnmddk2tEFyHtohlc55LshTQb8tUo+xkEY9Xgnr2wgszuTgKKudmSHzOpSn0QxIW6A==;bPV6V4VF9OcKUNOG0Q9DKg=="

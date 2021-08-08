@@ -2,58 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2021-07-09-canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510.md",
-      "title": "Canaan Introduces Self-Developed Edge AI Chip, The Kendryte K510",
-      "excerpt": "Canaan Inc (NASDAQ:CAN) announced it is launching an independently designed and developed RISC-V-based edge AI chip Kendryte K510 at the 2021 World Artificial Intelligence Confere",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/canaan-introduces-self-developed-edge-ai-chip-the-kendryte-k510-1030591108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/abtech_945.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-09-buffalo-grove-sixth-grader-wins-national-math-ai-contest.md",
       "title": "Buffalo Grove Sixth-Grader Wins National Math, AI Contest",
       "excerpt": "Amritha Praveen was selected from a pool of talented middle school girls from over 20 states. (Photo submitted) BUFFALO GROVE, IL — A local sixth-grader beat out middle school girls from more ...",
@@ -1132,6 +1080,58 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-kick-like-a-pro-with-footy-skills-lab.md",
+      "title": "Kick like a pro with Footy Skills Lab",
+      "excerpt": "When I was growing up in Brisbane, Aussie Rules football wasn’t offered as a school sport – and there weren’t any professional female role models to look up to and learn from. Despite these limitations, we got resourceful. We organized football games in our lunch breaks with friends, using soccer or",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/FSL_UX_Loop_v003_YlMGuf6.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/australia/footy-skills-lab/amp/",
+      "publishedDateTime": "2021-07-07T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

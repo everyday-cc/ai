@@ -95,20 +95,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "GUEST COMMENT Intelligent automation and organic search - preserving your brand in the AI era"
-    excerpt: "It feels like every booth at every show has AI written above it these days, and it can be hard to wade through the noise to find the signal, but it remains a self-evident truth that some level of automation is an integral cog in the modern retail machine."
-    publishedDateTime: 2021-08-03T09:32:00Z
-    webUrl: "https://internetretailing.net/guest-comment/guest-comment-intelligent-automation-and-organic-search---preserving-your-brand-in-the-ai-era"
-    type: article
-    provider:
-      name: InternetRetailing
-      domain: internetretailing.net
-    quality: 26
-    images:
-      - url: "https://content.internetretailing.net/AcuCustom/Sitename/DAM/036/Fotolia_211596980_Subscription_Monthly_M_Cropped_Thumb.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "+zL6ayL54oH+bjY2AGSBueDCJIPe/q8X5mKo3SttLBmseuw18fNak0I5hEe/yh6IrTsMKizOjo5fbLrQ/iW0dzbekC2F/Y/wSLyFR5q0PVYWa4g1cOcpfl7O+v2WXAL3hurcplsSm25vwqCpsMkQzwtZOelAbqzpf+j7l2v9G2ysNqjLTVK1qUFmfLuuQbPJzQt2tWA359DKWvPbbOFYjnbgCXfo171MuT0iYRXYMsF6aaUCVy28ihwu6i9e7iWLGkkk6HvSpccq3UbEiVAihUk7BusAD4Pn5UZAoXzQDhMrvLd2akY+3uELAjGGJwXsGLNpFH0suXcGIlYNCOnNw7F6B95GwIDihe0DXmWk18g=;cZGomGk9pBWoj4rUq/Z4Ug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 67
-  - title: "Artificial intelligence and the workplace"
-    excerpt: "AI is increasingly being used by HR specialists. In this article we explore some of the pitfalls and how best to avoid discrimination claims and making unfair decisions."
-    publishedDateTime: 2021-08-03T09:16:00Z
-    webUrl: "https://www.thelawyer.com/knowledge-bank/white-paper/artificial-intelligence-and-the-workplace/"
-    type: article
-    provider:
-      name: The Lawyer
-      domain: thelawyer.com
-    quality: 37
-    images:
-      - url: "https://thelawyer.imgix.net/content/uploads/2021/07/30133953/camera-face-surprised-e1627844146581-421x500.png"
-        width: 421
-        height: 500
-        isCached: true
 
 secured: "zHbVGkFXe8+D6rMGTzd3eA6XVVexsDjNO+C5elJygtUwXNy0FXBFzve9TJH0TX+Pq25hJVT18CycGA3nVX6Z+tYq48Y7LpFu1sjxPWEQSXp7XWJtJUF9Rz8cLpmOeCwl9GEaUJQ7xIeVnbmgMJ+L2U8LR+rlGHRYxltbPjMbMoiNIl6iRe8rkAKM5PtyNzuivnX7m2LWWAKKxe8PHbLSO5wUMPPdbEzx3bmnzEBTrN639YRoVQfPEL7ZwOdaayF8PdXURot/QwVQ+KfFAfLSKTzoEkS/MQ0+b5wE679UpVfZaubzaq2vK8OAMoaAlgAM+Icr57DW4e1pU+xJ6q/m6Tj2Sa9MjDDuBkJ7ew2c238=;xIW3CBC7ntv8ZNNI+pAiJg=="
 ---

@@ -80,7 +80,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
         width: 1600

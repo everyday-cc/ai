@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
-      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
-      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/jqa4h",
-      "originalUrl": "https://www.techcentral.ie/jqa4h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
       "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
       "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
@@ -202,7 +158,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -503,7 +459,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1224,6 +1180,58 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-the-pixel-6-chip-might-be-made-by-one-of-googles-frenemies.md",
+      "title": "The Pixel 6 chip might be made by one of Google's frenemies",
+      "excerpt": "Sources claim the Google Tensor chip in the Pixel 6 is made by Samsung — and shares the same 5nm process as Snapdragon chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/pixel-6-tensor-chip-manufacturer-2728997/",
+      "originalUrl": "https://www.androidauthority.com/pixel-6-tensor-chip-manufacturer-2728997/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/pixel-6-tensor-chip-manufacturer-2728997/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/pixel-6-tensor-chip-manufacturer-2728997/",
+      "publishedDateTime": "2021-08-03T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

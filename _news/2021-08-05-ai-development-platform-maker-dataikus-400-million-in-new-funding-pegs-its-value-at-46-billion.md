@@ -71,19 +71,14 @@ related:
         height: 274
         isCached: true
   - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
-    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
-    publishedDateTime: 2021-08-05T07:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise/"
+    excerpt: "Dataiku, the world's leading platform for Everyday AI, today announced $400M in Series E investment led by Tiger Global, with participation from several existing investors, including ICONIQ Growth, CapitalG,"
+    publishedDateTime: 2021-08-05T07:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-raises-400m-at-a-4-6b-valuation-to-enable-everyday-ai-in-the-enterprise-1030693979"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 34
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/06/Richard-Lowe1.jpg"
-        width: 746
-        height: 938
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "French startup Dataiku raises $400 million to bring AI and data into the enterprise"
     excerpt: "Dataiku, whose cloud and big data solutionis available on Azure, Microsoft’s market space, has announced that it has raised $400 million from investment fund Tiger Global. With this new financing, the French unicorn is now valued at 4."
     publishedDateTime: 2021-08-06T09:56:00Z

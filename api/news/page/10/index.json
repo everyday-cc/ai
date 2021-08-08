@@ -2,101 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-07-28-using-ai-to-map-africas-buildings.md",
-      "title": "Using AI to map Africa’s buildings",
-      "excerpt": "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "publishedDateTime": "2021-07-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test.md",
-      "title": "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test",
-      "excerpt": "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-28-artificial-intelligence-in-bfsi-market-trends-and-forecast-2028.md",
       "title": "Artificial Intelligence in BFSI Market Trends and Forecast 2028",
       "excerpt": "The Global Artificial Intelligence in BFSI Market is estimated to value over USD 304.7 billion by 2028 finish at",
@@ -1199,6 +1104,92 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-chipmaker-ampere-to-acquire-ai-startup-onspecta.md",
+      "title": "Chipmaker Ampere to acquire AI startup OnSpecta",
+      "excerpt": "Chipmaker Ampere on Wednesday announced its plan to acquire OnSpecta, a startup whose software accelerates AI inference workloads in the cloud and the edge. The terms of the deal were not disclosed. OnSpecta,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2026/index.php/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2026/index.php/google-amp/article/chipmaker-ampere-to-acquire-ai-startup-onspecta/",
+      "publishedDateTime": "2021-07-27T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-baidus-success-is-pivotal-to-chinas-ai-transformation.md",
+      "title": "Baidu's Success Is Pivotal To China's AI Transformation",
+      "excerpt": "Apollo Self Driving or ASD, though a small base, grew over 5x from last year. China's Big Tech Investments in AI. Data source: Intel and Deloitte While Baidu is clearly the leader when it comes to ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "originalUrl": "https://seekingalpha.com/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1183684002/medium_image_1183684002.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4441964-baidu-success-pivotal-to-china-ai-transformation",
+      "publishedDateTime": "2021-07-27T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

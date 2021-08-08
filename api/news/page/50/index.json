@@ -2,57 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2021-06-30-tableau-gets-new-ai-powered-business-intelligence-features.md",
-      "title": "Tableau gets new AI-powered business intelligence features",
-      "excerpt": "Tableau today unveiled new AI– and analytics-powered additions to its platform designed to, in the company’s words, “empower more people with the right technology to make smarter and faster decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
-      "originalUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/tableau-logo-e1568409911668.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/29/tableau-gets-new-ai-powered-business-intelligence-features/amp/",
-      "publishedDateTime": "2021-06-29T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-06-30-roboticsai-industry-leaders-announce-commitment-to-make-pittsburgh-the-robotics-capital-of-the-world.md",
       "title": "Robotics/AI Industry Leaders Announce Commitment to Make Pittsburgh the 'Robotics Capital of the World'",
       "excerpt": "PITTSBURGH, June 29, 2021 /PRNewswire-PRWeb/ -- The Pittsburgh Robotics Network (PRN), a group dedicated to the growth of the region's robotics and artificial intelligence companies, today announced it has attracted over 100 members – making Pittsburgh home to one of the world's most dynamic robotics ecosystems.",
@@ -1166,6 +1115,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-29-graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market to Grow at a CAGR of 33.4% by 2027",
+      "excerpt": "Market size is poised to reach USD 198.77 Billion by 2027 and is expected to expand at a compound annual growth rate (CAGR) of 33.4% from 2020 to 2027. The report provides the overall revenue of the global Graphic Processing Unit (GPU) Market from 2016 to 2027,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/graphic-processing-unit-gpu-market-to-grow-at-a-cagr-of-334-by-2027-2021-06-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

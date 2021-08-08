@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 808
         isCached: true
+  - title: "IDC Says Companies Will Spend $342B On AI Solutions For Digital-First Economy"
+    excerpt: "Revenue for the artificial intelligence market is expected to grow 15.2 percent year over year in 2021, which will see it hitting $341.8 billion."
+    publishedDateTime: 2021-08-05T02:36:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IDC-artificial-intelligence-spending-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "fNruv24wXn/Rr8ZKdPX2iMz7UURWGD4AvDfgL1pyIP33nEcVl532smMQBH+D/kXzOn9TND6jXUwqP99wjy9uXzLFYdA5PTlC571uaEYaVjqag9QmrKEgy9U38er3h4x2LclDrNYfcJhqKPgm5Iu/GibBwuIMljT/7d/xbz0NXDn5uq1TmehYgJaiavQE0hAXcpm6m2M+OjKyRenfnH6CbthUepr2JVhcTaK6/MQ3qlM5I5ZuRS7pkprJEWyhipJPwt/G1amcUCTdeIkEAZRgt4Z5ypNb41XpwJLyh6WQjLADgzR/Bh8TLOFxfUoLaK+3a88Zm+J91cXthHo7KoVogg/WQwoAieIGFldPbEzgszsqw2DAetV6aNT6p7OqzuwgxnihoBNIZTmBSTGOKfAJIlbjeMMa0xpnWBB8LZNADSN1vyMacdaKhRskzidsreAayWm7LLbiKGFcION4u06kLSEv4/eFiKsFH5UQ/P5NSLoggOohsNrPcLKhqf0a/9KYOnbUXTv83Gcu0FLApbtiNA==;nX0MC/eKV06rkeeQoVNbJA=="
 ---

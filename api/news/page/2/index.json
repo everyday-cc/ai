@@ -104,7 +104,7 @@
       "originalUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -345,7 +345,7 @@
       "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -721,49 +721,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-future-of-chip-design-ai-creating-ai.md",
-      "title": "The future of chip design – AI creating AI?",
-      "excerpt": "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai",
-      "originalUrl": "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1222,6 +1179,50 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
+      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
+      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/jqa4h",
+      "originalUrl": "https://www.techcentral.ie/jqa4h",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

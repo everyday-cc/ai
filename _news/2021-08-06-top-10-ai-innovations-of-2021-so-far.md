@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-06T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
 webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
@@ -99,6 +100,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "1IQb2aasf73u9LBZN2HmzCmYFIxvCNYF8/l8CWsjOV4Lp6WIuZYAZDgJx+wXE27rjf64bxJ3YBNCZJtV45nnH0vVKujKOan+UdszspxU3OuGwfu1JY8+NbJx/NUiLM9oiouHiIo/U+fg/dkbU3Z1a+fnwdiChErCaEwWg7dmBN0LoIeqVy4L8YGDx8wpvH2kKmuK2qdizJtAIGenbgrNEnxe3mygSMqMY5iAajUtZPGLQiqiIq/7xEW0EFLTRoWNAexGjO7tIY5C6bfSIUia9WV8iE//vck5W2t8XDaRuPUJZZcvp1Ew/s4xfOj+DCr799RFimuFQ+3HGrDCvWkU75wSE9nFebxTDOZqPU0AIPI=;ofI+OzMC5t61WKYIRRyMyQ=="
+secured: "dkRsjvktJ7x2Qcv5dV1tjh0mrwpcC0tmMtRUL+d6+P43TTk6g/sK3l0PbW7SO14/1MSSN9e4Urj+/MlFUVVf7oEC1YUMTcaee0Jex80bNOy48wRE0hvIyCEFPNZTM5KmlvhlIljnbQw0QLGbwPZdlj1rvALDA+q4rr9MX9xP5NSKEIg0i9BN+8+RNZjKRuY+wQKymyHv4RsdxwcMuKJudCF0rwjBKnQPlxD1vVlslG41lDvkVyFHIkyjyyU/UVJtgE94zj8dGZbThgMh+K9fvfLihkwGnKcEytqLmm8QTPIkTXKXv4q4KWE4G20n3UEodWbXaOTK3V+/CQ7kj2qAtrGuv9nf+fytfoAybzTNhFPF220AXz+lbdIBUvm1TUO5pFsg72+3RFfjyEO/dApwhfz49KG5lKhojGBObX61QVvrCue7i4ptaAqsSXImrSMhi0++B/4asdImjJyZqcm8ViFoowyiDZd5cFBg1jw7YBJBFKOl4c44vQRGNfUCSV6+km82qTCrn8V3+TOHnwt/iQ==;ZPW0UQDK1qbWnWBvodk93A=="
 ---
 

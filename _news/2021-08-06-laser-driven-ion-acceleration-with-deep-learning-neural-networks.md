@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-lea
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A comparative analysis on question classification task based on deep learning approaches"
-    excerpt: "Recently, there have been several text-mining issues such as text classification, document categorization, web mining, sentiment analysis, and spam filtering that have been successfully achieved by deep learning approaches. In this study, we illustrated ..."
-    publishedDateTime: 2021-08-03T09:52:00Z
-    webUrl: "https://peerj.com/articles/cs-570"
-    type: article
-    provider:
-      name: PeerJ
-      domain: peerj.com
-    quality: 30
-    images:
-      - url: "https://dfzljdn9uc3pi.cloudfront.net/2021/cs-570/1/fig-1-1x.jpg"
-        width: 547
-        height: 600
-        isCached: true
   - title: "Successful IoT adoption requires iteration, learning"
     excerpt: "Control Engineering - Learning Objectives Integrating Internet of Things (IoT) components into products and processes will increase operational efficiency and create"
     publishedDateTime: 2021-08-05T05:03:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-cr
 webUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Electropages
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The rise of artificial intelligence in society"
-    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
-    publishedDateTime: 2021-08-03T09:03:00Z
-    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
-    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
-    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
-    type: article
-    provider:
-      name: Australian Times
-      domain: australiantimes.co.uk
-    quality: 41
   - title: "Artificial Intelligence Future of Livestock farming"
     excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"
     publishedDateTime: 2021-08-07T19:11:00Z

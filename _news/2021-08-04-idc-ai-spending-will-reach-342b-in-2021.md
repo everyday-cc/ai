@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "IDC Says Companies Will Spend $342B On AI Solutions For Digital-First Economy"
+    excerpt: "Revenue for the artificial intelligence market is expected to grow 15.2 percent year over year in 2021, which will see it hitting $341.8 billion."
+    publishedDateTime: 2021-08-05T02:36:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/IDC-artificial-intelligence-spending-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "IDC predicts enterprise AI spending will surpass $341B in 2020"
     excerpt: "According to the research firm, the forecast indicates that AI spending is on track to increase by 15.2% compared with 2020. Growth is expected to remain robust in the subsequent years. IDC’s analysts see organizations upping their AI budgets by another 18."
     publishedDateTime: 2021-08-04T19:08:00Z
