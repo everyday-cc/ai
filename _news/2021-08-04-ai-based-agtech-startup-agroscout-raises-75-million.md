@@ -7,7 +7,7 @@ originalUrl: "https://tech.eu/brief/ai-based-agtech-startup-agroscout-raises-7-5
 webUrl: "https://tech.eu/brief/ai-based-agtech-startup-agroscout-raises-7-5-million/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,35 +22,6 @@ images:
     width: 1600
     height: 700
     isCached: true
-
-related:
-  - title: "Music-Tech Startup Moises Raises Oversubscribed Seed Round of $1.6 Million"
-    excerpt: "Press Release Today, music-tech startup Moises announced it has raised an oversubscribed seed financing round of $1.6 million, led by investments by Utah-based fund Kickstart Fund, with participation from Valutia,"
-    publishedDateTime: 2021-08-03T16:25:00Z
-    webUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/"
-    ampWebUrl: "https://venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/music-tech-startup-moises-raises-oversubscribed-seed-round-of-1-6-million/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-  - title: "Raleigh startup InsureLife raises seed round, secures two distribution agreements"
-    excerpt: "A Raleigh-based insurance technology startup that uses artificial intelligence has raised an undisclosed seed round, and plans to raise a Series A round later this year."
-    publishedDateTime: 2021-08-05T15:05:00Z
-    webUrl: "https://www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/"
-    ampWebUrl: "https://www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/05/raleigh-startup-insurelife-raises-seed-round-secures-two-distribution-agreements/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/venture-capital-dollars-funding-financing-e1600868030834-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
 
 secured: "+PVq5SRx3byCN2LX1pf2t/aPV89T++iG1IXNxUQOzD9L3RL5yE/BAw9/zqI8U3oee2qxrjucbjWPTIiCEqJLGXWpr3K5l2VJI4xFOUnsZvGrq9OI1kL3tXD/sAKth0ysnmAQlL4U27lMbjBgt4dr/T9kzPE8oDuIqcNsyHbYBwkgDGbDK2RgjDQxO63qDZnLdBNyMKCE99IlEr+lmnZIErDN/LQ7/gTjss5Hx82/wAnxMcmteBFWbgdbyXtlqQWEUGbCT8tTcGAEMShEO2Ff+f/cBcktv4GjNbi+6tjrp9lCWpRls22kQnlIRMQgvWRGOqzChfclgKESdEdm4L64eCk6pLktqyqzuRhxuJzEzlnPZvwNCXE1d4AXLhzUWrrc1pofu+czUuZg+3JabvPsCE7F4o5MSl/LGPlaXEgUV706ZDFIQirG/97V8rDHkv6yV6nbmnBE24oP+gBJReldPPgK+24FDjUJz4bPFWxo7xOsbdxOw5j1Fmjwos2wxiZRvrP+pLAL5Oy3AybISGtktw==;9+ovWsozG5IObKTwg73KMA=="
 ---

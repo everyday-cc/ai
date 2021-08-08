@@ -33,20 +33,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Machine-learning robot completes 5km run in record time"
-    excerpt: "The fastest ever 5km sprint by a bipedal robot using machine learning (ML) has been achieved with a device named 'Cassie', developed at Oregon State University."
-    publishedDateTime: 2021-08-03T16:03:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/08/machine-learning-robot-completes-5km-run-in-record-time/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 41
-    images:
-      - url: "https://eandt.theiet.org/media/16453/cassie_5k.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132724803900000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "wb5RFf/xkLx4RwGFcvgCzctXR76ob0QKftD3jUYdamWLxARDvJSxPzzHIP2TXpqehePHcpKSBWTL+yEbQa3D3B+2iyyQyZjuv221zZDsE1f+AHK51UHKJmNk6IZWwFIs5ydw9Br8Hl94JZL3gp9IkgXofw2PQw5IerXeWyRVIUX+7xjpnVm0fLK7GxWSQkZFOIIcuVROtIatDF2hHxpSPkDW+/GYtZNo3MCJGszizHUtg37ccic787Hpo1p4Kmu1HxVbPMaHipWx4syGEC3D6shmKLeZ3bR0YzxSF/uAqMDBG/H2//YiQwCOv45R7RKxia43DmuMAD0yKlvfSEUgURn3uloIc8huphTq6V+SZykbCteu2lvV2Rpm9nEFhKCUwJIQhCtuyIemnGWqxaHDLlwTd1WgwBe//adym4mhWbK2KiW5oLhRMYF4H+rUA6Z91US27qLWtzEHyPj/Su4/XUZZPWHEtsO/C2IorvJhjONlaPBkUPnj1EBGGyJadgteBGC+kfX0TfYAYqCmbVyrmg==;V/2cjX/aDuJbiXukOyoODw=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook to use AI to analyze encrypted content - report"
-    excerpt: "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The"
-    publishedDateTime: 2021-08-03T15:29:00Z
-    webUrl: "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483"
-    ampWebUrl: "https://www.teletrader.com/amp/news/details/56129483"
-    cdnAmpWebUrl: "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483"
-    type: article
-    provider:
-      name: teletrader.com
-      domain: teletrader.com
-    quality: 59
-    images:
-      - url: "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Facebook reportedly wants to securely mine your encrypted data to target ads"
     excerpt: "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i"
     publishedDateTime: 2021-08-04T08:22:00Z
@@ -89,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Inside China’s chilling network of AI generated PEOPLE on Facebook & Twitter spreading anti-vaxx lies & Covid fake news"
-    excerpt: "CHINA has a sprawling creepy network of AI generated people who it uses to spread anti-vaxx lies and fake news about Covid. Beijing is believed to use a massive “spamouflage” network"
-    publishedDateTime: 2021-08-05T15:06:00Z
-    webUrl: "https://www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/"
-    ampWebUrl: "https://www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3419143/china-network-ai-people-facebook-twitter/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 35
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-FH-OFFPLAT-AIFACES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook is trying to monetize encrypted WhatsApp messages"
     excerpt: "Facebook is seeking a new way to earn revenue from targeted monetization, this time focusing on its subsidiary company WhatsApp."
     publishedDateTime: 2021-08-04T08:21:00Z
@@ -116,15 +84,6 @@ related:
       name: Phone Arena
       domain: phonearena.com
     quality: 24
-  - title: "Facebook – Facebook Introduces New Platform For Building Robots"
-    excerpt: "Facebook has introduced Droidlet, an open-source, modular, heterogeneous embodied agent architecture. The Droidlet platform can be used to build embodied agents using natural language processing, computer vision,"
-    publishedDateTime: 2021-08-07T09:05:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-introduces-new-platform-for-building-robots/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 4
   - title: "Facebook – Facebook is reportedly trying to analyze encrypted data without deciphering it"
     excerpt: "The company is recruiting artificial intelligence researchers to study the matter, according to The Information. Their research could pave the way for Facebook to target ads based on encrypted WhatsApp messages."
     publishedDateTime: 2021-08-03T18:14:00Z

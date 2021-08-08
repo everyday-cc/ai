@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/machine-learning-breakthrough-uses-sate
 webUrl: "https://www.miragenews.com/machine-learning-breakthrough-uses-satellite-608610/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 729
     height: 509
     isCached: true
+
+related:
+  - title: "Machine Learning Breakthrough: Using Satellite Images To Improve Human Lives at a Global Scale"
+    excerpt: "Berkeley-based project could support action worldwide on climate, health, and poverty. More than 700 imaging satellites are orbiting the earth, and every day they beam vast oceans of information — including data that reflects climate change,"
+    publishedDateTime: 2021-08-08T09:23:00Z
+    webUrl: "https://scitechdaily.com/machine-learning-breakthrough-using-satellite-images-to-improve-human-lives-at-a-global-scale/"
+    ampWebUrl: "https://scitechdaily.com/machine-learning-breakthrough-using-satellite-images-to-improve-human-lives-at-a-global-scale/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/machine-learning-breakthrough-using-satellite-images-to-improve-human-lives-at-a-global-scale/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-Breakthrough-Satellite-Images.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "iamkofyWuYVPEBvVD+/2H+gdAhW8E+d8AwwzA+T85U6j7P6kn7Ds1C4lG6QvZxLaTNK1/AKhyyq8mJOyrSL+lMmS5OGIpy0h6p+nGNimdnF0tSJl4eT2THBnGUeStdOq6K5968GGty5ZFaeNUehAiH5MFTn5MboBUuqIly/j3U2TP6hTQwnExIjjyC4WAx2oenwGY2BcyWSpSsvGdM0TR+V4ciF2fYiWxbHWPR9dOIjntXzBRWBtTwzVQWr4Xkntdogkzy94MZl2BPZqm+3PncfBmF86CzSNL1uMGt+D9Q3XXgiJMG/L9RoLGuSKRHkUYe7AMkxlGlkdCnWDa1IR0qqxtEs7SbPRzoqyJw/TNzw=;5LiYutWTC2DVTIsycHE/mA=="
 ---

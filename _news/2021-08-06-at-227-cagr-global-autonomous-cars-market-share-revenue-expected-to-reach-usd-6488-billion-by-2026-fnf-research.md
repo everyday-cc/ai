@@ -29,84 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report"
-    publishedDateTime: 2021-08-03T15:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html"
+  - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
+    excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
+    publishedDateTime: 2021-08-04T14:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 64
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook"
-        width: 1536
-        height: 804
-        isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market"
-    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
-    publishedDateTime: 2021-08-06T13:49:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-  - title: "Artificial Intelligence (AI) Chips Market to grow by USD 73.49 billion|Technavio"
-    excerpt: "Technavio forecasts the artificial intelligence (AI) chips market to grow by USD 73.49 billion, progressing at a CAGR of over 51% during 2021-2025."
-    publishedDateTime: 2021-08-03T23:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-ai-chips-market-to-grow-by-usd-73-49-billion-technavio/article_91b68972-958f-576a-946b-90268d752941.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 47
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a3/9a3a2caa-a0d3-5f1e-8852-8bec2f6773f7/6109d5cb5f5ca.image.jpg?resize=1200%2C585"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 585
-        isCached: true
-  - title: "Global Healthcare Cloud Computing Market to Reach $76.8 Billion by 2026"
-    excerpt: "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report titled \"Healthcare Cloud Computing - Global Market Trajectory & Analytics\"."
-    publishedDateTime: 2021-08-05T14:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-healthcare-cloud-computing-market-to-reach-76-8-billion-by-2026/article_e32e4637-2e11-5037-bcc1-70c036393eb5.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/55/055c48bf-a8be-50d9-ac10-eb0d00540a35/610bf96f8a486.image.jpg?resize=1001%2C630"
-        width: 1001
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) Chipsets Market size estimated to see upswing in upcoming period"
-    excerpt: "Chipsets Market size estimated to see upswing in upcoming period” Market Overview. Zion market research published"
-    publishedDateTime: 2021-08-05T14:36:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-chipsets-market-size-estimated-to-see-upswing-in-upcoming-period/"
+  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
+    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
+    publishedDateTime: 2021-08-04T12:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 17
-  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-08-05T16:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
-    publishedDateTime: 2021-08-05T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
 
 secured: "YgPOBsYEaVKMTzrsNj2b6o53EPUtX70E/RkCwYwvWhtdSKHLWHiOI1qDyQlsXMeJ4UpWannUoJdSLmXCH32NJ/0IoWp3B8kDhzXmAVcPRfDL2/ajF9vOd4EcokeL0p01SmgkU2nuBj6xK1iTsQsAITVC4Tv9xHVENOp6wd4BcfCI/NJZJPRHEaTc+iN+40HMJ6ldqY3ZWE4inUuRJSwfsXCcUKAPLotvDFKP/QV7FRuLRKaHBM/vpR2Qw2rEoX/uDii0JJTVGCDmZht+fpq9Iizg4Bk+0hw6bYKcx7dSIjZofN7vtGsfAnxxVv6dqzuNnZKBKWU0kP7kpvxbgj9e0KSq3NSUFb2wkxuRaaZwXO4=;qXeOBSmA8EkulUoOPLCmMQ=="
 ---

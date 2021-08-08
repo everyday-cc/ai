@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facia
 cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: News
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T14:18:00Z
+    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
+        width: 700
+        height: 464
+        isCached: true
+  - title: "New AI Approach Exceeds Performance of Traditional Models For Automatic Coding of Medical Notes"
+    excerpt: "Of note, this is the first research that tracks output from machine learning models for autonomous coding and benchmarks to the performance of human coders. \"We've reached a new milestone in autonomous medical coding technology as Read,"
+    publishedDateTime: 2021-08-05T14:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-approach-exceeds-performance-of-traditional-models-for-automatic-coding-of-medical-notes-1030696237"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://mma.prnewswire.com/media/1587613/MLHC_Study_PressRelease_720x405_1.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
     excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
     publishedDateTime: 2021-08-06T17:52:00Z
@@ -43,35 +73,33 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
-    excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
-    publishedDateTime: 2021-08-06T17:13:00Z
-    webUrl: "https://www.cbc.ca/news/canada/british-columbia/liberal-party-facial-recognition-software-investigation-bc-1.6132382"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6132382"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6132382"
+  - title: "Ampere Computing Buys An AI Inference Performance Leap"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-03T18:26:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/ampere-computing-buys-an-ai-inference-performance-leap/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 50
-    images:
-      - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Facial recognition plans for millions of Indian examination candidates"
-    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
-    publishedDateTime: 2021-08-05T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg"
+        width: 705
+        height: 419
+        isCached: true
+  - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
+    excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
+    publishedDateTime: 2021-08-06T07:46:00Z
+    webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 39
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/virus-4999857_1280.png"
+        width: 1280
+        height: 905
         isCached: true
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
@@ -87,17 +115,6 @@ related:
         width: 700
         height: 464
         isCached: true
-  - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
-    excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
-    publishedDateTime: 2021-08-06T17:09:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
 
 secured: "pUMaDM7/oZDNBGhu+HTanNTMn0ARiTclA5HNivvok67X/0pw2C58Hh4/E/IHWgrk5IovdW6IS+GNU5N9xUDxAqT2xHmc97RvZbPxCObg31uGZnZ8E82H1jvn5NBlmPj5/GEizTmJJQ3InIlssoYXJZN5wZiJg/yrbVdTt6kTbu6ogVqfNf7iiWHrb6WHsnrG+g1Li0glJOU75d0YkZmM4ZTYX2al/4Mt0MrXVMfBGVw8D1J9MeFlnnLriCMPdv5vfD5Ex4k0m7GsSTHMymvbl/V4z0ulXmULm9icruXjyduauO8HkY+sXBhc5ofvttcCodqM7QwfGWAugbHEX8e956e9rV675QEQD9YOUNhG4IM=;2y6bTyPHT8Ifc7wkofPfhA=="
 ---

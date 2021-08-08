@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenewsminute.com/article/facial-recognition-students-ta
 cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Facial recognition plans for millions of Indian examination candidates"
+    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
+    publishedDateTime: 2021-08-05T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
 
 secured: "zX1xt/cjc53nssLoqioapWRPsDvuxHsPmbxsXzDNdJmXW3k7shuoZeGR/pS4IHGQMNE9/ZjgYE8LSYyHthX0Rcvya6Fxktotj4lc5OgzQYf/cd6rZUKNl+6OulDXMoufZyRLcE17iqnWzJp5DIL87XJy8sWqFC8g9L9msM3ktU4QtXQqWz/UJ423fdEW5YTRlygcyDTJZUPqdun6Wp7joWM2nSHSktT6AKz9wm+UrJLQi+EZ1VVts1llNgXRuy4EyDe3YBnlIb1YWV1OVujb1PZwIw0lQV/MxRobUaRVDFA8c/4Zzf04yxtss6MaK/WOo/RalyUDkXzSkCWADmQOxqvyiMCNT+9oIWE9WRl0aHI=;6jxUHcmfj3A510OIK+G8uw=="
 ---

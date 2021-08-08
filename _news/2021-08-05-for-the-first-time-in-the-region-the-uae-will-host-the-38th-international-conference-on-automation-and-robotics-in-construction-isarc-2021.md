@@ -39,20 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Worldwide Machine Vision and Vision Guided Robotics Industry to 2029 - by Product, Technology, Application and Region"
-    excerpt: "Machine vision is utilized in a variety of industrial operations, including material inspection, object recognition, electronic component analysis, signature recognition, optical character recognition, and currencies. A vision-guided robot (VGR ..."
-    publishedDateTime: 2021-08-03T15:44:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-machine-vision-and-vision-guided-robotics-industry-to-2029---by-product-technology-application-and-region-301347013.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "p6rFisuVDS5peHYxkK2nyzm6GdLvXJmUc662hTW1II/5qH5Awj/eZYufbXaZR5suTEAWuvDbZA2U+RQhBDknMO4wWKrQ+gQMJvd/zKZsHeHGRrKlxuXIF8nfexYB8mDC8oi29ytlcEF6K89npGBWzYX91yYMl1MDxsGa1EU6N/r6NA1g8nzoWUNwefim+seOrJL+tTkGPeG4d/N3Cx+mLY83NyPQsLxlBfVGu0HQMjcGWjOQyfVpClz2cyME5GRu2NdWMhTbedI56hhvOomNO3XncuYgSpf+rGWLbQbLTPNmGuv3HCGLzRHg9F9/bX/AiOaToxwvX0JKvDoJ9g1VLU+fQ3R3M6KnxSnF5t1pDG4=;DKcCk4hCcfkEur57LmdZoQ=="
 ---

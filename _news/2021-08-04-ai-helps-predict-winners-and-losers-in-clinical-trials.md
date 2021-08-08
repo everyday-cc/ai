@@ -24,6 +24,19 @@ images:
     height: 560
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Helps Assess Metastatic Potential In Skin Cancers"
+    excerpt: "A new way to predict which skin cancers are highly metastatic using artificial intelligence (AI) has been developed by researchers."
+    publishedDateTime: 2021-08-08T08:00:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 36
+
 secured: "BCRyKDOFlT14c2zTV8bjYfv5DjoPh+qO0DIztp+SQjggu6zo9iketjlhHMHIC8VVqzmfRBpRPXkHMW+H1wAlwqxKSaoRQPNXULyHUY0GtS6NOjF0TBWvfYLLsdmn5/+PQpNX0gL+8Kul4oOpIrN8gm7diFm+TLfn3Sf0H4bej9BdceKPXINldNhyIVc70sXnfIuwU32wlZQzmtvARa6GyIZuu1Xc1lA+7fEPysYvg6WOXIvKB9hvHyCrOOKF5EnhoHvRzieVHmj/LQGRt8QL4aCJXcQTU90/uVVRSiVLvQpRKhxzCVaRV9/rLoFPuXMaxM6pw5Vw4gGr/k+f6u+1nIpF3maO6cCej3XmPm/qcHSJpQ6EbnlTI8oRIVY5JMnkLM4pRyqiBcl20S7kFmBlCSWkphm4jVEFk6L+oW6HxxBflfo0wHlPYaZCK16l3zEA+jfS7rk/BjIc/FnrVdImzcwp50IIxSRaejLp01XOTlrnk8+/LVo39isYGZM7L6Y2cHKCvuMDsGNyGaZWjJAxsw==;obbDn3M/5dsKV2eRokPwbQ=="
 ---
 

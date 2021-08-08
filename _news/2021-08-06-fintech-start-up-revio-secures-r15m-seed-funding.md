@@ -43,22 +43,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Rapyd To Step Up FinTech-as-a-Service Offerings With $300M In New Funding"
-    excerpt: "Global FinTech startup Rapyd on Tuesday (Aug. 3) announced a $300 million Series E funding round led by Target Global."
-    publishedDateTime: 2021-08-03T16:57:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/rapyd-fintech-300m-in-new-funding/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 43
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Rapyd-funding-payments-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "McyZ0cWEeQKqS9zWui6augNItQzfN9EXJsCA2pOU00KAopPZAPVzgO4/dyC4BGb0Tgqz/dglgo2TxrDgaTRkyApm09x+2X8/Zh2sSheRz8X1gP7qUbP6x8eazn9QH1ZCDCmwwYkRf2x8JYq0c0WtNWYI16wh0mCIIZGLpYVS7CYJbQCczTZ11QUUfHwdXYjLILbzJ3aKfxXtnWonGgp+u/0YbJEs5WdZ+u/gI0BNJqCquYg+HsdhNcVrfatUKAq+5C3XlNGQQgmRdTuXNMJ3g7AAQS/D+Fk7Ib4TVXrAvJI0hRrvbGmXhcsEF1ZODFSClI1QWFDq2dQ5mplJJbkMfi9NLcYQUjkpkapq9H7rqRo=;nFQOghWCc1wGAwUuxiaHWg=="
 ---

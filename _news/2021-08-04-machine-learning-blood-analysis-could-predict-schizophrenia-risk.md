@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/machine-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/OURGNOG67JGYJPITYQQ7E5DASQ.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by researchers at Baylor College of Medicine. The strategy applied a machine learning algorithm called SPLS-DA to analyze specific regions of the human genome called CoRSIVs,"
-    publishedDateTime: 2021-08-03T15:33:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-machine-approach-schizophrenia-blood.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/schizophrenia.jpg"
-        width: 1242
-        height: 702
         isCached: true
 
 secured: "p7OpcvGiJy03Edj7FbxnbmbdJ1kOYFS/IWgKXOnD5/VqR5g1omu+gVVUMS0G9RhTxUq8z4U3ET39IWoEGOCahA4OEcNvQCHOtu4NibLKzIw9HqjA0HVNhkP1XemzTI1yIWCvxvfoB4JjIlB9N217gM5Z7o7ZIENwEuTT5zZhr61vbeqhLhJHd4DuX15vozEK0V9SjrwpMfNIwV9jFXIQ2pgl4/jjGmG60oplTnOtG+QM/hbs++B/G9imN06JuJYTA865FmBmGx69Dp2AR6ac/W6dYzS6rGb/o1crPzIzs+7eangrN/KrJb86XLANnWQZIqmzdChraBEQw3B5TX95ksNJ5ZMLXQE5haL14UbUlqRv7CJvg+91oJEjQnSNxfa7CXpr5Ay45rVovtyVy87amSWf72XQn2wXjQ5EVfbCupFNZWIio6KFhBt6L/un5p/o98rKMlw4AJn1YHH8lP60EKDxx7o98YGfPTJAKYpAIogiTgc4j77wKI+fGS6QXcCK2pmML+93UGqi7Vug9tQsjw==;wHekrDZE/aVb7SHapTwAnw=="

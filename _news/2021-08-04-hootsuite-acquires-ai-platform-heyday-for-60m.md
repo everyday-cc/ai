@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hootsuite acquires conversational AI startup Heyday"
-    excerpt: "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks."
-    publishedDateTime: 2021-08-03T15:24:00Z
-    webUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday"
-    ampWebUrl: "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 87
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million"
     excerpt: "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said."
     publishedDateTime: 2021-08-04T23:36:00Z
@@ -55,20 +39,6 @@ related:
       - url: "https://images.wsj.net/im-380494/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Hootsuite acquires artificial intelligence chatbot company Heyday for $60 million"
-    excerpt: "Social media management business Hootsuite says it has acquired artificial intelligence chatbot company Heyday."
-    publishedDateTime: 2021-08-03T15:24:00Z
-    webUrl: "https://www.castanet.net/news/Business/341797/Hootsuite-acquires-artificial-intelligence-chatbot-company-Heyday-for-60-million"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 32
-    images:
-      - url: "https://www.castanet.net/content/2021/8/20210730100724-61040ba15b9abc0c4ffc6053jpeg_p3544803.jpg"
-        width: 640
-        height: 416
         isCached: true
 
 secured: "FcpAqf9m6HTE380IDwmXlpbTybWxGuqt4MOG5M1HoPGxD1Qwk6PdtPrn2//5ynVJyt8Qd5NeJ1otEhPliLyeheRhRsKO5u4+iXRlXe7ezcUQupxO6yhj0KWFLR+rarQOnrHp3Lu9Svf7L2rvrLuuVIF7PefyQHTno86ieejnsCX5W3uTNi8jzZ1FnjO1rn7Z8pQkkyizEsh1RPnOMe3lPdSgdP47Sdaj3NVk5cG0gQaagVxCroArR5OtVUc4htpBISAgOwdpsAaBfbMqTYbtBbJgBDjodSALdhJe6pYfwOo+8JyBty2t2FDqduJ+D3M13lvKvHVO/U8NXOgZ+RucTqktcslnPSVM9oWGphqOrnQ=;IXTHhtQCAR3VL11Ff6jj7g=="

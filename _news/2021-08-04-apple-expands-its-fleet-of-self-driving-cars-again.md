@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Apple Expands Fleet of Self-Driving Cars"
-    excerpt: "Apple's fleet of self-driving vehicles roaming the streets of California for testing now includes 69 vehicles and 92 drivers, according"
-    publishedDateTime: 2021-08-03T15:39:00Z
-    webUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/"
-    ampWebUrl: "https://www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/08/03/apple-expands-fleet-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 44
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "MovEBR modifications could be used for self-driving cars"
     excerpt: "Traffic-light infrastructure upgrades included in the MovEBR program could be used for self-driving cars to operate on the city’s roads."
     publishedDateTime: 2021-08-04T15:09:00Z

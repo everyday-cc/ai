@@ -69,20 +69,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a team led by researchers at Baylor College of Medicine. The strategy applied a machine learning algorithm called SPLS-DA to analyze specific regions of the human genome called CoRSIVs,"
-    publishedDateTime: 2021-08-03T15:33:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-machine-approach-schizophrenia-blood.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 33
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2014/schizophrenia.jpg"
-        width: 1242
-        height: 702
-        isCached: true
 
 secured: "HylzoWh3E9ntFvWb4rUlMILi1jGFUyyB9IvziiRB7Md2lEt9ZpI7mMKM88GtlnCnXhN1iYP8oepbYWXWXxfbhrvOk7w15WjtLS8gVNSoA+nncyJfFfGpgD4hWsHevsqQ+9dmV2xDECr+xnMIbgzyz+M7WUJOxF/tm8h3zRqL2ROkvZL2CpX+Eaj5htCiDywy+wS0wKxnsLLCAL8awUCdxMYQueaLZT8oYSWXpf2PvOLuu6EZyJRkyInuPmEsweUh4x3HQM3UHcmRyx+5saYtsk4A+8fOOyvO6FsYo9CAJF/fAKOm5o4XAN6nFNpSYOW+/76T+w98KKsXQcxD/slyJmwK1RfD64F4aW7OnjlGBQc=;tHYB7RCbyU0kQWtKQJRhpQ=="
 ---
