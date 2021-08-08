@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2021/08/machine-learning
 webUrl: "https://eandt.theiet.org/content/articles/2021/08/machine-learning-robot-completes-5km-run-in-record-time/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine-learning robot athlete sets record time for 5km run"
-    excerpt: "The fastest ever 5km sprint by a bipedal robot using machine learning (ML) has been achieved with a device named 'Cassie', developed at Oregon State University."
-    publishedDateTime: 2021-08-04T18:17:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/08/machine-learning-robot-completes-5km-run-in-record-time/"
+  - title: "Bipedal robot from Oregon State University completes 5-km run using machine learning"
+    excerpt: "A bipedal robot from Oregon State University has become the first to run a five-kilometre course using machine learning, according to the school."
+    publishedDateTime: 2021-08-08T01:25:00Z
+    webUrl: "https://www.ctvnews.ca/sci-tech/bipedal-robot-from-oregon-state-university-completes-5-km-run-using-machine-learning-1.5538770"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 41
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 49
     images:
-      - url: "https://eandt.theiet.org/media/16453/cassie_5k.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132725629580000000"
-        width: 1200
-        height: 450
+      - url: "https://www.ctvnews.ca/polopoly_fs/1.5538773.1628384195!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "O21Xc4ZmKdTVCycTekOFLzkkA8/a8zUgaPGE9QZ4iHEb+jjeUsq87AxhxVGtsqR1FVbeJ079e9aIBii+Edmlee4hx5P73QjOm70jVlCVbCza2ZcYUuxkq4e2Ace2ITw+GikPONZot4uu8akIjJ7Q2zJPLX0euK+QfDZLvXYP6cc/0Ad89WJbpLVfSL3ZBGHoptqKiyf7Owqp1S3iPsSD9/vSNPgmWtyxHrJ9gqCKhQCYgC0BuyD8AAz2/b4BLhOG89Qkfztl6R6PQ5a5VkGZZhGe4BZ3S1GJvqmsWaWD5JhAHe1JqTweUzfWaQ3euCUOrjlPp2gSLeq3YWThuc6HPC043jRe5j76dS6CD8pFQA8=;fnPcDVff04qVhEb4vhuOcA=="

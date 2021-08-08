@@ -1,26 +1,23 @@
 ---
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
-publishedDateTime: 2021-08-06T12:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
-webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
+excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
+publishedDateTime: 2021-08-06T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
 type: article
-quality: 40
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "Spell unveils deep learning operations platform to cut AI training costs"
@@ -40,20 +37,15 @@ related:
         height: 600
         isCached: true
   - title: "Spell Operationalizes Advanced AI with the First Comprehensive MLOps Platform for Deep Learning"
-    excerpt: "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition, has launched"
-    publishedDateTime: 2021-08-04T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning-301347691.html"
+    excerpt: "The namesake solution — developed by AI industry veterans — tracks, manages, and automates the entire deep learning workflow, from developing and training, to deploying and optimizing models ..."
+    publishedDateTime: 2021-08-04T12:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning-1030689008"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 59
-    images:
-      - url: "https://mma.prnewswire.com/media/1586535/Spell_Logo.jpg?p=facebook"
-        width: 1635
-        height: 854
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
-secured: "Ex4lBfhOZyLH1wl7ELLD3JkuzTTZvsay4qDjXqhGWSQVXzwg96JrSKWEtZppX0gCMSiiYQQw5DWO4GOeSwduRq0y9U7amFPK62T3vARx0Cb1JnYpBuhFh0a18gDit8R7BN99q4sDJTkqEz6zvvjAxPIC8l2DTw86z0/D89T7v6Lr7BH8AXzdEjU+B+Noh1tOaEsBoF1mZw5q9AF/l3JoFBkqnxvBh433lroov9OcS2KRGtEs5nZGzd++3NMUOYcpmyq0gJDKfP5LN/v9wGbiboYIBiB/B/TWBbO93GjPTmUOZIPzkuKK52zLC6dIVWXaF7ixZBnDghX9Er8P/Xh5yqIbG8XjZL7c6dKOpEKoVZA1R4GBcVJBDFIYsrzKxyFjMu+srr3Ae6a5tFPVhrCQ/v4dtxbXC4cRjIRgadVG/+sCzXd88D0mn5GaozJHKjTrkAfFWDnSh1BDoP/zCTvPE4YyUpaHxxn7NrrZC36MgEBgaBU1l9is3amLSZ/e2NOt3rKpuP+b27ELLVdzagjLiA==;WKeN0yCBAqXZO29mGDXmfQ=="
+secured: "QuKInCmikHbPcc4bBMIrRWu9Dom5PYDgMCBa/2iEgzmN8CgCKWyA4eECZ5ruUP78vh8GB8v/E2hbSjcv2B79jZLiQTKUDPhdb82/DKTXVt+xK5xqmHhp1OUgpgnyRjlHFVkUinmifce8efxUmKvmV/+XUX+e14GZcTFpjCMl6VpOY++QXFGoMTmC9Uy5bUTWQkgS2UqJjEfmZnrNvUQn0TwYPXmt6MDEhxphSdwDNOmMktrq4g8WVLm4wkh0VwJk0aiRBqkRIn5w4Q0FTiTocLX757Z6IaRiuvL4nbt3zwe8wpPlkpHw6UkOaNn0sppiRtiKqjDxkMOevG0xEABKFpQkrmCH0C8tyBBkdnGKk9yx57nrcmdV+oqZQvQHopOTJ5qtotO13egmL1dSmeaPxHFp2NVNtOLinTFYCqOQnnWPwlFwR9Tf1lckKIv//cO6x7dvW8DueYcVZQ1BQVZ/+Fvauote+ptSlrz4GhMtNTsEmJjGIY0i0UQpuMKl7w1YnKfDsGhotoS/z1N/mKNCWQ==;KgnLVjGb1W6jwWOgN2zkQQ=="
 ---
 

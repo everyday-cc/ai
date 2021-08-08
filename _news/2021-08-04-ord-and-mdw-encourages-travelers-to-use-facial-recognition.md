@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-secur
 webUrl: "https://www.hstoday.us/subject-matter-areas/airport-aviation-security/ord-and-mdw-encourages-travelers-to-use-facial-recognition/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ORD - MDW encourages travelers to use facial recognition"
+    excerpt: "US Customs and Border Protection (CBP) at Chicago's O'Hare International Airport (ORD) and Midway International Airport (MDW) are enco"
+    publishedDateTime: 2021-08-03T11:16:00Z
+    webUrl: "https://menafn.com/1102557868/ORD-MDW-encourages-travelers-to-use-facial-recognition"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-08/02/CNG_bc16bimage_story.jpg"
+        width: 696
+        height: 464
+        isCached: true
   - title: "Biometrics for travel: Elenium, SITA deployments, CBP encourages facial recognition"
     excerpt: "Deployments of biometrics solutions to improve the passenger experience - Elenium partners with Darwin International to deploy its VYGR end-to-end solution."
     publishedDateTime: 2021-08-05T21:57:00Z

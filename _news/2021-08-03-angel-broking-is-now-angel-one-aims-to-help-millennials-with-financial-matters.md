@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/brand-post/angel-broking-is-now-angel-one-a
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/angel-broking-is-now-angel-one-aims-to-help-millennials-with-financial-matters/amp-11627988551326.html"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Mint
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Angel Broking Rebrands to Angel One, to Cater to All Financial Needs of Its Millennials"
-    excerpt: "FinTech platform Angel Broking has unveiled its new identity Angel One, a ‘Digital First’ brand that will serve all financial needs of its clients, including stockbroking services. In its new avatar,"
-    publishedDateTime: 2021-08-03T08:19:00Z
-    webUrl: "https://www.businesswireindia.com/angel-broking-rebrands-to-angel-one-to-cater-to-all-financial-needs-of-its-millennials-74285.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
   - title: "Angel Broking Rebrands to Angel One, to Cater to All Financial Needs of Its Millennials"
     excerpt: "The Digital Broker transforms to offer financial services along with stockbroking services Mumbai, August 03, 2021: FinTech platform Angel"
     publishedDateTime: 2021-08-04T08:10:00Z

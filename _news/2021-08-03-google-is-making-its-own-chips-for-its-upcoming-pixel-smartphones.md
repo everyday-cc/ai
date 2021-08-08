@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Upcoming Pixel 6 and 6 Pro will run Google's own AI-focused Tensor chip"
-    excerpt: "Google's Pixel 5 smartphone was surprisingly unambitious, an affordable mid-ranger rather than a high-end flagship, prompting some to ask if the company was quietly planning to step back from manufacturing its own Android handsets."
-    publishedDateTime: 2021-08-03T08:35:00Z
-    webUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/"
-    ampWebUrl: "https://newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/google-pixel-6-pro-tensor-chip/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 104
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/baf7079/2147483647/strip/true/crop/4096x2731+0+683/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3b%2F5e%2F652d46dd4bd081c7a0a7442482cb%2Fe7zd7sexias9f-s.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google's Tensor Chip Could Spell Trouble for 5G"
     excerpt: "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G."
     publishedDateTime: 2021-08-06T13:28:00Z
@@ -73,35 +57,21 @@ related:
         width: 651
         height: 400
         isCached: true
-  - title: "Google Pixel 6 / 6 Pro with the “Tensor” chip will arrive this fall"
-    excerpt: "Pro with the \"Tensor\" chip will arrive this fall. There are unofficial reports that this device will launch in October"
-    publishedDateTime: 2021-08-03T10:29:00Z
-    webUrl: "https://www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/"
-    ampWebUrl: "https://www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/03/google-pixel-6-6-pro-with-the-tensor-chip-will-arrive-this-fall/amp/"
+  - title: "Google Tensor Chip: Everything You Need to Know"
+    excerpt: "Google has announced its first custom chip called Google Tensor for Pixel 6 phones. Here's all we know about the Google Tensor chipset so far."
+    publishedDateTime: 2021-08-04T07:44:00Z
+    webUrl: "https://beebom.com/google-tensor/"
+    ampWebUrl: "https://beebom.com/google-tensor/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-tensor/amp/"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
+      name: Beebom
+      domain: beebom.com
     quality: 59
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Pixel-6-c-1024x520.png"
-        width: 1024
-        height: 520
-        isCached: true
-  - title: "All you need to know about Tensor, Google’s own processor"
-    excerpt: "Ivan covers Big Tech, India, policy, AI, security ... On Device API to power language-based features, including composing a message through voice and transcription and translation of audio ..."
-    publishedDateTime: 2021-08-03T09:20:00Z
-    webUrl: "https://thenextweb.com/news/google-tensor-chip-ai-image-language-analysis"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FGoogle-Tensor.jpg&signature=13dd63619ecf795d416b14d139b34c28"
-        width: 1280
-        height: 640
+      - url: "https://beebom.com/wp-content/uploads/2021/08/Google-Tensor-Chip-Everything-We-Know-so-Far.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Google Pixel 6 to have new AI Tensor chip"
     excerpt: "Google is set to launch its new phones, the Pixel 6 and Pixel 6 Pro, powered by a new artificial intelligence (AI) chip. Known as Tensor, it’s the company’s first custom-built, system on a chip (SoC) that will use AI and machine learning (ML) to guide the phone’s operations."
@@ -117,15 +87,22 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
-    excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."
-    publishedDateTime: 2021-08-04T00:09:00Z
-    webUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
+  - title: "What does Google Tensor mean for you"
+    excerpt: "Google will use third party designs for CPU, GPU and modem. This along with the fact that Qualcomm has said it intends to continue working with Google suggests that Tensor chips will be similar to cur"
+    publishedDateTime: 2021-08-06T11:26:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you-11628248184327.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/08/06/600x338/Google_1_1627956803628_1628249103870.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "PLgde9RxThMJTnZQrxNUDWcMLOKxJXdtLHLFmqTW/vQcGL/LIQsIAWSYpGEuneJVnDtrJz342FYDWiiq3pad+EIlubgbSZsotNChcIZpW3fWtc/My/lHAr1eWNI2w4YMtWC5oTEdTdvAor/5pzra5Qr0UC8Eg0iQaq1gWCnXgz9PQ3DNoLUzlbLHmowkf/UJM0sdrBHLLZ/TLS2waPZEakPqigymyJafeyr22rpwmbq583+543/6fDl3UJOUp/aZzFhdjrI2iWJ8hWqMjLyQWFdruWpg0OaMeuJ+KIwmcwjUBn9BKbF01DaUjwl4vL1hcqu1/b51YDfVG72IWeBqlUJivRVOk8xdlbfRasFlUdw=;FqcQyYNPE8OoAmxLjINBSA=="
 ---

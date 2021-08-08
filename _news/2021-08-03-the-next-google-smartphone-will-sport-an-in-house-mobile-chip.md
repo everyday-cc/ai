@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google to power new Pixel phones with own chip"
-    excerpt: "Google will use a custom chip designed in house to power the next generation flagship Pixel smartphones, following in the footsteps of Apple and Samsung to rid themselves of the perceived limitations of off-the-shelf offerings."
-    publishedDateTime: 2021-08-03T08:37:00Z
-    webUrl: "https://telecoms.com/510756/google-to-power-new-pixel-phones-with-own-chip/"
+  - title: "Google teases next-gen Pixel 6: powered by custom Google Tensor chip"
+    excerpt: "Google's new Pixel 6 and Pixel 6 Pro announced, both rock an in-house 'Tensor' Titan M2 processor. Pixel 6 Pro has 120Hz display. Google has just teased its next-gen Pixel 6 family of smartphones, where we don't know much about the new smartphones themselves but more so the new Tensor SoC inside of the Pixel 6 and Pixel 6 Pro smartphones."
+    publishedDateTime: 2021-08-04T00:09:00Z
+    webUrl: "https://www.tweaktown.com/news/80920/google-teases-next-gen-pixel-6-powered-by-custom-tensor-chip/index.html"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/08/Google_Pixel_6__Portfolio.jpg"
-        width: 1000
-        height: 588
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "GKEYMSxghzfBNOvt+SvJ6RP/SengzJtsVQxbAF7wDKn8NdjhlXUvSrG/L1QwenHQGOe2zCpQNuKbckEblWmu1+WUGRQcbAU6p3T8jmG0v2ZolcFUhgI9fwOZ0sxFwjqwcKTwpHTNHr3D4ysENn3UCAZnAjsmVAageUGUWr35kqOZ/G3lxrSvyFoUEwhpZ24no6/XCLdnhdAiRlYB3zLbcEP6sCnIOa3yHznZ8rMLVcPgsn/+xDlxvNAdWzld2B/y77BcY/39xKfYIaXMOZafKaL0XmtvbEhFge7uHnXXGwd7cZfi0d5GyoLEGzG9HwPwXmaNSNAoHI2CsFvkD1KEFL4K7C0RMkHorSUf+aKJwaHYhD06RqgzwIxbwD9sXqZCC4h1Iiag51EhJlYDbz7Qfa3KXBX88VSpD4GDrlOLdzYUa/mmih6vjj4aFa5sw37/lDHFHUGHxGuVZH0VFZowfx9p8YT0Mrez5+XcbuKBODnTc7Fs9URJ8I5VjvFJDSabmsmsW7By5yZrHd458R9nuQ==;zSTON8k++2UIq4HpSymxrQ=="
 ---

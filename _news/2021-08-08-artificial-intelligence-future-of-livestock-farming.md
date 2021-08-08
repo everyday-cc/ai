@@ -39,6 +39,17 @@ related:
         width: 360
         height: 240
         isCached: true
+  - title: "The rise of artificial intelligence in society"
+    excerpt: "In reality, artificial intelligence is already being used by society. It has functions for consumer and production purposes. Yet, artificial intelligence has been nothing but useful to humans. Claims of robotic world domination are nothing but hearsay."
+    publishedDateTime: 2021-08-03T09:03:00Z
+    webUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/"
+    ampWebUrl: "https://www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    cdnAmpWebUrl: "https://www-australiantimes-co-uk.cdn.ampproject.org/c/s/www.australiantimes.co.uk/technology/the-rise-of-artificial-intelligence-in-society/amp/"
+    type: article
+    provider:
+      name: Australian Times
+      domain: australiantimes.co.uk
+    quality: 41
 
 secured: "IUEvdAgNqBN8QgIS2WaKKqvF2wM0mEznfIpbNtTHZOmxzG9mGKoO8sRVIdsF9tUJfHHKooHFXfqiTtHyOUfMOLqmgvWIuzSfJeC17ugZFFo7A/bXVdo3APHAL//pws31uVlyVdoBb1itsHOucyGMy6EK6EEzV+exmaSqUti5wvlIpPrslyEG5YjQ85H+Y9axoXsquVOzbAztnGCr63HckG5JpRJfl0pDjOtbbLQ5K+3O5kuFS134q56ANJXW0FgRHoRM6RbTSC2TVoMx/0WpV0sdHdfuHt/QLXSgNfTZzk3+Swx4AeAm0aVyq9vsIWzc0l2BWWxmyTepv0goESY7+47YUnXWvLVmWroXVqObnYE+NBzJXkDhWzP3fwJTMbg7jK0wvwPZuxMizVUvaj2Qtad7v9hl1q/mtiKL1jkqUJkKXFo0Aa/G8L9gLJCcsJ/OGZDGfCOlBPxh75dsmK26L8SIqQQ1Gh54GgB9Ot/1TKIYUf4b4SfpUU/Ome1I/tc6fCo6zCT3yNG2OmTu/44cKg==;wulfjIVQ/vqCZg1cR79hRg=="
 ---
