@@ -2,17 +2,21 @@
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
 excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ..."
-publishedDateTime: 2021-08-04T12:44:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
-webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+publishedDateTime: 2021-08-04T12:52:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
 type: article
-quality: 0
-heat: -1
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
@@ -29,6 +33,6 @@ related:
       domain: vnanet.vn
     quality: 17
 
-secured: "MvavXJCcd6PQNuHZn+uQaDKE+w7eHDqWwRu9ck/jspQeNTxFmanvcML2mQif997Q6Oy8zeiYG7PjuMZIbhZnvBOtBkX5WToC724yC/iS1Mc34POvH4ztoLtFeZ6A4QBqUvrRsoiMYE4XBPcvHbAHUAe5O+37JzqLcZFSxgpTmUXG0BQ+nuDOwWkWoqGqDxOjf8tyu8g43m5XZJHJeWjH6pvEcSIK34DImanBnRPnmdghjXB2+4aC6V9JC9ObFoeZVsCAqxuwwA4CozPtgbTolqeKAT8wGYgaTc88uwU3TESuIML80JhHBeq8Da90CxUJ9ziN0bGv63RAgXL4VvXgoPsVR6lGvfz2Kw59xQJ7tKs=;oeU8KrFDG+/+TEGVxqf07A=="
+secured: "QZQQrb+QPqpKoOVrgDS224auw1X51ZxSazHrtcfmiGJbl2pVmA5sdmyDwyAqFaYDwgR5oojzONLmVA/nmR6f7Md8EEeNjBDJCgDT3lRhJ/oL9gSN/TGAHZr9pAkCeHo1sLgrCqxeAcTUQkZEbg7GMGhccH4EVWVh7DwKNrdwwx+TbsxeDlTxlz6jXpayaeeE+u8eaQQr7j+lHM/RSeGFrm6KRbRFZ6moFg84m8d1fAM1bPMc6Gyri8rhm+ByBmo9mAC2kw86U4EgBSOLhEJhx4/ELrFNizczL8H9KBzN7FQR4zVuggqN32IUJjLoMdIOGdfK8SgxXAm3Ohs1l4S2dubC9PAB/LM4T/sh9SBWOHw=;cGdbh29hoWJqlO+bbkT25Q=="
 ---
 

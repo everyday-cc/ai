@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/facial-recognition-based-boardin
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
 type: article
 quality: 70
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
         width: 1098
         height: 604
-        isCached: true
-  - title: "How To Fool Facial Recognition Systems"
-    excerpt: "We’ve developed a new attack on AI-driven facial recognition systems, which can change your photo in such a way that an AI system will recognise you as a different person, in fact as anyone you want,” according to Adversa AI ’s official website."
-    publishedDateTime: 2021-08-04T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-to-fool-facial-recognition-systems/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/How-To-Fool-Facial-Recognition-Systems--1024x576.png"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "bJSvITk0SKqqsqI+oeaunUjKual/SLltAPWEtU7bddBBe4ve2snFoTeuGpdwYgCTqEelORXE10X3KWhigO5FzT4c1tYO8kcIVVdklTfupaHcmhi+r7ut0KVV+0EmkSD75OMKBDEoR7YV7rXnf1jcEfgRoPr41Wt8MeBXRhFEXnPEHLRdBVAZpd8RT9k/ttYTmnby1VEZj5zqZ+pxcXGmpjML02uSAcSXJcMoZmdeIlHVRps8GPfiWv7Oagz6VY/HcVuz+0Cvyg8ifygDsicEUVRkEWqM7UMcnZo+H41w4U60yNK2tPbu+rMRSytOTKmI45IniJ4I5PZKlj4G4Bmv6e/YLeBn7hxhRbbJV9o+p+2/3CXZZGWd5qvIxhkSzH8u9V81kjDBJ9PMkLCm1GpqkoSGrQyucKaqBOpX6xymoYCURT4aI2bLOPwj0QWwxVZYcOIrnDCKnSfqIu85cUSTIOMzmVG+GaHRz13TrE5Gmnz0mFUZ3WAsch2dT92dHVO5Q2N0pYsElHeRh/nwIaKW8Q==;e3X/QszXADxeicSPBwLC6Q=="

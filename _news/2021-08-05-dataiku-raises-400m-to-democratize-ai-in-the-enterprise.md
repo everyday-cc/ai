@@ -97,7 +97,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/PREDICTED-AWAY.00_24_01_04.Still042.jpg"
         width: 1920

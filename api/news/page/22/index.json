@@ -2,6 +2,100 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-20-dotdata-announces-automated-feature-engineering-on-the-databricks-platform.md",
+      "title": "dotData Announces Automated Feature Engineering On The Databricks Platform",
+      "excerpt": "SAN MATEO, Calif., July 20, 2021 /PRNewswire/ -- dotData, a leader in full-cycle enterprise AI automation solutions, today announced that its award-winning Automated Feature Engineering (AutoFE) technology is now fully integrated with and available on the Databricks Platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-2b8e81c84c9e9caba301f51646db817a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-why-are-there-so-few-direct-to-consumer-ai-startups.md",
+      "title": "Why Are There So Few Direct-To-Consumer AI Startups?",
+      "excerpt": "Jensen Huang, CEO of Nvidia, famously said, “Software is eating the world, but AI is going to eat software.” Somehow, most of the events in the artificial intelligence world are still happening behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/why-are-there-so-few-direct-to-consumer-ai-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/20/why-are-there-so-few-direct-to-consumer-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c37723bcebb249a5d22c16%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-path-robotics-raises-another-100m.md",
       "title": "Path Robotics raises another $100M",
       "excerpt": "Path Robotics announced a $56 million Series B. It was a sizable raise, as far as robotics rounds go. But the Columbus, Ohio-based startup is already back for more, raising a “pre-emptive” Series C a mere two and a half months later.",
@@ -1050,101 +1144,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications.md",
-      "title": "Ultima's IA-Connect enables Microsoft's Power Automate to be used with Legacy Applications",
-      "excerpt": "Cloud specialist and automation provider, Ultima, has today announced it has extended the capabilities of its IA-Connect tool to help… | Technology | Technology | National | Business Growth |",
-      "sourceUrl": null,
-      "webUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "originalUrl": "https://bdaily.co.uk/articles/2021/07/19/ultimas-ia-connect-enables-microsofts-power-automate-to-be-used-with-legacy-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/hZVUA1u8omtjKQKsQs6ptdMXaBoLWBvAg3u3WSYR.jpeg?w=940&h=430&fit=crop-49-50&s=7298f6803204db67fcacff60ecba7168",
-          "width": 940,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist.md",
-      "title": "Edge AI’s benefits bring ‘much higher’ security risks, says McAfee data scientist",
-      "excerpt": "Weighing the pros and cons of edge AI and the cloud can be difficult, McAfee's chief data scientist explained at Transform 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/mcafee.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/edge-ais-benefits-bring-much-higher-security-risks-says-mcafee-data-scientist/amp/",
-      "publishedDateTime": "2021-07-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-05T14:28:00Z
 originalUrl: "https://siliconangle.com/2021/08/05/ai-development-platform-maker-dataikus-400-million-new-funding-pegs-value-4-6-billion/"
 webUrl: "https://siliconangle.com/2021/08/05/ai-development-platform-maker-dataikus-400-million-new-funding-pegs-value-4-6-billion/"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/PREDICTED-AWAY.00_24_01_04.Still042.jpg"

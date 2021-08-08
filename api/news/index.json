@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-voice-ai-technology-is-more-advanced-than-you-might-think.md",
+      "title": "Voice AI Technology Is More Advanced Than You Might Think",
+      "excerpt": "The average person has yet to interact with the next generation of voice AI tools, but what this technology is capable of has the potential to change the world as we know it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61103c5cfe089cdecf419c52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5158%26cropY1%3D262%26cropY2%3D3163",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
+      "publishedDateTime": "2021-08-08T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out.md",
       "title": "AI bias is prevalent but preventable — here’s how to root it out",
       "excerpt": "A number of framework and toolkit resources are available to help you identify and mitigate bias in your AI applications.",
@@ -1186,57 +1238,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
-      "title": "Schools Look for Help From AI Teacher’s Assistants",
-      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-381086/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "publishedDateTime": "2021-08-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-07-01-alluxio-brings-substantial-performance-and-ease-of-use-improvements-to-gpu-centric-aiml-workloads-with-v26-release.md",
+      "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
+      "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-marchex-co-founders-latest-startup-uses-artificial-intelligence-to-rethink-and-improve-meetings.md",
+      "title": "Marchex co-founder’s latest startup uses artificial intelligence to rethink and improve meetings",
+      "excerpt": "Nobody really likes work meetings. Pete Christothoulou thinks they're such a problem that he's launching a new startup to rethink the whole endeavor. Christothoulou, the former founder and CEO",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
+      "originalUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/Pete_Chrisothoulou-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
+      "publishedDateTime": "2021-07-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-ai-software-may-help-spot-early-signs-of-oesophageal-cancer.md",
       "title": "AI software may help spot early signs of oesophageal cancer",
       "excerpt": "Software in use at an NHS trust could prove a breakthrough in diagnosing one of the deadliest forms of cancer",
@@ -1104,101 +1190,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles-particularly-hr.md",
-      "title": "A CIO weighs in on how AI can benefit non-technical roles, particularly HR",
-      "excerpt": "Jeff Gregory, the Thirdera CIO, discussed how AI can impact non-technical roles in an organization, especially in the realm of human resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_777026485-e1625048155126.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/a-cio-weighs-in-on-how-ai-can-benefit-non-technical-roles/amp/",
-      "publishedDateTime": "2021-06-30T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-cheers-to-the-heineken-bot-self-driving-beer-delivery-robot.md",
-      "title": "Cheers to the Heineken B.O.T. Self-Driving Beer Delivery Robot",
-      "excerpt": "You could train your dog to grab one for you, which would take effort, time, and commitment. Or you could turn to Heineken's new B.O.T., which is, yep, a beer-carrying robot that brings the beers to you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "originalUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.motortrend.com/uploads/sites/5/2021/06/Heineken-B.O.T.-1.jpg",
-          "width": 1360,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/heineken-bot-beer-robot-cooler/amp/",
-      "publishedDateTime": "2021-06-30T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

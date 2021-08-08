@@ -2,6 +2,83 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-07-08-us-says-humans-will-always-be-in-control-of-ai-weapons-but-the-age-of-autonomous-war-is-already-here.md",
+      "title": "U.S. says humans will always be in control of AI weapons. But the age of autonomous war is already here.",
+      "excerpt": "Picture a desert battlefield, scarred by years of warfare. A retreating army scrambles to escape as its enemy advances. Dozens of small drones, indistinguishable from the quadcopters used by hobbyists and filmmakers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/tech/40002964",
+      "originalUrl": "https://www.nationthailand.com/tech/40002964",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/uploads/images/md/2021/07/GBCGUdajO23IzhE5z1yP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-halo-and-las-vegas-launch-driverless-car-service-powered-by-t-mobile-5g.md",
+      "title": "Halo and Las Vegas Launch Driverless Car Service Powered by T-Mobile 5G",
+      "excerpt": "G is beginning to power everything from connected farms to connected cars! Today, Halo launched one of the first commercial driverless car services in the U.S. running on the T-Mobile ( News - Alert) (NASDAQ: TMUS) 5G network in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/08/9405394.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-azure-arc-enabled-machine-learning-is-now-in-preview.md",
       "title": "Azure Arc-Enabled Machine Learning Is Now in Preview",
       "excerpt": "This year, during the virtual Ignite conference, the company announced the preview of Azure Arc-enabled machine learning, which extends Azure machine learning capabilities to hybrid and multi ...",
@@ -1089,83 +1166,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-oneplus-nord-2-will-have-a-custom-dimensity-1200-ai-chipset-the-company-confirms.md",
-      "title": "The OnePlus Nord 2 will have a custom Dimensity 1200-AI chipset, the company confirms",
-      "excerpt": "OnePlus and MediaTek added additional AI features to the base Dimensity 1200 to help with the camera, media playback and other tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
-      "originalUrl": "https://www.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-news-49934.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/07/oneplus-nord2-dimensity1200ai-chipset/-1220x526/gsmarena_0000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/the_oneplus_nord_2_will_have_a_custom_dimensity_1200ai_chipset_the_company_confirms-amp-49934.php",
-      "publishedDateTime": "2021-07-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-applications-with-machine-learning-capable-motion-sensors.md",
-      "title": "Qeexo and STMicroelectronics Speed Development of Next-Gen IoT Applications with Machine-Learning Capable Motion Sensors",
-      "excerpt": "“Delivering on the promise we made recently when we announced our collaboration with ST, Qeexo has added support for ST’s family of machine-learning core sensors on Qeexo AutoML,” said Sang ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.generation-nt.com/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-newswire-1990152.html",
-      "originalUrl": "https://www.generation-nt.com/qeexo-and-stmicroelectronics-speed-development-of-next-gen-iot-newswire-1990152.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GNT",
-        "domain": "generation-nt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
