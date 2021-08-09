@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-wayc
 webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 2214
     isCached: true
 
-related:
-  - title: "Zillow – US-Israeli Startup uses AI to revolutionize real estate industry"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-05T02:18:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/429988.jpeg"
-        width: 822
-        height: 537
-        isCached: true
-
-secured: "5k7sv2YwBYmtGZUWGygftG8/+LGyezTZj71/r55UHcfA1Rt3qfjT2iKV3bWlYCDau8KzuPiIK3vQ7WJlz/3PdR1e77BR4pyOeXIPm8KTNtB/aDrqUFq0/aZew9gLq7WXoXbTNNDOfN4r4xb6VbwIiZ2eWBD4uJ1q6DKUcx2/oEawiPKKnz3TrcjSNhTsYktfwqHnfJEH7dDEeUtPeCkQTWJMraQwp9JjCxQLdufUHbAMVq6pPgV4VOJrVrrKCa1YelgtpSVUGFa6bv5k5WfT6Fas3FlWjuJYXuFQbvrYH4deIgMRTGtkTXMptcFOYj5js0pKAhOJk4ulG97FbtIDDLmv+wa/kNDsKFrhota3hfA=;/1Dgqj5wN9JfnuARSiHqsg=="
+secured: "2SX+CRAguCJqkqWU6qkoaJzCPWcMk9Z8e+dxDBQquXeQIiC17lJVxOSNRVFLcG2aINYGViZ15+XnWrUK5WFNZ+W+RTInvDZX3r+F14+GfRe/bZoISNMpwR+/n54E5h+H8WqTXHFc84WbRQ4D+uknrv71SSxCSgNPA0JpjoE6j6WeLI1gUCA6lEOgsddmkJOtd6vpMk+9bFg0P5oRWcF0fn1+mKRwqGV5PS42IY7nt0lOQl1JFXBNFclU2UiuqVrLK/ACP5lj2YjRbEPXMRwITxLPDSFvf4fFt816fcuBsgK0XYZE+i58SLt+ZLg9/WkMbYmCCZNsdLMtniM1T4QP095j2Hh8Nxp6HvVeuurZ8mYMU8GkAdpeEMpIbXgx7QbsLODj2Vg7Z/6qV70Fl4yLlMB4uoNv6dra/3dBMWSqA+6hdcLBiZYvuSpL/1/vBdnsZGTkMJk5D1G0I5Cmzu0NtHiuEUDxbMeBQH4LRnAQWC3rTuIdqTES80kNw74czSDT40uzckHL3skknZTKX0Lu1Q==;m+ZdwpOx1bxE0JoTLDtO7w=="
 ---
 

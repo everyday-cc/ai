@@ -54,7 +54,7 @@ related:
   - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
     excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
     publishedDateTime: 2021-08-09T14:42:00Z
-    webUrl: "https://www.technologyrecord.com/Article/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125305"
+    webUrl: "https://www.technologyrecord.com/Home/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125306"
     type: article
     provider:
       name: technologyrecord.com

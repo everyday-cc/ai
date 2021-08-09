@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-09T15:40:00Z
 originalUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
 webUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"

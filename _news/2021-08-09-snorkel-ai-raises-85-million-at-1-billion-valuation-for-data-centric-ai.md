@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
+    excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
+    publishedDateTime: 2021-08-09T17:45:00Z
+    webUrl: "https://siliconangle.com/2021/08/09/snorkel-ai-raises-85m-1b-valuation-automatically-create-ai-training-datasets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image.png"
+        width: 789
+        height: 447
+        isCached: true
   - title: "Stanford AI spinout Snorkel AI is Silicon Valley's newest unicorn"
     excerpt: "Snorkel AI Inc., a Palo Alto startup that hatched out of a Stanford University lab two years ago, is now valued at $1 billion after raising its third round of funding. On Monday, the company announced $85 million in new funding,"
     publishedDateTime: 2021-08-09T14:35:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise AI Firm Dataiku Raises Cash at $4.6 Billion Valuation"
-    excerpt: "Dataiku Inc., a startup that helps businesses roll out artificial intelligence projects, raised funds at a $4.6 billion valuation to expand in its markets."
-    publishedDateTime: 2021-08-05T03:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-05/enterprise-ai-firm-dataiku-raises-cash-at-4-6-billion-valuation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Platform Dataiku Reaches $4.6B Valuation With $400M Series E"
     excerpt: "Everyday artificial intelligence (AI) platform Dataiku announced that it had brought in $400 million in a Series E investment led by Tiger Global."
     publishedDateTime: 2021-08-05T17:10:00Z

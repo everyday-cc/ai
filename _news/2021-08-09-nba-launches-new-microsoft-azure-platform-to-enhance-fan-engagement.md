@@ -3,8 +3,8 @@ category: news
 title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
 excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
 publishedDateTime: 2021-08-09T14:42:00Z
-originalUrl: "https://www.technologyrecord.com/Article/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125305"
-webUrl: "https://www.technologyrecord.com/Article/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125305"
+originalUrl: "https://www.technologyrecord.com/Home/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125306"
+webUrl: "https://www.technologyrecord.com/Home/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125306"
 type: article
 quality: 54
 heat: -1
@@ -109,6 +109,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "p8fEUb+Dzbr4rdFgJbuhlTPFP/gdMyECwISIr3Gb719fh/EjE/7MDhmuwPPDyQKuKnNSUJ/bkXwhsOUce1iHDmNE0yLlMl2B7UkjqH0PHx3eNmOnszwOm2hOzKKxeL4twavn8cz3bQn7kqJVJNK+kTkAX34yf2Tk8UojnceM31JPrBWsGWlZuptCBJ9o6rzneIVPY64N8m1sMSJs/PFXK77QGUbBr9OGsrtAQqNFVa61LsPU7VckE3IqUMxFZyInKKvO6sKhmSKuVUxntVpzl+7xcslfPANGiDr9IVVcAwv5eetjtkV5LuS6sK+tASTbbubP6h/wCP/8ZuOkiIDG6zgcrsIdCzOhAXZY+JN6pNRiEP0dRcuUiTeloKEgPIg2S0uGtd5vHjN28pH+srMHO5lrpqpByTvfNSUERpH7r+hALuKftwvYTEDeg+1U2EiclwEB/9bCk1oHsor2JAQFGABuNGSfrubVrUdj479bFAGaNsc6WfZjkOoQutX/1tuGHvpGpqf2jyEwjEXlZharcA==;4oZt32founZ04lCeOedtcQ=="
+secured: "eQJzF1L8ot4Z0CToRKcOv/7wV4JYdW9kCDq+tLkRFxUwHaHcvdZHNH7VO7wp1rU313tDS27KlUjA3+kGTpaQcPoTDRIZRi6pRizp+m/6ehj6QfvK8lmWWP7pdYBi2NnGbHA6DiZsFEaWGWRZ96+3JgRtccoPuyNDiug2jppy7dDDZIxtQyPiSlhBUWgSJbfbxv4cLUWlaWrw1jxZntm4hWju6U1y2UUNhR9wSK1oK8oCJfb5jchCCvecgYmtayYzCTW4M+kxzoQ06NSNl5eDAqRWQFQGgLSrvvcjm/hkuVFJS30Qtjdvk1oYyuXqiS+xBZn+dIQiwzns9+PliJPO7bjvrOssy/uoOQoWsrqYdVA=;uBT3A9fea5SiLuACm0Nkog=="
 ---
 

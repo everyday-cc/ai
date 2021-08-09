@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-s
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     height: 630
     isCached: true
 
-secured: "3QQ2E7REJO4EjBOo+wEe/+Edla25MZeEQtaEK8mJJfbgC29EhRuLSmqzdRKlATwIZYLU4r5KULW7Fpoe655vwfhP7aNRnFrWOodr8smJz0ZeyTgOmd+x42UDpp/smZj4EPaYYiF8Isdo6vSBbXcvlfYc2l0WfetEE5TEPdI4OON6xdP08rgknKLj24DyLtWaC2asqk9Ll3GPuSimZwKXOSCAC5RSlACxyobbNM9wSRAXjrMiLdSXMt9D5HRN9CJQOdLnWyUUdAQeK2jx/ksa5w1KiLxQ2eLHJU8QRPQFo31Kw7WkbTKK0vMLyck8SHrbpkBWiGdyYTSkK0I7ypeqYx7a+1TCcUp9Z2KcNlptNGk=;8Tp3pWgw8DEgS8exCdxkzg=="
+related:
+  - title: "Roblox Game – US parents are packing their kids off to AI summer camps — Fintech Zoom"
+    excerpt: "Some kids spend their summers swimming and building campfires. This year thousands will head to university and high school campuses to program robots, write software, and design video games. Artificial intelligence—the increasingly ubiquitous technology routing delivery trucks,"
+    publishedDateTime: 2021-08-09T18:35:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_roblox/roblox-game-us-parents-are-packing-their-kids-off-to-ai-summer-camps-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 12
+
+secured: "qzi9up+qwyZtmmx5mwNZ93tw0WrAirlszauNnv+PclbpwsW4cOX1bd4hN7yiWILlHOTAbQ56GDw284mptJQH7+2i5MtQDNpq5LQXpcHnHTf2M3DBY/qXqNWCH5uGg8KLud7e5NwmeRaWjsbfZnyYgneAI0AhkOVBl1XpKoo4gzxfIMK/Txer8kvHrdt3X0AutE5ZTEv9c87d4K8QDwRevTo7JYkvnBWtmoqbTWmYetewPAIfWKff0BUgllHltDqcfFxUgURFoDtJASIXi+jD+MhWgG9yUrYzSHv74rARcwZPD6W7o4Y0nDsaoR/fIkUmlHp6WHk8ET40XJ7zHwqW3gQxsR1Zl0SYRC31nquoEatPL/Rl/MF+RXyU6vWcDPZNErBuS6RTX0jBaS3kjJqvZ0gjuRcvQCxaF9rDrcc89WGxdYzmbiydm1OOkE58B62HCy894FycRzN2LM5RJcvL+6/T3iDIjrNw91CO8s9eIXtVXTPxwMhZiJpmFRdXdmoF7PPKJ4hryycJRIZ29Q7L4w==;NbfykiK6kF7gyNEJmtNXXA=="
 ---
 

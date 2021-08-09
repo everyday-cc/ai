@@ -65,7 +65,7 @@ related:
     provider:
       name: Armed robbery in Revesby
       domain: miragenews.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
         width: 640

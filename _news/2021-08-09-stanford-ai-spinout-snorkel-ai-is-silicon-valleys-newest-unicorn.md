@@ -49,6 +49,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
+    excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
+    publishedDateTime: 2021-08-09T17:45:00Z
+    webUrl: "https://siliconangle.com/2021/08/09/snorkel-ai-raises-85m-1b-valuation-automatically-create-ai-training-datasets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image.png"
+        width: 789
+        height: 447
+        isCached: true
 
 secured: "pUrbPTVA+UV1jsWUFNbXbGUk59IlbIet+E2LlJyB0OW1+mXhYM+B88yalQ6vUiq9CI+/TPOYdaWOS8o+LyGBIHLBqI3uCHs552nxh3a7Vu8cM0l1i0uip836KTccGjVuiVs0HL5hDGxYw/s/0mIcL2rc8Sr4/6wsTUMFMaVJcrhu54f433IUvzKIsRG6i4yuPxRP/taGFDFS6luXlBKhLfuilXCBCKc6FDIitUBl6HkIsj6+rNeUyKzlrKQ4FGd9TZxErlQdqJ/8EfXqhk9ApwN+utJ9UxoYBaDRsWh0KEoPSZwWWvByuE+qBKTtOMsJTcqH/Yvc60jYc5kgKVGPRbQSfQKbVr2EI6kyiCYXpOlvmMUxh3kb6EXMvYv70rnQwGKG7qNxU8RzbVK4sPcUm95VMx9g+fRAgbM7QfQNudCHFj1W7L1gggOt9a5S8oXQHkoHdK2FInkfdpG/3rCRdMojWMnUxEsW3IVO8VUDIlZGg5Y+O0MBgac/WiZmyrCeNYSCvSTW0arPzU7tt5xdLA==;jBC38Uq97gWPjvIEdsHszA=="
 ---

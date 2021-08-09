@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-sy
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
 type: article
 quality: 83
-heat: 183
+heat: 186
 published: true
 
 provider:

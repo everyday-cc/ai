@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Enterprise AI Firm Dataiku Raises Cash at $4.6 Billion Valuation"
-    excerpt: "Dataiku Inc., a startup that helps businesses roll out artificial intelligence projects, raised funds at a $4.6 billion valuation to expand in its markets."
-    publishedDateTime: 2021-08-05T03:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-05/enterprise-ai-firm-dataiku-raises-cash-at-4-6-billion-valuation"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
     publishedDateTime: 2021-08-05T07:22:00Z

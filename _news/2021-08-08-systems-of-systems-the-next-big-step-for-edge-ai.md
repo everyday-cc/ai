@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/"
 type: article
 quality: 87
-heat: 100
+heat: 101
 published: true
 
 provider:

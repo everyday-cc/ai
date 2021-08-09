@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-artificial-neural-networks-real-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-neural-networks-real-brains.amp"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:

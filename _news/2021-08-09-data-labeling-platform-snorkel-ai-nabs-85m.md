@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
+    excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
+    publishedDateTime: 2021-08-09T17:45:00Z
+    webUrl: "https://siliconangle.com/2021/08/09/snorkel-ai-raises-85m-1b-valuation-automatically-create-ai-training-datasets/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 30
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image.png"
+        width: 789
+        height: 447
+        isCached: true
   - title: "Stanford AI spinout Snorkel AI is Silicon Valley's newest unicorn"
     excerpt: "Snorkel AI Inc., a Palo Alto startup that hatched out of a Stanford University lab two years ago, is now valued at $1 billion after raising its third round of funding. On Monday, the company announced $85 million in new funding,"
     publishedDateTime: 2021-08-09T14:35:00Z
@@ -54,6 +68,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "7FLIeoUJu2JEKixoYpxvktmgymzrbtBX4HA8NYh3GKblwJUslvXO+EeEEUCIUtMw4OY7KiTHHsGZyHjvSQxHv13hU+WDiNotlz70CjTRSyHnkNMi15BLcKoP4YMbQc0DMq6y/xTK3z46E+hD3CjCB+yIi9+aEhfq44nGRiyIELVqeek7PH22VBa+SNprMhY/YoJyGqIdn3REfi3MHy0Ts5K+n7IXQgSBeJVigu+YaTBkgQODbosOdkuRMyPh/C6HVzZNAkRfsbXkNcPPe9jlEbWEjbAAl1ZFNxnrvf0DW27kdor9/VRLlgBRNLptXFGDGnsCFT824ygiaMtqNE/64k/VtQP5pmkgWk56rZOHuP0=;gq72+5dczNg4URdtRN+ojA=="
+secured: "d0DBYO19Z3MujObfrp0IBH8uPZzkLj0wkU3EzP2XgCcT9FB1WnzOc2FmGXXLUOEJH+DSxkKsAOyQFJaehli1t5wJDA3SGR/ZFRZc+jbADmhblUj626X8bpnGFJub/nRAKg1QpjwVs/wEQ9YYzJq1w57ftV/pRKPJsMlKJUcsE691l2IxqNC10F7wcdrs0NuvjCzjxbmZtFqLNYTrLRUHvoxvfmgBifk8qoWbvqa90kZYdBurUYLTcwdAtJZ7IBWeozn5L8DmJ50ya9BxtECnF1FybL4BjFHHSnH2NemATmQ0f27OnTWDD9d/CqgUKDjZUEBFxFrppTWirhKHs9OfQDxT4/Cb+7y+1Ly+8gL9Tk2QrHRgO4uY8rTB6cFSWIT5HX2IZOdRBmZghTyUssaut3J5FXCjR5BBHB9C+MQh1Jblq2U4hncPfZlukSGKVBOxBTBX5tbYiJTGUTxRJ17motT8/3PhtkrjnUJq3J2Inej75ABNczmjJbP/DczoE64PPUIHfOixHX0AeQqA0TOAyg==;s9CBKExT5ag9W+SHRPz4YQ=="
 ---
 

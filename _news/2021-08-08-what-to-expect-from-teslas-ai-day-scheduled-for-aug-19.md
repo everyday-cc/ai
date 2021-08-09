@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/what-to-expect-fro
 webUrl: "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Tesla AI day invite says “Hardware and software demos”"
-    excerpt: "The most awaited event, Tesla AI day is scheduled to be conducted on August 19, 2021. An invite was sent out through Street's Tesla Daily,"
-    publishedDateTime: 2021-08-05T01:37:00Z
-    webUrl: "https://techstory.in/tesla-ai-day-invite-says-hardware-and-software-demos/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/tesla.jpg"
-        width: 620
-        height: 349
-        isCached: true
 
 secured: "OhJd+pxBvYiIg6cBmA8DJ+1fmm48lS2fDYairx/N9CTsmv+Wk5OxEH49W/cwKQNta3gXUj+VK0yG6Z+TmIXoOg8UsFbP3lyTO+D7b9uKEmeeb9xxbM6qhWlfr2ThPUgj4dsZBWtKrLURnvBuN9pAOPCOGLxNkQ3OCJXCnJNNBnrtj6p+xvpgmitmpJnlhmUUue1g7pswp0Gn+X2q2+ReAcRbhLMYQiaBmaDEptjDew9cbvBx+g9i66zEZHlPQKopxNiF3d/Hh3r1ghva2rzOAg582HSegNa5IBmQH5vs+txbDC0fu7WBe6934S0kqhIYQ5afabm2gU8Pd1mlaVAKlu08sZx42/KV+e0TQRHYUHoujoVk0/6Pot3C0A4TT9nG001IHuAAaJPJFJlG+AVr14uA6jJL0oyXeRpRuHAby7FWEmvVYaxEDpLQam5wWXT+7tjjq9y/dVSwrZOkAqGdJEgNsPk6DW1yUJGSDq2r8Zhka/mUBu5JXgU3mnFTHA+KS1gAwzFlpY6VNiqPe+B1RA==;w/pGGEojz4U9xzO7YddOxQ=="
 ---
