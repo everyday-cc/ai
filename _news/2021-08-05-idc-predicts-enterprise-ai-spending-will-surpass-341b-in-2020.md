@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IDC: AI spending will reach $342B in 2021"
-    excerpt: "In a new report, IDC reports that companies will spend $342 billion on AI software, hardware, and services in 2021."
-    publishedDateTime: 2021-08-04T15:45:00Z
-    webUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/data-science-mitchell.jpg?w=1200&strip=all"
-        width: 1200
-        height: 808
-        isCached: true
   - title: "IDC Says Companies Will Spend $342B On AI Solutions For Digital-First Economy"
     excerpt: "Revenue for the artificial intelligence market is expected to grow 15.2 percent year over year in 2021, which will see it hitting $341.8 billion."
     publishedDateTime: 2021-08-05T02:36:00Z

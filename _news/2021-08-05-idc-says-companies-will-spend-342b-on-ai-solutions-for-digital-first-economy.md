@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/idc-companies-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/idc-companies-will-spend-342-billion-dollars-ai-solutions-digital-first-economy/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IDC: AI spending will reach $342B in 2021"
-    excerpt: "In a new report, IDC reports that companies will spend $342 billion on AI software, hardware, and services in 2021."
-    publishedDateTime: 2021-08-04T15:45:00Z
-    webUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/idc-ai-spending-will-reach-342b-in-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/data-science-mitchell.jpg?w=1200&strip=all"
-        width: 1200
-        height: 808
-        isCached: true
   - title: "IDC predicts enterprise AI spending will surpass $341B in 2020"
     excerpt: "According to the research firm, the forecast indicates that AI spending is on track to increase by 15.2% compared with 2020. Growth is expected to remain robust in the subsequent years. IDC’s analysts see organizations upping their AI budgets by another 18."
     publishedDateTime: 2021-08-04T19:08:00Z

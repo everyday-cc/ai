@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day"
-    excerpt: "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer."
-    publishedDateTime: 2021-08-04T16:50:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
+  - title: "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet"
+    excerpt: "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19."
+    publishedDateTime: 2021-08-04T17:10:00Z
+    webUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/"
+    ampWebUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
+      name: Electrek
+      domain: electrek.co
     quality: 93
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg"
-        width: 872
-        height: 872
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000"
+        width: 1000
+        height: 450
         isCached: true
   - title: "Tesla AI Day: Five Things You Should Know"
     excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."

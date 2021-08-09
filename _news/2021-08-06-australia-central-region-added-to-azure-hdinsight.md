@@ -39,20 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "COVID-19 slows down machine-learning adoption in Australia"
-    excerpt: "COVID-19 may have put a hold on machine-learning projects but now could be the time for Australian enterprises to revisit those projects."
-    publishedDateTime: 2021-08-04T17:00:00Z
-    webUrl: "https://www.computerworld.com/article/3627406/covid-19-slows-down-machine-learning-adoption-in-australia.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 24
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "JOvM+EwUgmVwLB2aI82f1wy8rZrPVj4M7z9niwFBmbPLkbDs68n4nD7eY2YTz9nco39y0nl3enftVvr9EetQa72alt83i2vVcefWwfHG+F3llqgu8FTxKzk/3NmR+5Ne0RMaMeCDsq+E1l7Gtr+fdjn3wjUntKaiaRloFIo2PcpBOVexokVS7KXM/GU2zfZ1hwwk9s6ZCCp1V7xiRYMHMujmrH0kob42Vr0a0tMgL6G7PPz5RkALZua2AdVb6C8vESkDNtqmoKVXuUMFULmVoqs1KPqrGIDLtIpLHej07UUoEJg/TilvYqTS3Ous1c9/FJWvpZILipfxB69PP0cDm1PkTeA+omqy6lRBo8mXQ2PLUsMfR7D6M49BCX/sqGLDAjHSOF9qv1MeD8OHTmhQWrQMGjx+2QQq5c3/8lrCAYyrl1jErUDOGMouGrZw9jsBXXVJh4AechzS4PqsatIZXOOYuc05kTvBHjU7Xmtxa4U5SwhurgHaf8SQTU1e9UtvOPetcA/zUGYOugLGar70Rw==;N3L5ao8FwL3HXyM4FoIH1w=="
 ---

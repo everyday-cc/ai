@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-pred
 webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-predicts-schizophrenia-risk"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia."
-    publishedDateTime: 2021-08-04T16:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
   - title: "Machine offers possibility of predicting risk of schizophrenia by using blood test"
     excerpt: "A machine-learning algorithm may offer the possibility of early diagnosis of schizophrenia by using a blood test, according to a team led by researchers at Baylor College of Medicine."
     publishedDateTime: 2021-08-05T09:14:00Z

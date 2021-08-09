@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft details AI model designed to improve Bing search"
-    excerpt: "Bing is now using an AI model designed to improve the the relevance of search results, according to Microsoft."
-    publishedDateTime: 2021-08-04T16:10:00Z
-    webUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/"
-    ampWebUrl: "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Arrival to co-develop its EV open-data platform alongside Microsoft"
     excerpt: "Arrival announced plans to co-develop a cloud-based data platform with Microsoft to enable data management for future electric fleets."
     publishedDateTime: 2021-08-05T18:51:00Z
@@ -86,6 +70,34 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
         width: 1882
         height: 753
+        isCached: true
+  - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
+    excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-09T09:15:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21171759/looking-deeper-into-microsoft-and-arrival-ev-collaboration"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/08/Robopilot___2.61101efcae793.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
+  - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
+    excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
+    publishedDateTime: 2021-08-06T09:54:00Z
+    webUrl: "https://www.businessgreen.com/news/4035499/arrival-microsoft-team-pioneering-electric-vehicle-platform"
+    type: article
+    provider:
+      name: Business Green
+      domain: businessgreen.com
+    quality: 36
+    images:
+      - url: "https://www.businessgreen.com/api/v1/wps/0d91a8f/ae110fd2-e61f-48e1-8d54-4572e0357fd4/4/Arrival-First-Bus-shorter-street-view-370x229.png"
+        width: 370
+        height: 229
         isCached: true
   - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
     excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."

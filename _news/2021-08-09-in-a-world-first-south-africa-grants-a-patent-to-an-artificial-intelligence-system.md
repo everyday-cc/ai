@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-sy
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
 type: article
 quality: 83
-heat: 173
+heat: 175
 published: true
 
 provider:
@@ -160,6 +160,6 @@ related:
         height: 735
         isCached: true
 
-secured: "ExmJ1CM0rQjz/W0KfkkRCKvGS6Cm3bU8M9kO/s+oQ5kLlMU06T6n/uagFjlkmoapBeJ9itcy/xR5beDCI776eIH7NVL+hXzRtOk8i2z3DWwozATyif6FoMFJpZgktffoqfObZ53PHhRx+IrvqTyoD+tC80DQtw7hqYtq6aKSt8R9eVbssAPFdUCJQdmJUpxGrrEqlnrvO1bodZYdfH+ubbVmnMnwqw1ztVwSDEiHUXEr1CF4A2Oc1Sx2wzCEEcIcWLs3+Mr4AKWePZ7zeDUdldkbV26G4Aetz4S9q+4mSwUvBNK22NV6/EXwFRjuAhpfkNzFRqJdQikLsVlRhLMyarBMXaijpaM3D2w4BqZNzs0=;DXzrOaAzg7gblIcfIZD+vA=="
+secured: "245hLlM9SuCk5FRWSDgJnuL76VY1Je6m7gMvRzLw1QKh4QaTw1aMilDn3tO5KFAWL6XROJquOYEoe4kTOz23N7lTMfioRXQ9oR0QnjIdsRcRkvXi085dFOpXYWmFo31wQpWAOhKXVYQS7qU02KgHJTJeAUPsERMFF7ul7QwI+ar6Y3hOgCzTttW5EmnaZOYNfNeKmrFJMQGlbU4QknM2TfCD7lgUcP0klY59NEoqMRBnEW/uxzQJl6314FK0DM3Hh8SOQ4IMZwpRI8rmmD/jR5JmI/qPQa2zJGxCUkz0x0UCVzep/8UT7f7FScf56P+07T5YJbvBR6VRyRJRqbo1nbA7WnoEzEmayiK9VgkuzEtJdZSZTLE52oPbsc0aHPxoblTNwaCfvi8I1qZwjPGdTftmhn9JKG841awZyTXQrJBmi4Zpk9lKiVbnUBoH1cV1GPWVYgofH7eVBP+uyemEX3nHp8v8kSWklC9NUxIA0uD3KXtJ+MbcJoKBwHNClRNoS/5/ohvANCDeYyxh15V9Ew==;7nslxVEPNEFmnp/cF9gEJA=="
 ---
 

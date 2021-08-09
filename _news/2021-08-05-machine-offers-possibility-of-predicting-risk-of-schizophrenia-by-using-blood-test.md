@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A machine learning approach for predicting risk of schizophrenia using a blood test"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia."
-    publishedDateTime: 2021-08-04T16:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
   - title: "Machine Learning Algorithm Predicts Schizophrenia Risk"
     excerpt: "By looking at specific parts of the human genome, researchers are developing a machine learning algorithm to determine an individual's risk of schizophrenia through epigenetic markers."
     publishedDateTime: 2021-08-05T17:00:00Z

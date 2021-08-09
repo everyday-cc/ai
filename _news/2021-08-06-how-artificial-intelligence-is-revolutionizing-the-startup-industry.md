@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "US-Israeli Startup uses AI to revolutionize real estate industry"
-    excerpt: "The AI technology collects information from billions of data points and transforms them into selectable attributes for prospective homebuyers."
-    publishedDateTime: 2021-08-04T20:15:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
+  - title: "This Startup Provides A Winning Combination Of AI And Skilled Recruiters"
+    excerpt: "The company aims to solve issues and roadblocks that arise at every touch point across the employee lifecycle. Its product offerings include employee onboarding module, document management system, intelligent case management system,"
+    publishedDateTime: 2021-08-09T09:36:00Z
+    webUrl: "https://www.entrepreneur.com/article/379671"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/379671"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379671"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 86
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/429988"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Zillow – US-Israeli Startup uses AI to revolutionize real estate industry"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-05T02:18:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_zillow/zillow-us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/429988.jpeg"
-        width: 822
-        height: 537
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1628501756-WhatsAppImage2021-08-09at30355PMv1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "FkJ3XJf7Xa9DesHarN6iWh1sD2R/Aesb27cN71B/lQcod3k3O+bsgLvnnr4bf8WB7DHrW7Y+vL3ZEP0UdHLfOz/RA29ggLczL6SwWVgw5siZljFygPK+T+rOVOf0l26VN+YdD5taKad194uOGr8ueb31JTLS02DJ8vgVSh7layPXS5dE3gXAyJJpF1216+5N2KnbfwfbZBrr9pjlCWXFaBoajetB/MlMFymKJtIxuiB7+gj/51psxHkicjbpARwtjsoORWGD1ZJCv4TTB+Jkz7IbruJHHm98JbOA+JZqhuZRGI+hX193WJmIzzl5KLRAY4OXpK+qEXNcmS93s3FbxgGVtZhU/aPM7pXpl30YayLBy8O2/bYJ250AfsRjmuQmUOLkug2MNtoOMQT370FpGuLyBhXUooanudrU/gDjh/n8rJyDNVc8wriynFgXqiDM8toly/bdO7ifwnbOd/H99zrdn2UWnw8WGB4mpJfcbf+sXTJbtIO9YtDBiFDN93c/vjw4y0Rs/ybCMmt4Mk/iBQ==;oVwbCRRwdN+OFg1ZcNDvsw=="
