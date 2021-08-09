@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-o
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Powered E-Discovery is Turning Computer Vision into an Art Form"
+    excerpt: "Much in the way that machine learning has an objective to make computers “think” like a human, technology in the category of “computer vision” is aimed at making computers “see” and interpret like a human."
+    publishedDateTime: 2021-08-09T11:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/08/09/ai-powered-e-discovery-is-turning-computer-vision-into-an-art-form/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/08/Emojis-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Are AI-Powered Robots the Future of Healthy Fast Food Models?"
     excerpt: "It's no secret that convenience and monetary confinements often tend to overcome nutritional value when it comes to our to-go food choices. Blendid, a robotic food automation solution with commercial contracts and strategic investment under its belt from global brands,"
     publishedDateTime: 2021-08-07T08:41:00Z

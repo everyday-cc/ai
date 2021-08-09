@@ -2,6 +2,248 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-23-automate-annotation-of-image-training-data-with-amazon-rekognition.md",
+      "title": "Automate annotation of image training data with Amazon Rekognition",
+      "excerpt": "Every machine learning (ML) model demands data to train it. If your model isn’t predicting Titanic survival or iris species, then acquiring a dataset might be one of the most time-consuming parts of your model-building process—second only to data cleaning. What data cleaning looks like varies from dataset",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-annotation-of-image-training-data-with-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/14/ml3998-image001.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T17:05:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-deepmind-and-embl-release-the-most-complete-database-of-predicted-3d-structures-of-human-proteins.md",
+      "title": "DeepMind and EMBL release the most complete database of predicted 3D structures of human proteins",
+      "excerpt": "DeepMind today announced its partnership with the European Molecular Biology Laboratory (EMBL), Europe's flagship laboratory for the life sciences, to make the most complete and accurate database ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210723095647.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210723095647.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-driverless-cars-are-almost-here-but-can-california-keep-up.md",
+      "title": "Driverless cars are almost here, but can California keep up?",
+      "excerpt": "Artificial intelligence is almost ready for prime time – and the impact will be felt a lot sooner than many people think. For proof, look no further than the burgeoning industry for driverless cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/opinion/editorials/article123937164.html",
+      "originalUrl": "https://www.sacbee.com/opinion/editorials/article123937164.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/64942f44-7a8e-4cff-8873-123f88539042/642c1f36-7bdc-4f1a-bddd-9bd2bf858d28/1280x720/match/image.jpg",
+          "width": 1081,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/opinion/editorials/article123937164.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/opinion/editorials/article123937164.html",
+      "publishedDateTime": "2021-07-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2.md",
+      "title": "Simplify patient care with a custom voice assistant using Amazon Lex V2",
+      "excerpt": "For the past few decades, physician burnout has been a challenge in the healthcare industry. Although patient interaction and diagnosis are critical aspects of a physician’s job, administrative tasks are equally taxing and time-consuming. Physicians and clinicians must keep a detailed medical record",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-patient-care-with-a-custom-voice-assistant-using-amazon-lex-v2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/09/ML1957-image001.png",
+          "width": 964,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T16:19:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-equipping-ai-with-emotional-intelligence-can-improve-outcomes.md",
+      "title": "Equipping AI with emotional intelligence can improve outcomes",
+      "excerpt": "There is a gap between the ambitious ways enterprises want to use AI and the reality of how the projects turn out, says Intel's Melvin Geer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/",
+      "originalUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/intel.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/equipping-ai-with-emotional-intelligence-can-improve-outcomes/amp/",
+      "publishedDateTime": "2021-07-22T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-si-corp-launches-security-and-safety-management-system-built-on-microsoft-azure.md",
       "title": "S&I Corp. Launches Security and Safety Management System Built on Microsoft Azure",
       "excerpt": "S&I, Scenera and TnM Tech collaborate on a new security and safety management system built on Microsoft Azure.",
@@ -938,259 +1180,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2.md",
-      "title": "DeepMind open-sources protein structure dataset generated by AlphaFold 2",
-      "excerpt": "DeepMind, in partnership with the European Bioinformatics Institute, has open-sourced a massive dataset of protein structure predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 338,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/Protein-artwork-e1626813228890.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/deepmind-open-sources-protein-structure-dataset-generated-by-alphafold-2/amp/",
-      "publishedDateTime": "2021-07-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-deepminds-ai-has-finally-shown-how-useful-it-can-be.md",
-      "title": "DeepMind’s AI has finally shown how useful it can be",
-      "excerpt": "AlphaFold has provided the clearest picture yet of the human proteome. Now DeepMind is making its work available to the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-protein-folding-database",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-protein-folding-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/60f84831cd5e8139e11332eb/16:9/w_1280,c_limit/2221-WIRED-Deepmind.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design.md",
-      "title": "Cadence Design Systems launches Cerebrus machine learning for chip design",
-      "excerpt": "Cadence Design Systems is using machine learning in its Cerebrus Intelligent Chip Explorer tool for designing complex chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/",
-      "originalUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/cadence-main.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/22/cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design/amp/",
-      "publishedDateTime": "2021-07-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ai-firm-deepmind-puts-database-of-the-building-blocks-of-life-online.md",
-      "title": "AI firm DeepMind puts database of the building blocks of life online",
-      "excerpt": "AlphaFold program’s prediction of nearly 20,000 human protein structures now free for researchers",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
-      "originalUrl": "https://www.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ef81acebb3a81125fb6fecdba6854aa2471d3975/0_0_2480_1488/master/2480.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3b341a135256aaebd72cbd7d0e638659",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/jul/22/ai-firm-deepmind-puts-database-building-blocks-life-human-protein-structure-free-online",
-      "publishedDateTime": "2021-07-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-3-ways-ai-can-help-you-improve-diversity.md",
-      "title": "3 Ways AI Can Help You Improve Diversity",
-      "excerpt": "As a business leader, you probably want to improve your organization’s diversity, merit, and fairness. In this post, I share some practical tips to harness data in service of diversity in your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f8721362cfeb9ccf779b8f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/07/22/3-ways-ai-can-help-you-improve-diversity/amp/",
-      "publishedDateTime": "2021-07-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -24,22 +24,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Intelligent Speech and Voice Recognition Market Ready to See Enormous Growth in the Industry by 2026"
-    excerpt: "The latest research report added by Big Market Research on the Intelligent Speech and Voice Recognition Market is intended to offer reliable data on various key factors shaping the growth curve of the market."
-    publishedDateTime: 2021-08-04T18:12:00Z
-    webUrl: "https://manometcurrent.com/intelligent-speech-and-voice-recognition-market-ready-to-see-enormous-growth-in-the-industry-by-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 9
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/BMR-9-1.png"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "P+huLercg2DpfiNx5oIWk49WC+btT49aAZhaa0F1ztsBF2215Az/3mC1yAdU/x7C/uTditWSni3RFXRMMn8SaMlXixEFkGqcGn9+MZ8qQfZ8IeZSP7TW1ve6prHeJu9jWMh7cYGGQyTUVjNf7p0bssUu25O/g8P7wyP5JHnY4fGNHQY/3mVrZyvhcywy/Pf8szQYbvSwbW7XsePugUPwDnerdRW/VeVFll6KojL4PL74Gw2ZT47TnSwZnQwutZoMtbkJND00IRDDlpdqTItkWgn/T/fveXEjhSrqa+BVgBb1hEIL8IJquZ3mw0q22kJDR9ojBJbqI/GYA0baJ3ztbqAF0uQfdrbpxKmKWafKGB0wyb603As8ryLZwAgYQJkXBgE2QaHVGjyN+bC21WZnEC+I2WoTEkdO519TOT1dQQrEOTQY7WuWZ2O9DHqq2iGvHPQilU+45Xf3tTBmcWQsr2gpk4673/mG2XUqwNTmWD0w9S8FRc1+rM2aMMrKJkIivZrugSPVl+bZ4eii7nZ9+Q==;4JK8lvqt1urfEKqm1evayA=="
 ---
 

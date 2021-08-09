@@ -1,0 +1,77 @@
+---
+category: news
+title: "RBL Bank selects AWS to drive AI capabilities"
+excerpt: "RBL Bank is building on its analytics practice and investing in AI capabilities to implement various use cases across multiple segments, including risk, customer service, human resources, and operatio"
+publishedDateTime: 2021-08-09T09:58:00Z
+originalUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities-11628502692053.html"
+webUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities-11628502692053.html"
+ampWebUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
+type: article
+quality: 91
+heat: -1
+published: false
+
+provider:
+  name: Mint
+  domain: livemint.com
+
+topics:
+  - AWS AI
+  - AI
+  - AI in Finance
+
+images:
+  - url: "https://images.livemint.com/img/2021/08/09/600x338/rbl2-kYsG--621x414@LiveMint-91ed_1628503057208.JPG"
+    width: 600
+    height: 337
+    isCached: true
+
+related:
+  - title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
+    excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
+    publishedDateTime: 2021-08-09T08:09:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 91
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
+    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
+    publishedDateTime: 2021-08-07T23:42:00Z
+    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
+    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 57
+    images:
+      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
+        width: 777
+        height: 824
+        isCached: true
+  - title: "RBL Bank selects AWS as preferred cloud provider"
+    excerpt: "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations."
+    publishedDateTime: 2021-08-09T07:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 56
+
+secured: "N3RoPiFSBsOfLONzhb2YiP6DSVW/lwStAUEdmqZA8TZLiz6nfiC1EPxJ7cONnXT//4DhKy2FeMpBzJoQBEHL8Kc+ptBxUSx1wNAIzTRe5ao6i54ayhNYb423vQJ2byWYNDkrA0jXcuAOIXOXwFC1pf4/tN12phjyLBX0V/IGNMzhdC1tYp3PjZj9+Q1Wq/w+959zfJt5qql7IUV/qtt1qc65HYe1MLokygJellLT29VG/axniu3duRTgK9d14ZDJxjY6p0g4ZLCyztY61G43YpeTu66OHHLxW3GyBpXgNX4wJMGhlZQ1Ubs4KJrf1outm8NLoaiFo2YFuiHHlkrPb2nrWS9t1fhqN1fIYbV1aJs=;ukA2r/fzADAJEf4vVP58nA=="
+---
+

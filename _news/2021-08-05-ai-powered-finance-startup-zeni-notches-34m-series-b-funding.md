@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-sta
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -151,15 +151,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Fintech Zeni Announces $34 Million Series B In Wake of 550% Revenue Growth"
-    excerpt: "AI-powered finance concierge Zeni today announced it has raised a $34 million Series B funding round led by Elevation Capital with participation from"
-    publishedDateTime: 2021-08-04T17:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210804005691/en/Fintech-Zeni-Announces-34-Million-Series-B-In-Wake-of-550-Revenue-Growth"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
 
 secured: "mb7FFqNfhuQWIQ8KWZ1kc4H3ORjdmo2cvc2N/yfV2RYcSZu96E1NW2JRO1dNVAWIxAyHAdY3IX91tPaGkUJLrj3sGBxjhldea10Li+lY0KD8byEqdqsAnKL2OP32QA1yyFnzhq2I/WjUnIhoXsMsW+pFYFEFPuDCeRzlWAhWTkn5LykHM89qL+1TCUAeS1sOrnpr7rUdOU1H4NBsnLX8GigulXGfBOzs6s0H5V6aMzqXMaPT0cy0L0HCvw1V0qgw1tmiWDxUdsrzi9jSRJ1hSwr5Uk1fEAPPB8xfJlwtFdHMnHjHPCfNyvj1c4iZw08Gffr9TqOf8VtLexyu4MC54YMo353WbfAVJDmZJmVil21eq3yy/LO+9IBfvOM6qGQdXVjjXdwEV0DhEPiiPeaq4eZrhLHsdeViGOshcUbGlw/ah6ek6f7cSirAXu/6Z8ZGdYMzcR7dqmh2w3QOCoAhKdQGe6IM6xuxH/1CbWknkdI0L82yUxqHxY2rDM5SHCvhAECKuXbr4k9zX8iRUUBvwA==;ZILDSfOSLa6bJnl+PQaUZQ=="
 ---

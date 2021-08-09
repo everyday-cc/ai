@@ -24,6 +24,17 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Scottish weather data could help improve self-driving cars"
+    excerpt: "Self-driving cars could navigate better in poor weather and on dark nights thanks to data collected by two researchers driving a car around the Scottish Highlands. Professor Andrew Wallace and Dr Sen Wang,"
+    publishedDateTime: 2021-08-09T11:04:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/08/data-from-scottish-weather-could-help-improve-self-driving-cars/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 4
+
 secured: "UHWXzP2R2nrrpmZLvRyz3kkNAwli8UiREnJuTCd/xWzHqQ3z9pryk/JxxQF3BsEghaSNbG25UR9cu+ALOjV9No7pbOBxUhWgpKtWXPY8lDsBfKhMnbUQg/w6WtGBcR/Yf9K6Ml+xXSp6UYe5qEulsHBTdS8pJuAeBFQFgIbOMk/T+WisEcfuqcT5FhGmqCU6Q15q8hovF72subZmxtnWMytBz6MFHE6RNAhaHCg3nf/us3Pteh9OXAikLDtS6gCeTeAE3i0V/O9OleJXH3i1oaZWuai4imTtzWyUEyjUPuXRoD+UvfSShf4Ct3FpivzN/oAF9WWobrqDpJ0Uw7HzZkvQtslGbUVHWl4twyRNgS6hu5ZT9FR0YhmjPnoL615PQZyp4t78uSMtXkRnItwBelR1HYZ/OpjEl+wzXfZfedfqdwjvMfzqzHgEoi//0C7GgOzDz3k55KnHVk3z9Ncc5vMEhxxkKVtPQfQ0zoiPGi7bQJ99h9AC+lh2xyHOn2SJaT9BvbLvEhhdHKAiAsEy+w==;PNe/W76Q5m/h9SW0o39+cg=="
 ---
 

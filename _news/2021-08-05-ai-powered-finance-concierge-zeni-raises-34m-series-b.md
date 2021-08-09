@@ -150,15 +150,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Fintech Zeni Announces $34 Million Series B In Wake of 550% Revenue Growth"
-    excerpt: "AI-powered finance concierge Zeni today announced it has raised a $34 million Series B funding round led by Elevation Capital with participation from"
-    publishedDateTime: 2021-08-04T17:13:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210804005691/en/Fintech-Zeni-Announces-34-Million-Series-B-In-Wake-of-550-Revenue-Growth"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
 
 secured: "yPctODH5ipFGUDOy2a/o/cuP/Np056jf2CPXLLhspYvumYCbDlKVwK1fbbRrHhD6oLTe040UziGbkZvwty6QPWUYymIxlovt6Yi+wexazUzPaz+ZG71R7hTd0edSm4WqW2DY2aR+JHbVauWvNQIdOtQEPTtfkLKIYsmnNCoyD9o6NVw1oMNVbthljX1R5QanPqOnEWAKBG+fn241dlWvWYST1ttxM82MXE+hh8MFCP3rJco5PQEQsxBTZV4A9kxwm2Ej7+5r9goLx9sQKS5x+7zJtbmUJTJ4qopBm1TZcGaImAx1oiTFUz+Cz42mJQ7D3YCacslOBVmfGzszL0dnf++XscnV6v1hjhBiCvTmk9LQ87khw6J6Y1BDERXIO1F5iHpYKUL/3JP7rLRM9CRGEvBQy87iOI1Dj9h68R8S6KktagXOk0Bd8n+1sy7KMV2aNe6IURI1gEroo/niPohq5qHXUp18uP9NHZzveHUbi25o3Li05jlHFSnIF+DBPFCwxNoddOOiB/KqRzOUcJk6BQ==;VMDbo+voJ6gloft7J4VaQA=="
 ---

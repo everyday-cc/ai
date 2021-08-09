@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Begins Acquisition Process of Banking AI Software Provider Zhongke with Transfer of IP Following Successful Pilot"
-excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-07-26T12:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644481"
+excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-07-26T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-begins-acquisition-process-of-banking-ai-software-provider-zhongke-with-transfer-of-ip-following-successful-pilot-1030644496"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 235
     isCached: true
 
-secured: "mkTK1T3JdeIyWCT1aifH80u+Ps/6vNSRm3GGxy6khp/Y3Awrn+Ui+p7KrkTx2ImwpDAP993aRneZw2CeYeRNXhtQXs9H+uVzK12mToCVNp9F5TYSAPyCJi69PndW9vewLQzwx/lhsV6JwXkrKhCm9mGz2kT4rJ7khUuHyFS/WmciT5Frq3DtfzgpgBRrbB2r2xQMMnawqNZa9srqHzf+l5xy5Itv4JP95RMfHYwfr8lNt4TpXLy9r2YFHJNPmrVyec2SIrACPuxymBYC6+DT0hf67RMa2agw8XgM24B67Enp374I65NykYf9+evZxv0tOPEYLq8GN82mVqFkPVgDQtBwMfYnfVdKptpklt5bV1bkryEqfJAywRe/UaDrjnS/D1DUCQPSWSaCRvxSqRV4xUKTQRV0/9SycdEsKeuxCNt0Wqi0r2P7haOQmW10KMS75a7HtmmE2gkTDaoVsHgFfqktAdhNC41QTktBSRGnlAR22F+eXTE6aU0Yh7AAo7BdGJ1vZyt8x+K3yoazsF5TRg==;aDynJj6y1lZu2h9gX4F6jA=="
+secured: "h93Qzs8g+koZhk8mkd2U+9SMr/lIfZ4HEfxDZUPygkx1MUZtVl4cgAiUa40tK4fOLI/YMuWl85OUCARsBjmxuCDc3B5yNuZDQHLnV3yHKk/C0n5RT1kwHlhoqhADMeH27ueIQ44AjFksl1qy/Di/s9gaXfM/uxAWxvR2LtyzeCYgcnVAxDSlrlZrnRHH5lqaWhfluKlEbyD00h/gZD8q1cCFdhRJQWtqXAR/kLRQQu606iL7TCrDELaeZumS2Z3Ae5nAvoEq+64VKtbxiwC8eYoLrgFriLn3R88vJ+oujDO0erEWQSMUYlVW+IhrhTYgYmhHVaYyNNtRnGgehI9ncBcgls9PV4RLVCh2I91w91A=;wpZWTLDtO88M22CnNZW5Rg=="
 ---
 

@@ -40,6 +40,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "AI-Powered E-Discovery is Turning Computer Vision into an Art Form"
+    excerpt: "Much in the way that machine learning has an objective to make computers “think” like a human, technology in the category of “computer vision” is aimed at making computers “see” and interpret like a human."
+    publishedDateTime: 2021-08-09T11:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2021/08/09/ai-powered-e-discovery-is-turning-computer-vision-into-an-art-form/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/08/Emojis-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Global Warehouse Automation Markets 2021-2025 - Expanding Use of Artificial Intelligence & Increasing Adoption of Robotics in Warehouse Automation"
     excerpt: "The global warehouse automation market is likely to record growth at a CAGR of 13.6% during the period spanning 2021-2025, and reach US$30.99 billion in 2025. Growth in the global warehouse automation market was supported by several factors like surging adoption of industrial IoT,"
     publishedDateTime: 2021-08-05T21:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/facial-recognition-based-boardin
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
 type: article
 quality: 70
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-85120431,imgsize-233149,width-800,height-434,overlay-etcio/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "Wearing your facial recognition system around your neck"
-    excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"
-    publishedDateTime: 2021-08-04T17:53:00Z
-    webUrl: "https://www.biometricupdate.com/202108/wearing-your-facial-recognition-system-around-your-neck"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
-        width: 1098
-        height: 604
         isCached: true
 
 secured: "bJSvITk0SKqqsqI+oeaunUjKual/SLltAPWEtU7bddBBe4ve2snFoTeuGpdwYgCTqEelORXE10X3KWhigO5FzT4c1tYO8kcIVVdklTfupaHcmhi+r7ut0KVV+0EmkSD75OMKBDEoR7YV7rXnf1jcEfgRoPr41Wt8MeBXRhFEXnPEHLRdBVAZpd8RT9k/ttYTmnby1VEZj5zqZ+pxcXGmpjML02uSAcSXJcMoZmdeIlHVRps8GPfiWv7Oagz6VY/HcVuz+0Cvyg8ifygDsicEUVRkEWqM7UMcnZo+H41w4U60yNK2tPbu+rMRSytOTKmI45IniJ4I5PZKlj4G4Bmv6e/YLeBn7hxhRbbJV9o+p+2/3CXZZGWd5qvIxhkSzH8u9V81kjDBJ9PMkLCm1GpqkoSGrQyucKaqBOpX6xymoYCURT4aI2bLOPwj0QWwxVZYcOIrnDCKnSfqIu85cUSTIOMzmVG+GaHRz13TrE5Gmnz0mFUZ3WAsch2dT92dHVO5Q2N0pYsElHeRh/nwIaKW8Q==;e3X/QszXADxeicSPBwLC6Q=="

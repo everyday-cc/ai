@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-pizza-hut-is-building-an-ai-that-it-says-will-recommend-food-to-you-based-on-your-local-weather.md",
+      "title": "Pizza Hut is building an AI that it says will recommend food to you based on your local weather",
+      "excerpt": "Pizza Hut is developing an in-house AI, rather than buy off-the-shelf programs, that knows what customers might want to order, its data chief said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "originalUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111042138aff70018907a15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
+      "publishedDateTime": "2021-08-09T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-ai-failed-promise-or-a-case-of-unrealistic-expectations.md",
+      "title": "AI: Failed Promise Or A Case Of Unrealistic Expectations?",
+      "excerpt": "However, has AI failed to deliver, or are we setting our expectations too high? Putting the hype aside, AI does have significant potential to help organizations enhance their efficiency and make better use of data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610d39e772f8cad64da16789%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/ai-failed-promise-or-a-case-of-unrealistic-expectations/amp/",
+      "publishedDateTime": "2021-08-09T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-bear-flag-robotics-will-help-deere-expand-autonomous-equipment.md",
+      "title": "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment",
+      "excerpt": "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "originalUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "cdnAmpWebUrl": "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "publishedDateTime": "2021-08-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wvik.org",
+        "domain": "wvik.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-this-startup-provides-a-winning-combination-of-ai-and-skilled-recruiters.md",
       "title": "This Startup Provides A Winning Combination Of AI And Skilled Recruiters",
       "excerpt": "The company aims to solve issues and roadblocks that arise at every touch point across the employee lifecycle. Its product offerings include employee onboarding module, document management system, intelligent case management system,",
@@ -113,7 +258,7 @@
       "originalUrl": "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -157,7 +302,7 @@
       "originalUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -535,6 +680,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-what-to-expect-from-teslas-ai-day-scheduled-for-aug-19.md",
+      "title": "What to Expect From Tesla's AI Day Scheduled for Aug. 19",
+      "excerpt": "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -993,212 +1190,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
       "publishedDateTime": "2021-08-06T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png",
-          "width": 720,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "publishedDateTime": "2021-08-06T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
-      "title": "SenpAI.GG wants to be your AI-powered video game coach",
-      "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Valorant.jpg?w=1024",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "publishedDateTime": "2021-08-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
-      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
-      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
-          "width": 903,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:06:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
-      "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
-      "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
-      "publishedDateTime": "2021-08-06T11:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

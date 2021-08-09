@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear
 webUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear-flag"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: SiliconRepublic
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment"
+    excerpt: "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,"
+    publishedDateTime: 2021-08-09T10:00:00Z
+    webUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment"
+    ampWebUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
+    cdnAmpWebUrl: "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
+    type: article
+    provider:
+      name: wvik.org
+      domain: wvik.org
+    quality: 74
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG"
+        width: 880
+        height: 542
+        isCached: true
   - title: "BREAKING: John Deere acquires AgFunder portfolio company Bear Flag Robotics for $250m"
     excerpt: "Bear Flag Robotics is John Deere’s second major automation acquisition in the past four years, following its 2017 buyout of Blue River Technology."
     publishedDateTime: 2021-08-06T02:32:00Z

@@ -38,7 +38,7 @@ related:
     provider:
       name: TechHQ
       domain: techhq.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
         width: 2560

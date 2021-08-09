@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet"
-    excerpt: "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19."
-    publishedDateTime: 2021-08-04T17:10:00Z
-    webUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/"
-    ampWebUrl: "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 93
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "What to Expect From Tesla's AI Day Scheduled for Aug. 19"
     excerpt: "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week."
     publishedDateTime: 2021-08-08T15:05:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Tesla AI day invite says “Hardware and software demos”"
+    excerpt: "The most awaited event, Tesla AI day is scheduled to be conducted on August 19, 2021. An invite was sent out through Street's Tesla Daily,"
+    publishedDateTime: 2021-08-05T01:37:00Z
+    webUrl: "https://techstory.in/tesla-ai-day-invite-says-hardware-and-software-demos/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/tesla.jpg"
+        width: 620
+        height: 349
         isCached: true
 
 secured: "bkh5Vud2ecpvz70o0IWZ9BbvqNO+GJMKU5sS7jn89Hu6k2688V/ZThw1qj/krrcapKbhkG5x+MVVFQynELCpiqwvcLXumxmrdjQkoZWvYnS6V7TkfvxHJi5eqytO277/wHWfGqbNihxGJz09MoiPglrBtHe3AqvKOSGutnxhWejpS5eHsDL0Fu/Qak11h/60ToypOMHaalxAuR6I29GdOe3Hbv3lkaL5lVY3CnR3xysnp2ayHiZmNFcDpkzaJQrrtr8U8NzLORt3n4PG56n9xB6MqszqfZgfI52V2Np1+mphnazJa0c6n6LMZSPA8U61wTaZqGMG8WLK1x1dQu6Od2ARRCQSjgroksjQ3ijsGJRKQG+objxiyUmYtHprba8nCb3xdHqVMMdybJFNpYp21S0VIN2YFS0xwdG5iDTP243OHnanwDMJB4fRs4VOUdqlz0iIbSadHZlEd0u9Rvw7RyHjt5bgqYLoAia5pi6+O/9PWPq1Iou83w4jLEsck8INa/rfA7yKpJQVieUZgo9HjA==;QgciNG1OAZqVQFvm3bSPEw=="

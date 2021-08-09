@@ -42,6 +42,22 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "RBL Bank selects AWS to drive AI capabilities"
+    excerpt: "RBL Bank is building on its analytics practice and investing in AI capabilities to implement various use cases across multiple segments, including risk, customer service, human resources, and operatio"
+    publishedDateTime: 2021-08-09T09:58:00Z
+    webUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities-11628502692053.html"
+    ampWebUrl: "https://www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/banking/rbl-bank-selects-aws-to-drive-ai-capabilities/amp-11628502692053.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 91
+    images:
+      - url: "https://images.livemint.com/img/2021/08/09/600x338/rbl2-kYsG--621x414@LiveMint-91ed_1628503057208.JPG"
+        width: 600
+        height: 337
+        isCached: true
   - title: "RBL Bank selects AWS as preferred cloud provider"
     excerpt: "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations."
     publishedDateTime: 2021-08-09T07:20:00Z

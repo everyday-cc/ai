@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
+      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
+      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/jqa4h",
+      "originalUrl": "https://www.techcentral.ie/jqa4h",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
+      "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
+      "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg",
+          "width": 872,
+          "height": 872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
+      "publishedDateTime": "2021-08-04T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-developing-coherent-ai-infrastructure-for-smart-cities.md",
+      "title": "Developing Coherent AI Infrastructure For Smart Cities",
+      "excerpt": "Because of dense populations, and a concentration of equipment and machine based projects, AI’s ideal testing ground is a city.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610abd6c220ca29c9bd614e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2796%26cropY1%3D149%26cropY2%3D1721",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
+      "publishedDateTime": "2021-08-04T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-microsoft-details-ai-model-designed-to-improve-bing-search.md",
       "title": "Microsoft details AI model designed to improve Bing search",
       "excerpt": "Bing is now using an AI model designed to improve the the relevance of search results, according to Microsoft.",
@@ -399,10 +539,10 @@
     {
       "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
       "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign.",
+      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -412,11 +552,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:58:00-07:00",
+      "publishedDateTime": "2021-08-04T05:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -929,6 +1069,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-04-global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026.md",
+      "title": "Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026",
+      "excerpt": "The research report titled “Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026” and published by “Zion Market Research” is an in-depth and dedicated scrutiny of the existing stats of the global AI In Computer Vision Market entailing the numerous facets pertinent to statistics and growth of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "originalUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccourier.com/wp-content/uploads/2021/01/Global-AI-In-Computer-Vision-Market.jpg",
+          "width": 449,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-machine-learning-blood-analysis-could-predict-schizophrenia-risk.md",
       "title": "Machine Learning Blood Analysis Could Predict Schizophrenia Risk",
       "excerpt": "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a research team.",
@@ -1021,205 +1205,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml.md",
-      "title": "The ‘Subscription Goldilocks Zone’ Is Within Reach For Merchants Using AI & ML",
-      "excerpt": "The subscription “Goldilocks” syndrome is something that sticky.io CEO Brian Bogosian tells PYMNTS subscription commerce companies can use AI and ML to solve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
-      "originalUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/sticky.io-subscriptions-457x208.png",
-          "width": 457,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
-      "publishedDateTime": "2021-08-04T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-facebook-reportedly-wants-to-securely-mine-your-encrypted-data-to-target-ads.md",
-      "title": "Facebook reportedly wants to securely mine your encrypted data to target ads",
-      "excerpt": "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
-      "originalUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FZuck-money.jpg&signature=781fd7a9456599290afb06f5fff80ff9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-intel-dell-technologies-make-acquiring-ai-skills-more-accessible.md",
-      "title": "Intel & Dell Technologies Make Acquiring AI Skills More Accessible",
-      "excerpt": "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg",
-          "width": 1200,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/",
-      "publishedDateTime": "2021-08-03T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-aiml-innovations-inc-to-webcast-live-at-virtualinvestorconferencescom-august-5th.md",
-      "title": "AI/ML Innovations Inc. to Webcast Live at VirtualInvestorConferences.com August 5th",
-      "excerpt": "AI/ML Innovations Inc. (CSE: AIML) (OTCQB: AIMLF) (\"AIML\" or the \"Company\"), a company committed to acquiring and advancing Artificial Intelligence/Machine Learning technologies that address urgent societal needs,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-ml-innovations-inc-to-webcast-live-at-virtualinvestorconferences-com-august-5th-1030686183",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1394979/Virtual_Investor_Conference_Logo.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

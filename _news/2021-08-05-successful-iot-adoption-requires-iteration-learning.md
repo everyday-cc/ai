@@ -42,34 +42,6 @@ related:
         width: 777
         height: 466
         isCached: true
-  - title: "Enterprise AI 2.0: The acceleration of B2B AI innovation has begun"
-    excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
-    publishedDateTime: 2021-08-04T18:17:00Z
-    webUrl: "https://techcrunch.com/2021/08/04/enterprise-ai-2-0-the-acceleration-of-b2b-innovation-has-begun/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=743"
-        width: 743
-        height: 400
-        isCached: true
-  - title: "Enterprise AI 2.0: the acceleration of B2B innovation has begun"
-    excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
-    publishedDateTime: 2021-08-04T18:17:00Z
-    webUrl: "https://techcrunch.com/2021/08/04/enterprise-ai-2-0-the-acceleration-of-b2b-innovation-has-begun/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=743"
-        width: 743
-        height: 400
-        isCached: true
 
 secured: "N4DuGVbsWMJRlLrcdHtNOt9vG47L0jL6fE87JJxxY6Lpotjw0fF00DFQVcK6JkNUQAamlUGCQ11+lIwCfsEaodGzMOiHB9A2Iqy0Yhqi+T2D3QbBUkZHm0G3Ka9L9UtBJpab2n2Ihk2rEm+CTGL1EM4Xog9K6VAhhmnNXsL0h3h15m1RwTKBisbtyOxWmu73wUM1EPaL7HO33wVI9sQ1blX/C5K3MtKESJN57gnWPk93tXA/PkbN+DunV7W7uuDeP4FqlNyGzmSTEBZ+HOPNbW33uTusq8wsZzBYPLSb4S1VLZgTkr72J0OtluQvy17lrxuZcEZ/UJawhmTAYT7Z7TzjsMkr371by9ASzkjQZ0D1UnYcu1itxz64XjgcxD6zZVPgAHCvcAAcNt/hrYKR0KCz0DIt2aJYuyYNZznsvRwX7HVZxiTTCU8M/M/lpiGUNkcAPiuqXxBhYrkj8liQbeuI2gtot5yI1k06tyfnWUyiZOrcXjUpElMxZU1IiDWE8rTC05fPjm2WgnxBI8C+aw==;2XwW3NPSdL1ITrn5CkYwWg=="
 ---

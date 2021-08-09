@@ -2,6 +2,246 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-06-30-indian-tech-startup-exposed-byjus-student-data.md",
+      "title": "Indian tech startup exposed Byju’s student data",
+      "excerpt": "India-based technology startup Salesken.ai has secured an exposed server that was spilling private and sensitive data on one of its customers, Byju’s, an education technology giant and India’s most valuable startup.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
+      "originalUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1133907439.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/29/india-startup-byju-student-data/amp/",
+      "publishedDateTime": "2021-06-29T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-federal-agencies-use-facial-recognition-from-private-companies-but-almost-nobody-is-keeping-track.md",
+      "title": "Federal agencies use facial recognition from private companies, but almost nobody is keeping track",
+      "excerpt": "A new report from the Government Accountability Office (GAO) has revealed near-total lack of accountability from federal agencies using facial recognition built by private companies, like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight",
+      "originalUrl": "https://www.theverge.com/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/c0ezsVOXbWyedBmRpi7Im27Z1bc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69520938/jbareham_170417_1617_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight",
+      "publishedDateTime": "2021-06-29T20:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-japans-softbank-says-pepper-robot-remains-alive-and-well.md",
+      "title": "Japan’s SoftBank says Pepper robot remains ‘alive’ and well",
+      "excerpt": "Japanese technology company SoftBank denies it’s pulling the plug on its friendly, talking, bubble-headed Pepper robot. “There is absolutely no change to our Pepper business,”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "originalUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wric.com/wp-content/uploads/sites/74/2021/06/a7ca6fa6c7634e6787200aad859fc95d.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/business/us-world-business/japans-softbank-says-pepper-robot-remains-alive-and-well/amp/",
+      "publishedDateTime": "2021-06-29T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRIC",
+        "domain": "wric.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
+      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
+      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
+          "width": 400,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-ai-vs-skin-cancer.md",
+      "title": "AI vs. skin cancer",
+      "excerpt": "Early detection is key to surviving melanoma, a type of malignant tumor responsible for more than 70% of skin-cancer-related deaths worldwide, but “suspicious pigmented skin lesions” (SPLs) are so common it’s impractical for doctors to check them all out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
+      "originalUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/automated-melanoma-detection-small2.gif?w=800",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
+      "publishedDateTime": "2021-06-29T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-vietnamese-e-wallet-momo-picks-up-local-ai-startup-in-first-acquisition-deal.md",
       "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
       "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
@@ -948,246 +1188,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-edge-of-chaos-opens-pathway-to-artificial-intelligence-discoveries.md",
-      "title": "'Edge of chaos' opens pathway to artificial intelligence discoveries",
-      "excerpt": "Some neuroscience theories suggest the human brain operates best 'at the edge of chaos'. Now scientists have found that keeping a nanowire network at the edge of becoming chaotic is the best state for it to produce useful signals to solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/06/210629101157.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning.md",
-      "title": "Visionary Trio Creates Next Gen Video and Image Annotation Platform for Machine Learning",
-      "excerpt": "Innotescus ® is announcing the launch of its image and video annotation platform. The Innotescus platform provides an intuitive annotation workspace, comprehensive analytics, and a collaborative environment for teams to produce superior quality training datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/visionary-trio-creates-next-gen-video-and-image-annotation-platform-for-machine-learning-1030563448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1551990/Shashank_Chris_Rob.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-edge-of-chaos-leverages-nanowire-pathways-for-brain-like-skynet-artificial-intelligence.md",
-      "title": "Edge Of Chaos Leverages Nanowire Pathways For Brain-Like Skynet Artificial Intelligence",
-      "excerpt": "One of the more interesting developments in AI has to do with nanowire networks being trained to solve simple problems in a chaotic state.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "originalUrl": "https://hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55537/content/Artificial_Intelligence.jpg",
-          "width": 708,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/edge-of-chaos-nanowire-brain-like-artificial-intelligence",
-      "publishedDateTime": "2021-06-29T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-nhtsa-mandates-crash-reports-for-self-driving-cars-driver-assist-systems.md",
-      "title": "NHTSA mandates crash reports for self-driving cars, driver-assist systems",
-      "excerpt": "If a vehicle equipped with a system like Tesla's Autopilot or GM's Super Cruise is involved in a crash, the agency must get a report within 24 hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-autopilot-nhtsa-crash-report-self-driving-car-driver-assist-system/",
-      "publishedDateTime": "2021-06-29T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-29-ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging.md",
-      "title": "AI Finds Tennis Is ‘Most Euphoric’ Sport To Watch But Soccer Is Most Engaging",
-      "excerpt": "Emotional AI can detect which sports evoke certain emotions in viewers. The data could be used to improve engagement and commercial activities in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db3b169c8e3bccff0c0623%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2021/06/29/ai-finds-tennis-is-most-euphoric-sport-to-watch-but-soccer-is-most-engaging/amp/",
-      "publishedDateTime": "2021-06-29T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

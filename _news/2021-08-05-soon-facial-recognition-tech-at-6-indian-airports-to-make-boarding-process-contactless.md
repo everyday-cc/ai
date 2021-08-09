@@ -91,20 +91,6 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "Wearing your facial recognition system around your neck"
-    excerpt: "In a naming development that calls to mind unfortunate tattoos, a Cornell University researcher says NeckFace can track face biometrics using a sensing necklace"
-    publishedDateTime: 2021-08-04T17:53:00Z
-    webUrl: "https://www.biometricupdate.com/202108/wearing-your-facial-recognition-system-around-your-neck"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/08/04134736/NeckFace.png"
-        width: 1098
-        height: 604
-        isCached: true
 
 secured: "mgUwMWGfkMnerUUEuiyfteVwe1sUsyOQfD6dL07V2XCJLkt/22qH7jUWHceeXw4MSVmd8UEwWPbgOJj89biMI44/Iegc4B1Dr0E9+h2PlarI/mycCkX1ULT5OSfRSxRrw55aZIOiyAJp46LmhG/kX7ZouoLiZ2Vzs7mkWVKognmIXc5Y4dmXtL6YcRN0fAVknvJYZ8JsneBJVJNoeV2pViN2dzmcJooL2EL3EU1xfAAPedmMBf2PeT7VycVqXZuUw/6jDsk+8qV9W7tvaFNZqeWaaoiS/I/niqkXVhDDl3p+C42fQt7q9PonzQVBnZuBIZLsM39u/QelWWTT7N1svy5s1MHbzdXpF16Toul2R4jgaLcSO+2svX9Mt1zjBrzXQ6dayOjyBOUlElpv66t3qvIz/vonEEwo89JBftIRFeERwt5SyHJNY2trVFXJ9E60EbAN6rtB77SQgywvMwAfLZrCQY2qN4+PZ9MEmX3euLj1yfLNIxNgR+rzUBRRqd4TPLHa4cdKNViHAgPMztVdcQ==;px2Vc6Nj08kw8eOaQVZP8g=="
 ---

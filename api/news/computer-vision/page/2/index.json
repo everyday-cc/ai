@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-27-clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections.md",
+      "title": "Clinical Study: Kaia Health Computer Vision Technology as Accurate as Physical Therapists in Suggesting Exercise Corrections",
+      "excerpt": "In the study, patients with osteoarthritis of the knee or hip performed a series of exercises while being simultaneously evaluated by computer vision technology and physical therapists. The results showed that physical therapists agreed as much with the exercise corrections suggested by Kaia Health computer vision technology as they did with each other's exercise corrections.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clinical-study-kaia-health-computer-vision-technology-as-accurate-as-physical-therapists-in-suggesting-exercise-corrections-1030649848",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-ai-in-computer-vision-market-worth-513-billion-by-2026-at-a-cagr-of-263.md",
       "title": "AI in Computer Vision Market worth $51.3 billion by 2026, at a CAGR of 26.3%",
       "excerpt": "The report \" AI in Computer Vision Market With Covid-19 Impact by Component, Machine Learning Models, Function, Application (Industrial, Non-Industrial), End-Use Industry (Security & Surveillance, Consumer Electronics) and Geography - Global Forecast to 2026\",",
@@ -1362,58 +1405,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-ebay-taps-computer-vision-to-transform-online-shopping.md",
-      "title": "eBay taps computer vision to transform online shopping",
-      "excerpt": "Bay chief AI officer details how the shopping site's computer vision is driving customer satisfaction with image-based search.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ebay.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/ebay-taps-computer-vision-to-transform-online-shopping/amp/",
-      "publishedDateTime": "2021-07-15T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
