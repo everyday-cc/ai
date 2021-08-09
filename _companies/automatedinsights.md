@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "AInsights"
   url: "https://twitter.com/AInsights"
-  followers: 4639
+  followers: 4638
 
 size: 51-200 employees
 yearFounded: 2007
