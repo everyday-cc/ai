@@ -3,12 +3,9 @@ category: news
 title: "Cognex VisionPro Software Breaks Down Barriers Between Deep Learning and Traditional Vision"
 excerpt: "Two major new releases deliver advanced vision tools and tighter deep learning integration in a high-performance platform."
 publishedDateTime: 2021-07-30T00:00:00Z
-originalUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
-webUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
+originalUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products"
+webUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products"
 type: article
-quality: 9
-heat: 9
-published: false
 
 provider:
   name: Automation
@@ -18,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "POn0N/kdWPKz9/XSkQJFwkCKDSxiJV+rkeBYop6Co4DuIdp5mZn6sy5bMkrhjtcOZJO/WT5jCTXvogBbWrartY3ntSdSSmDUlh2qhyC4QEZWNq+IareJbQ9wSru5Zs4EGsi/4PCGevndd+sNmYkJc9sza63xUrPJD2PX24RAAwVlMz2mrNEzb5/mJ0Dru8alUakDyXIg7LmmiOaykn750+vcTn7liuHl71Pt6GkTub5wkvva7wFJxUM97JLPb+RTvOveBzrbIt4GwQPjO4T6hx/UmLdtIz3ggcc/MU2fi5klAdBXwIm0J65Nd4ANFVlbgYZn2KSod4/6Sw2WJpFknMK14nlHqtfhnXxXFcln/WCkcV5mHldG7VkncwthU18I+0MNYEKecuA/wyilkf26cLRx99fD7u6V6wu+FvDoUBLdNQNYgd5T6KSR3Fsx3aCD1vdov5ebSynlRHLNR6FQMCZ6FyCcXbCEo1qgJk7kXqb6VibwY8VxVDoS69ZCbzO5htOAmrnOBLMgjryvgEJXxQ==;X1msB9DyZGEb6YLtxywGlg=="
+images:
+  - url: "https://www.automation.com/getmedia/b76fce20-782e-4755-9d1a-af8cf9a3529f/Cognex-prod-July-30-2021-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+secured: "N1FifQP8IN0lp4RrGd4nq9bGetKYkAohMp/0iTAG045UIm0/a1zpt3DsWNt0ZJLVabT9orQhjBV529vGmtd0F8UOIShix7PjNQOTzZQDINfUiHygYVdc6X7YxbAsV+RgC2IroNTX6nXeJspBjFstJ7P4fk0bzVAFTQTMtBf/3WCI8K8yKuwhFW71OITYnpvQvgjAC7N7EMrqFS3NxqhnfApOHZI85+S4Pq/E38dZKxKjVoW1k4r5zbLQWdZM6A606Kfs751NK0pyWqoZXKCq3FHzU4QemlwBgtuPyrwBd42zebs/g0Oq9zRSihmFLlRaMHB067K6vA13BhchDRoB6x5zN+0gP/boj3WnvI0ngY0=;nIyHPFeERNYH1Ne6N7FzxQ=="
 ---
 

@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom, And This WallStreetBets-Favorite Stock In July"
-excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE: AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc."
-publishedDateTime: 2021-08-09T11:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/etf/tesla-fame-s-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july-1030708105"
-webUrl: "https://markets.businessinsider.com/news/etf/tesla-fame-s-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july-1030708105"
+title: "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom And This WallStreetBets-Favorite Stock In July"
+excerpt: "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc. (NASDAQ:AMD),"
+publishedDateTime: 2021-08-09T15:07:00Z
+originalUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-"
+webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-"
+ampWebUrl: "https://www.benzinga.com/amp/content/22393375"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22393375"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 64
+heat: 64
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -24,11 +22,11 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg"
-    width: 1024
-    height: 768
+  - url: "https://www.benzinga.com/files/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg"
+    width: 6000
+    height: 4000
     isCached: true
 
-secured: "XxmMcbUetu/KAPc2lely6wgqLwmgy9yOh7Cot5/cehmYRzfzSIT3eJRrzvD9RLIA8cJjh0egWKY/hLAGwPhVG2fyNXeSZpR254KATlE9IsdGPnkqhNnC/h0wTu06IpcKcsKRvYVEOV3NpywlIf7iAScYHpXexg21rg0mt+X3zCMpY+MLNqsehQGdhauc6BQfFH7exJYjZT2KlqG+X8L6k6Zpn6v78fK1yV75Ph9uQ8QwLODu1hsm3GuyP94GP6K5rOKeWpyla7CJIm/TQ7NCR4fyDIY/1uF7waYcoHsM+AlQder3e9zFZ31ieT4ZFs8qa6xZIYY0xAh5lCvnuGcKuTg7r2f/YkMWsqXbwYNrtzg=;0nlxV9B2rPFaUj6xTd6Lyw=="
+secured: "YieQIRAIE6aPhTIMr3k9DyEUVNOvF3WK3GgGh1c6+0ovGUHdstoSXYmFgEhs8HX2fJV8IW1J6OJn8brwt02UwHR2wW/2aJKvsZkQzsmG94dlLrROMlw1Ct7jol77r0bQyO8PYda2iothBBfHU+xZZMG75R06KyptEWTHFCM2TV+BtnmOHiJlxM9FNyN0mhGvcoJudXAzmpGCJSN+zfGQg3iUjfJcBOe1CyisP1C51/2J8LDxNH9ZW3yRkunH5vIupUBWCAIwlKb2b2wN+bxBi0skqUPG6oQyOTJcBq64o6LyjbExRNmdFbAQB+qbnZlV6KZfiQRJyhp9BdPNp4CObPliuBbYqpf0RiPDulc3lRM=;2fKcc77BucLiH/AYnGwNdg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/digital-first-banking/2021/apis-that-link-to-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-first-banking/2021/apis-that-link-to-fed-master-account-poised-to-jump-start-scale-fintech-b2b-payments/amp/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "B2B FinTech Reserve Trust Lands $30.5M Investment"
-    excerpt: "FinTech trust company Reserve Trust, which has a Federal Reserve master account, has secured a $30.5 million Series A investment in a round led by QED Investors."
-    publishedDateTime: 2021-08-04T21:55:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/b2b-fintech-reserve-trust-lands-30-million-dollar-investment/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/b2b-fintech-reserve-trust-lands-30-million-dollar-investment/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/b2b-fintech-reserve-trust-lands-30-million-dollar-investment/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Reserve-Trust-FinTech-funding-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Fintech start-up Revio secures R15m seed funding"
-    excerpt: "The start-up, which is focused on the South African market currently, plans to formally launch in East Africa in 2022."
-    publishedDateTime: 2021-08-06T09:35:00Z
-    webUrl: "https://www.itweb.co.za/content/mQwkoq6PVZ673r9A"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/WhskqGohOzjTZ9hIfI0BeTilXJwDYpAEs2VENb20ne2ZxZYaQyno2kD_vQQ_vc8m982oz2Z9_AOYMm98zi5GSfKX82qm7wV_s4jt=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
 
 secured: "4NnCWUDMzXyTuR0rPRIJQZLtdTftRjW3cGpM/jRYmxgt948/848nPPQde11Ttx+b8m5Qp1tpuxQyhplBGykt2aodZlRz5i/qofxXWVO1SfMy8mxMsmgaz/Rp7gpq3zOVoMVRIaCEZVdugOedOhV4p+7ZfBE5+/c8x/GgHtwYR0QOwpajOI8nFaAg3G9Xtm8cX5cYaTxAGevXKBw5BsIRCW+8Uyunu7cQx2FCMkAZc91YIVGxIkM1U/L/rlS6gOsJDQ3t1/gg+v1IetuukvFRTfw1m0AHWcmgT87xwYMRl9b5+fJmVsMlzhLHJVAw9KPOHWjUV6M78fpg/lrZFK4AQ7e3SrAhLYBhueV6f7G6Y0g=;+Dw7b9U17j9ykoWEgwoPFg=="
 ---

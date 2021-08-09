@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-dat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
+    excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
+    publishedDateTime: 2021-08-09T14:42:00Z
+    webUrl: "https://www.technologyrecord.com/Article/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125305"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10450/img-Unsplash_Markus-Spiske_basketball_web.jpg"
+        width: 940
+        height: 443
         isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"

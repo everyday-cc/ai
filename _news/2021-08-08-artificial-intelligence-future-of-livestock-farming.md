@@ -7,7 +7,7 @@ originalUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-l
 webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-livestock-farming/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 630
     height: 416
     isCached: true
-
-related:
-  - title: "The future of chip design – AI creating AI?"
-    excerpt: "Why is AI so advantageous, what challenges does chip design present, and could AI be used to create future semiconductor products?"
-    publishedDateTime: 2021-08-05T08:30:00Z
-    webUrl: "https://www.electropages.com/blog/2021/08/future-chip-design-ai-creating-ai"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 54
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/August/ai-headline.jpg"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "IUEvdAgNqBN8QgIS2WaKKqvF2wM0mEznfIpbNtTHZOmxzG9mGKoO8sRVIdsF9tUJfHHKooHFXfqiTtHyOUfMOLqmgvWIuzSfJeC17ugZFFo7A/bXVdo3APHAL//pws31uVlyVdoBb1itsHOucyGMy6EK6EEzV+exmaSqUti5wvlIpPrslyEG5YjQ85H+Y9axoXsquVOzbAztnGCr63HckG5JpRJfl0pDjOtbbLQ5K+3O5kuFS134q56ANJXW0FgRHoRM6RbTSC2TVoMx/0WpV0sdHdfuHt/QLXSgNfTZzk3+Swx4AeAm0aVyq9vsIWzc0l2BWWxmyTepv0goESY7+47YUnXWvLVmWroXVqObnYE+NBzJXkDhWzP3fwJTMbg7jK0wvwPZuxMizVUvaj2Qtad7v9hl1q/mtiKL1jkqUJkKXFo0Aa/G8L9gLJCcsJ/OGZDGfCOlBPxh75dsmK26L8SIqQQ1Gh54GgB9Ot/1TKIYUf4b4SfpUU/Ome1I/tc6fCo6zCT3yNG2OmTu/44cKg==;wulfjIVQ/vqCZg1cR79hRg=="
 ---

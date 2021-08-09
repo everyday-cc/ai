@@ -39,6 +39,22 @@ related:
         width: 453
         height: 558
         isCached: true
+  - title: "The Pixel 6’s Tensor chip could be a modded version of Samsung’s unreleased Exynos"
+    excerpt: "Google’s custom-built Tensor chipset could be Samsung’s unreleased Exynos 9855, according to a report by GalaxyClub"
+    publishedDateTime: 2021-08-09T15:39:00Z
+    webUrl: "https://www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675"
+    ampWebUrl: "https://www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 53
+    images:
+      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/07/Google-Tensor-Image-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "4rkk5/3/Wn6ftnjNF2xDhXSBUoRtvAMu2ZxBofZDSFags7yvkSK1Ox/y+NmmavaTBCFqmjcQDlLRCIHpQ5BHe2ue/IlmBO/5AH7MhYfcLlUVt4/g/xE8jbJDJHRPxDSGamXpaLpmOypstgic93bUrlCI1PE6+AUhJtn8PL2lF0CPXoF7OMpnXJRE+4rLazbiqsYwb5Lr2Jsk7OLxeWViDby7YSuCXLsRsGCi1nOBIkXHxeTekIWlAnKspChRxI8xB9EPWGmqnesVQ8JGRD+2wPl4QfGCEgM3wavSs895S3MvHExN4cepbkk5lca0JHUBsNdhE+/aV4cs3NO0jbkj24qfwEDuVrlgCc3OW8Ob0bnhrnSVd8ytZLwrw6PYUR0lKufQ6uX7mh/+Nru9Q9x4zzJoGlVryGGYAgfHLOXU13Ri8gxVU5YeDSu2DMpHP9oq/gImBj0dFRynX+1Ku32We1sLKRK1OXkMjmeiU43twZeIwz09s59xZ2I3UeZXksGjJiXRr7IzhLIspj3OdQqbBA==;0byhWvyH6ijkaBefNUKbBg=="
 ---

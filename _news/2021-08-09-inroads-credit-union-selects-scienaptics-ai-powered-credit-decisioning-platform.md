@@ -1,26 +1,27 @@
 ---
 category: news
-title: "InRoads Credit Union Selects Scienaptic’s AI-Powered Credit Decisioning Platform"
-excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that InRoads Credit Union has chosen to implement the company’s AI-powered platform to enhance its credit decisioning and underwriting capabilities for new and prospective members."
-publishedDateTime: 2021-08-09T13:43:00Z
-originalUrl: "https://financialit.net/news/artificial-intelligence/inroads-credit-union-selects-scienaptics-ai-powered-credit-decisioning"
-webUrl: "https://financialit.net/news/artificial-intelligence/inroads-credit-union-selects-scienaptics-ai-powered-credit-decisioning"
+title: "InRoads Credit Union Selects Scienaptic's AI-Powered Credit Decisioning Platform"
+excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that InRoads Credit Union has chosen to implement the company's AI-powered platform to enhance its credit decisioning and underwriting capabilities for new"
+publishedDateTime: 2021-08-09T12:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-19941750.html"
+webUrl: "https://www.lelezard.com/en/news-19941750.html"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/scienapic_main-2_0.png"
-    width: 734
-    height: 400
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -34,6 +35,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "pkUbfhntNPEqWy26jyO4kPZFum8zG3AASqE7k1W9YFhYPjrmM+W7krmJhdAT/JiL2c7BX92O4xqxNuc4Y4rpCAVweONKW/rWoJdYjaVkIYsZEzhbzzIif5VB8cGXB/4mqrVCzWO96yEF31es2Fsngs+vmqEuV8YtMVINW/W+KW1N+ZZZbTU4+CDgB1wTiwSi+dSj+8tg7j3eCd9vx3u/yLrb8c8sFjTtgbSembhXdKJGSIrthWzzzByEiLDIhWGEW5EkXmmVsc9XaqnZELEG6pVOCVki0y5f+oPFoLqnTzUVCvOsFnuEd88TfvMCt2K1o4biBSTvj4wihpvvh0ietJyH9SXyUxuHnjCTtq5aRdI=;Nq0029dcMX08EEX3BPY00g=="
+secured: "QEpGzLkNv4qEfDwsE9F06ji09qcNjOdXnLfAuq/YwHKremU9HLpVceZch4rshsUXqEJbGrdNTt0Cb76CI0RDCzmbIcgZNzzoqjcnUij9RgDtt5Bgc9M/0unFTsEW0uglg/eDn59/KUODyiHs0juxPrW5uExG6x8AB1hbI6ABx5sis/XW6So6LCNgyjuVbMkqcS8vpi8/vnsTaug9GZp07U9Vb2cIMEUmuUyJnzWXgJj65qsZ8h3d3sJl4sxIN7sBVV8GYA4Jz1aALWR4Y8+6tdro5u2GvLXijZMcV+q4j0pGKjfAYsq/OxghromtdwMZFynBxsdwQaIa0nojAPYvcIDtR3fXdMJPOaYc80zZKiI=;E7ZJyFnQUFGlisLLn+097w=="
 ---
 

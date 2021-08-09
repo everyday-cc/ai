@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-
 webUrl: "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/google%20pixel%20AI%20chip.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "The Pixel 6’s Tensor chip could be a modded version of Samsung’s unreleased Exynos"
+    excerpt: "Google’s custom-built Tensor chipset could be Samsung’s unreleased Exynos 9855, according to a report by GalaxyClub"
+    publishedDateTime: 2021-08-09T15:39:00Z
+    webUrl: "https://www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675"
+    ampWebUrl: "https://www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675/amp"
+    cdnAmpWebUrl: "https://www-trustedreviews-com.cdn.ampproject.org/c/s/www.trustedreviews.com/news/the-pixel-6s-tensor-chip-could-be-a-modded-version-of-samsungs-unreleased-exynos-4156675/amp"
+    type: article
+    provider:
+      name: Trusted Reviews
+      domain: trustedreviews.com
+    quality: 53
+    images:
+      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/07/Google-Tensor-Image-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "nU0k2pflDHXPeKSpQjfyCSk88BwtO3V5TtH9p3RkvihtUTUEyWhsDQZNZfiDtkR7T8p++KD89OiqjVOGWdP0bVCcW7g40Z6FH08fgu1hNh4PJZlQuFmMnJYag/WleLcB9SjRSyMdY5QXzqmrhGetzdcJLpanF6aocshyef7wkTOpKfzf7CRg91dj9vcNzfTz7n+fvUYqd/XDtVlpYN9Hnv2AFOThv+kr15V0rIQ0M7O+k0or9prcjXJRbYz9o6vrxj+beksLH9VtAHphA5WftLzOPdxJDha3A+8BdElNsxq9c4D77wIJPz7UIJn14NmRPM2tDtmLnNddcUw7qeLAnll0Wt9IlysoT1Ry4qtQu4ExCWN4fOitxCPa6iAt4X6nS3qK7v7cqbtzeUfdomSzxjlO/s/1KVQkI9D6ArSSFTAmwiUcL616llo+qI4SDEr0l2yM9IX0C9AYwc0IRv2ws2CARMF8vCFVZWHiNvJzWpwvbh4250D/HcWnFiXfsC42S8v0ji7mN9UO0TzXhjgP+w==;tdfYU3vk00xkEdvMFXdK1g=="

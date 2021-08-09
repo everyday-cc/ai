@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/ai-in-media-top-8-thrilling-ai-ba
 webUrl: "https://www.analyticsinsight.net/ai-in-media-top-8-thrilling-ai-based-movies-on-netflix/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "Netflix or Amazon Prime: Who Uses AI and Machine Learning Better?"
+    excerpt: "Netflix and Amazon Prime Video are effectively using Al and Machine Learning, Data Science, Deep Learning, and more to transform the user experience and create significant impact for both business and customer."
+    publishedDateTime: 2021-08-09T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/netflix-or-amazon-prime-who-uses-ai-and-machine-learning-better/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Netflix-Or-Amazon-Prime-Who-Uses-AI-and-Machine-Learning-Bette.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "t1/Wpj8ouAA309gIkO5QFRRBcB5KvnFbnyOVppnCSbkxEWl0ElOb8jKnqG4t1gJplkpRAXuw8S/AUDqwO7E0yxmJ9hhws0WwOK4AC6UaJMdN1tFLEQlI9relhTk8NFaQJ2DDKzjBDyA9sYS4PO2FNOJXLR1/On5awUZoAxK+RqcPFngu6MV08CWCqKSsRuFKBmw4b3xXcR8VD3GN0Wjcig6/M4LweolsXhzzjBthX4XZbCgeAtiZ6p4v4WpupHZjTeOP0a58GVdmS/vNBIbq62s8DQmrCxWqDnvv/e55MsWmDovaU7irtJscUwwQ1mnAz0KefUmN8NDKu6uuTKCZy3nbT1P2tvVb6IZwK5R9FLG+7AgoaRbGRbVhi73Jb/Y3T/fj/U56RpGoO/dgog/kJQG35IG0UGyEhuOJdfUvEooRyuSxJKPeogbGgHM6+fsEmejcSN7O/yB9fCcieoRCuPWORqkUPGD3bEpQCoWzgrSsAQhQIdbXAzhs3+H5RZdhjKVHlaEHMy+lIdgiWcqr0w==;GJAeeyUGfhPaCSDZAbwmfg=="
 ---

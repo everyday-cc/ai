@@ -58,6 +58,29 @@ related:
         width: 450
         height: 338
         isCached: true
+  - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
+    excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
+    publishedDateTime: 2021-08-09T14:02:00Z
+    webUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 51
+  - title: "SeaChange taps AWS to power enhanced data analytics capability"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
+    publishedDateTime: 2021-08-09T14:18:00Z
+    webUrl: "https://www.lightreading.com/videomedia/seachange-taps-aws-to-power-enhanced-data-analytics-capability/d/d-id/771356"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
     excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
     publishedDateTime: 2021-08-05T19:57:00Z

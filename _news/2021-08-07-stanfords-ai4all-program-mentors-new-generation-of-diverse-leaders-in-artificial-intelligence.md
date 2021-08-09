@@ -23,6 +23,17 @@ images:
     height: 283
     isCached: true
 
+related:
+  - title: "Stanford AI spinout Snorkel AI is Silicon Valley's newest unicorn"
+    excerpt: "Snorkel AI Inc., a Palo Alto startup that hatched out of a Stanford University lab two years ago, is now valued at $1 billion after raising its third round of funding. On Monday, the company announced $85 million in new funding,"
+    publishedDateTime: 2021-08-09T14:35:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/09/snorkel-ai-is-silicon-valleys-newest-unicorn.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+
 secured: "+gpTU3+BnsxbkFnIoeE2D61lEAN0w06k5mvQb3LCdtY+XHOFNGCTKEJB+fhy9WYLCjCbY6PSFnsAJ7SL7pnwu3u7g2Exdmr2YrWogtC5jcLyBqPGMGxG84/TX/ZlunNz8KB2y/XclLZ92ZZ0a3/y8teoM39OqcQj0bHA5bOHHagV+TwYhcLuq4KkRBvSdr9h8GdBY1QwGLPQTtqPHjYszlLmGckd/HlzOfgjmCr0BLTf44QJC7Z8wlMdV3cZXMo9KBjdtffNRHVsPn300PdTvSphO2UZsN2pJRrlMY8v0eBLMtFHNnUILDauHDznlflXzEcZcGt/jeM718d998vPYSiKuUFk7Ku9SEwKBQDP0HwO6LVPy8JbGaLgdGe+b4xHCNhfRiLNSljz3i54DPQyHgPzcMKb4DuikQbiJ5I6RTMZp3GgxmMNo1gyxF7kgIdS/tg5pMrji1hfq7Z+2S5C6gYGEqP3HsVofKxJbZV9gCEk2esAMFnKyMLzUybrBpr9wN34puEBheZBWIQthCdzEQ==;v+3GYSd0jmGLV0bxKz8yig=="
 ---
 
