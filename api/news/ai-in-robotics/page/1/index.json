@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-lawn-mowing-robots-are-here-but-face-the-same-challenges-as-robot-vacuums.md",
+      "title": "Lawn mowing robots are here, but face the same challenges as robot vacuums",
+      "excerpt": "We have robots that can mow the lawn, but as much as they present us with convenience, they share the same challenges that robot vacuums faced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/",
+      "originalUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/husqvarna-automower-430xh-1-of-5.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp",
+      "publishedDateTime": "2021-08-09T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-artificial-intelligence-in-healthcare-sector-market-outlook-2021-big-things-are-happening.md",
       "title": "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening",
       "excerpt": "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report",
@@ -149,7 +201,7 @@
       "originalUrl": "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1360,49 +1412,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
-      "title": "AI-Powered Beach Cleanup Robots",
-      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
-      "sourceUrl": null,
-      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
-          "width": 800,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
-      "publishedDateTime": "2021-07-27T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TrendHunter",
-        "domain": "trendhunter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

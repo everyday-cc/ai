@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-dat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
+    excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
     excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
     publishedDateTime: 2021-08-07T12:32:00Z

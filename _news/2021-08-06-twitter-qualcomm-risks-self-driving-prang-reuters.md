@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "AI In Computer Vision system Market is Thriving Worldwide with Intel, NVIDIA, Qualcomm, Alphabet"
+    excerpt: "A report was released recently that sheds lots of light on the AI In Computer Vision system Market. The report covers an overview of the industry along with a detailed explanation that provides a lot of insight."
+    publishedDateTime: 2021-08-06T10:45:00Z
+    webUrl: "https://manometcurrent.com/ai-in-computer-vision-system-market-is-thriving-worldwide-with-intel-nvidia-qualcomm-alphabet/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 23
 
 secured: "q28IS798Z8NJDzG5ImyfpjdPS/DWeG3WQvZHpzcBaL5eIPq9GbB/v5pQYAYSlotuiXExmxnRkxxuH84tpSYTFYNLowD9I5C1iBO/RgZwOlMraPKySoM0WOwC1WhKxGzy41Ty4UTOj77NQkLn9uA84/9CeaTv++vE58Y/A4mJIxSxRMnB8ScAsDYWIvGoRYWHl83kiesSF1V8Xr+u+1kVhoGaKgV2twpbTg4iYveQCjAIjvSNS+hE8ogjVZVFBiXQSGBJK/yG6dpHSS8AxIFKkWD77x5HUcCSbxwGY64W9YjJ/HV7q22YdAwnWQrn/fKp+I1ggcwTgd+Bj0vmJbW6TFvStuzSbqzg/sQPOw/PCmE=;sFbB7s6sCAaft/+vishfPw=="
 ---

@@ -25,109 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital"
-    excerpt: "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,"
-    publishedDateTime: 2021-08-05T08:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/379426"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/379426"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426"
+  - title: "The Fallacy Of Fintech Ethics: Could Fintechs Be Less Ethical Than Banks?"
+    excerpt: "There’s a misguided notion permeating the banking industry that fintech startups are somehow more ethical than banks. They're not—and their reliance on this trope is going to backfire on fintechs."
+    publishedDateTime: 2021-08-09T20:00:00Z
+    webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 83
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610e82e7a48e440181a5a586%2F0x0.jpg"
+        width: 1200
+        height: 1003
+        isCached: true
+  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
+    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
+    publishedDateTime: 2021-08-05T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
+    excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
+    publishedDateTime: 2021-08-09T07:32:00Z
+    webUrl: "https://www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/"
+    ampWebUrl: "https://www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/amp/"
+    cdnAmpWebUrl: "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/amp/"
+    type: article
+    provider:
+      name: FINANCIAL WATCH NIGERIA
+      domain: financialwatchngr.com
+    quality: 52
+    images:
+      - url: "https://www.financialwatchngr.com/wp-content/uploads/2019/04/Access-Bank-new-brand-identity.jpg"
         width: 600
-        height: 338
+        height: 350
         isCached: true
-  - title: "Fintech startup Zeni raises $34 million from Elevation Capital, others"
-    excerpt: "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March."
-    publishedDateTime: 2021-08-06T05:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
+  - title: "Mexican SMB FinTech Credijusto Could Be Listed On NYSE This Year"
+    excerpt: "Tidjane Thiam’s SPAC is in exclusive talks with Mexican FinTech Credijusto and CIAL Dun & Bradstreet about merging the companies and listing them on the NYSE."
+    publishedDateTime: 2021-08-09T08:44:00Z
+    webUrl: "https://www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/"
+    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg"
-        width: 600
-        height: 450
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/nyse-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
-    excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
-    publishedDateTime: 2021-08-05T07:24:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others"
-    ampWebUrl: "https://m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/fintech-zeni-raises-34-mn-series-b-funding-round-led-by-elevation-capital-neeraj-arora-others/2813d9f0-14b0-4773-a7e3-97e639cd5851"
+  - title: "Sigma Software held the first-ever UK-Ukraine FinTech Summit"
+    excerpt: "Sigma Software together with our partners held the very first UK-Ukraine FinTech Summit. The event was conducted in a hybrid format in London"
+    publishedDateTime: 2021-08-05T19:15:00Z
+    webUrl: "https://www.mynewsdesk.com/sigma/pressreleases/sigma-software-held-the-first-ever-uk-ukraine-fintech-summit-3119486"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 46
-    images:
-      - url: "https://gumlet.assettype.com/freepressjournal/2021-08/ad20394a-ca10-4797-8a7e-fe0070cfdb7a/Snehal_and_Swapnil_Shinde.png"
-        width: 749
-        height: 473
-        isCached: true
-  - title: "AI-Powered Fintech Startup Zeni Raises $34m in Series B Round"
-    excerpt: "The Palo Alto and Pune-based Al-powered fintech startup Zeni has completed a Series B fundraising round and secured $34 million."
-    publishedDateTime: 2021-08-06T09:18:00Z
-    webUrl: "https://dataconomy.com/2021/08/ai-fintech-startup-zeni-raises-34m/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
     quality: 39
     images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/08/Zeni-series-B-funding.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Fintech startup Zeni raises US$34m in Series B funding"
-    excerpt: "Zeni has raised $34m in Series B funding and will use it to bring its platform and services to more customers by investing in its team in the US and India"
-    publishedDateTime: 2021-08-07T10:04:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/fintech-startup-zeni-raises-usdollar34m-series-b-funding"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1150203445.jpg.png?itok=u63hmcNZ"
+      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Zeni receives $34M in funding for AI bookkeeping"
-    excerpt: "The latest round of funding comes on top of the $13.5 million that the Palo Alto, California-based company announced in March from venture capital firms and angel investors ( see story ). The Series B funding was led by Elevation Capital,"
-    publishedDateTime: 2021-08-05T18:25:00Z
-    webUrl: "https://www.accountingtoday.com/news/zeni-receives-34m-in-funding-for-ai-bookkeeping-and-accounting"
+  - title: "Vivint Smart Home to Attend Wells Fargo FinTech & Technology Services Forum"
+    excerpt: "Vivint Smart Home, Inc. (NYSE: VVNT), a leading smart home company, today announced that it will host virtual one-on-one and group meetings with investors at the Wells Fargo 6th Annual FinTech & Technology Services Forum."
+    publishedDateTime: 2021-08-05T11:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=511701"
     type: article
     provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 22
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/99444f1/2147483647/strip/true/crop/749x393+0+40/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F61%2F55%2Fd577612e443cbdfef81ff407cc37%2Fsnehal-and-swapnil-shinde.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
-    excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"
-    publishedDateTime: 2021-08-05T12:31:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/fintech/fintech-startup-zeni-gets-usd-34-mn-from-elevation-capital-others/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 24
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Fintech-startup-Zeni-gets-USD-34-mn-from-Elevation-Capital-others-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "AUUjbeGAWaiG6YXXhUWYHipWbW1Rl3worpEp7GTm9v7jsFArq7iUsSFs47PnvPVjcXwD1OVnaOxfsK8KAJFVdUzo5yiRFjjC+7mWTdTB2DfaXV+UXEV+X5fs5hnd73PqHMgW8WFp0HlHHzZMfuyML9MEZLJbnvM56q9VpUlsFOdhb3NyFT+PQSqCSXHx2jtR6zFUOwOdn7NbAE9WA9aSPj5XDj3Jt1HzQlZzrl7GSFSTNgyM1DXkSWgnomwLPIOSxCmbPNNTxxuoyOi/GfB4sDWMHsCZRXEEx/IIE4jtM6piggucUc9f76Pmap0npnJSrTMgum/Iu3XNt5lharxkZRGkRAdChjvRKo9I9nUs+pqkvJ2qvOuX9XPSN+UtaJ++o0SpA+GuOoCYa//j/DvLn8/wpXzLOKiZBt2jG2UzubK/o7q05d94lMll8YH40e5jnfkFQ1tCya/n9AbsRBve3fyaN58hNmI50+DDAArdhfSA7aj4nIlPEFqgf53XKsyxJKNwJq1QRzqLUBGboyH2eg==;DVGf1E16Rjg9vGGoqptVBA=="

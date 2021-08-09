@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
+    excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
+    images:
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
     excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
     publishedDateTime: 2021-08-07T12:32:00Z
@@ -109,6 +125,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "eQJzF1L8ot4Z0CToRKcOv/7wV4JYdW9kCDq+tLkRFxUwHaHcvdZHNH7VO7wp1rU313tDS27KlUjA3+kGTpaQcPoTDRIZRi6pRizp+m/6ehj6QfvK8lmWWP7pdYBi2NnGbHA6DiZsFEaWGWRZ96+3JgRtccoPuyNDiug2jppy7dDDZIxtQyPiSlhBUWgSJbfbxv4cLUWlaWrw1jxZntm4hWju6U1y2UUNhR9wSK1oK8oCJfb5jchCCvecgYmtayYzCTW4M+kxzoQ06NSNl5eDAqRWQFQGgLSrvvcjm/hkuVFJS30Qtjdvk1oYyuXqiS+xBZn+dIQiwzns9+PliJPO7bjvrOssy/uoOQoWsrqYdVA=;uBT3A9fea5SiLuACm0Nkog=="
+secured: "nQh6UhZ+FYuFDgyDYTmmkRPc634gKxn23XX3UKmRZRVbkbCEzQ9GhlWGdQTFJ7NkBIeoHKhAEJgmpk17Yf/REdgeSFLBvLDq85FEj2EfI9lXDOZ05hsbLT6Ru1XU3kLLFDoC0Hu46ytiXHXd1khNpCxqaPIryfrioMPqRPNiIv8D5stVf5WSuD17omIOcUZQo7pysR7MDMoWC1pGI5xN2MPHSTXYDDtOL+O/+sbmZx+53ccn2bY1uRUqbLw+IjBu3RY3hps6yl1JqeSK2GKrUYZuG7ljkjoQZ4TjaWDFMtlEkRhICwu8utMWjk0yKLVJyl97Nl9K/Qv+u74wn4DBu+zKwxBaNpc8DvP79phCgPU48o7fLqSrv9SdYmBwtDzNwGPAXeojKH5WamfPYUrLCRISWmY6/L25lZ34lfBOW8T84esx1dJJhBXs0EwD3puIbza3/S2rgblLaZ5sYQzYqDPIL1KEmaulRGnWuKzAPXYBBtOIIKMDEg0p5ZGaqJFOgwx8D2eYU+URaLEqRssrMQ==;w/ym61gZbn1ha6vwdM3/rw=="
 ---
 

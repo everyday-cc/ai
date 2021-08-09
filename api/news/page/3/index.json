@@ -2,6 +2,297 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-06-artificial-intelligence-aids-in-discovery-of-new-prognostic-biomarkers-for-breast-cancer.md",
+      "title": "Artificial Intelligence aids in discovery of new prognostic biomarkers for breast cancer",
+      "excerpt": "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment—and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-25.jpg",
+          "width": 371,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
+      "publishedDateTime": "2021-08-06T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area.md",
+      "title": "Nvidia has absolutely trounced AMD in this vital chip area",
+      "excerpt": "Despite the competition coming in droves, Nvidia has managed to maintain its leading position in the global market for Artificial Intelligence (AI) chips used in cloud and data centers. Nvidia has also managed to maintain a large gap between itself and the rest,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/p8a2RidshtSAWMtQWPVTbe-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
+      "publishedDateTime": "2021-08-06T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-doubling-the-performance-of-visual-recognition-ai.md",
+      "title": "Doubling the performance of visual recognition AI",
+      "excerpt": "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg",
+          "width": 700,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp",
+      "publishedDateTime": "2021-08-06T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-remote-sales-startup-goodmeetingsai-raises-17-mn-funding.md",
+      "title": "Remote Sales Startup Goodmeetings.ai Raises $1.7 Mn Funding",
+      "excerpt": "The platform will use the proceeds over the next 12-18 months to build technology and scale up teams in the US",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379552",
+      "originalUrl": "https://www.entrepreneur.com/article/379552",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628258630-visual-stories-micheile-lZ-4nPFKcV8-unsplash1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379552",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379552",
+      "publishedDateTime": "2021-08-06T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
+      "title": "Schools Look for Help From AI Teacher’s Assistants",
+      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "publishedDateTime": "2021-08-06T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
+      "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
+      "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "publishedDateTime": "2021-08-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-googles-tensor-chip-could-spell-trouble-for-5g.md",
       "title": "Google's Tensor Chip Could Spell Trouble for 5G",
       "excerpt": "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G.",
@@ -492,7 +783,7 @@
       "originalUrl": "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -544,7 +835,7 @@
       "originalUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -725,6 +1016,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-qualcomm-risks-self-driving-prang.md",
+      "title": "Qualcomm risks self-driving prang",
+      "excerpt": "Qualcomm’s (QCOM.O) excitement over self-driving may be dragging it off the financial highway. The $165 billion U.S. telecommunications technology group is offering $4.6 billion for Sweden’s Veoneer (VNE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "originalUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BmEQhNR3h6WvY4rl0XesUwQsE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-googles-overhauled-nest-cams-are-smarter-and-easier-to-use-without-a-subscription.md",
       "title": "Google's Overhauled Nest Cams Are Smarter and Easier to Use Without a Subscription",
       "excerpt": "We’ve been waiting quite awhile for Google to refresh its lineup of security cameras, and today’s the day.: Google However, if you’re looking for something more multi-functional, there’s the new battery-powered indoor/outdoor Nest Cam.",
@@ -877,351 +1220,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-neural-network-model-shows-why-people-with-autism-read-facial-expressions-differently.md",
-      "title": "Neural network model shows why people with autism read facial expressions differently",
-      "excerpt": "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/neural-network-model-s.jpg",
-          "width": 645,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp",
-      "publishedDateTime": "2021-08-05T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-knowles-releases-ai-enabled-tws-development-kit-with-premium-features.md",
-      "title": "Knowles Releases AI-Enabled TWS Development Kit with Premium Features",
-      "excerpt": "New TWS development kit shortens design cycle for OEMs and accelerates timeline to bring TWS products with advanced features to market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "originalUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twice.com/wp-content/uploads/2021/08/TWS-Development-Kit.png",
-          "width": 986,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "cdnAmpWebUrl": "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp",
-      "publishedDateTime": "2021-08-05T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Twice",
-        "domain": "twice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-value-of-natural-language-processing-it-makes-ai-more-human-centric.md",
-      "title": "The value of natural language processing? It makes AI more human centric",
-      "excerpt": "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
-      "originalUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/08/05/f43bbead-a2f2-472c-8962-525e94578436/thumbnail/770x578/b95304a4c6c78c6fa8479dc2d810e8a0/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-customer-engagement-analytics-startup-retainai-nabs-23m.md",
-      "title": "Customer engagement analytics startup Retain.ai nabs $23M",
-      "excerpt": "Retain.ai, a startup developing software that helps enterprises surface customer engagement data, raised $23 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/employee.computer.GettyImages-1278403699-e1626807571578.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/",
-      "publishedDateTime": "2021-08-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
-      "title": "HeyRenee is the next home healthcare startup for Heal founders",
-      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
-      "publishedDateTime": "2021-08-05T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-google-pixel-6-to-sport-5nm-tensor-chips-made-by-samsung-report.md",
-      "title": "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report",
-      "excerpt": "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
-      "originalUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg",
-          "width": 453,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-fintech-zeni-announces-34-mn-series-b-led-by-elevation-capital.md",
-      "title": "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital",
-      "excerpt": "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379426",
-      "originalUrl": "https://www.entrepreneur.com/article/379426",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379426",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426",
-      "publishedDateTime": "2021-08-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

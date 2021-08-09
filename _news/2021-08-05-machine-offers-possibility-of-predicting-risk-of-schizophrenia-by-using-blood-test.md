@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Algorithm Predicts Schizophrenia Risk"
-    excerpt: "By looking at specific parts of the human genome, researchers are developing a machine learning algorithm to determine an individual's risk of schizophrenia through epigenetic markers."
-    publishedDateTime: 2021-08-05T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-algorithm-predicts-schizophrenia-risk"
+  - title: "Accurately predicting future sales at Clearly using Amazon Forecast"
+    excerpt: "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thoreux, Web Analyst at Clearly. A pioneer in online shopping, Clearly launched their first site in 2000. Since then, they’ve grown to become one of the biggest online eyewear retailers in the world, providing customers across"
+    publishedDateTime: 2021-08-09T21:10:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-1092965070.jpg"
-        width: 690
-        height: 400
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/image001-850x630.png"
+        width: 850
+        height: 630
         isCached: true
 
 secured: "TLfWnlPIAU1qlZoHv3ZjRIFdqhPtfEAfi+dmx+PgaawZzg/cSfAtEaCFLllhUJjLfru8WN6PwCH8UNiF/Xj91/B9tbabvEk9IZGTGUsmOi+eA7jqzPlsWNGsVXaKA648zlbzT1h8BxEd/8f8NmOr9x8GaXltGIOAXm53y6AqbGGTXfuW3QkKBaEPKNn+CwMwXABMxUB/M3IRnpz+m3KPRKnJk//VMbDKeKWGkZ4nZxioquQaqk1y4UOZzaMVYmIG1vWxqoqgZ2W8VWGvYlOV+TaOp66osN0f/79YIa0GvOaRnYnAQaa77JgfuKMdSRefIuN6ujMtYywfH2RfC2oYrv7P22uZzhYHOBh63AdkNvY=;WwDfqytbk7gwpickLNX5Rg=="

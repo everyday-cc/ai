@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-09-aws-rekognition-adds-four-new-types-of-segments.md",
-      "title": "AWS Rekognition adds four new types of segments",
-      "excerpt": "Amazon Web Services has added an additional four segments to its Amazon Rekognition video segment detection software. The API enables media customers to automatically detect frame accurate end credits,",
+      "path": "_news/2021-08-09-chinas-top-court-specifies-rules-for-facial-recognition.md",
+      "title": "China's top court specifies rules for facial recognition",
+      "excerpt": "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
-      "originalUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
+      "webUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "originalUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/07/AWS.jpg",
-          "width": 950,
-          "height": 534,
+          "url": "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "publishedDateTime": "2021-08-09T01:07:00-07:00",
+      "ampWebUrl": "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "cdnAmpWebUrl": "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "publishedDateTime": "2021-08-09T01:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
+        "name": "Новости Украины",
+        "domain": "ukranews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {

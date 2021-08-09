@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-08-ai-international-scientific.html"
 ampWebUrl: "https://techxplore.com/news/2021-08-ai-international-scientific.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-international-scientific.amp"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1897
     isCached: true
 
-secured: "A8bdOtUA/D7LWqnfOdvk/1csg28XwO9cVzoeIwR/pi4Fbz811w0FXBoIwocaaDmJag3BCvYTZR3qYqhoT9x6/RItvW1mdNIhmPJLqIv7NP8IQadTjObIRZ7cfE39GdshI2vwPbxPpuNCp475PWBckcM5/ThFQUAeIDVSDZy0/BBcBlg9Twca3vt1M3pv8vm3Yw21/nlzh5KdImsHwjdpk3MBvmNUEmxKb74MNyb12pAtIKJcbIu5Bbw8vK81XdvFru0UF7jY4yHtC4l9BudI96/BrGMPOcEt04iU//GGYHmaDHuJ8tkP3Ee/9AFykDW0jAXqyfC4onM4xuc4Tpu2MwXA4yJbHd7tIL0357grfB0=;LeX6w5SkEYbJlVBSQohlJA=="
+secured: "GNLd1b/VCAC1oy7EqBD2sYZfjrt7pEcWnzMSJpVLjd3ji0kJWWElD4RqfmMm07PDN1yKSkzIXiwC49NZmFRNlhFlUAj3TYdVm7bNgzLh6pEZFL3ZJtbflES2chRBG6gK31ZGpTO90e+BUvVxWzYARaQr7ClI4Rvrj3FxFitmD/hP0Fec0BNiqSWBjRx402I5Q/6en22I5XIhgmV1oWeqOQBqlwwFKYbkGYB3krwmEl5KlcEg++yClYoztI4p+XOuVx+f0xUJQashlFRsk3YCRAmZT3yUgTDLMPJpMxNGkYA+EavGD5LO3KXRvcR6wqTGOGnZqgLmdcM/jGLrPtxHiwK4dNu0hh8YAEB9BNq83xJGLkpvxj8NFhAajsZs+RxhiLJ5juvL0MNI2xa107epVinFmD+Vqz8hWfWSOJjsJ3mW1/u1tPnb52fgZ3LbBN3I6cUEafDLO4AZTgJeOVzJ9FUE8rbIff/t2B4iWVeKw3PARm5cbW3InoA2jiIDzggzEJQfNihQJxVZsVsd1HVNZQ==;XVZeyyqOqPV2XdaZeUW4vg=="
 ---
 

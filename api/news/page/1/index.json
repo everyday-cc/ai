@@ -2,6 +2,318 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise.md",
+      "title": "Deepbrain boosts AI-powered virtual avatars with $44M raise",
+      "excerpt": "Deepbrain, a company developing a platform to create 'virtual humans' using AI technologies, has raised $44 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
+      "publishedDateTime": "2021-08-09T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-lawn-mowing-robots-are-here-but-face-the-same-challenges-as-robot-vacuums.md",
+      "title": "Lawn mowing robots are here, but face the same challenges as robot vacuums",
+      "excerpt": "We have robots that can mow the lawn, but as much as they present us with convenience, they share the same challenges that robot vacuums faced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/",
+      "originalUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/husqvarna-automower-430xh-1-of-5.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp",
+      "publishedDateTime": "2021-08-09T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-accurately-predicting-future-sales-at-clearly-using-amazon-forecast.md",
+      "title": "Accurately predicting future sales at Clearly using Amazon Forecast",
+      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thoreux, Web Analyst at Clearly. A pioneer in online shopping, Clearly launched their first site in 2000. Since then, they’ve grown to become one of the biggest online eyewear retailers in the world, providing customers across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/image001-850x630.png",
+          "width": 850,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T14:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-supply-chain-aia-food-additive-that-wont-harm-our-health.md",
+      "title": "Supply Chain AI—A Food Additive That Won’t Harm Our Health",
+      "excerpt": "From intelligent fridges to footfall figures, food and beverage companies are using AI to develop, produce, and deliver the products customers want—and it’s helping them do it more sustainably, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
+      "originalUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61119153e2a91c164f29e63c%2F0x0.jpg",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtmueller/2021/08/09/supply-chain-ai-a-food-additive-that-wont-harm-our-health/amp/",
+      "publishedDateTime": "2021-08-09T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
+      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
+          "width": 800,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:07:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks.md",
+      "title": "The Fallacy Of Fintech Ethics: Could Fintechs Be Less Ethical Than Banks?",
+      "excerpt": "There’s a misguided notion permeating the banking industry that fintech startups are somehow more ethical than banks. They're not—and their reliance on this trope is going to backfire on fintechs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
+      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610e82e7a48e440181a5a586%2F0x0.jpg",
+          "width": 1200,
+          "height": 1003,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-ais-real-effect-on-jobs-its-complicated.md",
       "title": "AI’s real effect on jobs? It’s complicated",
       "excerpt": "This article is part of a VB special issue. Read the full series: Automation and jobs in the new normal. To some, AI is a job killer. To others, it is a job enhancer. But like every other form of labor development since the first farmer hitched an ox to a plow and displaced a",
@@ -205,7 +517,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-artificial-neural-networks-real-brains.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -836,21 +1148,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-09-aws-rekognition-adds-four-new-types-of-segments.md",
-      "title": "AWS Rekognition adds four new types of segments",
-      "excerpt": "Amazon Web Services has added an additional four segments to its Amazon Rekognition video segment detection software. The API enables media customers to automatically detect frame accurate end credits,",
+      "path": "_news/2021-08-09-chinas-top-court-specifies-rules-for-facial-recognition.md",
+      "title": "China's top court specifies rules for facial recognition",
+      "excerpt": "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve",
       "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
-      "originalUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
+      "webUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "originalUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/07/AWS.jpg",
-          "width": 950,
-          "height": 534,
+          "url": "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg",
+          "width": 1280,
+          "height": 670,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -858,13 +1170,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "publishedDateTime": "2021-08-09T01:07:00-07:00",
+      "ampWebUrl": "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "cdnAmpWebUrl": "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "publishedDateTime": "2021-08-09T01:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
+        "name": "Новости Украины",
+        "domain": "ukranews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -874,9 +1186,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -888,7 +1199,7 @@
       "originalUrl": "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -929,307 +1240,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-poll-do-you-use-your-phone-cameras-ai-mode.md",
-      "title": "Poll: Do you use your phone camera's AI mode?",
-      "excerpt": "Plenty of phones still offer an AI mode in their camera apps, but is this something you actually use? Let us know via our featured poll!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-2731125/",
-      "originalUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-2731125/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-2731125/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-2731125/",
-      "publishedDateTime": "2021-08-08T23:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-samsungs-new-robot-vacuum-uses-lidar-and-ai-to-avoid-obstacles-priced-at-rm4999.md",
-      "title": "Samsung’s new robot vacuum uses LiDAR and AI to avoid obstacles, priced at RM4,999",
-      "excerpt": "Samsung Malaysia just released its new robot vacuum, the Samsung Jet Bot AI+. It claims to be the first vacuum that uses AI and object recognition to navigate through your home. The Jet Bot AI+ uses a LiDAR sensor,",
-      "sourceUrl": null,
-      "webUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
-      "originalUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnen.soyacincau.com/2021/07/210729-Samsung-Jet-Bot-AI-vacuum-hero.jpg",
-          "width": 900,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
-      "cdnAmpWebUrl": "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
-      "publishedDateTime": "2021-08-08T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SoyaCincau",
-        "domain": "soyacincau.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-to-create-agi-we-need-a-new-theory-of-intelligence.md",
-      "title": "To create AGI, we need a new theory of intelligence",
-      "excerpt": "For decades, Artificial General Intelligence, computers that can think and act like humans, has continued to elude scientists and researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/robot-2301646-e1628227212251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/to-create-agi-we-need-a-new-theory-of-intelligence/amp/",
-      "publishedDateTime": "2021-08-08T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-voice-ai-technology-is-more-advanced-than-you-might-think.md",
-      "title": "Voice AI Technology Is More Advanced Than You Might Think",
-      "excerpt": "The average person has yet to interact with the next generation of voice AI tools, but what this technology is capable of has the potential to change the world as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61103c5cfe089cdecf419c52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5158%26cropY1%3D262%26cropY2%3D3163",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
-      "publishedDateTime": "2021-08-08T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out.md",
-      "title": "AI bias is prevalent but preventable — here’s how to root it out",
-      "excerpt": "A number of framework and toolkit resources are available to help you identify and mitigate bias in your AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
-      "originalUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
-      "publishedDateTime": "2021-08-08T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-what-to-expect-from-teslas-ai-day-scheduled-for-aug-19.md",
-      "title": "What to Expect From Tesla's AI Day Scheduled for Aug. 19",
-      "excerpt": "Tesla, Inc. (NASDAQ: TSLA) is scheduled to host its AI Day Aug.19, and the EV maker began sending invites for the event last week.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-to-expect-from-tesla-s-ai-day-scheduled-for-aug-19-1030704372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-08T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

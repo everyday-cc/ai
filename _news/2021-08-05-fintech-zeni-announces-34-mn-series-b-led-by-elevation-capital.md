@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/379426"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/99444f1/2147483647/strip/true/crop/749x393+0+40/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F61%2F55%2Fd577612e443cbdfef81ff407cc37%2Fsnehal-and-swapnil-shinde.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Elevation leads Series B funding in fintech platform Zeni"
-    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
-    publishedDateTime: 2021-08-05T07:16:00Z
-    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
-        width: 810
-        height: 506
         isCached: true
   - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
     excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"

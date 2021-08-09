@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-21-5-robotics-and-automation-stocks-to-supercharge-your-portfolio.md",
+      "title": "5 robotics and automation stocks to supercharge your portfolio",
+      "excerpt": "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
+      "originalUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
+      "cdnAmpWebUrl": "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
+      "publishedDateTime": "2021-07-20T19:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rask Media",
+        "domain": "raskmedia.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025.md",
       "title": "Global Artificial Intelligence Chip Market Trends, Share, Size, Growth, Opportunity and Forecasts by 2025",
       "excerpt": "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,",
@@ -1349,50 +1392,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research.md",
-      "title": "TMU Moradabad collaborates with NVIDIA to establish a Centre of Excellence for AI Research",
-      "excerpt": "Moradabad, and NVIDIA Corporation have signed on a collaborative memorandum to bring artificial intelligence (AI) and deep learning (DL) to a new generation of students and developers. In order to achieve this joint goal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "originalUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/14/full/1626265701-561.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "publishedDateTime": "2021-07-14T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

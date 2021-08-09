@@ -25,63 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology isn’t wholly accurate at reading Indian faces, find researchers"
-    excerpt: "A research paper audited four software tools and found they failed far more in identifying Indian women than Indian men."
-    publishedDateTime: 2021-08-05T06:00:00Z
-    webUrl: "https://scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    ampWebUrl: "https://amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
+    publishedDateTime: 2021-08-09T08:58:00Z
+    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
     type: article
     provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 48
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 59
     images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/162310-oggrgqfjba-1627905189.jpg"
-        width: 600
-        height: 315
+      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "China's top court issues regulations on facial recognition technology"
-    excerpt: "New rules on facial recognition technology are coming into effect in China, with the Supreme People's Court specifying a set of regulations that will better protect the data of citizens. The measures follow rising consumer concern over infringements."
-    publishedDateTime: 2021-08-05T03:17:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-05/China-s-top-court-issues-regulations-on-facial-recognition-technology-12tcCltGTYY/index.html"
+  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
+    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
+    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
     type: article
     provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 40
     images:
-      - url: "https://video.cgtn.com/news/2021-08-05/China-s-top-court-issues-regulations-on-facial-recognition-technology-12tcCltGTYY/video/fa876ad6b7e74d3bb79e738e07beee1f/fa876ad6b7e74d3bb79e738e07beee1f-750.jpg"
-        width: 750
-        height: 422
+      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 424
         isCached: true
-  - title: "India trials biometric boarding; new study evaluates facial recognition accuracy for Indian faces"
-    excerpt: "Six Indian airports are trialing facial recognition for biometric boarding. A new study evaluates facial recognition accuracy on Indian faces."
-    publishedDateTime: 2021-08-06T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202108/india-trials-biometric-boarding-new-study-evaluates-facial-recognition-accuracy-for-indian-faces"
+  - title: "Facial recognition plans for millions of Indian examination candidates"
+    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
+    publishedDateTime: 2021-08-05T17:14:00Z
+    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 26
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-  - title: "Josh collaborates with D-ID to bring facial animation tech to India’s short-video app users"
-    excerpt: "Milestone partnership marks the most powerful use yet of AI and synthetic media by a short-video app BENGALURU, India and TEL AVIV, Israel, Aug. 6, 2021 /PRNewswire/ -- India’s fastest growing and most-engaged short-video app,"
-    publishedDateTime: 2021-08-06T11:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-4cbe79d6a445186e45966269a26d9680"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
 
 secured: "XpvIVHPuS5MDJHLycf/SE1cZ6NO+guf2HMlSKgvrZ5wSzLt+nvncmFzl3itZN6+tsluhcKRWc0ZK9sooE54BQBSKdziliJe5Sly6buWle3HOjRc6Pi/s9LbeK4H/C2iiDY0vfWDmjJNiBAd2nLINlxGt8H3bN/R2xauaKqau4n0n91+hDawUe12vw8EjhtmjL2cF43ebxejEv5sMe4gCVQbeOeZhMv6+FUQnViQBfwzmvSbvFB6d+U581vsICQg1NBfyBtXNkTlsGBYCAGEEnh9GmXP1Z4SDBWIjaMbj0VBmRe1SBrNInbWdKHOqyMAp4jZ6YDwXKrbvWU293dekY+RKThzXcvAXpMloDVDDgVc=;CUNPgbonnuOrYeZVUl2LOQ=="

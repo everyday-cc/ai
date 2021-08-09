@@ -101,20 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elevation leads Series B funding in fintech platform Zeni"
-    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
-    publishedDateTime: 2021-08-05T07:16:00Z
-    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
     excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"
     publishedDateTime: 2021-08-05T12:31:00Z

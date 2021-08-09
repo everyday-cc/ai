@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition of students taking JEE, NEET soon? Experts flag risks"
-    excerpt: "The National Testing Agency, which conducts several exams including the Joint Entrance Examination (Main) as well as Advanced, and the National Eligibility cum Entrance Test (NEET), has floated a tender for facial recognition and fingerprint verification to verify a candidateâ€™s identity on a real-time basis."
-    publishedDateTime: 2021-08-05T04:26:00Z
-    webUrl: "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465"
-    ampWebUrl: "https://www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/facial-recognition-students-taking-jee-neet-soon-experts-flag-risks-153465?amp"
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
+    publishedDateTime: 2021-08-09T08:58:00Z
+    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 58
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 59
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Exams-covid-1200-pti_0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
+    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
+    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 40
+    images:
+      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 424
+        isCached: true
+  - title: "A republic and Indigenous recognition"
+    excerpt: "With minimal changes to the Constitution, Australia can become a republic and recognise the truth that our indigenous peoples were the first occupants of this land. The time for us to become a republic is long overdue."
+    publishedDateTime: 2021-08-05T18:53:00Z
+    webUrl: "https://johnmenadue.com/a-republic-and-indigenous-recognition/"
+    type: article
+    provider:
+      name: johnmenadue.com
+      domain: johnmenadue.com
+    quality: 24
+    images:
+      - url: "https://johnmenadue.com/wp-content/uploads/2021/07/04DBD2E1-0AB9-4A39-98E7-213A3AC746A4.jpeg"
+        width: 1500
+        height: 1125
         isCached: true
 
 secured: "hGrcPYtrEhOwa7w40aN9eAfcKwx8yd0nBWW2r+4rFqn00lLa/wYkLU5jkaV6iWFinukxtA7MrRbIosGTXUXJ1VtF1/cFTVnpbQeXW/z7jyvOeCt1zVmpOwFz2VdBi1VVwhg0rtaYTi5Iq/S575e6jyCn1csNp6+Jjy6Je59wHRi+Iwl1UEyzQih94oGs6bc75ZYsqujrpc4y1Lkr0pFJir5xAXCYfuecEp83yid91dv2YE6vwrmtgjlTJ0+XvgRqRUvN9Hw6lH4ALQevBz+JVtNEogKSRHMC3T9IQnwCVxIhqp9/BNXIVhI2sCzqK6BJWb3/y6lKCR9SHbH5MWpTpl+qg128kSZRpS59dd/OcFdiW38wArEBDh6aP/z3zkvvz/xSecAy4XewQHpgkc8ri25rK45yQ8dZLS3k13E/+TOuBME5OxEUG0l1aJuZTz+tvkbj0ipbWuyHrio9C8VfE5fofPuQyW/6rrPmlaMtiLQwOiq/XqHM80pOsYGCjJsrGIvBK+EsfOva4YSaWpT7lg==;2/kHggITQM6hgOuETfqG8A=="

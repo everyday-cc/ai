@@ -41,34 +41,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "China's top court issues regulations on facial recognition technology"
-    excerpt: "New rules on facial recognition technology are coming into effect in China, with the Supreme People's Court specifying a set of regulations that will better protect the data of citizens. The measures follow rising consumer concern over infringements."
-    publishedDateTime: 2021-08-05T03:17:00Z
-    webUrl: "https://news.cgtn.com/news/2021-08-05/China-s-top-court-issues-regulations-on-facial-recognition-technology-12tcCltGTYY/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://video.cgtn.com/news/2021-08-05/China-s-top-court-issues-regulations-on-facial-recognition-technology-12tcCltGTYY/video/fa876ad6b7e74d3bb79e738e07beee1f/fa876ad6b7e74d3bb79e738e07beee1f-750.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "A republic and Indigenous recognition"
-    excerpt: "With minimal changes to the Constitution, Australia can become a republic and recognise the truth that our indigenous peoples were the first occupants of this land. The time for us to become a republic is long overdue."
-    publishedDateTime: 2021-08-05T18:53:00Z
-    webUrl: "https://johnmenadue.com/a-republic-and-indigenous-recognition/"
-    type: article
-    provider:
-      name: johnmenadue.com
-      domain: johnmenadue.com
-    quality: 24
-    images:
-      - url: "https://johnmenadue.com/wp-content/uploads/2021/07/04DBD2E1-0AB9-4A39-98E7-213A3AC746A4.jpeg"
-        width: 1500
-        height: 1125
-        isCached: true
   - title: "Josh collaborates with D-ID to bring facial animation tech to India’s short-video app users"
     excerpt: "Milestone partnership marks the most powerful use yet of AI and synthetic media by a short-video app BENGALURU, India and TEL AVIV, Israel, Aug. 6, 2021 /PRNewswire/ -- India’s fastest growing and most-engaged short-video app,"
     publishedDateTime: 2021-08-06T11:02:00Z

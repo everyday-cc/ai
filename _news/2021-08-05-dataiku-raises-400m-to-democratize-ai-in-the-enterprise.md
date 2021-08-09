@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratiz
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/dataiku-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "AI And Machine Learning Company Dataiku Raises $400M"
+    excerpt: "Data science, AI and machine learning platform developer Dataiku raised $400 million in Series E funding, pushing its valuation to $4.6 billion."
+    publishedDateTime: 2021-08-09T21:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-company-dataiku-raises-400m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 1300
+        height: 1300
         isCached: true
   - title: "Dataiku Raises $400M at a $4.6B Valuation to Enable Everyday AI in the Enterprise"
     excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"

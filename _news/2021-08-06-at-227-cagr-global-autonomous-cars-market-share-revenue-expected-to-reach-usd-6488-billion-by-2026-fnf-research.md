@@ -57,6 +57,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "At 18.1% CAGR, Facial Recognition Market Size Expected to Reach USD 11604.5 Million by 2027 Says Brandessence Market Research"
+    excerpt: "The COVID-19 pandemic has shown a positive impact on the growth of facial recognition market. During COVID-19 pandemic, growing concern"
+    publishedDateTime: 2021-08-09T21:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/at-18-1-cagr-facial-recognition-market-size-expected-to-reach-usd-11604-5-million-by-2027-says-brandessence-market-research-823464483.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 14
+    images:
+      - url: "https://mma.prnewswire.com/media/1392316/BEMR_Logo.jpg?p=facebook"
+        width: 1020
+        height: 534
+        isCached: true
 
 secured: "YgPOBsYEaVKMTzrsNj2b6o53EPUtX70E/RkCwYwvWhtdSKHLWHiOI1qDyQlsXMeJ4UpWannUoJdSLmXCH32NJ/0IoWp3B8kDhzXmAVcPRfDL2/ajF9vOd4EcokeL0p01SmgkU2nuBj6xK1iTsQsAITVC4Tv9xHVENOp6wd4BcfCI/NJZJPRHEaTc+iN+40HMJ6ldqY3ZWE4inUuRJSwfsXCcUKAPLotvDFKP/QV7FRuLRKaHBM/vpR2Qw2rEoX/uDii0JJTVGCDmZht+fpq9Iizg4Bk+0hw6bYKcx7dSIjZofN7vtGsfAnxxVv6dqzuNnZKBKWU0kP7kpvxbgj9e0KSq3NSUFb2wkxuRaaZwXO4=;qXeOBSmA8EkulUoOPLCmMQ=="
 ---

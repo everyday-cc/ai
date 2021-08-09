@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
     quality: 58
     images:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
         width: 900
         height: 500
         isCached: true

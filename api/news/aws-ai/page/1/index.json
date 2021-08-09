@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-accurately-predicting-future-sales-at-clearly-using-amazon-forecast.md",
+      "title": "Accurately predicting future sales at Clearly using Amazon Forecast",
+      "excerpt": "This post was cowritten by Ziv Pollak, Machine Learning Team Lead, and Alex Thoreux, Web Analyst at Clearly. A pioneer in online shopping, Clearly launched their first site in 2000. Since then, they’ve grown to become one of the biggest online eyewear retailers in the world, providing customers across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/image001-850x630.png",
+          "width": 850,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T14:10:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition.md",
+      "title": "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition",
+      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png",
+          "width": 800,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T13:07:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
       "title": "RBL Bank selects AWS to accelerate AI efforts",
       "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
@@ -43,50 +149,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-aws-rekognition-adds-four-new-types-of-segments.md",
-      "title": "AWS Rekognition adds four new types of segments",
-      "excerpt": "Amazon Web Services has added an additional four segments to its Amazon Rekognition video segment detection software. The API enables media customers to automatically detect frame accurate end credits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
-      "originalUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/07/AWS.jpg",
-          "width": 950,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp",
-      "publishedDateTime": "2021-08-09T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1397,49 +1459,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-move-to-data-now-thats-the-next-big-paradigm-mai-lan-bukovec-aws.md",
-      "title": "Move to Data – Now. That’s the next big paradigm: Mai-Lan Bukovec, AWS",
-      "excerpt": "How about having a storage area that is less of a dank-creepy basement and more of a colorful modular wardrobe? Here is all you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
-      "originalUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Mai-Lan-Bukovec1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
-      "publishedDateTime": "2021-07-21T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Announcing model improvements and lower annotation limits for Amazon Comprehend custom entity recognition"
+    excerpt: "Amazon Comprehend is a natural language processing (NLP) service that provides APIs to extract key phrases, contextual entities, events, sentiment from unstructured text, and more. Entities refer to things in your document such as people, places, organizations, credit card numbers, and so on. But what"
+    publishedDateTime: 2021-08-09T20:07:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/09/1-4900-counts_rev1.png"
+        width: 800
+        height: 566
+        isCached: true
   - title: "AWS Rekognition adds four new types of segments"
     excerpt: "Amazon Web Services has added an additional four segments to its Amazon Rekognition video segment detection software. The API enables media customers to automatically detect frame accurate end credits,"
     publishedDateTime: 2021-08-09T08:07:00Z
@@ -43,22 +57,6 @@ related:
         width: 950
         height: 534
         isCached: true
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
-    publishedDateTime: 2021-08-09T08:58:00Z
-    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    type: article
-    provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 59
-    images:
-      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Amazon Rekognition adds new features"
     excerpt: "Amazon Rekognition video segment detection has added support for four new segments, opening and end credits, slates, studio logos, and content. Launched last year, Rekognition uses machine learning to automatically detect frame accurate end credits,"
     publishedDateTime: 2021-08-09T09:52:00Z
@@ -72,22 +70,6 @@ related:
       - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/6/6/1351566_endcredits_588815.png"
         width: 715
         height: 398
-        isCached: true
-  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
-    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
-    publishedDateTime: 2021-08-09T17:30:00Z
-    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
-    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 40
-    images:
-      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 424
         isCached: true
 
 secured: "l1EC/MvK3gZmQC5pZIKqMDEFEqojis0coksm+76Xfmk8fjhmV62nLcXbkHHet2eBh3wFJ0RVFZ3T62hWmVFDNe623kkCkgJGEnncrkvJ8brHJ7AhZgI2JZI3EWw3S+IURj4l8LpsTwcPavsp2n13BxTLO4Ubn14UGRAHccF4gk6zk41T13Jp00mDZTsP3D8mtqtcgm2OuQcmQb+lXOAtvmVnfCUsiLwXVFLv84byovL7Gs7iuTtmErfoK1zlczsNtNhfJv0CuNQx2maRVRkuF8kkO/LBed/tJxJMDhNxe00f38X9B4/me8TBR9hioQbn4J8ENEHmMP+vNW6dRTnG7i4Hq9LZp9VTJOwJuDm72UU=;tvpa9MpY49UqHHs5QCuD4Q=="

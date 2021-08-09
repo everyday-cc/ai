@@ -670,6 +670,58 @@
       ]
     },
     {
+      "path": "_news/2021-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-basis.md",
+      "title": "Google acquires PittPatt, wants to know you on a face-to-face basis",
+      "excerpt": "Founded by a trio of PhD's from Carnegie Mellon University, this three-man strong outfit specializes in the sort of object recognition software you've come to know as \"tagging.\" Is this a reversal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
+      "originalUrl": "https://www.engadget.com/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/4NFoGsW4IuYsBjIObnF6uA--~B/aD0yOTc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/07/pittpatt-google.jpg",
+          "width": 600,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-07-23-google-acquires-pittpatt-wants-to-know-you-on-a-face-to-face-ba.html",
+      "publishedDateTime": "2021-07-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-study-gene-therapy-may-protect-against-vision-loss-from-glaucoma-diabetes.md",
       "title": "Study: Gene therapy may protect against vision loss from glaucoma, diabetes",
       "excerpt": "A new form of gene therapy may help prevent vision loss caused by diabetic retinopathy and glaucoma, according to a study published Thursday by the journal Cell.",
@@ -1381,49 +1433,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
-      "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
-      "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
-      "sourceUrl": null,
-      "webUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.html",
-      "originalUrl": "https://www.campussafetymagazine.com/news/maine-enacts-toughest-facial-recognition-ban-in-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/cfdef433-ca60-4077-8748-01acfcc00e80.jpeg?width=780&height=520&rect=3500x2333&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2021/07/maine-facial-recognition-government-use-law.amp",
-      "publishedDateTime": "2021-07-16T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

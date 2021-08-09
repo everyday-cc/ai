@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-26-role-of-artificial-intelligence-and-machine-learning-in-speech-recognition.md",
+      "title": "Role of Artificial Intelligence and Machine Learning in Speech Recognition",
+      "excerpt": "Initially, AI was only about memorizing data and producing results accordingly; however, now it is much more than that as machines perform various activities like Speech Recognition, Object ...",
+      "sourceUrl": null,
+      "webUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "originalUrl": "https://signalscv.com/2021/07/role-of-artificial-intelligence-and-machine-learning-in-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Santa Clarita Signal",
+        "domain": "signalscv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-alina-allen-on-the-natural-history-of-lean-nafld.md",
       "title": "Alina Allen on the Natural History of 'Lean' NAFLD",
       "excerpt": "With little known about how different BMI categories impact disease and survival, Alina M. Allen, MD, and colleagues at the Mayo Clinic in Rochester, Minnesota, conducted a population-based study to compare the natural history of lean,",
@@ -1389,59 +1434,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does.md",
-      "title": "Feeding the machine: We give an AI some headlines and see what it does",
-      "excerpt": "Initially, I saw two possible approaches to training an algorithm to get a probability of any given headline's success: Binary classification: We simply determine what the probability is of the headline falling into the \"win\" or \"lose\" column based on previous winners and losers.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
-      "originalUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

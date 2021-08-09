@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-16-these-cool-robots-can-sing-happy-birthday-and-even-paint-your-nails.md",
+      "title": "These cool robots can sing ‘Happy Birthday’ and even paint your nails",
+      "excerpt": "From sexual companions to COVID-19 nurses, robots are increasingly dominating the human experience. They’re rolling into our everyday lives as digital sidekicks designed to more safely, efficiently and speedily take on our tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
+      "originalUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/06/robot_web.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/06/16/robots-are-now-everywhere-from-hotels-to-hospitals-to-salons/amp/",
+      "publishedDateTime": "2021-06-16T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone.md",
       "title": "Self-driving trucks startup Kodiak Robotics snags investment, partnership from Bridgestone",
       "excerpt": "Tire-making giant Bridgestone has taken a minority stake in Kodiak Robotics, the Silicon Valley-based startup developing autonomous trucks, as part of a broader partnership to test and develop smart tire technology.",
