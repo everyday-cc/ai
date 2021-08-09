@@ -53,20 +53,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 51
-  - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
-    excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."
-    publishedDateTime: 2021-08-05T00:05:00Z
-    webUrl: "https://siliconangle.com/2021/08/04/amazon-transcribe-call-analytics-provides-intelligence-customer-service-calls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/call-telephone-communication-phone-conversation-concept.jpg"
-        width: 2000
-        height: 1421
-        isCached: true
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z

@@ -39,20 +39,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Snorkel AI Raises $85 Million at $1 Billion Valuation for Data-Centric AI"
-    excerpt: "Snorkel AI, a data-centric AI platform company powered by programmatic data labeling, today announced $85 million in Series C funding, bringing the total funding raised to $135 million.  Snorkel AI is now valued at $1 billion,"
-    publishedDateTime: 2021-08-09T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-4ea821239bb03f6a609366fb92c6a168"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "p3+yskQ0QHE4+m3H93eDZnabBiVYRs4EuJ9pDL9zkZlmJ1KPot/A3GboIowT5pLvihO8PnWNvud+rdDuipjhvp9eLvvNRDn7MBt3ypOH1F0nWCOs7qUPj/ZK79ZFI7gbI2iplHV9ErIQsw93Jlfo6sSSF+QpD5O+2Aewg4KehXsdwR/GTGWtLUI9ZKNSmjhpNu2ma6ZP2ngCtYc4zVt0JZv1JYJOyk61pZtgLNQUYz6418AkBMo273zOdVJhZsDJ76OOn0wyClyrcmdema3Im/g1tp4JUTjl2AP090WzZkX0kzxQwNlV04vEolT61iZVM4cfo3dXRVm4RV+y/83mAk3IpYKo8KI9MW7JHG18SCCm39KrcSn/Hb1yPQOUAHan0sntr2aJqk3OFo0d2G76C2qCZYRFJjIh7DP68ZAq6yTa4WKkyBAMNHqMmAgRMKL6+wfrIv6EfSuQQzlRhwUAvBBkgPO0kdCKaHZMbDhPY46DrVmgSEsfOADdrHkJzn/niyccq6nbuIZQtfs2E3aVkw==;bjFrSK2IY/gJWbTxdA35PQ=="
 ---

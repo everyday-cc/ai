@@ -2,6 +2,212 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-05-dataiku-raises-400m-to-democratize-ai-in-the-enterprise.md",
+      "title": "Dataiku raises $400M to democratize AI in the enterprise",
+      "excerpt": "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-08-05T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
+      "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
+      "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "originalUrl": "https://www.huffpost.com/entry/feds-arrest-george-washington-jan-6-fbi-insurrection_n_610af372e4b0cc1278b71c02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/610af9dd3b00007491ecdf6b.jpeg?ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T18:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-the-pentagon-is-using-ai-to-predict-events-days-into-the-future.md",
+      "title": "The Pentagon is using AI to predict events days into the future",
+      "excerpt": "Before we talk about the US military using big data and artificial intelligence to try to predict future events, we might as well address the elephant -- or rather the notoriously small-statured but undeniably charismatic actor -- in the room.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "originalUrl": "https://www.cnet.com/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/AS85k6X7nbbOhJOkXkV7N59q-aQ=/1200x630/2021/08/03/25f8c78a-6b58-49ba-a00d-5e92705e81ba/210713-f-zd999-001.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/",
+      "publishedDateTime": "2021-08-04T16:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million.md",
+      "title": "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million",
+      "excerpt": "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "originalUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380494/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "publishedDateTime": "2021-08-04T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
       "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
       "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
@@ -1001,211 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
-      "title": "Spell unveils deep learning operations platform to cut AI training costs",
-      "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "publishedDateTime": "2021-08-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-a-new-kind-of-alien-ai-and-the-hiring-process.md",
-      "title": "A New Kind Of Alien: AI And The Hiring Process",
-      "excerpt": "Not all aliens are depicted in popular culture as green or humanoid. In short, they could be robots. More specifically, we could venture to call AI an alien life form.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f2b331a4b8a0eaa784baf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
-      "publishedDateTime": "2021-08-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
-      "title": "Accelerating Drug Discovery With Mindful AI",
-      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
-      "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
-      "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/c-light.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

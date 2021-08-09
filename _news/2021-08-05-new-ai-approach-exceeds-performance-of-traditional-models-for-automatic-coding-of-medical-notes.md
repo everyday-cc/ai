@@ -76,6 +76,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
+    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
+    publishedDateTime: 2021-08-09T17:20:00Z
+    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 47
+    images:
+      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
     excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
     publishedDateTime: 2021-08-06T07:46:00Z

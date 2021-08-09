@@ -238,6 +238,41 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life.md",
+      "title": "Healthcare AR and VR Market Review 2021: Growth Seen on Heavy Volume | Microsoft, GE Healthcare, Artificial Life",
+      "excerpt": "The latest research on “Global Healthcare AR and VR Report 2021” offered by HTF MI provides a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
+      "originalUrl": "https://manometcurrent.com/healthcare-ar-and-vr-market-review-2021-growth-seen-on-heavy-volume-microsoft-ge-healthcare-artificial-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-ai-quantum-computing-and-other-technologies-poised-to-transform-healthcare.md",
       "title": "AI, quantum computing and other technologies poised to transform healthcare",
       "excerpt": "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic.",
@@ -1337,49 +1372,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-artificial-intelligence-as-a-service-aiaas-market.md",
-      "title": "Artificial Intelligence as a Service (AIaaS) Market",
-      "excerpt": "The Artificial Intelligence as a Service AIaaS Market size is estimated to grow from USD XX Billion in 2020 to USD 59 6 Billion by 2027 growing at a CAGR of 51 2 during the forecast year from 2021 to",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
-      "originalUrl": "https://www.openpr.com/news/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U721205866_g.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2334170/artificial-intelligence-as-a-service-aiaas-market-swot",
-      "publishedDateTime": "2021-07-21T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

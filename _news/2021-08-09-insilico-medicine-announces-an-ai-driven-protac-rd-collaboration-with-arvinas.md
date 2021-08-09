@@ -3,8 +3,8 @@ category: news
 title: "Insilico Medicine Announces an AI-driven PROTAC R&D Collaboration with Arvinas"
 excerpt: "Insilico Medicine is proud to announce an R&D collaboration with Arvinas (NASDAQ: ARVN). This strategic partnership will involve Insilico Medicine's AI-augmented platforms and close cooperation between Arvinas' and Insilico Medicine's scientists on novel PROTACs."
 publishedDateTime: 2021-08-09T13:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708990"
-webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708990"
+originalUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708993"
+webUrl: "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708993"
 type: article
 quality: 63
 heat: 73
@@ -43,6 +43,6 @@ related:
         height: 257
         isCached: true
 
-secured: "1iRNpyXqiL76eAgzDcD7PQso/CEzPNbCV9nJUerJT/4gRiF0iBxWv5NnbbRiXAXQkTjakzqD42nF7mSJDSnhBRKL93B0RvBHlZEC4+6bexbBezl5whVAOJ0L8AEppa5JPKrWRkWW0A3Lq3zYf624/jz2n/iAS7oSoRPxV+XhMU/3sN5f1HRbZhZ9zuTe/WX+UMovHiinz/ZQ2vw/t2k0RexLCCcmR94HMVrFde8x7GyJQt/FZYEVxAtt8TSBIr+LqgZzyL26yhMWRGghjNaQvP2FMHH1OFEYxqkeihX460x6lHM2Mt7nXNEUCc3MpDMARQ44ag7Z/mH7DXOmTPiwGI4KMplKlLLdHVZK8+Q9Oxg=;GWNmFg+gdapr1xPEDlDQ8A=="
+secured: "zoUFM6+u8aktlEUorjQXHcRE1FvB7P6khmvYSXJ0/ldCAhaX5vqcJ0z3wEsGFY4GmUuqQRPqMrw183tQk2twwP6K/QItYkNuGQg+JLxKAIuKGPokmzwOSqcnMFRjJiNILS+d0RMXGgzJySU8BYuIWRH90EP7RGsCxrSA+gOJpE8odCwkmML+syz8ybT3mHXQ6So9iZCjxwQ8jQvlB1H8h0zTd9Ad9sV0iPdgypKHpi5wySuSpU4tNF4EnAt91QpNn+SL177/Hvo0ZxAmypxeoc4AxHFJwR7HtjUBvQWhzajIjjWoVz0OhorXgKvj4fyyEey6+gpGfFWx+q/VcK+l0KB3Wui8jgF7CHuD5NAF5ho=;L8zFrmKqSayi/sNpazeMrA=="
 ---
 

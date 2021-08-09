@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/379426"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379426"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Entrepreneur
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Finance Startup Zeni Notches $34M Series B Funding"
-    excerpt: "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth."
-    publishedDateTime: 2021-08-04T23:13:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Fintech startup Zeni raises $34 million from Elevation Capital, others"
     excerpt: "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March."
     publishedDateTime: 2021-08-06T05:10:00Z
@@ -63,15 +47,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Ex-WhatsApp exec, Elevation join AI bookkeeping startup’s $34m round"
-    excerpt: "As startups automate their finances, Zeni has seen a 550% growth in revenue and a 375% jump in customers year-over-year."
-    publishedDateTime: 2021-08-05T13:43:00Z
-    webUrl: "https://www.techinasia.com/elevation-whatsapp-exec-join-ai-bookkeeping-startups-zeni-34m-round"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
   - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
     excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
     publishedDateTime: 2021-08-05T07:24:00Z
@@ -143,6 +118,20 @@ related:
       - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
         width: 810
         height: 506
+        isCached: true
+  - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
+    excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"
+    publishedDateTime: 2021-08-05T12:31:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/fintech/fintech-startup-zeni-gets-usd-34-mn-from-elevation-capital-others/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Fintech-startup-Zeni-gets-USD-34-mn-from-Elevation-Capital-others-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "gemnmaCrxaXC0i8HGpLe+sf8rQ7lMOFxdNDcMoh8zSV4CHZRIF5nuoJ3fPohYDHAAnM1isE+FMslX2B0zeH7WJmvZBRt9eZ2UDC/dZdH4VY1WT50Wom9bfT7KVhjzIdiNaa80BKC2Biy/DhHDfy024LQFQpEjHWro9w5AxbIn1vSRNbFxhAi5ZCrj2DId+klSveil2OIWbp0B4wzMcn8dF4+xe52QfwHR9YLw4NHBMeGLJCmfxm8G9b3aaRLyjw11TApsWSxcabziwLL21Wo0kND9j2InDa8W0HjQkuoUb1gZe+F+DZCkCVxvGEJK1w3ILA7YdHdqHE9GOe6mntrPAFlV8DO+s5jE1VFni+rYYw=;sGdqdvKlT+MtIz0ZVvqPuA=="

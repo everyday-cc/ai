@@ -66,20 +66,6 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 51
-  - title: "Amazon Transcribe Call Analytics provides more intelligence for customer service calls"
-    excerpt: "Amazon Transcribe Call Analytics is a machine learning-powered conversation insights application programming interface. It’s meant to work with the existing Amazon Transcribe tool that’s used to generate transcriptions of customer service calls."
-    publishedDateTime: 2021-08-05T00:05:00Z
-    webUrl: "https://siliconangle.com/2021/08/04/amazon-transcribe-call-analytics-provides-intelligence-customer-service-calls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/call-telephone-communication-phone-conversation-concept.jpg"
-        width: 2000
-        height: 1421
-        isCached: true
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z
@@ -109,6 +95,6 @@ related:
         height: 750
         isCached: true
 
-secured: "j0eQQoipw6Tq8HMuZ8KJIN6CH6EL5QBd7bNtocXxzSgXanww3fYQ0dewYX8Ls/cTpNhV7dZCf2pz/FVwqdHJ79PGIjpmGni/K8caXUEbUbQij4T92NYOfgEij2dxwIjsv0qMguOqFHJUFe3YQb58kHTJxH3FgDckzNl+w1l/u+N77r7zywzNYpwX+4lvuq7E05XPJv9AA7W4Awwgo8hki8E8b3B6BeunQtPQFQ9bTOFxxMWDKUyF2vzCFC+w+HJkpYulBGi2ygVjuQhU2bJnGRjwtz5yRiVdTjBBiswJHCx6HkwtXiky7eaCkOvNH0OMqrdZRclHQBso65LuwZGOFqSlq0cwSbKWTk925UYov5E=;/uoFKol6+S9SeZ4/2Q2Vuw=="
+secured: "SZ6HRb9xA0D1gqIc04OJnFj3TC0f2zIbjRJa95EwPPHlwgN0JxZN9AqtSW/Hnzhd0NJAQ3NqbT8KPmgAkh9ON2ybh1RICAvQhdf+cWa9HPawWzULXECJ8pttqwZonFkdDZ4thirtn+esRzO7LwEcdbUwdUUxLLUgrHMKtel+/RXuMo7Df8PHV5z3sC3vaxhXwmYowGwPMdK482fY5aUQZ0pd5cbR7Py7rEKg4XWuGFhKkgnFXmOev/k6aQlWlxfrNTQhzZ12/hntJVaXR+E/CPhWCprcXvm21IpZk9op1CpbVGMuULGg5lmOWh0oIaT0rN4Nf3zXWI98CmeCcaFjjYfflK6vYjLgBYwElPVW01n+y2Lts4o+GPjicujHMKx6yf0jV1Ah4+nXsQAvBlmdideGJcmfi4QNno3eJB1d/p3506WIyuColFhwGQuIHMDg8Klhn3+1prPW+Y0gUSGpCkM1nCgyqny+FDED5UVqQID72cPqmJH8X8y6nuGVd3R4V9kczcOlDSDPnr/Q35o+/g==;jQuO6pETFB/boZJYXxCB6g=="
 ---
 

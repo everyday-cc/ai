@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processi
 webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Snorkel AI Raises $85 Million at $1 Billion Valuation for Data-Centric AI"
-    excerpt: "Snorkel AI, a data-centric AI platform company powered by programmatic data labeling, today announced $85 million in Series C funding, bringing the total funding raised to $135 million.  Snorkel AI is now valued at $1 billion,"
-    publishedDateTime: 2021-08-09T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-4ea821239bb03f6a609366fb92c6a168"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "gGZMZsDqkXVmTYdzqxeIeOJaR3Xj9HiGho/TyrYL7ewMw1Y3Mmb7Tm8AG0eb1ZYU9hZ/VEyKU2O/JFd37hbGlPLXk3hkUQysLB8YwUPWX9wYFdSLPCM7tOCyhHC6WQLOsVYAuTnqIaRTJM0BzkEqZm/mvdLovMyjXxqtQEuzxF98e/0fEPXLIU+ewkd4MXtldWkfBsIr8oYO7vTKDjv01G3WlHP4QsQdCldoeuaLQpCxNo7YtzN3Hp0PrIjhnaAcZSRDBVXvZUPlf8Ja0SLIEb+2qL8qV+vEH/JniNb9IK12ky6yZV/+Xt+OR1/vDpCnMxMAVRlUUhNxQiVSghroFVS2YMPXtmlrkv+kjSNIGM/TRoXyQbAW3FeB2iprBnrFqnl7SnAHYezhzbUSx/MJuEPHcMEh5adn86voCRXOqEr1MrRT9Me0ccgeIwyywq4tFTtJvCEJMVUhN5x3QjNFmGh1392IjnqGmwi/fl5zJUpUQadLWwdGo6Okx0y3VyMpR/7x0kyMt30XlFEyyDAVxw==;GcOnIGof61lNZhRPIXI40w=="

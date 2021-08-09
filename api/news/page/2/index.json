@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-08-covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk.md",
+      "title": "COVID Has Changed How We Work. With The Rise Of AI, Is Your Job At Risk?",
+      "excerpt": "By starting with a perspective on the potential risk (harm) of AI in a job, we can better understand the implications of how AI will affect specific jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610f2050ad1276be1f7b70ae%2F0x0.jpg",
+          "width": 1104,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
+      "publishedDateTime": "2021-08-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-social-factors-in-machine-learning-models-aid-cvd-prediction.md",
+      "title": "Social Factors in Machine Learning Models Aid CVD Prediction",
+      "excerpt": "Machine learning approaches are useful for cardiovascular disease prediction, and model performance is improved with inclusion of social determinants of health, according to a review published online July 27 in the American Journal of Preventive Medicine .",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
+      "originalUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
+      "publishedDateTime": "2021-08-08T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-commentary-how-ais-growing-influence-can-make-humans-less-moral.md",
+      "title": "Commentary: How AI’s growing influence can make humans less moral",
+      "excerpt": "It started out as a social experiment, but it quickly came to a bitter end. Microsoft’s chatbot Tay had been trained to have “casual and playful conversations” on Twitter, but",
+      "sourceUrl": null,
+      "webUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
+      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/f7/bf76a098-ac01-59a2-88e6-b708f22f7018/610b63ace354a.image.jpg?resize=1024%2C642",
+          "width": 1024,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
+      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
+      "publishedDateTime": "2021-08-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yakima Herald-Republic",
+        "domain": "yakimaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
       "title": "Is robot therapy the future?",
       "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
@@ -809,7 +946,7 @@
       "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -861,7 +998,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1098,145 +1235,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-deepminds-new-system-could-be-a-step-towards-general-ai-but-theres-a-way-to-go.md",
-      "title": "DeepMind’s new system could be a step towards general AI, but there’s a way to go",
-      "excerpt": "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-a-new-generation-of-ai-powered-robots-is-taking-over-warehouses.md",
-      "title": "A new generation of AI-powered robots is taking over warehouses",
-      "excerpt": "Within a few years, any task that previously required hands to perform could be partially or fully automated away.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/",
-      "originalUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/01/robot-tile.gif?w=480",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/",
-      "publishedDateTime": "2021-08-06T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible.md",
-      "title": "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible",
-      "excerpt": "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/",
-      "originalUrl": "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-In-India-5-Reasons-to-make-it-more-accessible.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

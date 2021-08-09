@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-
 cdnAmpWebUrl: "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
     provider:
       name: AgWeb
       domain: agweb.com
+    quality: 34
+  - title: "John Deere Buys Robotics Company For $250M"
+    excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"
+    publishedDateTime: 2021-08-09T15:16:00Z
+    webUrl: "https://kiwaradio.com/local-news/john-deere-buys-robotics-company-for-250m/"
+    type: article
+    provider:
+      name: KIWA Radio
+      domain: kiwaradio.com
     quality: 34
   - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
     excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"

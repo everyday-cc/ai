@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -73,6 +73,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
+    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
+    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 40
+    images:
+      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 424
         isCached: true
 
 secured: "eMxz+lx3niFn5sH3Mv+6nbOs0VgoxMU4YD9GgGMekfcLz7TaLBUjnpjJwG7OL76tC5RvJFvrvZQPum0HTUSyK0spBMr+Su1q8qyNyn+Z4MGeGUOe8AuYrUkO+lb1LAg7tXyuIR6Klf1xG0y+6PiLh32Obrb6e6oXyyLg4BiJzLP6OFD6u+xZPq9Ta9AZLio61kvdIy4tvSQyTMVIXMXkKJNfBmNvP/pojzWrRrluTHBDjIYu/jaQgJ1448PZbvauKEp/Pj93NI+nmE8ZvZpVsXbORpRV6Hlhp0BDbAsWa8NkLtxrBf9kmmrDUCaEol7C7AjesgtP0M/eQE8rR1nuukR6BoMIJaa1bdRXYFXExwPz1PHpK/k/mlYJiAjRtZZRNssvKRx7CFbKcfwfzAip140+Q9KZ9zwZYKttdWCe0ibSbdQiOtRFM0BbXe1CvoIDy5D7XLKKwxSCa4OCt/kPKOEVU/0IQqkUun4oCTtFtHwGd8XStEx9uqL+goEdP3fCssk6Ii7alWqgs+mg93XZtw==;AyqALZSNK2xx+13Ma51ffA=="

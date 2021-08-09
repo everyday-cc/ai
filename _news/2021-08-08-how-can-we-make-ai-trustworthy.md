@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI researchers trust international, scientific organizations most"
+    excerpt: "Researchers working in the areas of machine learning and artificial intelligence trust international and scientific organizations the most to shape"
+    publishedDateTime: 2021-08-09T15:40:00Z
+    webUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
 
 secured: "1IjbJh1m6QLHrHbEgvV++tAdov6we5mHrx/EBwxJIWSyLyMenbK4NqhL4zZ86vTD+ZjcgpUWk5LxSXt/r9cZZsJUFWn8hrTehjI+GgFwgofp5wnVvowJqbt91XERa597uw4GXKq7tOsagMPUPSMSpuJG4ABIohKWWhaAgch/3ySYql+87SlBLMO/yfgFYXIqa35i5L8nvK+69oORFVl97Z+5gW24AN3+Egl5J4cE++LyL6+edb6XgON+7WeGv0PsYF1Dn/FwVFt6TzBwwVcUaTJjPci26d6Dxsa3IxLPPwDtDJaub9yPiYHk+L5tyAt451I5At7AQ801gy46ja/HQS0HWV2d4CHez6khsh0NqvY=;XZL43K3gJAKWFdAJs9TYpw=="
 ---

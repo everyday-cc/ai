@@ -24,34 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "The value of natural language processing? It makes AI more human centric"
-    excerpt: "Seth Dobrin, chief AI officer at IBM, talks to Tonya Hall about how natural language processing can make AI apps accessible to a wider audience."
-    publishedDateTime: 2021-08-05T13:24:00Z
-    webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
+  - title: "Data labeling platform Snorkel AI nabs $85M"
+    excerpt: "Data labeling platform Snorkel AI has raised $85 million at a $1 billion valuation, the company announced in a press release."
+    publishedDateTime: 2021-08-09T14:15:00Z
+    webUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/05/f43bbead-a2f2-472c-8962-525e94578436/thumbnail/770x578/b95304a4c6c78c6fa8479dc2d810e8a0/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Responsible AI: Putting humans at the centre of artificial intelligence"
-    excerpt: "Organisations need to adopt basic principles for responsible artificial intelligence to gain competitive advantage; they must also design systems that can effectively deal with biases"
-    publishedDateTime: 2021-08-05T06:23:00Z
-    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/responsible-ai-putting-humans-at-the-centre-of-artificial-intelligence/69601/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 54
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
-        width: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
+  - title: "Stanford AI spinout Snorkel AI is Silicon Valley's newest unicorn"
+    excerpt: "Snorkel AI Inc., a Palo Alto startup that hatched out of a Stanford University lab two years ago, is now valued at $1 billion after raising its third round of funding. On Monday, the company announced $85 million in new funding,"
+    publishedDateTime: 2021-08-09T14:35:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/09/snorkel-ai-is-silicon-valleys-newest-unicorn.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "EJBGXL/03+3B5SeQuYmNloTN/UNIhslG1N0DOJNXUp1a8u9tRdZPW4NUEhrQJ6wEXXc8sx9cuDWFJS9EbZSbW2PysF+wj12wm71imxpxs/QXXQtbN+N67OXgTCOYG68BSfMEVam3DjluVAGxZqu8L3AipS4YZKC4IflaVPaAtuFiy+FJYOphh9XECHXOf2CgdhFBEcluyTsJVOI2hLa7AFGSzylrW2JQjCwc/U16+PWOG5K/t1UdvnEBV4xwVX35nlZ5bPXHav7/cnSwvr+qR3LszDDYmnz34Eq+MOTXgsE0ogd61afdD2eNASUbdB0rHEZM0S6QC9Bj0XqIi6oNfvOfmJAFNSkK4aLEH2MqXJ8=;cA1yjQc9zZOkPqx34lqfuA=="
 ---

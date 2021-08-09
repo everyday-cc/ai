@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-wo
 webUrl: "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-57493,msid-85136450/ai.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "AI researchers trust international, scientific organizations most"
+    excerpt: "Researchers working in the areas of machine learning and artificial intelligence trust international and scientific organizations the most to shape"
+    publishedDateTime: 2021-08-09T15:40:00Z
+    webUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
         isCached: true
 
 secured: "uOPb2NEcCZ+GHO4a+t21jgvB3MdrVSTRmoDI1YJHn2HrgXUWvzD7ua8pz06avar6QyBTc5dA4ON0IW0qLWKf5gWoM/Yw/6QxJd4Rn4qpURcZcnuigYbcXAhosz4QykAN1d03Fd1GanyRnUVghJLvmleGC0xYnN6MwmuVL7pkFlP9J71yY7SG8MB6gVOKgYsfL/sj1qX2BlsFWAJOqddUQftvutHAGKpu1+iDbf6mXqM24o82leeubTSRBzwc18K6zxTytsKDNlWae7k7niM7HKG89nxK0E4/+0YYojJUzFH3I+Oee83+GwsTngmQkDS/65LXcv81764EdWglNfX9U7O8J3kLPq/vpM8Uj5reGZA=;4X8wuP+eRO7v/j+LOO8zyA=="

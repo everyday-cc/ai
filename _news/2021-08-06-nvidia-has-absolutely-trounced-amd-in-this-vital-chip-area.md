@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 970
     height: 646
     isCached: true
-
-related:
-  - title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-04T23:07:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 56
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/m02d20201202t2i1543204037rLYNXMPEGB115Rw800.jpeg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "XukN+JMgKAbugmJyggHV7d9wpOKDERdOEaVi54at5FJTDnEXF+NKe3ypGTpiUmiyzwg88MfiV7fFuTz0Haam19VXbvC9AmUGjTb3au2SJuTQM8pfmG3YUlRHCFfNR/MSX+nPOK0eaV8nsacDVERG6M5xAYyWk1Pa0iVyLleAxKmwSG7Xn7HOIhpGVR4in00G4PI+4RcHdwPLnEnWs1CO1HtrWrSsFWwlXAEzxyE8d10HMxTIPIKx6SvXwCsZkfRpL1kcsghZS9tjnaiKFLXaWfOxeUa1EqCIk+qGm3edDC95b8brCtRuE4c+lt7spLnrdoCF86b6NNOdUiosq6zxNNjXAcOnafnc+l2oDeJxjAU=;IQyMVIV2jNJPtkBemazhdw=="
 ---

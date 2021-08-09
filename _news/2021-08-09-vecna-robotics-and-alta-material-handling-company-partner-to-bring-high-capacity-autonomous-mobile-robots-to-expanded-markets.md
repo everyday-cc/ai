@@ -72,6 +72,15 @@ related:
       name: AgWeb
       domain: agweb.com
     quality: 34
+  - title: "John Deere Buys Robotics Company For $250M"
+    excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"
+    publishedDateTime: 2021-08-09T15:16:00Z
+    webUrl: "https://kiwaradio.com/local-news/john-deere-buys-robotics-company-for-250m/"
+    type: article
+    provider:
+      name: KIWA Radio
+      domain: kiwaradio.com
+    quality: 34
 
 secured: "DMCi5H4vg3+gKpY/FOX1SBI7O89DldWcTvCXzwS4QdPMeeCweRNp8lKXsCggxE7dn+Z5FT9UEAqwqanfonoyPcPrefi5FLZiAuoFfsfsDW4yTzh62qPrXrJS9WWvi/ekHE7D3fJuKARttmHu4QPucZiSr8xygZPj1x/wl91gODieWzsn6eUpRJFwxRV0hPXs9Sqk5uERxHKiZtPRQaAI8096imcP0WHSpa06r7xAxjf31Zc+bZMFo0tGzPEEZIKPTlIyyNZrHSvmZm1uRW+kN7G0Pr2AbTnFjmzFiY1JRY19/bkOVtuNaBmIzGnyb+Qxq7jVxDsC7OiNfSpwfOpTTJr+vTCHpjJrggDM8rXO2RU=;WCZ3JetIXpnQsnwUNJMshg=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Finance Startup Zeni Notches $34M Series B Funding"
-    excerpt: "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth."
-    publishedDateTime: 2021-08-04T23:13:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Fintech Zeni Announces $34 Mn Series B Led By Elevation Capital"
     excerpt: "The company will use the capital infusion to bring its intelligent bookkeeping and accounting platform and services to more customers by investing aggressively in its team in the US and India across product,"
     publishedDateTime: 2021-08-05T08:00:00Z
@@ -59,15 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Ex-WhatsApp exec, Elevation join AI bookkeeping startup’s $34m round"
-    excerpt: "As startups automate their finances, Zeni has seen a 550% growth in revenue and a 375% jump in customers year-over-year."
-    publishedDateTime: 2021-08-05T13:43:00Z
-    webUrl: "https://www.techinasia.com/elevation-whatsapp-exec-join-ai-bookkeeping-startups-zeni-34m-round"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
   - title: "Fintech Zeni raises $34 mn Series B funding round led by Elevation Capital, Neeraj Arora, others"
     excerpt: "AI-powered finance concierge Zeni today announced it has raised $34 million in a Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora."
     publishedDateTime: 2021-08-05T07:24:00Z
@@ -139,6 +114,20 @@ related:
       - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
         width: 810
         height: 506
+        isCached: true
+  - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
+    excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"
+    publishedDateTime: 2021-08-05T12:31:00Z
+    webUrl: "https://mybigplunge.com/tech-plunge/fintech/fintech-startup-zeni-gets-usd-34-mn-from-elevation-capital-others/"
+    type: article
+    provider:
+      name: mybigplunge.com
+      domain: mybigplunge.com
+    quality: 24
+    images:
+      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Fintech-startup-Zeni-gets-USD-34-mn-from-Elevation-Capital-others-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "3DRkW7lBP4AKB4+pT5inocDmID1HJs0joU4gASDRwJeBrHeVVXiQzpks6BOo9OtHDkp84e+2+877pUOiLLl9fAL49Gl5bnHIjuGtBmHG/zDGu1rPGnSs1SqmA64IBjqEuArCJQG9as+YOsYomGYX4H9LOjLg7e9lgneYXNhZ8w3v9yIf3ONQaAqr4RMdP0Wwht926OdgaI0DP6UR/35qVAABZtIDK33Lih2FrV6gpCULBedq+YdqCmO4iUPsg1ttOQt49edy27Et6RPW56Falb2HGAjRafHEAuAQBwJ9lTZDXS9yFXySyb8jfCh6GogiRJNmAZGdqe1KBD0FBKAG8KXP/0iCNR2hEmzvB14s8h2HQlIhRVBpvxgoHJ0Qa0H35INUGOLUx8pGjkdtR5wMfTxJQucsaHQjZq0Gl1B+3YU12OktNjySwTsBbxCbojSV/PLw+i6eKBEY125yECzBQiGI2ruwxdD1bsUiWPfOnaGeAKjzOq+ZL4kr0CNEASd6iBhjW8z2VqVoKzngwdUxTA==;k7NKOKoW/kZRNmz4wSY7Ww=="

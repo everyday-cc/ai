@@ -74,6 +74,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
+    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
+    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 40
+    images:
+      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 424
+        isCached: true
 
 secured: "5LVDV7/qHDI7NSOAvPjVEfoPnJ/mPU7Bq2kNh4LbHuQYhz2yrocbWN8d+ORWWMp8fhmB89W1KdZ2gtEgYiqSasKIiUVC7TQ7oXrgguSPWliHnfwFHH4PGUBR9DT/XggVlDsC8CPqxP2l4vl3+3IgCv+fxnfp+yrPMLGlcP/K/KW/7O0hfhLjEMdpgQa7VIGlwLt0l8DmDDcYPokWJCos30kk2J8Iih3oaZskiCcfOlvKzR9USyAyspJXbTZeIO10IG7x3CtOT5Ttb/LkrJKTHuBWjqmnS8PO/US6mKsDw3hxPlXwu+92shJyXA84iQiyzM5PwLJWawru9h0SFi9Wn0NRAig7fZAW18/ySftXsuXpBWmuVOEfVrVr8Y1R230IkAYCvClOpM904EuDPCk+J1J7VjcZ91RRgWjFBXOqb+g+91luRaqqTLsf1SLpDlnLKnbjsxCv+FcAil5kLGs5GHd5LieV1deqG3KozVOmcBxcmit4+q0GmOZG9RnxqBXtNMq75DxCyfCp2Bdzh2ORPw==;ro9oMajVsKnvzSXfz8qFtw=="
 ---
