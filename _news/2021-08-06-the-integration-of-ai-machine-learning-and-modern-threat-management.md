@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
+    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
+    publishedDateTime: 2021-08-06T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
   - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
     excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
     publishedDateTime: 2021-08-06T00:43:00Z

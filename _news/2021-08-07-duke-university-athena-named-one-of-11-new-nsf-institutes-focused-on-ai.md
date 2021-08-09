@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WRAL TechWire
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NSF and NIFA invest $220M in artificial intelligence research"
-    excerpt: "USDA’s National Institute of Food and Agriculture and the U.S. National Science Foundation have announced a $220 million investment in 11 new Artificial Intelligence Research Institutes that will be led by NSF."
-    publishedDateTime: 2021-08-04T12:04:00Z
-    webUrl: "https://www.agri-pulse.com/articles/16265-nsf-and-nifa-invest-220m-in-artificial-intelligence-research"
-    type: article
-    provider:
-      name: Agri-Pulse
-      domain: agri-pulse.com
-    quality: 37
-    images:
-      - url: "https://www.agri-pulse.com/ext/resources/Newsletter-photos/2021/8-4-21/agtechnologyUSDA.jpg?height=635&t=1628075585&width=1200"
-        width: 836
-        height: 627
-        isCached: true
   - title: "NSF Adds 11 New AI Research Institutes to Its Collaborative, Nationwide Network"
     excerpt: "The National Science Foundation officially extended the reach of its National Artificial Intelligence Research Institutes across more of the United States. On the heels of funding seven institutes in 2020,"
     publishedDateTime: 2021-08-04T20:00:00Z

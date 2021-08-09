@@ -41,20 +41,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
-    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
-    publishedDateTime: 2021-08-04T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
-        width: 400
-        height: 271
-        isCached: true
   - title: "How Artificial Intelligence is revolutionizing the startup industry"
     excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
     publishedDateTime: 2021-08-06T11:27:00Z

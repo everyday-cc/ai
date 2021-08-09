@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-sta
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1628150390-jonas-leupe-0IVop5v4MMU-unsplash1.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "Financial concierge startup Zeni banks $34M to show SMBs their finances in real time"
-    excerpt: "Zeni’s AI-powered finance concierge platform offers bookkeeping, accounting, tax and CFO services, essentially becoming a back-end controller for startups."
-    publishedDateTime: 2021-08-04T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/"
-    ampWebUrl: "https://techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 65
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1218524057.jpg?w=1024"
-        width: 1024
-        height: 569
         isCached: true
   - title: "Fintech startup Zeni raises $34 million from Elevation Capital, others"
     excerpt: "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March."

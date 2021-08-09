@@ -59,22 +59,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Financial concierge startup Zeni banks $34M to show SMBs their finances in real time"
-    excerpt: "Zeni’s AI-powered finance concierge platform offers bookkeeping, accounting, tax and CFO services, essentially becoming a back-end controller for startups."
-    publishedDateTime: 2021-08-04T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/"
-    ampWebUrl: "https://techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/04/financial-concierge-startup-zeni-banks-34m-to-show-smbs-their-finances-in-real-time/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 65
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1218524057.jpg?w=1024"
-        width: 1024
-        height: 569
-        isCached: true
   - title: "AI-Powered Finance Concierge Zeni Raises $34M Series B"
     excerpt: "AI-powered finance concierge Zeni has raised a $34 million Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora. Existing investors Saama Capital,"
     publishedDateTime: 2021-08-04T20:13:00Z

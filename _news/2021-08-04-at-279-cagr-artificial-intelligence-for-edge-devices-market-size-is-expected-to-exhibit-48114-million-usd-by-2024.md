@@ -31,7 +31,7 @@ related:
   - title: "Global AI services market to hit $50B by 2025"
     excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
     publishedDateTime: 2021-08-09T03:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-to-hit-50b-by-2025/"
+    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
     type: article
     provider:
       name: Reseller News
@@ -56,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
-    publishedDateTime: 2021-08-04T12:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Cognitive Media Market Expected To Witness A Healthy Value CAGR Of 27.10% From 2021-2028"
     excerpt: "Data Bridge Market Research added a new research study on Global Cognitive Media Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook."
     publishedDateTime: 2021-08-05T16:21:00Z

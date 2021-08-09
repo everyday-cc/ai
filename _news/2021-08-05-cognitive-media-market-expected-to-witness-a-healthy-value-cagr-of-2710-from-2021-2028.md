@@ -42,7 +42,7 @@ related:
   - title: "Global AI services market to hit $50B by 2025"
     excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
     publishedDateTime: 2021-08-09T03:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-to-hit-50b-by-2025/"
+    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
     type: article
     provider:
       name: Reseller News
@@ -67,18 +67,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
-    publishedDateTime: 2021-08-04T12:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
 
-secured: "CmEXl0As3utHoqJXMpcppFIOR6A9fw9/K0a08WLlKC+h9LcfSao0IF+6IR4vhlnwb2e+WD0KXr+g5Iit2jj26ZheyJ9h9OoqLcA/4fdTG2yo0cXbgCH+l0Rfa/kyuH5I+AoUWGtUBRCYt0rY9lcCBZzFFjn/tT9PZo+jo1YbxiwWRni6vpg5IypVcW4m9b9c0fec3E2Jh+cLYtN7pCZwLzWveOunnXlZtYTQ7G6Yyv5RB5uOTSSQXBqrpW6o0IKKJY3FV40jaaaC03dgD7Cd/hung5W8rmww4yYMtHWQriH4Gykn2ZYbP/1BdKglU/s0LmeOjzS7ztk6DDxPhTEDw0+0vwISeaLkT6Hgl+21KlI=;Nk0DcVmZwIGAEAfEJr4lLw=="
+secured: "xygx9y3J7UfH3EWseCGcmPYVlGNZaNVCYtLBCS0JiR15DYuLHpnNHtBcHUm711iXKCNXnqHkZUgPxK33YgajqwygATuiDFe7xshdpjL4LuiwDJNqAIsSZBmdovPUs9Lz/FYjuJRrKjN0IcQzYkYdyboq6FTXQ6QnWeWgQkRS2A/cQCRAE34gvCN+RMlLPjYJBNcc5ATSgOo1V1+8I+0VYQ9MtAQRxiU89YqK9/eoWmcUIC29/zPPP0pAY9HT3J1qEo5puaNvt7J24zq+AaoUf18uRH1SCWeA1bHX1VVc5Wa1Rt6ukPffC7U+SXiSJDnw3B0slgFy1Rlugl/7vQRwgQHBSOeW44U2YNyvb6FcrHbYAkKZ/U2DQLESI7NF/JBFXjuZiwN6fSUQsQSUbUPTDdZ/qwMLfQrAv6npy3Hzso4l/bM+mrX0TgKkxQBiDqw81y2/NZ1YUBQwlWr/w6SzNlhT5Zfg9EnjEO8eX1+EE8NQ7lMJTPc49wLO48BaPSmp+coyaGX1SESuTTHPOE41cA==;DsL0Ide1w2hXOScIa8l2Rw=="
 ---
 

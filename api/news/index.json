@@ -2,6 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-09-regulate-use-of-ai-in-healthcare-sector.md",
+      "title": "Regulate use of AI in healthcare sector",
+      "excerpt": "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778",
+      "originalUrl": "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg",
+          "width": 480,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesundaily.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-dabus-south-africa-approved-the-worlds-first-ai-invented-patent.md",
+      "title": "DABUS: South Africa approved the world’s first AI-invented patent",
+      "excerpt": "At first glance, a recently granted South African patent to DABUS, relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, the patent is anything but mundane.",
+      "sourceUrl": null,
+      "webUrl": "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/",
+      "originalUrl": "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://citizen.co.za/wp-content/uploads/2021/08/artificial-intelligence-AI-dabus-south-african-patent.jpg",
+          "width": 2309,
+          "height": 1299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/",
+      "cdnAmpWebUrl": "https://citizen-co-za.cdn.ampproject.org/c/s/citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/",
+      "publishedDateTime": "2021-08-08T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "citizen.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-samsungs-new-robot-vacuum-uses-lidar-and-ai-to-avoid-obstacles-priced-at-rm4999.md",
+      "title": "Samsung’s new robot vacuum uses LiDAR and AI to avoid obstacles, priced at RM4,999",
+      "excerpt": "Samsung Malaysia just released its new robot vacuum, the Samsung Jet Bot AI+. It claims to be the first vacuum that uses AI and object recognition to navigate through your home. The Jet Bot AI+ uses a LiDAR sensor,",
+      "sourceUrl": null,
+      "webUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
+      "originalUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnen.soyacincau.com/2021/07/210729-Samsung-Jet-Bot-AI-vacuum-hero.jpg",
+          "width": 900,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
+      "cdnAmpWebUrl": "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/",
+      "publishedDateTime": "2021-08-08T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-to-create-agi-we-need-a-new-theory-of-intelligence.md",
       "title": "To create AGI, we need a new theory of intelligence",
       "excerpt": "For decades, Artificial General Intelligence, computers that can think and act like humans, has continued to elude scientists and researchers.",
@@ -216,7 +347,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -299,6 +430,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-commentary-how-ais-growing-influence-can-make-humans-less-moral.md",
+      "title": "Commentary: How AI’s growing influence can make humans less moral",
+      "excerpt": "It started out as a social experiment, but it quickly came to a bitter end. Microsoft’s chatbot Tay had been trained to have “casual and playful conversations” on Twitter, but",
+      "sourceUrl": null,
+      "webUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
+      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/f7/bf76a098-ac01-59a2-88e6-b708f22f7018/610b63ace354a.image.jpg?resize=1024%2C642",
+          "width": 1024,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
+      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
+      "publishedDateTime": "2021-08-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yakima Herald-Republic",
+        "domain": "yakimaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -490,49 +663,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai.md",
-      "title": "Duke University Athena named one of 11 new NSF institutes focused on AI",
-      "excerpt": "The Duke University Athena program, supported by the National Science Foundation and the Department of Homeland security, is underway, backed by splitting $220 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/",
-      "originalUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2020/10/artificial-intelligence-4417279_1280-e1603452859912-1024x575.jpg",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/08/07/duke-university-athena-named-one-of-11-new-nsf-institutes-focused-on-ai/?amp=1",
-      "publishedDateTime": "2021-08-07T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -899,8 +1029,8 @@
       "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
       "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
-      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
+      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=latest_headlines",
+      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=latest_headlines",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -1099,143 +1229,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-aids-in-discovery-of-new-prognostic-biomarkers-for-breast-cancer.md",
-      "title": "Artificial Intelligence aids in discovery of new prognostic biomarkers for breast cancer",
-      "excerpt": "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment—and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-25.jpg",
-          "width": 371,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "publishedDateTime": "2021-08-06T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area.md",
-      "title": "Nvidia has absolutely trounced AMD in this vital chip area",
-      "excerpt": "Despite the competition coming in droves, Nvidia has managed to maintain its leading position in the global market for Artificial Intelligence (AI) chips used in cloud and data centers. Nvidia has also managed to maintain a large gap between itself and the rest,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "originalUrl": "https://www.techradar.com/au/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/p8a2RidshtSAWMtQWPVTbe-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-has-absolutely-trounced-amd-in-this-vital-chip-area",
-      "publishedDateTime": "2021-08-06T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-doubling-the-performance-of-visual-recognition-ai.md",
-      "title": "Doubling the performance of visual recognition AI",
-      "excerpt": "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg",
-          "width": 700,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "publishedDateTime": "2021-08-06T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -3,8 +3,8 @@ category: news
 title: "Global AI services market to hit $50B by 2025"
 excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
 publishedDateTime: 2021-08-09T03:24:00Z
-originalUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-to-hit-50b-by-2025/"
-webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-to-hit-50b-by-2025/"
+originalUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
+webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
 type: article
 quality: 37
 heat: -1
@@ -52,17 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
-    excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
-    publishedDateTime: 2021-08-04T12:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22322028/artificial-intelligence-market-rising-at-cagr-of-33-2-to-reach-usd-266-92-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22322028"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22322028"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
   - title: "Cognitive Media Market Expected To Witness A Healthy Value CAGR Of 27.10% From 2021-2028"
     excerpt: "Data Bridge Market Research added a new research study on Global Cognitive Media Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook."
     publishedDateTime: 2021-08-05T16:21:00Z
@@ -78,6 +67,6 @@ related:
         height: 337
         isCached: true
 
-secured: "nr+P4siwReNORDpy+iJDpRNTxj551FCmvRA+V8FXB0uevsjy7IfBt/w2OIAxV6Ws6BVVSpM76VP3LhMjxuoIuxxOqVDBfcioNK+jLXOM24aJgKXN2SYvaxOVrDlPlekpcAHNfHCbUHWwMRQEUscmHay1n4awhPC7/JESiX9mE/lNvGWpjjg2o/2FnoEt6hXa7KoNonI8l1PwXQMaNXy+jYAvfsWx59gJUEwe5UHUFtGmSeWBystq2RGC1U9Kpwh5TbCuu5/skbRxvnzb/zjjkTg4yOY9i6GnZPfVijPZwTzDGxw/gJV8nu7jLho+b5Mfpx/6//aYIfu8Gz6sebca0kGElucGyM3Dv4CDA5kAA7I=;JiDXC/tp+8wSDba8x/0p6g=="
+secured: "aCn+62S8PXOLESh32j36nv6FzeaLgns1xrUTzSsi6aqSHDben5F3rv2QNf303E9buDVPzDd9F/3b3BIsz1f5HH1TVoDGNgM0+EU+8tVwfuY/uw3nF7VDiW6WZTx9aiKW4r1PuSolkX19+CLTQXZC6HBE9E8WTV8LSLrJtAiNOKPoRNQQzHMWX8fxCoolbfN0F3VfEba3LJrhQ2oBQVy2AZ4pcWeU/31uV1PFYXE2Svf+ktKC4yOM1+e9G4ErjqupmBhooYkz1tM7S810GrPGc3yGAYeoSh9342wrZveW3dMtotyVqL+wgYC2+0/9FhXZ6CUBVJXWA37PUH9FxwKbTE+kKIVudZ3t4jHESToKa8I=;B8zdThGdimasVsyT59GKgA=="
 ---
 

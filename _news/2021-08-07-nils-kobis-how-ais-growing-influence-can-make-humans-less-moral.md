@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 642
         isCached: true
+  - title: "AI’s growing influence can make humans less moral, by Nils Köbis, Iyad Rahwan and Jean-françois Bonnefon"
+    excerpt: "Today, we increasingly interact with machines powered by artificial intelligence — AI-powered smart toys as well as AI-driven social media platforms that affect our preferences. Could machines ..."
+    publishedDateTime: 2021-08-09T04:00:00Z
+    webUrl: "https://pressofatlanticcity.com/opinion/columnists/ai-s-growing-influence-can-make-humans-less-moral-by-nils-k-bis-iyad-rahwan/article_8d01f069-4c75-5539-bb7f-81399b60c15a.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 20
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "A6BA6g/AYkGsjKFgfSne+faSjyvj23YF6GoqBKymh+PtF6Jc7V7n6VN4YXB+2No6mVEPW/Amzgq0LDOAPFpuLSJC8cgpsCE/35G0gs60uPXIKDayjN39d9v22LaqzpgbssfPugDMc1LG+uNEpsMlM7G6bouYY7lWn2AGmDYbI5m8mxWvRdcrLxKsqzxmf/DFI86+ELFPXlOVexhaHgmIcChzfHuuDxibwRaAXAPvjlIi0bJkyMLoVyYphfwtTQYF91YM3BpDaA2ywXlC4RAGUUH1mBzfnGC6xJP7rL0wklG4QJISgq92qi+wyHmfWkzbtenCq4fTC9INI6SvzpuxaSyAbwu5ZoFV3vmpJxb4Yq38X8HPAzvqOEdT9YTETJU/mZFU7w/H2fJO+AG01HjriNxqEh3CU0vldYvkN6o4HNeg+AEaZURdaJmyaICVME044GjcsXQM+PE0qopb+xxaUlEMr9uNkwjMAB7HhvJSkTAaAuo1dzIJw65ojN+wClPsmZIlwwb0Xr4DsEcY08rjng==;EsoHKezw0tLIkI3l1SmFug=="
 ---

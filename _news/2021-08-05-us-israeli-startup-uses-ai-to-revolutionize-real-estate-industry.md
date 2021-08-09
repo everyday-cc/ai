@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolut
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/us-israeli-startup-uses-ai-to-revolutionize-real-estate-industry-675859/amp"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Israeli Company STOREE Completes $8 Million Seed Round for Management of Retail Stores Operated by Artificial Intelligence"
-    excerpt: "The Israeli corporation STOREE which developed a technological system for automatic management of retail chain stores organizational operation, announces today a $6.8 million fundraise and completing a seed round of about $8 million."
-    publishedDateTime: 2021-08-04T11:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-israeli-company-storee-completes-8-million-seed-round-for-management-of-retail-stores-operated-by-artificial-intelligence-1030688088"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1588146/STOREE.jpg"
-        width: 400
-        height: 271
-        isCached: true
   - title: "Zillow – US-Israeli Startup uses AI to revolutionize real estate industry"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-05T02:18:00Z

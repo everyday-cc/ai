@@ -23,32 +23,76 @@ topics:
   - AI
 
 related:
-  - title: "Spell unveils deep learning operations platform to cut AI training costs"
-    excerpt: "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models."
-    publishedDateTime: 2021-08-04T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/"
-    ampWebUrl: "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/"
+  - title: "The Integration of AI, Machine Learning and Modern Threat Management"
+    excerpt: "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,"
+    publishedDateTime: 2021-08-05T18:10:00Z
+    webUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734"
+    ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg"
+        width: 1910
+        height: 748
         isCached: true
-  - title: "Spell Operationalizes Advanced AI with the First Comprehensive MLOps Platform for Deep Learning"
-    excerpt: "The namesake solution — developed by AI industry veterans — tracks, manages, and automates the entire deep learning workflow, from developing and training, to deploying and optimizing models ..."
-    publishedDateTime: 2021-08-04T12:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning-1030689008"
+  - title: "Use of Artificial Intelligence and Machine Learning in NASA"
+    excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
+    publishedDateTime: 2021-08-05T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-and-machine-learning-in-nasa/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 58
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
+    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
+    publishedDateTime: 2021-08-05T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
+    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
+    publishedDateTime: 2021-08-06T00:43:00Z
+    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
+    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
+    excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
+    publishedDateTime: 2021-08-05T10:30:00Z
+    webUrl: "https://www.mondaq.com/canada/copyright/1099292/copyright-act-consultation-to-address-artificial-intelligence-and-the-internet-of-things-"
+    type: article
+    provider:
+      name: Mondaq
+      domain: mondaq.com
+    quality: 24
+    images:
+      - url: "https://www.mondaq.com/images/Mondaq_Share.jpg"
+        width: 552
+        height: 289
+        isCached: true
 
-secured: "ru6OlkK4AzIoYAPJDlQ8U4cfsJqQF66mKGDczsAZF0w60hrvmtSt2FlnGt1JFNnowWMiHGeXY/uNusoHzt8hmlFLyAENQcYkXxx0vH5tzAfN++egQL3jqLDoxhTOC1FbhypJNTd7XtQyDB3b7Ro0CSCtAsOWx2RKYAzjMY4JNMMKn49z0yxxXrUaoJ22sg0bQ1AVsJgRwHbEQjbk7grB6r5A5ENKPtDgUO5A4PFINoN1tW795g+SiTINSodwg8VWAgFZ0crIuQycA2oM1IUDWfw6fPl25m/kTomrILHne+lBAGRw1uoBJ0dkslWsKJOxM3zCqWcR7WzTRe8IjbDBWq9MhPvkeb1c2DrwPaCM9NeT5hdavMC8D3p1hH30q6EGpU1HPUZMge1TAAxA7MgwmIjfkIFSLSbssSPvMOH640qlQMg2zM6jZBPLiO9tjPVhL5WaeNun3997VsUrThcuHiVwv/WmeMWnw2Ei8YRAZMTl1fdITOJRjNonkddC3Bm2Iw2qXNtr2aJhx1wG16DKfA==;BbZmB3Ao10eWvre+Vax5tw=="
+secured: "H9bZ77caNYwcfzSYUs5LGRaT9lUYuJlSUToVyqpTPaG1Q/WAuDHvww8tKt+TEMon/0BFeI5W/2vhmForhh15MRdzVdqJuosq2vGm2qSaWjXjCmaHsGt1KQlVagcZYNBijAmmnJmMvDlf5nkUdeVujcSZXklK2dKppRctsIAtMX7hCW9VGPhU1n19xN5xP0NLR83HRUACFbw/IfXtXoZxZE4JrxtX1IUt3gKVOsGtM89APOFgp2fjbpyqWdPl+l7liYOL3gIHA59aT/myupq4OxDDbJkFWLveFqCzYK7Y9to/yblgENkZqva/XDK0US5PU7mP1LwqD+VmmZVzOfFyxJe7S0xJTF/4E/NFWKqo8DHWHeXZrVA9wikcMwJktr9Jg9gWNo2OL0fM6MkEocfW9EcksMB8dKGJy5GRxJidXG33bi+KWjMUzlZH2ESUI1pTC8hKm84aG4A6de6k0SY5r0/g5yu51qHvAITwCf5azh1qrtBy1BduFzTVNW/lqVjS/UoFmBdh2EChwfQ8eMv50Q==;EflEhCLko/xbogFoNeljYQ=="
 ---
 

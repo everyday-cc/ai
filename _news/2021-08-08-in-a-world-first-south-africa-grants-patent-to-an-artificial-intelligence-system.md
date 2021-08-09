@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DABUS: South Africa approved the world’s first AI-invented patent"
+    excerpt: "At first glance, a recently granted South African patent to DABUS, relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, the patent is anything but mundane."
+    publishedDateTime: 2021-08-09T05:00:00Z
+    webUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/"
+    ampWebUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
+    cdnAmpWebUrl: "https://citizen-co-za.cdn.ampproject.org/c/s/citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://citizen.co.za/wp-content/uploads/2021/08/artificial-intelligence-AI-dabus-south-african-patent.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Academic City introduces a degree in Artificial Intelligence: first in Africa"
     excerpt: "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI."
     publishedDateTime: 2021-08-05T14:13:00Z
