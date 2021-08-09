@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Expands Self-driving Car Fleet in California, Apple Car Not in Sight"
-    excerpt: "Apple is slowly expanding its self-driving car fleet in California. At the end of July, the company added another vehicle to its fleet, which would raise the total to 69 self-driving cars. Furthermore,"
-    publishedDateTime: 2021-08-04T08:14:00Z
-    webUrl: "https://www.autoevolution.com/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/apple-expands-self-driving-car-fleet-in-california-apple-car-not-in-sight-166608_1.jpg"
-        width: 1524
-        height: 818
-        isCached: true
   - title: "Curtiss-Wright Enhances MIL-grade Rugged Small Form Factor Computer with New Industrial-Grade NVIDIA Jetson AGX Xavier for AI/ML/Edge Computing"
     excerpt: "Curtiss-Wright’s Defense Solutions division, a proven leading supplier of small form factor (SFF) mission computing and networking solutions, announces that its Parvus DuraCOR AGX-Xavier rugged modular mission supercomputer will now integrate the newly introduced NVIDIA® Jetson AGX Xavier™ Industrial System on Module (SoM)."
     publishedDateTime: 2021-08-04T17:42:00Z

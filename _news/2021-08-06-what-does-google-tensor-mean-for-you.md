@@ -41,22 +41,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google Tensor Chip: Everything You Need to Know"
-    excerpt: "Google has announced its first custom chip called Google Tensor for Pixel 6 phones. Here's all we know about the Google Tensor chipset so far."
-    publishedDateTime: 2021-08-04T07:44:00Z
-    webUrl: "https://beebom.com/google-tensor/"
-    ampWebUrl: "https://beebom.com/google-tensor/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-tensor/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/08/Google-Tensor-Chip-Everything-We-Know-so-Far.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "soNd6u2OnLsGtPyNH3ZoZLUNkKJaBv5lSyZFesPEFlrKmZ8nVh/2ofSnbdWRQebBrWaB3FYefGFo8sTm0rFgr3HtsIqGAt6d1dQjg/kBAJxHjIucbcu8cZk2Jn8LH2dmqH312/or/hijcB4h3e4MSl59vBPbta0v7M+eLdcP4UK43XW1iOkLDAFyrzJ8/ftLxBmGpj+oZtlBEeLq4LbjbnLqGhyVLH1LlWNGETuTNrZGhPYL/a3q0+RbGSZpcq9IMTmY76n9sNP39qeHLdP8vAxdGE9rpmta2+ePcZN9AC9ss1bYhEib7Vhh/rS4aOiRhiDf5vPEeAg6EyXOetSzlYSkAPkkZxdEAVvD+CD3JT4=;5465BULSv2Xrm8AAePlfZA=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 435
     isCached: true
 
-related:
-  - title: "Foresight Research: Consumer Resistance to Banking AI in Georgia"
-    excerpt: "Few banks are disclosing the number of AI users that engage with their chatbots. Why? Bank of America reported about 20 million or about 30% of their customers arere using ERICA – their chatbot. ERICA has been in use for about 4 years,"
-    publishedDateTime: 2021-08-04T08:58:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/foresight-research-consumer-resistance-banking-ai-georgia"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 37
-    images:
-      - url: "https://financialit.net/sites/default/files/mts_20-4-2021_-3.jpg"
-        width: 2300
-        height: 1300
-        isCached: true
-
 secured: "Q5A1CQI1W6YX1hMLCIc035UE034bMOtgVp5JEOOAJD7K3qzLDvUk3GblBOndcJS55rXEI08jk88l2Yu/1t26/X0kjVxlcfKDlXBAWc9Yp6ZupYtAvLN/bpGPq92NFfmZag+7wAllegA6LsYPM0J2CFLr7bXMUnwYRtSJpik94lm3UdQB6S8ldooKqekoYKFL1O6wOlKVg9OjxksHCfl/5oXPMCp+9AWJQvw/Fmu8j7s2WrVQPJmK+hYZOh0ilzVxrKpXJUoXhVRxmRVge7ubP7PX8kSzNR3av6XEfsellATM3Rh95HrpiO5odbynMziKW5BaPsy4ZF9huAebipvot44wQgnPe2lw7E2952NSYcaqPuPJ35fgMfdf36ldw8+2NFzaKLmcy5vcNh1+l2Lm1l+A9O+uvnWyfqHIq2m292+cjWLGqfhZsFiceCtxn7K/jxRKxLhoW2n6fHRcsuqh2gJLQApR0Fopp98WJB89ri+aHHBvma4y02d7/CbPFFezCBLg8eeYMB+GLGhdmZeXaQ==;JHJKO/0Zz1dImfYvF6Ytfg=="
 ---
 

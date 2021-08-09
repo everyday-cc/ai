@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Could Dramatically Speed Up Climate Action"
 excerpt: "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture."
 publishedDateTime: 2021-07-27T00:00:00Z
-originalUrl: "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152"
-webUrl: "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html?section=152"
+originalUrl: "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html"
+webUrl: "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1200
     isCached: true
 
-secured: "ZfaSZB/nxOtwj3OiPfMvwVL4WTdjv7tR/iPMN8WnnCpPZYNMRSd4TfQtXU6O25/XiU7lNljiy0tUmHuYKiH78IThEVozn8194ATpbdGzoG32f4F8QmnCYvBngBqgfldOsABPescElRRulha/47ZHIxNewPlKxs3xadnGdGbSvU6db8ii51ER5+pmrKlaAxzySylbX4udQDIRquL9rHLxhAtPNT2zyx/U/puS7H5LHaOB69BbxznRv4fGappYXHj/rtvyNt83a6IKXyTS6OhruS6OXDOW0MOSNdIv1DBj1k94lP9Mwoe1he4lcDVDjeOPmVK1i0DEui95USeaXxamFj6v6J50gbFo13jzFpAlL1o=;h42xYhxU8q2N1CwCl5RHiw=="
+secured: "JcXsYUs03n5VvUG/XeSWYsOdzSg4f3KohxeBjLVQzCBX+PZsdHNftFC2JSCKsXNrcQ/5oY6zIWlA0sjF0lkYvf2eszgXyZUhhIBPdxOXiOLhq9Z2jwcmOKpnbodQjgKS347XcHyrzNrlG/nq+bgQiVQzfAoCtpslU+xeT/lAW3wV4QbIhHg5pnz+F1Lq57fzei+LDY9nqtURNy7x+2Vmy71F537Aue1Y+P+zbsv3xd+HeJwb4RqRxlsM0RYOc8N31IRhkLV5Ax9Xxx67r0v4Do4/ahQ9Sb9O2iBFNVfgtsLzpXTNV103Nx+NFngb2zaLviOzr9dNG8wEnTY9H7yFq3L0S94R3n5iL6pRWDvr3Xg=;tg2EXdVeQNaQphuc3mFIDg=="
 ---
 

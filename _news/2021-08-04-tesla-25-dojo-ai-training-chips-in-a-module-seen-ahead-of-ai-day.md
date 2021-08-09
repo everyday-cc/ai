@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/tesla_29.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Tesla Begins Sending Out AI Day Invitations"
-    excerpt: "Tesla has started sending out invitations for their upcoming \"AI Day\" event, complete with an interesting teaser... Tesla has started sending out invitations for their upcoming AI Day on Thursday, August 19th."
-    publishedDateTime: 2021-08-04T08:26:00Z
-    webUrl: "https://www.thestreet.com/tesla/news/tesla-begins-sending-out-ai-day-invitations"
-    ampWebUrl: "https://www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tesla/.amp/news/tesla-begins-sending-out-ai-day-invitations"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgyOTAyNjIzNTMwMTMyODk5/210803aiday.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Tesla AI Day: Five Things You Should Know"
     excerpt: "Tesla CEO Elon Musk will be delivering a keynote on this day. Tesla’s AI team lead, Andrej Karpathy, is expected to make an appearance, where attendees will see the company’s latest developments in supercomputing and neural network training."

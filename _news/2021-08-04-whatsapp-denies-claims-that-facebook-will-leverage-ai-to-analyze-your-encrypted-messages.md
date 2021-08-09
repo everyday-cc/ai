@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/whatsapp-denies-facebook-ai-analyze
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/whatsapp-denies-facebook-ai-analyze-encrypted-messages"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: HotHardware
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook reportedly wants to securely mine your encrypted data to target ads"
-    excerpt: "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i"
-    publishedDateTime: 2021-08-04T08:22:00Z
-    webUrl: "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 51
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FZuck-money.jpg&signature=781fd7a9456599290afb06f5fff80ff9"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data"
     excerpt: "Facebook reportedly recruiting team of AI researchers to find ways to analyse encrypted data - Facebook is reportedly recruiting team of AI researchers to find ways to analyse encrypted data without decrypting it."
     publishedDateTime: 2021-08-04T10:36:00Z
@@ -73,17 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook is trying to monetize encrypted WhatsApp messages"
-    excerpt: "Facebook is seeking a new way to earn revenue from targeted monetization, this time focusing on its subsidiary company WhatsApp."
-    publishedDateTime: 2021-08-04T08:21:00Z
-    webUrl: "https://www.phonearena.com/news/facebook-wants-to-monetize-encrypted-whatsapp-messages_id134092"
-    ampWebUrl: "https://www.phonearena.com/amp/news/facebook-wants-to-monetize-encrypted-whatsapp-messages_id134092"
-    cdnAmpWebUrl: "https://www-phonearena-com.cdn.ampproject.org/c/s/www.phonearena.com/amp/news/facebook-wants-to-monetize-encrypted-whatsapp-messages_id134092"
-    type: article
-    provider:
-      name: Phone Arena
-      domain: phonearena.com
-    quality: 24
 
 secured: "Y/MAYozw4dpqiGnSMycZmN1CY38dO47T7+s+CFsryKXhVT6FjG7Rvh/eJm1kNywjPSYv1f5mfgXZKhDc+esNGnLuKFEXxgcjOdYu6zVnVGAxJPLESWKAiwHmPNEyAKh2ao3vTvGRyq4Xx+JHBNHww7gFNduZ9OOQoYIhf+Su0TEX0yFaKzumwXvKWQCo35BeX4SZ1UPO5NI0TV2eO1y/SkRffbL+xXKihJSNzINEBkZd1mhJEiB5n9H51K5QhUmB5GSmwvoo6nOo+Cy0CzH1wPH1IWePKdYA+qKZiylB+9J0RKN71FSQHLgQJSgGqREkFfGIQVSVkYC8KPo4hgmp5yyWBslDD6ae6I1pcD55GVQ7/NUVL6/tJQCC0p5gEurN69F0Q5nUMTGGOB+V3w+9nb9kaX9+oZJ8V1N1WmFgbe98NNL0uTfxTwGsGFVCATysPnvzfOy8aaEBgB1cjU+yBGErgm0rZwMUH66bFlHIdI+ZKdi4PgdHaFltQnsLX0Rw0MqP7sTgkb2JbszGq8tR1w==;DuwC/NzOEj5MyJJk2IkWnw=="
 ---

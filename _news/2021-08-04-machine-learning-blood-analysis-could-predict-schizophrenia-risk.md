@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/machine-lea
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
 type: article
 quality: 59
-heat: 91
+heat: 89
 published: true
 
 provider:

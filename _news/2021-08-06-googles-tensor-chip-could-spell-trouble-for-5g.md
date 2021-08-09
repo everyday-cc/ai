@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-tro
 webUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Tensor Chip: Everything You Need to Know"
-    excerpt: "Google has announced its first custom chip called Google Tensor for Pixel 6 phones. Here's all we know about the Google Tensor chipset so far."
-    publishedDateTime: 2021-08-04T07:44:00Z
-    webUrl: "https://beebom.com/google-tensor/"
-    ampWebUrl: "https://beebom.com/google-tensor/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-tensor/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/08/Google-Tensor-Chip-Everything-We-Know-so-Far.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "What does Google Tensor mean for you"
     excerpt: "Google will use third party designs for CPU, GPU and modem. This along with the fact that Qualcomm has said it intends to continue working with Google suggests that Tensor chips will be similar to cur"
     publishedDateTime: 2021-08-06T11:26:00Z
