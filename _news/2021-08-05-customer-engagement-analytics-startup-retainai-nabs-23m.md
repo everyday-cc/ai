@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/GPU_shutterstock_mmaxer.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
+    publishedDateTime: 2021-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
 
 secured: "+d4LRn02J7XZ5QU88VXEI7fu2XO25X8TQFunTuzd8DqPfyW5b62JySbQQfK3WioJHHXsOjJDJwu9LRIsLVXaHhPZxZ8QPSSF0I/4N57c2J3nWJFVsPuFXtMqlHrBvaAc3szMoL/FbLGST6nSPk0Wu4iTmksT4pon9tG7REBpeW6cLlDpM3msdXlckFauAcMe3glM74KMhohOSOwVV/S6TkWyW1SW6vXzo8lrIDT/8U1kpu0Tg8jbcIlBkpEzFc018HQv8CFx3794eqk5fMsLRlm8hk+/rLJ07fxtsf+oLe/2Bpr5ExGDQzZTz8E0en6tvxQT/gvzcpP25pkDw6WmS78bt7k6alyaO0zZKeZa36ue/9PLKwdCZ8vWGkfO2ayZuMYC3C/fxfjKwp3ZwVUmOry/IWoMIpbqO41gujz4sAeVbCq4V40SZZWtIOE5DAJRCgzgA+2SxG+RalkaXhR+oLS2VNkz7mWGkicpE5XYb1ZewGtgzuD7iGCjs37BLUV8tY5tzBTUNtpMBuh+uvdw0A==;heji7QQk+W05pVvR92PtVA=="

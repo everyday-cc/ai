@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05"
 type: article
 quality: 54
-heat: 74
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
     excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2021-08-05T16:03:00Z
@@ -37,6 +51,24 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 8
+  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 7
+  - title: "Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Energy-efficient Artificial Intelligence Chip market report provides"
+    publishedDateTime: 2021-08-09T12:10:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4745964-global-energy-efficient-artificial-intelligence-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
   - title: "Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Face Recognition Turnstile market report provides a detailed"
     publishedDateTime: 2021-08-05T00:00:00Z

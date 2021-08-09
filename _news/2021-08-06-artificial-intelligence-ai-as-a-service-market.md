@@ -18,52 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Innovation Summit"
-    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
-    publishedDateTime: 2021-08-04T20:50:00Z
-    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+  - title: "Global AI services market to hit $50B by 2025"
+    excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
+    publishedDateTime: 2021-08-09T03:24:00Z
+    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 54
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
-        width: 1000
-        height: 500
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/artificial_intelligence_tablet_brain_smallernowhiteline.jpg"
+        width: 800
+        height: 501
         isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market"
-    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
-    publishedDateTime: 2021-08-06T13:49:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-  - title: "Top 10 AI Innovations Of 2021 So Far"
-    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
-    publishedDateTime: 2021-08-06T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
-    publishedDateTime: 2021-08-05T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
 
 secured: "aLeYLFgP3b9mAPpsrdvn7gvGY2vqKvWSWzm2MGjlpQwvgtt4RsGVIvZaWWBj828gg0ICmhhvDfBr3CO5nN4IlK1hVQq/npWleijNenbmg4vN3HiPkeWLT/LwE6E91MVirzeIDiFkH+KtS+iMdmZuSAMz1JabxxKnYNnZ8CA1AOIZ5G27AwfJMfQx9rZ4ndAGz+A2sqaWXqUcxbp5lfB1PLYVy/f9m0oQ8+tPml8y1d6Pw71xhpsZaJ+bewbd0nNHYrxmYpTuITeapk87XEvLNbQvlztQxS6ViQM0oZERp346sYvXwhyAFO/RkeylXnjc3DkBzLTfzG7T6sfP3ulML3a+9dv2c4iAncG/EVhH7fo=;REC9w2JoDYdmDwiK/yqK8Q=="
 ---

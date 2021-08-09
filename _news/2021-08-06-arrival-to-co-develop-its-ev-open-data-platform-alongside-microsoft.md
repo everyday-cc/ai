@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-dat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
         width: 800
         height: 434
-        isCached: true
-  - title: "Microsoft researchers reveal neural network with 135B parameters"
-    excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
-    publishedDateTime: 2021-08-04T20:32:00Z
-    webUrl: "https://siliconangle.com/2021/08/04/microsoft-researchers-reveal-neural-network-135b-parameters/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/microsoft.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"

@@ -1,0 +1,78 @@
+---
+category: news
+title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
+excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
+publishedDateTime: 2021-08-09T13:10:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17285"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17285"
+type: article
+quality: 7
+heat: -1
+published: false
+
+provider:
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment"
+    excerpt: "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,"
+    publishedDateTime: 2021-08-09T10:00:00Z
+    webUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment"
+    ampWebUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
+    cdnAmpWebUrl: "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
+    type: article
+    provider:
+      name: wvik.org
+      domain: wvik.org
+    quality: 74
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG"
+        width: 880
+        height: 542
+        isCached: true
+  - title: "John Deere acquires automated agritech start-up Bear Flag Robotics"
+    excerpt: "The $250m deal will see autonomous tractor company Bear Flag continue to operate from its Silicon Valley base."
+    publishedDateTime: 2021-08-06T09:24:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear-flag"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/BFR_Tractor_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "BREAKING: John Deere acquires AgFunder portfolio company Bear Flag Robotics for $250m"
+    excerpt: "Bear Flag Robotics is John Deere’s second major automation acquisition in the past four years, following its 2017 buyout of Blue River Technology."
+    publishedDateTime: 2021-08-06T02:32:00Z
+    webUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
+    type: article
+    provider:
+      name: Ag Funder News
+      domain: agfundernews.com
+    quality: 47
+    images:
+      - url: "https://agfundernews.com/wp-content/uploads/2020/06/Bear-Flag-Robotics-e1628216888716.jpg"
+        width: 340
+        height: 255
+        isCached: true
+  - title: "John Deere To Acquire Bear Flag Robotics for $250 Million"
+    excerpt: "Bear Flag Robotics, a California-based startup founded in 2017, will be acquired by John Deere for $250 million. This acquisition builds on John Deere’s strategy “to create smarter machines with advanced technology to support individual customer needs."
+    publishedDateTime: 2021-08-05T20:58:00Z
+    webUrl: "https://www.agweb.com/news/business/technology/john-deere-acquire-bear-flag-robotics-250-million"
+    type: article
+    provider:
+      name: AgWeb
+      domain: agweb.com
+    quality: 34
+
+secured: "DMCi5H4vg3+gKpY/FOX1SBI7O89DldWcTvCXzwS4QdPMeeCweRNp8lKXsCggxE7dn+Z5FT9UEAqwqanfonoyPcPrefi5FLZiAuoFfsfsDW4yTzh62qPrXrJS9WWvi/ekHE7D3fJuKARttmHu4QPucZiSr8xygZPj1x/wl91gODieWzsn6eUpRJFwxRV0hPXs9Sqk5uERxHKiZtPRQaAI8096imcP0WHSpa06r7xAxjf31Zc+bZMFo0tGzPEEZIKPTlIyyNZrHSvmZm1uRW+kN7G0Pr2AbTnFjmzFiY1JRY19/bkOVtuNaBmIzGnyb+Qxq7jVxDsC7OiNfSpwfOpTTJr+vTCHpjJrggDM8rXO2RU=;WCZ3JetIXpnQsnwUNJMshg=="
+---
+

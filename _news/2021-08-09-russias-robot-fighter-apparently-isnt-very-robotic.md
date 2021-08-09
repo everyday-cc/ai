@@ -1,0 +1,51 @@
+---
+category: news
+title: "Russia’s Robot Fighter Apparently Isn’t Very Robotic"
+excerpt: "In the race to develop robotic fighter jets, it might look like Russia is pulling ahead of the United States. But appearances can be deceiving. Russia’s first few robot fighters ... probably won’t be very robotic."
+publishedDateTime: 2021-08-09T12:00:00Z
+originalUrl: "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/"
+webUrl: "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/"
+ampWebUrl: "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106b25e970047366f7c323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D72%26cropY2%3D747"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "The Future Is Now: Russia Wants Its Air Force To Be Mostly Robots"
+    excerpt: "Russia has an idea: have robots do the work and run the risks. Key Point: Today’s smart bombs and artillery are astonishingly lethal. But for all their smartness, they need a pair of human eyes to tell the bombs where to hit."
+    publishedDateTime: 2021-08-05T23:40:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/future-now-russia-wants-its-air-force-be-mostly-robots-191324"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 54
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/49522403822_b4212cc530_o.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+
+secured: "60z2coOF72Z/I7xNjO8T4SkMbJRrU8RYjl+EEJBqpAKsvWSPgcuDre2fn3+wFEQVz9+M8VAe+rx2ry4tWIl1WE/eZ12edsenbUuIjTYhJaO39joVNGaHu9FMwkNc5+i0FKXBPxC6ie1AC/5fdDGmH3+JZ2Eit5LV2A7cnWW9kzbaUNYUBLfvDnp38kFP1SP8cIID4YWP24hQ/QqWdWd2ogyTB519mCm0R4hX+dJ0c8N9XJJE7OdvH8ZyL2FRebzlVYV3RAqq3CBxwtWH+e8H0pW+hgiZckZauKoP9tchUxbMoXlEsfZ0b+4TmVcmeGVem3LxHpuz3L59IEcLqBQl4+Bj0DO7kT89Kp2gXSNjTSk=;HPa1FZNtv8HY02KSK2NILg=="
+---
+

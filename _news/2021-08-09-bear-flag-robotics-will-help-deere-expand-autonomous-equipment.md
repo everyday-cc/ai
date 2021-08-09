@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-
 cdnAmpWebUrl: "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
       name: AgWeb
       domain: agweb.com
     quality: 34
+  - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
+    excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
+    publishedDateTime: 2021-08-09T13:10:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17285"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 7
 
 secured: "H8QqnyKuYD5giGhZZtCK22eOEQzSRvXmWQFnGcrzHsQaxJ3p73aCTyQrdXJTLEkbX0Omhqfqm2IhdT0MmrVMiX5uW3OzBreZh5Vv+o2z3VqZMw8k84Aa2iab5xoj5fjU8/eSzPq08Vc+P+9OqR9RZjSYWo7czi2LV3ChCJ1PmleWjbytj/RWCeFfJNYqzSddGGa+bP4D7RvqD/6qE1/9dEjcUPHOS3BrSIhC7Hr+u5lv/4O9SCg1IZQW8hlE8nrMKuVyD/NRTondi2L948/9I/w/xtGpIUWCQUNyy9+lJ16h1CMoVBjBReFlOfLGk4ob2eVfLXZEUkS/hfk4yqyupOQJvbq450jdO7CLE4b0/OI=;uYsMsFtwXODWOOayOwSdWA=="
 ---

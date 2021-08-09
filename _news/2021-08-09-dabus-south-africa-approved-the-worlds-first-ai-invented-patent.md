@@ -59,20 +59,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Rethinking Education in an AI-First World"
-    excerpt: "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the"
-    publishedDateTime: 2021-08-04T20:28:00Z
-    webUrl: "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg"
-        width: 900
-        height: 562
-        isCached: true
   - title: "In a world first, South Africa grants patent to an artificial intelligence system"
     excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
     publishedDateTime: 2021-08-08T08:23:00Z
@@ -88,6 +74,22 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
+    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. The innovation in question involves interlocking food containers"
+    publishedDateTime: 2021-08-09T13:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/w65rah/article35817494.ece/ALTERNATES/LANDSCAPE_615/vbk-stock-ai-artificial-intelligence-pixabay"
+        width: 615
+        height: 384
         isCached: true
   - title: "In a world first, South Africa accords patent to an artificial intelligence system"
     excerpt: "On closer inspection, the patent is anything but mundane. That's because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS (which stands for “device for the autonomous bootstrapping of unified sentience”) is an AI system created by Stephen Thaler,"

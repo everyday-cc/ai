@@ -18,52 +18,61 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Innovation Summit"
-    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
-    publishedDateTime: 2021-08-04T20:50:00Z
-    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+  - title: "Artificial Intelligence Market Report 2021, Industry Analysis, Share, Size and Forecast Till 2026"
+    excerpt: "By IMARC group the global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Sheridan,"
+    publishedDateTime: 2021-08-06T02:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 54
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
-        width: 1000
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market"
-    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
-    publishedDateTime: 2021-08-06T13:49:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-  - title: "Top 10 AI Innovations Of 2021 So Far"
-    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
-    publishedDateTime: 2021-08-06T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) As a Service Market"
-    excerpt: "Market size assessments and deal expectations for the business have likewise been created. Get a Sample Copy of the Report to understand the structure of the complete report Top key players: International Business Machines Corporation (IBM,"
-    publishedDateTime: 2021-08-06T06:05:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-as-a-service-market-size-status-and-global-outlook-international-business-machines-corporation-ibm-us-sap-se-germany-google-us/"
+  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
+    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2021-08-05T16:03:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 32
+    quality: 8
+  - title: "Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Energy-efficient Artificial Intelligence Chip market report provides"
+    publishedDateTime: 2021-08-09T12:10:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4745964-global-energy-efficient-artificial-intelligence-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 4
+  - title: "Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Face Recognition Turnstile Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Face Recognition Turnstile market report provides a detailed"
+    publishedDateTime: 2021-08-05T00:00:00Z
+    webUrl: "https://www.reportsnreports.com/reports/4739282-global-face-recognition-turnstile-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "eIiTbSHyb3FGgdSAL2wgcRh+E4ceZ4b3CI5YoSg056lcPILrnsCRfhVNpdRkRdkMdZXMUXwWsfudVLApUxB2nty1zzbXdSuw5z+LDqKWcysPns4yb+C3dLpiZv16ihDA8zt4z+1/t2z2LX7k+FbRN3Of+UjO5cqQOy59uI7jb7L5xpBwM+jpGpvmNkAXiFp5v0vZGCNmHJ2cNaLYEYJG1fkAdpLaK6KYEC2oL9KvRkmyZj4G0u4CPE0l0hQwqhFtSda8DGeNvb3+hU7riSFre88W67+GKSdDqCyoUsxDV2OIBbRs1esrZoPEkZ9rnlDH5n1Mz0tEn2Q/OtURZlcu8U55FY0JVKJcKrOxdU98auU=;GpOHwLumMqNOxaInJzZlMw=="
 ---

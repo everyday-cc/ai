@@ -63,6 +63,15 @@ related:
         width: 340
         height: 255
         isCached: true
+  - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
+    excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
+    publishedDateTime: 2021-08-09T13:10:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17285"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 7
 
 secured: "dMBm0wLch4HWFfKo5JHK0E5ByoFgHP+VxVzr5unSGeV32liCTbgQU0NAYhEf1CL7qOqu+zZwhiSL1RffIK6Jfzf+cMGibP+O9gtxHrDqct3UVGbP8bDodVhXReh6CUHlS7EeyLJoaCRy8CgM1+kTjxEUDeEVGO0XOb8lrouoz4wNmH7ViEhCThoffCk0AvxxxTIpfgkm7JgYQCMxpkrfCat2L1mj+G/4cWCMGPMzvBm8CRpgmgDfW8yvcfpkYEDhYEAZpOhfClU7bPmXFvm/M8NHPDvXFDfQw0poakoz6ScW/6/7ztTM5aQjT3eQA8UmACtHXfmHSVHFWy3DXmz9kIjlAXfljzpIPUSJiVzPUdeKRVf9ou30AZg00AG/tnKbey2ZTT7ywREUrh4b9yYm6RZRctMeq+0zbs1vVCLBMRiUqNqiGhuK/6nAB+S6PVtZRj07EbXN+RZYy6tksPTCl1B2t7YfW4MlFnw8srfdIwCgy9c4QKiGWYiGF6OvTHJ9jncnjN4lJLti5k0D2VZGpQ==;VF+nNS1aIACqLJjoDT1Umg=="
 ---

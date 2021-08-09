@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology isn’t wholly accurate at reading Indian faces, find researchers"
+    excerpt: "A research paper audited four software tools and found they failed far more in identifying Indian women than Indian men."
+    publishedDateTime: 2021-08-05T06:00:00Z
+    webUrl: "https://scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
+    ampWebUrl: "https://amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
+    type: article
+    provider:
+      name: Scroll
+      domain: scroll.in
+    quality: 48
+    images:
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/162310-oggrgqfjba-1627905189.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "China's top court issues regulations on facial recognition technology"
     excerpt: "New rules on facial recognition technology are coming into effect in China, with the Supreme People's Court specifying a set of regulations that will better protect the data of citizens. The measures follow rising consumer concern over infringements."
     publishedDateTime: 2021-08-05T03:17:00Z
@@ -38,6 +54,34 @@ related:
       - url: "https://video.cgtn.com/news/2021-08-05/China-s-top-court-issues-regulations-on-facial-recognition-technology-12tcCltGTYY/video/fa876ad6b7e74d3bb79e738e07beee1f/fa876ad6b7e74d3bb79e738e07beee1f-750.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "India trials biometric boarding; new study evaluates facial recognition accuracy for Indian faces"
+    excerpt: "Six Indian airports are trialing facial recognition for biometric boarding. A new study evaluates facial recognition accuracy on Indian faces."
+    publishedDateTime: 2021-08-06T19:16:00Z
+    webUrl: "https://www.biometricupdate.com/202108/india-trials-biometric-boarding-new-study-evaluates-facial-recognition-accuracy-for-indian-faces"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
+  - title: "Josh collaborates with D-ID to bring facial animation tech to India’s short-video app users"
+    excerpt: "Milestone partnership marks the most powerful use yet of AI and synthetic media by a short-video app BENGALURU, India and TEL AVIV, Israel, Aug. 6, 2021 /PRNewswire/ -- India’s fastest growing and most-engaged short-video app,"
+    publishedDateTime: 2021-08-06T11:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-4cbe79d6a445186e45966269a26d9680"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "XpvIVHPuS5MDJHLycf/SE1cZ6NO+guf2HMlSKgvrZ5wSzLt+nvncmFzl3itZN6+tsluhcKRWc0ZK9sooE54BQBSKdziliJe5Sly6buWle3HOjRc6Pi/s9LbeK4H/C2iiDY0vfWDmjJNiBAd2nLINlxGt8H3bN/R2xauaKqau4n0n91+hDawUe12vw8EjhtmjL2cF43ebxejEv5sMe4gCVQbeOeZhMv6+FUQnViQBfwzmvSbvFB6d+U581vsICQg1NBfyBtXNkTlsGBYCAGEEnh9GmXP1Z4SDBWIjaMbj0VBmRe1SBrNInbWdKHOqyMAp4jZ6YDwXKrbvWU293dekY+RKThzXcvAXpMloDVDDgVc=;CUNPgbonnuOrYeZVUl2LOQ=="

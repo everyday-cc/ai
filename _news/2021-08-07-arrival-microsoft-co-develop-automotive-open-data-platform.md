@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Microsoft researchers reveal neural network with 135B parameters"
-    excerpt: "Microsoft Corp. today announced that its researchers have developed a neural network with 135 billion parameters and deployed it in Bing to improve search results for users. At 135 billion parameters,"
-    publishedDateTime: 2021-08-04T20:32:00Z
-    webUrl: "https://siliconangle.com/2021/08/04/microsoft-researchers-reveal-neural-network-135b-parameters/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/microsoft.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
     publishedDateTime: 2021-08-06T08:18:00Z

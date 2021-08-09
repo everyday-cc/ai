@@ -64,6 +64,15 @@ related:
       name: AgWeb
       domain: agweb.com
     quality: 34
+  - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
+    excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
+    publishedDateTime: 2021-08-09T13:10:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17285"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 7
 
 secured: "Ly+T9X3VRqDlMDY6JVJFwX6TIMFgeffLa6tS+oV7/u8+/skV4SuS2JDPvEUVlhH2OUrkNQpqjYfU8mG3Fz2ViKB7kaYLP5/fQcVHNMX1uchB7sUaAGgqLWzZ7ErqZwmzu0ABlu/WnbDFhCyl7F0l/JZ4dtC7IwELNSKILPyyFbva3sqJyyuca08fxjuTybAwZ2aDRIiNNV/V9/5q+v/id/ARuEKMo7FTu9pBP9yC1HOO4lLLuyjnWgrz8ZPha69ag0tKYU/aj6d1GMSq/AlcTJz06U2M+jKsnpe+HpRkvfyhWFVZpPYYJ8CjYc4Z8a9lyahsCVEap+ZnqqOcj0FYBAhTqV4sfCK4mLvZWN4/aFa9zd6At1NmN5ga/kgA4YIkXc1vX1C6unTC3q1kCMEUs0D+RfRt1bdpvj8KpCqIb/La1owDzZyj6fzAiu4qcFrkQFp2/Mm/8srJfUcsGOD3QoAkxBWcc3R8faloOwoGRleK/Vj5ynw89FrbpkBTsl/1D2pvUYbRJhWsqNkS0so8nw==;89hZL7l8H7M9VtIKebXMlA=="
 ---

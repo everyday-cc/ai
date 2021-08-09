@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financ
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 quality: 91
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Infoline
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "RBL Bank selects AWS to accelerate AI efforts"
+    excerpt: "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender."
+    publishedDateTime: 2021-08-09T11:05:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 91
+    images:
+      - url: "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank"
+        width: 615
+        height: 384
+        isCached: true
   - title: "RBL Bank selects AWS to drive AI capabilities"
     excerpt: "RBL Bank is building on its analytics practice and investing in AI capabilities to implement various use cases across multiple segments, including risk, customer service, human resources, and operatio"
     publishedDateTime: 2021-08-09T09:58:00Z

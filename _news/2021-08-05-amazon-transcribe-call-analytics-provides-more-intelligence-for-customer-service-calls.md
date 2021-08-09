@@ -72,6 +72,20 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
+    publishedDateTime: 2021-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
 secured: "M/1Xo1MfgsMLD2kACiqKxNr9sM9AecPi6ykHiq+DWWUTxxyCDGBrM+du27QzY/OWkAmd0gZirCWxqPIuLsZPHn8GGcAQ/fgcHDGRocrwilD19UsGZC0kt8wIhLJo4wGPto0+SYXtRSFCwF5oicqTnF4YcNg+1SE66OuN+N/o9UobviVHFD3xkmSoHYXX9WyeyNwrC11dmy+z0QJ99N5jqZA2iRx+yZ1P4gOg6Fh+CD/3p/ocnrVfQigoAnxjVCR9LSyp8Ay2A6TmDEIM4p2PP7H2zqQH/jk7zTxsmL5qRmwUntTDcfDwFaAB7PwK+Wli1tINZkrzJyUZli6mRQPg7odmWzHnHggILm4RDRFbQRlEK8Q6qTtnn6YFW4SWJ6f0Kt+I3U61ghqU8c8ATj+J56ioyTZU+C7AmNWc7ZbdMoova6sQ7htYHbb76EKyd7oXmLrIkLMSZc6oBolYxopviXmCR4/gfm21MbpZCT0Bxkl7zEmSevPX7ySgsakcKLz3Y/CJe6vPP5NRqeaWUAtBsQ==;aOiOumojZXa5qn8DhQ6RBw=="
 ---

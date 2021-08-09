@@ -19,52 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Innovation Summit"
-    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
-    publishedDateTime: 2021-08-04T20:50:00Z
-    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
+    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
+    publishedDateTime: 2021-08-09T13:10:00Z
+    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 54
+      name: openpr.com
+      domain: openpr.com
+    quality: 66
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
-        width: 1000
+      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
+        width: 750
         height: 500
         isCached: true
-  - title: "Top 10 AI Innovations Of 2021 So Far"
-    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
-    publishedDateTime: 2021-08-06T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
+  - title: "Regulate use of AI in healthcare sector"
+    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
+    publishedDateTime: 2021-08-09T05:38:00Z
+    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
+      name: The Sun
+      domain: thesundaily.my
+    quality: 56
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
-        width: 1600
-        height: 900
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
+        width: 480
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence (AI) As a Service Market"
-    excerpt: "Market size assessments and deal expectations for the business have likewise been created. Get a Sample Copy of the Report to understand the structure of the complete report Top key players: International Business Machines Corporation (IBM,"
-    publishedDateTime: 2021-08-06T06:05:00Z
-    webUrl: "https://manometcurrent.com/global-artificial-intelligence-ai-as-a-service-market-size-status-and-global-outlook-international-business-machines-corporation-ibm-us-sap-se-germany-google-us/"
+  - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
+    excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
+    publishedDateTime: 2021-08-09T13:13:00Z
+    webUrl: "https://www.openpr.com/news/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/8/U809313436_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
+    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
+    publishedDateTime: 2021-08-08T11:23:00Z
+    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 32
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
-    publishedDateTime: 2021-08-05T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 7
+    quality: 45
 
 secured: "6F/7wrbuVjF71YoBJ6sQjOhLV1CsjH5IKBCAZBdP8if2KhKbfd+bBDB+2H+MP9Fwqnr2YkCzzdIgkRQKDwZ3DEH/GDCIqgHGf9K1C9JDh8lHiygQobq5HWoOUgPbqMMLb/yxG0/D2XRbYqAjP09v40SZybOH9A8HMxLgqPJpi81fJRLkSR7ueBrscM8mgzWOGhRvQXpiIvhV13xKOc2i0GQ5UYACS41NO7XWLvShlCOOn3xZMsXSD5dEyRhr6dRV5b1Pt5ZkHTQbTA+tK/lFg7IAhLmqGsovSXPESqURPDeTpHaEIBLi08CzVwR/f5fuBoVyPKq3fsRem0Hunl8ngf0Aq7sLAmifZ5IfIMufIRw=;1W2PE1fVY7blFTMxdEjkBA=="
 ---

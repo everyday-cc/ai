@@ -53,6 +53,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "AeroFarms partners with Nokia for AI-enabled plant vision technology"
+    excerpt: "AeroFarms and Nokia Bell Labs today unveiled a groundbreaking multi-year partnership to combine their expertise and expand their joint capabilities in cutting-edge networking, autonomous systems, and integrated machine vision and machine learning technologies to identify and track plant interactions at the most advanced levels."
+    publishedDateTime: 2021-08-09T13:53:00Z
+    webUrl: "https://www.producebluebook.com/2021/08/09/aerofarms-partners-with-nokia-for-ai-enabled-plant-vision-technology/"
+    type: article
+    provider:
+      name: Produce Blue Book
+      domain: producebluebook.com
+    quality: 39
+    images:
+      - url: "https://www.producebluebook.com/wp-content/uploads/2021/08/AeroFarms-AI.png"
+        width: 600
+        height: 337
+        isCached: true
   - title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
     excerpt: "Ground-breaking technology partnership will significantly improve plant yields and quality in AeroFarms’ vertical farms through analytics, AI, drones and wireless networking. Newark NJ, USA – August 5,"
     publishedDateTime: 2021-08-06T11:54:00Z

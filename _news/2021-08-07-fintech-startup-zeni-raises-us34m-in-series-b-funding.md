@@ -73,17 +73,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AI-Powered Finance Concierge Zeni Raises $34M Series B"
-    excerpt: "AI-powered finance concierge Zeni has raised a $34 million Series B funding round led by Elevation Capital with participation from new investors Think Investments and Neeraj Arora. Existing investors Saama Capital,"
-    publishedDateTime: 2021-08-04T20:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/08/178727-ai-powered-finance-concierge-zeni-raises-34m-series-b/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/178727-ai-powered-finance-concierge-zeni-raises-34m-series-b/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178727-ai-powered-finance-concierge-zeni-raises-34m-series-b/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
   - title: "Ex-WhatsApp exec, Elevation join AI bookkeeping startup’s $34m round"
     excerpt: "As startups automate their finances, Zeni has seen a 550% growth in revenue and a 375% jump in customers year-over-year."
     publishedDateTime: 2021-08-05T13:43:00Z

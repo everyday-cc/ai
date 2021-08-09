@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
     excerpt: "Ross Mitchell, former AI Officer at the Moffitt Cancer Center, advises that AI adoption requires cultural change and cannot be fast tracked."
     publishedDateTime: 2021-08-05T19:59:00Z
@@ -52,20 +38,6 @@ related:
       - url: "https://www.aitrends.com/wp-content/uploads/2021/08/8-6AIinHealthcare-2.jpeg"
         width: 550
         height: 550
-        isCached: true
-  - title: "How FDA Regulates Artificial Intelligence in Medical Products"
-    excerpt: "Health care organizations are using artificial intelligence (AI)—which the U.S. Food and Drug Administration defines as “the science and engineering of making intelligent machines”—for a growing range of clinical,"
-    publishedDateTime: 2021-08-05T19:42:00Z
-    webUrl: "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products"
-    type: article
-    provider:
-      name: Pew Charitable Trusts
-      domain: pewtrusts.org
-    quality: 39
-    images:
-      - url: "https://www.pewtrusts.org/-/media/post-launch-images/2021/08/gettyimages1039290390jpgmaster/16x9_m.jpg"
-        width: 1820
-        height: 1024
         isCached: true
 
 secured: "XyTCsWfMoSLXyevlUnMQoqqY0L51sMjLk4LWHIb6IRGzmFW+LatgXjmF2vjT67nnow8TtNa11N/mgIsg430mZ2BP8SfyvEiz8nKOnlcOGOHGD7wUFn92rtmur2OSzJ0nAkFsSDnXYaosjHYO2SJsulzzshvFua6DqFTPTA70ajUVhxdnskNfXw7SPmMDHuP6dxkcv7vg6VCOIYH5uGrSmWrouamQCM84gyeJVfgXimBvTq73xBW1RtQpqj2S/n4vCe3QGSVFOcNhlvk/+n80vcorP5nUnPvJLw0C2CUi7UBzkRq22vgxs/DWFk4tNEj1dPMr+gwImRLOLdZzSDaVJHD6PIViLRo97q4ssDc7Bg4=;T5Hj5gIfn3VAF30KOWELzw=="
