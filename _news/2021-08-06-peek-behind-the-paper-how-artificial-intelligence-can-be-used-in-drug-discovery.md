@@ -24,47 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating Drug Discovery With Mindful AI"
-    excerpt: "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming."
-    publishedDateTime: 2021-08-04T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/"
+  - title: "E- paper: Why artificial intelligence is being used to write adverts"
+    excerpt: "When Dixons Carphone wanted to push shoppers towards its Black Friday sale, the company turned to Artificial Intelligence (AI) software and got the winning line \"The time is now\". Saul Lopes, head of customer marketing at Dixons Carphone,"
+    publishedDateTime: 2021-08-09T01:00:00Z
+    webUrl: "https://www.the-star.co.ke/business/kenya/2021-08-09-e--paper-why-artificial-intelligence-is-being-used-to-write-adverts/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Star
+      domain: the-star.co.ke
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://lh3.googleusercontent.com/mY9Q8-QSlmW7ECnKts9NjadUBtLFxsNY3MYysA8rcN4cggFcCsCKIrPWdvjV2_YCDkE2uOvVF1_67kuLilLInPU2xdo=s1000"
+        width: 940
+        height: 627
         isCached: true
-  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
-    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
-    publishedDateTime: 2021-08-07T23:42:00Z
-    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
-    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
-        width: 777
-        height: 824
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Drug Discovery Market to acquire new heights with increase in innovations"
-    excerpt: "In Drug Discovery Market research report offers an in-depth evaluation of all happenings in the Artificial Intelligence (AI) In Drug Discovery Market sector. This report is crafted to assist every participant,"
-    publishedDateTime: 2021-08-04T12:36:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-drug-discovery-market-to-acquire-new-heights-with-increase-in-innovations/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 17
 
 secured: "akximRxBNtFteknejxcvjgkcanJRBs2wz28iK5u8vZdfkEIC5e4/1yEcXkbN35KZFzyf1kfNS0dw9Fke9suG8vshojEVrsMgPgqLqeCI4BFFa28lV4c7pUiA/qM+RIiM42v9ix8hVvyCiWAxL9c4QFD2fDDJV6dcIs38Sv3XnDI0PlIOOFxCYocCyA8ShiUrRW5aZsa9tAbUn561CLuZ27cddPHhsOii3yKx+noc9PC+PJKR0F9kdgYXEWJY+mA0Obo/GmHbwb4/JsdXN+zk5EXMT9ZuS3akPpD4mKgFdaB4AIuJvGosqZ/tKrRSLjG1esVbGyeeaCHknXbgK6QpBR4CwdbpwKnJow9j3JnA7+8dZDKr38CU03ciiO1knqAQBZe9YHOjAbpj4yjNovfyWdVpEJKlwBBgJlocgFIfaeLHgA47ld2DqAJrNQoO4I7N4nGWKAui61m5jzTYvhBbG6FbYMg+Dzr89vedL1GOZQLc2J48IDcsjvm1tDlD7BF6va/3z8RdilUYGXp2GBUGcA==;NG1yfTt76JswTb1wLQgvWw=="
 ---

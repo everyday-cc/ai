@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global and USA Natural Language Processing (NLP) in Healthcare and Life Sciences Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Market Analysis and Insights: Global Natural Language Processing (NLP)"
-    publishedDateTime: 2021-08-04T09:54:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4725599-global-and-usa-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 25
   - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
     excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2021-08-05T16:03:00Z
@@ -59,15 +50,6 @@ related:
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 7
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Insurance Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence (AI) in Insurance market report provides"
-    publishedDateTime: 2021-08-05T00:00:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4738804-global-artificial-intelligence-ai-in-insurance-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
     quality: 7
 
 secured: "D2/iCEpxdCjWQUZKjTvtp2Gi6poStkySzIzZQK6H0WnRY7S8mnEJZ737dVvjzQnw60mAu6jM8PaMLtYjRtYZ4rxtfkDfUV0oiHn/YcyvF/AIHL2IcdGZNh3lKgfFmBZaMI1/zs5axtGMBoKaJCuSgYOIhZwUHk6twbH99aa+3kgleysmnsrjp/8VhrlqPi0HssbqloYbPRFnbUuxDP8lF2pKly2hhzLhzCSHTIsdbw7S19sdnUU9Z+ptQzXvPmX4WYhyWjHYrItdyU4B84ME9ifohK+497EczUrw35tPCJezGQ0NfTbK8XQLNQ70WCrEatF2A8+cZFlG/L2iWKA2fB5iRSkaUFRX9gzkDBOGDEM=;vEANyivWDjOr1fqWanBguw=="

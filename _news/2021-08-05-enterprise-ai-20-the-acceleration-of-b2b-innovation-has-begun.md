@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI Is A Powerful Tool For Coinnovation"
-    excerpt: "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it."
-    publishedDateTime: 2021-08-04T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/"
-    ampWebUrl: "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/"
+  - title: "Laser-Driven Ion Acceleration With Deep Learning Neural Networks"
+    excerpt: "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology."
+    publishedDateTime: 2021-08-06T06:19:00Z
+    webUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/"
+    ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg"
-        width: 1200
-        height: 839
+      - url: "https://scitechdaily.com/images/Maximum-Ion-Energy-Function-Laser-Pulse-Duration-777x466.jpg"
+        width: 777
+        height: 466
         isCached: true
   - title: "Enterprise AI 2.0: The acceleration of B2B AI innovation has begun"
     excerpt: "Two decades after businesses started deploying AI solutions, one can argue they’ve made little progress in achieving significant gains in efficiency relative to the hype that drove expectations."
@@ -58,47 +58,19 @@ related:
         width: 743
         height: 400
         isCached: true
-  - title: "Artificial Intelligence (AI) Innovation Summit"
-    excerpt: "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity."
-    publishedDateTime: 2021-08-04T20:50:00Z
-    webUrl: "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417"
+  - title: "Successful IoT adoption requires iteration, learning"
+    excerpt: "Control Engineering - Learning Objectives Integrating Internet of Things (IoT) components into products and processes will increase operational efficiency and create"
+    publishedDateTime: 2021-08-05T05:03:00Z
+    webUrl: "https://www.controleng.com/articles/successful-iot-adoption-requires-iteration-learning/"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 54
-    images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Top 10 AI Innovations Of 2021 So Far"
-    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
-    publishedDateTime: 2021-08-06T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Acceleration in Innovation! The Latest Breakthroughs in Conversational AI, Computer Vision and Recommender Systems with NVIDIA"
-    excerpt: "It is a dynamic and threshold breaking time for advancing innovation across Conversational Artificial Intelligence, Computer Vision and Recommender Systems (RecSys), with NVIDIA accelerating new ground with the launch of TensorRT 8,"
-    publishedDateTime: 2021-08-06T10:38:00Z
-    webUrl: "https://www.bbntimes.com/technology/acceleration-in-innovation-the-latest-breakthroughs-in-conversational-ai-computer-vision-and-recommender-systems-with-nvidia"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
+      name: Control Engineering
+      domain: controleng.com
     quality: 26
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Acceleration_in_Innovation_The_Latest_Breakthroughs_in_Conversational_AI_Computer_Vision_and_Recommender_Systems_with_NVIDIA.jpg"
-        width: 1919
-        height: 1080
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_IMG_Prescient_Fig3-Slider.jpg"
+        width: 645
+        height: 350
         isCached: true
 
 secured: "QlbqCZwxns/oDQu5p0nE8R9uvp7tTGuuYx8GSADGcmuB5TlorMH5mQ3BwkEod2Lbd8yTROXgyT56iSU2fxWjkPynDzYXHarkqSSvOe2v9DESTgr2UEAcaj0T/eCsv+gAABRG2rz1IS23JZmtCoeVxgV9lZHWOIVq12HhWl4TEmbgqjn1vzDRvKTm2YMVKCK9AjvZUaToadZFvp9AqgcCdLOEFhmzYF50J/goFjYWVkkQAaqB722HTrFjqbGl8GeNpulLnEphd594YGKVeZ/pc8XZegGS3oNTzAyIYUFTM3PWeMyIUJ+gWzWrbSpYdIHSKwYR8Dee4fP0Gi+26Px31ec0e8XuiERN8IE9jOjFQcIFzOn8FTme2OeInTehG0fNmgENdKUeE9g8I6saCOorVP7wLYtX75Kb5hrI5vg60JsiCL7Z3hNV+pzMIlwElZwcI7xEq7SecTe+2DEF3tTi+GkKm2irElrMaU0KWIZrHqiVq67L11+4Z4O+vUDW2heixvbsbBHiqjFvilI0zKDXJw==;WiOk0ApTzCXLaPRu5HZobg=="

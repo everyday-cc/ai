@@ -28,7 +28,7 @@ related:
   - title: "Australia Central region added to Azure HDInsight"
     excerpt: "Microsoft has added the Australian Central region to its expansion of the general availability of its Azure HDInsight service."
     publishedDateTime: 2021-08-05T23:13:00Z
-    webUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-to-azure-hdinsight/"
+    webUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-azure-hdinsight/"
     type: article
     provider:
       name: ARN

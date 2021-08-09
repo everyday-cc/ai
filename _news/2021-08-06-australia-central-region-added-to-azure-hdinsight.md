@@ -3,8 +3,8 @@ category: news
 title: "Australia Central region added to Azure HDInsight"
 excerpt: "Microsoft has added the Australian Central region to its expansion of the general availability of its Azure HDInsight service."
 publishedDateTime: 2021-08-05T23:13:00Z
-originalUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-to-azure-hdinsight/"
-webUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-to-azure-hdinsight/"
+originalUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-azure-hdinsight/"
+webUrl: "https://www.arnnet.com.au/article/690346/australia-central-region-added-azure-hdinsight/"
 type: article
 quality: 39
 heat: 39
@@ -54,6 +54,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/3EIkaYDg8RlsCjVTwk1GydKg6yc7APhMUurJNfx0rbYYhQx6vePspx5NFMFZD9YVeZvaur611yZywuunVUJAoovZkcCa5V8eCbaIILquGYbZ1rjp9k4X2tx1HhBrpwC1oFI2grwEZ9jQtVTRhUdVDjHcIzOgkUXit8k2K5iQyDC3PyxhbhIgILm6TCf3+jwsg4Z/CdoiZb0aqiJ064mj6Uh1QBRLvuqNGvMAgZQHZleYyjBlzeY0aOCptxRgqrsmKtDEkslr86rUHmyeRlIzrJIDUBtZbKSq8W3lwPUG2yj2VMOUHRlctMNqFoME2DrNKl+Si+ifRwCtw2cKQ+fyJsjWQKymQgh9U3mkpc2+kbyiGSxvB5nGkDCjDwQUhOIjNIKIpZInOKslG4aL1UnUE2GaVJfxJmdvoKAP+VG9TzNTBse2Sp2Z5rgAj2UmiQQDct9N004pYaSjpYWBmEaj4JzDCYxEq2q4z/Xs7im3ikX+2AHtmlZgdM4fRlBIqKUOV2qojhqMBgb3HdKHSvZrQ==;R5L1IU/JypEUrxjdVpA4YQ=="
+secured: "PFtfZs0B/cgwMsys5kpHOrsxhckUMDpEzlZW0ZyOSp/M8T3gKBBIerMvTNx7ZcBdrV2GJR7174UVay09PsVXzNVhb+aEMv704LzLfaUT2bayrrmZN6qtRCTUm14yW5LPyW4dUcs0h33SDyasBDPL2IeKdPdGVyk9KIr6C4Q9yXbLQvySfxLag4UUHuuW7xeT1JXgjmtqAsXUz9y5Ka9u04yZ0vynjDmK6MwcBgj3v2ZKdH62+EGobV2WXEcReXkSOu7K7zvsNoJ/tRQ0FnvPsbS9euPe+7EDX9KyKTzk81kyF/XeGm4MVAKw9Y7jsVlT5jaLjcCpwIRkkGdU5M/NxsVQ/pxOdx3zhdLufCq3LXc=;6t5LkAGBjITqMwAhw4EuEA=="
 ---
 

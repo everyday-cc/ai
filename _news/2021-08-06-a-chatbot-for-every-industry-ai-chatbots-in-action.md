@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Yellow.ai raises $78M to expand its AI chatbot platform globally"
-    excerpt: "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital."
-    publishedDateTime: 2021-08-04T11:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/"
-    ampWebUrl: "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Startup which helps build chatbots, voice bots raises $78m in series C round"
     excerpt: "Customer experience automation platform Yellow.ai announced it has raised US$78.15 million in series C round led by WestBridge Capital along with Sapphire Ventures, and Salesforce Ventures. Existing investor Lightspeed Venture Partners also participated in this round."
     publishedDateTime: 2021-08-04T14:59:00Z
@@ -49,17 +33,22 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 44
-  - title: "yellow.ai Raises $78.15M to Deliver Total Customer Experience Automation"
-    excerpt: "WestBridge Capital, Sapphire Ventures, Salesforce Ventures, and Lightspeed Venture Partners Join the Series C Round as yellow.ai surpasses 700+ global enterprise"
-    publishedDateTime: 2021-08-04T11:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/b22320576/yellow-ai-raises-78-15m-to-deliver-total-customer-experience-automation"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22320576"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22320576"
+  - title: "Startup Street: Trifecta announces 1st close of late-stage venture capital fund; Yellow.ai raises $78.15 m in Series C"
+    excerpt: "Alternate financing platform for startups through their life cycle, Trifecta recently announced the first close of its late-stage venture capital fund - Trifecta Leaders Fund I, with commitments of over Rs 1,"
+    publishedDateTime: 2021-08-04T14:14:00Z
+    webUrl: "https://www.cnbctv18.com/startup/startup-street-trifecta-announces-1st-close-of-late-stage-venture-capital-fund-yellowai-raises-7815-m-in-series-c-10250461.htm"
+    ampWebUrl: "https://www.cnbctv18.com/startup/startup-street-trifecta-announces-1st-close-of-late-stage-venture-capital-fund-yellowai-raises-7815-m-in-series-c-10250461.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/startup-street-trifecta-announces-1st-close-of-late-stage-venture-capital-fund-yellowai-raises-7815-m-in-series-c-10250461.htm/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 33
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2018/03/shutterstock_558187168-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Bangalore-based Conversational AI Startup Yellow.ai Raises $78 Million In Series C"
     excerpt: "Yellow.ai, a conversational AI platform, has recently raised funding of $78.15 Mn in Series C led by WestBridge Capital, Sapphire Ventures & Salesforce Ventures"
     publishedDateTime: 2021-08-06T07:41:00Z
@@ -74,15 +63,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "Life Clips’ Cognitive Apps To Release Aiki, AI-Based Intuitive Mental Health ChatBot"
-    excerpt: "AVENTURA, Fla., Aug. 06, 2021 (GLOBE NEWSWIRE) -- Life Clips, Inc. (OTC Pink: LCLP) (the “Company”) announced today that its subsidiary Cognitive Apps Software Solutions unveiled Aiki ..."
-    publishedDateTime: 2021-08-06T11:39:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/14255290-life-clips-cognitive-apps-to-release-aiki-ai-based-intuitive-mental-health-chatbot/all"
-    type: article
-    provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 12
 
 secured: "3MEfxYejJceXzn7rCNnEZ92WjsdPR5C6GDNNIh4jJ/CzCRJMuOgt45b1WaZtSHzWCoFM9s9hdloA9yTJWDNbFD0ZOGyXeV7Ew4o4PxJn4NyTKrcVuvMV/rwozluB9glIqvdKi+Dcm+C1giOm0bBs3JMK23A7ZABFgluCaBF6rFY89hrZCc6Gj56ztMN9GLAzeCYb+U03YYVMu2gcPiFj0m8jgGOkY+QMsd7zwyhkLn32G6H2CaWYgWFhcFVVuKHrfAzAqEodlF84I/LqAXV8AoR4VCRnTmSlFUa6bMvGzOyQnD14CcqhDZmg3LpJd1KoBRvZut6+xV2AQQSIGSfvHWCYQTRARpbsiJ2JcuWm/yI=;+DV4LKqMH6NuGldGO5wclQ=="
 ---

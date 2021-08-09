@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI services market to hit $50B by 2025"
+    excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
+    publishedDateTime: 2021-08-09T03:24:00Z
+    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-to-hit-50b-by-2025/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 37
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/artificial_intelligence_tablet_brain_smallernowhiteline.jpg"
+        width: 800
+        height: 501
+        isCached: true
   - title: "Artificial Intelligence Market Rising at CAGR of 33.2% to Reach USD 266.92 Billion by 2027"
     excerpt: "The global artificial intelligence market size is expected to reach USD 266.92 billion by 2027. As per the report, the"
     publishedDateTime: 2021-08-04T12:26:00Z
@@ -54,6 +68,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 27
+  - title: "Cognitive Media Market Expected To Witness A Healthy Value CAGR Of 27.10% From 2021-2028"
+    excerpt: "Data Bridge Market Research added a new research study on Global Cognitive Media Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook."
+    publishedDateTime: 2021-08-05T16:21:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-expected-to-witness-a-healthy-value-cagr-of-27-10-from-2021-2028"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 15
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "YgPOBsYEaVKMTzrsNj2b6o53EPUtX70E/RkCwYwvWhtdSKHLWHiOI1qDyQlsXMeJ4UpWannUoJdSLmXCH32NJ/0IoWp3B8kDhzXmAVcPRfDL2/ajF9vOd4EcokeL0p01SmgkU2nuBj6xK1iTsQsAITVC4Tv9xHVENOp6wd4BcfCI/NJZJPRHEaTc+iN+40HMJ6ldqY3ZWE4inUuRJSwfsXCcUKAPLotvDFKP/QV7FRuLRKaHBM/vpR2Qw2rEoX/uDii0JJTVGCDmZht+fpq9Iizg4Bk+0hw6bYKcx7dSIjZofN7vtGsfAnxxVv6dqzuNnZKBKWU0kP7kpvxbgj9e0KSq3NSUFb2wkxuRaaZwXO4=;qXeOBSmA8EkulUoOPLCmMQ=="
 ---

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-publishedDateTime: 2021-08-06T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
+publishedDateTime: 2021-08-06T12:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
+webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
 type: article
-quality: 12
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Spell unveils deep learning operations platform to cut AI training costs"
@@ -46,6 +49,6 @@ related:
       domain: businessinsider.com
     quality: 67
 
-secured: "F4vVYvKbmXY2a25yNL+jmZGb9sxh8MdLOOyEjt/VoEODcMp2kNCrt2IDH2VB4guLzF94DFvlWeGhWhZJNAsYQXw1qp/X3PUo6uC2TN7tf5eiMWKR3+vIKdII0TFHtdhEYkPre1msFT1I60pmodEnIt6NJl3hLHs3XCzwocatuUlFnozgcqn92tRQP3Igkx0ImArAQQN4IoskiI/LVAWADVyFBf9JtY1xYnTBhZpyrj0HKv0MhR+qn4RO4ojOBl7wy41BkoMGN5bsVrvxJaDQER/6O6QIABrUo0uXPiVTjvT5XUeY4tMAdjWZNK/jLPa/gtoS7O7OspE+lkUhVQEHVJ2xCsLcWb1Bh8LC92XtFGF/vfgRZHX62ZtwL+N+YI2aWhQDHvy9lb2ZrUbFHNbPPcQZIfIpnFk2AXs4HZpmfkVho5+l1JQbhr94Xg5mbLSz0b5SML5cpf6TV/OAVxaMQ7dYHliFmzakHvwDgE92TYsojJKxBB2zL0GQeM3xikusEKWBH056u0r4GCmvep4p2A==;QtCBgIXIqm4VmBbXXvcdfA=="
+secured: "ru6OlkK4AzIoYAPJDlQ8U4cfsJqQF66mKGDczsAZF0w60hrvmtSt2FlnGt1JFNnowWMiHGeXY/uNusoHzt8hmlFLyAENQcYkXxx0vH5tzAfN++egQL3jqLDoxhTOC1FbhypJNTd7XtQyDB3b7Ro0CSCtAsOWx2RKYAzjMY4JNMMKn49z0yxxXrUaoJ22sg0bQ1AVsJgRwHbEQjbk7grB6r5A5ENKPtDgUO5A4PFINoN1tW795g+SiTINSodwg8VWAgFZ0crIuQycA2oM1IUDWfw6fPl25m/kTomrILHne+lBAGRw1uoBJ0dkslWsKJOxM3zCqWcR7WzTRe8IjbDBWq9MhPvkeb1c2DrwPaCM9NeT5hdavMC8D3p1hH30q6EGpU1HPUZMge1TAAxA7MgwmIjfkIFSLSbssSPvMOH640qlQMg2zM6jZBPLiO9tjPVhL5WaeNun3997VsUrThcuHiVwv/WmeMWnw2Ei8YRAZMTl1fdITOJRjNonkddC3Bm2Iw2qXNtr2aJhx1wG16DKfA==;BbZmB3Ao10eWvre+Vax5tw=="
 ---
 

@@ -41,6 +41,17 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Machine Learning Breakthrough Uses Satellite Images to Improve Lives"
+    excerpt: "Now, a team of scientists, including UC Santa Barbara’s Tamma Carleton, has devised a machine learning system to tap the problem-solving potential of satellite imaging. The tool employs low-cost, user friendly technology that could bring access and analytical power to researchers and governments worldwide."
+    publishedDateTime: 2021-08-09T02:16:00Z
+    webUrl: "https://www.noozhawk.com/article/machine_learning_breakthrough_uses_satellite_images_to_improve_lives"
+    ampWebUrl: "https://www.noozhawk.com/amp/machine_learning_breakthrough_uses_satellite_images_to_improve_lives"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/machine_learning_breakthrough_uses_satellite_images_to_improve_lives"
+    type: article
+    provider:
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 39
 
 secured: "iamkofyWuYVPEBvVD+/2H+gdAhW8E+d8AwwzA+T85U6j7P6kn7Ds1C4lG6QvZxLaTNK1/AKhyyq8mJOyrSL+lMmS5OGIpy0h6p+nGNimdnF0tSJl4eT2THBnGUeStdOq6K5968GGty5ZFaeNUehAiH5MFTn5MboBUuqIly/j3U2TP6hTQwnExIjjyC4WAx2oenwGY2BcyWSpSsvGdM0TR+V4ciF2fYiWxbHWPR9dOIjntXzBRWBtTwzVQWr4Xkntdogkzy94MZl2BPZqm+3PncfBmF86CzSNL1uMGt+D9Q3XXgiJMG/L9RoLGuSKRHkUYe7AMkxlGlkdCnWDa1IR0qqxtEs7SbPRzoqyJw/TNzw=;5LiYutWTC2DVTIsycHE/mA=="
 ---

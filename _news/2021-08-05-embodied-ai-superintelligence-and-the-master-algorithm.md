@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A|I: The AI Times – Artificial unintelligence"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2021-08-04T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-artificial-unintelligence/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "HJRwJEnqlmFOjpfDhHBAiNvxN+3ePYXOG71kpchh1D3FCx2+JqjMXRnLwPB9ZQsr8RV6yp4OTzQ2S/nblwxFp04dhlJYTwxjw2JEa7Q2EbWYKcWkt8KIsFSVDGsY0XxLjSzyXk7cLhTyQL2qYc9n3PpskYNtEvz349IaCfDnOF2se/582uVxJ45GCYyVsQeVAUKge6KXQ0NfevTBhkvqfqaOucXYX/QklywF4rFFqLUEbGfFs0vwxafARudDfNuZGF1HwOuWzzLIeHylKE+LU+TjiDo+gZBcZR80FkhPYaCmMDU3xHDBDVOlU8PhvdEfQVdCCA97F2CiVJH2QDpylh7HfY1kRcymrNyASVkK4RK0WsowC2Om/OGBN/q0ZQQoQIWQ7GyFRvzNTWuYmwM/S/1lDN/n9S5wDKEUmnlYafTwKof/w+cBO9oR2znqGrFm2KNR+3zuBICjNpAR0dDgbXcuNRpduoKeWiKDL6J+Q4/VaB1VAuCY9WOhGqbdGq8ouB85GNR39U27PRWif8pnpw==;Dr0Jf/wwYiFtOJuEOAHObg=="
 ---

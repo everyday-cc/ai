@@ -39,6 +39,20 @@ related:
         width: 700
         height: 408
         isCached: true
+  - title: "AeroFarms, Nokia Partner for AI-Enabled Plant Vision Technology"
+    excerpt: "AeroFarms and Nokia Bell Labs have unveiled a multi-year partnership to combine their expertise and expand their joint capabilities"
+    publishedDateTime: 2021-08-09T02:52:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/20453-aerofarms-nokia-partner-for-ai-enabled-plant-vision-technology"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/6a5f1899a4ea3bb71319f0415fb4c356.jpg?t=20210809_025109"
+        width: 752
+        height: 408
+        isCached: true
   - title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
     excerpt: "Ground-breaking technology partnership will significantly improve plant yields and quality in AeroFarms’ vertical farms through analytics, AI, drones and wireless networking. Newark NJ, USA – August 5,"
     publishedDateTime: 2021-08-06T11:54:00Z

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "ZIM and Data Science Group establish a Center of Excellence for research in artificial intelligence"
-excerpt: "In a joint venture, ZIM Integrated Shipping Services Ltd. (NYSE: ZIM) and Data Science Group (DSG) are establishing a Center of Excellence in the field of artificial intelligence (AI). The center will develop artificial intelligence and machine learning solutions from the design stage to implementation to provide ZIM a decisive competitive edge in the global arena."
-publishedDateTime: 2021-08-08T22:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-zim-data-science-group-establish-center-excellence-research-/2021/08/08/9426148.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-zim-data-science-group-establish-center-excellence-research-/2021/08/08/9426148.htm"
+excerpt: "In a joint venture, ZIM Integrated Shipping Services Ltd. (NYSE: ZIM) and Data Science Group (DSG) are establishing a Center of Excellence"
+publishedDateTime: 2021-08-09T03:00:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/zim-and-data-science-group-establish-a-center-of-excellence-for-research-in-artificial-intelligence-850607039.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/zim-and-data-science-group-establish-a-center-of-excellence-for-research-in-artificial-intelligence-850607039.html"
 type: article
 quality: 3
 heat: 3
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "8tJeyzRSUU3VFFoQ69HN7GPJg5pyWBtHUHRivPxfCCIRplXScLKBFFaVMMldbPNUF0LS5Vl9op7Hp7MkyujGeZpw0fXHP1t3DeBCznVfoqhi1lRV6RK/YbC9zqrVuHTadESlE8wdA0wJMWChneiFFol4zfcQF06uJ2frwETaS7DyabwdC3mbTOauqBAq5giYX5EYHSNRUH6ihOMISEEleNp4GFLPx5Cl6eZGfoxWG2l0xF/lmSuQ3egnFaTyf7pp9yopz+MtlKCxsJ6EMngp6k1G2cEUePX8chyOn3fzJICovhGRQtNW4RGYihIE/nmlBZ4zYP43dr+dcsGCbFkixhVBhDwkAQDpNkAgFbJ8Hn4=;aOfDegM1jIJ0EraPztn2YA=="
+secured: "pgzmQ5pWSG/EZ2KYhugXGV2qWnHDmFMY56S/BJGB2GwZy6IyQYdkbJV38PZwS0qdOviKf6ENvicwXXwlC7pWYHmTJQuJ3cMALm1lS/IkSxYTpsJqH9/SPnMO4yvzRqKT7Jctb8As09/0HhdTt9PZvrcfLON7EcmSjuOrKslNdfJo04S1YXr6+PSL6GnSvPTxqiDcsVy7n2/VJ9oiymMqWyPEyhtBdq7/43ZhbjiX9CH7X10Q4D+I9SbTsiyAAZuKvQFD1r3Vsbe3OlGDP0wBdM8yOTD11JI0RH3v4IJSPLgDXskKSivkTNMzLiv6ohoxcTEF+wa5ojRZHfwnUbFphY8+l7zU9NmSfdiLDBV3FHI=;W2CzX9SbwhuPXuqGR2zkLA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/08/210803105532.htm"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Blood Analysis Could Predict Schizophrenia Risk"
-    excerpt: "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a research team."
-    publishedDateTime: 2021-08-04T09:44:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
-    ampWebUrl: "https://www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG"
-        width: 389
-        height: 389
-        isCached: true
   - title: "Machine Learning Algorithm Predicts Schizophrenia Risk"
     excerpt: "By looking at specific parts of the human genome, researchers are developing a machine learning algorithm to determine an individual's risk of schizophrenia through epigenetic markers."
     publishedDateTime: 2021-08-05T17:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintellig
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "A|I: The AI Times – Artificial unintelligence"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2021-08-04T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-artificial-unintelligence/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 37
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Embodied AI, Superintelligence, and the Master Algorithm"
     excerpt: "Superintelligence, roughly defined as an AI algorithm that can solve all problems better than people, would help us make better predictions about challenges such as natural disasters, building resilient supply chains,"
     publishedDateTime: 2021-08-05T15:39:00Z
