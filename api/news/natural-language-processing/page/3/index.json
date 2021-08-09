@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026.md",
+      "title": "Global Speech and Voice Recognition Technology Market 2021 Top Industry Trend and Segments Analysis upto 2026",
+      "excerpt": "The latest updated report published by MarketQuest.biz titled Global Speech and Voice Recognition Technology Market 2021 by Company, Regions, Type and Application, Forecast to 2026 provides a better understanding of the overall market analytics and valuation of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-technology-market-2021-top-industry-trend-and-segments-analysis-upto-2026-2021-07-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-capital-one-uses-nlp-to-discuss-potential-fraud-with-customers-over-sms.md",
       "title": "Capital One uses NLP to discuss potential fraud with customers over SMS",
       "excerpt": "Capital One discusses how it harnesses the power of personalization and automation to verify fraudulent transactions at Transform 2021.",
@@ -1313,49 +1365,6 @@
       "provider": {
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-bytedance-is-now-selling-tiktoks-ai-to-other-companies.md",
-      "title": "ByteDance Is Now Selling TikTok's AI To Other Companies",
-      "excerpt": "Through this division, the company is offering some of the Artificial Intelligence (AI) tech that powers TikTok ... device and account settings like your language preference, country setting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/08/TikTok-App-Logo-AM-AH-4.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/07/bytedance-selling-tiktok-ai-other-companies.html/amp",
-      "publishedDateTime": "2021-07-05T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

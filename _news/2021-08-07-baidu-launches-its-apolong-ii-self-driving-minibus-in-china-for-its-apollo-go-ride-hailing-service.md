@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou"
-    excerpt: "Baidu showcases the Apolong II multi-purpose autonomous minibus  The Apolong II minibus effectively mirrors the powerful autonomous drivin"
-    publishedDateTime: 2021-08-06T12:56:00Z
-    webUrl: "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou"
+    excerpt: "The Apolong II utilizes Baidu's vehicle-to-everything (V2X ... Foshan and more – the first-generation Apolong is the only self-driving minibus to achieve large-scale operations in China ..."
+    publishedDateTime: 2021-08-06T10:03:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
     quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2021-08/06/PN_5198bimage_story.jpg"
+      - url: "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg"
         width: 400
         height: 267
         isCached: true

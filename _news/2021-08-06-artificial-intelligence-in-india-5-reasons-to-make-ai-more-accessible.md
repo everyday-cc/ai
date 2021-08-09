@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-india-
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics Insight
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel & Dell Technologies Make Acquiring AI Skills More Accessible"
-    excerpt: "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists."
-    publishedDateTime: 2021-08-04T05:22:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
+  - title: "Speech Of The Chief Justice Of India: How Would It Impact The Legal Profession"
+    excerpt: "Key Takeaways The CJI gave a speech at the Coffee Table Book launch by the SILF. He addressed the issues faced by the first-generation lawyers and urged the law firms to extend the opportunities to them in cities other than Tier-1 cities."
+    publishedDateTime: 2021-08-07T13:15:00Z
+    webUrl: "https://www.lawyersclubindia.com/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
+    ampWebUrl: "https://www.lawyersclubindia.com/amp/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
+    cdnAmpWebUrl: "https://www-lawyersclubindia-com.cdn.ampproject.org/c/s/www.lawyersclubindia.com/amp/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Lawyersclubindia
+      domain: lawyersclubindia.com
+    quality: 40
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg"
+      - url: "https://www.lawyersclubindia.com/img/preview/paidnfree/apr_29_9.jpg"
         width: 1200
-        height: 712
+        height: 628
         isCached: true
   - title: "The need to make artificial Intelligence more accessible in India"
     excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"

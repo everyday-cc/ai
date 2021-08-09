@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
-    excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
-    publishedDateTime: 2021-08-04T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
-        width: 1600
-        height: 960
-        isCached: true
 
 secured: "1dgrzXoK2KuPyRLvEMMiQ23QumnttrnwqefqFRyKHtJKhrZR+PHQD66SHUcoQttFJpYutuqJL9BijnQo/DNRZhS21QyxBfEVwAnlEIU3Ugg2wD3EFNhLRgJQmwI6brE8QqIRwOe22tJxOY/n35TBzeZjYt0gbdbl9nbceZxJnwDjveho7v/QSyswdFgJqniDyLU+T8iWnZ/VMhMBWtri5AFCEhCAjkOhJHYQICFf3uEn69p9Kua8RF60FmozFv8MkJdM80WZ6EL6KVfqzSZ59QUwTIAXvaOMJlZpa0/0Fk2f4SRPiAlepAOpBSj9LdUr6bNo7/ghLSECTNhc9LR8zdpWiU85frdWNI3QhyB4EA8i51AqWh7EoHkU7+dxJYonwWJ/F7GHkGOX3QpIbfr9WSWV1d/3y05sFDLCRtk/Vh5GwFLnGaTjcC1K1FB4t/byw+Xr2WrwMl6F9PCHYf0PzWebyJJeM2ZFN2wRDv2eddl3kJ9NdlnPXxeaO9vLgISmGs8s5s2DTrYZ33waNFEplw==;6gxDWtCswq9uE00e3yMELA=="
 ---

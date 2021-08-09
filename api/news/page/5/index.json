@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
+      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
+      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
+      "publishedDateTime": "2021-08-03T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-ampere-computing-buys-an-ai-inference-performance-leap.md",
+      "title": "Ampere Computing Buys An AI Inference Performance Leap",
+      "excerpt": "Machine learning inference models have been running on X86 server processors from the very beginning of the latest – and by far the most successful – AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
+      "originalUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg",
+          "width": 705,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
+      "publishedDateTime": "2021-08-03T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
+      "title": "Facebook to use AI to analyze encrypted content - report",
+      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
+      "sourceUrl": null,
+      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
+      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
+      "publishedDateTime": "2021-08-03T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "teletrader.com",
+        "domain": "teletrader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-global-artificial-intelligence-ai-robots-market-to-reach-214-billion-by-2026.md",
       "title": "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026",
       "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report",
@@ -1050,21 +1179,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-03-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
-      "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
-      "excerpt": "OpenAI, the nonprofit venture whose professed mission is the ethical advancement of artificial intelligence (AI), has released the first version of the Triton language, an open source project that allows researchers to write GPU-powered deep learning projects without needing to know the intricacies of GPU programming for machine learning.",
+      "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
+      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
+      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
-      "originalUrl": "https://www.arnnet.com.au/article/690168/openai-debuts-python-based-triton-gpu-powered-machine-learning/",
+      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_190606740_16.jpg",
-          "width": 800,
-          "height": 534,
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
+          "width": 3278,
+          "height": 2458,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1074,11 +1203,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T15:05:00-07:00",
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "Hackaday",
+        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1088,155 +1217,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-why-the-pixel-6s-tensor-chip-is-actually-a-big-deal-and-why-it-isnt.md",
-      "title": "Why the Pixel 6's Tensor chip is actually a big deal (and why it isn’t)",
-      "excerpt": "The Google Tensor SoC sets the Pixel 6 up as an artificial intelligence powerhouse, but that's not the only thing to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
-      "originalUrl": "https://www.androidauthority.com/google-tensor-processor-2728246/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/08/google-tensor-scaled.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-tensor-processor-2728246/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-tensor-processor-2728246/",
-      "publishedDateTime": "2021-08-02T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-quantum-computing-and-other-technologies-poised-to-transform-healthcare.md",
-      "title": "AI, quantum computing and other technologies poised to transform healthcare",
-      "excerpt": "One of the big factors accelerating technological innovation is the healthcare workforce, which has been stressed during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
-      "originalUrl": "https://www.healthcarefinancenews.com/news/ai-quantum-computing-and-other-technologies-poised-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/doc_nurse_computer_screen_tech_AI_David%20Sacks_Getty%20Images_7.jpg",
-          "width": 635,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
-      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
-      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2021-08-02T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
+        "Computer Vision",
         "AI"
       ]
     }

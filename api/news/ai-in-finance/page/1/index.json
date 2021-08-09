@@ -45,6 +45,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-04-hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions-for-banking-and-financial-services.md",
+      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions for Banking and Financial Services",
+      "excerpt": "Hong Leong Bank (\"HLB\" or the \"Bank\") is calling all budding disruptors to join its 'Can You Hack It' Virtual Hackathon ASEAN Edition 2021 to co-create Innovative solutions focused on ESG. This virtual hackathon themed 'Environmental,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
       "title": "ADIB is the first UAE bank to use facial recognition for account opening",
       "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
@@ -1368,41 +1402,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-university-of-oxford-and-esme-learning-champion-the-future-of-fintech-with-the-oxford-digital-finance-executive-education-series.md",
-      "title": "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series",
-      "excerpt": "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
-      "originalUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

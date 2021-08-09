@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-16-learning-aids-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Learning aids: Skoltech method helps train computer vision algorithms on limited data",
+      "excerpt": "Researchers from Skoltech have found a way to help computer vision algorithms process satellite images of the Earth more accurately, even with minimal data for training. This will make various remote sensing tasks easier for machines and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/470834",
+      "originalUrl": "https://www.eurekalert.org/news-releases/470834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
       "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
       "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
@@ -1322,49 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-bill-would-ban-facial-recognition-in-public-housing.md",
-      "title": "Bill Would Ban Facial Recognition in Public Housing",
-      "excerpt": "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

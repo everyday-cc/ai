@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-13-university-of-oxford-and-esme-learning-champion-the-future-of-fintech-with-the-oxford-digital-finance-executive-education-series.md",
+      "title": "University of Oxford and Esme Learning Champion the Future of Fintech with the Oxford Digital Finance Executive Education Series",
+      "excerpt": "University of Oxford and Esme Learning introduce five online executive education short programmes to prepare professionals for the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "originalUrl": "https://www.businesswire.com/news/home/20210713005119/en/University-of-Oxford-and-Esme-Learning-Champion-the-Future-of-Fintech-with-the-Oxford-Digital-Finance-Executive-Education-Series",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-machine-learning-can-set-your-document-data-free-heres-how.md",
       "title": "Machine Learning Can Set Your Document Data Free - Here’s How",
       "excerpt": "Financial services organizations need to examine documents ... Optical Character Recognition (OCR), and machine learning (ML) to capture, extract, and process data from different types of documents. Even though digitization and IDP has been top of the ...",
@@ -1327,50 +1362,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-state-street-to-implement-machine-learning-tech-roundup.md",
-      "title": "State Street to Implement Machine Learning: Tech Roundup",
-      "excerpt": "State Street plans to implement a cloud-based, machine learning technology that it said is designed to “transform private markets processing and document management.” Through State Street’s partnership with Canoe Intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
-      "originalUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2021/06/Technology_Social_Media_Shutter_640x640.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
-      "cdnAmpWebUrl": "https://www-thinkadvisor-com.cdn.ampproject.org/c/s/www.thinkadvisor.com/2021/06/24/state-street-to-implement-machine-learning-tech-roundup/?amp=1",
-      "publishedDateTime": "2021-06-24T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Think Advisor",
-        "domain": "thinkadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

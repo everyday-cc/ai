@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
+      "title": "HeyRenee is the next home healthcare startup for Heal founders",
+      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
+      "publishedDateTime": "2021-08-05T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-google-pixel-6-to-sport-5nm-tensor-chips-made-by-samsung-report.md",
       "title": "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report",
       "excerpt": "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung.",
@@ -1054,7 +1106,7 @@
       "originalUrl": "https://www.itpro.co.uk/business-strategy/careers-training/360473/intel-expands-college-ai-training-to-11-states",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1175,57 +1227,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/a-new-kind-of-alien-ai-and-the-hiring-process/amp/",
       "publishedDateTime": "2021-08-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
-      "title": "Accelerating Drug Discovery With Mindful AI",
-      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

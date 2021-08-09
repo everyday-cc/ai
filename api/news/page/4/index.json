@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
+      "title": "Accelerating Drug Discovery With Mindful AI",
+      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
+      "publishedDateTime": "2021-08-04T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
       "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
       "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
@@ -238,6 +289,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
+      "title": "AI Used To Unlock Secrets of Ancient Texts",
+      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "publishedDateTime": "2021-08-04T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -542,6 +636,40 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-hong-leong-bank-seeks-digital-disruptors-across-southeast-asia-to-find-esg-focused-innovative-solutions-for-banking-and-financial-services.md",
+      "title": "Hong Leong Bank Seeks Digital Disruptors Across Southeast Asia to Find ESG-Focused Innovative Solutions for Banking and Financial Services",
+      "excerpt": "Hong Leong Bank (\"HLB\" or the \"Bank\") is calling all budding disruptors to join its 'Can You Hack It' Virtual Hackathon ASEAN Edition 2021 to co-create Innovative solutions focused on ESG. This virtual hackathon themed 'Environmental,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-hong-leong-bank-seeks-digital-disruptors-across-southeast-/2021/08/04/9424444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1087,135 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
-      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
-      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "publishedDateTime": "2021-08-03T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ampere-computing-buys-an-ai-inference-performance-leap.md",
-      "title": "Ampere Computing Buys An AI Inference Performance Leap",
-      "excerpt": "Machine learning inference models have been running on X86 server processors from the very beginning of the latest – and by far the most successful – AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg",
-          "width": 705,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "publishedDateTime": "2021-08-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-facebook-to-use-ai-to-analyze-encrypted-content-report.md",
-      "title": "Facebook to use AI to analyze encrypted content - report",
-      "excerpt": "Facebook is looking to assemble a team of artificial intelligence specialists to find a way to analyze encrypted content that private users share online without decrypting the actual data, The",
-      "sourceUrl": null,
-      "webUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "originalUrl": "https://www.teletrader.com/facebook-to-use-ash-to-analyze-encrypted-content-report/news/details/56129483",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttweb.net/News/images/225993.jpg?preset=w800_q70",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.teletrader.com/amp/news/details/56129483",
-      "cdnAmpWebUrl": "https://www-teletrader-com.cdn.ampproject.org/c/s/www.teletrader.com/amp/news/details/56129483",
-      "publishedDateTime": "2021-08-03T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "teletrader.com",
-        "domain": "teletrader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processi
 webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
 type: article
 quality: 83
-heat: 99
+heat: 93
 published: true
 
 provider:

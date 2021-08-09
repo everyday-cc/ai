@@ -114,7 +114,7 @@
       "originalUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -220,7 +220,7 @@
       "originalUrl": "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -355,6 +355,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
+      "title": "AI Used To Unlock Secrets of Ancient Texts",
+      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
+      "publishedDateTime": "2021-08-04T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1382,49 +1425,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-on-a-mission-to-hone-english-skills-of-tribal-students.md",
-      "title": "On a mission to hone English skills of tribal students",
-      "excerpt": "and they in turn help the students master the language,” says K. Srikanth Prabhakar, Secretary, APTWREI Society. The app, ‘EnglishBolo’, delivers online classes, including translation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "originalUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/em2ph2/article35517034.ece/ALTERNATES/LANDSCAPE_615/25vjpg4-tribal",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/andhra-pradesh/on-a-mission-to-hone-english-skills-of-tribal-students/article35517035.ece/amp/",
-      "publishedDateTime": "2021-07-24T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

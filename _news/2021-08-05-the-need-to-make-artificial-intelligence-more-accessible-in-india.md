@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel & Dell Technologies Make Acquiring AI Skills More Accessible"
-    excerpt: "The World Economic Forum says that AI could create 97 million new jobs by 2025, with roles like data analysts and scientists, AI and machine learning specialists, and big data specialists."
-    publishedDateTime: 2021-08-04T05:22:00Z
-    webUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/"
-    ampWebUrl: "https://www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2021/08/04/intel--dell-technologies-make-acquiring-ai-skills-more-accessible/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a23dc66dff1948f194ad4%2F0x0.jpg"
-        width: 1200
-        height: 712
-        isCached: true
   - title: "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible"
     excerpt: "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life."
     publishedDateTime: 2021-08-06T09:00:00Z
@@ -53,6 +37,22 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-In-India-5-Reasons-to-make-it-more-accessible.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Speech Of The Chief Justice Of India: How Would It Impact The Legal Profession"
+    excerpt: "Key Takeaways The CJI gave a speech at the Coffee Table Book launch by the SILF. He addressed the issues faced by the first-generation lawyers and urged the law firms to extend the opportunities to them in cities other than Tier-1 cities."
+    publishedDateTime: 2021-08-07T13:15:00Z
+    webUrl: "https://www.lawyersclubindia.com/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
+    ampWebUrl: "https://www.lawyersclubindia.com/amp/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
+    cdnAmpWebUrl: "https://www-lawyersclubindia-com.cdn.ampproject.org/c/s/www.lawyersclubindia.com/amp/articles/speech-of-the-chief-justice-of-india-how-would-it-impact-the-legal-profession-14231.asp"
+    type: article
+    provider:
+      name: Lawyersclubindia
+      domain: lawyersclubindia.com
+    quality: 40
+    images:
+      - url: "https://www.lawyersclubindia.com/img/preview/paidnfree/apr_29_9.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "6IpgVaQGg2ikx2gE1hNx1IJpYWLjFOnvlY2qim5n0dpsp1hZ/U4ZfeFEpyomkg/GHmVVDbaM9HW2Ktf4CRfaw3oRHFWT7bE58j1K++SslpBcLNd1GkuIWpYXSh3IFo/24l5talcJQgeCmb4Nc6NRXeV+xr0v0rIlpGMfXPOSXS4fhF/lemKCJ+kVQp0AdnMxtECfUiRnINjxtg7e5XEvfJa/FHsLuttuEfLUwAXI92QSjhV8ZfBgqE8i9Z5HBND16EpZ2zJBGYFnYiTISROZ+g2WDZ08mZAorSGCThz4lsDR6Tgv/m8urW0UtGFGcYC3tCD9eektf3lt7+PWko2y13SIsJl/KeYpy8J3SOrFVJE=;5PdIoNAlVF0EFGSMc9WhBA=="

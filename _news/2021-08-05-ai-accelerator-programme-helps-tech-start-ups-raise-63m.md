@@ -54,22 +54,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "FORE offers data analytics programme for healthcare pros"
-    excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
-    publishedDateTime: 2021-08-04T06:50:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Intel partners with CNM for artificial intelligence workforce training program"
     excerpt: "The semiconductor giant recently partnered with 18 schools in 11 states with a plan to train students in AI-related skills, and Central New Mexico Community College is offering the program."
     publishedDateTime: 2021-08-04T22:20:00Z

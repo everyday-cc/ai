@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-is-trying-to-make-ro
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp"
 type: article
 quality: 88
-heat: 98
+heat: 100
 published: true
 
 provider:

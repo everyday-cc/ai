@@ -55,22 +55,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "FORE offers data analytics programme for healthcare pros"
-    excerpt: "The FORE School of Management has announced a three-month free training programme for healthcare professionals on data analytics. The classes are due to commence on June 12, 2021. It is a hands-on, interactive,"
-    publishedDateTime: 2021-08-04T06:50:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-offers-data-analytics-programme-for-healthcare-pros/article35714866.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/b-school-corner/article35714865.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2"
-        width: 615
-        height: 384
-        isCached: true
   - title: "AI accelerator programme helps tech start-ups raise £6.3m"
     excerpt: "Fifteen tech start-ups have raised £6.3 million in investment and grants after taking part in a new AI accelerator programme set up by the University of Edinburgh."
     publishedDateTime: 2021-08-05T09:25:00Z

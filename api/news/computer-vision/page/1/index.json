@@ -341,6 +341,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
+      "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
+      "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "originalUrl": "https://hackaday.com/2019/08/03/high-performance-stereo-computer-vision-for-the-raspberry-pi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/luxonis_10.jpg",
+          "width": 3278,
+          "height": 2458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-idemias-facial-recognition-algorithm-maintains-1-ranking-in-nists-frvt-test.md",
       "title": "IDEMIA’s facial recognition algorithm maintains #1 ranking in NIST’s FRVT test",
       "excerpt": "IDEMIA National Security Solutions (NSS), an affiliate of IDEMIA, the world’s leading biometric and identity solutions provider, announced today that the company’s facial recognition algorithm 1:N has maintained the top spot on the National Institute of Standards and Technology’s (NIST) Face Recognition Vendor Test (FRVT) with a correct identification accuracy of 99.",
@@ -836,34 +879,34 @@
     {
       "path": "_news/2021-07-28-remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test.md",
       "title": "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test",
-      "excerpt": "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,",
+      "excerpt": "Traditionally, computer-vision systems that handle facial recognition tasks, among other functionalities, mostly dealt with unmasked faces, which allowed facial features such as the eyes ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22195558/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22195558/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583226/NIST_FRVT_Face_Mask_Effects.jpg",
+          "width": 400,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T08:00:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22195558",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22195558",
+      "publishedDateTime": "2021-07-28T08:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1310,58 +1353,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-mac-face-id-prediction-suggests-patience-will-be-required.md",
-      "title": "Mac Face ID prediction suggests patience will be required",
-      "excerpt": "Apple’s Face ID may have been logging us into iPhone and iPad for several years now, but the facial recognition tech looks set to finally be coming to Mac too. While recent Mac models have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "originalUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/07/iphone-face-id.jpg",
-          "width": 1440,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mac-face-id-prediction-suggests-patience-will-be-required-26684063/amp/",
-      "publishedDateTime": "2021-07-26T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -37,20 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind Trains AI Agents To Play Games Without Human Interaction Data"
-    excerpt: "The repetitive process of trial and error has proven effective in teaching computer systems to play many games."
-    publishedDateTime: 2021-08-04T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-trains-ai-agents-to-play-games-without-human-interaction-data/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/deepmind.jpg"
-        width: 1600
-        height: 960
-        isCached: true
   - title: "Read the leaked email that Google's AI firm DeepMind sent to staff after the bombshell news its cofounder faced a bullying investigation"
     excerpt: "DeepMind, Google's artificial intelligence startup, said it was made aware of complaints about its cofounder Mustafa Suleyman's behavior."
     publishedDateTime: 2021-08-04T12:24:00Z

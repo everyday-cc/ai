@@ -2,6 +2,197 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-07-30-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall.md",
+      "title": "IBM's The Weather Company Continues to Be the World's Most Accurate Forecaster Overall",
+      "excerpt": "NEW YORK and ATLANTA, July 29, 2021 /PRNewswire/ -- IBM (NYSE: IBM) and its subsidiary The Weather Company, which includes The Weather Channel digital properties, were determined to be \"the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ibms-the-weather-company-continues-to-be-the-worlds-most-accurate-forecaster-overall-301344489.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-30-healthcare-ai-market-next-big-thing.md",
+      "title": "Healthcare AI Market Next Big Thing",
+      "excerpt": "Latest released Global Healthcare AI Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings, market price, and sales revenue to better derive market size estimation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-next-big-thing-2021-07-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-get-started-with-the-amazon-kendra-amazon-workdocs-connector.md",
+      "title": "Get started with the Amazon Kendra Amazon WorkDocs connector",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-started-with-the-amazon-kendra-amazon-workdocs-connector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-human-assisted-artificial-intelligence-a-pathway-to-trustworthy-and-unbiased-ai.md",
       "title": "Human Assisted Artificial Intelligence: A Pathway to Trustworthy And Unbiased AI",
       "excerpt": "Using AI for automating manufacturing and improving our work streams, such as providing robust CMMS (computerized maintenance management systems) is an excellent application for AI.",
@@ -970,187 +1161,6 @@
         "AI",
         "AI in Finance",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-chinas-supreme-court-sets-limits-on-facial-recognition.md",
-      "title": "China’s supreme court sets limits on facial recognition",
-      "excerpt": "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/",
-      "originalUrl": "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2018/10/court-sky-screengrab.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/07/29/chinas-supreme-court-sets-limits-on-facial-recognition/",
-      "publishedDateTime": "2021-07-29T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-a-mid-year-tour-of-ai-in-2021-and-what-it-means-for-communications-pros.md",
-      "title": "A Mid-Year Tour Of AI In 2021 — And What It Means For Communications Pros",
-      "excerpt": "The AI industry is evolving quickly, and capturing an accurate snapshot of it at any given time is critical. Experts conduct surveys and research each year to evaluate the current priorities and challenges,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/07/29/a-mid-year-tour-of-ai-in-2021---and-what-it-means-for-communications-pros/amp/",
-      "publishedDateTime": "2021-07-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-google-cloud-joins-sap-rise-program.md",
-      "title": "Google Cloud joins SAP RISE program",
-      "excerpt": "SAP RISE customers will be able to leverage Google Cloud's services, including artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-cloud-joins-sap-rise-program/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-cloud-joins-sap-rise-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/07/29/328ebbca-0812-4d74-8a88-a3aa8b815b5f/shutterstock-1504791845.jpg",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-cloud-joins-sap-rise-program/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-cloud-joins-sap-rise-program/",
-      "publishedDateTime": "2021-07-28T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles.md",
-      "title": "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles",
-      "excerpt": "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
