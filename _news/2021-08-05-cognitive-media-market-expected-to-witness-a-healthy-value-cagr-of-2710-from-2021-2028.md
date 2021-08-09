@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-expected-
 webUrl: "https://www.digitaljournal.com/pr/cognitive-media-market-expected-to-witness-a-healthy-value-cagr-of-27-10-from-2021-2028"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"
-    excerpt: "The latest research on global Artificial Intelligence for Edge Devices market reveals that the business sphere will showcase lucrative growth opportunities, expanding at 27.9% CAGR over 2019-2024, reaching a valuation of USD 4811."
-    publishedDateTime: 2021-08-04T14:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-279-cagr-artificial-intelligence-for-edge-devices-market-size-is-expected-to-exhibit-48114-million-usd-by-2024-2021-08-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI services market to hit $50B by 2025"
-    excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
-    publishedDateTime: 2021-08-09T03:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/artificial_intelligence_tablet_brain_smallernowhiteline.jpg"
-        width: 800
-        height: 501
-        isCached: true
-  - title: "At 22.7% CAGR, Global Autonomous Cars Market Share Revenue Expected to Reach USD 64.88 Billion by 2026: FnF Research"
-    excerpt: "\"According to the recent research report, the demand of global Autonomous Cars Market size & share expected to reach to USD 64.88 Billion by 2026 from USD 23.33 Billion in 2020, at a compound annual growth rate (CAGR) of 22."
-    publishedDateTime: 2021-08-06T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-227-cagr-global-autonomous-cars-market-share-revenue-expected-to-reach-usd-6488-billion-by-2026-fnf-research-2021-08-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xygx9y3J7UfH3EWseCGcmPYVlGNZaNVCYtLBCS0JiR15DYuLHpnNHtBcHUm711iXKCNXnqHkZUgPxK33YgajqwygATuiDFe7xshdpjL4LuiwDJNqAIsSZBmdovPUs9Lz/FYjuJRrKjN0IcQzYkYdyboq6FTXQ6QnWeWgQkRS2A/cQCRAE34gvCN+RMlLPjYJBNcc5ATSgOo1V1+8I+0VYQ9MtAQRxiU89YqK9/eoWmcUIC29/zPPP0pAY9HT3J1qEo5puaNvt7J24zq+AaoUf18uRH1SCWeA1bHX1VVc5Wa1Rt6ukPffC7U+SXiSJDnw3B0slgFy1Rlugl/7vQRwgQHBSOeW44U2YNyvb6FcrHbYAkKZ/U2DQLESI7NF/JBFXjuZiwN6fSUQsQSUbUPTDdZ/qwMLfQrAv6npy3Hzso4l/bM+mrX0TgKkxQBiDqw81y2/NZ1YUBQwlWr/w6SzNlhT5Zfg9EnjEO8eX1+EE8NQ7lMJTPc49wLO48BaPSmp+coyaGX1SESuTTHPOE41cA==;DsL0Ide1w2hXOScIa8l2Rw=="
 ---

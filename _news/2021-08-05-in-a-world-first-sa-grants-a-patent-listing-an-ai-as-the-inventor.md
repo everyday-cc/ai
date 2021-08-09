@@ -25,21 +25,135 @@ images:
     isCached: true
 
 related:
-  - title: "Can An AI Be An Inventor? New Legal Judgments Say Yes."
-    excerpt: "Two landmark cases in the ongoing legal battle to establish an artificial intelligence system as an inventor came down in favor of the team trying to make this possible."
-    publishedDateTime: 2021-08-04T14:29:00Z
-    webUrl: "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2021/08/04/can-an-ai-be-an-inventor-new-legal-judgments-say-yes/amp/"
+  - title: "In a world first, South Africa grants a patent to an artificial intelligence system"
+    excerpt: "DABUS is an AI system created by Stephen Thaler, a pioneer in the field of AI and programming. The system simulates human brainstorming and creates new inventions."
+    publishedDateTime: 2021-08-09T07:25:00Z
+    webUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/"
+    ampWebUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Quartz
+      domain: qz.com
+    quality: 83
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610aa3b553adde69aa700bd3%2F0x0.jpg"
+      - url: "https://cms.qz.com/wp-content/uploads/2019/01/RTR3ELOG-e1547100202155.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
         width: 1200
-        height: 772
+        height: 630
+        isCached: true
+  - title: "DABUS: South Africa approved the world’s first AI-invented patent"
+    excerpt: "At first glance, a recently granted South African patent to DABUS, relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, the patent is anything but mundane."
+    publishedDateTime: 2021-08-09T05:00:00Z
+    webUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/"
+    ampWebUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
+    cdnAmpWebUrl: "https://citizen-co-za.cdn.ampproject.org/c/s/citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://citizen.co.za/wp-content/uploads/2021/08/artificial-intelligence-AI-dabus-south-african-patent.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
+  - title: "Academic City introduces a degree in Artificial Intelligence: first in Africa"
+    excerpt: "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI."
+    publishedDateTime: 2021-08-05T14:13:00Z
+    webUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/"
+    ampWebUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
+    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
+    type: article
+    provider:
+      name: business
+      domain: thebftonline.com
+    quality: 56
+    images:
+      - url: "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Rethinking Education in an AI-First World"
+    excerpt: "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the"
+    publishedDateTime: 2021-08-04T20:28:00Z
+    webUrl: "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg"
+        width: 900
+        height: 562
+        isCached: true
+  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
+    excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
+    publishedDateTime: 2021-08-08T08:23:00Z
+    webUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.html"
+    ampWebUrl: "https://www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/aug/08/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-2341896.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 54
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/7/w600X390/Artificialintelligence.jpg"
+        width: 600
+        height: 390
+        isCached: true
+  - title: "In a world first, South Africa accords patent to an artificial intelligence system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That's because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS (which stands for “device for the autonomous bootstrapping of unified sentience”) is an AI system created by Stephen Thaler,"
+    publishedDateTime: 2021-08-08T07:28:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    ampWebUrl: "https://www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/technology/news/story/in-a-world-first-south-africa-accords-patent-to-an-artificial-intelligence-system-303609-2021-08-08"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 53
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202108/ai_1-sixteen_nine.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In a world first, South Africa grants a patent listing AI as the inventor"
+    excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
+    publishedDateTime: 2021-08-05T09:18:00Z
+    webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
+    ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 40
+  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
+    excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
+    publishedDateTime: 2021-08-05T09:18:00Z
+    webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 36
+  - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
+    excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
+    publishedDateTime: 2021-08-06T08:44:00Z
+    webUrl: "https://allafrica.com/stories/202108060245.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 31
+    images:
+      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00501792:19e48f25f754ab656a2f8c462ffdce6d:arc614x376:w1200.jpg"
+        width: 1200
+        height: 735
         isCached: true
 
 secured: "87REFYVG4ViW0gJYsAzp0LhBa8SqL3B5+VKuQ2EZmpIOLcMTfC0ITb2LgGsUgJJKkyNY8SfT0uY92Xs4UcZnj6BBzIpscK04KhTHMKUJmIES4xoowhBkYYwflewCzjnqBqsHruekICDj+OcUEAHoXXRe0jPiP1FiocIicPi0WBgw2h7T/PPYk56wkvLgikAa0gQPJyqiT4X4DpcWj1s3P8ZwFE0lZmTDitv+RDc+ZeMiF1pGlqUBc4nZ4UDAZBBgYLGBT2Hh0n6OlnmhouRMrLywF4NzmBt+AN9MmGfX2Eacg0yhCsk3pYGajB2yFpATDNcTzPDRt7J1/1dGhqde9tbpi5Bv1nYk1N8hNVQ26/aKDXeVtM2INIjpvd3jHRdy0cktzdiESE8KADqBwZSC2bLNQbIs7acCDkY56DTPMsTOeXvOe2Qq2m48zlJcHx4Qrl8AwJGzxQZ5bd8MhnxSiajTyHpAN1WYZRAVnATmXw5MYMt6MKKW8abs8uYMhOxxOryQ2ItrXV6wSmkA/SUqSQ==;fgQa5bJS8GVaAB3yuSr4LQ=="

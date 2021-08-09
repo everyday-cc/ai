@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
 type: article
 quality: 87
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -36,6 +36,17 @@ related:
     webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06"
     ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
+    excerpt: "No list of AI innovators would be complete without Alphabet. AI had been around for decades, but back in 2011, Google began its pioneering work in the field of deep learning with the Google Brain. Noted AI researcher and Stanford adjunct professor Andrew Ng collaborated with Google scientists,"
+    publishedDateTime: 2021-08-08T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?time=1628424901"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
     type: article
     provider:
       name: Nasdaq

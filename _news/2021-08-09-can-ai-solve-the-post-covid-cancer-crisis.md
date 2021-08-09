@@ -8,7 +8,7 @@ webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid
 ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/08/04/TELEMMGLPICT000267080998_trans_NvBQzQNjv4BqXW5jbaVriFpHFNZrgcOJtrUPjgFzW0N6FiWZRSkyfLg.jpeg"
@@ -44,6 +45,6 @@ related:
         height: 844
         isCached: true
 
-secured: "i7ZpENxeb3FZZQFWBQnHHIrq57KmM928HT+EbGTfLxvqnh9jJctm4GXk2ce6V7xTO6VYpuEA3t7AMObBXjL8llhdUv7vhlemFC5BTdv1dsSQYrN6/MEFZTUl9IOfNPbso89tnewkybUVgMbYGo8AnqZVm/GLLMDYjVmdWmfxrgc8VhWfxnrfJiS5p4fSeG1wzkzlO8+WWMThkKZFWSrExcru9oll/bDA1XBbCyHs68/fRLvrIRfHfyUVfs+J6YtVTlwPEUhw/cYkXjNz0OA9jjf1NE5VbMdrBFwtysoomKebA/89TOYgnM9FXnSdVEnfWkiJ01CySy6SMxP/pg0UNZVA0wlj0adpfnq5CU4bNnw=;qdpgesd6guY63AtHSWZ5Sg=="
+secured: "pC75yTiPo394Do2EOd/DZfj9PjlzDi6OTBCfpEkkh/StoWXbG5Nrk5LMFve8J3Ebzh1BQN2XB4vDPXsZiWJeHKDOaT1BDXKBMHaee/5xjkSZ2IRqLhFluwxGMPzSMn1Hd9CQK5dvCGBNntEr4F7A3bxTxFTzawH165F5la58nF9FFOguBBNQYw3jmGIh+znqg8sAhgPev7Zi7qcK11jOtgItb2MiA0o11lTX+meSqXqtwoaA4nwRis+cvvtaspVKAj+8CT1LCq5ES+ieqhqSnF0uanUeHN3MPbUbdj2nh9Il+XWd52d5NzFOmEYNwHIMBiC2ioPWIThmopatBUXdxpYtyRyG0xxECkWNweraoH1N5QvmUovUHUHY8NhUFOEeiXvJxeV47q+g2olpHnfrwtld3aBW438YDVSuZN24Y8e90/NtCoE2jAA9xiQHrqOwyP2dM8A+afypOTYXnvG2r+h4dXNM76CHdJC64m5TV/OnZMRo9zS+mGydF/MBbPSMLbI+KjBqUS/gBI4Y5PZPUg==;cKVAxSC//YQB0xx3BZYkUA=="
 ---
 

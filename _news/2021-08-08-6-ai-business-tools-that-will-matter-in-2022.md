@@ -53,6 +53,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
+    excerpt: "No list of AI innovators would be complete without Alphabet. AI had been around for decades, but back in 2011, Google began its pioneering work in the field of deep learning with the Google Brain. Noted AI researcher and Stanford adjunct professor Andrew Ng collaborated with Google scientists,"
+    publishedDateTime: 2021-08-08T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?time=1628424901"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
 
 secured: "d1w1VfVzVwZ9xiJcbi26OeNxPNEohPbR/4qKPANzaOJGxiLpuhKZAEADWmM8WKCYnb2PkvTBMsvpMspnOXyFvpn9hf0uOnVYuP9ugLSaPH3BTIEGUTSgbvkRnZUQKHWa21EicoObKLi+2M/Y5UZ8a9MGStiDnfyUIq7e/6eqfcdCSeADMoEmSV9y6OrRgnBDKWdziq0Z+zXqWJ28pqcuoOt2pI/CC9jhPvN+fS0lUpx5F2ah4lC2C7FOAC8XSNfSGVD+/sgxeMet7ZV37J2Knb0J+8+4LvKmFm8GP0TffbbWKaPd4dMGtt9RJB+hCAqnRHREmcbGr0SWbS4YnTChXnziVHtCm4Vv8XY83cfPDdDuV5RtJQRfiqN9i2lL/TVVzSTQz0p1Us0fNMf1xpTb5Tlwsho2Cj5WwJ4+2EvCpQnrOdSbwCkp7iRh7fU5X201aL721UBt6uPLIHed2Wk5wBX7bLJEn2SlFLBtj2SBgh9fVUETJeYvExXuuxOb51gNN9of3Pcv8lqu0JCx6+9Kvw==;wSVOVna2mIXMepneS+LdSg=="
 ---

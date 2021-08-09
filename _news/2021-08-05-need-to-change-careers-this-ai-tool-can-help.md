@@ -26,17 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Hiring the Right Personality Matters, and AI Can Help"
-    excerpt: "It's important to find the right employees in order for your business to succeed. Here's how AI can help you find the perfect match."
-    publishedDateTime: 2021-08-04T13:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/378658"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/378658"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/378658"
+  - title: "How AI can help choose your next career and stay ahead of automation"
+    excerpt: "Automation is set to put a lot of people out of work - but machine learning could help them find their next career."
+    publishedDateTime: 2021-08-05T02:08:00Z
+    webUrl: "https://theconversation.com/how-ai-can-help-choose-your-next-career-and-stay-ahead-of-automation-164162"
+    ampWebUrl: "https://theconversation.com/amp/how-ai-can-help-choose-your-next-career-and-stay-ahead-of-automation-164162"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-ai-can-help-choose-your-next-career-and-stay-ahead-of-automation-164162"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/414705/original/file-20210805-27-hp2yh3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=253&fit=crop"
+        width: 320
+        height: 253
+        isCached: true
 
 secured: "WnpfJjF4g0l+eB70Vl7kx0VC7m98hzlWQcD6fdEOBQliqr0wigUF4WNHyW/26tlAVC6C2lj4nmvPqv44kv1gXs5+sCSXZY50ZEUFEtzr+BhLiS6V9qxr+PElZ4/TVGL4JvTld7yn/0QcgCKbW/KYvin+Jfcx/ZWq3nSf4XZmbIUCtnYfVMVD3SBZu8+hyK7k12mkQ5cMO01pkXx2T/4IUVPfAnVZ2iH/DuVgE8RPUnTs2y78dL4V0flK0U0Cclv/pKAOvHBjLIth1CdauNyrBamnZg38azaRJ3YkEeU+gwoBYuIEzqqoChzJEhsyKr5vSfYAhLWuVQfFi1ZttVMVj16cQul1Sw/dVera1S+p3FhiXZj7r985BZjj++mtjk1NUachvxb9342yqPDyNQHTLFE9eZbzKbZ5WW2Gz5inW6dQIdNiqpx81sNwDx4RtYnyFCGjUW6cZ6w1erjM1vMZQKmJgYnIZuV4Y2qRyBTOAci5sO0UC68/QI8ZSei7lA0BIeA41A+RU7w8m44S8+T5Og==;4iLJ6kEW7ubExJ3+Vlh9BA=="
 ---

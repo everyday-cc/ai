@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-pre
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-pentagon-is-using-ai-to-predict-events-days-into-the-future/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "MIT researchers use AI to predict the next big things in tech"
-    excerpt: "The researchers analyzed 97% of the US patent system to predict which technologies are improving most quickly."
-    publishedDateTime: 2021-08-04T14:11:00Z
-    webUrl: "https://thenextweb.com/news/mit-research-predicts-technology-improvement-rates-from-us-patent-system"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-3.jpg&signature=7a32c68e1454861ec122f415df3561a0"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "m7N4Lrp7K3fNVWN1fI8AVGPsOkn4AwcdFxRwMq39mns6z/j7B9GnTdpsB8ecaqQZMb3cbQNNnrpTY8whu6T4/Fe/hIbUEfkxjBKfSpcncJKPlZABl1QaRYa2SuvwcfE19h+OoyaWR4MhPuia1xPrZrwofBATXgdLAM8VwIWrH6FhaFCpOkcylEWdtm2WOgPEZcOa+KakGH8rwCliU/ojrRpYLwL5EK2EIfRElSCp+uvpshoRUvDLEgXqliM4nNsijbflR/FblCsWcYvBDw8NrGZcKTMfgKzIxgmdTKzsGIXwsgxp3KJG/0LMI6Ee4qfKT7MhKeIv1QuHk7dlKfx/Gxo5aQEgrmbsE7FfGmPUbu4=;Rdttha4QbiVuXbj5ZX66Eg=="
 ---

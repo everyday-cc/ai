@@ -65,15 +65,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
-    publishedDateTime: 2021-08-06T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
     excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
     publishedDateTime: 2021-08-05T10:30:00Z
@@ -88,6 +79,15 @@ related:
         width: 552
         height: 289
         isCached: true
+  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
+    excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
+    publishedDateTime: 2021-08-06T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "WsYuVI899NbxzbTOxXg8+APnjW+veo7QzcpPUIn5PhOh3svwpYKvS0RiktPK6UKK+KCx9fP4h4we3Pnqpj5OcevPGuCbUj6l//ngA8uLA2KgxSfpjUaSN/Nd4m1vzZpwsmZ/pEXeg4Y5bkYcBk1K7i56Da2deLeZaKR4gsjRRsR1xhTKsCRM7rpaEmL1fAdD8tnpMdrcUqUMZfmhlkkQ2cha1fv/gX+d2RHl7fVyX0929Egg9UuKxgKWcIifFvAXkxdFMXl+H+XwW9JKFCZheZFr8c+aDiGelyNmoHpHdAm76JuA9P3SNqeFNDo0TydlsTtMsWyadWmgeZODkGn/HZis1WgzdFhrsgyDfu5KyEA=;2a4Oa+wcbd0u9qB4wxEhOQ=="
 ---

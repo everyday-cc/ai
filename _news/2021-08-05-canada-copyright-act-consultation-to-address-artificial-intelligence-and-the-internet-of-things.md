@@ -68,15 +68,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
-    publishedDateTime: 2021-08-06T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
     excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
     publishedDateTime: 2021-08-06T00:43:00Z
@@ -88,6 +79,15 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
+    excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
+    publishedDateTime: 2021-08-06T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "+zL6ayL54oH+bjY2AGSBueDCJIPe/q8X5mKo3SttLBmseuw18fNak0I5hEe/yh6IrTsMKizOjo5fbLrQ/iW0dzbekC2F/Y/wSLyFR5q0PVYWa4g1cOcpfl7O+v2WXAL3hurcplsSm25vwqCpsMkQzwtZOelAbqzpf+j7l2v9G2ysNqjLTVK1qUFmfLuuQbPJzQt2tWA359DKWvPbbOFYjnbgCXfo171MuT0iYRXYMsF6aaUCVy28ihwu6i9e7iWLGkkk6HvSpccq3UbEiVAihUk7BusAD4Pn5UZAoXzQDhMrvLd2akY+3uELAjGGJwXsGLNpFH0suXcGIlYNCOnNw7F6B95GwIDihe0DXmWk18g=;cZGomGk9pBWoj4rUq/Z4Ug=="
 ---

@@ -41,7 +41,7 @@ related:
     provider:
       name: The Daily Telegraph
       domain: telegraph.co.uk
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/08/04/TELEMMGLPICT000267080998_trans_NvBQzQNjv4BqXW5jbaVriFpHFNZrgcOJtrUPjgFzW0N6FiWZRSkyfLg.jpeg"
         width: 2500

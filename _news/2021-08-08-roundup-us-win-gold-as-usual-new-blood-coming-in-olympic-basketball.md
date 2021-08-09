@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-
 webUrl: "https://lileicc.github.io/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Artificial Intelligence in Olympics Introduces a New Phase of Sporting"
-    excerpt: "Artificial intelligence in Olympics is shifting the focus on how games are played. Starting from guiding the athletes in Tokyo to tracking down their performance and scores, big data and machine learning is doing a remarkable job."
-    publishedDateTime: 2021-08-04T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-olympics-introduces-a-new-phase-of-sporting/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-in-Olympics-Introduces-a-New-Phase-of-Sporting.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "szUEydjvtYt3zW8hiI9KeWh4iRqeVXieLhYSP/0OZH0XS3mH7u8m86D7mvSaW5sVtuHwV8J0xia7AgIoYfQWM3Qz9/s1AP9bYFpyAmSyz2e5/01QyIFdNQay/EmXv1KaPBnhQpUqxwS/aE4gT9titFo0Kz6eRLAs2GD8HKNrfVi5EIflrWwWdfVwYRU6+Kp7mv2OoMtKAtvZrHL7CrHpxDEceVPsBSEKHA17J+QBe3Qdl9thzUR0/a//AMN2s+IehgTC+ONIueROfklrJ2Q9kpRMYO/l/n4ly0zIK4RuuvkizwpfVvra0xp51Fc+Lr9n+Kaiko+YL+saGYvCfW8m/vWyo16mFRUrQNyQc0R9s2WGWXISdowgaxGYJnFCn3rco/HCFKn2pbTIpcAZoYJGZ9jzhE/j5jFmulxt9/j+viaI7y+xK4z9JtVyVe6tcC2nWYwHQXfnvuAy+Gdf5Nov+rgUSEzefdKHu2bD/Z2IbHd18mEiFmXFGbVzW4BrNBGJgNxXDZqcMttxkmD1P8e/9DyqQNi6oiivUnnQziJnr28=;hORF9jYQMGvXB7CtBYl+XA=="
 ---

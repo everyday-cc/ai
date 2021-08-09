@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/albuquerque/news/2021/08/04/intel-part
 webUrl: "https://www.bizjournals.com/albuquerque/news/2021/08/04/intel-partners-with-cnm-for-ai-workforce-training.html"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Intel's AI degree program expands to 18 additional community colleges in 11 states"
-    excerpt: "Following an online pilot in the fall of 2020 with Maricopa County Community College District, Intel is expanding its AI for Workforce Program to include 18 additional schools across 11 states.."
-    publishedDateTime: 2021-08-04T14:38:00Z
-    webUrl: "https://www.engadget.com/intel-ai-for-workforce-2021-expansion-130027058.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 63
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/799696a0-f3be-11eb-8ffb-43a39e47ee85"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "Houston Community College: Partnership With Intel To Enhance HCC's Artificial Intelligence Degree Program"
     excerpt: "Houston Community College (HCC) and Intel Corp. announced a partnership today to enhance and expand the college's artificial intelligence (AI) degree program with curricular enrichment, faculty development and career-oriented student support."
     publishedDateTime: 2021-08-04T17:02:00Z

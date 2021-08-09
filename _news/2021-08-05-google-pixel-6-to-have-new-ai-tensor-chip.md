@@ -39,20 +39,6 @@ related:
         width: 453
         height: 558
         isCached: true
-  - title: "Report: Google Tensor Chip Will Use 5nm Process, Samsung to Manufacture"
-    excerpt: "This chip will come in the new Pixel 6 and 6 Pro later this year, but Google didn't offer any real hardware details on Tensor, except to say it's based on technology from its Tensor AI server chips. A new report includes a few tantalizing details,"
-    publishedDateTime: 2021-08-04T14:42:00Z
-    webUrl: "https://www.extremetech.com/mobile/325403-report-google-tensor-chip-will-use-5nm-process-samsung-to-manufacture"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/google-tensor.jpg"
-        width: 1344
-        height: 742
-        isCached: true
 
 secured: "4rkk5/3/Wn6ftnjNF2xDhXSBUoRtvAMu2ZxBofZDSFags7yvkSK1Ox/y+NmmavaTBCFqmjcQDlLRCIHpQ5BHe2ue/IlmBO/5AH7MhYfcLlUVt4/g/xE8jbJDJHRPxDSGamXpaLpmOypstgic93bUrlCI1PE6+AUhJtn8PL2lF0CPXoF7OMpnXJRE+4rLazbiqsYwb5Lr2Jsk7OLxeWViDby7YSuCXLsRsGCi1nOBIkXHxeTekIWlAnKspChRxI8xB9EPWGmqnesVQ8JGRD+2wPl4QfGCEgM3wavSs895S3MvHExN4cepbkk5lca0JHUBsNdhE+/aV4cs3NO0jbkj24qfwEDuVrlgCc3OW8Ob0bnhrnSVd8ytZLwrw6PYUR0lKufQ6uX7mh/+Nru9Q9x4zzJoGlVryGGYAgfHLOXU13Ri8gxVU5YeDSu2DMpHP9oq/gImBj0dFRynX+1Ku32We1sLKRK1OXkMjmeiU43twZeIwz09s59xZ2I3UeZXksGjJiXRr7IzhLIspj3OdQqbBA==;0byhWvyH6ijkaBefNUKbBg=="
 ---

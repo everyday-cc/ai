@@ -22,6 +22,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "In a world first, South Africa grants a patent to an artificial intelligence system"
+    excerpt: "DABUS is an AI system created by Stephen Thaler, a pioneer in the field of AI and programming. The system simulates human brainstorming and creates new inventions."
+    publishedDateTime: 2021-08-09T07:25:00Z
+    webUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/"
+    ampWebUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 83
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2019/01/RTR3ELOG-e1547100202155.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DABUS: South Africa approved the world’s first AI-invented patent"
     excerpt: "At first glance, a recently granted South African patent to DABUS, relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, the patent is anything but mundane."
     publishedDateTime: 2021-08-09T05:00:00Z
@@ -53,6 +69,20 @@ related:
       - url: "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Rethinking Education in an AI-First World"
+    excerpt: "Universities have been ramping up their data science education initiatives ever since 2012, when Tom Davenport and DJ Patil declared data scientist “the"
+    publishedDateTime: 2021-08-04T20:28:00Z
+    webUrl: "https://www.datanami.com/2021/08/04/rethinking-education-in-an-ai-first-world/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/AI_shutterstock_Bluehousestudio.jpg"
+        width: 900
+        height: 562
         isCached: true
   - title: "In a world first, South Africa grants patent to an artificial intelligence system"
     excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
@@ -97,6 +127,20 @@ related:
       name: The Conversation
       domain: theconversation.com
     quality: 40
+  - title: "In a world first, SA grants a patent listing an AI as the inventor"
+    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, it's anything but."
+    publishedDateTime: 2021-08-05T09:49:00Z
+    webUrl: "https://techcentral.co.za/in-a-world-first-sa-grants-a-patent-listing-an-ai-as-the-inventor/109895/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 39
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2021/08/idea-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
     excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
     publishedDateTime: 2021-08-06T08:44:00Z

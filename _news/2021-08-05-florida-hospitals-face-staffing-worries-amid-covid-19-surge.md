@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/tampabay/news/2021/08/05/florida-hospi
 webUrl: "https://www.bizjournals.com/tampabay/news/2021/08/05/florida-hospitals-face-staffing-worries.html"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Natural Language Processing Helps Assess COVID-19 Complications"
-    excerpt: "To elevate the relationship between comorbidities and complications regarding COVID-19 infections, researchers are using natural learning processing to sift through EHRs."
-    publishedDateTime: 2021-08-04T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/natural-language-processing-helps-assess-covid-19-complications"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "zBMmnpcuyHFCrw7gKZi072z8kVFq5bBu4dM1smj9f/EdTjNmZUnlyKHKEulmS8yG49Os/xOwvN4AtY7PrUDEJx0/XKV+wJRGSjG1uRUQJe76G3+OSNx0Vo6vTt9EtQifpIlYgOhjwv1aBO057+Z8kutpVeRHLXLq/lgWehbkI4dqa/7b1XBn6IoCAQ7HL6AYkzKJVnUVIfZS7oAhoZ4zZ+G81MC590d1adbMo6UP4qkOJayIrQPgzHhJRq9I2AYDaQu5LCoDx9JqAKjWZcGMrwgFDqRTs8Xxeal2aDcPV69n8w2KSR6/L0O/iosKyQ9XYVqTP2VH7h3C8LRHNulHwUVQ8CrnEPycGknqaNVDhBhdoI2yVfQedlM+teApV13ZrlqJ/MDOup7C0/8nfMbgBVTUFnskqew/w+bxFYfbyd8vpVMlxEUsOjfBgbTveisAsyd8p1MWlut01okmkgbSfTLy0/GA+hAL92jXlCKcbIjn2xClyFJQsyy2DUkYNanyicGXpQS9VwX3k4YcvtpnMg==;8UHESl/191crFuTURAfiNg=="
 ---

@@ -54,20 +54,6 @@ related:
         width: 822
         height: 537
         isCached: true
-  - title: "Artificial Intelligence in Real Estate: Embassy Group to Leverage AI Startup Staqu’s Platform Across Its Properties"
-    excerpt: "Its AI platform JARVIS to unlock a safe, secure, and more hygienic living experience at Embassy Group-owned real estate properties and"
-    publishedDateTime: 2021-08-04T13:53:00Z
-    webUrl: "https://www.indianweb2.com/2021/08/artificial-intelligence-in-real-estate.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 30
-    images:
-      - url: "https://1.bp.blogspot.com/-5mMMcrYA9MY/YQqbksHeQiI/AAAAAAAAERQ/srUe9Y5jN4k8xqJPr5otzN9ahBwLa_esQCLcBGAsYHQ/s16000/construction-1210677_1280%25282%2529.jpg"
-        width: 1280
-        height: 855
-        isCached: true
 
 secured: "FkJ3XJf7Xa9DesHarN6iWh1sD2R/Aesb27cN71B/lQcod3k3O+bsgLvnnr4bf8WB7DHrW7Y+vL3ZEP0UdHLfOz/RA29ggLczL6SwWVgw5siZljFygPK+T+rOVOf0l26VN+YdD5taKad194uOGr8ueb31JTLS02DJ8vgVSh7layPXS5dE3gXAyJJpF1216+5N2KnbfwfbZBrr9pjlCWXFaBoajetB/MlMFymKJtIxuiB7+gj/51psxHkicjbpARwtjsoORWGD1ZJCv4TTB+Jkz7IbruJHHm98JbOA+JZqhuZRGI+hX193WJmIzzl5KLRAY4OXpK+qEXNcmS93s3FbxgGVtZhU/aPM7pXpl30YayLBy8O2/bYJ250AfsRjmuQmUOLkug2MNtoOMQT370FpGuLyBhXUooanudrU/gDjh/n8rJyDNVc8wriynFgXqiDM8toly/bdO7ifwnbOd/H99zrdn2UWnw8WGB4mpJfcbf+sXTJbtIO9YtDBiFDN93c/vjw4y0Rs/ybCMmt4Mk/iBQ==;oVwbCRRwdN+OFg1ZcNDvsw=="
 ---

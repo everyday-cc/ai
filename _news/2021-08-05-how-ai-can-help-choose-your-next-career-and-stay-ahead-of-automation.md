@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/how-ai-can-help-choose-your-next-car
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-ai-can-help-choose-your-next-career-and-stay-ahead-of-automation-164162"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 320
     height: 253
     isCached: true
+
+related:
+  - title: "Need to change careers? This AI tool can help"
+    excerpt: "Car manufacturing workers, long haul airline pilots, coal workers, shop assistants—many employees are forced to undertake the difficult and sometimes distressing challenge of finding a new occupation quickly due to technological and economic change,"
+    publishedDateTime: 2021-08-05T16:42:00Z
+    webUrl: "https://phys.org/news/2021-08-careers-ai-tool.html"
+    ampWebUrl: "https://phys.org/news/2021-08-careers-ai-tool.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-careers-ai-tool.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/need-to-change-careers.jpg"
+        width: 700
+        height: 394
+        isCached: true
 
 secured: "AvLVQQ3R9AHr73Mi7W2kA9WTGLF7LR/mU1iWtIp59mGvsTrnYqwXRE/6bOybrtrUNJ8dcA4q+8MSGnwQ/t1RICi9Qowx4iCpLB99H7Ocx33R/o/eBi9YIyGPFTczkFdHHLOsbMU8RCSlVtFvuO1kqW/V9rNwU7KjyYj4sxL9UQBkbTBf/4JZePV6RAmqEArQ0oN1WDUHcY+QtDxtOQGhXWoyAZWAzL8SHHew4G7xGG7SuWBOQp4O2uEzu0quC9Xh25oBpPwHLuJIOL3ai8CRG3IUaTSxdync6ScgSr99fVCQ0RulhZ3R7coWh53x6BxVP3uJBLV9D3qLJIyfPwyG3b/vpvAao3cWPUj/IDpth9Qwcs2fWXh2bgUGcZA2WB461gtQvW/ZPSCA6ffcHdZxqZYjXZsKMLBiMPkjRaJomdRuLZ1d6NEl941QfbP5WB0hdsLzIWklXvtbypOQO7jTDpRaQ9N8KRyqHMUWP7tA2iXXVZ66VYU07gw1G+RqM18x4Wa2LMjxSyEXc1h50hkkHg==;wm6fjwfL2Q9nMwVi/EYPtA=="
 ---

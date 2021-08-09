@@ -56,15 +56,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
-    excerpt: "FICO has been awarded 13 new patents for fraud, AI/ML and decision management platforms Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI),"
-    publishedDateTime: 2021-08-06T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform-1030701250"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
     excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
     publishedDateTime: 2021-08-06T00:43:00Z
@@ -90,6 +81,15 @@ related:
         width: 552
         height: 289
         isCached: true
+  - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
+    excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
+    publishedDateTime: 2021-08-06T12:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "+0EhrDjvm0ZR2dNwrCLir2VfOGwH59Erii52nwkHSMpvn88fFlAZT2TgX6R2taTmOGu5XOm7Lex0Ez6FeoWA1r9QX1IY9x4s4WbMORoQQfUhZs4QjqX3StD7Ei2FwPvvfO+rjDIATrH5fQFs6ey8qleIbJalTD1ujlG/7j9VtY06yWQheEj6KU3Qx5TNEKSSZn2npg7tO1ggb7Cr/SCNt+33ogty4vgs5Ta3eTyv+F2sK21VeojRYqz6Xm6qSYWb43sYj/RMfU+M8HObPfrrX09S3oS5VXqBEUYjQhK7Vexd0Xl7NsP+wQ6dhDf0BI6ZRnjCKWVsc2MgS3VsmLPPPAP202Ju/kLwQgb5zX3g9eu572r6SxCD8EYtwkLPG+h/e27zRAU4qwRJIB5aWMemRg3vSPQDNz2K2RTrw4p0H5k8d6nV2nwfVldHrIS2a+whrlqoyQAL6sKlmBzEalcEuGhLN42POyd8JFAdJ7GUZvkYlcHfn1AfYb/J3J2bZZDM1m4OHRkaZWVK7LL42eYKFQ==;7AHQyq5PxCF04lMlJK5b5A=="
 ---
