@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - Machine Learning
 
 related:
   - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"

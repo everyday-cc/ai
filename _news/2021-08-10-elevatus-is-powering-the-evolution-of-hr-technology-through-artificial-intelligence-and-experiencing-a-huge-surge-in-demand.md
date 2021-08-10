@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-poweri
 webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711781"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Omantel Partners with Elevatus to Assess Generation Z Talent with AI-Powered Video Assessments"
-    excerpt: "Omantel is the first company in Oman to strategically partner with Elevatus, to leverage and utilize its video assessment solution that is powered by AI. With over 2,400 employees, the highly acclaimed and leading telecommunication company used the innovative AI technology to assess a mass number of applicants for an internship program."
-    publishedDateTime: 2021-08-08T13:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/08/08/9426136.htm"
+  - title: "Humanizing Technology: Back to Basics on DABUS and AI as Inventors"
+    excerpt: "With South Africa’s patent office having recently granted the first patent to an AI inventor, and an Australian court ruling in favor of AI inventorship, it’s time to review how we got here—and where we’re going."
+    publishedDateTime: 2021-08-07T16:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2021/08/07/humanizing-technology-back-to-basics-on-dabus-and-ai-as-inventors/id=136374/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 39
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2021/08/Depositphotos_90806746_xl-2015-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "Xnff6v8jw438WHHdoplCsWtjW7UrjVkhEcdE1UlVLr41pEtLWFSqiho8UIFIbf2vGVoR7bazTWzUoTvxus5gUrm3UIolcDzhgoKq/mjIfimDqDQ98JSUbflFO09JLw5jQwPJOD+ScE2dU2gYp97IwsAZlGLVcgczDBG8pdqJiuLW2mGSlKSrgXZl3W6mRz/43w/bmP/20GxCPWXd4U4+NERlz4OzKe4QLN3HTX8OVd2ShkmPlnhSs9ZnRiqqC2XNF2d/bUGs8re1MflPWQ+7UtTkjU6EWvMGKvnlokPQi/5WzzcYcdwOlAiStYUe4ixY/ShZpauJqEW1587/3WFk13DIOIYGDJTIEUZhy4gphTOXc98DR8FS0q96Gh4hqZo36pbJv91wGg+XV6O1hc+Q/viw9poEFecsHJD4vlzDuQ0/8W7seEl6jMwvvMv5klrjr5A2Mo6XUUFcCkfZHNK/zX/6C+KfHisHmvL1/Rk/Wk7t8/zSazgJ8T1dh9Ib2EIZ5aK4D39jhjG/YFbMHf4N4Q==;ciMW05TtBFrvSOY76N/iTA=="
 ---

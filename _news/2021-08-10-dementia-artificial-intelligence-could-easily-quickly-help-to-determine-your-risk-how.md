@@ -43,22 +43,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    type: article
-    provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
-    quality: 57
-    images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Artificial Intelligence may diagnose dementia in a day"
     excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
     publishedDateTime: 2021-08-10T08:12:00Z

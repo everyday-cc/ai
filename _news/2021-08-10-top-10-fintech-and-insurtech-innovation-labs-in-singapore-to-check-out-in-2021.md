@@ -71,19 +71,19 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Sigma Software held the first-ever UK-Ukraine FinTech Summit"
-    excerpt: "Sigma Software together with our partners held the very first UK-Ukraine FinTech Summit. The event was conducted in a hybrid format in London"
-    publishedDateTime: 2021-08-05T19:15:00Z
-    webUrl: "https://www.mynewsdesk.com/sigma/pressreleases/sigma-software-held-the-first-ever-uk-ukraine-fintech-summit-3119486"
+  - title: "The future of digital ecosystems in the fintech space"
+    excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"
+    publishedDateTime: 2021-08-10T13:37:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/future-digital-ecosystems-fintech-space"
     type: article
     provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 39
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1254347556_2.jpg.png?itok=2v3K1Yip"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
 
 secured: "L3CQ0CamGQL6hdgCIMmJ9d/WPFq3yR3Ox+FkEzfaPST5uYhisy0pMxSHknw9dC4Dp1rVUhwM7xfN40T8G7gF0UmJLGUU8axox7f1DHqqqt3wPb8RabRy1QdA7XRIbB/vZ/t06wn/49NtDp37I6ko1EAkCOorPAXTcVjYrUl57Oc73W0ZXNMOCG1mFwC3jwvv5cBYwnpP4+4WRo4abD3rxF51U8DooRjfFIMpOvtEaKOGP0Dxods6+1+HSpR2k4wNmcmDxujJQ8yUPvFdERFqh9E/GQVDfNz2r87GY9hizjh17wdxxvxYQ5VIzky07niNSR5QC0tP6eUvXhWpEnCp9kmq86J4abynt9QyG7KoaBq7thQOl5OwHGNrE38qDoH/MIQBKmgi0KB9+kDMk0CM+en5ixvB9pJNxXhvfpA/4R3lWTDnllls4CH2qal+gIgeaRmDri37IpVhkZKdutjFAHwKtXeWgNrh0phU5x2tby87c2QLOi5pinUAg7YiQ03/XMdAZHprn7ACWLWTwUxIgw==;Uex4VOOQYljGcotAR/F37w=="

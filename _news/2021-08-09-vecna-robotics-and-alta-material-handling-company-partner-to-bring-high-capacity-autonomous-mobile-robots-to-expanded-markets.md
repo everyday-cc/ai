@@ -63,15 +63,6 @@ related:
         width: 340
         height: 255
         isCached: true
-  - title: "John Deere To Acquire Bear Flag Robotics for $250 Million"
-    excerpt: "Bear Flag Robotics, a California-based startup founded in 2017, will be acquired by John Deere for $250 million. This acquisition builds on John Deere’s strategy “to create smarter machines with advanced technology to support individual customer needs."
-    publishedDateTime: 2021-08-05T20:58:00Z
-    webUrl: "https://www.agweb.com/news/business/technology/john-deere-acquire-bear-flag-robotics-250-million"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 34
   - title: "John Deere Buys Robotics Company For $250M"
     excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"
     publishedDateTime: 2021-08-09T15:16:00Z

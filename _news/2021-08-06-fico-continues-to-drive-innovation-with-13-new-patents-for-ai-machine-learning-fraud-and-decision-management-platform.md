@@ -20,44 +20,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
-    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
-    publishedDateTime: 2021-08-06T00:43:00Z
-    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
-    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
+  - title: "InRoads Credit Union Selects Scienaptic's AI-Powered Credit Decisioning Platform"
+    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that InRoads Credit Union has chosen to implement the company's AI-powered platform to enhance its credit decisioning and underwriting capabilities for new"
+    publishedDateTime: 2021-08-09T12:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-19941750.html"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
-  - title: "AI Must Be Accessible To All For Organizations To Benefit"
-    excerpt: "Democratizing AI development across the enterprise ensures that vision AI products move swiftly out of R&D and become force multipliers for organizations."
-    publishedDateTime: 2021-08-06T12:00:00Z
-    webUrl: "https://news.crunchbase.com/news/ai-must-be-accessible-to-all-for-organizations-to-benefit/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 37
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/neurotech.gif"
-        width: 900
-        height: 541
-        isCached: true
-  - title: "ZIM readies AI solutions for its shipping operations"
-    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
-    publishedDateTime: 2021-08-10T05:54:00Z
-    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 37
-    images:
-      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
-        width: 900
-        height: 537
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "bj2HqNqV+rnqTByJjwxEayatSJBOKShCLlJ0It+XC44jB/XVq/qwa6jbMup6Kzkv+FxR7GAcEjVrK70UoxudGqyrjmxmAWx8NQmYAt2XAJe6nQcLFx0rXg4c9OlogtfpuEzJaqbFlkqdHiiv/Ub0DIEGNmHmeuQ3R0jBdXIkho4IyC/Ia4D3VYkBRNI2LNOp9U4hEXFvc5lE5Di0A6kkz1iv+hLuuqIfTqyXWuR/4YtcLRcyfVM9omwkKokm/gSewlf1Q214ulrexNJz+sfhT31Y+TATCo1IRKkGeoVYpFNWJ2d+x9U/+ttca8mIG73WDP3pYAUPMmdeK5hEtxqzgrAge7hdmBqs/5DYBlM6AoJRsvSkCxLX8xLyTCAd6ZsCr7SbmYr1lc+3q2Vt4mpowjSsityqU3WDrFfhzvqX7AEKh8AjeshYxrga0X16NxLr5FoPZyU9XGUn/I09MzgIpH2njwFd//QqRWWhgbFNysEND2D9wtvvVHkhCKWOr5lEcloHKsb77XMVlvpyyJgx1Q==;p1IpgQ2oEmlqI0skAGxsBA=="

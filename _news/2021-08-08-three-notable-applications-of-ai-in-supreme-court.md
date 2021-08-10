@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Three Considerations To Keep In Mind Before Investing In AI"
+    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
+    publishedDateTime: 2021-08-10T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
+    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
+    publishedDateTime: 2021-08-09T17:20:00Z
+    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 47
+    images:
+      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Top 10 AI Innovations Of 2021 So Far"
     excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
     publishedDateTime: 2021-08-06T09:30:00Z
@@ -38,6 +68,45 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
+    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
+    publishedDateTime: 2021-08-06T00:43:00Z
+    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
+    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
+    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
+    publishedDateTime: 2021-08-07T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "ZIM readies AI solutions for its shipping operations"
+    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
+    publishedDateTime: 2021-08-10T05:54:00Z
+    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
+        width: 900
+        height: 537
         isCached: true
 
 secured: "fLI5UtUJtT3xwVKcR4MvhF68jVY1C2kAaf/81ix67uA+FnpGE8yIrggiB94UHUeALu8XLtIAyYCRVKmU33HPnwVyWYLf5+GeNQIl87nJJzGw0mgAstc3C7px9tYrFXraVsCSUzFxwB8kdVpC0A03YDzPF7AIpBQpIT49NF7iOVqFhZ/TfTXtkecJthx30Su+M6Ue1meIcExf6/GgbWc+XkYRdFn619fhcFUyCwzZmoQHHFFC9RovgeqRImT93kL9pAte4qWL/v4rqGLcHqSWcLYd/ynI/fgU9ns7aoJrAGeJrunnlljGvWEOp2In24shwl1tDf5M/QJrS6U2+ktbRD5aJE+oWeoFSnQpDqSo/3ablPiyt7fKpZBHroLDRa9woI6QmEKDyhhvwEOWtzZyRRn6plRZjwI71ZblKkr+Xu688ArAHPIzet6xa+pUmuG9nWqqei/+uoKSON7RqpKqcRThrrSbtJE7FC36ID6+mbG4qCpbMPp67vE/YPK/M7WCcCESbHjWr/j74t3qkKD6+w==;RtX4S04pt8QNgWLVeXgKqg=="

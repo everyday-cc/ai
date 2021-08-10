@@ -25,81 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "Doubling the performance of visual recognition AI"
-    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
-    publishedDateTime: 2021-08-06T14:18:00Z
-    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
+  - title: "Three Considerations To Keep In Mind Before Investing In AI"
+    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
+    publishedDateTime: 2021-08-10T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
-        width: 700
-        height: 464
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
+        width: 1200
+        height: 652
         isCached: true
-  - title: "Federal Liberals probed for facial recognition use"
-    excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
-    publishedDateTime: 2021-08-06T16:59:00Z
-    webUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-    ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
-    cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+  - title: "Top 10 AI Innovations Of 2021 So Far"
+    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
+    publishedDateTime: 2021-08-06T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
     type: article
     provider:
-      name: News
-      domain: nsnews.com
-    quality: 59
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 43
     images:
-      - url: "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop"
-        width: 724
-        height: 483
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
-    excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
-    publishedDateTime: 2021-08-06T17:52:00Z
-    webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
-    ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
-    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
+  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
+    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
+    publishedDateTime: 2021-08-06T00:43:00Z
+    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
+    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
     type: article
     provider:
-      name: Windsor Star
-      domain: windsorstar.com
-    quality: 52
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
-        width: 1000
-        height: 750
-        isCached: true
-  - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
-    excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
-    publishedDateTime: 2021-08-06T07:46:00Z
-    webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
+      name: Law360
+      domain: law360.com
+    quality: 39
+  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
+    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
+    publishedDateTime: 2021-08-07T10:30:00Z
+    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
     type: article
     provider:
-      name: Power Technology
-      domain: power-technology.com
+      name: Analytics Insight
+      domain: analyticsinsight.net
     quality: 39
     images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/virus-4999857_1280.png"
-        width: 1280
-        height: 905
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
-    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
-    publishedDateTime: 2021-08-06T16:20:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/924664"
+  - title: "Three Notable Applications of AI in Supreme Court"
+    excerpt: "AI in Supreme Court can be used for legal purposes like AI techniques to read legal judgments, document automation, contract review, etc. But before adopting such technologies in the legal system all ethical issues must be addressed."
+    publishedDateTime: 2021-08-08T11:30:00Z
+    webUrl: "https://www.analyticsinsight.net/three-notable-applications-of-ai-in-supreme-court/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c1218526-4057-4665-8c6c-d3f7ca861bcd/Rendition/low-res/Content/Public"
-        width: 700
-        height: 464
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Three-Notable-Applications-of-AI-in-Supreme-Court.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "ZIM readies AI solutions for its shipping operations"
+    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
+    publishedDateTime: 2021-08-10T05:54:00Z
+    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
+        width: 900
+        height: 537
         isCached: true
 
 secured: "gdROxTns4v/DG+99dxjf5qV89GtiiwNTNpoiD/lr3ioPprpycSZXbfa0qDcJJ5HiGbzmoiBcnKruPNyKhlF00CtjThgN/TUCL3wavMgzZ1c5L8KZE0w/4sZx4xEtUr0rNGGXZ2qxjI5QNz2h8DIqGZHQjV2BWk0MZFy+T8Q+A7Hz8Km2dj3+pR+NTjPa1eNZoMGG/S3TG/F6YI4jRA+/FrOSOKpthCW1K/GI4sVDuhESxm+uGCb3g38O8Hd+Lw6oy7GwOhOS44KMFmmibMYfUYw2585C2H4S2bGNg2M3u8jrIYLPDcWa9/eKJG82i7RH0n5CAezqfGRskmFvpYjeeNmTrLLwtIYmBJDyA2Udj5A=;mENTGKp9dkIp1sTT7zZYyw=="

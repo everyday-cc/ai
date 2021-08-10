@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://cdn.openpr.com/U/8/U810167263_g.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Agricultural Robots Market Size, Demand, Competitive Analysis, Regional Growth and Forecast by 2026"
+    excerpt: "According to the latest report by IMARC Group, titled “ Agricultural Robots Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026 ”, the global agricultural robots market size reached US$ 5."
+    publishedDateTime: 2021-08-10T07:20:00Z
+    webUrl: "https://manometcurrent.com/agricultural-robots-market-size-demand-competitive-analysis-regional-growth-and-forecast-by-2026/"
+    ampWebUrl: "https://manometcurrent.com/agricultural-robots-market-size-demand-competitive-analysis-regional-growth-and-forecast-by-2026/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/agricultural-robots-market-size-demand-competitive-analysis-regional-growth-and-forecast-by-2026/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Agricultural-Robots-Market.jpg"
+        width: 640
+        height: 446
         isCached: true
   - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
     excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."

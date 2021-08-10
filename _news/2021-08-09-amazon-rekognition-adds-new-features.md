@@ -56,6 +56,22 @@ related:
         width: 950
         height: 534
         isCached: true
+  - title: "Amazon Updates Video Segment Detection Software"
+    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
+    publishedDateTime: 2021-08-09T15:31:00Z
+    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "5LVDV7/qHDI7NSOAvPjVEfoPnJ/mPU7Bq2kNh4LbHuQYhz2yrocbWN8d+ORWWMp8fhmB89W1KdZ2gtEgYiqSasKIiUVC7TQ7oXrgguSPWliHnfwFHH4PGUBR9DT/XggVlDsC8CPqxP2l4vl3+3IgCv+fxnfp+yrPMLGlcP/K/KW/7O0hfhLjEMdpgQa7VIGlwLt0l8DmDDcYPokWJCos30kk2J8Iih3oaZskiCcfOlvKzR9USyAyspJXbTZeIO10IG7x3CtOT5Ttb/LkrJKTHuBWjqmnS8PO/US6mKsDw3hxPlXwu+92shJyXA84iQiyzM5PwLJWawru9h0SFi9Wn0NRAig7fZAW18/ySftXsuXpBWmuVOEfVrVr8Y1R230IkAYCvClOpM904EuDPCk+J1J7VjcZ91RRgWjFBXOqb+g+91luRaqqTLsf1SLpDlnLKnbjsxCv+FcAil5kLGs5GHd5LieV1deqG3KozVOmcBxcmit4+q0GmOZG9RnxqBXtNMq75DxCyfCp2Bdzh2ORPw==;ro9oMajVsKnvzSXfz8qFtw=="
 ---

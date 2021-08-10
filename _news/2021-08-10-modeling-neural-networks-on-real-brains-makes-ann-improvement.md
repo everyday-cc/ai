@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neu
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
 quality: 74
-heat: 94
+heat: 96
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 480
         isCached: true
 
-secured: "UjY1AoPHuWCf8dMqz1BqpCtYJVvjXg3LB+gpVOM0hoEi/MRVPSnokMPQJC8vgGlV/2k/7szqnTFfZ9xkSXmq7OwB4H+9NM67T+m5jhLsb/4aEiP35X5qScRvNChwFAX/k1HpdTBkZ4BDM6monf82KFW0kpglTwb2lZjSWSxCpBAexZZmqbi8sINQNqkmYmUB3tblPRfzq7+wzEU16PLFmT0njrd6jXxyCI79uf9fmOc1Bfqay6S7Ys224eWpbF/rT7WWjJFNuHCUS4STt62FqyIenEIxkILTavuR+mOE0oNzk5TxIkV7RYGX0mfnlWItqAd4QMOUJq9eo3AaR5zyQeVp8jnz3HgbZBBnDQ91JnI=;5zLRF1ay7/F9MghIj/SepA=="
+secured: "m9CgUjjYcNmERuO5OoPCyoGXD6GIwiUZl1jOOa05wF3TbQy7IWu90DP1LQIlvHvMHTYIAIUZAyon/FQKAjxZOwnTfaZIRLpw2qYiniFt7LbU4wkJjxhxWZLR2ZS5Ggag/4BgC8hY8sMvDPjN/7CLHcCnVw19xbM4Be/jEQJwSkpAVJ+qieQPmOOTy47jh95V9xpuDnK78X6ewCBHIPrYevvFvImV5swlxevHVe70b8t9ldki25ViG5OcAMXPwGu8cv+cuyIANnn5LJ9DgioOT5mJU51GWtlMfVY5JNFOZqobT7yMXG4bJBSiDtgAgawY8dYUl/gG6tQNAKCJjUaHPo7EVmPAAQgDT3oHaxgozNJurmwLGoZ2DRYK1H2j6qSS6Hd5WhWS52HjVuxz21ksmPnCjVmcC8dvHEhz0v7HYaXFBDKLC7oq6uY6HO/tshcLp12rScGhtlGfoWFobCFXvj0afb7Z9aIz5Xc2yWLfslpw9LGEj7Nt2/0YYMSRLg2U/Lm7KDfvR//47iEGRvM/XA==;JkxU1+S3eMOMF4XKVJ6RHg=="
 ---
 

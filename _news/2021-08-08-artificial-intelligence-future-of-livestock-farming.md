@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
+    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
+    publishedDateTime: 2021-08-10T12:09:00Z
+    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
     excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
     publishedDateTime: 2021-08-09T23:17:00Z

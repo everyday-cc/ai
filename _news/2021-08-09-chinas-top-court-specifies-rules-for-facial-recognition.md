@@ -9,8 +9,8 @@ ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-
 cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Новости Украины
@@ -27,36 +27,93 @@ images:
     isCached: true
 
 related:
-  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
-    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
-    publishedDateTime: 2021-08-09T17:30:00Z
-    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
-    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+  - title: "Federal Liberals probed for facial recognition use"
+    excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
+    publishedDateTime: 2021-08-06T16:59:00Z
+    webUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
     type: article
     provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 40
+      name: News
+      domain: nsnews.com
+    quality: 59
     images:
-      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 424
+      - url: "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop"
+        width: 724
+        height: 483
         isCached: true
-  - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
-    excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
-    publishedDateTime: 2021-08-10T05:09:00Z
-    webUrl: "https://news.uark.edu/articles/57310/journalism-alumna-wins-national-recognition-for-research-on-algorithms"
+  - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
+    excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
+    publishedDateTime: 2021-08-06T17:52:00Z
+    webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
+    ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 24
+      name: Windsor Star
+      domain: windsorstar.com
+    quality: 52
     images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-08-09_12-14-01-PMKendalHeavner.png"
-        width: 729
-        height: 974
+      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
+        width: 1000
+        height: 750
         isCached: true
+  - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
+    excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
+    publishedDateTime: 2021-08-06T17:13:00Z
+    webUrl: "https://www.cbc.ca/news/canada/british-columbia/liberal-party-facial-recognition-software-investigation-bc-1.6132382"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6132382"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6132382"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 50
+    images:
+      - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
+    excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
+    publishedDateTime: 2021-08-10T13:19:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-airports-facial-recognition-aviation-ministry/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 37
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T16:20:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924664"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c1218526-4057-4665-8c6c-d3f7ca861bcd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 464
+        isCached: true
+  - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
+    excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
+    publishedDateTime: 2021-08-06T17:09:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 28
 
 secured: "LlP+MOgatHV+Pk5XQ+7r9j257v5sZRQqeywSRl3JMi1Ko5Ufk0MEAX9lCBzbHufas6D1hxgxT4yntJAscc4ik6Gpf1nh+rUMyCrzb8MLaUUOjh1HcrtimfRQwSgMsL8idjHdNRMQaPu+X3Pl5lmLzG3M2wOsBtEKdFQporcET3o5ZAczi/QOWwvxT9EFGhm6yBdXY8ZZZbI9/bfgibF3QbK2BSuWO7WKjaQYLUtm7wKtmrDoUHLuPFIR1oTC8Hx9FLwp2DkaTnWObJozSrispQ8dct978t1k9vi3uPzhwf1fzDsxV5VGwcQrOi7LrInNNcJvJvgGy8IeliXsm/gsfgZ07EbGb7s7r5b3RmA1vZtut8wKEz64LHSbCNMo7PNKWy9Y+lSfKCY+qgURE0LZLF0+3oAG5eCluF2EE5j3pw5pM/uxYPoPTSlSSSZJHcSlV9mEZ2shvLu1q8fWE7xEAt3jmp2hCp4l4jK0y2M4zXfh18oTAtDsvOT6JL4fVhm2WJLrmvWmv5NJVASR6GWm+A==;2gbnOCoXLZ59MMtxOqsBvg=="
 ---

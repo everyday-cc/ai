@@ -8,9 +8,9 @@ webUrl: "https://interestingengineering.com/south-africa-awards-ai-invented-pate
 ampWebUrl: "https://amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first"
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 157
+heat: 237
+published: true
 
 provider:
   name: Interesting Engineering
@@ -134,7 +134,21 @@ related:
         width: 1200
         height: 735
         isCached: true
+  - title: "Using artificial intelligence to map African cities to improve services and infrastructure at low cost"
+    excerpt: "Using aerial imagery provided by the Zambia Survey Department in the Ministry of Lands and Natural Resources, OS has utilised its advanced automated process to generate a new base map using Artificial Intelligence across 420km2 of Lusaka. This innovative ..."
+    publishedDateTime: 2021-08-06T13:07:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10955"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 23
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/August/6/7/5f2a6510-0356-4423-8b1a-1e153686c68e-sized"
+        width: 800
+        height: 800
+        isCached: true
 
-secured: "NnfDBSUwyG91gVgiaWn0tItSdiAt0nDzriHJ2ToKeSTbCaHI0rOF2qftzRDu/RozVkdd4/OmpwOgpbpIoQvo8uFS4HO9OLmYExEy2SsHwX0aorrH6KR5orsIlBxr4qcBANOi12+p7EZk3m8NVajadIF+UZSlPqC5IFtX7AYGm5jE99BC0lqzztt/UysOlZ1bUEz8JTg+b3+yhdYva/UvUsbpV6jXbOaet39ED0GXMqUNCIIbG9M1IhRdQNxOvO4JtnfIznYJV33qZXh0vV9syGgwRZ1hRvzI8RMsxaJdl6MZeCdjhUuCIMIFPPWsV0J9mVTkuo+94PVErs5y1qHrnkYTC6pM/Ro75cH+RBfd0qA=;oXFGBC9n7+sG1eb3bxndyA=="
+secured: "cYPJkF2FrBVXlN4QQVzZ6bjxlUmIzyyUBHu2ShAf/wCo5h47twWJBUMNuti6VGErjhLdHeCGt6IKa4tPZNJqQPzxg8ghZOq4O1ez0G1WP8PLTlE/KEsBeeGuHbeuSNWUMs3If7g0HvQnmF3xV1pTnRAz4FBRqGcBGiPh1YRxLSxXmpxkCGdmaHrC8Z6y/jZGGq81H+NCrdVLNtClb402X0VUDLHv6pbZVbk27i2RVbcvo1iXbITvxUBM6JMleV81X6giCq7trWthO8LU8snlNtuwoyDtP1UAA6J8Z8RfW0Wkjv/M0yYLaGp9bIKdiHqdIF0cmbbKFf6Om+yKlqPMGdVskjai2IAUvpvCAWmrQjQA6Q6J8flCDJKXPC8Hn31P;i4CXsWgsI+GXkhrVNsXUDA=="
 ---
 

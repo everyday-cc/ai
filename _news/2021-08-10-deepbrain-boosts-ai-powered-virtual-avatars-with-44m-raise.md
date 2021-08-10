@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

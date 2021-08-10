@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
-    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
-    publishedDateTime: 2021-08-09T17:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
+  - title: "AI For Population Health And Medical Imaging Gets A Boost With $230 Million Acquisitions"
+    excerpt: "Nanox announced today two acquisitions to create a globally connected, end-to-end AI in radiology and population health solution"
+    publishedDateTime: 2021-08-10T12:16:00Z
+    webUrl: "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/"
+    ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61126d032c71efbd31a6ced9%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "A0vayiYKx2eEV7BvqhdsR81+hnMEG/ir9rc9aNzUgx4/oyfMmzbDv24gQrJCQsuXOYBQYDS27Iy7qpgq0vSMbfPckmW0puz/8CKr9O/m5cGL6FmiOQuHKPJhYJAkxUt2I3YYrikpOXVxXUgVwGSki7WIN7nB1oHOcl0I8K9hs4khn//1JE8hjW2LIYTN3+VAHJF6es6f9oozA1WYtrH7Q9TzTFTjNDQ+oWRAE0H/Be8rVzm7TBrAQ/uV87Git7GRabSMpSl113aw4fXKa/LAiNC/7a/UOHyxBavAZRKpYsXnp+YMzCukgDuIc5aGrsG8FDGFkr5ADt+voVYpPD1OrO8TT7TMqN0u2rbAAezGm4E=;TIxrVY/idO43oUOAgdHB1Q=="
 ---

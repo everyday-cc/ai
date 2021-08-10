@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Doubling the performance of visual recognition AI"
-    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
-    publishedDateTime: 2021-08-06T14:18:00Z
-    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
-        width: 700
-        height: 464
-        isCached: true
   - title: "Federal Liberals probed for facial recognition use"
     excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
     publishedDateTime: 2021-08-06T16:59:00Z
@@ -59,33 +43,51 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
-    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
-    publishedDateTime: 2021-08-09T17:20:00Z
-    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
+  - title: "China's top court specifies rules for facial recognition"
+    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
+    publishedDateTime: 2021-08-09T08:58:00Z
+    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 47
+      name: Новости Украины
+      domain: ukranews.com
+    quality: 59
     images:
-      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
-        width: 880
-        height: 587
-        isCached: true
-  - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
-    excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
-    publishedDateTime: 2021-08-06T07:46:00Z
-    webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/virus-4999857_1280.png"
+      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
         width: 1280
-        height: 905
+        height: 670
+        isCached: true
+  - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
+    excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
+    publishedDateTime: 2021-08-06T17:13:00Z
+    webUrl: "https://www.cbc.ca/news/canada/british-columbia/liberal-party-facial-recognition-software-investigation-bc-1.6132382"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6132382"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6132382"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 50
+    images:
+      - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
+    excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
+    publishedDateTime: 2021-08-10T13:19:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-airports-facial-recognition-aviation-ministry/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 37
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
@@ -101,6 +103,17 @@ related:
         width: 700
         height: 464
         isCached: true
+  - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
+    excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
+    publishedDateTime: 2021-08-06T17:09:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 28
 
 secured: "zLgwbwLOiTMwiR+X2S0bZ29hQ5ajiV0dsd2okhDsDvKZEHhiWBW8iJJConj/kZcYcg2NnurTn1Dr4eSUwvqcbEFNI0fxds/isltfUL82t5kvxKnDyIxs9uJa/VtirvOTD9IDBSgP70IBAKtUg16b7Q09ApUo58ut8gmapjaoV70WyXIPlx6lPa9WHmXjDIuXFneji3kOJQuKPBz7KdNSlZeuP/x92yhnWjUWAk33aJtmIP1cItQqprwEmingX03dJj9ZcWwnlK7wCvNTly0K5skCHYkR1z8Bum0PdidrE8faUVDJDwZGKWHjmHClLI9/BsBKXuZxrKu4UBWVtZagARgeFU9wRJ3+9FxvGlNjLp4=;tbqVqug173RuBDowsx1wxA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-h
 webUrl: "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://ucarecdn.com/0e25acf6-9b16-485e-8b94-d179853eba86/"
         width: 1024
         height: 717
-        isCached: true
-  - title: "Verily launches healthcare AI center in Israel, adopts Google Health projects"
-    excerpt: "Verily, the healthcare and life sciences sister company of Google, said Aug. 5 it is launching a new artificial intelligence research and development center in Israel. The center will focus on using AI to address problems and inefficiencies facing the medical field,"
-    publishedDateTime: 2021-08-05T20:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/verily-launches-healthcare-ai-center-in-israel-adopts-google-health-projects.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "B2vIAmf163nZWbzXA5AbgMnGoJNXg/PRx5UpUQpQfiE1vBSfDOh8XS6tNF0V9t0NUmeoySe/0MEXGUrGbVzHJR4Y+8iRHDI3g3X/pKXTaNUXPeFKTGwfEZ68whh3f/swGQIHHd7mV5sZQkVLEP/Edz9f7RTa+5OzwGZtXUvObEmV0KURONG5j5cHE3jmTOwDXV17KXiJ90EuV99lo/Pka+/fNq23OOz6qdDbRTXa1jAD0cUQDfaPHAdEV1g5r7WP5UfTGvJxoruJvpQlB4iSJ+5KzLD7Zmt3b0tdjXCj7xVIb+DMztPdXA53avX3KSbXFPNkpNWCVWgvWsyQHSlmlZcwVpfOVym3oqpMTXIY8CqYTXVzKyw74Dj8QCiVxrB3iqQt4TDYRpoROu6Rh0E5/QUn5wwFY8ICsCLDjWb1HysxkmA+NohoMT9YNt6gyKHYDO3H037A3VwiudDEWWNH9pL/lIqa6UzkuC9MYTxgI+KgR6t9iagUg9FJvcyfq9/4agkN6LyWKZa6zwp3jFUqGw==;+w9WzEYbqpeQ3pjeW04GkA=="

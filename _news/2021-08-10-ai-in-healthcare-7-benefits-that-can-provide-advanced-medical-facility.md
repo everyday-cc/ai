@@ -53,20 +53,6 @@ related:
         width: 480
         height: 250
         isCached: true
-  - title: "Verily launches healthcare AI center in Israel, adopts Google Health projects"
-    excerpt: "Verily, the healthcare and life sciences sister company of Google, said Aug. 5 it is launching a new artificial intelligence research and development center in Israel. The center will focus on using AI to address problems and inefficiencies facing the medical field,"
-    publishedDateTime: 2021-08-05T20:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/verily-launches-healthcare-ai-center-in-israel-adopts-google-health-projects.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 51
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "HqJPV4eaLGbObRrljxJT2r4zYAS8B4dx7B55INCaMHKsjrXmTVAQE+PBeANP3KPNEdOkcbt/UrNpZ/y6gPzqzMBrQCeUxF10Q5wCt6+mg7aqrtVKnQOvMa+yh7Qjc6yAAetQgEJqZbgevBGlczTQ4HqhImw/0UW5sxjYsgqkBtUwJ93E8d3hqwBdn+qBoyGwfZTw7VeIntndg5HsCoM1ODXQtPpnaTSI4QF7BaQBuARkuAoaA0mFok+0lZMUUJvfl4uI1EbWSmTH/g6+oSQMIgaTxWVxVIIBVT6phX5nBIbj8ZkpIo1D8eqak5is9NJSshG8QFAlJI2HN01tJt+Eo9rsQcz4qH4O6GvU0r3dBNitAJJa11xa6f9Ou3DTRVQfvySfa1SJu5Hrv1lwUGqKS+sCkPVwf5iPRUhbQJHJ5XqJzRR33ef4/F0V2CO6pFy7Bh68hv1oAs08KeprOtWOdwXTLE3Xcqm2kSJ6tT3nZnP+egnD33JQXZBqHjrp4OEIavgGq9rCsB95G68JN/1SdQ==;2Ah4V+jTkeCMpnKtJOklDg=="
 ---

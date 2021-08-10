@@ -7,7 +7,7 @@ originalUrl: "https://www.ipwatchdog.com/2021/08/07/humanizing-technology-back-t
 webUrl: "https://www.ipwatchdog.com/2021/08/07/humanizing-technology-back-to-basics-on-dabus-and-ai-as-inventors/id=136374/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "If machines can be inventors, could AI soon monopolise technology?"
-    excerpt: "The Federal Court of Australia has made a world-first ruling in favour of granting a patent to an artificial intelligence. But what comes next?"
-    publishedDateTime: 2021-08-05T20:09:00Z
-    webUrl: "https://theconversation.com/if-machines-can-be-inventors-could-ai-soon-monopolise-technology-165604"
-    ampWebUrl: "https://theconversation.com/amp/if-machines-can-be-inventors-could-ai-soon-monopolise-technology-165604"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/if-machines-can-be-inventors-could-ai-soon-monopolise-technology-165604"
+  - title: "Elevatus is Powering the Evolution of HR Technology Through Artificial Intelligence and Experiencing a Huge Surge in Demand"
+    excerpt: "Elevatus, the industry's leading AI technology provider has positioned itself as a transformational player in strategically powering the evolution of HR technology. Elevatus' momentum has led to an explosive business expansion of 335% growth 1Q 2020 versus 1Q 2021."
+    publishedDateTime: 2021-08-10T06:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711781"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 57
-    images:
-      - url: "https://images.theconversation.com/files/414478/original/file-20210804-12-yt1peg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
 
 secured: "JL1WW0Uf3qn+IgKb0D2BTBzdqdDNyEYfxdfCyHb/+C7Gs5W+GusDUe33CkeJwXJxdzMYtneUCk/sLRx5uf31bNZtEWHpSkWixCEE1aeSaV27jebKxbnhY0hoeUXnZBvn08OGFIdQyzwQ1LWEnHM71vGFYFqIszHZ1P2YOLP4VVpGZvEbiabBIxKJ/GnQWYdwGbUtA+VqGWT3YKgGFe16JwhXqnv+diMtRI4DQCqYpggXGw66oLOCntHej5pq7zFxyD440yJYjXyZ8dGjxsx2q9NJgcipVhSvbOQC9jI2znWj8/vYSV7ud4v61GUneNf27GaXIb/aVRnLtSqwdyVYTsqal46OAbGtlZOqNv80PLD2f9kcwNiG58VDMR2XaTXth8S0FL3T2fYGfHNIBCmzOrs9wXvJHTKcPlL9CftQhp8O/Sa4G4Y4sSSLYJRoBxOU3Y+tDzUjNm/gnC7zoL5sY8ptpuMhEVcgl00dXmgLCVU3+Ddy3JhWjs6QPfdKOLOEckcPRKTpdPbYuzjUuVil6A==;BM/LEB0GmCokmbOjG8zMxw=="
 ---

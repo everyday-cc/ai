@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/09/7-ai-powered-business-tools-are-rising-fast.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
+    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
+    publishedDateTime: 2021-08-10T12:09:00Z
+    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Artificial Intelligence Future of Livestock farming"
     excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"

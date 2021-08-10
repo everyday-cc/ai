@@ -57,19 +57,19 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Sigma Software held the first-ever UK-Ukraine FinTech Summit"
-    excerpt: "Sigma Software together with our partners held the very first UK-Ukraine FinTech Summit. The event was conducted in a hybrid format in London"
-    publishedDateTime: 2021-08-05T19:15:00Z
-    webUrl: "https://www.mynewsdesk.com/sigma/pressreleases/sigma-software-held-the-first-ever-uk-ukraine-fintech-summit-3119486"
+  - title: "The future of digital ecosystems in the fintech space"
+    excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"
+    publishedDateTime: 2021-08-10T13:37:00Z
+    webUrl: "https://fintechmagazine.com/technology-and-ai/future-digital-ecosystems-fintech-space"
     type: article
     provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 39
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1254347556_2.jpg.png?itok=2v3K1Yip"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
   - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
     excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"

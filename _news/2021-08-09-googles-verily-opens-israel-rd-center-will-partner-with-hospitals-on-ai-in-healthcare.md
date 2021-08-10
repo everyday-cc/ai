@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-09T12:23:00Z
 originalUrl: "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/"
 webUrl: "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 145
+heat: 145
+published: true
 
 provider:
   name: NoCamels - Israeli Innovation News
@@ -24,6 +24,6 @@ images:
     height: 1133
     isCached: true
 
-secured: "hKKGk3OzWdUgtX9HlsFjYo5He/CpjANFb0gwa6N+CJ6e3UjAaQKeS10MchEDonyInnlMvXQnxuR9p4qOcebmVD/OlpE8j6KZFGBTUxHuRYC/oDli+Cw+/Ip5E1N6pG1gnAd2eevp8njU6P3nasIu+n1zc6uYqsosx3328O5zeM4ksRFJH4u+ou00En+RBFlUfF20lkrWfPo3QCCmgg46dLozwArkVZMLS7zbr10JN9427PR496Uu5T1Fij62WMiOHbGQ7Kp2KA2OruP7y/WyZME4dBNyX/nd1U06FWSGKUu5I6VR9JglpjmJXwYdRYXX4WyQOMMo3lyZILncP63hK75MJCe+l+QFIDtokgMQG6BbY2I3v1HxywMByPLYg0G9jFp3PC48El6QTHbcdg5LG+e0zJ9WX296mz7ceK7u7UylrRuMHBg35zD7agivDgkRRG0dd6EVXd5b5Jor1jdlXNQH1HuMc81am/nJOHmVejC60MusrDTrIWBh/BdUwRghXLhLiD/mPS5A1PdFervxMQ==;ytuiwyFGdnGkx7bo7omcqA=="
+secured: "eFcPqIIyLas5+9jqE/J7JA/LMxujz0klKk6CRUHKN/5xbvWBua7oeXkxviRHbakS+N/skAiGg8V9JCW4nIBlz7KbPXz2QEJZ5rogP8sUYSSVVWilTG0cPvlOClbwmj6KiFOEuimu5nA4IJtMOTXr8e0lTsFNn72r6jc2WnWrzGUcHJlp04WX9X7Cy4YlNSrylwHQG78/AJYf2zhKis7P9YvGmplMAz3AAT58q2+NZYlWQi2Zai2Fv6CtIk7AedJeUw62Ng4aJPPRIZLQZwW1q8IisW8SvmKcRuoDILWakuKg5vGPWdLNoaPq5+skCgZuesr7EUpUpQwp9f+uuUtoCUJgbEdjXUpW5asch3rbE8P6hPLd646uX7Tcb+Ql+okXkFjm3lKcUWacxy9EUtEK30DBPCjdFUBrD8U7/M6WomhHk3lBz60C9aUJmkMG3JfaXXc+Qf+/kDPufwW+WuspMZt3DQONpCL05L9SQhwZzqxRb17OcLe4Y3jhvD/AitINMfwxZfJwPgQgVan/oAPvoD2gQZvi/ZAamMtPBE26Qrc=;qaKQfgf3+LLYLljcNrk+XQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebr
 cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
-    publishedDateTime: 2021-08-09T08:58:00Z
-    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+  - title: "Paravision ranked among top-five facial recognition providers in latest NIST test"
+    excerpt: "Paravision was ranked among the top-five facial recognition providers globally and first in the U.S. in NIST’s latest FRVT 1:1 Verification report."
+    publishedDateTime: 2021-08-06T14:58:00Z
+    webUrl: "https://www.biometricupdate.com/202108/paravision-ranked-among-top-five-facial-recognition-providers-in-latest-nist-test"
     type: article
     provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
     images:
-      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
-        width: 1280
-        height: 670
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
     excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."

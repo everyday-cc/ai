@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-can-bug-bounty-programs-combat-a
 webUrl: "https://analyticsindiamag.com/how-can-bug-bounty-programs-combat-ai-biases/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Twitter's AI bounty program reveals bias toward young, pretty white people"
+    excerpt: "Twitter's first AI bias bounty has wrapped up, and it learned that beauty filters skew its photo algorithm — among other issues.."
+    publishedDateTime: 2021-08-10T13:39:00Z
+    webUrl: "https://www.engadget.com/twitter-ai-bias-beauty-filters-133210055.html"
+    ampWebUrl: "https://www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 85
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/ea9ee970-eb0c-11eb-bff7-edec61e3c4f2"
+        width: 5000
+        height: 3333
+        isCached: true
   - title: "Twitter – Twitter just led the first-ever “bug bounty” for AI bias"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-09T16:31:00Z

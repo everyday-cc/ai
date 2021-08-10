@@ -2,32 +2,26 @@
 category: news
 title: "Microsoft releases Fusion ransomware detection tool for Azure"
 excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-publishedDateTime: 2021-08-10T11:01:00Z
-originalUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
+publishedDateTime: 2021-08-10T13:34:00Z
+originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9196/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
+webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9196/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
 type: article
-quality: 104
-heat: 204
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
-    width: 1260
-    height: 710
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/azureonmobile_shutterstock.jpg"
+    width: 1000
+    height: 666
     isCached: true
 
 related:
@@ -104,22 +98,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Amazon Updates Video Segment Detection Software"
-    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
-    publishedDateTime: 2021-08-09T15:31:00Z
-    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 44
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
     publishedDateTime: 2021-08-06T08:18:00Z
@@ -148,6 +126,20 @@ related:
         width: 1200
         height: 624
         isCached: true
+  - title: "Latest Azure Sentinel news"
+    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 39
+    images:
+      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
+        width: 400
+        height: 500
+        isCached: true
   - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
     excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
     publishedDateTime: 2021-08-06T09:54:00Z
@@ -172,6 +164,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "+qipFKKvbVQ463JchxPoodZ1AUL/zGIj4LGWykZp8nYdCbWJnaIAY5WzNrR+5aaJvq/Si8tJF1xHSOD2txvQ7JWDpzQpJyLUoa1kTm9tAiH5ruKfi4irt8v8pA/7prveRJmIBEKdyQV+qAwE/LbK07YutIJnmjAGh8PJ3DP2jU7n9LfrqbWRP9DCA87lqXVy5VQU4ueJVk3jLeR/l7rD+0V9MbEbPceu+2JHbTmBviHtmmcpvtGXk0gPjfpwziqaFNBSVUQ7OmvLh0NS8HNJIKuSHsrbjuypNJ/UT5Z8eAEFQOqroR7tA+2SZkg2tFZSQHBiWNzpX9seoFzwmzVrx3inZ51+QXL0vvNiB1NeNig=;wldXz52YBKerJp5CxOdTug=="
+secured: "TBwAahcdu2xsOXMAbjBAyZnRVDCRuAT2CrB+5B6wH9di180WgKS6tznA7ot4gb0eoDSPM3geXzF+PjAN0C7n7zgroulWpyRLjJz6KDHPZy//oZd47UvOp2p4iAJmeQNcgd5CgHM+kzMFzTjx4JUg0LFst27t8eJgMILDOJQjw/6+jIEJs4lAhwzNsiSzcGy71LjRbf4iYZbt7NgfrXAV71CmRZ4Mls8kRZMl5Det5cXj0n+WgWHguhw3eBIsL5wVMMPZRNbXeSKkH9sWzqF7IiJULAtO0DpDD7lGWzsz7SVpwVaTqE6TrmI06yfQzjfooHmO9RYc+Fsxfi3nrMsbYr0WXocf5PwUhB9tp861iYg=;kbGie1zytjHzIvT6fszEag=="
 ---
 
