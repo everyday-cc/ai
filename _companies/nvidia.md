@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NvidiaAI"
   url: "https://twitter.com/NvidiaAI"
-  followers: 74569
+  followers: 74573
 
 size: 10,001+ employees
 yearFounded: 1993
@@ -48,6 +48,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "bjSk4DZYUk/+VYHK2HYMQDhYZLTPdsVVhK2mivdN/9IWHs6ev2ieVKnmzos9sTV4VhtlVj4aMfE39+ro/3dBuzEV41G/DKnvtyPGFoRMisNMfjfLB2ZM3t46cyfLedWiKmmhEi8kSmGNYuoOBebmM7hHywV75ML/sPHk6+lEUxJP6OVU/yp+JFte2CaflLXFYQ4gPXNt+EYq4y7J38pyYW354lWZklIaI88mnnnGlQpcZepG1gYIfl/VSdKWWkCIo/i9EAO7z93AT4Jqntv/sITWt1XxFebjaU2KR86U0B2dPi23RiqhzLxr6Qmdf1UcqSpNeKl0kMM05g7cRW37onkmDs/yjGrqZ/YWwuMN/IShwo03hbI8IrpeNQOD8dvKrIOGXblGRTmVLL0/yyK4C2XtheJqDloCEoigmDp7LqA=;zPTAJfR8cO5kqoVelR/X5Q=="
+secured: "FHdQA6VRISj55djEjyjKGBdi4gsIUMU1M+OUBWkQE5ps48lbN2Epg0RVCwBruCKwgsVfBXxPfR1O37lOrLbxVV6ABIuY5/F5GICddcYWBaRGH4POSZGC9uhW/sQEnAr5vJ+HpfKJ71fz1dF4/jLbMSfQYRnA62mwZRgW8i8vvkm+ciPkornvNRmx9H4voecHtJue5Y7rWWTh23Abm50vbhTucam2p9nEzwxeG2BdkhqTuExlY9KoILj4NXRz/b1gp/2nJr9/VxfBnP5uZ8Mg/6QFRoS9k/SNd+CXI9SDYGfHQf2ZyaxDS6JaU6/RS4DuOpUOeWF+gedX+3YVUq3RiRCJ3KUDjC/3aQhy1gqlVlHcRYewTcHMerqaY+zpz9zOiaUMbIUJnYcbvYUmEz04MsFmbKRH/pCNU3UWxxHD7iA=;U8IiMZh19k/mND4cjQwrIg=="
 ---
 

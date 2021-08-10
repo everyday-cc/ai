@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cisco"
   url: "https://twitter.com/cisco"
-  followers: 715263
+  followers: 715266
 
 size: 10,001+ employees
 yearFounded: 1984
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Cisco"
 
-secured: "X7ZCmcHV2xXyOLF92OsEi3r6uJ1egDQOrhyHP//J4EuGAK5copXsAiaRDo/AvDoKwZnJbdcYiiJF8Mpe7fIMxct1uD+slwTEgnqObq/bDZb1hBHLcI0jXSjPji/Hu1Tdy/xje3S0RUcTp947PSUCZ1zbCesFu2aOVZgpXY0/JxodixTMcGn5icrbwt+LqJTSNroRbILnl62J7080sVe8x/6oJ6w1cUn8Uqepq44i5//rxz9OjshpPplaLafJ4Mf1UYIYfnmc31wXKsiJPDL/z3wi+KDtRTHofUr8ISZdwvfTZCJfe9P7L0rfYi5nuYxG/TbS1WvgStmsAKwVNGqjbnNzqbVfHPlZP3Rg5hEJ/hoSmRj2jbhC5wBeNE7hag+5j5l3nA+lXq053Pk0hB9BvBCATHBKbmYLzEpOLnwVbRk=;TQNpFr4xsR7livUlHt2kIA=="
+secured: "paMo4AMfDZx7t07XArWtd1KKPiCi1f5F2ERkA04NzJumEWcg3fywp11wR4yzfv0GUVIpL703oz/T4gsSkD42P+ECjOEa09a0Bgm/zW5qITg1eWWJLOCgeggKRop3vikC/Y8u9hyoOShS3ZS9xrcym0mbdsP6+MhxcRyMxIvb4abl264FDOitw4jGp9LFa9Cg8Yb7KcO6UFxXVS4ycAsGhqDqSQ9KMyvRgl/mz9dJjTLU1W0oLJtfbdGqxFIWEaPn+F8gPQusu8cpAkQjHOXaePfA+P2oYxlNI22NEx4JzbuT2GoGqXnhfm43jyHW0DFVtsiEkZBcmCwZmLiS9x4D+r+KaFoWFHfO05iIRKVv1zhUQ/J/f6ueahh4oQRZtfRs+wyaynpgCCzi0RASTTUCvpDwflR8T8g79LfPZYn7brs=;7XRDCL6jXy+HTOjp9POmHQ=="
 ---
 
