@@ -2,6 +2,126 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-22-the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445822-units-by-2030-at-a-cagr-of-1368.md",
+      "title": "The robotaxi market is projected to grow from 617 units in 2021 to reach 1445,822 units by 2030, at a CAGR of 136.8%",
+      "excerpt": "Reportlinker.com announces the release of the report \"Robotaxi Market by Application, Level of Autonomy, Vehicle,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/g22098016/the-robotaxi-market-is-projected-to-grow-from-617-units-in-2021-to-reach-1445-822-units-by-2030-at",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22098016",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22098016",
+      "publishedDateTime": "2021-07-22T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-uk-fintech-napier-sets-up-office-at-dubais-leading-financial-center.md",
+      "title": "UK fintech Napier sets up office at Dubai’s leading financial center",
+      "excerpt": "Napier already works on AI-led anti-financial crime solutions with many organizations across MEASA, including the Saudi Arabian Monetary Agency, Central Bank of UAE and directly with DIFC",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "originalUrl": "https://www.zawya.com/uae/en/business/story/UK_fintech_Napier_sets_up_office_at_Dubais_leading_financial_center-SNG_226923548/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210330032159USWL.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/SNG_226923548/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_226923548/",
+      "publishedDateTime": "2021-07-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-move-to-data-now-thats-the-next-big-paradigm-mai-lan-bukovec-aws.md",
+      "title": "Move to Data – Now. That’s the next big paradigm: Mai-Lan Bukovec, AWS",
+      "excerpt": "How about having a storage area that is less of a dank-creepy basement and more of a colorful modular wardrobe? Here is all you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
+      "originalUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/07/Mai-Lan-Bukovec1.jpg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/move-data-now-thats-next-big-paradigm/amp/",
+      "publishedDateTime": "2021-07-21T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-warburg-pincus-backed-ai-drug-firm-insilico-weighs-us-ipo.md",
       "title": "Warburg Pincus-Backed AI Drug Firm Insilico Weighs U.S. IPO",
       "excerpt": "Insilico Medicine, a company that uses artificial intelligence to drive drug discovery, is considering a U.S. initial public offering that could raise about $300 million, according to people familiar with the matter.",
@@ -1087,153 +1207,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-the-bourdain-ai-furore-shouldnt-overshadow-an-effective-complicated-film.md",
-      "title": "The Bourdain AI furore shouldn’t overshadow an effective, complicated film",
-      "excerpt": "Despite anger over a decision to deepfake the voice of the much-loved star in a new documentary it’s a haunting and difficult film that deserves to be seen",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "originalUrl": "https://www.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1293f26cefda42cc765ebd04e1adf322b6336d7a/0_0_3600_2160/master/3600.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c7e7b4455c26d9e96a3febf26be5833f",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2021/jul/21/anthony-bourdain-documentary-roadrunner-ai-deepfake-furore",
-      "publishedDateTime": "2021-07-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai.md",
-      "title": "Wealthech: Fabrick and Prometeia Partner on Wealth Management Solution Incorporating Open Banking, AI",
-      "excerpt": "Fabrick, an Open Banking Fintech and Prometia, a company offering wealth management solutions, have joined to launch the Global Investment Portfolio, a digital wealth management solution that utilizes artificial intelligence (AI) as well as Open Banking tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/05/Love-Digital-Euro-300x300.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/07/178142-wealthech-fabrick-and-prometeia-partner-on-wealth-management-solution-incorporating-open-banking-ai/amp/",
-      "publishedDateTime": "2021-07-21T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing.md",
-      "title": "Fero Labs Raises $9 Million in Series A Financing to Bring Explainable Machine Learning to Industrial Manufacturing",
-      "excerpt": "Fero Labs, the only Explainable Machine Learning software solely dedicated to the industrial sector, today announced the closing of a $9 million Series A round led by Innovation Endeavors, with participation from Deutsche Invest VC.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fero-labs-raises-9-million-in-series-a-financing-to-bring-explainable-machine-learning-to-industrial-manufacturing-1030630818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1575955/Fero_Labs_Logo_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -70,6 +70,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
+    excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
+    publishedDateTime: 2021-08-10T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2350675/internet-of-things-software-market-is-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810943688_g.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
     excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
     publishedDateTime: 2021-08-09T14:42:00Z

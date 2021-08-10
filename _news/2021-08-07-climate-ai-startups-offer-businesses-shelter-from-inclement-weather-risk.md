@@ -31,18 +31,20 @@ images:
 
 related:
   - title: "Exact symbolic artificial intelligence for faster, better assessment of AI fairness"
-    excerpt: "A new domain-specific artificial intelligence programming language developed at MIT allows for error-free, exact, automatic solutions to hard AI problems — and it’s thousands of times faster than alternatives."
-    publishedDateTime: 2021-08-09T18:30:00Z
-    webUrl: "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809"
+    excerpt: "The justice system, banks, and private companies use algorithms to make decisions that have profound impacts on people's lives. Unfortunately, those algorithms are sometimes biased—disproportionately impacting people of color as well as individuals in lower income classes when they apply for loans or jobs,"
+    publishedDateTime: 2021-08-09T19:46:00Z
+    webUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 76
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 66
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202108/scale.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/weight-scale.jpg"
+        width: 1920
+        height: 1066
         isCached: true
 
 secured: "ac+QNzOCDa3ruE0nBD6pq1rMiO/Y5MyFCnJATPy2X2iMpGzQBPALSh4E9uSr0qiiqbpNV7sAau3jB3H4MSjazSAPow9k1I6J0wFUCIkVDgAjMMJN/oEoERB7AtjMy34OXRRXgrMtmuNUgkrPl+zgEk4HE8zU4BI66U34JWTxJBtsw4o4uFS4mycKuESHjS+OAygF+il++HDhWVzJSr6YJRvD32TXtjRLZHSkZDhWXE8lQBGcORK/z2uFHAcbs4/swK+F8+2I5THu8WEYs0+BK6zBnMNAbELkKNU4woxmJE476uOFuLZWQ+tkoT8dxByXNf5eAO9dzJU8mjIyyccviEyPpMzj+HAwHSdECNqllrY=;ibjVrvtwOPM0b+oEaJ3slA=="

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-to-accelerate-ai-efforts.md",
+      "title": "RBL Bank selects AWS to accelerate AI efforts",
+      "excerpt": "RBL Bank has selected Amazon Web Services (AWS), an Amazon.com company, as its cloud provider. AWS would help RBL Bank strengthen its AI-powered banking solutions and drive digital transformation at the lender.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/money-and-banking/uhrmta/article35335593.ece/ALTERNATES/LANDSCAPE_615/RBLbank",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/",
+      "publishedDateTime": "2021-08-09T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-bear-flag-robotics-will-help-deere-expand-autonomous-equipment.md",
       "title": "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment",
       "excerpt": "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,",
@@ -191,6 +235,48 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-feature-us-prisons-mull-ai-to-analyze-inmate-phone-calls.md",
+      "title": "FEATURE-U.S. prisons mull AI to analyze inmate phone calls",
+      "excerpt": "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates’ rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. WA",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-tech-prison-idUSL8N2PB022",
+      "originalUrl": "https://www.reuters.com/article/usa-tech-prison-idUSL8N2PB022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "publishedDateTime": "2021-08-09T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-in-a-world-first-south-africa-grants-a-patent-to-an-artificial-intelligence-system.md",
       "title": "In a world first, South Africa grants a patent to an artificial intelligence system",
       "excerpt": "DABUS is an AI system created by Stephen Thaler, a pioneer in the field of AI and programming. The system simulates human brainstorming and creates new inventions.",
@@ -199,7 +285,7 @@
       "originalUrl": "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -302,7 +388,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1124,110 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
-      "title": "SenpAI.GG wants to be your AI-powered video game coach",
-      "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "originalUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/Valorant.jpg?w=1024",
-          "width": 1024,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/06/senpai-gg-wants-to-be-your-ai-powered-video-game-coach/amp/",
-      "publishedDateTime": "2021-08-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
-      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
-      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
-          "width": 903,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:06:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

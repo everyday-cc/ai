@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-06-the-integration-of-ai-machine-learning-and-modern-threat-management.md",
+      "title": "The Integration of AI, Machine Learning and Modern Threat Management",
+      "excerpt": "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "originalUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg",
+          "width": 1910,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1",
+      "publishedDateTime": "2021-08-05T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls.md",
+      "title": "Facial recognition-based boarding system under trial in 6 airports: Govt to LS",
+      "excerpt": "Centre also informed that Airports Authority of India (AAI) plans to invest around ₹25,000 crore in next 4-5 years for expansion and development of existing and new terminals, using modern technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
+      "originalUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/08/05/600x338/DSC_6647-01_1590380999692_1628177035268.jpeg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html",
+      "publishedDateTime": "2021-08-05T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
       "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
       "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
@@ -153,48 +239,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ai-platform-dataiku-reaches-46b-valuation-with-400m-series-e.md",
-      "title": "AI Platform Dataiku Reaches $4.6B Valuation With $400M Series E",
-      "excerpt": "Everyday artificial intelligence (AI) platform Dataiku announced that it had brought in $400 million in a Series E investment led by Tiger Global.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/dataiku-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/ai-platform-dataiku-400m-series-e/amp/",
-      "publishedDateTime": "2021-08-05T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1189,50 +1233,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
-      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
-      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techcentral.ie/jqa4h",
-      "originalUrl": "https://www.techcentral.ie/jqa4h",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

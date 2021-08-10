@@ -54,20 +54,6 @@ related:
         height: 337
         isCached: true
   - title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
-    excerpt: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology. AeroFarms and Nokia (News - Alert) Bell Labs today unveiled a groundbreaking multi-y"
-    publishedDateTime: 2021-08-05T13:23:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/08/05/9424752.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 28
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
-        isCached: true
-  - title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
     excerpt: "Ground-breaking technology partnership will significantly improve plant yields and quality in AeroFarms’ vertical farms through analytics, AI, drones and wireless networking. Newark NJ, USA – August 5,"
     publishedDateTime: 2021-08-06T11:54:00Z
     webUrl: "https://foodindustryexecutive.com/2021/08/aerofarms-and-nokia-unveil-partnership-for-next-generation-ai-enabled-plant-vision-technology/"

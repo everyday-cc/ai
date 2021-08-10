@@ -1,12 +1,12 @@
 ---
 category: news
-title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
-publishedDateTime: 2021-08-09T08:09:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+title: "RBL Bank selects AWS to accelerate artificial intelligence efforts"
+excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI‐powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
+publishedDateTime: 2021-08-08T20:38:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
 type: article
 quality: 91
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-10/01/full/1538373827-2439.jpg"
     width: 350
     height: 233
     isCached: true
@@ -88,6 +88,6 @@ related:
       domain: business-standard.com
     quality: 56
 
-secured: "27SctekMiDw7jl3k5dlnmv/tj2228Zce+XXdzZhRFXGhVNru7aKS0zMfJKUxtd7IaJOJkV1egFBACvij8b76mkAcj2JYkmn5SVdK9dBAUfwQsgfvym6nZtYBmkXNgI0Zvq9rQrO42SI6jRYLyQ2/pMwsVb9oHHBbU3BD8sjYntynOlwWJMQbVyqhYYpZu30CTSRGyG+cwn2VbDILSUoIMHrArTOe/txu9vZSEFAoBSIb7gb5VB5cPy4pEMlomxUM2H9BbzEJDSJqWnquopzBk1dPtb6jdWrUvMupVHWoE+Kvn13u0wgw/OOQkYwp2OzlsaEVg26Jp0WEyDHLUkYKIW34OTUin2eqIyt1D2M47Gg=;cWQSCbsnrMg6XbmODwzSsQ=="
+secured: "GcBEQ26+kGXTYUj+6yCJfS37iLayJ3sa8234MakTykQrvv7NRB05oCW2YEUbKcqlgGUSalY7pKBqRa1DPVXcZ6HsOHBdriUjEFrFYLsouRzVlGSm69Jn/KxUnTk3lu9XLh511j2fSX4OXWgbSDU+M60bebXx3Bjgh3YZNhlH1xM8u7AHEAW3T3dMmz9rDFYYgXtYHKDWtXQKgZKKm3Ny/ogLhCMp6R7YeD55Fa4scoSKzcW20L34D7xNISWGPGLIjSJU46oHY5XNKNU+5yNQ/bii4dmOgwUkp4SMoTSALLo32POimT581mK33GqrqL5B1aA946SvrpxQnr7owfo0KOrvEz9j/F8se9FzQQbQdek=;t9vJpADyV+zIYVS2/EFBVA=="
 ---
 

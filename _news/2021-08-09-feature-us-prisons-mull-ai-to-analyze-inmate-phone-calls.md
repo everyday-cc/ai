@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -22,6 +22,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Using Artificial Intelligence to Create Aperture Radar"
+    excerpt: "Tesla, somewhat controversially, recently discontinued the use of radar on its vehicles in favor of a cameras-only sensor system. Oculli provides AI software for radar perception, so we thought it would be a good idea to talk to CEO and co-founder Steven Hong about his thoughts on what the tradeoffs are among camera,"
+    publishedDateTime: 2021-08-09T18:18:00Z
+    webUrl: "https://www.designnews.com/automotive-engineering/using-artificial-intelligence-create-aperture-radar"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 37
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/sensor%20on%20car.jpg"
+        width: 3080
+        height: 1601
+        isCached: true
 
 secured: "vXo/BtC4k6YVEZOdhgsmyHUn900HhPCHpK4MhddmhCGNdirMS1cqoOD/A0c2XXJ7gl0Ly3mVgSOLwuj6NDicgaUl5Qe2XwReZW+JD9Ex6YCg3MVCA3YasTYH2GKZFQRyWcXoObkMGloBhcqwAA3N/Kh46nhE7opdBZrHxQzlmQqijZYTfJ/Frqy/xAo/NYAioZ+aic+qIZVmBXWDcPp8uEZjjx83j8UNHkrA6yMuEVdz0b+Danj/hdxgSQFxDHIz72/Ku4QT2UVQITGVUK6+w4uqaD9kLCxGO59HNk18fRkiiycYP6JKL9dVRRfKyhWJUmm4w1VBRzeB3C9+pOKHSSiuERvx6HB0//KFvfQCaaU=;d4BfrgJEN4X8gyhUpQN8mg=="
 ---

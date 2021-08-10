@@ -54,6 +54,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
+    excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
+    publishedDateTime: 2021-08-10T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2350675/internet-of-things-software-market-is-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810943688_g.jpg"
+        width: 800
+        height: 520
+        isCached: true
   - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
     excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
     publishedDateTime: 2021-08-07T12:32:00Z
@@ -136,6 +152,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "I9XgbyB+M0Yq01XmEesWPdV3Ma4ruXMsEIaH1O9268dMcIGZ/aas6jxuQKhbH5ziQ1DevXSmDQff69ZbIY5TjG6IuG/cfaSD19Hl512Ryw2GceagEvMyGdG4fBt8FIFVFqzeqMLCfgYUIExDQWH3taKOiv6gCsO5F49nF0g2yHMVA3VzyK9U4LkixP3RinhM5kaoNPe9nD3iCEZWO7rOjf9ppbXuRx2cpSjhhC3Y8cGzX7VQcK0Bag2/1rH/c4mQK8CvXOkTS8ZKdp3a21enGieisZ7NcU7QZGXj2oG6YVVxPobOgnXAl2qpvbwzSG0YCKb9CWNNlY5PR+1jAKaMYb71jrTbPAiSyfTzaSmbbm4=;LdyHykesMO3zC5p/cHAFzw=="
+secured: "ybpk6srExyJc4VqpukYKuQUXMBUAyvM4A2WeOFd0e6ki2sdS5Om3mrZtLlpV1CQ3EyHaJLfO4N5Cjl+5bBFJonQ4ysFyu7/pl/ozk6nR/1bTUFn0WngJqkK9ypgtQmmzDS9h29mRkPpW6v298sNv255HgeS7QLJ0gG1Rd0GbUDBEOQc+Oj/VU9uScKmsTtLeTEzYdTArMFDHr/ddfSXGwroLv3OJjco2/srA65XI1DqvnZ86Z68Syuxj2Vv9ZuAbftIONsMn6YliZmdrTXMLj1/CIfYm2ZW0Y22jomaYXOASBTT1NadECRAU1qCBijxpggrloEb6sSUc07G94yrTpEKKpyWMNXUOxDPHL6NfoJ2CKgNL0dKEM+7dRxsMm6bQ/NuUswJgKkhnuKaEJoTfrOY5WhxPBb3VjgQEODddZaK1Q7yTjYz3B7lINID+dOFroPkdCVZQUVSHr/NjnuODGGldCSRJjzdouw1cwXOaXs9kwJNFRfsLVdWarj/xgjtIS3SxGdHbhCU/TTaInjmOgQ==;Z6EUdrhOdPLwNL6R9WMlbQ=="
 ---
 

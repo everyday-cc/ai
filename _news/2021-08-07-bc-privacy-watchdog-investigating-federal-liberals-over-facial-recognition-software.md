@@ -59,20 +59,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "New AI Approach Exceeds Performance of Traditional Models For Automatic Coding of Medical Notes"
-    excerpt: "Of note, this is the first research that tracks output from machine learning models for autonomous coding and benchmarks to the performance of human coders. \"We've reached a new milestone in autonomous medical coding technology as Read,"
-    publishedDateTime: 2021-08-05T14:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-approach-exceeds-performance-of-traditional-models-for-automatic-coding-of-medical-notes-1030696237"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://mma.prnewswire.com/media/1587613/MLHC_Study_PressRelease_720x405_1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
     excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
     publishedDateTime: 2021-08-09T17:20:00Z

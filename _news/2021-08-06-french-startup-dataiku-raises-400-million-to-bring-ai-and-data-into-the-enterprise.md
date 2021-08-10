@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "AI development platform maker Dataiku’s $400 million in new funding pegs its value at $4.6 billion"
-    excerpt: "AI development platform maker Dataiku's $400 million in new funding pegs its value at $4.6 billion - SiliconANGLE"
-    publishedDateTime: 2021-08-05T14:28:00Z
-    webUrl: "https://siliconangle.com/2021/08/05/ai-development-platform-maker-dataikus-400-million-new-funding-pegs-value-4-6-billion/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/PREDICTED-AWAY.00_24_01_04.Still042.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "davZKdtCdqmcG4H1Qw/9nESGo2+oIG1AgD9DUaz2Lr5gbpjUPDX4FQiwOmdm/7rcTVV0KcKPKynnXjumTKyyFn9wrcljtac2iLbECt8i5GFTDmzD1q5iT39WBQlFLaR2ay3nhvQHBh8CTdvkTadX/yfrHibOglVg66EtHVNgf5byCKWD2OucUNIt7dXQ37xvIyxO5SOEnAw0++HWMvOvkqmAlAj9e11FKf2Bi147dbkpH6BBzEC+vEqi4zr6bBeLuLro7L+v5Hb4UlmC9LxtrHAXaN5j+gq/TLv/In0uO2JI3m2PiRNjvOipCUcO3/w5pQBZn6SxMVas5lTYtq1Q/ptayAUARNR+tt1QNgQDBqRCfrMCaQhtQpcJorzqy0BriSC8Ud5Z7fnLTyc9ABdWjryyCQuY+HEQhFil0Tp7hveOj8QWruMc6e60cXcLegksqVR68wE7UlbqKkU2fU2CcFSvDMF282droBTZ7/JWG22nzK1zlLF5jwV3RQAy8QPP8m/diqToL8p7MRnHWdJ4JA==;Ptvfjm2NpPVExpgQbkuxSw=="
 ---

@@ -75,22 +75,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Academic City introduces a degree in Artificial Intelligence: first in Africa"
-    excerpt: "Academic City University College is set to lead the sub-region in technology and innovation education with the introduction of an undergraduate degree in Artificial Intelligence (AI). The university becomes the first in Africa to offer a degree in AI."
-    publishedDateTime: 2021-08-05T14:13:00Z
-    webUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/"
-    ampWebUrl: "https://thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
-    cdnAmpWebUrl: "https://thebftonline-com.cdn.ampproject.org/c/s/thebftonline.com/05/08/2021/academic-city-introduces-a-degree-in-artificial-intelligence-first-in-africa/?amp"
-    type: article
-    provider:
-      name: business
-      domain: thebftonline.com
-    quality: 56
-    images:
-      - url: "https://thebftonline.com/wp-content/uploads/2021/08/1_OZKgF2SIK4Kw-Whl_qCCNQ-scaled.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "In a world first, South Africa grants patent to an artificial intelligence system"
     excerpt: "The innovation in question involves interlocking food containers that are easy for robots to grasp and stack. The patent looks mundane, except the inventor is an artificial intelligence system."
     publishedDateTime: 2021-08-08T08:23:00Z

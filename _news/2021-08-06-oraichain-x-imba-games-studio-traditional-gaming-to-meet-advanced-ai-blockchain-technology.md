@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/oraichain-x-imba-g
 webUrl: "https://markets.businessinsider.com/news/stocks/oraichain-x-imba-games-studio-traditional-gaming-to-meet-advanced-ai-blockchain-technology-1030701545"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 400
     height: 225
     isCached: true
+
+related:
+  - title: "How Machine Learning is Leveraging Blockchain and Cryptocurrency"
+    excerpt: "The cryptocurrency and blockchain industry is transforming the financial sector, and machine learning is optimizing the technologies further."
+    publishedDateTime: 2021-08-10T06:34:00Z
+    webUrl: "https://www.analyticsinsight.net/how-machine-learning-is-leveraging-blockchain-and-cryptocurrency/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Cryptocurrency-2.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "xIX6UkYAhcx68vXjgfaNOaDDMrPNmmXwArsPGcs2JthFvKbMvDjuvt8/Clnog3GvZpN+S/Nnp0dz9xxU5PAuDEvHfsL8tGEqUEddI0JTRAVOX+2dYvmNx9R/bL5AvhQd3Oi83KGAngot5ou1KlI6ZWPEJRMVE/282Q+CDkoGrWbjgUYHGfMl7i/PY2Zh0k2cALADFvpDxPRD9jM969PD/j6tjrW65WNpMwVZLjo2hupgrPv30IfU3As3bu6lCWkrp8/AuRDbOnBcRxQxomjQOiR0zxsvsnuyk8oaKCLo1oEdzBTmJ7OHRvfkT9DKEIil8RFalerCSV+IE5jtgtAeuJl3R0qrtxz4Z+mk+2vdfo9SS9KbUKgHGLWzdzDOSHKcvc/YKNoJmhi+UWE2D6Z+cU4sRwlZJlGXqMy9U2odtn2CAoJNKvC2937cfCur3OwzCl69E5QRLXQbgwE6exAvztdb9XL2FibJaF1BZLrHuIp/SHRyH2JhAxtp2wDlGDnRdgCCGzXI6qmlshwdMp0QYA==;qusXz4Zz2WNq43hpwnxtwQ=="
 ---

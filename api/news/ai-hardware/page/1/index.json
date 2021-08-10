@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing.md",
+      "title": "Latent AI, which says it can compress common AI models by 10x, lands some key backing",
+      "excerpt": "Latent AI, a now three-year-old, Menlo Park, Ca.-based startup, pitched a handful of investors during TechCrunch’s Battlefield competition. It didn’t win that contest, but that hasn’t kept it from winning the interest of investors elsewhere.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/",
+      "originalUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1197264259.jpg?w=1024",
+          "width": 1024,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/",
+      "publishedDateTime": "2021-08-09T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too.md",
       "title": "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too",
       "excerpt": "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,",
@@ -295,6 +347,49 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
+      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
+      "excerpt": "The ability to perform GPU processing enables the latest advances in artificial intelligence (AI) and deep learning technologies to solve the most challenging problems in telecommunications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
+      "originalUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/7/85/785cf451-570e-5ab3-87e5-1b61446ada77/610a92fcbba9f.image.jpg?resize=1119%2C630",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Local News",
+        "domain": "dailylocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1363,102 +1458,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks.md",
-      "title": "MediaTek Launched Kompanio 1300T Chip For Tablets And ChromeBooks",
-      "excerpt": "The new MediaTek Kompanio 1300T chip is already out. The first products powered by this chip will hit the market in the coming months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
-      "originalUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/07/Kompanio-1300T-1024x566.jpg",
-          "width": 1024,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/07/27/mediatek-launched-kompanio-1300t-chip-for-tablets-and-chromebooks/amp/",
-      "publishedDateTime": "2021-07-27T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration.md",
-      "title": "With post-pandemic AI, we’ve now stepped into the Age of Acceleration",
-      "excerpt": "AI is entering take-off mode just as we exit an economic downturn caused by the pandemic. Get ready for a productivity boom.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "originalUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/25/with-post-pandemic-ai-weve-now-stepped-into-the-age-of-acceleration/amp/",
-      "publishedDateTime": "2021-07-25T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Knowles Releases AI-Enabled TWS Development Kit with Premium Features"
-    excerpt: "New TWS development kit shortens design cycle for OEMs and accelerates timeline to bring TWS products with advanced features to market."
-    publishedDateTime: 2021-08-05T13:36:00Z
-    webUrl: "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features"
-    ampWebUrl: "https://www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp"
-    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/the-wire/knowles-releases-ai-enabled-tws-development-kit-with-premium-features?amp"
-    type: article
-    provider:
-      name: Twice
-      domain: twice.com
-    quality: 59
-    images:
-      - url: "https://www.twice.com/wp-content/uploads/2021/08/TWS-Development-Kit.png"
-        width: 986
-        height: 645
-        isCached: true
   - title: "TWS Development Kit Puts AI Into Ears"
     excerpt: "A TWS development kit shortens design cycle for OEMs and gets Bluetooth-enabled earbuds and headphones with advanced AI features more quickly to market."
     publishedDateTime: 2021-08-06T14:01:00Z

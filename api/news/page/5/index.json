@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
+      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
+      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/jqa4h",
+      "originalUrl": "https://www.techcentral.ie/jqa4h",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
       "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
       "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
@@ -532,6 +576,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
+      "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
+      "excerpt": "The ability to perform GPU processing enables the latest advances in artificial intelligence (AI) and deep learning technologies to solve the most challenging problems in telecommunications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
+      "originalUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/7/85/785cf451-570e-5ab3-87e5-1b61446ada77/610a92fcbba9f.image.jpg?resize=1119%2C630",
+          "width": 1119,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Local News",
+        "domain": "dailylocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1109,101 +1196,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-machine-learning-blood-analysis-could-predict-schizophrenia-risk.md",
-      "title": "Machine Learning Blood Analysis Could Predict Schizophrenia Risk",
-      "excerpt": "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a research team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
-          "width": 389,
-          "height": 389,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
-      "publishedDateTime": "2021-08-04T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-mexican-artificial-intelligence-startups-with-a-global-profile.md",
-      "title": "Mexican Artificial Intelligence startups with a global profile",
-      "excerpt": "Kueski, Intellion, Kuona Analytics, Pro Indie Music, BrandMe, Homie, Bayonet, and SoldAI are transforming the way we work with Big Data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379314",
-      "originalUrl": "https://www.entrepreneur.com/article/379314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628027484-startups.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379314",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379314",
-      "publishedDateTime": "2021-08-04T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

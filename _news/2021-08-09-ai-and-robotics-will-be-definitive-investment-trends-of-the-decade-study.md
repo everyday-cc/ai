@@ -7,7 +7,7 @@ originalUrl: "https://www.oilandgasmiddleeast.com/products-services/ai-and-robot
 webUrl: "https://www.oilandgasmiddleeast.com/products-services/ai-and-robotics-will-be-definitive-investment-trends-of-the-decade-study"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Artificial Intelligence and Robotics are the major investment trends that will define the decade"
+    excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade."
+    publishedDateTime: 2021-08-10T07:39:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 76
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
 
 secured: "2T3O6Uqub7P/zrzv5ZCwdT9xlXSoyzJEjNzvqrmTAbls9S5NU8YrGGoDphbLcR2z7GeUa4E9nO4HoPSDVTJjaa4Kf4HXiHTK2GMPXZqgjVbyGMRFPAaUM6lYAxepx3Pd9VWaEIeQ/Rf6xZ4bTx02lC22p2/nA87P4ivwNn1QWOLrTPsV8Q2SUKdC52shgcR5w+kYpKnWKhEUPOUx+aEU80eAVmeeFKAtpfdtKnRTyWGwjBbc7XmJvDaH6NwLH22+hsyzvPqQhVUdai9H05HzieoFKadLg654zvPr/xXgVyELot+yL0PqFuhy1SWclT3H28ZFDL4wP5ZgzIXrw1KFzOSrkPhqQ/qOuTJLBXjaHT80uPwx9sTOWiI6dhHFte2mHbtXO3Qm7eZTqMBB+oNVQXeyeZQJjviqKzhJwtlks9qeCZf5neFPsApCJ7tVjWJvd2g+apCBVVgJkLJmFQlWHV/MPKJlBzPxPN+AqPM51IqCv5BzVnK97j2bauQ6xkkBKYPEsclCOHZZb6JYjx1Qnw==;EC5XbVaFS3Xp9tyb85HwCg=="
 ---

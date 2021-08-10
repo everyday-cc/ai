@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210805/Neural-network-model-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210805/Neural-network-model-unravels-why-people-with-autism-have-difficulty-interpreting-facial-expressions.aspx"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Neural network model shows why people with autism read facial expressions differently"
-    excerpt: "People with autism spectrum disorder have difficulty interpreting facial expressions. Using a neural network model that reproduces the brain on a computer, a group of researchers based at Tohoku University have unraveled how this comes to be."
-    publishedDateTime: 2021-08-05T13:48:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-neural-network-people-autism-facial.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/neural-network-model-s.jpg"
-        width: 645
-        height: 315
-        isCached: true
   - title: "Why People With Autism Read Facial Expressions Differently"
     excerpt: "Artificial neural networks help researchers uncover new clues as to why people on the autism spectrum have trouble interpreting facial expressions."
     publishedDateTime: 2021-08-05T20:53:00Z
@@ -68,6 +52,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
+  - title: "Neural Network Model Provides Insight Into Autism Spectrum Disorder"
+    excerpt: "A group of researchers at Tohoku University has used a neural network model that reproduces the brain on a computer to gain insight into why people with autism spectrum disorder have difficulty interpreting facial expressions."
+    publishedDateTime: 2021-08-08T21:08:00Z
+    webUrl: "https://www.unite.ai/neural-network-model-provides-insight-into-autism-spectrum-disorder/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-IbNQzIMB/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/08/dyslexia-3014152_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "T1wG/7WRAbyjwXLa3L2+Gcg9iC5DiUn+bMKx53ygg0IWyoh9tRM9YVsdOoE/e6CZMRUxAvOufX0IrYupxi/0Pp+ez+DSSmv2taMFm1r8VF0yntpfgL96binfiQNkXz4Nbq90fXwWVbeJhkWu7xIuZ9YneB481kVQFPZl7jXBChrnwzZzXhxFtl5V3sURpsJwmWNn7QXhsCMpzV1mNCokdQ8+FnZRoT+hOynZjGLj6aDWTIfdudrkt3hVmScqD4D8bomeuy6JgZ4HlRmDbJSQOzeywBgY9DTuhogKdA+91RHUPZ68Pvn8yTL7aBSDnDvzpqkD3STpGdQXkQe0Z7Ny4TaklebvA9RZhuZJIC7FoNw=;QlgghA+hSxTdS8BnovCqNA=="
 ---

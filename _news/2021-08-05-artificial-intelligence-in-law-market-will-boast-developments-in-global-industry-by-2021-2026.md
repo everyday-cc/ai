@@ -61,6 +61,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
+    publishedDateTime: 2021-08-10T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Energy-efficient Artificial Intelligence Chip market report provides"
     publishedDateTime: 2021-08-09T12:10:00Z

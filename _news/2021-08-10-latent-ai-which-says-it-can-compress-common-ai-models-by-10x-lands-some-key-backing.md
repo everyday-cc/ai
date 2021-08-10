@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-
 ampWebUrl: "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1197264259.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 660
     isCached: true
 
-secured: "MRdPee+sRma4Cgy6XqHncVIpYv417L/S9KGBUtDayOzC8bRzqqUWSbhm1k05QhtVm+ETSUiaL9rtXWObUMrYUFmzFsMJfwTwiL6jU8BO52qe/RrS4fAXo0y/0oV46/DkOqbPotyZotzqdn/Vukw59+SeeSan1Of4FkDqufApn6bJPqUaG43B2s3/dsfIYeQuh2FOrZEpyAqY+1O5BAzc9PfOxwCXwva5td14unje4UnY+KiiZsI+oNZBzOr9s3KWGX7ICoW8eerz0NfWiIHIBbo1ggaUR0azZDb3CXxxdT98YB40qg2+QvbWvFdh9ABKRNsKdQBvTC1CPyZqNl5cKGNu8Sxkcbp+WH9sBiKm6iI=;V20sANLeQvvTiTzHewuiWA=="
+secured: "p8W2w8P1LXkhAyp2mg3sQWk27UQonSyQv3xCDsAgZTN+TX2hf2rjlqrZrYmPsXN3pouAoYi7BVbCjvsfjSN3EmzxlXU9Qix3ekWCVpZ4MVdGovvhXPyiOPFN5DAj7QDS0Y/f624mhbAmzJXrgUaaPRDNM+Hf+80PmHWchJ2uUDW4Yw0h060eS0heboDSfreVVCbXlB1mrncTuiBtg8IXVZMJkFt02Sxv7amAGV64oUzo6Lh1cQdK+Hd6ffPo4u9ZbyXX0KFWVr+2UJnR5MSDcpUOA2k4w82ee1UnkLL5Do1QOHnSO4qQVzQCmlLA06H31fxW96Mc8y0MRVt6MJnBVSKUxQw+wTfCsZNOlgnkiFoiRIvYiNsXeLe3NrZPgKrYBI022RBpZncOT8XEPRXnPjYJJ2mucrtgf5wEHTEL23H3QSTQtKgayn7ifDxVQeqf9pt94Se5GrKbhMRUDZoNS0aX/aUJcNFPLtpWUySrhpH1+nm9Nm84y/QdEodyAR91ZzvkiB+mK54Vivfh/Ie0UQ==;IEHufhk0A0gVDIVpxIKEmA=="
 ---
 

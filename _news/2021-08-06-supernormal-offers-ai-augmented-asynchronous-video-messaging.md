@@ -57,20 +57,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "New AI Approach Exceeds Performance of Traditional Models For Automatic Coding of Medical Notes"
-    excerpt: "Of note, this is the first research that tracks output from machine learning models for autonomous coding and benchmarks to the performance of human coders. \"We've reached a new milestone in autonomous medical coding technology as Read,"
-    publishedDateTime: 2021-08-05T14:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-ai-approach-exceeds-performance-of-traditional-models-for-automatic-coding-of-medical-notes-1030696237"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://mma.prnewswire.com/media/1587613/MLHC_Study_PressRelease_720x405_1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
     excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
     publishedDateTime: 2021-08-06T17:52:00Z

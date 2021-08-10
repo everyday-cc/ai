@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to
 webUrl: "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Is DeepMind’s new reinforcement learning system a step toward general AI?"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-08-05T14:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/is-deepminds-new-reinforcement-learning-system-a-step-toward-general-ai-10405784"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
 
 secured: "+frakjLo/Di7dgahiunR4t6xKs5YSzJg+6f7J9gCTmwDBtlPCnOZMwfgrRHCXrt9sDpAUZqWzXGHwXSE1hw8MQo7xRD3RTh1MXnwf5NrsJv2AIEkaIMianXzxAOELSE5bwzpzDtOFFjCsF1NEzyA8VMEhk2sMHIWkC8yPv+8rtL3nKyGdbRSH00Hp4NxSzv3SWD40RtXPN9EInRIw50a0BKeGX4Df0k930j98hyshXpSPOIEgHZx5VfFXAXtfHVw4soVGcDfw7LKthSaWHr1s3rq21sxYYpxgpkNwqEWNrOrNmzAwHlLDQ5P8c1ZbOrDU6KZMR22VyG1E1kfbt8XcZ0SLdLp8cjvjNUaEs/LelAnATLTUeg4azpCf5Ue0GSUAdkYqq4mFqZe6duz2d2BGxqmLsDZgYpd0CnKwbWFPyFed68w9+93m273GM+0R3J9u3tJLztqYxCQsNeJx3Y5T/MTtgexNlOwjohQzq7yncj5xSIL2k/I8uPNJaOtBKHDvvGKSQLpGTrX8a4EQFdcLw==;VjTqEmZFHjOgZT8OzzRw5Q=="
 ---

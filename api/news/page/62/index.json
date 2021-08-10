@@ -2,6 +2,117 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-06-23-imaginary-and-wiselywise-partner-for-artificial-intelligence-training.md",
+      "title": "IMAGINARY and WiselyWise partner for Artificial Intelligence Training",
+      "excerpt": "Artificial Intelligence is impacting society in multiple ways and requires new Skills to manage the impact IMAGINARY an award winning non profit from Germany and WiselyWise a leading Global EdTech from Singapore today announced their partnership",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "originalUrl": "https://www.openpr.com/news/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/6/U623323287_g.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2311976/imaginary-and-wiselywise-partner-for-artificial-intelligence",
+      "publishedDateTime": "2021-06-23T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-techsee-launches-first-scalable-ar-assistant-platform-powered-by-computer-vision-ai.md",
+      "title": "TechSee Launches First Scalable AR Assistant Platform Powered by Computer Vision AI",
+      "excerpt": "TechSee, the market leader in Computer Vision solutions for customer service, today announced the launch of EVE Cortex, the company's next-generation artificial intelligence platform (AI) that teaches itself to recognize thousands of products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/06/23/9396363.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/06/23/9396363.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy.md",
+      "title": "Investing in AI Healthcare; Analysts Offer 2 Stocks to Buy",
+      "excerpt": "It’s estimated that AI as a whole will boost the global economy by more than $15 trillion by the year 2030, and a significant piece of that will emerge in the healthcare sector. By 2026, the midpoint of that forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "originalUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-ai-healthcare-analysts-offer-2-stocks-to-buy-2021-06-23?amp",
+      "publishedDateTime": "2021-06-23T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-nxtsoft-and-upstart-partner-to-streamline-delivery-of-ai-based-lending-platform-to-banks-and-credit-unions.md",
       "title": "NXTsoft and Upstart Partner to Streamline Delivery of AI-Based Lending Platform to Banks and Credit Unions",
       "excerpt": "NXTsoft (nxtsoft.com), the market leader in secure, comprehensive and complete API connectivity, and Upstart (NASDAQ: UPST), a leading AI lending platform provider, today announced a partnership that will enable Upstart to more efficiently implement its all-digital AI lending platform to any U.",
@@ -1019,144 +1130,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-how-artificial-intelligence-can-change-higher-education.md",
-      "title": "How Artificial Intelligence Can Change Higher Education",
-      "excerpt": "On the day I met Sebastian Thrun in Palo Alto, the State of California legalized self-driving cars ... “Introduction to Artificial Intelligence,” to the world via the Internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
-      "originalUrl": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-can-change-higher-education-136983766/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbs-prod.si-cdn.com/PUUG-k0Swjd79eB5SmXUdUMDf3E=/fit-in/1600x0/https://public-media.si-cdn.com/filer/Ingenuity-Awards-Sebastian-Thrun-631.jpg",
-          "width": 631,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-cloud-gpu-market-and-ai-trends-and-analysis-2020.md",
-      "title": "Cloud GPU Market And AI: Trends And Analysis 2020",
-      "excerpt": "And, AI will be one of the top workloads that drives ... according to a report by MarketsandMarkets. The demand for Cloud GPU instances in the compute infrastructure market is majorly driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
-      "originalUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2019/06/cloud-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/cloud-gpu-market-and-ai-trends-and-analysis-2020/amp/",
-      "publishedDateTime": "2021-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-how-ai-powers-mobile-innovation.md",
-      "title": "How AI Powers Mobile Innovation",
-      "excerpt": "From crowd-pleasing video and audio advancements to behind-the-scenes performance optimization, the Qualcomm Technologies Snapdragon 888 5G Mobile Platform uses AI to take your mobile experience to the next level.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "originalUrl": "https://www.cnet.com/paid-content/news/how-ai-powers-mobile-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/DEHJTahSCCI4A99U65DD-du_WFc=/1200x630/2021/06/21/2f2731b7-f02c-41eb-bbe8-ed331e0feee4/qualcomm-dog-leash-1300736183.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T14:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

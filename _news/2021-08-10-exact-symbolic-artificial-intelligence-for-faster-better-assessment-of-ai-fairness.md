@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Exact symbolic artificial intelligence for faster, better assessment of AI fairness"
-excerpt: "A new domain-specific artificial intelligence programming language developed at MIT allows for error-free, exact, automatic solutions to hard AI problems — and it’s thousands of times faster than alternatives."
-publishedDateTime: 2021-08-09T18:30:00Z
-originalUrl: "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809"
-webUrl: "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809"
+excerpt: "The justice system, banks, and private companies use algorithms to make decisions that have profound impacts on people's lives. Unfortunately, those algorithms are sometimes biased—disproportionately impacting people of color as well as individuals in lower income classes when they apply for loans or jobs,"
+publishedDateTime: 2021-08-09T19:46:00Z
+originalUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.html"
+webUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.html"
+ampWebUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.amp"
 type: article
-quality: 76
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202108/scale.jpg"
-    width: 1500
-    height: 1000
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/weight-scale.jpg"
+    width: 1920
+    height: 1066
     isCached: true
 
 related:
@@ -45,6 +43,6 @@ related:
         height: 640
         isCached: true
 
-secured: "B+K3Plo41bjdDQMod46MAYsdcJdIFomhKfIGQWkYScQ8WV1pTY3RYO1PxVG2LOUYD/WJ8zbSujCAK4zx+B+kJt2kcFTubt4tpp7q4yYZzFNOkrnFTL0yyfywKStM7P83nK3FxpiR631i64ThvOnErbncpmQy7VITBLY0/kp5WzbhM1No+Ch7qhSzMf4a8r8u03KqNQWvKCwYMerwFJ8i2kzVaas83izFt4UiS8yzWfPnHE5GonTt5lvEEEHrDQXvoyLEAjwVsJmh3HYdeL7B7lkTQ++4M5zgbWNkX79lyIIKjBEsYFkSwru2uwLlT7i5qiz8vTaEKGLFOCmkPd+DtZv9lFKfjpI/ZOM3Q/wemrb6yPVLJD0IUIKKmz4Wox6TaFDmcOJwx3TnXd+KTj5CBz7emliRio7ASyctHaH2fbMbVKAb3Zy7V/X1WjxyxoQBuJU/F3hOX5An2rY1qsnQ0377ZpEqCysJWJgX1oe/5LAirtG1Jn1Kg0zes0O3fsjOKQHUBHPOnmrGS3TwMoSFJg==;dlst7DitJ78can9DB2G9qg=="
+secured: "It3D/Uw1Hcw9EtaV31OPuNHJKBT7NBPDmI616Dh0c0uCVaSLwHvk0rjnLRHZS/RyDlmcEWVAffJmVXo7urL62i0GQ65aEPWz6Cy4Y3yxlTAAn4C764Tr8/7wuyjOJNlKECZ1OZQBsfuYyI9pmKJQtbHD4mH7Tg14GWnnKe2+/1fK8qDkTl7qPELSyNkErYNL6ovXOgkDB541PSSQWI6ZJad5M+JCF5ZMmqJYKTrEBfQIIe+P1eSstm3oX3zCyu9sWZ2zPM0ybea0aC+VzuOhkQzYsMoRtPgK6aH1672X69JtNvlvPZKLxhDH6aj+bJQpOQ/ThlxZ49FjnkvcYk9KJGdP97SQHcttynqzKT0fFNA=;dXclzlumOpgK/BSmIjU4Zg=="
 ---
 
