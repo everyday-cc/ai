@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1439
         isCached: true
+  - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-10T21:50:00Z
+    webUrl: "https://japantoday.com/category/tech/robots-are-coming-for-the-lawyers-–-which-may-be-bad-for-tomorrow%27s-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 11
 
 secured: "GZswFgY6lOqm8bnAKu6hbKyrh5DMMrMbsZmHJrtFilqdgUhy7iAHlL2UMD10HNsfqnxcSrbe49CzHjs/YAk1HTG4ZTE5FGA1Wm3hib8g8CCvMRfQ88OCKOwaZRacUb25/UZbh16DYxQ01yJFdWDElefztws4xXDSiqSHqU0dj6HDUmm6vnnQnUJuzV0ZAoH62jwrhbyIGDbNT4e0mwBl+a370ibh6XQF2FPKJDIHDamB7I3BZn0WTy40siahP7Gm80qLYBTIWunX5eBcT+s9qP38RpDdc6kiui1bUl8LMmq3c471r+Vk2kM3ROQ8g/T7yjnEKq3zmuwXMX6wKR4BVwzs6bfkzN7bGhbjIyXJdLQ=;1LEg5lr0Zj+ZkRerGoDSYA=="
 ---

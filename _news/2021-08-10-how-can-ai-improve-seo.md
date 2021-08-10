@@ -1,29 +1,45 @@
 ---
 category: news
 title: "How Can AI Improve SEO?"
-excerpt: "From a digital-marketing perspective, the use of AI in SEO increases effectiveness, efficiency and speed. SEO specialists started using AI circa 2017 to take full advantage of Google’s RankBrain. The popularity of machine learning is growing."
-publishedDateTime: 2021-08-09T18:13:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/How-Can-AI-Improve-SEO-16374700.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/How-Can-AI-Improve-SEO-16374700.php"
+excerpt: "Anyone that has used Google Translate on a regular basis for the last five years will have noticed how AI is learning to understand the idioms of language. Voice assistants are even getting better ..."
+publishedDateTime: 2021-08-09T17:20:00Z
+originalUrl: "https://www.entrepreneur.com/article/379080"
+webUrl: "https://www.entrepreneur.com/article/379080"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/379080"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379080"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://s.hdnux.com/photos/01/21/30/55/21334907/3/rawImage.jpg"
-    width: 2000
-    height: 1333
-    isCached: true
+related:
+  - title: "How conversational AI can help banks grow"
+    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
+    publishedDateTime: 2021-08-09T09:49:00Z
+    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
+        width: 2560
+        height: 1223
+        isCached: true
 
-secured: "onFOTsIaXpJS4RH1UY1DgNK+Edk5EjTJ7r+Km+laLq2cF90iK2R2AXpq1crGOZnrujKAKcxmqIbcdNlacsYX7gHt4PQv6mhewBoUHK6V/L8rJcfBJtgwT8qa5ruaYMLjSoseWq1PYGTYmh/5u94mSXqjhcpYZ1M07hjjkQxXpKp7sScVvqj7+9tdKinHC5AI3T8pRyGGPuJyMyZ6TqcEdm+xMFz0+LHmx7GMyeliserheeMG7gCWKz6CreudicTv9s6XJbt9uP/kkW24HGH/DyA8NOc4oA9fjF35ZQwfNDvucFP3KSUP8+bSZQpWtvXLfZRy56i2mRuV6PhmzOpyITzXI6gujnPawYhsQ/TPEyF7fVedRAy3R+ToBQsgX7X/EqzEYRBAE5yPgd41aPn9llSgZitq9Wm3BzkTk9NQFii8BXwki2LK4P/ahrum8ZYW1C1w/MzV6EwB6dyFyiS2Zy5DUmEHnNaFGbAAKXaLGwjQOr3tlWsVWFZZ0ru3cjLaE0MOCjSivtdOk8mLPaEWKA==;LEUQ8IFrxhMolSLQxKm3WA=="
+secured: "AtoNCYuMZudAKBJNerTuLCHMKBvPcsL4v8S2wuML6eeIcqVvl13riJWAh7okB+nl8EZEp7TkvT8QOy0zVkcINjNwIzbFoQPsgrLz0cuxsY73hWRFN98ZnDD+Dc9IZIFWoFPuLUpapF9jMDWZYKw6t1DLjOEja3T0f/7305ZORFdYVaBmI1N0765QguE6/7PLxKhiV7NWQzraVl8K8KVNOeF53/tl5MbItYdWm8gki/n3nJG0Fyr3Mv/axsIvhrJ9XZxby2+q/nhZRmWXgGfvb7MyoR1mIRrmJ0Kpp6mVHxe+IWBN33ZIDtVkTDrDhu2AQ8tV3J711FRzdS6qgo71f7879M5dLwm8+Oee9QIeUr0=;0OXOK7S746EvfdoEvm5kuw=="
 ---
 

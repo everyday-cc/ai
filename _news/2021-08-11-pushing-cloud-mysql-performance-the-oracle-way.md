@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle accelerates MySQL HeatWave queries with machine learning"
+    excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
+    publishedDateTime: 2021-08-10T19:18:00Z
+    webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Oracle Claims Leadership In Cloud Data Warehouse Space Over Snowflake With Its New MySQL Heatwave Service"
     excerpt: "Senior Analyst, Servers, Matt Kimball, dives deeper as Oracle announced its next-generation MySQL HeatWave offering today, focusing on machine learning (ML)-based automation and scalability that the company claims will drive greater performance and price-performance leadership in the market."
     publishedDateTime: 2021-08-10T17:40:00Z
@@ -58,6 +74,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "rg4eiwY83zcpN7F2nXtFedBSDAAk51GubOd74i0WEcOfplB+yTOcLTueKhpBLY/xtt6cUTHSTaNZP/TL8ckmbes9z71NCY3aWYa01FMjObmCLFP0FamEvXjotMBfxz+hIlTvQ8TvcSmICUgyFDUtZ/nR+4eu1xfGCfUOWZGERJs9bOTj3fVMi1jXflvC9FL+Ll1Zn5AMPw+ZzfHxp+rq3iNHtgCV+63iKyeBL/Y5oVKUqgc5EiQlfyjXo+G1j76LlwfqVk1N2MeUQExXpu+xkmmYEcQauZlsfsobtXP+IZC7BcZvy/N/9wvPqJJQOV6MGiqas58Q0eZfQn2lHxgUwpDx/v05Ppc8GpfFomr8+r8=;MXt+3QY2K/z+tg1onNixCw=="
+secured: "IF+R+3+w9nHD78Us66kCl0bqe/GNgDtdSFBrN09JOebNslmTJXHoW0mG4tnazpDAke8zxJi4QDtLgcQrStKhcTmaTzCdqrN0+TznrttNmw5Xho05tos1MvcBE2H/zPDVxzpdl5a61qJ43p2ofV5EObbSDUN9di/flu7eqcaWQZupNE1CC1X29RmtrszqxXx5u4C+xraZO1yvgpaaqjkNrLUrCVKHQ7bi4LPBWOyCrbcbRVRb0TYwWp6ABfuztLakFig3u1Y6C/iKsnXRmSu2Owcil7SukoiXrl7MWtek2RwNxAkyT+7DgbaOxz40e5uXBLHYrGuaF6/CXv5WL4N2bza0YUEbLupcaCV9oPE+sNeGxKNqPh/mZuUVMQd/iZ1SFivX33yGFR6XSaY+B4yBa38Pl+YgTFNGCKy1/hs4nKYX/gHX5Gu3v2wmBkv64RwRmXjHk5/7T9u1q7HKygWpPurmIXWtlLOf2BAXbXjlHl71tx+J1VF5WZS6qO0MJadRV6RIfp066ifdMnAGFIaCYg==;CtnKp4xK3LcTscwwSzqw9Q=="
 ---
 

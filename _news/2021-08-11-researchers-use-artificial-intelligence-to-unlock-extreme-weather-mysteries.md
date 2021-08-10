@@ -32,7 +32,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg"
         width: 1453

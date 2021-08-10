@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-30-us-agencies-must-track-which-facial-recognition-systems-they-use-report-says.md",
+      "title": "US agencies must track which facial recognition systems they use, report says",
+      "excerpt": "Several federal agencies don't know which systems their employees use, according to the Government Accountability Office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-agencies-must-track-which-facial-recognition-systems-they-use-report-says/",
+      "publishedDateTime": "2021-06-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech.md",
+      "title": "Watchdog: 10 Government Agencies Deployed Clearview AI Facial Recognition Tech",
+      "excerpt": "GAO’s review included a visual chart demonstrating facial recognition technology systems used by those federal law enforcement agencies and the number of photos in each system. Clearview AI’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/06/watchdog-10-government-agencies-deployed-clearview-ai-facial-recognition-tech/176411/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
+          "width": 1600,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-federal-agencies-use-facial-recognition-from-private-companies-but-almost-nobody-is-keeping-track.md",
       "title": "Federal agencies use facial recognition from private companies, but almost nobody is keeping track",
       "excerpt": "A new report from the Government Accountability Office (GAO) has revealed near-total lack of accountability from federal agencies using facial recognition built by private companies, like ...",
@@ -1310,110 +1406,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai.md",
-      "title": "EU Data Watchdogs Call for Ban on Facial Recognition Through AI",
-      "excerpt": "European Union data protection watchdogs called for a “general ban” on any use of artificial intelligence to identify people in public spaces warning of the “extremely high risks” to people’s privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-21/eu-data-watchdogs-call-for-ban-on-facial-recognition-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igeIlhc5fXoc/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-facial-recognition-systems-are-denying-unemployment-benefits-across-the-us-updated.md",
-      "title": "Facial recognition systems are denying unemployment benefits across the US (updated)",
-      "excerpt": "A facial recognition system from ID.me is denying unemployment benefits to people across the US with potentially concerning frequency..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facial-recognition-failures-id-me-unemployment-benefits-172654494.html",
-      "originalUrl": "https://www.engadget.com/facial-recognition-failures-id-me-unemployment-benefits-172654494.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-06/ea51a200-d11c-11eb-bffb-1da0370bb14a",
-          "width": 7952,
-          "height": 5304,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

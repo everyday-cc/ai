@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-m
 ampWebUrl: "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg"

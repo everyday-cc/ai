@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-19-duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m.md",
+      "title": "Duke Energy used computer vision and robots to cut costs by $74M",
+      "excerpt": "Duke Energy’s AI journey began because the utility company had a business problem to solve, Duke Energy chief information officer Bonnie Titone told VentureBeat’s head of AI content strategy Hari Sivaraman at the Transform 2021 virtual conference on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "originalUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/duke.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/duke-energy-used-computer-vision-and-robots-to-cut-costs-by-74m/amp/",
+      "publishedDateTime": "2021-07-18T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-army-seeking-psychologically-inspired-object-recognition-system.md",
+      "title": "Army seeking psychologically inspired object recognition system",
+      "excerpt": "Yeah, as in, it actually wants a \"psychologically inspired object recognition system.\" What's that, you ask? It's giving robots and mechanical creatures the ability to see objects the way humans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2008-07-19-army-seeking-psychologically-inspired-object-recognition-system.html",
+      "originalUrl": "https://www.engadget.com/2008-07-19-army-seeking-psychologically-inspired-object-recognition-system.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras.md",
       "title": "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras",
       "excerpt": "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ...",
@@ -1269,110 +1364,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021.md",
-      "title": "Computer Vision System Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News Forecast to 2021.",
-      "excerpt": "At the beginning of 2021, COVID-19 disease began to spread around the world, millions of people worldwide were infected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-system-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-forecast-to-2021-2021-07-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-11T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-11-exynos-flagship-chipsets-a-history-of-samsungs-homegrown-silicon.md",
-      "title": "Exynos flagship chipsets: A history of Samsung's homegrown silicon",
-      "excerpt": "Samsung has used Exynos flagship chips for a long, long time, so we thought it would be a good idea to chart its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "originalUrl": "https://www.androidauthority.com/samsung-exynos-flagship-chipset-history-1233699",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/Samsung-Exynos-branding.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/samsung-exynos-flagship-chipset-history-1233699/",
-      "publishedDateTime": "2021-07-10T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

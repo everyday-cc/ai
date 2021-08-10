@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-06-deepminds-new-system-could-be-a-step-towards-general-ai-but-theres-a-way-to-go.md",
-      "title": "DeepMind’s new system could be a step towards general AI, but there’s a way to go",
-      "excerpt": "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”.",
+      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
+      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
+      "excerpt": "Hello, and welcome to this week's edition of the Insider Tech newsletter, where we break down the biggest news in tech, including: This week: Trouble at Google's DeepMind Insider learned that an ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
+      "webUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "originalUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f",
-          "width": 1280,
-          "height": 640,
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T06:00:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "publishedDateTime": "2021-08-07T16:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,8 +50,7 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

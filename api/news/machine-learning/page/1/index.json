@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-oracle-accelerates-mysql-heatwave-queries-with-machine-learning.md",
+      "title": "Oracle accelerates MySQL HeatWave queries with machine learning",
+      "excerpt": "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "publishedDateTime": "2021-08-10T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-machine-learning-discovers-new-sequences-to-boost-drug-delivery.md",
       "title": "Machine learning discovers new sequences to boost drug delivery",
       "excerpt": "MIT researchers employ machine learning to find powerful peptides that can improve a gene therapy drug for Duchenne muscular dystrophy.",
@@ -342,59 +394,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-06-deepminds-new-system-could-be-a-step-towards-general-ai-but-theres-a-way-to-go.md",
-      "title": "DeepMind’s new system could be a step towards general AI, but there’s a way to go",
-      "excerpt": "DeepMind claim to have taken the “first steps to train an agent capable of playing many different games without needing human interaction data,”.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepminds-new-system-general-ai-way-to-go-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2F1BDHed1.jpg&signature=ee7ea65509523e6e36220583577bab8f",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
       "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
       "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
@@ -554,6 +553,49 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-deep-learning-market-over-long-term-evolution-in-nearby-future.md",
+      "title": "Deep Learning Market Over Long Term Evolution in Nearby Future",
+      "excerpt": "Pune, Maharashtra, India, August 5 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz recently introduced a new title on “Global Deep Learning Market: Industry Analysis, Size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Joe-Biden-White-House-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1387,40 +1429,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
-      "title": "Platform Teaches Nonexperts to Use Machine Learning",
-      "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
-      "originalUrl": "https://cacm.acm.org/careers/254437-platform-teaches-nonexperts-to-use-machine-learning/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

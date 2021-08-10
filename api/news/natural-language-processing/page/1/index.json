@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-11-openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta.md",
-      "title": "OpenAI upgrades its natural language AI coder Codex and kicks off private beta",
-      "excerpt": "OpenAI has already made some big changes to Codex, the AI-powered coding assistant the company announced last month. The system now accepts commands in plain English and outputs live, working code, letting someone build a game or web app without so much as naming a variable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/",
-      "originalUrl": "https://techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/openai-ship.gif?w=925",
-          "width": 925,
-          "height": 519,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/amp/",
-      "publishedDateTime": "2021-08-10T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-student-researcher-urges-natural-language-processing-research-focus-on-signed-languages.md",
       "title": "Student researcher urges natural language processing research focus on signed languages",
       "excerpt": "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots.",
@@ -147,6 +95,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-how-can-ai-improve-seo.md",
+      "title": "How Can AI Improve SEO?",
+      "excerpt": "Anyone that has used Google Translate on a regular basis for the last five years will have noticed how AI is learning to understand the idioms of language. Voice assistants are even getting better ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379080",
+      "originalUrl": "https://www.entrepreneur.com/article/379080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379080",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379080",
+      "publishedDateTime": "2021-08-09T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -522,8 +513,8 @@
       "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
       "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -533,12 +524,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:44:00-07:00",
+      "publishedDateTime": "2021-08-04T05:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

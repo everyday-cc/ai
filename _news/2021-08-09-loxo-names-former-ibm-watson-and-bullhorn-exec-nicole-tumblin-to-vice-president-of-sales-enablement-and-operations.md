@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-forme
 ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Sales
 
-images:
-  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "YUBLoXb3Ti2c/SSTge1K1f+FhKSdIsdivILBys9Ki6H2KcRgML38WNhmRqx5iOPy+9ZXRDVt9jEnYuZrtcdWfrpzUsKFKXhFy/mdy/8F58V33R2xo8oH+20pIBlx65lawPQzaTBqoThb6SAJeTDda7EddGqysigSUV9lBRyyeUHBKlQR54qOFKKgmpNsNSs0OJ+sDHXQysd2wnnpvAzZC9nU0/DCqrvG2xB/9OggzwmU+5PS4oJ8BhO0vhrLD2E4S3BmkXAVOL+xT3iRc9wLjHWY37SCM9cuwmBfuXgLQZ1G6shmq+byswxxoKIYsNCu/wql5FAvIRZ4AR5sB9ZdUboU/Nb+9HNMB+1d17AqqUU=;loEbRRP496neSmhBc1C5Ag=="
+secured: "e7qUywuq82bvmUx8OfudTRQ4b3WF20Eu25kDUEJMYjfA+n5+TI1LB7EuarHK4ugVj5VzTC4fBGxDw3yREI4A+KxhCuARvABpR+aZwSPhuAD/ojt2ZoFN08kvJvbb9ulsD/DWJBQInb0R42gxfEX9NDmTClkImS1OyzWfZJEOwtgZKy+bN9y0xbRAFyvBIeuaKvrmHVG8tFNVuz/VMBEH6W2EstgxnNH8mco4vtxrT2NLqZLwF/jF/D0nelPBadRYBoYGohb+nUSkIN/WR/9b3mF4Ay7+zMsy3QkL5I1w3WBE81b58H/YtebpzILy5ye0gGdo4LPT9tvhLXQh7Pn1a+7/VExoLPXW3zRPuL/Pmh4=;Ha3Bu1HuIhwPpWB7/F+aSA=="
 ---
 

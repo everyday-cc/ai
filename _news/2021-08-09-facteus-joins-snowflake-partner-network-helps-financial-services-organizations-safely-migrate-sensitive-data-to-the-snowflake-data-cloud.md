@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
+    excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of t"
+    publishedDateTime: 2021-08-09T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210809005237/en/Facteus-Joins-Snowflake-Partner-Network-Helps-Financial-Services-Organizations-Safely-Migrate-Sensitive-Data-to-the-Snowflake-Data-Cloud"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "liZDg4joeF2+3aL06FGHo34BMEhf5BKy/0eezHhsL7tMvFAbnjVzoqtwUJxA7/502EcjjdhYcOaSvVPY1V2KISxjQT9q2PM5sqU3FEc5lKrw9WYmjgf+0LvpVKGjVhHj9anjnecGTOBmUPFHjp5TUwj74wKKQAhLv/UNrjD2X4EVmoU5vCpRi+f15AfUjX1cKVE3WiSfgHucO8OrjNQCFukNo75eziZ94BRunppiwO0BWiWveNYjk1eoaEUIyVWFh+dTJM/LDBRQP+w4n0SExU8TIc6p13iwbyS2StWnD1jcIbRLrNTF8qwufdkYBEGPBT3NuLb9UFOGI7pG14e8awjNlQ5xOi/x0crG4USAlqc=;YVCO+0zrh2xQtA4RcCTfCA=="
 ---
 

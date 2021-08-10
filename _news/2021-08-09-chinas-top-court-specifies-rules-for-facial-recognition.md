@@ -9,7 +9,7 @@ ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-
 cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Face Recognition Systems Market"
+    excerpt: "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and"
+    publishedDateTime: 2021-08-10T20:17:00Z
+    webUrl: "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810466440_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
     excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
     publishedDateTime: 2021-08-09T17:30:00Z

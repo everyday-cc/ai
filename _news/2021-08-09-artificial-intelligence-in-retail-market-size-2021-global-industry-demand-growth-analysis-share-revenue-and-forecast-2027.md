@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
 type: article
 quality: 55
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Underwater Computer Vision Market 2021 by Regional Production Volume, Size, Share, Consumption Volume, Revenue and Growth Rate Forecast to 2026"
+    excerpt: "Aug 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Underwater Computer Vision"
+    publishedDateTime: 2021-08-06T06:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-2021-by-regional-production-volume-size-share-consumption-volume-revenue-and-growth-rate-forecast-to-2026-2021-08-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

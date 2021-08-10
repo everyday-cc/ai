@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Global Face Recognition Systems Market"
+    excerpt: "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and"
+    publishedDateTime: 2021-08-10T20:17:00Z
+    webUrl: "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810466440_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
     excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
     publishedDateTime: 2021-08-10T13:19:00Z
