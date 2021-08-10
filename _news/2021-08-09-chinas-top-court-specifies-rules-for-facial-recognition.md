@@ -9,7 +9,7 @@ ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-
 cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://johnmenadue.com/wp-content/uploads/2021/07/04DBD2E1-0AB9-4A39-98E7-213A3AC746A4.jpeg"
         width: 1500
         height: 1125
+        isCached: true
+  - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
+    excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
+    publishedDateTime: 2021-08-10T05:09:00Z
+    webUrl: "https://news.uark.edu/articles/57310/journalism-alumna-wins-national-recognition-for-research-on-algorithms"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 24
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2021-08-09_12-14-01-PMKendalHeavner.png"
+        width: 729
+        height: 974
         isCached: true
 
 secured: "LlP+MOgatHV+Pk5XQ+7r9j257v5sZRQqeywSRl3JMi1Ko5Ufk0MEAX9lCBzbHufas6D1hxgxT4yntJAscc4ik6Gpf1nh+rUMyCrzb8MLaUUOjh1HcrtimfRQwSgMsL8idjHdNRMQaPu+X3Pl5lmLzG3M2wOsBtEKdFQporcET3o5ZAczi/QOWwvxT9EFGhm6yBdXY8ZZZbI9/bfgibF3QbK2BSuWO7WKjaQYLUtm7wKtmrDoUHLuPFIR1oTC8Hx9FLwp2DkaTnWObJozSrispQ8dct978t1k9vi3uPzhwf1fzDsxV5VGwcQrOi7LrInNNcJvJvgGy8IeliXsm/gsfgZ07EbGb7s7r5b3RmA1vZtut8wKEz64LHSbCNMo7PNKWy9Y+lSfKCY+qgURE0LZLF0+3oAG5eCluF2EE5j3pw5pM/uxYPoPTSlSSSZJHcSlV9mEZ2shvLu1q8fWE7xEAt3jmp2hCp4l4jK0y2M4zXfh18oTAtDsvOT6JL4fVhm2WJLrmvWmv5NJVASR6GWm+A==;2gbnOCoXLZ59MMtxOqsBvg=="

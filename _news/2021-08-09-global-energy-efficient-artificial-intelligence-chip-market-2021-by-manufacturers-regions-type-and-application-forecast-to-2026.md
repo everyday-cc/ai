@@ -19,6 +19,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
+    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
+    publishedDateTime: 2021-08-09T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Report 2021, Industry Analysis, Share, Size and Forecast Till 2026"
     excerpt: "By IMARC group the global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Sheridan,"
     publishedDateTime: 2021-08-06T02:06:00Z

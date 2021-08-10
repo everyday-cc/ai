@@ -37,20 +37,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Machine learning breakthrough uses satellite images to improve lives"
-    excerpt: "By Edward Lempinen and Harrison Tasoff Santa Barbara, CA More than 700 imaging satellites orbit the Earth, and every day they beam vast amounts"
-    publishedDateTime: 2021-08-05T11:06:00Z
-    webUrl: "https://www.miragenews.com/machine-learning-breakthrough-uses-satellite-608610/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?Status=Master&sfvrsn=55d6ef2_3"
-        width: 729
-        height: 509
-        isCached: true
 
 secured: "aGZCksGQh+tKkSHhg3lhx+fJSUAzT0cmxkgs7W+HPF7N4Nk/YYR0aUJ8XwVnq/BbZKIhsaiGMAGUC/eOM4hts8sJOFZDGtZlYSBSwIYoQcCKYxRF1RDjnlJcsoPuydE3bylA4p4QxcX6ECWFyhM8yMn9dwxfUgL6cdaBljtHHpb4je/lj14bIPljSWouU4DQTUJUNKYMaem46EPCgGRghHhq4JmkqKxtJ9pMn5xmjxYNatMX9iJVI74PK3/Aec/EZ38sb18bimXKzPRqC/ahlIosZU02CR2mcv5zMWMG1MA7BGw/KpDsoWwzdYm06alhtqb2WFHb8rxL5+Oq6X5l0EnEalcYDrWpBHcAmCky7R0=;YgKZqbhbjgF2LpNMj8FcHg=="
 ---

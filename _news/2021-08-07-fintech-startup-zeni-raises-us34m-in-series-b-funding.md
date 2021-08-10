@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech startup Zeni gets USD 34 mn from Elevation Capital, others"
-    excerpt: "Pune-based fintech start-up Zeni has raised USD 34 million in a Series-B funding round led by Elevation Capital with participation from new investors. With this, Zeni has raised USD 47.5 million in funding so far from Amit Singhal,"
-    publishedDateTime: 2021-08-05T12:31:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/fintech/fintech-startup-zeni-gets-usd-34-mn-from-elevation-capital-others/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 24
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Fintech-startup-Zeni-gets-USD-34-mn-from-Elevation-Capital-others-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "lavlzF8/cxhMDD+787zXGPpKP+g4hPmnx2qxWHeCnItBqlwg8V2ZMbslHDyRrg2OH7HB5sBlzsjlRAS1OYSViH4ONRFdhGqb90KCTVKvF7EdRYqCsFGsyB+rRJFAEjWx6uOPaW3+Vtt57Mw4CTUc50vnx3yFBumLAyi3/LW5HfPkLdUv1TvkpDTCQTChBpP6rVKfhiDv32JZ043maBYTYMV3rK83FiBNyBH516o11eG+fhT3C/1bWW8GaVkslc4SVTf6DkFNfSRQ6Bokw5p9QHwRBq4OjcxxB9Xn7YxsQ4rCaufqfvdyHB8DGBRKgACkTpT5qT9wEcT0RoZ8ucLmBlVHoJt0dOE8y67O0lyNQno=;uf6lGB2guhtJAsoY7BgCkg=="
 ---

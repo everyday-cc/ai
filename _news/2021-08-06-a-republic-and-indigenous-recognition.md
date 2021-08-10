@@ -71,6 +71,20 @@ related:
         width: 1800
         height: 734
         isCached: true
+  - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
+    excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
+    publishedDateTime: 2021-08-10T05:09:00Z
+    webUrl: "https://news.uark.edu/articles/57310/journalism-alumna-wins-national-recognition-for-research-on-algorithms"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 24
+    images:
+      - url: "https://campusdata.uark.edu/resources/images/articles/2021-08-09_12-14-01-PMKendalHeavner.png"
+        width: 729
+        height: 974
+        isCached: true
 
 secured: "XpvIVHPuS5MDJHLycf/SE1cZ6NO+guf2HMlSKgvrZ5wSzLt+nvncmFzl3itZN6+tsluhcKRWc0ZK9sooE54BQBSKdziliJe5Sly6buWle3HOjRc6Pi/s9LbeK4H/C2iiDY0vfWDmjJNiBAd2nLINlxGt8H3bN/R2xauaKqau4n0n91+hDawUe12vw8EjhtmjL2cF43ebxejEv5sMe4gCVQbeOeZhMv6+FUQnViQBfwzmvSbvFB6d+U581vsICQg1NBfyBtXNkTlsGBYCAGEEnh9GmXP1Z4SDBWIjaMbj0VBmRe1SBrNInbWdKHOqyMAp4jZ6YDwXKrbvWU293dekY+RKThzXcvAXpMloDVDDgVc=;CUNPgbonnuOrYeZVUl2LOQ=="
 ---

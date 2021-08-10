@@ -2,6 +2,159 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
+      "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
+      "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
+      "publishedDateTime": "2021-08-06T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-mainframes-the-missing-link-to-ai-artificial-intelligence.md",
+      "title": "Mainframes: The Missing Link To AI (Artificial Intelligence)?",
+      "excerpt": "But the benefits of AI are too important to ignore. So what can be done? Well, one strategy is for leveraging cloud platforms outside of the mainframe environment. “New approaches to cloud migration replace the traditional ETL (extract,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610d67aa46a4df352eb4e4fd%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-08-06T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk.md",
+      "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
+      "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
+      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381765/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "publishedDateTime": "2021-08-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league.md",
       "title": "Accenture promotes machine learning growth with world’s largest private AWS DeepComposer Battle of the Bands League",
       "excerpt": "Accenture is known for pioneering innovative solutions to achieve customer success by using artificial intelligence (AI) and machine learning (ML) powered solutions with AWS services. To keep teams updated with latest ML services, Accenture seeks to gamify hands-on learning. One such event, AWS DeepComposer",
@@ -598,49 +751,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-06-artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible.md",
-      "title": "Artificial Intelligence in India: 5 Reasons to Make AI More Accessible",
-      "excerpt": "Artificial Intelligence in India is gradually getting adopted. Technologies like the internet of things (IoT), machine learning, cloud computing, deep learning, big data analytics, robotics, augmented reality are effectively improving the quality of human life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/",
-      "originalUrl": "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-In-India-5-Reasons-to-make-it-more-accessible.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
       "title": "Google is developing a new superintelligent AI but ethical questions remain",
       "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
@@ -795,7 +905,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -827,6 +937,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
+      "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
+      "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
+      "originalUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
       ]
     },
     {
@@ -870,57 +1024,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026.md",
-      "title": "Artificial Intelligence Market Report 2021, Industry Analysis, Share, Size and Forecast Till 2026",
-      "excerpt": "By IMARC group the global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Sheridan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1078,7 +1181,7 @@
       "originalUrl": "https://www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls-11628176112755.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1109,109 +1212,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
-      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
-      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "publishedDateTime": "2021-08-05T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
-      "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
-      "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
-      "originalUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Li-Auto-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
-      "publishedDateTime": "2021-08-05T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

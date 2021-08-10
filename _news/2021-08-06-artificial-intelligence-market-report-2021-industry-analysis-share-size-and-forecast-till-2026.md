@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
+    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
+    publishedDateTime: 2021-08-09T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
     excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
     publishedDateTime: 2021-08-09T12:16:00Z

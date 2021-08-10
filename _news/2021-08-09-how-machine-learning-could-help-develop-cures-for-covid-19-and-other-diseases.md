@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Unsupervised machine learning reveals key immune cell subsets in COVID-19, rhinovirus infection, and cancer therapy"
-    excerpt: "For an emerging disease like COVID-19, systems immunology tools may quickly identify and quantitatively characterize cells associated with disease progression or clinical response. With repeated sampling,"
-    publishedDateTime: 2021-08-05T12:16:00Z
-    webUrl: "https://elifesciences.org/articles/64653"
-    type: article
-    provider:
-      name: eLife
-      domain: elifesciences.org
-    quality: 34
-    images:
-      - url: "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png"
-        width: 600
-        height: 600
         isCached: true
 
 secured: "TZ5PC5e88yTgTvTSO90HNo933mfPyhz9iAdzdS9lCC5J+QgBvgI3/30dP+hEzSwAmH5kEudZOKz5dQoqcCt9GxbTTOSVZGYnLcNVZlxrcaKtME5MLbnrL/DUWy6CGJfEPi19ASDNFeelTUwOs2QjWmKGpZFBJUfPYr6qXwC7rXEP1eUIE/zwAIbp/COvTUpvBWO+kzIDyLA6WNkuNEnpTf/mzq2qpCEExmVbXMFrJ2SKTu0xDlOZ/CQNIgy8rmZaikQ8dpBo8n0TW57DHUU+Me9CHoLXWb2riYt7TrJo/V+D1sOxyiwXNv0rdNlmALz1q5oHeSGAUgtVksxey8K7oL41TQjritG4tv71HDnroSWfJmwIKNtrOzY600h+cIbpfxQQj3CM6EY7AE/kTICe6irl6nO7qulWXu/5YeAsGQz91bbyhSn7/PXtkhVLFjWlx4mTlfeNGzAExla0OASTq8MK/vcYF5zVWxw7xGYISUokRyl7i9M0GDl7f6QAa+PrwsoZgSAUKzjItor6+75Lcw==;Rixa079v6A19l4EYZcfPpQ=="

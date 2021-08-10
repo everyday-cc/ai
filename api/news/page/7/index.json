@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-03-apple-once-again-expands-california-self-driving-test-fleet.md",
+      "title": "Apple once again expands California self-driving test fleet",
+      "excerpt": "Apple has expanded its California self-driving test fleet to 69 cars and 92 drivers, according to a news story from 'macReports.'",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/",
+      "originalUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Apple-Car-production-would-be-in-the-US.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/08/03/apple-expands-california-self-driving-test-fleet/amp/",
+      "publishedDateTime": "2021-08-03T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast.md",
       "title": "Machine Learning as a Service (MLaaS) Market Assessment & Opportunity Forecast",
       "excerpt": "Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The Machine Learning-as-a-service (MLaaS) Market was valued at USD 1.",
@@ -1178,49 +1221,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-b2b-sales-productivity-startup-nektarai-closes-seed-round-of-81-million.md",
-      "title": "B2B sales productivity startup Nektar.ai closes seed round of $8.1 million",
-      "excerpt": "The company intends to use the funding to accelerate product development and hire talent for its core team across product, engineering, and GTM functions",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/02/600x338/startup-kElG--621x414@LiveMint_1627917168314.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html",
-      "publishedDateTime": "2021-08-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

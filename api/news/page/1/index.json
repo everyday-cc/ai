@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-10-latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing.md",
+      "title": "Latent AI, which says it can compress common AI models by 10x, lands some key backing",
+      "excerpt": "Latent AI, a now three-year-old, Menlo Park, Ca.-based startup, pitched a handful of investors during TechCrunch’s Battlefield competition. It didn’t win that contest, but that hasn’t kept it from winning the interest of investors elsewhere.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/",
+      "originalUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1197264259.jpg?w=1024",
+          "width": 1024,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/09/latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing/amp/",
+      "publishedDateTime": "2021-08-09T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-15-ai-ethics-leaders-showing-the-world-the-way-of-the-future.md",
       "title": "15 AI Ethics Leaders Showing The World The Way Of The Future",
       "excerpt": "There are leaders and visionaries across the globe that are paving the way and setting examples for every business to follow when implementing and leveraging the massive power that AI possesses. These people are AI Ethicists.",
@@ -114,7 +165,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -313,6 +364,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-seachange-enhances-collaboration-with-aws.md",
+      "title": "SeaChange Enhances Collaboration With AWS",
+      "excerpt": "SeaChange and AWS have collaborated since 2016. SeaChange will now leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement and improve customer business outcomes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/news/seachange-enhances-collaboration-with-aws",
+      "originalUrl": "https://www.tvtechnology.com/news/seachange-enhances-collaboration-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/9dfbXezXjpiLADQDtzQmB7-1200-80.png",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws",
+      "publishedDateTime": "2021-08-09T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-supply-chain-aia-food-additive-that-wont-harm-our-health.md",
       "title": "Supply Chain AI—A Food Additive That Won’t Harm Our Health",
       "excerpt": "From intelligent fridges to footfall figures, food and beverage companies are using AI to develop, produce, and deliver the products customers want—and it’s helping them do it more sustainably, too.",
@@ -425,7 +519,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -759,6 +853,41 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-the-misunderstood-security-risks-of-behavior-analytics-ai-ml.md",
+      "title": "The Misunderstood Security Risks of Behavior Analytics, AI & ML",
+      "excerpt": "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml",
+      "originalUrl": "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
       "title": "Eden AI launches platform to unify ML APIs",
       "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
@@ -767,7 +896,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -810,57 +939,6 @@
         "Machine Learning",
         "IBM AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-insilico-medicine-announces-an-ai-driven-protac-rd-collaboration-with-arvinas.md",
-      "title": "Insilico Medicine Announces an AI-driven PROTAC R&D Collaboration with Arvinas",
-      "excerpt": "Insilico Medicine is proud to announce an R&D collaboration with Arvinas (NASDAQ: ARVN). This strategic partnership will involve Insilico Medicine's AI-augmented platforms and close cooperation between Arvinas' and Insilico Medicine's scientists on novel PROTACs.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708993",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insilico-medicine-announces-an-ai-driven-protac-r-d-collaboration-with-arvinas-1030708993",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1590789/Insilico_Medicine.jpg",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1155,100 +1233,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-bear-flag-robotics-will-help-deere-expand-autonomous-equipment.md",
-      "title": "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment",
-      "excerpt": "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
-      "originalUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
-      "cdnAmpWebUrl": "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
-      "publishedDateTime": "2021-08-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wvik.org",
-        "domain": "wvik.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-this-startup-provides-a-winning-combination-of-ai-and-skilled-recruiters.md",
-      "title": "This Startup Provides A Winning Combination Of AI And Skilled Recruiters",
-      "excerpt": "The company aims to solve issues and roadblocks that arise at every touch point across the employee lifecycle. Its product offerings include employee onboarding module, document management system, intelligent case management system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379671",
-      "originalUrl": "https://www.entrepreneur.com/article/379671",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628501756-WhatsAppImage2021-08-09at30355PMv1.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379671",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379671",
-      "publishedDateTime": "2021-08-09T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -43,19 +43,19 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
+  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2021-08-10T02:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
     type: article
     provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Artificial Intelligence(AI) in Healthcare Market"
     excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."

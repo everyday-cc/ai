@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-
 webUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

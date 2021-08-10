@@ -59,22 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Trial on at 6 airports for biometric boarding system using facial recognition tech"
-    excerpt: "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada."
-    publishedDateTime: 2021-08-05T12:58:00Z
-    webUrl: "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    ampWebUrl: "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "hx6CrgQckNkrE4oEUfC2MqPbOuQSxsT3H9MBeJlhHDMyX/7wbwH8u0UU0uS+cXyPUv1AhyUjTkbikwIZceA/IDk709bEUAxjMLCW+uu+ua1V47lMI9o+O5plyR1rJA/Z/AmA6iLpdxCVgLb1W+17TVGCSYFk6z5iSPyoSZy6tIv4fQtjVQUikjeIXaihN4DZ1o474hwOU+fWP+RqF8rAz1PlFa72O8GwzYGj3GXSyy/IMys066wSCkz6u4Gs7TfcdCawSN3hfmOFCcHZGh7IhjaEQu+ExEo/IVUVVaHgoLvvIFzHYTaIza9zt3F2aRT0q9MEPRv6T+oKVpVS61LHEPdA7siwdGxgFbhDZRcMXqnL2oif523JV2e3n6wrf3w8KBlitiESCvB6hvI7SQXFZopsUAFSn1DTvU4q1AY/1Yf6mo2WwJaHM6leHTTTFIwYokpzbhsfAyJU0mbLoPKKPEcNw0mUjD8reHMZDyYyCNjxTxIVFbtiK/F++WztgRUPvq0qOSBO/rs8jQW7p/mElw==;GoVok+jhb2zgvH8JLzk/wA=="
 ---

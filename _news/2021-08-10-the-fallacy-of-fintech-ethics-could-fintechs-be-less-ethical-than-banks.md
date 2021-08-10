@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Vivint Smart Home to Attend Wells Fargo FinTech & Technology Services Forum"
-    excerpt: "Vivint Smart Home, Inc. (NYSE: VVNT), a leading smart home company, today announced that it will host virtual one-on-one and group meetings with investors at the Wells Fargo 6th Annual FinTech & Technology Services Forum."
-    publishedDateTime: 2021-08-05T11:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=511701"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 22
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "IIHUeJ/bBqYgDoPEmwMoKgFs+OO9tMa/YoqMThg62xFBnB9/Ra5ucFzrZ1Mo5Rsr/ghaQfqaiJOUb3iqBrgZjxYKZ1MeBtixg5gEirfTPPyG5HhhFRnTNtMP/zAxyrLDfHfZsa+am9yBpufzloW0rDJENNS2p8FNpWF1jmbPCfE7jPGYANjFDRUsiS8qSuBFbC8PV2sQhNJdKS4KWwbPnj62L6xCNg0S7rKCV+kleHkCiujQnjtl/hf7hH++hDjgpo5RxNJdUbw/QF+Jj59ZCZa9/BaTBVMmjIHPb2sTBKr24dg0sS6sMewlut5WcKMoDz40MnrtVPwQFm9qe8uP76Absr9E5rUk5eR8W39gjjQ=;cZcilC1smtquJ9Wg/o/uqQ=="

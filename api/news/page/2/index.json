@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-09-bear-flag-robotics-will-help-deere-expand-autonomous-equipment.md",
+      "title": "Bear Flag Robotics Will Help Deere Expand Autonomous Equipment",
+      "excerpt": "On Thursday, the company announced it's acquired Bear Flag Robotics for $250 million. Aaryan Balu reports the California startup develops autonomous technology for farm equipment. Dan Leibfried, Director of Automation and Autonomy at the Deere Intelligent Solutions Group in Urbandale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "originalUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/240a7fb/2147483647/strip/true/crop/4032x2483+0+270/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0a%2F45%2Fc13843cb4f1f8782a438083c4ebc%2Fdeerre-bear-flag-robotics-tractor.JPG",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "cdnAmpWebUrl": "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true",
+      "publishedDateTime": "2021-08-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wvik.org",
+        "domain": "wvik.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-this-startup-provides-a-winning-combination-of-ai-and-skilled-recruiters.md",
+      "title": "This Startup Provides A Winning Combination Of AI And Skilled Recruiters",
+      "excerpt": "The company aims to solve issues and roadblocks that arise at every touch point across the employee lifecycle. Its product offerings include employee onboarding module, document management system, intelligent case management system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379671",
+      "originalUrl": "https://www.entrepreneur.com/article/379671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628501756-WhatsAppImage2021-08-09at30355PMv1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379671",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379671",
+      "publishedDateTime": "2021-08-09T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-how-machine-learning-could-help-develop-cures-for-covid-19-and-other-diseases.md",
       "title": "How machine learning could help develop cures for COVID-19 and other diseases",
       "excerpt": "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio",
@@ -10,7 +104,7 @@
       "originalUrl": "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -62,7 +156,7 @@
       "originalUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -181,6 +275,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027.md",
+      "title": "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027",
+      "excerpt": "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1083,159 +1228,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-ai-weekly-companies-look-to-scale-up-their-use-of-ai.md",
-      "title": "AI Weekly: Companies look to ‘scale up’ their use of AI",
-      "excerpt": "Companies are looking to 'scale up' their deployments of AI as they look to incorporate machine learning throughout the organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/ai-weekly-companies-look-to-scale-up-their-use-of-ai/amp/",
-      "publishedDateTime": "2021-08-06T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-mainframes-the-missing-link-to-ai-artificial-intelligence.md",
-      "title": "Mainframes: The Missing Link To AI (Artificial Intelligence)?",
-      "excerpt": "But the benefits of AI are too important to ignore. So what can be done? Well, one strategy is for leveraging cloud platforms outside of the mainframe environment. “New approaches to cloud migration replace the traditional ETL (extract,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610d67aa46a4df352eb4e4fd%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/06/mainframes-the-missing-link-to-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-06T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk.md",
-      "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
-      "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
-      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-381765/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
-      "publishedDateTime": "2021-08-06T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

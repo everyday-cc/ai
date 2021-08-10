@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
+    excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
+    publishedDateTime: 2021-08-09T14:02:00Z
+    webUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 51
   - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
     excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
     publishedDateTime: 2021-08-09T15:55:00Z
@@ -39,15 +48,20 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
-    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
-    publishedDateTime: 2021-08-09T17:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
+  - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
+    excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
+    publishedDateTime: 2021-08-05T19:57:00Z
+    webUrl: "https://www.datanami.com/2021/08/05/enterprises-needing-accelerated-data-analytics-and-ai-workloads-get-help-from-nvidia-and-cloudera/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: datanami.com
+      domain: datanami.com
+    quality: 26
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/GPU_shutterstock_mmaxer.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "ubmcdsPqKopJCiJXs35FetpST1LYSoVx6k+BcYAzxfXW0t5rOSUVf8+WCOqs+5c7NqGw0ZcjwGCn293Z7JCc0ndjC2MszAVHGRn16DtVKQFnWXc4bR3HAqoEPlMn9wNsiMilrPl1PoAua12zK+TDikm5kizJzCHP+54lDX2VHXi0lh/nY5y7Nq93KsmVbhusop2XqcVzzfZkggHh5hmDbyLNqxtsvkNtwJe48egGLecVx3N15rU4LU0aingCSRE9SpLNJLorJyp1Uolcu3FwI7BDI1YGeV0uSxmQzouwPVPBAOafFnD+kAUergR+Okzbu0tGqqpcxiQLJndnTL6n/R8Vvoxr+vhxatOCpUni86o=;7mZzN7OMaD7IspKrnS+YzA=="
 ---

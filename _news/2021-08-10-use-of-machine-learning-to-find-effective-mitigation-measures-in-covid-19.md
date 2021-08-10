@@ -39,20 +39,6 @@ related:
         width: 754
         height: 648
         isCached: true
-  - title: "Unsupervised machine learning reveals key immune cell subsets in COVID-19, rhinovirus infection, and cancer therapy"
-    excerpt: "For an emerging disease like COVID-19, systems immunology tools may quickly identify and quantitatively characterize cells associated with disease progression or clinical response. With repeated sampling,"
-    publishedDateTime: 2021-08-05T12:16:00Z
-    webUrl: "https://elifesciences.org/articles/64653"
-    type: article
-    provider:
-      name: eLife
-      domain: elifesciences.org
-    quality: 34
-    images:
-      - url: "https://elifesciences.org/assets/images/social/icon-600x600@1.75dbe4c9.png"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "MKe6fxupaXF+RcjNO0cjfUZS0aeRUfnXLHyYv2UyLLdZA1b1mx39U+aT6od+ol/8cphxcp8R4GwXvreDdaYCyJ7qNBQdOna7cpSaSDw6x7oO/LQbRnXmIOucHv98vfgET7tSqtbWdCqOeocpYz6US2K24UifdJrlDeOk39Bxla5Nn1COPRcQrSq8eHMQCHfXgIW80FylkQOh+DSuNPnfJ3D/OGhnXlPC4v9LDbZQ+csyVY2fi+BEIkEWNKn7FikUU463onULiQoJFredr1IGr21COsecLhJ3AJSb1Yx5EcJ7yZovVgWzfFUAit/NI40Ifjr0jLch2DilORBYn0b/FB63/ys4AWdRDSUF7zJMCxA=;CIEViGGMVN0/4JxUEb0Uog=="
 ---

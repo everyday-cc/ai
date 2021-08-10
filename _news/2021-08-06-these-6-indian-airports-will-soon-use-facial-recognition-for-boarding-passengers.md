@@ -43,22 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Trial on at 6 airports for biometric boarding system using facial recognition tech"
-    excerpt: "\"Work has been awarded for implementation of Biometric Boarding System (BBS) by using facial recognition technology at six airports namely Bengaluru, Hyderabad, Kolkata, Pune, Varanasi and Vijayawada."
-    publishedDateTime: 2021-08-05T12:58:00Z
-    webUrl: "https://www.businesstoday.in/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    ampWebUrl: "https://www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/industry/aviation/story/trial-on-at-6-airports-for-biometric-boarding-system-using-facial-recognition-tech-303396-2021-08-05"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 68
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful"
     excerpt: "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years."
     publishedDateTime: 2021-08-07T03:16:00Z

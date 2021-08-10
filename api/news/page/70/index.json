@@ -2,6 +2,49 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-06-18-2-hopes-about-developments-in-ethical-ai.md",
+      "title": "2. Hopes about developments in ethical AI",
+      "excerpt": "Early developments in AI have been of overwhelmingly great importance and value to society. Most of the experts responding to this canvassing – both the",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
+      "originalUrl": "https://www.pewresearch.org/internet/2021/06/16/2-hopes-about-developments-in-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-robotics-outlook-2030-how-intelligence-and-mobility-will-shape-the-future.md",
       "title": "Robotics Outlook 2030: How Intelligence and Mobility Will Shape the Future",
       "excerpt": "Established robotics companies must counter startups that are innovating in areas with the potential to generate high profits and alter the dimensions of the industry.",
@@ -1153,49 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-theum-now-available-in-the-microsoft-azure-cloud.md",
-      "title": "Theum Now Available in the Microsoft Azure Cloud",
-      "excerpt": "Intelligent answer oriented access to documented knowledge in just a few clicks Stuttgart Germany June 17 2021 Theum AG www theum com announced the availability of its AI based software Theum for the automated deployment of and direct access to",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
-      "originalUrl": "https://www.openpr.com/news/2307901/theum-now-available-in-the-microsoft-azure-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U617781440_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2307901/theum-now-available-in-the-microsoft-azure-cloud",
-      "publishedDateTime": "2021-06-17T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

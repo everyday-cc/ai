@@ -7,8 +7,8 @@ originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-india-
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-india-5-reasons-to-make-ai-more-accessible/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Analytics Insight
@@ -40,20 +40,6 @@ related:
       - url: "https://www.lawyersclubindia.com/img/preview/paidnfree/apr_29_9.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "The need to make artificial Intelligence more accessible in India"
-    excerpt: "And that may be the most important step in India’s tryst with artificial intelligence, as per the overwhelming sentiment att Nasscom’s Experience AI summit Thursday afternoon. “AI is going to be as ubiquitous as electricity,"
-    publishedDateTime: 2021-08-05T12:31:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2021/08/05/the-need-to-make-artificial-intelligence-more-accessible-in-india.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 37
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/india/2020/March/Polygonal-brain-shape-AI-artificial-intelligence-smart-city-Internet-of-Things-IoT-smartphone-mobile-phone-shut.jpg"
-        width: 760
-        height: 443
         isCached: true
 
 secured: "/UQI4ht+cY7yy4vKy9oBNW+7C4QnnoKHsfAWRTcdy+4fFvfWOzAjrIrQoh9cbLRNZojAERVENZfR7S833EjdF8v0ZJZJrUx2U8pCAc3TvEsyldADprHE4q7tZ5b7FjdHiWdsa+7TZSXR/jNguetZ+mRrf63MwdS7hQyAl75O3UaKps0sxS+k6+gGZZAw/Aj8gGIMcEW1oRiHB7FJMan3MTuWnEPd4UM9iIpvE8BQqUKIrsfq/bhGrcVHjMkC0ZTQxvF8N5dhA7+n5JtZxccY0zhJa7p9LZj4gW0JeEqxaFP1SiZONFuZ491CPqn9sP5oTjGw3yk3eFuiyO1bRwepnI2vEyrDJW6SehyKlJ4BuvIBjqHeQJlBpgQtDlBB31d4YVqsZ/qfBXFMybSsWwH/mnlhEd5ocGBzOKgGWVxSeDv/mCvKkJikDnsDmQl7w4eQJA1TvoZBONqVEdklnveVFofiN0uINIyxhGOcBg1R6Bncm5XILHtJIG7bD38CrF7JG1EEyXva7WATlD3NaehM0g==;Qd6UynA2vXqMoldVTnNFuQ=="

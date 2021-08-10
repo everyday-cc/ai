@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-07-13-aiml-cuts-into-traditional-hpc-plasma-physics.md",
+      "title": "AI/ML Cuts into Traditional HPC, Plasma Physics",
+      "excerpt": "When AI/ML came onto the scene in the supercomputing community, common wisdom was that it could do much to augment HPC applications but it would be not be",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
+      "originalUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/ab_plasma_physics.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/07/12/ai-ml-cuts-into-traditional-hpc-plasma-physics/amp/",
+      "publishedDateTime": "2021-07-12T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-gm-ventures-increases-funding-in-ai-vision-software-company-algolux.md",
       "title": "GM Ventures Increases Funding In AI Vision Software Company Algolux",
       "excerpt": "Algolux, an AI software company based out of Quebec, has announced the closure of series B funding, raising $18.4 million to help accelerate market adoption of the company’s scalable computer vision and image optimization solutions.",
@@ -1115,57 +1158,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale.md",
-      "title": "This AI Asks Questions, Finds Answers And Suggests Actions, All At Scale",
-      "excerpt": "SparkBeyond has developed an AI-driven dynamic research and strategic action engine that can help you create a better future",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e9ea58078e5ea785ac75f1%2F0x0.jpg",
-          "width": 1200,
-          "height": 1354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/07/12/this-ai-asks-questions-finds-answers-and-suggests-actions-all-at-scale/amp/",
-      "publishedDateTime": "2021-07-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

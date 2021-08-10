@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-aws-announces-general-availability-of-amazon-healthlake.md",
+      "title": "AWS Announces General Availability of Amazon HealthLake",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-e",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210715005761/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210715005761/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1311,49 +1345,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-artificial-intelligence-ai-in-bfsi-market-2021-is-booming-worldwide-with-eminent-key-players-amazon-web-services-aws-inc-avaamo.md",
-      "title": "Artificial Intelligence Ai In Bfsi Market 2021 is Booming Worldwide With Eminent Key Players | Amazon Web Services (AWS), Inc., Avaamo",
-      "excerpt": "The most recent research report on Artificial Intelligence Ai In Bfsi Market 2021 published by Stratagem Market Insights begins with the market description official report segmentation and classification The report offers a comprehensive analysis of the market so that perusers",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "originalUrl": "https://www.openpr.com/news/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/6/U630260262_g.jpg",
-          "width": 621,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2317267/artificial-intelligence-ai-in-bfsi-market-2021-is-booming",
-      "publishedDateTime": "2021-06-29T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

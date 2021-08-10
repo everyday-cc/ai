@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Conversica Names Former IBM Exec, Terrie Banuelos, to Vice President of Global Sales"
-    excerpt: "Banuelos brings to Conversica deep expertise selling digital solutions to target buyers across SMB, mid-market, and enterprise businesses. Prior to joining Conversica, Banuelos had revenue responsibility for the Americas at Acoustic,"
-    publishedDateTime: 2021-08-05T12:07:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-conversica-names-former-ibm-exec-terrie-banuelos-vice-/2021/08/05/9424701.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "YUBLoXb3Ti2c/SSTge1K1f+FhKSdIsdivILBys9Ki6H2KcRgML38WNhmRqx5iOPy+9ZXRDVt9jEnYuZrtcdWfrpzUsKFKXhFy/mdy/8F58V33R2xo8oH+20pIBlx65lawPQzaTBqoThb6SAJeTDda7EddGqysigSUV9lBRyyeUHBKlQR54qOFKKgmpNsNSs0OJ+sDHXQysd2wnnpvAzZC9nU0/DCqrvG2xB/9OggzwmU+5PS4oJ8BhO0vhrLD2E4S3BmkXAVOL+xT3iRc9wLjHWY37SCM9cuwmBfuXgLQZ1G6shmq+byswxxoKIYsNCu/wql5FAvIRZ4AR5sB9ZdUboU/Nb+9HNMB+1d17AqqUU=;loEbRRP496neSmhBc1C5Ag=="
 ---

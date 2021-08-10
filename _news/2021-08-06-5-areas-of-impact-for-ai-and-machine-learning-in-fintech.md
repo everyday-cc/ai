@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Vivint Smart Home to Attend Wells Fargo FinTech & Technology Services Forum"
-    excerpt: "Vivint Smart Home, Inc. (NYSE: VVNT), a leading smart home company, today announced that it will host virtual one-on-one and group meetings with investors at the Wells Fargo 6th Annual FinTech & Technology Services Forum."
-    publishedDateTime: 2021-08-05T11:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=511701"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 22
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "+0EhrDjvm0ZR2dNwrCLir2VfOGwH59Erii52nwkHSMpvn88fFlAZT2TgX6R2taTmOGu5XOm7Lex0Ez6FeoWA1r9QX1IY9x4s4WbMORoQQfUhZs4QjqX3StD7Ei2FwPvvfO+rjDIATrH5fQFs6ey8qleIbJalTD1ujlG/7j9VtY06yWQheEj6KU3Qx5TNEKSSZn2npg7tO1ggb7Cr/SCNt+33ogty4vgs5Ta3eTyv+F2sK21VeojRYqz6Xm6qSYWb43sYj/RMfU+M8HObPfrrX09S3oS5VXqBEUYjQhK7Vexd0Xl7NsP+wQ6dhDf0BI6ZRnjCKWVsc2MgS3VsmLPPPAP202Ju/kLwQgb5zX3g9eu572r6SxCD8EYtwkLPG+h/e27zRAU4qwRJIB5aWMemRg3vSPQDNz2K2RTrw4p0H5k8d6nV2nwfVldHrIS2a+whrlqoyQAL6sKlmBzEalcEuGhLN42POyd8JFAdJ7GUZvkYlcHfn1AfYb/J3J2bZZDM1m4OHRkaZWVK7LL42eYKFQ==;7AHQyq5PxCF04lMlJK5b5A=="
 ---

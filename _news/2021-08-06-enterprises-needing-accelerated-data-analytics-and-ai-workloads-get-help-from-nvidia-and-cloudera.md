@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Customer engagement analytics startup Retain.ai nabs $23M"
-    excerpt: "Retain.ai, a startup developing software that helps enterprises surface customer engagement data, raised $23 million in venture capital."
-    publishedDateTime: 2021-08-05T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/customer-engagement-analytics-startup-retain-ai-nabs-23m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/employee.computer.GettyImages-1278403699-e1626807571578.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OU Offers New Program on Data Analytics and Machine Learning"
-    excerpt: "One of your neighbors posted in Schools. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
-    publishedDateTime: 2021-08-05T13:01:00Z
-    webUrl: "https://patch.com/michigan/rochester/ou-offers-new-program-data-analytics-machine-learning"
-    ampWebUrl: "https://patch.com/michigan/rochester/amp/29750430/ou-offers-new-program-on-data-analytics-and-machine-learning"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/rochester/amp/29750430/ou-offers-new-program-on-data-analytics-and-machine-learning"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 61
-    images:
-      - url: "https://patch.com/img/cdn20/users/22836851/20210804/040837/styles/patch_image/public/machinelearning-450___04160735425.jpg?width=984"
-        width: 450
-        height: 338
-        isCached: true
   - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
     excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
     publishedDateTime: 2021-08-09T14:02:00Z
@@ -66,33 +34,33 @@ related:
       name: Dark Reading
       domain: darkreading.com
     quality: 51
-  - title: "SeaChange taps AWS to power enhanced data analytics capability"
-    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
-    publishedDateTime: 2021-08-09T14:18:00Z
-    webUrl: "https://www.lightreading.com/videomedia/seachange-taps-aws-to-power-enhanced-data-analytics-capability/d/d-id/771356"
+  - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
+    excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
+    publishedDateTime: 2021-08-09T15:55:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-moves-imaging-clinical-analytics-platforms-to-amazon-web-services-cloud"
     type: article
     provider:
-      name: Light Reading
-      domain: lightreading.com
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 48
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
+        width: 880
+        height: 587
+        isCached: true
+  - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
+    excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
+    publishedDateTime: 2021-08-09T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/ge-healthcare-inks-cloud-data-analytics-collab-with-amazon.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 39
     images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+        width: 800
         height: 600
-        isCached: true
-  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
-    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
-    publishedDateTime: 2021-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
         isCached: true
 
 secured: "IQiZdrKz20d6ZKef/yHtFvMfAXs9WQ17f14pmK6ltnIU9PPCt/xp2edGDsMQ1OvGFZaSLfRAJNVrdma+peh5AX/X96u1W17Kd6Q7njuMbVRe2tLM+g+p2J0W84WZu6HuXuyxHmAxy8YkBZp0JPTgh3xL2CybS3WxcP7td1c349oYPVp0Y/sHs0JXk2qf9PN4bVU7VRqrnT14iRNR1WCZI4Wyv4hElHDgYC+wPiR5TYxx7m19nJZN+x/yCdNOOE5npwA/UwME4McTBmWM6egY95vV2YZBdao2JlluscBr2Rk8l2kNx73g6xoNzBrOVlXjaP7OP2WKNvibmr6srPhn/nGThhhfGwehrAcLiM9KpZfiPdYwxn5HK2y4i2ZZf2elEyGRKvRuBgSKGuK2CMro7vyjWBo/X/1W+1DHLW+JSKoU9sm4Ng5kxpl+WOzCcTvJ0LSmv0EJasAnNi7NjqTiU0E7qQYvYBvFACkNAWS3oMi3EtzDXEo74wgz54POQ+L4D/3m++jYPBVUtcYFvM4voA==;xMqqPa3xaKlRT7PvBnMbTw=="

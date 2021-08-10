@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/seachange-enhances-collaborati
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: TV Technology
@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "SeaChange taps AWS to power enhanced data analytics capability"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
+    publishedDateTime: 2021-08-09T14:18:00Z
+    webUrl: "https://www.lightreading.com/videomedia/seachange-taps-aws-to-power-enhanced-data-analytics-capability/d/d-id/771356"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
+    publishedDateTime: 2021-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
   - title: "SeaChange enables fully-migrated cloud video delivery"
     excerpt: "Video delivery platform technologist SeaChange International has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced d"
     publishedDateTime: 2021-08-09T14:14:00Z
