@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology isn’t wholly accurate at reading Indian faces, find researchers"
-    excerpt: "A research paper audited four software tools and found they failed far more in identifying Indian women than Indian men."
-    publishedDateTime: 2021-08-05T06:00:00Z
-    webUrl: "https://scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    ampWebUrl: "https://amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 48
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/162310-oggrgqfjba-1627905189.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "India trials biometric boarding; new study evaluates facial recognition accuracy for Indian faces"
     excerpt: "Six Indian airports are trialing facial recognition for biometric boarding. A new study evaluates facial recognition accuracy on Indian faces."
     publishedDateTime: 2021-08-06T19:16:00Z

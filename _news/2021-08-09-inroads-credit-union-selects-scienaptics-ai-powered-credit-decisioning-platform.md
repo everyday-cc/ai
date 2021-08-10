@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Castle Biosciences Presents Data on DecisionDx®-Melanoma and DecisionDx®-SCC at the DERM2021 NP/PA CME Conference"
-    excerpt: "Castle Biosciences, Inc. (Nasdaq: CSTL), a dermatologic diagnostics company providing personalized genomic information to inform treatment decisions, today announced data presentations on two of its skin cancer gene expression profile tests at the DEF (Dermatology Education Foundation) Essential Resource Meeting (DERM2021) NP/PA (Nurse Practitioner/Physician Assistant) CME Conference,"
-    publishedDateTime: 2021-08-05T06:00:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210805005214/castle-biosciences-presents-data-on-decisiondx-melanoma-and-decisiondx-scc-at-the-derm2021-nppa-cme-conference"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
-
 secured: "QEpGzLkNv4qEfDwsE9F06ji09qcNjOdXnLfAuq/YwHKremU9HLpVceZch4rshsUXqEJbGrdNTt0Cb76CI0RDCzmbIcgZNzzoqjcnUij9RgDtt5Bgc9M/0unFTsEW0uglg/eDn59/KUODyiHs0juxPrW5uExG6x8AB1hbI6ABx5sis/XW6So6LCNgyjuVbMkqcS8vpi8/vnsTaug9GZp07U9Vb2cIMEUmuUyJnzWXgJj65qsZ8h3d3sJl4sxIN7sBVV8GYA4Jz1aALWR4Y8+6tdro5u2GvLXijZMcV+q4j0pGKjfAYsq/OxghromtdwMZFynBxsdwQaIa0nojAPYvcIDtR3fXdMJPOaYc80zZKiI=;E7ZJyFnQUFGlisLLn+097w=="
 ---
 

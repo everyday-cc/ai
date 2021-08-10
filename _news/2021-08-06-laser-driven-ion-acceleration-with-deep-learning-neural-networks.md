@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-lea
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 777
     height: 466
     isCached: true
-
-related:
-  - title: "Successful IoT adoption requires iteration, learning"
-    excerpt: "Control Engineering - Learning Objectives Integrating Internet of Things (IoT) components into products and processes will increase operational efficiency and create"
-    publishedDateTime: 2021-08-05T05:03:00Z
-    webUrl: "https://www.controleng.com/articles/successful-iot-adoption-requires-iteration-learning/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 26
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/08/CTL2108_MAG2_IMG_Prescient_Fig3-Slider.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "BGU2YhfkpfD48it0Q+jM2rSSHfWH1XnsKiVHx9J0EwNaJIeJmAJ2Uy9WPw/V19fJGP5oK3owxuSzC7tyfgM/CJdSsCCR9BpwNkf0Zb6JpiqmFl16wl27zcV72XziPgflKtY1URZojD5yviLBbEn5QTanhBado4LaBkiF31ySzgActK31moPvAJkLkwUJht5KFFGB5caNcZUAn8cSw/Jloib4CS96UIXLueMhJ97EDUuZ49Yv/ihG/T2Kx/NIGvoLlrSYzOGaBVzPgYHv1Hv2UhuB91OyFHPYpDmdvVIkKAVUikyc9kdr/I72of7TD4cF4te8CRfFX+zJdnwsSVCvObNW94fuGsQA3njsz6iXLZxZ1j9zhIYCs1aIR4jKFOkjDKRmnCOL5AUhSIXabJPgotzemlMvCLCBnZ9SpR8RwPyzcfI59NqINmFYrm1VGjr2Tjmkql+GSCI2U4MwVWhZB3EJfsrlvJYnIn3uUSA5fBW+4FJrvoNLEXcutQ3Pf6RVJg+tvU+emJlsqb2DFhMQ2Q==;mP4SoquOn+H8PPyRD0GFOw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/india-trials-biometric-boar
 webUrl: "https://www.biometricupdate.com/202108/india-trials-biometric-boarding-new-study-evaluates-facial-recognition-accuracy-for-indian-faces"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology isn’t wholly accurate at reading Indian faces, find researchers"
-    excerpt: "A research paper audited four software tools and found they failed far more in identifying Indian women than Indian men."
-    publishedDateTime: 2021-08-05T06:00:00Z
-    webUrl: "https://scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    ampWebUrl: "https://amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/magazine/1001836/facial-recognition-technology-isnt-wholly-accurate-at-reading-indian-faces-find-researchers"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 48
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/162310-oggrgqfjba-1627905189.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Josh collaborates with D-ID to bring facial animation tech to India’s short-video app users"
     excerpt: "Milestone partnership marks the most powerful use yet of AI and synthetic media by a short-video app BENGALURU, India and TEL AVIV, Israel, Aug. 6, 2021 /PRNewswire/ -- India’s fastest growing and most-engaged short-video app,"
     publishedDateTime: 2021-08-06T11:02:00Z

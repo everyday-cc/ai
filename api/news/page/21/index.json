@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-22-ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year.md",
+      "title": "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year",
+      "excerpt": "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
+      "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
+      "publishedDateTime": "2021-07-21T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-ai-image-recognition-market-to-see-huge-growth-by-2026.md",
+      "title": "AI Image Recognition Market to See Huge Growth by 2026",
+      "excerpt": "The latest study released on the Global AI Image Recognition Market by AMA Research evaluates market size, trend,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-to-see-huge-growth-by-2026-2021-07-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-self-driving-cars-faq-how-far-away-is-far-away.md",
+      "title": "Self-Driving Cars FAQ: How Far Away Is Far Away?",
+      "excerpt": "Who wouldn't want to just press a button, have the steering wheel and pedals stowed, and let your self-driving car whisk you in cocooned comfort to your parent's house five hours away while you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/",
+      "originalUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2016/07/Autonomous-Testing-Nvidia-GPU-dense-PX-2-object-recognition-e1626879616416.jpg",
+          "width": 1360,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/amp/",
+      "publishedDateTime": "2021-07-21T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-intuit-expanded-userbase-with-ai-assistants-and-virtual-human-experts.md",
       "title": "Intuit expanded userbase with AI assistants and virtual human experts",
       "excerpt": "CTO Marianna Tessel explains how Intuit combined AI assistants with virtual human experts and grew the TurboTax Live customer base 70%.",
@@ -1037,134 +1184,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-gadget-of-the-week-translation-in-your-ear.md",
-      "title": "Gadget of the Week: Translation in your ear",
-      "excerpt": "Translation devices are heading for the science fiction dream, but are they there yet? ARTHUR GOLDSTUCK tests the TimeKettle",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/gadget-of-the-week-translation-in-your-ear/",
-      "originalUrl": "https://gadget.co.za/gadget-of-the-week-translation-in-your-ear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-aws-announces-the-general-availability-of-amazon-healthlake.md",
-      "title": "AWS Announces the General Availability of Amazon HealthLake",
-      "excerpt": "AWS announced the general availability of Amazon HealthLake, a fully-managed, HIPAA-eligible service. With the service, healthcare providers, health insurance-, and pharmaceutical companies can securely store,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
-      "originalUrl": "https://www.infoq.com/news/2021/07/aws-amazon-healthlake-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/07/aws-amazon-healthlake-ga/en/headerimage/header+%286%29-1626678272811.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-dnsfilter-nabs-30m-to-fight-dns-threats-with-ai.md",
-      "title": "DNSFilter nabs $30M to fight DNS threats with AI",
-      "excerpt": "DNSFilter, a company applying AI to DNS security and analysis, has raised $30 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1171615768-1-e1619463823181.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/21/dnsfilter-nabs-30m-to-fight-dns-threats-with-ai/amp/",
-      "publishedDateTime": "2021-07-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -25,22 +25,6 @@ images:
     height: 470
     isCached: true
 
-related:
-  - title: "EU FRA report explores AI use & implications for fundamental rights to inform regulation efforts"
-    excerpt: "Artificial intelligence and fundamental rights - Summary\", 29 January 2021. Artificial intelligence (AI) is increasingly used in the private and public sectors, affecting daily life. ... [C]oncerns about AI’s fundamental rights impact are clearly mounting,"
-    publishedDateTime: 2021-08-05T06:49:00Z
-    webUrl: "https://www.business-humanrights.org/de/neuste-meldungen/eu-agency-for-fundamental-rights-publishes-report-to-inform-policymaking-regulating-ai-tools-to-comply-with-human-rights/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 26
-    images:
-      - url: "https://media.business-humanrights.org/media/images/eu_4_n0Seljb.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "qb33dT1+ncEXLj4SM0a15Fahtc5r0h5qaWXa0DHrDg9vEDYZScEBsuE5ICMTSvkmbKnaNJUv99xEEfiU0rP9u207FK3AV0lc2V6fZsKidoG2sAvWhHRzBQVY/xwjKGepE1QGjkRtcXdrBUCKqceiXY21ulcuF43EzOyxGDMuuGs7wJSPzvGx+TzrXJF8QaV9GK3U8LY7lSni8lyDhMudM8vuq/n+gGpOIAFVwTAo2WNH7lM8QYzVDchQUjmyYlD3CAUcD0G2wE2o/jyIRPDOTOmAlGQRkBSLiXmh8zy4iUr1nEVhUbq5q3Ml2y2sUswjUoZy2iFsmqvMUexEhmhF+i/ncf29ILEfgntgqMTKUco=;w+mjbK9M/bbKB2oaOgxBLw=="
+secured: "7Q1jjE+xG6rFg7PqrUk/R6MWGnk5qj6A2s82M6gRa4vLW8FRyfmlUxECCBVQ3RRvcRxLS/x6tIb3Uv9qUjbjTwr3Vt2nileumMIdhp7fEfD3cn54TEoUYrZ1ZUg3XtGhS0gkwbU/p0qiLoW0Zv7rwV+XWa+2MPc5cueIVtVYKYOF8+wGEXIuRYkKUMfr+L5hZFRSxmz7FeTIuFx1NfJ/h+MXMW7yE5Q1Vy2fMq/Q2cmJ86tiE/hjEudtiZbM1IqW9Ij+qCBNyGNRqg3ATu0zdXSTkEovwv8W0Dt3qeIVL0ypYe+zY/LD4vlCXBgI2cwZqFNraJuC/BsxSNZq+lCdQ/fxPFB2tiLR9nJTvBCECEppffueu2LGyxIbhOjghIfPSoKEFsslUwegj3361e7yVdOEqZD52U7PL7pZZWRNsICpCZMfaeTXYp2WUC1nKSPxGVyQX3qi1WCWy6hX+1L2lYutVX/Vz//gmun0Rg3ZIq4/ZZ5pEl4sGk+0cBqDibp+7yjFQ+EGTK1Suunek9wZOw==;P1mj5rUNUn0t8b7GdWJuSg=="
 ---
 

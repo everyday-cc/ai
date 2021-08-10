@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processi
 webUrl: "https://www.zdnet.com/video/the-value-of-natural-language-processing-it-makes-ai-more-human-centric/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "Responsible AI: Putting humans at the centre of artificial intelligence"
-    excerpt: "Organisations need to adopt basic principles for responsible artificial intelligence to gain competitive advantage; they must also design systems that can effectively deal with biases"
-    publishedDateTime: 2021-08-05T06:23:00Z
-    webUrl: "https://www.forbesindia.com/article/take-one-big-story-of-the-day/responsible-ai-putting-humans-at-the-centre-of-artificial-intelligence/69601/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 54
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165067_responsibleai.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "gGZMZsDqkXVmTYdzqxeIeOJaR3Xj9HiGho/TyrYL7ewMw1Y3Mmb7Tm8AG0eb1ZYU9hZ/VEyKU2O/JFd37hbGlPLXk3hkUQysLB8YwUPWX9wYFdSLPCM7tOCyhHC6WQLOsVYAuTnqIaRTJM0BzkEqZm/mvdLovMyjXxqtQEuzxF98e/0fEPXLIU+ewkd4MXtldWkfBsIr8oYO7vTKDjv01G3WlHP4QsQdCldoeuaLQpCxNo7YtzN3Hp0PrIjhnaAcZSRDBVXvZUPlf8Ja0SLIEb+2qL8qV+vEH/JniNb9IK12ky6yZV/+Xt+OR1/vDpCnMxMAVRlUUhNxQiVSghroFVS2YMPXtmlrkv+kjSNIGM/TRoXyQbAW3FeB2iprBnrFqnl7SnAHYezhzbUSx/MJuEPHcMEh5adn86voCRXOqEr1MrRT9Me0ccgeIwyywq4tFTtJvCEJMVUhN5x3QjNFmGh1392IjnqGmwi/fl5zJUpUQadLWwdGo6Okx0y3VyMpR/7x0kyMt30XlFEyyDAVxw==;GcOnIGof61lNZhRPIXI40w=="
 ---

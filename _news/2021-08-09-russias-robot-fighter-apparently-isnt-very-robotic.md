@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fight
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

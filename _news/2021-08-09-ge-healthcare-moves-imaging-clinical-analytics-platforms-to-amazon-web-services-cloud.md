@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
+    excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
+    publishedDateTime: 2021-08-09T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/ge-healthcare-inks-cloud-data-analytics-collab-with-amazon.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
     excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
     publishedDateTime: 2021-08-09T17:19:00Z
