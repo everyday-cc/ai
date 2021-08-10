@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-tha
 webUrl: "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pull US AI Research Out of China"
+    excerpt: "International scientific collaboration is a great thing, but not when it is fueling a despotic superpower’s oppression at home and belligerence abroad."
+    publishedDateTime: 2021-08-10T11:00:00Z
+    webUrl: "https://www.defenseone.com/ideas/2021/08/pull-us-ai-research-out-china/184359/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 37
+    images:
+      - url: "https://cdn.defenseone.com/media/img/cd/2021/08/06/GettyImages_1169749687/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Chinese tech firm iFLYTEK breaks down language barriers with its smart solutions"
     excerpt: "PRNewswire/ -- iFLYTEK, a China -based publicly-listed company specializing in intelligent speech and artificial intelligence (AI) technologies has recently gone viral in Japan with its smart translator and recorder products."
     publishedDateTime: 2021-08-09T08:37:00Z

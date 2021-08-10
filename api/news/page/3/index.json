@@ -2,6 +2,288 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-08-roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball.md",
+      "title": "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball",
+      "excerpt": "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U.",
+      "sourceUrl": null,
+      "webUrl": "https://lileicc.github.io/",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball/ar-AAN4bxY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T00:50:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "github.io/",
+        "domain": "github.io/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-systems-of-systems-the-next-big-step-for-edge-ai.md",
+      "title": "Systems of systems: The next big step for edge AI",
+      "excerpt": "A system of systems connects an enterprise’s multiple, purpose-dedicated systems using a single common language.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
+      "originalUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-135456171.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/07/systems-of-systems-the-next-big-step-for-edge-ai/amp/",
+      "publishedDateTime": "2021-08-07T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-facebooks-droidlet-ai-could-take-speech-recognition-to-a-whole-new-level.md",
+      "title": "Facebook’s ‘droidlet’ A.I. could take speech recognition to a whole new level",
+      "excerpt": "Today's natural language recognition systems -- like Siri and Alexa -- are still somewhat limited in what they can understand. Facebook thinks it can do better",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "originalUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp",
+      "publishedDateTime": "2021-08-07T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-ai-wrote-better-phishing-emails-than-humans-in-a-recent-test.md",
+      "title": "AI Wrote Better Phishing Emails Than Humans in a Recent Test",
+      "excerpt": "This time, it's phishing emails. In a small study, researchers found that they could use the deep learning language model GPT-3, along with other AI-as-a-service platforms, to significantly lower the barrier to entry for crafting spearphishing campaigns at a massive scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "originalUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/610d82e6d901275be20b8455/master/pass/sec_email_GettyImages-1157081287.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-phishing-emails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-phishing-emails/amp",
+      "publishedDateTime": "2021-08-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.md",
+      "title": "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful",
+      "excerpt": "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-85120431,imgsize-233149,width-800,height-434,overlay-etcio/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "publishedDateTime": "2021-08-06T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
+      "title": "Pilot on the AI-driven ‘financial back office’",
+      "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-593344-e1628104244395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "publishedDateTime": "2021-08-06T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
       "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
@@ -871,7 +1153,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -906,210 +1188,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
-      "title": "Google is developing a new superintelligent AI but ethical questions remain",
-      "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
+      "path": "_news/2021-08-06-dubai-to-host-intl-conference-on-automation-and-robotics-in-construction.md",
+      "title": "Dubai to Host Int'l Conference on Automation and Robotics in Construction",
+      "excerpt": "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction",
       "sourceUrl": null,
-      "webUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
+      "webUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
+      "originalUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "publishedDateTime": "2021-08-06T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow.md",
-      "title": "Dutch startup hub Utrecht emerges from Amsterdam’s shadow",
-      "excerpt": "While Amsterdam garners the lion’s share of attention in the Netherlands tech ecosystem, the not-so-far-away region around Utrecht has its fair share of tech startups and investors, as is evidenced by our latest survey of locals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
-      "originalUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1176088657.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
-      "publishedDateTime": "2021-08-05T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
-      "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
-      "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
-      "originalUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Maximum-Ion-Energy-Function-Laser-Pulse-Duration-777x466.jpg",
-          "width": 777,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/laser-driven-ion-acceleration-with-deep-learning-neural-networks/amp/",
-      "publishedDateTime": "2021-08-05T23:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-fintech-startup-zeni-raises-34-million-from-elevation-capital-others.md",
-      "title": "Fintech startup Zeni raises $34 million from Elevation Capital, others",
-      "excerpt": "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "publishedDateTime": "2021-08-05T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
-      "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
-      "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "originalUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg",
+          "width": 800,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1119,11 +1212,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T22:05:00-07:00",
+      "publishedDateTime": "2021-08-06T01:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
+        "name": "News",
+        "domain": "ftnnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1133,102 +1226,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-12-billion-valuation.md",
-      "title": "AI-Based Sales Tool Provider Mindtickle Turns Unicorn at $1.2 Billion Valuation",
-      "excerpt": "AI-based sales tool provider Mindtickle turns Unicorn at $1.2 bn valuation following a $128 million funding from Softbank Corp",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Unicorn-Rising-300x250.jpeg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
-      "publishedDateTime": "2021-08-05T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-chinese-smart-city-to-put-ai-in-charge.md",
-      "title": "Chinese smart city to put AI in charge",
-      "excerpt": "A world of fresh thinking. Leading tech experts warn about the future that's being created with unregulated artificial intelligence. The Elamites attached great spiritual importance to mountains. How many people can a 1km long church host? How a court case revealed the shocking way the US government was still manipulating residential segregation. How Putin 'dreamed of being the Russian version of James Bond'. How one of the most haunting images found among cave paintings was created The African-British slave trade history was not only about slaves but the golden wealth of Africa. Warm temperatures are turning almost all green turtles' offspring into females, risking their extinction. Rising sea levels are having a dramatic effect on local communities at the Solomon Islands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits",
-      "originalUrl": "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/1376x774/p09rfz6s.jpg",
-          "width": 1376,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

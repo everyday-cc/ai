@@ -43,34 +43,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Facial recognition plans for millions of Indian examination candidates"
-    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
-    publishedDateTime: 2021-08-05T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "A republic and Indigenous recognition"
-    excerpt: "With minimal changes to the Constitution, Australia can become a republic and recognise the truth that our indigenous peoples were the first occupants of this land. The time for us to become a republic is long overdue."
-    publishedDateTime: 2021-08-05T18:53:00Z
-    webUrl: "https://johnmenadue.com/a-republic-and-indigenous-recognition/"
-    type: article
-    provider:
-      name: johnmenadue.com
-      domain: johnmenadue.com
-    quality: 24
-    images:
-      - url: "https://johnmenadue.com/wp-content/uploads/2021/07/04DBD2E1-0AB9-4A39-98E7-213A3AC746A4.jpeg"
-        width: 1500
-        height: 1125
-        isCached: true
   - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
     excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
     publishedDateTime: 2021-08-10T05:09:00Z

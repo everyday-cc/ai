@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1410414"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,35 +21,33 @@ topics:
   - AI Hardware
 
 related:
-  - title: "The Integration of AI, Machine Learning and Modern Threat Management"
-    excerpt: "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,"
-    publishedDateTime: 2021-08-05T18:10:00Z
-    webUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734"
-    ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
+  - title: "AI Must Be Accessible To All For Organizations To Benefit"
+    excerpt: "Democratizing AI development across the enterprise ensures that vision AI products move swiftly out of R&D and become force multipliers for organizations."
+    publishedDateTime: 2021-08-06T12:00:00Z
+    webUrl: "https://news.crunchbase.com/news/ai-must-be-accessible-to-all-for-organizations-to-benefit/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg"
-        width: 1910
-        height: 748
-        isCached: true
-  - title: "Use of Artificial Intelligence and Machine Learning in NASA"
-    excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
-    publishedDateTime: 2021-08-05T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-and-machine-learning-in-nasa/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
+      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/neurotech.gif"
         width: 900
-        height: 500
+        height: 541
+        isCached: true
+  - title: "ZIM readies AI solutions for its shipping operations"
+    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
+    publishedDateTime: 2021-08-10T05:54:00Z
+    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
+        width: 900
+        height: 537
         isCached: true
   - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
     excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."

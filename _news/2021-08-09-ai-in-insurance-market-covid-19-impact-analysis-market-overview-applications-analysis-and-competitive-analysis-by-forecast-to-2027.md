@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
+    excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
+    publishedDateTime: 2021-08-10T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    ampWebUrl: "https://www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810167263_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
     publishedDateTime: 2021-08-10T06:41:00Z

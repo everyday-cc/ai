@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "SeaChange enables enhanced data analytics with AWS"
+    excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
+    publishedDateTime: 2021-08-10T10:24:00Z
+    webUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws"
+    ampWebUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/08/seachange.jpeg"
+        width: 1862
+        height: 1125
+        isCached: true
   - title: "SeaChange enables migrated cloud video delivery platform with AWS"
     excerpt: "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform."
     publishedDateTime: 2021-08-10T07:26:00Z
@@ -57,15 +73,43 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
-    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
-    publishedDateTime: 2021-08-09T17:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
+  - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
+    excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
+    publishedDateTime: 2021-08-09T14:02:00Z
+    webUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 51
+  - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
+    excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
+    publishedDateTime: 2021-08-09T15:55:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-moves-imaging-clinical-analytics-platforms-to-amazon-web-services-cloud"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 48
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
+        width: 880
+        height: 587
+        isCached: true
+  - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
+    excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
+    publishedDateTime: 2021-08-09T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/ge-healthcare-inks-cloud-data-analytics-collab-with-amazon.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
     publishedDateTime: 2021-08-09T12:00:00Z

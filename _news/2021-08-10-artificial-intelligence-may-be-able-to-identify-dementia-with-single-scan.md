@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1200
     height: 619
     isCached: true
-
-related:
-  - title: "Artificial Intelligence may diagnose dementia in a day"
-    excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-    publishedDateTime: 2021-08-10T08:12:00Z
-    webUrl: "https://www.daily-sun.com/post/569792/Artificial-Intelligence-may-diagnose-dementia-in-a-day"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/569792"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/569792"
-    type: article
-    provider:
-      name: Daily Sun
-      domain: daily-sun.com
-    quality: 57
-    images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/08/10/thumbnails/dementia.jpg"
-        width: 420
-        height: 236
-        isCached: true
 
 secured: "7nipdP8vrofzA0AK3mvzoJr4EP4HhhungQDHBkJ6XoLQfalvk6NNNVoBM0GRXOaCjuRXU7vz2UbKJB2/dNI1X+uOxdm/VB7hQ6NpOIDknqBek9S/nDRE1gT1epFQPHhUie24mE4jGZRbjGlsyCemn65uFzRC67P4lKOFsJzZTqot8NhdSkiAE1hftrTXa8VupCZ+rcc7Puuv5eF5iQ72/aYx7uVjbxaH5ktJCuyiEY96HRqhpDePgYlbLKki5vOuvpr21Q3l2jWxYReDEtZXSTtKm6UX4LegkbLQAj9rhJGXHM1xwZIdZOXu2aDA+ivjyxmHoXjWx5ZMzWR85uq9p9IfI2dJstklNW53f47WDRY=;peOxgJQhXjZxRhgMtkhOEQ=="
 ---

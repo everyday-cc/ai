@@ -7,8 +7,8 @@ originalUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-
 webUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Dark Reading
@@ -20,6 +20,54 @@ topics:
   - AI in Security
 
 related:
+  - title: "SeaChange enables enhanced data analytics with AWS"
+    excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
+    publishedDateTime: 2021-08-10T10:24:00Z
+    webUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws"
+    ampWebUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/08/seachange.jpeg"
+        width: 1862
+        height: 1125
+        isCached: true
+  - title: "SeaChange enables migrated cloud video delivery platform with AWS"
+    excerpt: "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform."
+    publishedDateTime: 2021-08-10T07:26:00Z
+    webUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png"
+        width: 415
+        height: 251
+        isCached: true
+  - title: "SeaChange Enhances Collaboration With AWS"
+    excerpt: "SeaChange and AWS have collaborated since 2016. SeaChange will now leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement and improve customer business outcomes,"
+    publishedDateTime: 2021-08-09T20:47:00Z
+    webUrl: "https://www.tvtechnology.com/news/seachange-enhances-collaboration-with-aws"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/9dfbXezXjpiLADQDtzQmB7-1200-80.png"
+        width: 1200
+        height: 725
+        isCached: true
   - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
     excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
     publishedDateTime: 2021-08-09T15:55:00Z
@@ -33,6 +81,20 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
         width: 880
         height: 587
+        isCached: true
+  - title: "SeaChange taps AWS to power enhanced data analytics capability"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
+    publishedDateTime: 2021-08-09T14:18:00Z
+    webUrl: "https://www.lightreading.com/videomedia/seachange-taps-aws-to-power-enhanced-data-analytics-capability/d/d-id/771356"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
     excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
@@ -48,20 +110,29 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Enterprises Needing Accelerated Data Analytics and AI Workloads Get Help from Nvidia and Cloudera"
-    excerpt: "Nvidia and Cloudera unveiled a new partnership effort to bring together Nvidia GPUs, Apache Spark and the Cloudera Data Platform to help"
-    publishedDateTime: 2021-08-05T19:57:00Z
-    webUrl: "https://www.datanami.com/2021/08/05/enterprises-needing-accelerated-data-analytics-and-ai-workloads-get-help-from-nvidia-and-cloudera/"
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
+    publishedDateTime: 2021-08-09T12:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 26
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/GPU_shutterstock_mmaxer.jpg"
-        width: 1000
-        height: 750
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
+  - title: "SeaChange enables fully-migrated cloud video delivery"
+    excerpt: "Video delivery platform technologist SeaChange International has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced d"
+    publishedDateTime: 2021-08-09T14:14:00Z
+    webUrl: "https://advanced-television.com/2021/08/09/seachange-enables-fully-migrated-cloud-video-delivery/"
+    type: article
+    provider:
+      name: Advanced Television
+      domain: advanced-television.com
+    quality: 4
 
 secured: "SeW6Iutk2oZ4bgyLqThhM4ZE4skWeTJ6J+vTBfcjCgrosEyBgCtYxyYcJoJ+GbY321rPGIqVUvhuAbUyrHKAqG8DCvfjGuKZLb+wXteWhaRQDvDNuJknMQY6uthEtweTigyk7N6cXR5B3/RY6CQIcEDNiVGJOEq1XMjTUxP05hdGHrQWqfifzIc3Nm2jiQ0PwKZSiYVgtA87l6KoDyOFgeqJk/h59ZGdzKYcRfwWtOOKMWNn/Iyn5Qsds0Fz+sMotAFSpXB2aFxDDkcdUj1HhAEe4ajhRo/1CyOlVQUZSo7ZEvCR0vZ+DfGvST5q90r3+TFUxDgOsyX+lCfdQlibM9tHIFxiNVX0gzrXyRsjUb8=;W8Mhipir/oHVHOnkdTbVjw=="
 ---

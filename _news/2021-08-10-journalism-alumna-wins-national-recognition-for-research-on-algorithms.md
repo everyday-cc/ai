@@ -57,34 +57,6 @@ related:
         width: 754
         height: 424
         isCached: true
-  - title: "Facial recognition plans for millions of Indian examination candidates"
-    excerpt: "The screening is intended to detect impersonation and would require iris and fingerprint verification as well as facial recognition."
-    publishedDateTime: 2021-08-05T17:14:00Z
-    webUrl: "https://www.biometricupdate.com/202108/facial-recognition-plans-for-millions-of-indian-examination-candidates"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "A republic and Indigenous recognition"
-    excerpt: "With minimal changes to the Constitution, Australia can become a republic and recognise the truth that our indigenous peoples were the first occupants of this land. The time for us to become a republic is long overdue."
-    publishedDateTime: 2021-08-05T18:53:00Z
-    webUrl: "https://johnmenadue.com/a-republic-and-indigenous-recognition/"
-    type: article
-    provider:
-      name: johnmenadue.com
-      domain: johnmenadue.com
-    quality: 24
-    images:
-      - url: "https://johnmenadue.com/wp-content/uploads/2021/07/04DBD2E1-0AB9-4A39-98E7-213A3AC746A4.jpeg"
-        width: 1500
-        height: 1125
-        isCached: true
 
 secured: "xbLDz35EFT/1AqHd4jXlQ8kAR05pjm+WL486jJ/k9UWf6jjGbwspz7HfmfmfvOgD246ONny68il1LnCAjknCnGbHIt6l2ARq42mmB9fAZmgGFuj+xvU8cuPCBIDsi9GvTI44lyG9SbQZ2qd/FxGwUDD+NOhNngd5NPzhv3au/4XsDdMW+ZhlSacZ33kTZ86iYUENnPMr34Bzejpq4D2Japho5WO8fX0SM4QVk9U7qqy2MehT54VlWu0Vs23V0rX05UE6p5zWGOAMf+6+6zW5DSTWHQHwDMH7kPyqgKJvmaXRe1A+NqCymSxTExfbyeVwOcLz84JRmTJQBXSO5OHSnVbvFa+q0TX4kYPcfrZ+CRM=;p/55RGFo2VhLNnV4JuCjyQ=="
 ---

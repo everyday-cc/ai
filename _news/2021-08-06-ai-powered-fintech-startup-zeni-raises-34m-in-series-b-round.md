@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Zeni receives $34M in funding for AI bookkeeping"
-    excerpt: "The latest round of funding comes on top of the $13.5 million that the Palo Alto, California-based company announced in March from venture capital firms and angel investors ( see story ). The Series B funding was led by Elevation Capital,"
-    publishedDateTime: 2021-08-05T18:25:00Z
-    webUrl: "https://www.accountingtoday.com/news/zeni-receives-34m-in-funding-for-ai-bookkeeping-and-accounting"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/99444f1/2147483647/strip/true/crop/749x393+0+40/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F61%2F55%2Fd577612e443cbdfef81ff407cc37%2Fsnehal-and-swapnil-shinde.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gmjzUg+tiqNZtkxOljF0VQfw4+48ERQ7mfb5cpxEN/4qVWeaKv0ufL7Se/jqwsb07PzlIjFK1PHtJNGTzcq+NxVVJXsh2Tp4gpHu40YxGvkGq9a3X1XFBWW2H75juRtGZvEIOZr3RmaZO12sf0Q0qxiVEzVRXRTTBkQHoDQBpCIHEOlRsrNNBptFoagJ20yLnWcc5LYi63Kd+Rwvnu/dF1R+/1abuJjYRDWsCGx3m4cNDPty0j3nX798gvHu/1vdjm3le7Iyc56APRJsgHHfCJyjs6R56WPhTcOtwjzGBeallv4xB0/wP+wikNNGC4oSZUq4Z7aQD3sHUFnY+VU/wlVSgFDKAPZN66GLLf7ufIiduJ4Kx93EU3b+rn0hRvVAD2oVAuOVyqQP9RXSz3hRD1Qy8SOvPxRdO1zkB1jcGiy7mv+N4dq4eH+4LgYagIR6uXOmtebbgXgJhLQU0BzEyacqP5AdohPJun8HfI62fC9SvjJAoNMzQ6m1eDyl/iGGhpNWVR6xdrCi0RhlbwL+hQ==;+zJLz8K0uBZqC51kaXtjog=="
 ---

@@ -20,36 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "The Integration of AI, Machine Learning and Modern Threat Management"
-    excerpt: "Cyber threats are evolving at an unprecedented rate, as COVID continues to open doors for a more organized cohort of bad actors. For George Nastasi, Associate Partner, Threat Management, Cloud & Cognitive Software,"
-    publishedDateTime: 2021-08-05T18:10:00Z
-    webUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734"
-    ampWebUrl: "https://www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/the-integration-of-ai-machine-learning-and-modern-threat-management/456734?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/maplesec-satellite-2021-feature.jpg"
-        width: 1910
-        height: 748
-        isCached: true
-  - title: "Use of Artificial Intelligence and Machine Learning in NASA"
-    excerpt: "Space research directly or indirectly depends on AI and ML for leveraging SpaceTech and NASA has been one such organization which never failed to use AI and ML to the fullest."
-    publishedDateTime: 2021-08-05T19:30:00Z
-    webUrl: "https://www.analyticsinsight.net/use-of-artificial-intelligence-and-machine-learning-in-nasa/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 58
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Use-of-AI-and-Machine-Learning-in-NASA.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
     excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
     publishedDateTime: 2021-08-06T00:43:00Z
@@ -61,6 +31,34 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "AI Must Be Accessible To All For Organizations To Benefit"
+    excerpt: "Democratizing AI development across the enterprise ensures that vision AI products move swiftly out of R&D and become force multipliers for organizations."
+    publishedDateTime: 2021-08-06T12:00:00Z
+    webUrl: "https://news.crunchbase.com/news/ai-must-be-accessible-to-all-for-organizations-to-benefit/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 37
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/2017/09/neurotech.gif"
+        width: 900
+        height: 541
+        isCached: true
+  - title: "ZIM readies AI solutions for its shipping operations"
+    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
+    publishedDateTime: 2021-08-10T05:54:00Z
+    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
+    type: article
+    provider:
+      name: Splash 247
+      domain: splash247.com
+    quality: 37
+    images:
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
+        width: 900
+        height: 537
+        isCached: true
 
 secured: "bj2HqNqV+rnqTByJjwxEayatSJBOKShCLlJ0It+XC44jB/XVq/qwa6jbMup6Kzkv+FxR7GAcEjVrK70UoxudGqyrjmxmAWx8NQmYAt2XAJe6nQcLFx0rXg4c9OlogtfpuEzJaqbFlkqdHiiv/Ub0DIEGNmHmeuQ3R0jBdXIkho4IyC/Ia4D3VYkBRNI2LNOp9U4hEXFvc5lE5Di0A6kkz1iv+hLuuqIfTqyXWuR/4YtcLRcyfVM9omwkKokm/gSewlf1Q214ulrexNJz+sfhT31Y+TATCo1IRKkGeoVYpFNWJ2d+x9U/+ttca8mIG73WDP3pYAUPMmdeK5hEtxqzgrAge7hdmBqs/5DYBlM6AoJRsvSkCxLX8xLyTCAd6ZsCr7SbmYr1lc+3q2Vt4mpowjSsityqU3WDrFfhzvqX7AEKh8AjeshYxrga0X16NxLr5FoPZyU9XGUn/I09MzgIpH2njwFd//QqRWWhgbFNysEND2D9wtvvVHkhCKWOr5lEcloHKsb77XMVlvpyyJgx1Q==;p1IpgQ2oEmlqI0skAGxsBA=="
 ---

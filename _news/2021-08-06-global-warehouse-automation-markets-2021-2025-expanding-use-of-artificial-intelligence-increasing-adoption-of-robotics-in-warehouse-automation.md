@@ -55,6 +55,22 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
+    excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
+    publishedDateTime: 2021-08-10T10:44:00Z
+    webUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/"
+    ampWebUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
+    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: the-sun.com
+    quality: 50
+    images:
+      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Are AI-Powered Robots the Future of Healthy Fast Food Models?"
     excerpt: "It's no secret that convenience and monetary confinements often tend to overcome nutritional value when it comes to our to-go food choices. Blendid, a robotic food automation solution with commercial contracts and strategic investment under its belt from global brands,"
     publishedDateTime: 2021-08-07T08:41:00Z

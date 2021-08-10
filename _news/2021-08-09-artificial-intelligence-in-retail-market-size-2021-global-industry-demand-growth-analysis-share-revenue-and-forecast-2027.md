@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
+    excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
+    publishedDateTime: 2021-08-10T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    ampWebUrl: "https://www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810167263_g.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
     excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."

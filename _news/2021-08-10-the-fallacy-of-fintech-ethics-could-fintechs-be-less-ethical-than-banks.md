@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
     excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
     publishedDateTime: 2021-08-09T07:32:00Z

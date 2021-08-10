@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Arrival to co-develop its EV open-data platform alongside Microsoft"
-    excerpt: "Arrival announced plans to co-develop a cloud-based data platform with Microsoft to enable data management for future electric fleets."
-    publishedDateTime: 2021-08-05T18:51:00Z
-    webUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/"
-    ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
+  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
+    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
+    publishedDateTime: 2021-08-10T11:01:00Z
+    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
+    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Arrival-Van-Binary-Code.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "Microsoft announces new ransomware detection features for Azure"
     excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
@@ -107,6 +107,22 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10450/img-Unsplash_Markus-Spiske_basketball_web.jpg"
         width: 940
         height: 443
+        isCached: true
+  - title: "Amazon Updates Video Segment Detection Software"
+    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
+    publishedDateTime: 2021-08-09T15:31:00Z
+    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 44
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"

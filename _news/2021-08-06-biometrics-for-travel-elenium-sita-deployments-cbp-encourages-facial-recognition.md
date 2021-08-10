@@ -24,22 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Researchers develop anti-spoofing techniques for iris biometric recognition"
-    excerpt: "The scientists said they will continue their collaboration to improve the anti-spoofing capabilities of their iris recognition algorithms further."
-    publishedDateTime: 2021-08-06T19:54:00Z
-    webUrl: "https://www.biometricupdate.com/202108/researchers-develop-anti-spoofing-techniques-for-iris-biometric-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
-        width: 1720
-        height: 1032
-        isCached: true
-
 secured: "DODwgYEGonFVeDVv8pKlw4k36IrfrupEpFDO2uy2babr3dwi5+X26x/ygAWnkeDmBJsQFSQupeLSU1rxtTNcPHJgXfHxdxRLIolvaNKxHvWxjLT9M7XuSApPcKyH0Jkx/N+G4fZXDEvb708ciI3eDl+0mMciztS54ZDbsREDqaxbbHyBYqsZCMNtn/2jLwF16Cky/LfTZ6Me15TyC3hkrhsqGYtEJ19/aUl5Z1ut+RpCC8O17FrQlc25FpFLKiKNxR4Bpw+BJ0nWfE58r2Txxwb25MowSvOeKrRzOt7uWEVTiqmnTaKWOZzhA9h8/cp+4FDeuOn/NLJsmXN8q+s0bEPldina4xXQC8pY9QYtIUzNynilgo6dIpNPS6/BB+eoAcLYRAcjw81bVUsJdWYpxElT+N6wPaXi1zhE2LmqBTNSgUjkXOuJWbNHVnxlCLGKucOxqZHc+UvZKJyHzluUwDltDj8PMIoJDkmkCHEPnVjPn838KDiXdQcOpTOjo2rE2beys/yvuZGEKlG7yliB8w==;Ko0l5hYnTdCDYcm6WR9JhA=="
 ---
 

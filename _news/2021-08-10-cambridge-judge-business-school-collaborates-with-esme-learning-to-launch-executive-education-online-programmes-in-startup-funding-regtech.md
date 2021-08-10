@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20210810005292/en/Cambridge
 webUrl: "https://www.businesswire.com/news/home/20210810005292/en/Cambridge-Judge-Business-School-Collaborates-With-Esme-Learning-to-Launch-Executive-Education-Online-Programmes-in-Startup-Funding-RegTech"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
   - AI in Education
 
-secured: "zRB6eWqq4uK7CGW9sv4LscUch7vUasIFSzvBD9SkczZmR1ScVsa6U4KAGSes+BTMbOs5pTgblAEjQzpquKXBs0vc72qSgKiH8NsRV90SiM4V7i3ctvdi2xMFrw6eQSpAsrJqUhNjwrYYtNR83E65eDSggfKBUHM/9QSi1NSRhOd7FXu3btirr6yikMTl1AmXIImwjINY0jtf0NMMZzesM5D/MdYrvhoXe4hSwXeYqTXpXx4WW9wj9Jg/NZmAOa3Pd4kIVDpDxGYhRgYK2iWi0PqVTab4VgyLVCQrVulkuQYXaTzHQ0P22qMk24sn+JfljnXmv5zHANl40QrwZFSBhZ4a7yjpOYejHpVScM++qNhew8Wro3/uRm/gfVuZz+b90BXTUrL7mA71WrlPz8X9cYu6bEfHObUn1m2wvEf9eYhwDL36+UqdWaQ7GKlmKBZJH7hVIuEq7cQB/b1xCQJ3x2r7MAuaEvrZ/z4+qsNycotym7MHtXggSrvmE0R1K1J1hLE6MRrlKfqCDtg6oc7KsQ==;zy4vLFCv5eH+UsveF8l9hA=="
+related:
+  - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
+    excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
+    publishedDateTime: 2021-08-10T10:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88866/cambridge-judge-business-school-opens-courses-for-startup-funding-and-regtech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
+secured: "a41+sQdUxRDCl5cL65JULUEZkeJaLTT1eseMWkBhvCFCbmbXHL+9vcm26IXer7+cUZhpqeSehvpyp79bRi/SDIPeJ7LNTWcPXjS/ykJIx+HfK95TpAQdbXUBjs7llG8gV4vAzVUBn/dvoMVsIQP3CKNwNoqpSP2dvUS/ZUjnHO3uFDCaV6X7/cdxoj6hse9OUX+ksrRUwWG5x/sPsPa9NpfhSL+LKyR5lGsauu34qIh45BvxKRyIO4pwCwJ8ou93sg+pQf7yTsPW3UHT4R3+nvjAlgoXZbut26565aXIrgS7TSLzdutr95dW3g9bW3gSQ0ZvN7gm6A3eSRsg4xIGQ/zqVvQSLlZZSOFPpPtps6nK+s4A8feCXvpShfY+OKxgCxYBdSeoklaw8vtJgx789kEXNHpg+Z5LMs4useNAnpfnbjXokxzh6UPbCPqmtMZQqjd6i5QwA2XnFEBBUYE4jvBOh9kTmiaYea2F77pPrt8zIfkelePE3caDPfHIrH9XB0XZlZ7FOVUfcDwbAIFWpw==;MCGlMgIFobqY4aZ0mR3f8A=="
 ---
 

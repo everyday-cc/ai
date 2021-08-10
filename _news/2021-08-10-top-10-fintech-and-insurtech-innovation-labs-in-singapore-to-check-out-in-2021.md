@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 1003
         isCached: true
-  - title: "5 Areas of Impact for AI and Machine Learning in FinTech"
-    excerpt: "Artificial Intelligence has taken the universe of tech by storm. FinTech organizations are using AI and machine learning to automate a variety of their internal processes, as well as boost their bottom line."
-    publishedDateTime: 2021-08-05T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-areas-of-impact-for-ai-and-machine-learning-in-fintech/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/AI-and-Machine-Learning-In-FinTech.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
     excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
     publishedDateTime: 2021-08-09T07:32:00Z
@@ -100,6 +86,6 @@ related:
         height: 628
         isCached: true
 
-secured: "e7D37Ei9MAC5DcNv/BD71m/PdyilkQ7MuI8XnVofBsYSdMddCm6rNJcjcm1I68KZDSAV3jTt0poXjGBRtI124IFhluuhcC6dFJllZ0IVikwtRtB8e6fHjenj2tt5JhM2Yh3x1lsCmrdujuKqZg6lULgqp4OCRRg+pRUBnDdhrYou2kH1n59R9gb0rBVmIqeZKqEeGTPHDeSfiWVGLTO/AK8yBdmVGWKo3MoWvw3IYiEtQtUhZqCXvscFDxiqrZil0NzvIgNJ5l6UESU+YX17UJvtZzBu1wz/X4J9CcW1VYn7Z3cQF3SONABVKpa57uhD1TDhLWhDMy6cYVecOiZe+j5LCNWbj5UAuT1sCWKPiPk=;4iWnV+CuvdaBLzKG39R4aQ=="
+secured: "L3CQ0CamGQL6hdgCIMmJ9d/WPFq3yR3Ox+FkEzfaPST5uYhisy0pMxSHknw9dC4Dp1rVUhwM7xfN40T8G7gF0UmJLGUU8axox7f1DHqqqt3wPb8RabRy1QdA7XRIbB/vZ/t06wn/49NtDp37I6ko1EAkCOorPAXTcVjYrUl57Oc73W0ZXNMOCG1mFwC3jwvv5cBYwnpP4+4WRo4abD3rxF51U8DooRjfFIMpOvtEaKOGP0Dxods6+1+HSpR2k4wNmcmDxujJQ8yUPvFdERFqh9E/GQVDfNz2r87GY9hizjh17wdxxvxYQ5VIzky07niNSR5QC0tP6eUvXhWpEnCp9kmq86J4abynt9QyG7KoaBq7thQOl5OwHGNrE38qDoH/MIQBKmgi0KB9+kDMk0CM+en5ixvB9pJNxXhvfpA/4R3lWTDnllls4CH2qal+gIgeaRmDri37IpVhkZKdutjFAHwKtXeWgNrh0phU5x2tby87c2QLOi5pinUAg7YiQ03/XMdAZHprn7ACWLWTwUxIgw==;Uex4VOOQYljGcotAR/F37w=="
 ---
 

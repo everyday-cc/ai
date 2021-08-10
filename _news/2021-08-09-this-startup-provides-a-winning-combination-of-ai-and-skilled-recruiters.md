@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/379671"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379671"
 type: article
 quality: 86
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Startup Is Trailblazing Industrial AI Sphere"
+    excerpt: "DeTect Technologies is innovating and providing highly sophisticated and advanced yet easy-to-understand AI solutions"
+    publishedDateTime: 2021-08-10T11:50:00Z
+    webUrl: "https://www.entrepreneur.com/article/379825"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/379825"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379825"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1628596224-WhatsAppImage2021-08-10at51908PMv1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "How Artificial Intelligence is revolutionizing the startup industry"
     excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
     publishedDateTime: 2021-08-06T11:27:00Z
