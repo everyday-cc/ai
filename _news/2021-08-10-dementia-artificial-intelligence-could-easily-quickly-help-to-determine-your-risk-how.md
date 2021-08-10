@@ -45,19 +45,19 @@ related:
         isCached: true
   - title: "Artificial Intelligence may diagnose dementia in a day"
     excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-    publishedDateTime: 2021-08-10T08:12:00Z
-    webUrl: "https://www.daily-sun.com/post/569792/Artificial-Intelligence-may-diagnose-dementia-in-a-day"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/569792"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/569792"
+    publishedDateTime: 2021-08-10T04:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/08/10/thumbnails/dementia.jpg"
-        width: 420
-        height: 236
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "6qUuMxur4GdZwbgwp8urUJEe4R/rflYVMFJkFCCwSGxBKUNzKFMuTanCirC1JbzPVSHZIWhWYVkBuk4cR7C/W6154jWn9gv4HeC4NfWwbZ+wGdBn8n8huvcMedVZxE+m4w88AT7CXNsVXgkrmsmyv7scTMbeXmYMhOhg4hfh0FPSWiJMhsPJOq2XJp6oW2cz3JAOE4URKDKcpLmQ3/cnIZg7yFtRSZAXySwBvBU39aypdi73L6CzDhX1Kf820gMKt2UzISkRaqYsK3s6hORPdgUO7Y7YTF+Cy4MIlMJbsl7XJ63uqCs0J4znyqITdnEwd/meSwpGtptIKUkAZtEzFgsV0cABWvB3geWilyReiiTgiqshlE1CqRyLjWa41fdhkztsfajVVFgRCgI348PV/h4nSsiqSZBsJMSn4zaJqexCgWEw9AcYpdU/H0W5Xa5ZoZ23sWVD5pVlvuaIF4S5ZK1zI7WKIn1imawTGPO9nEK89KbwapVAZz3MOH6h7Dr0ly0jolecRO5ddn3N2AtcLw==;cTUJ2m0pkAu83R3jJ72xaQ=="

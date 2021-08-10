@@ -78,23 +78,12 @@ related:
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920
         height: 1044
         isCached: true
-  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
-    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
-    publishedDateTime: 2021-08-06T00:43:00Z
-    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
-    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
     excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
     publishedDateTime: 2021-08-07T10:30:00Z
@@ -138,6 +127,6 @@ related:
         height: 537
         isCached: true
 
-secured: "tMU4S1H0a9XX//JqEjnPROvVNpcI59+k6jSgeRPw0m40sAJ4NMHC7yQ169xbbvSK5c9E5YBanIi/AbsGvA55P7T1UUWvOXesQ25F9ew0nFJwyLbAFI9D0X2AJXgJ6Vat/EEbxDhD16wVQBwAzMb9zHN1by3Tkfb7fdrwwKYfjQMvqDy6df4TCSpKDQqmEl/zbVWmv605zHX3l7gxqdeKCsBCkJAZymU4qtLkunaxTs1QoZ50aU9xvK0+1Wn30dqXZihU37v+IvViLMQhojcs0yjeyFGIyYRe1wRdrc5Earpgk5YitU4YPaN2zIHf3KO5KqCmJ37tcsNAosjXDi11lwMsNmNUUc8VqfhtEe170ZQ=;kyD9/WzQm147XESfRzZzxw=="
+secured: "v8FPKxB5k7QSxdag47Btl4V9c7Qjs1T/wEkgaCNXaOEqNQ2dDUSCFELai2h4S5mpEfNDAxZl5bjYaLszmmhQZBXkTuLYqDyGQ+WmGN/WtLiD/Z5pmy+FyGrbph2foohwRqx9DkUyjVjjOlNSFOnwFRwPKtVtOygMwXy/t8CGhO/Kt4oLG/UMO82gvDg71+KZkb8FkUvlWTL9Y1GPzZlEz0mLCmFqyQhtYT34dj1UpzZRTGmymsdghYlEOSHcT0SpQszdSq13xJEmQy4K/f+KCaYBEHn07mZHYwWljcig87jpYkjppgJi2RcvpfOGI9Z6BjINIMSMNoPOHsxLXZ8DhPrwyfFDHBjqUzWTBbb6ODH1wLHY6DuyS2PU+YBdALXgnloFn3qoqgnjV8luIu0QpKOz6gpIqyhXe9V0aDIjlc/ij7YyV8srOb+YybIlFOz0+UNlo/BxbWuOj0LIsVUccIVG7hYhfwLpsM/wP/LdukINQeBL1+pjTa/ENDx7WxHMqmaqXQj5A9A/cV4JPJ3p3g==;UZjoF2E2ccDjY9iv2nKfgQ=="
 ---
 

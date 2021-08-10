@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-p
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Nvidia RTX A2000 desktop GPU launches for SFF workstations"
+    excerpt: "Compatible with SFF workstations and costing $450 Nvidia hopes its Nvidia RTX A2000 desktop GPU will bring ray tracing to the masses."
+    publishedDateTime: 2021-08-10T16:00:00Z
+    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a2000-desktop-gpu-launches-for-sff-workstations/"
+    type: article
+    provider:
+      name: AEC Magazine
+      domain: aecmag.com
+    quality: 39
+    images:
+      - url: "https://aecmag.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-5.jpg"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "csGv0Y9YjYmqGS29EDgP910XujgJTgndGlTP2YohvfHWjH34Tz36YzCdZhcexZtTZ7+jwOjFE88RLlQEhLvn4DwK9t/7v4PgORLchemT6oLBXukmTgF2wV1k2pMBhzevInEFm8A7LShimeBc3PiY8PEXCurwCutBbGmWLim35D2EoEKMWXsI62r8ZlbEiAcWm0XALo8aOQhnAb4dP0GiexEgLX1HX3OUtI7LO1qRnBXxjqrXuSFOE2EUrj1/PYl0KZdwBrYL7VYadcWSGGLCuiILQaGzPzM13QMK7hRsiak5NR5i9WuwNzueehBcMxzVuf/P0SY4Csmbl+VPDZy89fnEuwCReD6+s2vj3v6qX/ASqXasQpRmagPYp1oVX5eFWyJd8Luhat4pJ8WdGKfv8fCk/Ahi1G7V4t3inxEYJ0e9XXX6TIl47646XHWM3XyGKb8GHcJjwOctii7+ZHL9kTsDYbPZSXcWuidy2z96jKvtZ441OBesjLS2vrKM/3KmOGVBuolhIh46GkpYboPK3g==;NdGSP3/EUjJfTbgkwQ93Kw=="
 ---

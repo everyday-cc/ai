@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-08-student-urges-natural-language-f
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-student-urges-natural-language-focus.amp"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Natural language processing research: Signed languages"
+    excerpt: "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots."
+    publishedDateTime: 2021-08-10T16:30:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210809181038.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Carnegie Mellon university language technologies institute student urges natural language processing research focus on signed"
     excerpt: "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like"
     publishedDateTime: 2021-08-09T19:04:00Z

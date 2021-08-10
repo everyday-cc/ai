@@ -3,8 +3,8 @@ category: news
 title: "Elevatus is Powering the Evolution of HR Technology Through Artificial Intelligence and Experiencing a Huge Surge in Demand"
 excerpt: "Elevatus, the industry's leading AI technology provider has positioned itself as a transformational player in strategically powering the evolution of HR technology. Elevatus' momentum has led to an explosive business expansion of 335% growth 1Q 2020 versus 1Q 2021."
 publishedDateTime: 2021-08-10T06:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711781"
-webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711781"
+originalUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711779"
+webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711779"
 type: article
 quality: 21
 heat: -1
@@ -37,6 +37,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "Xnff6v8jw438WHHdoplCsWtjW7UrjVkhEcdE1UlVLr41pEtLWFSqiho8UIFIbf2vGVoR7bazTWzUoTvxus5gUrm3UIolcDzhgoKq/mjIfimDqDQ98JSUbflFO09JLw5jQwPJOD+ScE2dU2gYp97IwsAZlGLVcgczDBG8pdqJiuLW2mGSlKSrgXZl3W6mRz/43w/bmP/20GxCPWXd4U4+NERlz4OzKe4QLN3HTX8OVd2ShkmPlnhSs9ZnRiqqC2XNF2d/bUGs8re1MflPWQ+7UtTkjU6EWvMGKvnlokPQi/5WzzcYcdwOlAiStYUe4ixY/ShZpauJqEW1587/3WFk13DIOIYGDJTIEUZhy4gphTOXc98DR8FS0q96Gh4hqZo36pbJv91wGg+XV6O1hc+Q/viw9poEFecsHJD4vlzDuQ0/8W7seEl6jMwvvMv5klrjr5A2Mo6XUUFcCkfZHNK/zX/6C+KfHisHmvL1/Rk/Wk7t8/zSazgJ8T1dh9Ib2EIZ5aK4D39jhjG/YFbMHf4N4Q==;ciMW05TtBFrvSOY76N/iTA=="
+secured: "vfQWqprK4/HskTmj15oYozj2Y++mOg9ti8Xrzo6i7exx7/0kz9ppM3HoUYtNZPryULGot5nf7y9aq9IhweAN8w55jNsAAAhsGImIelkzYg806TI7A+VFAZFFnoR3nSVK7W4OGjieeUUGE0CpHExD8qpY9l+MHbUV1a79ef/iaZWmYRnKngEFjcO3S+sDLqZDUOBxrB0nNIRwUCA+wCYzQG/k3GfjHV0di7yYhqfDS/9IwBc1Ol0d2zDkzSBCkEAlH5Dhh7RgDsgTIOoSAsS+VTcpNr1caVx7NiLHO4hT+VOKSp3spd6HNZA5BBsVet9qvV2D18Qub6X8FBmlyrIxykUDtqxPAPgzbzLSYuLNHngv72Xx7f2jAth0O/Uqk39WvmSA2cw7jdwVHVGnK114OyKUefRCCfKe1mrRXhXK/3eExgdef3lBOVNY3c4w6LLLJ5OLRLX/XSzyJaIb9oQdqMv7Rvw719Rwq7XkFS4HkwA9d7Vo4pyeRPUZDp043x6Jy5om1BX998IEJ68P0M0mXw==;HfLbtAQB33fEd20IJtgOYw=="
 ---
 

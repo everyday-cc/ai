@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
+    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
+    publishedDateTime: 2021-08-10T11:01:00Z
+    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
+    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Microsoft announces new ransomware detection features for Azure"
     excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
     publishedDateTime: 2021-08-10T00:22:00Z
@@ -92,19 +108,21 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
-    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-    publishedDateTime: 2021-08-10T13:34:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/security/9196/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
+  - title: "Amazon Updates Video Segment Detection Software"
+    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
+    publishedDateTime: 2021-08-09T15:31:00Z
+    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 44
     images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/01/azureonmobile_shutterstock.jpg"
-        width: 1000
-        height: 666
+      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
@@ -134,20 +152,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Latest Azure Sentinel news"
-    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-    publishedDateTime: 2021-08-09T21:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 39
-    images:
-      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-        width: 400
-        height: 500
-        isCached: true
   - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
     excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
     publishedDateTime: 2021-08-06T09:54:00Z
@@ -161,6 +165,20 @@ related:
       - url: "https://www.businessgreen.com/api/v1/wps/0d91a8f/ae110fd2-e61f-48e1-8d54-4572e0357fd4/4/Arrival-First-Bus-shorter-street-view-370x229.png"
         width: 370
         height: 229
+        isCached: true
+  - title: "Artificial Intelligence in Oil and Gas Market Research Report 2021 – General Vision, Infosys, Microsoft, Oracle"
+    excerpt: "A2Z Market Research announces the release of the Artificial Intelligence in Oil and Gas Market research report. The global Artificial Intelligence in Oil and Gas market research is predicted to record a substantial CAGR of 12."
+    publishedDateTime: 2021-08-08T12:07:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-market-research-report-2021-general-vision-infosys-microsoft-oracle/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Artificial-Intelligence-in-Oil-and-Gas.jpg"
+        width: 604
+        height: 401
         isCached: true
 
 secured: "L0Mg575l58rjSPjhHX78bqD0x9qUoqpju5XdUJi3ZL7N5BDBmrOD+biqNMG0QkfsosXCjvouQ6KmDAVGdsNYoE99gY3mZCu5T87+XGlX0UgYT11DZAdbwYgSUT00cSkadPyEo6f02JyxCjG13DZq4eLhnGLVpDKD3Aa0v0NYu+XNAxZ5Kcks3T3J/ig/0m0qw5ENnUW1lPZjwsmzx73QgxWs1AA24W3Asoq7jc8yOuDcbMO7NIdC5ZUwoTXYwKMKglYOks9QoWv3twGrv0RySGOfryTevr6dsi1RE/D7yu6v1YJQArXGeROhiLf1h15/I8mpI8+1cH7exylo8w8TwNnCfKRz/uP1J2WxiQaI8jQ=;ea3MO+KlWl7K6RgDu/HYvg=="

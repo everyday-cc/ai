@@ -32,19 +32,19 @@ images:
 related:
   - title: "Artificial Intelligence may diagnose dementia in a day"
     excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-    publishedDateTime: 2021-08-10T08:12:00Z
-    webUrl: "https://www.daily-sun.com/post/569792/Artificial-Intelligence-may-diagnose-dementia-in-a-day"
-    ampWebUrl: "https://www.daily-sun.com/amp/post/569792"
-    cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/569792"
+    publishedDateTime: 2021-08-10T04:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
     type: article
     provider:
-      name: Daily Sun
-      domain: daily-sun.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 57
     images:
-      - url: "https://www.daily-sun.com/assets/news_images/2021/08/10/thumbnails/dementia.jpg"
-        width: 420
-        height: 236
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Dementia: Artificial intelligence could easily & quickly help to determine your risk – how"
     excerpt: "Now, artificial intelligence may be able to help combat this problem. In pre-clinical tests, artificial intelligence diagnoses has been able to determine one’s risk, years before symptoms develop, even when there are no obvious signs of damage on the brain scan."

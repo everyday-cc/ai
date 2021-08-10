@@ -2,27 +2,27 @@
 category: news
 title: "Artificial Intelligence may diagnose dementia in a day"
 excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-publishedDateTime: 2021-08-10T08:12:00Z
-originalUrl: "https://www.daily-sun.com/post/569792/Artificial-Intelligence-may-diagnose-dementia-in-a-day"
-webUrl: "https://www.daily-sun.com/post/569792/Artificial-Intelligence-may-diagnose-dementia-in-a-day"
-ampWebUrl: "https://www.daily-sun.com/amp/post/569792"
-cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/569792"
+publishedDateTime: 2021-08-10T04:28:00Z
+originalUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Daily Sun
-  domain: daily-sun.com
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - AI
 
 images:
-  - url: "https://www.daily-sun.com/assets/news_images/2021/08/10/thumbnails/dementia.jpg"
-    width: 420
-    height: 236
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -59,6 +59,6 @@ related:
         height: 350
         isCached: true
 
-secured: "Ldm9vjXRCfM8T4pA9E1wDVRosW4f04Cd8GOQwNFNRFdNS1YuDNJ6KRlKl9j1lAuOp/dXwZljM2nIv81L2vfOxnO00cqAMhJVMTtbxJQ5HOVYBElUhk/xrorN3evmwKqTx4sNPP0MhMNfUWtbHAZsZJv7ua0ePBKYLDejWaNNp6JWNeTmK4T1oTqotJ6BwaEpbTmlf4aDbTKLnKPf9YxWwIp8kAq1sgLesbyzkEgm1sQWRk5UyGDcPSyv4KXqMoaYul2Lx66A+DkL/dg2M5ylyR7CXVGVvUwsktYCuqb+VpDY1NL9IT5LypCv6NVaENeP9z7ACJceU4eR4Ba0uRpicB+UlQlxTQBHq18p5kip9vA=;H/sIrmpK3Kgqblgq3tskZQ=="
+secured: "SC5fYnPFs3EvVbVqtcwFuP61TKOQC9hbNinF+s08xJS+potR8+kkXS0WsOvmZYc2Hr2Lk+9RMcZc8cFlS63DABTFZm4CGvpsg7sDi3aG3xkDDNqdoyvxieEU0TP+dr0sjaZ0ZXr5H7euFTC3+w9C97pPF2PDtmLRUeXCE8IVeavGyMBZMJGbrGuznAxvMWr+n1Tve4grT8NXTHrGsh8OXnP0YBDwMNQG8ey6hH+/Q917RD38D7yLFYZrKaarURHL9NvSqWDXbsj66ipHLpxOpcjb6N1doylBnTWYdPEX/s8RaqdH03zmqrEA483Y87q4loMkGFDHOqUJJ67jO7xLUckMw3e7VzA2LJlMW15MKXU=;O0Jx/Dizh2jlcUJvhP5BPw=="
 ---
 

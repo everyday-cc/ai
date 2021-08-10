@@ -28,7 +28,7 @@ related:
   - title: "Elevatus is Powering the Evolution of HR Technology Through Artificial Intelligence and Experiencing a Huge Surge in Demand"
     excerpt: "Elevatus, the industry's leading AI technology provider has positioned itself as a transformational player in strategically powering the evolution of HR technology. Elevatus' momentum has led to an explosive business expansion of 335% growth 1Q 2020 versus 1Q 2021."
     publishedDateTime: 2021-08-10T06:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711781"
+    webUrl: "https://markets.businessinsider.com/news/stocks/elevatus-is-powering-the-evolution-of-hr-technology-through-artificial-intelligence-and-experiencing-a-huge-surge-in-demand-1030711779"
     type: article
     provider:
       name: Business Insider

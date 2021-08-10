@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fight
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Future Is Now: Russia Wants Its Air Force To Be Mostly Robots"
-    excerpt: "Russia has an idea: have robots do the work and run the risks. Key Point: Today’s smart bombs and artillery are astonishingly lethal. But for all their smartness, they need a pair of human eyes to tell the bombs where to hit."
-    publishedDateTime: 2021-08-05T23:40:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/future-now-russia-wants-its-air-force-be-mostly-robots-191324"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 54
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/49522403822_b4212cc530_o.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "jEvRijvihgHViv+jcoDgXkWSUiQ3nafID6bBLYh5Yy0ASBa1YQjeFbt5Ir0wwvnhjrWuCnPOoydTZUs+zZNXWtMmgTn1RZlX96ya+xsUu2iif9Dl2zEyYJieMEfxjp6dQOH40yCgW5ShaCdB7xFlIXmjk4mqP2N8qdmFY7YNBxrx8jzE5LTnSm08SzI5QXq36dybZa0fghP5OosNZ0q1rr8SK7Vk7zcv3Mk/4XjZjUETbh2Y0+9SX7XRuAPm2C7SgoMtKjw1pPinKlJIOIy2XzkhLpvKZ1PUoP3Sl5yIHGovynA3ImEzgu8v9ljsbe5D4FrauYBZYQ/8/vVXGfpdCSr5Jq/sDldWVSRoS9guAg5XF+xuIy4WCkDKutgyfMGMjeey5Elc6urxNx7IZDMKvnMJfQ6MjFxnWsZhozp3PgSmvR+K4OB5tJoCRK06P3LrlSBLRFoOqfHRQ6aW52r1K4ssSFwcjY3cVRTRgWJdhmmrfezQAPO3KP6Ik6DxEuHdCHBVsPMH6nwghIen/J3brA==;D/dSqOEA/IaVPnrIvdwIdg=="
 ---

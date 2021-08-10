@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/education/higher-ed/luddy-center-for-artificial
 ampWebUrl: "https://www.govtech.com/education/higher-ed/luddy-center-for-artificial-intelligence-to-open-this-month?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/luddy-center-for-artificial-intelligence-to-open-this-month?_amp=true"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/aad2570/2147483647/strip/true/crop/930x485+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F60%2Fdb%2Ff5534a57c4805936b0481ece5a69%2Fshutterstock-768013051.jpg"
@@ -27,6 +28,6 @@ images:
     height: 438
     isCached: true
 
-secured: "x4MVoAyqrS1PjhfH7tF2fgyRjJT2oRD31z5IhClpiIY/W/mHHm8cReIomDyTUepsV8qKhTQpDO0LgqQq4ic2pAUkf2FO4gkGkdFFCud6RELneT/K6cM8JBfP9DKV74b70E78SZA0wSFtSdgyiwU4jrV0K0UDrZ2ZdeSs23hh7saW4473QnTOECZteDvk5Jzb2g24WhmV7IMXFuCbthzS/KzSx7j3887RAGwm6XYcsOanSejWZJV47lp1Rwb78QN/OQhEV9Uh16YmuhYFjr5iIfyrOTTQxFVtxJQYnmX8bv5XyuDwk10u/5J9YqKF4TKHR4Yv7LjAE9W8EwKBydq4cghIcrAD6ycEu+XTxRE0cio=;rd1yYeP1gaQOZZc0fKccNw=="
+secured: "gjT4YngVZxwiCQ1Yn6vOD4aZ4pkWSryU52WI7NADw3QiUHTTu+cuAHWywncAiLPcWjGSag4+VTvk7VMo/YH2YQhI96MpGRB10IisfLe4n2jgmC+zIWE0mIR4H+E23oTk8uJ5HOed+cW2vBgLujgUMP1TmyHVMDEAhhwh9ztiQbu7KSbOUL9kIpcC6RX9RkX00NsKYnLlBdbqRtoNHU8KHZctlTRr3ggDvQ42frgb+K6SofTagonfUZp18W2X7H+zsfbXObZfOsiXWgf3Sxe+bwNQhAPin8fi4Wa4xh9HBi7SE9HI5KyrQFnRSCZMFuxtggRS+zv2pebE5FAYNrx5OWV7P2TawiMkhlr4FP51XuTdR7+FB8ifdVVhpdQrykYXUsF3glNkZYkHvMed17QK0U1xpZxMCyDNkWJs/Ypgv2IshkyRGcVuXNUAaOr5fcnLsxK0xlzeqYz3PCSKQcVV2ICtSJhXDZCoBJueVKJSKeAlHkUfQE10wIu2rE/QO5AbSmCmE38gWRzhYyTqJLKFbg==;AzR9rdo/CyUj8y+2KDTGqw=="
 ---
 

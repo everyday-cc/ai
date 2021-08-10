@@ -1,17 +1,19 @@
 ---
 category: news
 title: "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test"
-excerpt: "Traditionally, computer-vision systems that handle facial recognition tasks, among other functionalities, mostly dealt with unmasked faces, which allowed facial features such as the eyes ..."
-publishedDateTime: 2021-07-28T15:39:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/07/n22195558/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test"
-webUrl: "https://www.benzinga.com/pressreleases/21/07/n22195558/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test"
-ampWebUrl: "https://www.benzinga.com/amp/content/22195558"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22195558"
+excerpt: "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,"
+publishedDateTime: 2021-07-28T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
+webUrl: "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -23,6 +25,6 @@ images:
     height: 263
     isCached: true
 
-secured: "8Dj2yKLAGMZFzx9WMkj5DReuKXDrMX6cTvmTI9v+EXTGU451lPEtRilIDyyA9bcctqcPnoZpzGRVOLIbja+8FEnMtaXNqZ4XAgJjffND4TR0/7xZXevq0LbDE2pzqszag0x/Rl7QpojaXfMBVvddv5Rr2NhvjkP5KKC6iwxlKf0J4Bi8U5m48CZQTJKJn686V9jOI8503IT7+Qt85hiJsbM/gcPCJWJprkatn9zSL9SRd9yOFYhA3hOmirgKEzdjJ/d9OCD0OuNwaOHfJd69d7H0O0wpnKS6ui706zvlk+BoaMLlk+VkzgyhtWx1vqe0KT76t95mASao13wxkR4pWl0kr4z5GGkc+wuQ4Bvx2Bs=;ZRmT2v7oouvn4sAqxJJZgg=="
+secured: "ajcLMNF5isJoSv5WhBlw/bZlLyU1T2CiLlB2sxRfB34HiXOX9bu01dllrkGBVvyje6JKLugVt5oCRoSwglCWqS+oiNacJypDMdjXlv5MWm/vy+67aGjwTeLzHiFSjwDsV8C3Ii/KQHlnhHQKXXQoUIYi3dzLiZjoGHX6GB2jKWlvsb2D8j/gWz42jFBGjr3HZJtdmfkv77T3OnZlAkmkKSblrnHk486CYJwOfDvZjijvzkDB7GLWHL9EWyz8vLSeTuK8PZRmgNY/0n0QJAvbPT6ctFACzVcxkT8WXYh8cYPjulQaax+//rmG4eewlRUApkom74hJRIEtY9zR4XZlL8m8sM0U8q3AO/gZUgxtyLo=;CuoVZZOst95lHEOJPBbOHw=="
 ---
 

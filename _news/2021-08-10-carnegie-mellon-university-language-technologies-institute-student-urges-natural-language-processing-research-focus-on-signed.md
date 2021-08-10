@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Natural language processing research: Signed languages"
+    excerpt: "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots."
+    publishedDateTime: 2021-08-10T16:30:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210809181038.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "aYY0ze2z4iDBtX5IuLpidwWjC04yEacDioprRD03LunPQIOFlmO6rPFBq6Stg5oQBaCkjhBSnLSnK7/v3QeIdfbiH7mColgv15pMhIkhAMenEocpic+JF3XFDoiRVT0uRGMld+KiT5SHXkD2/xg/zT2WNLgWMh/wbSsX4AkIacPsSjPB/YOnTcLZgbA2oTQBPD+oEO0MVnHa7vc2z+BBZ0tx6J4imsORfdJzPgGugfQJWshP7CkY9JHFySGuFPrHYIsyoNswmjGI5WcRQZ134lvNP7vzSnP/Gxm1btUnMBvgKq/cfMf2cy0yXDlNxFMyDOrqYPNTztunEeFmjqdksp8LehNFUUFek4VM8IdH4WI=;kgiWXxO9f9BBgO6f8aICsw=="
 ---

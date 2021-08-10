@@ -39,6 +39,22 @@ related:
         width: 754
         height: 648
         isCached: true
+  - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
+    excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
+    publishedDateTime: 2021-08-10T17:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
     excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."
     publishedDateTime: 2021-08-10T13:29:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-10T13:58:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -84,17 +85,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "2 Wins For AI-Made Inventions May Be Just The Beginning"
-    excerpt: "An Australian federal judge and South Africa's patent office last week cleared a path for inventions developed by artificial intelligence to gain patent protection, moves that experts say may start to chip away at longstanding requirements in the U."
-    publishedDateTime: 2021-08-06T00:43:00Z
-    webUrl: "https://www.law360.com/articles/1410414/2-wins-for-ai-made-inventions-may-be-just-the-beginning"
-    ampWebUrl: "https://www.law360.com/amp/articles/1410414"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1410414"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
   - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
     excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
     publishedDateTime: 2021-08-07T10:30:00Z
@@ -138,6 +128,6 @@ related:
         height: 537
         isCached: true
 
-secured: "uOz+jy4W6PB8CcKzOg3+L6JfQxATqIzepqgsPZi+XWtaNmjPZ775/X4vAHPXcsSy301KkR2NF8Z4egvl+ivpeklDdKmPQPjcWeHKJjXNHv3Z6H8uCQrDS6eiyJs5JffyhQfN1oKqNlcTpnHSaaOtzRa1tgpC/SYi0nML5DtDn3cXLRJpNShUWBtHqbgBFto3IuyLqCOdiAKr2WAygo8JGNNfApYMlnmZTvQLZ7N1KsZHm/BDBzNpMVilm7i3gI1EAOBrwW3QvFcllwfvGZCRITYM2eBUTylxPTs6YBF8MOj555Lvj1d0IWXE3+kwMnfXtT7OM2QEyyocuPPgi0xcYvuphHMlE9HoTek+DM/qN9s=;P9MQm6v7FuxcbdlGdxp4JQ=="
+secured: "pdZpN0iNXdP/gEzIjT48oNMu0PHkP8whHIH7n08ZxzZos4Ta6bNd03FLcCXJmPmD6MOwtSfH6Ea3e6YP8Knd33S3LYMjTqOiXkBsrRq71YIZsDafPNgMAAC6B7QpxB7V7Zrl37381VkRkqRR7qEA72do2D433tXqyEwzc2V5J0ku9VY7El09qYnVXap+FPWHGpsVeE7NQRJIeL6D0Oiuyn7ih9FmsglvDK/7g5b9gRQFY+pSbWicfV98Q5Tr5hZTN3arbh8WKvcVdv4xgn/BU9AWsBULQ9dZ+85eQigclUl3qK4PBV3qfvapyoS/svmi1pCOIAxf942C1dUgohYkjQzPC245jChlGfP0vDSUyolUhdiSbQ8I4qvYS+qNDXzcQAq0D9BU4ym7KnOVTunR7oH1L4PwsReI3JDdZ4U1qxxFSlOstyqTPk0ZoY+4hmFQ4srg/80p8Lfdxq1P2wJlwuarEqnu7HICx1jWRkKyv/b2TcA8F4HOBpKD+V4bXqnBxEC8Siyl8GCSkJyuELjriA==;pDX4viu837KIOcx17I8USw=="
 ---
 
