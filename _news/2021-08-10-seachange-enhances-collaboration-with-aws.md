@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/seachange-enhances-collaborati
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TV Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "SeaChange enables migrated cloud video delivery platform with AWS"
+    excerpt: "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform."
+    publishedDateTime: 2021-08-10T07:26:00Z
+    webUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png"
+        width: 415
+        height: 251
+        isCached: true
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z
@@ -41,6 +57,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
+    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
+    publishedDateTime: 2021-08-09T17:19:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
     publishedDateTime: 2021-08-09T12:00:00Z

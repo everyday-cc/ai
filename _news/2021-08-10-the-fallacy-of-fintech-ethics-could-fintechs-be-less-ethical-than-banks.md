@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
+    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
+    publishedDateTime: 2021-08-10T08:45:00Z
+    webUrl: "https://fintechnews.sg/54204/fintech/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+        width: 2048
+        height: 1136
         isCached: true
 
 secured: "IIHUeJ/bBqYgDoPEmwMoKgFs+OO9tMa/YoqMThg62xFBnB9/Ra5ucFzrZ1Mo5Rsr/ghaQfqaiJOUb3iqBrgZjxYKZ1MeBtixg5gEirfTPPyG5HhhFRnTNtMP/zAxyrLDfHfZsa+am9yBpufzloW0rDJENNS2p8FNpWF1jmbPCfE7jPGYANjFDRUsiS8qSuBFbC8PV2sQhNJdKS4KWwbPnj62L6xCNg0S7rKCV+kleHkCiujQnjtl/hf7hH++hDjgpo5RxNJdUbw/QF+Jj59ZCZa9/BaTBVMmjIHPb2sTBKr24dg0sS6sMewlut5WcKMoDz40MnrtVPwQFm9qe8uP76Absr9E5rUk5eR8W39gjjQ=;cZcilC1smtquJ9Wg/o/uqQ=="

@@ -3,12 +3,9 @@ category: news
 title: "Indonesian verification platform for fintech set to graduate from Y Combinator"
 excerpt: "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients."
 publishedDateTime: 2021-08-05T09:46:00Z
-originalUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782"
-webUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782"
+originalUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator"
+webUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
   name: Techinasia
@@ -22,17 +19,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Indonesian verification platform for fintech set to graduate from Y Combinator"
-    excerpt: "Fintech firms and digital banks currently face similar challenges ... and Williem, who has a doctorate in AI and computer science. The company builds digital infrastructure and provides a range of services such as face and text recognition, WhatsApp ..."
-    publishedDateTime: 2021-08-06T04:27:00Z
-    webUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-699965"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 30
-
-secured: "f2ud9AXM+YmiDPaD2QdXPtcW623t71yIVhcJAZ1fGtjyTtxbgSJtGblq45TDQnhyfoE8udrqAbpv/WeGF8atXbI+so/hX0A/dSZsdug8+DcwPeoQZNNCB5f9H+R78gwPO01kx4FH1Ae/Xq+DsPQqzctdBCeg5OKRgWfd+HXnl6zZOn4+WDuizWv5h6UlFjI58m51HeST9xHjk+PfUEpV+qa/AEoB2+LohBU45Rk6FCTouflM64vYO9IJkKkQBrOp3b/SNeNVxoT3hR2Kv/5mzkAx44a2Whsulna6gHcV4KN8Zqt/2r+ZWYju960ogjVB4ycODxtE2R4HAzBIP5/CltAcH8pHv+78998Ozy7xPLBNjNk3Zsw/wPNC4hU5SLp0W2E7diKQi6BTCKYJdKPvP7JOgfPE8cJTt4Qyl2dn1120Ei/Any6KD1WSiFth6CzehWctJwpHW6FUckMWz+3UvZyLF6aa2bfNVuMtqXDCbYwcGdGKZ908PoK0pryF15t8paRVFgWt/m2ZvJNAl+SrSw==;NTs9e/o8o6grnlRDbkyUUw=="
+secured: "3/k70lUeZHG90bdOaxTFVF4ERCNRAZE7ygd9tPO2I5pTQaddZbAnpS0DMx/EnvIZq3cCNt6nWk+PeLmvPZYSVoAMyY3o1ukv/qsG4cI4VWVuMBMpz2iqBX1MLIazMWE8Dof+gQ2Nj89AiO2tSiL5Fsub5Zv0Ec277ki6oDkC94pcFzsPs0wPhlSSNKi0vxwLYE3neJvMKnlncS/ydAkJj5Smp5MsmSevNi4YSQBYLSRvTpaT9sViGgQbfZMROzrnhj8EvlWBourIjWl48fHj1vqoF91Vko6YCAD14GygDcIOvoHTNNTpD03tvi6bqjUI+eZ3I4TWl/lZWz0yHz4FThxMwtEF2wtwdf+GkMZJRVPg2r59ZmroTRdcdL+e7gCr7l9ZV+XZAyqzG3zEHeKxyGviLAIwKeBtsv/wyhmC6EkYENvDWK+wD0BKlOKMd6fmols7/kla0ppUe+rwCKCnO0/lrPg1TAg0R7fV4RHX9EaahSqvU0r6gXUxfh5+iAfMqJS+MR2e9qeqjf1KHpHI8Q==;bQf3bPwtKb2doaqe0gzNmA=="
 ---
 

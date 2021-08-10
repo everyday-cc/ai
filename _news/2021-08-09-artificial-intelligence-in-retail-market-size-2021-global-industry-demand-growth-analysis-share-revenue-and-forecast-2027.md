@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
 type: article
 quality: 55
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-08-05T16:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
   - title: "Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
     excerpt: "Pages Report] Check for Discount on Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Energy-efficient Artificial Intelligence Chip market report provides"
     publishedDateTime: 2021-08-09T12:10:00Z

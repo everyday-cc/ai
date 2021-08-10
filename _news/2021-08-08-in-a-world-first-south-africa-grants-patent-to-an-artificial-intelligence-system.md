@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "South Africa grants world's first patent to an AI system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That’s because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS ("
+    publishedDateTime: 2021-08-10T09:15:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/218817.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2108/623025.jpg"
+        width: 800
+        height: 665
+        isCached: true
   - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
     excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
     publishedDateTime: 2021-08-06T08:44:00Z

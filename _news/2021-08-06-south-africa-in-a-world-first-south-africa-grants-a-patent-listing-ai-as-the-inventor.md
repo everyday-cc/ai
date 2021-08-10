@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "South Africa grants world's first patent to an AI system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That’s because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS ("
+    publishedDateTime: 2021-08-10T09:15:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/218817.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2108/623025.jpg"
+        width: 800
+        height: 665
+        isCached: true
 
 secured: "nPTdRM74nOYCDkZA/mVfZ5q0ntqiJpDsrcKJbLlYABEBAcvXFWsK4zISlixredRPGKd0Zaz6o4S9uW/5g++aIxHILSBXS6vbeWvWO7bd7CYsJD7KHTQm8Fjio93q7lMfiCKkCGXiIs9FkIEksTqpYKfWESuYfyOAqHsK+f+eYlg/x+i0r8AVo3ngHsTJj75HtTUW612mW+vjoraVxuLe0rQfdL1lYzs5W5/WWYOS1pfyFNu64y0hc3xlK6DcsjgOWvpPu48Ex/QvO7doA4a6oo9ScZ8Sd00mh9/5u2eZECxqXjB+26GWGSSoyuBJsB7AGX4XTvIMSdYCOkZ6mbhZU0mx18JvIIdBKwiVphFnjaAlylpppxYyEuAGeOfmFFNR/UQLgzlGFLfaG8BT54vFDUTti71Cyv+tJaqNEPnBfhOOuaozA0YJNAMuPjVvbtxX0OfbEzBvBav7RxfyGXF9qjePO6bXMN6hQSUgYR+PrvxzJXcCCFZrkJZ6rpKVP4jmQ2mnuDfdCLDjlRoMbuDubw==;vfSeXHXWMjne4TglsaAiHQ=="
 ---

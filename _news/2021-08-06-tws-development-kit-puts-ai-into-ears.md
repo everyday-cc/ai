@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Knowles Releases AI-Enabled TWS Development Kit with Premium Features"
-    excerpt: "Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones and speakers, audio processing, and precisi"
-    publishedDateTime: 2021-08-05T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210805005140/en/Knowles-Releases-AI-Enabled-TWS-Development-Kit-with-Premium-Features"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-
 secured: "68H23IcVB1TA1mNtohqzLWLFJbzOj2oa8CpSOxj1RqqPCsD+L7L0oQVHsZsZhPrgvYmSTv0EHrmIAiY2EEMzWJ41Wy4d4icwurD2Dh1CEhPN9SN/ierO4834/b1GhyQe018Qq0X6JGYxnhYvD1MaqRHGbcz6BhI+c1QaRxVzLIbKAP8HtCg+Tz3h1UO6b5aRNGKAjEyZJiZYLHxR0xsrIsv8sicJDHTaCtndgL6olzdPNi3qFMpXDQ4PXNEVA2CuQY7tqUPC+6iDS9VzHf4a39T1BwRjfveoqSlsqmpOz2Zgsfwb6JKPsMR0lW6xrzQLpl27zhO0s9Ukbl7QhZ+q/R9yWdd6+m9eZCl1Q8P4sRQEoIDYUigD5vtKGMO8AP7/e7ANzHCkM2JjpkWasjigPexJPdQ2417enfaRrUJn+xv89Igc1KxsLGC/vdylyGlzA2237MiY9HYItxZsWihv7ySW7PAVEkyII+EIeq18H3Pzk7ph839vOIo7/wzqKFwauB1047HmLEaDtRMPbxpOsQ==;QlOPu7071mcmomshNiOlWg=="
 ---
 

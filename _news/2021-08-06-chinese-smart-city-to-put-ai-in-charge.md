@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-tha
 webUrl: "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Need to change careers? This AI tool can help"
-    excerpt: "Car manufacturing workers, long haul airline pilots, coal workers, shop assistants—many employees are forced to undertake the difficult and sometimes distressing challenge of finding a new occupation quickly due to technological and economic change,"
-    publishedDateTime: 2021-08-05T16:42:00Z
-    webUrl: "https://phys.org/news/2021-08-careers-ai-tool.html"
-    ampWebUrl: "https://phys.org/news/2021-08-careers-ai-tool.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-careers-ai-tool.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/need-to-change-careers.jpg"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Chinese tech firm iFLYTEK breaks down language barriers with its smart solutions"
     excerpt: "PRNewswire/ -- iFLYTEK, a China -based publicly-listed company specializing in intelligent speech and artificial intelligence (AI) technologies has recently gone viral in Japan with its smart translator and recorder products."
     publishedDateTime: 2021-08-09T08:37:00Z

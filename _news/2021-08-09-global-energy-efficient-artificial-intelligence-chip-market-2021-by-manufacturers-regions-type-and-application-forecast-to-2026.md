@@ -72,15 +72,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Artificial Intelligence in Law Market Will Boast Developments in Global Industry by 2021-2026"
-    excerpt: "Advance Market Analytics published a new research publication on “Artificial Intelligence in Law Market Insights, to 2026” with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2021-08-05T16:03:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-law-market-will-boast-developments-in-global-industry-by-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 8
 
 secured: "IkdVyXKONCJyH2UTOJdOL9coPIzRqD5oE7NkBw5/93R6XReWnVG/Q3GK//o1j9RjXb87qFJFe/wYi3RkKJCyB5mj1h3+AmDNirzyE1uAu4U5C8OKjUhwayeHd3tPmjBzoviHGLFVIqdhcNtTzzoI2iHGYUoWdNQ35wdjAubBlIC2yCe0gv7WTBnlQWKXG/+ncJk6yCsvDahbF8pjVDkd9+dYbojV5M0dXYoVE2rSX0sO8QqriXqcjc/WrP1v6ha61jfdT5J1rO1sXcugbOsE/ytVW/hbcfvKcDuwcjvkemaBH4ogDr+0CVQXmUU6GxYV07A6sMW7QTWqJuN7ZGNfeSvlSnQonAy7dNeG/DI10tI=;4qhp6KG8n8a7yncDyM6IbQ=="
 ---

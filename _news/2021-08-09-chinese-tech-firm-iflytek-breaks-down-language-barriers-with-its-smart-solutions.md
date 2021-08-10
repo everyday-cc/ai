@@ -33,22 +33,6 @@ related:
         width: 1376
         height: 774
         isCached: true
-  - title: "Need to change careers? This AI tool can help"
-    excerpt: "Car manufacturing workers, long haul airline pilots, coal workers, shop assistants—many employees are forced to undertake the difficult and sometimes distressing challenge of finding a new occupation quickly due to technological and economic change,"
-    publishedDateTime: 2021-08-05T16:42:00Z
-    webUrl: "https://phys.org/news/2021-08-careers-ai-tool.html"
-    ampWebUrl: "https://phys.org/news/2021-08-careers-ai-tool.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-careers-ai-tool.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/need-to-change-careers.jpg"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "FYqA19EYJoahd0cz//+ezylgQy9zyQob1C577Tl3f6QnO3UHpKYHwHPS/y9DXVlbdWQkGqfJRhh4YJZYnoK3CdUd9Z7RgdkOD2GJ3+KRvpLnBtxzgmZur6e+s9ywW9f33DRmqjYWlOHtuZqF6+ThN+C6VfaVKX3NigpzwhbNe5t59MWXWjZZQvDmRUDpXhsIgOrxPkLEjtaUdbvLcB+Oo3OTN0Q3yRGaT75Nf6KUL9NFSdna8VkqcR1Y6sS4Z/ymfFfHLwWxTVV6cxxtEHOInx+CIpmzNPHunIe0JxQNQHjRK7fTAWEGotH6oYqf2E3+0HE7C6CzLie6+vcNikdhzHET35m9iSolBtUHTUfz7g3xc11monf9JAurqLk5kJKIsxSqlAsvZKH4WRidImgucBtOQ3FNRrCemZvcCilYDjauhGCeJlLORX2ET/72S14WR4GxscJ/4aUW4wJGowntCQyxOhfhdrj93ttyR3QsGawTXN+j64Cd1M0RilQHqy3Qw2a8QT64IZ4H8OSIUl+n6Q==;IibBPiRZJYgjwgWBOZ4cVQ=="
 ---

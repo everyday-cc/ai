@@ -2,6 +2,100 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-06-11-german-bundestag-passes-new-law-on-supply-chain-ethics.md",
+      "title": "German Bundestag passes new law on supply chain ethics",
+      "excerpt": "The law will require German companies to report human rights or environmental abuses by suppliers. Supporters say it is a milestone, rights groups say it falls short.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "originalUrl": "https://www.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dw.com/static/stills/images/vdt/2021/beng210611_005_qwilieferweb_01g.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "cdnAmpWebUrl": "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/german-bundestag-passes-new-law-on-supply-chain-ethics/a-57855174",
+      "publishedDateTime": "2021-06-11T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deutsche Welle",
+        "domain": "dw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-three-challenges-ai-saas-startups-must-overcome.md",
+      "title": "Three Challenges AI SaaS Startups Must Overcome",
+      "excerpt": "The number of AI startups that offer unique business solutions is growing exponentially. A popular practice among these startups is to develop their algorithms or models by training them on the data from open sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2271c30081d6b6b1d53b8%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/11/three-challenges-ai-saas-startups-must-overcome/amp/",
+      "publishedDateTime": "2021-06-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-vehicle-speech-recognition-system-market-to-see-thriving-worldwide-apple-mercedes-benz-microsoft.md",
       "title": "Vehicle Speech Recognition System Market to See Thriving Worldwide | Apple, Mercedes-Benz, Microsoft",
       "excerpt": "Advance Market Analytics published a new research publication on Vehicle Speech Recognition System Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
@@ -1087,101 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-googles-artificial-intelligence-is-designing-computer-chips-in-under-six-hours-something-humans-take-months-to-do.md",
-      "title": "Google's artificial intelligence is designing computer chips in under SIX HOURS - something humans take MONTHS to do",
-      "excerpt": "This means driverless cars or intelligent robots ... DeepMind's Shane Legg said in a recent interview. He singled out artificial intelligence, or AI, as the 'number one risk for this century'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9674057/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9674057/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/06/10/21/44075945-0-image-a-118_1623356414008.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9674057/amp/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9674057/amp/Googles-new-artificial-intelligence-designing-computer-chips-six-hours.html",
-      "publishedDateTime": "2021-06-10T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-what-400-flawed-healthcare-ai-models-can-teach-us.md",
-      "title": "What 400 Flawed Healthcare AI Models Can Teach Us",
-      "excerpt": "The hundreds of flaws in AI models built to help tackle COVID-19 could be viewed merely as a consequence of fast-moving efforts to stop a crisis. Yet, academics calling out these flaws want you to hear their alarm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/",
-      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c26e57a58d5be44c3e7f65%2F0x0.jpg",
-          "width": 1199,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/06/10/what-400-flawed-healthcare-ai-models-can-teach-us/amp/",
-      "publishedDateTime": "2021-06-10T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,111 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-23-all-symbols-in-tensorflow-recommenders.md",
+      "title": "All symbols in TensorFlow Recommenders",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Falta la información que necesito\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/recommenders/api_docs/python/tfrs/all_symbols?hl=es-419&skip_cache=true",
+      "originalUrl": "https://www.tensorflow.org/recommenders/api_docs/python/tfrs/all_symbols?hl=es-419&skip_cache=true",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-recommenders-logo-social.png?hl=es-419&skip_cache=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model.md",
+      "title": "Is Your AI Ethical? Three Ways To Bake Impact Into Your Business Model",
+      "excerpt": "By taking the necessary steps to establish standard practices for its creation and implementation now, we can ensure AI is developed safely and used for good for years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e307158096349ee8effd21%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/07/23/is-your-ai-ethical-three-ways-to-bake-impact-into-your-business-model/amp/",
+      "publishedDateTime": "2021-07-23T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-training-platform-for-robots-eyes-global-expansion-after-23m-fundraise.md",
       "title": "Training platform for robots eyes global expansion after £2.3m fundraise",
       "excerpt": "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by npif – Mercia Equity Finance,",
@@ -1082,93 +1187,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-waymo-to-open-offices-in-pittsburgh-an-av-tech-hub.md",
-      "title": "Waymo to open offices in Pittsburgh, an AV tech hub",
-      "excerpt": "Waymo, Google’s former self-driving car project that’s now an independent business unit under Alphabet, is expanding its presence in the eastern U.S. The company said Thursday it would be opening offices in Pittsburgh,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "originalUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/waymo.jpg?w=799",
-          "width": 799,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/waymo-to-open-offices-in-pittsburgh-an-av-tech-hub/amp/",
-      "publishedDateTime": "2021-07-22T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-explore-microsoft-cloud-for-healthcare-and-more-at-aug-9-13-himss21-event.md",
-      "title": "Explore Microsoft Cloud for Healthcare and more at Aug. 9-13 HIMSS21 event",
-      "excerpt": "As a sponsor of HIMSS Digital 2021, within a best-in-class digital environment, we're tailoring digital first experiences with the convenience you need, as healthcare's brightest innovators across the globe-to explore new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "originalUrl": "https://www.publicnow.com/view/B26AD8DBBC29355F236E9BA44C55F775FB864496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "publicnow.com",
-        "domain": "publicnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

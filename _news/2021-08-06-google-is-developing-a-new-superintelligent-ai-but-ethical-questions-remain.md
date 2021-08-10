@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/2042493/pathways-google-is-developing-a-superintellig
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Embodied AI, Superintelligence, and the Master Algorithm"
-    excerpt: "Superintelligence, roughly defined as an AI algorithm that can solve all problems better than people, would help us make better predictions about challenges such as natural disasters, building resilient supply chains,"
-    publishedDateTime: 2021-08-05T15:39:00Z
-    webUrl: "https://cacm.acm.org/opinion/articles/254584-embodied-ai-superintelligence-and-the-master-algorithm/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "WS8NGgsC+hDAMSpD5AyRIjoBLKU6tbD6DijyNgELUyrpFbsPOmNv6zTTKkIhLvCO2vUqI6nyLA6Jy5EMzpIu/RanmTtoTCsmesqaXEWweTDdIthQdJMdIVK2M/EiE2ANiN6Ii0piEmwG26x8tdY1Gu9T7f4kWguzZXqT74xRWpp1Mf6hh3/Yjzieqsw6XuAXkYH3eiXYDflYwWu5AhmmRba5YfJ7VrZ/rQdACUsVWYF5c1pEvU/JpV+AaJzUae/NBVpyDbn5iaRqFV4X8yiPNE8UaQCYqVC5ppvjzMlhpmKCktI5N2y+pfLkau3NH7rg1rqUt8u1djx019bo17Dj+K630tLWFAbghKZFlIztl92LFdok/WkWQgL675dprDhSSJkUjNgGVhhWyVNz7pYb8oPwPzkMNBYRuobN49mOzPU9eN0DuGsf4tu+nTL8fOc4ow9hhPDQ/IKE4QOMV9BfzsqJ0Jsmqx4w4Twlo1OCwGD76cXFLHkJhyMnTfeylpyOxIO3+H/Smnqs/CTeFDCKuQ==;Qva4G03ZQyGz85aAQMe5/g=="
 ---
