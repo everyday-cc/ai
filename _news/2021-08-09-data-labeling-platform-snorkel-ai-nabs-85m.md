@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI And Machine Learning Company Dataiku Raises $400M"
+    excerpt: "Data science, AI and machine learning platform developer Dataiku raised $400 million in Series E funding, pushing its valuation to $4.6 billion."
+    publishedDateTime: 2021-08-09T21:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-company-dataiku-raises-400m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "Snorkel AI Raises $85 Million at $1 Billion Valuation for Data-Centric AI"
     excerpt: "Snorkel AI, a data-centric AI platform company powered by programmatic data labeling, today announced $85 million in Series C funding, bringing the total funding raised to $135 million.  Snorkel AI is now valued at $1 billion,"
     publishedDateTime: 2021-08-09T14:02:00Z

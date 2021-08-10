@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/ofwzqbxercbqnyvekvdf.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elevation leads Series B funding in fintech platform Zeni"
-    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
-    publishedDateTime: 2021-08-05T07:16:00Z
-    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
-        width: 810
-        height: 506
         isCached: true
   - title: "Vivint Smart Home to Attend Wells Fargo FinTech & Technology Services Forum"
     excerpt: "Vivint Smart Home, Inc. (NYSE: VVNT), a leading smart home company, today announced that it will host virtual one-on-one and group meetings with investors at the Wells Fargo 6th Annual FinTech & Technology Services Forum."

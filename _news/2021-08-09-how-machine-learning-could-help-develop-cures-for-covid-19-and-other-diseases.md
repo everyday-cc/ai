@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
+    excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
+    publishedDateTime: 2021-08-10T01:21:00Z
+    webUrl: "https://www.eventbrite.com.au/e/use-of-machine-learning-to-find-effective-mitigation-measures-in-covid-19-tickets-166011702471"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 38
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Unsupervised machine learning reveals key immune cell subsets in COVID-19, rhinovirus infection, and cancer therapy"
     excerpt: "For an emerging disease like COVID-19, systems immunology tools may quickly identify and quantitatively characterize cells associated with disease progression or clinical response. With repeated sampling,"
     publishedDateTime: 2021-08-05T12:16:00Z

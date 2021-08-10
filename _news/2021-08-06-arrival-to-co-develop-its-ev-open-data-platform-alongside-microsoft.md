@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-dat
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/arrival-to-co-develop-its-ev-open-data-platform-alongside-microsoft/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft announces new ransomware detection features for Azure"
+    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
+    publishedDateTime: 2021-08-10T00:22:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
   - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
     excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
     publishedDateTime: 2021-08-09T21:22:00Z

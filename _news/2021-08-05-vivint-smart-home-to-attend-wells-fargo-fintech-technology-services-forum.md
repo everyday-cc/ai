@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elevation leads Series B funding in fintech platform Zeni"
-    excerpt: "Zeni, an artificial intelligence (AI) based booking and accounting fintech startup, on Thursday said it has raised $35 million"
-    publishedDateTime: 2021-08-05T07:16:00Z
-    webUrl: "https://www.vccircle.com/elevation-leads-series-b-funding-in-fintech-platform-zeni"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 24
-    images:
-      - url: "https://assets.vccircle.com/uploads/2019/05/fintechstartupRF.jpg"
-        width: 810
-        height: 506
-        isCached: true
 
 secured: "3eTkcD+5DPEMeJY1ORAI/FpTmSEToqHOtF2TDKYyhdnUsN0J37Qitzdj2O2KwY0LDJZJWP5PAGU6Q70kCkp4sjsLIjmv0OA/EhCebghTXzPGf4KzaW46IeXYRQ8vPN+4owe4mPye9sstAIDe/mhdhV2bybxdDMjPCp2xDrH5YRRffSV9orDDHp3R8NeCB8c4MmiUONTtlHQiVuW3E8ZgK5rT7a4RIZ8hSoVvunQguKx7FKSzWR1J2tC85pZifBCxmcadbhD+pOiw9nbJwsDKzj1++fHDFNSKbC+lnDs0GKYRqMjmTi2z9rtKujMZE54aWrb2rEPLg7dGT2QfYcUYa7LDcYXV7khc0u7FLQVANm4=;QUi1KJGbcEvO3+l7Fm5qmQ=="
 ---

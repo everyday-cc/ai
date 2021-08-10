@@ -41,6 +41,20 @@ related:
         width: 850
         height: 630
         isCached: true
+  - title: "Using artificial intelligence to predict where lightning will strike"
+    excerpt: "Lightning is a major threat to people and property each year, especially in the summer. There's a new tool that could revolutionize lightning safety. A machine-learning algorithm developed by John Cintineo at the University of Wisconsin uses artificial intelligence to accurately predict the location of lightning up to an hour ahead of time."
+    publishedDateTime: 2021-08-09T17:33:00Z
+    webUrl: "https://spectrumlocalnews.com/nys/central-ny/weather/2021/08/04/using-artificial-intelligence-to-predict-where-lightning-will-strike"
+    type: article
+    provider:
+      name: spectrumlocalnews.com
+      domain: spectrumlocalnews.com
+    quality: 37
+    images:
+      - url: "https://s7d2.scene7.com/is/image/TWCNews/goes_r_credit_noaa"
+        width: 490
+        height: 499
+        isCached: true
 
 secured: "TLfWnlPIAU1qlZoHv3ZjRIFdqhPtfEAfi+dmx+PgaawZzg/cSfAtEaCFLllhUJjLfru8WN6PwCH8UNiF/Xj91/B9tbabvEk9IZGTGUsmOi+eA7jqzPlsWNGsVXaKA648zlbzT1h8BxEd/8f8NmOr9x8GaXltGIOAXm53y6AqbGGTXfuW3QkKBaEPKNn+CwMwXABMxUB/M3IRnpz+m3KPRKnJk//VMbDKeKWGkZ4nZxioquQaqk1y4UOZzaMVYmIG1vWxqoqgZ2W8VWGvYlOV+TaOp66osN0f/79YIa0GvOaRnYnAQaa77JgfuKMdSRefIuN6ujMtYywfH2RfC2oYrv7P22uZzhYHOBh63AdkNvY=;WwDfqytbk7gwpickLNX5Rg=="
 ---

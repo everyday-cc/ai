@@ -16,6 +16,7 @@ topics:
   - AI
   - Machine Learning
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://signalscv.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg"

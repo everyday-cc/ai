@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI And Machine Learning Company Dataiku Raises $400M"
+    excerpt: "Data science, AI and machine learning platform developer Dataiku raised $400 million in Series E funding, pushing its valuation to $4.6 billion."
+    publishedDateTime: 2021-08-09T21:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-company-dataiku-raises-400m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 1300
+        height: 1300
+        isCached: true
   - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
     excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
     publishedDateTime: 2021-08-09T17:45:00Z
