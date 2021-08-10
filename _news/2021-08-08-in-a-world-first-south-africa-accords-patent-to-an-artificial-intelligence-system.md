@@ -123,42 +123,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "In a world first, South Africa grants a patent listing AI as the inventor"
-    excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
-    publishedDateTime: 2021-08-05T09:18:00Z
-    webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
-    ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-a-patent-listing-ai-as-the-inventor-165623"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 40
-  - title: "In a world first, SA grants a patent listing an AI as the inventor"
-    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, it's anything but."
-    publishedDateTime: 2021-08-05T09:49:00Z
-    webUrl: "https://techcentral.co.za/in-a-world-first-sa-grants-a-patent-listing-an-ai-as-the-inventor/109895/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 39
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2021/08/idea-2156-1120.jpg"
-        width: 2156
-        height: 1120
-        isCached: true
-  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
-    excerpt: "The decision is supported by the government’s policy environment in recent years. This has aimed to increase innovation, and views technology as a way to achieve this."
-    publishedDateTime: 2021-08-05T09:18:00Z
-    webUrl: "https://theconversation.com/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
-    ampWebUrl: "https://theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system-165623"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 36
   - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
     excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
     publishedDateTime: 2021-08-06T08:44:00Z

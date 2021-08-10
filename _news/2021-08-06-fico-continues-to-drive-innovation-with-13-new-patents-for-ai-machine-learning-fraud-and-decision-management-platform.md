@@ -61,20 +61,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
-    excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
-    publishedDateTime: 2021-08-05T10:30:00Z
-    webUrl: "https://www.mondaq.com/canada/copyright/1099292/copyright-act-consultation-to-address-artificial-intelligence-and-the-internet-of-things-"
-    type: article
-    provider:
-      name: Mondaq
-      domain: mondaq.com
-    quality: 24
-    images:
-      - url: "https://www.mondaq.com/images/Mondaq_Share.jpg"
-        width: 552
-        height: 289
-        isCached: true
 
 secured: "bj2HqNqV+rnqTByJjwxEayatSJBOKShCLlJ0It+XC44jB/XVq/qwa6jbMup6Kzkv+FxR7GAcEjVrK70UoxudGqyrjmxmAWx8NQmYAt2XAJe6nQcLFx0rXg4c9OlogtfpuEzJaqbFlkqdHiiv/Ub0DIEGNmHmeuQ3R0jBdXIkho4IyC/Ia4D3VYkBRNI2LNOp9U4hEXFvc5lE5Di0A6kkz1iv+hLuuqIfTqyXWuR/4YtcLRcyfVM9omwkKokm/gSewlf1Q214ulrexNJz+sfhT31Y+TATCo1IRKkGeoVYpFNWJ2d+x9U/+ttca8mIG73WDP3pYAUPMmdeK5hEtxqzgrAge7hdmBqs/5DYBlM6AoJRsvSkCxLX8xLyTCAd6ZsCr7SbmYr1lc+3q2Vt4mpowjSsityqU3WDrFfhzvqX7AEKh8AjeshYxrga0X16NxLr5FoPZyU9XGUn/I09MzgIpH2njwFd//QqRWWhgbFNysEND2D9wtvvVHkhCKWOr5lEcloHKsb77XMVlvpyyJgx1Q==;p1IpgQ2oEmlqI0skAGxsBA=="
 ---

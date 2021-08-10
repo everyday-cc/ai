@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accurately-predictin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine offers possibility of predicting risk of schizophrenia by using blood test"
-    excerpt: "A machine-learning algorithm may offer the possibility of early diagnosis of schizophrenia by using a blood test, according to a team led by researchers at Baylor College of Medicine."
-    publishedDateTime: 2021-08-05T09:14:00Z
-    webUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/"
-    ampWebUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 38
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/OURGNOG67JGYJPITYQQ7E5DASQ.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Using artificial intelligence to predict where lightning will strike"
     excerpt: "Lightning is a major threat to people and property each year, especially in the summer. There's a new tool that could revolutionize lightning safety. A machine-learning algorithm developed by John Cintineo at the University of Wisconsin uses artificial intelligence to accurately predict the location of lightning up to an hour ahead of time."
     publishedDateTime: 2021-08-09T17:33:00Z

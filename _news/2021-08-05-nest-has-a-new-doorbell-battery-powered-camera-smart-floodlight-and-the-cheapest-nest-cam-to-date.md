@@ -43,20 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Google Announces New Nest Cameras and Doorbell"
-    excerpt: "Google has announced a brand new line of Nest security cameras, including a new battery-powered video doorbell and the company's first-ever floodlight camera. Consumer Reports has the details."
-    publishedDateTime: 2021-08-05T09:05:00Z
-    webUrl: "https://www.consumerreports.org/home-security-cameras/google-announces-new-nest-cameras-and-doorbell-a8281034247/"
-    type: article
-    provider:
-      name: Consumer Reports
-      domain: consumerreports.org
-    quality: 24
-    images:
-      - url: "https://article.images.consumerreports.org/image/upload/v1628106448/prod/content/dam/CRO-Images-2021/Home/08Aug/CR-Home-Inlinehero-new-Nest-products-0821"
-        width: 1199
-        height: 674
-        isCached: true
 
 secured: "SPnpw5VYwRyZWjxnbfdQ3RLXr/QdX4B1nOczQ+fNPgIqJy7Ckht9e2EQBMFUCB1uqCHTsKWT8D+C14+B4rMyZOGnsP6OW02fePIGpEwJkab5iZhmWSieYg/ABYjh74GQR3RHU6A5MQAzLZ8GXAufIOgeKG51nCSo3SkKPRs91WfxQvUSnTHiba9YbJmB7EjuA/v56RFOCwh2LWx4qGgc8QHGBbFKViOjf58FLUWadoFxVd4qPYgCQlE7t7cfckLow/hya+6eLrjwMG66OlllUYRnrckUiYTLq1hsRntxLMsHA+yK2Bx5LGKaUBJfTfNG3qK/qxjtZKjgN1GVjoh9WmBUmQJiP/A15Lko2uIMXNA1OD6CpG7YjFFaCbAJodi3L11ojJRQE2rTcWTjELzk2lc2hvmHrYwaPVwCvejK7z4jchzs10OHCiFkfvWnEj52JGoJHtcxIkfPad1hnxmq0zSJuRi3z/Huflkkm66DKB2VhCF9QQeZrVThIj1VXyBtIRZrLTIkhXLsJwEniG4kcg==;PjWwQCU8Mco4gjCVLQEXgw=="
 ---

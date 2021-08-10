@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Soon! Facial recognition tech at 6 Indian airports to make boarding process contactless"
-    excerpt: "Soon biometric systems will employ facial recognition technology at 6 Indian airports to make the process of entering the airport and boarding the flight contactless."
-    publishedDateTime: 2021-08-05T10:54:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 66
-    images:
-      - url: "https://imgk.timesnownews.com/story/Airport_passenger.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "hx6CrgQckNkrE4oEUfC2MqPbOuQSxsT3H9MBeJlhHDMyX/7wbwH8u0UU0uS+cXyPUv1AhyUjTkbikwIZceA/IDk709bEUAxjMLCW+uu+ua1V47lMI9o+O5plyR1rJA/Z/AmA6iLpdxCVgLb1W+17TVGCSYFk6z5iSPyoSZy6tIv4fQtjVQUikjeIXaihN4DZ1o474hwOU+fWP+RqF8rAz1PlFa72O8GwzYGj3GXSyy/IMys066wSCkz6u4Gs7TfcdCawSN3hfmOFCcHZGh7IhjaEQu+ExEo/IVUVVaHgoLvvIFzHYTaIza9zt3F2aRT0q9MEPRv6T+oKVpVS61LHEPdA7siwdGxgFbhDZRcMXqnL2oif523JV2e3n6wrf3w8KBlitiESCvB6hvI7SQXFZopsUAFSn1DTvU4q1AY/1Yf6mo2WwJaHM6leHTTTFIwYokpzbhsfAyJU0mbLoPKKPEcNw0mUjD8reHMZDyYyCNjxTxIVFbtiK/F++WztgRUPvq0qOSBO/rs8jQW7p/mElw==;GoVok+jhb2zgvH8JLzk/wA=="
 ---

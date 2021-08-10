@@ -54,20 +54,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Canada: Copyright Act Consultation To Address Artificial Intelligence And The Internet Of Things"
-    excerpt: "The federal government has launched a consultation on modernizing the Canadian copyright framework to better address Artificial Intelligence (AI) and the ‘Internet of Things'."
-    publishedDateTime: 2021-08-05T10:30:00Z
-    webUrl: "https://www.mondaq.com/canada/copyright/1099292/copyright-act-consultation-to-address-artificial-intelligence-and-the-internet-of-things-"
-    type: article
-    provider:
-      name: Mondaq
-      domain: mondaq.com
-    quality: 24
-    images:
-      - url: "https://www.mondaq.com/images/Mondaq_Share.jpg"
-        width: 552
-        height: 289
-        isCached: true
   - title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
     excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
     publishedDateTime: 2021-08-06T12:06:00Z

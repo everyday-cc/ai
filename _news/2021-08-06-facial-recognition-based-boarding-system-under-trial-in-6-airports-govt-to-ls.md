@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/facial-recognition-based-boardin
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/facial-recognition-based-boarding-system-under-trial-in-6-airports-govt-to-ls/amp-11628176112755.html"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/assets/202108/airport-sixteen_nine.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Soon! Facial recognition tech at 6 Indian airports to make boarding process contactless"
-    excerpt: "Soon biometric systems will employ facial recognition technology at 6 Indian airports to make the process of entering the airport and boarding the flight contactless."
-    publishedDateTime: 2021-08-05T10:54:00Z
-    webUrl: "https://www.timesnownews.com/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    ampWebUrl: "https://www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/business-economy/industry/article/soon-facial-recognition-tech-at-6-indian-airports-to-make-boarding-process-contactless/795218"
-    type: article
-    provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 66
-    images:
-      - url: "https://imgk.timesnownews.com/story/Airport_passenger.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
         isCached: true
   - title: "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful"
     excerpt: "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years."

@@ -57,17 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "BCS: more diverse workforce key to UK AI ethics global leadership"
-    excerpt: "BCS report Priorities for the National AI Strategy contends the UK can take an international lead in AI ethics if it cultivates a more diverse workforce, including people from non-STEM backgrounds."
-    publishedDateTime: 2021-08-05T10:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership"
-    ampWebUrl: "https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
     excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
     publishedDateTime: 2021-08-09T23:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-p
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Anti-Money Laundering prototype using Artificial Intelligence and Machine Learning launched"
-    excerpt: "NTU, UBS and financial institutions in Singapore will develop new capabilities utilising artificial intelligence (AI) and machine learning to improve detection of money laundering."
-    publishedDateTime: 2021-08-05T10:12:00Z
-    webUrl: "https://www.ntu.edu.sg/news/detail/anti-money-laundering-prototype-using-artificial-intelligence-and-machine-learning-launched"
-    type: article
-    provider:
-      name: Nanyang Technological University
-      domain: ntu.edu.sg
-    quality: 44
-    images:
-      - url: "https://www.ntu.edu.sg/images/default-source/hub-news/panel-speakersfd0d1b78-a8fb-44f2-82fb-88da0b6eafed.jpg?sfvrsn=55d6ef2_3"
-        width: 729
-        height: 509
-        isCached: true
 
 secured: "f7CHwsEquGPY3kLTihf9jIoZUXue8Qmef8VNkDgdK5frxUIBctK7l/b8ZnML0FlaSQWpTvzYqbMTPiyDq5/I/60orF26jOHArAd/YFKd2tPYSEMJq4gbcJI+gXEhgSoKIOY05+pa2w3QLqqnuFrrwgo/pH43tHm6UQ3SV/Pi3UeveRIF8QOMoNEex1IyN7AGSsF2NGlanZibM1GRX4WY2XhP3WU8LF+Cx6x/djyyZ6QnfL5XZ829xLE7uOifMVXV+wExUPJcCp1SqxodSXdpDGkI7hy1izymm+nCMpmhIqvGXckKStl3LKlxIhJBIDu1qT+W2QXJDKS+JJ8o0iBgVu5/ubQWJAn2PKAviIGW8/s=;ldDYg/xR3TuCPOrCvJCLGg=="
 ---

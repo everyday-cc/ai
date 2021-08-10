@@ -38,23 +38,7 @@ related:
         width: 850
         height: 630
         isCached: true
-  - title: "Machine offers possibility of predicting risk of schizophrenia by using blood test"
-    excerpt: "A machine-learning algorithm may offer the possibility of early diagnosis of schizophrenia by using a blood test, according to a team led by researchers at Baylor College of Medicine."
-    publishedDateTime: 2021-08-05T09:14:00Z
-    webUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/"
-    ampWebUrl: "https://www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/news/local/2021/08/05/machine-offers-possibility-of-predicting-risk-of-schizophrenia-by-using-blood-test/?outputType=amp"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 38
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/OURGNOG67JGYJPITYQQ7E5DASQ.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
-secured: "6vA7Z/8j40KD8lXatcPHf5f3u63Pa5MTDv4wRwtkUuswu7UjQQzEQXB+8pTCE7v3cdabKtikausgOT9oK7xjeBrHKq2AxTaiSlsSbY37CYq0ORBNdTnZpUZm+U3Gap+I2Bs5oJlojbrFcyPI8jiIabtH7V1D8D1/riT83kkA6M50IY9QVdbANWTI95HYBr6rnUCeFe8uAE17TyDBtYbr2jVmzo/xcw55Z20Xdd76rzJM2LaN5z+++Wh6nx07WMQ2a0fDku1k4AkXxItA69v9oTJ2GXE1AuCqcoLo4JOqI0pfwNuQk+7nCVSM4/wHhWdqvQ/DGqYVpf7aPTAKs+mOD2ReayNVtEm2fBURKwEcCEo=;Lp2p/AUCxEU1z3fiK8fgyA=="
+secured: "bl+iiDuE7H8IH31WoJ40FuIFbPwbAlgYRk98nbBZJkBSG+4AL3He4ypMEimr0JP12Kgec+ezmq+lTGyfDae3tdcyAvvInq3pCl0+H3XPta7iYyIKk1VEGbaXzmbyNk8T8ycxfBjqBJPPWY6SHmrybOl2Xr7dVb46eOLVMd715YuhzBlRn551wpDYhXOCZfk4ePqouDU33OE0vEq7fyp6n7MPTiHDOeT3qdRWTw2fSAZJWhrf+sIx4ypzPvS+JA3K9rR6uIiPDExO4ei3NnOIKuUhQ5izJ4rh1KpiUFZ/hqiQ2BTMZiQn5jyxKIiuiIdZzwE2Njf9WkXoSy8fc9VZ4OAH/iUHcjGJzVAoIfCxZOCTaK174Jc5iPtYPbnIe1JSxAehVOit+TfZSa/zCypr30Ljp1+IqBaGdCnlhy3SJYXRplH3QyBp5wOn+pUMPO0UUBCW5hBaQlmjM0ptdTVTYU74B/sH+rOTP1j36iQIPW5wTbzhKFIjrtsBxEZCBGwmsFLLVfVa/8KalM/YLbULVQ==;OdrMWhTkjWXM2VxCqDtdJw=="
 ---
 

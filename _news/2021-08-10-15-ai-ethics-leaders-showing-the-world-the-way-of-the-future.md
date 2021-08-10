@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "BCS: more diverse workforce key to UK AI ethics global leadership"
-    excerpt: "BCS report Priorities for the National AI Strategy contends the UK can take an international lead in AI ethics if it cultivates a more diverse workforce, including people from non-STEM backgrounds."
-    publishedDateTime: 2021-08-05T10:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership"
-    ampWebUrl: "https://www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252504907/BCS-more-diverse-workforce-key-to-UK-AI-ethics-global-leadership?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Artificial Intelligence Future of Livestock farming"
     excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"
     publishedDateTime: 2021-08-07T19:11:00Z
@@ -101,6 +90,6 @@ related:
         height: 300
         isCached: true
 
-secured: "c337jsJljpfdDh1nUfrwfcPG2zhsxM1Vh3Z1dHPHSKTLkwcRGsVgqudjDbHSQc7jGPqgkRFhuUa+3gQ4MWJlwmQQ2AGoDVONhRsODKb1kNXbne3ICbJlrpUBWbnvkLl2XGoq8oIMDh/zpldZA5aRlHWfjo4UsD28MgTfcqpCxwM6Ctbn2fRKr9+78VgzMSPhs4+/mxQQn9CTx107zpQQQqv5T696LGzb2kudfnePhfkUDOuwVYMSDpwVlgn3KVDaknLlJbEt/064ZBC4Yr1wD4X8g4sSeDSBwAZ2DdTE3vgrID19eX1n9BZk+3Rbiji77Mqu/FQCIzsTdP3HtyO9m34MhiLP2R2R1N1TRxrMTio=;DiMCjzaKHFWU07Hqzj1+3A=="
+secured: "p4ld/lD2jFaia8nnK68IWZwty5ue2GVmi9k12Vv7wETaBHyld50NCj4P4Gn6u+Y2FKzQPRG+I2ZRTrrOxMsqswV237K+hrQTg57NWgBRBjhz+Zj3PbW9cFiL06o8gkRs/w8AJojfMhPzHnn68Tog8nc8192/ZAdM5r4efTpFxR7xTnbUKFuaQ4rqECN3DyzsZJa2Bo/p6i166p7bj9ZyTQ06CQoU5kATvMw3Qg11+9M+yioWT1WNjvaVngUKSfzHMAr6zq84CN/b834CjWDk+zNZMN4+rc+sVJ1eAmVgxsAajvrxD3M1+rM3J0iDeJwLxk3s8/vI3CvbDD0LORgbc/kqtTufSO4D0178QqR157wgCMgJPmwgOKnJm/dSzBlxyRiYvjqcaSZJgdNozHMo5cogakJrtndNRjKjp/qx3PVjdHB0VweO3C9ZtoSG4qkV6HniKsHAYX0PBwzhcyYvxU1LavSW++dv1C/WQ18Kr/ViK6WLZ/0OhVpqabm6EzS8ckl9VO4BDsskEH6OCBS3FQ==;ovcsSMwQbyNjGZGI+fKLJQ=="
 ---
 

@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report"
-    excerpt: "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung."
-    publishedDateTime: 2021-08-05T10:57:00Z
-    webUrl: "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/"
+  - title: "Google’s Tensor SoC first look: an unreleased Exynos 9855 chip"
+    excerpt: "Google's Tensor SoC first look: an unreleased Exynos 9855 chip. According to reports, this processor will be a flagship AI processor"
+    publishedDateTime: 2021-08-06T21:17:00Z
+    webUrl: "https://www.gizchina.com/2021/08/06/googles-tensor-soc-first-look-an-unreleased-exynos-9855-chip/"
+    ampWebUrl: "https://www.gizchina.com/2021/08/06/googles-tensor-soc-first-look-an-unreleased-exynos-9855-chip/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/06/googles-tensor-soc-first-look-an-unreleased-exynos-9855-chip/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg"
-        width: 453
-        height: 558
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Google-Tensor-Chip-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "8YI3/F1KoIh74zJ94SNdOLBrFnFMBfQtUSTcQ7SCxBXPuYP56AdBIqT/1Py5k/tYhlboX0eaxRTvHgR3XxHO49asPjdUJxA5sLLkYbMQB15PYeOY2qhbbUi32YficjmZHsQ/GhcpSsHVrD2ep88G4g8E4vTKWDjRDxBVeF2FH86THoD5QehOg3+ct2ET4NRJ3tkDv0rJls4nXtBQJcvK+DJgDfL7DT8iientrYxQh/QyhxuPqSthTmXh7HjBgPxHYX4osYJ2C6xm3Pf8NmWqCl7U4Ogan5Ddm3zY1Rdw4nL+Cdd3KDu3MNiJPJlyw8T27gG5waRqKuFdQGkM2+8Neb2yRgAngZiYuVKMgkJoizo=;cNXEJ9DkoDGMMXnqe/m8Vg=="
