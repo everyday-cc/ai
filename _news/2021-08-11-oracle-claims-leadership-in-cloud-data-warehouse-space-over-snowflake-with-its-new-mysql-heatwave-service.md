@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/08/10/oracle-claims-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/08/10/oracle-claims-leadership-in-cloud-data-warehouse-space-over-snowflake-with-its-new-mysql-heatwave-service/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pushing Cloud MySQL Performance The Oracle Way"
+    excerpt: "Managing MySQL databases in the cloud is no easy chore, according to Steve Zivanic, vice president of database and autonomous services at Oracle. Using"
+    publishedDateTime: 2021-08-10T18:37:00Z
+    webUrl: "https://www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/"
+    ampWebUrl: "https://www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ab-tower-cloud-database-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
   - title: "Oracle Announces MySQL Autopilot for MySQL HeatWave Service"
     excerpt: "Oracle today announced availability of MySQL Autopilot, a new component of MySQL HeatWave service, the in-memory query acceleration engine"
     publishedDateTime: 2021-08-10T16:00:00Z

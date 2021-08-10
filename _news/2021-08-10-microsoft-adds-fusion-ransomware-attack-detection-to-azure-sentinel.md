@@ -54,6 +54,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
+    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
+    publishedDateTime: 2021-08-10T18:48:00Z
+    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 81
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
     excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
     publishedDateTime: 2021-08-10T06:41:00Z

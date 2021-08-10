@@ -49,20 +49,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "BREAKING: John Deere acquires AgFunder portfolio company Bear Flag Robotics for $250m"
-    excerpt: "Bear Flag Robotics is John Deere’s second major automation acquisition in the past four years, following its 2017 buyout of Blue River Technology."
-    publishedDateTime: 2021-08-06T02:32:00Z
-    webUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 47
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2020/06/Bear-Flag-Robotics-e1628216888716.jpg"
-        width: 340
-        height: 255
-        isCached: true
   - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
     excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
     publishedDateTime: 2021-08-09T13:10:00Z

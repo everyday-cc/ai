@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-
 cdnAmpWebUrl: "https://www-wvik-org.cdn.ampproject.org/c/s/www.wvik.org/wvik-top-stories/2021-08-09/bear-flag-robotics-will-help-deere-expand-autonomous-equipment?_amp=true"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/BFR_Tractor_1.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "BREAKING: John Deere acquires AgFunder portfolio company Bear Flag Robotics for $250m"
-    excerpt: "Bear Flag Robotics is John Deere’s second major automation acquisition in the past four years, following its 2017 buyout of Blue River Technology."
-    publishedDateTime: 2021-08-06T02:32:00Z
-    webUrl: "https://agfundernews.com/bear-flag-robotics-john-deere-acquires-agfunder-portfolio-company-for-250m.html"
-    type: article
-    provider:
-      name: Ag Funder News
-      domain: agfundernews.com
-    quality: 47
-    images:
-      - url: "https://agfundernews.com/wp-content/uploads/2020/06/Bear-Flag-Robotics-e1628216888716.jpg"
-        width: 340
-        height: 255
         isCached: true
   - title: "John Deere Buys Robotics Company For $250M"
     excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"

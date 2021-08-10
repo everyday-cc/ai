@@ -41,7 +41,23 @@ related:
         width: 1200
         height: 548
         isCached: true
+  - title: "Pushing Cloud MySQL Performance The Oracle Way"
+    excerpt: "Managing MySQL databases in the cloud is no easy chore, according to Steve Zivanic, vice president of database and autonomous services at Oracle. Using"
+    publishedDateTime: 2021-08-10T18:37:00Z
+    webUrl: "https://www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/"
+    ampWebUrl: "https://www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/10/pushing-cloud-mysql-performance-the-oracle-way/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ab-tower-cloud-database-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
 
-secured: "tnhp9PIoD8ZUIrzwetWDL3xhOKKWiDxXW69BYFifBxwXGBOqPCAT9fZMPLJbKwFtlizWlCgR2UuhsVbFhC3QGk1cBkvVekA8Pe5jrNY6L6dSBIrIfQOIdBozBIaG2U3T1Iz+jEA3SE7fNvajhyVq6rAniOBzRSN2C/KmurxHnWO9FQskU5ZJgTPAkACUyVBEyFip9PxWCWl5n640tBLwv9/zrI8XruQDsjnhoT3KNQIMAn+JzyXqwUTtiH5+lZemADQfonNccLcEAWAc9PO0hOWJh5Rd3c3g607dRvj7Eq1BvnTRJEJNRo0RUHniGBDGmKmL0hnlg/UeVIbCIHiY29SR0cOklq+DSRXUJS1q7WM=;PYvi9+1HT9G+B8XO2Id/tA=="
+secured: "sR0ZSld4i1u4e/XjuN+CMMsT9gQF6oLrcdEreVjuAnC1JhqEY42RwkqhZKlE6fnjXd/L45UkbbYTehGqjL52LVSv4xlW15JZwd0roVCfdjf5/8CksJ4kCmL5FBfwQcblemyPdSWL5188T4a2LTPhARHdzmU2ByQhXEdjC7rjMqGpwRHr1HgM7i++4bCrvaPO0f656l57hPUQNOi985NMeUM6r3p6zWPy/qEEEvveTstYC6/SNd39nVUwrriRtmFSmrI62DWQYYs0VIG171A3CsaXqnOl/HMKwEjQ7gun9oj7LFNMrmvLsHNsYF0w6IstjeJoOQCpeChMlpm/TtGF/Q3kEAo55pr8qVU2CW4kHr7hTF68f8IiieA78DQzVTD3I5w+0y0X63q1KWa3cNnFsgkPbOEishj8hRP2STPslQXVLT7uH7DRqzNT73TwiVl4fwLu/zgzXLmiC2KJnUJ3ckFZXcoTAPaIsmpc9I9u1cAR56txpUYEjX3I12mqGwZtOXXIZ+yn3+TqoZnpyWLHZw==;eQgSccF6exCMQxOaizT1Bw=="
 ---
 

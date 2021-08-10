@@ -3,8 +3,8 @@ category: news
 title: "Robot boat sails into history by finishing Atlantic crossing"
 excerpt: "All summer, the small boat drifted steadily eastward across the churning North Atlantic until it neared the Irish coast, where it made history by becoming the first unmanned sailboat to cross the Atlantic."
 publishedDateTime: 2021-08-06T20:51:00Z
-originalUrl: "https://apnews.com/article/technology-business-europe-robotics-oceans-f6d0e2a099684468873ab48966590ada"
-webUrl: "https://apnews.com/article/technology-business-europe-robotics-oceans-f6d0e2a099684468873ab48966590ada"
+originalUrl: "https://apnews.com/article/technology-europe-business-england-robotics-f6d0e2a099684468873ab48966590ada"
+webUrl: "https://apnews.com/article/technology-europe-business-england-robotics-f6d0e2a099684468873ab48966590ada"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 1480
     isCached: true
 
-secured: "u6qJnTToHI0okPGB0hDPpSbPSIrOMnO6s6AmAgRKDvbm3PkdATozYGM0ST/yT9D4Plps/v6UfRof2p/c3CipRPUKWUm52CwqGV7hYdQGaHqonGTJVKScLEX4bnf3OaEHwEvc+Rr5hVf2lfcJo/6mxjPmXeIuSpsANXS1i7TUTv3cOdiW1QIhnTav52NVr9VT/6U9B0qXwRtVPF3EwF9Q+yFyTsssUAhvITctribdk5pTfiVfmPRvhtH0ssK+WXzXAlWKayobtEOnn9se4EfhqUsQYP5TdJP8oWN9+GoaAey4EuI8a4jzH1JYrqdw0Y/a9BC6IkKe+JCmPFUshKwkNXVq6zDw11/qgfzbXzf/vgGH5BYWlw18XUPWvf/3yY3SHuY60qPsC5ycgP3oWwjIonPulkWCuVzVNab8yJqHKOo0nCjaa7T7NJpl27h0BRy0mN0CWpaDDuvVM2WaDBYRNVqwjcItZ2HB53wdzNuh/vhN1RiXy+17BU7y/iO2K7EPc20lUaixcUPZqltG88PUOg==;F1nFaBems/tRWr5C/zC8UA=="
+secured: "Cdc8/vboZRPMIMEbiNchfRV3C5ndwngVn0uXb5Ugd/YvdzwmvvVMjm6NQUuk85pmapXjgNoSOjgYCEH7gMruQVoTVXjc8E4NpQ/YZhOakU29BZYnkTo9IAa4Yt7lYi3Hq1vh54J+hEEdnJv+O2/M+9IZ5/ZY3XNeDoSTl7dX6Yqcu98Oe4CCx8wslzZI0hPtewBQ85fXjWhCVDgohRPT61Fb/AcK4/Wk/AFsUv6l30/3GQ2QDig1i9Upea1/sWpn4E31Ndmb3uYC37kC0PgdDWmSm2vQyVXunNtZA8Dv6m60lTygYZaqa1See7dzQCdXMLVU1TrXmFtyuGQGOnlwfodC3l2zW8CqqWs/1NO3Zn0=;Gp00irZD+bZLgWsuKcCs0A=="
 ---
 

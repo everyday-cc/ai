@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-08-artificial-intelligence-extreme-weathe
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use artificial intelligence to unlock extreme weather mysteries"
+    excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
+    publishedDateTime: 2021-08-10T19:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210810143117.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
   - title: "Stanford researchers use artificial intelligence to unlock extreme weather mysteries"
     excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
     publishedDateTime: 2021-08-10T16:20:00Z

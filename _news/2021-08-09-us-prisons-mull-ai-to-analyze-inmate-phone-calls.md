@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO"
 type: article
 quality: 167
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -24,6 +24,17 @@ topics:
   - AI
 
 related:
+  - title: "FEATURE-U.S. prisons mull AI to analyze inmate phone calls"
+    excerpt: "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates' rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. By D"
+    publishedDateTime: 2021-08-10T17:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-tech-prison/us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSKBN2FA0OO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO"
+    type: article
+    provider:
+      name: Thomson Reuters Foundation
+      domain: trust.org
+    quality: 137
   - title: "FEATURE-U.S. prisons mull AI to analyze inmate phone calls"
     excerpt: "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates’ rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. WA"
     publishedDateTime: 2021-08-09T08:00:00Z

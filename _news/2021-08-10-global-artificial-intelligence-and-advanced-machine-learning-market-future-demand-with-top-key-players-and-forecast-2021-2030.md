@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Report 2021, Industry Analysis, Share, Size and Forecast Till 2026"
-    excerpt: "By IMARC group the global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Sheridan,"
-    publishedDateTime: 2021-08-06T02:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-2021-industry-analysis-share-size-and-forecast-till-2026-2021-08-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
     publishedDateTime: 2021-08-10T13:02:00Z

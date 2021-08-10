@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia announces tiny RTX A2000 GPU featuring smaller form factor for Pc"
+    excerpt: "For professional workstations, Nvidia has unveiled its new RTX A2000 GPU. In terms of size, it is Nvidia’s smallest Ampere-based GPU to date. A2000 cards are meant for professionals who wish to use ray tracing and Nvidia’s AI capabilities."
+    publishedDateTime: 2021-08-10T19:15:00Z
+    webUrl: "https://techstory.in/nvidia-tiny-rtx-a2000-gpu-featuring-smaller-form-factor/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 38
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/08/Draug.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
-secured: "YGac7PaEFwoLGNEE40yYRtTvugYTnvi4088iMuaS1YLk3Zkdi1cAppvOeAQuIS/ubBZBLETuVoYJUt1uVwz7RSehDJkejZjxF4hdaabDTQ/1lWKttKGnmSCdLBpMYSuKkBCjr8BW6v57uABgfO0zrvPV+LtVHQopxQeEd01tu7m3JCOVyMrHNeAoGDgDF6o+VO2/KFFhGSd0Tz8L/XUAGl7Pb5+tzKQShtzPHxHZYk5RFnB0Jl5uZ0NK0Muluy20GzbdFD1YJP+qy/xxgEjs4vwMSuDeJBRQHDChirA8+JBrjw8HmgU7xCwHD/ZtxU037RrZYcaYWFu0ulADD9gKFbcCzddrKG7bdKHZbULv5ng=;GVG5wGOY+VaooTc+hVqPMA=="
+secured: "BrNVOY+L/hHmM0wqBRUEw2O8OpXB0R7YoQUQ5AtdK5kaiwbVeEL+do/SzUP92y0ki+n3DFKox+J0Z6jfxI2sLKX1AEtZyqeB1Yjzxsus6sxmecRDSS0anPpGoSaM+KzYYCDvyneS4gpBHolcWmlme9+aJAnpPBgTmpWyWzGB9QVOwDKlW+Lk8eBquQynoDomyOy1a/pKYA0nZKEn2ND6hRZThcowvo9hAujH+tAMbIpWOztRHVgXvPVhotc9sa0NtWd3JVM9F9pET+/9+NqyqQ5RkaxueeZzFQBMx99nDZMcuDW4x65YQqFMG9YK19ljRm4kgrHshjHgSiyJOWc6/2/R0jX5y6G3XGJx6r/UouSVIni3IKYseH9xU6zAfmOFzIT+A7oWehYUtI2SwFdqoNh9Y6dZku/pl2RuW04GCGYrLlIZ37lUOCW8PeUGe8UseaRIwQgyu8dFcUKAZe69hfNRWaC8wxaLKJJ/i15lv5lcmE+uvMNCkHYo54cKmnwFvNaUlB3BO6uQijwHR7wskg==;E6iLKth9KduPykhmvTvCkQ=="
 ---
 

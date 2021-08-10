@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-release
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
 type: article
 quality: 104
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
+    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
+    publishedDateTime: 2021-08-10T18:48:00Z
+    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 81
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
+        width: 708
+        height: 399
+        isCached: true
   - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
     excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
     publishedDateTime: 2021-08-09T21:22:00Z
@@ -186,6 +202,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "dJ4Y0BzOcjguOpejiQRkv4nxXEl5PubIlqNq+VcltWMwSOuxj6EBTVszgtb+f0ihJKt7d2IPgaDkqlSM2EdAgb6NuoDC0qwZyI9J3zdplZdsYbLI1vYabfaDcU37MrRZuxXWrgBsxfTDWZU1GEWoiDUrLFwvJtwnEmkpFaudR3MjqYuCb+D+xR7REc5R1x/Qqg5mWUrTkMd/R9+KXwuhOgCZWX7mRZ+un7KJk1NNjtR/2l8L3Mm2lABZindiXg8RXOqyg+Ti8r0bDpY9klPs8YyiEyjvQsYgaV/FkvnWisa3LIqODZoLHfVdJbyenQNLhOYxdI/gbzUXrd3IAXszOBeKK0wjST40SYIyVA6i5C8=;ALviwSZ4XT6+HMWUx7oWUA=="
+secured: "hrsB6QQWlQzA47SF2H2ZMo57n1y4PsgHLarkfjVI2v6laqw3JlZ5LDPxB/lhdhzXWeCA9efI1BsMe0YsYpfyBObjVsIanoUVWKh89YrvLr716wFl1JcdAcxEzD1uUXMfd83zzbfTPhodL+uh6pLd/JDjLPnnf2wBj+fPdHDdBBT4zZmKNuhXvqxqjY9cilsSLEwnvjvLOlL3ed/rVWIV2GvzxGEthGZDe8m91ZySK0sVDoP95tHU/ENPG6EUU0iciEKR83dRKKEhOkfVPwCJJB06+i8Ag67h2H0td/zPeHGJUFRS57TDEF8vv25e1/HM/JWUHifYdpes5qW+vuN6UseVKLdORNrLLwV8HB8tZotMEX0aO+L5TVkrDe3QfxP+3/NJ4wPttWWTzkDrocqseT23lkxpn0iycDXgvI2Qb16YvjQlrEt+KKn1qe7ovjDlmtrywiEF7T6heQCtt+X0LZkMCKutLAns2EthfoNVwm+HK7Q6OidmSOLrdyl0YFadLAXpLVie8Ko1tWk7FrkeOQ==;UDGQmjpupU7haCmpbfDn+A=="
 ---
 
