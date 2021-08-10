@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-va
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1500
     height: 1000
     isCached: true
+
+related:
+  - title: "Robots Are Coming for the Lawyers"
+    excerpt: "And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
+    publishedDateTime: 2021-08-10T14:37:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21602903/robots-are-coming-for-the-lawyers"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/16x9/iStock_1191080384.61128f120ee22.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "PvXayzvww2gBq1Xc7Ckp79CWmVnSSxUT/Mg6EgdxAM1GHu6XndKKmlPB35Tgx3Cv5RMKsL8xraIKUJ4CFFpAN9eXQvET/fl5p4ZHvPGlvr5cXz5kAJEohIWitSIR1/Wih6CkKGhKBL/Rkpe6oDr+Bbfimkw8ewcq8/nDrp9yxOReaH9RseWkfUateqFH8ZCrnQKHXMqryeExelU6lNdZtS1qj7rCTz39sr0v6RI2x92FPC5Ar14GDoguDd2JO2qgpFO5t9EMqFPXc8aToMmDURYa2aKjxc+3/qOsvaimImCkaP2C+3vZMJVl3EKt274skaGDJfhcZLUPSt/no3Wfcd5J4d6MQLXZnKTFb6vT9SdMENAf+O7ylfDPeXKTSrK9VEYvl/dUF5clVmlkGKMfH7bCL82M6ETg3jmY2ZuKl/fJYi3G3nQBldJ31lZ8QFTyMxpCGJ3kSKwDOx8PBDOEId3Q3pkm8bjNf9zAq7d5GEXShhuN7paoXvQoVkPAWQyQxuMkCZRi5cRgNg42fCWhfQ==;NL758L5XWbNjHCnLMSHCqQ=="
 ---

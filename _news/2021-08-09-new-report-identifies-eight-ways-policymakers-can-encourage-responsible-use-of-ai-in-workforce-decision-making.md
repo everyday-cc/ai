@@ -98,6 +98,15 @@ related:
         width: 3360
         height: 2276
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
 
 secured: "DaTDemwx4TWfHunlb6rhoca5pzonquPWAvxsCQO6uHnnj+sP0QnfU8Y8546u1D2BBfJIfaCIxvhNPI3viEFQFGkB/tKif8JYp6LnGMZQy0tjAHRdauXt71vEBB1b8/liW+iOu/4kfePuwkZiserhirfTx9c00GybsTHdnn6mvHU9Vfiw9nckaSKshGEDaEkwIEQiO3MhLu3udFJYtU404EKaFx6NiZ517Uld9M4s86SBtAhusi0glob7isZwsDFvo2oBjWIdD8xPIXncGVGqKtsoRoVmCLN1o1mwUJSXFpo2HJc3OqmX8SCyIFb140izcPf6fQzdszTzcVnORTfRhcdXwaImvpkcbW1Ud1TxRAA=;Snl65SJZsQeykahe4z/W0A=="
 ---

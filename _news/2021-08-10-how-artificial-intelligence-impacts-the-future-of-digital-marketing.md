@@ -86,6 +86,15 @@ related:
         width: 3360
         height: 2276
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
   - title: "New Report Identifies Eight Ways Policymakers Can Encourage Responsible Use of AI in Workforce Decision-Making"
     excerpt: "Businesses are increasingly adopting artificial intelligence tools to support workforce decisions in areas such as hiring and retaining high-performing employees. But to successfully deploy and maximize the productivity benefits of these AI tools,"
     publishedDateTime: 2021-08-09T13:30:00Z
@@ -101,6 +110,6 @@ related:
         height: 300
         isCached: true
 
-secured: "m1+mGjVFsmjhac+qIpL6bVndJFznLrOpBdKB6Uf1NLpcmXPyNManEgbRdFgja9cOmO/uHMZ+ESasPih7kydJr567uUUseFOMKG/vWTnh9zNbP2kI7GUpMWuZk35h5v3/3/PYv73leC5h5yBt86p/zV/li9Ddij09jhv6f/FnM/sPXURX6S4rQRrKAu6y0Soz1/PEl0kWCv9spyBhRaDmPrGUcYXrp8rc/R/pCeW9Ub+9ZHfUr9v24GtlN2IAbacRUnHhS5DNCmFHIOMMSP3I5c+P3IvENFsxWzLiJDGO0AmS3Mt/EreOk9Jz85QLRRc18OlfaLmRStJHRP1iLALKTZZbmyEijwI63oJgS6bwsQM=;RXsLOPdLZlcbN5kZ8hpN8A=="
+secured: "RhyI0OM3VmJb4dJyuoJ37T+Bqy8o1N4ydkFoUF3SLgwaJUPO4ph2bkNUHKh03atJDlGdq3r+59lH7d9g4ObetpSWo2OLt11hDWo5MRUIpZphlAYIY2kzTUGzsDKSH9CW3SFhsV3OxbrNKcZysEXe6FZ/myI3k1pRk81MLR14aIFJle0WNjr6tFqommWINxgCZ7yAQ4Lr/XyLc/A7jzfVYgD4f8+hVtpL4YOYPnnaT3uAbjiUDyglYCqAaa24YplbLOcaRIppo1BYBnhxkM1kP6IkjbN+dJ2E/gEA5VpcRWmHuFRMoWQsaV6JZidmdRZ9sIIcJrPr48dOr5v9x1DC94xW9aTQKV8skv6aPHm5tjVYr48a7eLnnX69Bv+zOfNmzSofxC/K7Tgb4wFAvo6DewYd+UGbOCJVfc19kLzllO3JAWOP9AXaEY4XuXQPU+2vi+/IgXTnd3t83iY4ug7a5CSXk4yb1FlGccbtouWwW+9GIFe3KvdJRhUHA16BlnrcgHD6Hwo0vmztIHlVCZ31pw==;a2astFPSXXCDAZWYwoYEmQ=="
 ---
 

@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Global Warehouse Automation Markets 2021-2025 - Expanding Use of Artificial Intelligence & Increasing Adoption of Robotics in Warehouse Automation"
-    excerpt: "The global warehouse automation market is likely to record growth at a CAGR of 13.6% during the period spanning 2021-2025, and reach US$30.99 billion in 2025. Growth in the global warehouse automation market was supported by several factors like surging adoption of industrial IoT,"
-    publishedDateTime: 2021-08-05T21:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-warehouse-automation-markets-2021-2025---expanding-use-of-artificial-intelligence--increasing-adoption-of-robotics-in-warehouse-automation-301349636.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "DSN45SojpiFlZCVMvHMR7Qhi7bN1fvdrPBPbCHtPXpOQTIc9aOS9ecL2ujDfcN8/x3h5lxKbSbD+DEvfChEp0Z2CSLtBGuDYwK3w62vXDrsG3IeQkzJ+845OeraGhcmzyv70V5OWqdVRSA1auIM+bUf5lxSQwej1/yuFATzg+k8/WCXn+jtxyDopxbb3QXDuytanrDQkgHhggtH0gk/3YPPGx6rSNt0yvn1XZ5kglAPb0iOBtWxDCdUn1JQEVPqK684sGAyqqteBhhLQW/W24qcbVWEP9GPILvKWHP7NcIvsAUOs953ZFfDyIZGDSGitAjonFuKMXsaJ0H/c5/K0kLgVvNSyI2yFkPHPR668W+iD4g/FnYmEU9SJLw0kLOSkwv/5F/lyveFop6hIXrGj+vnjonMFMzJH4CNCG3QRLHwpgulYZCz9KpL8mktTW5Ubodnh+3F/2trFxkgzfzy23rvDyEVKNRgk7Gliobvc2PTfItt88MfYMiTGjgW+nEEwzMvBwf72LRElRQ6PqhmGfA==;SDZfiycQTz8/yXBjzsA9KQ=="
 ---

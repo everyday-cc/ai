@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T14:18:00Z
+    webUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg"
+        width: 700
+        height: 464
+        isCached: true
   - title: "Federal Liberals probed for facial recognition use"
     excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
     publishedDateTime: 2021-08-06T16:59:00Z
@@ -41,21 +57,19 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "China's top court specifies rules for facial recognition"
-    excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
-    publishedDateTime: 2021-08-09T08:58:00Z
-    webUrl: "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
-    cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
+  - title: "Synthesis AI's Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep"
+    publishedDateTime: 2021-08-10T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
     type: article
     provider:
-      name: Новости Украины
-      domain: ukranews.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
     images:
-      - url: "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg"
-        width: 1280
-        height: 670
+      - url: "https://mma.prnewswire.com/media/1579933/Synthesis_AI_Logo.jpg?p=facebook"
+        width: 1919
+        height: 1005
         isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
     excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
@@ -73,47 +87,20 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
-    excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
-    publishedDateTime: 2021-08-06T17:13:00Z
-    webUrl: "https://www.cbc.ca/news/canada/british-columbia/liberal-party-facial-recognition-software-investigation-bc-1.6132382"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6132382"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6132382"
+  - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
+    excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
+    publishedDateTime: 2021-08-06T07:46:00Z
+    webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 50
+      name: Power Technology
+      domain: power-technology.com
+    quality: 39
     images:
-      - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
-        width: 620
-        height: 349
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/virus-4999857_1280.png"
+        width: 1280
+        height: 905
         isCached: true
-  - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
-    excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
-    publishedDateTime: 2021-08-10T13:19:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-airports-facial-recognition-aviation-ministry/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
-    excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
-    publishedDateTime: 2021-08-06T17:09:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 28
 
 secured: "Eqyy12tlR2YHFzVY19n78Gku49RtvtxjjsGDF6zls1/VsqZy2x+H3wS7lKRqVWV8RX5y14L0izGqXCy7dur1+oPACLE4y63ZWePCdGjgrHht6D5iR6d+Z3Ns0LvZmUP6T8eFu0ZiQ0RK+UCXE9V8jxy0oLcN2bQMgiJmw/IZeFDK7qUTlI3+Uq1ai/B/QikVwG70XHFQjYUVzyzteT9kbkGCR9YzZsYFLJXQyxZ1GkhMpxd/1c4rrfJ5n32I3qUZkVVkznmwDv0Hph0tvr/O0lSAxUuxmsPe8KmpY2iEWFSb+pS19glUU412isaRJ0v4hnA8ixoJjolrtGgHQ/s6TVAtc5bdlzU/KStaDwA199w=;FYktHw5ZYKQ7dF0rQ/6+bQ=="
 ---

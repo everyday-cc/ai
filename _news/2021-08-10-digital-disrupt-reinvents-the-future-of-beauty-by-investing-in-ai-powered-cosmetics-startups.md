@@ -2,7 +2,7 @@
 category: news
 title: "Digital Disrupt reinvents the future of beauty by investing in AI-powered cosmetics startups"
 excerpt: "Openface, a personalized AI-based cosmetics solution, raised $380K as Digital Disrupt VC club looks to pioneer data-driven beauty tech in Europe. Belgian fund Pitchdrive participated in the pre-seed round."
-publishedDateTime: 2021-08-10T13:28:00Z
+publishedDateTime: 2021-08-10T15:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/digital-disrupt-reinvents-the-future-of-beauty-by-investing-in-ai-powered-cosmetics-startups-1030713744"
 webUrl: "https://markets.businessinsider.com/news/stocks/digital-disrupt-reinvents-the-future-of-beauty-by-investing-in-ai-powered-cosmetics-startups-1030713744"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 335
     isCached: true
 
-secured: "qw+M5BH9nkpQpHgSETT5l6wsqNQZgY9o8ADcd0Nky+QTo5YGH0Kp8dR4oI+GKFe+jzoP3m9IRckKVVCxSfSc5AbpBV3Ug/ACfQ+f8+n/KmhstFJ2KulFqUImMVoxrkw+uT1YG1D0eaC++Zd7xeE9UP4GxKwYgZEPYfKODtCr/Q7CSDVh0s0rJpBBXVpsdT3HVrhYNhFrwegxRwIzaKBWN+sFpQ4ONq4CweHcpceqPSaDUflAShjHmpkux+DfeXJrwHeIOLl5o5huIMlhOLV0RtfQK+HgR4DMXnLY7klJ8DURSQ9MBZ42LMmvPvdHrSWc+u7YH0AY4spBuNzI25TktbaSQ0sMMEqTNBG9JJeRJvA=;tlgQlva33tBg8MNTqPgtZA=="
+secured: "d6VTikVnW+KXqUSdYUHhrbrGr7COEniltYxo1gg8FAeBOucj7NRtzZPM8oH4KX2bO80XfZ1oO+FWRIKQW/ABLiNVArJ48DSv8wIr2PyqE332O4GLBwRtynh6axF3f+ViySZAtysvWgglOge3L2bFGt+EstcT310+jtUld+4wVCX4VEcsJqGwipmNbrI91Y7CEvJ3Un+kSGRddJ7VEiOl34pAS/wT5UoSJ3tsvIviKSaYZ7EQrfRRinjYaw2fNwy2grNJKcx4vEzcUDu/axyvigy3vmAHm8P9sL3QFVaRSU4df3E+uG5rINzqINblQyhJdM/r9Q4nYpeB7emUekNzB/etY1tH/T0WP1KdDE9VklE=;94s9iubPzT0lx3PUPlYwcQ=="
 ---
 
