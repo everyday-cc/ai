@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-nedap-adds-face-based-biometrics-i
 webUrl: "https://www.tmcnet.com/usubmit/-nedap-adds-face-based-biometrics-its-aeos-access-/2021/08/10/9427938.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "AnyVision face biometrics integrated by Nedap for touchless access control security"
+    excerpt: "The integration of AnyVision biometrics gives Nedap customers superior security and its liveness detection protects against spoof attacks."
+    publishedDateTime: 2021-08-11T19:08:00Z
+    webUrl: "https://www.biometricupdate.com/202108/anyvision-face-biometrics-integrated-by-nedap-for-touchless-access-control-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "yo6zWFonUfWcnVom3SiQHRoDEHTZklkiDrIzpGK7K7WK2JgCYjW4c+OckA1yWg/jDHPBwVDygjiefrmjV1yKxWg6wBf7JSK9zuLn7eTe1dludlilNdLrfi9/A/hIohDEdtimDpKk3DqN+DIOkxxJSNjVhxO+d9Oz5CkNk35nyfCiPP5USLf5aA6KDMvJ2f9Xah4klQkhrCsbIZVrsdaQjxtKB52TwTIFFmfsjiybJidZCewgm9c9TMCg+v4rZica/TrB+1VYcaRtOJhBZmFG+qHrm0q6jMPsJItSz90U8myHBCXtesn3OoKezbGawz9s7Tan30qFCbL/UOavvzhAPHRDVkUCME2HzsT0jDg/GYE=;cbk/5z8XrK/6tBBjmwcpgA=="
 ---

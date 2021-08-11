@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Gunderson Dettmer-Led People.ai Hits $1.1B Value In Series D"
+    excerpt: "People.ai, a sales startup specializing in machine learning, announced Wednesday it hit a $1.1 billion valuation after raising $100 million in a Series D funding round steered by Gunderson Dettmer."
+    publishedDateTime: 2021-08-11T18:43:00Z
+    webUrl: "https://www.law360.com/technology/articles/1411803"
+    ampWebUrl: "https://www.law360.com/amp/articles/1411803"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411803"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
   - title: "Redwood City sales software startup People.ai joins unicorns in $100M funding"
     excerpt: "Sales software startup People.ai Inc., which just brought in $100 million in funding. #startups #venturecapital"
     publishedDateTime: 2021-08-11T14:14:00Z

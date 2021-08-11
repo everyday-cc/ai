@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-11T15:47:00Z
 originalUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
 webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
@@ -92,6 +93,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "OvnUPyNyT0wICQJVfIbpRyPqczHA646c0aFPfzWzeXHWZJ3bgxIeok6rwfBGd6et4uObvVmavjBgJRrc59dECxBfs/6PHKfINPAns9XKTxFb6qusQzywSrUvZMfrjsQPENq2nSZrxbzREKnfazkR9pl+K+afcZgMW8CBAGIW7ibqElGG5OVqFk7D5PcxlyPiVKpCJQ4V11jJmzaERRVsjdfmbYQ9/CEkRLdu1QHBcgds+dC2OiEo/bk46EevMQjWJrTPPIiKPbsqfI3lz5R/ELXRx5J09nn94aYJlFYj80IA6hpeNzfJe14uu44+f9zxLyCb+sXofuZU1cAiEOvXD0AGAYMec3/Zjnkveni7Fms=;E1JpeJM6ZiRBnCZhlMFzBQ=="
+secured: "8MP23/kJQb82CuWcb6oa8yQ9At0Yo0OwJMFX4hP0Vhekzcwhoj4VAwggHZmxhvA2msK8OAuvW4UvPmEbbwW0be+X0pZpXwLAVotfhyj0mq3LRXfG7wENMpn/55mFbk4u/uSkn0WKw3qaqG7PqCCAGSWS2imMVv/UHFETNtdf6mUhDLZnITF0QSfAoAOU3V4aO9yCaTDl6LU21yNFSyz/VDvOHDV9VUWEKdeku8WpgbCN5Ni7QZQCfE8t+o2UtEd+yQP0on2R6ToWLMRzWMi9fSZbq9Mv/8IRSubRgWsaFbU5XFeBnqY4CGgSn6v94Tm0DT2lOEKqjNzshy0756e/LtgknFTei3tGUUxeeJTQKCxZj9GTs6Uj6u80Dir1og2SD3HZWq8lpuy8GqEDqdltE3juD2HrfJpwYzT1V9X1VmQ+XZpRyxfIqPuqRts2rc6Kx0P/1lQQvnSJYlIiQ+hG/Ido0mxkY0MmyQY52EwRF1JPgw7vDG/HmcwQN4Kuv2XnV/ijCcJLsXDsflzfdSwu/A==;f/NC5LQKWxJBtA114b818Q=="
 ---
 

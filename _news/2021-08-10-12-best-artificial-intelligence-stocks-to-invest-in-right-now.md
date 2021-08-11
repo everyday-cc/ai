@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-10T14:12:00Z
 originalUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
 webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"

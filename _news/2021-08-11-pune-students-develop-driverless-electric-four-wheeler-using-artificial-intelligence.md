@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/science/pune-students-develop-driver
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/science/pune-students-develop-driverless-electric-four-wheeler-using-artificial-intelligence-725923"
 type: article
 quality: 66
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,38 @@ images:
     height: 474
     isCached: true
 
-secured: "duKmPJ3FnPi+EOUJmZuuEeEUOzDcUHCvvmKJj/T7UW3IZ1poimhmmDVoiVErOKvO0wYehIAidmXkbNJFnyk9GZOzqf2el+1779fFKMp1EOWIeCKLZ5LzUMap/yCW9B6YMTGje6VfC8lI4SAgVH1MvanG678KbcKUSkhHCbUaH99Xft7MPt0kYePxxqpCICFJfYUkkiIDDiHzOZaHeQ6GXLwdF+4SKiYFciIax1RLjt9CXMDuDxc+uBc0/+OrZBqrGRRdB4UVvegUVwtsfmWqvkOXQ/ycCcWeTbopkrIZjJKBh2Uqr5J5WcmyRwtiaq1OP6oSkMJXXTSQkyPj7BW9kn8Woxvpwwl2PxPfMk+R5tc=;eIMjn476NTZVUHw8SYGRrA=="
+related:
+  - title: "Pune Students Make \"Driverless\" 4-Wheeler Using Artificial Intelligence"
+    excerpt: "A group of engineering students of a Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
+    publishedDateTime: 2021-08-11T18:51:00Z
+    webUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384"
+    ampWebUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 74
+    images:
+      - url: "https://c.ndtvimg.com/2021-08/qi62d39o_ev-car-pixabay_625x300_12_August_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "Driverless Cars Are Proving to Be Job Creators, At Least So Far"
+    excerpt: "When self-driving car hype peaked a few years ago, so did fears of job destruction that would ensue as the technology took hold. One report published in 2017 forecast 4 million jobs could be lost with a rapid transition to autonomous vehicles,"
+    publishedDateTime: 2021-08-10T10:43:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-10/driverless-cars-are-proving-to-be-job-creators-at-least-so-far"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihKTQ5wJiPbg/v0/1200x799.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+
+secured: "7mNXbJBWa8apGaudZHhxo3boteekj1IYAGY5JoL5bUxM9UBXDtDQkUT9+pwEChITcwsc8j7kvHoPSL9j7m37fPZl5cBytKvbCboq2Zo7hFB7ymQ4Vmy3xRYA8jsOTXjiotXQZnYpm9qRovmukxW5N3evs7mG/MLs4+36YAz50jJWHJ7Hk53fS9fwDBhYuB3Uc516voQhPm6jHzvrggehNiYaCZfBY7NvGIYpVJxD4Zh8AyEhjx9gkUPof3tE3qWWwW/0pqQ1HNyWCdGzAxreR8H/GfZhcWu8qfTjKbQiDB67mByU4HC+g6nx1cwAptbgfmsE6ks6iIhBU6ZDrKLQDwNcEo5IX5MszCSmuK7RGX3ju0K4XggNTZvOw4vv/sQqkHaebx/pZOi5mX2wk3gx1AAGOOiv7HSAA4rxpArH9s88FiGRxH+tVZaTv8MPRFciBievy/n9TbvQhq7OQWSZhlKxONo2iNkuMHF4fbfVGtt0TfwEsK7gDdXWlg8vddITnsfSx0M/rECTAPr9N4PQsw==;jR1mDGX96cZm9tkUXoV+eQ=="
 ---
 

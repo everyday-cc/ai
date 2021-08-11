@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/society/2021/aug/10/artificial-intellige
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,6 +30,36 @@ images:
     isCached: true
 
 related:
+  - title: "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan"
+    excerpt: "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan."
+    publishedDateTime: 2021-08-11T18:18:00Z
+    webUrl: "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 60
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-1-4.jpg&signature=243543456642555e7ebed5e37fe997b9"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Scientists use AI to identify new biomarkers for breast cancer"
+    excerpt: "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment-;and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer."
+    publishedDateTime: 2021-08-07T21:41:00Z
+    webUrl: "https://www.news-medical.net/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Artificial intelligence could diagnose dementia in one scan"
     excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
     publishedDateTime: 2021-08-10T10:00:00Z
@@ -62,21 +92,35 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Dementia: Artificial intelligence could easily & quickly help to determine your risk – how"
-    excerpt: "Now, artificial intelligence may be able to help combat this problem. In pre-clinical tests, artificial intelligence diagnoses has been able to determine one’s risk, years before symptoms develop, even when there are no obvious signs of damage on the brain scan."
-    publishedDateTime: 2021-08-10T08:07:00Z
-    webUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk"
-    ampWebUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
+  - title: "Artificial Intelligence May Be Able To Identify Dementia With Single Scan"
+    excerpt: "Scientists are currently testing an artificial intelligence (AI) system that may be able to detect dementia after just one brain scan. This system may also be capable of predicting whether or not a person’s condition will remain stable for a number of years,"
+    publishedDateTime: 2021-08-10T08:25:00Z
+    webUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/"
+    ampWebUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 49
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 56
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/Dementia-Risk-of-the-condition-1474736.jpg?r=1628582853870"
-        width: 590
-        height: 350
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2Fbrainscan_.jpg"
+        width: 1200
+        height: 619
+        isCached: true
+  - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
+    excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
+    publishedDateTime: 2021-08-10T10:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/88866/cambridge-judge-business-school-opens-courses-for-startup-funding-and-regtech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "n4R3lc2/+M7lEvtrKrDDJHKvX2wLOiLtvtUBXEtaMSkBQ+t+1K6B71vmSFPG+Oc16u145xFcN0p/p/D9ijez7+sM+J2s/ug/Ku2XXrqgJ0Wy7syyObbdi9xDCmdsTgaN8dSob3PiK+wN7lpHimboe6U5Zm6rUG+zAlhkd79X22mpwkF75rDmO3cEzxsunYygzpk5AefMvoww7rwnB6XP4ub359nJzoWZ2YwoE+MGf35tE641GQBW7s8qHAunJNcwWVP7aXzZsCIiJnhtrbYa+FOryzzDgJuoNS4Xnad0PyFcBLsCt+LSnM6BsiXynqq97vcAI7IoPp75wmA6EDwpSdmDBP12Zg7bOYNXXHGnJ0gm3Bi9S1s8OnwCSCnXAqNSt7iYTCgfcUepO4zI5ANmOLM51pQ2JOWgicu32FPJ5b2XJGZKB81BjkYV6ffoV74Z3/b6y6ZJ6LCfwtVOnJoxC868umUF5HsxPoX3pbnehUoxLf1FuKyshK4izVlWA2Q/NCr8zfMeW9Ku/WuH7ppE7g==;iVboG7AIL498Ce8a5PE22A=="

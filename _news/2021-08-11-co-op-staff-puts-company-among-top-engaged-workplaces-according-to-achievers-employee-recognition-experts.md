@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-11T16:20:00Z
 originalUrl: "https://www.cuinsight.com/press-release/co-op-staff-puts-company-among-top-engaged-workplaces-according-to-achievers-employee-recognition-experts"
 webUrl: "https://www.cuinsight.com/press-release/co-op-staff-puts-company-among-top-engaged-workplaces-according-to-achievers-employee-recognition-experts"
 type: article
-quality: 5
-heat: 5
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
