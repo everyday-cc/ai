@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-
 webUrl: "https://www.futurecar.com/4789/Baidu-Launches-its-Apolong-II-Self-Driving-Minibus-in-China-with-No-Steering-Wheel-or-Pedals-for-its-Apollo-Go-Ride-Hailing-Service"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou"
-    excerpt: "The Apolong II utilizes Baidu's vehicle-to-everything (V2X ... Foshan and more – the first-generation Apolong is the only self-driving minibus to achieve large-scale operations in China ..."
-    publishedDateTime: 2021-08-06T10:03:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "Baidu Launches its Apolong II Self-Driving Minibus in China with No Steering Wheel or Pedals for its 'Apollo Go' Ride-Hailing Service"
     excerpt: "Chinese technology giant Baidu, Inc. announced the launch of Apolong II, a new generation of multi-purpose autonomous minibuses that are being rolled out in Guangzhou Huangpu District. The fully-autonomous shuttle will be used as part of a commercial robotaxi service and is powered by the company’s Apollo autonomous driving platform."
     publishedDateTime: 2021-08-06T19:25:00Z

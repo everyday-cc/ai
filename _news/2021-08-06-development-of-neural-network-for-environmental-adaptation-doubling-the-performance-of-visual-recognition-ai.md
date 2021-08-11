@@ -73,19 +73,19 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Synthesis AI's Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep"
-    publishedDateTime: 2021-08-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
+  - title: "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko."
+    publishedDateTime: 2021-08-10T13:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 51
     images:
-      - url: "https://mma.prnewswire.com/media/1579933/Synthesis_AI_Logo.jpg?p=facebook"
-        width: 1919
-        height: 1005
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Eqyy12tlR2YHFzVY19n78Gku49RtvtxjjsGDF6zls1/VsqZy2x+H3wS7lKRqVWV8RX5y14L0izGqXCy7dur1+oPACLE4y63ZWePCdGjgrHht6D5iR6d+Z3Ns0LvZmUP6T8eFu0ZiQ0RK+UCXE9V8jxy0oLcN2bQMgiJmw/IZeFDK7qUTlI3+Uq1ai/B/QikVwG70XHFQjYUVzyzteT9kbkGCR9YzZsYFLJXQyxZ1GkhMpxd/1c4rrfJ5n32I3qUZkVVkznmwDv0Hph0tvr/O0lSAxUuxmsPe8KmpY2iEWFSb+pS19glUU412isaRJ0v4hnA8ixoJjolrtGgHQ/s6TVAtc5bdlzU/KStaDwA199w=;FYktHw5ZYKQ7dF0rQ/6+bQ=="

@@ -149,20 +149,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
-    excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
-    publishedDateTime: 2021-08-06T09:54:00Z
-    webUrl: "https://www.businessgreen.com/news/4035499/arrival-microsoft-team-pioneering-electric-vehicle-platform"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 36
-    images:
-      - url: "https://www.businessgreen.com/api/v1/wps/0d91a8f/ae110fd2-e61f-48e1-8d54-4572e0357fd4/4/Arrival-First-Bus-shorter-street-view-370x229.png"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market Research Report 2021 – General Vision, Infosys, Microsoft, Oracle"
     excerpt: "A2Z Market Research announces the release of the Artificial Intelligence in Oil and Gas Market research report. The global Artificial Intelligence in Oil and Gas market research is predicted to record a substantial CAGR of 12."
     publishedDateTime: 2021-08-08T12:07:00Z
@@ -177,15 +163,6 @@ related:
         width: 604
         height: 401
         isCached: true
-  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
-    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
-    publishedDateTime: 2021-08-06T09:38:00Z
-    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 19
 
 secured: "BRn6HEt07bn1+0sLJR0rK7ZQV4Bw46PwYc0p1JQB0DnVZwWC2ajyeCqBZzdq+Gk25h58PMOTaD87H3m7gu5+XfLw2ZrUeWjMzOC9kDlO/+5ePZw90qa0LfZwruVr4iQPodpZNxmIFoJvzyET3Ik0TV9bWZK+FsNPC1zB88UmyYZozhM0A9znWS0YvkaorBTMtaiuqeiRv37MRfdETQ8va4CjeOmcXJBw0ZKoi62tVn0MGcTV4iKfTKUcsH0O2F/KpxNY0GcJO2doYJEyf3qvUraRL/qBUgWk9rXn0FcF+mwNM4BjMS1LOM+PNXwrwxHUQl/6EK6VBdyY41Axv53vcYo3yHOj+DpP8Tx33KiVmxZvVpTNfricM4lY9MaXhkbLv6VtWAH995IVuvYPWGfwnX8DJCEdSodbk4GflFb+LUR8PShNkcmG4aHG6FCUekBRoXvsgSRp30hGgAbuZ1S6Up5shALllSMYkUfngh3keO07my0riOkEPQvDi0V58tHviCVhEkcId9au1DtiNUZqUQ==;DuGrhO5deQBJ528IY4L89A=="
 ---

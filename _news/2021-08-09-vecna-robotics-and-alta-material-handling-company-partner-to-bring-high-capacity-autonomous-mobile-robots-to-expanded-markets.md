@@ -35,20 +35,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "John Deere acquires automated agritech start-up Bear Flag Robotics"
-    excerpt: "The $250m deal will see autonomous tractor company Bear Flag continue to operate from its Silicon Valley base."
-    publishedDateTime: 2021-08-06T09:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear-flag"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/BFR_Tractor_1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "John Deere Buys Robotics Company For $250M"
     excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"
     publishedDateTime: 2021-08-09T15:16:00Z

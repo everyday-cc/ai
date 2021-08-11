@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2351535/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351535/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Agricultural-Robots-Market.jpg"
         width: 640
         height: 446
-        isCached: true
-  - title: "Acceleration in Innovation! The Latest Breakthroughs in Conversational AI, Computer Vision and Recommender Systems with NVIDIA"
-    excerpt: "It is a dynamic and threshold breaking time for advancing innovation across Conversational Artificial Intelligence, Computer Vision and Recommender Systems (RecSys), with NVIDIA accelerating new ground with the launch of TensorRT 8,"
-    publishedDateTime: 2021-08-06T10:38:00Z
-    webUrl: "https://www.bbntimes.com/technology/acceleration-in-innovation-the-latest-breakthroughs-in-conversational-ai-computer-vision-and-recommender-systems-with-nvidia"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 26
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Acceleration_in_Innovation_The_Latest_Breakthroughs_in_Conversational_AI_Computer_Vision_and_Recommender_Systems_with_NVIDIA.jpg"
-        width: 1919
-        height: 1080
         isCached: true
 
 secured: "EJKXBlNoBYOb+HsSKKK3Ik/mwUwIArkqfw2Ul8gyvwXeui3LJQ0S4sE4+6aAPddgcp7lqavW6Fk0jt0aJ8XTzJzW6a9dc1VhB38VmrUeOW3rihfUPqQhLSNK8D4i+EHWkMhLVapITa/srrKYhctpVCfdvSLNEgio/O9+1mpsHBJBS8fH78ag03zTMnFVAvUQlZkObbY6VrkzBzyJolfpBWlHEO7wZ//ftt8Btkya/RqsJXNBiWwAVAfHYDVJBqF7Cx+LqlS8CsLCZneNf55MjB/w+kJPR1vmVLL1pViaooBHCuKv3oeoFss6PHEQcuX6sQCe1v5oyi73rNCN5bXbZwkMnDD1d3fLuYnEWz7a4rmF+lGCzl8VNWJG4rsJXPcIoXSennWMFXYmPU53DC/Ryvx800b61dbDXAHnBj8A6jIoR2fvyj1caE7ew0Gbq2oYzjn86WAO9gcjo2b3jaYnozsRgpNJRZpRt5ffYzL1Exmla1ntnyYJGlzr5ZDY+GO6xCYv2r14SndoPhS8Mqb0yQ==;QI3R6vW3c53WnF72xleYsw=="

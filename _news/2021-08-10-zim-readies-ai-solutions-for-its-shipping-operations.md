@@ -54,20 +54,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Top 10 AI Innovations Of 2021 So Far"
-    excerpt: "AI is a complex and ever-evolving field where organisations and individuals are constantly focused 0n finding novel solutions to pressing challenges. The year has been full of path-breaking innovations which have pushed the boundaries and made way for better outcomes."
-    publishedDateTime: 2021-08-06T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-10-ai-innovations-of-2021-so-far/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 43
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Image_20210806_114324.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
     excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
     publishedDateTime: 2021-08-10T13:58:00Z

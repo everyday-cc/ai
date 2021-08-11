@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
 type: article
 quality: 106
-heat: 216
+heat: 196
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
-    excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
-    publishedDateTime: 2021-08-06T09:54:00Z
-    webUrl: "https://www.businessgreen.com/news/4035499/arrival-microsoft-team-pioneering-electric-vehicle-platform"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 36
-    images:
-      - url: "https://www.businessgreen.com/api/v1/wps/0d91a8f/ae110fd2-e61f-48e1-8d54-4572e0357fd4/4/Arrival-First-Bus-shorter-street-view-370x229.png"
-        width: 370
-        height: 229
-        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market Research Report 2021 – General Vision, Infosys, Microsoft, Oracle"
     excerpt: "A2Z Market Research announces the release of the Artificial Intelligence in Oil and Gas Market research report. The global Artificial Intelligence in Oil and Gas market research is predicted to record a substantial CAGR of 12."
     publishedDateTime: 2021-08-08T12:07:00Z
@@ -179,15 +165,6 @@ related:
         width: 604
         height: 401
         isCached: true
-  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
-    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
-    publishedDateTime: 2021-08-06T09:38:00Z
-    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 19
 
 secured: "vLibMQCvZitxg/elRs3u+gZVeE1ipmc8xVh1Vp5qUIJiIeA/NfY2eDmCizaYPFDpXiuP2llB8dIGyVPQ0E0kg6gWBxlRyFMJcQsJ6H0xWyEGuxQZB33XOGCiriHKF+y4vMpChPJIb0Dm6PVW1ESfeAckUUyhfIYPRwqVtF0j9qFtAU6Qc8RD++OGfBCPylRD7YSVP04uXZBUPiaNVjei6WQT2Nz7DoCooV+TMcpfBzNIEYJTEJr9Q27jTztZc7jWH94/baYMffWRN0sGZ03rgCSrhu3L+yJ2TJJkWXZg5QmLT3J/+QxB2pRxjnWDJv4AtnWTUtLP18jV3VqffAqjmgErd/V8BCEKbxhTLh73lkrIeFM9XYI4JmRZz/w/5uvEdaebpSvwDK92izCcN6Pg1Iptcyha/DOKzkFm4hCx27/QR82qnUkrKkei4FK3OSCOYlLcbw1L1+Kt9ixxCpsMAiR+10wBPoveupVhtXY0TM/bO+EVv5KhigV1zAkpZ2U/BWLIPYPOMKnszeC8yevodQ==;Y+Ior5KH4OffXZKFKcd9Xg=="
 ---

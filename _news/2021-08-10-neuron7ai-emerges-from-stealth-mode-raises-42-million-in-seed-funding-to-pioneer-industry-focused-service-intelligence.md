@@ -24,22 +24,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "French startup Dataiku raises $400 million to bring AI and data into the enterprise"
-    excerpt: "Dataiku, whose cloud and big data solutionis available on Azure, Microsoft’s market space, has announced that it has raised $400 million from investment fund Tiger Global. With this new financing, the French unicorn is now valued at 4."
-    publishedDateTime: 2021-08-06T09:56:00Z
-    webUrl: "https://www.actuia.com/english/french-startup-dataiku-raises-400-million-to-bring-ai-and-data-into-the-enterprise/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 33
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/06/Dataiku.jpg"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "NnErWalvSgkf4sdmy7BecYgKM8P1j5Va340TzK1+7c/pwPsRwEQ22C8BqxHbveVi3tGdU1cjGiGLIe8WF08cnO62qFc5YYkt+ulB0Vca5Fx6QQhMqQBsOQRaa7PYbMzj5w3v5VLoE4tEWbfyGmOL5/+znho/msBjrToID5/RiIsMlp4V7XXaKG2FM+aa+pZGbxl9PBR8wAIPS4ecsUJhNoPWWWaSaGQfnN+jAZpnS9oDuAEL1haFtUp7CIRvYL8tLeL3xLJdzXVoac3o5g4x8WIujwXaGfl28WFatYPKd8Kyuvib72ywrEp8waBjkkqvOQ73xaxxPe0jC9ME8VQ0LkY8ZeuD7MeaKKXTHFrbVVk=;zUBKOE644lvAIkQuMZsjpw=="
 ---
 

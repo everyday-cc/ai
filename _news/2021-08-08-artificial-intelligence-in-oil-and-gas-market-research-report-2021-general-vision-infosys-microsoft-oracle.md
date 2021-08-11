@@ -160,29 +160,6 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Arrival and Microsoft team up on 'pioneering' electric vehicle data platform"
-    excerpt: "Electric vehicle (EV) manufacturer Arrival has this week announced it is working with Microsoft to co-develop new digital vehicle management capabilities for the fast expanding zero emission emission fleet market."
-    publishedDateTime: 2021-08-06T09:54:00Z
-    webUrl: "https://www.businessgreen.com/news/4035499/arrival-microsoft-team-pioneering-electric-vehicle-platform"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 36
-    images:
-      - url: "https://www.businessgreen.com/api/v1/wps/0d91a8f/ae110fd2-e61f-48e1-8d54-4572e0357fd4/4/Arrival-First-Bus-shorter-street-view-370x229.png"
-        width: 370
-        height: 229
-        isCached: true
-  - title: "Arrival co-developing its Automotive Open Data Platform with Microsoft"
-    excerpt: "Arrival, a technology company devloping a new approach to the design and production of electric vehicles (EVs), will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft."
-    publishedDateTime: 2021-08-06T09:38:00Z
-    webUrl: "https://www.greencarcongress.com/2021/08/20210806-arrival.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 19
 
 secured: "W9mB+fg33QGPfyFRm2IYuOdTs5F8u0UXBcYHzfGRl1hrBpHENSqMzKN2ve6NgbTI/SKXgPd2ZbRjNyr5xqZs8Z6PVU/ZwzC5SlTSbKNrbWkxwAg+DLjMfLPdZ9GImFjBof6O/gFXveb4lUHF8nZY3RRynCXkdTarpDYB2Nhwa0HAEm4SVlYz/5qC7gBiVfgwL+jBka3qcKMCaz2McyG+TtC/Vq/ZtAEaDEOtXWWNhzQOv6z2ZXKPjOtqUB6MbG4zb8FwgHwfbiedGlHtlz/G6j/H32JW/IyRMjSTPd35hKN9m4WUGrS4o+V5sctNLdzHmXpIaEg4JUbD2XjQeQTD4URujcPZmuP/xr8Jw2xcR3v50Qwcy8hvz+xKu+1ianY4uzZE5nm3A8gja3mYHUU6yWNcmV0tHDIHqHU7GsDXbqefRHFr/O69gmkJVYUPTkjmFTtZiB78sX3+uLTemPSFDX5nf+sfLffdwXrYkqy85JqNxzvkYsIsSOyQBxVSMsVwmmuIZL+Hr1YrIHoSgHoANg==;Yz4Q3qJb/3PScEMl1xSALg=="
 ---

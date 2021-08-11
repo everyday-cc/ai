@@ -1,7 +1,7 @@
 ---
 category: news
 title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
+excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and running fuzzy match algorithms to replace manual name match ..."
 publishedDateTime: 2021-08-09T08:09:00Z
 originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
@@ -93,6 +93,6 @@ related:
         height: 824
         isCached: true
 
-secured: "Tb43MY5yt0vL/LB/pG9NarSV8aSk9nAknVYDr8FPTccCI6W4zhbhXF6Ob9MWfyXA1jg/LxjiWjmziA6+i7gvW885g1HPVDmbMLZHnyku7nIozEhYB3aobMviD9SFlqAclJs1ziVRBXCwlA+9W00S0xPhdzxw3vibCVEQ812IjaOE2fM8KlabMeqNaQ1Fn333JDs+ZBoTUcWdhwDWu4PjFw+RgteVXlOQjIVrjdj/zgEWhiJOyUlyFUB0fbvTqLfwOfqyGezznHAd09ciL/EGzmWpknmzjk5cc7LRk//54MkdcASIXnwmnLJ/fyVfG8wDQBoiTTx4mks0LktQNc0B0CK2reEE0mhqY6UcaCBTsi0=;whczJvAeNtBuwC6aiCzJXg=="
+secured: "wlUyC9ppp+uj+21p3+tzj5kmZ41ac1lub0pNq4BtY4Ne9gXjRw8NnbeiJHZHlmvGw1xeNCUpa8JNyFTDqwCgv9NeCWJc2sgJl8snwVppYMezT0oyawGBskHn7O8F7P9ViKjCAMZMda974jTgY6Ti/vQaqcNQKvKeG7/5UhaWaN8nxGIBaOgBz+gyzLJxGV1nEtGehIAAx6Ve/oTzYs5SC7FRuvP0L/6Pn3d+BdIhyC1KJpvJDJ9ThN7NRYppTJJFJze13hNRbT/yTiK9oHKMD6HD6D7yZBi1tYW1oOVaqu8PYYTZHb/FhxDNKtXg9p0k8qmVtA5fOHvGCbr+mMo9E3v38+NBtH2CYfvnVlvPYfI=;BLD9nOxXZpL5nju04VJVsA=="
 ---
 

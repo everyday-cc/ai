@@ -2,31 +2,27 @@
 category: news
 title: "Digital Disrupt reinvents the future of beauty by investing in AI-powered cosmetics startups"
 excerpt: "Openface, a personalized AI-based cosmetics solution, raised $380K as Digital Disrupt VC club looks to pioneer data-driven beauty tech in Europe. Belgian fund Pitchdrive participated in the pre-seed round."
-publishedDateTime: 2021-08-10T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/digital-disrupt-reinvents-the-future-of-beauty-by-investing-in-ai-powered-cosmetics-startups-1030713744"
-webUrl: "https://markets.businessinsider.com/news/stocks/digital-disrupt-reinvents-the-future-of-beauty-by-investing-in-ai-powered-cosmetics-startups-1030713744"
+publishedDateTime: 2021-08-10T13:38:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-cosmetics-e0b09c0119d816925e4422e9d3025b8f"
+webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-cosmetics-e0b09c0119d816925e4422e9d3025b8f"
 type: article
-quality: 56
-heat: 56
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1590972/Openface_1.jpg"
-    width: 400
-    height: 335
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "v+cdL2wzxyoNdqgckcZ2dNRCxjr4cnyDRcyvx1fjFnyES9ehWpf8wJpH+1gcJKpk9Ox7MShbnHjskOCNUho0T+s4FBz0RNUUeEBTLrDasig3XlDwaCwlCqsjj4vVL/S2tu4sx5Up2/kvDge3yBijuhE97ofJupZlcQRo0l0VI1ALUJJYcQgccNVUCCKwW4gs6xcOj6iorcBlZbd9UZSt3ptjt7wZJvwWoH4i4871ZALLFF25vDmQo7Lu/MNR5eqH9iysqrACsc1JTYJVWlxDOm1SZ20psVFTnTozx4dYQLw2mtfwKrV62+yvFuTFlu6mQakWCTq8OcuUDrs9TQqNOL5pRzYXrsrB7iudOa3Z95HeVzxRfKajsXPA6wAxrAsY7jELv9eYxIwJ+GAMS8sNE8xJBZKh9zteEgV3DdtWuvqb4rCUhWpEOqeGxB+2HbLeF7KucfE9qv6xZZ/QQMf0oWzELnoA5wsOfhLG0qJJwo9ChIiOiw/qctCETpU6RaY8C3q8OwJdyrJEqdrP7lgYLQ==;/VhW9abVQIxlzXkC8CiO/A=="
+secured: "f6QEVJVjSMc/F4bNWjnafazhjoXWsO+oJ9wB4GqwxBAPVqLMEZy7bUFWCJDD0dcxn8KhVI1yhCAvYW2/gDYKIC4GAQ9MyWrLWO7hf0baa4ZeLfgv2na77b8lBLmq3UoquIIlpGlq90Yhif12lnykjM2lqxj+ybvEBkpBGXxfuD3v94gBx+C9afoiK+T6XdAWvs9mSQfupxQCipGH2XPgOTvmQET7FtBcMwJH0tECmRyK7QLU5RBmfQzUOt+ABZsN73ibZDCL2wcG//SCnlVG5NHCwvaZXvVx33bSLCQs9asdAeecXs1wJpAFwUMH2ebG5TklYT5Ih08fidkXWoemv21fp/AZzVldZwNmNfMg1xM=;15CU8pRlIBCFeNNbkNxdSA=="
 ---
 

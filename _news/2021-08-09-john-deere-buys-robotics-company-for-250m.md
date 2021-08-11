@@ -35,20 +35,6 @@ related:
         width: 880
         height: 542
         isCached: true
-  - title: "John Deere acquires automated agritech start-up Bear Flag Robotics"
-    excerpt: "The $250m deal will see autonomous tractor company Bear Flag continue to operate from its Silicon Valley base."
-    publishedDateTime: 2021-08-06T09:24:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/john-deere-acquires-bear-flag"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/BFR_Tractor_1.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Vecna Robotics and Alta Material Handling Company Partner to Bring High-Capacity Autonomous Mobile Robots to Expanded Markets"
     excerpt: "Collaboration Enables Leading Material Handling Solutions Provider to Source Intelligent Automated Pallet Handling Solutions"
     publishedDateTime: 2021-08-09T13:10:00Z

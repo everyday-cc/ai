@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Synthesis AI's Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
-excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep"
-publishedDateTime: 2021-08-10T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
-webUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
+title: "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
+excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko."
+publishedDateTime: 2021-08-10T13:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1579933/Synthesis_AI_Logo.jpg?p=facebook"
-    width: 1919
-    height: 1005
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
         height: 464
         isCached: true
 
-secured: "4dCGoFNuI99eQYN128kMRFNUT1s+b2mxFT9G+qdeGfbVQSsDNup9ivUdweih2tpWrkIQcbv/hnE0LyVIUkhOumy8hmr0gXKd8H6PcOIXKFtU71GWAQwYV91BKFKPnBky/dBGiNr8wn+/XHrX3uuyxY7mrA54R1ddtoPgPpZ/WDat2WV2zMliBwluo2oy4Gd7DUxGSWfTqwU4oyjFIQKLA/hhkSe0PWbcrafwdfq//Y1irWJpvwwT90OXq/4f7RFlUwTIHeX9TkByhdMbniPMEyHUjvgy0ndxdyTB0ZLUJb0/i3FZu86UPZmvBLCCg5K8+o79uEb735UUfK/1BCxgcb2wgWXarSfdekYNgb0CKW0=;8rEWezagt58Ijhr4d8kYaA=="
+secured: "Q6SbZDBofgKDfuDxAjiN2s2/W3aimg2+Cv6OM2RcjviDx9CeQ4zYi50bi4VGvKE5StJNwhgmhyEb2CewKVuPV7rW0HPFleQjDcoZfmVbws3Czmp9YLGme3KOZpFjzEM+n3mpk5Iuy+I+PnoLa//hY7lZUm+ySK0RjyhDWFi9YumcSLGANjYw8dhUm47sgC+GXpE1bBieRo5kWkDk0Q43gWpbQJcibO9VgO2Dxf+km2AJNQ0CosGFj3X1lRHU/30XFeN/CTWrcc9WlMSfP5IedM1iufUF5UXDX7N8Gg9xjx7s9kinNb2G33v9GLQIiDfhrJhq336l/CPES+J9Bth+M7soHMth5uMyjOifR///pFc=;RImDqKCGe8J5fs99JbFxbQ=="
 ---
 
