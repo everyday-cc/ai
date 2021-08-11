@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle accelerates MySQL HeatWave queries with machine learning"
+    excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
+    publishedDateTime: 2021-08-10T19:18:00Z
+    webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 91
+    images:
+      - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Oracle tweaks MySQL and boosts storage engine"
     excerpt: "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,"
     publishedDateTime: 2021-08-11T11:01:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ab-tower-cloud-database-scaled.jpg"
         width: 2560
         height: 1536
-        isCached: true
-  - title: "Oracle accelerates MySQL HeatWave queries with machine learning"
-    excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
-    publishedDateTime: 2021-08-11T02:48:00Z
-    webUrl: "https://www.arnnet.com.au/article/690433/oracle-accelerates-mysql-heatwave-queries-machine-learning/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/oracle_dreamstime.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Oracle Announces MySQL Autopilot for MySQL HeatWave Service"
     excerpt: "Oracle today announced availability of MySQL Autopilot, a new component of MySQL HeatWave service, the in-memory query acceleration engine"

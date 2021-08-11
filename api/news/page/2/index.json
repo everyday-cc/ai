@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -209,6 +209,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-oracle-accelerates-mysql-heatwave-queries-with-machine-learning.md",
+      "title": "Oracle accelerates MySQL HeatWave queries with machine learning",
+      "excerpt": "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "publishedDateTime": "2021-08-10T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -659,7 +712,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -907,7 +960,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1148,21 +1201,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-logitech-scribe-review-ai-camera-brings-analogue-whiteboards-into-video-meetings.md",
-      "title": "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings",
-      "excerpt": "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,",
+      "path": "_news/2021-08-10-seachange-enables-migrated-cloud-video-delivery-platform-with-aws.md",
+      "title": "SeaChange enables migrated cloud video delivery platform with AWS",
+      "excerpt": "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
-      "originalUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
+      "webUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
+      "originalUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/09/d81ef24f-a2f1-49d8-9318-a8be0945cf41/logitech-scribe-camera.jpg",
-          "width": 770,
-          "height": 554,
+          "url": "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png",
+          "width": 415,
+          "height": 251,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1170,64 +1223,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
-      "publishedDateTime": "2021-08-10T00:50:00-07:00",
+      "ampWebUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "publishedDateTime": "2021-08-10T00:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade.md",
-      "title": "Artificial Intelligence and Robotics are the major investment trends that will define the decade",
-      "excerpt": "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "originalUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "publishedDateTime": "2021-08-10T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1237,7 +1239,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     }

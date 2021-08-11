@@ -105,7 +105,7 @@
       "originalUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -295,6 +295,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-3-ai-stocks-to-buy-and-hold-for-the-next-decade.md",
+      "title": "3 AI Stocks to Buy and Hold for the Next Decade",
+      "excerpt": "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/",
+      "publishedDateTime": "2021-08-08T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1374,49 +1426,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-could-dramatically-speed-up-climate-action.md",
-      "title": "Artificial Intelligence Could Dramatically Speed Up Climate Action",
-      "excerpt": "Technological solutions to climate change can be put into two categories. Vertical solutions that tackle pollution in one sector, say low-carbon fertilizers that help reduce emissions in agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html",
-      "originalUrl": "https://www.fa-mag.com/news/artificial-intelligence-could-dramatically-speed-up-climate-action-63299.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fa-mag.com/images/logo_opengraph.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Advisor",
-        "domain": "fa-mag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

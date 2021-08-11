@@ -3,14 +3,12 @@ category: news
 title: "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings"
 excerpt: "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,"
 publishedDateTime: 2021-08-10T07:50:00Z
-originalUrl: "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/"
-webUrl: "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/"
-ampWebUrl: "https://www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/"
+originalUrl: "https://www.zdnet.com/index.php/category/2025/index.php/product/logitech-scribe-whiteboard-capture-camera/"
+webUrl: "https://www.zdnet.com/index.php/category/2025/index.php/product/logitech-scribe-whiteboard-capture-camera/"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: ZDNet
@@ -24,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/08/09/d81ef24f-a2f1-49d8-9318-a8be0945cf41/logitech-scribe-camera.jpg"
+  - url: "https://www.zdnet.com/a/hub/i/r/2021/08/09/bbb91f27-303f-47f1-ae04-735d17fb5914/thumbnail/770x578/0e78aec338b57a309eb6eb7b54b58c53/logitech-scribe-header.jpg"
     width: 770
-    height: 554
+    height: 578
     isCached: true
 
-secured: "J0+vEd6E1Rul1lYvynSWRVjjtALPShzvux0bmQZ7Zwx69dtGF/w622CTzyiW631KoM45bxpMy5FwDhX6vMzY9QqUYtagJnXsP1997wOAZxvS6LocEw6FhRQSyEvwhZddf695FmUfwlFu7SV8d3j7WV60UCa5agohZy5VQMgFtVZfEqJnSQOdI3YTnkBOKIPp7bxKforwUc6GrFPtbsKMol7i9XNuajKzwlVyhsbp8lNRjsTEuDKg2lSEStW3g3dWpZ8LTN4ujSmP9e4H8QhMYZwXXmlmtZUXFDL7kwd8wBWFUZwP+i8Ik3CPJSvNQM7XAKXNjd1mMOwfh7ZA4tBxnnSiA8H8NcPrqWM7R9sfeJfOnJDizhLLSd0M6lyGJQChipU5T2JhILHvTSsAMDgz9K1Jt78lOj4HkBK0v83U3rA2Psw7nTT5YbPpkYZnWQsOA5Y0xKD/BcgFWSH/kHy5cGaWxS7M9pco/wvlD4SPHVPN+NT93DqfEq3KvPYao1S0tEu9k6dx8dNVT74B0tkytw==;RVnyenCcDCZOvJIZ4YporA=="
+secured: "Yb08Bhzm2euKLqlXYhTWwZjeTF1fY4fHGu4CBgaUmSdLPjdsEcZ18RSY3zwXuOLJLSU2tPFwgGncgaaBaoetyIWP2wFy8bc9kqgsJEZcpg4ryfDc5yW378AZ0vftWNk3k44jZYSlZ/zruSUKWn02oIDwvdlfMPSzb6+qd9hvXLivlHNTCNUmGMSlp2Yh/0KQeaJFbD6M0PimwZ8LLZZGHG7mYEuece2kgBsmcps31+O+ADsceT6hL0Q3088XhOz0Q4N44uwkcLXNnjDla/mCIkGUNKWONnEQeym050wI8CbUxIMd/VVCi5ImIVoGvh4XGPdUufNv0WtCQQ0gp5Io51Mq34ypS+3HrNk37ZoQIUI=;2QpIctBzPQPU+5R4v+blLw=="
 ---
 

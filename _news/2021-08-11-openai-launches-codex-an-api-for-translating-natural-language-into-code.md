@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/openai-ship.gif?w=925"
         width: 925
         height: 519
+        isCached: true
+  - title: "Bias found in new OpenAI computer vision model"
+    excerpt: "An audit conducted with OpenAI’s former policy director Jack Clark has found gender and age bias in the firm’s latest computer vision model CLIP."
+    publishedDateTime: 2021-08-11T20:20:00Z
+    webUrl: "https://www.biometricupdate.com/202108/bias-found-in-new-openai-computer-vision-model"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "OpenAI’s new Codex neural network writes software in response to text prompts"
     excerpt: "OpenAI LLC today launched the private beta program for an artificial intelligence system dubbed Codex that can write software and perform data science tasks in response to natural-language prompts. Codex will be available to participants of the private beta program through an application programming interface."

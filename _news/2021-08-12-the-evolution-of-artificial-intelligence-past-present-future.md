@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-11T19:30:00Z
 originalUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-past-present-future/"
 webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-past-present-future/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Evolution-of-Artificial-Intelligence.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "AiNm+h/mxFOLfmAoHzFLXIUdJ5x7ies63a6V9btXdLDY2eF1vVDp3jLZ6Xx0WyOw7Y7vVT8OIyOIxFavf4s2E+BcVpr2y1RRv9ZS67/+QTQV/21HOee+26XmNpA51zdwAPktk/E1XTVDjmbtvmVjaF4hSRfUVnftUwxzIt0unATnlsbpFWYLCFXssH8NQiC8aZ/ocmadaCPckUPvvwCSsus8CHTqv3eJfZJlVUmVh8pvyd8MbW0VLBNaSR1kPo8adCffA0+isH3sLltythabIwtYU6Scqmbu35w2C36t06ooAIJIHdNxfgxF+jfRPnMVGj5xOp9ebxpZXvHbEZ3221LcEIVHQ7q1Y3I7u31I4hw=;oIBy4qGDbqWVoX4vr9i6Pg=="
+secured: "bt1DKNXct0XejBle0OOTjDFk7mgPKTDquSUsM3dAlMZyPU/LyJXFVfpk8HWFQmZCiZKodTm895khXC5bRiC5V4cOzQ7i56NgVpYDdOolt0q2+DCikytZzIN/psrECbwbSzz9mN73H+di1zjt1Hvm1TDyt6+K+HKgwhclZT+7/DOYlkxPWBGlZ/0n6aoZMIgBm7iXeWltdiOYikllBfQtowQaBEQ9b6Fp8B8BxuBH3LrNjvFhRjo5LevjE/hFnncOCnkCfwF5nSZpsY9pXLeiBvyrTsYWyiFvxjaqfl4vWX/6hhCvN8yOTw880B8pAPbh0YML0bqvcmsAsGZxrTj/JHInaAs6bD92C1aeOfrOOcnArJiOEqdjonzcmFVkIyjvMh/nFLn2bQTliCBm9FuRrZalO748byaJhn1RfK2zKR7lWP3I4utrYNhckYjzX7ZKHEAVZVasz44Lvl+Bd1woDuyWKK1sAOrCY2NCjagFaeUXJx1f2fYSN7AkgEct5y1IZ2Vib4yBjxGc6KFITTbJfw==;9YRR2qYkUaJwCCu8HMYxqA=="
 ---
 

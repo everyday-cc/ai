@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Neural Network Model Unravels People with Autism's Difficulty with Facial Expressions"
+    excerpt: "Researchers at Japan's Tohoku University developed an neural network model that can help explain the difficulty people with autism spectrum disorder have in interpreting facial expressions."
+    publishedDateTime: 2021-08-11T20:56:00Z
+    webUrl: "https://cacm.acm.org/news/254739-neural-network-model-unravels-people-with-autisms-difficulty-with-facial-expressions/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 14
+
 secured: "/WkBbiwfGh4OWCUdxDT6GVIK7d8qg8QQFmlVZPc3lflRZHNL9YSXTRZMaSRffoZ3D647V0nuTy37MC5bM0yHxnZ7SK1Z5QmRwYU7AMtcVGd2rJ6/1pUBAP02lH4cCGz+Tp4pdLtfKHXeD1ySWgJt5TdFciAdQ97KqRi7uFo5dMpAG+Rxgqr5HrA4dWKijaYBhNw8tYmEGTpNG2U3Yog8YKLLv7kgH4Y9t+dTUGlKUMlb11Lnm6AeN6KYXJgfws8oQ0tV2gYztzKCNNKF5GQHvwBHvVbXiN2abTZQewV24sj4BN1prTGQo7MtkhKwR6Q7esRS2iQ8R9jzZAvJPeSby6HyhnO9woUucUUXr0cF2SCT0OsyI/ohYopx5T5F7vyxcJRUZmi5AoHSeLIc0I9MaGOIcxiwhjJ4tlZzrbCBkDc10nIHYOpcQcVNaOgzXBrq4HQFFDK+giBwRGa/M6ptZ4dpwqMXr9mytjGGWKV2fPgWuZ3W2vb7bHZxqkRcmiytL1WMJIe+v9qxk6lLhE3kew==;nJv2C+LlKxBK8EvuMGs/Jw=="
 ---
 

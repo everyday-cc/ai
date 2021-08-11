@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/features/facebook-is-trying-to-make-ro
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-is-trying-to-make-robots-smarter-so-they-understand-speech/?amp"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Voice Recognition Market Likely to Enjoy Explosive Growth by Facebook, Amazon, Google"
+    excerpt: "What’s keeping Amazon.com, Inc., Facebook, Inc., Apple, Inc., Baidu, Inc., Nuance Communications, Inc, Advanced Voice Recognition Systems, Inc., CastleOS Software, LLC, Google, Inc., Microsoft Corporation & International Business Machines Corporation Ahead in the Market?"
+    publishedDateTime: 2021-08-11T13:22:00Z
+    webUrl: "https://manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    ampWebUrl: "https://manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
 
 secured: "fbV692wUnA1uneOUR0Ayk4PS29wZNPzVzWw08i7wT2vDgwa1/teO6mwdvmr34cBxXo1hQxmR1rHJ0WyndlX+Z5AfylxSo0DWC8gM5g0uOu8OE2ohDUeDIkQ/KKqabtEQwQNgC33F8x5LxnQfn8QU+rSujuePAXZrxFWDa6v+f5a7SPuKP9GNJdCI1vUs6PAWRI/KYQhf/q74/gzDV1cF0A3ipaIlMlXsoKMqYDbyjAtN705Ss+U/wGt1R8qYQR4OnqfNiFQ+qGC2oxVgTWu+EPMFpqsBLLZkocFIanRr9GYj07Yh5lm29yOaJ/UjUC32g2ryIWOplDz2tTDQZfnvQLWmq4ZgqsxnYv/vLVZOQB2dKybxJ/f/me+Kn61RJF1413YWWm6NfcF1U5djdsTJoeFoc2UUjRl07l1wKtme2a1Xh9lLvg8w9SDuYDWWLM6fZVPAwCweZav0KuF6bEXpJeBTtjLsPXCkydu4ngvFL6CE5oC01hxUjtxPFYZFjE0IUE7lonsvp5i7JfxCGT2nlw==;kkh0LoPETlj3ERBYKq0PSQ=="
 ---

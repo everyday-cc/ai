@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-06-21-the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future.md",
+      "title": "The Station: Waymo nabs more capital, Cruise taps a $5B credit line and hints about Argo’s future",
+      "excerpt": "TechCrunch has been ... like hydrogen fuel cell EV Nuro, the autonomous delivery startup, is expanding into parcel logistics through a partnership with FedEx. The multiyear, multiphased strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/",
+      "originalUrl": "https://techcrunch.com/2021/06/21/the-station-waymo-nabs-more-capital-cruise-taps-a-5b-credit-line-and-hints-about-argos-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/FedEx-Nuro-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/15/autonomous-delivery-startup-nuro-moves-into-logistics-with-fedex/amp/",
+      "publishedDateTime": "2021-06-21T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-tesla-unveils-its-new-supercomputer-5th-most-powerful-in-the-world-to-train-self-driving-ai.md",
       "title": "Tesla unveils its new supercomputer (5th most powerful in the world) to train self-driving AI",
       "excerpt": "Tesla has unveiled its new supercomputer, which is already the 5th most powerful in the world and it’s going to be the predecessor of Tesla’s upcoming new ‘Dojo’ supercomputer. It is being used to train the neural nets powering Tesla’s Autopilot and upcoming self-driving AI.",
@@ -1336,58 +1388,6 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars.md",
-      "title": "Here’s How Ransomware Is Going To Fiendishly Impede AI Self-Driving Cars",
-      "excerpt": "Ransomware is striking everywhere, and for which you can expect it to inevitably be aimed at self-driving cars, sadly so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c1262ac06e9d217142d1ce%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5995%26cropY1%3D372%26cropY2%3D4369",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/06/14/heres-how-ransomware-is-going-to-fiendishly-impede-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-06-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

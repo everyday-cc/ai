@@ -2,9 +2,9 @@
 category: news
 title: "How FDA Regulates Artificial Intelligence in Medical Products"
 excerpt: "Health care organizations are using artificial intelligence (AI)—which the U.S. Food and Drug Administration defines as “the science and engineering of making intelligent machines”—for a growing range of clinical,"
-publishedDateTime: 2021-08-05T19:42:00Z
-originalUrl: "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products"
-webUrl: "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products"
+publishedDateTime: 2021-08-05T19:50:00Z
+originalUrl: "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products"
+webUrl: "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "guElvmz5mMl1rZOh1fvS+Sew3V/5FHvlmYEZiWYXNJKmtt5MuwqmA9m1ZKH2roVHe3aJaS8ydxc7ZrNotwbEKpDHPxm+fzit5f/pI15fcp5xhNSPQ/fGetvGIa11K4/n1iZfSftKZuO0hO6YK56Lij+sR9gyT1ADOdYMTTYYAMuUWmQEW2Tb/noeAkumbcw6sl5U5tXGhtRl7XmdJP/hUYBQjtkf8uAQAt6hPePRdAgnEiW10KpUbpM1KT9ArItlkaMTTPBKDmkyB8Ev3Iv/Z480QUHridGczQa8/2zesBXYHhKJ/9mwCiTWTgu5ztoCguA7nae815Drk6UlDVUsn8hpqygtQTv8EP19hYM54yo=;0rKE9qn3uDz/WzmeiA7X9Q=="
+secured: "G0aV0jTQFAd+dO+X7ReEK8X1VvPjtslMcIa2pRsAVg/ygm4YKxVkd+MxGgYWIojv1Dyr3YAHKVUkVLLlZqlaKnGHPbKVHJy/LVdFxlRDDWlD57kSDigGg1udcFEBYZIRat0NmiMBllHweQOy3Vj3oua3+UDydpVm89WrOmZu5EyYHB50Ct/7iQNHNmcOks/e8uCIheP4p4IR+vl/d+G+YayHybvnylEGaghhvyvPwZBPViRj/uHKbn3kJpcgAEVsbztJn1prFazKgoDFCcTGa8D+dHcwMm5sN1crLzXeeE9keDky2311NCFxfEi57EKoWZzhi1+1kjlzvT4qWVsQnd3tYfeUi0dL8o1ad2URvAg=;0pgRZ0KOgIsBjUs4/qmVAA=="
 ---
 

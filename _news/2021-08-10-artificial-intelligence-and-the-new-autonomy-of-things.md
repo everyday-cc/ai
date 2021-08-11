@@ -27,21 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "How The Pandemic Has Shifted Attitudes To The 'Artificial Intelligence Of Things' And The Smart Home"
-    excerpt: "The pandemic has wreaked havoc across the world, and everyone is now realizing that, unfortunately, Covid-19 is here to stay. As we begin to accept this fact, we are now looking to adapt the way we live and interact with the world around us."
-    publishedDateTime: 2021-08-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/amp/"
+  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
+    excerpt: "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together."
+    publishedDateTime: 2021-08-08T12:53:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f63642f1d09c31654e76aaf%2F0x0.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize"
         width: 1200
-        height: 836
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence and Robotics are the major investment trends that will define the decade"
+    excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade."
+    publishedDateTime: 2021-08-10T07:39:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 76
+    images:
+      - url: "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One cannot exaggerate the dominance of Nvidia (NASDAQ:NVDA) in the"
+    publishedDateTime: 2021-08-09T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai-1030707838"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+    publishedDateTime: 2021-08-10T13:58:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
         isCached: true
 
 secured: "/sgqmMyJ9aJTD/GVoJhFrhH7Zah0WpRMPmLJ0U/YZMdIxgTBqjGfSRk72ACZbGmnNZvx/J+71sGugPld62n6jcxD+8gn8cpNvVV/5K2isFcoMp6yDnfHfaFOb9FRSBmUHkajJKIrx75og5cEpeLjR+3HBQGRt479aUEuA7z5WYv7wOXiIAOnPVeOefiUFmDk5oQm4CFo0gKOXqnZ30PURutAUdMOCz25qKamKn9pSA87+LFsXODU9/6CLaC3t56Ngtni1yeYJcoeELgTaLnyPViWn56uW2cVSzN/f0cQd7pv9H0qydskC7jBr6mvunhLnMDgQywI+XyBbbyd1u6hqMWo9vJEmvvO8+D24UBvXdihf0BCok3rGBVUeo95LvUz72Ks1nEvCfcPHKPz+gFM+bMywPD7mYVQeIHXqxn7qSyZmxuAQb8igibGjDT5aYtxaOC5SIOjPVZyXKQEW6HNVf+bBGbcG1Xe7sySgQviviR5rvblLzKZbwMse7FPYhSqp4hN+EEjll9yPraHyOeM7w==;+2LkL/lHFvkZ/RvMZeOiJw=="

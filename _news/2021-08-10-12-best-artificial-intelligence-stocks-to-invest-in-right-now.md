@@ -27,36 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Three Considerations To Keep In Mind Before Investing In AI"
-    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
-    publishedDateTime: 2021-08-10T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
+    excerpt: "Waymo vehicles have been driving the streets ... As its customer processes get more complex, artificial intelligence will be a critical component to make all of this smart technology work together."
+    publishedDateTime: 2021-08-08T12:53:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F637762%2Fgettyimages-cloud-computing-server-room.jpg&w=1200&op=resize"
         width: 1200
-        height: 652
+        height: 800
         isCached: true
-  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
-    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
-    publishedDateTime: 2021-08-09T17:20:00Z
-    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
+  - title: "Artificial Intelligence and Robotics are the major investment trends that will define the decade"
+    excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade."
+    publishedDateTime: 2021-08-10T07:39:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 47
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 76
     images:
-      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
-        width: 880
-        height: 587
+      - url: "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
+  - title: "Artificial Intelligence and the new autonomy of things"
+    excerpt: "Artificial intelligence (AI), machine learning and augmented analytics are now widely used, and as these fields become more accessible, a new, more robust generation of AI applications is being born."
+    publishedDateTime: 2021-08-10T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Kb5LKxV3fibxbKrEMGd43H-1200-80.jpg"
+        width: 1000
+        height: 631
+        isCached: true
+  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One cannot exaggerate the dominance of Nvidia (NASDAQ:NVDA) in the"
+    publishedDateTime: 2021-08-09T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai-1030707838"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
     excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
     publishedDateTime: 2021-08-10T13:58:00Z
@@ -70,48 +97,6 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920
         height: 1044
-        isCached: true
-  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
-    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
-    publishedDateTime: 2021-08-07T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "Three Notable Applications of AI in Supreme Court"
-    excerpt: "AI in Supreme Court can be used for legal purposes like AI techniques to read legal judgments, document automation, contract review, etc. But before adopting such technologies in the legal system all ethical issues must be addressed."
-    publishedDateTime: 2021-08-08T11:30:00Z
-    webUrl: "https://www.analyticsinsight.net/three-notable-applications-of-ai-in-supreme-court/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Three-Notable-Applications-of-AI-in-Supreme-Court.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "ZIM readies AI solutions for its shipping operations"
-    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
-    publishedDateTime: 2021-08-10T05:54:00Z
-    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 37
-    images:
-      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
-        width: 900
-        height: 537
         isCached: true
 
 secured: "v8FPKxB5k7QSxdag47Btl4V9c7Qjs1T/wEkgaCNXaOEqNQ2dDUSCFELai2h4S5mpEfNDAxZl5bjYaLszmmhQZBXkTuLYqDyGQ+WmGN/WtLiD/Z5pmy+FyGrbph2foohwRqx9DkUyjVjjOlNSFOnwFRwPKtVtOygMwXy/t8CGhO/Kt4oLG/UMO82gvDg71+KZkb8FkUvlWTL9Y1GPzZlEz0mLCmFqyQhtYT34dj1UpzZRTGmymsdghYlEOSHcT0SpQszdSq13xJEmQy4K/f+KCaYBEHn07mZHYwWljcig87jpYkjppgJi2RcvpfOGI9Z6BjINIMSMNoPOHsxLXZ8DhPrwyfFDHBjqUzWTBbb6ODH1wLHY6DuyS2PU+YBdALXgnloFn3qoqgnjV8luIu0QpKOz6gpIqyhXe9V0aDIjlc/ij7YyV8srOb+YybIlFOz0+UNlo/BxbWuOj0LIsVUccIVG7hYhfwLpsM/wP/LdukINQeBL1+pjTa/ENDx7WxHMqmaqXQj5A9A/cV4JPJ3p3g==;UZjoF2E2ccDjY9iv2nKfgQ=="

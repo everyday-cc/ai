@@ -73,6 +73,20 @@ related:
         width: 925
         height: 519
         isCached: true
+  - title: "Bias found in new OpenAI computer vision model"
+    excerpt: "An audit conducted with OpenAI’s former policy director Jack Clark has found gender and age bias in the firm’s latest computer vision model CLIP."
+    publishedDateTime: 2021-08-11T20:20:00Z
+    webUrl: "https://www.biometricupdate.com/202108/bias-found-in-new-openai-computer-vision-model"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "OpenAI's Codex Turns Written Language Into Computer Code"
     excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
     publishedDateTime: 2021-08-11T17:10:00Z

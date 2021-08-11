@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-med
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Computer vision startup Zebra Medical Vision sells for $200M"
+    excerpt: "Zebra Medical Vision, a computer vision startup focused on health care, today announced it has entered into an agreement to be acquired by"
+    publishedDateTime: 2021-08-11T21:23:00Z
+    webUrl: "https://angel.co/today/stories/computer-vision-startup-zebra-medical-vision-sells-for-200m-50221"
+    type: article
+    provider:
+      name: Angel
+      domain: angel.co
+    quality: 19
 
 secured: "2ou/lGPjtO/YbQIhhBbAF2trSl8sSq36gG+B9VZlCt11gEsh4GiuK62NCKxordihYw7qzkIT8tTvCguNw4Qc03xnAHU3YYULTnooor9hGbU4iCGllSIw2ACj9gaMuOR13PNYijMP9UjyTxtQbwdXamxIod6yNmird2Rb+U8y3PL8Y80/nMQ2Tykxld/6yb5lg6vP++qLPtdgyeAhHHLE+/ReBe9vgHoq5sR4z5F57IvlJeIgIverdQ560f7arm/nYiLIj+SlaXCVQrHsrdlaPODDU50uDUIBNfhhzMnHTJ9NqrenH86nTptJzLO8mwuBCiWw0dvhpjEG+fWrkogNdE6a1UimZ6GAuNBSprrY6Jn8/MO5SIMw+8Nq7dvvo1cY5dTTen0zH/oYhnhebntYxSkvbRwoMEveMtSlClGyW2sfvB5BzntSnSVq108lNbfJUsY+yul0Uae+ujKX+eMM39OL0/NU1uWZraQd8VJL+RZ8mGwJvUpVJNeOp092pqsexXrPiqcASeBcxjSQZdwUnQ==;zUnuR25pQrQzw6+yPr1jqQ=="
 ---

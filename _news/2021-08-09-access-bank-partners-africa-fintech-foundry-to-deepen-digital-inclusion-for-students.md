@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 1003
         isCached: true
+  - title: "Forget FICO, 3 Fintech Companies That Are Disrupting Consumer Credit"
+    excerpt: "Fintech companies -- those that combine finance and technology -- have generated a lot of buzz in the public markets during the pandemic. Although they have been around for a while, they are fast becoming a part of everyday life."
+    publishedDateTime: 2021-08-11T14:26:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638007%2Fgettyimages-1316521044.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mexican SMB FinTech Credijusto Could Be Listed On NYSE This Year"
     excerpt: "Tidjane Thiam’s SPAC is in exclusive talks with Mexican FinTech Credijusto and CIAL Dun & Bradstreet about merging the companies and listing them on the NYSE."
     publishedDateTime: 2021-08-09T08:44:00Z
