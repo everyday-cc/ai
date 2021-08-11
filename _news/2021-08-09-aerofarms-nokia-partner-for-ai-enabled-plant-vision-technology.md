@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/20453-aerofarms-n
 webUrl: "https://www.thefastmode.com/technology-solutions/20453-aerofarms-nokia-partner-for-ai-enabled-plant-vision-technology"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AeroFarms & Nokia partner for AI-enabled plant vision technology"
-    excerpt: "AeroFarms and Nokia Bell Labs have unveiled a new partnership to expand their joint capabilities in cutting-edge networking."
-    publishedDateTime: 2021-08-06T12:15:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2021/08/06/aerofarms-nokia-partner-for-ai-enabled-plant-vision-technology/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 39
-    images:
-      - url: "https://cdn.freshfruitportal.com/2021/08/Machine_Visions_Still.jpg"
-        width: 700
-        height: 408
-        isCached: true
   - title: "AeroFarms partners with Nokia for AI-enabled plant vision technology"
     excerpt: "AeroFarms and Nokia Bell Labs today unveiled a groundbreaking multi-year partnership to combine their expertise and expand their joint capabilities in cutting-edge networking, autonomous systems, and integrated machine vision and machine learning technologies to identify and track plant interactions at the most advanced levels."
     publishedDateTime: 2021-08-09T13:53:00Z
@@ -53,17 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AeroFarms and Nokia Unveil Partnership for Next Generation AI-Enabled Plant Vision Technology"
-    excerpt: "Ground-breaking technology partnership will significantly improve plant yields and quality in AeroFarms’ vertical farms through analytics, AI, drones and wireless networking. Newark NJ, USA – August 5,"
-    publishedDateTime: 2021-08-06T11:54:00Z
-    webUrl: "https://foodindustryexecutive.com/2021/08/aerofarms-and-nokia-unveil-partnership-for-next-generation-ai-enabled-plant-vision-technology/"
-    ampWebUrl: "https://foodindustryexecutive.com/2021/08/aerofarms-and-nokia-unveil-partnership-for-next-generation-ai-enabled-plant-vision-technology/amp/"
-    cdnAmpWebUrl: "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/08/aerofarms-and-nokia-unveil-partnership-for-next-generation-ai-enabled-plant-vision-technology/amp/"
-    type: article
-    provider:
-      name: foodindustryexecutive
-      domain: foodindustryexecutive.com
-    quality: 28
   - title: "AeroFarms and Nokia partner for artificial intelligence plant vision"
     excerpt: "Newark, N.J.-based AeroFarms and Nokia Bell Labs formed a multi-year partnership to identify and track plant interactions at advanced levels with artificial intelligence plant imaging systems. As part of this partnership,"
     publishedDateTime: 2021-08-06T20:19:00Z

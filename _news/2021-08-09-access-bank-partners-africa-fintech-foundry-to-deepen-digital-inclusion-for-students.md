@@ -57,6 +57,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
+    excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
+    publishedDateTime: 2021-08-11T04:21:00Z
+    webUrl: "https://fintechnews.ch/fintechfrance/top-10-leading-fintech-in-france-by-amounts-of-funds-raised/47885/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 39
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Top-10-Leading-Fintech-in-France-by-Amounts-of-Funds-Raised.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."
     publishedDateTime: 2021-08-10T23:33:00Z

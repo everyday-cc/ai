@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/aicte-to-offer-mana
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/aicte-to-offer-management-non-technical-courses-in-regional-languages-too-4062626.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CNN-News18
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chennai’s Arts & Science Colleges To Offer Courses In Artificial Intelligence & Data Science"
+    excerpt: "Arts and science colleges in Chennai are now offering AI and data science courses in order to address the rising demand."
+    publishedDateTime: 2021-08-11T05:19:00Z
+    webUrl: "https://analyticsindiamag.com/chennais-arts-science-colleges-to-offer-courses-in-artificial-intelligence-data-science/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Chennais-Three-Arts-Science-Colleges-To-Offer-Courses-In-Artificial-Intelligence-Data-Science.jpeg"
+        width: 1920
+        height: 779
+        isCached: true
   - title: "CompSci study aimed at non-technical workers"
     excerpt: "Education technology company OpenLearning is targeting non-technical working professionals with a series of three online microcredential courses that teach fundamental computer-science concepts with no prerequisites required."
     publishedDateTime: 2021-08-10T03:17:00Z

@@ -71,6 +71,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
+    excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
+    publishedDateTime: 2021-08-11T04:21:00Z
+    webUrl: "https://fintechnews.ch/fintechfrance/top-10-leading-fintech-in-france-by-amounts-of-funds-raised/47885/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 39
+    images:
+      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Top-10-Leading-Fintech-in-France-by-Amounts-of-Funds-Raised.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
   - title: "The future of digital ecosystems in the fintech space"
     excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"
     publishedDateTime: 2021-08-10T13:37:00Z

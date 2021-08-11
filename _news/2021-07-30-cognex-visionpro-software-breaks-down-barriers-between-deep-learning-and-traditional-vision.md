@@ -3,8 +3,8 @@ category: news
 title: "Cognex VisionPro Software Breaks Down Barriers Between Deep Learning and Traditional Vision"
 excerpt: "Two major new releases deliver advanced vision tools and tighter deep learning integration in a high-performance platform."
 publishedDateTime: 2021-07-30T00:00:00Z
-originalUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
-webUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision"
+originalUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products"
+webUrl: "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 313
     isCached: true
 
-secured: "LSUcEDt/kvWcRpWNc7MWaItCiXQiVuzRLZp8EzXoxo1VOcKH7rK3IVt85loKwJru8qVbJUov8j7rm1IPmsXTY9o0vheAK1UgDUSAkiG/8mERNtqOX0NOy7ziLhzu0IU6A7ifpabjMSq/wYq1DGk4w1/eeUSV7k9IA/wDvUDEECFhslN4jpvB5z7AfwqqSQ1trP6mwoRtVZSqVkygmsHUmDyfJdzWh3nU358Y3Z6SfAu6/xSABTH5cAx3+BgukCLHMF7FaIpjYhv6NzftwjXxzlEWPFGeFUQND5YnAVk8jJSUjWZC8bT0xzzhi51/5MjAd1HDKbZdydussgnr3e1J2KJ18AczDwnUDdVKQTaHGaGC95W+nFwY4xPgz1yrHroxCtTrvdbinn/jKMKNDA/Mqggq3ydlx5AxDEblxI+JiPIEKeg4VbipOHsnND9OWD/bVuv+oGROGF01a3N2FJctL5bo8YbIHcC5EOAo2CpFXBBz/CiB6Vk7eK70TnrDFeC2ZMsfEvbb4JC5WwXHgfI9hQ==;qFrOAlUjgV14MPufEzkfRA=="
+secured: "4XVOcWjJrO3+WoHaBeiOKwjknrDPd6au/36k8/gKCDa9FxeFUtQ+d2pLPkbJAm5P/SAfS41sPR40oa7DC2PxMOCPKkWVV/P0SbVPjPTjAJh08WoaC5ApuOqwCE0VUhuDWitQNdrtDp/FTic2RCSHO2XOJuin1X4m9os6mBOkIMwEFfcuMJvw07xTnmgnQB7/yL6OoMgfHGL6777KmLlBfh6De/3cmZBcV/13/0eVaCa+zr3RuXZhyC+LTYZkSSl19XAdeMXoU11m6TiAV6hq6tRNiBJD9oP7YDIkmbJ5IMV7+x1kp70D6B+SlqiDs4/mXpkjPtGjTnmIJQnUZJCC75jBSZE0FoSnN/3PivJfHP4=;+DtyXf+H+vgfYWHM09q1PQ=="
 ---
 

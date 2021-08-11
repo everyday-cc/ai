@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
+      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
+      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-platform-teaches-nonexperts-to-use-machine-learning.md",
       "title": "Platform Teaches Nonexperts to Use Machine Learning",
       "excerpt": "Research from Cornell explores how to help nonexperts use machine-learning algorithms to better enable industries beyond the computing field to harness the power of AI.",
@@ -235,8 +288,8 @@
       "title": "Cognex VisionPro Software Breaks Down Barriers Between Deep Learning and Traditional Vision",
       "excerpt": "Two major new releases deliver advanced vision tools and tighter deep learning integration in a high-performance platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision",
-      "originalUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision",
+      "webUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products",
+      "originalUrl": "https://www.automation.com/en-us/products/july-2021/cognex-visionpro-software-deep-learning-vision? Control Products",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1345,49 +1398,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-25-deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd.md",
-      "title": "Deep Learning Market Is Booming Worldwide | Advanced Micro Devices, ARM Ltd",
-      "excerpt": "In addition, the study helps venture capitalists in understanding the companies better and make informed better Deep Learning business decisions. Some of the key players in the Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/DDD-5-2-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-24T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

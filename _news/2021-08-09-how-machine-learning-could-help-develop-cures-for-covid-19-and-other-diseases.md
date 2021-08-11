@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
         width: 1200
         height: 1000
+        isCached: true
+  - title: "Researchers employ artificial intelligence models for image-based detection of COVID-19"
+    excerpt: "Medical imaging has long been a vital tool for the diagnosis and prognostic assessments of many diseases. In recent years, the use of artificial intelligence models has been used in conjunction with this imaging to augment their diagnostic capabilities."
+    publishedDateTime: 2021-08-11T04:30:00Z
+    webUrl: "https://www.news-medical.net/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
     excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."

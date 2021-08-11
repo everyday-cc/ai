@@ -44,19 +44,19 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
-    excerpt: "Other use cases already being tested within the Operations division include using services like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and running fuzzy match algorithms to replace manual name match ..."
-    publishedDateTime: 2021-08-09T08:09:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+  - title: "RBL Bank selects AWS to accelerate artificial intelligence efforts"
+    excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI‐powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
+    publishedDateTime: 2021-08-08T20:38:00Z
+    webUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
     type: article
     provider:
       name: India Infoline
       domain: indiainfoline.com
     quality: 91
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-10/01/full/1538373827-2439.jpg"
         width: 350
         height: 233
         isCached: true
@@ -93,6 +93,6 @@ related:
         height: 824
         isCached: true
 
-secured: "dtD6PUYOYrBUiRDKKzygU5bSO21cNa1trPfQX+1vaY/oCuWVMpRxzm3d8Rwo3wd+uUKheFk642zGocCutKGPhQq+fw9MzLJA1wSCgv4yRZe4EOkrz1szMAAKoblOCn9d3BJsiClxtNEdvBrWMpbnStIxo0QwUm2hhb5qh5VeAZIknek173n6ikdmHjzNknNRhGXHe5WExIcGWyXcKHWTBGZ4zeNH8g8CHgX+Op5+pOBY4HYGcR4veqftcq04A4Pu4xLCasQP6qgycWUfwsogbRYlaM2ygLNLMOOhkck26wEcAhQL7C3AjqKpG5v5eR4yHYp2+Fuirvc9yX5q7gb0TPGkP2qOLWhY6/o73V380+U=;akB6ZHxH8Icn39iEfbavew=="
+secured: "aucqRJZnOT9lxPk6tWrrcN9vOdo/PwxxSWhzOHzfZ5AMiUggseK07omOdkC1XSfdiIFTYOneDIPmb0gRYiBTyW209yo3YYox01cVZlOYOgvHvdnxLiz9aG9lrcVIAPTOlLg5jvlHvZqGn44Esy/W23PblrE7VELyIAdxvk/iWORawePUm3Q6Lu5R1lzS9zNYAIU+BtKOOykwkvgmIRt6AQ7buKASM7JGCbfqsQFnvNLJOLoHHZZL7Si3lCKxjWKK5KiIqYbT7K0Hm/MRWptrXTE6z5u9jToBsZSxO+sPay/95E+CVmnIUEBAWC2QorthC+Uk6wBjCxad+1ZnY0DcRiYZMBqBtoNkRuMQvfvL0Ms=;6jBSTCQduqloqMyanmjWbQ=="
 ---
 

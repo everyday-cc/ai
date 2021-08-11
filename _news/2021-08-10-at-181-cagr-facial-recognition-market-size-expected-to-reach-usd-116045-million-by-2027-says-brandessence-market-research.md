@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "At 22.7% CAGR, Global Autonomous Cars Market Share Revenue Expected to Reach USD 64.88 Billion by 2026: FnF Research"
-    excerpt: "\"According to the recent research report, the demand of global Autonomous Cars Market size & share expected to reach to USD 64.88 Billion by 2026 from USD 23.33 Billion in 2020, at a compound annual growth rate (CAGR) of 22."
-    publishedDateTime: 2021-08-06T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-227-cagr-global-autonomous-cars-market-share-revenue-expected-to-reach-usd-6488-billion-by-2026-fnf-research-2021-08-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TZCmSYnJ8bV5VB9ocxvX4GG6LLW7+eqTjT9IqVpj3ossq5fHaG4djjz58cgO1v+vUN/GZgeEQgDZzak24/y0bXdTHP6xO3rgv+/y/vOPY1Mxmxj3CzkSemgHgyaIQxU8GQjgWZ+nMFv76s7c+IoHJkE41EogkweIXDMEJTJ6nxwUmTk6mRLOZJ9EPVDVnv1uzIck5P7ajJx+2nRDhJUtrhWB4t4E9ThjwkZ5FPRgY4dd61cl1vrlPnO+W1++hkRRM00z1Rq+7p1GEaDf1Mzfh6+oCM9aVGMDjfmLPB6FMYE8sJcy3XKfnaB7+9LULbWdC6oSxDh0xRukzIX1amcvTp4fh+C5SKlM+d97EjI8I5w=;fkg64t+/gMjuWQYnSVGujQ=="
 ---

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-11-oracle-accelerates-mysql-heatwave-queries-with-machine-learning.md",
+      "title": "Oracle accelerates MySQL HeatWave queries with machine learning",
+      "excerpt": "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html",
+      "publishedDateTime": "2021-08-10T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks.md",
       "title": "The Fallacy Of Fintech Ethics: Could Fintechs Be Less Ethical Than Banks?",
       "excerpt": "There’s a misguided notion permeating the banking industry that fintech startups are somehow more ethical than banks. They're not—and their reliance on this trope is going to backfire on fintechs.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -146,8 +199,8 @@
       "title": "Indonesian verification platform for fintech set to graduate from Y Combinator",
       "excerpt": "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients.",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
-      "originalUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
+      "webUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator",
+      "originalUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1348,59 +1401,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031.md",
-      "title": "Machine Learning In Finance Market 2021 Rising Future Estimations and Key Countries by 2031",
-      "excerpt": "Market.us has to return up with a brand new report specifically Global Machine Learning in Finance Market standing and Outlook (2022-2031) that focuses on current trade updates, providing exclusive and analytical information through the span of 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-finance-market-2021-rising-future-estimations-and-key-countries-by-2031-2021-07-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Finance"
       ]

@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
-excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
-publishedDateTime: 2021-08-10T08:45:00Z
-originalUrl: "https://fintechnews.sg/54204/fintech/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
-webUrl: "https://fintechnews.sg/54204/fintech/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
+excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
+publishedDateTime: 2021-08-11T04:21:00Z
+originalUrl: "https://fintechnews.ch/fintechfrance/top-10-leading-fintech-in-france-by-amounts-of-funds-raised/47885/"
+webUrl: "https://fintechnews.ch/fintechfrance/top-10-leading-fintech-in-france-by-amounts-of-funds-raised/47885/"
 type: article
-quality: 20
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Fintech Singapore
-  domain: fintechnews.sg
+  name: fintechnews.ch
+  domain: fintechnews.ch
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+  - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Top-10-Leading-Fintech-in-France-by-Amounts-of-Funds-Raised.jpg"
     width: 2048
     height: 1136
     isCached: true
@@ -71,20 +71,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
-    excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
-    publishedDateTime: 2021-08-11T04:21:00Z
-    webUrl: "https://fintechnews.ch/fintechfrance/top-10-leading-fintech-in-france-by-amounts-of-funds-raised/47885/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 39
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Top-10-Leading-Fintech-in-France-by-Amounts-of-Funds-Raised.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."
     publishedDateTime: 2021-08-10T23:33:00Z
@@ -113,7 +99,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
+    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
+    publishedDateTime: 2021-08-10T08:45:00Z
+    webUrl: "https://fintechnews.sg/54204/fintech/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
-secured: "L3CQ0CamGQL6hdgCIMmJ9d/WPFq3yR3Ox+FkEzfaPST5uYhisy0pMxSHknw9dC4Dp1rVUhwM7xfN40T8G7gF0UmJLGUU8axox7f1DHqqqt3wPb8RabRy1QdA7XRIbB/vZ/t06wn/49NtDp37I6ko1EAkCOorPAXTcVjYrUl57Oc73W0ZXNMOCG1mFwC3jwvv5cBYwnpP4+4WRo4abD3rxF51U8DooRjfFIMpOvtEaKOGP0Dxods6+1+HSpR2k4wNmcmDxujJQ8yUPvFdERFqh9E/GQVDfNz2r87GY9hizjh17wdxxvxYQ5VIzky07niNSR5QC0tP6eUvXhWpEnCp9kmq86J4abynt9QyG7KoaBq7thQOl5OwHGNrE38qDoH/MIQBKmgi0KB9+kDMk0CM+en5ixvB9pJNxXhvfpA/4R3lWTDnllls4CH2qal+gIgeaRmDri37IpVhkZKdutjFAHwKtXeWgNrh0phU5x2tby87c2QLOi5pinUAg7YiQ03/XMdAZHprn7ACWLWTwUxIgw==;Uex4VOOQYljGcotAR/F37w=="
+secured: "8WRvV5YSTu3q5TokcMqvQDwz86o1dUvd8YcOvGoFq6N+Y2GX9HRYQ28KLKrB9CSzlhbewoActy9052tKl3QzR20fuM9ndr9sS8TpJF1XpAU65alm/smRHP2FVmBX7q9WCFZYG2gYVBqGDZso+JaRbDwNVjUVnqXN/43wS0PrNpF/xdeE4XlSzYKK3UNlNw03wO+fxd3FfD5W84d/fdzcFB+JhBZrkMhOn32vHa0upZuMGQD5FSKDgcLbUz1ndo1B6EDEQqnum4kbLxc79nrbyhGdQzHx9it4sp9eePJAo57QcAu4ria9hbCW8cOBbSA4xY5qTHj17pya7aOaHoX7DMLjSsPLFjxRoPm1fMuihBY=;ZYOVPcVVGN2kb7BkhNt2Vw=="
 ---
 

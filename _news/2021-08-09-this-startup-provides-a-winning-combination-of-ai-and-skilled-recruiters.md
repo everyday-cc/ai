@@ -46,20 +46,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How Artificial Intelligence is revolutionizing the startup industry"
-    excerpt: "Throughout history, the world has witnessed 3 industrial revolutions: There was the first industrial revolution which began in the 18th century which was centralized on the usage of steam/water as power."
-    publishedDateTime: 2021-08-06T11:27:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65529083/how-artificial-intelligence-is-revolutionizing-the-startup-industry/2"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 37
-    images:
-      - url: "https://documents.yumpu.com/000/065/529/083/2ced1024573d84ccf5114420bb99145304a16229/6c7872777553345266375432646a42326e59426c51413d3d/584c3574356a37706c4862437455574f7868747445513d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628460000&Signature=ya7z5LdaChp0v9a86gXkUctaX2M%3D"
-        width: 453
-        height: 640
-        isCached: true
 
 secured: "Wnw6JqKMNHlaq/V3iQsWnKj1Tt7GnHpToDLkQ9+PitiVmxLw7u0HGmPlH0DsN0FV4kcsy+F643QFvg4lDXicNhg5BHZfUmPo3D6nmPoWmoz5s4uRCpy46Min1oQHho2Zd2lc4osZAaXSj08zd17hS6wl2Ykv34A4PlPqb6YBo7fXb/RVExAYUbPmAdVqhC2uZ9vzuTT0SQsaliXw2bgZ0sY53xYgOZXH3YtCMc09AzUCrROhCo5DkVwY/3d3oFx6RANNKf/Y9vXRcfaLdn935bAw9G50TraK7Ix2RC5pu22n4rHfDvHP7XC2chfjAoJDztJtWrVOe9Ut7/wWdjVBJ6jFG1csNZCGEcDyhwlzI4we6GGf0LmhRYYMlhEc/sZb39MZa3y8i96a28CMG3k8IASMlvkE5LbQOnoHl0uiOnDAW2gzBnwKpeYduofPFeIm+EPHs3bM2CSQLO2TG1cUIl7tfvrHNlWXPiHNPQ39I9YXws9gffK+e9IqaiJ7dk17zwlfB/cOEjtevYhH8BU1MQ==;JlHciET71kLjn5G32qIuYQ=="
 ---

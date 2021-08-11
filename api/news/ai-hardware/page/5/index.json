@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
-      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
-      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-06-19-prime-day-pc-parts-deals-2021-early-cpu-gpu-motherboard-ssd-more-sales-reported-by-retail-fuse.md",
       "title": "Prime Day PC Parts Deals (2021): Early CPU, GPU, Motherboard, SSD & More Sales Reported by Retail Fuse",
       "excerpt": "Save on PC parts, hardware & components deals at the Prime Day 2021 sale, together with all the latest early RAM, hard drive, NZXT coolers & cases & more savingsBOSTON--(BUSINESS WIRE)--Find all the top early PC parts deals for Amazon Prime Day 2021,",

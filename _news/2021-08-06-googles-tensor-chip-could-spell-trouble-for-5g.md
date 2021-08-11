@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-tro
 webUrl: "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: PC Magazine
@@ -27,24 +27,6 @@ images:
     width: 1120
     height: 630
     isCached: true
-
-related:
-  - title: "What does Google Tensor mean for you"
-    excerpt: "Google will use third party designs for CPU, GPU and modem. This along with the fact that Qualcomm has said it intends to continue working with Google suggests that Tensor chips will be similar to cur"
-    publishedDateTime: 2021-08-06T11:26:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you-11628248184327.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/what-does-google-tensor-mean-for-you/amp-11628248184327.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/08/06/600x338/Google_1_1627956803628_1628249103870.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "YCuahZSIvdPu+FZBHlYuens711qzUaMd3BD5puP2lpoU+t8FkmFc7g/4oUB5Sf4WFm0Bh5ONdBalp4kVrCOhidB8dZcAzViFSZcNTjfcHEX8Pnd6O4RkARaWcNgHPBqFL49tsWadyOjktLLhbjByFuGe3rM71Gf0Td9uiq2qVyjxS4lvBSeQEznlzBOiUMogsCpS5lD6fV2Pkm5SavDSWd9okPXHBovphSKwKjDRk86GkCzzxkXkeBd/uQ/aDArNyGU6HiW1wt7SdNYtcOZohEqO8x3XvwupvJ7ZspFr+c+zopGM33tLXUwPeyhJmhfVTVAEx6WvTtCXGe0q75B5Co1k+4cPnHs9JUMjQiTePe9JAlIoQeJb6vRnS2whHkIQ2a0PZhwKhysgHIBTyX5pYtMgRDIVulax6Pkkq9C5ryrpozDejLmfGqivg3jYcfKd7+y1R9GaknPqj81SPJS4qu4ZIb1Ui01rCE1Y2WqRUgCUHIoQiYMjhRyxdQTVunYUGauBGWzidlDP8vrtBuc+qw==;NLKku8yY6cUHi9pn6ngxxQ=="
 ---

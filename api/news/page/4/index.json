@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-07-govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.md",
+      "title": "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful",
+      "excerpt": "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-85120431,imgsize-233149,width-800,height-434,overlay-etcio/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful/85120431",
+      "publishedDateTime": "2021-08-06T20:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
       "title": "Pilot on the AI-driven ‘financial back office’",
       "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
@@ -805,58 +848,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-googles-tensor-chip-could-spell-trouble-for-5g.md",
-      "title": "Google's Tensor Chip Could Spell Trouble for 5G",
-      "excerpt": "Google revealed the chip in its upcoming Pixel 6, a CPU called Tensor that focuses on AI and machine learning. If other chip-makers follow suit, it may be a setback for 5G.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g",
-      "originalUrl": "https://www.pcmag.com/opinions/googles-tensor-chip-could-spell-trouble-for-5g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05M7Sgx0f25cX2q7OKHezIg-1.1628184011.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
