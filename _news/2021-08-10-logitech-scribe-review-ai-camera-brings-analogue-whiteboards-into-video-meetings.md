@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/product/logitech-scribe-whiteboard-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/logitech-scribe-whiteboard-capture-camera/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

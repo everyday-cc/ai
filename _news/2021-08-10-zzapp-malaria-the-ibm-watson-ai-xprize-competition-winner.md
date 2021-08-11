@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/zzapp-malaria-the-ibm-watson-ai-xprize
 webUrl: "https://www.zdnet.com/video/zzapp-malaria-the-ibm-watson-ai-xprize-competition-winner/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

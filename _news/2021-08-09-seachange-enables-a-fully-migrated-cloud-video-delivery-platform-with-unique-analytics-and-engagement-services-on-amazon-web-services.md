@@ -1,28 +1,26 @@
 ---
 category: news
 title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
-excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
-publishedDateTime: 2021-08-09T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
-webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
+publishedDateTime: 2021-08-09T12:11:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388"
+webUrl: "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388"
 type: article
-quality: 8
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
-    width: 2695
-    height: 1414
-    isCached: true
 
 related:
   - title: "SeaChange enables enhanced data analytics with AWS"
@@ -134,6 +132,6 @@ related:
       domain: advanced-television.com
     quality: 4
 
-secured: "SZ6HRb9xA0D1gqIc04OJnFj3TC0f2zIbjRJa95EwPPHlwgN0JxZN9AqtSW/Hnzhd0NJAQ3NqbT8KPmgAkh9ON2ybh1RICAvQhdf+cWa9HPawWzULXECJ8pttqwZonFkdDZ4thirtn+esRzO7LwEcdbUwdUUxLLUgrHMKtel+/RXuMo7Df8PHV5z3sC3vaxhXwmYowGwPMdK482fY5aUQZ0pd5cbR7Py7rEKg4XWuGFhKkgnFXmOev/k6aQlWlxfrNTQhzZ12/hntJVaXR+E/CPhWCprcXvm21IpZk9op1CpbVGMuULGg5lmOWh0oIaT0rN4Nf3zXWI98CmeCcaFjjYfflK6vYjLgBYwElPVW01n+y2Lts4o+GPjicujHMKx6yf0jV1Ah4+nXsQAvBlmdideGJcmfi4QNno3eJB1d/p3506WIyuColFhwGQuIHMDg8Klhn3+1prPW+Y0gUSGpCkM1nCgyqny+FDED5UVqQID72cPqmJH8X8y6nuGVd3R4V9kczcOlDSDPnr/Q35o+/g==;jQuO6pETFB/boZJYXxCB6g=="
+secured: "SB+h+1P2EVPinFi+4s5IDAmFPxL+b9a0yAmmWUaAOA1RgMxDqeOu8pgY+jq02MK9rlLXS6AEYIO7FAGHsSBzGbcY6pjSiXvqidSmGpohrYVavPlTiHQXfc/IMcy6JVUa+WSwugzcNwqfR5eXazcgsUtr2/WKgCqU9EV/oreG4q6QD1DPsXY0Vsdcb1use3flvCjX+5mwzoh2LRYvoMfQixyyY9wDXNfYmPB24rhXfTSVcCW/MdmnXYMaiSnQC09YXxIJHgzR/1JcBdfEiyKZAms9xtNdaerdyve/YHyj0N2rucfw0pQ4DCCHdm1y4SNpUh4ErK8pG8Qn+D7vcDHFQiLyo1SeZsz6Zf3o7zLekT4=;gt3dePqM8jr8/3Sun2IZwQ=="
 ---
 

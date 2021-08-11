@@ -119,19 +119,14 @@ related:
         height: 600
         isCached: true
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
-    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding"
-    publishedDateTime: 2021-08-09T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
+    publishedDateTime: 2021-08-09T12:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
 
 secured: "poqDighJY75t95DE5mzgIn/imMuRBkw+ep2piYqyOqvEd0IfVsqEE1O/zCQALkGNmWrmcimZ65qHsFZr95HdbM0eBbYzfZY0ALuGa2zmGSKn7on/qeLTignkLGwQn8lfGMFWN7UweewMOTpUaTWcQ0SHZRL7ki8h8XT6mv8M2TGC8Y2PbcCZELi8txp3gAc0MTFoyz4qPctyFiFNWUKKEq6qCzUQynGlOKlp1DYWiolD49bF2Ty4hYljCVbmt0yizH9g4bO6chdOoJEeqJC+djB6Lqg+4mKLP7Vtx+03LDyfR/QWG9IrPzZtMRrFHEc8yjQ0YqxlkblTHskFJHG4hi4QOwFx+GoXrgVcDukw/x0=;6rkR4GNtt7HHnKT9g/etMA=="
 ---

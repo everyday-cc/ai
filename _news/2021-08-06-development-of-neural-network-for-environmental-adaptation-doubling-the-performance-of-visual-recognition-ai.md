@@ -57,20 +57,6 @@ related:
         width: 724
         height: 483
         isCached: true
-  - title: "Synthesis AI's Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep"
-    publishedDateTime: 2021-08-10T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1579933/Synthesis_AI_Logo.jpg?p=facebook"
-        width: 1919
-        height: 1005
-        isCached: true
   - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
     excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
     publishedDateTime: 2021-08-06T17:52:00Z
@@ -86,6 +72,20 @@ related:
       - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
         width: 1000
         height: 750
+        isCached: true
+  - title: "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko."
+    publishedDateTime: 2021-08-10T13:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 51
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
     excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."

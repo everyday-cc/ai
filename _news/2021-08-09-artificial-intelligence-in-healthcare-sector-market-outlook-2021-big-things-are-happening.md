@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-health
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
 type: article
 quality: 66
-heat: 106
+heat: 117
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Regulate use of AI in healthcare sector"
+    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
+    publishedDateTime: 2021-08-09T05:38:00Z
+    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 56
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
+        width: 480
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
     excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
     publishedDateTime: 2021-08-09T13:13:00Z

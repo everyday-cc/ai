@@ -9,7 +9,7 @@ ampWebUrl: "https://soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacu
 cdnAmpWebUrl: "https://soyacincau-com.cdn.ampproject.org/c/s/soyacincau.com/2021/08/09/samsung-jet-bot-ai-plus-robot-vacuum-malaysia-price/amp/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

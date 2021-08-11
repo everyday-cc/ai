@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup Zeni raises $34 million from Elevation Capital, others"
-    excerpt: "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March."
-    publishedDateTime: 2021-08-06T05:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms"
+  - title: "Fintech start-up Revio secures R15m seed funding"
+    excerpt: "The start-up, which is focused on the South African market currently, plans to formally launch in East Africa in 2022."
+    publishedDateTime: 2021-08-06T09:35:00Z
+    webUrl: "https://www.itweb.co.za/content/mQwkoq6PVZ673r9A"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/mQwkoq6PVZ673r9A"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 44
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg"
-        width: 600
-        height: 450
+      - url: "https://lh3.googleusercontent.com/WhskqGohOzjTZ9hIfI0BeTilXJwDYpAEs2VENb20ne2ZxZYaQyno2kD_vQQ_vc8m982oz2Z9_AOYMm98zi5GSfKX82qm7wV_s4jt=w816-h428"
+        width: 761
+        height: 428
         isCached: true
   - title: "Fintech startup Zeni raises US$34m in Series B funding"
     excerpt: "Zeni has raised $34m in Series B funding and will use it to bring its platform and services to more customers by investing in its team in the US and India"

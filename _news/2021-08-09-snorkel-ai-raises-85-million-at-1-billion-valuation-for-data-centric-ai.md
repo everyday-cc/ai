@@ -54,6 +54,20 @@ related:
         width: 1300
         height: 1300
         isCached: true
+  - title: "Automated Data Labeler Snorkel AI Lands $85M in VC Funding"
+    excerpt: "For many enterprises using AI, one of the biggest bottlenecks continues to be the difficulty in getting all their critical data into clearly sorted and"
+    publishedDateTime: 2021-08-10T22:28:00Z
+    webUrl: "https://www.datanami.com/2021/08/10/automated-data-labeler-snorkel-ai-lands-85m-in-vc-funding/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/snorkeL_AI_logo.png"
+        width: 365
+        height: 241
+        isCached: true
   - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
     excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
     publishedDateTime: 2021-08-09T17:45:00Z

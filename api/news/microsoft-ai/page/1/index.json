@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-10-microsoft-releases-fusion-ransomware-detection-tool-for-azure.md",
-      "title": "Microsoft releases Fusion ransomware detection tool for Azure",
-      "excerpt": "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\".",
+      "path": "_news/2021-08-11-microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early.md",
+      "title": "Microsoft is using ML to help you catch ransomware infections early",
+      "excerpt": "The tool, dubbed Fusion Detection for Ransomware, is the result of collaboration between Azure and the Microsoft Threat Intelligence Center ( MSTIC ), and employs machine learning ( ML) to detect actions typically associated with ransomware activities and alert security teams in time to take remedial action.",
       "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure",
-      "originalUrl": "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure",
+      "webUrl": "https://www.techradar.com/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early",
+      "originalUrl": "https://www.techradar.com/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 226,
       "tags": null,
       "images": [
         {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
+          "url": "https://cdn.mos.cms.futurecdn.net/pJjsnhgKdD782c5SBEneTW-1200-80.jpg",
+          "width": 970,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp",
-      "publishedDateTime": "2021-08-10T04:01:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early",
+      "publishedDateTime": "2021-08-10T15:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "TechRadar",
+        "domain": "techradar.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

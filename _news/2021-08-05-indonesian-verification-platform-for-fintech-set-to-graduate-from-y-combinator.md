@@ -3,8 +3,8 @@ category: news
 title: "Indonesian verification platform for fintech set to graduate from Y Combinator"
 excerpt: "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients."
 publishedDateTime: 2021-08-05T09:46:00Z
-originalUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator"
-webUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator"
+originalUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782"
+webUrl: "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "owh4qFiYg9S3p9cGsfmbMAp5GTzxflREHJ+4dS0jB2sNLKtFLSSmFQBClkf4g0BytTtsKNwDJbeUo8/y5n0fJnrFkEHxufOwxoQbo/RovGC8VslHEH88GwQt9n3T2hWHxcR0uXMHMB77Xnu51oy+nzfhV22Twog1UZy37Uc5y0D/Y5wMcgPYmqP5VQszhbFRH3cBY+IFHzIWuN0Dzr9on90bfJ9/TExjWqVs6nnr8hs+kZccqOIaacVOVGLCuzY9LtC27Gp1uGY77bM2irlk+9OlMUVDv3B7JfrWmLBuialXrFZ8LKRFu8AL0LJfU0bS4dUDsqLyIxsjm8+b5Cd86FC5zQH068ePuqqwUimzRS0sooumrEiMdRuc35ACBWcxmJVMw//8LfSaJtRmO457ySutbU9j6D7h9OkPJ1mYwZQJ7J5zLq3NxFkwOCgPqBY+Yfhx2oT2xHexNZwsDKxb8FSr3QfCbYIMnuzsLQitYGtIPgCtgRqQTa759P6466ekL4m3wXVPtG/Vr1jQtMR8mA==;0prmXAia7eNwJZLDmeT12Q=="
+secured: "RGpvWlfH0qiLWc18coIFi9ZtN+io74oxdL4NNT++eZiaYXZ60i22aVAQH39SVngLVzYZ6whMpAAB4qQ/uirmcSE0b0+p/VgXV/S84x4tIA8ra3vmdpA64TWTeVjqgtCIdpVTvubQyURR3c+XNr3Sym/VLoQ6TOAflQD7XymktsPG5q69EcL3KNFbGjv6Gmdh7h+ssDDvNE/k9y5BBB9iGpM+jA+kokPP0zwOGrCkHkU6zoTN+9oJTA56+pCNmicuiQWk/CX7LGG2xjONcEtV4bFvx3sDD2tUG4P8ZsgLAzxooK9wEDn9IGTK/fpm/cFZT1BlQLtilsptn5Q9vVYi7BWHw2gD0U4Kuw3ix9wwTfIR7Vf6YQnQYDsmduIQDdarNLoiddK/VGG09SSYECmoT4U/jvQUffVxAn4fJJ8VkLZLAvKt8YmrnPy+BqhMpCquxXsgnA8a696eZKfmwWVDQ0ygbX13G+FGjbkx6L7zCzhHuOT6FwFAiVcZWRB9ddHJqXHvenQeILv8oxRskg8/cA==;fzgEZ/N7IY+c1XzVGQ4jDw=="
 ---
 

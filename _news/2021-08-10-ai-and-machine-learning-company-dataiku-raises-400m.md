@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Automated Data Labeler Snorkel AI Lands $85M in VC Funding"
+    excerpt: "For many enterprises using AI, one of the biggest bottlenecks continues to be the difficulty in getting all their critical data into clearly sorted and"
+    publishedDateTime: 2021-08-10T22:28:00Z
+    webUrl: "https://www.datanami.com/2021/08/10/automated-data-labeler-snorkel-ai-lands-85m-in-vc-funding/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/snorkeL_AI_logo.png"
+        width: 365
+        height: 241
+        isCached: true
   - title: "Snorkel AI Raises $85 Million at $1 Billion Valuation for Data-Centric AI"
     excerpt: "Snorkel AI, a data-centric AI platform company powered by programmatic data labeling, today announced $85 million in Series C funding, bringing the total funding raised to $135 million.  Snorkel AI is now valued at $1 billion,"
     publishedDateTime: 2021-08-09T14:02:00Z

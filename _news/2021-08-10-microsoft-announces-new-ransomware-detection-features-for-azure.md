@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft is using ML to help you catch ransomware infections early"
+    excerpt: "The tool, dubbed Fusion Detection for Ransomware, is the result of collaboration between Azure and the Microsoft Threat Intelligence Center ( MSTIC ), and employs machine learning ( ML) to detect actions typically associated with ransomware activities and alert security teams in time to take remedial action."
+    publishedDateTime: 2021-08-10T22:12:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 106
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/pJjsnhgKdD782c5SBEneTW-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
   - title: "Microsoft releases Fusion ransomware detection tool for Azure"
     excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
     publishedDateTime: 2021-08-10T11:01:00Z
@@ -118,22 +134,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10450/img-Unsplash_Markus-Spiske_basketball_web.jpg"
         width: 940
         height: 443
-        isCached: true
-  - title: "Amazon Updates Video Segment Detection Software"
-    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
-    publishedDateTime: 2021-08-09T15:31:00Z
-    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 44
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Arrival co-developing data platform with Microsoft"
     excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"

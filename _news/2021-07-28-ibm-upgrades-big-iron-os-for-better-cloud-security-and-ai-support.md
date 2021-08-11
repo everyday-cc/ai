@@ -1,18 +1,15 @@
 ---
 category: news
 title: "IBM upgrades Big Iron OS for better cloud, security and AI support"
-excerpt: "IBM continues to fine-tune its mainframe​ to keep it attractive to enterprise users interested in keeping the Big Iron in cloud and AI development plans."
-publishedDateTime: 2021-07-28T04:44:00Z
-originalUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
-webUrl: "https://www.arnnet.com.au/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
+excerpt: "Lastly, IBM said that to accelerate the adoption of AI on IBM Z, a client can deploy prebuilt container ... Customers can, for example, use machine-learning models on IBM z/OS through IBM Watson Machine Learning for z/OS (IBM WMLz) 2.3, which has been ..."
+publishedDateTime: 2021-07-28T04:04:00Z
+originalUrl: "https://www.reseller.co.nz/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
+webUrl: "https://www.reseller.co.nz/article/690108/ibm-upgrades-big-iron-os-better-cloud-security-ai-support/"
 type: article
-quality: 56
-heat: 66
-published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - IBM AI
@@ -20,27 +17,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_204810889.jpg"
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/dreamstime_s_204810889.jpg"
     width: 800
     height: 533
     isCached: true
 
-related:
-  - title: "Baidu AI Cloud announces strategy upgrade to empower industries"
-    excerpt: "To support enterprises' digitalization and intellectualization, Baidu AI Cloud announced upgrade on its strategy and infrastructure to empower real economy for development with better quality, the tech company said in Beijing on Thursday."
-    publishedDateTime: 2021-07-29T13:16:00Z
-    webUrl: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2021-07-29/Baidu-AI-Cloud-announces-strategy-upgrade-to-empower-industries--12igTcyo9Da/img/6c73a690fa0d4d54a692c68d0f4c4502/6c73a690fa0d4d54a692c68d0f4c4502-1920.png"
-        width: 1920
-        height: 1080
-        isCached: true
-
-secured: "2bEzn8EUh6Mb3mE4aaX87n6v3QO5V3yptV2bILY0sLUjqzGCyDovDPq9K5GeJJ264EuQ+kQBsF7pTEbOqjgEDjE/dURNZssWZg4sPHO9sSL3m7QBFPZBJgkCfoeAodEITAYvHMZvRWFY9SuzeW/anRBsFz+paC5BcbaGsac6VaX+fcwbgSTIpdP2xSZmQE2M02i7bvsiRCZJHFeOa6ZWwb3s6CmHtqMPeMKJbjV/FD4X1aMraTp6bDqRFt/aLpK8ieb5PMT1KVhTMNG4qSKeOCXPoNM6L9j9VTEYvtBsh8UD3hcB+fdK09RrCok0HnMW6kLy3rj/qZVZ0cOU7Yk5fooGgXl/2Hml6HRxICSNov3KGWYxpcRuwxSWxnYbwdiwGQsvRQ2ezk+qOSLmXWkfAVVP+yqsqvf0rox+t5/Ff5OWBVJADXPjpXpgDEMtBCgPkgEeKdj8NtWL+3G1Cu/1zBgHO1iEuYVSqDlboXHLuM+bdj7Yx0UsEcfYZmuYj2CLzvD8zPZmgwGGyOIwctUq1w==;EhL/uJ18Pt+W/VhFTzmxtA=="
+secured: "ErwyVlzqoEPfqwTM4BUqos1y09hUwSGHZODoN6HJj4QPteKRf7I7VMVpUinzqafv/4LRbpL2yygHW10JjZR2KYHWsUA3SNOXw+nTOPhmUp45xVTV/YpnQRWS7TFFEylwx6MxDs0xYj1DrTxjB/Fxv469SkCxCuINku2r3ZKr1SNozNsySsyRMBOeqOfhfypvbbI7EyKNQR+P4FeHNUnWLFHzrAMKY2IPZ8COalR52amtfOKMANz+L57Eh5zFZCarpFqBFzW5Jg/TkatpohgW7NzTIZ9+eiveTJ3K2/QMTo6DQqzWzlqygV1PKeoXXVuwGwboE4/vrWFHs1mTzULyg1+9ykeTg+nfxjxIgeLUyCA=;C48rt81hw8DLZm9Ly3F05g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-p
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

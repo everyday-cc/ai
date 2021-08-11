@@ -7,7 +7,7 @@ originalUrl: "https://www.codementor.io/@swaraligarud1999/ai-in-healthcare-7-ben
 webUrl: "https://www.codementor.io/@swaraligarud1999/ai-in-healthcare-7-benefits-that-can-provide-advanced-medical-facility-1kmy1hymxv"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML"
-    excerpt: "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software."
-    publishedDateTime: 2021-08-06T05:05:00Z
-    webUrl: "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/"
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Until recently, Ross Mitchell served as the inaugural AI Officer at the Moffitt Cancer Center in Tampa, Florida. Now he’s offering consulting expertise borne of a long career applying AI to healthcare and health systems."
+    publishedDateTime: 2021-08-10T05:02:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/08/10/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 68
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
-        isCached: true
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 33
 
 secured: "HqJPV4eaLGbObRrljxJT2r4zYAS8B4dx7B55INCaMHKsjrXmTVAQE+PBeANP3KPNEdOkcbt/UrNpZ/y6gPzqzMBrQCeUxF10Q5wCt6+mg7aqrtVKnQOvMa+yh7Qjc6yAAetQgEJqZbgevBGlczTQ4HqhImw/0UW5sxjYsgqkBtUwJ93E8d3hqwBdn+qBoyGwfZTw7VeIntndg5HsCoM1ODXQtPpnaTSI4QF7BaQBuARkuAoaA0mFok+0lZMUUJvfl4uI1EbWSmTH/g6+oSQMIgaTxWVxVIIBVT6phX5nBIbj8ZkpIo1D8eqak5is9NJSshG8QFAlJI2HN01tJt+Eo9rsQcz4qH4O6GvU0r3dBNitAJJa11xa6f9Ou3DTRVQfvySfa1SJu5Hrv1lwUGqKS+sCkPVwf5iPRUhbQJHJ5XqJzRR33ef4/F0V2CO6pFy7Bh68hv1oAs08KeprOtWOdwXTLE3Xcqm2kSJ6tT3nZnP+egnD33JQXZBqHjrp4OEIavgGq9rCsB95G68JN/1SdQ==;2Ah4V+jTkeCMpnKtJOklDg=="
 ---

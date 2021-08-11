@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Underwater Computer Vision Market 2021 by Regional Production Volume, Size, Share, Consumption Volume, Revenue and Growth Rate Forecast to 2026"
-    excerpt: "Aug 06, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.” Global “Underwater Computer Vision"
-    publishedDateTime: 2021-08-06T06:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/underwater-computer-vision-market-2021-by-regional-production-volume-size-share-consumption-volume-revenue-and-growth-rate-forecast-to-2026-2021-08-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
     publishedDateTime: 2021-08-10T06:41:00Z
