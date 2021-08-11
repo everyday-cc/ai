@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "A new generation of AI-powered robots is taking over warehouses"
-    excerpt: "Within a few years, any task that previously required hands to perform could be partially or fully automated away."
-    publishedDateTime: 2021-08-06T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/"
-    ampWebUrl: "https://www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/08/06/1030802/ai-robots-take-over-warehouses/amp/"
+  - title: "Vatican: ‘Killer robots’ pose threat to innocent civilians"
+    excerpt: "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva."
+    publishedDateTime: 2021-08-06T18:48:00Z
+    webUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/"
+    ampWebUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
+    cdnAmpWebUrl: "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
+      name: Crux
+      domain: cruxnow.com
+    quality: 59
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/01/robot-tile.gif?w=480"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "AI-Powered E-Discovery is Turning Computer Vision into an Art Form"
-    excerpt: "Much in the way that machine learning has an objective to make computers “think” like a human, technology in the category of “computer vision” is aimed at making computers “see” and interpret like a human."
-    publishedDateTime: 2021-08-09T11:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2021/08/09/ai-powered-e-discovery-is-turning-computer-vision-into-an-art-form/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/08/Emojis-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "Are AI-Powered Robots the Future of Healthy Fast Food Models?"
-    excerpt: "It's no secret that convenience and monetary confinements often tend to overcome nutritional value when it comes to our to-go food choices. Blendid, a robotic food automation solution with commercial contracts and strategic investment under its belt from global brands,"
-    publishedDateTime: 2021-08-07T08:41:00Z
-    webUrl: "https://www.chron.com/business/article/Are-AI-Powered-Robots-the-Future-of-Healthy-Fast-16369965.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/21/26/53/21326554/3/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg"
+        width: 2560
+        height: 1777
         isCached: true
 
 secured: "07MpsgsLodxh/4DuS9FBn2sNPfWKtDMgGkHlwgnJWMQvaW24faMigQNTt05CkFNbDzr1F1pVCPxXCCyB+QWXE6NoKGh6xp2ixsxBUKHNKVE7B6Ilif0QLEdulkH1Hk28f8VX20uB94SwMPcSD3YBUD2+QJKJj368BUsjLwdPq5fXhbFc1e1BzBlSRkbIbJIe56hhZVPA5Q5j9hP9Um7QbKTPNrSLTiMwb3jjPQlUzrDGmGaRdBnJ1te9qfAmLyJ5ucjnr0uI3GAAB2Sktn2hPuAOqgm1a90HfsipaTOBeK2+0xLGJhkNCNCiIpJ6+gKyOM82HFWKEHwrSDBlp8+BvwqPSKUWCxCMOXDO97W4jOWqLpPd+4nLgW5OsTjfSIywO9BlzRp2WYtWz+4qmBGNMlowkYSXDpuzelPvjJOmSnYdEJWRrnPo90gWaEgRLgdAg3gJkRRFkD1nlNT3Wq3adqlu4gWRyAhVgSdAdW99AAGOSW+5OkBlbsD38ZSNl8ThJLpx9GTIV/a97pGUMLfpyQ==;m8jG2hR1X9LoMNZwuwRuIw=="

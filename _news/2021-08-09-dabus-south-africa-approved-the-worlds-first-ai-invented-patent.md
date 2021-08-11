@@ -121,20 +121,6 @@ related:
         width: 800
         height: 665
         isCached: true
-  - title: "South Africa: In a World First, South Africa Grants a Patent Listing AI As the Inventor"
-    excerpt: "Analysis - At first glance, a recently granted South African patent relating to a \"food container based on fractal geometry\" seems fairly mundane. The innovation in question involves interlocking food containers that are easy for robots to grasp and stack."
-    publishedDateTime: 2021-08-06T08:44:00Z
-    webUrl: "https://allafrica.com/stories/202108060245.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 31
-    images:
-      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00501792:19e48f25f754ab656a2f8c462ffdce6d:arc614x376:w1200.jpg"
-        width: 1200
-        height: 735
-        isCached: true
   - title: "Using artificial intelligence to map African cities to improve services and infrastructure at low cost"
     excerpt: "Using aerial imagery provided by the Zambia Survey Department in the Ministry of Lands and Natural Resources, OS has utilised its advanced automated process to generate a new base map using Artificial Intelligence across 420km2 of Lusaka. This innovative ..."
     publishedDateTime: 2021-08-06T13:07:00Z

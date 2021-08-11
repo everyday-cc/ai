@@ -71,6 +71,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."
+    publishedDateTime: 2021-08-10T23:33:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_palantir-stock/12-best-artificial-intelligence-stocks-to-invest-in-right-now-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
     excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
     publishedDateTime: 2021-08-10T08:45:00Z

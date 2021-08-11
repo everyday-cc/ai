@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Arrival co-developing data platform with Microsoft"
-    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
-    publishedDateTime: 2021-08-06T08:18:00Z
-    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
-        width: 1882
-        height: 753
-        isCached: true
   - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
     excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-09T09:15:00Z
@@ -203,6 +189,6 @@ related:
       domain: greencarcongress.com
     quality: 19
 
-secured: "oskRE2hGZTvcdZyqkeAEh5RY0k3Mu4Q7BxvjqVhrov5Kl8tQmlQdDeJNW1k6LvS44v0Cm6u6abusuQ7cZcrmJ+nKgWrOrwr9mu2sX0CNuqO1RF6u+z0eHl7yn9385NDRsnL1S3LbLYmZSLEr+pGClMM2i9pF5jaI3nraw20ckeGGOalqrP4w7a8elZDqs67JzekZ2/Lfth+1DQm37prNyWy+Y2C5+alYGBL9SXSe4AjuMDJScU2bec05zbbMayzAGjABBVgIpKNE4z6BKq9r6Pn1zmksh4BGo5ONCnpi47D+m6owUi9pfDi0YfzTl2lt3o3e9ItXTkmayQKccFqgDruim9U61vAx0I/QQWcf6UE=;I2kE3vfXGii2d4Fmr+2GRg=="
+secured: "vLibMQCvZitxg/elRs3u+gZVeE1ipmc8xVh1Vp5qUIJiIeA/NfY2eDmCizaYPFDpXiuP2llB8dIGyVPQ0E0kg6gWBxlRyFMJcQsJ6H0xWyEGuxQZB33XOGCiriHKF+y4vMpChPJIb0Dm6PVW1ESfeAckUUyhfIYPRwqVtF0j9qFtAU6Qc8RD++OGfBCPylRD7YSVP04uXZBUPiaNVjei6WQT2Nz7DoCooV+TMcpfBzNIEYJTEJr9Q27jTztZc7jWH94/baYMffWRN0sGZ03rgCSrhu3L+yJ2TJJkWXZg5QmLT3J/+QxB2pRxjnWDJv4AtnWTUtLP18jV3VqffAqjmgErd/V8BCEKbxhTLh73lkrIeFM9XYI4JmRZz/w/5uvEdaebpSvwDK92izCcN6Pg1Iptcyha/DOKzkFm4hCx27/QR82qnUkrKkei4FK3OSCOYlLcbw1L1+Kt9ixxCpsMAiR+10wBPoveupVhtXY0TM/bO+EVv5KhigV1zAkpZ2U/BWLIPYPOMKnszeC8yevodQ==;Y+Ior5KH4OffXZKFKcd9Xg=="
 ---
 

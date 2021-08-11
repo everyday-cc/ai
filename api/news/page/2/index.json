@@ -303,6 +303,57 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-5-ways-ai-can-help-mitigate-the-global-shipping-crisis.md",
+      "title": "5 ways AI can help mitigate the global shipping crisis",
+      "excerpt": "AI is not a magic wand that will right all the world’s wrongs. But it can help businesses plan for problems in advance and respond to them appropriately if they happen.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/",
+      "originalUrl": "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1323953734.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise.md",
       "title": "Deepbrain boosts AI-powered virtual avatars with $44M raise",
       "excerpt": "Deepbrain, a company developing a platform to create 'virtual humans' using AI technologies, has raised $44 million.",
@@ -562,7 +613,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -658,49 +709,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-how-can-ai-improve-seo.md",
-      "title": "How Can AI Improve SEO?",
-      "excerpt": "Anyone that has used Google Translate on a regular basis for the last five years will have noticed how AI is learning to understand the idioms of language. Voice assistants are even getting better ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379080",
-      "originalUrl": "https://www.entrepreneur.com/article/379080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379080",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379080",
-      "publishedDateTime": "2021-08-09T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-us-parents-are-packing-their-kids-off-to-hundreds-of-ai-summer-camps.md",
       "title": "US parents are packing their kids off to hundreds of AI summer camps",
       "excerpt": "Artificial intelligence has become so ingrained in the economy that parents are packing their kids off to hundreds of AI summer camps across the US to learn how to use it.",
@@ -760,7 +768,7 @@
       "originalUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {

@@ -136,20 +136,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Arrival co-developing data platform with Microsoft"
-    excerpt: "Arrival has announced it will be co-developing its digital fleet and vehicle capabilities for the automotive industry with Microsoft.  This...Read"
-    publishedDateTime: 2021-08-06T08:18:00Z
-    webUrl: "https://www.just-auto.com/news/arrival-co-developing-data-platform-with-microsoft/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/07/Arrival2.jpg"
-        width: 1882
-        height: 753
-        isCached: true
   - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
     excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-09T09:15:00Z

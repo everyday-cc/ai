@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "At 27.9% CAGR, Artificial Intelligence for Edge Devices Market Size is Expected to Exhibit 4811.4 million USD by 2024"

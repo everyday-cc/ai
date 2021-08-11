@@ -43,20 +43,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Graphic Processing Unit (GPU) Market Expected to Reach USD 198.77 Billion by 2027"
-    excerpt: "In 2019, the global Graphic Processing Unit (GPU) market size was valued at USD 19.82 billion and expected to reach USD 198.77 billion by 2027 and poised to grow at a compound annual growth rate (CAGR) 33."
-    publishedDateTime: 2021-08-06T07:23:00Z
-    webUrl: "https://www.digitaljournal.com/pr/graphic-processing-unit-gpu-market-expected-to-reach-usd-198-77-billion-by-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "At 18.1% CAGR, Facial Recognition Market Size Expected to Reach USD 11604.5 Million by 2027 Says Brandessence Market Research"
     excerpt: "The COVID-19 pandemic has shown a positive impact on the growth of facial recognition market. During COVID-19 pandemic, growing concern"
     publishedDateTime: 2021-08-09T21:00:00Z

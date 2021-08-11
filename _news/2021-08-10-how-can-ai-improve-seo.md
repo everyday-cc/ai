@@ -1,45 +1,29 @@
 ---
 category: news
 title: "How Can AI Improve SEO?"
-excerpt: "Anyone that has used Google Translate on a regular basis for the last five years will have noticed how AI is learning to understand the idioms of language. Voice assistants are even getting better ..."
-publishedDateTime: 2021-08-09T17:20:00Z
-originalUrl: "https://www.entrepreneur.com/article/379080"
-webUrl: "https://www.entrepreneur.com/article/379080"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/379080"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379080"
+excerpt: "From a digital-marketing perspective, the use of AI in SEO increases effectiveness, efficiency and speed. SEO specialists started using AI circa 2017 to take full advantage of Google’s RankBrain. The popularity of machine learning is growing."
+publishedDateTime: 2021-08-09T22:13:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/How-Can-AI-Improve-SEO-16374700.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/How-Can-AI-Improve-SEO-16374700.php"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "How conversational AI can help banks grow"
-    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
-    publishedDateTime: 2021-08-09T09:49:00Z
-    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1223
-        isCached: true
+images:
+  - url: "https://s.hdnux.com/photos/01/21/30/55/21334907/3/rawImage.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
 
-secured: "ItbGMhF57QXJiHqeMPKYkRYvfUCEf9YiozydzwYgm2ETqG/rFlJxv5wuv9HQ7FsKU50hm9VOtZfrtQGqVHX0O54+rp3kksrCoY74FIeeu21ZTnj1szijVNaS8ct/U9W/LHQX6oEH4OdpZGv7KugdrYmJdGw+I7LPzPSmtDgYfQNi7W4pWruRuos1o5YzCVuUPQeyPdUJDeVa0l8fs9/gcLIUtjogAZNRnKe7bHUGaYRNFrSjVfOrQgqmQv38q54rAjbsTkrCmWX5eLcCOxmVKuRzBUGgeddV+RTfdJn2nMjELbGe2IEmHVlhyZwh90ehDZ+eJvCv0aQE3JvJpG8sVeDc2xM2GoPYutVI6xqkA1A=;Acc+vSx3XUYBZq0UHWCaRQ=="
+secured: "SKALGtjkz9cXxalQPEJgIS1UeLaxzBJQsCJz+dznR6srCudSR3DsPvNXshwAT4D1qAF+z1qFivhax7uwI84vQ+SfYuqglLMMkdTtgREqWwehc76zSL8cZS/Qm4FXgr/GY1++J0hmwF2ZTE7hocW/JIGBNgNrMkrv0lpIP7So2nCF0fEi0KRALwMqR+y0MXZ9R9zW+ZUX7bXnBfmp7kIxq48Mcfk6a1a02XeC/z0VKOf4b9Ry2dbiBPDDleVHmy9dbQmTqO8dd46pFSP0TW73PTfvLFdoFigm7IuyxRLCz/wiIWOJ9i4ykrZ3Bfam0zkvqC7uuanFqLT2SkLA5N+fdtTkt6PrqaQjBOs2T3rgGj4=;ZpxIdUfUuivEjghaZYMkGw=="
 ---
 

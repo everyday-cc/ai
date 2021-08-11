@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-
 webUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/"
 type: article
 quality: 67
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: TechCrunch
@@ -26,6 +26,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "How conversational AI can help banks grow"
+    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
+    publishedDateTime: 2021-08-09T09:49:00Z
+    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
+        width: 2560
+        height: 1223
+        isCached: true
 
 secured: "qIE53CdVf2Wz86G/dn8T7HeDrEIICp/gp/gfBkp3zl17GoyuJMWVh8AieM28eJaTF1k6kbJc3QtWCvBRRO6NvXR/SA2ZpOkaKPjaTsw8/CCBjW/RQ+x2KrBKXtpGPQUPSBpA3QaPtUPBy3ynzk/av7FIj12mo+qZJ+lj2wr9hLZgwJTNXK6Qyj5CQkH9YB2dgKKL8Wgd6vYrxGjKqFAZc0L9C8mA/z9758zG4+fSFsWIyP8KFwO5xtz3X9MSJEdD7cYXJa1NtbEbh+6fFP2uKompKxIkGQ7SJh4Im0XIOHPPOmsD5LXAMoU80XVpcZlXQKQBDM5G1gjszWPoVPZpLi182DoZNYVnIeaD795YdtQC2CDFdnKfIZgi0+dprP8C00Q0rc9BHLhWbaGbxIWcRG86pXpkTA+elDfopRtY2DCkWryAOPcDg0hqEArsw4EToffntyM43V4WeIWu+/hDIIqHLjHG3D8xWxMN44R4rQfvlyIvNBoiD4BCrBaiZwtpBxWnWH9MHbLNwyGlH2DTMA==;kPzVj2JXPkre6abS0d+PVQ=="
 ---

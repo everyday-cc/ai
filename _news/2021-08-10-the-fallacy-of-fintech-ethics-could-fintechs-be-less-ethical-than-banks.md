@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/nyse-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."
+    publishedDateTime: 2021-08-10T23:33:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_palantir-stock/12-best-artificial-intelligence-stocks-to-invest-in-right-now-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 36
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The future of digital ecosystems in the fintech space"
     excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"

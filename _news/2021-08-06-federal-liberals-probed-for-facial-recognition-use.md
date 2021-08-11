@@ -59,33 +59,19 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
-    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko."
-    publishedDateTime: 2021-08-10T13:02:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
+  - title: "Synthesis AI's Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
+    excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep"
+    publishedDateTime: 2021-08-10T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning-301351447.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 51
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Supernormal Offers AI-Augmented Asynchronous Video Messaging"
-    excerpt: "Concept: Sweden-based startup SuperNormal has rolled out an AI-powered asynchronous communication tool to improve remote team engagements. The startup integrating video texting with AI implementations to bring in more engagement and utility functionalities to make day-to-day video conferences intuitive."
-    publishedDateTime: 2021-08-06T07:46:00Z
-    webUrl: "https://www.power-technology.com/research-reports/supernormal-offers-ai-augmented-asynchronous-video-messaging/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 39
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/08/virus-4999857_1280.png"
-        width: 1280
-        height: 905
+      - url: "https://mma.prnewswire.com/media/1579933/Synthesis_AI_Logo.jpg?p=facebook"
+        width: 1919
+        height: 1005
         isCached: true
   - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
     excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
