@@ -204,7 +204,7 @@
       "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -243,9 +243,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {

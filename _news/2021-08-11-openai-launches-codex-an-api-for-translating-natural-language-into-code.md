@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "OpenAI's Codex Turns Written Language Into Computer Code"
+    excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
+    publishedDateTime: 2021-08-11T17:10:00Z
+    webUrl: "https://cacm.acm.org/careers/254733-openais-codex-turns-written-language-into-computer-code/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "9GiIhqlI3gBZd8BGOj/uvfNzmdHFPr9FSC2LY1OE6EHuJabcLiAbgv7RKMcpZM2fkcVz+CrE4Z6YxrXl0uVGO9hxyOvjMXSFlkAeitXb2fQ/EEcosjdqJQ2INawLbOCtM8iC9ViIAZ9Oi+ToxPSRnpBIuX6WWUNVkNtipIIjcSnpXjnwYIukX9Sf4y6Ofna37b1QeXXDI90PQEUlwo5ryVkHCxCRI6iNfmQMr71aOi7Nu1YH5CJxuBZPTLdMT9TwSY+woa4ToPVZos4Xvy2IRAOr8Ci71cUa7R21rupGhwfEvgguDDVwdS12YAmuBE/SD2idPh3mCpXx12Dk5eF5dXu5DR75LCeRHNlYgGGJ9cU=;FqxF4mLL7Sozoyf0gRUDEw=="
 ---

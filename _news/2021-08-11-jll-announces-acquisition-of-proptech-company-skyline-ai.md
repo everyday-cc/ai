@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
+    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
+    publishedDateTime: 2021-08-11T15:47:00Z
+    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 52
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
+        width: 1100
+        height: 750
+        isCached: true
   - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
     excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
     publishedDateTime: 2021-08-09T17:09:00Z
@@ -72,6 +86,15 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "JLL to acquire AI startup that predicts future property values"
+    excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
+    publishedDateTime: 2021-08-11T17:46:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2021/08/11/jll-to-acquire-skyline-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "pFw8oNL8FxbEGdVLwREueek7+jXwUlbHfUCXtMGRkM4bj668ZI6S57lCLkQQoy1GhsVrHugY9A0SwqacCbN1kkdeAErBoDAcERgjtATX6LPukIh6aF8bGL0+7d+rG5Q7tw8boEipRE+VPLq/N1Y1rXlPID7yvXO85QP46DJ9Uk/+BWs7Xs1G+eRgt2mmAF7N5fbPBAoJDWmFzf2MnsuDZ7tThvNW6z9yhBrgHddHAkLk2g93sjA0WS3LPyAGnlITFF3ORFBvZKJsniAU17zT3kmt9B2gBL9rvhrMq3v640ezGzTvKTacaSuaMw+eLnV+DozJzwCHPqJQm1YG1R1f+BoZsnrvrt8w6ZnByEW+EW1vddilknXQdrP4QSJzHMalGZGxs5EN3U64XhJ7QoakU7X04OzQjRi21CgdBnpLEQG6XzK5Q+pHGfOAV/+NgZflfgAdsq4pmMu5b9ZY68NFcTHwU39LmBu6Gw46vOqUMPCvtt/UknYGfSePgzHE9tGK2xRDb5OtXQyzTe8t/z25TQ==;31rsKXPsvmpdXT8FXO1EhA=="
 ---

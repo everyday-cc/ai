@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanag
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

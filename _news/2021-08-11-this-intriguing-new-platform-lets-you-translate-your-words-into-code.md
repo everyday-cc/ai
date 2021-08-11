@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/this-amazing-new-platform-lets-yo
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 676
     isCached: true
 
-secured: "zIUmfaFgEu87O3WscY62V/CZDtwvvJLP4lBW1Kbi4vvGadFcLCXdU2qgg/vga9nlJlhwL2UFAqvPQ7M1OfnMk8UcE0OAj5Wb2zGBJW5Sy8cd5AtupIMc2/HK3G/54QDkgeq691WwZYNwjOa2xVsRm0ApfxdzUuQ4CA9KnkbMGpGxlqhzBNcHhtlDGeyQGdwujOU8loJHz1s+zoUsYuGhLHC64bQz4kZh/vZJGZ4mfONlPBOlnZmkSGA7kmEg7ys1qmJTOsKmjC3W53yonBpdlpwO30K4YgCLJXGR0dA87Q9DZkXNhMNjTS35SQZtarSs65qpPay6c6+LYnNhCpLGnLVyBhgjBTshjYgb37csEfE=;DVS7v4A03QpZ6w9HzEs2Mw=="
+secured: "4H6hVdj6soUtaqAiuDHlnKT0mBpRFQdSOKl/PlTL6qCTM79sBpP48In90UkNCBce3pDbcH7iNjCkGUkF26nI1kS+L3iIdiDYJIsDw1D5+qvkWrvOnxGDbNVXPLdnbvjgCWpTzva4D8My5HphyH3jJ97lHaRT0iJpon5pQaN0k+8JqjmV/fIog1kExJ9WkNeq0De6rRiJwhrMhfdms2kgJLjRE5OzQN+0jmOW68rhJ4y/JLS5Fi6+1vxbm+vM058i/iPMyHNjj7lj5mYb6OsSCzU6NVztsTBuY4doLtYj74f0Zm8RNTynRKFNx0rhZlf3Xj1Jn0CtESulMqqPW1K2SKC0l83LXoq8692cQ10FY73YX2eBrA/X98UZo21XS5L+iOW+5/xvDgZRX7atWbH5It/4ct+gNqfZtj8U5Xo5eCASyLj0m8Yfu/Kze22OPX/S5om4Fep5nHyOSmxM89R7Jlf6ADSdNPD45Ys88Oy4iO3RwX4dqGlIi//FbWP5anwXEvJNmK6oo3mkCqsVmTdzGw==;Rl6lgksz4S/DNDCbF7AJTw=="
 ---
 

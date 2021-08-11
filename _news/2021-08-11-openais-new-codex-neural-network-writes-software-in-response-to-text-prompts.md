@@ -73,6 +73,15 @@ related:
         width: 925
         height: 519
         isCached: true
+  - title: "OpenAI's Codex Turns Written Language Into Computer Code"
+    excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
+    publishedDateTime: 2021-08-11T17:10:00Z
+    webUrl: "https://cacm.acm.org/careers/254733-openais-codex-turns-written-language-into-computer-code/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "pmgBPouHGwv15ED6iHHfuAqokZI2ELR9Lh1P8RZ/RvYOymjjzQyjQVffZIlWt09rvb11oiVcFSTthc/h0IDgsKGMUbSMEzdm1Ydy2vHyhnEUSSSIUo56LS79fmemeJ+/FqFD5NTZuaKbxh8jaMQCkXtFGdr0W4CJ7HwRObRF5y5gzgwv7YsH7jpMCjOPCWE8gUulyje9U0vVrMr2Pveb3NP8atReNp7x3hOnvySHiTahaRzzt1hm2/kaPBInwj/DarUqlMxluHQSEG3G2jGemwN0fpFNR13q0+T91YBQ2W1Uo4MKU2hLq19HLE6F5MHnKZUOBegMT5knFIMaIOBaceauIbOkp7MhPnFf7wxATcw=;D8AJMcT2vG2p1Vh9jZvfKQ=="
 ---

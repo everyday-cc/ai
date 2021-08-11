@@ -54,6 +54,20 @@ related:
         width: 400
         height: 246
         isCached: true
+  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
+    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
+    publishedDateTime: 2021-08-11T15:47:00Z
+    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 52
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
+        width: 1100
+        height: 750
+        isCached: true
   - title: "JLL to buy proptech startup Skyline AI"
     excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
     publishedDateTime: 2021-08-11T14:56:00Z
@@ -68,6 +82,15 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "JLL to acquire AI startup that predicts future property values"
+    excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
+    publishedDateTime: 2021-08-11T17:46:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2021/08/11/jll-to-acquire-skyline-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "2SX+CRAguCJqkqWU6qkoaJzCPWcMk9Z8e+dxDBQquXeQIiC17lJVxOSNRVFLcG2aINYGViZ15+XnWrUK5WFNZ+W+RTInvDZX3r+F14+GfRe/bZoISNMpwR+/n54E5h+H8WqTXHFc84WbRQ4D+uknrv71SSxCSgNPA0JpjoE6j6WeLI1gUCA6lEOgsddmkJOtd6vpMk+9bFg0P5oRWcF0fn1+mKRwqGV5PS42IY7nt0lOQl1JFXBNFclU2UiuqVrLK/ACP5lj2YjRbEPXMRwITxLPDSFvf4fFt816fcuBsgK0XYZE+i58SLt+ZLg9/WkMbYmCCZNsdLMtniM1T4QP095j2Hh8Nxp6HvVeuurZ8mYMU8GkAdpeEMpIbXgx7QbsLODj2Vg7Z/6qV70Fl4yLlMB4uoNv6dra/3dBMWSqA+6hdcLBiZYvuSpL/1/vBdnsZGTkMJk5D1G0I5Cmzu0NtHiuEUDxbMeBQH4LRnAQWC3rTuIdqTES80kNw74czSDT40uzckHL3skknZTKX0Lu1Q==;m+ZdwpOx1bxE0JoTLDtO7w=="
 ---

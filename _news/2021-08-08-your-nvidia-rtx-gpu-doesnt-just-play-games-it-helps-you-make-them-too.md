@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-p
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://aecmag.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-5.jpg"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
+    excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
+    publishedDateTime: 2021-08-11T17:18:00Z
+    webUrl: "https://www.extremetech.com/computing/325710-nvidia-announces-tiny-ampere-gpu-for-workstations"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
+        width: 1344
+        height: 742
         isCached: true
   - title: "Nvidia announces tiny RTX A2000 GPU featuring smaller form factor for Pc"
     excerpt: "For professional workstations, Nvidia has unveiled its new RTX A2000 GPU. In terms of size, it is Nvidia’s smallest Ampere-based GPU to date. A2000 cards are meant for professionals who wish to use ray tracing and Nvidia’s AI capabilities."

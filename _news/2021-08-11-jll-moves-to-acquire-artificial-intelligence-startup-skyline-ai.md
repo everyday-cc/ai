@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-int
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
 type: article
 quality: 102
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 400
         height: 246
         isCached: true
+  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
+    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
+    publishedDateTime: 2021-08-11T15:47:00Z
+    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 52
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
+        width: 1100
+        height: 750
+        isCached: true
   - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
     excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
     publishedDateTime: 2021-08-09T17:09:00Z
@@ -72,7 +86,16 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "JLL to acquire AI startup that predicts future property values"
+    excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
+    publishedDateTime: 2021-08-11T17:46:00Z
+    webUrl: "https://www.bizjournals.com/chicago/news/2021/08/11/jll-to-acquire-skyline-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
-secured: "GvAfNSQmM2ZEK+ZenmGuz4QtzUuRdQp4elXRhYh21flVKQkulSxpPrnFUN86d65+7bRRRAikBt8pQzyfXGd4oaVFaMZVZNae8yK2DVL3TgOYfb7mjAnakmr8BupliRGWw1VU0kk9FtT8HB+uGdGb7dY4yd3SReO88t4GyxZ07wOqzBYEIsSEtl3t/LXpmfB/9NubvmwDhUFUItVdrQtf2pslz5Z+PPdl8a8FFG2OyK+lGLRxzIiksc24th7+ail1E2/VhA5djstdWWJlSSKcpuqgvSaQrtmCsRYpBtgL/0MPa80YdjfcToYKk/Tczxs+xawN+kwQIqQCoELz3GBAdvBYfv08Gb5JAtUjknYTrJM=;GQsfPFff4yKJ86/XZaS0bA=="
+secured: "cZSRdUmrCPGaOGsZp+gRWY5cJvTfoDMP60R1aucJCtNKigsadCophMhVqZh7Ls/GQb0rBVZbUuhJir8T5ibOyq27JejdFX6k3zstPb6xtrNT6GThzO35QGexbcyY09Nob8+aZG6NpBVktvtivekG7oCe1DMhIqvL3L8/NWWx3qJTsI2V6wKrC4AMCEtK3HUhe+Tn6zFWzIR4ssR+2wOTRGuWR67nFqdWVUvslOG25ObobMoWRCFFiNC0zYH6LJNappzh7+XwQpDA4v1LsL76oQzjDHefXE6NcT1oeFWzgjqpVkGgWiqyZULYPTxhpCc9YBStf+g2xqnUsWuqV98B4ephUfaPKfssyg2AVwMJG/vPNWWTPW99CAbM1urJ+mpmqL41/lkpcrJPelU3Wa6NewxZLYGSqOYQ5F2oT0kO5HHsSu+w2ohd8SKncLZ2H0nn0wvJXnCiqq1ESKp0tDd0BosprpQ9O7uIw0i298dyBZZyM+IMXcBzVjafbFU1XPIbyCAvDCFVAQBdJwk8rMFIQQ==;3NCH23lGWw8O3R5+j5zh5Q=="
 ---
 

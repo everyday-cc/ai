@@ -71,6 +71,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
+    excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
+    publishedDateTime: 2021-08-11T17:18:00Z
+    webUrl: "https://www.extremetech.com/computing/325710-nvidia-announces-tiny-ampere-gpu-for-workstations"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 39
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
+        width: 1344
+        height: 742
+        isCached: true
   - title: "NVIDIA RTX A2000 GPU offers real-time ray tracing in a small form factor"
     excerpt: "NVIDIA has launched its new RTX A2000 GPU, specifically designed to bring RTX technology to more professionals offering a small form factor"
     publishedDateTime: 2021-08-11T07:32:00Z
