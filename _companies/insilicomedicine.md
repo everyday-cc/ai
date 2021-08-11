@@ -2,7 +2,7 @@
 name: "Insilico Medicine"
 overview: "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research."
 type: "profile"
-heat: 108
+heat: 72
 
 website: http://insilicomedicine.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "InsilicoMeds"
   url: "https://twitter.com/InsilicoMeds"
-  followers: 3969
+  followers: 3970
 
 size: 11-50 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=EUr-rkXsBUs"
 
-secured: "YQMeAo0VY5w9E8Nb/J6yJVxtLKLjnFXCE2bwqrxjX8yZMLOuf2ZNc6m61n4pO2xXWwxkkb9jAm0eYOVRloId7zpb6FFBDtRKZQ4+p45Bw1k5IzE2tfOvkFIPD2GwVmzZrhQmcai36hohb1rIS19ssftraMJsQztZDmxSKn8rvwyfhC98Mxxs0F9VlcVCpCe0Ajn4Vm/tvOgOJbIT8eIFXKPQOhCLVXNr8UrpHOI9IKaoXX8Armx/uOGR/IeSut1XD7havnIYOWOyl+J+FPn/8F0I1PVtucx08kLJnx1E/4E3pGtj6wVTslsq8LX+umgYNHa+lWdYAwH+YKNSJ1pc2yVS1mbdJZZKOWePdvOyN1A2hS6ePaxrdn0OfgWKOhOquGow1XuQAZThGw53RGKuawz55WILn2GnnEpND4gjHFg=;rm9MCzdxu/qFTSNsn7yNqg=="
+secured: "v4KWBYxQngYq+X3UcgcjAZfdyvZ2bid1W9RozT2X8YhFwBn6Gy0Bpfv/oRKbuieCd065FI5+VUcskH1X1h0k7gT7cUlhlXd/Y5iIrLCPfYd6J6mO3kvx6oUbB4VMPZHfgfSb3h3RZsiCsX9KBtOA1Xg2lU2bua3d0bbcEdOWM+jcvtXt8LIiwpsQGGcKHmcT1xHnw+LnOwqBczjo/I4kr0WnHfuQM4rQpfJPTk1S3gg2PgD7ocTb+hIvS1BRG5V1iXpCg6qFa1pjpO5xzF3qgnWbe56niu7LgeIOu3jDiOATbxRzRk8q0a3Ea3gTUNypa+p55VQ/3wOaPnT5Gaz2abOxsxF4zIz1IhkI2esRQk2leLS13nSc5mQCLSHTnfXd3NfJ0CassX76zCeOPHM70mNZmMEdhA5lYN9bI0A9Xqc=;rXyJ8SxB6cgoe+FSiHjlZA=="
 ---
 

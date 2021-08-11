@@ -2,7 +2,7 @@
 name: "Textio"
 overview: "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia"
 type: "profile"
-heat: 50
+heat: 3
 
 website: https://textio.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "textio"
   url: "https://twitter.com/textio"
-  followers: 8185
+  followers: 8184
 
 size: 51-200 employees
 yearFounded: 2014
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
 
-secured: "vMK6Mf1gMj9KqslBbYC3uZjw+AK5pH3Mvm5VjJ0fx9B+Nt2iEWDfl0nAMwMK+kCoFiqCsSSF800+/ctj1V8vY2bBHkbQ1xLjsEyl0Ad2CD7FMTscAQhBWIyoE2+GfcA0wu1aeuP37i+Kt7GtW5BVkPXDXbfVZ3YNLKEQasksaMly+MXtu4Fahc8R1UBu6oDHMAK12jdRm0GLbzZeTKBSOJgS471l7KFwXIhxd38wAFBy3Vq3JKe9m7OC8KNiBFBaflklkdskixS97JS2097i3Sp65/ZEk2uvojI9Y/cL3b3PWr++gikqcAKeN3xJVp/afNa9l5HnkINtGQ4CxyE1K4/emA7cz7PnkYwHl6frlNkDUl46lfNmGNB4GjyklcspdkVxZCERaorwoD0VDZZsjWpEC+dvDT7wy0T4P56tasY=;Ciha0qeM4tvvkQsrAj1TYw=="
+secured: "+haNExe7kt2qTnBRRak1cosFI7MtywpMQbS8jy99Z/JWKrxhZS9z+UVDsgU87Vmq4R9Jm9byOB0gGLIIMeqoMiO/I0pDcVzepzOfiCHTvmDiU0/b+u001SpgX/DTOmA96Aq5+kZQfGCV5wIMcfpbwBS3sHPuxcJqFljZPMzu2AzxGwibKx2h5zS6twoMrXwwSAHhd8/3aHdhjeMHRSzzPpqQ54DlxBakuBME1QLwUTohSZ7WJCBdL99Rj3hst15BenMtVJWVbsBmP39DGAVMx1PAwIu9lxtOqW2f0y7LVDBw42WDEv6YxOAWZZYd49gpMxot3TwWgxUBcUcovOJods4GEI2VOmHWTBVbeY+z7QuaZ5AuN55zuwbH3x/HWC552204mH85TsvepPjGnECl5HG9v+KzytH0S0RHcqoHkQo=;lhdptb+o7OZtmT4iS9DT8w=="
 ---
 
