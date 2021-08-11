@@ -43,6 +43,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Artificial Neural Networks Modeled On Brains"
+    excerpt: "Researchers modeled artificial neural networks based on human brains for performing cognitive tasks efficiently."
+    publishedDateTime: 2021-08-11T10:41:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 74
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/08/neuro.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial neural networks modeled on real brains can perform cognitive tasks"
     excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
     publishedDateTime: 2021-08-09T15:00:00Z

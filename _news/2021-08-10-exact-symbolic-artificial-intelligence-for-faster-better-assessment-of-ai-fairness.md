@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-exact-artificial-intelligence-fa
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-exact-artificial-intelligence-faster-ai.amp"
 type: article
 quality: 66
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1920
     height: 1066
     isCached: true
-
-related:
-  - title: "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk"
-    excerpt: "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats."
-    publishedDateTime: 2021-08-06T17:04:00Z
-    webUrl: "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5"
-    ampWebUrl: "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 86
-    images:
-      - url: "https://images.wsj.net/im-381765/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "BFuDWkqvnL6mn/vySLzo3lJiIlkJiaMhkXH5pjGNNXTy5X2Q2mqnl3vOa9J1oEDfy0xoo/Fp0eeB3Tu9Zhef6gjZ2+MdyoLCT05aGN4wSmF2YOy++3py62ovwq67QPF3ZlYcAPt+E/LE937ZDqgnw0Po//P5YvbpU+XrycrY9Gc69tvlpYBKtk4tr2wRDDAP4tnT7qben5lhO1UNz2cospfmXdC54vcUo4KPDCVot9FPsTFiJYj+Qd9vSkfuTe1WS8MvwqsOnxCouiyCIYNxv5JSK3gVi0PR0/04WOb3FzrlIdWX6rYOLTOhdT3rJ/k2AfVAT1IllG0MEODWfuydR7iDagfQXMLdAZOseldndr+Qc1KOt37DwdF/KbECHd7Fj1OK77dPE7QJGtrAcfc+R/yhgkqaghog4u7vOy2Vo7N3OSZ1006RathvZXM+x42E1EEBvcvcje3gAYwhgGWJtWrw70vAzo0xGHq3lhp5kuUnvkO9plKTjKAKTBIOgZT/Y3E7yXQ//FvHtzrds3xUxw==;f5lMeViHVm7ryJ/2yuYuTA=="
 ---

@@ -36,11 +36,27 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Mobile Robot Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
+    publishedDateTime: 2021-08-11T08:16:00Z
+    webUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 54
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Managed-Network-Services-Market-390x210.jpg"
+        width: 390
+        height: 210
         isCached: true
   - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
     excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."

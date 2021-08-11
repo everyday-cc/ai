@@ -55,6 +55,20 @@ related:
         width: 1720
         height: 1032
         isCached: true
+  - title: "Facial recognition technology being used at NTPC for biometric attendance, says Minister of Power in Parliament"
+    excerpt: "Facial recognition technology is being deployed by the government at a rapid scale in airports, railways, and defence PSUs."
+    publishedDateTime: 2021-08-11T10:59:00Z
+    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-ntpc-parliament/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 19
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/02/Photographs_635539846637003093_Loksabha-Chambor-Side-View.png"
+        width: 800
+        height: 547
+        isCached: true
 
 secured: "wzz5GD1jp5HoiAUY/YPhA2HY+ZwKr28XxB3Xfa2D/LM76aQSsv9ZySyLBGB6OYjGivQz0JxFPzZ0sTrN4XtHSxsBmR+pGU0waRk/6zXCBPCyR2M8mRHxjLNeSXMqLeE2+sgMEBUbln2bu1OkqgmYnTIeBzY0t1R31Ok7+6MuR6q7olzNxh9LgoJicGn6oFo+3cJhieln6L1ciQ0iFMHvs7ulXXbaxxtxRivBFfXnNHozXShY5IcB8qTgpg7+hfyf1m8D2g+y36jr5cu26VbmEC+LwhMTQhsCP1WMCF4L7IP4M5bVX1GRaICpJTAbtDjiPmLFDuMK2JnB/Aw7nxMG1zVteYk86TJEDiJOiKlZcs2sWWzjd1YXfF70OKZCbThzx7PzBNeU+gIQP3flGUvbl4GUf2BitIqsBDOYQHrUF2p2jiWV9ZWWn4z1PnAIdZBBXCiarErbWt6ASCsvS4eyIMJJxltgdVDdfymMOjf7sCFDDPu2X8wA6B+b1lcOJGOMBAG+0jXdycXScyUFcXaAyQ==;NfPno69a49bVHRzNg/3jCw=="
 ---

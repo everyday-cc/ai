@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vatican: ‘Killer robots’ pose threat to innocent civilians"
-    excerpt: "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva."
-    publishedDateTime: 2021-08-06T18:48:00Z
-    webUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/"
-    ampWebUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
-    cdnAmpWebUrl: "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
-    type: article
-    provider:
-      name: Crux
-      domain: cruxnow.com
-    quality: 59
-    images:
-      - url: "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg"
-        width: 2560
-        height: 1777
-        isCached: true
   - title: "Terminator Terror. Meet the ‘killer robots’ of modern warfare"
     excerpt: "Awful vision of the future' While some see developing AI-based weapons as a necessary step for a modern military, some critics are deeply concerned by the technology. AI is already used in lots of beneficial ways,"
     publishedDateTime: 2021-08-11T09:28:00Z

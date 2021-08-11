@@ -3,23 +3,23 @@ category: news
 title: "The Audi Skysphere concept is a self-driving electric roadster"
 excerpt: "Audi has revealed a new concept car called Skysphere, which previews the firm’s future design direction for the luxury sector. It’s a two-door convertible with an electric powertrain, but what makes this a fanciful concept car is its ‘variable wheelbase’."
 publishedDateTime: 2021-08-11T09:45:00Z
-originalUrl: "https://www.shropshirestar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
-webUrl: "https://www.shropshirestar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
+originalUrl: "https://www.expressandstar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
+webUrl: "https://www.expressandstar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: Express & Star
+  domain: expressandstar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.shropshirestar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
+  - url: "https://www.expressandstar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
     width: 1200
     height: 900
     isCached: true
@@ -54,6 +54,6 @@ related:
         height: 800
         isCached: true
 
-secured: "fpMD+Xzw/JR8Byjtqgn84uUdKcMNGFvgr2y/Y+9wV1H0QTVVa0GPtZgw6MUHF1gwZmzyS989sPNcORKNnskU4iH9v/M4P/z+hlmuKObFNxPE6cfis4Q9TIIcQWSIQPESF5mwL5APNWVKNDJEJUi7wpgcRNxx9Ib99k24HeoEHcvLvQx/sLFSsmq1QztF2WgaeOp2Frg4uDUot3zEe8jdob9RqmkEdsx1yLaJuoWnXhhcm4LDQd6Ltwp+9sCF8sWCJjLy31XfGzeIpk05jjyQCzXhXm6WhueLxJBJ2Dp4AqlRhEqOcRDb00VY/jVnkSvBh+AacKAFMgOlLwRjuL2u9TwqzAwiWPTymxnFUdvv3zo=;idiDRj6speDsgeEQH+Uwew=="
+secured: "SizHIvVC8KqoibKjClOey0ZQBThIrrStBu/lIo8s3O49DxEgWaVBdVQ4fi78LZ5zr6L+i28CjTjDEUTAkhOaGjo74wuEUvPz2rurA2xB3hwtz1iXPwxfnYTlxc4WqEVV/gNvqS0FdDOQrhtIonnX06iGwi2MjOWx+tKdrPSN07KAprrcZehDMt3rSheaNK5Ut1xjsUvkLkjc+OpzZF74w07y7XNbGbCVFGTV62CWQKY+nBDX8/EbQKsmIWoWiVHnX1a3fnHiDoXUaetRA8XNNnzj/OqSwEgg5PB2odlHvs7jPWU0GFpdhZne3NcvMGFNXGphN1XhCgEf694OZauuWt7HYZstfGIERiv6SevVrA4=;PaHvNz5JTKW0d0dHfvr6KQ=="
 ---
 

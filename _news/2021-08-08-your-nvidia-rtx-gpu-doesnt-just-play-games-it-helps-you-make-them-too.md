@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-p
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-GPU.jpg"
         width: 700
         height: 450
+        isCached: true
+  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
+    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
+    publishedDateTime: 2021-08-11T09:47:00Z
+    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
+        width: 696
+        height: 370
         isCached: true
 
 secured: "csGv0Y9YjYmqGS29EDgP910XujgJTgndGlTP2YohvfHWjH34Tz36YzCdZhcexZtTZ7+jwOjFE88RLlQEhLvn4DwK9t/7v4PgORLchemT6oLBXukmTgF2wV1k2pMBhzevInEFm8A7LShimeBc3PiY8PEXCurwCutBbGmWLim35D2EoEKMWXsI62r8ZlbEiAcWm0XALo8aOQhnAb4dP0GiexEgLX1HX3OUtI7LO1qRnBXxjqrXuSFOE2EUrj1/PYl0KZdwBrYL7VYadcWSGGLCuiILQaGzPzM13QMK7hRsiak5NR5i9WuwNzueehBcMxzVuf/P0SY4Csmbl+VPDZy89fnEuwCReD6+s2vj3v6qX/ASqXasQpRmagPYp1oVX5eFWyJd8Luhat4pJ8WdGKfv8fCk/Ahi1G7V4t3inxEYJ0e9XXX6TIl47646XHWM3XyGKb8GHcJjwOctii7+ZHL9kTsDYbPZSXcWuidy2z96jKvtZ441OBesjLS2vrKM/3KmOGVBuolhIh46GkpYboPK3g==;NdGSP3/EUjJfTbgkwQ93Kw=="

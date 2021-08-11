@@ -2,35 +2,45 @@
 category: news
 title: "Oracle accelerates MySQL HeatWave queries with machine learning"
 excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
-publishedDateTime: 2021-08-10T19:18:00Z
-originalUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
-webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
-ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+publishedDateTime: 2021-08-11T02:48:00Z
+originalUrl: "https://www.arnnet.com.au/article/690433/oracle-accelerates-mysql-heatwave-queries-machine-learning/"
+webUrl: "https://www.arnnet.com.au/article/690433/oracle-accelerates-mysql-heatwave-queries-machine-learning/"
 type: article
-quality: 89
-heat: 119
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
-    width: 1200
-    height: 800
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/oracle_dreamstime.jpg"
+    width: 800
+    height: 500
     isCached: true
 
 related:
+  - title: "Oracle tweaks MySQL and boosts storage engine"
+    excerpt: "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,"
+    publishedDateTime: 2021-08-11T11:01:00Z
+    webUrl: "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+    ampWebUrl: "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Oracle Claims Leadership In Cloud Data Warehouse Space Over Snowflake With Its New MySQL Heatwave Service"
     excerpt: "Senior Analyst, Servers, Matt Kimball, dives deeper as Oracle announced its next-generation MySQL HeatWave offering today, focusing on machine learning (ML)-based automation and scalability that the company claims will drive greater performance and price-performance leadership in the market."
     publishedDateTime: 2021-08-10T17:40:00Z
@@ -78,6 +88,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "fQTbwXywTXOuKbVJ7XbWUc/o/ggivXiU01lEHE+/WBUJHfSbVr+OeqH+AFd+fcwc81saREBURz0TMYTOXKpe6eX7DFCYIHy6xB0Us8uEnKq0wTq9DWi/qNisWaeFtbPOICeAdklPFvVnPg/5n92W/s/c6kENsG/Wy0KVKgTkWAJ+J2UvjHC6DYF3tRQ2VsDeM83X1ozeo2B35/7Lcu5r3Hr0ikdgtrG/WtSm2v+virrdS7ax43icnk4HY7023Qya4PtKv8ZenI7iZ08hJTC4w0ILGxbGdvWNCNqtlemEDaqeKGofMJbXeru/i5ftSz2BbSENQtyGISZ2Bu6JvXrzbZ+p49aM85vDFvYgFvKoN0g=;/CogZ//giilnwAHrUlLulw=="
+secured: "OjBRtC4/syEM5Fqa5ysA47ZUbuc0fOIlxeg6OB3RGWSqTM4BMXOIxZAHEutPQns9tHVxTtS1azi/XCu9mHJg1OZiuoP24vtZF/WtU3Dzjew/Eg/OPlfdyj7rjH2tpqfTaTphn+Zyd4R+e1rLfIzhnnITJezoGuZaofQr3Mq4u1REgIwjqQigxgXMNjxjuX7j/q40t341zlDFslLk3xWMJUCfD8bYj/+qTon2Hc/Uz2+rqwn1RytN/3rCVPvybncxTv/R54KFOnhVa1qSPVemU3u4CzD73fn9y+liRPgwaoiGCFLkTowBirwVD068gZ7i+UFtwwrTiFjBOkEUpkNp2XN51V9wOcHYQCdxehyZZTQ=;hJ6ksHRx5DFCpSqr9yaTiA=="
 ---
 

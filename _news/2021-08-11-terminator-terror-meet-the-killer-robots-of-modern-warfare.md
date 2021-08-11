@@ -9,7 +9,7 @@ ampWebUrl: "https://vestnikkavkaza.net/amp/144222"
 cdnAmpWebUrl: "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vatican: ‘Killer robots’ pose threat to innocent civilians"
-    excerpt: "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva."
-    publishedDateTime: 2021-08-06T18:48:00Z
-    webUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/"
-    ampWebUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
-    cdnAmpWebUrl: "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
-    type: article
-    provider:
-      name: Crux
-      domain: cruxnow.com
-    quality: 59
-    images:
-      - url: "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg"
-        width: 2560
-        height: 1777
-        isCached: true
   - title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
     excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
     publishedDateTime: 2021-08-10T10:44:00Z

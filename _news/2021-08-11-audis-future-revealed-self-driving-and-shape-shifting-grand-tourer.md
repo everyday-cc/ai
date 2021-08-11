@@ -42,14 +42,14 @@ related:
   - title: "The Audi Skysphere concept is a self-driving electric roadster"
     excerpt: "Audi has revealed a new concept car called Skysphere, which previews the firm’s future design direction for the luxury sector. It’s a two-door convertible with an electric powertrain, but what makes this a fanciful concept car is its ‘variable wheelbase’."
     publishedDateTime: 2021-08-11T09:45:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
+    webUrl: "https://www.expressandstar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
+      name: Express & Star
+      domain: expressandstar.com
     quality: 24
     images:
-      - url: "https://www.shropshirestar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
+      - url: "https://www.expressandstar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
         width: 1200
         height: 900
         isCached: true
