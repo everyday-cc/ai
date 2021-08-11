@@ -57,6 +57,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Three Indian AI fintech startups to look out for"
+    excerpt: "Fintech startups in India raised more than $2 billion in the first five months of 2021, representing a 4X rise from $495 million raised in the first five months of 2020. And the sector is just heating"
+    publishedDateTime: 2021-08-11T07:20:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/three-indian-ai-fintech-startups-to-look-out-for/69717/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165407_fintechstartups.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
     excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
     publishedDateTime: 2021-08-11T04:21:00Z

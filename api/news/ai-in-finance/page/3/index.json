@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-06-29-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud",
-      "excerpt": "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/ENG_PR1572_2021_06_29.jpg",
-          "width": 450,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
-      "publishedDateTime": "2021-06-29T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-06-29-thailands-pomelo-is-revolutionizing-seas-fashion-industry-with-machine-learning-and-ai.md",
       "title": "Thailand’s Pomelo is revolutionizing SEA’s fashion industry with machine learning and AI",
       "excerpt": "Machine learning and AI have a multitude of applications in various industries, but fashion might sound like a curious one - Tech Wire Asia",
@@ -1268,6 +1224,58 @@
         "name": "pymnts.com",
         "domain": "pymnts.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector.md",
+      "title": "Meet The Fintech Innovators Using AI To Reimagine The Financial Sector",
+      "excerpt": "Because currency is used every day, and impacts literally every market and industry, the impact of financial innovation through AI cannot be underestimated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c9264d6ad664d7f331b552%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2504%26cropY1%3D201%26cropY2%3D1610",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/15/meet-the-fintech-innovators-using-ai-to-reimagine-the-financial-sector/amp/",
+      "publishedDateTime": "2021-06-15T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

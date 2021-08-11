@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market"
-    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
-    publishedDateTime: 2021-08-06T13:49:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
   - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
     excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
     publishedDateTime: 2021-08-08T11:23:00Z

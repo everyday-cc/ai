@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Federal Liberals probed for facial recognition use"
+    excerpt: "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races."
+    publishedDateTime: 2021-08-06T16:59:00Z
+    webUrl: "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    ampWebUrl: "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    cdnAmpWebUrl: "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368"
+    type: article
+    provider:
+      name: News
+      domain: nsnews.com
+    quality: 59
+    images:
+      - url: "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop"
+        width: 724
+        height: 483
+        isCached: true
   - title: "China's top court specifies rules for facial recognition"
     excerpt: "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve"
     publishedDateTime: 2021-08-09T08:58:00Z
@@ -57,36 +73,63 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
-    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
-    publishedDateTime: 2021-08-09T17:30:00Z
-    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
-    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+  - title: "B.C. privacy watchdog investigating federal Liberals over facial recognition software"
+    excerpt: "British Columbia’s privacy watchdog has launched an investigation into the federal Liberal party’s use of facial recognition technology to pick candidates for the next election. B.C. information and privacy commissioner Michael McEvoy’s office ended weeks of speculation on Friday by announcing the investigation in response to concerns from the Canadian Civil Liberties Association."
+    publishedDateTime: 2021-08-06T17:52:00Z
+    webUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software"
+    ampWebUrl: "https://windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
+    cdnAmpWebUrl: "https://windsorstar-com.cdn.ampproject.org/c/s/windsorstar.com/news/local-news/b-c-privacy-watchdog-investigating-federal-liberals-over-facial-recognition-software/wcm/ce8b6f2d-268f-402d-94d5-dbd816c25460/amp/"
     type: article
     provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 40
+      name: Windsor Star
+      domain: windsorstar.com
+    quality: 52
     images:
-      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 424
+      - url: "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2020/09/privacy-report-20200902.jpg"
+        width: 1000
+        height: 750
         isCached: true
-  - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
-    excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
-    publishedDateTime: 2021-08-10T05:09:00Z
-    webUrl: "https://news.uark.edu/articles/57310/journalism-alumna-wins-national-recognition-for-research-on-algorithms"
+  - title: "B.C.'s privacy watchdog investigating Liberal Party's use of facial recognition software"
+    excerpt: "British Columbia's privacy watchdog is launching an investigation into the federal Liberal Party's use of facial recognition technology to pick candidates for the next election."
+    publishedDateTime: 2021-08-06T17:13:00Z
+    webUrl: "https://www.cbc.ca/news/canada/british-columbia/liberal-party-facial-recognition-software-investigation-bc-1.6132382"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6132382"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6132382"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 24
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 50
     images:
-      - url: "https://campusdata.uark.edu/resources/images/articles/2021-08-09_12-14-01-PMKendalHeavner.png"
-        width: 729
-        height: 974
+      - url: "https://i.cbc.ca/1.6132402.1628269186!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/internet-outage.jpg"
+        width: 620
+        height: 349
         isCached: true
+  - title: "Development of neural network for environmental adaptation, doubling the performance of visual recognition AI"
+    excerpt: "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning."
+    publishedDateTime: 2021-08-06T16:20:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924664"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 35
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c1218526-4057-4665-8c6c-d3f7ca861bcd/Rendition/low-res/Content/Public"
+        width: 700
+        height: 464
+        isCached: true
+  - title: "B.C. privacy watchdog investigating federal Liberals over use of facial recognition software"
+    excerpt: "B.C. information and privacy commissioner Michael McEvoy’s office confirmed the investigation after complaint of Liber Party’s use of facial recognition to verify the identity of those eligible to vot"
+    publishedDateTime: 2021-08-06T17:09:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-bc-privacy-watchdog-investigating-federal-liberals-over-use-of-facial/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 28
 
 secured: "CsYO31kmLqb9kbMeNkMu0xSZwWpsVHz6Maj/C+dSD0tMSHbDj5m1vYxmeNB2DrJF437GnYItns0ABXiTbWmkph7epoD7qeY1wqHr6blUIgWxhIIoL5GzabyiFu8/B0w8opO85qECAX+yKLaWVVeS/AksUIQIcL4Ro3cL0ijpTrJTtUto4MGY2MW0lI/UQ7Ig1kZLiWGatXoCrQKEakGSYPutmN3ajVLPN1NS971PNMWoA6XRxKQXdMzE5m3Y6gvls3HOnP9z4hyJ63ng/amgDg7gmG3UbE9jSCr2llKquMNycjqBtNM4uitWjeXk3afztXC+6WaxjEZe28Ha2efJ3nig4vmudp+utIhbbaeSwFfIz/t+5+BjRYN6CizN09/d2yZSgjoFug5BGi6W9A59YFl8BztWiIpG9Skdx80JzhfOidXE8iQFhITc+sledJIwD5guNabpixThhyrpjPHn7HSGhpn192dFZAHH4p6YUoYWai5HzKh2iVImQeUHamGVJgTXnRZULNYNDD7nTH8N7g==;f6N2/nx2SADLCN6cSB9cgA=="
 ---

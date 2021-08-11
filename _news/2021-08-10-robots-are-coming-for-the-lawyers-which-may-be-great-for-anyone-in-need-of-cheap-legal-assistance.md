@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Robots are coming for the lawyers - which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance"
+    excerpt: "It turns out that you don’t need to completely automate a job to fundamentally change it. All you need to do is automate part of it."
+    publishedDateTime: 2021-08-11T03:34:00Z
+    webUrl: "https://www.thestreet.com/phildavis/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    ampWebUrl: "https://www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 28
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMDY2OTYwNzkwMDM3OTIz/file-20210730-21-nlw7em.jpg"
+        width: 620
+        height: 404
+        isCached: true
   - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
     excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
     publishedDateTime: 2021-08-10T21:50:00Z

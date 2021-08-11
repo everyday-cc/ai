@@ -2,6 +2,177 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-01-ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech.md",
+      "title": "Ghost raises $100M Series D for autonomous driving and crash prevention tech",
+      "excerpt": "Autonomous driving system developer Ghost Locomotion has raised a $100 million Series D funding round, led by Sutter Hill Ventures. Returning investor Founders Fund also participated in the round, along with Coatue.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "originalUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/image001-1-1.png?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "publishedDateTime": "2021-07-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
+      "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
+      "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "originalUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/att-t-to-move-5g-mobile-network-to-microsoft-azure-2021-07-01?amp",
+      "publishedDateTime": "2021-07-01T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
+      "title": "Zebra Technologies to Acquire Fetch Robotics",
+      "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-zebra-technologies-acquire-fetch-robotics-/2021/07/01/9401780.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/abtech_871.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/21806822",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822",
+      "publishedDateTime": "2021-07-01T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-food-supply-chain-tyson-foods-invests-in-ai-robotics.md",
+      "title": "Food Supply Chain: Tyson Foods Invests in AI Robotics",
+      "excerpt": "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain",
+      "sourceUrl": null,
+      "webUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
+      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manufacturingglobal.com",
+        "domain": "manufacturingglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-alluxio-brings-substantial-performance-and-ease-of-use-improvements-to-gpu-centric-aiml-workloads-with-v26-release.md",
       "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
       "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
@@ -993,203 +1164,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-government-watchdog-may-have-missed-clearview-ai-use-by-five-federal-agencies-in-a-new-report.md",
-      "title": "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report",
-      "excerpt": "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/30/21/tmp/d6a72259c415/tmp-name-2-250-1604095037-13_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "publishedDateTime": "2021-06-30T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
-      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
-      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
-      "publishedDateTime": "2021-06-30T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-facebook-updates-habitat-environment-to-train-embodied-ai.md",
-      "title": "Facebook updates Habitat environment to train ’embodied AI’",
-      "excerpt": "Facebook today announced Habitat 2.0, an updated version of its simulation environment, alongside new datasets and benchmarks.",
-      "sourceUrl": null,
-      "webUrl": "https://ai.facebook.com/blog/habitat-20-training-home-assistant-robots-with-faster-simulation-and-new-benchmarks/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/facebook-updates-habitat-environment-to-train-embodied-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/61379250_2289364931329348_7271871964229140480_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=ad8a9d&_nc_ohc=xPUwAqG-JogAX-qKKU7&_nc_ht=scontent-sea1-1.xx&oh=28797380cbde35757e3bdcc16805b3cf&oe=60E1CB5C",
-          "width": 1848,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare.md",
-      "title": "WHO guidance details the benefits and risks of adding AI to healthcare",
-      "excerpt": "The World Health Organization has published new guidance on the use of artificial intelligence in health, something that took experts across multiple fields 18 months to debate. WHO acknowledges",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "originalUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/hospital_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/who-guidance-details-the-benefits-and-risks-of-adding-ai-to-healthcare-30680625/amp/",
-      "publishedDateTime": "2021-06-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -8,8 +8,8 @@ webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heat
 ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
 type: article
-quality: 91
-heat: 121
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
@@ -79,6 +78,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "KLzLTFSVLtfxKMwLXQ8VWqBla9nS/+sWnuQUqs9eQZbQ+eS/oTcsAF9vErCHz26lLYOb1Rq74RTrCa4MbwWtL71Nv9tfDmmeIH4oVI1ST/bEnomNG8tAFQnvYhxCX30n4R9x6w0I6vJucZglB+La4MKF1dv7WTcWON4a6xZYGNglNO8UbCYHxUoci7MORTCMvdaTnK7x9XgcWln0LZv9M5g98NmgBthIIiWJCX7s+fxNZrdVA857iSPaQd3QNICdFaFKEN2CjSucem0AeeCC4h2GncAz76HGgVDz3zoRbE7pWMcRIyfTrh3CR4iGZuuvlmYIHZFBhziUXXKKLVGng90y0Gi7th6nfcmYP4YlUlk=;VSje9MXhiHC960VdiZ1dZA=="
+secured: "I4I1QS48jyIznjue5OfPewkknLBxrltXhPBDFHa+vHjUy3pKELsSv+vIgJlZRWrKcVcFyzEtDbWkEDBYYv0X8uQkBvJjxx9oj9LcAYx8mS6YKbAdeSVhDQZki8V2OuczIH8PuYkITPbBrkf0mfiQyVZy5I4133VM9rHT0AKedeb5sMFilbBZYs084xPBIBOcNWt+ZQJnwsBgsX5EIRJBo5MYBY10mwVHxBbHBJEgdLce4jMdqmBmFWGEpP5F0IavKRtAGING6hjDl3fYML0QIc71UOVorrxOgLfjuQLv2/UmJZhz/lOM9WD2DwdTOnyYitU1No/v341lp++F0IcBG3kqgSyQTJUUBgH/dba4+qg=;EPopBdfy9wgg63RdCSD/Kw=="
 ---
 

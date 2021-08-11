@@ -132,6 +132,6 @@ related:
       domain: advanced-television.com
     quality: 4
 
-secured: "MGs3WFxGH5OkZ5bSSKN5bHFty128yeFVlPlzjufsC7CXCdIWQ9bKGbPwfxyFOzeoRJPB+4ED0lhFDBbBNlfimcttQKEm8cw+Y9CMDL9tIfddS9aCEqHo//JeXnTy7ryiIqIlofCe3AEY44ClJRhgKHArVll1zjuCw7cvtDdEMskaxslPPV7hQiWOf43yg3muzKjXgyCGgPSPgKtzzBIXXH5f8jXhYtGJQfjZ8KCyBKft2JPFBe+whFzP7BfzigTulgOoJp/LyqXJrfxVcT3X/c4tXytMUBdyPjuXazG+G6znOuhziAlPfEDy/Qhyg54U8OJcwTBNHHdGO28Hpd0WKmkUwG3OFHqfYH1qmgkAn/U=;4wheKKs96OJFaqvvT8rEyQ=="
+secured: "KAiHUzrHcTUmvrtpTrZ/QDxJde211TTZW370UUzE+JLBPNXiBK/iDsoakdeb8GHlfmZxrgoNY6pDsjisTZvIYul3/uF+9zHahpC/Meo0JdLyU7b0UXAylJAo2Kqt2B2miypfLALZRFnAme1SeODL2kqYqYOa1DsWu/zvh6yyyEJ4JkAv9/2WAesw3pOuc1tSbtED2ddKAKYuRuXuBJQs8eX4OGZ/Ysh2LfeLB2rnQ6HAVanauhU0bc0iQVlvs+p1m+nP5arl/pDfbmW90/rVL2x91JTKq/on0W6K748FluHBlUxbdS2wgJ1adQWp0sJdq32vv7/1+aNTozrHrBZx0tiFuHahAp1FI3kd5jAgwjQ=;oGRh7IrIJ5zCPAe/BlUcrw=="
 ---
 

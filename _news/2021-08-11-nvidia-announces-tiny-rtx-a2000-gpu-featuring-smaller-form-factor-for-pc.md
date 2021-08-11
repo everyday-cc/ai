@@ -55,6 +55,20 @@ related:
         width: 1500
         height: 844
         isCached: true
+  - title: "NVIDIA RTX A2000 GPU offers real-time ray tracing in a small form factor"
+    excerpt: "NVIDIA has launched its new RTX A2000 GPU, specifically designed to bring RTX technology to more professionals offering a small form factor"
+    publishedDateTime: 2021-08-11T07:32:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-rtx-a2000-11-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 38
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-GPU.jpg"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "6r3t5136bHLIA4c+wG7FqhSkoyfdut3Vr7sFdUNOoWxgbu1j0MnwKIvQsu2REyRs6ozUNin8/acWm3UESlC/KvvK9pohpa6ia/h5W2Go+WSS9BsIEJU0iGDymyz2+9PkVl+WNMjmSsWZpVKGgwjusfltOzUUldWWPxXvOSPppXxa0Z7MAbi3AeGuAY5I6vZK61Z4msBxJIRMW1DxETRsiY7fGEMRZyqf12wvnyDkr1ktnk/6eCIHe6J2n9z7AYWdMAKoETzLehdayXbUvK0WwfN1RLAUHBGhLOg0AdW5RwnqY9jb9LOfjJm/ig/a6/npxZP2abxibUqshGbQ7vMh7mtZWiKXgoaC8bdoKfSlUY5212Mb/azAFJ8i5GuBkSaNzsuLQMUF9IXgu5bYN1xvKxEhkzfDNoPFOigkbFVyEXUGSKbbIMvLc7ZarRzAypEmXV1O8ay6ecNffarckR4mQoV9G5EvT4J2zH/7YSxHldraojJPrc49hFa6LRMPGxfPmfGocKMgcxHa+sR4G/3Y9g==;UlRWLqFdgrqpDOC20wvepw=="
 ---

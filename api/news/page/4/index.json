@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-07-ai-wrote-better-phishing-emails-than-humans-in-a-recent-test.md",
+      "title": "AI Wrote Better Phishing Emails Than Humans in a Recent Test",
+      "excerpt": "This time, it's phishing emails. In a small study, researchers found that they could use the deep learning language model GPT-3, along with other AI-as-a-service platforms, to significantly lower the barrier to entry for crafting spearphishing campaigns at a massive scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "originalUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/610d82e6d901275be20b8455/master/pass/sec_email_GettyImages-1157081287.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-phishing-emails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-phishing-emails/amp",
+      "publishedDateTime": "2021-08-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-govt-to-introduce-biometric-boarding-system-through-facial-recognition-at-6-airports-how-it-is-useful.md",
       "title": "Govt to introduce biometric boarding system through facial recognition at 6 airports; how it is useful",
       "excerpt": "Rs 25,000 crore will be spent on technological upgradation of existing as well as the proposed new airports in the coming five years.",
@@ -404,6 +455,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-federal-liberals-probed-for-facial-recognition-use.md",
+      "title": "Federal Liberals probed for facial recognition use",
+      "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "originalUrl": "https://www.nsnews.com/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/biv/facial-recognition-yuichiro-chino-moment-getty-images.jpg;w=724;h=483;mode=crop",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "cdnAmpWebUrl": "https://www-nsnews-com.cdn.ampproject.org/c/s/www.nsnews.com/amp/bc-news/federal-liberals-probed-for-facial-recognition-use-4199368",
+      "publishedDateTime": "2021-08-06T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News",
+        "domain": "nsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-accenture-promotes-machine-learning-growth-with-worlds-largest-private-aws-deepcomposer-battle-of-the-bands-league.md",
       "title": "Accenture promotes machine learning growth with world’s largest private AWS DeepComposer Battle of the Bands League",
       "excerpt": "Accenture is known for pioneering innovative solutions to achieve customer success by using artificial intelligence (AI) and machine learning (ML) powered solutions with AWS services. To keep teams updated with latest ML services, Accenture seeks to gamify hands-on learning. One such event, AWS DeepComposer",
@@ -651,6 +745,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-wooask-3-in-1-offline-translation-bluetooth-earbuds.md",
+      "title": "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds",
+      "excerpt": "Language barriers exist because of who we are, what we do, and where we came from. With Wooask Translator Earbuds, you're always beyond the language barrier. Unlike E-dictionaries only translate ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1081,136 +1218,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-fintech-startup-zeni-raises-34-million-from-elevation-capital-others.md",
-      "title": "Fintech startup Zeni raises $34 million from Elevation Capital, others",
-      "excerpt": "As part of the fundraising, Elevation Capitals founder and managing director Ravi Adusumalli will join Zenis board. The fintech startup has now raised a total of $47.5 million, including a $13.5-million Series A in March.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/articleshow/85091514.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-308227,msid-85091495/snehal-and-swapnil-shinde.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fintech-startup-zeni-raises-34-million-from-elevation-capital-others/amp_articleshow/85091514.cms",
-      "publishedDateTime": "2021-08-05T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-how-the-bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml.md",
-      "title": "How The Bengaluru Based Healthcare Startup HealthPlix Is Leveraging AI and ML",
-      "excerpt": "Sandeep Gudibanda, Co-founder at HealthPlix, explains the technology behind its assistive artificial intelligence-powered EMR software.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "originalUrl": "https://analyticsindiamag.com/bengaluru-based-healthcare-startup-healthplix-is-leveraging-ai-and-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Untitled-5-copy.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-12-billion-valuation.md",
-      "title": "AI-Based Sales Tool Provider Mindtickle Turns Unicorn at $1.2 Billion Valuation",
-      "excerpt": "AI-based sales tool provider Mindtickle turns Unicorn at $1.2 bn valuation following a $128 million funding from Softbank Corp",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Unicorn-Rising-300x250.jpeg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
-      "publishedDateTime": "2021-08-05T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

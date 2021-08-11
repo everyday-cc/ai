@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-05-hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million.md",
+      "title": "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million",
+      "excerpt": "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "originalUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380494/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
+      "publishedDateTime": "2021-08-04T16:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
+      "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
+      "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
+      "publishedDateTime": "2021-08-04T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-prompt-based-learning-can-make-language-models-more-capable.md",
+      "title": "Prompt-based learning can make language models more capable",
+      "excerpt": "Supervised learning, where AI models are trained on input data annotated for a particular output until they can detect the underlying relationships between the inputs and outputs, plays a major role in natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
+      "publishedDateTime": "2021-08-04T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-master-face-researchers-say-theyve-found-a-wildly-successful-bypass-for-face-recognition-tech.md",
       "title": "'Master Face': Researchers Say They've Found a Wildly Successful Bypass for Face Recognition Tech",
       "excerpt": "Indeed, computer scientists at Tel Aviv University in Israel say they have discovered a way to bypass a large percentage of facial recognition systems by basically faking your face. The team calls this method the “master face” (like a “master key,",
@@ -1046,143 +1192,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel.md",
-      "title": "Artificial Intelligence (AI) Chips Market with Rising Security Issues by Key Players: AMD, NVIDIA, Google, Intel",
-      "excerpt": "Chips market research Report is an inestimable supply of perceptive information for business strategists. This Artificial Intelligence (AI) Chips Market study provides comprehensive data which enlarge the understanding,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-chips-market-with-rising-security-issues-by-key-players-amd-nvidia-google-intel/?amp=1",
-      "publishedDateTime": "2021-08-04T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-accelerating-drug-discovery-with-mindful-ai.md",
-      "title": "Accelerating Drug Discovery With Mindful AI",
-      "excerpt": "For the past few years, the pharmaceutical industry has been exploring ways to improve drug discovery with artificial intelligence (AI). The process of researching, testing and developing therapeutic drugs and vaccines is costly and time-consuming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/04/accelerating-drug-discovery-with-mindful-ai/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies.md",
-      "title": "C. Light Technologies uses AI to diagnose Alzheimer’s through retinal eye studies",
-      "excerpt": "C. Light Technologies has raised money for its AI tech that detects changes in eye motion to diagnose early signs of Alzheimer's disease.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/c-light.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/c-light-technologies-uses-ai-to-diagnose-alzheimers-through-retinal-eye-studies/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

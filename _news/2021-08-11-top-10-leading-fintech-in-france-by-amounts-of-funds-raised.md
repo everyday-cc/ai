@@ -71,6 +71,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Three Indian AI fintech startups to look out for"
+    excerpt: "Fintech startups in India raised more than $2 billion in the first five months of 2021, representing a 4X rise from $495 million raised in the first five months of 2020. And the sector is just heating"
+    publishedDateTime: 2021-08-11T07:20:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/three-indian-ai-fintech-startups-to-look-out-for/69717/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165407_fintechstartups.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."
     publishedDateTime: 2021-08-10T23:33:00Z
@@ -114,6 +128,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "8WRvV5YSTu3q5TokcMqvQDwz86o1dUvd8YcOvGoFq6N+Y2GX9HRYQ28KLKrB9CSzlhbewoActy9052tKl3QzR20fuM9ndr9sS8TpJF1XpAU65alm/smRHP2FVmBX7q9WCFZYG2gYVBqGDZso+JaRbDwNVjUVnqXN/43wS0PrNpF/xdeE4XlSzYKK3UNlNw03wO+fxd3FfD5W84d/fdzcFB+JhBZrkMhOn32vHa0upZuMGQD5FSKDgcLbUz1ndo1B6EDEQqnum4kbLxc79nrbyhGdQzHx9it4sp9eePJAo57QcAu4ria9hbCW8cOBbSA4xY5qTHj17pya7aOaHoX7DMLjSsPLFjxRoPm1fMuihBY=;ZYOVPcVVGN2kb7BkhNt2Vw=="
+secured: "qfJSEH4pGRIcHrKmZeKN6Ja7CrLChH8FyOquDuvDaIyoHkSSwDfS1eAyiUrti/aGKbWYAVIcb74FXhmyBofkrtkywsEC7mGwD/9toFi6mgWD1jGyfslDqp1Asvp3Tmu+S4XzQ9GbTZ3aT3fVCrZYizcdjgKXNxgIsHepBtxXTfRVtNn1+EcUc9uAhI28/SkZQi+VELFsAmQTl1fjHfSqJfUVgV/0FRImPb+GRUXEPPSmi4ETtcrb2nSMDv9TJyd4wSTKieyXshTB8skACZjsr31ENeiuMvFN7+YXaHYFUJb5lmhhtMy9E+UQ2IjduyoHmfresbIUaJ8b4flDrJt1y2jRIty51Lxh3T7bMe1Xm4X4Hs8yKyuphi+hrjPgKCTdJY5darMRPZ3hyiNB0AmGm2rG/N6RVI1HFYByCpUiBDGFdx3sZ0fjITKfK9fz/7dkrdYMWmhi0dVaRrttiTGtiiunq79eXrW9YZLEUXS31opCiRnLodJGCFaRV/4JLs5P7nZcG//FZrEfSnsykWoSQw==;csDZSBIANHZDZeHQalIGNA=="
 ---
 

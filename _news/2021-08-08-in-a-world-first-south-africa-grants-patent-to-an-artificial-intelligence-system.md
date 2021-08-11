@@ -121,20 +121,6 @@ related:
         width: 800
         height: 665
         isCached: true
-  - title: "Using artificial intelligence to map African cities to improve services and infrastructure at low cost"
-    excerpt: "Using aerial imagery provided by the Zambia Survey Department in the Ministry of Lands and Natural Resources, OS has utilised its advanced automated process to generate a new base map using Artificial Intelligence across 420km2 of Lusaka. This innovative ..."
-    publishedDateTime: 2021-08-06T13:07:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10955"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 23
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/August/6/7/5f2a6510-0356-4423-8b1a-1e153686c68e-sized"
-        width: 800
-        height: 800
-        isCached: true
 
 secured: "q4k5drZQlBnr9Fiy5JTpMc4b2P4vOP9RzpCsoWfATggEoRj6Bq3fl6/TxJ9Roh4d8oPOllrYELMUVTr+yI4UB3XKsIZ7vzEyVtM5E+OAu0yXhykRYAGD8OR0vo/QJNR/vMPEfSuibifAxsN37kbDx+GYDLJzeQHhm04OSvKzCVnmue0Js9b5aek5DShAk6myfbEqRi0/vm52WvFgD6omw1UN1BtYDPbHrTt5gplV20wH2H2fnLTY9AE7s5IXQijVHIHloYHPYqGUr9QQuXn0kWPao0B8BJ5hXITrP2MkslMr+44WOeOE9L9KryXT5OxfnuuZT64yGVeSawqrbc1fqNku1alzrqUrnu/L5w4FtRM=;38NeiJpmEKqNo6rDp+73iA=="
 ---

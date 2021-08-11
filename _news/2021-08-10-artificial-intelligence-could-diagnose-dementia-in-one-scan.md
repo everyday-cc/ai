@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Researchers use AI for treatment aimed at preventing dementia"
+    excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
+    publishedDateTime: 2021-08-11T05:00:00Z
+    webUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
+    type: article
+    provider:
+      name: Florida Weekly
+      domain: floridaweekly.com
+    quality: 39
+    images:
+      - url: "https://fortmyers.floridaweekly.com/wp-content/uploads/images/2021-08-11/14p1.jpg"
+        width: 693
+        height: 791
+        isCached: true
 
 secured: "BO8xQxVUGFziCXKSpp135+8ibLQP0PgCq/kua0nJqsk86AoGTZmzIXED8fjbhcxDtFoj6pvhTeqqQmkx8zSqXoYiHb2fwK3APsQ+6UgMxjZVipHmCZp8vvz/Z44b6rB/A+/pBGAWiQPuHVa5BHG1lzNQKvGMFj0xYS9L5E9ljt8yjpXvjcGN4bGWj+aKHwP7tTlOTpIHqdCWh+3DNy+KKQFJfZI00GWQDGlIYNrkOy/wYfoDwuFdcpxlhr4LfwZceq9kDyZMy7KV0CDe4/ZYoajfj3Db+jTZKn5A5tWLcB0nG0APIxJULNKwv12aCBPdGCvPNDRY8c8w8cvEI8gIacM+oHvvl889t6CjAxrEPuw=;W4SPFlzTpdsB0eV0EvOqpg=="
 ---

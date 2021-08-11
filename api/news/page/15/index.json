@@ -2,6 +2,188 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-28-australias-digital-minister-avoiding-legislating-ai-ethics-and-will-remain-voluntary-framework.md",
+      "title": "Australia's digital minister avoiding legislating AI ethics and will remain voluntary framework",
+      "excerpt": "Minister for Superannuation, Financial Services and the Digital Economy Jane Hume said she's reluctant for the country's AI ethics framework to be more than a voluntary program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "originalUrl": "https://www.zdnet.com/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australias-digital-minister-avoiding-turning-ai-ethics-framework-into-a-legislated-program/",
+      "publishedDateTime": "2021-07-28T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-our-quantum-processor-at-the-deutsches-museum.md",
+      "title": "Our quantum processor at the Deutsches Museum",
+      "excerpt": "In 2019, our Quantum AI team achieved a beyond-classical computation by outperforming the world’s fastest classical computer. Today, a quantum processor from the Sycamore generation that accomplished this important computing milestone will be donated to the Deutsches Museum of Masterpieces of Science",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "originalUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20210726-150-_Safe_Agency-Max_Hofstetter.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "publishedDateTime": "2021-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-with-computer-vision-bzigo-creates-iron-dome-against-mosquitos.md",
+      "title": "With computer vision, Bzigo creates ‘Iron Dome’ against mosquitos",
+      "excerpt": "Israeli startup's tech doesn't kill the pests, just pinpoints them with laser light and alerts your smartphone",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "originalUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2021/07/Bzigo_From_Behind-e1627155186683-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/with-computer-vision-bzigo-creates-iron-dome-against-mosquitos/amp/",
+      "publishedDateTime": "2021-07-28T00:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-why-we-need-engineers-who-study-ethics-as-much-as-maths.md",
+      "title": "Why we need engineers who study ethics as much as maths",
+      "excerpt": "The Miami apartment collapse is a grim reminder of why engineering matters, and why engineering trainees should study ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "originalUrl": "https://www.studyinternational.com/news/study-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.studyinternational.com/wp-content/uploads/2021/07/000_9EU6FK-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Study International",
+        "domain": "studyinternational.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-startups-combat-fintech-challenges-heres-how.md",
       "title": "Startups Combat Fintech Challenges: Here's How",
       "excerpt": "Fintech business model is facilitating a unique and seamless compliance management system that allows the business owners to go through the massive data and make better decisions in their business pro",
@@ -960,189 +1142,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
-      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
-      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hollywoodsoapbox.com",
-        "domain": "hollywoodsoapbox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
-      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
-      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "publishedDateTime": "2021-07-27T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-artificial-intelligence-in-structural-biology-is-here-to-stay.md",
-      "title": "Artificial intelligence in structural biology is here to stay",
-      "excerpt": "Machine learning will transform our understanding of protein folding. And it’s essential that all data be open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02037-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02037-0/d41586-021-02037-0_19391872.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
-      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
-      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T09:10:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

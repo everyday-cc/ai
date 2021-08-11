@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence(AI) in Healthcare Market"
-    excerpt: "The Artificial Intelligence(AI) in Healthcare Market sector is expected to witness a short-term operating losses, which could cause USD xx million loss in its market value. Currently the market size is USD xx million. The main reason behind the projected ..."
-    publishedDateTime: 2021-08-06T13:49:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligenceai-in-healthcare-market-2021-extensive-growth-opportunities-impact-and-precise-outlook-2027-nvidia-corporation-nvidia-us-intel-corporation-intel-us/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
 
 secured: "Cgi/Zq9K7VsVVLG78eFTQiWPr5N676bpYM0p1l2u5Xivl2StuHF9mI9DKMc/Eoysp1IasF2Hgq5H/mvm/bjuvml2S7XZ2/osnb2EgTNGnMY2JLYspkh4b2jgbDXc/Q/VwF5g+akQaa0XD81JaLbgZbzswiNh4BuUN0rAkNXQdm1lHuzVyv+lFjSpMzAa26kdMQDrQAS6xOgxyP15RFkh1jFUpelQBi+0fSIDIEJJ1tUpRdpGT3mRGeGH6tTmtDCqQXzSclBu5LNN5qKGDc07mYH+tn6vEK5iHxLlnNN/0deUbDeuBnL3rS/VAEkhlWm5g63hCLAVfQDRSb0alNW0s5Zgrsaud+hQaxhGOkcrE3o=;xxhPvRk8wJdUn9mA0EYbzw=="
 ---

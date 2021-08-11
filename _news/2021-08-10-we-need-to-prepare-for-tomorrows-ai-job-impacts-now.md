@@ -24,6 +24,22 @@ images:
     height: 680
     isCached: true
 
+related:
+  - title: "Preparing for impact: Credit union leadership and AI"
+    excerpt: "The artificial intelligence (AI) market is growing rapidly at more than 42% annually, with recent MIT research indicating over 90% of larger enterprises are using AI to improve customer interactions."
+    publishedDateTime: 2021-08-11T07:15:00Z
+    webUrl: "https://www.cuinsight.com/preparing-for-impact-credit-union-leadership-and-ai.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 37
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2018/03/bigstock-181006540.jpg"
+        width: 1000
+        height: 500
+        isCached: true
+
 secured: "Pbm6wUtGFFUlweOhe+j+BxYpCLcHhD6Mmg6xI93/3ROfoAeeSXFwdPB56QIP4Ja41Lg05q4CLGFFFiFrApsvI6FOjfwnwHziWQ0bLP0grSxaN5uvnQWvmXhfjcCZx0CB3D/1zGvC2KpLm0iDh+mIHDjH854aAofX+PbC1qGq8Wxv/YsnrQHlk+Bus8H8Q9JIoJ8IRa2FJMVRAzpbhG4XZLaMx32hb4khuBwosE7NfIajXtFXJ0F3qt0ADQqiQOvprMx3WjLUUwrstA1IL242WzXOmcjLsmYOpxK3vL07wskaz2YCyHE4UzL8HpERNxp+5Ai5z0U9AK0dwgLjflpSI018qMR3Ty7wbyFhchR9/AfVoSEcGKCDT9Bs24zl1B5uLngJG6JGunBpSc2fs3iOzPtmfGLaZoqliYOLvzdoJAQ9lWv3lHumXIGml894izPpFmUbbhFmFHYX8osLBG+33wPR3TgsqLf5WRoSRC1V5QYyxFIkd58//HfAQS2YpY8F6g2kky7FiALSdcN3edFSjA==;mtDUn/vwYN/C/21CWekkqA=="
 ---
 
