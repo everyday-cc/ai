@@ -19,20 +19,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
-    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
-    publishedDateTime: 2021-08-09T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
     excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
     publishedDateTime: 2021-08-10T10:56:00Z
@@ -49,31 +35,22 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
-    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
-    publishedDateTime: 2021-08-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
+  - title: "A New Report States Facts & Figures behind Boom of the Global Artificial Intelligence (AI) in Radiation Dosing Market Forecast to 2030"
+    excerpt: "Absolute markets insights have published a inclusive analysis of its massive repository titled as Global Artificial Intelligence AI in Radiation Dosing Market This informative data has been analyzed by using effective exploratory techniques such as primary and secondary research methodologies"
+    publishedDateTime: 2021-08-09T11:01:00Z
+    webUrl: "https://www.openpr.com/news/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
+    ampWebUrl: "https://www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 30
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/U/8/U809395509_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "IkdVyXKONCJyH2UTOJdOL9coPIzRqD5oE7NkBw5/93R6XReWnVG/Q3GK//o1j9RjXb87qFJFe/wYi3RkKJCyB5mj1h3+AmDNirzyE1uAu4U5C8OKjUhwayeHd3tPmjBzoviHGLFVIqdhcNtTzzoI2iHGYUoWdNQ35wdjAubBlIC2yCe0gv7WTBnlQWKXG/+ncJk6yCsvDahbF8pjVDkd9+dYbojV5M0dXYoVE2rSX0sO8QqriXqcjc/WrP1v6ha61jfdT5J1rO1sXcugbOsE/ytVW/hbcfvKcDuwcjvkemaBH4ogDr+0CVQXmUU6GxYV07A6sMW7QTWqJuN7ZGNfeSvlSnQonAy7dNeG/DI10tI=;4qhp6KG8n8a7yncDyM6IbQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-med
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

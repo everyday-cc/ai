@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/twitter-ai-bias-beauty-filters-13321005
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html"
 type: article
 quality: 85
-heat: 106
+heat: 105
 published: true
 
 provider:

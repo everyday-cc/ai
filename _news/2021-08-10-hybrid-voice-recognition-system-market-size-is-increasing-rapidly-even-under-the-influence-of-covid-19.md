@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-si
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vHfBHetNSVkd5bNKWylCDfGuRQt81p78RXbtwdtVFJPrOiBAdl0A01vYYHw1sPCr3w4nB27w0f6rI0vH4ZJXev4GdCdIrWLMmWEkdAU6AvNoyUv49RYSzXT4IObTrHK+jek2ouQkw/I1EvDRzvAtwtLwp9mvAFBicC8Qpfvf3rIYvT8uUi9ujg+BvK5bN9DozU7tDezeQeMCRo0TvHtx5dkFJDaUOsMVc7OeDz8TTD8OhoNoZYSukSWV3v844pGTMojvNUKRMQbzpduk2p88I1WTcvrsKOxM8hg3axatMzDImKxoFWPKL5w3OARuKzVrlQcm4CC1rnFzL+UtFU7WA2EuAGVk8SVwnHcQF6EwOfo=;ptCeNdr2WbXrbk1gLnAkEw=="
 ---

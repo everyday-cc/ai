@@ -35,7 +35,7 @@ related:
     provider:
       name: InfoWorld
       domain: infoworld.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
         width: 1200

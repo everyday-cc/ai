@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/06/14-9-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Insights on the $770 Million Artificial Intelligence Services Global Market to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence services market."
+    publishedDateTime: 2021-08-11T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-hacking-77bb4b14eb4443aebcc0c11dc64c2529"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "k/x6ygyhR22q3zieSeBLz9bOxgmv2AeOugIJLqx/NRQ2ykngtOZzi/UM5lGfxES2T8or1f6YQrt5qlkojfGNwyFaC8JAMWrp3shSLln4Gv4UrHndQXwm3kJ7P0p+hTkgGKapJUVyELmNenIomxaAodmNLaJJ6w2Z9YP+b1GS0zIgwbmX/4FPUVGQmBRQwWMtF8Y1isMwjDrfFwtPtlQ/hlwlLeWpYKNp/eZTylqVbWeKIMAa7LQ2JyletaodQa1UI5O9xHHr3wxmHqu9g92NJDkYLLkKfmZ7Z1+v99ZXD/nbhJxM1hgApHAeuJ1mFEPaSFKjlnutuPQpZoAPxE+3daklKorORmxUDW1cW8ffQJU=;n8h2OJBhjmM5VajFnlSemA=="

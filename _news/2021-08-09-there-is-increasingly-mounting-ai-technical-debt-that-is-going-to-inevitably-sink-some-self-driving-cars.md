@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2be91f72-21e3-498f-b37d-88ac439ebee2/Rendition/low-res/Content/Public"
         width: 700
         height: 405
+        isCached: true
+  - title: "John Deere Self-Driving Technology On The Way"
+    excerpt: "John Deere announced self-driving technology with the help of Bear Flag Robotics, a startup that began as a part of Deere's Startup Collaborator"
+    publishedDateTime: 2021-08-11T13:36:00Z
+    webUrl: "https://wsau.com/2021/08/11/john-deere-self-driving-technology-on-the-way/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 24
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "BrQGgG7EPTp5cKxO8l+0eHJqMQf17kJZiorVaaPd5KDG2lnfPZmhiWFZYl+vrv/MFnZI2L6UJQ9MQxomYXoOyLMo0P703Fp5xa3MHBSQH+6g2+1EtaF1oqb+c7tvaJurlQ6yqFLs3yESmRHPmDuXPKn8bS9VT53CIsup5ElLwYNK4NMA8Z8TLvvrmNM8vjdc9o6ucwrZkpN6jGsq/T2E5VidvmJhY0XL5QAptgUxi7JU8CJURmL0HDMGCrtFP+a5en7Kwz0LcLCOapv47fJaxGzPv1Ar3vpMDgaEX7l2uiQqN7/wyjUBfkuRjuRaNsqaLWLX0TsrL3+d0fYjr7P4v28/dCiEJJcZhDPYYKk4xQKm3+1jFtXOYiHv+KbSwW8URAC9R20Fy0mTmwjNHOxLn8Yi+vmVYzGXRnVzuzMnYYXMnaaVmcizWlK9lVCnLaUulwaum5CERKhnGFphykmvVLfQNYnZOg/K6+uQjE/G8OQ0oFtR7PMqr85X+90vNvuDaoDG4rh9j2Cur6xPZs17qA==;4BkewyBNRe2aDB2juSIthg=="

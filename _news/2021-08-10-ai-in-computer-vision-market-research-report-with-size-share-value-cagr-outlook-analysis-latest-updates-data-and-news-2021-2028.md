@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
-    publishedDateTime: 2021-08-09T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
-    images:
-      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
     excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
     publishedDateTime: 2021-08-09T13:13:00Z
@@ -75,15 +45,20 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
-    publishedDateTime: 2021-08-08T11:23:00Z
-    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
+  - title: "Global Deep Learning Chipset Market To Witness Huge Gains Over 2021-2027|NVIDIA, Intel, IBM, Qualcomm, CEVA, etc"
+    excerpt: "Global Deep Learning Chipset Market is growing at a High CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several changes in This report also covers the impact of COVID-19 on the global market."
+    publishedDateTime: 2021-08-09T12:38:00Z
+    webUrl: "https://manometcurrent.com/global-deep-learning-chipset-market-to-witness-huge-gains-over-2021-2027nvidia-intel-ibm-qualcomm-ceva-etc/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 45
+    quality: 33
+    images:
+      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/9.jpg"
+        width: 548
+        height: 308
+        isCached: true
 
 secured: "sbRagQEt3ztXVbG40+OnoYRUABR7gbiDqIyxW6xuJr0C8TlFBVioBdwlhaYP7KTWo0Au0W4YwQ0E2Q+9biScNurpADKLX3RWr82GcvJkNsmsuTNBRglr87Ur3ReoOdihHuJi9UY7sV7DmAYSYGAJIq3QCxt3Q79zXIVtZ++0o9y7xkFG85jclN29uYXGertljOl6Q1cO3MC/PYRM27T5kyeRjvlUklnrc3wDSQd2HcAfpjTMHrPLG+8FsDsNJ1ek8oBOTIpeQwZblfBSVsuGGOntr7Jp4GOUkZJGGDIwa4NIneTKcoeM0oMYx9MciKXvW81NlQjpvBffOs3mn8HvJzIwv1VmJsdXQb6QXCKQAag=;R3l8vWmtstb+xKQlj3IqKA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/electronic-arts-says-artificial
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/"
 type: article
 quality: 78
-heat: 78
+heat: 79
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 630
     isCached: true
 
-secured: "fUUAeI7M7bn73fC7Bg5/KkfYkqYx/Td9j9TEDtd3rrBMjhmeEWGjO6xCECMbJxzU0kEyUm5M/xIij20+T89N2g3fKkm+1vqWYngcNPcPkxaP9bNqZdkFZmQ6WJTRE55lmUgk9XzCOLHXfTmBfLJJj9nn+EtpltTG/zmQM8+xWfWfO7C3aCKa+v80pf6jlUvLOdnurPJe6esZLX+G4zigj7ewRZw3QyqPsuwgBWTkEROidHW94WhJrcrEAVsLufNUOsJQHWlyaFDwNGPXrFDXZKy6HapsRcv5Rrzqpe3ipQvIRnC8+2sW46SNtS+dSXbkbWnMWWUc2USsNWAEZN0pUGqZEz9nwDVLwi+hcXhBMeo=;Q5NfB+41ogdgoN3I7rTnEQ=="
+secured: "LWTbLsgNHHSRq4DHyF/vAWMkJdnCFtk+ZPATNJUlv7mKvG8lLiKw7SjRIflNbECob7AmU7+KFVjdItpC3Kp++isacEB5rjVf/MS/i4BRzR7ZyiOSMJpYlrZCB6fdRsmsDyKBoWL3/hnqPDaqU7thxcd0Iase8+v4jJsoFyVfcjSqvhijcdzG7rjpGQznHsTpwViEU7tblnpbJs6mZVeEfFwVut37F3Kddom9oqj4DmbxtsbMJPY59kdftEbYliL3EFyXENq+yGjbizkM1SU/Odjy7IF6UQpbOXo4VEFtMV9FpFE+wWuVlaYlxTbbHNNE+74NyK9umEQc9/Zs81IwS4kthVnMojYWRW/zzAZYIsiPIV5nGfqIAI1pdOhc62qQxDzBlprOfYoHWGpvj8aZWCOg3Gk1KJN0NgHSlfEHJ4z73710kfCOVPz6Py9eANcS7nTetSQn7odkmMKiamFSWU+IWj+cuANbbmNiSFeqtlTj7KcwJNiX4/abx8hPLRH9ozAcartUTIexkd/rclE8JQ==;hmfnkO1rtVJCN7ybU8YF9g=="
 ---
 

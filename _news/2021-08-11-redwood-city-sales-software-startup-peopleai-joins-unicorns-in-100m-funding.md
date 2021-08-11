@@ -1,0 +1,39 @@
+---
+category: news
+title: "Redwood City sales software startup People.ai joins unicorns in $100M funding"
+excerpt: "Sales software startup People.ai Inc., which just brought in $100 million in funding. #startups #venturecapital"
+publishedDateTime: 2021-08-11T14:14:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/08/11/peopleai-joins-unicorns-in-100m-funding.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/11/peopleai-joins-unicorns-in-100m-funding.html"
+type: article
+quality: 31
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI
+  - AI in Sales
+
+related:
+  - title: "Mubadala Backs Software Startup People.ai in New Funding Round"
+    excerpt: "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures."
+    publishedDateTime: 2021-08-11T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
+secured: "ny6z1KBNDiY3HKkcicswn6/ZKyoQoIPxCB+6OXzFCGySq1kqn/gOn5thwef96n2BBGL4Q4TQvCVd/mWCQtSC88BW6CA1voyxuNOE4CCM7BjvfSf85a+eS+kEfYHRK67uLYemNjRzM+vjPJDUrFMHR74EcxLCtXkIVs5ugH+D9yV44ujeNvbo3ctxe/CpeDkECE1MEfAwZzr/M+zyAVYBPs0wZy7YFKDhFTtMZbnx89hqCaVBOd7yazMSEF8jiEt/MY7EGNThfPvVtY5GVQlOyTTGVVsBiRur8KSpKS4zuLcm+hRrgLg4pab8srqc9YMpLXIWjYzPmzGMReVTO54yNju6s4JJq3HwneG0Hoj7ilOnearzqE6e7pbP1nvXlw1tCNTeUVfIacjk1JSP5R16fI1sUAGtbbRliF0WrW6Ud1+6AON05PRFYdZlMepg/RgUEZqfqgmyQu9vByV7rcEVlTdKDJTpRg5twYwxtzLTjoLih89eoh29PC7CL56MoGvZo3UKg//GVbtTGZKk9wi7ww==;VbtnyPyEArxl87H/HNvhvw=="
+---
+

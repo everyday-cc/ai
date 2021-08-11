@@ -121,6 +121,20 @@ related:
         width: 791
         height: 496
         isCached: true
+  - title: "Nihon Kohden buying predictive analytics company AMP3D"
+    excerpt: "Nihon Kohden Corp. has acquired Advanced Medical Predictive Devices, Diagnostics and Displays Inc. for an undisclosed sum. The company provides data analytics and artificial intelligence solutions for proactive clinical care."
+    publishedDateTime: 2021-08-09T18:03:00Z
+    webUrl: "https://www.bioworld.com/articles/510238-nihon-kohden-buying-predictive-analytics-company-amp3d"
+    type: article
+    provider:
+      name: BioWorld
+      domain: bioworld.com
+    quality: 24
+    images:
+      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Infectious/COVID-19-variant-mutation-coronavirus.png?height=355&t=1613068745&width=640"
+        width: 473
+        height: 355
+        isCached: true
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
     excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
     publishedDateTime: 2021-08-09T12:11:00Z
@@ -131,6 +145,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "v6Rb6KbwjUvwj0S+kxqUNlCl/1EW5iKHTUQBXNUCK/v2lfc328AVbHQBWQPzMnqOHggyAUzlj2K7teAbn22f0m9rE94hkD9LXS66Rzn9DD9gRQtNugXPWjj5rMwHzuDjRpOTUDBWqLcxxslnVcX+yiIYyg3JDnjUsKV7j2I3Q4nqGNV6jmGghHg01MmW5Zl4C8L5fv5BcrdzxcsaCwFaOQLwGa8bcX/cs+Xw4j/h/SDOlKkY1tItfYASyHAFRAEvEx138KpOAFARVXEQmzFAMihRVkE+ZItfxVQbdw6sOJUb9088jFTtXgCoVLSFiuNPTOdwXOzPWtAWs9oHDmL3nMofP0SJaTG7+CgQnmmnuDs=;JhYrP+7OaVk0eucTnnEBAw=="
+secured: "ZT/bMVU8ZgsNQOYRhNnBzBmqiGRlYBBdkmVjnS4JjwEpf4y7ecaHZux1q+itjikjdDDU8a/Hom17CYpfiUGoLvhSCwoMbprYAfOEUpTCWh+BvPM0W6ZUd8BsgyH/nASQy5WmRqxndxCQRCZ4TzvH5rNshbmvKUNtRvevH7o0sy3blXgrzn350NeAxPG751UBphNw5idrL1xkh7ruGfNj5VSEqQdv81JHamYcB3C5Yg1ShjCAdcbyTFAp2gyj5cz4ZWHTGKp5mEskJuI08eQMYEyamr4cSEn8U1Ctx4AuPuGuPMQhxOUqzzj09MXmKKRIZ0bFF7fQRvxW+lWiQC0Sb940xrIVb2nP0ELGtjIxsi6uc9mPVMAnv9oW6bu5OnD1tPyx8V/p5xfHCmDtlesUPxm2UtUQcqLTm8iguMpNy/QvA76l5CFO0DYBeO4ntuz5CxXGbC0dWEdGygJ40NkCcGvS34WqxMv5S3FP5owxmoi/5TiIkXrjsK1U3lUC2vkeFJRC+eZhnW+eOvi3QUTSlA==;h9On81wMZ5w+rI1+Ue9RWw=="
 ---
 

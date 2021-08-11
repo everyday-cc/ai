@@ -26,51 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence could find dementia with a single brain scan"
-    excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
-    publishedDateTime: 2021-08-10T12:36:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
+  - title: "Artificial intelligence could be used to diagnose dementia"
+    excerpt: "Researchers say AI tool could lead to earlier diagnoses that could improve patients’ outcomes"
+    publishedDateTime: 2021-08-10T08:58:00Z
+    webUrl: "https://www.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
+    ampWebUrl: "https://amp.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 71
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
     images:
-      - url: "https://thehill.com/sites/default/files/ca_dementia_stock.jpg"
-        width: 1440
-        height: 880
+      - url: "https://i.guim.co.uk/img/media/c28b2d4c46a12f81cc0a0c7c9cea862b160001a6/0_212_4407_2645/master/4407.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9f4550a078ffd5e4e47142ae57f4508"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Artificial Intelligence May Be Able To Identify Dementia With Single Scan"
-    excerpt: "Scientists are currently testing an artificial intelligence (AI) system that may be able to detect dementia after just one brain scan. This system may also be capable of predicting whether or not a person’s condition will remain stable for a number of years,"
-    publishedDateTime: 2021-08-10T08:25:00Z
-    webUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/"
-    ampWebUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
+  - title: "Artificial Intelligence may diagnose dementia in a day"
+    excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
+    publishedDateTime: 2021-08-10T04:28:00Z
+    webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
     type: article
     provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 56
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
     images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2Fbrainscan_.jpg"
-        width: 1200
-        height: 619
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Researchers use AI for treatment aimed at preventing dementia"
-    excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
-    publishedDateTime: 2021-08-11T05:00:00Z
-    webUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
+  - title: "Dementia: Artificial intelligence could easily & quickly help to determine your risk – how"
+    excerpt: "Now, artificial intelligence may be able to help combat this problem. In pre-clinical tests, artificial intelligence diagnoses has been able to determine one’s risk, years before symptoms develop, even when there are no obvious signs of damage on the brain scan."
+    publishedDateTime: 2021-08-10T08:07:00Z
+    webUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk"
+    ampWebUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
     type: article
     provider:
-      name: Florida Weekly
-      domain: floridaweekly.com
-    quality: 39
+      name: Daily Express
+      domain: express.co.uk
+    quality: 49
     images:
-      - url: "https://fortmyers.floridaweekly.com/wp-content/uploads/images/2021-08-11/14p1.jpg"
-        width: 693
-        height: 791
+      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/Dementia-Risk-of-the-condition-1474736.jpg?r=1628582853870"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "BO8xQxVUGFziCXKSpp135+8ibLQP0PgCq/kua0nJqsk86AoGTZmzIXED8fjbhcxDtFoj6pvhTeqqQmkx8zSqXoYiHb2fwK3APsQ+6UgMxjZVipHmCZp8vvz/Z44b6rB/A+/pBGAWiQPuHVa5BHG1lzNQKvGMFj0xYS9L5E9ljt8yjpXvjcGN4bGWj+aKHwP7tTlOTpIHqdCWh+3DNy+KKQFJfZI00GWQDGlIYNrkOy/wYfoDwuFdcpxlhr4LfwZceq9kDyZMy7KV0CDe4/ZYoajfj3Db+jTZKn5A5tWLcB0nG0APIxJULNKwv12aCBPdGCvPNDRY8c8w8cvEI8gIacM+oHvvl889t6CjAxrEPuw=;W4SPFlzTpdsB0eV0EvOqpg=="

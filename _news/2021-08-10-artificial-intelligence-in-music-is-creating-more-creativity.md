@@ -70,6 +70,20 @@ related:
         width: 700
         height: 405
         isCached: true
+  - title: "John Deere Self-Driving Technology On The Way"
+    excerpt: "John Deere announced self-driving technology with the help of Bear Flag Robotics, a startup that began as a part of Deere's Startup Collaborator"
+    publishedDateTime: 2021-08-11T13:36:00Z
+    webUrl: "https://wsau.com/2021/08/11/john-deere-self-driving-technology-on-the-way/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 24
+    images:
+      - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "iKPpAVZM8jAqWnk3QQnlmmj0bBWWPRYJs36ly/0hcMqpPmdLMnhDiTK4Yjwq5mjUTD/7JmY7AqoNzSn4X3P806EQl5/S+NsrU+H3hIM5MAMJxVa1nKgNCEqVFfY3JgFvBgqj0SHAilLuQ/HDOrOwq30SfMIYQ5R4PMexkm3iXMrLLmU5qEJONs0iXm82uG+fXdyfhmPnlwL/G5drhpYlj8DgUpQIehB3yOxz8K6lKFrVfOo77NaZfSdGHDyhjBIQnLKMDV2CfX2+N8w91kiRH1+Wd1BJwAClGl5RBSu7GVeBh170iigfJEBBrSF1gvtMHulgM7/GXXyMmsDTEnIJJd9zME+Q4XAos1iw1mnzTzY=;vYCiF+K2uf16Gas8p2gCDQ=="
 ---

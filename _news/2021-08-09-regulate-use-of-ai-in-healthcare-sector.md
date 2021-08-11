@@ -7,8 +7,8 @@ originalUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-s
 webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: The Sun
@@ -26,61 +26,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
-    publishedDateTime: 2021-08-09T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+  - title: "AI In Healthcare: 7 Benefits That Can Provide Advanced Medical Facility"
+    excerpt: "Science is progressing in this digitally advanced world. This includes computer science, medical facilities and many other fields. But the amazing part is these branches often fuse to form a"
+    publishedDateTime: 2021-08-10T04:24:00Z
+    webUrl: "https://www.codementor.io/@swaraligarud1999/ai-in-healthcare-7-benefits-that-can-provide-advanced-medical-facility-1kmy1hymxv"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
-    images:
-      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
-    publishedDateTime: 2021-08-09T13:13:00Z
-    webUrl: "https://www.openpr.com/news/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    ampWebUrl: "https://www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Codementor
+      domain: codementor.io
     quality: 54
     images:
-      - url: "https://cdn.openpr.com/U/8/U809313436_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://ucarecdn.com/0e25acf6-9b16-485e-8b94-d179853eba86/"
+        width: 1024
+        height: 717
         isCached: true
-  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2021-08-10T02:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
+  - title: "Innovative New App, AICare, Utilizes Artificial Intelligence and Data Algorithms to Support User Health"
+    excerpt: "AICare Health is pleased to announce the official global launch of its innovative app that seamlessly connects patients to their trusted family doctors and medical practitioners. Billed as the healthcare of the future,"
+    publishedDateTime: 2021-08-10T18:27:00Z
+    webUrl: "https://www.wboc.com/story/44493482/innovative-new-app-aicare-utilizes-artificial-intelligence-and-data-algorithms-to-support-user-health"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: WBOC
+      domain: wboc.com
+    quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/21190169_G.jpg?lastEditedDate=1628605656000"
+        width: 900
+        height: 675
         isCached: true
-  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
-    publishedDateTime: 2021-08-08T11:23:00Z
-    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Until recently, Ross Mitchell served as the inaugural AI Officer at the Moffitt Cancer Center in Tampa, Florida. Now he’s offering consulting expertise borne of a long career applying AI to healthcare and health systems."
+    publishedDateTime: 2021-08-10T05:02:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/08/10/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 33
 
 secured: "nfaqw+VMYLs3qXvA8q/7og20IO6+OHRoVtzMOkg8gZw2Fp9wufU4agatrbI28BVh+G17Pembg4Gx216AqIV5ujeS6hWxYupshOtCK46sl+dDkjJ6IrEu9zdzpuAY/q5IxrMa+kqMPTSf0SV2UqPFrfRLyhch5G2Qs5m6iqm+RfU7lveN4oWCGEOfvK0gAR2iOsvN3Z5WxEzupl7Y4Jnl+PrH/VP+qxWnP2UAbKLlS30WxskCjHcvVr6wuefclk7wCZUCqKmSO9PMupX+ZFnbBLfxbNyXI5SL7jJOGshuw+SwWp8qDnqRNmSF6yZsfLlbRnBrW5ObhAAHL5kYlXfidEe5EQjEK3B90/HXC/nAV7CitVeDiDmeyW3ouuMBJ1tZnMilPNEvrrhqxqT2r+oC4vnU84NXhN4/4Kdue8taZCqzWmzLyWpJgBPysWFTHWpI4xUXz+Xzd1TsAnuPrY5HfM98d+xciyl9SgjCgub84niD8Rx8STWzmLu+s2CIQ23i4dpM5e4/T5AMto1YRKqZjg==;AMgEWDyAtUOSKsQICK2SLg=="
 ---

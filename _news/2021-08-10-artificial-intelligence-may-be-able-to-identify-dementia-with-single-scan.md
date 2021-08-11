@@ -26,37 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence could find dementia with a single brain scan"
-    excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
-    publishedDateTime: 2021-08-10T12:36:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
+  - title: "Scientists use AI to identify new biomarkers for breast cancer"
+    excerpt: "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment-;and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer."
+    publishedDateTime: 2021-08-07T21:41:00Z
+    webUrl: "https://www.news-medical.net/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 71
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_dementia_stock.jpg"
-        width: 1440
-        height: 880
-        isCached: true
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    type: article
-    provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
+      name: News Medical
+      domain: news-medical.net
     quality: 57
     images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Researchers use AI for treatment aimed at preventing dementia"
     excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"

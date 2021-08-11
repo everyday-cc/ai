@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-int
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
         width: 4195
         height: 2214
+        isCached: true
+  - title: "JLL to buy proptech startup Skyline AI"
+    excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
+    publishedDateTime: 2021-08-11T14:56:00Z
+    webUrl: "https://realassets.ipe.com/news/jll-to-buy-proptech-startup-skyline-ai/10054457.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 37
+    images:
+      - url: "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/0/6/6/115066_skylineai_506777.png"
+        width: 561
+        height: 426
         isCached: true
 
 secured: "GvAfNSQmM2ZEK+ZenmGuz4QtzUuRdQp4elXRhYh21flVKQkulSxpPrnFUN86d65+7bRRRAikBt8pQzyfXGd4oaVFaMZVZNae8yK2DVL3TgOYfb7mjAnakmr8BupliRGWw1VU0kk9FtT8HB+uGdGb7dY4yd3SReO88t4GyxZ07wOqzBYEIsSEtl3t/LXpmfB/9NubvmwDhUFUItVdrQtf2pslz5Z+PPdl8a8FFG2OyK+lGLRxzIiksc24th7+ail1E2/VhA5djstdWWJlSSKcpuqgvSaQrtmCsRYpBtgL/0MPa80YdjfcToYKk/Tczxs+xawN+kwQIqQCoELz3GBAdvBYfv08Gb5JAtUjknYTrJM=;GQsfPFff4yKJ86/XZaS0bA=="

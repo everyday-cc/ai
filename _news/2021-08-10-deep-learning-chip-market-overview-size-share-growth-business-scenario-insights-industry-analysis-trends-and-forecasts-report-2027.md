@@ -74,6 +74,20 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Insights on the $770 Million Artificial Intelligence Services Global Market to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence services market."
+    publishedDateTime: 2021-08-11T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-hacking-77bb4b14eb4443aebcc0c11dc64c2529"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3wHjK3MhkBzTvYU6eu6FxAvubE9+svMzwBUo+IHp02kSL8P2EEsXhP0XRBh6PB8VUK9mhYP+q1grQ+++vdPXGRHj61ReHcRfHTVNPPUbFbkC556tIgG7Dkj46ftJpgKDYfwIIWZeFYOkaRkv4kOyIxs5JHmUZFTOeCtD+UaMa5LIpmDE675EiMsJmR8q8IhE7RVEdC66Sq0MGgcg8zSxY3ZwwhdWvgFTKtrnlYtCw2yPt5PctLYETLfXDOuUyPrDhQ0iBhRG3StHgyJ997kfGT730NJjwmV4QhxhIpBp312+2IO7bVHNXgVJcuVnsTbJ9m07itrDXwb2WMExtJKZfox/kkj9h4n33WizeY57NzQ=;MzmFAdIFcWG0FCYYXAwDGA=="
 ---

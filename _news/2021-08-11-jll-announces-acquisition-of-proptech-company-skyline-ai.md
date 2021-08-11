@@ -58,7 +58,21 @@ related:
         width: 4195
         height: 2214
         isCached: true
+  - title: "JLL to buy proptech startup Skyline AI"
+    excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
+    publishedDateTime: 2021-08-11T14:56:00Z
+    webUrl: "https://realassets.ipe.com/news/jll-to-buy-proptech-startup-skyline-ai/10054457.article"
+    type: article
+    provider:
+      name: IPE
+      domain: ipe.com
+    quality: 37
+    images:
+      - url: "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/0/6/6/115066_skylineai_506777.png"
+        width: 561
+        height: 426
+        isCached: true
 
-secured: "go7tfFUPOO79YfCvy4ubVjF8Z7s9cwSUQhKatm4Ez8pH8f4AIccmq+IUrenyknOqE0ioz1Y9c0/Nltq9adzHBubSP8KkUSYF5mf3o15NTn5sHavGyTO1fQkUrcI1B2OAnJvjYqOX3NXNn1HCvSmRiJPnG0NnKOFSYSEilnGA7wLmWyMVwTVGu/7ez8Fdepb7uYYoO2ULjqPM08feA1HpFN0FhNo2YIFyp9CxdJxyqIZpGkaZxRNpLi/1bbsR2zpBNUqABShGY0uDNafbWtnVnCCyiVxVN/vGb7b8UZ+5ylJFjayTLbg6vBe+SvWvMCJHz1n4c5MUN2xMuWOUh3KHpE0HIfNX2BCWYA+biJwNpG0=;wWWJWyOPeWvM8r9h+uQ4mw=="
+secured: "pFw8oNL8FxbEGdVLwREueek7+jXwUlbHfUCXtMGRkM4bj668ZI6S57lCLkQQoy1GhsVrHugY9A0SwqacCbN1kkdeAErBoDAcERgjtATX6LPukIh6aF8bGL0+7d+rG5Q7tw8boEipRE+VPLq/N1Y1rXlPID7yvXO85QP46DJ9Uk/+BWs7Xs1G+eRgt2mmAF7N5fbPBAoJDWmFzf2MnsuDZ7tThvNW6z9yhBrgHddHAkLk2g93sjA0WS3LPyAGnlITFF3ORFBvZKJsniAU17zT3kmt9B2gBL9rvhrMq3v640ezGzTvKTacaSuaMw+eLnV+DozJzwCHPqJQm1YG1R1f+BoZsnrvrt8w6ZnByEW+EW1vddilknXQdrP4QSJzHMalGZGxs5EN3U64XhJ7QoakU7X04OzQjRi21CgdBnpLEQG6XzK5Q+pHGfOAV/+NgZflfgAdsq4pmMu5b9ZY68NFcTHwU39LmBu6Gw46vOqUMPCvtt/UknYGfSePgzHE9tGK2xRDb5OtXQyzTe8t/z25TQ==;31rsKXPsvmpdXT8FXO1EhA=="
 ---
 

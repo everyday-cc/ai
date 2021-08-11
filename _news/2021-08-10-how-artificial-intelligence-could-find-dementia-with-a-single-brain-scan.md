@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -26,51 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
+  - title: "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan"
+    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
+    publishedDateTime: 2021-08-11T14:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/"
     type: article
     provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
-    quality: 57
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 74
     images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
+      - url: "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg"
+        width: 777
+        height: 849
         isCached: true
-  - title: "Artificial Intelligence May Be Able To Identify Dementia With Single Scan"
-    excerpt: "Scientists are currently testing an artificial intelligence (AI) system that may be able to detect dementia after just one brain scan. This system may also be capable of predicting whether or not a person’s condition will remain stable for a number of years,"
-    publishedDateTime: 2021-08-10T08:25:00Z
-    webUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/"
-    ampWebUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
+  - title: "Deep learning model classifies brain tumors with single MRI scan"
+    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
+    publishedDateTime: 2021-08-11T14:20:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
     type: article
     provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 56
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 74
     images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2Fbrainscan_.jpg"
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
+        width: 1721
+        height: 1881
+        isCached: true
+  - title: "Deep learning classifies brain tumors on single MRI scans"
+    excerpt: "A deep-learning model was able to classify brain tumors as one of six common types on a single 3D MRI scan, according to a study published August 11 in Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-08-11T14:32:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=133201"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_08_10_21_28_8592_2021_08_11_RSNA_MRI_deep_learning_social.jpg"
         width: 1200
-        height: 619
-        isCached: true
-  - title: "Researchers use AI for treatment aimed at preventing dementia"
-    excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
-    publishedDateTime: 2021-08-11T05:00:00Z
-    webUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
-    type: article
-    provider:
-      name: Florida Weekly
-      domain: floridaweekly.com
-    quality: 39
-    images:
-      - url: "https://fortmyers.floridaweekly.com/wp-content/uploads/images/2021-08-11/14p1.jpg"
-        width: 693
-        height: 791
+        height: 630
         isCached: true
 
 secured: "I5KnDtnx0Vz1bCBUHZS2Ur4DxB1fummbOfezal5fb8b8k/APQx/9D4K3I+y1/YdN0IwBRYCw4Q9GMIA6xYkdoCVbIaVkcX3Dg1a/K1J34PPtniixD/gU2+skJZPFp8iFSfpOMAkJ37iSAE62hARSx03ttOShGgh/FvBwfLV6+34Y++/JfZ8wsJkqOhBPdWJ6WOikwcrpYcCpS654LuUGINcCHGZc9z9Em+blz/1XmaNe/IfKEFHjvqSW3z4gFTXkcsI5FjEQGub+Lt0r3AyU2z7Ra4DyLcM5NfmP2Bqc0YtdFgucXoJ8/gwdGLVhKoHozRXsJ4vlVEzD2sXxVxar+EW2Tqui3ABXao1gCHXI1YtYlzat2tWXwQC3pjWjkd9JMI+5nAYDpDr7lLVI4gOQgLk9RBfPDXAXhzO3adBC9Z6LdlthDi2V7o9XbdwZ3/dAbz5KgvvZD+CJqJFIydceY/ZNENyJx2IGMSE88zdylNY1dwDkFTKTpWoN3o+HhpbfXVB5bmZby9XpnUpK3KACPg==;LphaNowDVCazPiHu9keShQ=="
