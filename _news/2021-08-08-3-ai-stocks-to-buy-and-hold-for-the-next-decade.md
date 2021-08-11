@@ -36,17 +36,6 @@ related:
         width: 720
         height: 433
         isCached: true
-  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
-    excerpt: "All three of these stocks have AI connections and are well-positioned to benefit from them. Perhaps no company brings more of an everyday presence to AI than Google-parent Alphabet. Its use of AI goes well beyond its Google Home devices and applications,"
-    publishedDateTime: 2021-08-06T15:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "6 AI Business Tools That Will Matter in 2022"
     excerpt: "Today, many companies are looking towards AI solutions to help manage key aspects of their business, from communication all the way to human resources."
     publishedDateTime: 2021-08-08T12:33:00Z

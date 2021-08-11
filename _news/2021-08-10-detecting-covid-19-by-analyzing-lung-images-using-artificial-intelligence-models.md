@@ -24,64 +24,50 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning could help develop cures for COVID-19 and other diseases"
-    excerpt: "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio"
-    publishedDateTime: 2021-08-09T09:01:00Z
-    webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
+  - title: "There Is Increasingly Mounting AI Technical Debt That Is Going To Inevitably Sink Some Self-Driving Cars"
+    excerpt: "One unspoken aspect of today's AI systems is the incurring of software technical debt, which also pertains to the development of AI-based self-driving cars. Here's the scoop."
+    publishedDateTime: 2021-08-09T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://images.theconversation.com/files/414689/original/file-20210804-5434-1c9381h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 648
-        isCached: true
-  - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
-    excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
-    publishedDateTime: 2021-08-10T17:21:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344"
         width: 1200
-        height: 1000
+        height: 675
         isCached: true
-  - title: "Researchers employ artificial intelligence models for image-based detection of COVID-19"
-    excerpt: "Medical imaging has long been a vital tool for the diagnosis and prognostic assessments of many diseases. In recent years, the use of artificial intelligence models has been used in conjunction with this imaging to augment their diagnostic capabilities."
-    publishedDateTime: 2021-08-11T04:30:00Z
-    webUrl: "https://www.news-medical.net/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+  - title: "John Deere bringing self-driving technology to tractors"
+    excerpt: "Bear Flag, a startup originally part of Deere’s Startup Collaborator program, will help Deere move into the self-driving technology market. The $250 million deal will deliver customized technology to help farmers create more profitable operations."
+    publishedDateTime: 2021-08-06T20:00:00Z
+    webUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/"
+    ampWebUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
+    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 49
+      name: The Gazette
+      domain: thegazette.com
+    quality: 44
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=7C1B4E86-0329-4F11-A662-2005EB40E9E1&type=preview&q=75&width=1200&height=800"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
-    excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
-    publishedDateTime: 2021-08-10T01:21:00Z
-    webUrl: "https://www.eventbrite.com.au/e/use-of-machine-learning-to-find-effective-mitigation-measures-in-covid-19-tickets-166011702471"
+  - title: "Artificial Intelligence in Music is Creating More Creativity"
+    excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."
+    publishedDateTime: 2021-08-10T10:00:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-music-is-creating-more-creativity/"
     type: article
     provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 38
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
-        width: 1000
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-3.jpg"
+        width: 900
         height: 500
         isCached: true
 

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
         width: 1000
         height: 500
-        isCached: true
-  - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
-    excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."
-    publishedDateTime: 2021-08-10T13:29:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/924901"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2be91f72-21e3-498f-b37d-88ac439ebee2/Rendition/low-res/Content/Public"
-        width: 700
-        height: 405
         isCached: true
 
 secured: "TZ5PC5e88yTgTvTSO90HNo933mfPyhz9iAdzdS9lCC5J+QgBvgI3/30dP+hEzSwAmH5kEudZOKz5dQoqcCt9GxbTTOSVZGYnLcNVZlxrcaKtME5MLbnrL/DUWy6CGJfEPi19ASDNFeelTUwOs2QjWmKGpZFBJUfPYr6qXwC7rXEP1eUIE/zwAIbp/COvTUpvBWO+kzIDyLA6WNkuNEnpTf/mzq2qpCEExmVbXMFrJ2SKTu0xDlOZ/CQNIgy8rmZaikQ8dpBo8n0TW57DHUU+Me9CHoLXWb2riYt7TrJo/V+D1sOxyiwXNv0rdNlmALz1q5oHeSGAUgtVksxey8K7oL41TQjritG4tv71HDnroSWfJmwIKNtrOzY600h+cIbpfxQQj3CM6EY7AE/kTICe6irl6nO7qulWXu/5YeAsGQz91bbyhSn7/PXtkhVLFjWlx4mTlfeNGzAExla0OASTq8MK/vcYF5zVWxw7xGYISUokRyl7i9M0GDl7f6QAa+PrwsoZgSAUKzjItor6+75Lcw==;Rixa079v6A19l4EYZcfPpQ=="

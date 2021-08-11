@@ -41,6 +41,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Xiaomi CyberDog open-source quadruped robot"
+    excerpt: "The quadruped robot is powered by a NVIDIA Jetson Xavier NX featuring 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep"
+    publishedDateTime: 2021-08-11T09:23:00Z
+    webUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "l30XupVbGmWQ9DUTUQ5HgJrfA0wPFSqhS/UC/xUxK7kkZqlTz6s8INURVmEd6kua1SioLXfruGzWb3t0obUD+OHKv/oRyNKX4BZJAbavQjdDBRmbl5TFjLiQvUVZONoawjs9yT6mRSjF1luKJYRWvlsGTQg+h+VqrGLhbCX3jhZT+1W3TBfwZwjKDwUsrVSKJCJUnnVCgWMzzj3bXN2yBAocpwD/2Bg7N2nx3x+NphSxJ516aG4K3GD4iPgdPGAaIg5NMXAsD1MrEW+A2iMfcgXg4Dvg5/6s18a43288H7fYYTRL3wZP1zKVUWHPhXFUF5EPysYRnx8Hf0SVG4B5eE55zzQRP78rzV0BiSmuIpsyLPy+Nx3miMB7zYTpOr65zFn7FRQzAA3eufLJK/9Wk2m0uGSfEAAq9GSczppoBTMAXE8j2qOmciZKEu8obxG2kJKl9YcPpEyZB4MgCvJX+z3pwBMVIDRcmFTicTtUROu3tWXkFjO1k59X0Z1K7IkxUb2JpdqWnpf563OEVHGqEg==;wuDJJ13+xCktIsA/vsGYHQ=="
 ---

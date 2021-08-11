@@ -42,17 +42,6 @@ related:
         width: 720
         height: 433
         isCached: true
-  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
-    excerpt: "All three of these stocks have AI connections and are well-positioned to benefit from them. Perhaps no company brings more of an everyday presence to AI than Google-parent Alphabet. Its use of AI goes well beyond its Google Home devices and applications,"
-    publishedDateTime: 2021-08-06T15:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
   - title: "3 AI Stocks to Buy and Hold for the Next Decade"
     excerpt: "No list of AI innovators would be complete without Alphabet. AI had been around for decades, but back in 2011, Google began its pioneering work in the field of deep learning with the Google Brain. Noted AI researcher and Stanford adjunct professor Andrew Ng collaborated with Google scientists,"
     publishedDateTime: 2021-08-08T12:15:00Z

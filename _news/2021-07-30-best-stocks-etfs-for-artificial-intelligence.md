@@ -5,6 +5,8 @@ excerpt: "The Invesco QQQ QQQ and NASDAQ 100 ETF QQQM, QQQ’s cheaper version, 
 publishedDateTime: 2021-07-30T16:33:00Z
 originalUrl: "https://www.nasdaq.com/articles/best-stocks-etfs-for-artificial-intelligence-2021-07-30"
 webUrl: "https://www.nasdaq.com/articles/best-stocks-etfs-for-artificial-intelligence-2021-07-30"
+ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-etfs-for-artificial-intelligence-2021-07-30?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-etfs-for-artificial-intelligence-2021-07-30?amp"
 type: article
 quality: 47
 heat: 47
@@ -16,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 related:
   - title: "Best Stocks & ETFs for Artificial Intelligence"

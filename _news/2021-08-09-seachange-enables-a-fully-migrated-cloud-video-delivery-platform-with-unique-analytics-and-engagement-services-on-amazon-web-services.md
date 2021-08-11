@@ -132,6 +132,6 @@ related:
       domain: advanced-television.com
     quality: 4
 
-secured: "KAiHUzrHcTUmvrtpTrZ/QDxJde211TTZW370UUzE+JLBPNXiBK/iDsoakdeb8GHlfmZxrgoNY6pDsjisTZvIYul3/uF+9zHahpC/Meo0JdLyU7b0UXAylJAo2Kqt2B2miypfLALZRFnAme1SeODL2kqYqYOa1DsWu/zvh6yyyEJ4JkAv9/2WAesw3pOuc1tSbtED2ddKAKYuRuXuBJQs8eX4OGZ/Ysh2LfeLB2rnQ6HAVanauhU0bc0iQVlvs+p1m+nP5arl/pDfbmW90/rVL2x91JTKq/on0W6K748FluHBlUxbdS2wgJ1adQWp0sJdq32vv7/1+aNTozrHrBZx0tiFuHahAp1FI3kd5jAgwjQ=;oGRh7IrIJ5zCPAe/BlUcrw=="
+secured: "27nn410iU+wvIppoQzj8B3IxrQ1qO85UH+SdQcQHwdC3HYjtQnjo0kpDLC44+d2S0NhShaUPPiGfVbt+fnGYkteMnJ2v0q6x2VKMk+u/NnIAi6u4T4ceQL0FyPG91+vd7BJ5sRmZTMlN6vKCF3TpJEcWPGYAprbvVNeRIfSL59PF8g0QZ4sLQEBbop3wcaNxLyJeKifYx9Fc9cInLPmKdkEC3MCfVsoY8j87e++3EVzIo2e6uGMX1UdNMFfIWcol0QjJhgfWCydHGWETI96v6yRump1kTHsapfJaVGaODAQuaTQup2tRON83KDMzLvOlL2vJfpLOtfZwo8q74rxxF/FyswB4v/iSH6mlYdNl7kU=;1eAkAt0iKIvq4pMXlOtPbA=="
 ---
 

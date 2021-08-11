@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boo
 webUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-disco.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Machine Learning Finds Powerful Peptides That Could Improve Drug Delivery"
+    excerpt: "Researchers from MIT have harnessed machine learning approaches to discover powerful peptides that could improve a gene therapy designed to treat Duchenne muscular dystrophy."
+    publishedDateTime: 2021-08-11T08:56:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    ampWebUrl: "https://www.technologynetworks.com/drug-discovery/news/amp/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/drug-discovery/news/amp/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 58
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888.jpg?v=11366456"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "B7n4dO8dMlAktaGmMYH+byqlEQwKdaxJjzESo+FM+WrykX4CzMNbYFExeRPbuWNxOfkdhMLYyadAHrX9qPcurH8YTVWoJOcOjEhVyEazswRG4etXWAl7d4JUqLQua1/sArAkZCLY//7QD45TZTGy4MHc94mpzAAgunAmcJj8HVQDfXjrxjLSTZD0X3+vP9Jsb5S7q8OsGyIq/RIMP0SO879rLuApVKtCwXucRlFTn9WjzaKSvTwFYINNHG9/0pVGPmtxtz1SWZdg+0tQe4JsIPAtJmHo0pC+gJTwFaunEE+5JCmG7VJ42+Vwj8jn3LJYn+YeRs9F+OqwRKtc0lKHy5pZUt2ca6GVutTis4VVOMk=;t3DOzG8SmR9kzZRgIJQC8Q=="

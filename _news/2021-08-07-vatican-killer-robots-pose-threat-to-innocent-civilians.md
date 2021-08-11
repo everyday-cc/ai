@@ -9,8 +9,8 @@ ampWebUrl: "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threa
 cdnAmpWebUrl: "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Crux
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Terminator Terror. Meet the ‘killer robots’ of modern warfare"
+    excerpt: "Awful vision of the future' While some see developing AI-based weapons as a necessary step for a modern military, some critics are deeply concerned by the technology. AI is already used in lots of beneficial ways,"
+    publishedDateTime: 2021-08-11T09:28:00Z
+    webUrl: "https://vestnikkavkaza.net/material/144222"
+    ampWebUrl: "https://vestnikkavkaza.net/amp/144222"
+    cdnAmpWebUrl: "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222"
+    type: article
+    provider:
+      name: Vestnik Kavkaza
+      domain: vestnikkavkaza.net
+    quality: 59
+    images:
+      - url: "https://vestnikkavkaza.net/upload2/fnorm/2021-08-11/162867108361138c6b7f5318.27006421.jpg"
+        width: 360
+        height: 203
+        isCached: true
   - title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
     excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
     publishedDateTime: 2021-08-10T10:44:00Z

@@ -70,20 +70,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
-    excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."
-    publishedDateTime: 2021-08-10T13:29:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/924901"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2be91f72-21e3-498f-b37d-88ac439ebee2/Rendition/low-res/Content/Public"
-        width: 700
-        height: 405
-        isCached: true
 
 secured: "bExd+iIx0mAnLx78lvHkZwxJRfjjtLkdsX9MO7DzHrW1SM6cJb0mP8DwkgXnHri/bSD9iT/FTVvSUZBYEbyt7zHc27UzL84m4RQhC3o+oAcb63A7XzrjxgcbuqHrdZ/iY0p1se/l23H3YG3fTW0WOstKMMAbop69brNDT92v6cwvUhtXCkocurc73X7syQZqt8mR54NII/hxvPxBLWopODQs6yYZXgMYfWMGYZRicXY/VHZiOrzupkU6hg8yBJOiPunOyLgdKWXou96whgvSSwwbctbm7nLHzP0t4GBf8S8qpufHt2xpEgdl5+2dLQ5dsO8gg2+Ze5GBipGUCE2XjTZL5EKZBTmOBmRYBxohjzg=;GUL9cw5VgFUGaYLClqUPjQ=="
 ---

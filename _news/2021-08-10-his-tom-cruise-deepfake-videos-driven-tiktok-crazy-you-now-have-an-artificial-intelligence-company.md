@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "How a deepfake Tom Cruise on TikTok turned into a very real AI company"
-    excerpt: "The deepfakes — a combination of the terms “deep learning” and “fake” — were created by visual and AI effects artist Chris Umé with the help of a Cruise stand-in, actor Miles Fisher. This ersatz Cruise was so popular,"
-    publishedDateTime: 2021-08-06T15:25:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_world/how-a-deepfake-tom-cruise-on-tiktok-turned-into-a-very-real-ai-company/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210729120511-chris-ume-metaphysic-ai-large-169.jpg"
-        width: 460
-        height: 259
-        isCached: true
 
 secured: "aAepBh8WVahmLEca730w43bIaZXMtbDGvdZTrMs5PaPfwQSKwTKgykEjOcAU1dpFzcGce+r0qmwe2+SoMnqSfWRNmcYfNSHZrDzyDm56UJnnUzQKe9F2qgg6NVb3vswud+JB0MeKGRlwHxLiDlalGSzae3ao7kV7wzOt8HLHAIlODNNubIx/fLDZrJqSeVbAMW53GXKMpYYxy7xzh8898nnRGJDQbJ9dbzTfh0WgOWG57OWK9wKBufSJAE95RzEC2EsoIdxkRvs7rcl7guqcPd4I1tB1R/7SNsSSvpc8kljW+TXD4fCwAgmxE0IsdBUWJEigCVZGxK4SWaFstr3RXB8iXqFKDhNLND610j23HeY=;v/usBLQ6dAJY5Rnlie2Jig=="
 ---

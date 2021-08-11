@@ -43,6 +43,22 @@ related:
         width: 2560
         height: 1777
         isCached: true
+  - title: "Terminator Terror. Meet the ‘killer robots’ of modern warfare"
+    excerpt: "Awful vision of the future' While some see developing AI-based weapons as a necessary step for a modern military, some critics are deeply concerned by the technology. AI is already used in lots of beneficial ways,"
+    publishedDateTime: 2021-08-11T09:28:00Z
+    webUrl: "https://vestnikkavkaza.net/material/144222"
+    ampWebUrl: "https://vestnikkavkaza.net/amp/144222"
+    cdnAmpWebUrl: "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222"
+    type: article
+    provider:
+      name: Vestnik Kavkaza
+      domain: vestnikkavkaza.net
+    quality: 59
+    images:
+      - url: "https://vestnikkavkaza.net/upload2/fnorm/2021-08-11/162867108361138c6b7f5318.27006421.jpg"
+        width: 360
+        height: 203
+        isCached: true
 
 secured: "07MpsgsLodxh/4DuS9FBn2sNPfWKtDMgGkHlwgnJWMQvaW24faMigQNTt05CkFNbDzr1F1pVCPxXCCyB+QWXE6NoKGh6xp2ixsxBUKHNKVE7B6Ilif0QLEdulkH1Hk28f8VX20uB94SwMPcSD3YBUD2+QJKJj368BUsjLwdPq5fXhbFc1e1BzBlSRkbIbJIe56hhZVPA5Q5j9hP9Um7QbKTPNrSLTiMwb3jjPQlUzrDGmGaRdBnJ1te9qfAmLyJ5ucjnr0uI3GAAB2Sktn2hPuAOqgm1a90HfsipaTOBeK2+0xLGJhkNCNCiIpJ6+gKyOM82HFWKEHwrSDBlp8+BvwqPSKUWCxCMOXDO97W4jOWqLpPd+4nLgW5OsTjfSIywO9BlzRp2WYtWz+4qmBGNMlowkYSXDpuzelPvjJOmSnYdEJWRrnPo90gWaEgRLgdAg3gJkRRFkD1nlNT3Wq3adqlu4gWRyAhVgSdAdW99AAGOSW+5OkBlbsD38ZSNl8ThJLpx9GTIV/a97pGUMLfpyQ==;m8jG2hR1X9LoMNZwuwRuIw=="
 ---

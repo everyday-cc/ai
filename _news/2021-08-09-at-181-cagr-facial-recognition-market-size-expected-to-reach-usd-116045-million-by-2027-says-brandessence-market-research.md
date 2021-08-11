@@ -44,6 +44,20 @@ related:
         width: 1020
         height: 534
         isCached: true
+  - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
+    excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
+    publishedDateTime: 2021-08-11T09:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-voice-recognition-d8530f8f3cfb460196f97e4e08cb87e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "TpCzAZxF+M+l1PO5r2x4tfj65J5x663WR7on0pCmdHMyMvhR+Vz1kAlC82wryGeMAIJhqoa9U36P03+teRXvy8coLKbvk2qgqZhQ1UofGZkFPGFSSro+795ilUNlJQXIlnBaU0rcZ9MnbayJZ46/5HMBOJpzxg5V2kavMn2DsY9M7KHttXZdVRGisdnGqHlXy2elc4cOYoAjuuymvUtgx2934meBVM3Tu8sbIZyf3rXxRwvpYB1bsrUb50+Ct2s+BWtFNDTcpHBHpuqCo+7D+zoL1aLsn27tdddymZzX1w5a3lXCD7MPfJTKsbGRQV+XtQnhXVdCPUpd9qqFMsai1rlwpV6plRZltWtiLEMRuOs9lDMwaO+LhoaUDNRsPiJI0MPdzE39QuHJbVtxnc4x5n5/wRqRpxpPfIlbSWJMsuSTKFdLkwWObNTE6QbZFGoqEFOeMI+W5BKv84y+4Gu5pE2avJZr5yvnvLJdifNcd9MIvlCAouK53W6mZ97MGty0ZEFbkOGp1C4FgO6u6fDi7w==;Dre/54M/LGz8OmnoN8sleg=="
 ---

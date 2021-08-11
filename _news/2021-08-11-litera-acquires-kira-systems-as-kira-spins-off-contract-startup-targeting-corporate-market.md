@@ -23,6 +23,17 @@ images:
     height: 633
     isCached: true
 
+related:
+  - title: "Litera Agrees to Acquire Leading Machine Learning Contract Analysis Company, Kira Systems"
+    excerpt: "Litera, a global leader in legal technology solutions with more than 15,000 customers, announced that it has agreed to acquire Kira Systems (“Kira”), the industry leader in machine learning contract review and analysis software."
+    publishedDateTime: 2021-08-10T17:00:00Z
+    webUrl: "https://www.financialbuzz.com/litera-agrees-to-acquire-leading-machine-learning-contract-analysis-company-kira-systems/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 12
+
 secured: "ZfJT7xpUg2lE8Bxt8DSVbXCIaoV8AnK1uz2dKXCZOP4QfWQyy7n1CfEGWEs8GhuzV4+PSCA6BzuWouuv5x6Ifjot/RhnXoq2eLxT3tDNSrZIMLEKgMVNPORgogvo2lAne3B1aTxq5P27NAiTe8vpIGv2+pr3iVc9nf6KSORgurj5RUAiNMtQk2SVMBLg1VtIk5jLEsg/eJHSpc3oBp+AGY31YqE1rPxbUTujjNknzbzNC5FlafT7RuUSECd75bjQS8y+Z91UA0gddxUUmTcRB3y2erq8FlqvV2skvwhIwqmTzIM3yhmI1zuESWboTQ+PoXN6Qjs5vRxcZRLvdW4Xql05huAugDJ+U5M7H+dEnwqS1cu4aqSFl/EkgMCcjv22Fq8SRboif65XRPSrh1mmfr4rWv7UGs8APivsGgzpGT6J5lk33YvEh1Fxeq9yE4l+cG6pxHY3+dgBdqbVSWGl3MNLY1PbM9dhP0egvZvbgcNpqjqIepDJ50/1s87It4BNzGbqH9ZAXLOVI7C1VID8Ww==;fE+3FP4avtMFUneSIg/5hA=="
 ---
 

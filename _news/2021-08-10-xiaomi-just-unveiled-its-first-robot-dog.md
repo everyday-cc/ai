@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-firs
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Interesting Engineering
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Xiaomi CyberDog open-source quadruped robot"
+    excerpt: "The quadruped robot is powered by a NVIDIA Jetson Xavier NX featuring 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep"
+    publishedDateTime: 2021-08-11T09:23:00Z
+    webUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Xiaomi Is Making Robot Dogs Now, Launches New CyberDog"
     excerpt: "Forget about smartphones and vacuum cleaners. The Chinese tech giant is now making robot dogs. Its latest creation, called CyberDog, looks strikingly similar to Boston Dynamics’ Spot, minus the extra arm we often see on the yellow robot."
     publishedDateTime: 2021-08-10T17:01:00Z

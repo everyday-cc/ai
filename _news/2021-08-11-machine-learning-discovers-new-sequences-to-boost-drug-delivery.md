@@ -41,6 +41,22 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Machine Learning Finds Powerful Peptides That Could Improve Drug Delivery"
+    excerpt: "Researchers from MIT have harnessed machine learning approaches to discover powerful peptides that could improve a gene therapy designed to treat Duchenne muscular dystrophy."
+    publishedDateTime: 2021-08-11T08:56:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    ampWebUrl: "https://www.technologynetworks.com/drug-discovery/news/amp/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/drug-discovery/news/amp/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 58
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/machine-learning-finds-powerful-peptides-that-could-improve-drug-delivery-351888.jpg?v=11366456"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "MawINv6LEK5LMhZhE7eHzeUtRNxzlaEReRksJjRcmeiS5pmIvi2S5pdIQf7ACk3BKaJtOIc8EZxLCbR0Lex6+trM4Fnu+GIfbQI7S5BZGlUxjofCAK+9yg5mHWOoqJwx33uJsa3EUvc/3Np8p5KZlb0wiG/ycmeLvXSmDxlsc8JcfuMcxTX3UBCLU0Gpr90KSLJpys5TQweOxl2pMLuIm/bZEWzTvL2n3jTEEnYfnjVQ8LH6R2pKFvyye931OpWsPyCNihLJyjOQjLZ0p+svG6DVE4EswYqT3JyDHQ3GuU8XbnRxqy7vBHf4V78E1iX0PkWpamswX2CRC2aOid7uNZn3GaoW/16UkJRI4mkjnV/Hzj62ssnuKHbUH8VbmFpjuyB02C8UTOI1EyUYFt3i98WtGs6txtH0HU9lABSpiGVyRtwPFrzf6/RNIjRt2LRBrULR1uW8D/izJFQPd47agFIdWT1YUK7j8u2xrrGHEDzguGtYBni8QzErjxlU1Ofa7690CYbtnX1GaZtB4wFyIw==;SJ3eiZSsScYZRqduXR/AiQ=="
 ---
