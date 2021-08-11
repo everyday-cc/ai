@@ -87,6 +87,15 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-08-11T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
     excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
     publishedDateTime: 2021-08-09T21:22:00Z
@@ -118,6 +127,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
         width: 800
         height: 434
+        isCached: true
+  - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
+    excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
+    publishedDateTime: 2021-08-11T13:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/08/11/1600x900/ransomware-2320941_1920_1619284853227_1628687614695.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
     excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."

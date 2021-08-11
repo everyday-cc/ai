@@ -111,49 +111,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-seachange-enables-enhanced-data-analytics-with-aws.md",
-      "title": "SeaChange enables enhanced data analytics with AWS",
-      "excerpt": "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws",
-      "originalUrl": "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/08/seachange.jpeg",
-          "width": 1862,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp",
-      "publishedDateTime": "2021-08-10T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-10-things-in-tech-aws-hiring-spree-musks-2020-pay-ai-for-pizza.md",
       "title": "10 things in tech: AWS hiring spree — Musk's 2020 pay — AI for… pizza?",
       "excerpt": "AWS is on a hiring spree, Musk got $6.7 billion in compensation in 2020, and Pizza Hut wants to build a pizza AI: 10 things in tech you need to know.",
@@ -203,6 +160,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-seachange-enables-migrated-cloud-video-delivery-platform-with-aws.md",
+      "title": "SeaChange enables migrated cloud video delivery platform with AWS",
+      "excerpt": "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
+      "originalUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png",
+          "width": 415,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "publishedDateTime": "2021-08-10T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1151,6 +1151,59 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
+      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
+      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-artificial-intelligence-ai-market-in-bfsi-sector-market-is-booming-worldwide-ibm-microsoft-google.md",
       "title": "Artificial Intelligence (AI) Market in BFSI Sector Market is Booming Worldwide | IBM, Microsoft, Google",
       "excerpt": "HTF MI added a new research study on Global Artificial Intelligence (AI) Market in BFSI Sector Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook.",
@@ -1183,41 +1236,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     },
     {

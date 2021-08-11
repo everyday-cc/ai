@@ -41,35 +41,7 @@ related:
         width: 800
         height: 434
         isCached: true
-  - title: "India trials biometric boarding; new study evaluates facial recognition accuracy for Indian faces"
-    excerpt: "Six Indian airports are trialing facial recognition for biometric boarding. A new study evaluates facial recognition accuracy on Indian faces."
-    publishedDateTime: 2021-08-06T19:16:00Z
-    webUrl: "https://www.biometricupdate.com/202108/india-trials-biometric-boarding-new-study-evaluates-facial-recognition-accuracy-for-indian-faces"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 26
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
-  - title: "Researchers develop anti-spoofing techniques for iris biometric recognition"
-    excerpt: "The scientists said they will continue their collaboration to improve the anti-spoofing capabilities of their iris recognition algorithms further."
-    publishedDateTime: 2021-08-06T19:54:00Z
-    webUrl: "https://www.biometricupdate.com/202108/researchers-develop-anti-spoofing-techniques-for-iris-biometric-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09161443/iris-and-face-biometrics.jpg"
-        width: 1720
-        height: 1032
-        isCached: true
 
-secured: "z9xd8GNKOd3QPnoxjidPWgEg+9E3lBsf4DoyKwp5tOvJXd5OwEmT8PlJ1GCv28RQDGZ5Oa1R4lr6On65XiRlGs2Ns9WZ/Jqh0UVmNIpyWrGbMwpoD7OqhOKR9vuDLL79P/KCDci3tj/yTdzyHZkoO1IYZ/3uVime+AYLTMzkmypOlqM5hQyqNVD7NnCf2U2NfsMEqd9ij9YzuU25A4XloxrJcFnLpxg34cOq223GuY/MyZgbJCE/ERGMggO9LKJ04L0SS1thMIMmfaqEtWsFKol6GxKdfCZghUyxDJrqxJZQarObZ6rQu5auZ3YtLs1/fRGOJITgMNrYgHSicpb9DPR73+/zKnQ8IBVdQL1HXzw=;iBgS79rH7D3Hv21VpRJbJA=="
+secured: "OpULOR8ZcX9Ehn/nEqz/XY7KzYr8OvsI2boJQLtEe0e/ta9U6dqmlrLeKjbd/UkBnxNTZy0ok30NCwrEpBdWqKbVbqYgld5OjfjUPA54bfyg8uTaBJGeMe1T+47KEiXBV+0NCv2f/QXhUOFoAmedkEt5VcRBEz6Cd2TTVMnPqK4TVyuwPJqon87hZwKR1QkXiebWnxdllH/0DAHdi0UKdLapkWw3Cg/KgCBKPUKJR1jFBg0naNu+lhEiKtQz54M4bem32ZscoNrrks+NpFcPIraz8s5+wHcqhChq8i9vj5lkYwkShmgvqjLTmL33DncjJHbseRmfF6OLsMVrf7+aENP3ck9dJ1UZ38lblpD0yK/0+sEdt0lrP1bOoDpriv4jxFDkte6omFoLtU9khQS8OGGfKJ4EGj2TpLLhlXfFLuZcsYF+eUxHrdhRt1fTPqYgcsZsqAar5jiggUzXjUbNqbCl9PJxyJTdknTIwa9y6wxXlyWIHtPOAJ69uTZDX7TNsLPJRcrEqcYRHRz4/WdL4Q==;dJwrynLNhsOqYUk5SyLFNw=="
 ---
 

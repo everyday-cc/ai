@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Tech Alert: Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
-excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
-publishedDateTime: 2021-07-29T00:14:00Z
-originalUrl: "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
-webUrl: "https://www.financialbuzz.com/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
+excerpt: "BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology. “Many of the concerns about driverless cars and driver assist systems can be addressed with ..."
+publishedDateTime: 2021-07-29T01:45:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
+webUrl: "https://www.morningstar.com/news/business-wire/20210728006111/tech-alert-navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Q2pd/adVkTPyYU+dzgiYge65jgc8WdFKwTsSsjadbZos0UvyMP3kmwxwYDIxKjOASZGFl6VtFefuMz4Xoq9WD9C/B6VT3ODiYIA8w1HnrJFTkXJPxeeB06w3hfi89LPb/Ex1+6gpJ0iFmWEkIDQ7vI1bCxOrNryMbxzj5NAK18QaB4i0eDyF4eTRqSpEpwQPyqxa/anCKdVSv2KkbDWHYIuVyIKRxofPBN+Tne5f5pBu5E3Edurkqv1c2jT1KX0iayv8hj/3uwGl2gqXShTQIERkejfxq2Q4lLPZS0pjazAIimzk9hQ7fc8qXsjNKVoawlofl8b9gGjLYUVRSYncuFl/aHb4ORh7fK02aQezh7A=;+UhYXD+oCWrVPDFHxIyzzA=="
+secured: "BhdzaUT9KwOiglgNJeBDZK8n4A4K3Q+bin9B7AGd1SFxLK2S8TOLJLn2RCgv00OwRZkzeQxdBddUuKYJvATxnet7RtJygGShkkHzl+jVZ4F9wCCfHz4lhD9xW+/oIMd50DGMwZb4aR7ikflGLSoji6nTsYv1dyrNDTcgNFEQw/ioS0G7sIi4NW5lprpJGWXEBAjyTDrHlfEAqnSlBHEwBxLz071VHoYbB7C2UgfDTfRw/woPM3hzV0MgVHx4/1ClRYRpKHA3qaLOJ0cMRs4XcBLq5m6tFBEPmrEcfsnYMQIHRf9v8LTy0+nSW4Dx0pz1UDAASPKRT7X8Iz5QZSC9TBc1exzVnIVn7dj7g3tio6A=;TCYKi8Ag6tM82aVs7epf3A=="
 ---
 

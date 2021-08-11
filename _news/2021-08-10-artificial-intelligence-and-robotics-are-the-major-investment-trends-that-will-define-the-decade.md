@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/company-releases/artificial-intell
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
+    excerpt: "No list of AI innovators would be complete without Alphabet. AI had been around for decades, but back in 2011, Google began its pioneering work in the field of deep learning with the Google Brain. Noted AI researcher and Stanford adjunct professor Andrew Ng collaborated with Google scientists,"
+    publishedDateTime: 2021-08-08T12:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?time=1628424901"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "AI and robotics will be definitive investment trends of the decade: Study"
     excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major. AI and robotics will be definitive investment trends of the decade: Study."
     publishedDateTime: 2021-08-09T13:58:00Z

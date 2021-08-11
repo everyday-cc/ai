@@ -39,15 +39,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "AeroFarms and Nokia partner for artificial intelligence plant vision"
-    excerpt: "Newark, N.J.-based AeroFarms and Nokia Bell Labs formed a multi-year partnership to identify and track plant interactions at advanced levels with artificial intelligence plant imaging systems. As part of this partnership,"
-    publishedDateTime: 2021-08-06T20:19:00Z
-    webUrl: "https://www.thepacker.com/news/packer-tech/aerofarms-and-nokia-partner-artificial-intelligence-plant-vision"
-    type: article
-    provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 17
 
 secured: "2D//4pdLw0Z/95DLKUABxSV1MCrMnykFRVYxoBOI5h5wtkTQZjLKhfgKiIRlhX62hWfm+CqD5xPKucGcUpnvKLvhcdDoQG7rxCp519uS1Vne6+55FUkMjeG2POvjbu5lKDTgWvQF/qk0DxbWSIkbUmrn0rHRnQ5qeN+ewIx0JN8i08YVN+81D42iV8zTUU3ad2aKOL1WFelWwJz/Mju7brJrYLUwKbFGDABDfAxKdZq3QRD2tszzU5j2ek+FMw5LKAAZqWibsR1FCNtwcNGVOA3EJRxlQC0UAWHkDN6zsPyX9f4aV9heOegJmbsDku49jm8juAILoUMk2rxAPwubKzwaP1HuDuWeyFJLcMmnCBjj3lmA+xtGy3Mz0L4+J6XnTRrgaw2WXew04vHjSMxPWetDvymnzBgzk6ukhx6fm1GLkpXTtTPpTQmOOUxP3l8TQ2bcDrZw3dSsPvdHXrgKeAbxhzGktRQFVOvJ+LftNHXHBAVT1P5Hz3PhjmcKUxCnqCAZW7mgAxXEfZHc1OGfPQ==;RFlYLByjOfdlS7K5LmId9w=="
 ---

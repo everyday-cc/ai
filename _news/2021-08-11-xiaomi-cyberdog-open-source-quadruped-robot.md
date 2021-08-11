@@ -41,6 +41,22 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500"
+    excerpt: "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500. You can customize the functions of the machine to your liking."
+    publishedDateTime: 2021-08-11T12:41:00Z
+    webUrl: "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/"
+    ampWebUrl: "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 59
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Xiaomi-CyberDog-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Xiaomi Is Making Robot Dogs Now, Launches New CyberDog"
     excerpt: "Forget about smartphones and vacuum cleaners. The Chinese tech giant is now making robot dogs. Its latest creation, called CyberDog, looks strikingly similar to Boston Dynamics’ Spot, minus the extra arm we often see on the yellow robot."
     publishedDateTime: 2021-08-10T17:01:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanc
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
 type: article
 quality: 59
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: tvbeurope.com
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "SeaChange enables migrated cloud video delivery platform with AWS"
-    excerpt: "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform."
-    publishedDateTime: 2021-08-10T07:26:00Z
-    webUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
+  - title: "Unlocking The Power Of Predictive Analytics With AI"
+    excerpt: "In fact, nearly half of supply chain leaders increased spending on innovative technologies and systems during the pandemic — including predictive analytics. Predictive analytics uses statistical algorithms combined with internal and external data to forecast future trends,"
+    publishedDateTime: 2021-08-11T12:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/"
     type: article
     provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png"
-        width: 415
-        height: 251
-        isCached: true
-  - title: "SeaChange Enhances Collaboration With AWS"
-    excerpt: "SeaChange and AWS have collaborated since 2016. SeaChange will now leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement and improve customer business outcomes,"
-    publishedDateTime: 2021-08-09T20:47:00Z
-    webUrl: "https://www.tvtechnology.com/news/seachange-enhances-collaboration-with-aws"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9dfbXezXjpiLADQDtzQmB7-1200-80.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611287b7f70ffd1ba160f24b%2F0x0.jpg"
         width: 1200
-        height: 725
+        height: 800
         isCached: true
   - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
     excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
@@ -110,6 +94,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The Computer Scientist Training AI to Think with Analogies"
+    excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"
+    publishedDateTime: 2021-08-07T06:19:29Z
+    webUrl: "https://www.scientificamerican.com/article/the-computer-scientist-training-ai-to-think-with-analogies/?ref=upstract.com&curator=upstract.com"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/B79B9A2A-FC8F-45E6-BA22A19888F807ED.jpg"
+        width: 791
+        height: 496
+        isCached: true
+  - title: "Opportunities Await: The Artificial Intelligence in Big Data Analytics and IoT Market is changing in 2021"
+    excerpt: "What Does The Global Artificial Intelligence in Big Data Analytics and IoT Market Look Like Today? In a year that witnessed the world navigating the onset of a global pandemic, the Artificial Intelligence in Big Data Analytics and IoT market landscape quickly pivoted and charged forward."
+    publishedDateTime: 2021-08-11T12:37:00Z
+    webUrl: "https://www.digitaljournal.com/pr/opportunities-await-the-artificial-intelligence-in-big-data-analytics-and-iot-market-is-changing-in-2021"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 35
+    images:
+      - url: "https://industryresearchcity.files.wordpress.com/2021/08/competitor-analysis.png"
+        width: 1238
+        height: 645
+        isCached: true
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
     excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
     publishedDateTime: 2021-08-09T12:11:00Z
@@ -119,15 +131,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 18
-  - title: "SeaChange enables fully-migrated cloud video delivery"
-    excerpt: "Video delivery platform technologist SeaChange International has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced d"
-    publishedDateTime: 2021-08-09T14:14:00Z
-    webUrl: "https://advanced-television.com/2021/08/09/seachange-enables-fully-migrated-cloud-video-delivery/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 4
 
 secured: "wfwbbbBwhV2f/6oUW4dqvLhyG8qsSHY6a0hpBKG8Jpg0k3+tpTTWcNY2/ZQkHgvPsarRTHR+H9C06F+F1OqCJMaqkB3+SoAweA4NO2EecQmIFTyhffyJGs9yP80SYSXqTB3cfMn7dXMhh/+gLmkNvUBzUNWDdHPxttD3BFOf2dz1FKmJG/lC9kqUSaQoA7Ri7rtEmt8ek1gJsd/QnV+dRJEomlqCIyRVyqGn8ULrO55K/CBV4ZqJ+OEfxhyaL10HrvJJMxUq0BX/XNC8mOX6QGZfp8ATEc9GNe6Z7Yn4/UFbjArhcuqj/3anFgXAJabx1Sz0hDrfjsMVHT0Bg5vAev8mYDEqR9puwijhiJ1467rsRYbAzG7im6x4DNPlKjegG/m7yVDbynesvLMPn6qmmUzTkXlTlvIvc29SefYy5Hu6baYF+DzODUMjaXtFmF/wf2oAuUjPl//TwoSFueFoMmSKVgusB/WIiRrv4s0kLDObt9E/NvpCzPxb1bxJM2Jk03NpWN3ooWT5TzVvgEmFeQ==;TUM+dXKVoJDtmzprYemzMw=="
 ---

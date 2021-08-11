@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "SoftBank Asia backs $20m series A round of Zalora co-founder’s logistics startup"
+    excerpt: "Singapore-based delivery experience platform Parcel Perform has secured US$20 million in a series A investment led by Cambridge Capital. New investor SoftBank Ventures Asia and existing backers Wavemaker Partners and Investible also joined the round."
+    publishedDateTime: 2021-08-11T12:22:00Z
+    webUrl: "https://www.techinasia.com/zalora-cofounders-logistics-tech-startup-raises-20m-series#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 29
 
 secured: "nwPAB4G1O4lyr1Ugj50Gd+36KMs8u1aZxPYet7FoyfLzSS9xA4vJofXg1RabJ124wdOuanKWoTXUimuzVSE9uVupLPtgHMPy+DdjmClyHwkjmXP+h/SQUY+0xDJ8Pwcrac/6yr2EQQ5jvenYFsK0co8VmakD8owyEI/VsrXH8S3SeukBO13LtZdz8WU7zm1y1YIIVV4AxK/zhDsDNFSswvz6SzBjKsRzeJZYsklWRlP5VgNjQ2Y7Oreb52Z+xGWvX9UTZxfua5emhHvVCiX9pOM/2cGKw6ImJQeNNLV8FIYhG4r05wMCV2n489hufNIsqX/bylxcpawGkb2JRbmbRCqN1ns35AGTdxCX0r/hCb4k5DMLzW4C2+YqZewRI1B7J4scxD/uexloV85Sh8VF354bhkPctYzuxQrsmUO1sABSbnx0P7s4EZUoI1s2rIkesXbdzuDJxgoTIfKo5WD3R4Qr03mocZkFo1KTHNXC2rwGc7PCBwyDB/zQiZze0ow/WNoA/sK+1New/sXGPW2KLA==;4KpipsSCxNEIZ0OKa2e4zw=="
 ---

@@ -26,33 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
-    excerpt: "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles."
-    publishedDateTime: 2021-08-06T19:32:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
+  - title: "How Small-Business Owners Can Get Started With AI"
+    excerpt: "Started Cybersecurity Titan Websense. As organizations large and small get back to \"business as usual,\" many of us are realizing the \"usual\" looks a little different than it once did — especially on the micro- to small-business scale."
+    publishedDateTime: 2021-08-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-small-business-owners-can-get-started-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-small-business-owners-can-get-started-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-small-business-owners-can-get-started-with-ai/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png"
-        width: 720
-        height: 433
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f57db71653ff9e8e4d10083%2F0x0.jpg"
+        width: 1200
+        height: 639
         isCached: true
-  - title: "3 AI Stocks to Buy and Hold for the Next Decade"
-    excerpt: "No list of AI innovators would be complete without Alphabet. AI had been around for decades, but back in 2011, Google began its pioneering work in the field of deep learning with the Google Brain. Noted AI researcher and Stanford adjunct professor Andrew Ng collaborated with Google scientists,"
-    publishedDateTime: 2021-08-08T12:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?time=1628424901"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-ai-stocks-to-buy-and-hold-for-the-next-decade-2021-08-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
 
 secured: "d1w1VfVzVwZ9xiJcbi26OeNxPNEohPbR/4qKPANzaOJGxiLpuhKZAEADWmM8WKCYnb2PkvTBMsvpMspnOXyFvpn9hf0uOnVYuP9ugLSaPH3BTIEGUTSgbvkRnZUQKHWa21EicoObKLi+2M/Y5UZ8a9MGStiDnfyUIq7e/6eqfcdCSeADMoEmSV9y6OrRgnBDKWdziq0Z+zXqWJ28pqcuoOt2pI/CC9jhPvN+fS0lUpx5F2ah4lC2C7FOAC8XSNfSGVD+/sgxeMet7ZV37J2Knb0J+8+4LvKmFm8GP0TffbbWKaPd4dMGtt9RJB+hCAqnRHREmcbGr0SWbS4YnTChXnziVHtCm4Vv8XY83cfPDdDuV5RtJQRfiqN9i2lL/TVVzSTQz0p1Us0fNMf1xpTb5Tlwsho2Cj5WwJ4+2EvCpQnrOdSbwCkp7iRh7fU5X201aL721UBt6uPLIHed2Wk5wBX7bLJEn2SlFLBtj2SBgh9fVUETJeYvExXuuxOb51gNN9of3Pcv8lqu0JCx6+9Kvw==;wSVOVna2mIXMepneS+LdSg=="
 ---

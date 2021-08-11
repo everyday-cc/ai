@@ -31,21 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "SportsBettingDime and OpenAI put AI to the assistant coach test"
-    excerpt: "SportsBettingDime collaborates with OpenAI to test the viability of making AI an assistant head coach in the NBA or NFL."
-    publishedDateTime: 2021-08-10T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/"
-    ampWebUrl: "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/"
+  - title: "OpenAI launches Codex, an API for translating natural language into code"
+    excerpt: "OpenAI today launched Codex, an AI model available through an API that can translate natural language commands into app code."
+    publishedDateTime: 2021-08-11T00:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/"
+    ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 87
+    quality: 186
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/AICoach.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AI21 Labs trains a massive language model to rival OpenAI’s GPT-3"
+    excerpt: "AI21 Labs, a Tel Aviv, Israel-based startup, has trained a massive English-language model it claims is superior to GPT-3 in some ways."
+    publishedDateTime: 2021-08-11T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/"
+    ampWebUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "OpenAI’s new Codex neural network writes software in response to text prompts"
+    excerpt: "OpenAI LLC today launched the private beta program for an artificial intelligence system dubbed Codex that can write software and perform data science tasks in response to natural-language prompts. Codex will be available to participants of the private beta program through an application programming interface."
+    publishedDateTime: 2021-08-10T20:34:00Z
+    webUrl: "https://siliconangle.com/2021/08/10/openais-new-codex-neural-network-writes-software-response-text-prompts/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/openai.png"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "CqzPCr/pkC0rtVYhJ8JTSI5c/ySJ95LuhWo8SL8cnVHyp48qSNtY4T5qIXmeKaBGf/wueXRQbZ4wql3kYJycNkH4MwlHz2IAzjINoB4U+wRtyd2xorVjjlQOK51+I6TFtn8uiUQBNmYJQxYluohF0c1btmtKjjJfJ8H1CTuPW5gNg/yCXWvfbly+hobX9fZOJZtqOY35vSuANTjP6oURDyVvQjWlSw/EdDCIJQfVKqyGoraZdfamjgHlzES4ntYqKohHzkwDsbSgN4mOj4d9PEjQoocsaduC9xWyPADbhFz9nt0y5SyOFM7KGNMZIIK6YEr2tZhwwN1+RMdldlMiW+oAe8zUpOZgnQS17NnA/kblaQDr8yNDH+QM4d5WFik8T7TtbYSvjqx8BFRdWgsYttvW1gg6xOlppMixcFSvBzkIDKLeHD2s/cajXZ/LyinNgQ/4/sj6l7W/MOL71TGWzL+YlvQIrtDyRCTgZCOvdt5YwaE20CP/UgLKqbGqOms1KtbGBA0DhWYHdMJL9oetig==;sr8t8S5ahUNv/ysWizAJ0w=="

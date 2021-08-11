@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-11T10:51:00Z
 originalUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latest062921"
 webUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latest062921"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://foreignpolicy.com/wp-content/uploads/2021/08/pichai-google-testimony-house-judiciary.jpg?w=1000"
@@ -23,6 +24,6 @@ images:
     height: 696
     isCached: true
 
-secured: "kWyoe2xVVx2JKz5FtapNRRaQT8iXLOHFSKeg93T2TmZX0U5jydzShls0kNQ9BZLhE6k4VE6eVn7YMwWQ5uB5phDQa+9Nbe19b03KkDknSg8uwpP6/iWhClfNpuO1q3MJrOdgURNiajKrc2YEtz2gELrHtgcuxRZ0i9QhpDbiAp0Na6atppRLvkWjPLM6w3hCwU/ix/bFVygOPR2u57bToSuK9CkblmqmtcPWmfTUI96qfIv1zWEZ/s6eZN1QyV6kCQMqg/AXS+L6VnaiirDGIUSdc4xCCIaHnJ4DQyA88fucsdtAy7tGniHI2mJNZX3oZryk/wUG8D/rAlrNRhc2vRWuI3/c9QSuKU3pfohavZQ=;Ttg89de9PS+rq/GKiYR9/A=="
+secured: "O6Oe/kYfM5MzyujTLKbQQzpsOJ1E3MGeqhZ4vP3vI4jIpKgFn4Ynhc8GWx5bWVfrciqqytBh53lQSXLAwLSAzSgTK/hLXtW7nYD0ebjks4J1U1rpnblZ24BUjeiUkoPKUqRXMP2Nz4mQqALfzVbaA5VppOFAWAoLEnHC88Jmrj7l8/ie8W8blGl9tReploOdwywSZrGi8zpq7uV++T+Ebhl7NYGSyEEEeePNzxw+s6LxHIoAl4l1KybwIQgXTCOaVx2XV9yiTNwfPlsCWblY7XqsdXrztycQsvZzH3mHo9Np36f8biR7Pld26QQasQSxMFmJkdS1H9PgmWssgqcRrIbi8tmssBNXcqQGH6cMLx2WfXDQRG9nu8IUKbC/11ayqgYtBEQ9gqbXKZEqxGanulSjMVOTEJ9M1AmFy8vb44ChpIaw4OCC4TCIEebefVU8whv36SMMY1D5Uy8OLwMQ7dm4mOtrMbazAGYT7qjYio3WOrtWIr/gS9jlFVHn9dAb+ONCvvBfrjN3kbSIFL1gKg==;H76wVEXuh5p97aPMXI+PQw=="
 ---
 

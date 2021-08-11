@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-13-instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications.md",
+      "title": "Instabase Joins Microsoft for Startups to Streamline Delivery of Enterprise Applications",
+      "excerpt": "Through its work with Microsoft, Instabase customers are able to build powerful document understanding use cases that leverage components from Azure Cognitive Services directly within the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailytimes.com/business/instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications/article_c3e1c4db-7689-543b-a684-87049a495b8b.html",
+      "originalUrl": "https://www.thedailytimes.com/business/instabase-joins-microsoft-for-startups-to-streamline-delivery-of-enterprise-applications/article_c3e1c4db-7689-543b-a684-87049a495b8b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thedailytimes.com",
+        "domain": "thedailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-artificial-intelligence-on-microsoft-azure.md",
       "title": "Artificial Intelligence on Microsoft Azure",
       "excerpt": "or you already have AI experience and are new to Microsoft Azure, this course provides you with everything you need to get started. Artificial Intelligence (AI) empowers amazing new solutions and ...",
@@ -1319,59 +1362,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
-      "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
-      "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "Microsoft AI"
       ]

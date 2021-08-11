@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory"
+    excerpt: "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows."
+    publishedDateTime: 2021-08-11T04:00:00Z
+    webUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/"
+    ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia announces tiny RTX A2000 GPU featuring smaller form factor for Pc"
     excerpt: "For professional workstations, Nvidia has unveiled its new RTX A2000 GPU. In terms of size, it is Nvidia’s smallest Ampere-based GPU to date. A2000 cards are meant for professionals who wish to use ray tracing and Nvidia’s AI capabilities."
     publishedDateTime: 2021-08-10T19:15:00Z

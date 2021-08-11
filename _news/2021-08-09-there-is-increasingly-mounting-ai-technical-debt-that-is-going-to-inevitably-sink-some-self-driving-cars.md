@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "John Deere bringing self-driving technology to tractors"
-    excerpt: "Bear Flag, a startup originally part of Deere’s Startup Collaborator program, will help Deere move into the self-driving technology market. The $250 million deal will deliver customized technology to help farmers create more profitable operations."
-    publishedDateTime: 2021-08-06T20:00:00Z
-    webUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/"
-    ampWebUrl: "https://www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/business/john-deere-bringing-self-driving-technology-to-tractors/?amp=1"
+  - title: "How ADAS is altering the course of the self-driving dream"
+    excerpt: "Some predictions about self-driving technology have not come to pass. Instead, autonomous shuttles and trucks are here – and HERE360 went for a ride."
+    publishedDateTime: 2021-08-11T12:50:00Z
+    webUrl: "https://360.here.com/adas-self-driving-vehicles"
+    ampWebUrl: "https://360.here.com/adas-self-driving-vehicles?hs_amp=true"
+    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/adas-self-driving-vehicles?hs_amp=true"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
+      name: HERE
+      domain: here.com
     quality: 44
     images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=7C1B4E86-0329-4F11-A662-2005EB40E9E1&type=preview&q=75&width=1200&height=800"
-        width: 800
-        height: 534
+      - url: "https://360.here.com/hs-fs/hubfs/Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg?width=1969&name=Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg"
+        width: 1969
+        height: 1068
         isCached: true
   - title: "Artificial Intelligence in Music is Creating More Creativity"
     excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."

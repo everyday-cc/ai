@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-p
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory"
+    excerpt: "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows."
+    publishedDateTime: 2021-08-11T04:00:00Z
+    webUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/"
+    ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia RTX A2000 desktop GPU launches for SFF workstations"
     excerpt: "Compatible with SFF workstations and costing $450 Nvidia hopes its Nvidia RTX A2000 desktop GPU will bring ray tracing to the masses."
     publishedDateTime: 2021-08-10T16:00:00Z

@@ -2,6 +2,344 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-07-15-culture-eats-ai-self-driving-cars-for-lunch.md",
+      "title": "Culture Eats AI Self-Driving Cars For Lunch",
+      "excerpt": "There is a famous saying that culture eats strategy, which can be reformulated to postulate that culture eats AI self-driving cars. Here's why that might ring true.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F468340908%2F0x0.jpg%3FcropX1%3D121%26cropX2%3D3349%26cropY1%3D191%26cropY2%3D2007",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/07/15/culture-eats-ai-self-driving-cars-for-lunch/amp/",
+      "publishedDateTime": "2021-07-15T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does.md",
+      "title": "Feeding the machine: We give an AI some headlines and see what it does",
+      "excerpt": "Initially, I saw two possible approaches to training an algorithm to get a probability of any given headline's success: Binary classification: We simply determine what the probability is of the headline falling into the \"win\" or \"lose\" column based on previous winners and losers.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "originalUrl": "https://arstechnica.com/information-technology/2021/07/feeding-the-machine-we-give-an-ai-some-headlines-and-see-what-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/Machine-Learning-Feature-2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027.md",
+      "title": "Deep Learning Market Top Company Analysis, Research Report Analysis and Share by Forecast 2027",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 15, 2021 (Market Insight Reports) -- Selbyville, Delaware, The Global Deep Learning Market 2021 Research Report investigates the industry thoroughly and offers a complete ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-top-company-analysis-research-report-analysis-and-share-by-forecast-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her.md",
+      "title": "Black Teen Barred From Skating Rink After Facial Recognition Camera Misidentified Her",
+      "excerpt": "A Black teenager's parents are considering taking legal action after she was barred from a skating rink because the venue's facial recognition technology misidentified her. Juliea Robinson dropped off her daughter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+      "originalUrl": "https://www.msn.com/en-us/news/crime/black-teen-barred-from-skating-rink-after-facial-recognition-camera-misidentified-her/ar-AAMc9qg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1846724/facial-recognition-camera.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023?amp=1",
+      "publishedDateTime": "2021-07-15T07:15:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+        "domain": "newsweek.com/black-teen-barred-skating-rink-after-facial-recognition-camera-misidentified-her-1610023",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-wearable-robotics-startup-verve-motion-snags-15m-series-a.md",
+      "title": "Wearable robotics startup Verve Motion snags $15M Series A",
+      "excerpt": "Wearable robotics startup Verve Motion today announced it has raised $15 million in Series A funding, led by Construct Capital as well as follow-on investments from existing investors, Founder Collective,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-wearable-robotics-startup-verve-motion-snags-15m-series-/2021/07/15/9410288.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1574447/Verve01.jpg",
+          "width": 291,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-in-major-step-toward-commercializing-self-driving-technology-aurora-to-become-a-public-company-by-merging-with-reinvent-technology-partners.md",
+      "title": "In Major Step Toward Commercializing Self-Driving Technology, Aurora to Become a Public Company by Merging with Reinvent Technology Partners Y",
+      "excerpt": "Aurora, the self-driving technology company, has entered into a definitive business combination agreement with Reinvent Technology Partners Y (“Reinvent”) (NASDAQ: RTPY), a special purpose acquisition company with the sponsor team that takes a “venture capital at scale” approach to investing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-377c40cbf96544d2936dcc3c7d09d3b7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
+      "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
+      "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "originalUrl": "https://www.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/07/15/d8254c32-e551-11eb-9aba-1b7e08262541_image_hires_220157.jpeg?itok=fYw4eWfq&v=1626357723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/money-news/article/3141277/china-grants-tax-breaks-policy-leeway-turn-shanghai",
+      "publishedDateTime": "2021-07-15T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-opening-up-the-email-marketing-engine-to-artificial-intelligence.md",
       "title": "Opening Up the Email Marketing Engine to Artificial Intelligence",
       "excerpt": "With an average open email rate of 18.0% in 2020, it’s not like marketing teams are crushing this email thing. Wait, isn't 18% pretty good? We get that standards are low here, for sure. Bottom-line? Email remains a priority.",
@@ -832,300 +1170,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-aws-announces-general-availability-of-amazon-healthlake.md",
-      "title": "AWS Announces General Availability of Amazon HealthLake",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon HealthLake, a HIPAA-e",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210715005761/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210715005761/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Industry Analysis, Size, Share, Trends, Demand, Growth, Opportunities and Forecast 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-industry-analysis-size-share-trends-demand-growth-opportunities-and-forecast-2027-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T20:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-discord-steps-up-anti-harassment-efforts-with-new-ai-acquisition.md",
-      "title": "Discord steps up anti-harassment efforts with new AI acquisition",
-      "excerpt": "Discord, the online voice and text messaging platform, has purchased the AI anti-harassment company Sentropy in an effort to increase safety on its platform. READ MORE: ‘Sea Of",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137",
-      "originalUrl": "https://www.nme.com/en_asia/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/01/discord.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/gaming-news/discord-steps-up-anti-harrassment-efforts-with-new-ai-acquisition-2993137?amp",
-      "publishedDateTime": "2021-07-14T17:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-infosys-ceo-vishal-sikka-unveils-first-indigenously-built-driverless-vehicle.md",
-      "title": "Infosys CEO Vishal Sikka Unveils First Indigenously-Built Driverless Vehicle",
-      "excerpt": "CEO & Managing Director of Infosys, Vishal Sikka showcased a futuristic driverless cart at a ... developments in emerging fields like artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "originalUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2017/07/DEq05w_VwAAli88.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/infosys-driverless-vishal-sikka/amp/",
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-partnership-of-the-caribbean-securing-the-west-indies.md",
-      "title": "Partnership of the Caribbean: Securing the West Indies",
-      "excerpt": "In 2004, Cyclops Technologies, under the PlateSmart Technologies brand, introduced the first software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
-      "originalUrl": "https://news.tmcnet.com/usubmit/2021/07/15/9410651.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-self-driving-cars-are-not-yet-safe.md",
-      "title": "Self-Driving Cars Are Not (Yet) Safe",
-      "excerpt": "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "originalUrl": "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/12/autopilot.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

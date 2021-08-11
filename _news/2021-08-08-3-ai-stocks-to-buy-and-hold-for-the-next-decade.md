@@ -20,38 +20,31 @@ topics:
   - AI
 
 related:
-  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
-    excerpt: "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles."
-    publishedDateTime: 2021-08-06T19:32:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/"
+  - title: "Artificial Intelligence and Robotics are the major investment trends that will define the decade"
+    excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade."
+    publishedDateTime: 2021-08-10T07:39:00Z
+    webUrl: "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    ampWebUrl: "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 87
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 76
     images:
-      - url: "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png"
-        width: 720
-        height: 433
+      - url: "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "6 AI Business Tools That Will Matter in 2022"
-    excerpt: "Today, many companies are looking towards AI solutions to help manage key aspects of their business, from communication all the way to human resources."
-    publishedDateTime: 2021-08-08T12:33:00Z
-    webUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963"
-    ampWebUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
+  - title: "AI and robotics will be definitive investment trends of the decade: Study"
+    excerpt: "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major. AI and robotics will be definitive investment trends of the decade: Study."
+    publishedDateTime: 2021-08-09T13:58:00Z
+    webUrl: "https://www.oilandgasmiddleeast.com/products-services/ai-and-robotics-will-be-definitive-investment-trends-of-the-decade-study"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/08/6-ai-business-tools-will-matter-2022.jpg"
-        width: 1200
-        height: 801
-        isCached: true
+      name: oilandgasmiddleeast
+      domain: oilandgasmiddleeast.com
+    quality: 48
 
 secured: "3SArw7FKVJ1mIdvRcwn7Lv/b/uK6A7p7gMLlIThroXt4QTHg54dCeXqUNH1Z+AINio9NnB5aRiFLIGPwNj1H1+Mz6DcQ9AB/BlNtmAOJsOP7Ky3w4mH2z3CjJ4I60TIx91hExMySbGGUXjVxE1rGbYzvI3uRyxbCSYft125NweuStGQc5UBtl3DS1dQ1ispA1JsOIQzqcqZneHDpJroksOw6UsUs0l4k7X9FjuL1Xvy4D4whBRPWX4PSJSTePckXHFASqkp1vXASKFBzG40KDNPOFbya4hRSLazi3nsN+aw1H5aRIIrWDr0bt1wYxr8BiQma/z5+lK29a6/CjuZYDtDrAd0PqmLZBFCmWpCCZuQ=;kYm1vJbvjLXQH32rw9OYZg=="
 ---
