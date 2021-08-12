@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 900
         height: 537
         isCached: true
+  - title: "Net Digital spins off AI software operations into independent company"
+    excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
+    publishedDateTime: 2021-08-12T14:32:00Z
+    webUrl: "https://www.telecompaper.com/news/net-digital-spins-off-ai-software-operations-into-independent-company--1393508"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "BfMZ7HzC/5bzdsqfxF2p61tDzV6p261lexQXXlgSPPtjTDTk6EURK1H66MEvMpiavzQahU8SK0y84i4gdFSGGx/hMpUn6j8PPtbvxFZKZAytDvJ6/eorZhKBUBnef/W45Vi78qgvTDeQ1dan5Kdb09IyP7HuelWU423C88bVfN/eaPdVNe9TTk0RajB/CeDpSxXMjoB1R7Q2O+bPU0hw5Ls6Ht5kKW4i8Pt5gdnxZlsfM6nA1GIoH07LijubWYY3wWyeT9INMfdKuwV/OgJ0Wb3Jy2UHVwiy570sDJ1PFQhMsrosx8tmL1AB9kJFZNpQWrA5fXjBPx/iEUJseB+1WyhkJwvhrzAOsZfQZh5K35Cw/OLVDXaX6f6dUSfqjpBkp378HMgH9vWLrRPP/hJWeoOpAuJ6CAJFoWiX2xRxM0f/DRqTxFMwWEwgoywXJu0IScKtzQVItKjPTtCMS1BszJjYT7USwcvHYzaQ490xZUsI9FEmpIJwQ04/rwRmbyNLDPMcxtwOj+zyL9sDH8xI6w==;Q8D7wKpT3cZMAPgAdt2Qpw=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "This Singapore Startup Uses AI To Make Healthier Vegan Eggs"
-    excerpt: "Singapore-based Hoow Foods has unveiled a new subsidiary, Hegg Foods, to offer healthy vegan eggs made using its proprietary AI platform."
-    publishedDateTime: 2021-08-07T22:00:00Z
-    webUrl: "https://www.greenqueen.com.hk/singapore-startup-ai-vegan-eggs/"
-    ampWebUrl: "https://www.greenqueen.com.hk/amp/singapore-startup-ai-vegan-eggs/"
-    cdnAmpWebUrl: "https://www-greenqueen-com-hk.cdn.ampproject.org/c/s/www.greenqueen.com.hk/amp/singapore-startup-ai-vegan-eggs/"
-    type: article
-    provider:
-      name: greenqueen.com.hk
-      domain: greenqueen.com.hk
-    quality: 57
-    images:
-      - url: "https://www.greenqueen.com.hk/wp-content/uploads/2021/08/This-Singapore-Startup-Used-AI-To-Unveil-A-New-Healthy-Vegan-Egg-1.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "rjzmWBG/Z0hgp/23wLuT+Sf6Qc/+fpQ3TsvnHpdhK8twm+i5fwuR2EL7XR00kcxjhIoaqQucar9KCsmv/F2vfz9R9zc0VqGKZ7j+DoUWXriKFnXMW8arpE5hMnIWmMNiA8msLrIwjumFeHofmUV1InfkaiQKuq2RhZUAtut9hC17xQFCnBuMAeLFJyNy4lmBOYjZC5igAGldMC8BYOblA52JbV6XGxhpkr0x6LdEj4EU7fdSvubDoG66TG5rtwTtV6dqeUqrpyxv6ni4WFKBJqoc/lZ6aB85/UfR6MVWAxOeL2EEnCZcWdJ/fSaXYOTXnuh+vCQh1l6Nyxp6LxbmWRraYS9hDzK4xNePq/2AK6x6oAaSLryBW1Pw5bKyOa+0zAmO7oWLOVeQsb9TMGpVtB0Wd2tRfaRCk9sUC5G8bc6aCfNGjtMwRidHDal+sX7j4vMMkKTlECdTynR1beZSvoLAOg2ylpnE87HuT1DTDfjdxuv2BTV5ECFM1aycXJSJnhd6EDajnWeBL96L+xX/fQ==;3vc3OLdELrT3lBbZFmTrHQ=="
 ---

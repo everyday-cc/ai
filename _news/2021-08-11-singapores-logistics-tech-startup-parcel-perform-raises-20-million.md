@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-p
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Singapore Startup Uses AI To Make Healthier Vegan Eggs"
-    excerpt: "Singapore-based Hoow Foods has unveiled a new subsidiary, Hegg Foods, to offer healthy vegan eggs made using its proprietary AI platform."
-    publishedDateTime: 2021-08-07T22:00:00Z
-    webUrl: "https://www.greenqueen.com.hk/singapore-startup-ai-vegan-eggs/"
-    ampWebUrl: "https://www.greenqueen.com.hk/amp/singapore-startup-ai-vegan-eggs/"
-    cdnAmpWebUrl: "https://www-greenqueen-com-hk.cdn.ampproject.org/c/s/www.greenqueen.com.hk/amp/singapore-startup-ai-vegan-eggs/"
-    type: article
-    provider:
-      name: greenqueen.com.hk
-      domain: greenqueen.com.hk
-    quality: 57
-    images:
-      - url: "https://www.greenqueen.com.hk/wp-content/uploads/2021/08/This-Singapore-Startup-Used-AI-To-Unveil-A-New-Healthy-Vegan-Egg-1.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "SoftBank Asia backs $20m series A round of Zalora co-founder’s logistics startup"
     excerpt: "Singapore-based delivery experience platform Parcel Perform has secured US$20 million in a series A investment led by Cambridge Capital. New investor SoftBank Ventures Asia and existing backers Wavemaker Partners and Investible also joined the round."
     publishedDateTime: 2021-08-11T12:22:00Z

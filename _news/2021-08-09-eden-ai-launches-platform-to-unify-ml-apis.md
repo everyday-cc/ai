@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unif
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/"
 type: article
 quality: 108
-heat: 120
+heat: 118
 published: true
 
 provider:

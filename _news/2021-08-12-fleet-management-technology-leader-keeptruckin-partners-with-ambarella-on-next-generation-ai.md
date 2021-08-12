@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-12T13:32:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-484fa1c5715e7625f972bb6bd09cb123"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-484fa1c5715e7625f972bb6bd09cb123"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

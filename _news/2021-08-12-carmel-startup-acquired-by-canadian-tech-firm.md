@@ -1,24 +1,24 @@
 ---
 category: news
-title: "Carmel startup acquired by Canadian tech firm"
-excerpt: "Shiftlab, which has developed a scalable scheduling platform for retail companies, has been acquired by Vancouver-based iQmetrix, a telecom retail management software provider. The two companies are no stranger to each other;"
-publishedDateTime: 2021-08-12T13:26:00Z
-originalUrl: "https://www.wishtv.com/news/inside-indiana-business/carmel-startup-acquired-by-canadian-tech-firm/"
-webUrl: "https://www.wishtv.com/news/inside-indiana-business/carmel-startup-acquired-by-canadian-tech-firm/"
+title: "Carmel Startup Acquired by Canadian Tech Firm"
+excerpt: "A Carmel-based company that launched a year and a half ago is under new ownership. Shiftlab, which has developed a scalable scheduling platform for retail companies, has been acquired by Vancouver-bas"
+publishedDateTime: 2021-08-12T12:01:00Z
+originalUrl: "https://www.insideindianabusiness.com/story/44505633/carmel-startup-acquired-by-canadian-tech-firm"
+webUrl: "https://www.insideindianabusiness.com/story/44505633/carmel-startup-acquired-by-canadian-tech-firm"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WISHTV8
-  domain: wishtv.com
+  name: INside INdiana Business
+  domain: insideindianabusiness.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2021/08/Shiftlab-Platform.jpg?fit=960%2C540&#038;ssl=1"
+  - url: "https://INSIDEINDIANA.images.worldnow.com/images/21196794_G.jpg?lastEditedDate=1628702739000"
     width: 960
     height: 540
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ei+onkCyfNWKD7ApRKwJKJBtedysv2AkGl9arOXh32pu0maDaLZvL4TtWpuv/WnNGE8pWugIzkccv3fyIyANm+N1JzE+AoT5qm9pO/aWD1twHauzTTLzGLY1cjqo8FovvuvVQynXO/HQdvlxa1djsHcOqsq2/7xYtA4T7f6iAjMsI32VL7S4wLR2sjPZYq86vrsL6BnSP6gPqGPjxqLm/YkqFbNjAF2sPh1Lo+2deFF+VEZyrCx1W3Uf3VSiQCti1yOHRPAXHjPVhEVFviwL8LfVl+yBDzXe5+2rdBfUdv6KL8tF+bWHdlQxQxcTv1hOK41FHPzYGIjP7d5J71JcId+ZcOtlxY9qrEnkpdp1IOY=;Gyl9D+FOT5Yn1L+w8GX0XQ=="
+secured: "a+Gj8BNVacOwiW3tc0WFmi1ilX8NiPPYSLRqCoCRhsCYeV9XLguijvgQS+Xf0IDvYSDMYW3CNWwyVKHoQpoCKUDcFBvCIBk7kk4PSqgDB5aA7O0pI3csSToro6JYdzdmXvLmzrEE9KFgKu1HzSedbomaI06dUCh91+xYn48w9KNlFqzLBo5dX2esCdlTeViBZ0Qkj6yt+T+hZeNzeYLGtMCyw0zxntYc4xkWYvKKCXyikZP5zd70tjaxgSmXCsKLfolkoMhXFV+iB+kzc4UTigHRArkxaeIoNtl7xH5/u4WgaphZHmxsctZ9LbTSYSFR3v6CBBjayvaZtIGnUyovQEY26rgflnroMHw4CCLFRHI=;lPlWl6TM4uzpTIIwa4iSjw=="
 ---
 

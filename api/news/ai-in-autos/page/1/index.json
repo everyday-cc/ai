@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-12-pune-students-make-driverless-4-wheeler-using-artificial-intelligence.md",
-      "title": "Pune Students Make \"Driverless\" 4-Wheeler Using Artificial Intelligence",
-      "excerpt": "A group of engineering students of a Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors.",
+      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
+      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
+      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
       "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384",
-      "originalUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384",
+      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://c.ndtvimg.com/2021-08/qi62d39o_ev-car-pixabay_625x300_12_August_21.jpg",
-          "width": 650,
-          "height": 400,
+          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
+          "width": 800,
+          "height": 494,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-08-11T11:51:00-07:00",
+      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "publishedDateTime": "2021-08-12T07:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {

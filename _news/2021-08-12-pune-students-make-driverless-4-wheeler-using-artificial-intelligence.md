@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-whee
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: NDTV
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Engineering Students Makes Driverless Car Using AI: Maharashtra"
+    excerpt: "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors."
+    publishedDateTime: 2021-08-12T14:06:00Z
+    webUrl: "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
+    ampWebUrl: "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
+    cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 74
+    images:
+      - url: "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg"
+        width: 800
+        height: 494
+        isCached: true
   - title: "Students develop new 'driverless' electric car using AI in India"
     excerpt: "PUNE: A group of engineering students of a city-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
     publishedDateTime: 2021-08-12T03:11:00Z
@@ -73,6 +89,22 @@ related:
         width: 712
         height: 474
         isCached: true
+  - title: "Self-Driving or Driverless Cars Market Likely to Enjoy Explosive Growth by 2026 | Nissan, Tesla, Volvo"
+    excerpt: "A new business intelligence report released by HTF MI with title Global Self Driving or Driverless Cars Market Report Production and Consumption Professional Analysis Impact of COVID 19 is designed covering micro level of analysis by manufacturers and key business"
+    publishedDateTime: 2021-08-12T13:07:00Z
+    webUrl: "https://www.openpr.com/news/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    ampWebUrl: "https://www.openpr.com/amp/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812234041_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
     excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
     publishedDateTime: 2021-08-12T09:05:00Z
@@ -86,6 +118,20 @@ related:
       - url: "https://thelogicalindian.com/h-upload/2021/08/12/201319-untitled-design-2021-08-12t140428060.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Driverless Electric Shuttles Are Bussing The Future To The Colorado School Of Mines In Golden"
+    excerpt: "If you’re walking around the Colorado School of Mines in Golden, don’t be alarmed if you notice the campus bus doesn’t have a steering wheel. The school is launching a new driverless shuttle fleet that will drive passengers around campus and downtown Golden."
+    publishedDateTime: 2021-08-12T10:00:00Z
+    webUrl: "https://www.cpr.org/2021/08/12/colorado-school-of-mines-golden-driverless-electric-shuttles/"
+    type: article
+    provider:
+      name: Colorado Public Radio
+      domain: cpr.org
+    quality: 28
+    images:
+      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/Goldens-The-Mines-Rover.png?resize=1200,600"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "F48UrMQK11oY9vYfr8m5VUjkUBOaUyCPmErh0SiVVjlvDuVoH3q88Tl6XeZXcwBMt6JHECmxMyJc8ffzV6bNqVYQzonhiZJDpOjeXRtQ4kdwJh5blQCUksDVru69qOWOYGGPqWnr68OpmEGKkMUPvF9v7yVjTJNJ/zUJr12HkTEcPK4FSFhLndSicED5t6pNs72bLFTjpiDQu8AlCEz8MzJvp/V6MfLAPHTFqGQ0xgzOmTnHv6sXN6jMXyYMJ7jh00UTP5vqay4nf/QZPQggjMOeliYH5EGKETFnKsiy6mcMeTZ8R2dBiHDywQrhdclZPQHXBe7/sJoRvmo6D9xK+nLfGJjMyPXFDA6OPbiD6ok=;0xjFH7qMJgBtKMgKTo0Q5Q=="

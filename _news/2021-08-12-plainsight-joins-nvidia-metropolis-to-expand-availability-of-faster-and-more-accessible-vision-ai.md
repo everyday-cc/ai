@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-12T12:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"

@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
-    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
-    publishedDateTime: 2021-08-12T13:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/comptia-names-top-10-applications-for-artificial-intelligence-and-internet-of-things-in-2021-emerging-technology-list-1030724742"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
   - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
     excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
     publishedDateTime: 2021-08-10T15:45:00Z
@@ -61,6 +52,20 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/los-angeles-there-s-a-new-self-driving-car-in-town-meet-motional-167026_1.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
+    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
+    publishedDateTime: 2021-08-12T14:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f3cc8f92a462f64942c1bf2ea9eaad6c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
     excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."

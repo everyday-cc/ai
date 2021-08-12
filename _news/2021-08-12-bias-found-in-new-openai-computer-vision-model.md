@@ -73,6 +73,22 @@ related:
         width: 925
         height: 519
         isCached: true
+  - title: "Codex, an AI system that translates natural language to programming code"
+    excerpt: "Artificial intelligence research company OpenAI has announced the development of an AI system that translates natural language to programming code—called Codex, the system is being released as a free API,"
+    publishedDateTime: 2021-08-12T15:20:00Z
+    webUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
+        isCached: true
   - title: "OpenAI’s new Codex neural network writes software in response to text prompts"
     excerpt: "OpenAI LLC today launched the private beta program for an artificial intelligence system dubbed Codex that can write software and perform data science tasks in response to natural-language prompts. Codex will be available to participants of the private beta program through an application programming interface."
     publishedDateTime: 2021-08-10T20:34:00Z

@@ -122,6 +122,20 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "JLL to acquire artificial intelligence company, Skyline"
+    excerpt: "JLL announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that uses proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
+    publishedDateTime: 2021-08-12T14:23:00Z
+    webUrl: "https://rew-online.com/jll-to-acquire-artificial-intelligence-company-skyline/"
+    type: article
+    provider:
+      name: Real Estate Weekly
+      domain: rew-online.com
+    quality: 37
+    images:
+      - url: "https://rew-online.com/wp-content/uploads/2021/08/richardbloxam.jpg"
+        width: 427
+        height: 427
+        isCached: true
 
 secured: "0XArdFeDEGgCALt3P2XBLdqm45AhU9PyZVN6E4dk4VG4HYDuSX1dqGelbRD0HQH4tm/W5Z7zPVoYEzjdnqfbmrJLzQ8kjq0yRppvMd6gyEVNIDQpw8Ge9ZUKjd2TacAvuSexPOIs4nXW9oZ1zAVHDYpdAEf2e5A/vhpdIROp4IO16fbM69s3g3UiMaPxylB7vClLEBH9SKYUET+us3ExssamAhseqUzS4rCqu/zO7U+QrQsFC+p2bq2HduSbnO6UqqESAmMRw+W3I9pewq+UekXgtefQ6OkEWqnz7RQlE/ONJ/x0c8gdSCqoJlliot+L9jJZsA5THHCNr2P0vTAlYprULiyW7Ry2VCuFe6rMbaRPM37jV6mZb+qJkzwPBSBmzFQAmVMk8D9s6ycUiWSALkmSP7W+1l0jL9GkyU3INQ6i/PYBblJuKM8QBOk+liafg+0ZoTkrPMXB2cX4P0RnyZneODYEDDXn2sChBSOqzqiYwbyAk2KsJ+G1kCz4OPZNXqAtHNSorvR5YbM/gsCVoA==;L00X864WENVLQoeVaTai/A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 236
+heat: 246
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/openai-ship.gif?w=925"
         width: 925
         height: 519
+        isCached: true
+  - title: "Codex, an AI system that translates natural language to programming code"
+    excerpt: "Artificial intelligence research company OpenAI has announced the development of an AI system that translates natural language to programming code—called Codex, the system is being released as a free API,"
+    publishedDateTime: 2021-08-12T15:20:00Z
+    webUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
         isCached: true
   - title: "Bias found in new OpenAI computer vision model"
     excerpt: "An audit conducted with OpenAI’s former policy director Jack Clark has found gender and age bias in the firm’s latest computer vision model CLIP."

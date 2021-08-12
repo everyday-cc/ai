@@ -2,6 +2,91 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-beauty-company-il-makiage-adds-ai-imaging-startup-voyage81.md",
+      "title": "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81",
+      "excerpt": "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/beauty-IL-MAKIAGE-AI-retail-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/",
+      "publishedDateTime": "2021-08-12T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-engineering-students-makes-driverless-car-using-ai-maharashtra.md",
+      "title": "Engineering Students Makes Driverless Car Using AI: Maharashtra",
+      "excerpt": "Maharashtra`s Pune-based engineering students of a private university have developed a Driverless autonomous electric four-wheeler with the help of Artificial Intelligence. They mentioned the use for reducing accidents and deaths caused by human errors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nyoooz.com/uploads/nyoooz-images/maxresdefault49.jpg",
+          "width": 800,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "cdnAmpWebUrl": "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
+      "publishedDateTime": "2021-08-12T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-ai-could-detect-dementia-years-before-symptoms-appear.md",
       "title": "AI could detect dementia years before symptoms appear",
       "excerpt": "Dementias are characterized by the build-up of different types of protein in the brain, which damages brain tissue and leads to cognitive decline. In the case of Alzheimer's disease, these proteins include beta-amyloid,",
@@ -599,49 +684,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-pune-students-make-driverless-4-wheeler-using-artificial-intelligence.md",
-      "title": "Pune Students Make \"Driverless\" 4-Wheeler Using Artificial Intelligence",
-      "excerpt": "A group of engineering students of a Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384",
-      "originalUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-08/qi62d39o_ev-car-pixabay_625x300_12_August_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-08-11T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-cambridge-scientists-say-new-ai-tool-could-diagnose-dementia-from-a-single-brain-scan.md",
       "title": "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan",
       "excerpt": "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan.",
@@ -1127,57 +1169,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-ai-datasets-are-prone-to-mismanagement-study-finds.md",
-      "title": "AI datasets are prone to mismanagement, study finds",
-      "excerpt": "A Princeton study finds that popular AI datasets are prone to mismanagement, and that retractions rarely have the intended effect.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai-datasets-are-prone-to-mismanagement-study-finds/amp/",
-      "publishedDateTime": "2021-08-11T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

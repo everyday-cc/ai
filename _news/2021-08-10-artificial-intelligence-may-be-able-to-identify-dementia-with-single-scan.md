@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Scientists use AI to identify new biomarkers for breast cancer"
-    excerpt: "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment-;and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer."
-    publishedDateTime: 2021-08-07T21:41:00Z
-    webUrl: "https://www.news-medical.net/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210806/Scientists-use-AI-to-identify-new-biomarkers-for-breast-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Artificial intelligence could be used to diagnose dementia"
     excerpt: "Researchers say AI tool could lead to earlier diagnoses that could improve patients’ outcomes"
     publishedDateTime: 2021-08-10T08:58:00Z
@@ -103,6 +87,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Artificial Intelligence May Help Diagnose Dementia, Says Study"
+    excerpt: "Artificial Intelligence is being used across industries to detect various threats. In fact, various researchers talk about how AI can help in detecting various hazardous diseases like oesophageal cancer by detecting its early signs."
+    publishedDateTime: 2021-08-12T15:12:00Z
+    webUrl: "https://www.news18.com/news/buzz/artificial-intelligence-may-help-diagnose-dementia-says-study-4077737.html"
+    ampWebUrl: "https://www.news18.com/amp/news/buzz/artificial-intelligence-may-help-diagnose-dementia-says-study-4077737.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/buzz/artificial-intelligence-may-help-diagnose-dementia-says-study-4077737.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 57
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/08/brain-162878033316x9.png"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
     excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
