@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/senators-grill-zuckerberg-why-were-nyu
 webUrl: "https://thenextweb.com/news/senators-grill-zuckerberg-why-were-nyu-researchers-banned-from-facebook"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "AI researchers won’t be playing ‘trust fall’ with Facebook. Or China"
+    excerpt: "There are organizations that AI researchers trust less than Facebook, according to a new paper, and they are all Chinese."
+    publishedDateTime: 2021-08-12T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "JaXAHeits39fdsaOUvJeSI3q9fIC7faPBEktvB2JXckUrx2VhMwKvZ4fvQC5BhPleKa2CKoNmhBgXPkbg/RLibGawLWBiT0FJKWoIQ9XFh9y37acm+zu8lhZUnbl/9Ik1ajLFlqIHOY5iAlnfeTiQOJ4zpR9ZJAcISvjagKQEmPkwn3VGoY6wxI/3ZRoOv7votocJ4QtckhzXYG08nChsD1OxQmHcKRz9MTmmOWygPEz+A1KjDAwxX5QQ4vQdd1LdfY6TYjG3X5e+F6YpHnEHR4U2LMCSqgKzq65Xbx5OGGdxiEuxDSwu8xEBT3TGfQO3DjArD7G2d9m7owjL95i3inf/IE33iGmbZDXQJlWeH5FPu73DQkrEXklJHuUitEfGEqbbEEVu4i1RTP0MUpjwpsCzpa1DqsvIcFcJQloc8N4tLBtFaVPV66+WO7ytVfHUQ4uyKuig49jnCYtU7te7SUllr092xcUHaHb8Uj9tQdUOubM6NV+9pusQuxqTEEN6fEs6eWvVMCicvXHtjzVUA==;gSRCaJhHI1oA0Hv9R7Khzw=="
 ---

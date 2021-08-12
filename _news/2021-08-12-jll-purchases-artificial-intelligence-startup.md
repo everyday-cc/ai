@@ -114,6 +114,17 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
+    excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
+    publishedDateTime: 2021-08-12T16:48:00Z
+    webUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up"
+    ampWebUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
+    cdnAmpWebUrl: "https://www-businessoffashion-com.cdn.ampproject.org/c/s/www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
+    type: article
+    provider:
+      name: The Business of Fashion
+      domain: businessoffashion.com
+    quality: 37
   - title: "JLL to acquire artificial intelligence company, Skyline"
     excerpt: "JLL announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that uses proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
     publishedDateTime: 2021-08-12T14:23:00Z

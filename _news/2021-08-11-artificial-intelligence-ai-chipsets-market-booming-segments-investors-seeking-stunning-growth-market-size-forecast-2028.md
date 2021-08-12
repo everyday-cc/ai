@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Managed-Network-Services-Market-390x210.jpg"
         width: 390
         height: 210
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-08-10T13:02:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 53
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Canola-meal-Protein-Market-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Deep Learning Chip Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
     excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."

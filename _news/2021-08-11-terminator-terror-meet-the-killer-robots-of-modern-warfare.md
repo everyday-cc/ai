@@ -43,22 +43,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lethal autonomous weapons and World War III: It's not too late to stop the rise of 'killer robots'"
-    excerpt: "Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using \"lethal autonomous weapons systems\" that were \"programmed to attack targets without requiring data connectivity between the operator and the munition."
-    publishedDateTime: 2021-08-12T12:11:00Z
-    webUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
+  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
+    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
+    publishedDateTime: 2021-08-12T02:12:00Z
+    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 45
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lethal-autonomous-weap.jpg"
-        width: 1356
-        height: 668
-        isCached: true
+      name: The Conversation
+      domain: theconversation.com
+    quality: 25
 
 secured: "+zyrtbma9IEV1q2qcifg+hyy8EiIv25Nplcr3OJeOCtLc7KDT6u9deKPpnPIAwcHPvxbbzB8i2ckHuP7CfO7BdEK3OUK9+vP4Qym7ehl+Ra5S28pJefNwrDor1ARK+lscijX6ARa/pzfzipewpcImZBY0ka8Jemsdt0xxQvG+bsqDOwXFsi3+IQ7gLXPcbvw5Pn6q6LUc1dmrYre+TS2+GrRsAkfiGUQzLeQyMDszwKlBWbaJaIl1ecTlHfFX2i7/iQnxPPgnanC02+j0/KF1fMtqGjVrFVDMkXL6+o6FP/JWaZiS8G3Ojw99m89CXni8qFEti1simrpkWXQa8uyls97WwknawWhLnkQXtfBumk=;guZH04bVWIx+IDZWh5NgPQ=="
 ---

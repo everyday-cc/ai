@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2350878/global-artificial-intelligence-an
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,63 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Full Stack AI Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
-    excerpt: "The report on the Full Stack AI market provides a bird’s eye view of the current proceeding within the Full Stack AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Full Stack AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
-    publishedDateTime: 2021-08-12T04:21:00Z
-    webUrl: "https://manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    ampWebUrl: "https://manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
+    excerpt: "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19"
+    publishedDateTime: 2021-08-11T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market 2021-2026 by trends, outlook & growth forecast"
+    excerpt: "Delaware, U.S. - The emergence of AI-enabled virtual assistant solutions across various domains has now enabled"
+    publishedDateTime: 2021-08-09T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2021-2026-by-trends-outlook-growth-forecast-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
+    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
+    publishedDateTime: 2021-08-09T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
+    publishedDateTime: 2021-08-10T13:02:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 44
+    quality: 53
     images:
-      - url: "https://i.ibb.co/CsGkYQ9/Researchmoz-47.png"
-        width: 640
-        height: 512
-        isCached: true
-  - title: "A New Report States Facts & Figures behind Boom of the Global Artificial Intelligence (AI) in Radiation Dosing Market Forecast to 2030"
-    excerpt: "Absolute markets insights have published a inclusive analysis of its massive repository titled as Global Artificial Intelligence AI in Radiation Dosing Market This informative data has been analyzed by using effective exploratory techniques such as primary and secondary research methodologies"
-    publishedDateTime: 2021-08-09T11:01:00Z
-    webUrl: "https://www.openpr.com/news/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
-    ampWebUrl: "https://www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/8/U809395509_g.jpg"
-        width: 780
-        height: 470
-        isCached: true
-  - title: "Deep Learning System Market – Industry Size, Development Strategy, Historical Analysis, Competitive Landscape And Forecast to 2028"
-    excerpt: "The latest study, titled “Global Deep Learning System Market”, published by Emergen Research, entails a thorough review of the present and future market trends in this specific business vertical. The report gathers viable information on the most prominent industry players,"
-    publishedDateTime: 2021-08-12T14:27:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 29
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Natural-Skin-Care-Products-Market-Copy-1-390x220.jpg"
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Canola-meal-Protein-Market-390x220.jpg"
         width: 390
         height: 220
         isCached: true
-  - title: "Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Energy-efficient Artificial Intelligence Chip Market 2021 by Manufacturers, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Energy-efficient Artificial Intelligence Chip market report provides"
-    publishedDateTime: 2021-08-09T12:10:00Z
-    webUrl: "https://www.reportsnreports.com/reports/4745964-global-energy-efficient-artificial-intelligence-chip-market-2021-by-manufacturers-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 4
 
 secured: "5S869mJ66jsSbodwIroomAU6rjlX+SKAAhH69gxcg/WJ0ex9NnX0bIR0UG6EnYAicl891WV6huYFkXitHRmz8tkiolgu+P7dQZBuAUOxBv/Vy4ZPnzRPmNLDQSG9eD+QdWv9b67Kvu6abXhDLcTK3JFc5O4aZ51Am+bHHWuPmldfqMPRjVbWrL6XguSudu7pux5QuLLBDEyePPm1v++1aO+jFNnTlCF4+z40EeEUUb1E1N6ZaZxYJoxSe+WWvg7DmJcHB/1rMc7pLXbgmC9/OtRr/W6azuSg5ezYjEkKuZ5pkXroMEbrbLuxc3f1ehn9XoRR0qv7FwQ9Jn2Xjfmf+3ap7ErthW1sgyTCJODCQnOcJU/cKawA0NXmj9b3YKWwIfkuuAUnp1kol/JHaqmN4Ea0jAiz/0D6mBNVM2uI9AscpJXfG8VYyUlGqD+yeVVi5P3A+kIY0oqgq5dy2MLxlzy1ZFbEWgZ1VkOmCDYK/HRcnPkNb0rpdbwEleErsf5l8+aouEG6fimPW707bUxfLg==;+id+74Bmteye0qzdH03Zhw=="
 ---

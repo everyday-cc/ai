@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-health
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: openpr.com
@@ -28,61 +28,59 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market 2021-2026 by trends, outlook & growth forecast"
-    excerpt: "Delaware, U.S. - The emergence of AI-enabled virtual assistant solutions across various domains has now enabled"
-    publishedDateTime: 2021-08-09T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2021-2026-by-trends-outlook-growth-forecast-2021-08-09"
+  - title: "Regulate use of AI in healthcare sector"
+    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
+    publishedDateTime: 2021-08-09T05:38:00Z
+    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesundaily.my
+    quality: 56
+    images:
+      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
+        width: 480
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
+    excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
+    publishedDateTime: 2021-08-09T13:13:00Z
+    webUrl: "https://www.openpr.com/news/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    ampWebUrl: "https://www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/8/U809313436_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
+    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
+    publishedDateTime: 2021-08-10T02:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
-    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
-    publishedDateTime: 2021-08-09T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
+  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
+    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
+    publishedDateTime: 2021-08-08T11:23:00Z
+    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Reasons for Tremendous Growth of Global LegalTech Artificial Intelligence Market during Forecast Year (2021-2030)."
-    excerpt: "In order to provide a penetrative market insight Absolute Markets Insights has added statistical data to its repository titled as LegalTech Artificial Intelligence market A comprehensive analysis of technical sector is presented lucidly with the help of exploratory research methodologies"
-    publishedDateTime: 2021-08-12T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/8/U812350385_g.jpg"
-        width: 800
-        height: 691
-        isCached: true
-  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 45
 
 secured: "eOKjVuPVJKT+6tKNSuY6ILEusKdNn2j8c7r3dfIZ5mfzNJDr5LRflxSDkQYu9A38j3H/093ItDvbDgvHfSUKSskz6EPAYVTBFk6yE98qacpxUAGVxkJ5yNd78ioiBtIuDNWq2HWXhPrH2VyhTIL/q0JeW7DtwrUS8jDUbBecsiHTTDqL20D01GylnVFWsFmR4E2DwYoc5aliOhYqv5SuIkE+oY7GRsInRLKsc9r3p3UeGOtaLI8r6z8hVt/e8d4sJzNDgsl3zPe3JvLrte97rYrW3ysptHmh0UMlQeFyKrtNhZUaHEnUYwwR0Zn9ffu1PMNmyFg7d4EZMWtorE1VQCqZfe39SLsHiI5o/+0lJxdm+IGVpTGSAK1YYOM09UJ4q+GAucupVjw60EuVD5JQt3SxyyGS5X4wPXSe0l1gwwYqlSglkWCTWqHxS2p2n1kN6S3+zzUIWwcOjGTTGzWlzJtlrJ4ImJcpsmfY2besyzKgrqQ+qQsZPHYAeoxfhD3FFEIsSntLg0xS441dkplRsw==;PpwADCnaH7fWWckVjFPSYw=="
 ---

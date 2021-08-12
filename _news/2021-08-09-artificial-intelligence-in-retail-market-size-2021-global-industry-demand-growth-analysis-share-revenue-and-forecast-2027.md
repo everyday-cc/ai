@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
+    excerpt: "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19"
+    publishedDateTime: 2021-08-11T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market 2021-2026 by trends, outlook & growth forecast"
     excerpt: "Delaware, U.S. - The emergence of AI-enabled virtual assistant solutions across various domains has now enabled"
     publishedDateTime: 2021-08-09T04:40:00Z
@@ -42,49 +56,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
-    publishedDateTime: 2021-08-09T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+  - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
+    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
+    publishedDateTime: 2021-08-10T13:02:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Canola-meal-Protein-Market-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Reasons for Tremendous Growth of Global LegalTech Artificial Intelligence Market during Forecast Year (2021-2030)."
-    excerpt: "In order to provide a penetrative market insight Absolute Markets Insights has added statistical data to its repository titled as LegalTech Artificial Intelligence market A comprehensive analysis of technical sector is presented lucidly with the help of exploratory research methodologies"
-    publishedDateTime: 2021-08-12T11:37:00Z
-    webUrl: "https://www.openpr.com/news/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
+  - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
+    excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
+    publishedDateTime: 2021-08-10T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    ampWebUrl: "https://www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 35
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/8/U812350385_g.jpg"
+      - url: "https://cdn.openpr.com/U/8/U810167263_g.jpg"
         width: 800
-        height: 691
+        height: 533
         isCached: true
-  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "nL2u3xAJGHSbnQ4rGkOxB3ug+RWZnAerQbaqFIftrW3fPr7iNh2cWcL3rJEBgaUgUEk5WLKwP99f5qb3s7fPRPaSK5DeWXbaZfFA6QLB7fbwg9UDgmT0nK+/0i566AxjkHYGU9TJLFsqgixuYHB928JsavURP833M0/EzTR29qZo5LiGBFdJUB5Xmo4fE3N/OppVeEPWV/j2+/N40SksaAbkiDTBHb2APJVf3n3tqVml/gXWbOwehc3fBQF1CR+7RkZXQyROjsJ28YD+60Ud7eQAOAoSYNVZZw+BgKi2ejdNBNHqOV3z/Eu2XB9yUJdZesaSJZfyn5IOTuNT1WlY/gvC2OlEvJUdY8Pjytjr390=;4R7uLBS9IKc0Gm0WQDhIUg=="
 ---

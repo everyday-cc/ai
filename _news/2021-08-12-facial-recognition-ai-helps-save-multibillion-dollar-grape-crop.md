@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Facial recognition AI helps save multibillion dollar grape crop"
-excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they've developed,"
-publishedDateTime: 2021-08-12T11:36:00Z
-originalUrl: "https://www.miragenews.com/facial-recognition-ai-helps-save-multibillion-612648/"
-webUrl: "https://www.miragenews.com/facial-recognition-ai-helps-save-multibillion-612648/"
+excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they've developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
+publishedDateTime: 2021-08-12T16:44:00Z
+originalUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html"
+webUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html"
+ampWebUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://news.cornell.edu/sites/default/files/styles/breakout/public/2021-08/photo-by-allison-usavage_cals_20181026_293.jpg?itok=Qs_1R3J9"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-ai.jpg"
     width: 670
     height: 377
     isCached: true
 
-secured: "EMKTX6luIiFWr91rm4Nj+XZnO3sEia5Q8b57F8OWWha/baHcrnkTvq8CSwMXkW32m/4kW2SaOjLi5XiLQgQb564ptniQG0RGGPw384//6/JhLN2j4oDv8TOMezg84Lg5JYTdA457i8hF9oHZn0+4ZWGNdUCvCT64sx0AQqaSIlmZzcUo5bbK1XbZ6UxuoDkR+KumWgY2mk84vMXfBJX0zPFQTWaeDSjRyiJpgi36Bk9wqmgg6e0Z48evlGBlWaMIGPI9Gh3qGdhPeze8a2Ivjpu03bBMKhPpnRd6GnmcC76oZFmHovMU3B6T3V9ihOpDn49t23gBy9nPCT1Yb6yyUQZHrE4MMRmA6CfAoonuT4so3/+I+C45cDm77IjGDl8oeH6BrF1dwbz8Q+kM42bmpRE5k029UsiXxNj7Nj5PmC+li/+2jPoc6j8UAEmGbzB9TGS/HqctWaGzGwOF16Sz2cUhiyLulOXrV1H2s5n+pZUvUMHVTGQOcqQX8NM3Q+BxDuMnlSsPiksaGegs2JOIXA==;vgKD1D9CPMXkNa6Tp7h10w=="
+secured: "ERrKReAv07M+H1/I/Kd10MhghgsZ19cckO2AZ6hZNtJ7aBNwhqbqHR/n7dVchhCsajzy26NAgWheiW5kNVtQPe2ojXko9TXhvkl5v3xIX7B/wp7dVRuuUcWafvsvQJZKVnEnwzTDDicJ3VEdj55ysIjmtCDQp85Qi5OKFvd3i3pif53d3G3BM0rbs/VSHEZkBKgmITH8L3J12MPWpie81a/GbxhREj3njo7xv+5EhxwYrnJURI2lwBCX7NooptZYJUMax5JDk0jBkDrJ7kHgk8LqN/pUXBUbj6rm56qkERFn1dqtCaM/NsPYTe9BtlBbLJ1u8CBKeeCPwUKCysfDlOdapWPi7y/wYvADjGYEyQU=;mA0DC5pmgERxKd9xl2p1sQ=="
 ---
 

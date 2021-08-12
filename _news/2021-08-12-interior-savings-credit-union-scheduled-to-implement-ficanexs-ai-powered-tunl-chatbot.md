@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Interior Savings Credit Union Scheduled to Implement FICANEX's AI-Powered tunl.™ Chatbot"
-excerpt: "CNW/ - Prodigy Ventures Inc. (TSXV: PGV) ('Prodigy' or the 'Company') and FICANEX Technology Limited Partnership"
-publishedDateTime: 2021-08-12T11:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/interior-savings-credit-union-scheduled-to-implement-ficanex-s-ai-powered-tunl-chatbot-1030723831"
-webUrl: "https://markets.businessinsider.com/news/stocks/interior-savings-credit-union-scheduled-to-implement-ficanex-s-ai-powered-tunl-chatbot-1030723831"
+excerpt: "CNW/ - Prodigy Ventures Inc. (TSXV:PGV) (\"Prodigy\" or the \"Company\") and FICANEX Technology Limited Partnership (\"FICANEX"
+publishedDateTime: 2021-08-12T11:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22463323/interior-savings-credit-union-scheduled-to-implement-ficanexs-ai-powered-tunl-chatbot"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22463323/interior-savings-credit-union-scheduled-to-implement-ficanexs-ai-powered-tunl-chatbot"
+ampWebUrl: "https://www.benzinga.com/amp/content/22463323"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22463323"
 type: article
-quality: 40
-heat: 40
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "w6pyuEvKBv/HHclh+WEmZRmdjMfdl1iCTl0SHwxaEaEyQY+kdF6kKcZjh0NYa8Oqzp3DlkdstV5w/Xn7MgBRw2Rp9vlFZKHjccfehC3jTzMaRtuVK70uJO3viB1rtomHtl7mdX728E9OKBTZEhOT4a1z0eQfT1LNTg/m1Kfv/OPbRYj/jTOtTwJ+K92J0Z0ebBCygpHrrqCgTV1VT0Ryli40DLoRoCCktOp+ZfLo9z0Btu2JAU0tyVrmNpJpuIAwvljPNsv603IakeKm1CfsHOgarpZ0i4uZdB3gEUEXOcOC3pM3Clal/VhuZhlODTAfIZLsFbvzMNF7mxGjngag+mzHxF+NN5NXEzYz2sir3WE=;UicjUm4Y/3TC2oZH5CTp5A=="
+secured: "dvRGmS4SuGc/6dYUZcs1hMYMaaDEm/kRyKEmwnQTeJwd+hdtkF1QDvKKdh+nPn5B4ILF1SgNrx5G/zwImfKOUfvT93LMolUKjVAoxrZTHzQmiv+ixlsi5Abd6yeU/jT1o4l2eOg3XaTJhMnfsLl6IgzW+OpXu4VrAZydzoCED4vHTo1LMEXoCz7AWEHLvoCXy8ETIwJ6ftJkejvk00ypqkRRyD65CZl03yCFkLS80X+4RDWSlviSZ7NQnqj5RpZSDKIOp7Xa4rjWjBmy8I+bX5SUoInpnw8MRbAQ7KSLvQyYAhInu2HqBSPAISbNIlr9IT6ryAYGUbbH9Wk+oMQqMP6NdUyCth5HwOKBQDRgw0s=;9eGL/YGg5/391pGfROoyZQ=="
 ---
 

@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Lethal autonomous weapons and World War III: It's not too late to stop the rise of 'killer robots'"
-excerpt: "Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using \"lethal autonomous weapons systems\" that were \"programmed to attack targets without requiring data connectivity between the operator and the munition."
-publishedDateTime: 2021-08-12T12:11:00Z
-originalUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
-webUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
-ampWebUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
+title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
+excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
+publishedDateTime: 2021-08-12T02:12:00Z
+originalUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lethal-autonomous-weap.jpg"
-    width: 1356
-    height: 668
-    isCached: true
 
 related:
   - title: "Terminator Terror. Meet the ‘killer robots’ of modern warfare"
@@ -60,6 +54,6 @@ related:
         height: 800
         isCached: true
 
-secured: "20f/VyJ/XscP4ofC3iiV/y+dRf9nLHbVFJ09Vk+U0f60rHq1SZh6x3uDRV2ERqpgFMECI8JhgpN0DghZRiYPw/c8IKvmxkKEBjgSfdBuMRXjqXr4UAjXn3G74f5FDumN3qiheyuE9MLKzu36AV+vdUxnG2NpJbVNR2SkAmc02Q7APTpN8aW/r3+fglyqOZEL38zgpZmR4Pdq+o9MuR4R5fzDNthOx64qukBuZJO3QlEfj8UrU5D6eQU03DVYdc1G1ukdORC1gxDpRLjJ6MNuwZTJDLM7zmplrE4gVFMbxo7A6G7Ko3WRWpEZi5Sp+2DGkASYkZuMnrhhheBXXmmxXpLn8j39lUOZDgjrjmc8y84=;GTNHIrJ1o0ZAUtpuGI/JtQ=="
+secured: "DpZ4oQZ4ikrQYYFjUTkkUYk2Wj6XJ/bXEOocHW+NBvhxVKm0eLgY22X7MNhljOjo1xQeHwKs1cxoLiCEAWld/Hlo2s1vIfB0nUgIWGC4JUFCl02B0V+jlc8bw0hZE1YPLsTSEOgxGHt9hE9bPhiEcByZT/7Iesu6IW57uBh989Bw/Z+3ouu2JFyLp7ZcPZN58dZoxZf/g0Gl3G8mJQCo8LP/NwG5httyAhLHZIkIBxeI49bf/HAUjbmUpRxh6Bvage+J2GmKhvK3o7tPXkMxeUvUJZLxttcT9JnP3twzYjSOI5YQQS9lS+HxPdL56rhnY0P4t3XNeuTAJtCewR3ETouuFHQWaVM7PExZZxPrjQ8=;RSbnkZLtL2Qm0CmSSZ/1dg=="
 ---
 

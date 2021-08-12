@@ -41,6 +41,36 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Digital Beauty Brand IL MAKIAGE Bolsters Tech Stack with Computer Vision Acquisition"
+    excerpt: "IL MAKIAGE is a tech-driven beauty brand focused on “using unparalleled technology to connect people with superior, painstakingly tested, beauty products.” To make this mission a reality, the company is focusing on expanding its tech stack,"
+    publishedDateTime: 2021-08-12T16:01:00Z
+    webUrl: "https://retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition"
+    ampWebUrl: "https://retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition/amp"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 52
+    images:
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/08/Screenshot-422-1-e1628784075687.jpg"
+        width: 1633
+        height: 843
+        isCached: true
+  - title: "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81"
+    excerpt: "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based"
+    publishedDateTime: 2021-08-12T17:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/il-makiage-acquires-leading-israeli-computer-vision-startup-voyage81-835057534.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1592859/Il_Makiage.jpg?p=facebook"
+        width: 960
+        height: 502
+        isCached: true
   - title: "Beauty brand loved by social media users Il Makiage acquires tech start-up Voyage81"
     excerpt: "One of the most hyped beauty brands of the year, Il Makiage, has acquired computational imaging start-up Voyage81 in a move that will strengthen its AI capabilities. The colour brand, now a social media sensation with more than 900k followers on Instagram,"
     publishedDateTime: 2021-08-12T11:52:00Z

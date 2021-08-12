@@ -76,22 +76,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
-    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
-    publishedDateTime: 2021-08-07T23:42:00Z
-    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
-    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
-        width: 777
-        height: 824
-        isCached: true
   - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
     excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."
     publishedDateTime: 2021-08-12T13:24:00Z
@@ -109,6 +93,6 @@ related:
         height: 300
         isCached: true
 
-secured: "EEI9VpXkw1S9TX97f8BqjX3oSB70149jlH1QPaOntOH3yDbvvOqlX7NBNMoOLaHuj2uU/KFHjoEmQcnG1AxBvzXX3ZA/lTANO+0KYmecYeDMzEq5Ej5ISIWIQNVvK2jGKUCLr4TYHgyAITaGpcwJ6o2L174ak8nRUKc6K4V0CsuSmOAhQe7e6I1UCBRwPzE6cXCKHXD3Q+DaUmsLXQmkLtEaWtAnjiKBM4Ku69FNECq9HyTTEuw73gHM9zOgnDBO3XUtSMGqBNZZEV5JcVf+SLm/T+gCUO/8R1aAsx1J8Y3o/d1vpne0Hgg3vdbovckE9KPHaIJgECGgMBDoP8DZAtyWGK15lilAdhwmQQVQ7oM=;fh87efxJH3piTeuylJ3RUw=="
+secured: "9B+OBxj7XROiVhN9NdCk0s6131BReq2hjPVgRTT4nbwvLR8HBdkBm/guZ/w8vUPr5q09XyyGU1lUwcrzp5RXY940hg61dwJonJVEjdcj6SrYc3jx2y8m8rSingLzucQU32zfo64hgEMjqw1XRDuAi6XnciyNAZhV9QUYvCz439kHFPUYT87WBUeIXwz/7I9YgxaEcQfIGlAfSyB/ZCAyQV8kvQu56kkDzLnY5BCO301R++lLkPV69bzo8yMV5ofov8mwvY/gD7jom12teca37J6CVBHk5zpNEDy8+dJ3Q8HgiSR0yI2GWJgfAtBgc1dryfwCj2G04+8y0bYsXgiMpW+86xQlKHV1satJTh+wVx0=;eoFd+MP+UIJHVPxPnNry5Q=="
 ---
 

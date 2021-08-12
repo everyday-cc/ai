@@ -7,8 +7,8 @@ originalUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies
 webUrl: "https://www.thisdaylive.com/index.php/2021/08/12/report-identifies-ethical-challenges-risks-with-the-use-of-artificial-intelligence-in-healthcare/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: This Day
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "AI In Healthcare: 7 Benefits That Can Provide Advanced Medical Facility"
     excerpt: "Science is progressing in this digitally advanced world. This includes computer science, medical facilities and many other fields. But the amazing part is these branches often fuse to form a"
     publishedDateTime: 2021-08-10T04:24:00Z

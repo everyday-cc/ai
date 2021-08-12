@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Riiid and DXtera announce EdSAFE AI alliance to drive healthy ecosystem of AIEd sector at ASU+GSV 2021 Summit"
-excerpt: "Riiid, a leading AI for education company and a member of Born2Global Centre, and DXtera, a nonprofit, member-based education consortium, announced today"
-publishedDateTime: 2021-08-12T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/riiid-and-dxtera-announce-edsafe-ai-alliance-to-drive-healthy-ecosystem-of-aied-sector-at/article_e2c81003-2ecd-5e6c-b5d1-8a2699177bc8.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/riiid-and-dxtera-announce-edsafe-ai-alliance-to-drive-healthy-ecosystem-of-aied-sector-at/article_e2c81003-2ecd-5e6c-b5d1-8a2699177bc8.html"
+excerpt: "Riiid, a leading AI for education company and a member of Born2Global Centre, and DXtera, a nonprofit, member-based education consortium, announced today that they have formed a cross-sector alliance of companies,"
+publishedDateTime: 2021-08-12T13:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-riiid-dxtera-announce-edsafe-ai-alliance-drive-healthy-/2021/08/12/9429771.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-riiid-dxtera-announce-edsafe-ai-alliance-drive-healthy-/2021/08/12/9429771.htm"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/f3/6f326a49-719a-5257-9eff-4729597f412b/61151c979c928.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1593350/image_819222_8896509.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-secured: "vbFbF0U2VL2GcZKCbh+9rcB4ebLGaH4/007J7Gm8eWq2hVV1VupRk87DpoOvaVNrg58RBHyIQUqk1wtXE/V4mgR8KGk7aDGtBHLkBBUn3tyZzgCObRZsfzNy1RMQH43rtgPiQPX4axhA+1lsQVI0O+YcQu9tiYQyTXAu1Rbe1qakOUJG35YyW/bpN0+W2YJEK46KAbCaddrVpKF5CFKB85QXtHQh/G5dkgzzjUAiLjm0FLbhiskWuFjVsv4O62hTMdLmERnJVRPDb9pWwjtrtBWEVYB/hU7EEcEG6MSEYmWmxVbUD+BpAqiwa6OlWN9eXmKzHsChSZQm6bnqQb060TOCkDQxlLiywncWKa9e0KI=;d1atgOZJvTm1yS9IoUIfZQ=="
+secured: "hb/b+KOOXqx1YG6OKydGfBzT0TN31tiyjCdn+waADtjbyfbexuXrBlO6sCvOxw/xIvx4fYZ6wPvkqG3K5JdmcbkcrYVfogV2JJy+z7Dif4hUnrpIbz/ZJ/IToLzy5Bcs2ECyjETo7DlnhH+gzy+kj1yt67r/PpMY7hUCm2tcqAdkgH2xB0ad1IPBbRutFvDBAPDE29vSsf5hbaXFfzpQePaZoabSRKuv/u0Ozg6bcWyl9PkP+0sGKCCIJWayVG58XWQBmz3SB0SfwXpAKtDIxP0+xxx+B2+c3GNxxsg9QA6CDW8sOzVkqlZv4FrqW9cKzDKFqJr+MhlOuM7xjwMGI8yQLp/ayqQbFnRVoU3zHR4=;OufFQn8HPjUjLFhwz/R2RA=="
 ---
 

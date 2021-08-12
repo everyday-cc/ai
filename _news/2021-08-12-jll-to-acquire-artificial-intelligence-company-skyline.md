@@ -128,6 +128,17 @@ related:
         width: 561
         height: 426
         isCached: true
+  - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
+    excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
+    publishedDateTime: 2021-08-12T16:48:00Z
+    webUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up"
+    ampWebUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
+    cdnAmpWebUrl: "https://www-businessoffashion-com.cdn.ampproject.org/c/s/www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
+    type: article
+    provider:
+      name: The Business of Fashion
+      domain: businessoffashion.com
+    quality: 37
   - title: "JLL to acquire AI startup that predicts future property values"
     excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
     publishedDateTime: 2021-08-11T17:46:00Z
@@ -138,6 +149,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "hbbDpaHaR0aGBK3G3+SsnLklbNj5rCKshMJWoEjh9ZdL3RzAcUDr4999qKHVIN25ZVpGuFvUNp1HeePANSQsq4Eo8xi8iZgiCTplCVGoGoNp2Te3GXzlpVf+hYTDy9SuuE9I0vX9p3T1vM5je3T4l7CbybaX5hoSF9lhMObNzfaRtGg41j3JmGUmk2727v5qXu9SNsdon3gqwXafEpw8VaxTkqh4dSV+d5Qfy3OWYRJWbiD7yC7JPmRfOvNDSKlTOb08i+E6+IBA3rDAaQB+58R7b4JJdrhY+UR9k3fKenu47lf8jwxHfr2UTQlrKcVMtOUmsvB9t/6ZiDRYFauHyqjj3ks3QGfLWnymaXaVaXc=;vr8zn1ROe1AMh6XhXrDz3w=="
+secured: "Vb/MfNiKGGUSYombPmXvlOtE0nPfhMngeelUGMzkp0QzwS6vs+Erybze7WJss2/z0ywRiECos0wBac7QLMoSTi1GL7Tj4aunfa8QIJ4PPrQtBNFzaxC2BphcaD43iUtK6mbjIkS4/sK78li1gl4MV2PAW5aWDs8qQ9z9/IU436wgtO8F6LnJ9faQGK5MD7V2V2acgpSuYoqwz5H+R6sv+aXHez+ij7SE2jSGUhdnqUyCDGTlA52ZTjcAJAgjNSCzs+8qkYNkNkl49pAtuLcyIrTgyeJa+aO9oExXK16Ev070r8PW6mRTT1dj+xBlbTvMGc959nBy9fsjMxtFvIr08dSkKpRpTr8udKOU1Y0GuCNVqbssnMv9zkxrJ+Nk7zyZQacjI8Y0w5bdsCnCHblgVO0SsO8HKo7z1r0vBV5xu5HfinT9nL6VMJKo9XJg89vcqXVp123XzrjYKvZdH+u7ra8iwGabmfIpznTHsEXqc0MGstm38Uj/GdKYUfesRDVEPKItn4p5j21O24n649cs0w==;R/XW/vyRWBlS6SAnsS95hQ=="
 ---
 

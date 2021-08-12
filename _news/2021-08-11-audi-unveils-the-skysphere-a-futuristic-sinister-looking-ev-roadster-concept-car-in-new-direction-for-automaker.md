@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-co
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
 type: article
 quality: 151
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.expressandstar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "TAKE A LOOK | Audi's new prototype is a futuristic self-driving electric car that can change its shape"
+    excerpt: "The Skysphere concept car can expand by 25cm in its self-driving mode, giving passengers extra legroom while they watch movies, Audi said."
+    publishedDateTime: 2021-08-12T17:18:00Z
+    webUrl: "https://www.businessinsider.co.za/trending/audi-skysphere-concept-ev-electric-selfdriving-car-that-changes-shape-2021-8"
+    type: article
+    provider:
+      name: BusinessInsider
+      domain: businessinsider.co.za
+    quality: 8
+    images:
+      - url: "http://cdn.24.co.za/files/Cms/General/d/11466/8233b2acce2b4f8d82688dcfbe8daffe.jpg"
+        width: 1920
+        height: 836
         isCached: true
 
 secured: "pKsoKDJt/Q8twSxjHVWvhd/KTlZgDpml+PEdJgcR/byhYRK+KBzoFLx6yox07ODmjapHmqnOVCrmeZsREnjuHqG1ST/z2FAzF39jDOUVszh7vIbRpXRYRA5LyBIaWWbKfabsyPoC/dKoLkk2ErZVPS5I6LSZZm47T8/GCXHnwOaD6osbUzlEl5JjnE8YhfUcSc49yoYbVe8qyAOxPU9BLexYhGPpgPqF+v+4Q01sMvUD5XguL4V1dVQvp7S6Ep19b66SwH5kVhCO66uLwRauRFYIPm2QN481n6BSrLmtiJVKo4IPhH4bv208J60fh2rKK5jRPoIuBA7a8wSz9Vndm631NtNpvXfQdH9gRu7io18=;f2psl4n7y7R9mEJotoeoYg=="

@@ -79,6 +79,20 @@ related:
         width: 825
         height: 638
         isCached: true
+  - title: "Pony.ai Reportedly Seeks Funds at $8 Billion Value Amid Listing Halt"
+    excerpt: "Pony .ai is considering a new funding round that could give the self-driving startup a valuation of at least $8 billion after the company put its U.S. listing plans on hold, according to people familiar with the matter."
+    publishedDateTime: 2021-08-12T17:00:00Z
+    webUrl: "https://www.ttnews.com/articles/ponyai-reportedly-seeks-funds-8-billion-value-amid-listing-halt"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/ponyai-bb-1200.jpg?itok=4hj0hzst"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "afJNmiqKjHnKcz/7Khcbjqu2Zfgzb8kPQBNlbswn2zT8YNn1/34u7vCiR6zM8x+0Gu5GX4nKoLV3suq1mNMlcNirolWkhDU/iciTt5LWcBXQVyjveYbsHcouh40T91ZMvcHLY6iC39yN/ma19OsCDKMid9tkDCAenT/8rtJemIBk+nX/CSvFgPlC5NNHNb9calzYDXhBSNfDSkQzcJLzIzj/mSCXRAg0DZ3rgjJByiMKtl2XvNpkmT+lxRUiRTz9Tnn2E2gvzOn637fRjwdQnAEvhKveQn0TNKp2OqGXvs7SyfudjLQIxcvUhKwMH/Ye00I/H9mbGWA3z9IaOaZ9pxDCV1+tgHyb+Xo7IWC3mrE=;i7biusvYKFk8iuWFv0cvXA=="
 ---

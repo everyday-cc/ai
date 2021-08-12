@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Preventing failures with predictive maintenance based on Machine Learning models"
-    excerpt: "A 10-minute flight produces 10,000 or more data points for analysis. With this background, we sought to automate the data processing in a machine learning model to learn healthy and unhealthy flight patterns. The work with Thoughtworks was carried out to ..."
-    publishedDateTime: 2021-08-11T19:57:00Z
-    webUrl: "https://www.thoughtworks.com/en-us/clients/preventing-failures-with-predictive-maintenance-based-on-machine-learning-models"
+  - title: "Why machine learning models fail"
+    excerpt: "Machine learning and data science are important tools in the tech industry. However, if they are used improperly, they may create more problems than they solve."
+    publishedDateTime: 2021-08-12T16:44:00Z
+    webUrl: "https://sdtimes.com/ai/why-machine-learning-models-fail/"
     type: article
     provider:
-      name: ThoughtWorks
-      domain: thoughtworks.com
-    quality: 49
+      name: SD Times
+      domain: sdtimes.com
+    quality: 84
     images:
-      - url: "https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/meta/clients/cs_meta_Aerialoop.jpg"
-        width: 1200
-        height: 628
+      - url: "https://sdtimes.com/wp-content/uploads/2021/08/8-11-machine-learning-fail.jpeg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "lB4qW0IfO0TuCnkbP3ToVd8mbr8lCI2Z9hWuNsQV2lXwZGLZqs1PwqfM3Ax6XWJsLUHY3kgps3OeDfKzEI5lhqWlrJMa77a+HbFEtMSwZd/fjda2iTV6KPYb3iFqswgDYnSuMb8UZFmgywb610ZsNkfpVN7CHnoaZzwZwopc7Wlf6MZUSCSmkcl6cbFfm3FgWYZS7RPwxvrgw+nUR5a1cqSfse/P4CCfZGGVFYmTcZGQdysDyTUUbh9WxIQwhlYnR40oTciHmPz99+l/57g4jeybR5larjNYXrPRIO+obKTvCP8hKdp81biZ9H0OM+Xac9N6C+L1iTcHxiuFI2E5NDVSJnx06p749nCqRpuzc6o=;OZFx7UCZKwVcHT37777oCg=="

@@ -26,92 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-08-11T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11"
+  - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
+    excerpt: "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19"
+    publishedDateTime: 2021-08-11T14:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 86
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period."
-    publishedDateTime: 2021-08-12T15:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+  - title: "Healthcare Artificial Intelligence Market 2021-2026 by trends, outlook & growth forecast"
+    excerpt: "Delaware, U.S. - The emergence of AI-enabled virtual assistant solutions across various domains has now enabled"
+    publishedDateTime: 2021-08-09T04:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-2021-2026-by-trends-outlook-growth-forecast-2021-08-09"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Mobile Robot Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
-    publishedDateTime: 2021-08-11T08:16:00Z
-    webUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    ampWebUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+  - title: "Artificial Intelligence in Retail Market Size 2021 Global Industry, Demand, Growth Analysis, Share, Revenue and Forecast 2027"
+    excerpt: "Aug 09, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence in Retail"
+    publishedDateTime: 2021-08-09T06:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-size-2021-global-industry-demand-growth-analysis-share-revenue-and-forecast-2027-2021-08-09"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Managed-Network-Services-Market-390x210.jpg"
-        width: 390
-        height: 210
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."
-    publishedDateTime: 2021-08-10T14:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
+  - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
+    excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
+    publishedDateTime: 2021-08-10T10:56:00Z
+    webUrl: "https://www.openpr.com/news/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    ampWebUrl: "https://www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350878/global-artificial-intelligence-and-advanced-machine-learning"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 43
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/14-9-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-08-11T16:36:00Z
-    webUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
-  - title: "Insights on the $770 Million Artificial Intelligence Services Global Market to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com"
-    excerpt: "The “Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence services market."
-    publishedDateTime: 2021-08-11T13:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-hacking-77bb4b14eb4443aebcc0c11dc64c2529"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/U/8/U810167263_g.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "W7ZT0LorZjlg9F0/oM34Uoon1ZjgRGaexY6YK9SX51Ud5HrVHcMeMEvK2Zze2yRD5mV86oeP2AsfHySImR5eohs3kS6lN4oCRsu4QhX+wK9kD9PhjYwDKenyXrjsiboxtiY3HIEoOM2vEsehyp9i6Xn61+DWzvljtandSIOxlLsgCAuxc2EeeO/e6CtpHZBxy50m14SUweS93epU9C5jjPBdmiHs1Rj48ZBbLzqsZBOPVYwz+ux6KkIdoFjRvkk73KJg45hElTGZZN6s38AOHLWHhEj+xCuj4ee9pckAm4AAid6aoTCz5927zObEnnrz10IKnweu/412s109XXUfFTuKPtY7O7+uen1cQvTZKdc=;1Via1pv9VL+NVfyXHaXYbw=="

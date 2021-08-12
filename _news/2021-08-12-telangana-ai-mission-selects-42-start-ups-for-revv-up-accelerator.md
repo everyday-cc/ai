@@ -90,22 +90,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Free New AI Tools Accelerate Functional Electronic Materials Discovery"
-    excerpt: "The work could allow scientists to accelerate the discovery of materials showing a metal-insulator transition. An interdisciplinary team of scientists from Northwestern Engineering and the Massachusetts Institute of Technology has used artificial intelligence (AI) techniques to build new,"
-    publishedDateTime: 2021-08-07T23:42:00Z
-    webUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/"
-    ampWebUrl: "https://scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/free-new-ai-tools-accelerate-functional-electronic-materials-discovery/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/New-AI-based-Tools-to-Accelerate-Functional-Electronic-Materials-Discovery-777x824.jpg"
-        width: 777
-        height: 824
-        isCached: true
 
 secured: "Mkq0vyK/7e8/l94lUSxEys7iHDNe8SeNeXXeQ9GP96haHdqsdOz3RN4ftMRUaSOmBUNoI2+Z9vUpcAKZNG+/b93Vx3fUmGimDlwyX90ckbJIzb2bgCZy0BMHOwtxgDq3qNa7g9erJXyrqrjWyhplgUNIsKPefB5TInX6i1jps/aMo/doEPL8HfeLgitvlLh1dE9LmFhyMMDkk7AvtqmTH1JfL4XH67LpjX4p6gY9aQ2E0drh5AY92cuGHCze3+ONdKwkeKLGymW5Ra0oZgNq+Lcf3KJMLODVPApIAoe+L+jJgm5KXGd4+N6sUaZMRHTAOiQ4gF+66zb4l8U/eg12ZvVuZIoqVuhosTByauExo/M=;M9LUepfBed/yNqQADK1OQg=="
 ---

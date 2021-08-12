@@ -1,0 +1,54 @@
+---
+category: news
+title: "Baidu to Bring New AI Experiences to Life at Baidu World 2021"
+excerpt: "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference on August 18, in partnership with CCTV News. Under the theme “For the era we love,"
+publishedDateTime: 2021-08-12T16:05:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-714007f8af8718b9555c6dd67a1e8ce5"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-714007f8af8718b9555c6dd67a1e8ce5"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "Baidu quarterly results top estimates on ad sales, AI demand"
+    excerpt: "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products."
+    publishedDateTime: 2021-08-12T14:08:00Z
+    webUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad-sales-rebound-2021-08-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SYUOENPIIFIELN3TTOKZ5B7OK4.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Baidu’s revenue grew by 20% in second quarter boosted by its AI business"
+    excerpt: "Baidu registered a net loss of US$90 million in the quarter, primarily due to marking down the value of its stake in Kuaishou, whose shares sank by 28%."
+    publishedDateTime: 2021-08-12T16:55:00Z
+    webUrl: "https://www.techinasia.com/search-giant-baidus-june-quarter-revenue-grew-20"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
+
+secured: "2etDL96223iyAEOhRDnAzMNo8dcy3UzLB/Bv6wNZn37dFFg4THF5Nzyvj7FYs8lK7vA8JloqhUCi7XiJErci4LINJYdS5VG0jqvNUzh0ennpOFKwkvffPNFKBGecoivrtJ2uAILqjoywR5R5eZSowyJnKnc6zp2BoZ8NgeM8Eg5QJNxewKTFWYY12rXarZai0FiuWZImrDXRMPwp4a0K2+2b/A2rRAgCjP1d743kDJGNS62hk42ryqd1dI+ImA3zORn1XWUQYAYsSG8SHtSMIdNnzWCX0GuIuvIampcmxrH2neqzh7pNuYkqBUWSIrPW7YBFsK0lMrB1zd9qgBYyuLtFNqZQO497rIocTAkvLRU=;xSCaCmFSRjsRd028dBkeDw=="
+---
+

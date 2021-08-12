@@ -74,22 +74,6 @@ related:
         width: 390
         height: 210
         isCached: true
-  - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-08-10T13:02:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 53
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Canola-meal-Protein-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
     excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-08-11T16:36:00Z

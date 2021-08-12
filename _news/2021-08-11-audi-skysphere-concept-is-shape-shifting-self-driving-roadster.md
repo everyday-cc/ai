@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "TAKE A LOOK | Audi's new prototype is a futuristic self-driving electric car that can change its shape"
+    excerpt: "The Skysphere concept car can expand by 25cm in its self-driving mode, giving passengers extra legroom while they watch movies, Audi said."
+    publishedDateTime: 2021-08-12T17:18:00Z
+    webUrl: "https://www.businessinsider.co.za/trending/audi-skysphere-concept-ev-electric-selfdriving-car-that-changes-shape-2021-8"
+    type: article
+    provider:
+      name: BusinessInsider
+      domain: businessinsider.co.za
+    quality: 8
+    images:
+      - url: "http://cdn.24.co.za/files/Cms/General/d/11466/8233b2acce2b4f8d82688dcfbe8daffe.jpg"
+        width: 1920
+        height: 836
+        isCached: true
 
 secured: "F2AzYjR25aWz8nOy50p+c2m1ovfgN1m6Y7zjyFo2X4mHttvILBj4jxtp1hDPh64UdmIKItEc+48ZI2QpYit5lUfCbv/vxyR6tSweT1vz1N6WEIzlDfzAkiiIW7wnJibk7xmh3XaC5KLBKlfxIII3LEYLCuJu+aLyJ3xnIWhYpL23y7tjcW+qgQ9rBJU1CWtIIEIDckmGdGhd3jPHUL5VIrt4rudr30aRPoE3pGwJNKT+Ly72RthW/obVbBui8nASo/95eaynmjNE6oGWqaPz9rggfwm7Bp3mlBR+vPdPpdRnuPB+0OX54SKvxdyu9N+uJLQAQIPw84qpaB8pRpEcSHf6O/yMIY2AvW84cGk72u5CQb+KbmtZFMTe7UH/MTOnpY5cLxyZB3t2OX5IoVwmesh8Ajm+qmeJO1Fk0gim2IOrDxlmKGewp1pRpOPyECxVO6gwAWLdniUkjCHkN8voCuPP1Jz+kQTtHVHSOKzyI9Rl5rbpVjiTmg8w6pj2FCDDBhesOuJ0G01UpTqu4C2RcA==;paaR6cSsu7bPYFXbUqGhaw=="
 ---

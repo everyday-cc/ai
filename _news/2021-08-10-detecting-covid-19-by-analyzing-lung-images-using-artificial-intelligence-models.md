@@ -56,6 +56,22 @@ related:
         width: 1969
         height: 1068
         isCached: true
+  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T00:31:00Z
+    webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+    type: article
+    provider:
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 44
+    images:
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
+        width: 660
+        height: 396
+        isCached: true
   - title: "Artificial Intelligence in Music is Creating More Creativity"
     excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."
     publishedDateTime: 2021-08-10T10:00:00Z
@@ -83,20 +99,6 @@ related:
       - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
         width: 600
         height: 315
-        isCached: true
-  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-    publishedDateTime: 2021-08-12T04:06:00Z
-    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 24
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628777041"
-        width: 600
-        height: 385
         isCached: true
   - title: "New Tech Could Help Self-Driving Cars Figure Out Where They Are Even Without GPS"
     excerpt: "It’s pretty clear already the future is all about electric vehicles and self-driving cars, so it’s not necessarily a surprise that more and more companies are trying to make sure they have a well-deserved place in this new side of the automotive industry using revolutionary ideas."
