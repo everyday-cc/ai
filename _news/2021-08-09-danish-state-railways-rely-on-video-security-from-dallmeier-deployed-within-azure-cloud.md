@@ -3,14 +3,12 @@ category: news
 title: "Danish State Railways rely on video security from Dallmeier, deployed within Azure cloud"
 excerpt: "Danish State Railways (“Danske Statsbaner”, DSB) operates the local passenger transport on nearly all the railway lines in Denmark. The scope of its responsibilities also includes"
 publishedDateTime: 2021-08-09T07:31:00Z
-originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-ampWebUrl: "https://www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
+originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
 type: article
-quality: 82
-heat: 82
-published: true
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: SourceSecurity
@@ -22,11 +20,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.sourcesecurity.com/img/news/612/Dallmeier-Dieter-920.jpg"
-    width: 612
-    height: 355
+  - url: "https://www.sourcesecurity.com/img/news/920/danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud-920x533.jpg"
+    width: 920
+    height: 533
     isCached: true
 
-secured: "RBnd8+f1oXGsuZza633O9+CZN/DLGBmG5krkQU+dHEw6fmTf2/3rEsivoHchxChGA6w/1goXHCFWFPpcoq2Ulz1P9PzydgUF+TH+mOKaMbCF5Irx/aNydNvvPdOuhiyrcVYMUyithLiZ6cWZOa+kNB5RE/aiWyWN+FGdM9mu+JHAPShQulqIJYmfo+er4I74snyNjwV0eBTQM0HiZhoJbOixITVzDZOjXmSj/I/PqkNnU24U1PfdYR2jJb07qwY86pLllJtxV0l9DqljGB0BFUibtzx2sAv/f50/Dk4YzHyC691oG+/MJqhu9gOVAoseHK0J4+W2s640SiWPmRSH58sqSsEHi40ny/o/OoUc8xk=;uJpw6ERcROdoRpny2Mlpmw=="
+secured: "OPdeenEEQfVFMxf1Mgq6PuwhTGxF5aev9zQlZLkeiHQytyJkiFWcO8GVIBlDGCd1T2OXYIHH+RICmQqFCQ11tLRM5lzaei7kqmF++X0YFr+50VCTIZWbuONAdy1kWkFRN0dWrNNuxyJ+5IVNrNCUxtogjArbqP3lSgUeqdOXfwXfUu+rRNDddu6K5IB1GNtnEwAaTCoGZJLRqE/ylZmP0ZbyF6hTHUaaLPF7ZaNmVg4v7fsfTmpChdRAgouQKsY2WWrya8VHnWvxIvMJrN1hL0RKeIpm+98gtiyACpXzqLJHUP4Sg5OhneVVtynfdCQuIzyf109auW8ewy9Ym+rqw64/U+NIg6CfcRN7BkgUBu8=;nENH4Aba4JlcWcxsgcAXDA=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Students develop new 'driverless' electric car using AI in India"
+    excerpt: "PUNE: A group of engineering students of a city-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
+    publishedDateTime: 2021-08-12T03:11:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/articleshow/85261357.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/amp_articleshow/85261357.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/amp_articleshow/85261357.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-609430,msid-85261413/ai-car_istock.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Driverless Cars Are Proving to Be Job Creators, At Least So Far"
     excerpt: "When self-driving car hype peaked a few years ago, so did fears of job destruction that would ensue as the technology took hold. One report published in 2017 forecast 4 million jobs could be lost with a rapid transition to autonomous vehicles,"
     publishedDateTime: 2021-08-10T10:43:00Z

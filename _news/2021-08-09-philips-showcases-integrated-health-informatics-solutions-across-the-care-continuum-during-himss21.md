@@ -41,6 +41,15 @@ related:
         width: 1440
         height: 500
         isCached: true
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Until recently, Ross Mitchell served as the inaugural AI Officer at the Moffitt Cancer Center in Tampa, Florida. Now he’s offering consulting expertise borne of a long career applying AI to healthcare and health systems."
+    publishedDateTime: 2021-08-10T05:02:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/08/10/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 33
 
 secured: "pnzAEHG/vEn50vdBcLkvcreAhsZwxbL41kV7HwVo+xRUcvj/PK8QAy1N9TGbNmm7t0ZqPuYQcRBRZR5ydU+w76vDs9blH00q0S5QdwhHDy2b8Q0Of/ff8DZjl9Vkui+RToE8ejz1a/n60ioZm5bgKgE36TaxqHgir6OxstxNef2DBC/t0T1DchLiJSMjwlQXO1x9hMvQaJzynw0AjOHvdb65zO6R5omRaKYEyBBhjIx37H03zcqwNT4G38/GV98wGJNFG5wz/VEn8Q+/AzuJdK2OEtpRVUmunQa3p7yVLCOVCNsl1kvT8H8/Bzk8pYBZa26q/DSd5IacML0h43rNH7Vwavbo+scjfNw9Ucl13bI=;69jC7C8zEH0TRJYXfYsTGA=="
 ---

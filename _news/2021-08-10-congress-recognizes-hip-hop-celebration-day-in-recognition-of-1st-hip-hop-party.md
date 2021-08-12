@@ -59,6 +59,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Japan firms to jointly develop facial recognition payment system"
+    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
+    publishedDateTime: 2021-08-12T01:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 39
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
+        width: 360
+        height: 360
+        isCached: true
   - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
     excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
     publishedDateTime: 2021-08-10T13:19:00Z

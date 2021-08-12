@@ -55,20 +55,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
-    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
-    publishedDateTime: 2021-08-07T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "ZIM readies AI solutions for its shipping operations"
     excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
     publishedDateTime: 2021-08-10T05:54:00Z

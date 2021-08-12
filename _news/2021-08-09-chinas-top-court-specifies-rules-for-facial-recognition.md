@@ -9,7 +9,7 @@ ampWebUrl: "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-
 cdnAmpWebUrl: "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
         width: 754
         height: 424
+        isCached: true
+  - title: "Japan firms to jointly develop facial recognition payment system"
+    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
+    publishedDateTime: 2021-08-12T01:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 39
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
+        width: 360
+        height: 360
         isCached: true
   - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
     excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."

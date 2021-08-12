@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
         width: 880
         height: 587
-        isCached: true
-  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
-    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
-    publishedDateTime: 2021-08-07T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Three Notable Applications of AI in Supreme Court"
     excerpt: "AI in Supreme Court can be used for legal purposes like AI techniques to read legal judgments, document automation, contract review, etc. But before adopting such technologies in the legal system all ethical issues must be addressed."

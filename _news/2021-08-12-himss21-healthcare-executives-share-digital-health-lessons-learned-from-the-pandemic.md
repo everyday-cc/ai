@@ -9,8 +9,8 @@ ampWebUrl: "https://healthtechmagazine.net/media/video/himss21-healthcare-execut
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic?amp"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: HealthTech
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
+    excerpt: "Until recently, Ross Mitchell served as the inaugural AI Officer at the Moffitt Cancer Center in Tampa, Florida. Now he’s offering consulting expertise borne of a long career applying AI to healthcare and health systems."
+    publishedDateTime: 2021-08-10T05:02:00Z
+    webUrl: "https://www.bio-itworld.com/news/2021/08/10/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 33
   - title: "Philips showcases integrated health informatics solutions across the care continuum during HIMSS21"
     excerpt: "With intelligent, secure, interoperable and collaborative solutions, Philips aims to illuminate a new path through the care continuum to address the quadruple aim New HealthSuite solutions for acute patient management,"
     publishedDateTime: 2021-08-09T13:02:00Z

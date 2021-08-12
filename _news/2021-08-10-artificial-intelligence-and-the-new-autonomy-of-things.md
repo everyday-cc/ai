@@ -96,6 +96,20 @@ related:
         width: 1920
         height: 1044
         isCached: true
+  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-12T01:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1628733583_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "/sgqmMyJ9aJTD/GVoJhFrhH7Zah0WpRMPmLJ0U/YZMdIxgTBqjGfSRk72ACZbGmnNZvx/J+71sGugPld62n6jcxD+8gn8cpNvVV/5K2isFcoMp6yDnfHfaFOb9FRSBmUHkajJKIrx75og5cEpeLjR+3HBQGRt479aUEuA7z5WYv7wOXiIAOnPVeOefiUFmDk5oQm4CFo0gKOXqnZ30PURutAUdMOCz25qKamKn9pSA87+LFsXODU9/6CLaC3t56Ngtni1yeYJcoeELgTaLnyPViWn56uW2cVSzN/f0cQd7pv9H0qydskC7jBr6mvunhLnMDgQywI+XyBbbyd1u6hqMWo9vJEmvvO8+D24UBvXdihf0BCok3rGBVUeo95LvUz72Ks1nEvCfcPHKPz+gFM+bMywPD7mYVQeIHXqxn7qSyZmxuAQb8igibGjDT5aYtxaOC5SIOjPVZyXKQEW6HNVf+bBGbcG1Xe7sySgQviviR5rvblLzKZbwMse7FPYhSqp4hN+EEjll9yPraHyOeM7w==;+2LkL/lHFvkZ/RvMZeOiJw=="
 ---

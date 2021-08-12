@@ -73,6 +73,20 @@ related:
         width: 754
         height: 424
         isCached: true
+  - title: "Japan firms to jointly develop facial recognition payment system"
+    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
+    publishedDateTime: 2021-08-12T01:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 39
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Journalism Alumna Wins National Recognition for Research on Algorithms"
     excerpt: "Kendal Heavner, a new graduate from the Journalism master's program, has won national recognition for her master's thesis research on news algorithms, political speech and social media. Heavner on Aug."
     publishedDateTime: 2021-08-10T05:09:00Z

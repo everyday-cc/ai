@@ -57,6 +57,22 @@ related:
         width: 1969
         height: 1068
         isCached: true
+  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T00:31:00Z
+    webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+    type: article
+    provider:
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 44
+    images:
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
+        width: 660
+        height: 396
+        isCached: true
   - title: "Artificial Intelligence in Music is Creating More Creativity"
     excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."
     publishedDateTime: 2021-08-10T10:00:00Z
@@ -70,20 +86,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-3.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Self-driving car startup Pony.ai scraps listing plans amid China crackdown"
-    excerpt: "Chinese self-driving car technology startup Pony.ai is reported to have scrapped plans to go public in the U.S. as the Chinese government continues to crack down and regulate various sectors of the country’s economy."
-    publishedDateTime: 2021-08-12T01:33:00Z
-    webUrl: "https://siliconangle.com/2021/08/11/self-driving-car-startup-pony-ai-scraps-listing-plans-amid-china-crackdown/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
-        width: 825
-        height: 638
         isCached: true
   - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
     excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."

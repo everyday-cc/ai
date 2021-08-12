@@ -2,26 +2,33 @@
 category: news
 title: "Oracle accelerates MySQL HeatWave queries with machine learning"
 excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
-publishedDateTime: 2021-08-11T02:48:00Z
-originalUrl: "https://www.arnnet.com.au/article/690433/oracle-accelerates-mysql-heatwave-queries-machine-learning/"
-webUrl: "https://www.arnnet.com.au/article/690433/oracle-accelerates-mysql-heatwave-queries-machine-learning/"
+publishedDateTime: 2021-08-10T19:18:00Z
+originalUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
+webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
+ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 91
+heat: 131
+published: true
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/oracle_dreamstime.jpg"
-    width: 800
-    height: 500
+  - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -88,6 +95,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "s2JxRjVbsUh9i6knw8qMWhabqKYIKEFgQZDIQHiEQMw8BuqDhDolltRCQEUF6WrxAIi49pPGT3AwUb928JkBurNdP77PFyDGk7k/+Lng8nf/Q6wlF1OYSfou+VF3AlVjyhMEyTDsTRYYeYXLhuLI0yZutDMM1+VwTZa9Rk4S8G7TfUadANHH3zxRJtSBOSaTMPiySQhft0Pm6avsFgnHTz89lKLBo0gj3kjtdoGHDHl5vjEr5zZLjvBK1PNjoEn5cUc84e8XOL1ueVFp3wE9RrmqijMN4GPRERYksJ+YLJNuLQZ4OXA6xYPDKmZ0vWc9RhWso3NgHMkmFO8itJrNsA1aBXchCLwitmJC9Onz9zI=;78NuvPxgXAfu77uJbXmuJg=="
+secured: "0+MfnBjkt5oYKgw0t1hkoyxJc+UtxqOG9iehJ09EpZBec8Iawviv34XSl2zjTylGSBNG+j8RILVdZajbAF9aBVJHmjAjBCBWhaporHXz2qRFEIVPPVxbyQuMQkF82BftipLFm9asNz3lXtLhy0gYPyMC6kX90gpqBFFpGoAjq595Te4qJuViySW+Wa9um8NAAlODhd8XDDvpEdjICdnZ1aqCsF4JGClg3rfGt0CGbSWO8mSi5WtIxQNlYbO2Qq4s2eDNIaYpaxAzppx7f6IqCZSEkDYKUiBiBeiKZ8e7k4BzkLnm1igxZcdkLhETgoLG6O/kbcnxylJCU3FFpIlSu0vw9scyL+BpHFzoGVzA3sc=;j25mIEkryb3eFjq3eqsRVA=="
 ---
 

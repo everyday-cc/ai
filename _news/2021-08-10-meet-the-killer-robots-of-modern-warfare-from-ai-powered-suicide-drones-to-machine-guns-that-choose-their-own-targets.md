@@ -43,6 +43,17 @@ related:
         width: 360
         height: 203
         isCached: true
+  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
+    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
+    publishedDateTime: 2021-08-12T02:12:00Z
+    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 25
 
 secured: "07MpsgsLodxh/4DuS9FBn2sNPfWKtDMgGkHlwgnJWMQvaW24faMigQNTt05CkFNbDzr1F1pVCPxXCCyB+QWXE6NoKGh6xp2ixsxBUKHNKVE7B6Ilif0QLEdulkH1Hk28f8VX20uB94SwMPcSD3YBUD2+QJKJj368BUsjLwdPq5fXhbFc1e1BzBlSRkbIbJIe56hhZVPA5Q5j9hP9Um7QbKTPNrSLTiMwb3jjPQlUzrDGmGaRdBnJ1te9qfAmLyJ5ucjnr0uI3GAAB2Sktn2hPuAOqgm1a90HfsipaTOBeK2+0xLGJhkNCNCiIpJ6+gKyOM82HFWKEHwrSDBlp8+BvwqPSKUWCxCMOXDO97W4jOWqLpPd+4nLgW5OsTjfSIywO9BlzRp2WYtWz+4qmBGNMlowkYSXDpuzelPvjJOmSnYdEJWRrnPo90gWaEgRLgdAg3gJkRRFkD1nlNT3Wq3adqlu4gWRyAhVgSdAdW99AAGOSW+5OkBlbsD38ZSNl8ThJLpx9GTIV/a97pGUMLfpyQ==;m8jG2hR1X9LoMNZwuwRuIw=="
 ---

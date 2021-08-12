@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/08/3-ai-stocks-to-buy-and-hold-for-the-next-decade/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920
         height: 1044
+        isCached: true
+  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-12T01:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1628733583_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "MfrnRSkbpU5PcK38D2+igTX6nVQCO9kg7WRkyRqqv9DIIB4FcXEIGRcnBaGsoBv192/QBvq2Be6iTFkRfqz53IKTMC1XAnHZWTpvGZRuXXuu0qdsb4RFhHkiOfMAVYHW9U2aTvWLWatW0Ej6y7t0n/HsRUp4KdfgUnsMnlA8ydolVIVV7LXN5uT5G1eQUiKSsfGqzAENC5vh/MXRuqWF+FkjGy+pG6VGQbAn8bKlmHOntVTnyGbb2W2dxdg2Kd2Ko4YtAKOUjyy54rAPLPbAqDd0zQvKT76+qRiccywZf/n7YZx5b9iS2HWq18xu9121tzJQC89cskCtemyyap0qxjqxQ64VImkk2izrUrg7Vls=;crHnEmELnxzKh5+utIB9KQ=="

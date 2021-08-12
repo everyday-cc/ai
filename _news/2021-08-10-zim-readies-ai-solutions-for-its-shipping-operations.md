@@ -54,20 +54,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Interesting Artificial Intelligence Trends to Look Out For in 2021"
-    excerpt: "Artificial Intelligence is the hottest term in the tech-driven world with multiple Artificial Intelligence trends. This article features some of the interesting Artificial Intelligence trends in 2021 with the help of machine learning algorithms in AI models."
-    publishedDateTime: 2021-08-07T10:30:00Z
-    webUrl: "https://www.analyticsinsight.net/interesting-artificial-intelligence-trends-to-look-out-for-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Interesting-Artificial-Intelligence-Trends-to-Look-Out-For-in-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Three Notable Applications of AI in Supreme Court"
     excerpt: "AI in Supreme Court can be used for legal purposes like AI techniques to read legal judgments, document automation, contract review, etc. But before adopting such technologies in the legal system all ethical issues must be addressed."
     publishedDateTime: 2021-08-08T11:30:00Z

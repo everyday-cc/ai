@@ -239,6 +239,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-11-terminator-terror-meet-the-killer-robots-of-modern-warfare.md",
+      "title": "Terminator Terror. Meet the ‘killer robots’ of modern warfare",
+      "excerpt": "Awful vision of the future' While some see developing AI-based weapons as a necessary step for a modern military, some critics are deeply concerned by the technology. AI is already used in lots of beneficial ways,",
+      "sourceUrl": null,
+      "webUrl": "https://vestnikkavkaza.net/material/144222",
+      "originalUrl": "https://vestnikkavkaza.net/material/144222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vestnikkavkaza.net/upload2/fnorm/2021-08-11/162867108361138c6b7f5318.27006421.jpg",
+          "width": 360,
+          "height": 203,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vestnikkavkaza.net/amp/144222",
+      "cdnAmpWebUrl": "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222",
+      "publishedDateTime": "2021-08-11T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vestnik Kavkaza",
+        "domain": "vestnikkavkaza.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-the-best-robot-vacuums-for-hardwood-floors.md",
       "title": "The best robot vacuums for hardwood floors",
       "excerpt": "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood.",
@@ -480,7 +523,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1348,49 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-a-parasite-is-turning-cicadas-into-mind-controlled-sex-zombies.md",
-      "title": "A parasite is turning cicadas into mind-controlled ‘sex zombies’",
-      "excerpt": "Don't Miss: Today’s top deals: Exclusive deals for Prime members only, $6 car detailing tool, $200 off MacBook Pro, $73 robot vacuum, more The actions of the fungus are like something straight ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "originalUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2020/07/c809caf4-b90c-4bc9-88b3-461a0e29bf8d.jpg?quality=70&strip=all",
-          "width": 826,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
-      "publishedDateTime": "2021-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
