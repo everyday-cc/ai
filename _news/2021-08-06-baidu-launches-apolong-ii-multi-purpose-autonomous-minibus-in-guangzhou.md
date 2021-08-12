@@ -2,25 +2,25 @@
 category: news
 title: "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou"
 excerpt: "The Apolong II utilizes Baidu's vehicle-to-everything (V2X ... Foshan and more – the first-generation Apolong is the only self-driving minibus to achieve large-scale operations in China ..."
-publishedDateTime: 2021-08-06T09:58:00Z
-originalUrl: "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou"
-webUrl: "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou"
+publishedDateTime: 2021-08-06T10:03:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-08/06/PN_5198bimage_story.jpg"
+  - url: "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg"
     width: 400
     height: 267
     isCached: true
 
-secured: "1keMAk2sNZp4wGSA1JJAzsenGKluL+LnRGHMhE0XebehowFkj4Iyk3QIXxZnTWcCENkEnsSHACuVjOfWOc3ZitQrxRmvOZsuJOJMQQMHLoCCpoXYaCMuk41G8v/DZXp7ouL5NwaI1ZjFbfSOVE6xdAwa6rMSUwSbRL3xG0VSQFdpKmYBXXl9mbfLjJbV2sCE6NakBnIHnaxyXSPQ9JBEoiJe6/2oAkaPQweYctIVsdR0TcfaOGi//mvK6WuM4W/dDguTFqws/6zwmm23d6o9mJOYG4Y6C3OK6I4niTnSX+KdocnGHWLz+3P+IIYMF9FeOz2WlWKms4rjX6M+MxmT/bfl8CafVGIrEgXzBY5bSco=;AXq32XNjykkyWGsRQSOSjQ=="
+secured: "T2HNq8OSW1/ZeYn+mTxiSpdUjDqCIAcA3u89XCdZflKdn4pNSEZH6V2HsjcEJH8dIUrRSyMGvIKgAjz/qNL1lvjPHcf4rLWAyztpW+4oy3/hYSdZYipbOkxE2Hxu/Wj5oIZfSiPSPBCMNYvyPgJRzbDQ3vibtpvJgUSycrYB724y0UTm9K5QvRoCt8+BOGayVXi8LnEpRtqqTo2JnGprmZf65l2u4OYQTd2de03pyrobaOGkEo4T8uoTvjGNI8frMIlieZ3n6sEsXHKbRvvLi6xRhjrXGmQ5vmzZrxF4/AArxEX3uegiFcWwz+E77g/VDwx+uBx/gePLKYFwFebnrDCmTuJjZbmdKYKZjhFucXY=;BRgRwWH9rvpUlhXTdOTIBA=="
 ---
 

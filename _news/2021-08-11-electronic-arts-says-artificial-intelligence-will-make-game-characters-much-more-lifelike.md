@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/electronic-arts-says-artificial
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

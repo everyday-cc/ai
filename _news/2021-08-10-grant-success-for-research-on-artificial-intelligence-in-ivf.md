@@ -23,22 +23,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Pull US AI Research Out of China"
-    excerpt: "International scientific collaboration is a great thing, but not when it is fueling a despotic superpower’s oppression at home and belligerence abroad."
-    publishedDateTime: 2021-08-10T11:00:00Z
-    webUrl: "https://www.defenseone.com/ideas/2021/08/pull-us-ai-research-out-china/184359/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/08/06/GettyImages_1169749687/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "Is3duj7dykGBAUzibx28Mf1L2xBaY8RV5/Y+APGzMTf4a6pAtqHhbuKq2vXE/Z7ty6U5+IGlTVLOdenxuaWn7cCt6CQEUS+TR34TMFmxNuctdIdbllKbv2ijoJ2H0QBV9C7PHl4nG6mHUYk6Ph1vy/y8yEl+B8UCEyIxEmfRX5prrvVYlYC8Zf5+a1YtvSVDNS3hkLH3RkqpVowYeroyUliOsbWgxTbeQF4igh2hChGpfF6JBinWUdcQKZGlM15cl8eLA188ew+CIQHXtF9ImfzEu3HeRQIMt+MdAvJxU+NheR1n6OQd5vqaEkbjZW6VLH+UmE4A0DvxKCU1mNUAbxNGt8aDmwx4LfTHDEswc2s=;9USYEG8qAFdimuFzOGRylw=="
 ---
 

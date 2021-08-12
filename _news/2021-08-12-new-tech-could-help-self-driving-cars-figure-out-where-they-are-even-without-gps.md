@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide"
+    excerpt: "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,"
+    publishedDateTime: 2021-08-12T20:18:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How ADAS is altering the course of the self-driving dream"
     excerpt: "Some predictions about self-driving technology have not come to pass. Instead, autonomous shuttles and trucks are here – and HERE360 went for a ride."
     publishedDateTime: 2021-08-11T12:50:00Z
@@ -56,22 +70,6 @@ related:
       - url: "https://360.here.com/hs-fs/hubfs/Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg?width=1969&name=Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg"
         width: 1969
         height: 1068
-        isCached: true
-  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-    publishedDateTime: 2021-08-12T00:31:00Z
-    webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-    ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-    type: article
-    provider:
-      name: VietnamPlus
-      domain: vietnamplus.vn
-    quality: 44
-    images:
-      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
-        width: 660
-        height: 396
         isCached: true
   - title: "Artificial Intelligence in Music is Creating More Creativity"
     excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."
@@ -114,6 +112,20 @@ related:
       - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
         width: 600
         height: 315
+        isCached: true
+  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T04:06:00Z
+    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628805684"
+        width: 600
+        height: 385
         isCached: true
 
 secured: "MjCZ4yaS1lPFHMbt67zS90l177xSTnehAbu1DKF+gtmbciMukjiZI8sD8xuevtIHeT8hbM+QoVNjlVRgP5WRGonug5PbOT4idRIwjS/6d4c8fBwGHB3jkgdl4+KwhObH5b5x88ux0rDx8QtxgAjZHADHqKvrGlhGsCruMgq8gUXHiGa75Y9M8stRdJV6hn8U9IYimVl7IaHdKGzY8M9cE90nhV4xCsNMHJJ47X0rPtULDFVNgNJUlw9Z/VbpH22R3XnJgmUzitLYthf/ra7ZkFoSUOK4hQ+gRb1itAvyj0cG9XaLa3XNuYUgU/3MDP+uA3BBVHcCSkaQUcFl8/dn96YJnEpdWACfOdP2lOc/C9WbPPKDUt0RkhlN79WXnMhY1Kt+I8CsZrYpeYMhFWmbKuqtlhLu5hq7/RxVLu/tCOu08tz4fvYUacFsvNF39FBufp6glfm7sfL9hncBsRNiH5R1C5Sr+TpbQ8wh3jp7Q7n5n5B8fidSvXO+OlXlrW4Uk16ssRKKikTfBWvKUQ1tgA==;ttd3sE3fc7GSqUz8FUhQ9Q=="

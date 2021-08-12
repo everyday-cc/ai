@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-12-microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software.md",
+      "title": "Microsoft acquires Israeli startup Peer5 to improve video streaming software",
+      "excerpt": "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
+      "originalUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 256,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2020/03/063_1207074418-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
+      "publishedDateTime": "2021-08-11T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-cambridge-scientists-say-new-ai-tool-could-diagnose-dementia-from-a-single-brain-scan.md",
+      "title": "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan",
+      "excerpt": "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
+      "originalUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-1-4.jpg&signature=243543456642555e7ebed5e37fe997b9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
       "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
       "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
@@ -752,7 +846,7 @@
       "originalUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -907,7 +1001,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1148,110 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-openai-launches-codex-an-api-for-translating-natural-language-into-code.md",
-      "title": "OpenAI launches Codex, an API for translating natural language into code",
-      "excerpt": "OpenAI today launched Codex, an AI model available through an API that can translate natural language commands into app code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/",
-      "originalUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/",
-      "publishedDateTime": "2021-08-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-first-look-at-teslas-new-vision-based-autopark-feature.md",
-      "title": "First look at Tesla’s new vision-based Autopark feature",
-      "excerpt": "Tesla has started updating its Autopark feature with its new Tesla Vision computer vision system, which now powers Autopilot and its Full Self-Driving Beta. Like many other premium (and even non-premium) vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
-      "originalUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Autopark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
-      "publishedDateTime": "2021-08-10T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

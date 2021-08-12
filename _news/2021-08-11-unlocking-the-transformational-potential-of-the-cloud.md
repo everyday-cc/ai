@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI plays key role in national digital transformation"
-    excerpt: "Artificial intelligence (AI) has become one of the key technologies serving the national digital transformation process, which involves in all stages from data digitalisation, professional activities to operational model transforming in Vietnam."
-    publishedDateTime: 2021-08-08T04:29:00Z
-    webUrl: "https://vietnam.vnanet.vn/english/ai-plays-key-role-in-national-digital-transformation/494186.html"
-    type: article
-    provider:
-      name: vnanet.vn
-      domain: vnanet.vn
-    quality: 17
   - title: "Digital Health Start-Up CareHive Unveils Transformative Platform to Curb Healthcare Costs"
     excerpt: "Digital health start-up, CareHive, is using its artificial intelligence-powered, digital health platform to improve patient care and reduce costs."
     publishedDateTime: 2021-08-10T10:35:00Z

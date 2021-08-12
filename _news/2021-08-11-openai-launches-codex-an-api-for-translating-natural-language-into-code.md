@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI can translate English into code with its new machine learning software Codex"
+    excerpt: "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ..."
+    publishedDateTime: 2021-08-11T10:57:00Z
+    webUrl: "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 115
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/O4KwUbyNYY8vEUK3ThvDskcE3RI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69705204/acastro_181017_1777_brain_ai_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "AI21 Labs trains a massive language model to rival OpenAI’s GPT-3"
     excerpt: "AI21 Labs, a Tel Aviv, Israel-based startup, has trained a massive English-language model it claims is superior to GPT-3 in some ways."
     publishedDateTime: 2021-08-11T12:00:00Z
@@ -45,6 +61,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "OpenAI offers API for GitHub Copilot AI model"
+    excerpt: "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language."
+    publishedDateTime: 2021-08-12T19:20:00Z
+    webUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html"
+    ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "OpenAI upgrades its natural language AI coder Codex and kicks off private beta"
     excerpt: "OpenAI has already made some big changes to Codex, the AI-powered coding assistant the company announced last month. The system now accepts commands in plain English and outputs live, working code, letting someone build a game or web app without so much as naming a variable."

@@ -2,21 +2,27 @@
 category: news
 title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
 excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,"
-publishedDateTime: 2021-08-09T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud/"
-webUrl: "https://www.financialbuzz.com/facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud/"
+publishedDateTime: 2021-08-09T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Facteus Joins Snowflake Partner Network to Help Financial Services Providers Safely Migrate Sensitive Data to Snowflake Data Cloud"
@@ -45,6 +51,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "liZDg4joeF2+3aL06FGHo34BMEhf5BKy/0eezHhsL7tMvFAbnjVzoqtwUJxA7/502EcjjdhYcOaSvVPY1V2KISxjQT9q2PM5sqU3FEc5lKrw9WYmjgf+0LvpVKGjVhHj9anjnecGTOBmUPFHjp5TUwj74wKKQAhLv/UNrjD2X4EVmoU5vCpRi+f15AfUjX1cKVE3WiSfgHucO8OrjNQCFukNo75eziZ94BRunppiwO0BWiWveNYjk1eoaEUIyVWFh+dTJM/LDBRQP+w4n0SExU8TIc6p13iwbyS2StWnD1jcIbRLrNTF8qwufdkYBEGPBT3NuLb9UFOGI7pG14e8awjNlQ5xOi/x0crG4USAlqc=;YVCO+0zrh2xQtA4RcCTfCA=="
+secured: "2NCNQSD7V/fCjh+SGUdnZNYNRhDMvA+VmCUraCO/KwcEWrm3DDWMKTn1skeIHzU4QiXQI4RjdejwBN41ElGNxnb1XT94DxjdTuAC5NVVHaP9vkrBOAiiveckzn3kZkrq6jo/7MpKV3sQ51O/bO930LCy/JLsMDpOBYj+1Y63Zi3l9nWNSshTty0HxyAZ/JDGggZqCmbANNCjwkGPjGHu2MsvuX6B8MeGOH7yiW3Re92d8XcCSRvxqlTCPtl5U7gcxnpba5c859Gu35rvzIxHQrdQAcXAX+RGJ2SuBwFN4LBIH/8f3ACo1pC6UN6YlskwZWWzrYgKknuLNYlAcx3Ob/21aLAJTpp2K9R5Wbzt0pQ=;+qX5M2KojoxKI4NtecW3Kw=="
 ---
 

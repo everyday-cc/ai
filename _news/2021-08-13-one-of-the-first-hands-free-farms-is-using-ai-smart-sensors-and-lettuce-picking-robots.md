@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/farming-agriculture-robotics-artificial
 ampWebUrl: "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp"
 type: article
-quality: 77
-heat: 77
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/611561dd3dd01000199d6892?width=750&format=jpeg&auto=webp"
@@ -29,6 +30,6 @@ images:
     height: 563
     isCached: true
 
-secured: "REJE1crOAqLvh87BKo3adniDGCEzTmCoBDRIB7mqTIBr9yFsU7s9yk9yJwWR3PpsscUxVAj8twj4fPd3//ksJ0WBP2Ivj5CwOlW+75I6z9upnjEh28Y4vqf0oZTEzzrFIlYxfslhjNd7o/y01sUYFMXFid00AYkePKrPD1UeD580wSeCQf9uC4NVUXNb3+zoDpKs+AuY+S4XlhbQJElmgTwBC6/YbuyKP5RegUdgIskn8NSLsFhQHi2yrP6y406+TdBC9eqhW45KTGashqTayAFdu0pwUHU0vG/cP1T19p4GIopGSbaF4K1zLpkUHt9BQ6oKvlFOdIFJtot+WtvSuPa6643BAy7nWRBDuKjmHhU=;GmsOxyPgrNg2ycZXI3JSsw=="
+secured: "UUhXcmfepuPu/zlllNIDePhU2/W8updrVKMc5QIbvmC7HyARtnrd46sjafNW/LE/lhXdFCgoQm+6X9yYklZNqvGHE/smqOzju14tNJI6dnhgyNAj7B0oud3NEReNiiYGnii7h1gFdX6AOG5z7exlD7ngZHsi/KKeUBKNGZxzsowgop7LayxPYGcPTEGg9Poq+6eUXOpBuSVz+PJY1c5kTCzdVqXfHLrVMKAt/oXSoaY79F3097TEgs8aLlouL/ApurJ1eEeJIBYS0ZXSCejIFviMo2CbCvK803NOh20Y3HQKMD4tGM7wl0p6KJH5zcCIS88P72EVqm8L0CsD6Dy9mGMu+vlKaLJddUnm1+7k1nPgVWN/FJ8BuMvo/94vctS+tL7vl00FW5fzJEBSnaLa8l6BVIiofO0d2bvvhoQ6B5cQa83eEysjZcSlttplqAGvjtPMjHr8dGXF2//QDRJ2sT7/1rbeEWVpCOQ9uAoJTwH8UQS9OoBwhJKcmUqOP3hO9MIl9qwf2JAcBQOJ6J8yJQ==;ALnJxEKpvkj2NyAZ+V4njA=="
 ---
 

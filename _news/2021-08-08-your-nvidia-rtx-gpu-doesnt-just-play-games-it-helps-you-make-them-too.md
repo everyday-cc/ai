@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-p
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
 type: article
 quality: 88
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg"
         width: 1420
         height: 946
+        isCached: true
+  - title: "Why Nvidia Is Much More Than Just A Chip Stock"
+    excerpt: "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,"
+    publishedDateTime: 2021-08-12T21:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg"
+        width: 2000
+        height: 1260
         isCached: true
   - title: "Nvidia RTX A2000 desktop GPU launches for SFF workstations"
     excerpt: "Compatible with SFF workstations and costing $450 Nvidia hopes its Nvidia RTX A2000 desktop GPU will bring ray tracing to the masses."

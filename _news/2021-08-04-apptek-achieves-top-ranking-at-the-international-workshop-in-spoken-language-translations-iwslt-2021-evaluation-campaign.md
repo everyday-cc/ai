@@ -1,24 +1,20 @@
 ---
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
-excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ..."
-publishedDateTime: 2021-08-04T12:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337"
+excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
+publishedDateTime: 2021-08-04T12:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "3lToXwuIDI1kAQ8X0vsoKx54mzVVEzL3Twv67KpSvFgDW1MAoaKcFWqwm9mkH5w/gwhwOcyYHytGDykypFNZjVSs4UFIQ5kP4JetVNf49UfxK4fdcXwmnx+jLLxk2QEs9hzZNZAneZmqPRb4DKWiZEggPKembpkIICckGauo4Y17aq4KSzILEeAjfV6puVvv6mF/FR5ma3CwJXh5ujYZ/MFinS1BKHu1GQFMQf9uEi/mH+5v+WO+y8wrnFdJwr5jJVpratdJGc8Uy787otc1b5Xslykvkmp7QOlaw5i4TnbUqqaMNuuXW1joZoyWoiqTLQMU5IHyul3/13M10WZa9Ei1Qwe/YxJhGa8yPY04o+0=;l8Ahgo8vM7nc9fdJSiSK4Q=="
+secured: "iP+2dCkQtu4WDtY11997sfVGsG7mAw9M8NqVDDKoW08MN8kv1Cj4QO17dgInV7vXW5RDXr2NZduP6V6acFKFdbZW9gPPTSWccjM6Bv6BS8erdn56zB8dYZZ8W35Mr/QJThkX6+wvJlqx/lkaqlaEd4sWUDHjj+KcMdSFVZtFSPRku9t616iTVoMv62VtzMot+EpIiG3LJfMUT9tiVchBMTY/EomU+a4JmsTIs0v76RBT0tmppj25HI9mQ8rM55OGibz7/KMJbFnJipXpfR9EoDx+OHCwQGzo1NSMp0MOt+doUEJ3VwY8laXgrkscAHKeXDnLW0OSh8qR1snXW1oV9G5Arnc9LemIKpxJTAHBJzg=;McV9kG8fmnGuZ34tfVYg9w=="
 ---
 

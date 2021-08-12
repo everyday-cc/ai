@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/south-africa-awards-ai-invent
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first"
 type: article
 quality: 157
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 800
         height: 665
         isCached: true
+  - title: "York University leads team that uses artificial intelligence to fight COVID-19 in Africa"
+    excerpt: "A collaboration led by York University is using artificial intelligence and big data to fight the spread of COVID-19 in Africa."
+    publishedDateTime: 2021-08-12T14:11:00Z
+    webUrl: "https://www.toronto.com/news-story/10454534-york-university-leads-team-that-uses-artificial-intelligence-to-fight-covid-19-in-africa/"
+    type: article
+    provider:
+      name: toronto.com
+      domain: toronto.com
+    quality: 10
 
 secured: "cYPJkF2FrBVXlN4QQVzZ6bjxlUmIzyyUBHu2ShAf/wCo5h47twWJBUMNuti6VGErjhLdHeCGt6IKa4tPZNJqQPzxg8ghZOq4O1ez0G1WP8PLTlE/KEsBeeGuHbeuSNWUMs3If7g0HvQnmF3xV1pTnRAz4FBRqGcBGiPh1YRxLSxXmpxkCGdmaHrC8Z6y/jZGGq81H+NCrdVLNtClb402X0VUDLHv6pbZVbk27i2RVbcvo1iXbITvxUBM6JMleV81X6giCq7trWthO8LU8snlNtuwoyDtP1UAA6J8Z8RfW0Wkjv/M0yYLaGp9bIKdiHqdIF0cmbbKFf6Om+yKlqPMGdVskjai2IAUvpvCAWmrQjQA6Q6J8flCDJKXPC8Hn31P;i4CXsWgsI+GXkhrVNsXUDA=="
 ---

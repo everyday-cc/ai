@@ -121,6 +121,15 @@ related:
         width: 800
         height: 665
         isCached: true
+  - title: "York University leads team that uses artificial intelligence to fight COVID-19 in Africa"
+    excerpt: "A collaboration led by York University is using artificial intelligence and big data to fight the spread of COVID-19 in Africa."
+    publishedDateTime: 2021-08-12T14:11:00Z
+    webUrl: "https://www.toronto.com/news-story/10454534-york-university-leads-team-that-uses-artificial-intelligence-to-fight-covid-19-in-africa/"
+    type: article
+    provider:
+      name: toronto.com
+      domain: toronto.com
+    quality: 10
 
 secured: "NBsJrOU2Uqk/KHvLJ6cETvu85pM0Y+AnEBU45ISygpcV3O6t95t4WQzoaHL1fQShm4qTNk+cTT04hEOjQ5kBJ6WC6U99XtsG+CPp8S8A5TQsr0ZtYeopy26Ld8tjci5K/15R5w/B2DkhkUiwkbnIU+OBWqbcMlYbuXdPSjZdR7/1HOOB0eoM0MRT8Xneb8/9mkn2UZEVr8GYvdLc2yYlkjj6choMMsnTURBXUnVhFLFHP2WnW8FAndfvWzu6b4PBDc6+JHYoycbtsSPrcA2Fwc0GQIqQGBpiGB9NDN8/oa1vWkUyu4yhuos5+9bcaW0Zuoya5Ur13eEdBN1IClHC03TltwXmh/CRWcoMGmI7LoczfUzD9OtZe8QTjWYLy9sf/NKAImJGBb+Lj6KUa+nDJMmO5x0t5/z6RxEt2BUWiwTUpcThutOjPTSKjZkbyfDO/NIzXeVJ5ljGmBjsfWoAclQnXtKO8u92CHaATm3nY/UqGt6lHKy6tHAnM3q17fpjSVM4DJrNcnxFHJ/KmahFUw==;kb9my9b/8LFGOLUiikx1+Q=="
 ---

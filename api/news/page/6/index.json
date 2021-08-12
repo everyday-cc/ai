@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-07-ai-wrote-better-phishing-emails-than-humans-in-a-recent-test.md",
+      "title": "AI Wrote Better Phishing Emails Than Humans in a Recent Test",
+      "excerpt": "This time, it's phishing emails. In a small study, researchers found that they could use the deep learning language model GPT-3, along with other AI-as-a-service platforms, to significantly lower the barrier to entry for crafting spearphishing campaigns at a massive scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "originalUrl": "https://www.wired.com/story/ai-phishing-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/610d82e6d901275be20b8455/master/pass/sec_email_GettyImages-1157081287.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-phishing-emails/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-phishing-emails/amp",
+      "publishedDateTime": "2021-08-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-pilot-on-the-ai-driven-financial-back-office.md",
+      "title": "Pilot on the AI-driven ‘financial back office’",
+      "excerpt": "Winner of the AI in Business Applications category, Pilot complements its financial expertise with supervised machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-593344-e1628104244395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/pilot-on-the-ai-driven-financial-back-office/amp/",
+      "publishedDateTime": "2021-08-06T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
       "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
@@ -930,6 +1032,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
+      "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
+      "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-cango-auto-view-developing-auto-intelligence-amid-a-worldwide-industry-shift-toward-autonomous-driving.md",
       "title": "CANGO Auto View: Developing Auto Intelligence Amid a Worldwide Industry Shift Toward Autonomous Driving",
       "excerpt": "On May 8, 2012, the Nevada Department of Motor Vehicles issued the first ever self-driving car license to Google's self-driving car, which was a modified version of Toyota Prius hybrid.",
@@ -968,15 +1114,15 @@
       "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
       "excerpt": "The Apolong II utilizes Baidu's vehicle-to-everything (V2X ... Foshan and more – the first-generation Apolong is the only self-driving minibus to achieve large-scale operations in China ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou",
-      "originalUrl": "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210806cn67478/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/updates/pr/2021-08/06/PN_5198bimage_story.jpg",
+          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg",
           "width": 400,
           "height": 267,
           "title": null,
@@ -988,11 +1134,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:58:00-07:00",
+      "publishedDateTime": "2021-08-06T03:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1047,152 +1193,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-dubai-to-host-intl-conference-on-automation-and-robotics-in-construction.md",
-      "title": "Dubai to Host Int'l Conference on Automation and Robotics in Construction",
-      "excerpt": "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction",
-      "sourceUrl": null,
-      "webUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
-      "originalUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News",
-        "domain": "ftnnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
-      "title": "Google is developing a new superintelligent AI but ethical questions remain",
-      "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "publishedDateTime": "2021-08-06T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow.md",
-      "title": "Dutch startup hub Utrecht emerges from Amsterdam’s shadow",
-      "excerpt": "While Amsterdam garners the lion’s share of attention in the Netherlands tech ecosystem, the not-so-far-away region around Utrecht has its fair share of tech startups and investors, as is evidenced by our latest survey of locals,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
-      "originalUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1176088657.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
-      "publishedDateTime": "2021-08-05T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

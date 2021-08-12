@@ -2,39 +2,26 @@
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
 excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-publishedDateTime: 2021-08-06T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+publishedDateTime: 2021-08-06T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
 type: article
-quality: 12
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-related:
-  - title: "InRoads Credit Union Selects Scienaptic's AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider, Scienaptic AI announced that InRoads Credit Union has chosen to implement the company's AI-powered platform to enhance its credit decisioning and underwriting capabilities for new"
-    publishedDateTime: 2021-08-09T12:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-19941750.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 34
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
 
-secured: "bj2HqNqV+rnqTByJjwxEayatSJBOKShCLlJ0It+XC44jB/XVq/qwa6jbMup6Kzkv+FxR7GAcEjVrK70UoxudGqyrjmxmAWx8NQmYAt2XAJe6nQcLFx0rXg4c9OlogtfpuEzJaqbFlkqdHiiv/Ub0DIEGNmHmeuQ3R0jBdXIkho4IyC/Ia4D3VYkBRNI2LNOp9U4hEXFvc5lE5Di0A6kkz1iv+hLuuqIfTqyXWuR/4YtcLRcyfVM9omwkKokm/gSewlf1Q214ulrexNJz+sfhT31Y+TATCo1IRKkGeoVYpFNWJ2d+x9U/+ttca8mIG73WDP3pYAUPMmdeK5hEtxqzgrAge7hdmBqs/5DYBlM6AoJRsvSkCxLX8xLyTCAd6ZsCr7SbmYr1lc+3q2Vt4mpowjSsityqU3WDrFfhzvqX7AEKh8AjeshYxrga0X16NxLr5FoPZyU9XGUn/I09MzgIpH2njwFd//QqRWWhgbFNysEND2D9wtvvVHkhCKWOr5lEcloHKsb77XMVlvpyyJgx1Q==;p1IpgQ2oEmlqI0skAGxsBA=="
+secured: "ebdiZcicwzWnfi7PsNCenwDhH03eB5+AkA3KnYdWlRfxFg3ssNkWmXBe3wwmgjggsaz83Uq91mEL3zA+6GobXPxKp7Hn/szDNDXJKQ095aueymo95Qx6OpGyaORLfHA63+TD940UsITogT9O+5uyAO68R7YEpBpERtYHJgG0eIhK8m23VAHM9roa4drh57+osUR7M5atLvYV+5s+lSAYJHjqAkuE3cksAXMKY752bzFKph0s5pbvA4oVQ7+zPG2Xvx9hLl7RJbfmJwfiW0OEm40Vm182CGTPUmUs9PImAygltyFtY2TrpV4gjLINY3GCiNKGvR/EYiWKL18WZ3paVizh32fDw9tDSYcZlxqljIM=;tJ+EgL7MnXiIe91FkZrygg=="
 ---
 

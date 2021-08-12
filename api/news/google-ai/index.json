@@ -56,7 +56,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -288,6 +288,49 @@
       "provider": {
         "name": "Moneyweb",
         "domain": "moneyweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-01-new-scientific-database-could-revolutionise-the-way-diseases-are-treated.md",
+      "title": "New scientific database ‘could revolutionise the way diseases are treated’",
+      "excerpt": "Researchers from Google-owned artificial intelligence (AI) lab DeepMind, and European Bioinformatics Institute (EMBL), have launched a database featuring 20,000 structures for the complete set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html",
+      "originalUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishexaminer.com/cms_media/module_img/5172/2586074_1_googlediscover_b496f191-177f-435c-a336-3455e39209a9.jpg.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.irishexaminer.com/business/technology/arid-40350164.html?type=amp",
+      "cdnAmpWebUrl": "https://www-irishexaminer-com.cdn.ampproject.org/c/s/www.irishexaminer.com/business/technology/arid-40350164.html?type=amp",
+      "publishedDateTime": "2021-07-31T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Examiner",
+        "domain": "irishexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1385,58 +1428,6 @@
       "ampWebUrl": "https://venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/16/deepmind-open-sources-alphafold-2-for-protein-structure-predictions/amp/",
       "publishedDateTime": "2021-07-16T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-why-transformers-offer-more-than-meets-the-eye.md",
-      "title": "Why Transformers offer more than meets the eye",
-      "excerpt": "Transformers, a major innovation in AI and machine learning, have practical real-world applications -- and implications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "originalUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/15/why-transformers-offer-more-than-meets-the-eye/amp/",
-      "publishedDateTime": "2021-07-15T12:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

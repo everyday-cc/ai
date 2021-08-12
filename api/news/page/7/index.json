@@ -2,6 +2,152 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-06-dubai-to-host-intl-conference-on-automation-and-robotics-in-construction.md",
+      "title": "Dubai to Host Int'l Conference on Automation and Robotics in Construction",
+      "excerpt": "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction",
+      "sourceUrl": null,
+      "webUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
+      "originalUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News",
+        "domain": "ftnnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
+      "title": "Google is developing a new superintelligent AI but ethical questions remain",
+      "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
+      "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
+      "publishedDateTime": "2021-08-06T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow.md",
+      "title": "Dutch startup hub Utrecht emerges from Amsterdam’s shadow",
+      "excerpt": "While Amsterdam garners the lion’s share of attention in the Netherlands tech ecosystem, the not-so-far-away region around Utrecht has its fair share of tech startups and investors, as is evidenced by our latest survey of locals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
+      "originalUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1176088657.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
+      "publishedDateTime": "2021-08-05T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
       "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
       "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
@@ -1023,153 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-heyrenee-is-the-next-home-healthcare-startup-for-heal-founders.md",
-      "title": "HeyRenee is the next home healthcare startup for Heal founders",
-      "excerpt": "HeyRenee has raised $3.8 million for a personal healthcare concierge, which is the next home healthcare business from the founders of Heal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/heyrenee-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/heyrenee-is-the-next-home-healthcare-startup-for-heal-founders/amp/",
-      "publishedDateTime": "2021-08-05T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-google-pixel-6-to-sport-5nm-tensor-chips-made-by-samsung-report.md",
-      "title": "Google Pixel 6 to sport 5nm Tensor chips made by Samsung: Report",
-      "excerpt": "While Google is gearing up for the launch of its Pixel 6 series, a new report has revealed new information regarding the company’s new proprietary chipset. The upcoming Pixel 6 will sport the new Tensor chips that are based on a 5nm process produced by Samsung.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
-      "originalUrl": "https://www.gizmochina.com/2021/08/05/google-pixel-6-tensor-chips-5nm-samsung/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Google-Tensor.jpg",
-          "width": 453,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T03:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-indonesian-verification-platform-for-fintech-set-to-graduate-from-y-combinator.md",
-      "title": "Indonesian verification platform for fintech set to graduate from Y Combinator",
-      "excerpt": "Verihubs, which offers a similar service to US-based unicorn Plaid, counts Indonesia’s largest private bank among its clients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
-      "originalUrl": "https://www.techinasia.com/verihubs-set-to-graduate-y-combinator?ref=recommender-697782",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

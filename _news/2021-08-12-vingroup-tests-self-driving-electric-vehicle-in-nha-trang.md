@@ -2,28 +2,26 @@
 category: news
 title: "Vingroup tests self-driving electric vehicle in Nha Trang"
 excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-publishedDateTime: 2021-08-12T00:31:00Z
-originalUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+publishedDateTime: 2021-08-12T04:06:00Z
+originalUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
+webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: VietnamPlus
-  domain: vietnamplus.vn
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
-    width: 660
-    height: 396
+  - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628805684"
+    width: 600
+    height: 385
     isCached: true
 
 related:
@@ -40,6 +38,20 @@ related:
     quality: 72
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide"
+    excerpt: "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,"
+    publishedDateTime: 2021-08-12T20:18:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -116,6 +128,6 @@ related:
         height: 300
         isCached: true
 
-secured: "CNHLqQ2HE6l386yaWuv32SwwHsD5MvIhxXynrLBMtsIrXplTQcSx7HAcG2cPwFsKWPBjuVcqdn8q3vJcydewUp04hBBaw+p7HTSRT5ch2IB4WLsUGzI001AzD9Sbyj6OT9RL2xfOdcWG+pRaryXeRqz7CIy4gON19BoT5zJfsUk7hewqj6Ljyday6VaEijS2LVEMlP2oAonm0bsn4MfWmhIGHi4IsMxoutjF/+yXi8MYOpnVfR6bkCJ8K32olIVIJ5WupbMdtJmqF+GbSkhrFKFsl6tI+86GMvO7RP4uzY1ykpoDNhFuMdUyELw7DXmWr5FoJCvCFEWuoEcy4aAhXDmF8RNipdsVloSg7iMl8ku1vDkSm4/+RakSSujCT+jaEEMJUDq+tKlfi+bswiJPT6N7X2aGuFSKYwAevg+8zd0TkQB1IrJ20VnmihC0F4pVkbcoENCt4YUsBZ2lz8iduCCAGmGjsLU5uQ6vTnjMKsKtUj7iPcuMGjuhXVGYX2s0dGDAdEKgDYo3BhGijAKAIw==;DxG8Zm1ePzM/Zp9X2RcxAw=="
+secured: "CwlNbRwGVRu/ZsWzN+W0G5TlusQyl+TakbXWLFwLmPXK6TlMguLYZcnuJoHdsR9NdpU8QRUcFTy4EPtPDg1B5DfHyZgk5zBNqPbtqNeUNTuLOOeaWAfqFdgV8tJLWlWc9LVdJTdqEi3Lz+fNzLk0N/JpvkPhenOWhIdlNQx5LQwuF57xZmT1JmAOiJjZpEcJy1OqfIm1rlcs6S7slNNZAvqJS3dzEQniPctSpHiBeFdxWkjiJ0tVjKFPx+6qomTJUuxmBWagBJNQbDh2vYp8i0SwwFvileOdkS+AP80lJyp175gQpSjatv7J/kUMQCyn8JccXRK3UjuZT5OBi0VfdnTx2PEcc7N0QMo3xYAILE4=;2Z02eTNRk//hSjNM+LzeCw=="
 ---
 

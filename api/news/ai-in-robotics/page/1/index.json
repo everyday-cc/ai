@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
+      "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
+      "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
+      "originalUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/611561dd3dd01000199d6892?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
+      "publishedDateTime": "2021-08-12T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers.md",
       "title": "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers",
       "excerpt": "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write.",
@@ -429,7 +481,7 @@
       "originalUrl": "https://www.cnet.com/news/electronic-arts-says-artificial-intelligence-will-make-game-characters-much-more-lifelike/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1347,51 +1399,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
-      "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
-      "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/25dojochips.jpeg",
-          "width": 872,
-          "height": 872,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/08/tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.html",
-      "publishedDateTime": "2021-08-04T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-how-ai-struggles-with-bike-lanes-and-bias.md",
+      "title": "How AI struggles with bike lanes and bias",
+      "excerpt": "We've been so worried about whether AI -driven robots will take our jobs that we forgot to ask a much more basic question: will they take our bike lanes? That's the question Austin, Texas, is currently grappling with,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-struggles-with-bike-lanes-and-bias/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-struggles-with-bike-lanes-and-bias/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-struggles-with-bike-lanes-and-bias/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-struggles-with-bike-lanes-and-bias/",
+      "publishedDateTime": "2021-08-12T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
       "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
       "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -49,7 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -409,6 +462,57 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-chorusai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group.md",
+      "title": "Chorus.ai Ranked No. 1 Conversation Intelligence Product by Info-Tech Research Group",
+      "excerpt": "Chorus.ai, a ZoomInfo company and Conversation Intelligence platform leader, today announced that it has been recognized as the top-rated product and a gold medalist in the 2021 Conversation Intelligence Data Quadrant from SoftwareReviews,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1593195/2021_Conversation_Intelligence_Data_Quadrant.jpg",
+          "width": 362,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1065,100 +1169,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software.md",
-      "title": "Microsoft acquires Israeli startup Peer5 to improve video streaming software",
-      "excerpt": "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
-      "originalUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 256,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/03/063_1207074418-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
-      "publishedDateTime": "2021-08-11T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cambridge-scientists-say-new-ai-tool-could-diagnose-dementia-from-a-single-brain-scan.md",
-      "title": "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan",
-      "excerpt": "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
-      "originalUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-1-4.jpg&signature=243543456642555e7ebed5e37fe997b9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -73,6 +73,22 @@ related:
         width: 1420
         height: 946
         isCached: true
+  - title: "Why Nvidia Is Much More Than Just A Chip Stock"
+    excerpt: "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,"
+    publishedDateTime: 2021-08-12T21:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg"
+        width: 2000
+        height: 1260
+        isCached: true
   - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
     excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
     publishedDateTime: 2021-08-11T17:18:00Z
