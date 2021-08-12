@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-int
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
 type: article
 quality: 102
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
         width: 1100
         height: 750
-        isCached: true
-  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
-    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
-    publishedDateTime: 2021-08-09T17:09:00Z
-    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
-        width: 4195
-        height: 2214
         isCached: true
   - title: "JLL to buy proptech startup Skyline AI"
     excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."

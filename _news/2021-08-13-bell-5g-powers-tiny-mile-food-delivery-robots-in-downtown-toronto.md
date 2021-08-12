@@ -39,6 +39,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Bell 5G Network to Power ‘Tiny Mile’ Food Delivery Robots in Toronto"
+    excerpt: "Bell announced on Thursday it has teamed up with Canadian AI tech start-up Tiny Mile, to enable the latter to use its 5G network for food deliveries in downtown Toronto. The autonomous robots are known collectively as “Geoffrey” (named after Geoffrey Hinton,"
+    publishedDateTime: 2021-08-12T18:15:00Z
+    webUrl: "https://www.iphoneincanada.ca/carriers/bell/bell-5g-network-to-power-tiny-mile-food-delivery-robots-in-toronto/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/08/Bell_Canada_Bell_5G_powers_Tiny_Mile_food_delivery_robots_in_dow.jpeg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Mh1vLoyGN13W+cE8WEy8RDq8R5XG/I6SWWqOn8OCdD30YFkhum34xJkd9sk2TCeaV88asDimOSl5Kx620BaEKVyPc/0rhcTGP4LOIvW2dO7Zku1W65b4zSm4ttRJPDGm1QQPm5vsTNEGHeueXpJdllYsYjf4ne05r0CvNT6+BpTRir0UvKofCGwKcGICD++9qJ2c7ocD1IDJ5l/HE7k41D8NoYgf2F+UxpFzJ9YB5/In9pizQZyVZ1UYPitNUj/D3md0yhq2v9ZkEXqoQk2LJ2jsxvxnbFe28UtSM2DX6mTiYOa2FLr8rUL55psKt3o3vuCowIpc3vPbVNO/6i6bmn8VAadSGCZ/PVCZDLWy3qY=;Ei86JlESdbCI6CISAE/Ocw=="
 ---

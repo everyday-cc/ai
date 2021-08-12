@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers"
+    excerpt: "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write."
+    publishedDateTime: 2021-08-12T17:09:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/08/Tippett-Alexander-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
     excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
     publishedDateTime: 2021-08-10T02:09:00Z

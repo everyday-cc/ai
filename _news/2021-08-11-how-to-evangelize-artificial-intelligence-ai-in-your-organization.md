@@ -27,7 +27,7 @@ related:
   - title: "How to Build Accountability into Your AI"
     excerpt: "It’s not easy to know how to manage and deploy AI systems responsibly today. But the U.S. Government Accountability Office has recently developed the federal government’s first framework to help assure accountability and responsible use of AI systems."
     publishedDateTime: 2021-08-11T12:25:00Z
-    webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai"
+    webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai?ab=hero-subleft-1"
     ampWebUrl: "https://hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
     type: article

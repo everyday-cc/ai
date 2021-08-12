@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft acquires Israeli startup Peer5 to improve video streaming software"
+    excerpt: "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI"
+    publishedDateTime: 2021-08-11T18:38:00Z
+    webUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/"
+    ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 156
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2020/03/063_1207074418-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "Microsoft is using ML to help you catch ransomware infections early"
     excerpt: "The tool, dubbed Fusion Detection for Ransomware, is the result of collaboration between Azure and the Microsoft Threat Intelligence Center ( MSTIC ), and employs machine learning ( ML) to detect actions typically associated with ransomware activities and alert security teams in time to take remedial action."
     publishedDateTime: 2021-08-10T22:12:00Z
@@ -70,22 +86,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
-  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
-    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
-    publishedDateTime: 2021-08-10T18:48:00Z
-    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
-        width: 708
-        height: 399
-        isCached: true
   - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
     excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
     publishedDateTime: 2021-08-10T06:41:00Z
@@ -155,19 +155,19 @@ related:
         width: 1200
         height: 624
         isCached: true
-  - title: "Artificial Intelligence in Oil and Gas Market Research Report 2021 – General Vision, Infosys, Microsoft, Oracle"
-    excerpt: "A2Z Market Research announces the release of the Artificial Intelligence in Oil and Gas Market research report. The global Artificial Intelligence in Oil and Gas market research is predicted to record a substantial CAGR of 12."
-    publishedDateTime: 2021-08-08T12:07:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-and-gas-market-research-report-2021-general-vision-infosys-microsoft-oracle/"
+  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
+    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
+    publishedDateTime: 2021-08-09T17:09:00Z
+    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Artificial-Intelligence-in-Oil-and-Gas.jpg"
-        width: 604
-        height: 401
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
+        width: 4195
+        height: 2214
         isCached: true
 
 secured: "ybpk6srExyJc4VqpukYKuQUXMBUAyvM4A2WeOFd0e6ki2sdS5Om3mrZtLlpV1CQ3EyHaJLfO4N5Cjl+5bBFJonQ4ysFyu7/pl/ozk6nR/1bTUFn0WngJqkK9ypgtQmmzDS9h29mRkPpW6v298sNv255HgeS7QLJ0gG1Rd0GbUDBEOQc+Oj/VU9uScKmsTtLeTEzYdTArMFDHr/ddfSXGwroLv3OJjco2/srA65XI1DqvnZ86Z68Syuxj2Vv9ZuAbftIONsMn6YliZmdrTXMLj1/CIfYm2ZW0Y22jomaYXOASBTT1NadECRAU1qCBijxpggrloEb6sSUc07G94yrTpEKKpyWMNXUOxDPHL6NfoJ2CKgNL0dKEM+7dRxsMm6bQ/NuUswJgKkhnuKaEJoTfrOY5WhxPBb3VjgQEODddZaK1Q7yTjYz3B7lINID+dOFroPkdCVZQUVSHr/NjnuODGGldCSRJjzdouw1cwXOaXs9kwJNFRfsLVdWarj/xgjtIS3SxGdHbhCU/TTaInjmOgQ==;Z6EUdrhOdPLwNL6R9WMlbQ=="

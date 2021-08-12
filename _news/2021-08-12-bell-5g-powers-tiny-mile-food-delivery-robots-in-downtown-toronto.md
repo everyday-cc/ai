@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tin
 webUrl: "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bell 5G Network to Power ‘Tiny Mile’ Food Delivery Robots in Toronto"
+    excerpt: "Bell announced on Thursday it has teamed up with Canadian AI tech start-up Tiny Mile, to enable the latter to use its 5G network for food deliveries in downtown Toronto. The autonomous robots are known collectively as “Geoffrey” (named after Geoffrey Hinton,"
+    publishedDateTime: 2021-08-12T18:15:00Z
+    webUrl: "https://www.iphoneincanada.ca/carriers/bell/bell-5g-network-to-power-tiny-mile-food-delivery-robots-in-toronto/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 39
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/08/Bell_Canada_Bell_5G_powers_Tiny_Mile_food_delivery_robots_in_dow.jpeg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto"
     excerpt: "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL, Aug. 12, 2021 /CNW Telbec/ - Bell today announced a collaboration with Tiny Mile to provide 5G connectivity for the Canadian AI start-up's growing fleet of food delivery robots in downtown Toronto."
     publishedDateTime: 2021-08-12T17:25:00Z

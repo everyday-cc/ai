@@ -35,6 +35,20 @@ related:
         width: 880
         height: 542
         isCached: true
+  - title: "John Deere Moves Into Autonomous Tractors With Robots Startup Acquisition"
+    excerpt: "John Deere, easily the largest maker of heavy agricultural machinery in the country, is eyeing robots. The company has in the past announced a few evolutions of its tractors and other equipment, but took a big step last week when it acquired the startup Bear Flag Robotics."
+    publishedDateTime: 2021-08-12T18:00:00Z
+    webUrl: "https://modernfarmer.com/2021/08/john-deere-moves-into-autonomous-tractors-with-robots-startup-acquisition/"
+    type: article
+    provider:
+      name: Modern Farmer
+      domain: modernfarmer.com
+    quality: 38
+    images:
+      - url: "https://modernfarmer.com/wp-content/uploads/2021/08/shutterstock_1715798599.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "John Deere Buys Robotics Company For $250M"
     excerpt: "Iowa's largest manufacturing employer is buying another tech startup. Quad Cities-based John Deere is acquiring Bear Flag Robotics for 250-million dollars. Dan Leibfried, from the Deere Intelligent Solutions Group in Urbandale,"
     publishedDateTime: 2021-08-09T15:16:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers"
+    excerpt: "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write."
+    publishedDateTime: 2021-08-12T17:09:00Z
+    webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 54
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/08/Tippett-Alexander-767x633.jpg"
+        width: 768
+        height: 633
+        isCached: true
   - title: "Robots are coming for the lawyers — which may be great for anyone in need of cheap legal assistance"
     excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it's hard to imagine those complex tasks being done by a robot."
     publishedDateTime: 2021-08-10T15:43:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Big Tech’s Stranglehold on Artificial Intelligence Must Be Regulated"
 excerpt: "Argument: Big Tech’s Stranglehold on Artificial Intelligence Must Be Regulated Big Tech’s Stranglehold on Artificial Inte... | View Comments () Google CEO Sundar Pichai has suggested—more than once—that artificial intelligence (AI) will affect humanity’s development more profoundly than humanity’s harnessing of fire."
-publishedDateTime: 2021-08-11T10:51:00Z
-originalUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latest062921"
-webUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latest062921"
+publishedDateTime: 2021-08-11T06:49:00Z
+originalUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/"
+webUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 696
     isCached: true
 
-secured: "a+16j4KFc5fwdiajK7zBnszf1o0sNmmXS3pk5KIeBhyPjCZqz5she849xxJPFZCZfpaNXQmOGTbfx6ognpVRjs7ksH/4q7U5oNrBL0pqwWo37TtpBPkTCmuzffEcHp+6ZpL/Pr9QWW1yWHSw0252xvomOuBegN/Wrb3XD0LI3kfDNBJcjQN9mOq9/d7xvnkk8/DeVwhtpdIv0INUyeT8Vl3fAzei8B8Fvhjy6JZUp2Ld0IM6v6RfUiv6PseuT7H3ufSweQntupL/KcrEKWQObhxLx4JJCm8NQnOI7QBe6+AirJWf7Kh3yBScC63SiT5CGrlej5fqtgEjvUPrBeBCXE/PYL75cbbpVxceHniJEJU=;y9x6+7IXNBngrexfFVSfpA=="
+secured: "VZs9CMkYp/fLtNU3BWOcWQQ0ZmiUGOo0ge906MuUmmeUvzTT58M22PS+0hoAeC82XO0T9mF0ts/IzYd/lQtVCUtjdZMn3qfH0sProlVlt608Yg+BhY19l5TN2rH735QVigNhrHoOxYpRjyGdHccyiwmU7rovX/GIMi5Nj7XadNaJK7+sG2PgWGGSgyO2W6DBNXqkRfI/ZStqkwdt5qMew1laWEhdgQl+5u97ia+kgKVkQ8i3wrPohPZY9xH64x52utzG6WdzxZpJ8Z14Cmpad6YEf8m1yKLUVgmeuTlzJvbhLBRXBKE3xAq0VlTNpRQA8JIYbs0C7XXfhntCl+PC28pAtjIQBmkEiLEZulg7t9M=;bPEs01Z4k5TD8T9zVwFzNg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-workin
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: europeansting.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Next-Gen Insurers Are Going to Need (Way) More AI Compute Power"
+    excerpt: "While involving AI/ML in the complex process of insurance claims now might be piecemeal, the future is bright for insurers to speed time to claim"
+    publishedDateTime: 2021-08-12T19:44:00Z
+    webUrl: "https://www.nextplatform.com/2021/08/12/next-gen-insurers-are-going-to-need-way-more-ai-compute-power/"
+    ampWebUrl: "https://www.nextplatform.com/2021/08/12/next-gen-insurers-are-going-to-need-way-more-ai-compute-power/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/12/next-gen-insurers-are-going-to-need-way-more-ai-compute-power/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 57
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ab_thingies.jpg"
+        width: 1300
+        height: 500
+        isCached: true
   - title: "When it comes to fighting money laundering, AI in-name-only won’t cut it"
     excerpt: "Fraud has become the most common crime in the digital world, with criminals making billions of dollars and banks paying billions in fines. As money launderers have increased their level of sophistication,"
     publishedDateTime: 2021-08-11T01:29:00Z

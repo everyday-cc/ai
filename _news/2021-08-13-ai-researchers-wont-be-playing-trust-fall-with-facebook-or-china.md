@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-12T17:49:00Z
 originalUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
 webUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
@@ -40,6 +41,6 @@ related:
         height: 640
         isCached: true
 
-secured: "B5VWrLCGVFqWvl044YUky/661JMwMdrBnTQsNEYrUN/zgzqHqX2Qs+UEVvZ47JFlZU/VCQUsNaCxmblFdSfgSauUYTLJAH28JyPROWmUX4oGc5cehaVDoDYbR6uKu4TVrE+/sRTZUYK3efbK9NLTWMkeGLmJjzx7jqh1iMwj7Csr2CIUlowM4t5nccbQbQLKpxzs6R3OiTrVI4rllyES2o0pf2WcKB8pHpPfIfmie8nE4/WFetTZ6ntdPbll4gHia2+3GeVhNacDoez/vU2k56htwZj112Un8HC7LqUy4zTGiKlDCYn2wfLrsx8HAq1mGuWGWBdr/w7We8geYEhEaemUUHFwvP2lNieudVlLr5g=;snaE+bH4ZkAaLFpFj+RqJA=="
+secured: "dAn+fWIILsD7MqcSZZMF5LBNCv2DBo/25CoTqH/I09faxIy4p4w/mJ2RniWIHpUIt3sSV4DjKtFLFQy8+SnKfmN8YT6JGyTFXjgPqZyjz4oZfxOe5HzmhtZ04/tH3JAw2aEDjAFjjFAEaCDEg3Qjv4J5EFLkE83I1ySMY8BAFgGIx4P4dI1VEaTMoqPhe12LHsXOsrnJPNRhEns1PxylxrXlgQW+B+d9KR/zED6mfO/x9X2Z5erjFID3L7n31uzYLbuHe2mDKbPg4+cJJMfklX9eqNq3TXAeEhMh47avdPpLq4bNaA23bdLfjDKWlswDlk9HnN1C3qD9T2ZpoB0ocDwbBI4wdHeDxQS3qIdGfU1nnWK9ETciMKeVjEBbG5qrbo8cOWPFGYNncwi9FahlhCnFcMijMX1T4HxebWJFTzH/Ad9P4dckvCawWXMXb/uS3l3nRXdOzgA4I8w/vFi5zpcIQA9xL0YscSbfJvHnrpAm7wx770q0aYXIfKQ4ssE44PldOpLEIbQC/H6qzgnThw==;fuYWX4+UEb22WhXhvgnSpg=="
 ---
 

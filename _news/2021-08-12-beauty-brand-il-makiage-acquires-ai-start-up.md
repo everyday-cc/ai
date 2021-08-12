@@ -96,20 +96,6 @@ related:
         width: 1100
         height: 750
         isCached: true
-  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
-    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
-    publishedDateTime: 2021-08-09T17:09:00Z
-    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
-        width: 4195
-        height: 2214
-        isCached: true
   - title: "JLL to buy proptech startup Skyline AI"
     excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
     publishedDateTime: 2021-08-11T14:56:00Z
@@ -148,6 +134,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "DAaizUqf0//FNzdM8zF4x8VgACOFzznORBiQi0n4RTvYWGrMWYBXqecBa92WQ3zHSQpoXZtDF8e88zorygfohnsXYrAcnmTScLPxr1xKX1PMUjFo/vUMTv5Z5an+1S971sOtOMcsBNQXGKPkjcSlADiJwgcRU6yH2fG5k4B9VBvozO3HrjAP+ufTJldw6695you1TIw4qN8ZhwuW9Z8QcXBlhxZjqFSnM4Lr/BFRVa6p10xP3w3+K4ojwTjqhGP1S0/DU17PuoSfUYHEA7ffWwf1HRjufjZT37fB+yrbtpwJGvUMaLhhuY+gQH5nD+jEfoFqNbgwxP7Ik5fLTQtUjveKRJx0GW2TFYKlsOmZEu4=;AX0apyf3yaKasDIC8Sue5w=="
+secured: "mXKr3r4JexY9ix/ORpEh9JpoGyCl0JDQY0E0KQZe5Pq5bC0QI6bguo3wJmHgvJaEw9Gzp4u6fd08cTSRAmJXYqJfdLJY220B7rh853L9BhFzfFOH/AeiTHsOpibHT4k1uBH2KcFhqSrMI3ZdxtbYbzaHsKlFEOuPklrlHe+xkON2v4DkXbDRkvnR24h7V231ePRsYEwzOHsW3SiJhrtjN+RVL93RV682ReUp2A0ffQIBsBpz4PLGE/DiOGH8s3wvTJd9NEwxWKnvKOGBSnBOb0VNVoF3yIhojQKdQagTB1NdtADNu8X2bFLv/y7kbBZVJRmbKPD2DqCeyxU2/I7pDd8LbMhBDInyBHp3fegMSoj6zQe6R3AWgQ/z1Bde1udokVqPgNY+OEhP6UiCHLXf5ZDM0TysiAvsA9LusWg+Wjlpn//OdlOxb0W50HhB7MfFTEgAzMuVtVymGZPM/qL1sMFqdolGPw6D1KMm+gta/siGqh2nFHgbIfeYgftkB07kCVu2PKQ0WMLRrnHgTi32JA==;JiNe6Xl6ucYrhhE+2s4/Qg=="
 ---
 

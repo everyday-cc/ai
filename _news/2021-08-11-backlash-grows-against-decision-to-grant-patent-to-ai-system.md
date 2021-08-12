@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-sy
 webUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Latest Pearl Patent: AI-Powered Dental Insurance Fraud, Waste and Abuse Detection AI System"
-    excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received a patent grant from the United States Patent Office covering the company's pioneering AI system for detecting fraud,"
-    publishedDateTime: 2021-08-11T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/latest-pearl-patent-ai-powered-dental-insurance-fraud-waste-and-abuse-detection-ai-system-1030718399"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
-        width: 400
-        height: 303
-        isCached: true
   - title: "WINT delivers a revolutionary AI solution to detect water leaks in fire suppression systems"
     excerpt: "W INT W ater Intelligence, a leader in cutting-edge water management and leak prevention solutions for construction, commercial and industrial applications, is announcing that their award-winning technology is now available and ready to be directly integrated into fire sprinkler systems."
     publishedDateTime: 2021-08-12T11:12:00Z

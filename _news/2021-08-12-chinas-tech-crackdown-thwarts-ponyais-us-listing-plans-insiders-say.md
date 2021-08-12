@@ -8,9 +8,9 @@ webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3144742/ch
 ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 187
+heat: 227
+published: true
 
 provider:
   name: South China Morning Post
@@ -69,20 +69,6 @@ related:
         width: 825
         height: 638
         isCached: true
-  - title: "Pony.ai Reportedly Seeks Funds at $8 Billion Value Amid Listing Halt"
-    excerpt: "Pony .ai is considering a new funding round that could give the self-driving startup a valuation of at least $8 billion after the company put its U.S. listing plans on hold, according to people familiar with the matter."
-    publishedDateTime: 2021-08-12T17:00:00Z
-    webUrl: "https://www.ttnews.com/articles/ponyai-reportedly-seeks-funds-8-billion-value-amid-listing-halt"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/ponyai-bb-1200.jpg?itok=4hj0hzst"
-        width: 470
-        height: 246
-        isCached: true
   - title: "China's tech crackdown thwarts Pony.ai's U.S. listing plans, report says"
     excerpt: "The decision makes Pony.ai one of the biggest companies to suspend its U.S. listing plans after China banned ride-sharing giant Didi Global from signing up new users just days after its blockbuster IPO in June."
     publishedDateTime: 2021-08-11T18:50:00Z
@@ -98,6 +84,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Dc22syOdQTfglqbEyrVB65zrvhI33OB2ARxhUte+32Nt1yWba0ulMWdv0AKImUVnAMaeGjVl162dycl0yVEgdWZAoPMmlKNQ4IAzMXh+wEm/iQFKosmW+o8zYjO+3O9J2pn55XpR0vzS4/IJMPe2XzWzDU0C5qsnBNzWEZLnja8bOiTH91g8IyR36rKrXiZRHEiBjjxgno9zZykatnM30v+VAZmEV8d7+BN8GU7ltWCQ88ohTc97G99xMdgxWn7wKAdfGXDSZnCdSAtJMY03pdeEQoTEhGvJBpLSqK63VPHp/RtNeLY/Ykh+ZHHTqtcMn1fJQZ1/jB688BcLOLwDT4plhuNM5VNqH9YdYmhnPcM=;S9XUwzEioEdjzOzgMH3k0w=="
+secured: "nyztqY9jPr84nTLslE1V4Piyo02KCHcbs9VClLBU3V08WmM9M26PjTeU431KwYbX3iUz6NLNjOROj//JgnpVht7OmzpXdbfuoJooiAsNiU6SDwflrRgty3dSTZSIzH07WEMDlSCjGLzuh3nxkUXSAtfSAdLgf8YziSSD9GEx88cSmvebrHxgVge6aO39mZfXFWupe5Y0eEK92Knb+yzBd/KIiBlX0XxGnjsE3ictrTor9OgvQ/U1sqnBHPLf78FlOe0WWen0oGvVAkjGCN9navc2Cxb681PkG/YMS5dSjjuJgmWGAc9Y10w9A596GAS44qVTcNTm/ink4N/cC+oGMRIKYHYi4dOqZb/5qiXgQWnA6KzMtK8ivd+qC6f9oHPfW/BHZr7YKeUuojgXNZQ3gQL3u2ulSzot08WB24mq0DVU6d3BLGrhicTVOGnf7e+i/ilCtrzWg1hw2LnrswCEkC3gUIUgE9UgZCG1Z5X+3/LftFwRKktnhaYl+NBeM88EhArADTseXLK6PoXEdSUHloOI1ACOwTWKcdYaagzY2Mc=;DIIK66aKmHAjNx/D0Arjxg=="
 ---
 

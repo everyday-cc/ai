@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
 type: article
 quality: 183
-heat: 233
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -40,7 +40,7 @@ related:
     provider:
       name: South China Morning Post
       domain: scmp.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/12/8875ae8e-fadc-11eb-aa37-9736ba6f9b4b_image_hires_035937.jpg?itok=iEFkWb3Y&v=1628711988"
         width: 1200
@@ -68,20 +68,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
         width: 825
         height: 638
-        isCached: true
-  - title: "Pony.ai Reportedly Seeks Funds at $8 Billion Value Amid Listing Halt"
-    excerpt: "Pony .ai is considering a new funding round that could give the self-driving startup a valuation of at least $8 billion after the company put its U.S. listing plans on hold, according to people familiar with the matter."
-    publishedDateTime: 2021-08-12T17:00:00Z
-    webUrl: "https://www.ttnews.com/articles/ponyai-reportedly-seeks-funds-8-billion-value-amid-listing-halt"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 37
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/ponyai-bb-1200.jpg?itok=4hj0hzst"
-        width: 470
-        height: 246
         isCached: true
   - title: "China's tech crackdown thwarts Pony.ai's U.S. listing plans, report says"
     excerpt: "The decision makes Pony.ai one of the biggest companies to suspend its U.S. listing plans after China banned ride-sharing giant Didi Global from signing up new users just days after its blockbuster IPO in June."

@@ -24,130 +24,150 @@ images:
     isCached: true
 
 related:
-  - title: "JLL Moves to Acquire Artificial Intelligence Startup Skyline AI"
-    excerpt: "The real-estate and investment management services firm known as JLL said it plans to use New York-based Skyline AI’s technology to help clients predict future property values, identify new investment opportunities and decide when to raise rent,"
-    publishedDateTime: 2021-08-11T11:45:00Z
-    webUrl: "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
+  - title: "Microsoft acquires Israeli startup Peer5 to improve video streaming software"
+    excerpt: "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI"
+    publishedDateTime: 2021-08-11T18:38:00Z
+    webUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/"
+    ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 102
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 156
     images:
-      - url: "https://images.wsj.net/im-383438/social"
-        width: 1280
-        height: 640
+      - url: "https://static.timesofisrael.com/www/uploads/2020/03/063_1207074418-640x400.jpg"
+        width: 640
+        height: 400
         isCached: true
-  - title: "JLL to Acquire Artificial Intelligence Leader Skyline AI"
-    excerpt: "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”"
-    publishedDateTime: 2021-08-12T11:04:00Z
-    webUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/"
-    ampWebUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
+  - title: "Microsoft is using ML to help you catch ransomware infections early"
+    excerpt: "The tool, dubbed Fusion Detection for Ransomware, is the result of collaboration between Azure and the Microsoft Threat Intelligence Center ( MSTIC ), and employs machine learning ( ML) to detect actions typically associated with ransomware activities and alert security teams in time to take remedial action."
+    publishedDateTime: 2021-08-10T22:12:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
     type: article
     provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 72
+      name: TechRadar
+      domain: techradar.com
+    quality: 106
     images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg"
-        width: 621
-        height: 372
+      - url: "https://cdn.mos.cms.futurecdn.net/pJjsnhgKdD782c5SBEneTW-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "JLL announces acquisition of proptech company Skyline AI"
-    excerpt: "JLL (NYSE: JLL) today announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that is transforming commercial real estate (CRE) using proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
-    publishedDateTime: 2021-08-11T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jll-announces-acquisition-of-proptech-company-skyline-ai-1030719064"
+  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
+    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
+    publishedDateTime: 2021-08-10T11:01:00Z
+    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
+    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://mma.prnewswire.com/media/487047/JLL_Logo.jpg"
-        width: 400
-        height: 246
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "JLL purchases artificial intelligence startup"
-    excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
-    publishedDateTime: 2021-08-11T21:15:00Z
-    webUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/"
-    ampWebUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
+  - title: "Microsoft announces new ransomware detection features for Azure"
+    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
+    publishedDateTime: 2021-08-10T00:22:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
     type: article
     provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 57
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+  - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
+    excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/"
+    ampWebUrl: "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/microsoft/microsoft-adds-fusion-ransomware-attack-detection-to-azure-sentinel/amp/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 74
     images:
-      - url: "https://therealdeal.com/wp-content/uploads/2021/08/FT-Thumbnail_jll.jpg"
-        width: 690
-        height: 493
+      - url: "https://www.bleepstatic.com/content/hl-images/2021/08/09/Azure-Sentinel.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
-    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
-    publishedDateTime: 2021-08-11T15:47:00Z
-    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
+  - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
+    excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
+    publishedDateTime: 2021-08-10T06:41:00Z
+    webUrl: "https://www.openpr.com/news/2350675/internet-of-things-software-market-is-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
     type: article
     provider:
-      name: Bisnow
-      domain: bisnow.com
+      name: openpr.com
+      domain: openpr.com
+    quality: 71
+    images:
+      - url: "https://cdn.openpr.com/U/8/U810943688_g.jpg"
+        width: 800
+        height: 520
+        isCached: true
+  - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
+    excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
+    publishedDateTime: 2021-08-11T13:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/08/11/1600x900/ransomware-2320941_1920_1619284853227_1628687614695.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
+    excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
+    publishedDateTime: 2021-08-09T14:42:00Z
+    webUrl: "https://www.technologyrecord.com/Home/nba-launches-new-microsoft-azure-platform-to-enhance-fan-engagement-125306"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
     quality: 54
     images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
-        width: 1100
-        height: 750
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10450/img-Unsplash_Markus-Spiske_basketball_web.jpg"
+        width: 940
+        height: 443
         isCached: true
-  - title: "JLL to buy proptech startup Skyline AI"
-    excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
-    publishedDateTime: 2021-08-11T14:56:00Z
-    webUrl: "https://realassets.ipe.com/news/jll-to-buy-proptech-startup-skyline-ai/10054457.article"
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2021-08-11T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
     type: article
     provider:
-      name: IPE
-      domain: ipe.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
+  - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
+    excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
+    publishedDateTime: 2021-08-09T09:15:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21171759/looking-deeper-into-microsoft-and-arrival-ev-collaboration"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 39
     images:
-      - url: "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/0/6/6/115066_skylineai_506777.png"
-        width: 561
-        height: 426
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/08/Robopilot___2.61101efcae793.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
         isCached: true
-  - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
-    excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
-    publishedDateTime: 2021-08-12T16:48:00Z
-    webUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up"
-    ampWebUrl: "https://www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
-    cdnAmpWebUrl: "https://www-businessoffashion-com.cdn.ampproject.org/c/s/www.businessoffashion.com/news/beauty/beauty-brand-il-makiage-acquires-ai-start-up/?outputType=amp"
-    type: article
-    provider:
-      name: The Business of Fashion
-      domain: businessoffashion.com
-    quality: 37
-  - title: "JLL to acquire artificial intelligence company, Skyline"
-    excerpt: "JLL announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that uses proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
-    publishedDateTime: 2021-08-12T14:23:00Z
-    webUrl: "https://rew-online.com/jll-to-acquire-artificial-intelligence-company-skyline/"
-    type: article
-    provider:
-      name: Real Estate Weekly
-      domain: rew-online.com
-    quality: 37
-    images:
-      - url: "https://rew-online.com/wp-content/uploads/2021/08/richardbloxam.jpg"
-        width: 427
-        height: 427
-        isCached: true
-  - title: "JLL to acquire AI startup that predicts future property values"
-    excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
-    publishedDateTime: 2021-08-11T17:46:00Z
-    webUrl: "https://www.bizjournals.com/chicago/news/2021/08/11/jll-to-acquire-skyline-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "2SX+CRAguCJqkqWU6qkoaJzCPWcMk9Z8e+dxDBQquXeQIiC17lJVxOSNRVFLcG2aINYGViZ15+XnWrUK5WFNZ+W+RTInvDZX3r+F14+GfRe/bZoISNMpwR+/n54E5h+H8WqTXHFc84WbRQ4D+uknrv71SSxCSgNPA0JpjoE6j6WeLI1gUCA6lEOgsddmkJOtd6vpMk+9bFg0P5oRWcF0fn1+mKRwqGV5PS42IY7nt0lOQl1JFXBNFclU2UiuqVrLK/ACP5lj2YjRbEPXMRwITxLPDSFvf4fFt816fcuBsgK0XYZE+i58SLt+ZLg9/WkMbYmCCZNsdLMtniM1T4QP095j2Hh8Nxp6HvVeuurZ8mYMU8GkAdpeEMpIbXgx7QbsLODj2Vg7Z/6qV70Fl4yLlMB4uoNv6dra/3dBMWSqA+6hdcLBiZYvuSpL/1/vBdnsZGTkMJk5D1G0I5Cmzu0NtHiuEUDxbMeBQH4LRnAQWC3rTuIdqTES80kNw74czSDT40uzckHL3skknZTKX0Lu1Q==;m+ZdwpOx1bxE0JoTLDtO7w=="
 ---

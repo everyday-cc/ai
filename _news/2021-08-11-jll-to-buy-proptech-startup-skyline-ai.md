@@ -100,20 +100,6 @@ related:
         width: 1100
         height: 750
         isCached: true
-  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
-    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
-    publishedDateTime: 2021-08-09T17:09:00Z
-    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
-        width: 4195
-        height: 2214
-        isCached: true
   - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
     excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
     publishedDateTime: 2021-08-12T16:48:00Z

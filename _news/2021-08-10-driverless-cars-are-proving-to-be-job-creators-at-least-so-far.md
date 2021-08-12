@@ -109,6 +109,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Pune students develop autonomous electric car using artificial intelligence"
+    excerpt: "Electric vehicles and self-driving technology are two subjects the automobile industry are very keenly working on. Researchers from various segments are also working on these technologies. A group of engineering students in Pune have developed a driverless autonomous electric car."
+    publishedDateTime: 2021-08-12T19:53:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/pune-students-develop-autonomous-electric-car-using-artificial-intelligence-41628752334028.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/pune-students-develop-autonomous-electric-car-using-artificial-intelligence/amp-41628752334028.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/pune-students-develop-autonomous-electric-car-using-artificial-intelligence/amp-41628752334028.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/08/12/600x338/49315301_1616758437930_1628756476318.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
     excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
     publishedDateTime: 2021-08-12T09:05:00Z

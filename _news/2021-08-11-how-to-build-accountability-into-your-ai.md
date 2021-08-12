@@ -3,8 +3,8 @@ category: news
 title: "How to Build Accountability into Your AI"
 excerpt: "It’s not easy to know how to manage and deploy AI systems responsibly today. But the U.S. Government Accountability Office has recently developed the federal government’s first framework to help assure accountability and responsible use of AI systems."
 publishedDateTime: 2021-08-11T12:25:00Z
-originalUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai"
-webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai"
+originalUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
 type: article
@@ -41,6 +41,6 @@ related:
         height: 420
         isCached: true
 
-secured: "Ux04J1rqAMxwtrXrVnqCYBXsc10kEX414on007UUBhnSRG0Sf8CqsghwgayB+IrLeToPKnKFQ6A4Jqw1FQw0h8oDYq/Rbe2lzMzvIegcYKN6w/Msmw9KeclIVGePYeisP8RX1nQKk4ZfKU9pMHgVK3lUHmkTk7q/Ok1UJzL6cc37mh7JyG8icj3O+HuskAxrt/wsbeA2rIorUAbr3YfUD0gKrz4ZDegNZoHS15mRXbZiDqbMUHPO/VRqsaDf62M35GiSqAN6BIwjNjq7WGf8H+19kg3l6VkB81KbE96vWTa6LCsfAvFZ8tWtK64Yhwhir4gfxvRboYymBbYnVg1s0OGR4RU0uo226ky37rs8nINCQ6p6AFpQuOS0XpU3h0F5mUS0IMbT9Tgsy3Q+xMqcMFcidhAvM/PVOgbH3w4mBeZHhMJHJg2Uy49zUhE3Up7WNmBi8liCj9f+V2QQmld8yRH+SUTXHkHAz96fkguXCVTJpJQfWjKyPiaP/QvZa1D0BG/pJ5OLbDNEURHB8YWb+w==;2P/oP20Oe9DHs2/Dmq8D1Q=="
+secured: "UdK5plKANrC8+E3bu/zZrGBYWs2TMzTBSKwVSTP2f+Ds+ua400ZHfzwkTUy6zHYE9D3qtPqTmw6c3MbQxySO9SpxDvV9FHRxm4I4Xz0lGISlMmjZsThsU/WAc1963flY1OC1sNYJvFdSQq6XIJJZFUxwfQ1itz9X2UIRR0Qd8dIOu+f4x02f7HzZ/2ezhazlqzR+reao7GjczWl3JbsWxJfmXhuxAx20Bc5fI9Ubn39HYQIoMU7Ji0YWmLxD8D7WF1urmdSrS/kUW7LstgnIbDI0WCDm4jGfgY115ASdbhhwc4ZjO/Dtjfnk/ynDM9xCrU2t1uMKTXyzgQHpxRIL+dg1Hlm/KYxw/fjqMeuydnc=;V2vUlg2SWJ/IU+cJaMl3qA=="
 ---
 
