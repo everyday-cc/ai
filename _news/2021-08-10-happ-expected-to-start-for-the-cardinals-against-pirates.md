@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brubaker expected to start for the Pirates against the Cardinals"
+    excerpt: "262 batting average, 4.00 ERA, outscored by four runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel: (hamstring)."
+    publishedDateTime: 2021-08-12T07:57:00Z
+    webUrl: "https://www.wiscnews.com/sports/baseball/professional/brubaker-expected-to-start-for-the-pirates-against-the-cardinals/article_33dfa71a-d972-51c0-8601-550933c0e264.html"
+    type: article
+    provider:
+      name: WiscNews
+      domain: wiscnews.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/custom/image/1e2024a6-abfb-11e4-82a6-97ddb52e92ae.png"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "NcfxpRrrnXyTr/J6L6466fdFg4xH52UpOqCEA1+t/2fA/ZU5/at4peXHWKi0OEfQhHnvRqTHpdzz/9QiP/L3TU3vdmpg7DXVRvmTG7p85HDh6/tngSBi41lKV76IMXAvWfYiuGChUdOhXGFNgk+u8SxQ+cSJT43axhbzBeRl/rLX+gImArVdZsD2YpB6QmgM/9N3ju9iWiYs9mX422UcI2T6eSbvNIihijkNZPuf9rgyQ1umsACLKj77SzABqJJ98pA+8UUrC0cpttj4SDrc1S5Lvp4jRvnC5EVUmAf3YE2Lvr4qOffLO55VnCm80kgMIDCZr1Jjz8/DCh+3kzA4ZkEvyXy9WR60yLl4Gfu177A=;xUa7N4KqoNc27TshWAzCiQ=="
 ---

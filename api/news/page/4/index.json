@@ -1167,21 +1167,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-08-commentary-how-ais-growing-influence-can-make-humans-less-moral.md",
-      "title": "Commentary: How AI’s growing influence can make humans less moral",
-      "excerpt": "It started out as a social experiment, but it quickly came to a bitter end. Microsoft’s chatbot Tay had been trained to have “casual and playful conversations” on Twitter, but",
+      "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
+      "title": "Is robot therapy the future?",
+      "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
       "sourceUrl": null,
-      "webUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
-      "originalUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.html",
+      "webUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "originalUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/b/f7/bf76a098-ac01-59a2-88e6-b708f22f7018/610b63ace354a.image.jpg?resize=1024%2C642",
-          "width": 1024,
-          "height": 642,
+          "url": "https://i.guim.co.uk/img/media/04168935be947f34b6dd019dc43d0a43310c9226/0_132_3960_2376/master/3960.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a94a1b689c298d5cd0fb20fc4aace0e",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1189,14 +1189,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
-      "cdnAmpWebUrl": "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html",
+      "ampWebUrl": "https://amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
       "publishedDateTime": "2021-08-08T01:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yakima Herald-Republic",
-        "domain": "yakimaherald.com",
-        "images": null,
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1205,7 +1214,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

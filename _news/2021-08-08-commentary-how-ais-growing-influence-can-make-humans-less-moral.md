@@ -9,8 +9,8 @@ ampWebUrl: "https://www.yakimaherald.com/opinion/commentary-how-ai-s-growing-inf
 cdnAmpWebUrl: "https://www-yakimaherald-com.cdn.ampproject.org/c/s/www.yakimaherald.com/opinion/commentary-how-ai-s-growing-influence-can-make-humans-less-moral/article_9a7948b8-0909-5370-83be-9f7e3101b9c1.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Yakima Herald-Republic
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nils Köbis: How AI’s growing influence can make humans less moral"
-    excerpt: "The dangerous trifecta of opacity, anonymity and distance makes it easier for people to turn a blind eye to what AI is doing, as long as AI provides them with benefits."
-    publishedDateTime: 2021-08-07T14:00:00Z
-    webUrl: "https://www.postbulletin.com/opinion/columns/7140121-Nils-Köbis-How-AI’s-growing-influence-can-make-humans-less-moral"
-    type: article
-    provider:
-      name: Post-Bulletin
-      domain: postbulletin.com
-    quality: 37
-    images:
-      - url: "https://www.postbulletin.com/incoming/7140125-f436up-OPED-AI-MORALITY-COMMENTARY-GET.jpg/alternates/BASE_LANDSCAPE/OPED-AI-MORALITY-COMMENTARY-GET.jpg"
-        width: 1140
-        height: 712
-        isCached: true
   - title: "AI’s growing influence can make humans less moral, by Nils Köbis, Iyad Rahwan and Jean-françois Bonnefon"
     excerpt: "Today, we increasingly interact with machines powered by artificial intelligence — AI-powered smart toys as well as AI-driven social media platforms that affect our preferences. Could machines ..."
     publishedDateTime: 2021-08-09T04:00:00Z
