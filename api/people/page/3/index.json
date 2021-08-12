@@ -14,7 +14,7 @@
       "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
-        "citations": 193935
+        "citations": 194092
       },
       "affiliation": {
         "path": "",
@@ -48,7 +48,7 @@
       "bio": "Professor Emeritus, EECS, UC Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=S6H-0RAAAAAJ",
-        "citations": 263842
+        "citations": 263885
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lotfi_A._Zadeh"
@@ -87,7 +87,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 150881
+        "citations": 150930
       },
       "affiliation": {
         "path": "",
@@ -122,7 +122,7 @@
       "bio": "DescriptionLydia E. Kavraki is a Greek-American computer scientist, the Noah Harding Professor of Computer Science, a professor of bioengineering, electrical and computer engineering, and mechanical engineering at Rice University. She is also the director of the Ken Kennedy Institute at Rice University.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Q6pxNZYAAAAJ",
-        "citations": 30785
+        "citations": 30791
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Lydia_Kavraki"
@@ -193,7 +193,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=o5YQMkMAAAAJ",
-        "citations": 41621
+        "citations": 41636
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Maja_Matari%C4%87"
@@ -229,7 +229,7 @@
       "bio": "CERN",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=3vZMAs4AAAAJ",
-        "citations": 184321
+        "citations": 184374
       },
       "affiliation": {
         "path": "",
@@ -296,7 +296,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 218105
+        "citations": 218216
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -335,7 +335,7 @@
       "website": "https://nickbostrom.com/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 18987
+        "citations": 18973
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
@@ -402,14 +402,14 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 11566
+        "followers": 11567
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 66764
+        "citations": 66785
       },
       "affiliation": {
         "path": "",
@@ -475,7 +475,7 @@
       "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 95086
+        "citations": 95165
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
@@ -503,7 +503,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 428591
+        "citations": 428944
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -597,7 +597,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47117
+        "citations": 47126
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Harry_Shum"
@@ -653,7 +653,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
-        "citations": 264699
+        "citations": 264897
       },
       "affiliation": {
         "path": "",
@@ -723,7 +723,7 @@
       "twitter": {
         "username": "MFordFuture",
         "url": "https://twitter.com/MFordFuture",
-        "followers": 48148
+        "followers": 48150
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
@@ -923,7 +923,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 386224
+        "followers": 386233
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -983,11 +983,11 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1523043
+        "followers": 1523049
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
-        "citations": 17659
+        "citations": 17666
       },
       "weibo": {
         "url": "https://www.weibo.com/kaifulee",
@@ -1030,7 +1030,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 27960
+        "followers": 27959
       },
       "topics": [
         "AI"
