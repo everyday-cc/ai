@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How can we make AI trustworthy"
-    excerpt: "The pace of AI innovation is happening so quickly that even the most technologically sophisticated governments are struggling to keep up."
-    publishedDateTime: 2021-08-07T18:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/articleshow/85136430.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/amp_articleshow/85136430.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/amp_articleshow/85136430.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-57493,msid-85136450/ai.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "QItOD8/x3Sqsx9Ycz0Gp7n4BN3Ck0Pe6U8v3VcLZkxYv9RdnnfuZd6XVUB1eey/1socro3rhqpQNPVcdn7XZteRgu7Syu7u8D9EgcSdGNxlaY+8KpmBU0KfWNIxBdiESdUJfwPp8RNPAoaOB9Y5XbGXksFwiG0X0peSEzQs18oAS3hrSr/CnvXD+DGLsIgp8aWXHR2/fyeR0rduTKV35V8GyZM9aB56NcTVVlkZTziO4veXX/zYU0F9kxON1Sn4xuWuakY8qFMac1jGnv4fpTsMHe45YeHy52okWb2Tw4RL7XHtHzVRk+y98rYr68646XsFfpff9bWrt+ncW9b4ibWf+/HUHAqlDnD+jyNCdMRQ=;HbiswzQcdYacrZdRa0mHYA=="
 ---

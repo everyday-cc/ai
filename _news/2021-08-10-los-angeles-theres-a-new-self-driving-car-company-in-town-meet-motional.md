@@ -39,6 +39,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
+    excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
+    publishedDateTime: 2021-08-12T11:36:00Z
+    webUrl: "https://www.analyticsinsight.net/bis-helping-organizations-innovate-workflows-with-intelligent-document-processing-and-data-integration/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 8
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Dan-Rotelli.jpg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "TiNWnRHdBX2jxpYsLgD+FTkrusqu6mC6bzqZlp7j2oDnZEqLyS/60h+zFIPDA4ho6zEakk7JWDySVJMycPzF/yGHGAz8V1kFkRP3Nd2itB1p0cnq44kV7vkLRGeb1suxdolqxLpYdEmNXhtywFLuJ7YtPAjvBDqcZkcZOsZ7svsGc4ojM1CxXftXW+vXclwkOJpvs1wLG3FcaSTpo5kJm2Gx8NJPR1nOG2QGWXx/2+TZNHWylA21Ua2PLtcdqo1hnFZyd61VuZ40vUJGgj+Dt+SWuBn4ACeD8Pau0glmZzxRiHh78xUn1tb1Cpl1zD5TsoTBk39ZsF5mdx3thb/0eev24bPk/dxs5jV5AVwxtI+oGx8q1JoZXKnxF7No5p15rqi00bNupiBeIlk2xE1SJBBLanCVpR0QMnZD8FvnPy/QlRcav0zjoaQ1ltqWrYBJ8dgxyj3CQP29gKfMOiHsV9xota9+60eU2hkDETqvzsOmRGDjjY7UoNgVeEduGf+QkoYV4bbjbS25Rpe7Fl8Q7Q==;VT6IVI8FoG77QCaa7TNhfA=="
 ---

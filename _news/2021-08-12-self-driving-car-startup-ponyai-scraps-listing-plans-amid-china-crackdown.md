@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pony.ai shelves US listing amid fears of China’s tech crackdown"
+    excerpt: "Pony.ai planned to merge with a US-based SPAC but feared pushback from Beijing if it made its debut in the US market, sources told Reuters."
+    publishedDateTime: 2021-08-12T11:39:00Z
+    webUrl: "https://www.techinasia.com/ponyai-shelves-listing-chinese-govt-crackdown-fears"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "China's tech crackdown thwarts Pony.ai's U.S. listing plans, report says"
     excerpt: "The decision makes Pony.ai one of the biggest companies to suspend its U.S. listing plans after China banned ride-sharing giant Didi Global from signing up new users just days after its blockbuster IPO in June."
     publishedDateTime: 2021-08-11T18:50:00Z

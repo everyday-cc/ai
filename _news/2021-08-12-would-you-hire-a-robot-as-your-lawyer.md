@@ -1,0 +1,96 @@
+---
+category: news
+title: "Would You Hire a Robot as Your Lawyer?"
+excerpt: "Robots are coming for the lawyers – which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance."
+publishedDateTime: 2021-08-12T11:54:00Z
+originalUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
+webUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: The Daily Beast
+  domain: thedailybeast.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Robots are coming for the lawyers — which may be great for anyone in need of cheap legal assistance"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it's hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-10T15:43:00Z
+    webUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lawyer.jpg"
+        width: 1920
+        height: 1439
+        isCached: true
+  - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
+    excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
+    publishedDateTime: 2021-08-10T02:09:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 28
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Robots are coming for the lawyers - which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance"
+    excerpt: "It turns out that you don’t need to completely automate a job to fundamentally change it. All you need to do is automate part of it."
+    publishedDateTime: 2021-08-11T03:34:00Z
+    webUrl: "https://www.thestreet.com/phildavis/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    ampWebUrl: "https://www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 28
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMDY2OTYwNzkwMDM3OTIz/file-20210730-21-nlw7em.jpg"
+        width: 620
+        height: 404
+        isCached: true
+  - title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-12T11:45:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/08/12/prc-robots-coming-for-lawyers-maybe-bad-for-attorneys-but-great-for-those-who-need-cheap-representation/"
+    type: article
+    provider:
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 24
+    images:
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/08/robotlawyer-1290x726.jpg"
+        width: 1290
+        height: 726
+        isCached: true
+  - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-10T21:50:00Z
+    webUrl: "https://japantoday.com/category/tech/robots-are-coming-for-the-lawyers-–-which-may-be-bad-for-tomorrow%27s-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 11
+
+secured: "POBYs2sWulP6sdID2JRpcCk2vMXkMiBR28n1pFhNSuTc2E7ZiWrBRZiIkHkNHbhaCmQmXMnE8XN23opvMGUtsWBPIduuMj7aVpKLoYpIjnPL4JBojK/TnTTvOkIfwkoewnMbox/chyGUrMd1SWhvQG9tH2u02sH7p3wyL42OT64zY/3WY4Qd8TiaCBGAMs4etXMOnbzqaTnL6im4+t6Ef6U6cBRd3zFd1qZRX3hjIDMeG07bAkUb3KHzG2erzBM+Y7XL95qDLJKwInWUSUbOBtN0PYnlF+jRHMWegZEoEnV86pa1shByfw5jlQkVoLFbeOY6nP2ek+hRoAnHrV+RSfsCo/2fZ1+P2bLFdZI/aPQ=;FCgXRy6n4QrZEBL7GX5Xpw=="
+---
+

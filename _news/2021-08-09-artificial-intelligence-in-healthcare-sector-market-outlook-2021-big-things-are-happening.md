@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Reasons for Tremendous Growth of Global LegalTech Artificial Intelligence Market during Forecast Year (2021-2030)."
+    excerpt: "In order to provide a penetrative market insight Absolute Markets Insights has added statistical data to its repository titled as LegalTech Artificial Intelligence market A comprehensive analysis of technical sector is presented lucidly with the help of exploratory research methodologies"
+    publishedDateTime: 2021-08-12T11:37:00Z
+    webUrl: "https://www.openpr.com/news/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
+    ampWebUrl: "https://www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812350385_g.jpg"
+        width: 800
+        height: 691
+        isCached: true
   - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
     publishedDateTime: 2021-08-10T06:41:00Z

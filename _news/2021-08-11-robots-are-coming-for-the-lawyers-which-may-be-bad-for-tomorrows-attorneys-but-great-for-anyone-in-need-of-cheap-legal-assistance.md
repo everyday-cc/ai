@@ -59,6 +59,29 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-12T11:45:00Z
+    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/08/12/prc-robots-coming-for-lawyers-maybe-bad-for-attorneys-but-great-for-those-who-need-cheap-representation/"
+    type: article
+    provider:
+      name: St. George News
+      domain: stgeorgeutah.com
+    quality: 24
+    images:
+      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/08/robotlawyer-1290x726.jpg"
+        width: 1290
+        height: 726
+        isCached: true
+  - title: "Would You Hire a Robot as Your Lawyer?"
+    excerpt: "Robots are coming for the lawyers – which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance."
+    publishedDateTime: 2021-08-12T11:54:00Z
+    webUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
   - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
     excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
     publishedDateTime: 2021-08-10T21:50:00Z

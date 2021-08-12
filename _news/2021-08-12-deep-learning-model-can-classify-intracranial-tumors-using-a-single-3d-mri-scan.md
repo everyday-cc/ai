@@ -43,22 +43,6 @@ related:
         width: 777
         height: 849
         isCached: true
-  - title: "Deep learning model classifies brain tumors with single MRI scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T14:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
-        width: 1721
-        height: 1881
-        isCached: true
   - title: "How artificial intelligence could find dementia with a single brain scan"
     excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
     publishedDateTime: 2021-08-10T12:36:00Z
@@ -88,6 +72,20 @@ related:
       - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_08_10_21_28_8592_2021_08_11_RSNA_MRI_deep_learning_social.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep learning model classifies brain tumors with single MRI scan"
+    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
+    publishedDateTime: 2021-08-11T14:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924825"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
+        width: 274
+        height: 300
         isCached: true
 
 secured: "f2nLHYoGxytdJr+I4uPzo4h5pCe8nAAtzGDlUHdcHn41D9wkpDAF4wizR8rFQ0GTnWvFIJEkcGHGPrwgKtPpKFgAcBbWJOGmFfLq2yqNrkmYlIXy9L/qKbNJrhU9MnllcdPW7x2xV575nGg5qHLi97LKAz6m3NtnjzWCxzu9Oerlr2jDFUB+uIG/sUD9t1Jaw0fIaEO+U/mj9GLax5NNGAIxcwtfeQW08LttCY2MQzVABPSdyXZrjCLkLEvFATsGFwtmxFdrNht4+DPOPwja1kze7D8bEmVDJsuk0pjG0xAC3jKA2MGunpsFwWy0XurSMxnVFeq3hrlPU2IKAjl+R+xgJNgv0BPD8SdeqPQZz4OSJaii3RSHw7yEbM5zvU9SLbugM1t2RVmVA1b8H4VwyqIyY9Y6kM7nxTsR8kGFxJtg6KUAt7E4H9MVtftTCMjcZIDMX/fKcvHVYW8rj1n5Vi5dylL9pXCf85xKVbCwBwschcL2v2pDveIH8yLCVeag6/+c+Otx2YxtGsof5kp+Fg==;5ADeYdA8b7jNO0WN/jv0PA=="

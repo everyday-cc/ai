@@ -44,6 +44,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "You told us: You aren't too enthusiastic about your phone's AI camera modes"
+    excerpt: "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera."
+    publishedDateTime: 2021-08-12T10:15:00Z
+    webUrl: "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/"
+    ampWebUrl: "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 85
+    images:
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "/+FjdQXUa7okOVesyNzjPQMouLALcjCkFYeZGQQV3dxBBHi3tkqQxlmxa4AN7CZ+EugaqNNVokzF/QTD+RrWQHCLts7ZxVYvSCUS+tPoBrb9RWa/qHKdEnD5M+fvJkCJGsWuoAL7AcgyLPqbb/eYXM5RIpmEHZAjo/ereQz1XwKLH6ae8TeDFWpcuXXiCfr4THFYtX9Kpv/avQLoMcaS6UHxQt5o0eIefCUWNx1Gv/BzHRkfMu1bx0FXch0+cJJ9c9GEJBZSCR/8zpf6qv84mukEnlRN35VCOUguhX8XQRGa+AhSwQ0qQk2jGQKMqQGBCnf+Npm1UFlvSEDBO7wB26EE9LQsDS2d98Z0AJnsToSJM/2WHUgna21U5CMssuVe45nWWqMTvT/nkhbKooyK0INgo8GqbRkHIZZT5ZLcl4nPlfA8S3jv6rAjVFa0CqhJ5idQTetmkgHnJ21C2y8uAjLi3ln932ulXjKcCNUmvhtrSyZ+Tk8I3GI7PyOkWafYK0GS20rCSAFhmzfroH8O5g==;ywbEPs+gW1eKdmLNQO+Q7Q=="
 ---

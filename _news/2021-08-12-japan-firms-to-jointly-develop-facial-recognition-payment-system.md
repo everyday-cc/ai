@@ -3,8 +3,8 @@ category: news
 title: "Japan firms to jointly develop facial recognition payment system"
 excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
 publishedDateTime: 2021-08-12T01:10:00Z
-originalUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
-webUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
+originalUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
+webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
 type: article
 quality: 39
 heat: -1
@@ -102,6 +102,6 @@ related:
         height: 974
         isCached: true
 
-secured: "AxREsPeBL4hLK87Hp7jkmY2fquC4ePCa73qs2TM//MYGSlTxmq4pnxg7F01j1J6XU0DVEUDyduKauaZ7lAp+76Rea3hvh5Kay0ZvB+aae0CaL0vEEyCCA8YRT0Arnz9JXGmC1zy7cw8ud1GKMkQGFA5J6Nr02IyxGb0QLBht698PB1uoRyo5a2sBZtnOwOTk+3O0cbW/ykeYgiV8UXZiloAAK1jekkdS+nP3ySHf9WElbnJEMsc/A2lZo7aBMrASavRD0m0skgDDqkXtb6/ah+qdWURQq9pd60EBuxhsB5xW/XSZhaxp5LW1ndoPuRHjyDfBO87ouLE97cEMlcr9J/PVmlu2QDI97H2hO6+Zfnpjn4NRv27sK2U+/rt9RuIN8N6SmKBVFa4pxaMopmLCEO17T+x+H9egVXanGPsSwypk9K2skN7Om4a0QDQRXY684dQztxvoAepR1eL/JmalpBF4aixNUYn5ZEzFH4lCVCCKzzCim+MUhlVf/VaT62vh4kxsWzLN0iJSm6FUNkrxgg==;3Ky8TiscIWTTcXAQuPGpaQ=="
+secured: "rS/ISk63o9g68BOUeomPcOAzw9e7RYVbnRkXTfqEwPryMgYUaA7K63NsQcbJcw4cxO4hg0C4txCApHBCBJUb8vxSRY3ExqQaauu/HSC/WSod2edvXIJHCJ4jBA63AOrA14gkcFGH/X5MkUeh/hv6GoJUDLqqlEat+veP1/tHXxepYoDbgLxdSDxo1jgUogMnVLjEbR6yEYihNDOjcbXulldeC2rtGAEDNRKF3v22O6cRCB2PlKVh5uufOvAYlcGfuFDbdkzR56gEOUOHB8F5Dlk4z2pIzxU/8h5XArRZmiAZ8XhIgddsNpziRV5iQUwDb+mz07tU1ZjUCEWf7xh1OImsjBSVI3ToWHQP+wuDPXc=;cN0vIvQUldG6uUNTFXygkw=="
 ---
 

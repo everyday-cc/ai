@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning model classifies brain tumors with single MRI scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T14:20:00Z
-    webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
-        width: 1721
-        height: 1881
-        isCached: true
   - title: "How artificial intelligence could find dementia with a single brain scan"
     excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
     publishedDateTime: 2021-08-10T12:36:00Z
@@ -88,6 +72,20 @@ related:
       - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_08_10_21_28_8592_2021_08_11_RSNA_MRI_deep_learning_social.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep learning model classifies brain tumors with single MRI scan"
+    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
+    publishedDateTime: 2021-08-11T14:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/924825"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
+        width: 274
+        height: 300
         isCached: true
 
 secured: "dsyfPJEInLNZmtRDUthQgMenB2cbkfi4Tl4UTIAxEAG/I4EBUcEaJoVgg5xT3ZEt6ro/iwCMGHJ3DRAelaR2EV7wQNtfm0gq5H9Uhp9TjtfyANNw7taHuuLfgrPca+wTCVw1Uf9Xc00r8OaFBy2veVcz4Dqe6C2w+2aqEspFCcYTq69OhoIJ94G7Rrzxalmqx+9VJqDdrZ7Lr+5P9fl4qq2vXWvula7dJI2bOtNXb0NzlJJGpbsYr4UHzZRu7ArdA28VKNvXUUiGVTf+NmV9GghLTMJMuKM+00G9NbTQ7eGD5Ei2b3DXJppFyy6fWP5sC+SkMKBdYIyUXzhTdO1ubF6HjAyPFCRX891vWomg5fhsCKNna5nizCXJ1LOQrRnueKTSTeNz0ntZfOu/MFeACzJGskt7+oh6gtrpiGLH3q+7ucvhfvGSogwaBjTFP+u7SqmfPPrKsfb7ehi1BJF4TlWY3Fv085tnAZr+M/edFE1xwusgnxYEs1iv4Fg4Bwx7ckoJWPrFOFBmqUFVE1zWnw==;m1QdsYMWiAiOpYR7IVH/TA=="

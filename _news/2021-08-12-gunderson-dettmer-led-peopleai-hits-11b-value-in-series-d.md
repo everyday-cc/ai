@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Ukraine-founded startup People.ai becomes ‘unicorn’ with $1.1 billion valuation"
+    excerpt: "Ukrainian startup People.ai has attracted $100 million of investment, bringing its total valuation to $1.1 billion, its founder Oleg Rogynsky said on Aug. 11. With this valuation, People.ai joins the club of the so-called ‘unicorns,"
+    publishedDateTime: 2021-08-12T11:10:00Z
+    webUrl: "https://www.kyivpost.com/technology/people-ai-becomes-unicorn.html"
+    type: article
+    provider:
+      name: Kyiv Post
+      domain: kyivpost.com
+    quality: 33
+    images:
+      - url: "https://www.kyivpost.com/wp-content/uploads/2021/08/56935306_1937928666319111_8722487745294893056_n.jpg"
+        width: 1024
+        height: 619
+        isCached: true
   - title: "Redwood City sales software startup People.ai joins unicorns in $100M funding"
     excerpt: "Sales software startup People.ai Inc., which just brought in $100 million in funding. #startups #venturecapital"
     publishedDateTime: 2021-08-11T14:14:00Z

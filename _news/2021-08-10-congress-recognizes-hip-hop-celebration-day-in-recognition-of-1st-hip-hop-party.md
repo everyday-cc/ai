@@ -62,7 +62,7 @@ related:
   - title: "Japan firms to jointly develop facial recognition payment system"
     excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
     publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/"
+    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
     type: article
     provider:
       name: Nippon

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -105,6 +105,22 @@ related:
       - url: "https://fintechnews.ch/wp-content/uploads/2021/08/Top-10-Leading-Fintech-in-France-by-Amounts-of-Funds-Raised.jpg"
         width: 2048
         height: 1136
+        isCached: true
+  - title: "The topmost challenges faced by developers while developing FinTech applications"
+    excerpt: "On the other hand, banking, insurance, and other financial institutions want to deploy FinTech (Financial Technologies) such as cloud, IoT (Internet of Things), intelligent automation, AI (Artificial Intelligence),"
+    publishedDateTime: 2021-08-12T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/the-topmost-challenges-faced-by-developers-while-developing-fintech-applications/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/the-topmost-challenges-faced-by-developers-while-developing-fintech-applications/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-topmost-challenges-faced-by-developers-while-developing-fintech-applications/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-1200-80.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now | Fintech Zoom"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai shelves US listing amid fears of China’s tech crackdown"
+    excerpt: "Pony.ai planned to merge with a US-based SPAC but feared pushback from Beijing if it made its debut in the US market, sources told Reuters."
+    publishedDateTime: 2021-08-12T11:39:00Z
+    webUrl: "https://www.techinasia.com/ponyai-shelves-listing-chinese-govt-crackdown-fears"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
   - title: "Self-driving car startup Pony.ai scraps listing plans amid China crackdown"
     excerpt: "Chinese self-driving car technology startup Pony.ai is reported to have scrapped plans to go public in the U.S. as the Chinese government continues to crack down and regulate various sectors of the country’s economy."
     publishedDateTime: 2021-08-12T01:33:00Z

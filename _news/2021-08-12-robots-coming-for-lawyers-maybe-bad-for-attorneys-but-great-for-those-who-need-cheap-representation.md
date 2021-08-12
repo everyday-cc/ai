@@ -1,0 +1,97 @@
+---
+category: news
+title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
+excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+publishedDateTime: 2021-08-12T11:45:00Z
+originalUrl: "https://www.stgeorgeutah.com/news/archive/2021/08/12/prc-robots-coming-for-lawyers-maybe-bad-for-attorneys-but-great-for-those-who-need-cheap-representation/"
+webUrl: "https://www.stgeorgeutah.com/news/archive/2021/08/12/prc-robots-coming-for-lawyers-maybe-bad-for-attorneys-but-great-for-those-who-need-cheap-representation/"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: St. George News
+  domain: stgeorgeutah.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/08/robotlawyer-1290x726.jpg"
+    width: 1290
+    height: 726
+    isCached: true
+
+related:
+  - title: "Robots are coming for the lawyers — which may be great for anyone in need of cheap legal assistance"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it's hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-10T15:43:00Z
+    webUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lawyer.jpg"
+        width: 1920
+        height: 1439
+        isCached: true
+  - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
+    excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
+    publishedDateTime: 2021-08-10T02:09:00Z
+    webUrl: "https://www.seattlepi.com/news/article/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    ampWebUrl: "https://www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 28
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Robots are coming for the lawyers - which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance"
+    excerpt: "It turns out that you don’t need to completely automate a job to fundamentally change it. All you need to do is automate part of it."
+    publishedDateTime: 2021-08-11T03:34:00Z
+    webUrl: "https://www.thestreet.com/phildavis/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    ampWebUrl: "https://www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/robots-are-coming-for-the-lawyers-which-may-be-bad-for-tomorrows-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 28
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMDY2OTYwNzkwMDM3OTIz/file-20210730-21-nlw7em.jpg"
+        width: 620
+        height: 404
+        isCached: true
+  - title: "Would You Hire a Robot as Your Lawyer?"
+    excerpt: "Robots are coming for the lawyers – which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance."
+    publishedDateTime: 2021-08-12T11:54:00Z
+    webUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 19
+  - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
+    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
+    publishedDateTime: 2021-08-10T21:50:00Z
+    webUrl: "https://japantoday.com/category/tech/robots-are-coming-for-the-lawyers-–-which-may-be-bad-for-tomorrow%27s-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 11
+
+secured: "4vnZAObqTQ3tWw5MsSLifH9WQJ5pNAFFJMsUZmKgL+AA7chh+MhgYcJXOrrdpylfdEoCs2DRk4xozEotIXgMmdfRHv4dprBjo40TsaJOUbJ0+JVZhcq0Q7m7pUSg/EsIBHc46T+H1glhMI1Dc7kmjq0u52R0RT5mIDw74UJLsb0agGOX7qiMFt/0DBTNmJMblfDFwYrL42O0wmUlBL7/zqeyYlCb32M1jTYC0ACdvITPY/n5bBdYDIYtZMmUlieFltFXl/BhSq1XEX9QPnNTYbfMplrt49NP0hU7f0Ja3KU6kUYMGNU5zZRvBt4i+nOv6B13gtSogiHvA/X6ZtDnzYNqOaw+I9BLYoB+LleYuH4=;8/tOM1/7GvBPF9siE5T4dA=="
+---
+

@@ -93,6 +93,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Oracle Announces MySQL Autopilot To Improve The Performance & Scalability Of MySQL HeatWave Service"
+    excerpt: "Oracle announced the availability of MySQL Autopilot — a new component of MySQL HeatWave service in Oracle Cloud Infrastructure"
+    publishedDateTime: 2021-08-12T10:48:00Z
+    webUrl: "https://analyticsindiamag.com/oracle-announces-mysql-autopilot-to-improve-the-performance-scalability-of-mysql-heatwave-service/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 10
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Oracle.jpeg"
+        width: 675
+        height: 371
+        isCached: true
 
 secured: "PhqVbCluF2kgvh9JKX3ReFC0cX86JwwEt08pXczpRmZHhEy9/spScKaHDxJD9GV9p6+UwrPKUljzB+BtPU2Y9TgHk7Rl7ciOy4a/vT/Z+m7aeNJBdq9n1pz8dWrF+vvXzKT7KSn7mXtZ9GjdYmBdJHQbYbXgO9RmIjw/jjRmfDSTzTcM5m+4lo8450Wl9gd+3bSAKzMxJGjaGwDlDbbPyzjWPlYXLuMjjooY1WOgCpLGWMCOX3+UB6CbC2zKss1P2tLJUlWe/bgOPMsxoNGTWPFUgclFMQMl04MIVg3yf5YxF7r8r9dDSZp3b48QvHy9n4eSS8VP8mMzPaerC6IGmoAsuZjxOA/kE6oHJxL/I42lQG4nvAAhsNJeP5g/rOibzn9F5ZcqTiEe6DTIK7t61r0GnVBddRoDGg5StR0sCGQxwoJSt45qG1Ow2DxGf2lm401WYZiinX2+MYeDrj+NZTwZDtfRxUEM8lEN3fZ8uE5/PvIi8HTIPHpXBm6m76Gtk2guII0I5VjrDjlb2krZ0A==;hIbtg71Rg50+mWI15WvgcA=="
 ---

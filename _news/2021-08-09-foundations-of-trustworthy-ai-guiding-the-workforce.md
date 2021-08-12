@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-wo
 webUrl: "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/"
 type: article
 quality: 119
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc66fc1dceffe79c454b11%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How can we make AI trustworthy"
-    excerpt: "The pace of AI innovation is happening so quickly that even the most technologically sophisticated governments are struggling to keep up."
-    publishedDateTime: 2021-08-07T18:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/articleshow/85136430.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/amp_articleshow/85136430.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/how-can-we-make-ai-trustworthy/amp_articleshow/85136430.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-57493,msid-85136450/ai.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "AI researchers trust international, scientific organizations most"
     excerpt: "Researchers working in the areas of machine learning and artificial intelligence trust international and scientific organizations the most to shape"

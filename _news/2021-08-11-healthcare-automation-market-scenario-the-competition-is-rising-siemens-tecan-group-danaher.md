@@ -26,6 +26,19 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Artificial Intelligence in Healthcare Market Next Big Thing | Major Giants- NVIDIA, Medtronic, Siemens"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Healthcare Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 38
+
 secured: "eQcvpP48jXbJp9Or4vcWKO35WgAKcRHaJ4WunOGsmRfL7zcN7Tj8S/QIeUOTKv/Tlc982hjwwpSANlfA3zjTG4Yz2WfH9RqUSTul1OP9K2TJE/6jmNo3fTsXIKBB/HCm76Y1BB9PhckPK7ShQChQl3g6j33Ri7UA44BhWBfSgaKvAbkeFuqqd8DDyQoY49T2J4J9t1HFIauoBDfif+ChFmyGyCvcfRkhIZkqQhC9OFhHwDt5OWnIWaozWkjZ/YqnL/9rag+kYSm07+bkK7FXLQ1krK1yO18/rUkFF0go4HHdw6YtBdeThaGj95nKoDFNAi8rSKrsOKE3KoKzrQ/k1UAwfr0rAJRW44VC1vyi1Zs=;lI5VhqYFPClJMtmoRJiwPA=="
 ---
 

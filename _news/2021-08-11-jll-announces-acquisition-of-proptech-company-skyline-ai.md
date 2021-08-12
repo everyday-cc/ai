@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "JLL to Acquire Artificial Intelligence Leader Skyline AI"
+    excerpt: "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”"
+    publishedDateTime: 2021-08-12T11:04:00Z
+    webUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/"
+    ampWebUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
+    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 72
+    images:
+      - url: "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg"
+        width: 621
+        height: 372
+        isCached: true
   - title: "JLL purchases artificial intelligence startup"
     excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
     publishedDateTime: 2021-08-11T21:15:00Z
