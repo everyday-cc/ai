@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-16-carnegie-melon-professor-develops-real-time-learning-four-legged-robot.md",
+      "title": "Carnegie Melon professor develops real-time learning four-legged robot",
+      "excerpt": "The artificial intelligence robot developed by Carnegie Melon University Professor Deepak Pathak can adapt in real-time and teach itself how to maneuver through rocks, sand, grass and oil-covered surfaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "originalUrl": "https://www.upi.com/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/ph/st/th/7871626448726/2021/i/16264493693954/v1.5/Carnegie-Melon-professor-develops-real-time-learning-four-legged-robot.jpg?lg=2",
+          "width": 637,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Odd_News/2021/07/16/robot-learns-real-time-adapts/7871626448726/",
+      "publishedDateTime": "2021-07-16T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market.md",
       "title": "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market",
       "excerpt": "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to",
@@ -1363,40 +1406,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-09-correcting-and-replacing-artificial-intelligence-leader-datarobot-to-host-morgantown-job-fair-tuesday-713.md",
-      "title": "CORRECTING and REPLACING Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13",
-      "excerpt": "Artificial Intelligence Leader DataRobot to Host Morgantown Job Fair Tuesday, 7/13 (instead of Artificial Intelligenc",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713",
-      "originalUrl": "https://www.businesswire.com/news/home/20210708005816/en/CORRECTING and-REPLACING-Artificial-Intelligence-Leader-DataRobot-to-Host-Morgantown-Job-Fair-Tuesday-713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-08T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,446 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-06-11-cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence.md",
+      "title": "Cadwell Partners with EnsoData to Transform the Patient-Clinician Relationship Using Artificial Intelligence",
+      "excerpt": "Cadwell Industries, Inc., a global leader in neurodiagnostic and neuromonitoring solutions, today announces a partnership with EnsoData, a healthcare artificial intelligence (AI) company",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cadwell-partners-with-ensodata-to-transform-the-patient-clinician-relationship-using-artificial-intelligence/article_75282421-3085-5468-81ee-f99b0093354a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026.md",
+      "title": "June 2021 Report on Global Artificial Intelligence (AI) in Education Market Overview, Size, Share and Trends 2021-2026",
+      "excerpt": "The Artificial Intelligence (AI) in Education market report provides a detailed analysis of global market size, regional",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/june-2021-report-on-global-artificial-intelligence-ai-in-education-market-overview-size-share-and-trends-2021-2026-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T02:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-google-is-training-ai-to-design-the-next-generation-of-chips.md",
+      "title": "Google is training AI to design the next generation of chips",
+      "excerpt": "The authors note that Google is putting it into action and using their research to design the upcoming version of Google’s own Tensor Processing Unit ( TPU) chips, which are optimized to handle AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
+      "originalUrl": "https://www.techradar.com/uk/news/google-is-training-ai-to-design-the-next-generation-of-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-is-training-ai-to-design-the-next-generation-of-chips",
+      "publishedDateTime": "2021-06-11T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm.md",
+      "title": "Intel debates buyout of SiFive to bolster chip technology against ARM",
+      "excerpt": "Intel Corp is debating a possible offer to buy SiFive Inc, a person familiar with the matter told Reuters, a company closely associated with open-source technology that is challenging the rise of Intel's rival,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/06/Intel_Reuters_1_NEW.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/intel-debates-buyout-of-sifive-to-bolster-chip-technology-against-arm-7354276/lite/",
+      "publishedDateTime": "2021-06-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-huawei-seeks-to-develop-its-driverless-car-technology-by-2025.md",
+      "title": "Huawei seeks to develop its driverless car technology by 2025",
+      "excerpt": "Huawei Technologies is aiming on developing its driverless passenger car technology by the year 2025. The news arrives from a statement made by a company executive earlier this week, as the firm seeks to expand its business scope in the automobile industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "originalUrl": "https://www.gizmochina.com/2021/06/11/huawei-to-develop-self-driving-car-technology-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/07/EZjM-fzxzwuy4885313.jpg",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-hunt-sets-driverless-truck-test-in-texas.md",
+      "title": "Hunt sets driverless truck test in Texas",
+      "excerpt": "J.B. Hunt Transport Services Inc. is testing a driverless Waymo truck in Texas ... J.B. Hunt 360, by using artificial intelligence and machine learning tools. Meanwhile, developments in consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "originalUrl": "https://www.nwaonline.com/news/2021/jun/11/hunt-sets-driverless-truck-test-in-texas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northwest Arkansas Democrat Gazette",
+        "domain": "nwaonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028.md",
+      "title": "Conversational Artificial Intelligence Market Trends, Demand and Global Industry Research Report 2020-2028",
+      "excerpt": "The global conversational Artificial Intelligence (AI) market size reached USD 4.91 Billion in 2020 and is expected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-trends-demand-and-global-industry-research-report-2020-2028-2021-06-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-10T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-jumpcut-ai-based-production-studio-launches-to-unearth-train-underserved-storytellers.md",
+      "title": "Jumpcut AI-Based Production Studio Launches To Unearth, Train Underserved Storytellers",
+      "excerpt": "Jumpcut uses artificial intelligence to find undiscovered talent from around the globe, develop it, and get it sold. Founded by a Wharton AI professor, the company came out of stealth mode today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c2dded616fbd5e8a08c4c0%2F0x0.jpg",
+          "width": 915,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/06/11/jumpcut-ai-based-studio-launches-to-unearth-train-underserved-storytellers/amp/",
+      "publishedDateTime": "2021-06-10T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-11-alibaba-to-develop-self-driving-trucks-with-logistics-unit-cainiao.md",
+      "title": "Alibaba to develop self-driving trucks with logistics unit Cainiao",
+      "excerpt": "The announcement comes as dozens of startups, automakers and large technology firms, such as internet search leader Baidu Inc , accelerate work on self-driving vehicle systems, which are widely expected to bring a sea change to the transportation industry.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
+      "originalUrl": "https://cn.reuters.com/article/china-logistics-idCNL2N2NS05C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210610&t=2&i=1565145295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5903O",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL2N2NS05C",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2NS05C",
+      "publishedDateTime": "2021-06-10T22:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-11-how-pytorch-is-challenging-tensorflow-lately.md",
       "title": "How PyTorch Is Challenging TensorFlow Lately",
       "excerpt": "PyTorch gives our researchers unprecedented flexibility in designing their models and running their experiments.",
@@ -730,437 +1170,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-how-ai-could-radically-change-education-and-standardized-testing.md",
-      "title": "How AI could radically change education and standardized testing",
-      "excerpt": "Commentary: Find out how artificial intelligence could help shape new, game-changing forms of student assessment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/22/b6251c91-0aad-4704-ac28-978f08b1ebf5/resize/1200x/cb27a2c72afe520ecccde860b8b38bad/maksym-belchenko.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-radically-change-education-and-standardized-testing/",
-      "publishedDateTime": "2021-06-10T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-06-11-artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027.md",
-      "title": "Artificial Intelligence in Supply Chain Market Evolving Technology and Growth Outlook 2021 to 2027",
-      "excerpt": "New Analysis Of Artificial Intelligence in Supply Chain Market overview, spend analysis, imports, segmentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-evolving-technology-and-growth-outlook-2021-to-2027-2021-06-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot.md",
-      "title": "Waymo and J.B. Hunt partner to bring autonomous trucks to Texas in new pilot",
-      "excerpt": "Waymo will be moving freight for a major customer of transportation logistics company J.B. Hunt Transport Services under what the two companies are calling a “test run” that will take place in one of the country’s busiest trade corridors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "originalUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/waymo-via.png?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/10/waymo-and-jb-hunt-partner-to-bring-autonomous-trucks-to-texas-in-new-pilot/amp/",
-      "publishedDateTime": "2021-06-10T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-using-artificial-intelligence-to-personalize-therapy-and-individual-level-of-outcome-prediction.md",
-      "title": "Using Artificial Intelligence to Personalize Therapy and Individual Level of Outcome Prediction",
-      "excerpt": "The MSKCC model was reported on risk stratification of 670 patients treated there with interferon therapy. The IMDC model is based on data from a real-world patient population from multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
-      "originalUrl": "https://www.medpagetoday.com/reading-room/asco/immunotherapy/93023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-self-driving-technology-company-argo-ai-plans-ipo-within-a-year.md",
-      "title": "Self-driving technology company Argo AI plans IPO within a year",
-      "excerpt": "Shares in Argo AI, which is backed by Ford and Volkswagen Group, could be listed on a stock exchange before 2022 is out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "originalUrl": "https://www.motorauthority.com/news/1132546_self-driving-technology-argo-ai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100777433_h.jpg",
-          "width": 1920,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Authority",
-        "domain": "motorauthority.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-reality-of-artificial-intelligence.md",
-      "title": "The Reality Of Artificial Intelligence",
-      "excerpt": "Fundamentally, it is the science that enables machines to translate, execute and investigate ... and understand data by mimicking human natural language. Of course, there are technologies that enable AI. We live in the era of the internet of things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "originalUrl": "https://www.commercialintegrator.com/business_resources/artificial-intelligence-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/06/AI.jpeg",
-          "width": 1000,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Integrator",
-        "domain": "commercialintegrator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-journey-from-smart-buildings-to-cognitive-cities.md",
-      "title": "The Journey From Smart Buildings To Cognitive Cities",
-      "excerpt": "The digital evolution of cities has resulted in cities becoming increasingly competitive, sustainable and prosperous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60119bd673d98c63b706c92d%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/10/the-journey-from-smart-buildings-to-cognitive-cities/amp/",
-      "publishedDateTime": "2021-06-10T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-the-bot-revolution-stalls-as-ai-is-difficult-to-scale.md",
-      "title": "The Bot Revolution Stalls As AI Is Difficult To Scale",
-      "excerpt": "When a company can evaluate and quantify the impact of automation, it can identify why the AI was or wasn’t successful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60bfd681bb1be6b81e45c9fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/10/the-bot-revolution-stalls-as-ai-is-difficult-to-scale/amp/",
-      "publishedDateTime": "2021-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-vivaldis-launching-an-email-client-rss-reader-and-translation-tool.md",
-      "title": "Vivaldi’s launching an email client, RSS reader, and translation tool",
-      "excerpt": "Vivaldi is launching new tools, including an email client, a calander app, a feed reader, and a translation tool with its browser update.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-      "originalUrl": "https://thenextweb.com/news/vivladi-4-email-client-translation-tool-feed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FVivaldi-4.0.jpg&signature=bd279527fe8dfcc5dbcafe44f09b2916",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

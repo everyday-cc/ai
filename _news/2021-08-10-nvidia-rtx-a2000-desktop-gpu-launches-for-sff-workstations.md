@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA RTX A2000: the most compact and power-efficient GPU"
+    excerpt: "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October."
+    publishedDateTime: 2021-08-12T13:26:00Z
+    webUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/"
+    ampWebUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 59
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg"
+        width: 1420
+        height: 946
+        isCached: true
   - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
     excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
     publishedDateTime: 2021-08-11T17:18:00Z

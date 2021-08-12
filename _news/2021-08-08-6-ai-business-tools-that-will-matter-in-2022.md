@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "Smarter Business – Harnessing Artificial Intelligence"
+    excerpt: "In this contributed article, Gary Bhattacharjee Head of the Global Practice for AI at Infosys, details how AI can transform businesses into the 'autonomous enterprises of tomorrow' and highlights where AI can make the most impact on an organization."
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/12/smarter-business-harnessing-artificial-intelligence/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "d1w1VfVzVwZ9xiJcbi26OeNxPNEohPbR/4qKPANzaOJGxiLpuhKZAEADWmM8WKCYnb2PkvTBMsvpMspnOXyFvpn9hf0uOnVYuP9ugLSaPH3BTIEGUTSgbvkRnZUQKHWa21EicoObKLi+2M/Y5UZ8a9MGStiDnfyUIq7e/6eqfcdCSeADMoEmSV9y6OrRgnBDKWdziq0Z+zXqWJ28pqcuoOt2pI/CC9jhPvN+fS0lUpx5F2ah4lC2C7FOAC8XSNfSGVD+/sgxeMet7ZV37J2Knb0J+8+4LvKmFm8GP0TffbbWKaPd4dMGtt9RJB+hCAqnRHREmcbGr0SWbS4YnTChXnziVHtCm4Vv8XY83cfPDdDuV5RtJQRfiqN9i2lL/TVVzSTQz0p1Us0fNMf1xpTb5Tlwsho2Cj5WwJ4+2EvCpQnrOdSbwCkp7iRh7fU5X201aL721UBt6uPLIHed2Wk5wBX7bLJEn2SlFLBtj2SBgh9fVUETJeYvExXuuxOb51gNN9of3Pcv8lqu0JCx6+9Kvw==;wSVOVna2mIXMepneS+LdSg=="
 ---

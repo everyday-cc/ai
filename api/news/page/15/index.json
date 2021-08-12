@@ -2,6 +2,420 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-29-intel-ministry-of-education-launch-ai-for-all-in-india.md",
+      "title": "Intel, Ministry of Education launch 'AI For All' in India",
+      "excerpt": "Chip maker Intel on Thursday partnered with Central Board of School Education (CBSE), Ministry of Education to announce the launch of an initiative -- 'AI For All' -- that aims to create a basic understanding of Artificial Intelligence (AI) for everyone in India.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india",
+      "originalUrl": "https://www.freepressjournal.in/business/intel-ministry-of-education-launch-ai-for-all-in-india",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/business/intel-ministry-of-education-launch-ai-for-all-in-india/5afa6e56-6c30-4b0e-a0fa-9867d94a8a12",
+      "publishedDateTime": "2021-07-29T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board.md",
+      "title": "AiM Medical Robotics Appoints Dr. Babak Kateb to Medical Advisory Board",
+      "excerpt": "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that it is appointing Dr. Babak Kateb, founding Chairman of the Board of Directors & CEO of SBMT,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services.md",
+      "title": "Ayla Launches New Predictive AI Solution, Enabling ISPs to Deliver Smarter Broadband Services",
+      "excerpt": "Ayla Networks, a leader in Internet of Things (IoT) platforms that accelerate digital transformation for consumer brands and Internet service providers (ISPs), today announced Ayla TransformAI, a breakthrough predictive machine-learning based solution for ISPs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "originalUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a.md",
+      "title": "Canadian Conversational AI Design Tool Voiceflow Raises $20 Million In Series A",
+      "excerpt": "Canadian collaborative conversational AI tool Voiceflow announced today that it has raised $20 million in a Series A round led by Felicis Ventures. Other investors include Craft Ventures, True Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/",
+      "originalUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610294efdd8dd3255c0ee929%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D0%26cropY2%3D1125",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/07/29/canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a/amp/",
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-honeypot-security-technique-can-also-stop-attacks-in-natural-language-processing.md",
+      "title": "Honeypot security technique can also stop attacks in natural language processing",
+      "excerpt": "As online fake news detectors and spam filters become more sophisticated, so do attackers' methods to trick them—including attacks through the \"universal trigger.\" In this learning-based method, an attacker uses a phrase or set of words to fool an indefinite number of inputs.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.html",
+      "originalUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/cybersecurity.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-07-honeypot-technique-natural-language.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-honeypot-technique-natural-language.amp",
+      "publishedDateTime": "2021-07-29T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-what-you-need-to-know-about-ai-security-even-if-your-company-isnt-using-ai-yet.md",
+      "title": "What You Need To Know About AI Security — Even If Your Company Isn’t Using AI Yet",
+      "excerpt": "No matter where you are on your AI adoption journey, AI security is something every leader needs to understand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d6272044f64cecc234fa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/29/what-you-need-to-know-about-ai-security---even-if-your-company-isnt-using-ai-yet/amp/",
+      "publishedDateTime": "2021-07-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial.md",
+      "title": "Capital One exec shares why building diverse teams in AI and finance is so crucial",
+      "excerpt": "Teuta Mercado shares how diversity is not limited to race, ethnicity and religion, but also economic, experience, and education diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/",
+      "originalUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/TeutaMercado_Headshot-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/29/capital-one-exec-shares-why-building-diverse-teams-in-ai-and-finance-is-so-crucial/amp/",
+      "publishedDateTime": "2021-07-29T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals.md",
+      "title": "TuSimple's Self-Driving Trucks to Use Ryder Sites as Terminals",
+      "excerpt": "Self-driving truck technology company TuSimple Holdings Inc said on Thursday its trucks will use truck leasing and rental company Ryder System Inc's maintenance sites as terminals to help it expand its U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-07-29/tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-07-29/tusimples-self-driving-trucks-to-use-ryder-sites-as-terminals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-conversenow-boosts-restaurant-ordering-ai-with-15m-raise.md",
+      "title": "ConverseNow boosts restaurant-ordering AI with $15M raise",
+      "excerpt": "ConverseNow, a company developing an automated restaurant ordering platform, has raised $15 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/",
+      "originalUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/02/restaurant-mobile-e1626795325707.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/29/conversenow-raises-15m-to-automate-restaurant-order-taking/amp/",
+      "publishedDateTime": "2021-07-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-artificial-intelligence-ai-market-in-bfsi-sector-market-is-booming-worldwide-ibm-microsoft-google.md",
       "title": "Artificial Intelligence (AI) Market in BFSI Sector Market is Booming Worldwide | IBM, Microsoft, Google",
       "excerpt": "HTF MI added a new research study on Global Artificial Intelligence (AI) Market in BFSI Sector Market in its repository, aims to offers a detailed overview of the factors influencing the worldwide business orientation and overall outlook.",
@@ -708,445 +1122,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines.md",
-      "title": "AI-driven Deep Genomics gets $180M to turn biology into informational medicines",
-      "excerpt": "Softbank led the Series C round of funding for Deep Genomics, a startup that applies its artificial intelligence technology to all aspects of discovering and developing new drugs. The Deep Genomics platform has yielded 10 programs;",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
-      "originalUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/07/Brendan_Frey.jpg",
-          "width": 1487,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-facebook-chatbots-werent-shut-down-for-creating-language.md",
-      "title": "Facebook – Facebook chatbots weren’t shut down for creating language",
-      "excerpt": "Facebook discontinued two “AI robots” after they developed their own language . It’s hard to escape artificial intelligence. From algorithms curating social media",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/13/USAT/81ade0d0-9048-4d9d-ad7c-d6cfdd50eec8-479c7ac2-491a-4c7a-bb0a-9c8f956a2665_thumbnail.png?width=660&height=371&fit=crop&format=pjpg&auto=webp",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-fact-check-facebook-didnt-pull-the-plug-on-two-chatbots-because-they-created-a-language.md",
-      "title": "Fact check: Facebook didn't pull the plug on two chatbots because they created a language",
-      "excerpt": "Facebook discontinued two \"AI robots\" after they developed their own language It's hard to escape artificial intelligence. From algorithms curating social media feeds to personal assistants on smartphones and home devices,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-07-fact-facebook-didnt-chatbots-language.html",
-      "originalUrl": "https://techxplore.com/news/2021-07-fact-facebook-didnt-chatbots-language.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-facebook.jpg",
-          "width": 1920,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-07-fact-facebook-didnt-chatbots-language.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-07-fact-facebook-didnt-chatbots-language.amp",
-      "publishedDateTime": "2021-07-28T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-can-ai-have-emotional-intelligence.md",
-      "title": "Can AI Have Emotional Intelligence?",
-      "excerpt": "Dr. Rana el Kaliouby is the author of Girl Decoded and a leading expert on technology and empathy and the ethics of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610185027ed9e3b17ef2392c%2F0x0.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/28/can-ai-have-emotional-intelligence/amp/",
-      "publishedDateTime": "2021-07-28T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier.md",
-      "title": "Financial firms should leverage machine learning to make anomaly detection easier",
-      "excerpt": "Anomaly detection is one of the more difficult and underserved operational areas in the asset-servicing sector of financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
-      "originalUrl": "https://techcrunch.com/2021/07/28/financial-firms-should-leverage-machine-learning-to-make-anomaly-detection-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1263395015.jpg?w=711",
-          "width": 711,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-harvard-scientists-are-using-ai-to-search-for-alien-technology.md",
-      "title": "Harvard scientists are using AI to search for alien technology",
-      "excerpt": "The Galileo Project will use AI, a network of telescopes, and astronomical surveys to hunt for tech created by aliens.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology",
-      "originalUrl": "https://thenextweb.com/news/gallileo-project-using-ai-to-search-for-alien-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FUntitled-design-9-2.jpg&signature=eeca452c05366034ecb928c2ca14d22c",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-using-ai-to-map-africas-buildings.md",
-      "title": "Using AI to map Africa’s buildings",
-      "excerpt": "Between 2020 and 2050, Africa’s population is expected to double, adding 950 million more people to its urban areas alone. However, according to 2018 figures, a scarcity of affordable housing in many African cities has forced over half of the city dwellers in Sub-Saharan Africa to live in informal settlements.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "originalUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BINK_GoogleHero_Open-Buildings_V2b_2096x11.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-africa/using-ai-to-map-africas-buildings/amp/",
-      "publishedDateTime": "2021-07-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test.md",
-      "title": "Remark AI Finishes in Top 5 in Recent NIST Computer Vision Test",
-      "excerpt": "Remark Holdings, Inc. (NASDAQ: MARK), a diversified global technology company with leading artificial intelligence (\"AI\") solutions and digital media properties, today announced that the latest software from its Remark AI business achieved a top-five ranking in a recent computer-vision test (the Face Recognition Vendor Test,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/remark-ai-finishes-in-top-5-in-recent-nist-computer-vision-test-1030656854",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583226/NIST_FRVT_Face_Mask_Effects.jpg",
-          "width": 400,
-          "height": 263,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-artificial-intelligence-in-bfsi-market-trends-and-forecast-2028.md",
-      "title": "Artificial Intelligence in BFSI Market Trends and Forecast 2028",
-      "excerpt": "The Global Artificial Intelligence in BFSI Market is estimated to value over USD 304.7 billion by 2028 finish at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-trends-and-forecast-2028-2021-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-trends-and-forecast-2028-2021-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

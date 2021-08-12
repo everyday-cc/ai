@@ -7,7 +7,7 @@ originalUrl: "https://www.autocar.co.uk/car-news/new-cars/audi-skysphere-concept
 webUrl: "https://www.autocar.co.uk/car-news/new-cars/audi-skysphere-concept-shape-shifting-self-driving-roadster"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Audi’s future revealed: Self-driving and shape-shifting grand tourer"
-    excerpt: "Is this the future of luxury motoring? The new Audi Skysphere concept is an electric two-door convertible that can drive itself and even adjust its length, and it’s a key indicator of what is to come from the German brand in the near future."
-    publishedDateTime: 2021-08-10T23:19:00Z
-    webUrl: "https://www.speedcafe.com/torquecafe/audis-future-revealed-self-driving-and-shape-shifting-grand-tourer/"
+  - title: "Audi unveils the Skysphere: A futuristic, sinister-looking EV roadster concept car in new direction for automaker"
+    excerpt: "The roadster concept can change sizes based on driving modes and boasts a digital cockpit with a retractable steering wheel that can stow away."
+    publishedDateTime: 2021-08-11T12:56:00Z
+    webUrl: "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
     type: article
     provider:
-      name: Speedcafe
-      domain: speedcafe.com
-    quality: 24
+      name: CNBC
+      domain: cnbc.com
+    quality: 151
     images:
-      - url: "https://media4.speedcafe.com/wp-content/uploads/2021/08/A215691_large_CROPPED.jpg"
-        width: 1200
-        height: 800
+      - url: "https://image.cnbcfm.com/api/v1/image/106924533-1628598021502Audi_skysphere_concept_PB21_16.jpg?v=1628598991"
+        width: 1080
+        height: 1350
         isCached: true
   - title: "The Audi Skysphere concept is a self-driving electric roadster"
     excerpt: "Audi has revealed a new concept car called Skysphere, which previews the firm’s future design direction for the luxury sector. It’s a two-door convertible with an electric powertrain, but what makes this a fanciful concept car is its ‘variable wheelbase’."

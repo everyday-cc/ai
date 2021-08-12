@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638007%2Fgettyimages-1316521044.jpg&w=1200&op=resize"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-12T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg"
+        width: 400
+        height: 295
         isCached: true
   - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
     excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
@@ -179,6 +193,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "IIHUeJ/bBqYgDoPEmwMoKgFs+OO9tMa/YoqMThg62xFBnB9/Ra5ucFzrZ1Mo5Rsr/ghaQfqaiJOUb3iqBrgZjxYKZ1MeBtixg5gEirfTPPyG5HhhFRnTNtMP/zAxyrLDfHfZsa+am9yBpufzloW0rDJENNS2p8FNpWF1jmbPCfE7jPGYANjFDRUsiS8qSuBFbC8PV2sQhNJdKS4KWwbPnj62L6xCNg0S7rKCV+kleHkCiujQnjtl/hf7hH++hDjgpo5RxNJdUbw/QF+Jj59ZCZa9/BaTBVMmjIHPb2sTBKr24dg0sS6sMewlut5WcKMoDz40MnrtVPwQFm9qe8uP76Absr9E5rUk5eR8W39gjjQ=;cZcilC1smtquJ9Wg/o/uqQ=="
+secured: "SlHr1RxjslWR7TtUyaYw78zGYKQJtaQM3L5k0xQVI0CXAnlXyKBwuTxtZAAug2X11j8SqKMKSh3W5jjySeGwS49QhCB/OJQQV3X9zekxaabVL5f9yQ2zP7yuqw11u/yB3dHLpaOl2Gz+xvjabv8x+FcYYCGN776InGLcStHLXKL6fGiNXdtU1OiyvEkIOOnYcNzTW7xSzdUmOTFXOFNQAcxNbsPOPOJxwyumK2CZT5uueK790PGOHMVJMxRXsGfDC6TQm3krGQvc/3cp5h+xdMYYZhCfhgs9iR9VrwY1PAsOmZbgN+0uKgWlQYxOPSbSzORlrM5z1+bm8wNenhbCPFDWb36L2eMq8gEKDUTzlyHE5pG/6XJKQ3azE29rGjX/kl0/1DrhN0qgraVjG0bxPgJmLIAi5P2M6MBvFzoauw8sHgANTPHMVwOqEd/aRNbFuqcuUsnpZPPuVsAnDCny7Er3LjM3EAiLcj6a3Y0l2EQZ1ZNEeCSrAVKFvxJp44fycXF6yWiGd4Hs1422qb0dGA==;1iLNq9z9bfjVG0j0rr68ZA=="
 ---
 

@@ -92,7 +92,23 @@ related:
         width: 777
         height: 824
         isCached: true
+  - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
+    excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."
+    publishedDateTime: 2021-08-12T13:24:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
-secured: "38WYgO3JHqqj7ou2MCYb51ACwEK1QloftP0+TtCerqM/8/WRnU2k2PUvnBMZqm6ubwAbvctfLsRMfgRw9utLkjVrYI3YS5Am3UXB0JbVRQU1MlO3UktTRX3cR6ZZEUza0o8k2X648Fw99KRBcDxVV74drehWCTNjzVgRN1glWdD+Bcf/9HKLfZh1eic19T4/R+iI6BqCuovwLor6YBv7gu6pJhXvStqTzio7Mx39rZvuk+zKkIFM9qfNGocLcZs2t6o2NfUzhgSmgVb9xiwIMshHBozdvEDENgu7rZvYgD8tkZa1GHD2NzLAwMkyRqj1ovU5IHQvZlyYnKLfXXiWQMIdLYr/JWPwPPrOkQFj6q4=;gTokGkcShv5engb6UbYJ+A=="
+secured: "TD/0EwI1v3Yb4TwQxRrZYcrDt77D948rnIFEZc7bfjlmVu9ojiKZ0/0WA37MWGifrM2YrlbpUxuyV62wnO0gAP3h4tw2gMSd3V35Icsw9GDhzzN3RzktUcpjO3/sOB+2PjMY9YHUGqw3NitB18QibOox3IywqyzC78kVML5qrobr2mPEQdO3VxEPmt92yXeDww6rAyQYSthuhIPEGbH+vrNtNt2DS9Xhg3Zms3axchh+GHNIexyqP6PPTHy+gypkegShhHUy79HzrsQof8qWmZIgR4hVfDjVHs5J2hfnS1m0NfDtDL92IQ7Sxbhmi2ySm5gcVVQ+t9uAvXZiYlLon4FAgHLiLgloECxCP+odyx8=;ymtfJKx1FSVYWmBO2II0ww=="
 ---
 

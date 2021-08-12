@@ -84,20 +84,6 @@ related:
         width: 453
         height: 640
         isCached: true
-  - title: "Artificial Intelligence Future of Livestock farming"
-    excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"
-    publishedDateTime: 2021-08-07T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-livestock-farming/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/08/14.jpg"
-        width: 630
-        height: 416
-        isCached: true
   - title: "Training Leaders in Responsible AI"
     excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
     publishedDateTime: 2021-08-10T14:10:00Z

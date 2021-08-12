@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-20-mobileye-tests-self-driving-cars-in-new-york-city.md",
+      "title": "Mobileye tests self-driving cars in New York City",
+      "excerpt": "Intel Corp (INTC.O) unit Mobileye on Tuesday said it was testing self-driving vehicles in New York City, including the bustling Manhattan borough, in an effort to prove its technology can handle jaywalkers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/mobileye-autonomous-idUSL1N2OW1D2",
+      "originalUrl": "https://www.reuters.com/article/mobileye-autonomous-idUSL1N2OW1D2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/O8ujmXD0AyQVjzLJjat8EkF9628=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FCRTJPEXSJKP7P4ZP3SKI3FYE4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-artificial-intelligence-and-machine-learning-course-at-cit.md",
       "title": "Artificial Intelligence and Machine Learning course at CIT",
       "excerpt": "Ponnampet: A new engineering course in Artificial Intelligence and Machine Learning (AI & ML), an allied branch of Computer Science and Engineering, is being introduced at Coorg Institute of Technology (CIT),",
@@ -1331,49 +1383,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
       ]
     }
   ],

@@ -55,6 +55,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "What do travelers think about biometric facial recognition technology?"
+    excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
+    publishedDateTime: 2021-08-12T12:40:00Z
+    webUrl: "https://amadeus.com/en/insights/blog/what-do-travelers-think-about-biometric-facial-recognition-technology"
+    type: article
+    provider:
+      name: Amadeus
+      domain: amadeus.com
+    quality: 19
 
 secured: "OpULOR8ZcX9Ehn/nEqz/XY7KzYr8OvsI2boJQLtEe0e/ta9U6dqmlrLeKjbd/UkBnxNTZy0ok30NCwrEpBdWqKbVbqYgld5OjfjUPA54bfyg8uTaBJGeMe1T+47KEiXBV+0NCv2f/QXhUOFoAmedkEt5VcRBEz6Cd2TTVMnPqK4TVyuwPJqon87hZwKR1QkXiebWnxdllH/0DAHdi0UKdLapkWw3Cg/KgCBKPUKJR1jFBg0naNu+lhEiKtQz54M4bem32ZscoNrrks+NpFcPIraz8s5+wHcqhChq8i9vj5lkYwkShmgvqjLTmL33DncjJHbseRmfF6OLsMVrf7+aENP3ck9dJ1UZ38lblpD0yK/0+sEdt0lrP1bOoDpriv4jxFDkte6omFoLtU9khQS8OGGfKJ4EGj2TpLLhlXfFLuZcsYF+eUxHrdhRt1fTPqYgcsZsqAar5jiggUzXjUbNqbCl9PJxyJTdknTIwa9y6wxXlyWIHtPOAJ69uTZDX7TNsLPJRcrEqcYRHRz4/WdL4Q==;dJwrynLNhsOqYUk5SyLFNw=="
 ---

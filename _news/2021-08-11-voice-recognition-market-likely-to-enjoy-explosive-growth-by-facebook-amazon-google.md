@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/voice-recognition-market-likely-to-enjoy-
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Self-Driving or Driverless Cars Market Likely to Enjoy Explosive Growth by 2026 | Nissan, Tesla, Volvo"
+    excerpt: "A new business intelligence report released by HTF MI with title Global Self Driving or Driverless Cars Market Report Production and Consumption Professional Analysis Impact of COVID 19 is designed covering micro level of analysis by manufacturers and key business"
+    publishedDateTime: 2021-08-12T13:07:00Z
+    webUrl: "https://www.openpr.com/news/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    ampWebUrl: "https://www.openpr.com/amp/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353642/self-driving-or-driverless-cars-market-likely-to-enjoy"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 58
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812234041_g.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "12i4aP4R0aIqVxIg11FRHaqFQfNf4QiviZrJjHl8l46Qhue6VN0VH6q3afH1sxDqVS/VkbJdxtXrobg8yVJuT5+53o1CdYni76trQzQGHiZUvltOcHspPmJwxszrCaN7G0NQNK+n/jeuskZ4fEQbG5lu4OaGB2/yUUKah63gX3tS974wMlJmzYw+uBl7Kajn5b7qr9jISitMfTHKPByjc6crCItlYToo9mqZgO1U2/S8uFnmlwS2fHoUKymfTFnBEySklF7b7YruoCApyBvw/yfo3gabvujyO5hHDj3DCXDzWm6C2cQDvcG7oZx2IRbufz49TOrY4f9rXzz5m8C+CF6l/uZRImqZu2rLnpxPrNY=;aY4/nJfXEWDIQBHQlB4/wg=="
 ---

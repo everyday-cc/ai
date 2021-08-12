@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 800
         height: 547
         isCached: true
+  - title: "What do travelers think about biometric facial recognition technology?"
+    excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
+    publishedDateTime: 2021-08-12T12:40:00Z
+    webUrl: "https://amadeus.com/en/insights/blog/what-do-travelers-think-about-biometric-facial-recognition-technology"
+    type: article
+    provider:
+      name: Amadeus
+      domain: amadeus.com
+    quality: 19
 
 secured: "jyvvSKlc7K99wywG2M1Z8diZ+kH/80ZdS0Jy+DGDHAqZGKxN1Go3l338iqpXmpooGo/cu38VZnwlQgTsHmTVIUxOuC4RflPNENJEDEA2Z5WTnwlXgIJIHtKxGPYLWG/Q2JT0JmUrPB8dkY28rBse05IyKcVt4IQZMDFrwY8dzuZoYboGYj20/6RBEBx2KG8qUgWbu/aQJmkUj/9Gg0iw1RnOGmbW+/cnVJuiQpHMTy33sNRVSNylFGiWjnjyC8yhr2ugHsj0dQU72PbJGMrkINLWvgdABBUwhUOxiCAjvI+G+QuRMi+cej2oLE9R2EDy/s7G6SZQGSM69+/z8E1qJxP54dwEIWr3Ov/Y6iPP5T8=;kSdm4L18zUgUCQvGsYd+5A=="
 ---

@@ -39,6 +39,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
+    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
+    publishedDateTime: 2021-08-12T13:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/comptia-names-top-10-applications-for-artificial-intelligence-and-internet-of-things-in-2021-emerging-technology-list-1030724742"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "RSIP Vision Announces Patient-Specific, Intraoperative Registration Module for Orthopedic Surgery"
+    excerpt: "Aug 12, 2021-- RSIP Vision, a clinically proven leader in real-world AI solutions for medical image analysis, announced today a novel 2D to 3D registration module that will improve the execution of Orthopedic surgeries,"
+    publishedDateTime: 2021-08-12T12:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
     excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
     publishedDateTime: 2021-08-12T11:36:00Z

@@ -92,6 +92,22 @@ related:
         width: 777
         height: 824
         isCached: true
+  - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
+    excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."
+    publishedDateTime: 2021-08-12T13:24:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/telangana-ai-mission-selects-42-start-ups-for-revv-up-accelerator/article35879484.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "N3RoPiFSBsOfLONzhb2YiP6DSVW/lwStAUEdmqZA8TZLiz6nfiC1EPxJ7cONnXT//4DhKy2FeMpBzJoQBEHL8Kc+ptBxUSx1wNAIzTRe5ao6i54ayhNYb423vQJ2byWYNDkrA0jXcuAOIXOXwFC1pf4/tN12phjyLBX0V/IGNMzhdC1tYp3PjZj9+Q1Wq/w+959zfJt5qql7IUV/qtt1qc65HYe1MLokygJellLT29VG/axniu3duRTgK9d14ZDJxjY6p0g4ZLCyztY61G43YpeTu66OHHLxW3GyBpXgNX4wJMGhlZQ1Ubs4KJrf1outm8NLoaiFo2YFuiHHlkrPb2nrWS9t1fhqN1fIYbV1aJs=;ukA2r/fzADAJEf4vVP58nA=="
 ---

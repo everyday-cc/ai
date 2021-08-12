@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-12T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
   - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
     excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
     publishedDateTime: 2021-08-09T07:32:00Z
@@ -174,6 +188,6 @@ related:
         height: 1136
         isCached: true
 
-secured: "oEiMesNbLIcIo+/ia3ryL1+7AnufqVogXwAX0OInVPYma4Du/xAhhB0kiak5m6jnIJdFWop052UEILvbidEYvJwNRmuC0qzzT4JZVBFGgADt7wkXP7RXyFzmXdaESRfNckSSDbOyeeQ49Ejc7ty3nAIaefc2GMbraTKh2XnjexQ1Ovb8my0A1GGPqL73x3GcvGK/JVutb8pr6nYi+mAcJbVqwQ11QzUo3BLpn4l+28fvzloGAsS3GBNChJQuL35jBd9ZNVdSu9tBGnRxbFW7eD26OOzPY4yQov2xUbeFJvLuxyc/uDSc0lYNDhH2nTvTtTyYa6R2Xezy5OKYLyMsVzaghrtjVdoU3kkxIYrHH04=;QE3X3JqJoJ9kaxMXKn5DlQ=="
+secured: "WigtJP9K1XawM04egcxZovKd8XW6DiLyqk4edwjo96tOoSVNDrVA/peu9G3DGRZ+MSFpZOmRG/ryp3g80bySzIARMHPgK5M4iMjt05Ac2zZ8lqFf6nma7Mv/9cFgwckcXhKInOMcLmQoQpC4/y/2XAdLSwxBXT72yTaGBJtIR3b0wYNlhMBEC20PVJobqoiZJ8ulAlxD9La/+bVOmDabVt9DOB3fCqu7y90INGx1bjHweE8fxOq/G/ywhWmCJo1JlluRrlMbalG4KZUqj89xOm65dDx7CRzpE/FPWLErEV2g+Ex7DR595/MTjG5yBhZ15730hGfpj3WvH/D2RKPodnDNFZtBeyrO7uFDvuaFEZyPK3/jnZMdZUvQWL+JRWgR2v4wCio7GgdYsGr3PaqjcHzxCcorsiMohky5EqqjWaiPuIE3G2w+26fMsgi+amrTe+9ZKUmKAOykpOUgj/tUecPskE0KfJBpjElAgar/Q7XEXvP3FGU6Ym4Kd03wZkGfwc6596ijdYZ10LUXI7fOiw==;lHbz4aebeiT4X80gxD0zmA=="
 ---
 

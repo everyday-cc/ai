@@ -7,7 +7,7 @@ originalUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-fo
 webUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI could detect dementia years before symptoms appear"
+    excerpt: "Dementias are characterized by the build-up of different types of protein in the brain, which damages brain tissue and leads to cognitive decline. In the case of Alzheimer's disease, these proteins include beta-amyloid,"
+    publishedDateTime: 2021-08-12T13:44:00Z
+    webUrl: "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/ai-could-detect-dement.jpg"
+        width: 1086
+        height: 1314
+        isCached: true
+  - title: "Dementia: Artificial intelligence could easily & quickly help to determine your risk – how"
+    excerpt: "Now, artificial intelligence may be able to help combat this problem. In pre-clinical tests, artificial intelligence diagnoses has been able to determine one’s risk, years before symptoms develop, even when there are no obvious signs of damage on the brain scan."
+    publishedDateTime: 2021-08-10T08:07:00Z
+    webUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk"
+    ampWebUrl: "https://www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1474736/dementia-symptoms-artificial-intelligence-treatment-risk/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 49
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/11/590x/Dementia-Risk-of-the-condition-1474736.jpg?r=1628582853870"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Researchers use AI for treatment aimed at preventing dementia"
     excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
     publishedDateTime: 2021-08-12T05:03:00Z

@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Networks Modeled on Human Brain Can Perform Cognitive Tasks"
+    excerpt: "A new study out of McGill University details how artificial intelligence (AI) networks modeled on the human brain can perform cognitive tasks efficiently.  The research was published in the journal Nature Machine Intelligence 9."
+    publishedDateTime: 2021-08-12T12:52:00Z
+    webUrl: "https://www.unite.ai/ai-networks-modeled-on-human-brain-can-perform-cognitive-tasks/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-73zheaEL/w:879/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/08/neurons-1739997_1280.jpg"
+        width: 840
+        height: 600
+        isCached: true
 
 secured: "ThfzYBJOwol29VhVvtJzCHIapbxMKH+v209mRJzqq1PBADGcuG2bcYx6Ef3C0Rxz5mpHHH4aRc7KxDVonboG5CYc5s8qKdAt5JVIZDID2H1hrS/qPDtdzAU+U1gxbOfVrkXbg9jWRZbmSmbomup5/8pcJOS8Ya0Upk33tqeF6k3nrWRq59Y2XUxjZZN55Nsqepc4kBHCiNYwCncIaAcST9BvEV8ybwE1D1bIf0mqUFkTss62dM5tO06/lcorvQ8uVxz7ZmyXebaBFlxFALYl84wNxqOjE0gckblYaETZXn1O35zGisneiGVwgx+nR68Zs3IDkZJNL7Bsk3nNWMYeHIvYl9ag8nCgrWcNwpHHcSLmjW5B+4DYUx/m4sAsMOVfgZu8L+dCQq2AXkeYHVw4T//wECuyAMNtVaOaAI4PJNPNxpSIEa8BJUCMMcOMcPIz+eZ0IaNcBGlUe4CgScPgIm8Sa4mX51rjR1QhXrYTuReEPcOyddBKk2xzzCTQ64VtwfPfk+wyJIklX4hE6MDnkw==;lV/fLke+nLOY6I8kRNViSg=="
 ---

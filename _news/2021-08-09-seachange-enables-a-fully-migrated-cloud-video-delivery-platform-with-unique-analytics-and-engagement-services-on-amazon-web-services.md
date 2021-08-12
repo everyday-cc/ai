@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Keeping The Roads Safe And Protecting Drivers With AI"
+    excerpt: "KeepTrucking launches a new AI Dashcam that uses AI to detect and identify risky behavior to help truck drivers be more safe and prevent accidents."
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611515d264435d595ab5e193%2F0x0.jpg"
+        width: 1200
+        height: 746
+        isCached: true
   - title: "SeaChange enables enhanced data analytics with AWS"
     excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
     publishedDateTime: 2021-08-10T10:24:00Z
@@ -135,6 +151,6 @@ related:
         height: 355
         isCached: true
 
-secured: "RkRMGF5DSP7g2w025DD8M4yonb6NONEv8gMociBAa3rkzsQE5AyXFHwJYgVmMczGeoCEw//4XHNvUzMKIQgExy0sPQvnk/Ay+E9IF2OY6p5E1f3HZBgKSmohhV6iB/8wDVpW8KIHkz5Qkglv7uduAo36ShMtNsjx0pAQs5yQ4Q/W/oLzoUto1lqqhbyOtLgNb5s61SvGD9Hgntn5L+EDtSHXuTGo/PB/1HG7o6ZrSWKMFWUMszVqnCkDW7zX9ZpVXdHDZbXdHE17YHPcQFgQbP1etCd/nnE+1RQxdMyyLkTh6bmzqgtbF3V3g3e3TCSCIz+PwnB1aagh1smBX/ikmURhXKGcfefhCAHQFiMjmnU=;px9YqyARZlQNz1K+JV9bQA=="
+secured: "pcX6mw9He624mTc4M25vROUe1Uv//yIaPsb9t8z1RwpVky8xEmzT+23l58yTkQzCedNjgjvNg24X4Bp5HRmVe0286r6mO0cncV0N1WcH2BnZMTZsgMzoANMBcGCDhYZU1siubQem4b+zEpx2ScHvgKE9CqykJo5L2cEfiHCLuZLxgbA/MRh9gQMnrWKgRUDdX01IIsyc37RsNUufaDkXNDHCbF8LsSC8k80qTA2O62B6OOnNRQByAY/aiJ8YUJTLnPCpiRG4gfGT0k2aQs54yzZPYIONcsj0wxeuVj3c6vSll9PuGr2z9F4Aq5wQFgv73cY2NhvymWmlBr8rnRmcy3yF+6zShk1Jr8ZBKdBgeeQ=;QCh3dXKv+Wn/eQMwcNxlsQ=="
 ---
 

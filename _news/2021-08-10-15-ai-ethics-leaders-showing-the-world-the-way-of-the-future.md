@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
         width: 453
         height: 640
-        isCached: true
-  - title: "Artificial Intelligence Future of Livestock farming"
-    excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"
-    publishedDateTime: 2021-08-07T19:11:00Z
-    webUrl: "https://www.dailyexcelsior.com/artificial-intelligence-future-of-livestock-farming/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 39
-    images:
-      - url: "https://www.dailyexcelsior.com/wp-content/uploads/2021/08/14.jpg"
-        width: 630
-        height: 416
         isCached: true
   - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
     excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."

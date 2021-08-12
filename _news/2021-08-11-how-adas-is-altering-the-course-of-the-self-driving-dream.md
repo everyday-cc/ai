@@ -86,18 +86,18 @@ related:
         height: 315
         isCached: true
   - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata)."
-    publishedDateTime: 2021-08-12T07:39:00Z
-    webUrl: "https://english.vov.vn/en/society/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-882013.vov"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T04:06:00Z
+    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
     type: article
     provider:
-      name: VOV Online
-      domain: english.vov.vn
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
     quality: 24
     images:
-      - url: "https://media.vov.vn/sites/default/files/styles/og_image_en/public/2021-08/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png?v=1628753970"
+      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628777041"
         width: 600
-        height: 315
+        height: 385
         isCached: true
 
 secured: "hPn4iknmVniCrdQsfhaHFpDV3Lv8hCR+uXzGJngk4Dw6OwHgCFSokfukOiaYAI3j2nH4HScrap67lDzE+oGg8Pnn8Wi3b9TD17Z/2m6qcgzSB8E55Tup6HPMrSMS2XhtB8os802HsccWaFc2OCD57N3HTlASHwoiLSdeVCVvmY1qOOhpctr7ebq/re0dkrZkm96CYVQrDCHpqWMsukXKKdeZWyVpP05R7GSAKRn9MtdzKJNCBy/YuDqI6FpXlS9fyTIZGFmf2HaBYJ2d5ldPRWK5OlQ76O9lr6QYl0uYyC8SIA89m2QrXQgLTRH36G/ZdizgnQbWY3vhOohAgFhimnV2qdCpZWqg3E4IQG26XQge+dAiBvKv/xp5HlV1O2ibZgE+23qPGvcsWQ1tcT64laJ3Jw8xRlMvOOx5WxaB4EmpLXZz+xJ9nCFXd5Zag4Sp7rWc745Uyzb1wp14JoWcfYEwONFDRmQCSTl9fWIDNHM8yJ9N0EIBArxrJvlVikrYu11YG68POcUcNS1l5+EPog==;qqqvXeutcUqIHME5j7rHiw=="

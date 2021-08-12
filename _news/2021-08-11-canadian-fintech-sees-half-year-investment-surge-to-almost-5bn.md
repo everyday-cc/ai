@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Carmel startup acquired by Canadian tech firm"
+    excerpt: "Shiftlab, which has developed a scalable scheduling platform for retail companies, has been acquired by Vancouver-based iQmetrix, a telecom retail management software provider. The two companies are no stranger to each other;"
+    publishedDateTime: 2021-08-12T13:26:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/carmel-startup-acquired-by-canadian-tech-firm/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 22
+    images:
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2021/08/Shiftlab-Platform.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
+        isCached: true
+
 secured: "7Cqtidv+Gy1eVi7dGOgB5gxbQUJ/N4qfEN4TkmK+111yuRO3vkzy9IMkLBXuxVoeBQpXMCzkxP+xIwl/j1xTe9vabshKS9Ypd8QRp5tG3ZiBB1SY8LqL4hzAPnUIHF1jNO4t+mxZq2rhgv/etxlRf3RACK8cGtgPLPbJwve7FkdC+eOyhHjZSVsGGATiizeksO1QfnPAHmzzZcLuRRTKwArx0Sd0MJjF3sqwoMlhDVv/DE2UJFHtFOkbMTqc+ZqhZXQmShsEIYq+tFrUbFeQgv2NU89cgGbMCYzCK1uBcqBgDynVf3xv/uZZ6WTKTd3I5ILyG8SRURElbU9qU23pAZzZbk/kn1/EcTitbFT4wH8EI2iDB2N/fsAA2UkHNDzTdmAccu40M0Yph1QvkfWSjEt53hasjSV4vd/sQ0fQIWCMfmsAbCKNuEZ2dcgR5nKnk9QE5d0pAqgvsQSwrB79HFIGSw8hQ4xGvuINGoi0BtARUWDIRK8bQgO9Pdi5ooSkikGUUmuSfEYOR/zbpxj9Qw==;VxzeeAS1DWnx/UWjQTVf1A=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Colorado to deploy largest self-driving shuttle fleet"
+    excerpt: "Autonomous Vehicles Colorado (AvCo), a program to advance public transportation technologies, is poised to deploy what it claims will be the largest fleet of autonomous electric shuttles across multiple cities in Colorado."
+    publishedDateTime: 2021-08-12T12:44:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17058/colorado-to-deploy-largest-self-driving-shuttle-fleet"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
+
 secured: "d3LyRD6baUHf9NiByxFOF6wjEdsk44qi0uCJpLvkPTZVXIch/CKnjGNIH57g19bSF8hFFM2/B+9eO8bSAG/k2Rq+CtX4v4bKAoAxKnk4vB9zLUTrZ4d5fzzq//Ohjryoaxxxe0fAR3uX5GiKsebrOJOS7iwvEWpZ6f4H+uR5sN/IxjRl4j9gO2TLN/L2MHRxr7rOwDr8pmOk/3u9dN9sygCOyD5Ti8t1MvLFKUTVqJ+seF519+6yfrxvC1YqIsSIkimGqzvwTRIt+GkGPyDQD4DRzVHmdaUI7i4lTiocOda2Lg/TeaG5RsfcAZAZseatxavjOGhvvMFRb8OWdUHdFkwGiJgFVQ1DA7qMmp9ZEm0=;AAN639amNDYWrfOMy07HsQ=="
 ---
 

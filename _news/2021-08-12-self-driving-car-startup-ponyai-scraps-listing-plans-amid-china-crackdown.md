@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EXCLUSIVE China's tech crackdown thwarts Pony.ai's U.S. listing plans -sources"
+    excerpt: "Autonomous driving startup Pony.ai has put on hold plans to go public in New York through a merger with a blank-check firm at a $12 billion valuation, after it failed to gain assurances from Beijing that it would not become a target of a crackdown against Chinese technology companies,"
+    publishedDateTime: 2021-08-11T16:56:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 183
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/12/8875ae8e-fadc-11eb-aa37-9736ba6f9b4b_image_hires_035937.jpg?itok=iEFkWb3Y&v=1628711988"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "China’s tech crackdown thwarts Pony.ai’s US listing plans, insiders say"
     excerpt: "The autonomous driving start-up’s hold on going public follows Beijing’s move to ban ride-sharing giant Didi from signing up new users soon after its IPO."
     publishedDateTime: 2021-08-12T03:59:00Z

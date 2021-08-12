@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-01-graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks.md",
+      "title": "Graphcore brings new competition to Nvidia in latest MLPerf AI benchmarks",
+      "excerpt": "Graphcore’s score in BERT natural language training was the best score of any of the two-socket AMD systems submitted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "originalUrl": "https://www.zdnet.com/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/af021708-3cd7-4136-a6fb-48d2c0bb412c/graphcore-nvidia-comparison-crop-layout-for-twitter.jpg",
+          "width": 1600,
+          "height": 1069,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/graphcore-brings-new-competition-to-nvidia-in-latest-mlperf-ai-benchmarks/",
+      "publishedDateTime": "2021-06-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho.md",
+      "title": "The names pushing AI toward a $1T chip market, according to Mizuho",
+      "excerpt": "An in-depth look at artificial intelligence and deep learning from Mizuho concludes that AI is the next wave of semiconductor growth, a key driver toward a $1",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "originalUrl": "https://seekingalpha.com/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3711185-the-names-pushing-ai-toward-a-1t-chip-market-according-to-mizuho",
+      "publishedDateTime": "2021-06-30T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-news-flash-nvidia-remains-the-fastest-available-ai-accelerator.md",
       "title": "News Flash: NVIDIA Remains The Fastest Available AI Accelerator",
       "excerpt": "Ok, while that is hardly surprising news, given the comfortable lead NVIDIA enjoys, Google’s upcoming TPUv4 out-performed NVIDIA on three of eight benchmarks on a chip-to-chip basis, while Graphcore’s performance and price/performance is in the ball park.",
@@ -1278,112 +1373,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028.md",
-      "title": "Deep Learning Chip Market Forecast, Trend Analysis & Competition Tracking – Global Market Insights 2020 to 2028",
-      "excerpt": "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-forecast-trend-analysis-competition-tracking-global-market-insights-2020-to-2028-2021-06-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-ambarella-unveils-2-new-ai-chip-families-for-4k-security-cameras.md",
-      "title": "Ambarella unveils 2 new AI chip families for 4K security cameras",
-      "excerpt": "Ambarella unveiled two new AI chip families for 4K security cameras today as it pushes further into computer vision.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/",
-      "originalUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/ambarella-Photo_CV52S_Embargo-June-21-2021-5am-ET.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/21/ambarella-unveils-two-new-ai-chip-families-for-4k-security-cameras/amp/",
-      "publishedDateTime": "2021-06-21T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neu
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "AI Networks Modeled on Human Brain Can Perform Cognitive Tasks"
+    excerpt: "A new study out of McGill University details how artificial intelligence (AI) networks modeled on the human brain can perform cognitive tasks efficiently.  The research was published in the journal Nature Machine Intelligence 9."
+    publishedDateTime: 2021-08-12T12:52:00Z
+    webUrl: "https://www.unite.ai/ai-networks-modeled-on-human-brain-can-perform-cognitive-tasks/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-73zheaEL/w:879/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/08/neurons-1739997_1280.jpg"
+        width: 840
+        height: 600
         isCached: true
 
 secured: "m9CgUjjYcNmERuO5OoPCyoGXD6GIwiUZl1jOOa05wF3TbQy7IWu90DP1LQIlvHvMHTYIAIUZAyon/FQKAjxZOwnTfaZIRLpw2qYiniFt7LbU4wkJjxhxWZLR2ZS5Ggag/4BgC8hY8sMvDPjN/7CLHcCnVw19xbM4Be/jEQJwSkpAVJ+qieQPmOOTy47jh95V9xpuDnK78X6ewCBHIPrYevvFvImV5swlxevHVe70b8t9ldki25ViG5OcAMXPwGu8cv+cuyIANnn5LJ9DgioOT5mJU51GWtlMfVY5JNFOZqobT7yMXG4bJBSiDtgAgawY8dYUl/gG6tQNAKCJjUaHPo7EVmPAAQgDT3oHaxgozNJurmwLGoZ2DRYK1H2j6qSS6Hd5WhWS52HjVuxz21ksmPnCjVmcC8dvHEhz0v7HYaXFBDKLC7oq6uY6HO/tshcLp12rScGhtlGfoWFobCFXvj0afb7Z9aIz5Xc2yWLfslpw9LGEj7Nt2/0YYMSRLg2U/Lm7KDfvR//47iEGRvM/XA==;JkxU1+S3eMOMF4XKVJ6RHg=="

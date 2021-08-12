@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-small-business-owners-can-get-started-with-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Smarter Business – Harnessing Artificial Intelligence"
+    excerpt: "In this contributed article, Gary Bhattacharjee Head of the Global Practice for AI at Infosys, details how AI can transform businesses into the 'autonomous enterprises of tomorrow' and highlights where AI can make the most impact on an organization."
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/12/smarter-business-harnessing-artificial-intelligence/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 17
 
 secured: "4WE+2uiYMXYx5s++9HCN4DzdvkzIe9Qj0n3YF+MFc9biMEn5JDY2TjdjIey8MC5s+8bAZzxfhdttgwLV1dmt6ocYGFTpvkI9JZLfA0aCbGeHGkrGWNc9rP2o3yoSBKVjqalwHkxae4CZk2b14NWDft2+Eprhbtph33MS8vTgcJGpVXe7tshGcdOgoljpOWNoyC2tobmqraf0PlWvzQJsopFaDKxcWnu7CIp7rj+Ciukd9T7Cvj98SZQQSG12L8HAzkfMlsBkI1RVr4LTRFxzQFI9i0Y2Ww/txmRGXRX0dChXu4WxFwsr2vUpWlZdz78GvJy+oMrAA8QiXBB1pURbYsbehzTOfO1EGynN3VHtdoU=;PhIc/HNxGicfmPSjGWJbfg=="
 ---

@@ -1,0 +1,46 @@
+---
+category: news
+title: "Artificial Intelligence Enters Media AP Departments To Return Lost Time And Money"
+excerpt: "Nexelus discusses the chance for machine learning and artificial intelligence to return time and money to accounts payable departments in media and advertising."
+publishedDateTime: 2021-08-12T12:00:00Z
+originalUrl: "https://www.pymnts.com/news/b2b-payments/2021/nexelus-media-advertising-artificial-intelligence-accounts-payable/"
+webUrl: "https://www.pymnts.com/news/b2b-payments/2021/nexelus-media-advertising-artificial-intelligence-accounts-payable/"
+ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/nexelus-media-advertising-artificial-intelligence-accounts-payable/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/nexelus-media-advertising-artificial-intelligence-accounts-payable/amp/"
+type: article
+quality: 52
+heat: 62
+published: false
+
+provider:
+  name: pymnts.com
+  domain: pymnts.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/social-media-app-monetization-457x274.jpg"
+    width: 457
+    height: 274
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence Saves Payers Time and Money"
+    excerpt: "Artificial intelligence can help deal with everyday problems such as prior authorization and high utilization. But payers are also eyeing it for loftier purposes."
+    publishedDateTime: 2021-08-11T16:25:00Z
+    webUrl: "https://www.managedhealthcareexecutive.com/view/artificial-intelligence-saves-payers-time-and-money"
+    type: article
+    provider:
+      name: Managed Healthcare Executive
+      domain: managedhealthcareexecutive.com
+    quality: 39
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/mhe/51bb925ee182929f2934e0f4b6b6e9b20ab2c2cf-1000x600.png?fit=crop&auto=format"
+        width: 1000
+        height: 600
+        isCached: true
+
+secured: "1VKEGY+jSzJH9WyMvZt81/S3hNop/hDX0HZsr4CbCzbFWiO9ykKUf3DoOhIjhNZvIKSQdUo6oGqNDKIYeJL9FSWnKOB2FlKpXGMbCAkU9kE/rpQBOp74p5OzvmuTBZFJonow8UQMMR/IsE4P8UklrJnOiYKpV7KWpmUujiDoxHiSmGaEPd9rqSSp5FXqcPGY9ByFLAwFJIRoFn/3Ze/6pkObjabhMr8VSYLKgwkq9lYjqTFTTjR+GrNYar0MYLCXQ0UQ8eqiwHUTl/D449LRfmoC1VQljmo1vVGZTGn27RBtaV7s7t5IsxvNQknCoEBF/7TJ2JQZKMPmNUteo+SgMi/vWhRYmvcKD+vvGT3Zm4k=;UR32e8SzlYCQPBcGQ2GL7A=="
+---
+

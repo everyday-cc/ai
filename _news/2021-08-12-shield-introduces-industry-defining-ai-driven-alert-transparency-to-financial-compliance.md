@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP"
+    excerpt: "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP."
+    publishedDateTime: 2021-08-12T12:15:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 70
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg"
+        width: 300
+        height: 222
+        isCached: true
   - title: "Shield Introduces Industry-Defining, AI-Driven Alert Transparency to Financial Compliance"
     excerpt: "As financial market regulators work to eliminate market abuse in today’s digital and remote work environments, Shield’s pioneering Alert Transparency provides financial organizations with comprehensive compliance analysis Shield,"
     publishedDateTime: 2021-08-11T12:26:00Z

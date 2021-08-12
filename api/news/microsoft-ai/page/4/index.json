@@ -2,59 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-03-speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu.md",
-      "title": "Speech Recognition Software Market Next Big Thing | Major Giants Google, Microsoft, Baidu",
-      "excerpt": "The latest independent research document on Global Speech Recognition Software examine investment in Market. It describes",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-software-market-next-big-thing-major-giants-google-microsoft-baidu-2021-07-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-02-ai-strategies-what-is-natural-language-processing-and-how-can-it-help-businesses.md",
       "title": "AI Strategies: What Is Natural Language Processing and How Can It Help Businesses?",
       "excerpt": "Combining language with technology has driven innovation in artificial intelligence for decades. With the right strategy, it can help businesses today.",
@@ -1359,6 +1306,49 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-26-lambdatest-creates-app-for-better-communication-among-employees-for-microsoft-teams.md",
+      "title": "LambdaTest creates app for better communication among employees for Microsoft Teams",
+      "excerpt": "As remote working continues around the world, browser-testing platform LambdaTest is launching a Microsoft Teams app that will allow anyone using Teams to, in-conversation, run live tests to see what their company website looks like across 2,000+ desktop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
         "images": null,
         "publishers": null,
         "authors": null

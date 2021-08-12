@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-25-is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend.md",
+      "title": "Is Machine Learning The Key To Unlocking Gen Z Engagement? A Discussion With Jonathan Jadali Of Ascend",
+      "excerpt": "The jury is still out on what makes Gen Z’ers tick, but while the research is still ongoing there is much evidence to suggest that a marketing strategy utilizing machine learning is exponentially more effective with the next generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d5098c2702bcb12baf4077%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/06/24/is-machine-learning-the-key-to-unlocking-gen-z-engagement-a-discussion-with-jonathan-jadali-of-ascend/amp/",
+      "publishedDateTime": "2021-06-24T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-24-ml-model-explainability-with-amazon-sagemaker-clarify-and-the-sklearn-pre-built-container.md",
+      "title": "ML model explainability with Amazon SageMaker Clarify and the SKLearn pre-built container",
+      "excerpt": "Amazon SageMaker Clarify is a new machine learning (ML) feature that enables ML developers and data scientists to detect possible bias in their data and ML models and explain model predictions. It’s part of Amazon SageMaker, an end-to-end platform to build, train, and deploy your ML models. Clarify was",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-clarify-with-the-sklearn-pre-built-container/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-clarify-with-the-sklearn-pre-built-container/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-24T14:43:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-why-machine-learning-projects-fail-and-how-to-make-sure-they-dont.md",
       "title": "Why Machine Learning Projects Fail – and How to Make Sure They Don’t",
       "excerpt": "The first step to a successful ML project is to understand that these projects require different processes, terminology, workflows, and tools than those needed by traditional development.",
@@ -1279,95 +1384,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis.md",
-      "title": "Global Machine Learning as a Service Market 2021 Industry Outlook, Current Status, Supply-Demand, Growth Opportunities and Top Players Analysis 2030",
-      "excerpt": "In a recent published report, Kenneth Research has updated the market report for Global Machine Learning as a Service Market for 2021 till 2030. Report further now discusses; the various strategies to be adopted or being adopted by the business players across the globe at various levels in the value chain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-06-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-2021-industry-outlook-current-status-supply-demand-growth-opportunities-and-top-players-analysis-2030-2021-06-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm.md",
-      "title": "Machine Learning Artificial intelligence Market Outlook to 2028- AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM",
-      "excerpt": "Get Sample Copy @  AIBrain, Amazon, Anki, CloudMinds, Deepmind, Google, Facebook, IBM, Iris AI, Apple, Luminoso, Qualcomm. Driver Evaluation: Favouring manufacturer company discretion to make sure high earnings creation,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
-      "originalUrl": "https://ksusentinel.com/2021/06/19/machine-learning-artificial-intelligence-market-outlook-to-2028-aibrain-amazon-anki-cloudminds-deepmind-google-facebook-ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T07:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

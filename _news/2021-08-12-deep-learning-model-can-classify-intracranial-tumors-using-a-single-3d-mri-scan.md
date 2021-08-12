@@ -59,6 +59,15 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Deep learning model classifies brain tumors with single MRI scan"
+    excerpt: "A team of researchers have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan, according to a new study."
+    publishedDateTime: 2021-08-12T13:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210811100807.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "Deep learning classifies brain tumors on single MRI scans"
     excerpt: "A deep-learning model was able to classify brain tumors as one of six common types on a single 3D MRI scan, according to a study published August 11 in Radiology: Artificial Intelligence."
     publishedDateTime: 2021-08-11T14:32:00Z

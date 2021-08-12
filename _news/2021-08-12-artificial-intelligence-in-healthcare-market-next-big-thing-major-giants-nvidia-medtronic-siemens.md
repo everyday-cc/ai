@@ -8,7 +8,7 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 related:
   - title: "Healthcare Automation Market Scenario – The Competition Is Rising | Siemens, Tecan Group, Danaher"

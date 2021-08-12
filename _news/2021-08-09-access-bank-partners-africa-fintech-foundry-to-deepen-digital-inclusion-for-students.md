@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-12T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
   - title: "Mexican SMB FinTech Credijusto Could Be Listed On NYSE This Year"
     excerpt: "Tidjane Thiam’s SPAC is in exclusive talks with Mexican FinTech Credijusto and CIAL Dun & Bradstreet about merging the companies and listing them on the NYSE."
     publishedDateTime: 2021-08-09T08:44:00Z

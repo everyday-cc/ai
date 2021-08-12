@@ -2,6 +2,455 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2021-06-18-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2.md",
+      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 2)",
+      "excerpt": "Here's why the demand for proof of concepts (POCs) took us off the rails, what the core barriers of AI in production are and what we can do to overcome them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60cb63e75e0192631f764df6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-2/amp/",
+      "publishedDateTime": "2021-06-18T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-bert-preprocessing-with-tf-text.md",
+      "title": "BERT Preprocessing with TF Text",
+      "excerpt": "Text preprocessing is the end-to-end transformation of raw text into a model’s integer inputs. NLP models are often accompanied by several hundreds (if not thousands) of lines of Python code for preprocessing text. Text preprocessing is often a challenge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=ur-PK",
+      "originalUrl": "https://www.tensorflow.org/text/guide/bert_preprocessing_guide?hl=ur-PK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=ur-PK",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-ai-driven-hedge-fund-rules-out-bitcoin-for-lack-of-fundamentals.md",
+      "title": "AI-Driven Hedge Fund Rules Out Bitcoin for Lack of ‘Fundamentals’",
+      "excerpt": "A Swedish hedge fund that returned roughly four times the industry average last year using artificial intelligence won’t touch Bitcoin, based on an assessment that the cryptocurrency doesn’t lend itself to sensible analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt-spells-out-bitcoin-exclusion-after-beating-peers",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-06-18/hedge-fund-volt-spells-out-bitcoin-exclusion-after-beating-peers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyeukPTnpzDU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-baltimore-may-soon-ban-facial-recognition-for-everyone-but-cops.md",
+      "title": "Baltimore May Soon Ban Facial Recognition for Everyone but Cops",
+      "excerpt": "The measure would make private use of the technology illegal but would not apply to police. It awaits the mayor's signature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
+      "originalUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60cba9779c0558467e693c20/master/pass/business_balitmore_1313282604.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baltimore-ban-facial-recognition-everyone-but-cops/amp",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-five-recommendations-for-creating-more-ethical-ai.md",
+      "title": "Five Recommendations For Creating More Ethical AI",
+      "excerpt": "One of my favorite quotes that I feel sums it up well, famously attributed to Sun Tzu, is, \"If you know the enemy and know yourself, you need not fear the result of a hundred battles.” Using the same analogy in the business of creating ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89b3125364e8f90ba67838%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/06/18/five-recommendations-for-creating-more-ethical-ai/amp/",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-neural-network-captures-noisy-neurons-in-autism-mouse-model.md",
+      "title": "Neural network captures noisy neurons in autism mouse model",
+      "excerpt": "Mice missing the autism-linked gene SHANK3 use more neurons to engage in social behavior than control mice do, reflecting a more disorganized, less efficient brain signaling network.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "originalUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/06/17122732/20210610-PrefrontalCortex1120-1120x550.jpg",
+          "width": 1120,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "cdnAmpWebUrl": "https://www-spectrumnews-org.cdn.ampproject.org/c/s/www.spectrumnews.org/news/neural-network-captures-noisy-neurons-in-autism-mouse-model/amp",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-the-future-challenges-of-big-data-in-healthcare.md",
+      "title": "The Future Challenges Of Big Data In Healthcare",
+      "excerpt": "Incredible discoveries in the science community have made data collection of individual health measures simple, from everyday wearables that measure vitals to mouth swabs that map out a genome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60803c75be8007f68f0bb05d%2F0x0.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/18/the-future-challenges-of-big-data-in-healthcare/amp/",
+      "publishedDateTime": "2021-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-ico-use-of-facial-recognition-tech-in-public-spaces-deeply-concerning.md",
+      "title": "ICO: Use of facial recognition tech in public spaces deeply concerning",
+      "excerpt": "ICO investigations found most companies using the technology tended to be \"immature\" in their approach to data protection",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
+      "originalUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570817006/itpro/2019/01/facialrecshutterstock_1160291101.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/biometrics/359928/information-commissioner-deeply-concerned-about-use-of-facial?amp",
+      "publishedDateTime": "2021-06-18T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-18-healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Impressive Gains including key players NLP Technologies, NEC, Apple",
+      "excerpt": "Los Angeles, United State, – including Q4 analysis The report named, Global Healthcare Natural Language Processing (NLP) Market has been added to the archive of market research studies by JCMR. The industry experts and researchers have offered reliable and precise analysis of the Healthcare Natural Language Processing (NLP) in view of numerous aspects such as growth factors,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
+      "originalUrl": "https://ksusentinel.com/2021/06/18/healthcare-natural-language-processing-nlp-market-impressive-gains-including-key-players-nlp-technologies-nec-apple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ksusentinel.com/wp-content/uploads/2021/06/Healthcare-Natural-780x470.png",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-18T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-06-18-uk-organizations-warned-over-live-facial-recognition.md",
       "title": "UK Organizations Warned Over Live Facial Recognition",
       "excerpt": "In a formal opinion, Elizabeth Denham says that the use of live facial recognition (LFR) can't be justified for reasons of efficiency or cost reduction alone.",
@@ -710,445 +1159,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
-      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
-      "excerpt": "Google Brain scientists published in Nature a deep reinforcement learning technique for floorplanning, or arranging components on chips.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/05/screen-shot-2017-05-17-at-10-17-19-am-e1623759898466.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence/amp/",
-      "publishedDateTime": "2021-06-17T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-basic-ethical-questions-of-transparency-and-bias-in-ai-remain-unsolved-experts-say.md",
-      "title": "Basic ethical questions of transparency and bias in AI remain unsolved, experts say",
-      "excerpt": "Big Tech companies are expected to perform a delicate balancing act in advancing AI development, while ensuring the technology’s ethical application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/06/17/c2c9fe55-4125-4bc1-a5b8-117eb2a6fda4_8650bdb4.jpg?itok=7p6UsNJ0&v=1623932989",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3137723/basic-ethical-questions-transparency-and-bias-ai-remain-unsolved",
-      "publishedDateTime": "2021-06-17T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-mouse-brains-in-3d-microscopy-startup-lightspeed-raises-4m-to-visualize-medical-specimens.md",
-      "title": "Mouse brains in 3D: Microscopy startup Lightspeed raises $4M to visualize medical specimens",
-      "excerpt": "Lightspeed Microscopy, a Seattle startup spun out of the University of Washington, raised $4 million in a Series A financing round led by Dynamk Capital. Lightspeed is developing an",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/",
-      "originalUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/06/lightspeed-raises-4-million-to-d-1260x709.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/mouse-brains-3d-microscopy-startup-lightspeed-raises-4m-visualize-medical-specimens/amp/",
-      "publishedDateTime": "2021-06-17T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-thirty-tesla-crashes-including-10-deaths-linked-to-assisted-driver-system-are-being-investigated-by-us-safety-agency.md",
-      "title": "THIRTY Tesla crashes including 10 deaths linked to assisted driver system are being investigated by U.S. safety agency",
-      "excerpt": "It does not turn a Tesla into a self-driving car nor does it make a car autonomous. Before enabling Autopilot, driver must ... federal investigators found. The NTSB, in a preliminary report ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-9698801/U-S-safety-agency-says-opened-probes-10-Tesla-crash-deaths-2016.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2021/06/29/autonomous-car-makers-report-crashes-federal-government/amp/",
-      "publishedDateTime": "2021-06-17T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-liveperson-wins-30-million-from-247ai-in-trade-secret-verdict.md",
-      "title": "LivePerson wins $30 million from [24]7.ai in trade-secret verdict",
-      "excerpt": "A jury in an Oakland federal court awarded conversation software company LivePerson Inc more than $30 million on Thursday for competitor 247.ai Inc's misuse of trade secrets related to LivePerson's clients Optus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/liveperson-wins-30-million-247ai-trade-secret-verdict-2021-06-17/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/asJmFhVXURwCCvxfEe7Pllnhks8=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MNJ43JOA5K6LKK6NGX6HTFRGI.jpg",
-          "width": 728,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests.md",
-      "title": "Ethical AI will not see broad adoption by 2030, study suggests",
-      "excerpt": "According to a survey by the Pew Research Center and Elon University, experts don't believe ethical AI will be broadly adopted soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pewresearch.org/internet/2021/06/16/experts-doubt-ethical-ai-design-will-be-broadly-adopted-as-the-norm-within-the-next-decade/",
-      "originalUrl": "https://venturebeat.com/2021/06/17/ethical-ai-will-not-see-broad-adoption-by-2030-study-suggests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2021/06/PI_21.06.16_EthicalAI_featured.png?w=640",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700.md",
-      "title": "KeepTruckin raises $190 million to invest in AI products, double R&D team to 700",
-      "excerpt": "KeepTruckin, a hardware and software developer that helps trucking fleets manage vehicle, cargo and driver safety, has just raised $190 million in a Series E funding round, which puts the company’s valuation at $2 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/KT-1.png?w=1024",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/keeptruckin-raises-190-million-to-invest-in-ai-products-double-rd-team-to-700/amp/",
-      "publishedDateTime": "2021-06-17T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-microsoft-all-things-must-end-even-windows-10.md",
-      "title": "Microsoft: All things must end ... even Windows 10",
-      "excerpt": "Not because of pages flying from a stock calendar shot, but because of the cognitive dissonance ... wiped it out). Services do not have retirement dates. More subtly, Microsoft's attention ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.html",
-      "originalUrl": "https://www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/microsoft_windows_10x_logo_glowing_blue_circuits_by_vchal_gettyimages-1186902469_2400x1600-100882265-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3622410/microsoft-all-things-must-end-even-windows-10.amp.html",
-      "publishedDateTime": "2021-06-17T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-18-impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends.md",
-      "title": "Impact Of Covid-19 On Computer Vision in Healthcare Market 2021: Remarking Enormous Growth With Recent Trends",
-      "excerpt": "Revenue for Computer Vision in Healthcare Market has grown substantially over the five years to 2021 as a result",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/impact-of-covid-19-on-computer-vision-in-healthcare-market-2021-remarking-enormous-growth-with-recent-trends-2021-06-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-17T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

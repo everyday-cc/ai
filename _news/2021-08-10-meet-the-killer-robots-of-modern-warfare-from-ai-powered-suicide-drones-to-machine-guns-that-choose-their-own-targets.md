@@ -43,17 +43,22 @@ related:
         width: 360
         height: 203
         isCached: true
-  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
-    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
-    publishedDateTime: 2021-08-12T02:12:00Z
-    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+  - title: "Lethal autonomous weapons and World War III: It's not too late to stop the rise of 'killer robots'"
+    excerpt: "Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using \"lethal autonomous weapons systems\" that were \"programmed to attack targets without requiring data connectivity between the operator and the munition."
+    publishedDateTime: 2021-08-12T12:11:00Z
+    webUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 25
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lethal-autonomous-weap.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "wvORikTW/bS//dKserkQWFr0ktcgh/XgMKakxeX1BwgMgUwhcKKFCAJUoURmxeFfKWrot1HScIhkmyw+02I0mxKi8xahEXLAepuhqwfLS+Us28F1Je0ceib0YB55vVyaM1Q9nZaNlPrq0fjjoXJdzwmJtf1QAXtKdfxX5ogzO5gs1qOdYNLLzs3IFbMwWsbclWvefCg90lrPqjRPGvHizG2bXfoVZybgIl3+wouoPHsl1bVKI64WOjFhPmTZFNebBgIg78jSUr8d97fD3l3zurjVNPffZhvVGi82Xta6HseK0A88M6UG9cv75GBMtxrTMgpz9S0WNMgJepReong24sPq6u5DoJPxHS/7GrK4m3o=;CZWSp0PrS+ihfrZqTMn7xg=="
 ---

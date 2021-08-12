@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
+    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
+    publishedDateTime: 2021-08-12T13:56:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/comptia-names-top-10-applications-for-artificial-intelligence-and-internet-of-things-in-2021-emerging-technology-list-1030724742"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
     excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
     publishedDateTime: 2021-08-10T15:45:00Z
@@ -53,7 +62,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RSIP Vision Announces Patient-Specific, Intraoperative Registration Module for Orthopedic Surgery"
+    excerpt: "Aug 12, 2021-- RSIP Vision, a clinically proven leader in real-world AI solutions for medical image analysis, announced today a novel 2D to 3D registration module that will improve the execution of Orthopedic surgeries,"
+    publishedDateTime: 2021-08-12T12:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "or1Rt02C0zkzDd6SDZ74LweqLw1Boa8c6hTvfUv5CPa6aKY6lX4lxSdxoIDzgzs2pbT4V/uesWiqnfLs9oF1ELBsQxcO8Hw/aYJfID4qwwZMvorvy+jj2WCXJTJPaxyRV56O2DWZYqkuFhmSduIHZuMx9A3/nDpXYHWr/kTgj4O2mC4I6qI2lN4+3lI3P3oEqVRveG9QBK96CBDIc2HtjzJ+3PaG6PgrDUxSoENiW20uP/FAxJ0kBunjRva6iVsLDU5cNW2q5XRg5JOigBgfiziUPrE2C3vM2Vr6ue+YIWcD8W5p1PagkKTtP/FzQ/kWqs0eQO6jzmzprybvouKaof8Xw4axrJ+A9lC2k/uIGyc=;VrfuoJVvAxSS8sJ4EgJwCw=="
+secured: "VODjl4FWvAZYCaEZSvxN+Qb12bYyOK1kUVaAG45wCB+L9KRjV9ukv/xfKFCkfw9ggh8dx2L707LHhHeXk3G9YLmjGX7bp6CT/PpTP+55ENBrP+Rmnlw9R9zsyX5GK5gjIszKCPsehJAHqTOViWtzpdC3uU6wewzqFa9MLFNSczL8nf+fXuS0DrwTCabYjP3r91o1KidoTBwIXzYdLM/yHDXXIIeRO0gIgzO3PdjzubEn5jhM3hF2BrR1tVyhY3mxnfwFfA58+v3Q12EBARu5a/Ur3Tom+tpqeEixNVYlZptUSx66tzaDgsSYMYoDOEeIyHoFG57y2V/7w46ZkUS7IxFUoV8+eFN3KK2kyKJfqWQNyxG5q5eg1STV4f5bpmstu7wCU1gJc5I3FkZfMRW/CrxkX9yiMt1amDjwVrlT5xpwSOHgbDcSQ2/6csO12lEB0R4SolKs03UwS+k2V6OpxcibD/VtQB7KWcubSD3X6x+cmpXBb6EW4f2y3ZFgwq2DminsGGD2DoZT4cjAJsoZFA==;S6kzaQIRojWJaLv+UFXe5w=="
 ---
 

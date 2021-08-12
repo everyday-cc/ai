@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Audi unveils the Skysphere: A futuristic, sinister-looking EV roadster concept car in new direction for automaker"
+    excerpt: "The roadster concept can change sizes based on driving modes and boasts a digital cockpit with a retractable steering wheel that can stow away."
+    publishedDateTime: 2021-08-11T12:56:00Z
+    webUrl: "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 151
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106924533-1628598021502Audi_skysphere_concept_PB21_16.jpg?v=1628598991"
+        width: 1080
+        height: 1350
+        isCached: true
   - title: "Audi Skysphere concept is shape-shifting, self-driving roadster"
     excerpt: "Audi has given the first glimpse of its next generation design language with the unveiling of the Skysphere concept, which hints at a future electric roadster. The new machine, revealed at the Monterey Car Week in Pebble Beach,"
     publishedDateTime: 2021-08-10T17:42:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/99-audi-sky-sphere-concept-2021-lead-front.jpg"
         width: 1600
         height: 1066
-        isCached: true
-  - title: "Audi’s future revealed: Self-driving and shape-shifting grand tourer"
-    excerpt: "Is this the future of luxury motoring? The new Audi Skysphere concept is an electric two-door convertible that can drive itself and even adjust its length, and it’s a key indicator of what is to come from the German brand in the near future."
-    publishedDateTime: 2021-08-10T23:19:00Z
-    webUrl: "https://www.speedcafe.com/torquecafe/audis-future-revealed-self-driving-and-shape-shifting-grand-tourer/"
-    type: article
-    provider:
-      name: Speedcafe
-      domain: speedcafe.com
-    quality: 24
-    images:
-      - url: "https://media4.speedcafe.com/wp-content/uploads/2021/08/A215691_large_CROPPED.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "LWcHQO9fjL7c6MYC0hvNu/EQgPQf1ktPJ0UmXnRKQY+oPHokysnTPfdrp6q5s8LIRb7gvmYqXIMxYnH371fJ4Ajcj3XAs2xSwR6HdC3R/KhuinQTRkdfxbmSvh0Jsfy3UVU/VQqSQFENE2d7gJ3s2uE9geAxEBDxKTlZmpZwjC0dKzx63REVppVvD3Xj+5C8+xEm4/UgJ88HqkWrOYmMrOTkOVwwkWKURuDV2Nym/Fw9ZPbAapKC9+pj0L9QlJq7esmMzzVVB7o1swVzt7ClVo6wj/9CX0A0w6eUG8MFshyEtxLrqJZsaT+9OOV1PG/2wQzHS+XdnC61SHfCnWlin8jwtAe29E/MtzmRcilSDG/baByPS/KG/sKeJjfQpOVziLeim5YZQcvD0N69r6oRm/ym5ThmvF/fim+FIINj5vzFnFj0kNhOQtuJFVm2GJbzC4jgSS1oVuqaBeziT7U1OONXMVU7VSwiQzWxwNo4K0i4s/ZLI4eFkdAEhVR2l5Ju8X/VEMCqodwh4+bw4pvrZA==;fdTnZwnENfKZ+tGodIRMzw=="

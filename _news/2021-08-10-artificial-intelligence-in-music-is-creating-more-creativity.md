@@ -85,18 +85,18 @@ related:
         height: 315
         isCached: true
   - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata)."
-    publishedDateTime: 2021-08-12T07:39:00Z
-    webUrl: "https://english.vov.vn/en/society/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-882013.vov"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T04:06:00Z
+    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
     type: article
     provider:
-      name: VOV Online
-      domain: english.vov.vn
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
     quality: 24
     images:
-      - url: "https://media.vov.vn/sites/default/files/styles/og_image_en/public/2021-08/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png?v=1628753970"
+      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628777041"
         width: 600
-        height: 315
+        height: 385
         isCached: true
 
 secured: "iKPpAVZM8jAqWnk3QQnlmmj0bBWWPRYJs36ly/0hcMqpPmdLMnhDiTK4Yjwq5mjUTD/7JmY7AqoNzSn4X3P806EQl5/S+NsrU+H3hIM5MAMJxVa1nKgNCEqVFfY3JgFvBgqj0SHAilLuQ/HDOrOwq30SfMIYQ5R4PMexkm3iXMrLLmU5qEJONs0iXm82uG+fXdyfhmPnlwL/G5drhpYlj8DgUpQIehB3yOxz8K6lKFrVfOo77NaZfSdGHDyhjBIQnLKMDV2CfX2+N8w91kiRH1+Wd1BJwAClGl5RBSu7GVeBh170iigfJEBBrSF1gvtMHulgM7/GXXyMmsDTEnIJJd9zME+Q4XAos1iw1mnzTzY=;vYCiF+K2uf16Gas8p2gCDQ=="

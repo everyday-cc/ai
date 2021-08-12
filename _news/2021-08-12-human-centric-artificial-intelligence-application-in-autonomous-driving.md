@@ -8,8 +8,8 @@ webUrl: "https://www.dqindia.com/human-centric-artificial-intelligence-applicati
 ampWebUrl: "https://www.dqindia.com/human-centric-artificial-intelligence-application-autonomous-driving/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/human-centric-artificial-intelligence-application-autonomous-driving/amp/"
 type: article
-quality: 60
-heat: 60
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,8 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Autos
+  - AI Ethics
 
 images:
   - url: "https://www.dqindia.com/wp-content/uploads/2016/07/autonomous-cars.jpg"
