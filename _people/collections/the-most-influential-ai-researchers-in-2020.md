@@ -2,7 +2,7 @@
 name: "The Most Influential AI Researchers in 2020"
 bio: "These are some of the most vocal and influential leaders working on artificial intelligence in 2020."
 type: "collection"
-heat: 270
+heat: 350
 
 items:
   - andrew-ng
