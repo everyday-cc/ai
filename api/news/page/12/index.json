@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-02-supercomputers-are-becoming-another-cloud-service-heres-what-it-means.md",
+      "title": "Supercomputers are becoming another cloud service. Here's what it means",
+      "excerpt": "Designing for the usual cloud workloads isn't the same as designing for high performance computing: Azure is trying to achieve both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "originalUrl": "https://www.zdnet.com/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/20/4578fe42-7a03-4ce3-b255-3ee294ece765/thumbnail/1200x675/ade3598837ab9ca69ae071f14060e02e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/supercomputers-are-becoming-another-cloud-service-heres-what-it-means/",
+      "publishedDateTime": "2021-08-01T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-a-parasite-is-turning-cicadas-into-mind-controlled-sex-zombies.md",
+      "title": "A parasite is turning cicadas into mind-controlled ‘sex zombies’",
+      "excerpt": "Don't Miss: Today’s top deals: Exclusive deals for Prime members only, $6 car detailing tool, $200 off MacBook Pro, $73 robot vacuum, more The actions of the fungus are like something straight ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
+      "originalUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2020/07/c809caf4-b90c-4bc9-88b3-461a0e29bf8d.jpg?quality=70&strip=all",
+          "width": 826,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/zombie-cicadas-fungus-parasite/amp/",
+      "publishedDateTime": "2021-08-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-csras-cloud-migration-experience-moving-mission-critical-applications-to-aws-govcloud-us.md",
       "title": "CSRA's Cloud Migration Experience: Moving Mission-Critical Applications to AWS GovCloud (US)",
       "excerpt": "\"We were given a very aggressive timeline of just four months to get everything up and running,\" Bergen says. \"During that time we had to go from having nothing to having all of our applications replicated so we could support our 15,000 employees.",
@@ -1051,102 +1146,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
-      "title": "What the evolution of AI/ML means for government IT",
-      "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
-      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-lyft-gets-equity-stake-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
-      "title": "Lyft Gets Equity Stake In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
-      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "publishedDateTime": "2021-07-30T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-whee
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/08/ai-1535724047-1628699733.jpg"
         width: 712
         height: 474
+        isCached: true
+  - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
+    excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
+    publishedDateTime: 2021-08-12T09:05:00Z
+    webUrl: "https://thelogicalindian.com/environment/driverless-electric-car-using-artificial-intelligence-pune-students-turn-imagination-into-reality-30191"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 40
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/08/12/201319-untitled-design-2021-08-12t140428060.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "F48UrMQK11oY9vYfr8m5VUjkUBOaUyCPmErh0SiVVjlvDuVoH3q88Tl6XeZXcwBMt6JHECmxMyJc8ffzV6bNqVYQzonhiZJDpOjeXRtQ4kdwJh5blQCUksDVru69qOWOYGGPqWnr68OpmEGKkMUPvF9v7yVjTJNJ/zUJr12HkTEcPK4FSFhLndSicED5t6pNs72bLFTjpiDQu8AlCEz8MzJvp/V6MfLAPHTFqGQ0xgzOmTnHv6sXN6jMXyYMJ7jh00UTP5vqay4nf/QZPQggjMOeliYH5EGKETFnKsiy6mcMeTZ8R2dBiHDywQrhdclZPQHXBe7/sJoRvmo6D9xK+nLfGJjMyPXFDA6OPbiD6ok=;0xjFH7qMJgBtKMgKTo0Q5Q=="

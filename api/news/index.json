@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-12-robotics-automation-to-increase-global-economy-by-16trn.md",
+      "title": "Robotics, Automation To Increase Global Economy By $16trn",
+      "excerpt": "Experts have projected that artificial intelligence (AI) will contribute $16 trillion to global economy in 2030, adding that the current advancement in",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
+      "originalUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2019/04/artificial-intelligence.jpeg",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/robotics-automation-to-increase-global-economy-by-16trn/amp/",
+      "publishedDateTime": "2021-08-12T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-objects-of-scrutiny-facial-recognition-and-our-biometric-future.md",
+      "title": "Objects of scrutiny: Facial recognition and our biometric future",
+      "excerpt": "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/dgp45va6a437X9l8",
+      "originalUrl": "https://www.itweb.co.za/content/dgp45va6a437X9l8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/Ohc9mBsrnyqhpZcxI1tbDb9_M1NRi9iZ4VhFNMQksr8ZlHpyAOSjHpTUyw8SDrBtRVCJxg0y4ig_mK1aAhtyyBNFhCcqXfVxUB2o=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8",
+      "publishedDateTime": "2021-08-12T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-chinas-tech-crackdown-thwarts-ponyais-us-listing-plans-insiders-say.md",
       "title": "China’s tech crackdown thwarts Pony.ai’s US listing plans, insiders say",
       "excerpt": "The autonomous driving start-up’s hold on going public follows Beijing’s move to ban ride-sharing giant Didi from signing up new users soon after its IPO.",
@@ -236,7 +322,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1096,109 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-unlocking-the-transformational-potential-of-the-cloud.md",
-      "title": "Unlocking The Transformational Potential Of The Cloud",
-      "excerpt": "As we’ve seen with printers, by connecting fleets of devices and enabling them with cloud technology, we can find tangible solutions to longstanding industry challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1200275499%2F0x0.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-transformational-potential-of-the-cloud/amp/",
-      "publishedDateTime": "2021-08-11T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-mubadala-backs-software-startup-peopleai-in-new-funding-round.md",
-      "title": "Mubadala Backs Software Startup People.ai in New Funding Round",
-      "excerpt": "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

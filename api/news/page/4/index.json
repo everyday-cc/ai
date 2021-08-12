@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-09-tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july.md",
+      "title": "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom And This WallStreetBets-Favorite Stock In July",
+      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc. (NASDAQ:AMD),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
+      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22393375",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22393375",
+      "publishedDateTime": "2021-08-09T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-data-labeling-platform-snorkel-ai-nabs-85m.md",
+      "title": "Data labeling platform Snorkel AI nabs $85M",
+      "excerpt": "Data labeling platform Snorkel AI has raised $85 million at a $1 billion valuation, the company announced in a press release.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
+      "publishedDateTime": "2021-08-09T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
       "title": "Eden AI launches platform to unify ML APIs",
       "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
@@ -1121,102 +1216,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-social-factors-in-machine-learning-models-aid-cvd-prediction.md",
-      "title": "Social Factors in Machine Learning Models Aid CVD Prediction",
-      "excerpt": "Machine learning approaches are useful for cardiovascular disease prediction, and model performance is improved with inclusion of social determinants of health, according to a review published online July 27 in the American Journal of Preventive Medicine .",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
-      "originalUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
-      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
-      "publishedDateTime": "2021-08-08T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
-      "title": "Is robot therapy the future?",
-      "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "originalUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/04168935be947f34b6dd019dc43d0a43310c9226/0_132_3960_2376/master/3960.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a94a1b689c298d5cd0fb20fc4aace0e",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
-      "publishedDateTime": "2021-08-08T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

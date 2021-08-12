@@ -1,19 +1,15 @@
 ---
 category: news
 title: "Becker's Hospital Review Spotlights Parlance for using Voice Recognition Technology to Improve Caller Experience in Healthcare"
-excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR. Becker's Hospital Review, the nation's leading publication that offers up-to-date healthcare business and legal news and analysis,"
-publishedDateTime: 2021-07-29T14:23:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
-webUrl: "https://markets.businessinsider.com/news/stocks/becker-s-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in-healthcare-1030663161"
+excerpt: "Becker's Hospital Review has spotlighted Parlance and CEO Joseph Maxwell's work in improving patient caller experience with speech-enabled IVR."
+publishedDateTime: 2021-07-29T14:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beckers-hospital-review-spotlights-parlance-for-using-voice-recognition-technology-to-improve-caller-experience-in/article_ac795739-7af6-5f33-97b1-85292372f346.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
@@ -21,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://mma.prnewswire.com/media/1160610/Parlance_speak_naturally.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/86/d86d8a25-c3fa-5c7e-89b2-11e91e7cc34b/6102b8ccc0895.image.jpg?resize=766%2C351"
+    width: 766
+    height: 351
     isCached: true
 
-secured: "E6unktgxPc53Vw+23h/IC8Aweo0gyw2lhOw/jY27UA0f614vCOJ96j15evM3hhEJMDhN8rj1KWNsh0vlcPQJ/8IZ/Fgtfkv/W/BPVGziSA4te9z2f9cMQ9xs3fZnMDq8mk4UkInVILZTJlTnTWrVal5APkhybbLzc0D5dylv4MSQgAKtGU0TqPioyoBGIg/81/4nAIqOznQKM8z3tvHyZLO1aMFry2hf/8kclML8Wod0GtxzQrjBhwFZUH/lW4iqSkuY1xmBlmT4e2uIZ9jwYNBM/tWoYvoHeK6Zl3Ea+oNUqWUNFfzWShiIq3/9gfml7gYkewROrzdHU18EE2WWTy+HEcpK1Mo0uIdAbVpRu4ZTBpOPAd1wZIRQBaIdsc/AIccvckXuZta0raZ/WtNmFtzOM9BTgKb1rh5hH/qJKvug/2bNMtjvH/FIfqKwVnBbB2gpaQpceiymREpBQlEo2uEr1FJHvryQqBhEMfzQvVANu73NEd7lX4XjynoZlqmy7Qjw53E0UTD4FbY5cV5c8w==;Gm+/QOG4mF9KtH9UdhFXqA=="
+secured: "yu8h+Ziicqqy5d3xhbUs8xjkijwXpLw9piq+np6yDTayGGQTFrThjsdey1Uw8nZaMVphwYtsYBUDKy1A4P6Ciem/TXiWVx2e+A3NDtXBr86UibyqmLLrE9pZli0oaJOUDbPCLFR1jtfmdv1nD8AHc98uMj4ThHObxfCh9kgU3jwBpODY4qAV7nyKd3mfHkZNBW3zt6+LRZ9wL7movB84DuntBnjx9o6mDeF6ispWU3mSJwBu3+0JmpcBr13QTdeDAgAzDx+UxdT3JRCCOEKf+WgZvEYBj8nZl79vlJbymQjq2Em9bJ0YKUYIS7vr7XxE+nNLY+usIAjDGR/2/H41h8+pc0aYbdrqAEW+Wxiy7rc=;lgLNeYnXHFjNu+i0o5Ow7w=="
 ---
 

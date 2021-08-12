@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/embark-ceo-alex-rodrigues-taking-s
 webUrl: "https://www.businessinsider.com/embark-ceo-alex-rodrigues-taking-self-driving-startup-public-spac-2021-8"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Self-driving truck startup Embark is going public in a $600 million SPAC deal. Read the pitch deck its CEO used to raise its $2 million seed round."
+    excerpt: "Embark would later raise money from Sequoia Capital and Tiger Global Management before striking a deal to go public through a SPAC merger."
+    publishedDateTime: 2021-08-12T08:34:00Z
+    webUrl: "https://www.businessinsider.com/read-self-driving-truck-startup-embarks-original-pitch-deck-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
+    images:
+      - url: "https://i.insider.com/61140e403dd01000199d2b7c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "PeT+XuB/xN9B//8YMgYtcaWVUGq40Y0e+GCrLbCwVlu7nBUNDbJQpifkLVvFN34h5TFDnXDJLzNdVY72L3oj+9u6vMvFZVq4+2FQ7cFZu2gvGQ5lcnnVuNaPjCe2nuLnTQG/24/Y8TLnohhTA2vzJ2JHogOETaKhp6ieoH0v6oDlYCXmISnt+VAzSgVsGG1mCkK9uDTQ56YQafelGYiB8sN58i7WUEcnBkNOEI3bKkYGowNb7R1+CmRxd+YgWudg/dn+aC3Wow21Fu7+hfEZlaQ44wjFuEYnI5IemgHcKCmgEO/x3k0mFEYZ8/yvaAeBOC68jxqFyy+V6U1bAuknDEdZdHvko8fslvfYrTcYdWVDp9JBincVQ+/lal1q+IdhMI0m6P8u/m1n9Au583Trw8qKa8kXIZG/pXcH/8B6ap7IHWZJJ32exltaMBt0BThJpTymEKIBPcnlpbFtLoMBRbRXj01HeL3CqtUy0xIZxu6Hwem6i97ECEv/fNN3P7zQdrcIMJfswmoJI6lL/CPWoQ==;BOzlikjoL6mWqd0TZTZoDg=="
 ---

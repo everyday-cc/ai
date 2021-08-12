@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-23-vochi-raises-additional-24-million-for-its-computer-vision-powered-video-editing-app.md",
+      "title": "VOCHI raises additional $2.4 million for its computer vision-powered video editing app",
+      "excerpt": "VOCHI, a Belarus-based startup behind a clever computer vision-based video editing app used by online creators, has raised an additional $2.4 million in a “late-seed” round that follows the company’s initial $1.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
+      "originalUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/VOCHI-team.jpeg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/22/vochi-raises-additional-2-4-million-for-its-computer-vision-powered-video-editing-app/amp/",
+      "publishedDateTime": "2021-07-22T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-23-study-wearable-camera-reduces-collision-risk-in-blind-visually-impaired.md",
+      "title": "Study: Wearable camera reduces collision risk in blind, visually impaired",
+      "excerpt": "July 22 (UPI) --A wearable computer vision device may help reduce collisions and other accidents in the blind and visually impaired, a study published Thursday by JAMA Ophthalmology found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
+      "originalUrl": "https://www.upi.com/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/8601626962178/2021/1/16269638014390/v1.5/Study-Wearable-camera-reduces-collision-risk-in-blind-visually-impaired.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2021/07/22/blindness-wearable-device-accidents-study/8601626962178/",
+      "publishedDateTime": "2021-07-22T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-ai-image-recognition-market-to-see-huge-growth-by-2026.md",
       "title": "AI Image Recognition Market to See Huge Growth by 2026",
       "excerpt": "The latest study released on the Global AI Image Recognition Market by AMA Research evaluates market size, trend,",
@@ -1290,101 +1385,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-how-octopuses-upend-what-we-know-about-ourselves.md",
-      "title": "How Octopuses Upend What We Know About Ourselves",
-      "excerpt": "Octopuses (it’s incorrect to say “octopi,” to my despair) are having a moment: There are award-winning books, documentaries and even science fiction about them. I suspect it’s the same hunger that leaves many of us yearning to know aliens: How do radically different minds work?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/13/opinion/13eks-promo/13eks-promo-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/13/opinion/ezra-klein-podcast-sy-montgomery.amp.html",
-      "publishedDateTime": "2021-07-13T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-chinese-city-using-facial-recognition-tech-to-fight-coronavirus.md",
-      "title": "Chinese City Using Facial Recognition Tech To Fight Coronavirus",
-      "excerpt": "Facial recognition tech linked to personal health codes has been rolled out in a Chinese city bordering Myanmar as authorities seek to squash a coronavirus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "originalUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2021-07/90pei86s_china-covid-ruili-afp-650_625x300_13_July_21.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/china-using-facial-recognition-tech-to-fight-coronavirus-2485824?amp=1&akamai-rum=off",
-      "publishedDateTime": "2021-07-13T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

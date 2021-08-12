@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-23-alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit.md",
+      "title": "Alphabet to launch robotics firm Intrinsic under its other bets unit",
+      "excerpt": "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016",
+      "originalUrl": "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://onecms-res.cloudinary.com/image/upload/s--wpGt0NQs--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg?itok=4jDRqfE1",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-23T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-23-training-platform-for-robots-eyes-global-expansion-after-23m-fundraise.md",
       "title": "Training platform for robots eyes global expansion after £2.3m fundraise",
       "excerpt": "A start-up with a platform that trains robots to recognise images has completed a £2.3m funding round to help it build its team in Yorkshire and expand sales of its product worldwide. The investment in Sheffield-based Mindtech Global was led by npif – Mercia Equity Finance,",
@@ -1356,49 +1400,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market.md",
-      "title": "Worldwide Robotics Industry to 2025 - Co-Bots Drives Robotics Market",
-      "excerpt": "The \"Global Robotics Market (Industrial and Service Robotics) and Volume, Impact of COVID-19, Key Players Analysis - Forecast to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/07/n22015462/worldwide-robotics-industry-to-2025-co-bots-drives-robotics-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155831/Options-Trades-Feb-3-2021-5.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22015462",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22015462",
-      "publishedDateTime": "2021-07-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

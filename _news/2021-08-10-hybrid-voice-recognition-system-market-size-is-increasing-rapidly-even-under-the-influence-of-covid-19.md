@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://www.lelezard.com/en/news-19948480.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
 
 secured: "vHfBHetNSVkd5bNKWylCDfGuRQt81p78RXbtwdtVFJPrOiBAdl0A01vYYHw1sPCr3w4nB27w0f6rI0vH4ZJXev4GdCdIrWLMmWEkdAU6AvNoyUv49RYSzXT4IObTrHK+jek2ouQkw/I1EvDRzvAtwtLwp9mvAFBicC8Qpfvf3rIYvT8uUi9ujg+BvK5bN9DozU7tDezeQeMCRo0TvHtx5dkFJDaUOsMVc7OeDz8TTD8OhoNoZYSukSWV3v844pGTMojvNUKRMQbzpduk2p88I1WTcvrsKOxM8hg3axatMzDImKxoFWPKL5w3OARuKzVrlQcm4CC1rnFzL+UtFU7WA2EuAGVk8SVwnHcQF6EwOfo=;ptCeNdr2WbXrbk1gLnAkEw=="
 ---

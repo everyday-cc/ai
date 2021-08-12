@@ -73,6 +73,20 @@ related:
         width: 712
         height: 474
         isCached: true
+  - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
+    excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
+    publishedDateTime: 2021-08-12T09:05:00Z
+    webUrl: "https://thelogicalindian.com/environment/driverless-electric-car-using-artificial-intelligence-pune-students-turn-imagination-into-reality-30191"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 40
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/08/12/201319-untitled-design-2021-08-12t140428060.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "U8wLkPWUy/7LBhiuHcRfzEXEj/55oUKnMh6tSZzkjeq1rWLbGI1slRYRaTN/rzBMkbxm8nic3W6wL8NibZEFXfGUb3Eg01fO/R9/qFW7WSg3LJCfWiRPo7UzoCdptmCRTtaAOHqiD57u935PICwLli3wC2pZPr1Yl0qrX5r3jxTtyMFaB7CF6Cq9xR8X207mEgC+pcgu3Nw3T0Bll9dd5MLXscg+dZTp7StURc8mInar/+G3dp0OhHJ5aiLEqwS+xdQgtApoFUi3M65dsLKwFUiEcUkU7h5Ad6TxZsHnXtj2etc2lMH3PCHaZ23lPgDXgSdKWq0uCvwyHABhvpcZp/MoEl3gqgF/cCYf2Y8N+vA1CfIOaXvbx3ar8XyPM3m9GdTeuINY53bHc5uDo55nBPGjrGyzM+dmGmCNcOpl1CMjxZ7k3FqfUv0pPet/Qtij6MYx6ySex+SQHLc5LnC30fiSDIGmgrew/mK4O/0L9ZNSqzpMatTGoKn3t8Zx8eO7irbIGHoZO43qiWUgYcprzg==;fVleeh7M3fLtN6zX9CystQ=="
 ---

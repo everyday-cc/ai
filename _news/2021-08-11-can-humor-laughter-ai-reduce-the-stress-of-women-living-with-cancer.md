@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?"
-excerpt: "NEW YORK and WASHINGTON and PALO ALTO, Calif., Aug. 11, 2021 /PRNewswire/ -- It sounds like the opening to a classic joke: 'A cancer survivor, a"
+excerpt: "It sounds like the opening to a classic joke: \"A cancer survivor, a scientist, and a doctor walk into a bar,\" but instead it's a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer."
 publishedDateTime: 2021-08-11T14:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
-webUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
+originalUrl: "https://www.tmcnet.com/usubmit/-humor-laughter-ai-reduce-stress-women-living-with-/2021/08/11/9428892.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-humor-laughter-ai-reduce-stress-women-living-with-/2021/08/11/9428892.htm"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -28,6 +24,6 @@ images:
     height: 270
     isCached: true
 
-secured: "qaTcWumT7MvrP5WC5C4aGh3GAvsAAI8iCIseZYYIv8Q9YAsMOotfHjTxj7bTeo+tFr3mGw3VY6em0oE0XFjwf5SQtPfcaX+6Ic8LHJSGnLnwKkcWlfsLGbArIoqV2TPokDVRAeB/6nEL+wQgsJiinz2XSVx2pL+M4ioBQeIfk4eRxWWd9DTOuwcInkY59C8PlZ6z/wTesBgx4PSkiwBzgBEybZWMP0V3CxhzuItuwZQ8qGKVgjUwUpwbAJ7522RD5UaNesNcJ685E7NGNEpwtbkom0TuQr/J36jRIG1Or2TTjtx/p8NNRjxGMox1sj5Evz+lcSMT3W1vkN8pCJ3glyUGNwK3/FovmQ88HV7iKkQ=;JwoaoQUoZi8l+TOwQFjnCg=="
+secured: "ASjeRGQjrWEWSezdDHebMdLOgYtJ/TaLpOSp+okDX+XZCPWbN+L3hXUclu7rmMTEzC7zMpfUdjtfSe/Bsn7ziLSBxNZ07NrWFMlTcOJEtINX30LT2ROKdKJzDbIaHg84DXVom3ffcXqvWJd1039ycUUQvizWkb10sajckz3vvJAeUhZFeDJ7raTOFzxISHJhl7PzyWaqo7SQcPLLIAKmY/2cTsrJc91yceVeBNSOFVkhpHMWmw5+WeZY+YAnIEwaIrKDe3cWxaPfYR/P1PMyN616XdWsp4xKLqQ1Us/gNrmrtPPcJR+lMiKyxB5GVCuGHL9By3vkHIEQswuLqQrisvtDz6yfQlfdOxNtZZSII0s=;MEFd6yR0RsrKVvGYZJXmmQ=="
 ---
 
