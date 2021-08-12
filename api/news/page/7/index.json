@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-05-dataiku-raises-400m-to-democratize-ai-in-the-enterprise.md",
+      "title": "Dataiku raises $400M to democratize AI in the enterprise",
+      "excerpt": "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-08-05T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-feds-arrest-george-washington-in-jan-6-case-using-phone-tracking-facial-recognition.md",
       "title": "Feds Arrest ‘George Washington’ In Jan. 6 Case Using Phone Tracking, Facial Recognition",
       "excerpt": "The FBI arrested Missouri's Isaac Yoder, who admitted to entering the U.S. Capitol during the deadly insurrection while wearing colonial attire.",
@@ -1163,49 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
-      "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
-      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translation-s-iwslt-2021-evaluation-campaign-1030689337",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

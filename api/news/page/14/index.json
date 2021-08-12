@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
+      "title": "Cansel Brings TinySurveyor Robot to Canada",
+      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg",
+          "width": 400,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-meet-the-new-digitall-stack.md",
+      "title": "Meet The New DIGITALL Stack",
+      "excerpt": "As advancements like digital humans, machine learning, robotic process automation and quantum computing fuse, captains of business will soon reach greater heights and fend off exogenous events says Ben Pring,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f833b5cd5bec5d351a8df7%2F0x0.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognizant/2021/07/29/meet-the-new-digitall-stack/amp/",
+      "publishedDateTime": "2021-07-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-openai-debuts-python-based-triton-for-gpu-powered-machine-learning.md",
       "title": "OpenAI debuts Python-based Triton for GPU-powered machine learning",
       "excerpt": "Triton 1.0 uses Python (3.6 and up) as its base. The developer writes code in Python using Triton’s libraries, which are then JIT-compiled to run on the GPU. This allows integration with the rest of the Python ecosystem,",
@@ -320,59 +415,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
-      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
-      "excerpt": "The availability of Shutterstock.AI's data on AWS Data Exchange will allow customers, from tech startups to industrial giants, to train computer vision models at scale with precision, advancing their computer vision technology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-1030661684",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583862/Shutterstock_AI.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -741,6 +783,41 @@
       ]
     },
     {
+      "path": "_news/2021-07-29-shutterstockai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions.md",
+      "title": "Shutterstock.AI Launches Data On AWS Data Exchange To Advance Computer Vision Solutions",
+      "excerpt": "including Amazon Rekognition, a solution that simplifies adding image and video analysis to applications using proven, highly scalable, deep learning technology that requires no prior machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/shutterstock-ai-launches-data-on-aws-data-exchange-to-advance-computer-vision-solutions-833614481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-a-mid-year-tour-of-ai-in-2021-and-what-it-means-for-communications-pros.md",
       "title": "A Mid-Year Tour Of AI In 2021 — And What It Means For Communications Pros",
       "excerpt": "The AI industry is evolving quickly, and capturing an accurate snapshot of it at any given time is critical. Experts conduct surveys and research each year to evaluate the current priorities and challenges,",
@@ -1054,91 +1131,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies.md",
-      "title": "Here Is A Fully Autonomous AI-Powered Beehive That Could Save Bee Colonies",
-      "excerpt": "More than 30 percent of the world's honeybee colonies are vanishing each year. This company created the first fully autonomous beehive that can rescue and protect the bee colony 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610198a171aa6e440d9b3e43%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "publishedDateTime": "2021-07-28T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-shield-ai-signs-definitive-agreement-to-acquire-martin-uav.md",
-      "title": "Shield AI Signs Definitive Agreement to Acquire Martin UAV",
-      "excerpt": "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has",
-      "sourceUrl": null,
-      "webUrl": "https://www.inforney.com/texas/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_07ed6c15-cb30-5c1c-92b9-87cb579b01b2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_0bcb4aab-719a-5d1e-93e4-ae5b2af2f531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

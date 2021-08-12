@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -61,6 +61,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Offers New Way to Detect COVID-19 Infection"
+    excerpt: "Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests have emerged as the standard for testing and confirming COVID-19 infections, with nearly 80 | Technology"
+    publishedDateTime: 2021-08-11T23:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 39
   - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
     excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
     publishedDateTime: 2021-08-10T01:21:00Z

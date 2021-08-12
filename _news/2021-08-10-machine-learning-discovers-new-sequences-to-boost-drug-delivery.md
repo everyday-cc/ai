@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boo
 webUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810"
 type: article
 quality: 69
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -106,20 +106,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The Computer Scientist Training AI to Think with Analogies"
-    excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"
-    publishedDateTime: 2021-08-07T06:19:29Z
-    webUrl: "https://www.scientificamerican.com/article/the-computer-scientist-training-ai-to-think-with-analogies/?ref=upstract.com&curator=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B79B9A2A-FC8F-45E6-BA22A19888F807ED.jpg"
-        width: 791
-        height: 496
-        isCached: true
   - title: "Opportunities Await: The Artificial Intelligence in Big Data Analytics and IoT Market is changing in 2021"
     excerpt: "What Does The Global Artificial Intelligence in Big Data Analytics and IoT Market Look Like Today? In a year that witnessed the world navigating the onset of a global pandemic, the Artificial Intelligence in Big Data Analytics and IoT market landscape quickly pivoted and charged forward."
     publishedDateTime: 2021-08-11T12:37:00Z
@@ -149,6 +135,6 @@ related:
         height: 355
         isCached: true
 
-secured: "fm7mjGTu3eSltB8QC5oc+zVObw2G+MQo7WgGpTVfj6ZhWdHPh/6TmvcwufmKY/hJCwr9XnsS4tltDxESkclBX3Pppdqfwym5vchJnjsrxHB5NbB4w+9P79sROdyNIvpXI6SGVukGFSr/dl+P5pG/3Wyda61zX6ecnTBbUooRRYXYpAI8mW41ET78tGbbkH9vgxvv+EJAEd/LtTf0IpO22lDtVO9LmKqzfJHbhNuwiXOA/DOm5rR2EHtDI3qxMXPcfmHi4rqZbFT0tNmIwu9Py1DblEUdMzwDHfMY3i03T0MXDfBOLK4KbZPGjcd6myVkEGSI36vwQgOq1MOqR5dHp4QUqDe6UioLVJcEd/y9Zo0=;GUOMcRw9Kfsey/8jBfAnGg=="
+secured: "jYWx6IO65HXMhHmp96oadxkzuztIHMKGyu9zv/CydkUjxiNxppBBqwzgWhd5kwZHUILDsdt1rMECGAVvAx2+Y5GevV+sq0e8Sr6WCYmZyt1vg80+u3LJ8BXu29LgCMOM5O8gpsA9/JKmNiL/xb/PRrCkCgCXHOZlesxh+2XV3hSU+AjEbhpAmRdwASDlWIEtW1iOB/p+TXWK0w5EO8Y6A+PregNKJx/aY0h/mC8WRxZIjh/hGjoGbA1QqsjsN/QDylqcbiSHO+fW+mu0zfr4TG0/40pr9q3jqfW1sB9trGSnzVm3x3FU3R1MhdsShsLvLqGb4h9dVYhCUmjQL/oYjnYFNANXnkvaGy4qnIYzrzQ=;5rSjHf/yOZooDPNBdaBMkA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/08/09/the-challenge-and-opportunit
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/lambda-labs-logo-2.jpg"
         width: 689
         height: 477
+        isCached: true
+  - title: "We, the Robots? The challenge of regulating artificial intelligence"
+    excerpt: "Regulating AI is not simply about avoiding the rise of homicidal robots. It’s also about future Facebooks and Ubers, of finding the right balance between control and innovation.. Read more at straitstimes."
+    publishedDateTime: 2021-08-11T22:33:00Z
+    webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 37
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/11/mi_pxls_110821.jpg?itok=eZTf6IVd"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "5pknRbMlrYoLoU2jUHFMx7QDISie+Vc3qHFn3UcqKOEk5QxnXenYU0l26jAkGufeT7NUZjjs9U+MT1cJO7WBbWL08JTBcd1OzQmc7QOwbEaZVrhs7Z68TkcF+JSIZe6Kcuqx8/7j6gABPnGeH+yVI7NuRgPsAdGv2chZ+b3i/cA8u0HsT2lg76xX3YKCRMfh/X59Exx+jAB4CANUShjNjQ76XgouTcyPp7w81i0kk+gRsB4PSLPIGH2M2XGzKksr2Dld2jq4e6xKdfYi/klbQrlcqxTYMmleetMLwn+YRgRirQWcFLYCydDZSjKjirre4hAh6xza/GErHCaXlG47tfk0YsXyM8AuOeD03kKxkSdG9O+avnMzhsXDuT9NrIdsLGiBUTY0TBk3bgJqxvzkEQ82p2aET9IiRMNqZnnVHCw3mB2jhI7H9mzlsvilNrXj7REIM8/zxXR7uaEeFtjs7DSigW7ahwzYxVn5bAWXO1Xu1HsEZFyjQW32y7UZhYWZJ/UXboOeOs4G2GD2rEloZA==;pAsbTsyFh1i9IB4JW1XCQw=="

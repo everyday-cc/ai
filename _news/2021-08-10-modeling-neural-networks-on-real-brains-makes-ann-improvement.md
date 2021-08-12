@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neu
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
 quality: 74
-heat: 107
+heat: 104
 published: true
 
 provider:

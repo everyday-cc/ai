@@ -107,20 +107,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The Computer Scientist Training AI to Think with Analogies"
-    excerpt: "View Our Privacy Policy Melanie Mitchell says digital minds will never truly be like ours until they can make analogies The Pulitzer Prize-winning book Gödel, Escher, Bach inspired legions of computer scientists in 1979,"
-    publishedDateTime: 2021-08-07T06:19:29Z
-    webUrl: "https://www.scientificamerican.com/article/the-computer-scientist-training-ai-to-think-with-analogies/?ref=upstract.com&curator=upstract.com"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/B79B9A2A-FC8F-45E6-BA22A19888F807ED.jpg"
-        width: 791
-        height: 496
-        isCached: true
   - title: "Nihon Kohden buying predictive analytics company AMP3D"
     excerpt: "Nihon Kohden Corp. has acquired Advanced Medical Predictive Devices, Diagnostics and Displays Inc. for an undisclosed sum. The company provides data analytics and artificial intelligence solutions for proactive clinical care."
     publishedDateTime: 2021-08-09T18:03:00Z

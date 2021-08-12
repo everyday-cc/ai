@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/digital-first-banking/2021/apis-that-link-to-fed
 ampWebUrl: "https://www.pymnts.com/digital-first-banking/2021/apis-that-link-to-fed-master-account-poised-to-jump-start-scale-fintech-b2b-payments/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-first-banking/2021/apis-that-link-to-fed-master-account-poised-to-jump-start-scale-fintech-b2b-payments/amp/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Federal-reserve-trust-457x274.jpg"
@@ -25,6 +26,6 @@ images:
     height: 274
     isCached: true
 
-secured: "4NnCWUDMzXyTuR0rPRIJQZLtdTftRjW3cGpM/jRYmxgt948/848nPPQde11Ttx+b8m5Qp1tpuxQyhplBGykt2aodZlRz5i/qofxXWVO1SfMy8mxMsmgaz/Rp7gpq3zOVoMVRIaCEZVdugOedOhV4p+7ZfBE5+/c8x/GgHtwYR0QOwpajOI8nFaAg3G9Xtm8cX5cYaTxAGevXKBw5BsIRCW+8Uyunu7cQx2FCMkAZc91YIVGxIkM1U/L/rlS6gOsJDQ3t1/gg+v1IetuukvFRTfw1m0AHWcmgT87xwYMRl9b5+fJmVsMlzhLHJVAw9KPOHWjUV6M78fpg/lrZFK4AQ7e3SrAhLYBhueV6f7G6Y0g=;+Dw7b9U17j9ykoWEgwoPFg=="
+secured: "1QKVRBZFSnKscRHU+4dHVWScyj/eQz171GuG/B89n+rGTJpXShaACBwHe3BEfbNnuoi8B6dECv4F7vP5NjJuL0YaDqmaN4QoFpqoT1f/ljx8QD2WHKbYsuibJSf17tRLW8WnsfWj2PY82KhlxhqiJalM10LOVEyDlW2WbeYSUc/A6mDUVxna5YJpgG/1Izjaq/U+sIgVvcCcyFQCSeCA2U60ti3ZeFofUcMpwGDFq0RFPl97yIbmA3Og4PYmoTJZ0sHUUmJciD9VpP0pV22wUGm/+HusX8MpuLdaz3+vvBcQT5YrFVgYUIKM8BjD6oCy59dMuMmEEgXWC0w9wjJys6k4W1gJ8mXLb61AMKl/CUxHa1UTKUth5Tf28eqbwTZaPfL4uXYcoHJOLO/5Vv4qOMceilrjfF80SWSi6LwGmZWPEtErOs+vOaaVvaCQF0ijS6ZT99cgi74LGYtVkmk/r3bCbICk3tDRpf0LL0OIwkGXky8M0blGE7+VQW7xoBmBB0tBRPkF5UQkeYKYk7Uopw==;f5gpxA6UQX/nkzeCFdw41g=="
 ---
 

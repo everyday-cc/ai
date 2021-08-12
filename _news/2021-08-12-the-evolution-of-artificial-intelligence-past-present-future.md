@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-11T19:30:00Z
 originalUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-past-present-future/"
 webUrl: "https://www.analyticsinsight.net/the-evolution-of-artificial-intelligence-past-present-future/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Evolution-of-Artificial-Intelligence.jpg"

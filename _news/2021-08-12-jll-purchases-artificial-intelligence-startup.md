@@ -2,11 +2,13 @@
 category: news
 title: "JLL purchases artificial intelligence startup"
 excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
-publishedDateTime: 2021-08-11T21:18:00Z
-originalUrl: "https://therealdeal.com/national/2021/08/11/jll-purchases-artificial-intelligence-startup/"
-webUrl: "https://therealdeal.com/national/2021/08/11/jll-purchases-artificial-intelligence-startup/"
+publishedDateTime: 2021-08-11T21:15:00Z
+originalUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/"
+webUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/"
+ampWebUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
+cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
@@ -18,7 +20,7 @@ topics:
   - AI
 
 images:
-  - url: "https://therealdeal.com/national/wp-content/uploads/2021/08/crosspost-20210811082245.jpg"
+  - url: "https://therealdeal.com/wp-content/uploads/2021/08/FT-Thumbnail_jll.jpg"
     width: 690
     height: 493
     isCached: true
@@ -106,6 +108,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "3azsAmi0jZ7eFldf9dQAK2BRfnB3ZZc8JsmrFm+0q+/lTwIA2Phf0wrnJQaKHeg/2JgSYqT4E5ElAaCc8ROipzPvLfO2brhGJgdxk7yVlRcds19MJbl3pofJcFFOdClZJfrR6Pty4EEzcepDskyKkFZi6Q49AdoW9d1Lk2i+DZmvj1qNl8gh5JJ/4JRgtV6t779aVNonsDc798cYpJrRj5hnqwmEfjFVRNI1mydKmiubD90+rpigUB4ZjbLkq4Z9AqUX/gBHjPuInPZqehbrkbr2Anvr9nbkNBXt0nFbzfgd4rz8GRNoSfM1DUkEugaUQXhBWHB7yWa56+D9pK/Vb+HsUyOaep5ZG14hZQm6n+I=;rUNbfo/dnX7w9hpYqwrvfw=="
+secured: "oe3a4OOQ9VybUcxoS/H+OHISv/6J58/MruV1Y6CTF84iwY8UwSqsBe140TOGq243WAkCXyOq+GweUD8OJV9JOki2bWQeZiuJxo/WbNTdEaXwMARUlJSxtts+hv5gKcYc7aSRFoja/exUcr3mXHdngu8Ro8J9f2kLBivpXOkzviCT96GvtTR2oznI40nrjlwxWXbQDOcwEng537KBuTQKNPiltRmUCrQHw8/0xl8uCvzVdqnvaarv+qFb0ohjnk6INKb5k+zfyONsqZZ+TDeGwNVsRepzUEbaouubDWGGIC1+zdGmQ7V8KG8/Rnomsj6PNZ169rbN+YHUSz4l4hucmQpBuw+ejXMjrU0BVHDKEZE=;OqB4seNCyyUoqrJPBPxXcw=="
 ---
 

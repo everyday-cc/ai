@@ -2,6 +2,84 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-26-googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic.md",
+      "title": "Google’s parent Alphabet to launch a new robotics and AI firm- Intrinsic",
+      "excerpt": "Intrinsic is a business of the future as it deals with advances in robotics and Artificial Intelligence. Alphabet’s Intrinsic is an attempt by Google to expand into future technology as it already is developing some advanced tech using complex machinery,",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
+      "originalUrl": "https://techstory.in/googles-parent-alphabet-to-launch-a-new-robotics-and-ai-firm-intrinsic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/07/intrinsic_green_purple_center.0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection.md",
+      "title": "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection",
+      "excerpt": "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
+      "originalUrl": "https://www.financialbuzz.com/blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-donald-macdonald-of-ocbc-bank-automating-front-and-back-end-operations-with-ai.md",
       "title": "Donald MacDonald of OCBC Bank: Automating front and back-end operations with AI",
       "excerpt": "\"Another emerging opportunity we see is the rise of augmented insights where the AI is scanning business trends and portfolio data to identify insights that a human may never have noticed due to information overload\" Donald MacDonald,",
@@ -1073,92 +1151,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-usa-facial-recognition-in-use-at-major-chains-without-customer-knowledge.md",
-      "title": "USA: Facial recognition in use at major chains without customer knowledge",
-      "excerpt": "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "originalUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg",
-          "width": 788,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-with-full-self-driving-available-on-demand-be-wary-of-any-and-all-teslas.md",
-      "title": "With Full Self-Driving available on demand, be wary of any and all Teslas",
-      "excerpt": "Tesla released its Full Self-Driving advanced driving assistance mode as part of a subscription available to almost every Tesla driver in the U.S.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "originalUrl": "https://mashable.com/article/tesla-full-self-driving-mode-subscription-warning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/05VpQKwqzrrr1dfizwOYgSv/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "MediaTek Announces Dimensity 920 and Dimensity 810 Chips for 5G Smartphones"
 excerpt: "MediaTek today announced the new Dimensity 920 and Dimensity 810 chipsets, the latest additions to its Dimensity 5G family. This debut gives smartphone makers the ability to provide boosted performance,"
 publishedDateTime: 2021-08-11T07:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428229.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428229.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-dimensity-920-dimensity-810-chips-5g-/2021/08/11/9428229.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mediatek-announces-dimensity-920-dimensity-810-chips-5g-/2021/08/11/9428229.htm"
 type: article
 quality: 17
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 512
         isCached: true
 
-secured: "5v6zhZDFdZWvWbUpkSF00yT8SJoaDug87u9KzUEvoewMG2/Ze0GwbQhE0cM3S1n55iCe2AZe8VvEksePkzZVnKzu3UOSIgfDQ7Qdc2OfqOCYO2jsC24eIsXwRhjoSluXWiXGteVIG6DffaNtuRLPMP34UFWBDShpkh882SOy0HdLrDZA4cHAOTVbMxWasMN3vlgaAqV7z5DKHcR4co0CF0OsPunsvHaL/qEju3J90c5rVQhVzKlL+1SAjwwxdwSNly7NER7i4bJG/Sv/unNbf/aUtlWwnelbyxNqcXyKICm9KTEAd8A5kggWqfR9qn0aTnyWMLQgo/G1rW8Uy+0Xsq0EqUE7gDMr2Mupyaxna1k=;12aBgDRds7pYnyuv1/6chA=="
+secured: "KBysr1tITaeybpZvV5kXIhxRcj+yiknrBN0mlQjPlUdngc8xNUME1dHJLApsIMOVAbiRUWmaCIjsNTJTbnUTKkPuHBtsQ5iXVrfwuzXqooApYZ+bjVm960JYDD9yN/ct00f37be+jhJQpBWvvdsDKrrGkeQjFbetW5suDI9tjqXexhdnKTa2Xk0mgO2zSpc4ngd+2qlA7XvH50MqPMogMP5eZ/phNtxL2yJdUUrmqR/EwrGf8iE+Qec9LaMK9Z24BYfPpVi5dU+iW1YZGwdZL1aiAbICURsdcPvUCYX4OHDjICKoFcg0MVA71hGCRS+I3H6fcZ6jvGZUO7+reNtq/Wf+69ykChadwMdOqS4qq1Q=;FOLStpIdjfPCzltCZJI15g=="
 ---
 

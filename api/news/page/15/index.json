@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-07-29-here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies.md",
+      "title": "Here Is A Fully Autonomous AI-Powered Beehive That Could Save Bee Colonies",
+      "excerpt": "More than 30 percent of the world's honeybee colonies are vanishing each year. This company created the first fully autonomous beehive that can rescue and protect the bee colony 24/7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610198a171aa6e440d9b3e43%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
+      "publishedDateTime": "2021-07-28T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-shield-ai-signs-definitive-agreement-to-acquire-martin-uav.md",
+      "title": "Shield AI Signs Definitive Agreement to Acquire Martin UAV",
+      "excerpt": "Shield AI, a fast-growing technology company that develops artificial intelligence and self-driving car technologies for the defense industry, today announced that it has",
+      "sourceUrl": null,
+      "webUrl": "https://www.inforney.com/texas/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_07ed6c15-cb30-5c1c-92b9-87cb579b01b2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/shield-ai-signs-definitive-agreement-to-acquire-martin-uav/article_0bcb4aab-719a-5d1e-93e4-ae5b2af2f531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-28T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-leveraging-simulators-and-robotics-to-enhance-operations-in-the-education-sector.md",
       "title": "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector",
       "excerpt": "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources.",
@@ -1088,108 +1173,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches.md",
-      "title": "How An Avalanche Of Data Led To New Trends In AI Software Modernization Approaches",
-      "excerpt": "In recent years, companies’ growing focus on big data has led to increased digitalization demands. The avalanche of data has forced businesses to reconsider software modernization approaches. With that in mind,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe33d661ff84a5b5e2d9ed9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-an-avalanche-of-data-led-to-new-trends-in-ai-software-modernization-approaches/amp/",
-      "publishedDateTime": "2021-07-28T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-how-to-build-a-perfect-ai-team.md",
-      "title": "How To Build A Perfect AI Team",
-      "excerpt": "From e-commerce and healthcare to travel and finance, AI has made its way to just about every type of industry. In fact, the adoption rate of AI has increased by more than 270%, according to Gartner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61000ac31db10658736bb6eb%2F0x0.jpg%3FcropX1%3D150%26cropX2%3D2910%26cropY1%3D0%26cropY2%3D1552",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/07/28/how-to-build-a-perfect-ai-team/amp/",
-      "publishedDateTime": "2021-07-28T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

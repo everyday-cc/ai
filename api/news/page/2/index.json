@@ -63,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -220,7 +220,7 @@
       "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -259,9 +259,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -411,7 +410,7 @@
       "originalUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1063,7 +1062,7 @@
       "originalUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 104,
       "tags": null,
       "images": [
         {

@@ -53,7 +53,7 @@
       "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -204,7 +204,7 @@
       "originalUrl": "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -243,9 +243,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -257,7 +256,7 @@
       "originalUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -309,7 +308,7 @@
       "originalUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -406,7 +405,7 @@
       "originalUrl": "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {

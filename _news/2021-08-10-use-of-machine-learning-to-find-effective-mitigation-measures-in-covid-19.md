@@ -71,6 +71,17 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Offers New Way to Detect COVID-19 Infection"
+    excerpt: "Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests have emerged as the standard for testing and confirming COVID-19 infections, with nearly 80 | Technology"
+    publishedDateTime: 2021-08-11T23:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 39
 
 secured: "MKe6fxupaXF+RcjNO0cjfUZS0aeRUfnXLHyYv2UyLLdZA1b1mx39U+aT6od+ol/8cphxcp8R4GwXvreDdaYCyJ7qNBQdOna7cpSaSDw6x7oO/LQbRnXmIOucHv98vfgET7tSqtbWdCqOeocpYz6US2K24UifdJrlDeOk39Bxla5Nn1COPRcQrSq8eHMQCHfXgIW80FylkQOh+DSuNPnfJ3D/OGhnXlPC4v9LDbZQ+csyVY2fi+BEIkEWNKn7FikUU463onULiQoJFredr1IGr21COsecLhJ3AJSb1Yx5EcJ7yZovVgWzfFUAit/NI40Ifjr0jLch2DilORBYn0b/FB63/ys4AWdRDSUF7zJMCxA=;CIEViGGMVN0/4JxUEb0Uog=="
 ---

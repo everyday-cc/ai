@@ -44,6 +44,20 @@ related:
         width: 700
         height: 638
         isCached: true
+  - title: "Getting started with Amazon SageMaker Feature Store"
+    excerpt: "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text"
+    publishedDateTime: 2021-08-11T23:10:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/5-3856-console.jpg"
+        width: 800
+        height: 412
+        isCached: true
 
 secured: "8QmRgDGopgCY6Lh9gUXJn7PQ3njD3akd55zfgeLgY49kInrXx7sGiFhfYxF4xrfjSjNHYverZHnMUDJEBWwXsFWXBiuR72cstYCst7nnIvI15GMSGsMQEMhzEoiktz7PQ9IOwaHpy0382tMoou+/S2LKcJsxk8GAdpUVAhB76X+HZ213nHgnWKqnh8PMMP3np4RTctMw5b9wEmAXAcU3qDdehO+0zMjfQdiyRsSH+9voK1SWcwjl0wTlQVGLmxRzvS1+nDsEEwG8z1KIm06ONtC505zxeuTC9fe6rvEIGNoGrxQV7E2y9nejl7DDkX7Z5OyPpHgrz0zhmmI2A+s2oHoPOri0Yy1YjEYrKl4wG74=;nMB7EiyEQYD0U4o9jjh9kw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/"
 type: article
 quality: 123
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
+        isCached: true
+  - title: "Getting started with Amazon SageMaker Feature Store"
+    excerpt: "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text"
+    publishedDateTime: 2021-08-11T23:10:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/05/19/5-3856-console.jpg"
+        width: 800
+        height: 412
         isCached: true
 
 secured: "uWm5z6ZsARVJT/JGa6Ii0ccuASYVuPDyiGwP+itNwroe0kMq14+Za5gyWCqV4HkjvIuQH4MVyZRMJ+Sbwv0asBEAXPrEiFw6yQUHSFN/Dq3jwhszCLNl+niHUhUFe0QravYl0ZU/iimkqMTO1KFbCD6HWK5LXZ0P4swUJs0VxRDcC75tI5zJk8MfuaF/fuSzK08iPXKc8ARLTrXQIE+K7xPPGCG8DRddl555kDR3VgdswV+UwXdVUwZkqOKIPy6fCVCImZQ0r6F2BcGHF7c/PPL/TXBh3fBawcQku0/hMW1XRgxl9W15/4iIc8YirpPOoI6/dtlqz6yz1Le6eIoDWdIdChd1ouiAkh5SQcZZJ7k=;SMnmfVbagA1NGF0FbrjTtQ=="

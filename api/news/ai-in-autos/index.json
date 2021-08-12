@@ -105,7 +105,7 @@
       "originalUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -389,6 +389,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
+      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
+      "excerpt": "The Apolong II utilizes Baidu's vehicle-to-everything (V2X ... Foshan and more – the first-generation Apolong is the only self-driving minibus to achieve large-scale operations in China ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou",
+      "originalUrl": "https://menafn.com/1102576954/Baidu-Launches-Apolong-II-Multi-Purpose-Autonomous-Minibus-in-Guangzhou",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-08/06/PN_5198bimage_story.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1382,50 +1425,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deep-learning-market-grab-the-opportunities-for-manufacturers-and-effective-business-strategy.md",
-      "title": "Deep Learning Market Grab The Opportunities for Manufacturers and Effective Business Strategy",
-      "excerpt": "Deep learning is a critical innovation behind driverless vehicles ... which then again is a subset of Artificial Intelligence. Computerized reasoning is an overall term that alludes to procedures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "originalUrl": "https://www.openpr.com/news/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727990621_g.jpg",
-          "width": 800,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338143/deep-learning-market-grab-the-opportunities-for-manufacturers",
-      "publishedDateTime": "2021-07-27T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

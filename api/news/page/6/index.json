@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-06-dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow.md",
+      "title": "Dutch startup hub Utrecht emerges from Amsterdam’s shadow",
+      "excerpt": "While Amsterdam garners the lion’s share of attention in the Netherlands tech ecosystem, the not-so-far-away region around Utrecht has its fair share of tech startups and investors, as is evidenced by our latest survey of locals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
+      "originalUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1176088657.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/05/dutch-startup-hub-utrecht-emerges-from-amsterdams-shadow/amp/",
+      "publishedDateTime": "2021-08-05T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-laser-driven-ion-acceleration-with-deep-learning-neural-networks.md",
       "title": "Laser-Driven Ion Acceleration With Deep Learning Neural Networks",
       "excerpt": "While advances in machine learning over the past decade have made significant impacts in applications such as image classification, natural language processing, and pattern recognition, scientific endeavors have only just begun to leverage this technology.",
@@ -1135,58 +1186,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-dataiku-raises-400m-to-democratize-ai-in-the-enterprise.md",
-      "title": "Dataiku raises $400M to democratize AI in the enterprise",
-      "excerpt": "Founded in 2013, Dataiku is pitched as an end-to-end platform for designing, deploying, and managing AI and analytics applications, with data connectors for sources such as Amazon S3, Azure Blob ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/KITCHEN.00_02_05_30.Still009.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/dataiku-raises-400m-to-democratize-ai-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-08-05T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

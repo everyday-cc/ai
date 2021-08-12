@@ -54,6 +54,22 @@ related:
         width: 400
         height: 246
         isCached: true
+  - title: "JLL purchases artificial intelligence startup"
+    excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
+    publishedDateTime: 2021-08-11T21:15:00Z
+    webUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/"
+    ampWebUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 57
+    images:
+      - url: "https://therealdeal.com/wp-content/uploads/2021/08/FT-Thumbnail_jll.jpg"
+        width: 690
+        height: 493
+        isCached: true
   - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
     excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
     publishedDateTime: 2021-08-11T15:47:00Z
@@ -81,20 +97,6 @@ related:
       - url: "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/0/6/6/115066_skylineai_506777.png"
         width: 561
         height: 426
-        isCached: true
-  - title: "JLL purchases artificial intelligence startup"
-    excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
-    publishedDateTime: 2021-08-11T21:18:00Z
-    webUrl: "https://therealdeal.com/national/2021/08/11/jll-purchases-artificial-intelligence-startup/"
-    type: article
-    provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 37
-    images:
-      - url: "https://therealdeal.com/national/wp-content/uploads/2021/08/crosspost-20210811082245.jpg"
-        width: 690
-        height: 493
         isCached: true
   - title: "JLL to acquire AI startup that predicts future property values"
     excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
