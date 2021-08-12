@@ -56,22 +56,6 @@ related:
         width: 1969
         height: 1068
         isCached: true
-  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-    publishedDateTime: 2021-08-12T00:31:00Z
-    webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-    ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-    type: article
-    provider:
-      name: VietnamPlus
-      domain: vietnamplus.vn
-    quality: 44
-    images:
-      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
-        width: 660
-        height: 396
-        isCached: true
   - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
     excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."
     publishedDateTime: 2021-08-10T13:29:00Z
@@ -99,6 +83,20 @@ related:
       - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
         width: 600
         height: 315
+        isCached: true
+  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
+    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
+    publishedDateTime: 2021-08-12T04:06:00Z
+    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 24
+    images:
+      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628748098"
+        width: 600
+        height: 385
         isCached: true
 
 secured: "iKPpAVZM8jAqWnk3QQnlmmj0bBWWPRYJs36ly/0hcMqpPmdLMnhDiTK4Yjwq5mjUTD/7JmY7AqoNzSn4X3P806EQl5/S+NsrU+H3hIM5MAMJxVa1nKgNCEqVFfY3JgFvBgqj0SHAilLuQ/HDOrOwq30SfMIYQ5R4PMexkm3iXMrLLmU5qEJONs0iXm82uG+fXdyfhmPnlwL/G5drhpYlj8DgUpQIehB3yOxz8K6lKFrVfOo77NaZfSdGHDyhjBIQnLKMDV2CfX2+N8w91kiRH1+Wd1BJwAClGl5RBSu7GVeBh170iigfJEBBrSF1gvtMHulgM7/GXXyMmsDTEnIJJd9zME+Q4XAos1iw1mnzTzY=;vYCiF+K2uf16Gas8p2gCDQ=="

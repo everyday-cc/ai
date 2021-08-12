@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-1
 webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Women in evidence: recognition for coping with COVID-19"
+    excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
+    publishedDateTime: 2021-08-12T04:47:00Z
+    webUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 44
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/08/covid19_-1.jpeg"
+        width: 1050
+        height: 700
         isCached: true
   - title: "Machine Learning Offers New Way to Detect COVID-19 Infection"
     excerpt: "Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests have emerged as the standard for testing and confirming COVID-19 infections, with nearly 80 | Technology"

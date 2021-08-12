@@ -67,6 +67,22 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Women in evidence: recognition for coping with COVID-19"
+    excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
+    publishedDateTime: 2021-08-12T04:47:00Z
+    webUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 44
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/08/covid19_-1.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
     excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
     publishedDateTime: 2021-08-10T01:21:00Z

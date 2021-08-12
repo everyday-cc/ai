@@ -2,26 +2,26 @@
 category: news
 title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
 excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
-publishedDateTime: 2021-08-10T10:44:00Z
-originalUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/"
-webUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/"
-ampWebUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
-cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
+publishedDateTime: 2021-08-10T09:43:00Z
+originalUrl: "https://www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/"
+webUrl: "https://www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/"
+ampWebUrl: "https://www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/amp/"
+cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/amp/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: the-sun.com
+  name: The Scottish Sun
+  domain: thescottishsun.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1200
     height: 800
     isCached: true
@@ -55,6 +55,6 @@ related:
       domain: theconversation.com
     quality: 25
 
-secured: "07MpsgsLodxh/4DuS9FBn2sNPfWKtDMgGkHlwgnJWMQvaW24faMigQNTt05CkFNbDzr1F1pVCPxXCCyB+QWXE6NoKGh6xp2ixsxBUKHNKVE7B6Ilif0QLEdulkH1Hk28f8VX20uB94SwMPcSD3YBUD2+QJKJj368BUsjLwdPq5fXhbFc1e1BzBlSRkbIbJIe56hhZVPA5Q5j9hP9Um7QbKTPNrSLTiMwb3jjPQlUzrDGmGaRdBnJ1te9qfAmLyJ5ucjnr0uI3GAAB2Sktn2hPuAOqgm1a90HfsipaTOBeK2+0xLGJhkNCNCiIpJ6+gKyOM82HFWKEHwrSDBlp8+BvwqPSKUWCxCMOXDO97W4jOWqLpPd+4nLgW5OsTjfSIywO9BlzRp2WYtWz+4qmBGNMlowkYSXDpuzelPvjJOmSnYdEJWRrnPo90gWaEgRLgdAg3gJkRRFkD1nlNT3Wq3adqlu4gWRyAhVgSdAdW99AAGOSW+5OkBlbsD38ZSNl8ThJLpx9GTIV/a97pGUMLfpyQ==;m8jG2hR1X9LoMNZwuwRuIw=="
+secured: "wvORikTW/bS//dKserkQWFr0ktcgh/XgMKakxeX1BwgMgUwhcKKFCAJUoURmxeFfKWrot1HScIhkmyw+02I0mxKi8xahEXLAepuhqwfLS+Us28F1Je0ceib0YB55vVyaM1Q9nZaNlPrq0fjjoXJdzwmJtf1QAXtKdfxX5ogzO5gs1qOdYNLLzs3IFbMwWsbclWvefCg90lrPqjRPGvHizG2bXfoVZybgIl3+wouoPHsl1bVKI64WOjFhPmTZFNebBgIg78jSUr8d97fD3l3zurjVNPffZhvVGi82Xta6HseK0A88M6UG9cv75GBMtxrTMgpz9S0WNMgJepReong24sPq6u5DoJPxHS/7GrK4m3o=;CZWSp0PrS+ihfrZqTMn7xg=="
 ---
 

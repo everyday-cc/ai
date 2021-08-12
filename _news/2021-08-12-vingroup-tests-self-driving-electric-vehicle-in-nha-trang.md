@@ -2,28 +2,26 @@
 category: news
 title: "Vingroup tests self-driving electric vehicle in Nha Trang"
 excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-publishedDateTime: 2021-08-12T00:31:00Z
-originalUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-webUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.vnp"
-ampWebUrl: "https://en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
-cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vingroup-tests-selfdriving-electric-vehicle-in-nha-trang/206226.amp"
+publishedDateTime: 2021-08-12T04:06:00Z
+originalUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
+webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: VietnamPlus
-  domain: vietnamplus.vn
+  name: Vietnam Investment Reviev
+  domain: vir.com.vn
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_08_12/vingroup_tests_selfdriving_electric_vehicle_in_nha_trang.png"
-    width: 660
-    height: 396
+  - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628748098"
+    width: 600
+    height: 385
     isCached: true
 
 related:
@@ -102,6 +100,6 @@ related:
         height: 315
         isCached: true
 
-secured: "m++vsdy1vwp47DhKUk6QDHkshITVtHn/alrjhch065ocnH+tUGDJR14psG8wiqAnLT8sGbM9WOezl+vLxeel4a8WEVAwVNkGYrEyh0uj9iZUnB/5/uwQLqoFW2EOcSKeT7FXlzdnBh1saXf0U8KmL3aQBoiiTkPtb/M/+8PO8IbwFLLF91qxVyI1EBb5+ShvtXtrSHHyLLFiWAK/Jhqf59ZYDHv/LlL0ViB+zthrLfofAlwYnngwvOf6G8/Vd/SBNygUOeRxWS0PhMJ9Rwd8V9navMtu2b78gaFOTABosCdIMGsRdZ4LCDyZhRGHZaXfA2KAfqajpfBQbt1gC4zoi7Hdv1rBEcOA5vK01i9U3OA=;fnRjVire7N9+ozSuIx6+7Q=="
+secured: "KirmhARPcWebk2hjPJlD4V9o4AZksxBGthnPp0JpcgGVhybQ1FbAVxdC6mbAF3giiTt0FdbIARJmYM5XkaX3fBUVttLHeK9arsVaUTPqjQRi5uPTNW//AMytExAkX5f02WPa4leDwVXzDqiy5N29YvgjG7rEoyznRfO/nkH58u1CWZE5M2C0N9sax40wFSEHPj1i4na4YgDDYB2Ln+vupHMFYPlzAZp8ua5QSF1KiraMlj8DsGFtm6hhiEK2alA4/ZbwmERlGeNDJ/x0EWYLbGkc99OnLPQ5W8i1b6AjIoj54uAMEmdLkw3pE29ztT21E4Q0NYGji2uPxI7sldU/7Nf8IM8wFvcHmgSGqGjIH58=;6sm0gCpIRy6tQ/aDcXbprQ=="
 ---
 

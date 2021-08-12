@@ -118,22 +118,6 @@ related:
         width: 800
         height: 520
         isCached: true
-  - title: "Arrival, Microsoft Co-develop Automotive Open Data Platform"
-    excerpt: "The cloud-based approach using Microsoft Azure will enable advanced telemetry, vehicle and fleet data management across vehicle fleets."
-    publishedDateTime: 2021-08-07T12:32:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/arrival-microsoft-co-develop-automotive-open-data-platform/85128698"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-85128698,imgsize-483509,width-800,height-434,overlay-etauto/arrival-microsoft-co-develop-automotive-open-data-platform.jpg"
-        width: 800
-        height: 434
-        isCached: true
   - title: "NBA launches new Microsoft Azure platform to enhance fan engagement"
     excerpt: "The National Basketball Association (NBA) is using Microsoft Azure to deliver a new direct-to-consumer platform that uses Azure artificial intelligence (AI) and analytics to tailor experiences to individuals’ preferences."
     publishedDateTime: 2021-08-09T14:42:00Z

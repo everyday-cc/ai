@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
+    excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
+    publishedDateTime: 2021-08-12T04:01:00Z
+    webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
+    type: article
+    provider:
+      name: Yumpu
+      domain: yumpu.com
+    quality: 52
+    images:
+      - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
+        width: 453
+        height: 640
+        isCached: true
   - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
     excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
     publishedDateTime: 2021-08-09T23:17:00Z

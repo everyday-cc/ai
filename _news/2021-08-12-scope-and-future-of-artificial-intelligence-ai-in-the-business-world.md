@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Training Leaders in Responsible AI"
-excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
-publishedDateTime: 2021-08-10T14:10:00Z
-originalUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
-webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
+excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
+publishedDateTime: 2021-08-12T04:01:00Z
+originalUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
+webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
 type: article
-quality: 19
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: AACSB
-  domain: aacsb.edu
+  name: Yumpu
+  domain: yumpu.com
 
 topics:
-  - AI Ethics
   - AI
+
+images:
+  - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
+    width: 453
+    height: 640
+    isCached: true
 
 related:
   - title: "15 AI Ethics Leaders Showing The World The Way Of The Future"
@@ -65,20 +70,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
-    excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
-    publishedDateTime: 2021-08-12T04:01:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 52
-    images:
-      - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
-        width: 453
-        height: 640
-        isCached: true
   - title: "Artificial Intelligence Future of Livestock farming"
     excerpt: "Dr Mandeep Singh Azad, Dr Kawardeep Kour The day is not far when a drone will knock your door step to deliver milk with the desired fat and SNF"
     publishedDateTime: 2021-08-07T19:11:00Z
@@ -107,6 +98,15 @@ related:
         width: 3360
         height: 2276
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
   - title: "New Report Identifies Eight Ways Policymakers Can Encourage Responsible Use of AI in Workforce Decision-Making"
     excerpt: "Businesses are increasingly adopting artificial intelligence tools to support workforce decisions in areas such as hiring and retaining high-performing employees. But to successfully deploy and maximize the productivity benefits of these AI tools,"
     publishedDateTime: 2021-08-09T13:30:00Z
@@ -122,6 +122,6 @@ related:
         height: 300
         isCached: true
 
-secured: "pp8dxWF+hedY0279dLIziaVcruqGJjv66h3VY0eDCVoWtWGL9ew65e5Ks9AzGk6H9wPV+9cAS5J9aSbzpdBz/tju1t9dnJlbnuBPDtrcphcucFmMCjg4Kl67NHxU4eIkxwU8cgVqsfuhzydvCLXE4yhyAQv6u+nR4Y+2Lf1LWSvBJ9PPspCPi2HSDvokpA0LFc0u883DEfDpFNVWCXj6ifJmDzVeRPMd3MrjYeccLKEVS5Yjdvh17IfjDMhIoSuFl9wbW6b+bMGxt4WjlH23+8tPNp2J+AbloQmw8pWsSWaETc/giQ45ptTZR2Kshn9fr3UGqJjEm+HLi5662r3PjuAI5UB4JQc1BuSc7hzCccZpt4BdVP3mY1NZPRja5Zo/cCG1Df1THAZnVxtlAaRbrFlbBNpIEu2xd7va1sMhHDeuDK5RbtGeKlP/RY21ETAy3wKCNjRMS+X8m048vP9ZA3drCFdhpcUfiKtunw/e3duK8sQ8WJgbooN+LrkvzrSte3g57nGEqqXkdT154qaCcw==;L/lif89WsKeXVq/e1Yd2Mg=="
+secured: "TrNBqU5NVVP7FkeL8zsHBoCUUsq/MuFFHDFEDj4cRT2gfK38qDAORVDzYCH3EdJmNg8YBcRVBvnotuexOlb5M7y+Cto6tU7QvBqKhFWIVmJb9wX6c5lW6gv8zvdNLzVOfjJ3IjO8RoBN6nbJfJIrp+NvVXycAr1CGYr3m3zUrMsSkwZSr/IeHz5IdOGPglnFpgUTvv3YhJwHSzbHjdlEEZHKfmgGCeaOlhQIwHolC4M4hu4ToitC9OrW4vzcHGYuQSWqT+b4GoWGqJvCKpPMkKOkllbE6P1TpJ8umZ+eyIrbVN/KvUpEgG8xpEE1+6YruDoiCxTrNFWAu28fL3fMpEDsVMVklk7MdrlsUwkmCus=;lpRK1EMojLLnGZjKkq0wKg=="
 ---
 

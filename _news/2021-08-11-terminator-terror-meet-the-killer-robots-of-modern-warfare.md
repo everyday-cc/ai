@@ -29,17 +29,17 @@ images:
 related:
   - title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
     excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
-    publishedDateTime: 2021-08-10T10:44:00Z
-    webUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/"
-    ampWebUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
+    publishedDateTime: 2021-08-10T09:43:00Z
+    webUrl: "https://www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/news/7531465/killer-robots-drones-ai-suicide/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: the-sun.com
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
     quality: 50
     images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
         isCached: true
