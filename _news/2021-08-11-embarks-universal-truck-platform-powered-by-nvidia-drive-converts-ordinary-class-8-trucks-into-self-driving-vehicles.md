@@ -33,7 +33,7 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20190618t2i1398991730rLYNXNPEF5H0KXw800.jpeg"
         width: 800

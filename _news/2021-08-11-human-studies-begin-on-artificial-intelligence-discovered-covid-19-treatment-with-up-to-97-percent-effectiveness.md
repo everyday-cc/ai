@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Human studies begin on artificial Intelligence discovered COVID-19 treatment with up to 97 percent effectiveness"
-excerpt: "Skymount Medical, a drug discovery company, and Louisiana State University (LSU) announced today that human studies have begun on its unique combination of therapies, known as SM-19, for COVID-19 patients."
-publishedDateTime: 2021-08-11T13:16:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-coronavirus-pandemic-artificial-intelligence-df5604a8454e8af8a71fcac85a6476e0"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-health-coronavirus-pandemic-artificial-intelligence-df5604a8454e8af8a71fcac85a6476e0"
+excerpt: "CALGARY, AB. and BATON ROUGE, La., Aug. 11, 2021 /PRNewswire/ -- Skymount Medical, a drug discovery company, and Louisiana State University (LSU)"
+publishedDateTime: 2021-08-11T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/human-studies-begin-on-artificial-intelligence-discovered-covid-19-treatment-with-up-to-97-percent-effectiveness-1030719030"
+webUrl: "https://markets.businessinsider.com/news/stocks/human-studies-begin-on-artificial-intelligence-discovered-covid-19-treatment-with-up-to-97-percent-effectiveness-1030719030"
 type: article
-quality: 18
-heat: 18
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1592421/Skymount_LSU_logos_Logo.jpg"
+    width: 400
+    height: 300
     isCached: true
 
-secured: "uLXqn3mEqWeTbn7oMq/9rH+QCuMb48SABaFXc07HUe/AmbGHgAwfqia5hrH5JSevVBR6Naoc0YL1yIGP/MZH9om6Ub4c4BnaTC2A0/a6N8ffqlza7XWTUTyKMcxaD73OlLE99XduEOcX95J3AixQ5zzyV5cLD2HtR9j1qAbiyUyaphxLLfT7zox5TYnPMoZ0JUkk7k/jFguiSmxIiY4zapKRE21MghLj5GGSZWvB08vEKXO2biI8qds3ychKPQgXwL/ZEtcGc7+GlorFO2NM9gWKdL4qw03//EzKKikmI436YGmRzUovw7JsHZ+YMc/jYccytSpUpFAGgaYgVq9RgMxt9sXoETo51rbmBKgNUE8=;ckwTPKNeg10dyFio9lVAsg=="
+secured: "Cfjbwa9bVJrx/L42qNgllUuf5O0R1/JwSMtg8IcOk7u6obLr5H7Uvi6CopuIXSAKSflIBVQ5W4goCfkH385QPok3eydvqoL2zDRj/ES8hyzTy4cSlsICtBraLDJhdXrfB/zspH2ayD5JXJ7LddK4LQ3e2fcNqCLqrw6UByDt609w5Ek3YbPk+I7BO9Wiq15vqmaFve/BNLpuWhBjEDM0HJRIEtoNiGdId9eg30vbxlEb7yEH1ouH6pYe0RHOjtq1/RKYQg8B9a2CBSntAo6NVnbKSsu9XVcp0j3c/6l3PTUYWASD8K/jFd4Y30gkgkZCjGisj+y5SldzGVd6ei1trE5UYDQEIskly005ypQEpEU=;mKANjzTUrYx0pNd5hrdPeQ=="
 ---
 

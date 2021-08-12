@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-11T23:28:00Z
 originalUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-boosts-self-driving-ai-business-with-volvo-trucks-deal-2/"
 webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-boosts-self-driving-ai-business-with-volvo-trucks-deal-2/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20190618t2i1398991730rLYNXNPEF5H0KXw800.jpeg"
@@ -54,6 +55,6 @@ related:
         height: 533
         isCached: true
 
-secured: "tLssANtjRoM+uLeYBszBvqV5AWHBOGMogBlIyQWdFJAWug+OJ5epMsi2BrU5YtM5RycX7A9AUwRXIZfLt00xpMjSIsTjBkz9eibMnghPl/5g47PcHMlpgq2nuuhW1LD0Cr9ZR17tlmut9kzvO3e9wl0T1+U0H9vbkRcHYgmEObh8Z4uRmrXwc1c3ZRmF9xyt/KNyJIYtgDZvNDxJm9qsrBXmKQ+0M8Jqzqo6kk0NMxrUKcykezDxVS0XyFlWMywELtH6UIZWY1thd5UkeR0tDmKLFP6r2eLvCU7XMcv4+FVzBTxQ/0OEPAf0CKPeZWwj936bF6UUbdsCT8kRV4F4ax1nr6EED1stOQDKV49lqCg=;E0f2VbkNW0oVfJLB1JREjg=="
+secured: "ZdbBFpan901oHNuuU19sajOnSHi4cIlMsepLQqhSoab1Ra+AQKDhVyeDWPqDaxW80J9gt3I55ZfTXfUTfHtuC0O/me26PkRucgzdOovgXUGBWd0BQU6PhNqLNHhQFfBA6NbztIIBNj6oIhRVKnA0PprN+h4jXhOcjUs9vVaWpOr9HR0PPdwsd6JH74ZbV/FulLls7+A8xV7lnLQ0fTBRxV55+/rZsGuJzyrfEywF805L1uOWEpXpfeMgnC+h010jG89GlkTUaktv6E1IC1QgdVKs6/q+oHJp7Ggxmmd+Ez69Z7jNLXNPzdEEmK8LChiaFFuGc3d8SAJKVHRhkXIAwTgFUApBxge1XFBS0FEApo9Ef9nUwfhzDmimu1exMlsC1r5gqyPk0nr9WQlVB64qRglJiaYQ83cAZEiTPN68P6qsTaFrZ0Y4cPBX38sVZnA7RHU6WA9GgvejnQgZ6fVKyEJyz1xONOI29rmpG+Cj0lh/mmPvEKkvYq1JgaMkBeduSRCz2RrWNpfIPD8rn5neZw==;KkfDwcLgyakjYai3eBpR5g=="
 ---
 

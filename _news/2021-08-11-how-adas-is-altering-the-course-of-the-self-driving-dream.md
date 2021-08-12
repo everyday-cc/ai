@@ -57,6 +57,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Self-driving car startup Pony.ai scraps listing plans amid China crackdown"
+    excerpt: "Chinese self-driving car technology startup Pony.ai is reported to have scrapped plans to go public in the U.S. as the Chinese government continues to crack down and regulate various sectors of the country’s economy."
+    publishedDateTime: 2021-08-12T01:33:00Z
+    webUrl: "https://siliconangle.com/2021/08/11/self-driving-car-startup-pony-ai-scraps-listing-plans-amid-china-crackdown/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
+        width: 825
+        height: 638
+        isCached: true
   - title: "Detecting COVID-19 by analyzing lung images using artificial intelligence models"
     excerpt: "Researchers design an artificial intelligence model to detect COVID-19 from chest x-rays and CT scans of the lungs."
     publishedDateTime: 2021-08-10T13:29:00Z

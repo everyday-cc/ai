@@ -86,15 +86,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2021-08-11T12:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
   - title: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel"
     excerpt: "Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform is now able to detect potential ransomware activity using the Fusion machine learning model."
     publishedDateTime: 2021-08-09T21:22:00Z
@@ -157,6 +148,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2021-08-11T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
   - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
     excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-09T09:15:00Z
@@ -186,6 +186,6 @@ related:
         height: 401
         isCached: true
 
-secured: "w2ft2OiaumSLnRNxu+MD5wcLL8iM6LxPN2vYyYFTnjLskDNFJ/5npbpvBTuPjMYOft0Dgx/rYAjwZuMd/iHDfuLGPJLRIzIWXmQ63bgKZoIHDfgAYKoV+MAzeTgb7BsxO9joiX8605CTN7HLLyXmuNqohaFec9KFau6COulJQYjzLavBYYgXKVX70WFAOvT4bas3BHDyFuQVms6m1CzCukqiLJGSMu6jNR7ae2XlYMHctlFkzjQ2uHqGIhkOaNrTZAWrOqzutz+CeDxZ63S5cc6nVfjdirYEa3UtP9WhURUX7pDfPCxFYO0hKEgB7xpBb19pGmL2i3gOhu8ECDHKL7dCWaSv13EMu0aLi51Rhjg=;FdmiXFejyqelKCh5J5yIPA=="
+secured: "krzPnX5R4sYL1TiMMIF+RrRVCHzLCeyAjD7Z3jhS140y79G4pADjrulXnrODTvZva0JO4GSBrIYDtXbuUL9ZxWenk+J/AoCm+o8DKND4sOn6Aw7ygvjTf6s808X22nnxDToKDamPK9GaI9jA0XlL3+geWZI7KecP3ZOKyX0qCea9Akt5U4mbJL/SisxZ0Qy1SlVQIDroCpdQFIi4Qg+O/6g5JWB+ZtBOaFkzhh90Z049YN6lFgQshcFZz9DdBT7dC7nGpPcj1fQXRUvOEQAErV3lQu6gXJMWBoNPI5CPRjMablMOPcpPVGy6pw9xbWRf2vlRPCl7OaMfbO9WaLu1h5VrjPQnlzIK+E1IJm1GUPAf1wbLeCLtRL02TqjkLgj85NtVCd968VhMjqJNblQgkwuVzxgUNFlEBy7vWEIAsTx1Ta2WwSZOzxI8wXPSdD2xXzjGC8QQFbwo6nGFgfTFHjw5QR1BtKPKb122kMuiM/mIQARAXJ/ewsLgq7nMeNGm1XMiHkt9HcxuRfn1wMIW1g==;gZlqjgvXwKQrjZNxnTByPA=="
 ---
 

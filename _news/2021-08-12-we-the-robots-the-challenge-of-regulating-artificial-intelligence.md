@@ -1,12 +1,12 @@
 ---
 category: news
 title: "We, the Robots? The challenge of regulating artificial intelligence"
-excerpt: "Regulating AI is not simply about avoiding the rise of homicidal robots. It’s also about future Facebooks and Ubers, of finding the right balance between control and innovation.. Read more at straitstimes."
-publishedDateTime: 2021-08-11T22:33:00Z
-originalUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence"
-webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence"
+excerpt: "Artificial intelligence (AI) and concerns about its potential impact on humanity have been with us for more than half a century.. Read more at straitstimes.com."
+publishedDateTime: 2021-08-11T21:00:00Z
+originalUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence-0"
+webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence-0"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -15,10 +15,11 @@ provider:
   domain: straitstimes.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/11/mi_pxls_110821.jpg?itok=eZTf6IVd"
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/12/ST_20210812_BOOK12_6766266.jpg?itok=FEYJ3IyE"
     width: 763
     height: 509
     isCached: true
@@ -55,6 +56,6 @@ related:
         height: 477
         isCached: true
 
-secured: "V4sjtHYKh1BJ4LW/ALKHaytCfAmM/L+Zj+943GVe/Zm79K4+5SoMg5PgxpOynn7PYWbUMuXkXmvYrQ0o8CnZ/h7E66Jtvo6OA28P30lAmvNg0x+MVJm+GjSL8p2SFymRfjHBOnjikgQlJE6kihQOatr+52TaKrgTicMC72DDjtHhHC2K3OM7OJMthJQVNQlRS1IM4Pvap19cqfLT77dW0+K4ib7YmlPzyHrfRQYNJQRq9afTsK9mOt/8Qe6AtiLytbjA+0I6wN9l4/80vWtgXjNAb+vm/LGhr0w1HxI2r3Ay4eAWvNQsmDmpvm4H/XFQ3RwjAldzaZVe0ZdVBXFDZw6Lo4hPKN4XLy7XWVn60Go=;akhs+YRgzbJqOYnMGhpdDQ=="
+secured: "PoBxoyyFSgv11Xh0tLm/UFMyOFxrGALqRs/JqO4Al7F+7rFFVKyDyIFFhjtfv7cbFvOW+LQMegPPuiARqt5xLxyx08yyJIr/BH4TAsxaicXj36Mgd4BtHeet1HUXbyQ5oGGHIxk1/4XO14CeQ3Us2LFjU0mIBwqB8slnZ3BpwJo2QMqI8uAw/gd+W51dqFh7p+oNBSAT1VZq6jJ6RY2JOLjAqtsbfBulpHFJp2Ed5fCGRnc7nXa/Hb9AQ4CpKdOw7R6c8C5xA1taviay/j/XhpuD1OTvQfeBQfUtGG6l7euu00Pu0pKh1tp5NmZaSXIx/7dyfvk/F+6Qw5NzQpOtQrGV7AUmJX+m3BOBfneKo1g=;0MU37djPUIrx5/s2t+mUtw=="
 ---
 

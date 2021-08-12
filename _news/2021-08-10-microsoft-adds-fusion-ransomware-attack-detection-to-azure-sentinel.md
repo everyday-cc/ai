@@ -86,15 +86,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
-    publishedDateTime: 2021-08-11T12:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/swarm-now-available-in-the-microsoft-azure-marketplace-1030718682"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
   - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
     excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
     publishedDateTime: 2021-08-10T06:41:00Z
@@ -157,6 +148,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
+    publishedDateTime: 2021-08-11T12:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 49
   - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
     excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
     publishedDateTime: 2021-08-09T09:15:00Z

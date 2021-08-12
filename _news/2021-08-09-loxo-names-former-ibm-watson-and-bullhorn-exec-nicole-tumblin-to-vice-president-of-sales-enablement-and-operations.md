@@ -21,6 +21,6 @@ topics:
   - AI
   - AI in Sales
 
-secured: "zTbU7YRI7EPJ5pNcr8+0NzlaJVMi5DIH6tYaHjXe5tek7w1qtlw2dSfZ/fk+QKzhh/6Ayzro2c0IJsLVrs1F5jky+UqTmMqeX/82hkRj7ZAeGy+Guri+M8IkvWI+Sp2tQcAYwBRqbvHjk5nF39wTBROyQRM/eZWPrp/oFJzGAmbOGTSHR+1/+PEm8g3cFcesAHgop8dFwiwyQUPylPA9nnM/BckScIU/2pNr3N7XXtYdxvFcLgsZ7E+T0VyQEF0VlorSU+H/p2OmUo8f8pSlbv8O+IRuqXkZGFc1C6IuctH9Y4uoAhPkR5/P0usiVKuRntuTTBoBW+ct80CGCWdSqNReHHL/gqyQrKq8wW7ZIhA=;KCRF2rZEv8vRcSvu0tAJHA=="
+secured: "qoqNM03xfyeLUI7q2oRWXDoELvH50iTMDYtMejuPCHyANnBoZgOWknq8Gp7eNB7Y+r+t1OgzHkG2Z8961/X2WI8JttshqQdPxZCORYLgbM3XWUL8qe1MVUaierPjqcO28XrN8FMnZZsBu3tMzo/ob0rsUSypHnFmxr0NZf4z6jg2Sskxd36GgohJaUM1Kjkf1W5uN1s/q3fbeTQwgDEc9402GvZxx+r3epjzYX2hxHwH5xicdZ2kZd2TZNySjOh+wn6Lp2YWIfbo43xzPLqP2U0o4iT3s0M6xtzNMcobhDFMicgiaSQkruhu6sa4S5NaprdFzDz93KXBEQqZoRnqhd9Ek6ihxRZSS5AgeEd8ZXo=;Jx0V6AP3laTWLgf/dFVuAg=="
 ---
 

@@ -42,16 +42,16 @@ related:
         height: 477
         isCached: true
   - title: "We, the Robots? The challenge of regulating artificial intelligence"
-    excerpt: "Regulating AI is not simply about avoiding the rise of homicidal robots. It’s also about future Facebooks and Ubers, of finding the right balance between control and innovation.. Read more at straitstimes."
-    publishedDateTime: 2021-08-11T22:33:00Z
-    webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence"
+    excerpt: "Artificial intelligence (AI) and concerns about its potential impact on humanity have been with us for more than half a century.. Read more at straitstimes.com."
+    publishedDateTime: 2021-08-11T21:00:00Z
+    webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence-0"
     type: article
     provider:
       name: The Straits Times
       domain: straitstimes.com
-    quality: 37
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/11/mi_pxls_110821.jpg?itok=eZTf6IVd"
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/12/ST_20210812_BOOK12_6766266.jpg?itok=FEYJ3IyE"
         width: 763
         height: 509
         isCached: true

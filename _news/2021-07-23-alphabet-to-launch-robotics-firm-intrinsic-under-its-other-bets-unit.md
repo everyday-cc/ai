@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Alphabet to launch robotics firm Intrinsic under its other bets unit"
-excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. July 23 (Reuters) - Alphabet Inc's ..."
-publishedDateTime: 2021-07-23T13:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
-webUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23"
-ampWebUrl: "https://www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabet-to-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2021-07-23?amp"
+excerpt: "its new robotics software and artificial intelligence project, under the Google parent's segment that houses futuristic businesses such as Verily and Waymo. To expand beyond its main search and ..."
+publishedDateTime: 2021-07-23T15:37:00Z
+originalUrl: "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016"
+webUrl: "https://www.channelnewsasia.com/business/alphabet-launch-robotics-firm-intrinsic-under-its-other-bets-unit-2038016"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
 
-secured: "wTldb7yV7gojhPejZ9v46DEo9tFc4389XEkfXsXmrtzRDKubDzMnVEAgp/qO3Ju3cvqBwXsQ+dICYIO5QoCyukQfM7ZZ1OhfuXgzhsLoSI/HRn+b9CqYeQJTJx9DwMYPs8WYf0uHKENmHDkEq190zIBSU3wVnry8tdM4VCXICcAq5ewA//FTFgr/n0y7HTwu+06eBhLLx83+txYmoEW2PzLynkcLj+8BsUGit/289aHm4FXZMUxYYddj5VkKhieMeFa39f0wPBc8jFF7hGwyo7WlNcI9pnpvdA4CVAFGXyEvklVtTYug6/JKALIHf3kUdqcn+OL22IU9Ao6hmRWQQ8pcH11EaSjpTAofsIjUd6w=;i6nnEi3/+8ivbp8s//NoqQ=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--wpGt0NQs--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/file-photo--a-sign-is-seen-at-the-entrance-to-the-google-retail-store-in-the-chelsea-neighborhood-of-new-york-city-2.jpg?itok=4jDRqfE1"
+    width: 600
+    height: 338
+    isCached: true
+
+secured: "sA+Qcq9KsptAtVWZJ+yVgK86Fbaavc32IqAJMavj5uGjWcvMrWbGB8tl7xUGvSSS5J5Cox2onrAhBjPX9bnbjBkE5hZ5gTPSlB4cj+YiTopGNim0RlkSQIZGcwMuqAEvKA4wwbZmVgBSbej4nOvviv466MSEVTjBAjc0kpZlNKNcDEZIaddwUegd+9TvWMo2kiaIHwZkEzKo7Mcpyyucxy+uQTvR4Z+zvsh6z5NdFklHccLtoVVQil3s2dQHGygLSwonxXCO1f8InK0lpI3K+/fk79TIfdklCwxOA290uxxA8if4RVeamAt2ijOZedv77le3HOvzlqNGwQhgoAoFEfalAKeuFSTtA6ftIJL/zH0=;f6cJG32f3f3VywWVi/hw4w=="
 ---
 
