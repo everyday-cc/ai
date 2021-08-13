@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-13T12:30:00Z
 originalUrl: "https://www.analyticsinsight.net/a-peek-at-top-artificial-intelligence-funding-in-july-and-aug-2021/"
 webUrl: "https://www.analyticsinsight.net/a-peek-at-top-artificial-intelligence-funding-in-july-and-aug-2021/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/A-Peek-at-Top-Artificial-Intelligence-Funding-in-July-and-Aug-2021.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "WFw/xtVIEO8lYGgoP2CWa6iMyr0awQ+5X+JFl0vh9Z87KOdV9k068QaKonngxmA9nvQzMdcM7/hjd+51GSijHf9DuK5OErJXe8SqEr1QWjTVS6gTBj9TZsTlABi9TeLX07VV4RAZHPhEqN7LVh1x2ewZ6wTLr1/kY8Z7CAq2EycTmbQoavtUpXQLmFD4eVduhKSVqQGDNdgGOvN2G9WLsvR1KaJoauuoRDy9kMiYmzgVENyHpRbtDAbuWlFIZuNgav1DhuBHiYoPFV9xXnSXXOKgVHYUZjzmX/GBBTI+yAnrlTU+IDLpED+Kvz+aMqPhkiCZmGzWRWHlEFtPcmwYCs8fjDvr+a0zIBvNPIa6ups=;0Q6KMtEn+q0CrwIyVMVnQg=="
+secured: "C39aOoSA/heOedAGQT43xnGeGMX+ZpsKb2koGUN62eRInzRlJyuk91BnBUXsCrZSdhgfd7i7nsfZvgcg5K0mKTW0TuwI+hvx2fGHmPjWGF/t2hrqbVJ43ilT+Ztt4DJhhe1RzRlpdkZprR8c+R79r3CoJib78H+/pS04qRRfOJxKKzMIzK5CHPvM9H6TaUacax1czTYZonSTel7XA/H2XNPkgvq9lilSJcBZR6ilIgAJJ2cJpzDuCd6v1YSm4vdWRb6lX69GicNx1Npa4R6QGKDaA+lURfuLSn0GBWHzHz/USYmYo2d/1BdXa0V/viGN5vVzf4oZfvlmUM8NHdefPbrsvMfomiBCp+5zO82FF2mTQihCPkJflENqJLOoQQ/2CaF784g8EIfJmM8foReQJQrKI20B6YCtMoTWLZYV/MndLz1KSIzZU+zSlzoeVJ3QCYZRwm2qr7x8JfAAK2DFBN/p8Yb88GFGiuMVKwjTi6zW/l6wvQXOnPMS6RCpqI0St7AxAKRDXLwL9ZRjSNVzeA==;qCqSk+tLIYfWEpO9DxU+cQ=="
 ---
 

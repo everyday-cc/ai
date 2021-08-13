@@ -44,6 +44,17 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+    publishedDateTime: 2021-08-13T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
   - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
     excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
     publishedDateTime: 2021-08-09T22:43:00Z

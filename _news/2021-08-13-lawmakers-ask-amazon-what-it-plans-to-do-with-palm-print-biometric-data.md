@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-lette
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senators ask Amazon how it will use palm print data from its stores"
+    excerpt: "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data.."
+    publishedDateTime: 2021-08-13T14:16:00Z
+    webUrl: "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html"
+    ampWebUrl: "https://www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/senators-amazon-palm-print-data-investigation-134424558.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/e62ca7f0-fc33-11eb-b3bb-37c2f81426cc"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Objects of scrutiny: Facial recognition and our biometric future"
     excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
     publishedDateTime: 2021-08-12T07:31:00Z

@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "VC Daily: Facebook's Giphy Deal Faces Competition Concerns; Reddit Valuation Soars to $10 Billion; Question of the Week"
+    excerpt: "Top News Competition concerns. U.K. antitrust officials said they could call on Facebook Inc. to unwind its acquisition of Giphy, a provider of popular animated images, after provisionally finding that the deal would harm competition between social-media platforms and in the display advertising market,"
+    publishedDateTime: 2021-08-13T08:52:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202108138001/vc-daily-facebooks-giphy-deal-faces-competition-concerns-reddit-valuation-soars-to-10-billion-question-of-the-week"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+
 secured: "12i4aP4R0aIqVxIg11FRHaqFQfNf4QiviZrJjHl8l46Qhue6VN0VH6q3afH1sxDqVS/VkbJdxtXrobg8yVJuT5+53o1CdYni76trQzQGHiZUvltOcHspPmJwxszrCaN7G0NQNK+n/jeuskZ4fEQbG5lu4OaGB2/yUUKah63gX3tS974wMlJmzYw+uBl7Kajn5b7qr9jISitMfTHKPByjc6crCItlYToo9mqZgO1U2/S8uFnmlwS2fHoUKymfTFnBEySklF7b7YruoCApyBvw/yfo3gabvujyO5hHDj3DCXDzWm6C2cQDvcG7oZx2IRbufz49TOrY4f9rXzz5m8C+CF6l/uZRImqZu2rLnpxPrNY=;aY4/nJfXEWDIQBHQlB4/wg=="
 ---
 
