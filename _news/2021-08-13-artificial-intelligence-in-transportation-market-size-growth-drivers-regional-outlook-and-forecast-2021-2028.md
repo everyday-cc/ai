@@ -82,6 +82,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
+    publishedDateTime: 2021-08-13T16:29:00Z
+    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
+    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+    images:
+      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
     excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-08-11T16:36:00Z

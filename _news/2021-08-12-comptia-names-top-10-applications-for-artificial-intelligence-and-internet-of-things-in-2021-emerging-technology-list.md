@@ -24,61 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
-    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
-    publishedDateTime: 2021-08-10T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
+  - title: "Canada Is Gathering Public Input on Copyright Implications of AI, Internet of Things"
+    excerpt: "Last amended in 2012, Canada’s Copyright Act is due for an update. In July, the federal government launched a consultation process to seek input on the reforms, with a special focus on what is required in response to the proliferation of works created by artificial intelligence and software-enabled products connected to the Internet of Things."
+    publishedDateTime: 2021-08-13T14:00:00Z
+    webUrl: "https://www.cigionline.org/articles/canada-is-gathering-public-input-on-copyright-implications-of-ai-internet-of-things/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: Centre for International Governance Innovation
+      domain: cigionline.org
+    quality: 32
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
-    excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
-    publishedDateTime: 2021-08-10T15:45:00Z
-    webUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-driving-car-company-in-town-meet-motional-167026.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/los-angeles-there-s-a-new-self-driving-car-in-town-meet-motional-167026_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RSIP Vision Announces Patient-Specific, Intraoperative Registration Module for Orthopedic Surgery"
-    excerpt: "Aug 12, 2021-- RSIP Vision, a clinically proven leader in real-world AI solutions for medical image analysis, announced today a novel 2D to 3D registration module that will improve the execution of Orthopedic surgeries,"
-    publishedDateTime: 2021-08-12T12:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
-    excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
-    publishedDateTime: 2021-08-12T11:36:00Z
-    webUrl: "https://www.analyticsinsight.net/bis-helping-organizations-innovate-workflows-with-intelligent-document-processing-and-data-integration/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 8
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Dan-Rotelli.jpg"
-        width: 1200
-        height: 600
+      - url: "https://www.cigionline.org/static/images/shutterstock_1717788955_s.2e16d0ba.fill-1600x900.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "tF8z+RaNbz1yYFVEnP4iSK7S6WIzL3rd867r1MBv9XnDNdjtR7FA9bLayVKwGltVoabImS7lgFq1tIvReNxOrSCmxlI8Gsnaz/bR1dQUxRlH5KsPEhDKy44EwHGNu8mTEPwmfEZ+bpE4737qQc/WnnGNkpmyWFKShQhnnW5pUQtUNhQJRlYH9r/QqKrSTBBFeEgKlQKkVSdDbywbU28jN45H6jiVBy203xbhBz2mJ3tZHJRLQdZWI/cQbrfAfkKywBQ65F3OxEzGiD7x/229o7zYt4AeNn+wQ5beR+9HtCqMGUjgmxsZWh1XqviBG/V10prGobTch+o8JB36iZGEWoT/lqPhUOMhZ8u3qJqgU7c=;Ex/3eObhbUQDRMbCg5Wiug=="

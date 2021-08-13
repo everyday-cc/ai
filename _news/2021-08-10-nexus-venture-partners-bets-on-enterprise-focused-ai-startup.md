@@ -24,35 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI-Powered Virtual Assistants Unlock the Potential of SA Enterprises?"
-    excerpt: "From HR to payroll and finance, businesses will be looking at how they can use virtual assistants to augment human capabilities and increase performance. The potential of personal virtual assistants lies in how they can take admin off people’s desks and liberate knowledge workers from mundane,"
-    publishedDateTime: 2021-08-13T11:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/08/can-virtual-assistants-unlock-the-potential-of-sa-enterprises-post-covid/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/08/can-virtual-assistants-unlock-the-potential-of-sa-enterprises-post-covid/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/can-virtual-assistants-unlock-the-potential-of-sa-enterprises-post-covid/?amp"
+  - title: "AI startup Abacus.ai turns on real-time deep learning system for enterprises"
+    excerpt: "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems."
+    publishedDateTime: 2021-08-13T10:18:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 56
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png"
+        width: 2468
+        height: 1406
         isCached: true
-  - title: "Unlock the Power of Machine Learning in Virtual Assistants to automate Loan Applications"
-    excerpt: "Learning-in-Virtual-Assistants-to-automate-Loan-Applications development by creating an account on GitHub."
-    publishedDateTime: 2021-08-11T08:08:00Z
-    webUrl: "https://github.com/Anam-Mahmood/Unlock-the-Power-of-Machine-Learning-in-Virtual-Assistants-to-automate-Loan-Applications/blob/main/README.md"
+  - title: "Abacus.AI announces the world’s first enterprise scale real-time MLOps and DLOps platform"
+    excerpt: "Abacus.AI is the world’s first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
+    publishedDateTime: 2021-08-13T16:52:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 30
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://opengraph.githubassets.com/ab3ba5b3b4b7498fbd47ee5e32d1ac43ebedc201ccc563597b4f808f6f8a4862/Anam-Mahmood/Unlock-the-Power-of-Machine-Learning-in-Virtual-Assistants-to-automate-Loan-Applications"
-        width: 1200
-        height: 600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
+    excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
+    publishedDateTime: 2021-08-10T17:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/7b5c78a2c1a6120aec199590620de3a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "vcVG/x/3actj1D6zRmy8nUFaS4nDlnBDsOoT5GeVtdxmE7C6yjI/aJNOnjorkScduDnDYaWob0mWeHeWqOW7SK1Us0A71bbJVBVOtp0Jhz1oBkhJ/4NsNvqX7p9Fvr5fV8TJ+4FGRr03MgQlznDnSZNOlCtshZDxyvmmPEqGlImrrPC8fx7QggVznS0IG1ibRziI/68RpbTu1H3/WazfxVsHMRyouqIZKA3XPFxusgGhk9fNwHAybQENwZRo8wuMh6hhTtTxnmHmn8UXPQboSer/EnmELkfUhksi+6e3+PUcWEokPB3i8rnv8BBv+YZ0t+iFC6jI48dgseH49jQSf3OvcKSiwaOJZmO5vsv00cygLT6B9oOcJauMCNkClB/qOJg9ENMaN1VRKguMwXQUt6/vBCul3IFYte+teqeKuSBkTIFY/TCYiNAiPT64X1RXOtN5u8TpmktICwsmHqgfPpnySc3f5WEzV/uWycmlgaPpIavVhmXhIAHuIy5B0esNB4fxZsb40CoQOi3k2CK+qw==;MRiLqGxsUaVL7PX2vNA9bA=="

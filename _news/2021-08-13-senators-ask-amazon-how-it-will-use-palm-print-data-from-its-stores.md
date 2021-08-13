@@ -63,6 +63,15 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Amazon's Palm Print Recognition Raises Concern Among by U.S. Senators"
+    excerpt: "Three U.S. senators, including Democrat Amy Klobuchar who chairs the Senate Judiciary Committee's antitrust panel, wrote a letter to Amazon.com Inc to express concern about its expansion and promotion of a palm print recognition system,"
+    publishedDateTime: 2021-08-13T17:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-13/amazons-palm-print-recognition-raises-concern-among-by-us-senators"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Biometric spoof of Windows Hello not really resolved — researchers"
     excerpt: "Researchers say it is still possible to fake out the face-biometric lock in Microsoft's Windows 10 Hello authentication app."
     publishedDateTime: 2021-08-09T19:07:00Z
@@ -87,6 +96,6 @@ related:
       domain: amadeus.com
     quality: 19
 
-secured: "yj/KR9hkE7cjFQfABjaT0lBZwX5jgbysTRionSvSrOB6hmJoBLehrHj95InZZxtS3kIn2cYDy2G2sVIx5NNZvnKCJO6QWiGrqL8B1CKe6gqKuQSBDXfE2y3ywIRyIufqqnFyZKcfejP5UwjJqHeQ7uUVRBMD2VhqSpPTzBBHjKHx5dQkKtlPHWShmbiYQAIch+p5cHs/5PmgmFAmW+1ZufTU/51n/JqOkf17Z54V6ueBX2gpm+QLqS/9C7aGCuK8dHMSZn4sB1Y4yKOKPOEWxiLb2mTBk9djesInhw9X9OO/qOMcPGAoI687OExXEtqeh3irBmrNoNiaYpXRE+R6u+rz7Gr3daO5Nb/FSEJWxPk=;CdZYvpDHSg9zuXC5fVEv+g=="
+secured: "EKTIAEBTIKjNvyl4icxJ2MI56AhsHTnIehBKbVEJS2amYZSfjvLHH4RXUEs1o72tC9VF4qhyrWlfSkcNtSLX3e+//qy6VzOjInuAYrVknFkgEBBVfEvytAUm2DKRsPLrdUNZEro1V64LjyO2B315c5BJBNRu8Kll7dW8cPAWu2+HPZOKRjnt/9Vqd8EBCUwxebdv+m3HVnTlWlqZptiLwTDHCkr16NqObKG4J0tsABA0I7JLJuUogTF1r/t8a9w0HWdQCEGZrh87ilEvWKJ5FZxhoxjr5GVdcmav12itBu/xPpHKIV6OO6jW8n5D3tYY9eyrRfbGGN+jwbfPDYl1j2HTZrb2U5UI5aUXzqs4kyQBfBgKnTRCi4pBQSuAcFShbgKiElPKIwTzgn6bm76gwcOT+wTjV+VwKhTdzuY0S58m7SJnYR4AtCTGfa/dwitHtAG5q56dfACi2blpQjjafSMZEuaQA9Cl9lSOJccWZFxxylb5tEuCvZ+Hpj3Uo0FmtqS565+IoRjyAp9prhQJpg==;1ExTfpFhNAojVkPR1VrX3g=="
 ---
 

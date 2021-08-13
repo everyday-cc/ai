@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11"
 type: article
 quality: 78
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/06/14-9-390x220.jpg"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
+    publishedDateTime: 2021-08-13T16:29:00Z
+    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
+    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+    images:
+      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."

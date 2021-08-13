@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
-    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
-    publishedDateTime: 2021-08-12T14:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f3cc8f92a462f64942c1bf2ea9eaad6c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
     excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
     publishedDateTime: 2021-08-12T11:36:00Z

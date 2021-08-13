@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/13/heres-why-a-mouse-br
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/13/heres-why-a-mouse-brain-might-just-be-the-right-solution-for-attaining-full-blown-ai-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/13/heres-why-a-mouse-brain-might-just-be-the-right-solution-for-attaining-full-blown-ai-self-driving-cars/amp/"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111d27936d1dc35c8cf31ea%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D3736%26cropY1%3D124%26cropY2%3D2210"

@@ -41,6 +41,20 @@ related:
         width: 864
         height: 452
         isCached: true
+  - title: "Virtana Extends Partnership with AWS to Offer its Unified Observability SaaS Platform"
+    excerpt: "Virtana, the AIOps observability company for hybrid cloud, is expanding its offering of the Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,"
+    publishedDateTime: 2021-08-13T17:13:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Virtana-Extends-Partnership-with-AWS-to-Offer-its-Unified-Observability-SaaS-Platform-148445.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 32
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ybeQXxG71/9ma22P1yPVnGQF+fZvhpu8FbBemSpocpzqVFV/h7nqrELIvu1BxBzqCyczLJz6A7YtDtMhC3e0LnQP00fvCTLeqfQT4QRtJvHOzyzogAjcxjE2HPt8I9+47eWjXH1EkuT3By5Q4Gq7t0O2Lqy29mdx1E8TLHaY4slDTs/IIqqgpwHDpynZK6Dn7/IIxJTiIBwZPnfVp+pdAeEZ1+eEHAREAlzFIvUeNIkuQHygUAig+FuvphzwrkKcWrFNKIIvUfD7//zPyIgVq95oJXLZ8E+713zDqdK395PHz7eTo5B8Eqj8VfDtl/Dkgfhn2+g4rLY0V/4yrza/lD/G5niuN3edZMAG96PMWZk=;56jgetmeYIwYqI7z2qjBdw=="
 ---

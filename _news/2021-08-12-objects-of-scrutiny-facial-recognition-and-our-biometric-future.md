@@ -59,6 +59,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Amazon's Palm Print Recognition Raises Concern Among by U.S. Senators"
+    excerpt: "Three U.S. senators, including Democrat Amy Klobuchar who chairs the Senate Judiciary Committee's antitrust panel, wrote a letter to Amazon.com Inc to express concern about its expansion and promotion of a palm print recognition system,"
+    publishedDateTime: 2021-08-13T17:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-13/amazons-palm-print-recognition-raises-concern-among-by-us-senators"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Biometric spoof of Windows Hello not really resolved — researchers"
     excerpt: "Researchers say it is still possible to fake out the face-biometric lock in Microsoft's Windows 10 Hello authentication app."
     publishedDateTime: 2021-08-09T19:07:00Z

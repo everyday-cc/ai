@@ -73,6 +73,15 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Amazon's Palm Print Recognition Raises Concern Among by U.S. Senators"
+    excerpt: "Three U.S. senators, including Democrat Amy Klobuchar who chairs the Senate Judiciary Committee's antitrust panel, wrote a letter to Amazon.com Inc to express concern about its expansion and promotion of a palm print recognition system,"
+    publishedDateTime: 2021-08-13T17:36:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-13/amazons-palm-print-recognition-raises-concern-among-by-us-senators"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "What do travelers think about biometric facial recognition technology?"
     excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
     publishedDateTime: 2021-08-12T12:40:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itnewsafrica.com/2021/08/can-virtual-assistants-unlock-t
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/08/can-virtual-assistants-unlock-the-potential-of-sa-enterprises-post-covid/?amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: IT News Africa
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nexus Venture Partners bets on enterprise-focused AI startup"
-    excerpt: "Early stage venture capital fund Nexus Venture Partners has invested in Neuron7--a startup that uses artificial intelligence (AI)"
-    publishedDateTime: 2021-08-10T12:32:00Z
-    webUrl: "https://www.vccircle.com/nexus-venture-partners-bets-on-enterprise-focused-ai-startup"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 37
-    images:
-      - url: "https://assets.vccircle.com/uploads/2017/10/startup1.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Unlock the Power of Machine Learning in Virtual Assistants to automate Loan Applications"
     excerpt: "Learning-in-Virtual-Assistants-to-automate-Loan-Applications development by creating an account on GitHub."
     publishedDateTime: 2021-08-11T08:08:00Z

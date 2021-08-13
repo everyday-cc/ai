@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables, 76 - Figures, 188 - Pages) In 2020,"
+    publishedDateTime: 2021-08-13T11:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728956"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
   - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-08-12T08:59:00Z
@@ -55,15 +64,6 @@ related:
         width: 421
         height: 421
         isCached: true
-  - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-    excerpt: "As per the latest The Insight Partners research report, \" Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
-    publishedDateTime: 2021-08-13T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "vHfBHetNSVkd5bNKWylCDfGuRQt81p78RXbtwdtVFJPrOiBAdl0A01vYYHw1sPCr3w4nB27w0f6rI0vH4ZJXev4GdCdIrWLMmWEkdAU6AvNoyUv49RYSzXT4IObTrHK+jek2ouQkw/I1EvDRzvAtwtLwp9mvAFBicC8Qpfvf3rIYvT8uUi9ujg+BvK5bN9DozU7tDezeQeMCRo0TvHtx5dkFJDaUOsMVc7OeDz8TTD8OhoNoZYSukSWV3v844pGTMojvNUKRMQbzpduk2p88I1WTcvrsKOxM8hg3axatMzDImKxoFWPKL5w3OARuKzVrlQcm4CC1rnFzL+UtFU7WA2EuAGVk8SVwnHcQF6EwOfo=;ptCeNdr2WbXrbk1gLnAkEw=="
 ---
