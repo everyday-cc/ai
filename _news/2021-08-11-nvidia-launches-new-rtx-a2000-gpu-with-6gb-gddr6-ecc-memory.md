@@ -9,8 +9,8 @@ ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Lowyat.net
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too"
-    excerpt: "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,"
-    publishedDateTime: 2021-08-08T10:30:00Z
-    webUrl: "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 88
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bc6EGtACsoiAR8mvfJ8dxX-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA RTX A2000: the most compact and power-efficient GPU"
     excerpt: "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October."
     publishedDateTime: 2021-08-12T13:26:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg"
         width: 1420
         height: 946
-        isCached: true
-  - title: "Why Nvidia Is Much More Than Just A Chip Stock"
-    excerpt: "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,"
-    publishedDateTime: 2021-08-12T21:41:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg"
-        width: 2000
-        height: 1260
         isCached: true
   - title: "Nvidia RTX A2000 desktop GPU launches for SFF workstations"
     excerpt: "Compatible with SFF workstations and costing $450 Nvidia hopes its Nvidia RTX A2000 desktop GPU will bring ray tracing to the masses."

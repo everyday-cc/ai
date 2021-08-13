@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-29-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data.md",
+      "title": "Skoltech Method Helps Train Computer Vision Algorithms on Limited Data",
+      "excerpt": "Researchers have developed a technique to help computer vision algorithms more accurately process satellite imagery of the Earth, even when trained on limited data.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "originalUrl": "https://cacm.acm.org/news/254410-skoltech-method-helps-train-computer-vision-algorithms-on-limited-data/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-chinas-supreme-court-sets-limits-on-facial-recognition.md",
       "title": "China’s supreme court sets limits on facial recognition",
       "excerpt": "The interpretation by China’s highest court sets boundaries on how businesses in China can use facial recognition technology.",
@@ -1309,49 +1343,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-23-the-future-of-online-testing-lies-in-ai.md",
-      "title": "The future of online testing lies in AI",
-      "excerpt": "In addition to facial, object, or sound recognition, some modern AI proctoring solutions can do even more exciting and advanced things. A good example would be the analysis of the eye and mouth movements, which can detect when the examinee has a book or ...",
-      "sourceUrl": null,
-      "webUrl": "https://praguemonitor.com/columnists/born-digital/22/07/2021/the-future-of-online-testing-lies-in-ai/",
-      "originalUrl": "https://praguemonitor.com/columnists/born-digital/22/07/2021/the-future-of-online-testing-lies-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://praguemonitor.com/wp-content/uploads/2021/07/mometrix-test-prep-zUDfUREDH1o-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prague Daily Monitor",
-        "domain": "praguemonitor.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

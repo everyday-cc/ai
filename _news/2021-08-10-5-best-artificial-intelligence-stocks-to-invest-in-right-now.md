@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
-publishedDateTime: 2021-08-10T14:18:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+publishedDateTime: 2021-08-10T13:58:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -111,6 +111,6 @@ related:
         height: 512
         isCached: true
 
-secured: "df3hZFZqHxDYoasSmSk94bT06Ip01Mqzp0PIwPPMoPuKpFf4ThhLklIjj2p4PcNNCbYC82CYjCLkDZHPA3jjg2vs08NT4t2ZNk+cl+xH+gMyDcKZkX5W5INVgF+FLmzhG6DGUFNat7lncY3Sx2ZavXiSpiXaerL9M/Gt2/0tX73vKk2NBLT1te5xHIxEsx8g1EE3Iq6tcwsPKTFwF1Q4icjJBjE2nGfyQMDZsf6icmjNj1j1sRpHZb0nUIixij5oRpj/7XDdlCkrpbUvD9ktaAVSHzkVxqjjpqliTMVPEL2FV5qDhQIFylzoCZE5TZ8jNAkE7DtweJHZEPykQM9kiXzkS48pYm+Bs4n8ArztMSc=;lLAPjp7ggx+GBncDxnj8CA=="
+secured: "ibO2rQddt84MLHun58kEAO/pODPPKPHqE32FoEuFeZX8Ai3OY5zEKkTXaMw91X+QUrN08kyrAsCTyEHbwTLG85vTWiYvzPHPIzqT8k9NNBY1hAsIJOWZk/38BvXnmSi7YecYwEugRuvfjGjfRGQ4gsonHM5M5mW8WN50DmjZvfmjCVmaPL5aFB51AfY4KY6Se2+yqhZWe5zXeTu5nwVT142zwTZ+VUkqEGCj54sdstK+eOxqgXASQcqlTFYj2iQVqrEWwnVl5LROf42sLmcBx6NOlQyQA5YM21q7DG2HrGpnyM8zaJhk95MoDBMkBVQBzyss9dYK27nnkiZcuQi3hhlboqYuMpVt1/d0LyWowQE=;DBBabU+p/8NU5FtOTSYWgw=="
 ---
 

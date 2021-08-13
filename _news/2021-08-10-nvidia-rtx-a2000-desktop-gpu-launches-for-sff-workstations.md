@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Your Nvidia RTX GPU doesn’t just play games – it helps you make them too"
-    excerpt: "If you’re not very familiar with PC building or components then you might not realize that Nvidia has other lines of graphics cards that are created for things outside of running demanding titles like Microsoft Flight Simulator,"
-    publishedDateTime: 2021-08-08T10:30:00Z
-    webUrl: "https://www.techradar.com/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    ampWebUrl: "https://www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/your-nvidia-rtx-gpu-doesnt-just-play-games-it-helps-you-make-them-too"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 88
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/bc6EGtACsoiAR8mvfJ8dxX-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory"
     excerpt: "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows."
     publishedDateTime: 2021-08-11T04:00:00Z
@@ -72,22 +56,6 @@ related:
       - url: "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg"
         width: 1420
         height: 946
-        isCached: true
-  - title: "Why Nvidia Is Much More Than Just A Chip Stock"
-    excerpt: "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,"
-    publishedDateTime: 2021-08-12T21:41:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg"
-        width: 2000
-        height: 1260
         isCached: true
   - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
     excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"

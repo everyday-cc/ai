@@ -2,9 +2,9 @@
 category: news
 title: "Big Tech’s Stranglehold on Artificial Intelligence Must Be Regulated"
 excerpt: "Argument: Big Tech’s Stranglehold on Artificial Intelligence Must Be Regulated Big Tech’s Stranglehold on Artificial Inte... | View Comments () Google CEO Sundar Pichai has suggested—more than once—that artificial intelligence (AI) will affect humanity’s development more profoundly than humanity’s harnessing of fire."
-publishedDateTime: 2021-08-11T10:51:00Z
-originalUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latestanalysis062921"
-webUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/?tpcc=recirc_latestanalysis062921"
+publishedDateTime: 2021-08-11T06:49:00Z
+originalUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/"
+webUrl: "https://foreignpolicy.com/2021/08/11/artificial-intelligence-big-tech-regulation-monopoly-antitrust-google-apple-amazon-facebook/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 696
     isCached: true
 
-secured: "LGuVHWrvDMkN28fUvyjP2heCqwAPrllJEN6vkCOiWtTAZRuzsPnlpN4mpdwsKbK1YC5OoDQz8KlIxtIWuPd7poOIgB5CB0M1JTfF6NyNzOPSHfFBRgGliVlltEQn8V01b23+BeOOeMnGlE6uwQLRHwqJYyUF5FhZpu7Sp3aaP8s/a8yTPkV/9aCY4ChqrN9Gm8EC4aWJvf5QuJKJ+bw6BOdIuoha32nupvUFmCI7H7kUlbbPiSySC3JEWbnGx2Azv/PQCXdWEgUvUzYi3IiONeiQXDJhCUG5K059DISdwNo6qaij8nHEndWOKg7eDDyTKZ2Uesmhl2cLiYsGnR/g0mFvEhMIXvEcnes5viyhcqM=;pOYqFIRyggHpRw5hcSj85w=="
+secured: "roVcKL81sQT+jEdel/nooDfR7A0/YCO6fpQ4Klz4v56gs0yX6TsbT/tbNNubJ9YM+4czEizQBewEk479ZpLucK90ET0nQvkkWIIYNzoWBkMN+aRwabYf1yld6XDk5NnNLgLJVsPvaNaTgTg/ejhkNCaLEe8AxBTz7U7Yva7JlfAcBsYhOk/Is4j3rJFXOmu60Fw0+nxGRuaRDkyUBHX0YXwF0QZLK+o2Xbfx00KKAJXlOXdhOuHqllWpa0vNuNrIwpaQMDf+vpKR3FCOrCq4p4+fYyX1p+ow41e0uqQRGoARwckFRQKiex7NHa9lqait+V9dWR/LVJFGX/ApXqYttE3NMzvjgfWFp3b0QN6c4tI=;75rrjQD3uYn0I0SAAd+VKw=="
 ---
 

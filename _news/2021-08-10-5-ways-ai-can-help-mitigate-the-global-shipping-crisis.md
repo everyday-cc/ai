@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-
 webUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Can AI solve the post-Covid cancer crisis?"
+    excerpt: "Amid staff shortages and a growing backlog of cases, the NHS is rolling out technology that could transform diagnosis times."
+    publishedDateTime: 2021-08-09T04:00:00Z
+    webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/"
+    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 61
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/08/04/TELEMMGLPICT000267080998_trans_NvBQzQNjv4BqXW5jbaVriFpHFNZrgcOJtrUPjgFzW0N6FiWZRSkyfLg.jpeg"
+        width: 2500
+        height: 1563
+        isCached: true
   - title: "How conversational AI can help banks grow"
     excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
     publishedDateTime: 2021-08-09T09:49:00Z

@@ -1,22 +1,29 @@
 ---
 category: news
 title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
-excerpt: "Motivo ®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel (News - Alert) ® Capital, along with other new investors Storm Ventures and Seraph Group as well as participation from Inventus Capital and other existing investors that include multiple IC industry C-suite executives."
-publishedDateTime: 2021-08-12T13:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-motivo-inc-raises-12-million-series-to-accelerate-/2021/08/12/9429816.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-motivo-inc-raises-12-million-series-to-accelerate-/2021/08/12/9429816.htm"
+excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
+publishedDateTime: 2021-08-12T13:09:00Z
+originalUrl: "https://www.lelezard.com/en/news-19949438.html"
+webUrl: "https://www.lelezard.com/en/news-19949438.html"
 type: article
-quality: 14
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
+  - AI Hardware
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Motivo raises $12.5M Series A to speed up chip design with AI"
@@ -36,6 +43,6 @@ related:
         height: 678
         isCached: true
 
-secured: "pJLFMYm2Ykn+K2qgMTmKg4efBQs62il6oxxyciwKpknU8osq8FQXj4nE4O/G6dD3kpT1Q9ZzA+uKIMgJIGYJx1a5J+ioO3vNjWB1fy8rBHPfg39dfXILdTBuw7rNTuZRmyoxXjkJwVwYW0GB1L/K0rlFlbjFVqW4sTUY8hHdW3YRoTWfJXJtDFMN/Ckc1m+xauQrd1IxvT3xQ+2cC1ck2Ng+NI/i1bdPY5G3XeswFoctze6DThvUCcQqKlax9pPptfmbfCZbfKaEwy9HCZITzvNwt/1v59COvqh+h213B23oAwVv8RURYxW5Hy/E8ywdlTUEAq8llT7oGspc/sK2NhWKkOGlQJKPWJkbDJ1FInM=;WtMfut/FJGpd0zBf2nuyPg=="
+secured: "QiU50Vi0NQP7mWoLYBWBJm3SEJP53oH4diYRBDdeGQd/8B3EermBjG0AOk9Ep50d1OjEdmTxzt1MOpEJYjQTofoWmnZjfJ3LTW57fZfP9g6ercsZZtnIKC+V5TzNi2rSveiPxioiyrDJlLTbo5K3muWQMb9pZrNNYJJ5taVX7Jyl90aNAK4w0YL51H4NGzzSMduGu/Hp44hH0V5r/Oo8p/eclj4891XtugRJCLfdOhAteCivzuh24gF2tKS7kUIXScGFPtuOAYuFctomoL7NxGmcfwbrXUoUyPAQk+UvCGw2vQjvWnq2ChaEfcwCF3tPVEr8iA3acYqNTO8O+P9mz2SamI0noFdlwdPUYnLoXWI=;N40d6/og5/TyUA6AEfEArg=="
 ---
 

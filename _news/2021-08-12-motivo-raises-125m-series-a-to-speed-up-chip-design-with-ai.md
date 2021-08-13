@@ -32,14 +32,19 @@ images:
 
 related:
   - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
-    excerpt: "Motivo ®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel (News - Alert) ® Capital, along with other new investors Storm Ventures and Seraph Group as well as participation from Inventus Capital and other existing investors that include multiple IC industry C-suite executives."
-    publishedDateTime: 2021-08-12T13:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-motivo-inc-raises-12-million-series-to-accelerate-/2021/08/12/9429816.htm"
+    excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
+    publishedDateTime: 2021-08-12T13:09:00Z
+    webUrl: "https://www.lelezard.com/en/news-19949438.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 36
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "ozgZRdA6k2sTIfeuagMGcA0936KbHpg9UMFZ9YRXW9p00G8DFDrc6AI1Rg6v+NgrJg5SLePKxej/p2Zxy6jXM9aCVE7E1AInQDKRg/O7Ndq3UpvvIjeVIwF4ZzBG2ZbIXtK9stfaPLSOJZoSOP/Q+cqo//kTZKeBzzuDe5i5/Q9xMJ2gmKGQewg1t2Wu3kGBgRoMBxJ6EqwQ9GHeHTyZiNU0JoqPjh6PfKsBs3WF1vgd+kW9mIpDwWLUNNZJT0LyQxsf+PlklKcmCve1XDZGvHYlzRUVwYRNghnvC0//9j91XuggjGiK6Xy6RIGaQKFJJgytWs9VDs9Xepu6Y4xbtm5TGKRtUIUnCa7ZSrGaCLNztisx2Xo5zCOCQG0iBmML8qmIpEn8xEyFzi7+VRcqN1bwvhTr+EraODN4iB+NH2zEBIrAZGIVH63h7DSv5HwcU+37jlUFGu/PSQvdK6iSyi5H0eHs95tJpy/nQoKqFas3z8EwwD4MJeGKpBXxUUrckTyHLmeL+YJEHqj/NlcJgg==;FAEp0xYc8fAL6Nema3+tXw=="
 ---
