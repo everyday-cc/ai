@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-the-pandemic-has-shifted-attitudes-to-the-artificial-intelligence-of-things-and-the-smart-home/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 836
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and the new autonomy of things"
+    excerpt: "Artificial intelligence (AI), machine learning and augmented analytics are now widely used, and as these fields become more accessible, a new, more robust generation of AI applications is being born."
+    publishedDateTime: 2021-08-10T10:00:00Z
+    webUrl: "https://www.itproportal.com/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/artificial-intelligence-and-the-new-autonomy-of-things/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Kb5LKxV3fibxbKrEMGd43H-1200-80.jpg"
+        width: 1000
+        height: 631
+        isCached: true
 
 secured: "Pb78jyNbYUQoPGUyCaHlKtV413Elhb/4FQgO4MFzzU+HNKF13r2TYGau8aJadEuUxgQgqGMGmzfeeKlpO4I79d8TEvcS99PGMC3ktYvB/5whUq7bsT52z+GGn4do0lqg+58hu/8V6WyEiLvidj6jYZ6owd0/1CPYLsquQt7QGiUQaDn4BoyH0HEZq/R2YGXMDzqzPB+QApANokJv6w1yJGzCEQd5Jtj845QNqJsrKdKtrZFGcAEd/imEQ9Rw2qM0IoP38peqxcbxiCFKn88hgF5lTQzwECFFLJLKXMqXUdVcAGcLWr1MJ6kCRhP3iVHYH0Md+w6rreWEN+bAUfPUML3StlG3bbFPdVzBTKzbA+sJCm3nhbXylZsjhhRfDolyYSCYT9oz/wYVYbQeZMttRR7JztwH1Q6Q23WKj4z7oAJyUPEIYt58R1SYXC+zC6aF3yHzkBVMYdQmcFBqZpaNsfbzWeVb5DN4Mj+7GNxSUhW2WBWnBM+xHLLxkK/u7a4ezaAIwcJhBJx0Xfacn33zJg==;QJUR+vuBE5511NFehA7zjA=="
 ---

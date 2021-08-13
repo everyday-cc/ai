@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-sp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Motivo raises $12M Series A to speed up chip design with AI – TechCrunch"
+    excerpt: "Chip design is an extended slog of trial and error, taking years to carry a design to market. Motivo, a 5 12 months outdated startup from a chip business veteran is creating software program to hurry up chip design from years to months utilizing AI."
+    publishedDateTime: 2021-08-12T13:15:00Z
+    webUrl: "https://bestgamingpro.com/motivo-raises-12m-series-a-to-speed-up-chip-design-with-ai-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 53
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/08/Motivo-raises-12M-Series-A-to-speed-up-chip-design.jpg"
+        width: 604
+        height: 400
+        isCached: true
   - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
     excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
     publishedDateTime: 2021-08-12T13:09:00Z

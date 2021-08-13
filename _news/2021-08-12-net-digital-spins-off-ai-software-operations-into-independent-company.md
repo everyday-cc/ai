@@ -49,19 +49,33 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Three Notable Applications of AI in Supreme Court"
-    excerpt: "AI in Supreme Court can be used for legal purposes like AI techniques to read legal judgments, document automation, contract review, etc. But before adopting such technologies in the legal system all ethical issues must be addressed."
-    publishedDateTime: 2021-08-08T11:30:00Z
-    webUrl: "https://www.analyticsinsight.net/three-notable-applications-of-ai-in-supreme-court/"
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
+    publishedDateTime: 2021-08-10T14:20:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
     quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Three-Notable-Applications-of-AI-in-Supreme-Court.jpg"
-        width: 900
-        height: 500
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
         isCached: true
   - title: "ZIM readies AI solutions for its shipping operations"
     excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."

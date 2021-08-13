@@ -124,6 +124,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI in customer analytics: Sharpening individual focus"
+    excerpt: "The choices we make, shopping online or using digital payments at physical stores, can tell the retailers, merchants and banks a lot about us. And today, AI programmes are sophisticated enough to be a"
+    publishedDateTime: 2021-08-13T05:30:00Z
+    webUrl: "https://www.forbesindia.com/article/ai-special/ai-in-customer-analytics-sharpening-individual-focus/69753/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 39
+    images:
+      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165553_customeranalytics.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Opportunities Await: The Artificial Intelligence in Big Data Analytics and IoT Market is changing in 2021"
     excerpt: "What Does The Global Artificial Intelligence in Big Data Analytics and IoT Market Look Like Today? In a year that witnessed the world navigating the onset of a global pandemic, the Artificial Intelligence in Big Data Analytics and IoT market landscape quickly pivoted and charged forward."
     publishedDateTime: 2021-08-11T12:37:00Z
@@ -137,6 +151,20 @@ related:
       - url: "https://industryresearchcity.files.wordpress.com/2021/08/competitor-analysis.png"
         width: 1238
         height: 645
+        isCached: true
+  - title: "Location analytics startup Locale.ai, electric mobility firm MetroRide raise funding"
+    excerpt: "Bengaluru-based AI startup Locale.ai has raised $ 1.3 million funding in a seed round funding led by Chiratae Ventures and Better"
+    publishedDateTime: 2021-08-12T14:44:00Z
+    webUrl: "https://www.vccircle.com/ai-platform-locale-ai-electric-mobility-firm-metroride-raise-funding"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 30
+    images:
+      - url: "https://assets.vccircle.com/uploads/2020/10/fundingrfxl.jpg"
+        width: 810
+        height: 506
         isCached: true
   - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
     excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."

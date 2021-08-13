@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-health
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
-    publishedDateTime: 2021-08-08T11:23:00Z
-    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
 
 secured: "eOKjVuPVJKT+6tKNSuY6ILEusKdNn2j8c7r3dfIZ5mfzNJDr5LRflxSDkQYu9A38j3H/093ItDvbDgvHfSUKSskz6EPAYVTBFk6yE98qacpxUAGVxkJ5yNd78ioiBtIuDNWq2HWXhPrH2VyhTIL/q0JeW7DtwrUS8jDUbBecsiHTTDqL20D01GylnVFWsFmR4E2DwYoc5aliOhYqv5SuIkE+oY7GRsInRLKsc9r3p3UeGOtaLI8r6z8hVt/e8d4sJzNDgsl3zPe3JvLrte97rYrW3ysptHmh0UMlQeFyKrtNhZUaHEnUYwwR0Zn9ffu1PMNmyFg7d4EZMWtorE1VQCqZfe39SLsHiI5o/+0lJxdm+IGVpTGSAK1YYOM09UJ4q+GAucupVjw60EuVD5JQt3SxyyGS5X4wPXSe0l1gwwYqlSglkWCTWqHxS2p2n1kN6S3+zzUIWwcOjGTTGzWlzJtlrJ4ImJcpsmfY2besyzKgrqQ+qQsZPHYAeoxfhD3FFEIsSntLg0xS441dkplRsw==;PpwADCnaH7fWWckVjFPSYw=="
 ---

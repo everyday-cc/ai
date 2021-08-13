@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-sm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/11/how-small-business-owners-can-get-started-with-ai/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "6 AI Business Tools That Will Matter in 2022"
-    excerpt: "Today, many companies are looking towards AI solutions to help manage key aspects of their business, from communication all the way to human resources."
-    publishedDateTime: 2021-08-08T12:33:00Z
-    webUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963"
-    ampWebUrl: "https://www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/6-ai-business-tools-will-matter-2022-3268963?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/08/6-ai-business-tools-will-matter-2022.jpg"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Smarter Business – Harnessing Artificial Intelligence"
     excerpt: "In this contributed article, Gary Bhattacharjee Head of the Global Practice for AI at Infosys, details how AI can transform businesses into the 'autonomous enterprises of tomorrow' and highlights where AI can make the most impact on an organization."
     publishedDateTime: 2021-08-12T13:00:00Z

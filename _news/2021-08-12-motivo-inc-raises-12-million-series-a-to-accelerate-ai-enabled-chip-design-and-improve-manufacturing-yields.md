@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Motivo raises $12M Series A to speed up chip design with AI – TechCrunch"
+    excerpt: "Chip design is an extended slog of trial and error, taking years to carry a design to market. Motivo, a 5 12 months outdated startup from a chip business veteran is creating software program to hurry up chip design from years to months utilizing AI."
+    publishedDateTime: 2021-08-12T13:15:00Z
+    webUrl: "https://bestgamingpro.com/motivo-raises-12m-series-a-to-speed-up-chip-design-with-ai-techcrunch/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 53
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/08/Motivo-raises-12M-Series-A-to-speed-up-chip-design.jpg"
+        width: 604
+        height: 400
+        isCached: true
 
 secured: "QiU50Vi0NQP7mWoLYBWBJm3SEJP53oH4diYRBDdeGQd/8B3EermBjG0AOk9Ep50d1OjEdmTxzt1MOpEJYjQTofoWmnZjfJ3LTW57fZfP9g6ercsZZtnIKC+V5TzNi2rSveiPxioiyrDJlLTbo5K3muWQMb9pZrNNYJJ5taVX7Jyl90aNAK4w0YL51H4NGzzSMduGu/Hp44hH0V5r/Oo8p/eclj4891XtugRJCLfdOhAteCivzuh24gF2tKS7kUIXScGFPtuOAYuFctomoL7NxGmcfwbrXUoUyPAQk+UvCGw2vQjvWnq2ChaEfcwCF3tPVEr8iA3acYqNTO8O+P9mz2SamI0noFdlwdPUYnLoXWI=;N40d6/og5/TyUA6AEfEArg=="
 ---

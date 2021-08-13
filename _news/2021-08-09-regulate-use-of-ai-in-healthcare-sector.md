@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market To See Extraordinary Growth: Stryker, Intel, IBM Watson Health"
-    excerpt: "The Latest Released Healthcare AI market study has evaluated the future growth potential of Global Healthcare AI market and provides information and useful stats on market structure and size. The report is intended to provide market intelligence and strategic insights to help decision makers take sound investment decisions and identify potential gaps and growth opportunities."
-    publishedDateTime: 2021-08-08T11:23:00Z
-    webUrl: "https://manometcurrent.com/healthcare-ai-market-to-see-extraordinary-growth-stryker-intel-ibm-watson-health/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 45
 
 secured: "nfaqw+VMYLs3qXvA8q/7og20IO6+OHRoVtzMOkg8gZw2Fp9wufU4agatrbI28BVh+G17Pembg4Gx216AqIV5ujeS6hWxYupshOtCK46sl+dDkjJ6IrEu9zdzpuAY/q5IxrMa+kqMPTSf0SV2UqPFrfRLyhch5G2Qs5m6iqm+RfU7lveN4oWCGEOfvK0gAR2iOsvN3Z5WxEzupl7Y4Jnl+PrH/VP+qxWnP2UAbKLlS30WxskCjHcvVr6wuefclk7wCZUCqKmSO9PMupX+ZFnbBLfxbNyXI5SL7jJOGshuw+SwWp8qDnqRNmSF6yZsfLlbRnBrW5ObhAAHL5kYlXfidEe5EQjEK3B90/HXC/nAV7CitVeDiDmeyW3ouuMBJ1tZnMilPNEvrrhqxqT2r+oC4vnU84NXhN4/4Kdue8taZCqzWmzLyWpJgBPysWFTHWpI4xUXz+Xzd1TsAnuPrY5HfM98d+xciyl9SgjCgub84niD8Rx8STWzmLu+s2CIQ23i4dpM5e4/T5AMto1YRKqZjg==;AMgEWDyAtUOSKsQICK2SLg=="
 ---

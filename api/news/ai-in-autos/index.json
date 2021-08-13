@@ -1141,6 +1141,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
+      "title": "Beijing permits self-driving vehicle testing on expressways",
+      "excerpt": "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
+      "originalUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://macaubusiness.s3.ap-southeast-1.amazonaws.com/2021/07/ArtMacao_MGMLionParty_MacauBusiness_Still-pop-up-banner_800x480.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
       "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
       "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
@@ -1191,49 +1234,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
-      "title": "Beijing permits self-driving vehicle testing on expressways",
-      "excerpt": "Driverless cars will soon hit expressways for testing in Chinese capital Beijing, as the municipal authority has approved the gradual opening of several expressway sections for unmanned vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html",
-      "originalUrl": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.cgtn.com/news/2021-07-30/Beijing-permits-self-driving-vehicle-testing-on-expressways-12jlkrsvhV6/img/c4760435a17d4a8596f17f176fcff716/c4760435a17d4a8596f17f176fcff716-1920.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CGTN",
-        "domain": "cgtn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
