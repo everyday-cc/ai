@@ -101,6 +101,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech firms on a roll: Heralding the new era of BNPL"
+    excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
+    publishedDateTime: 2021-08-13T10:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-influencers-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
   - title: "Top 10 Leading Fintech in France by Amounts of Funds Raised"
     excerpt: "Amid France’s fast-growing fintech sector, we look today at some of the country’s hottest and most-well funded fintech startups."
     publishedDateTime: 2021-08-11T04:21:00Z

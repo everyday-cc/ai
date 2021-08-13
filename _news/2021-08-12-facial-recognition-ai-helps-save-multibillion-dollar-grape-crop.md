@@ -30,7 +30,7 @@ related:
   - title: "Grape Crops Protected With Help of Facial Recognition Technology"
     excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
     publishedDateTime: 2021-08-13T08:25:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
+    webUrl: "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
     ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
     cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
     type: article

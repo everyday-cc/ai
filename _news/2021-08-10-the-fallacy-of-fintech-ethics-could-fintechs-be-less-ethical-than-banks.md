@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 220
+heat: 230
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/nyse-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Fintech firms on a roll: Heralding the new era of BNPL"
+    excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
+    publishedDateTime: 2021-08-13T10:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-influencers-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Three Indian AI fintech startups to look out for"
     excerpt: "Fintech startups in India raised more than $2 billion in the first five months of 2021, representing a 4X rise from $495 million raised in the first five months of 2020. And the sector is just heating"

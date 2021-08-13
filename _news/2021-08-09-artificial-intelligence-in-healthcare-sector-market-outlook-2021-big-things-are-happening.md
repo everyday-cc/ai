@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-health
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
+    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-13T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "eOKjVuPVJKT+6tKNSuY6ILEusKdNn2j8c7r3dfIZ5mfzNJDr5LRflxSDkQYu9A38j3H/093ItDvbDgvHfSUKSskz6EPAYVTBFk6yE98qacpxUAGVxkJ5yNd78ioiBtIuDNWq2HWXhPrH2VyhTIL/q0JeW7DtwrUS8jDUbBecsiHTTDqL20D01GylnVFWsFmR4E2DwYoc5aliOhYqv5SuIkE+oY7GRsInRLKsc9r3p3UeGOtaLI8r6z8hVt/e8d4sJzNDgsl3zPe3JvLrte97rYrW3ysptHmh0UMlQeFyKrtNhZUaHEnUYwwR0Zn9ffu1PMNmyFg7d4EZMWtorE1VQCqZfe39SLsHiI5o/+0lJxdm+IGVpTGSAK1YYOM09UJ4q+GAucupVjw60EuVD5JQt3SxyyGS5X4wPXSe0l1gwwYqlSglkWCTWqHxS2p2n1kN6S3+zzUIWwcOjGTTGzWlzJtlrJ4ImJcpsmfY2besyzKgrqQ+qQsZPHYAeoxfhD3FFEIsSntLg0xS441dkplRsw==;PpwADCnaH7fWWckVjFPSYw=="
 ---
