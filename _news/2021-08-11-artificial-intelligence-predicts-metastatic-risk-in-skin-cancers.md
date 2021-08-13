@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-predict
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-predicts-metastatic-risk-in-skin-cancers"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 690
     height: 400
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Helps Assess Metastatic Potential In Skin Cancers"
-    excerpt: "A new way to predict which skin cancers are highly metastatic using artificial intelligence (AI) has been developed by researchers."
-    publishedDateTime: 2021-08-08T08:00:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-assess-metastatic-potential-in-skin-cancers-202653-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 38
 
 secured: "FXaz9rsrd7919HlOm+SBkH1iG97fFTmjsk2OSF6FZUr4JPR8VqQYzt/kff99tcxkfNCnD78+T78mS1FqUv0qTQQfgEwTFFQ+u55O9ZKQjD+7RS11GRghfdgU9FjiJhu9d+4hul24HXjYT1JVQt9/CmDcw3CGEy1MTwnjbBvPWJ/IQM4Vv5LH5IBgim4dJ/qjqu2leStmhik5bepJ4rH8iN77HOgpUqZmC2H9HrpXAMNsLYSx627OLM8LWa+iLg0ylueEPEFKt7bOiQuGN2gSNqvX/ap+7+V/yOjvRGe3w6O3J5Qyk+SiQvd9wB+wTEJ4Eqw6V+DNg31HYRJisMvQZ31plT9K61qxnMcH5WEF2Zc=;kJKGehdFUmvPTOIwP2y47g=="
 ---
