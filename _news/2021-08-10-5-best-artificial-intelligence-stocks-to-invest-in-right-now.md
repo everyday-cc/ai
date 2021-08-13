@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Assessing AI Security Solutions: Questions to Ask"
+    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
+    publishedDateTime: 2021-08-13T13:24:00Z
+    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
     excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
     publishedDateTime: 2021-08-09T17:20:00Z
@@ -107,6 +121,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "hhkWOKOOepqjJvO/4ZJWhoRyktve0W710EKk5Sd/STv0pxlbKwr/Dpitc0kx+ahgcgmfX0ab4rRaCB9c8aKRv0Xg6dRrEMGhN1wQPm59+f9q2wT0Ei3xegEA4kO5E1qMnUsKyAFJW85Fv+i97KRBzyHxCxNaAeMpJ/VM3ihEzfnCZT4AOfdjtERDybgjIleWaUk37rxPLP+DRSQVAh6kwwECiaN2NSf4yNhQ/EWOJHI4nEjw0AN62PMhFKlwJOOQ7m1mHwMD+eKIItxQ21cmPfoeqt7qUwzK7uD5w6VlYEmvYo4EKJKTQ0i6eNx88YKDT9hFbU2Db6Cjc6VhAiA+D1aduFofeNZhdcNVDkw+O64=;DIAI8zbMwScIfvWJh9fNqA=="
+secured: "X6aZiTevTdFQAyJc33LHRKsjGtgT4afWy3Q4tnH3RtyLoOU5YaNur6hH1mTXMAtlMhCl4BeNhdE3iNSqlEFQbHGeRfE1DKYaWbUpcU8YWiDLjZ1nqgvlODHcVcpTdltuJJzfoM/xNuFIxoYTnmR3NH5JnEytU3tV7FNz4kCfDRbhPCf9fYA40+q8f0R47BSJQunB702hlMZ01D7Az1No7XMy7qO+avcAFDDLhmDnSHoCEC8YkV4b9SUMzsG7WsoGHnu29qOtfsr9R5BHp29TVDsCFIsg7z5jraKSRHXEX95w24qSb+UifxK1MiNG+Fxl1wPA1pvhrHqPsZaOncUz8/7GCfSwe+PlExHHK/acEx4=;aa4zJ9ziA1THgM0pJtSYTg=="
 ---
 

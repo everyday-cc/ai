@@ -7,7 +7,7 @@ originalUrl: "https://mybigplunge.com/tech-plunge/technology/agnext-wins-nasscom
 webUrl: "https://mybigplunge.com/tech-plunge/technology/agnext-wins-nasscom-ai-game-changers-award-in-agriculture/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 640
     height: 335
     isCached: true
+
+related:
+  - title: "Capital Quant Solutions bags NASSCOM's AI GameChangers 2021 Title"
+    excerpt: "CQS aims to alleviate the financial services industry's information overload through the cognitive automation product FinStinct that provides insights from unstructured and complex documents. It utilizes machine learning, natural language processing ..."
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/13/full/20210813181705.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "7AIIYzh++XXUPgHvDn0No94iY7107DYs6jbhWKyWYIMPoCNp7yAytr5jK6JGBJO5h1G15SbWVnezob6sMAbfPxNm/gvKiSmawHVpyYb5R6XaJSyca9n1itGJkF6ecB+1anoDbyQlkBs/Bp75cvINtZhSpHtSO1VAAUrAIlmOUcqnmCAEwC3kAEaAkCH7iYaM5XvwZYwk3q4xpJBpN/9cO2MV4nxonQjbGEcStLUYyR0+ZOeTSGTlJqkzMKikjGqpu62PQbJlHPLtryTqtTJeOCqEVVRgApHZZ3Z77JODxe5FOHHmYrsMjb24yQjtv+sZYYT8Z+L+RmWa99eutYNrV6wojXIBxzPRp+fsgg6hZ0cj6MDVLWS3nycL+tM/MC46Yf+5gmI4hNTtN9fWYvTp/vLL9rx8pIqUyB6VbxbkIr5n3UCYABw+kRMmkbrVZbTdblIwYdQPIr7U95u/93r3MoMUBg5mOivy2loqlJiXp+ar5sy35xilBfNxkxvpUgGnTQIPnbS8yrjFU0jWYDonew==;hHvOsTrzfEgJFUtTMEtatA=="
 ---

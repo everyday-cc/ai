@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech Firm Gateless Adds Rick Lang As COO"
+    excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"
+    publishedDateTime: 2021-08-13T13:29:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-firm-gateless-adds-rick-lang-coo"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 24
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-03/Gateless%20Logo_3.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
     excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
     publishedDateTime: 2021-08-10T08:45:00Z
@@ -213,6 +227,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "S55xLqLEy9nYdqYET3HA+F1z2apZ2kQzt9buyc+TvKlmNprZJ7aCzDTVFLpS0SDbgm5WZGTQ2SaGHODeGW6Qm03zZjYLQ7qMfLuX/dWJCk+wknW3nD3liJMyqJep16ZWmeZkT/e9zB+ZY7RG3ovDrUUPkexLDZhycC5Zc0TyZjRzc6Fd6QzSCbDnkPIAQSV4LZ55aBrXwTIfQs4fkfD+I5hfL0+9+ZEa6L4YeZnqnjVsyCqaFfkFBXCoiYIMga3opzLui0RtCR7I0CsJHTPv2alw/qJP++Wvk88HkAhfNpQm95PJiusAFLNlHIqMl9paw4qnFQk2ZKTDNl5G5Qx0yFlQAyh8n7trF7+Q7VRPEWo=;XbT59DkfFC5izBmveXLCqw=="
+secured: "nER13Eu1/Aw5ZCf/yxES0lUDqrHREMCdgt/Mwfh0SCkjMzw1T1ybHmnUGvnxC2aOAfea8e/efW1pooxoA8+49bsSvPDY9zpGz6Z0XG/jnQ3NTYtlaU9KMKVuVUu5lgsuIhSbEoCvm7ahmFc2ZyV5LooefWsp3o/WcNYn0tU+MjY8dTG3GRL7w1J+Hu1Wf570GK8HmUSeCgJ8XiNemXNovGvGwNxRkbCYZ+tcVpPf80U17jVzqimrRO/6HmXkjkoP7+bCzDxEo9Ah8HrEV1m06MRsDMcxF3rgBpbxwtt7iuW7PqhbxZgBy1+C1cyt/po2nes0AJKOXM6G1p9oBzRM+iQT7Rj5h2jpsAGN2SmCIXmTsr9Nl4+fnaOupXmluZ/4j8Ts1Nllwsg+FJfA4KP5PvIaiEfFo7IjRxeqA5chPOa+FfucfZohCjBsTS3CC/LDZ5eRfeoD+SADXixWw6tWRrJ2Q4jMeG5xOD1Y26I1yl6rN8ZvbMAtGnsT3EM1J2kI2QrhdBpbZeCVASmSAtU0kA==;Ku8Us192RduXxngH60Ox5w=="
 ---
 

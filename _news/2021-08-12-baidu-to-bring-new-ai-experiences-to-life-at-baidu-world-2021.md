@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 3-Baidu quarterly results top estimates on ad sales, AI demand"
+    excerpt: "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products."
+    publishedDateTime: 2021-08-12T10:04:43Z
+    webUrl: "https://finance.yahoo.com/news/1-baidu-revenue-tops-estimates-100443815.html"
+    ampWebUrl: "https://finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html"
+    cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/1-baidu-revenue-tops-estimates-100443815.html"
+    type: article
+    provider:
+      name: com/news/1-baidu-revenue-tops-estimates-100443815.html
+      domain: com/news/1-baidu-revenue-tops-estimates-100443815.html
+    quality: 174
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Baidu quarterly results top estimates on ad sales, AI demand"
     excerpt: "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products."
     publishedDateTime: 2021-08-12T14:08:00Z

@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "FinTech Firm Gateless Adds Rick Lang As COO"
+    excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"
+    publishedDateTime: 2021-08-13T13:29:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-firm-gateless-adds-rick-lang-coo"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 24
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-03/Gateless%20Logo_3.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
     excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
     publishedDateTime: 2021-08-10T08:45:00Z

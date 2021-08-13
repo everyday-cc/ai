@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Assessing AI Security Solutions: Questions to Ask"
+    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
+    publishedDateTime: 2021-08-13T13:24:00Z
+    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
     publishedDateTime: 2021-08-10T14:12:00Z

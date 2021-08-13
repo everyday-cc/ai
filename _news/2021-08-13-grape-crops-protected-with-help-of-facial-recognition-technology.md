@@ -43,7 +43,21 @@ related:
         width: 670
         height: 377
         isCached: true
+  - title: "Facial recognition software can help save multibillion dollar grape crop"
+    excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
+    publishedDateTime: 2021-08-13T12:06:00Z
+    webUrl: "https://www.freshplaza.com/article/9344319/facial-recognition-software-can-help-save-multibillion-dollar-grape-crop/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 38
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Grape/Grape_0016_135.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "3yK+yApQwvLvA/3OvOBIaefemIPuuptIVv4LLko42jms3Rkjd6d3fBoWetTSKI4h5ow4MCElFx+mgXg9vChrehM6gIAshWm+m7BCfkAvDM3k9uUisyhj4wHIYIvq9p/kJjfL1hF+syCO0Frrifw8E6TOghZ2J80fA/Iesunfaas9+PWYuKXOFa/7j3TqtaDPYIhd1lsF5LTQUBt0okS+aBTimj+aeeIRqqrhItmN+28fiZGhUme3qtYlrel0dOfzusAXc6tCmD7sIEKVfilhFty9y3wv6Lpgh7DySBeqnvbn5IbMFCxEgnwQFmGUcRJYlYhRdBB17XvYz2n1fUnkV77o3ao2C6dDqUljk6YFSj0=;b2iStwSWCA7yWAIqLzy9ZA=="
+secured: "YahV/Ii+O1g7TmDx8QAvcS7y7oC/xopHcULO/1cMqBydPeQnyp4r9qNQiAYE+kp5KiJXHCtHT/4ULADGKJ3S6XTtlKL3uvxtDLS40YAAFXwxwqqVAV+zRY93HUx79jCcYpQjAJhev9Ft9tPJo31q42mSmlJiZuKU8Pdv6E4z/ysnqmfsGeVaGzF1ZG0vGlU8+zsqiwnPfBJgFiJKpmboifa8rYEUp3ocdnMmKLqUKicRb8yFqq/EhFpZfjVlZYOln0qHHCa+aJrfxrZEdrNfp1U8TRQd009ULHDezsGKxrgAjI/6afWXWuPsdb5A1ffjm/PdIS/VMKlqkkUf5hpcGCgdnYyFytyiZGr2p3+XlA4TVle5FgOXZ+1UisJDDmaY4LexRVrcyS4d28coTmHERe77o89C0e2SQ+az5KPk2dhua6xrhmg42GuYKAgmUaC871DfrN5XPVUFK5PEXU+5j/oqXnnWpTXMjN/7cbdhP/uYIOI8X9zO1iSgnXU5my0/y+LetxgegsUiCcReS6cxNA==;YQ4LxBEGmBzgDAfWbhzC1Q=="
 ---
 

@@ -44,22 +44,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "RBL Bank selects AWS to accelerate artificial intelligence efforts"
-    excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI‐powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
-    publishedDateTime: 2021-08-08T20:38:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 91
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-10/01/full/1538373827-2439.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "RBL Bank selects AWS to drive AI capabilities"
     excerpt: "RBL Bank is building on its analytics practice and investing in AI capabilities to implement various use cases across multiple segments, including risk, customer service, human resources, and operatio"
     publishedDateTime: 2021-08-09T09:58:00Z
@@ -93,6 +77,6 @@ related:
         height: 300
         isCached: true
 
-secured: "GDn5JPv4Ns+RLPiVSRgV1ns3DT/3EProNbSR/Tv0BxoWS7aHqhRLiBP5pk+/zEpYzrabfQjBB93g2s2d9ZkdZ40Ta+6kp47nzJmebUFW8lgdgBpp1XCbKaKrLX2KxKm96ASoyoFdGFlU/DaNpm4AnlJ3MTQnYbdekWUrgYPDUlulkFaJyiE/XiCLZdrcfyq7JqYIarVuWmNi15w4ZkdQqR+UI7BVJfjXxAQjkkovmFQCXgdfgk8zqTm1VTOjAmRH0mFFAPqwbKHRxJl/lfG8Be3UzHbZFPmMhLuqABQQmZtxiQk7K4toS7nLcC/aJahhvyBMYOzAOT/7U/EHq/DM1KllVS2B2O9eFkUQOgpZPbQ=;Ts0mJOSCG9KS6wRhJJ945g=="
+secured: "vrLc77dpn5TCcngHrNNFNRYxSJyVa8Kuy05ujk41KHO6DE2Vc27KIiUT0xlQ5yOyj/mvpOhQ/0N1YebJETbNWr2sIicQGCrOSTKCUG6lsNPZLVE8IC+1VPwVTNT8vgX9ps8Kpuk7UbuwmVCASiRuvWLc8cJDioenc5pad80ydfjk71SxKy3npfGSTGfPWgfa3+e4fPRCqk3vZzSljGeOiuyMUWZsjWpAp9w6dFyu9TCfvnwyi+sSkkVu95se4L8dPEmigG/u0E6IeE/intiwqha9lWnA3Wh/q3WNu6OZTva/BmvWnxa+3HAm1NTD3H0lJg9s37wbeNA3k4X5m1jBJBAnEfYV6mfDpUr+prEQM7U=;tvVxdgczbp4ZpxfWlUtfgg=="
 ---
 

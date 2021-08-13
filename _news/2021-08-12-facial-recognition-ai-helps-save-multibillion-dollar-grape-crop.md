@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dol
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305"
         width: 640
         height: 360
+        isCached: true
+  - title: "Facial recognition software can help save multibillion dollar grape crop"
+    excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
+    publishedDateTime: 2021-08-13T12:06:00Z
+    webUrl: "https://www.freshplaza.com/article/9344319/facial-recognition-software-can-help-save-multibillion-dollar-grape-crop/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 38
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Grape/Grape_0016_135.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Z+piH4T17+k6HzEVEm0gEuoxkl1JwInFPBPqg3hu6NUahdjfzjlVVnHdJhhrcjcaUKE63cZ4+9qxVjRwcZkCyMKf/noWP2bprN5um/Oy2IG01HrySw5BfQFNZtnhPTITJONNOY9B30+9t6NmfJKVbEaIMn7MESpVnVizxIMQlZE9hvE2EXNb+PgLkDW0AbD/FfRDGolBGLSOqV8zi5zv4HShYWDzZd636dU7k3DxzCbbVi8R+QcYy1GBAPO8Yl+YTy8F/n48IbSoplTR+cy3sgyH/kn5ritToQFEy/1GsvMbTwa6pwsvaJq+sBaVFbUkyk2IQ7T+P3KJit3hynpGOMUGdQUZDJZCFnU9wdfak27xPaR6QfaBeNJXpuZLw84HD/cH5EsJfR2+l5faToJeE+StMUr04vSMaMUeNEm8KAAC0SqCOGFtyH1kA9wtg6mkojP6wSqsLn4ydn7Vnx0+68w97rGf1+ypRllz3uyEla16t9WnuNhVl1c0AW2/nuuGNLJi6XWRq9OZTsaiF0VUoA==;vHJzcNg+3sJxFR+kPUbvRA=="

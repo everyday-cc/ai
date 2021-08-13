@@ -27,59 +27,50 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
-    publishedDateTime: 2021-08-09T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+  - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
+    excerpt: "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute."
+    publishedDateTime: 2021-08-13T12:44:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
     images:
-      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
-        width: 750
-        height: 500
+      - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
+  - title: "How We Can Expect The Artificial Intelligence in Healthcare Market to Grow in The Future, Healthcare Industry Facts and Statistics-Market.Biz"
+    excerpt: "Have you ever wondered how big the Artificial Intelligence in Healthcare industry is? The growing demand for Artificial Intelligence in Healthcare Market and new technologies are changing the pharmaceutical industry."
+    publishedDateTime: 2021-08-09T04:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-we-can-expect-the-artificial-intelligence-in-healthcare-market-to-grow-in-the-future-healthcare-industry-facts-and-statistics-market-biz"
     type: article
     provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
     images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2021-08-10T02:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
+  - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
+    excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
+    publishedDateTime: 2021-08-11T09:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-voice-recognition-d8530f8f3cfb460196f97e4e08cb87e0"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
-    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-13T11:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
 
 secured: "fY+OSaYaq+Q5DYfwBa/1h3MgNS6XfJ0rbKhtGPvHG6eBTFDvqj4RhfHTDz6BO+Ag1qvVDs0BnANfsrU7xY/Ri2ZazCLdIFduwVkHeONbSIbgUPLTSXMwzRLminb9pWUvAsbnc/5cymxLndbQP/6rVnKNrQaSAWmfLQjZvQoCcwlz3rv07p6i1ttElhZX4no0kXl8zqAF0P65dMKskeaZK4sbsSfP8F75L03ceeMJqaYUu/rEAXDviPNaCZmuhA174DNjsms4/7EhSR3CZmIs7e9AiAjez/tSOnknyrORzdoFMbb+Ar4EWPulG2eLhhbtTWKrh7KYpg4Cjqd22zEzVVbkTFvl8/BsG8Yn78hPjTE=;Svz5L/hdtN3CGkCB3gkAOg=="
 ---

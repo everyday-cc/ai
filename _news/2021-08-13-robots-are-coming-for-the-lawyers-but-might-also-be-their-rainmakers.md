@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming
 webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/16x9/iStock_1191080384.61128f120ee22.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Robots are coming for the lawyers"
+    excerpt: "And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
+    publishedDateTime: 2021-08-10T20:00:00Z
+    webUrl: "https://www.fastcompany.com/90664648/robots-are-coming-for-the-lawyers"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-90664648-robots-are-coming-for-the-lawyers.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
     excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."

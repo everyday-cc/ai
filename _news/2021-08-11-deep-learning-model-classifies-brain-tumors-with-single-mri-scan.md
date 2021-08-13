@@ -2,26 +2,28 @@
 category: news
 title: "Deep learning model classifies brain tumors with single MRI scan"
 excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-publishedDateTime: 2021-08-11T14:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/924825"
-webUrl: "https://www.eurekalert.org/news-releases/924825"
+publishedDateTime: 2021-08-11T14:20:00Z
+originalUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
-    width: 274
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
+    width: 1721
+    height: 1881
     isCached: true
 
 related:
@@ -97,6 +99,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TYnpDULwwyF27Fw7ZAZWdUh+nXmdw0RrWEchcEwdvZb0P/jAxV0vmxBLfpb3d6zLsNhfjAKVap0t2emV0NenTGsko9KrULPa7sjISFJ8k/c+uYCWruAhY6shhlr8gvBM2HYtR77x+5S1cv54//+56GVlHmr18IbdjWMqA6rtsWuEAIHQDSJJVQs+H4l8I9Rm/jrQ8r2W5XnxFj/C8O9gQFX0a25OXUoXpyz0ppe53bozDmYV7okazZtABt417cCMIuNhw9D6l2M8sR81gKA5T3U/V3qs32BNrbBldn6KsL42yd+OWmdFvZ+t3/f/w6RFNTUUDzvdCono/JvatuS0y2Whli9ayfpdN/eN1hV3FfA=;ya6CXSvSFi5QgowtgVNaQw=="
+secured: "eLT0ftAZ8ZtlQRKXbNd4t5qc/bNDAYvlb5XroDozFcFnw7oXQ00ihpupxQP35o18yFmgGuxfGodliOaaR8DMr+RgOXqr2jLRQBBok8Kr2JGJ/NJXISls3NSem1sAV6ROp3z2H5YAaUEGJFd4smJ4Jgu8jOv09Jhqrz7hc/TN7Kq6uIbWa0gNoVoiXH4FrDysjPGNA4RPFL5C0FT1VXjaRZGzQ/1pIM4BL1r8ysIAJxdr1q0774tTOAa/9uLAWIg/R+FnNVJOmpt7fupux83+xm7w3fw33UtP56FOnn8Mt1Zuedts+D8cf4q5OppNiEhfs2n2QJeUJd/dnSLQxJetwvuqvwL4niwNOlADVJKXVWQ=;vXZS9HI1iBXxI3rl/MQF4Q=="
 ---
 

@@ -35,6 +35,31 @@ related:
         width: 548
         height: 308
         isCached: true
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "Deep Learning in Manufacturing Market Size and Forecast 2021-2027: Xilinx, Micron Technology, Qualcomm"
+    excerpt: "Latest survey on Deep Learning in Manufacturing Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Deep Learning in Manufacturing The study is a mix of quantitative market stats and qualitative analytical information to"
+    publishedDateTime: 2021-08-13T12:16:00Z
+    webUrl: "https://www.openpr.com/news/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "p08KKki9JAdKwwTHSETq/QjETyYP+Ixo2kJnnuMTJCxNQPywz/2Vggfx8E4wQFUqZliAges5uMafy85Keo8L9BiRcRxDHS+ep1zDl+C4UK89kSFpAeToIp3x+xEortghqZwMM5mXrOQn0lO2O0evNTblmIBVNQwYNio0ff1zqxZwbqxaTWOJlK8OBxh+FIzohknsMWRftXjSmj+qGB/5XX0DKRoVWvqNvdLHAUUXuB8RPdClJm9NoXaexRT2j4JPfQn4sr3Gtkczu55F0cSO3Ur07bkX17poKRfY/e3H/5XqfYmbxcV6XTD5EJ2Ns/81ixKLM++3kOMFFIl/8T6nIJiow+cQ+H5dWHzxC6dlTAg=;Ez8e5ugVS9hYI8wG7IqgMQ=="
 ---

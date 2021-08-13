@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Assessing AI Security Solutions: Questions to Ask"
+    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
+    publishedDateTime: 2021-08-13T13:24:00Z
+    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
+    images:
+      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
     excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
     publishedDateTime: 2021-08-09T17:20:00Z
