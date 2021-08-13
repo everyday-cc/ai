@@ -26,6 +26,22 @@ images:
     height: 697
     isCached: true
 
+related:
+  - title: "NYPD’s $159M ‘surveillance slush fund’ used to buy facial recognition software, x-ray vans"
+    excerpt: "Since 2007, the NYPD spent at least $159 million on surveillance through a Special Expenses Fund which did not require city council approval."
+    publishedDateTime: 2021-08-13T19:37:00Z
+    webUrl: "https://www.biometricupdate.com/202108/nypds-159m-surveillance-slush-fund-used-to-buy-facial-recognition-software-x-ray-vans"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/09/07150137/NYPD-security-surveillance-camera.jpg"
+        width: 1400
+        height: 931
+        isCached: true
+
 secured: "hqm6l3GqmstOMA/JuzBWZF1X3iNS410VtzBP9mi4TypufcptX5EZAYyLGwCFbCNtWorKq9M5C0+A9TXg8yNX8RBeX7/f4TLHiug9ExHhtZLnIKemPDBb4cSGkvByskCYspI6t0N+DSRmO+hrRmv6ttSz/NPNA7Rd9KkDliMhAldMSdw7xLhZJJN8n9w1DZuzDI0usEB0HrHYalsQKVJPuaLKlLBky3QDUgqREoVADw1wk8olMyr4nrFmgk2yLa18h5vcReJDcZ2j/euQS5lMjY2GKyLrHl9M1kGvrn4QgJ0O/kZEAClTLN3hzvlR0UWXVHxwRhCbSlpqFiRtTU3OdZKIIRRwOouuYnRV23HIl3XG+BVCgKNjeRVW7X40t80+aufUWY9RtyLgWQnbbSbM/WInxYl4UYN4925tp6ulaSYMdRciWN8rXtkHs3sYUWZ3+KXhTDZK0Sy2MZ7TWg6kyh/G3qTvtYaj81LhvsT6Q84fqpUqXmP1ZMgjb2Of3khglGY3P3fJdNJnyDzdnd+t0A==;21wN1YeXKhx9CzywuUtaFw=="
 ---
 

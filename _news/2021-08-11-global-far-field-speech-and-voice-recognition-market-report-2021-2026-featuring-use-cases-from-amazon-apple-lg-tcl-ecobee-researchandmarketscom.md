@@ -57,20 +57,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "How We Can Expect The Artificial Intelligence in Healthcare Market to Grow in The Future, Healthcare Industry Facts and Statistics-Market.Biz"
-    excerpt: "Have you ever wondered how big the Artificial Intelligence in Healthcare industry is? The growing demand for Artificial Intelligence in Healthcare Market and new technologies are changing the pharmaceutical industry."
-    publishedDateTime: 2021-08-09T04:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-we-can-expect-the-artificial-intelligence-in-healthcare-market-to-grow-in-the-future-healthcare-industry-facts-and-statistics-market-biz"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "GM4J0QMS52msQClcE3Jo1G0Q3rk92wQPjDkZwxJVMbByAxqp9c4KDUOugTBGYLN6GpBgVk589Mj6SPLA5AyTmhyAgngdYmJiwADPq24gXHRIb8eCxQ2oTfVU8lPUrk//1zo2wJTps0wJ+0/jkF0AIv3XXjz+59SjnkyiWvb+FfouKuSVxVagecdgCeaA4YPUhb/4XPxW6NAMlkmzhenarNwSvj9PYIZJNV5uYq8W/w80Qk+MXwCqqcN8/cQZ22IaWlsGauejQnRHc228PVNZPXcKZOSWftqnBOdAcs6PDk0k2+i7VGFQqxLbfn1cx0mXQ+8Ihg/XTwOTP060QCWHe1RYtyE8DTgRHNyPAsdHRjM=;x3/m78qlWJpMuZpZD7aodw=="
 ---

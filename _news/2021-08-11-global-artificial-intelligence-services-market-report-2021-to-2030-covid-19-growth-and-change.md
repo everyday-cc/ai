@@ -25,19 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI services market to hit $50B by 2025"
-    excerpt: "The global AI services market is expected reach US$50 billion by 2025, which will make it the fastest growing AI subsegment over a five-year period."
-    publishedDateTime: 2021-08-09T03:24:00Z
-    webUrl: "https://www.reseller.co.nz/article/690369/global-ai-services-market-hit-50b-by-2025/"
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/artificial_intelligence_tablet_brain_smallernowhiteline.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hybrid Voice Recognition System Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
+    excerpt: "Hybrid Voice Recognition System Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Hybrid Voice Recognition Sys"
+    publishedDateTime: 2021-08-10T06:15:00Z
+    webUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
+    ampWebUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 28
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//ict-media-market-10.jpg"
         width: 800
-        height: 501
+        height: 400
+        isCached: true
+  - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables, 76 - Figures, 188 - Pages) In 2020,"
+    publishedDateTime: 2021-08-13T11:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728956"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
+  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://www.lelezard.com/en/news-19948480.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
 
 secured: "f34XTJiWZT4bfMzCRgdFQXjCRIyt3WPE1yU2qRjFHDCDDVoHW241yFnSv6JcjMR2xvLU+1Q1vCOq58n+dJ298t59JUZMurlFcPYIEoDba5F0fy0RLJEjPwTp0+oIpMHLrQ92bFT5DG+oTLNJmq1D/WE9Nzih8JsKuaxSvfGFpNJNaeffcHG4d0T9oEXhXkgVE08WJG79b8bavQ4h3w2HER9ojeLgf9KMLM0+Unx1YOTy8H2SBDQB20JLWNV40bk66IfYxPeXdh7tQYIJhLhYoxTMHG6mVTdYScjDzsXZUBRiheBpkddVqnrpEN65fF+kDOLXkp1VqsIkQAABldTP9oB2rQpjHy1eVmhp65AatwRfJy7K5S1lYIcoiPNCz+S+zk1+18+jGGBdw7gkuyVjCu6+0f7qv9Ggg2L3WyigBLXmaSfdoXEJewuSlflnFobBK23w6KG129zBQK4yB4/sA2nZ471ZauALdpZyPBfKa7KC8p+bSXdJDEj1W9D4/CzZtmAFEkH8/xjEnwU+DQllPA==;9eCH1D+SiOvv71ni6EP8qA=="

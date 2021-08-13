@@ -43,20 +43,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How We Can Expect The Artificial Intelligence in Healthcare Market to Grow in The Future, Healthcare Industry Facts and Statistics-Market.Biz"
-    excerpt: "Have you ever wondered how big the Artificial Intelligence in Healthcare industry is? The growing demand for Artificial Intelligence in Healthcare Market and new technologies are changing the pharmaceutical industry."
-    publishedDateTime: 2021-08-09T04:51:00Z
-    webUrl: "https://www.digitaljournal.com/pr/how-we-can-expect-the-artificial-intelligence-in-healthcare-market-to-grow-in-the-future-healthcare-industry-facts-and-statistics-market-biz"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
     excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
     publishedDateTime: 2021-08-11T09:01:00Z

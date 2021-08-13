@@ -33,6 +33,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Deep Learning Chip Market"
+    excerpt: "The Global Deep Learning Chip Market research report caters to the need for an industry-wide and economically updated research report for businesses that have the potential to offer lucrative data ..."
+    publishedDateTime: 2021-08-12T12:13:00Z
+    webUrl: "https://www.openpr.com/news/2353589/deep-learning-chip-market-size-business-opportunities"
+    ampWebUrl: "https://www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812543278_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Abacus.AI debuts industry-first platform for building, training and running deep learning models"
     excerpt: "Abacus.AI debuts industry-first platform for building, training and running deep learning models - SiliconANGLE"
     publishedDateTime: 2021-08-13T16:14:00Z

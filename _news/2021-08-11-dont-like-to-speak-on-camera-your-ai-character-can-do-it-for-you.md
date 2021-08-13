@@ -3,8 +3,8 @@ category: news
 title: "Don't like to speak on camera? Your AI character can do it for you"
 excerpt: "Tonya Hall talks to Natalie Monbiot, head of strategy at Hour One, about how synthetic AI characters based on humans could save businesses plenty of time but also create some ethical issues."
 publishedDateTime: 2021-08-11T12:04:00Z
-originalUrl: "https://www.zdnet.com/index.php/recent/index.php/video/dont-like-to-speak-on-camera-your-ai-character-can-do-it-for-you/"
-webUrl: "https://www.zdnet.com/index.php/recent/index.php/video/dont-like-to-speak-on-camera-your-ai-character-can-do-it-for-you/"
+originalUrl: "https://www.zdnet.com/index.php/video/dont-like-to-speak-on-camera-your-ai-character-can-do-it-for-you/"
+webUrl: "https://www.zdnet.com/index.php/video/dont-like-to-speak-on-camera-your-ai-character-can-do-it-for-you/"
 type: article
 quality: 67
 heat: -1
@@ -61,6 +61,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "/+FjdQXUa7okOVesyNzjPQMouLALcjCkFYeZGQQV3dxBBHi3tkqQxlmxa4AN7CZ+EugaqNNVokzF/QTD+RrWQHCLts7ZxVYvSCUS+tPoBrb9RWa/qHKdEnD5M+fvJkCJGsWuoAL7AcgyLPqbb/eYXM5RIpmEHZAjo/ereQz1XwKLH6ae8TeDFWpcuXXiCfr4THFYtX9Kpv/avQLoMcaS6UHxQt5o0eIefCUWNx1Gv/BzHRkfMu1bx0FXch0+cJJ9c9GEJBZSCR/8zpf6qv84mukEnlRN35VCOUguhX8XQRGa+AhSwQ0qQk2jGQKMqQGBCnf+Npm1UFlvSEDBO7wB26EE9LQsDS2d98Z0AJnsToSJM/2WHUgna21U5CMssuVe45nWWqMTvT/nkhbKooyK0INgo8GqbRkHIZZT5ZLcl4nPlfA8S3jv6rAjVFa0CqhJ5idQTetmkgHnJ21C2y8uAjLi3ln932ulXjKcCNUmvhtrSyZ+Tk8I3GI7PyOkWafYK0GS20rCSAFhmzfroH8O5g==;ywbEPs+gW1eKdmLNQO+Q7Q=="
+secured: "MgqOXaa38YSX/HsN/AhsNYSheAG/28gp3+1+XNxtOU84PEzKvhDO9L1jOvAPBu0amb8oVbv2gHjFX9iX4eLdals+bkGigGY4is7YIdAzVV/47xi9UmckGSA7VfyuyFxOProKZ2Ur8IIk00SH0AO6MJPvIzlSj0PCbvoS7MaW3L2ns0t5fV+HYk9cSr1fpH0ear69Cr8jvco+V646ayg3ah4jFXFmC107Z7nB4nwdzKGdcnXOMxMOJVVY9HwbLA5evmyMB3DzBrt1COCOZEzeAXHLAYno9qFgNeY3VXaerfS/1nge1PoS3Um5V1pd3dV2vZfNenQiLZgJXElg9udqjTx7wj8sfxGwL36E4IIbJOs=;XCxHczS20z64MroLUDrkWA=="
 ---
 

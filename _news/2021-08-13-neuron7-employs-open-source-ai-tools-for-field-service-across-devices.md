@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

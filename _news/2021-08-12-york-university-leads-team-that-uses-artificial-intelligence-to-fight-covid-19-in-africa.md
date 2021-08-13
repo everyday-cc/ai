@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "DABUS: South Africa approved the world’s first AI-invented patent"
-    excerpt: "At first glance, a recently granted South African patent to DABUS, relating to a “food container based on fractal geometry” seems fairly mundane. On closer inspection, the patent is anything but mundane."
-    publishedDateTime: 2021-08-09T05:00:00Z
-    webUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/"
-    ampWebUrl: "https://citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
-    cdnAmpWebUrl: "https://citizen-co-za.cdn.ampproject.org/c/s/citizen.co.za/lifestyle/technology/2588709/dabus-south-africa-approved-the-worlds-first-ai-invented-patent/amp/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://citizen.co.za/wp-content/uploads/2021/08/artificial-intelligence-AI-dabus-south-african-patent.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "In a world first, South Africa grants patent to an artificial intelligence system"
     excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. The innovation in question involves interlocking food containers"
     publishedDateTime: 2021-08-09T13:28:00Z

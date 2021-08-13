@@ -3,8 +3,8 @@ category: news
 title: "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?"
 excerpt: "It sounds like the opening to a classic joke: \"A cancer survivor, a scientist, and a doctor walk into a bar,\" but instead it's a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer."
 publishedDateTime: 2021-08-11T14:26:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428892.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/11/9428892.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-humor-laughter-ai-reduce-stress-women-living-with-/2021/08/11/9428892.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-humor-laughter-ai-reduce-stress-women-living-with-/2021/08/11/9428892.htm"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 270
     isCached: true
 
-secured: "0ZvrMOAK7GfSvTZxcBpWvGVGBCzSWdy9TgmsSigi+DSS9MDLMokIWug93x1mZX8atfbhGpLiPQCd5jYNJwbHg1pubH1flmaI6WRBHLo0eZlYdJmHwRWiBregtCwmaHUTX6hiagRMTub4gIuO2KwlUxZpmlVg9b+cc5AVN5oqYRyB/oCJFrGsBiRy0uyfS2i7UfUTw7XpOzGeZfu38PZu69qqdorYFZ7/00CqoBNOcmBeSFRt4Qlb9o8NyrSmQBfO2QlsqMo5hzSm2gnqdr7OEy1MRcr6juYkV9Ijka0mzcxN8283K4VDtvRy0rFfitdSkLCdK8GcdenL54JgW19gQTvq9fcXXN1JR4dveqgnb+g=;SE8mRFxPpuWjl9/oJh3Yvw=="
+secured: "hhfwYsKgUE/OguMr6G5rfpeIjSVLqGCYUFjhuatz1/Y1973i4All0UbH9UrBcO95h8ZBsJ9HpHN/cs0C+XcjH3nXM5W6YA1hiZwk3Z6m5U5le/U6RgB0AOJInDQYj94z6hrZgzq/jDplAENTcppEk8+r2kn6pAeqo9rm4n8NQZe5K6k7criKbKq4G9yIpTCsPOHqAuS99rULMtImxvik98GWTXLphaocYZpkfL2rc1xE47j2esj0bD8d2PNZX+D2EkIMQvzMEO/p9AOD/aYJ3EDPY04hQF2OqHG5d2+iFjt2H+pxbwk14AJlj2+wcBXwjpfHClVA6lNMP34O/8xXsgKY5VIyZa1zurcoeXHywXc=;yxd/Xi3dTUka66P8u/m65g=="
 ---
 

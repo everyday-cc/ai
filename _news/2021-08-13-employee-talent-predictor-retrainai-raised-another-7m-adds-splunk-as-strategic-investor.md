@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/13/employee-talent-predictor-retrain-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/employee-talent-predictor-retrain-ai-raised-another-7m-adds-splunk-as-strategic-investor/amp/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:

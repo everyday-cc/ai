@@ -3,8 +3,8 @@ category: news
 title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
 excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social"
 publishedDateTime: 2021-08-13T16:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
 type: article
 quality: 45
 heat: -1
@@ -51,6 +51,6 @@ related:
         height: 480
         isCached: true
 
-secured: "1Y0r2+pCCZvFh5+iWfY/t5tGcNZ8QxfUAnQNgC2wDxCH0I21WV/cX9OYvEiIPh0K1YVfRIrvs9DAvRE91boTToaknKu6hzwKo7EF9yNQtGSdlask/jW/APHYNBE47k8s2Dl745B0yALTjowthNV1LKErzJjh7evR7WmI8yWLmekNoelaU/pcECbt7Xj6ox3LCTZWK6iSBtJkORvuxhswb0B9OMmEZoLMAqLbXEPI+W+ioJz8FLOOvMHETNZHcEs07gQmxNnQV3drAvAc5E3FJ+OihLB7tpttQBK4em7zPfAIKkQdSGjAmagK2q19IAr6jhQFNphgKwVGYeIkNeTZqVBlUQj582KLLoNZ32o3cLk=;WwNdzvY+i0NKkyiv/UvxJg=="
+secured: "uZqfWNOubxVVMKDlQNFO5Zuo/fkofUOghgBxLU6doSSayp2wQIfgACoBIyWp8ykFM+RVC0w/hIXU7scDaYsqKEne8Q0CYTGSL66muehPYEr37ufuvnqC34bVBZYli80n8JqBy6C2MyoIwTVs59IVDWB0NGp91uiG7qcI4q8JEOnq56hZPMPyQzZXaXZn7TCrT6gFDslVsiTD+/J1beRU6rQz3uVRNSynFIQ6/ug0An/Pd8g20BFCr1x0FcZXz7sSCAPv1dpemXpxZ7UEwN2ZvbOiZ6g1JmAItUyvyiQJlROG9nmDLkh7kb2ZYmcTgZPmrzIl3YU8WzQynuYjyNo6Zx76QJ7+UoQBV01MQHEq/kc=;HcbFrrhSXpdqhp5Ud+nptQ=="
 ---
 

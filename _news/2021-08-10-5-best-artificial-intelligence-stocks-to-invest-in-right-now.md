@@ -1,12 +1,12 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
-publishedDateTime: 2021-08-10T13:58:00Z
+excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
+publishedDateTime: 2021-08-10T14:20:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -122,6 +121,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "Ka8NJ6iitauOm8siKzYqlXpZ2k0/STdglfADtw8Mam30h7mrVtVIos9jx7NP+M0EXH0bZwLp5gBMATsvpQthYh7gApnwB+HO7F4Sp8h4d5ydsl2uZSiEQvFgwzLFkSSU99G3CmWMNY75u2G48tGx5DceQ6F3+vVFCAcrsiftRg4gF5w5KoOBBzOtIbaOBFNyD/0K7Dp6OGD9lTtZfOiC+3+rzehXbRL+W51GLU2ibDAn5P7QDvVU8/1eIrQ6cMj3IhoVaN9f/F/YoQ279DWUPS5Fmz+/EJQjLrDI3Y1YOpc11OjDz4qXRbt0XIzfKZJY/lkabMZNkXCgurdVIzv+9sXD5QSFjFpz3+ZcJFH1EDs=;vCKCKuoTi/vayooxf8Ao+w=="
+secured: "wUegaRnKoPtEp7CkogT6t9Fw3FLnVgPLAd/1I8o2Li+8UeNCChZHKeTKB8r3G19XddD9+Ok7j/eGw6g5JQ+Zt/Sg3i5DD3DoB7+1s580uX1du/vh7dFvfQ0Z8eFio1DbEXShbNBQ9Uh/Qsm8KuZrYl121XEKkU1onwUuPXfYJ1xhLQBG4tihA12NVrtFDfMdQ4Proi9IYaQmLTEj0+VZvtjPTTSw8B+O0QYFpxI9RP+mIvgrM8MMRTeTtf6KNNuZYI8JMX3/ZnwOpYsBzLpysUMzEhVTleSWND01JLCU3csQdZvwaApJcGmi+bvYCFL0xc4IwvSm3uVy38kXK4r6Av0jH83Dik9pF34hr3e5tiU=;B0Tqm7k0juqmzH39zEWg/A=="
 ---
 

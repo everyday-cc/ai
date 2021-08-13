@@ -42,7 +42,7 @@ related:
   - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
     excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social"
     publishedDateTime: 2021-08-13T16:51:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
     type: article
     provider:
       name: WFMZ-TV

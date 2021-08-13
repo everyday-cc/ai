@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Deep Learning Chip Market"
+    excerpt: "The Global Deep Learning Chip Market research report caters to the need for an industry-wide and economically updated research report for businesses that have the potential to offer lucrative data ..."
+    publishedDateTime: 2021-08-12T12:13:00Z
+    webUrl: "https://www.openpr.com/news/2353589/deep-learning-chip-market-size-business-opportunities"
+    ampWebUrl: "https://www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 76
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812543278_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Models, Learning, and Inference"
     excerpt: "This modern treatment of computer vision focuses on learning and inference in probabilistic models as a unifying theme. It shows how to use training data to learn the relationships between the observed image data and the aspects of the world that we wish ..."
     publishedDateTime: 2021-08-10T00:51:00Z

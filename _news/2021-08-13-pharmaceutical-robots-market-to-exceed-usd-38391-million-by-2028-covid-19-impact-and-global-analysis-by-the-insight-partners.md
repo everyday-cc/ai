@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-excerpt: "As per the latest The Insight Partners research report, \" Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
-publishedDateTime: 2021-08-13T11:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
+excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables, 76 - Figures, 188 - Pages) In 2020,"
+publishedDateTime: 2021-08-13T11:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728956"
+webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728956"
 type: article
-quality: 0
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -49,6 +53,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
+    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
+    publishedDateTime: 2021-08-11T16:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
     excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-08-12T08:59:00Z
@@ -64,6 +82,6 @@ related:
         height: 421
         isCached: true
 
-secured: "X/N1mLUwV7UeBIbwdIt7ozFkVoh1GUNBEuP8Y3k0O3V+jf1pzSIEIKV+PvQtFpBKehCh/WEOiN6zZHQl8NLfMtM15b/90g5wNP2dBjn37wWZQOkpYW6ok8wQQcG2HK7VxcfdEFn3zUyqvLOKWJiywhBfz95Zy/lnX4FO9/RNa36Yb0h9RCmKelE67qDLd3qyHxtFPB4og0IFkxADz9hw1PEPuxEddXspkkXuT8bdbfD4ghaCwOIOjhb0tgkn1QorGjer0gmK/FNuD9dy8WBPhr2nt+1XhuF7Rrm7gNpMDWmftXa7w/EdOHQbd5D+zYzlx/ujUF8327ggmQ2u1NN21k32V6IWC4EzKwFFJldCP/THDWkKiNzoS5fqxThxhs7xPOJL267nMISmpPvx7gd1hrhRufX9p/fIEM/ZHRwlfHSQzDT0z8L0ncWzNkhDm9aAc73y1dltPfCU6Ynar8fdyZmLZ25BsmrrrRzKlE0TJ7Azk3ZfmmJrFmvB5JdSgTmsGOr68QVVD47pQmK229M0pQ==;RiMwQChd81shqAlv9MpgCw=="
+secured: "gpw4rIWl4xPPu1SWp0UcCOHOHgp0jnhPIG/FyTd3fNVmY50OgF5dr1yFK0stesdZYA79ICG/X1XMFRctJ+78MYfIfuYjev+EcFtsn63znLjQgAZOoG7EinnatX8kYrylnQ6R9G39ivwoExGmqwInHJ2a4EjbDg69wYl5j/OXV+WrkJdQAIDLBkixF9flvORTZl1KeJhiYoz89d6TGFCClU1OiuwjstUZotErUq58dFLNF3/F0Ydk9mmCFw9BPIjbou/sJiOvGjAKHUXHw1CPSYaaeue8CKQf48pRSswo0TogbJp1597EzDA0pxLLx9lIrCapHO20wjTjT8aNoQe3IHaKdmgSr4bcYFUceZZM/mVEPKbzdLqMQZpwhK+jbWIwnWkiaVRf4954E68d2I0/u6kzg5uxXaM6xmxls5hp9d0l9jKmVZhxpkaXI4IhAOId2p/nIf2hEB3KAt3uHG8qCH/yGlYZc541UkOSP3e1fEe3Bjsas7nktzQJHcm4iwo3qv5r24kacX7y1IzTwhrl0g==;AhA3einsCT3cbZ15UnMlSA=="
 ---
 

@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "What’s making Internet Advertising Market Constantly Grow Its Valuation at Steady Rate || Top Players - Alphabet Inc. ,Facebook, Inc. ,Baidu, Inc."
+    excerpt: "Strategic Points Covered in Table of Content of Internet Advertising Market: Chapter 1: Introduction, market driving force product Objective of Study and Research Scope the Internet Advertising ..."
+    publishedDateTime: 2021-08-12T18:53:00Z
+    webUrl: "https://www.openpr.com/news/2354105/what-s-making-internet-advertising-market-constantly-grow"
+    ampWebUrl: "https://www.openpr.com/amp/2354105/what-s-making-internet-advertising-market-constantly-grow"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354105/what-s-making-internet-advertising-market-constantly-grow"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 1
   - title: "VC Daily: Facebook's Giphy Deal Faces Competition Concerns; Reddit Valuation Soars to $10 Billion; Question of the Week"
     excerpt: "Top News Competition concerns. U.K. antitrust officials said they could call on Facebook Inc. to unwind its acquisition of Giphy, a provider of popular animated images, after provisionally finding that the deal would harm competition between social-media platforms and in the display advertising market,"
     publishedDateTime: 2021-08-13T08:52:00Z
