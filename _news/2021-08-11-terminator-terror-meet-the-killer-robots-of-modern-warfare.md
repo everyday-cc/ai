@@ -9,8 +9,8 @@ ampWebUrl: "https://vestnikkavkaza.net/amp/144222"
 cdnAmpWebUrl: "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Vestnik Kavkaza
@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
-    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
-    publishedDateTime: 2021-08-12T02:12:00Z
-    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 25
 
 secured: "T3iY163o4xk+OIAb5bVFQpbAUhJlBQjGj0gcQB81KrK9YUKbkQpvPdlAXYFqcpup5il4r+TCbdTWJsNkm8sycNZ46js5i+DzcK1daf/Noz4tJwUNTU7MUGfhIE7EiSnsTNAnbAJ5g/Ce7cAgzWDzRk9Yhgx57o4csblZgBV2LfFM084633mGeWgfqDhkMIxDqukpzWz34wokUqQ1xGgCNHZn89BSI8U0aiOfjpWFhOZoWQV0Y5PxKIiZ/x7EMraQ4BB6XuM4D8gy486wR+jCsgd5MVrjd3G/9rUBbA3OKJCrY8IXPlFEVjI14fm3FALiQMUlDIDKu8qR5KJboye2BovI5tpD3/UYsFCjDTFSC2GDavg8U3kM5YtgWz45HMpQF4v5l9hk6vhZ9jqt1APPjOb2nUWsVZjGs0aM9L0/XMqmv5m7STfYUF6jWwqD33JhCA3/b7irOA7c7CQgm1B3sbaVjlvSo2Wu7GuuX5oHWkRsCrpob+lUgO7pGF7KaCqn0RLyTQnxAuzSXVEYDkh04w==;ZhmMRw9Rw7vXJEXVaExDPQ=="
 ---

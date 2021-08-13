@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI bias is prevalent but preventable — here’s how to root it out"
-    excerpt: "A number of framework and toolkit resources are available to help you identify and mitigate bias in your AI applications."
-    publishedDateTime: 2021-08-08T15:40:00Z
-    webUrl: "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/"
-    ampWebUrl: "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/"
+  - title: "How to Build Accountability into Your AI"
+    excerpt: "It’s not easy to know how to manage and deploy AI systems responsibly today. But the U.S. Government Accountability Office has recently developed the federal government’s first framework to help assure accountability and responsible use of AI systems."
+    publishedDateTime: 2021-08-11T12:25:00Z
+    webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai"
+    ampWebUrl: "https://hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all"
-        width: 1024
-        height: 768
+      - url: "https://hbr.org/resources/images/article_assets/2021/08/Aug21_11_589006098.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "How conversational AI can help banks grow"
+    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
+    publishedDateTime: 2021-08-09T09:49:00Z
+    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 54
+    images:
+      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
+        width: 2560
+        height: 1223
+        isCached: true
+  - title: "How new AI tech can help advisors chart client data and trends"
+    excerpt: "Marble Financial of Vancouver is offering financial advisors a Canadian-made app that it developed with AI technology on a fintech platform that can help their clients improve their personal financial fitness,"
+    publishedDateTime: 2021-08-10T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/how-new-ai-tech-can-help-advisors-chart-client-data-and-trends/358779"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0348_637641596063135360.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "JPSl+vg3U9ifM7zf/Z3elPcpWFR9ZYwjcFx+XfCy6gQNdY0Ye/+HbAfwPvsHOXmlrOL3MtN+qdgQZmzGSAOEplnRMrgDxBSdBRVg4UACa+BPWo7mnqKdTA2mdym4wKZmOOgxFoSKxRjwFBscvLwMWk1xnGEh4DYb22/ig7jKFSZa53XIGUsFI78Tj1xMQGORh7HRIVM0IfryiPzT/QvLCLsGd3VUq7XpodsxmWeQHFhpWuH5GX2DF0uGzyygJt6Ey7aO5Yti/yx5wB/LjG24X/aym4E40uUGQbWTN1Mbtp8+IiX5jq15LCWoddNQG1kMcYZHRp4GVM5M8Lff3i9KFwZ2JnCh+SwRqMv6odj2J4zpqZOvHXRYVmtUJJ4/4qp/bgi5Ydrfyb4ZepjqZXD1wt/FXeVo0hZJpt0Nb0EBVEpNCMOuxx2JWuf9Q5iLJnDD/TcA3TncdLOgL3zSq2zHZmi3iZgiLoQ4YsbwY9Z4NPyh9zTOTaT4U5DhUGq759FFOTYEiS/ljZMzrUv9//TpQQ==;sbjZTtviEFbIRaNN66q9Fw=="

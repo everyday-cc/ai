@@ -191,6 +191,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "The data ethics of Open Banking"
+    excerpt: "We all know that financial data is among the most personal and sensitive information you can have on an individual. This is why the rules governing Open Banking were painstakingly crafted to ensure that informed consent was always secured from users and  those handling data adhered to stringent data governance procedures."
+    publishedDateTime: 2021-08-13T09:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/20735/the-data-ethics-of-open-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "fvV8SYipKqFkHfAlEXqQo+op95lXh3K/Z28VuH7GS4QJgVmDwFB6f3xZkdHBE1ZLbHhp6j9Fcb+WqP4qMhOTIDzttK3ejLVPhsPx4lNXW6lX43yAiWAbz5aipE22qn/JFwfc4xAgcL5Q7hPQWRe8z2ffPFqHtiUXo6RLzgv51Mj24Iv573ngiy5JMPYECdG/3qNVbC97ZAN0LlzhMuTUUnv84yYzNAdQW1p1BnCO+og6n04U96Hp3car076oYUj/36GRsEMtE8ZyTje7iNoG0XJ9JPGNBPrFLXtrT5Bh3TgK72NrBP+J2aWjqQjg8960HJiPgd/EaH0xVOn99KPC7LZsn4n439Wf9bXVZMfc8ylZNo6x+JorhA6OgaSDzfkrlLLviYXKnJKUlrMfppAJfDJCOb7OZu5TAlAwK+3ybaX0zfCsQsakNAtF9KRF3ulEBahqsUHr33yEsnU/cOkTHGnVheqCzUzEQn2IS/KDpkFiA9LUQJt9TfnTx0ORz0ryOAgfAHtwQxVnny6ghL+csg==;sSxwSfUk1/0chhWs15ijtw=="
 ---

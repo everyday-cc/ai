@@ -83,6 +83,17 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-08-13T05:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
   - title: "Insights on the $770 Million Artificial Intelligence Services Global Market to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com"
     excerpt: "The “Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence services market."
     publishedDateTime: 2021-08-11T13:56:00Z

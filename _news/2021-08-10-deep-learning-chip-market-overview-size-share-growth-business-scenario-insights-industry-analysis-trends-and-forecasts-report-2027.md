@@ -74,6 +74,17 @@ related:
         width: 390
         height: 210
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-08-13T05:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
   - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
     excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
     publishedDateTime: 2021-08-11T16:36:00Z

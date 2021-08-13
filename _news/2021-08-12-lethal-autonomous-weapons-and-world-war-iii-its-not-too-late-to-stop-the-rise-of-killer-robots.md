@@ -21,37 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Terminator Terror. Meet the ‘killer robots’ of modern warfare"
-    excerpt: "Awful vision of the future' While some see developing AI-based weapons as a necessary step for a modern military, some critics are deeply concerned by the technology. AI is already used in lots of beneficial ways,"
-    publishedDateTime: 2021-08-11T09:28:00Z
-    webUrl: "https://vestnikkavkaza.net/material/144222"
-    ampWebUrl: "https://vestnikkavkaza.net/amp/144222"
-    cdnAmpWebUrl: "https://vestnikkavkaza-net.cdn.ampproject.org/c/s/vestnikkavkaza.net/amp/144222"
+  - title: "It’s not too late to stop the killer robot uprising"
+    excerpt: "Around 50 countries are meeting at the UN offices in Geneva this week in an latest attempt to create a treaty preventing the proliferation of killer devices"
+    publishedDateTime: 2021-08-13T08:37:00Z
+    webUrl: "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication"
     type: article
     provider:
-      name: Vestnik Kavkaza
-      domain: vestnikkavkaza.net
-    quality: 59
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
     images:
-      - url: "https://vestnikkavkaza.net/upload2/fnorm/2021-08-11/162867108361138c6b7f5318.27006421.jpg"
-        width: 360
-        height: 203
-        isCached: true
-  - title: "Meet the ‘killer robots’ of modern warfare from AI-powered suicide drones to machine guns that choose their own targets"
-    excerpt: "AS a soldier runs from the battlefield, he’s spotted by a suicide drone loitering in the sky overhead. The killing machine dives down on its target and explodes in a kamikaze attack –"
-    publishedDateTime: 2021-08-10T14:44:00Z
-    webUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/"
-    ampWebUrl: "https://www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
-    cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/news/3445643/killer-robots-drones-ai-suicide/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: the-sun.com
-    quality: 50
-    images:
-      - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/08/COMP-SKC-ROBOTS.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FRobots1.jpg&signature=a81ea837aee499aa6ecd3018e5629de8"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "QOYrB8NTN5tUK2cMZQRJX1qVKrF9wn5Bc+D4nS++crwYJE8jDdRIZWso1uwV9j9P5Tb7qcaoUCC72Ia2l1FCOk/CA8bpEoCmXLyA4NP4MCnxO3Q0dLvvatfof7sK8ddSZOZs8qmALNWtWiCKLzcljbWEzcuCbz+8apB9CjA3NhP6eQbtPSIFKCysww3J9NXc3GmqkkqLUFBQIywjBOE1pcIWLfy1Gaj1PUNppyGO24GY+S1svyKzc4Klbjt4DrOQBQhgIBJ1KhCdtSBtNJ/vyp4b5nnMh07vMED7/x3hiHM2BDu8Rh1K6hdQgQ1qOgCGyh3SSW52wrYhUWjJx1U8XUxntJ1NPlMWOSxddAUb1eHwBy4Mi7LneuG3n3aRBfqDHHIoqa2vv1YDp6/bHatUNwkVqeztQ1yPA89AcI6Kqe0GG5h81Fk3Lsv35naiq79CwqfNAe2hZ8BRO//I5Wpym00UzFPYoNSMkhahp2bS7EzTSVwhEYDHYLxv599do6NbL6qQX83Wkx7cGeqyd04CGQ==;e00XHIADFYryRmNp8QaHKA=="

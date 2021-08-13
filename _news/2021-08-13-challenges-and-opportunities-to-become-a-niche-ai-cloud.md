@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-13T06:38:00Z
 originalUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/challenges-and-opportunities-to-become-a-niche-ai-​​cloud/"
 webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/challenges-and-opportunities-to-become-a-niche-ai-​​cloud/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://fintechzoom.com/wp-content/uploads/2021/08/lambda-labs-logo-2.jpg"
@@ -70,6 +72,6 @@ related:
         height: 477
         isCached: true
 
-secured: "5ZNzQ6yQQdquuIBKlcNM73AzlmS7QnzFi6iaQS/J1Yq2YV7UkiRbFm9X5qt444vfOwmJrHLul64f55xVZdwef0Uf5iV4sFcbmzZ7ZnZaqauOt9whuNex3P+Dge4i6gcTq7R2Yt/Xglv3JkVOriPhIZgOtsSlKqGgQut5AcQySnpbQV1QjApmazrkWYGVI0Yk5Yw4TsTpY5ZCJurejvJEVYMXHdqTaDoVYQd3k14cI9VON9UHQWzJIs6YXbL8T3aMvVX7tzwvc4J1qtC+x31QTI+diDBeDVUmmUYW+98nvTxUap31O7S/Moe9zNkMNEYD7YhsKhidbXGjwYlxOiAbqVL8eYvJKXnuBf8sExXv6eo=;+eq5JNBVV4/Vmfm0MfgkrQ=="
+secured: "BfHmVSUMqLo1qUPxQt12eiqASgRxAz9OcIoZu1VG1x3dt2COu5WBO+dbSKWmxpnXefv033bBnNvxokh6aPxddWctN2KrxpQKYoJdpqT/mno2Xnne/7PedNyaj7B7mZcsEtB/uCJCCstBTRMDu8Ee+SX8tLDrRBwq5A4f4lKdpBmonOx1zDpLJ34Y5Yh29xxILIp1arVEvzf8MyCnIJ8oAiAA2WSi4AgGkwjv55at2tx6GndQnDD6U1snfI5xIVVH/h11PvrFkXJEJd06xG0nrCPOPKywVbZepm2IoTYlqMaaF3cTy7RUx73pU/UMAgxQ8onW5mqhQe1ouiL31NVRVHQ8p6WudWNy1x/c10lapOCYQluusdwv6s7FK/sqnBIClDvsz3q1Fs90Y9crVC0xwVkyKghPSLsN8yhAau3UNyQGuTOTSuBs9VgJCusbU1YVorAjeubCoTKx8KQhMNW1FGpc9WW11YkfiN/c72WsWN0/bDUUEBgahVDwNdGnYYIcR5NhcXnoAIoElT26KzMcHg==;0tK+P4IYn1w9a1UGGiJWnA=="
 ---
 

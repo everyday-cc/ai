@@ -95,11 +95,11 @@ related:
         height: 587
         isCached: true
   - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
-    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
     publishedDateTime: 2021-08-13T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482549"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482549"
     type: article
     provider:
       name: Benzinga.com
@@ -190,6 +190,6 @@ related:
         height: 355
         isCached: true
 
-secured: "eKH7G18+yVK5+tbnA/F1mDZpCxFbEE4QVl0SDJ0vJc3QFJo0WdI7K7mlhIgRGik66R9dnUY+qIfCnfnHlhTmbocInm5iMj0j2UnD4g31fBO4gZHhSU0PyATa9QwzVzzrbLMcNoUgXyeVzoJrbi2iVROLI9BELpyDOIZpuPpG2pEe3YKfzTOY+WvyHpOwVj+J3QhOlUgSEJy4qaXabTqE4M1yfTCN3zyQeKvg9joBZ+q8jMcz1GqVSaMPC6H9LPc3K/Z4qGTytxDVClsSyQjZocCPwLU0SSOf28SRXuc3nm/sUMM2gM/zldcFy/xV4nB3RbbpIRx/EkBEmns+iArzX7wbfOoRfbcoQT7J3wR3jvo=;7ZhrE1dczSHtGXz423UeVA=="
+secured: "vPc2f/OlNyq25NUK3FraGxGEQJ8tj5uvVzIkqD+lsUR40/3ltawM7RUL4c2YVjmRo2Ggnnm+dxNO4J3yxm8djRzW+anFOn0LZvpcFKAqmC2LjGeexOPX2C/fspmwT/RCHz6w0C3L2hb9vCc+GCaotcL30rb4VQBsQPjSGsyH08+jg2k0Neq7G10ThmFIGr3SLdFH6j9cKgXfyvXW+T7BrAsJ7e7SznCJRYulYR8y4OTx3OOM8y5LhfTFk7r4wBPQLNeXqkUGh8+y1RGd9xMMBRc1JdQdyMxjbgGUxxf8aTvEa5JH7wWYzp+QeB/1wuocD+krVklxiLGWWdr6khnkujRBYh5dYvnh4kd5KpeD9oA=;bSF2vGsKsJ0qiiC+Z24VNg=="
 ---
 

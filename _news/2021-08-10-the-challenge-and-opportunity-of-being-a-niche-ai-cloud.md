@@ -63,7 +63,7 @@ related:
     provider:
       name: fintechzoom
       domain: fintechzoom.com
-    quality: 39
+    quality: 43
     images:
       - url: "https://fintechzoom.com/wp-content/uploads/2021/08/lambda-labs-logo-2.jpg"
         width: 689

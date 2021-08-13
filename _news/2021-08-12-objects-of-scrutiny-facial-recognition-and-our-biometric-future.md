@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: ITWeb
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Lawmakers ask Amazon what it plans to do with palm print biometric data"
+    excerpt: "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,"
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/"
+    ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024"
+        width: 1024
+        height: 676
+        isCached: true
   - title: "Biometric spoof of Windows Hello not really resolved — researchers"
     excerpt: "Researchers say it is still possible to fake out the face-biometric lock in Microsoft's Windows 10 Hello authentication app."
     publishedDateTime: 2021-08-09T19:07:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/14115636/windows-hello-facial-recognition-camera.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facial recognition technology being used at NTPC for biometric attendance, says Minister of Power in Parliament"
-    excerpt: "Facial recognition technology is being deployed by the government at a rapid scale in airports, railways, and defence PSUs."
-    publishedDateTime: 2021-08-11T10:59:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-ntpc-parliament/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 19
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/02/Photographs_635539846637003093_Loksabha-Chambor-Side-View.png"
-        width: 800
-        height: 547
         isCached: true
   - title: "What do travelers think about biometric facial recognition technology?"
     excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."

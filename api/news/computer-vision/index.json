@@ -62,7 +62,7 @@
       "originalUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -126,49 +126,6 @@
       "provider": {
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-objects-of-scrutiny-facial-recognition-and-our-biometric-future.md",
-      "title": "Objects of scrutiny: Facial recognition and our biometric future",
-      "excerpt": "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/dgp45va6a437X9l8",
-      "originalUrl": "https://www.itweb.co.za/content/dgp45va6a437X9l8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/Ohc9mBsrnyqhpZcxI1tbDb9_M1NRi9iZ4VhFNMQksr8ZlHpyAOSjHpTUyw8SDrBtRVCJxg0y4ig_mK1aAhtyyBNFhCcqXfVxUB2o=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8",
-      "publishedDateTime": "2021-08-12T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1374,6 +1331,49 @@
       "provider": {
         "name": "The National Law Review",
         "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-new-law-leaves-facial-recognition-debate-unsettled.md",
+      "title": "New law leaves facial recognition debate unsettled",
+      "excerpt": "President Biden’s nominee for U.S. attorney and advocates who voiced privacy concerns are pitching a state commission on a bill that would regulate government use of facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "originalUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2018/05/NC_facialrecognition0523_1920x1080_1527103738342_43280524_ver1.0.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/news/massachusetts/new-law-leaves-facial-recognition-debate-unsettled/amp/",
+      "publishedDateTime": "2021-07-30T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLP",
+        "domain": "wwlp.com",
         "images": null,
         "publishers": null,
         "authors": null

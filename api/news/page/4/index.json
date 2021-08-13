@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-10-embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking.md",
+      "title": "Embracing Complexity And Uncertainty: The STAGE Approach For AI-Powered Banking",
+      "excerpt": "The Covid-19 pandemic introduced unprecedented uncertainty and pushed banks over the ascending triangle of digital transformation toward AI-powered banking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1189c9b112546486afea%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/amp/",
+      "publishedDateTime": "2021-08-10T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-computer-vision-startup-zebra-medical-vision-sells-for-200m.md",
+      "title": "Computer vision startup Zebra Medical Vision sells for $200M",
+      "excerpt": "Zebra Medical Vision, a computer vision startup focused on health care, has agreed to be acquired in a deal worth $200 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "originalUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "publishedDateTime": "2021-08-10T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
+      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
+      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "publishedDateTime": "2021-08-10T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-ai-driven-biology-can-get-critical-medicines-to-patients-faster.md",
       "title": "AI-Driven Biology Can Get Critical Medicines To Patients Faster",
       "excerpt": "Absci, a synthetic biology company that recently went public, is using an AI-powered platform for protein discovery and production to help pharmaceutical companies create drugs that were previously impossible to make.",
@@ -49,49 +195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
-      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
-      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "originalUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "publishedDateTime": "2021-08-10T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -500,7 +603,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -802,7 +905,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -844,6 +947,57 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-exact-symbolic-artificial-intelligence-for-faster-better-assessment-of-ai-fairness.md",
+      "title": "Exact symbolic artificial intelligence for faster, better assessment of AI fairness",
+      "excerpt": "A new domain-specific artificial intelligence programming language developed at MIT allows for error-free, exact, automatic solutions to hard AI problems — and it’s thousands of times faster than alternatives.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809",
+      "originalUrl": "https://news.mit.edu/2021/exact-symbolic-artificial-intelligence-faster-better-assessment-ai-fairness-0809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202108/scale.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1083,144 +1237,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars.md",
-      "title": "There Is Increasingly Mounting AI Technical Debt That Is Going To Inevitably Sink Some Self-Driving Cars",
-      "excerpt": "One unspoken aspect of today's AI systems is the incurring of software technical debt, which also pertains to the development of AI-based self-driving cars. Here's the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-09T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-lockbit-20-flytrap-android-trojan-unpatched-routers-exploited-scada-espionage-in-se-asia-apples-child-protection-plans.md",
-      "title": "LockBit 2.0. Flytrap Android Trojan. Unpatched routers exploited. SCADA espionage in SE Asia. Apple's child protection plans.",
-      "excerpt": "ACSC warns of a LockBit 2.0 surge. Flytrap Android malware compromises Facebook accounts. Unpatched Buffalo routers exploited in the wild. Collecting against SCADA in Southeast Asia. Apple's child protection measures.",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
-      "originalUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Wire",
-        "domain": "thecyberwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july.md",
-      "title": "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom And This WallStreetBets-Favorite Stock In July",
-      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc. (NASDAQ:AMD),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22393375",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22393375",
-      "publishedDateTime": "2021-08-09T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

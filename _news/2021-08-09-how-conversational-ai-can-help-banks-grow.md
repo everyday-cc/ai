@@ -25,35 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways AI can help mitigate the global shipping crisis"
-    excerpt: "AI is not a magic wand that will right all the world’s wrongs. But it can help businesses plan for problems in advance and respond to them appropriately if they happen."
-    publishedDateTime: 2021-08-09T22:19:00Z
-    webUrl: "https://techcrunch.com/2021/08/09/5-ways-ai-can-help-mitigate-the-global-shipping-crisis/"
+  - title: "How AI Can Help To Prevent Accounts Payable Fraud"
+    excerpt: "There are several common types of AP fraud, but fortunately, there are also steps organizations can take to reduce their risk."
+    publishedDateTime: 2021-08-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-1323953734.jpg?w=600"
-        width: 600
-        height: 400
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61128f77ceec061d5060f24d%2F0x0.jpg"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Can AI solve the post-Covid cancer crisis?"
-    excerpt: "Amid staff shortages and a growing backlog of cases, the NHS is rolling out technology that could transform diagnosis times."
-    publishedDateTime: 2021-08-09T04:00:00Z
-    webUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/"
-    ampWebUrl: "https://www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/health-fitness/body/can-ai-solve-post-covid-cancer-crisis/amp/"
+  - title: "How to Build Accountability into Your AI"
+    excerpt: "It’s not easy to know how to manage and deploy AI systems responsibly today. But the U.S. Government Accountability Office has recently developed the federal government’s first framework to help assure accountability and responsible use of AI systems."
+    publishedDateTime: 2021-08-11T12:25:00Z
+    webUrl: "https://hbr.org/2021/08/how-to-build-accountability-into-your-ai"
+    ampWebUrl: "https://hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/08/how-to-build-accountability-into-your-ai"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 61
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/health-fitness/2021/08/04/TELEMMGLPICT000267080998_trans_NvBQzQNjv4BqXW5jbaVriFpHFNZrgcOJtrUPjgFzW0N6FiWZRSkyfLg.jpeg"
-        width: 2500
-        height: 1563
+      - url: "https://hbr.org/resources/images/article_assets/2021/08/Aug21_11_589006098.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "How new AI tech can help advisors chart client data and trends"
+    excerpt: "Marble Financial of Vancouver is offering financial advisors a Canadian-made app that it developed with AI technology on a fintech platform that can help their clients improve their personal financial fitness,"
+    publishedDateTime: 2021-08-10T12:00:00Z
+    webUrl: "https://www.wealthprofessional.ca/news/industry-news/how-new-ai-tech-can-help-advisors-chart-client-data-and-trends/358779"
+    type: article
+    provider:
+      name: wealthprofessional.ca
+      domain: wealthprofessional.ca
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0348_637641596063135360.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "fFCnKKPI/rBb/IgXttPuHTkIX7gs31RbaXDfh/awBpEOdnloZCETlDURhNu6UbcTid222Zh4hwkjj+AjZ+DMcODPHzzfA0J6WETNjeYY1p2FfjLhZHwroL8d4J8LgEF01XfLL5ypzHpX/14sdDisxyk2VLvA5reTlHjbLagIpAekgcOSyflC/wNbqQ9ZgBd8UVJu60hhr7tJVKGd9W3+UMj9fxvqNkrRNzbJ7WZh5GIJy+RR0Ks9KH3c0pi7tDs8uG1EVqOFFtVs8kXZ5AzUwlqZAETvDTWFi58S/ofBlVQr++YjBMYycikZ5yb4RDG5L6Npbcf/DU/WA7k6QHEGYhPhVbULLI5kNTGpcX1Fx0RZEZkMjqGxoi+yvsaZxPAcUJ9QXgaDVm4A90yV9k6zQe5RU2ggdtZBYFdrB+kNcTBY8K5F1u+6X1Ww4NOoI/sX6k8ERSPGH0Kz60VWj2j9M7uLTNqWI9L8y27M3ktBkCIl9oXW0Ymgh28LvtdVxd03y1C9Pz02Jlb+65DnCbsRsQ==;zO+wH6L1FfOuVF++V+jryQ=="

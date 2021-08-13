@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
+      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
+      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "publishedDateTime": "2021-08-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot.md",
       "title": "Sybil Is a Solar-Powered, TensorFlow Lite-Equipped Smart Gardening Robot",
       "excerpt": "Building on an AWS DeepRacer prototype, the Sybil includes stereo cameras and a LiDAR sensor with mapping, planting, and weeding support.",
@@ -56,7 +108,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1414,58 +1466,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor.md",
-      "title": "Bring your own container to project model accuracy drift with Amazon SageMaker Model Monitor",
-      "excerpt": "The world we live in is constantly changing, and so is the data that is collected to build models. One of the problems that is often seen in production environments is that the deployed model doesn’t behave the same way as it did during the training phase. This concept is generally called data drift",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-container-to-project-model-accuracy-drift-with-amazon-sagemaker-model-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/08/ml2559-diag2.jpg",
-          "width": 785,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T14:37:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

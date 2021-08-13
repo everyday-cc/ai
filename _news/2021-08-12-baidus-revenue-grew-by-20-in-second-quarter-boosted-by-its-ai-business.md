@@ -36,6 +36,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Baidu looks to AI cloud unit for growth"
+    excerpt: "Chinese internet giant Baidu forecast strong demand for AI cloud services to help drive 8 to 19 per cent year-on-year revenue growth."
+    publishedDateTime: 2021-08-13T08:31:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/04/Baidu_Apollo-e1558072369462.jpg"
+        width: 650
+        height: 399
+        isCached: true
   - title: "Baidu to Bring New AI Experiences to Life at Baidu World 2021"
     excerpt: "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference on August 18, in partnership with CCTV News. Under the theme “For the era we love,"
     publishedDateTime: 2021-08-12T16:05:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-
 webUrl: "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/"
 type: article
 quality: 100
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -192,6 +192,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "The data ethics of Open Banking"
+    excerpt: "We all know that financial data is among the most personal and sensitive information you can have on an individual. This is why the rules governing Open Banking were painstakingly crafted to ensure that informed consent was always secured from users and  those handling data adhered to stringent data governance procedures."
+    publishedDateTime: 2021-08-13T09:33:00Z
+    webUrl: "https://www.finextra.com/blogposting/20735/the-data-ethics-of-open-banking"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "SlHr1RxjslWR7TtUyaYw78zGYKQJtaQM3L5k0xQVI0CXAnlXyKBwuTxtZAAug2X11j8SqKMKSh3W5jjySeGwS49QhCB/OJQQV3X9zekxaabVL5f9yQ2zP7yuqw11u/yB3dHLpaOl2Gz+xvjabv8x+FcYYCGN776InGLcStHLXKL6fGiNXdtU1OiyvEkIOOnYcNzTW7xSzdUmOTFXOFNQAcxNbsPOPOJxwyumK2CZT5uueK790PGOHMVJMxRXsGfDC6TQm3krGQvc/3cp5h+xdMYYZhCfhgs9iR9VrwY1PAsOmZbgN+0uKgWlQYxOPSbSzORlrM5z1+bm8wNenhbCPFDWb36L2eMq8gEKDUTzlyHE5pG/6XJKQ3azE29rGjX/kl0/1DrhN0qgraVjG0bxPgJmLIAi5P2M6MBvFzoauw8sHgANTPHMVwOqEd/aRNbFuqcuUsnpZPPuVsAnDCny7Er3LjM3EAiLcj6a3Y0l2EQZ1ZNEeCSrAVKFvxJp44fycXF6yWiGd4Hs1422qb0dGA==;1iLNq9z9bfjVG0j0rr68ZA=="
 ---

@@ -2,6 +2,242 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-05-artificial-intelligence-ai-innovation-summit.md",
+      "title": "Artificial Intelligence (AI) Innovation Summit",
+      "excerpt": "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
+      "originalUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-verizon-enlists-ai-in-5g-network-build-out.md",
+      "title": "Verizon Enlists AI in 5G Network Build-out",
+      "excerpt": "The carrier uses an AI model to crunch through variables on the ground like trees, buildings and bridges to find the optimal spots to place thousands of 5G transmitters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712",
+      "originalUrl": "https://www.wsj.com/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-380306/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/verizon-enlists-ai-in-5g-network-build-out-11628103712",
+      "publishedDateTime": "2021-08-04T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-microsoft-cloud-for-healthcare-launches-azure-healthcare-apis.md",
+      "title": "Microsoft Cloud for Healthcare Launches Azure Healthcare APIs",
+      "excerpt": "Azure Healthcare APIs enable customers with a platform as a service (PaaS) to ingest, manage, and persist data in the Cloud for Healthcare. Anyone working with health data can use Azure Healthcare APIs to bring disparate sets of PHI together and connect it with tools for machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-cloud-for-healthcare-launches-azure-healthcare-apis/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-cloud-for-healthcare-launches-azure-healthcare-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/Microsoft-Azure-Healthcare-APIs.png",
+          "width": 648,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
+      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
+      "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
+      "originalUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000",
+          "width": 1000,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-08-04T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-ireland-joins-3m-european-ethical-ai-postgraduate-education-effort.md",
+      "title": "Ireland joins €3m European ethical AI postgraduate education effort",
+      "excerpt": "A major collaborative project across Europe is designing a new master’s programme in Artificial Intelligence (AI) that addresses human and ethical issues around AI. The three-year project has received EU funding of €2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/jqa4h",
+      "originalUrl": "https://www.techcentral.ie/jqa4h",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2021/07/Artificial_Intelligence_21.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
       "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
       "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
@@ -581,10 +817,10 @@
     {
       "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
       "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
-      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -594,11 +830,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:44:00-07:00",
+      "publishedDateTime": "2021-08-04T05:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -935,247 +1171,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-why-ai-is-a-powerful-tool-for-coinnovation.md",
-      "title": "Why AI Is A Powerful Tool For Coinnovation",
-      "excerpt": "AI is proving to be a powerful tool for coinnovation, but it won’t eliminate the need for raw human creativity, nor should it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6076f18320d68a60ca2eb02c%2F0x0.jpg",
-          "width": 1200,
-          "height": 839,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/08/04/why-ai-is-a-powerful-tool-for-coinnovation/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-yellowai-raises-78m-to-expand-its-ai-chatbot-platform-globally.md",
-      "title": "Yellow.ai raises $78M to expand its AI chatbot platform globally",
-      "excerpt": "Yellow.ai, a startup developing a chatbot platform powered by AI technologies, has raised $78 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/How-telemedicine-and-chatbots-are-using-to-data-to-transform-healthcare-01-e1622118119553.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/yellow-ai-raises-78m-to-expand-its-ai-chatbot-platform-globally/amp/",
-      "publishedDateTime": "2021-08-04T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition.md",
-      "title": "POLITICO AI: Decoded: AI in hospitals — Standards bodies — Facial recognition",
-      "excerpt": "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
-      "originalUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/04/01/AI-Decoded.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ai-in-hospitals-standards-bodies-facial-recognition/amp/",
-      "publishedDateTime": "2021-08-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-fueled-app-natural-offers-new-interface-for-consumer-transactions.md",
-      "title": "AI-fueled app Natural offers new interface for consumer transactions",
-      "excerpt": "A new app aims to bring more benefits of AI and machine learning to machine learning to consumes more directly, starting with a range of streamlined transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "originalUrl": "https://www.zdnet.com/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/04/7f0aa6fa-f79b-453d-9b19-93e2e01c3b94/natural-1.png",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-fueled-app-natural-offers-new-interface-for-consumer-transactions/",
-      "publishedDateTime": "2021-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-ai-used-to-unlock-secrets-of-ancient-texts.md",
-      "title": "AI Used To Unlock Secrets of Ancient Texts",
-      "excerpt": "To preserve historical accounts of humanity, texts have been kept safely stored away in libraries and monasteries all over the world. A large amount of this material has never been read. Now, researchers are developing an artificial neural network to read complex ancient handwriting based on human perception to improve capabilities of deep learning transcription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/ai-used-to-unlock-secrets-of-ancient-texts-351652.jpg?v=11356441",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/ai-used-to-unlock-secrets-of-ancient-texts-351652",
-      "publishedDateTime": "2021-08-04T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

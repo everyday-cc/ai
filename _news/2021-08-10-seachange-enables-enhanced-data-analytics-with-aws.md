@@ -83,11 +83,11 @@ related:
         height: 587
         isCached: true
   - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
-    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
     publishedDateTime: 2021-08-13T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482549"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482549"
     type: article
     provider:
       name: Benzinga.com

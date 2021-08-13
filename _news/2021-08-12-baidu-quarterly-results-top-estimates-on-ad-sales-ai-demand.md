@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad
 webUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad-sales-rebound-2021-08-12/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu looks to AI cloud unit for growth"
+    excerpt: "Chinese internet giant Baidu forecast strong demand for AI cloud services to help drive 8 to 19 per cent year-on-year revenue growth."
+    publishedDateTime: 2021-08-13T08:31:00Z
+    webUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth"
+    ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 57
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/04/Baidu_Apollo-e1558072369462.jpg"
+        width: 650
+        height: 399
+        isCached: true
   - title: "Baidu’s revenue grew by 20% in second quarter boosted by its AI business"
     excerpt: "Baidu registered a net loss of US$90 million in the quarter, primarily due to marking down the value of its stake in Kuaishou, whose shares sank by 28%."
     publishedDateTime: 2021-08-12T16:55:00Z

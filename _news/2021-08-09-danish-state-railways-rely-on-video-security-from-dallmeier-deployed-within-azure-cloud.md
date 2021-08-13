@@ -3,12 +3,14 @@ category: news
 title: "Danish State Railways rely on video security from Dallmeier, deployed within Azure cloud"
 excerpt: "Danish State Railways (“Danske Statsbaner”, DSB) operates the local passenger transport on nearly all the railway lines in Denmark. The scope of its responsibilities also includes"
 publishedDateTime: 2021-08-09T07:31:00Z
-originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
+webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
 type: article
-quality: 62
-heat: 62
-published: false
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: SourceSecurity
@@ -20,11 +22,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.sourcesecurity.com/img/news/920/danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud-920x533.jpg"
-    width: 920
-    height: 533
+  - url: "https://www.sourcesecurity.com/img/news/612/Dallmeier-Dieter-920.jpg"
+    width: 612
+    height: 355
     isCached: true
 
-secured: "tVr1m0Qj/NuFpEAmCzs14y6VhJ4Gh8j0jUogNDwBEeC8uq/xaeRDRki8Yoiy3DxjrdwiVVEUjtlrV0eMbOlBNn3Vae+oODWx67eBsrtQYXNikCxWU1+d/KwCIeBYsWi/qztMl89AEi5g9XmrQ1dwuXx51i0g47wc9DqFEJv6Wa1JqAo8ddWEv7l1o3WrLVIzAlpILKkmtLE5fi3yUqGDedNSlgoB+H+p+s0q6vdZagoR+xDumCNJJbfIZJYRd9E24QDR5Shx10Ncr/Cv9gzlzSQD8tBGAGbYC8F9/11vlBzOlyBnCWOJ7nsTXvnPquxrbEbjHh8jnX+uAqhIPNdj8d1M/2wvKA/5zQLZ9SZSfuwpzX/wq7RZnSO+mlRfVXqa48La9ym9uwVdgybZAK7SAWbSUhWmAYR+FH60O0bvRMyRPAyQ6qBTk26Elp3cMNUcPYYHxXQIjujeyhlH/zg9kDFw/mIdoedNsb/Un0uyycVAoAmFg1WxsS9w9e6ajzgYPv1QJ7E3lkjS/it0l4jqCg==;CVDRLYlVr4sb0dO3oothZg=="
+secured: "1O7BtFZjIzbG1RaZi9Az9/FlGyNG1DH7Bi9tliLVsSOFC1+RINS9QHaZfL0BloooczcoNnB1uFQ1RxJyYolLFyK58Y9PkG2249GW60DgHQSJgfaN6x+n/EfFgcfi3SRdOtgqlTAe6Uyzp9aB4bhehStAR2J//PC8qcY9FrcWiRylmVvyu6oHQ1rOBDGQhiPr8voMVr3pAnR5jnYkd8M09fv9/U9ebUSz9t8tII8YqG0wB9Gk46KJyVcjoRg8AH4oGHKD2gNm7rtOBgmp1oMPr29AA0D6ahAxX8P5o2UW8hWLpxHZc04XEDkYMkD0M1gpGO8H+W3N2rueevLJkr/0D5SQ22uGsvolnIpmQGRL2eI=;qNssB4al2y3KhVZzVkcK9w=="
 ---
 

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Lawmakers ask Amazon what it plans to do with palm print biometric data"
+    excerpt: "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,"
+    publishedDateTime: 2021-08-13T09:00:00Z
+    webUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/"
+    ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024"
+        width: 1024
+        height: 676
+        isCached: true
   - title: "Objects of scrutiny: Facial recognition and our biometric future"
     excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
     publishedDateTime: 2021-08-12T07:31:00Z
@@ -48,20 +64,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/14115636/windows-hello-facial-recognition-camera.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Facial recognition technology being used at NTPC for biometric attendance, says Minister of Power in Parliament"
-    excerpt: "Facial recognition technology is being deployed by the government at a rapid scale in airports, railways, and defence PSUs."
-    publishedDateTime: 2021-08-11T10:59:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-facial-recognition-technology-ntpc-parliament/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 19
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/02/Photographs_635539846637003093_Loksabha-Chambor-Side-View.png"
-        width: 800
-        height: 547
         isCached: true
 
 secured: "9EtLlq9eWZxm+PfpOmEFswCE/Q2P4gVkzjk6QPeiNJCCGc0UlvbI2CfoWrhc+igkRnB8HHw1j64rAbp9hQr3ALwGB4CfLsvffumwDeqjQ7+iAw1X++tQ5/24FroZ95VbgZF4lbwQXaEBVmpxqwGjswPuaOPwTa8vBdBgRwp0Qjy9U96rdijHxjTFOUtm1M3nvmFtzLfGgHJhT6n0dtA9X4QkTgNrNNSgn3agsF2y+oQ1bLSVHC4jO5n9pgOJhYHqGK/xhgP5LkKkn9uPWYRm9MuxOE2rOELfIX304NJoU/pKqnXJ9B0TWTVImib/9CJAkewsMr3PqzGoUQEw1AOTVGyNF46DU5QofeiUAyHqBCY=;4D6chv4gLCH9OB/tsAZBnA=="

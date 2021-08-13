@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1439
         isCached: true
+  - title: "Robots Are Coming for the Lawyers"
+    excerpt: "And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
+    publishedDateTime: 2021-08-10T14:37:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21602903/robots-are-coming-for-the-lawyers"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/08/16x9/iStock_1191080384.61128f120ee22.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
     excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
     publishedDateTime: 2021-08-10T02:09:00Z

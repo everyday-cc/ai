@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
-excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
 publishedDateTime: 2021-08-13T07:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+ampWebUrl: "https://www.benzinga.com/amp/content/22482549"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482549"
 type: article
 quality: 48
 heat: -1
@@ -17,8 +17,8 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "Unlocking The Power Of Predictive Analytics With AI"
@@ -186,6 +186,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "yA7YzcPGe0MWqH5iqWrjGPc/dosZGs2VpqQPeFiWr45m8s67h1xSFd+3RagXvduEidywCCfiraSqbS0Z3HbyJZSppfwrgUrghIxIBtVPkG/96EvXoruKVYZoqKSIkTPJUsh+HUlx8JZZdTJXUcPVEV5+ecASleulqFsaVH3iIsm4xDu8D+o0aJLrQ7lOznQTU8J2/5IRoiP3Nk54K5u1v7NHHagPgFlb7iwLHuD3MFGcnTVT2gS2IgAtLG6/xTWayETy7BGxpf5DsbVoJhsdJPhHgI/SbSwLv0r7fBnSMUnu7GfwU3B5vrPjul9AEjGuJ0JY/E60xmlF8Nt28PzuNg/U+e6MKoZAcqvQLXD1jwA=;Ka00yUlH4QYNAUWEndeU0Q=="
+secured: "YRvMiQ0g+9qzVYVbBicGtD2upBRoIf90tjjMuavGQSc7GMwsgw/I/fvCxNi0wqg7QdVeuAO6vf6wd9Cxql9H7bQqLKiLJPDkmCSyMhyuFw7Mc7TQdZlZGreHUpesjNgQoximl2SowdkOkR0gxW6Y8XS22yX2KaeTuPfjoBMEURdTTx0igvmScqFDtvyJRj633Jbw9KnFFV/RvEN/hlPW8Y3dV+5ow987k0HSEddwm/iQuTWXT0XcKy/wquaf9FJPVFPCGXZ9wwVwUYuHMiStCnKaFRAIw3IKE1SG4/hIGX4bQ8OgX6k89NuPOrkYKgOa/dqvos2Y7pilQjmowsU4JDgG+kF967jEXfCMHl7H/hc=;aKFuy9UTVix4k3w6hApwhg=="
 ---
 

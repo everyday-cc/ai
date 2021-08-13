@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-07-14-port-of-seattle-bans-facial-recognition-tech-by-law-enforcement-some-private-use-remains-permitted.md",
-      "title": "Port of Seattle bans facial recognition tech by law enforcement; some private use remains permitted",
-      "excerpt": "The Port of Seattle Commission voted Tuesday to ban the use of biometric technology for surveillance and security purposes by government and law enforcement on all its",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "originalUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/true-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/port-seattle-bans-facial-recognition-tech-law-enforcement-private-use-remains-permitted/amp/",
-      "publishedDateTime": "2021-07-13T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-14-seedtags-computer-vision-capabilities-boost-olympics-brand-sponsorships-within-digital-environment.md",
       "title": "Seedtag’s Computer Vision Capabilities Boost Olympics Brand Sponsorships Within Digital Environment",
       "excerpt": "Seedtag, the leader in Contextual advertising in EMEA and LATAM, has today announced that it has developed specific computer vision capabilities to detect sports and help advertisers harness the power of visual media throughout the Tokyo 2020 Olympic Games.",
@@ -1374,6 +1322,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-analysis-racist-facial-recognition-sparks-ethical-concerns-in-russia.md",
+      "title": "Analysis - 'Racist' facial recognition sparks ethical concerns in Russia",
+      "excerpt": "The rise of facial recognition is accompanied by a growing chorus of concern about unethical uses of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772",
+      "originalUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.astroawani.com/2021-07/81625479627_CHINA.jpg",
+          "width": 590,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1",
+      "cdnAmpWebUrl": "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/analysis-racist-facial-recognition-sparks-ethical-concerns-russia-306772?amp=1",
+      "publishedDateTime": "2021-07-06T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Astro Awani",
+        "domain": "astroawani.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
       ]
     }
   ],
