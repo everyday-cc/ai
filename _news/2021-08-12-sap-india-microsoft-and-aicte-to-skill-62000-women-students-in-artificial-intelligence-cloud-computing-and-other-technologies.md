@@ -43,6 +43,20 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
+    publishedDateTime: 2021-08-09T22:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 61
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "The most dangerous (and interesting) Microsoft 365 attacks"
     excerpt: "APT groups are developing new techniques that allow them to avoid detection and exfiltrate hundreds of gigabytes of data from emails, SharePoint, OneDrive, and other applications."
     publishedDateTime: 2021-08-09T09:00:00Z

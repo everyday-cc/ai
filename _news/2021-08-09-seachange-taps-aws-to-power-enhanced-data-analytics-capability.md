@@ -96,6 +96,17 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+    publishedDateTime: 2021-08-13T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
   - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
     excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
     publishedDateTime: 2021-08-09T20:27:00Z

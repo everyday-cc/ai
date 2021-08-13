@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Omantel Partners with Elevatus to Assess Generation Z Talent with AI-Powered Video Assessments"
-    excerpt: "Omantel is the first company in Oman to strategically partner with Elevatus, to leverage and utilize its video assessment solution that is powered by AI. With over 2,400 employees, the highly acclaimed and leading telecommunication company used the innovative AI technology to assess a mass number of applicants for an internship program."
-    publishedDateTime: 2021-08-08T13:45:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/08/08/9426136.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
-
 secured: "+zjh26rHhv5zeBvFMzjZZQWh7bmSVlH9Dng5KAq2cZLaVakFy7vqkDSSTMdGxUufz2hVBzziLbacv1KGoQCPxPxFO2Pxm0+TyVs45v7xFJrCr4MntFEwwSXa5pqecamnnMV0XnDa6bRIIIdAkEFGN923CCcslEAFk3LTyGIWPrfUw9kDutieewhuCzX0RbM5kT59DmyXtbIqqARPeEfs4Ng9y40X7X+lOusp4q59qTMs5PPgsnscVrG2VCxOiSZZd9wcDvyMw+DXbTShikh2IIIf0Szj0+LtMapZJz89Dxv1FjLorPwAFtL5v4yd8yWRoU0zalFrK0wAZPZH33m/mAwz6m7FULFifDGOMbcI9JNCLwRZuO+SdPeHDQEQxUhTN+e8aLLMx8RirQfI4Ypj2zk3O6yDlGK6xIoRAOsIC6NCgZnHg1BInF5BZU3+UN3odn0NWS3msajH+H2M1yzR36PlSsumjhhxvq+mwF9MTcCJGjUFQ62GfSynFQg/MxYnGf0XjkDgaBuq96d62g2onA==;aFgQiUogHzhiRhCtU7VyBg=="
 ---
 

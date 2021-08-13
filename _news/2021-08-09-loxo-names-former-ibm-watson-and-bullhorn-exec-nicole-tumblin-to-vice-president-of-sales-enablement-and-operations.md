@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations"
-excerpt: "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate revenue and customer acquisition while delivering a world-class experience across"
-publishedDateTime: 2021-08-09T13:05:00Z
+excerpt: "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate ... She also held leadership positions at IBM with the Watson Analytics and Watson Analytics for Social ..."
+publishedDateTime: 2021-08-09T13:24:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
 webUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
 ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
@@ -37,6 +37,6 @@ related:
         height: 720
         isCached: true
 
-secured: "DqwNuNNHR7Yrr/8isfgvJ1V4uSM1lmY7KhP9SD322MnST+VvehEQavV/G30MD40bn8IocPdbjvp5+7FeQk8/RJs/dGPV2QkeTxjZT042JEAbHO0nWD/do9l1CTWzofAz2b6I5zRl3/NWaqFoWMVFto4BV4D11e3u7wEIQttgNb6WO4qism8kJ6Kj6fSuPW7kMEGMxfYJaSGYdKroxCJguqByFJ4jQ42HbEOXxVvGnRkpK3cI5oFTIdzfOf9wQxmDzFBCtvzUFhB8a74L7tHGfHlOyUmTg9Gk7QZ+xGD4DrWdLEBThu8qBsybAxBg/tWZOjy6XJl5RSdHEU4jZ62FN0z7vCdQf+lyoppZjPTyAuk=;g9Gh/bss5R1EpRYwlYZlfQ=="
+secured: "sq7+G96RIjolGmxo+jo8xMTLbJEATwRzIR06TZHTsHRNxP2OE8kHTV6D/7gVWzrIo54nlPSU/v0+y3tKcyozc3tBta+igH7s2Cv++MZQ5fkyikbj/zUkDQ/BQoslkG1k6SCCtW8gLY8RqD4wkNYlaavNzbzPOF1tIdKiMUHohHUie+SRZFgTnYOIV1zcRG47sBFXs7qbZD3oZGZRb84URWiLdlUMv7HMZBAqcMR72G5NjHjM8sVJZ9OHzKbmQzj4rcHySReFHtZIz4j49cCXTg3VSiiPu2+oPoge+snfIP/7ToeU89R/z6DjlN8EIc2Dng78MQKZ8ubaM2BMZxNexZVKNYUy4/36QUXBscKsvRw=;mJJUgF9/o3U63+LEG10+TQ=="
 ---
 

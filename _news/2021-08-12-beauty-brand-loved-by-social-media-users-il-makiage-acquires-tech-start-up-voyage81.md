@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81"
+    excerpt: "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities."
+    publishedDateTime: 2021-08-12T16:32:00Z
+    webUrl: "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548"
+    ampWebUrl: "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81"
     excerpt: "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches."
     publishedDateTime: 2021-08-12T15:02:00Z

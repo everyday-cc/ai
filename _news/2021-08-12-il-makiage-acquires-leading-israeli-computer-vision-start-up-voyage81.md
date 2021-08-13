@@ -1,46 +1,47 @@
 ---
 category: news
-title: "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81"
-excerpt: "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches."
-publishedDateTime: 2021-08-12T15:02:00Z
-originalUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/"
-webUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/"
-ampWebUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
-cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
+title: "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81"
+excerpt: "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities."
+publishedDateTime: 2021-08-12T16:32:00Z
+originalUrl: "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548"
+webUrl: "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548"
+ampWebUrl: "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
+cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 59
+heat: 109
+published: true
 
 provider:
-  name: pymnts.com
-  domain: pymnts.com
+  name: The Jerusalem Post Blogs
+  domain: jpost.com
 
 topics:
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/beauty-IL-MAKIAGE-AI-retail-457x274.jpg"
-    width: 457
-    height: 274
+  - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304"
+    width: 640
+    height: 428
     isCached: true
 
 related:
-  - title: "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81"
-    excerpt: "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities."
-    publishedDateTime: 2021-08-12T16:32:00Z
-    webUrl: "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548"
-    ampWebUrl: "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
+  - title: "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81"
+    excerpt: "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches."
+    publishedDateTime: 2021-08-12T15:02:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304"
-        width: 640
-        height: 428
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/beauty-IL-MAKIAGE-AI-retail-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Digital Beauty Brand IL MAKIAGE Bolsters Tech Stack with Computer Vision Acquisition"
     excerpt: "IL MAKIAGE is a tech-driven beauty brand focused on “using unparalleled technology to connect people with superior, painstakingly tested, beauty products.” To make this mission a reality, the company is focusing on expanding its tech stack,"
@@ -101,6 +102,6 @@ related:
         height: 500
         isCached: true
 
-secured: "xyGfXF4xNdc1gc+X1PXro9u1ppn7BtAHNO+6E+z9MH2BqR4s99NspwC+sF/LiKOerKEIcfrPfUDV4RMufHx2QHqpG9VIGMtJTcJKU5f4nzQOkP5NTCPsFpQziQdRjN9uEB/Tjk1dh9ikfl1gS5TdH7xP4a0knjWZW/wQCU1ILxMZ59DnnL84zHkXEDVwA4mDxmu5k8k8XLatRZcEzsSK+hm9FAI0A/tMm4EJQYfr0kpQvktKNy+014+5BKqwzwoO1RXbTBg2kWgtXGJ6MDeAQtZmRGmkgQmav5GnxUbmKV5XF7bLzYo2XVuiVJ4jWAeXXO2kDvw0AbQfWNiTskUbD5QJnnYs+XBRE9k36RK1IgMpiWDzv1NscVyagsU7hiFtjOOtvhM2iXfDpKkk8Fwn6Zq7kA/Sdc5cqyTTKTGRYQj8kZjiyE1mt0tvOHxuYVXR3sdKS/8mfzAYrYZmTusDdDOL1i4upMfzAjTDx83Len/R7KWdqDXOfA/iDK9UCHqmO+yIQRNYeYpeDNZwxa8ckg==;VSeMkqrK3/o8CObUVhL5PQ=="
+secured: "i205dQPChcLpN9u+bQM5OpCwnTHT7ZZk3EOflwHg2nwADbSYJp9zCGuF+D0SQHoYEsOMlhbcyp49n4sQQd7XICHrIyttmQtLXLP8hmY5ZCdxWKOzMJUMPUJGuNSVUFx1ZEFaoeoFIaAFSLa23dQMZBaFandfhpUX29snA8djovSTit+5bbIrCbKtVIaSSiufDI8m/TfxNOHzgqaKgsPDduU0DLLtJPSoQZbPL7XmYsQom1PUK+Jex+aWwt93S208hezhJC9FHTYXVbD29c49KNC+0LM9IGMZgsSaSFyEM/UBOsXy9QcrJT+XJk+WrUm0VKyRzuKW5aCefVHGyvVHbR9DMG8UumcfeunKreDLn88=;PyQqHWMVueeDavGGcAQR2w=="
 ---
 

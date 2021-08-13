@@ -96,6 +96,17 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+    publishedDateTime: 2021-08-13T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z
@@ -176,6 +187,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "yy59khBMeCUSdQJt+Bvzvu9Yj+Wd6rPkuW7LYLktEsrcTehkV6G9pHZzpfRGSiANdCJFdjMyprpDMlgZeQIHFVSJJb0G28gnc79NeuAFxBfQgaExhKbLWlF5ANYRmThias9uQF8UuWL8cMppmu+lG7FE1/kWz3aFgUz82iI3rgKrYDKv+8wyS7irfW6Lf7sr49jaGmPO7hY0wUQI1vuCsO7PTZpv+LSpxKHrnEuWSU6/qSxm327cwj7mEvqK00YJ8V7Xu0zOdszYtxcxxrqvTnf/B9NnfTmhtQIg25PzwbL2RjNuv7UOQgdWuzGXuMKrMqIDLUU2XrteLgw8tTAIkpBJ5DwFc46Vn19S7MJcd4k=;AVSB7uUOll8l/QfJAn7N+A=="
+secured: "inz7K3QUT4+uuauYhFYhJ82dPgB53ETS45YJyL6rdJWJldeB/KCyQRprzJzi9/LQB6tfh6pDRWajaHBoZ7bOGwxr0oo09MOaSEGaQOQahKxl1rSM7TPPblUsDSwkawQJqW1bKGcKlCvb+xfwNjXPzp0F1Mm6B7xqCuaEqGUFxc43QJ6d3Hxgf3isB+oq6iyTJN1kjS4X4nk9hL39o3F6wV6ckEpunJXbOQd/wKH0VLI9te4jM9A3qvDXB7KB4Fw2CHNqjW+MWkR43XahagLfFiaTiQNRkDgdgKbL+1UcRpZ6JQBXDkmh3XtUCsFIuHL3ZtimL90S+vGoVyTlI5Ckp8tES91GntPDg2DPozx5Wd5UkquCRhvS6tkJZLMtRzck8A2oe++P8k0nV0l1azYVKQM6KZcyvD0RJTEpw/ipneXfoUYIdOKRInlv2ta+bpop8jAZCPmJXzjSsmgNyL9eHNVvBI0RQWv04D6E+a6DhsjFAogmGv77TG1u3Yxtgm4A/6BUn6ieSVsPJ7zF0ml42Q==;JERl4W0xQm16/FclWjEPnQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-ma
 cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
 type: article
 quality: 74
-heat: 154
+heat: 155
 published: true
 
 provider:

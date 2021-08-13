@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Location analytics startup Locale.ai, electric mobility firm MetroRide raise funding"
-excerpt: "Bengaluru-based AI startup Locale.ai has raised $ 1.3 million funding in a seed round funding led by Chiratae Ventures and Better"
-publishedDateTime: 2021-08-12T14:44:00Z
-originalUrl: "https://www.vccircle.com/ai-platform-locale-ai-electric-mobility-firm-metroride-raise-funding"
-webUrl: "https://www.vccircle.com/ai-platform-locale-ai-electric-mobility-firm-metroride-raise-funding"
+title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
+excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+publishedDateTime: 2021-08-13T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
 type: article
-quality: 30
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: VCCircle
-  domain: vccircle.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://assets.vccircle.com/uploads/2020/10/fundingrfxl.jpg"
-    width: 810
-    height: 506
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "Unlocking The Power Of Predictive Analytics With AI"
@@ -95,17 +92,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
-    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
-    publishedDateTime: 2021-08-13T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 48
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z
@@ -162,6 +148,20 @@ related:
         width: 1238
         height: 645
         isCached: true
+  - title: "Location analytics startup Locale.ai, electric mobility firm MetroRide raise funding"
+    excerpt: "Bengaluru-based AI startup Locale.ai has raised $ 1.3 million funding in a seed round funding led by Chiratae Ventures and Better"
+    publishedDateTime: 2021-08-12T14:44:00Z
+    webUrl: "https://www.vccircle.com/ai-platform-locale-ai-electric-mobility-firm-metroride-raise-funding"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 30
+    images:
+      - url: "https://assets.vccircle.com/uploads/2020/10/fundingrfxl.jpg"
+        width: 810
+        height: 506
+        isCached: true
   - title: "Nihon Kohden buying predictive analytics company AMP3D"
     excerpt: "Nihon Kohden Corp. has acquired Advanced Medical Predictive Devices, Diagnostics and Displays Inc. for an undisclosed sum. The company provides data analytics and artificial intelligence solutions for proactive clinical care."
     publishedDateTime: 2021-08-09T18:03:00Z
@@ -186,6 +186,6 @@ related:
       domain: businessinsider.com
     quality: 18
 
-secured: "vaWwvfHXrFsUVI9VZvxy7NQTatZ0nPaqQ5+UlpI+vSQru+wz14lji9B3LcsNuryNZU/pUSfhhqm2zvH8m9d7N5sgYaIIOX4VlYiHGNReAB9pY9DXba9sms0YOMB0YfBms5ddji0JV93PM45KFAEC2gHKyYzoV4NvcYKsdwuUZUJrlMWJIQEoEbNtDpsy4H5igNruo3tgZdYwTpfBkMktFnpgPJz43NEcmwWlVFwYR3KE5j3lFYMF/TRWV1OxIvpTBfwj1XF3/JYVPmXmP4rA7mWZUH17k3821SA8HXUbeYRYijGdtvg0N7bAFfwXk2mwxRQX1xlxWwo9Lv1KpKDaLwts7+ac6IFzmUzw2rDqd24=;ZNc37kISVg/9Ec4NLOh2BQ=="
+secured: "yA7YzcPGe0MWqH5iqWrjGPc/dosZGs2VpqQPeFiWr45m8s67h1xSFd+3RagXvduEidywCCfiraSqbS0Z3HbyJZSppfwrgUrghIxIBtVPkG/96EvXoruKVYZoqKSIkTPJUsh+HUlx8JZZdTJXUcPVEV5+ecASleulqFsaVH3iIsm4xDu8D+o0aJLrQ7lOznQTU8J2/5IRoiP3Nk54K5u1v7NHHagPgFlb7iwLHuD3MFGcnTVT2gS2IgAtLG6/xTWayETy7BGxpf5DsbVoJhsdJPhHgI/SbSwLv0r7fBnSMUnu7GfwU3B5vrPjul9AEjGuJ0JY/E60xmlF8Nt28PzuNg/U+e6MKoZAcqvQLXD1jwA=;Ka00yUlH4QYNAUWEndeU0Q=="
 ---
 

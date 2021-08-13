@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign"
-excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign."
-publishedDateTime: 2021-08-04T12:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm"
+excerpt: "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ..."
+publishedDateTime: 2021-08-04T12:44:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
+webUrl: "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "SE21k2WBoVkcb3nzNmZoprF5XK2BaXS7vQycPzhbskR5Ife6sojXJLIWpT3Rl85NTg1hgqIgAnxW8+ZiJoXN4tjFakgKit8LbyE7eL5ZGU7hDEtClSumWZAn73CV5Lt+HX1yVgD1H/swMxgYRGVIGP9H6CelBd13BmP6amKDV4KPfFXbVPbbyzW55yObtdFWw1+o/G+PUjYYvfLrwY3O9E2ADoQTd0qilgcUQSkn5D7Ps2VXkFjlezuO7juVxxY0vlxpIqi8vkW/6JW5w/Yb5TptyfgIFf0MAJQhb1nFTuIaO57jgUJFOitRYmqwly6s49mPUMGS0+DsGtellutRWgyoWyW6e7NWgaMkTg81hCU=;hhdBS4xdELBFRbBGwPftGw=="
+secured: "M5zNW5CU4eSkt+szh+hL7PiNfiU2woAVq8qGLAP8BzGyniTCS7KtKpuLVMZtYpooh6e3BY0H+KYZSK7gDjCQcb7tx8CWM1zqi8+DJLgHnwckpx/ms7n8kw9ZR/Nieay3i2i6FPl/BSEvobURHC8IWBpLVtYQEKKPoU2CY5q5GC7tXn1gtZfztYN5dvMRl+RZK2EXykdGU9Z+TkiELayzfCBMYrBxCTWeDl05OtrmVSfJtkbY8zSiLabXeJZHXBvK/7w1lBjUbqOn7dBgqL2JBr97o76RvrDoyCIh5r95+xRSj/GF2g0ThULLW8V4Bwdt4niqt2YZdDHw3+zL5lCU3upn+REsrRx0NqN0c96Nliw=;Arl9acpKl93uWifodKeA8A=="
 ---
 

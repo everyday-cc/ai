@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/08/09/the-challenge-and-opportunit
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-08-10T03:00:00Z
     webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/lambda-labs-logo-2.jpg"
+        width: 689
+        height: 477
+        isCached: true
+  - title: "Challenges and Opportunities to Become a Niche AI Cloud"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-13T06:38:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/challenges-and-opportunities-to-become-a-niche-ai-​​cloud/"
     type: article
     provider:
       name: fintechzoom

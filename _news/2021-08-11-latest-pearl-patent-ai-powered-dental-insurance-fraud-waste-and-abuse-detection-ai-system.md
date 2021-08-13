@@ -44,6 +44,20 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
+    publishedDateTime: 2021-08-09T22:43:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 61
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
     excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
     publishedDateTime: 2021-08-12T09:12:00Z

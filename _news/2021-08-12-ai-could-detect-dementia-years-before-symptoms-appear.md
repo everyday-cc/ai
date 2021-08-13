@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

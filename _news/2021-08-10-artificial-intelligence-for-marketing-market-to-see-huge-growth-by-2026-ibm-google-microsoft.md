@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Latest Azure Sentinel news"
-excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-publishedDateTime: 2021-08-09T21:22:00Z
-originalUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
+title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
+excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
+publishedDateTime: 2021-08-09T22:43:00Z
+originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
+webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
 type: article
-quality: 39
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Bleeping Computer
-  domain: bleepingcomputer.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
-  - Microsoft AI
+  - AI in Healthcare
   - AI
+  - AI in Marketing
+  - Microsoft AI
 
 images:
-  - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-    width: 400
-    height: 500
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -40,20 +42,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
         width: 708
         height: 399
-        isCached: true
-  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
-    publishedDateTime: 2021-08-09T22:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 61
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
     excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
@@ -101,7 +89,21 @@ related:
         width: 400
         height: 303
         isCached: true
+  - title: "Latest Azure Sentinel news"
+    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
+    publishedDateTime: 2021-08-09T21:22:00Z
+    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
+    type: article
+    provider:
+      name: Bleeping Computer
+      domain: bleepingcomputer.com
+    quality: 39
+    images:
+      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
+        width: 400
+        height: 500
+        isCached: true
 
-secured: "rlsROLSKXMuU6OXqMxwF2mQt1cFTwhbzBJa0SvGPUjx50lt18Qry6tFlg0xINGY4JJnpF1T+g3vvvb/PJPflHF7kXgeUg/8rekd4fZHbfAuUs/ILrBgOlw2gjPIwIdvgHcGsjH19MQXC7AE2mES3fnKU8saREGUC7zggfyHMPCwYz37i/UNpqkJ9Eb/XoyglsJqCL6sEakQw9wr3GSyu6zeTN7E5x/JbRpVFmRNAItiemooCOVRVIBbgp7l8gFSyU12A+jj2K9ZyonS3VX2jt88Yw55TTjvefzWcsKVVr5NtNUNeLiQrXijwAoPr2Ptg9H1++xJ1hv8Vs8RBrAwjJwb/4GlxJfLwwVTCJoOi4L8=;rFUufn5XIextefY9+SapEQ=="
+secured: "TCl9LlKWuYGVKAdL1ReU99/e0QSU02dAawQNmgqBQSIFKSM0Tr5VVD0VuTpt10B5MI0SVQKmIGPqbG2yfZyJcKAEo5mf8Fq0cVsRUNqLy1eZOiLCiTqenUD8pY6ZRhcenvc2IJ4fdnKPBpiKlWfhMEFRstDf/2L4ADMz7t0sfSpXAfxqgyWJ58cmPsFE1gNmrzhtqxJYFRF1mgr0/nQuPzbQ58VhuscXxDWR9asrmGhjgj08V3gaDAGJmN0eoR6UZDtyiT8mLLW1KtsZC5RjzfMxpUOyM5euOa1E2BXZP46XgIds4s2DUTQhGbxBwVCv6GIKUN8e41gn/ciawpZigi8y4Ka7oLolXYtQCkZTmqo=;Hmln//4qxrjjC56y0BDOcQ=="
 ---
 

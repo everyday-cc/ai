@@ -94,6 +94,17 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in"
+    publishedDateTime: 2021-08-13T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22482535/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482535"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482535"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
   - title: "SeaChange taps AWS to power enhanced data analytics capability"
     excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
     publishedDateTime: 2021-08-09T14:18:00Z
@@ -179,6 +190,6 @@ related:
         height: 355
         isCached: true
 
-secured: "oVjpOdukWRpZOzmzxZb4pw6kfKidbMBIQmnV0riPVDExDD0+lAGl1STvtVOAWXBVT3DZfoUQqvSfs6NowQ6gr3BpsrOdq7sAvkVOYtzW+YMYua/+nQsJmrF5F36jR8IHEQnAPjSWfa6lgYWK3pH/eWdMxwBUu7QwtFQxrU0t9P1ahzB2aEjSChqgxlWt10aY1qRqWGGJU9LR8vyDugAzu+kJb+XfHoFNSgCkvbXw6z0GCHM2kVZZzaMZQN7v63quqlqBWdXEBIYqzLVuV522MQofjD6kXUeo1wMiUTxC/ehJ7NPozAYd6BXlF7kN/lIfOsFkBolbmIpyh3mAMmXvW/p5gZ5+xOQLqo6Y52jqU4U=;jdGX4i13jMOnOlW5/CCh4Q=="
+secured: "eKH7G18+yVK5+tbnA/F1mDZpCxFbEE4QVl0SDJ0vJc3QFJo0WdI7K7mlhIgRGik66R9dnUY+qIfCnfnHlhTmbocInm5iMj0j2UnD4g31fBO4gZHhSU0PyATa9QwzVzzrbLMcNoUgXyeVzoJrbi2iVROLI9BELpyDOIZpuPpG2pEe3YKfzTOY+WvyHpOwVj+J3QhOlUgSEJy4qaXabTqE4M1yfTCN3zyQeKvg9joBZ+q8jMcz1GqVSaMPC6H9LPc3K/Z4qGTytxDVClsSyQjZocCPwLU0SSOf28SRXuc3nm/sUMM2gM/zldcFy/xV4nB3RbbpIRx/EkBEmns+iArzX7wbfOoRfbcoQT7J3wR3jvo=;7ZhrE1dczSHtGXz423UeVA=="
 ---
 
