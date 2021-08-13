@@ -25,48 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
-    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
-    publishedDateTime: 2021-08-10T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
+  - title: "MHS Robotics Wins Robotics Innovation Award"
+    excerpt: "Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. MHS Global is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations."
+    publishedDateTime: 2021-08-13T18:54:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
+      name: Automation
+      domain: automation.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.automation.com/getmedia/fcf06c5f-7585-425b-aa89-0b8d7cafebe6/robot-award-Aug-13-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
-  - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
-    excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
-    publishedDateTime: 2021-08-10T15:45:00Z
-    webUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-driving-car-company-in-town-meet-motional-167026.html"
+  - title: "MHS Robotics wins Robotics Innovation Award"
+    excerpt: "MHS ( a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,"
+    publishedDateTime: 2021-08-11T15:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2021/08/11/mhs-robotics-wins-robotics-innovation-award/17293/"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/los-angeles-there-s-a-new-self-driving-car-in-town-meet-motional-167026_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RSIP Vision Announces Patient-Specific, Intraoperative Registration Module for Orthopedic Surgery"
-    excerpt: "Aug 12, 2021-- RSIP Vision, a clinically proven leader in real-world AI solutions for medical image analysis, announced today a novel 2D to 3D registration module that will improve the execution of Orthopedic surgeries,"
-    publishedDateTime: 2021-08-12T12:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 34
 
 secured: "VODjl4FWvAZYCaEZSvxN+Qb12bYyOK1kUVaAG45wCB+L9KRjV9ukv/xfKFCkfw9ggh8dx2L707LHhHeXk3G9YLmjGX7bp6CT/PpTP+55ENBrP+Rmnlw9R9zsyX5GK5gjIszKCPsehJAHqTOViWtzpdC3uU6wewzqFa9MLFNSczL8nf+fXuS0DrwTCabYjP3r91o1KidoTBwIXzYdLM/yHDXXIIeRO0gIgzO3PdjzubEn5jhM3hF2BrR1tVyhY3mxnfwFfA58+v3Q12EBARu5a/Ur3Tom+tpqeEixNVYlZptUSx66tzaDgsSYMYoDOEeIyHoFG57y2V/7w46ZkUS7IxFUoV8+eFN3KK2kyKJfqWQNyxG5q5eg1STV4f5bpmstu7wCU1gJc5I3FkZfMRW/CrxkX9yiMt1amDjwVrlT5xpwSOHgbDcSQ2/6csO12lEB0R4SolKs03UwS+k2V6OpxcibD/VtQB7KWcubSD3X6x+cmpXBb6EW4f2y3ZFgwq2DminsGGD2DoZT4cjAJsoZFA==;S6kzaQIRojWJaLv+UFXe5w=="
 ---

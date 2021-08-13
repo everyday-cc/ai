@@ -91,6 +91,20 @@ related:
       name: Amadeus
       domain: amadeus.com
     quality: 19
+  - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
+    excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
+    publishedDateTime: 2021-08-13T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202108/paravision-partners-on-combined-face-and-fingerprint-biometric-authentication-solutions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/19125305/VAR-channel-distribution-partnership-large.png"
+        width: 956
+        height: 534
+        isCached: true
 
 secured: "jyvvSKlc7K99wywG2M1Z8diZ+kH/80ZdS0Jy+DGDHAqZGKxN1Go3l338iqpXmpooGo/cu38VZnwlQgTsHmTVIUxOuC4RflPNENJEDEA2Z5WTnwlXgIJIHtKxGPYLWG/Q2JT0JmUrPB8dkY28rBse05IyKcVt4IQZMDFrwY8dzuZoYboGYj20/6RBEBx2KG8qUgWbu/aQJmkUj/9Gg0iw1RnOGmbW+/cnVJuiQpHMTy33sNRVSNylFGiWjnjyC8yhr2ugHsj0dQU72PbJGMrkINLWvgdABBUwhUOxiCAjvI+G+QuRMi+cej2oLE9R2EDy/s7G6SZQGSM69+/z8E1qJxP54dwEIWr3Ov/Y6iPP5T8=;kSdm4L18zUgUCQvGsYd+5A=="
 ---

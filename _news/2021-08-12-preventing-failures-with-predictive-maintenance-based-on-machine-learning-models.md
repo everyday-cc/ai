@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Preventing failures with predictive maintenance based on Machine Learning models"
-excerpt: "A 10-minute flight produces 10,000 or more data points for analysis. With this background, we sought to automate the data processing in a machine learning model to learn healthy and unhealthy flight patterns. The work with Thoughtworks was carried out to ..."
+excerpt: "The collaboration between Aerialoop and Thoughtworks was carried out to increase flight safety through the use of machine learning. With the help of Google Cloud Platform, we were able to execute the automation of log processing,"
 publishedDateTime: 2021-08-11T19:57:00Z
-originalUrl: "https://www.thoughtworks.com/en-us/clients/preventing-failures-with-predictive-maintenance-based-on-machine-learning-models"
-webUrl: "https://www.thoughtworks.com/en-us/clients/preventing-failures-with-predictive-maintenance-based-on-machine-learning-models"
+originalUrl: "https://www.thoughtworks.com/en-us/clients/aerialoop"
+webUrl: "https://www.thoughtworks.com/en-us/clients/aerialoop"
 type: article
 quality: 49
 heat: 49
@@ -24,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "0aYbcdU78Fv2BAGTCmKmSj6bbeCTYKeHrEG0mn2GQtQqv/G+R9N6H1PQMyDmcVBagTkGI6LMb90S4LqHDs+xNO6CePtglPzi8mYlvwAUnCSD2a6HPp05jCtNvla4hzRQPJiLTxwpt+93ZLyCGidhSZX6XOYbJUDn1nKd0Z8LNFD4VFlOdtNJPCvNBSd+xxfx78Uk2OiJtdIsvCCpJy5i0cTKzR5aapKRnp9IxTKZl7giHYvr9gzo824W5ImqwI6pLBBc567N38IhUy+3XBG75qbSI4uePl9lzWU5uhkXkxLMs/GZwSROHh2YK7hRXkm2ND0U0awyLxGKlWTUfpBV/9MFbCDGtNx9iCoBuW0U7jvZ34xqdtN2pVMCMmQuOhyz4EUZgXEaAliryLYFdPrgOoH7JOgGJzoZh6wBvJO54oKBoNtnC/EIOv0pjqsLo5rCxdcFhyGoPatTbKvmPY0BKzkifVugcrmivZOLJNHZRW25EK8EhNuYf2r3OPwVba7uZ1V1uCTjgTFzLNt2k+BRuw==;76P9YG+dMLnnKHudfrp1qw=="
+secured: "OQpSw4kXY0LBC+xBr4W9FmiPDQwvmzsiPzpomZJxCX5egR4H+zDkrhtZXoqBi6FXEfrm4tiKF/QnUy5SERL1tEBTenJX2E7cGgdK8KBbT2xqY2RI4oXJ6II12cg833fIl7rwa73F9WBOQOjrxo09EU6Hz+sOv9OyzeGgpng2mGyRHvYQEYs3wW4FrSEHGTYnQv5nqkElaLCdyIn7udRdvunpnTtMkiHx0rwExbjLQlMEjmxsvfDUXqzRiKYWueSVLYTc/kRBubuYN/eiHvlCGxekT7VNej/tBZdiM0HyWbU/D1Z/2ptcMMHeKM+2+tAW+6ZMygvOFEf67FlDYv25MMGfcqOpkc4DLkxGMo1YHEo=;ZVNZb3hiCB5V3iPrzUhGVg=="
 ---
 

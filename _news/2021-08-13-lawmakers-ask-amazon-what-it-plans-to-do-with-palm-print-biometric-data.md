@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-lette
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: Amadeus
       domain: amadeus.com
     quality: 19
+  - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
+    excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
+    publishedDateTime: 2021-08-13T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202108/paravision-partners-on-combined-face-and-fingerprint-biometric-authentication-solutions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/19125305/VAR-channel-distribution-partnership-large.png"
+        width: 956
+        height: 534
+        isCached: true
 
 secured: "/TO8nv7kSRRQXlyXbI3qiMFdU4rkMD+6bUY94oFS21i7cITDvQPN4kgHqqBMiNRVcenA396vBRN/sNwAXeVcXyPTd25UTe+uXZaP0AaeMU5CJQLE/Bjc4kKOq4GlexJ+W1nuoz0erFQCMuMLYrPhlJXuj3vJhmf18E6zRNqJDmOIEoRlf1ovSMNUu+9PBrSarR9W4UpTko0hHOVhBwadtGtrvp7LDbD1yf0aCIS4kwAtgUQRdy3/ukjjMJ+nprSVr7lbIRQqOw90mlU2KlEEo5ie7fQZ8vXFAkpldN50tilVfKcbULMJ6ciDiYZ8E++RkIl582Jey3mWi81AYQxG07v4QUDqwRc29FkpE9aSgYpe6Juo6asPYgPepxF9e7pDuQ4VGH1KNqBY42096BiHlWb2AAwql84thBSvuqAc79Yj+uuAxzk8P7bx8E7+auoaRlPt2A2Dnmc5Ip68yL60h065Yj/TD7e9UtOpQ+Hwq30DNIlwZdt5J+QLorHdDxwJhHZJdXGZiaLr+a1zgxYPJw==;6N4Gt36OEZ39I6DE9ADu+Q=="
 ---

@@ -100,6 +100,15 @@ related:
         width: 960
         height: 502
         isCached: true
+  - title: "Il Makiage Acquires Israeli AI Company"
+    excerpt: "American tech-driven beauty brand IL MAKIAGE has acquired Israeli deep-tech AI-based computational imaging startup Voyage81 for $40m. IL MAKIAGE, which is based in New York City's Soho area, was relaunched in 2018 by brother and sister duo Oran Holtzman and Shiran Holtzman-Erel."
+    publishedDateTime: 2021-08-13T17:19:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/il-makiage-acquires-israeli-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "/AOndyTJPZpvQ4j0xlJS2UVNSI+z+MryJ4xc/2YPobLoJ33Oyz1yTFCNKNfOlKamz58wl4XnSQNVtiQoqh+CPWoaQ1tRjpE/wviiF3MQqY7IAbm2ccricEID0fmbvoJOw84K6ovn3rJXTyQ2RVPHw7xhdlaG6ovWBF+E9v407+36XUcWCF3F0GJ7NDG0U4cdq9IQ8fiPHIVmIX9yOqMMRhh1AqyNMbDI5thBH9YOMulg+pD8xm3+UsnSxNSFi+BYZ92SlCtDN2mbhWVpeXAS5HZt3h0PE4ti8QJixd4ZUwYfd8hutdpook3eaoVBzp3pXP9ubwe9fnOl5Gl0nXDztALybyjPrhBaVqktd9x/KZ0=;+tYO354Zw4yu/wvoJU+Krw=="
 ---

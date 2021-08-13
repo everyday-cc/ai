@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-13T16:14:00Z
 originalUrl: "https://siliconangle.com/2021/08/13/abacus-ai-debuts-industry-first-platform-building-training-running-deep-learning-models/"
 webUrl: "https://siliconangle.com/2021/08/13/abacus-ai-debuts-industry-first-platform-building-training-running-deep-learning-models/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Bindu-Headshot.jpg"

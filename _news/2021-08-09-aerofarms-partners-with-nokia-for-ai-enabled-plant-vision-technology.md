@@ -7,7 +7,7 @@ originalUrl: "https://www.producebluebook.com/2021/08/09/aerofarms-partners-with
 webUrl: "https://www.producebluebook.com/2021/08/09/aerofarms-partners-with-nokia-for-ai-enabled-plant-vision-technology/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 337
     isCached: true
-
-related:
-  - title: "AeroFarms, Nokia Partner for AI-Enabled Plant Vision Technology"
-    excerpt: "AeroFarms and Nokia Bell Labs have unveiled a multi-year partnership to combine their expertise and expand their joint capabilities"
-    publishedDateTime: 2021-08-09T02:52:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/20453-aerofarms-nokia-partner-for-ai-enabled-plant-vision-technology"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/6a5f1899a4ea3bb71319f0415fb4c356.jpg?t=20210809_025109"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "5g85P1zE7opD1ibzN4LxXR65hp5aPGxFpdOseGsFLKcAiv452S1TCKghU/pL75iNt/1xRKushDVo5Zjx2g1KGF/FpYG5L1lrOAoh9WPbp2TyEKx/B/4YUObMusj2VRQAB0jn1qdtrDLjl8p5GCdsIsFnSJl0HTQPrFIlkRGP48OBg5gPO0ffUWNofgur1fy3CiXn/DhzVN9AVmfQ/jpB9taQVRw6YJ9SySbcjOlbDbR3Yn2O+JY00EAzFbirRUYQNzJxivhiUBhmyewkEqB+oUMAr1ryLSlVdO4FEseFxIGIcdViPobGt3e+nwqKWCgOuyBMixXQZCo2JvGsPMq2BQyo6c8j4HZwRiP36oiqc6Vz6Ga5L3fgsPDCTmQ3aH8Djv5lMomJRsOSQ8pHFUX26e/HsR4e/iAotjMo7D2WYrFEzgUaOuvmRg6XVge2X41F9OWHxZGuhY0v9VMs3fhX7szLrvLyHEKuah+4C9tynSCvTz4+Ji0gzeL4J5q6IcsGjtdEIVA9XKMIhmjovsczQA==;Ws6haASt3IKf030CkjWJWw=="
 ---

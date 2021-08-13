@@ -22,6 +22,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Google and Lumen Bioscience Apply Machine Learning to the Manufacture of Spirulina-Based Biologic Drugs"
+    excerpt: "The companies announce the results of a research collaboration that applied machine learning to significantly advance the scalability of spirulina-based biologic drugs."
+    publishedDateTime: 2021-08-13T19:13:00Z
+    webUrl: "https://www.pharmtech.com/view/google-and-lumen-bioscience-apply-machine-learning-to-the-manufacture-of-spirulina-based-biologic-drugs"
+    type: article
+    provider:
+      name: PharmTech
+      domain: pharmtech.com
+    quality: 3
+
 secured: "zOKgRvRSc/imaWDZ5hfVhA9XZJkudqc/FSdKoBv6N83DBn2HPp7VQTIL2CIFjedlD4aUSStvdxu4igcsTWjvR+46mdFFwcXSAeOyuEYI3Erz/Bu+ZnOnLUXH/rHYOI+ZAaZelGXpsl9Pu0iw6Q6lQnhhSq5ovDFTs3EtQnBVqdqibniEhox5oDVKlmtnEfQDgfdmFF6e4uXMDcak2BG7pXYqgzq9lUPRsENyr1gg/17+rBFZQtWGIzIOJaZrre8zCwGrTbUoQD/I1/ojdxuA8WHefvxf9w7pdGvG8SVgocbsZNUidiTrk1ynNvjI4f3PEEUxsEXQp2IORvgk9A6LQTfUBAXzkGZzETJzsghgFzw=;o/G/QUvMBMbxwqs9Ft1ojg=="
 ---
 

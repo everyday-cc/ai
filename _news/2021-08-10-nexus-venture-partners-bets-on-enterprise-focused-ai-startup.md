@@ -40,20 +40,6 @@ related:
         width: 2468
         height: 1406
         isCached: true
-  - title: "Abacus.AI announces the world’s first enterprise scale real-time MLOps and DLOps platform"
-    excerpt: "Abacus.AI is the world’s first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
-    publishedDateTime: 2021-08-13T16:52:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-f38ffb2a6fb08ebdb8a8241689bf0e09"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
     excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
     publishedDateTime: 2021-08-10T17:07:00Z

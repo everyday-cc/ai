@@ -27,8 +27,8 @@ images:
 related:
   - title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
     excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-    publishedDateTime: 2021-08-10T10:15:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+    publishedDateTime: 2021-08-10T10:53:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     type: article
@@ -90,6 +90,6 @@ related:
         height: 480
         isCached: true
 
-secured: "53VHj+rCsSHh3FfBZ8G5QCwztbPD2Zd/wjCUfHyhflwhDj//yQxb7csZeiN2YjvVDWqSjLskX7iu/nr/skoPNgpT5Gk7QrgnUbaxnp6xJ068+G/Z1cNV4IY3/rggUfcEgWJXG8mCG83sO51Jpq4Qdj/oVt+fIn1513W/VgZZ4wYNLyBE6ks/Kudh3mhgVISmsoh+02TtijPHBA8D7Xyz+rZQDSHmPGJT5zYL65wUV1bwCQdNpTjvFZ3xWV31F0egv1icFdxOO4G058LuW9YMAqISAjcTTA3zChRV8i16M09Dn1XwnG4kYaG7MpSXGMIS2z0WoJ/OtnFLoCtTRSdJxolBn24TdDFX49R8yyEnUnQ=;kGvSw9ZOWKkOnGUjcHh+ew=="
+secured: "X0n27MEYJ7xdHWA0+X+3RfEaPlhMtRkv1iuCKnL9F7C+mxGRH3hyq6ENxQgMDpOTv1LeCRzNpcYSq5DNR4ge+sSAaxSxbqZnoNy2kSzD/COLw/6sdYlneJxyvOj62pHYqxBN1TbO0C8OWeAbj/bElCNJC/yF9DsTP7fq0pXGJLqghDkVeLYOt0T7C2ybR6kXz1IHwnx7L6Jt+H0RiFNYUgXj7GJurGJMjz4vjUJJR32bZqqllFcQGXYIexnqL/YMg0g98LBNAaWzU1OEokFYb5McG6MxPSuAMDYd0kbIDadC7AM5QBFtWgNV9lk0TllbplkIMq4Ex7JfoKOA30ZF8ynsiBKiF1tTsDclccZxIFV70PLP+iIZEoVM48SDw4yRcaOd91nhdPCxarchTHqpoN0/zhWvclTbLRCwywL11X2sAp1yJ+wUnkma7KPwPJKyaeV9u+o0krGkmUO6BaKjSP4KWAsbbmS5fJd4J9Zeq6jRTzEm22gK3Okbp9Y0hu6WWTvezhB3zUHOG0quELa90w==;2ka/M5PBHWrkSmytYafvcQ=="
 ---
 

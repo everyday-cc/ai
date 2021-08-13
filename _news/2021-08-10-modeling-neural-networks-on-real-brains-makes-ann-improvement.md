@@ -2,9 +2,9 @@
 category: news
 title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
 excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-publishedDateTime: 2021-08-10T10:15:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+publishedDateTime: 2021-08-10T10:53:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+webUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
@@ -90,6 +90,6 @@ related:
         height: 600
         isCached: true
 
-secured: "50OfDc5SN3/XwQ8J1jCbIpA8Z3Wzx9VNLCtYgiUSPhHenA04HFj0D/izDRdihpprmB2Nd2X86PoqdxIrQwVu/f0X9/ziOcZ23wsZbAd/ExYVSge4jP5885lHS5rWbAk/wk1zu7MCNW/ghx9F5IQS/7/LK/CpXe9IERtWDQ62XOiVZLcwLG2H/TfTXh/SKVbLbtf0fvRl/fqKUc3mT3Hx9kIy5Y+XMx0Fh0P28r11fnXrRwmjmCp9uY26Ct3GIcNRYFmiYyk1xtq0Z85lSb96KT3NEh9WN6K9FlQxpfBoPgjnpc/Mcg5V+3C3wBFTLNDTYmmfLvVx4E7BuJCDhwCLIj7Pr4IDkGOfoMfGbvbDUHgV2t38Ccy9Y9hT9WpHKXcPBNCbRwXPFz6j7R4x1iJOTlawXbzlOLspGITn9GknQxT1r2C7jiI0Q3M4tsh/AhR2g0Li88qplYZ2xOmNRPedQ1Vhl19GvCTkOrpO87qn5EHTn4oE9i8o1+6LzdxnCEhXWuroT7CcpSr7/0kloXPviw==;jd7ZMHw+oleDISJwQnMZDQ=="
+secured: "IyrPknSUf2IZmm3MYYjvATSpeOccKg0n2G4d52mcdAzY6bXqoMVUKW4iuOECBfttkPnU4AHwKVT4NVNePPSMY7hO0YyD3CVN3z5IzdBOIkqWYCIE63vnbJj1LfT1mT64MrXdub7tGbIpZaOyMQ/sJuB9uKBF3DNllAkJ8uA+uPxvXrp7NQi4k21nXlIwGA/QJN+9x6bvI4mdnBr8M9LSYbDKWQYYL5hv/sDXNPDwEXsSXMQTjjwB3S3Be3GbEPF75E4zZbrN0gwEIXlRDNImQAFHKvTwRSYZCeimIU/UvA1sp4zBwhs9nr0qbWRB8ki0hK1M+ZbYClH+v4JoBp4HZu2QXKjn+O8Bvu6NRA1cEqA=;8UIa1zFCA2YSh55ixhU6ng=="
 ---
 

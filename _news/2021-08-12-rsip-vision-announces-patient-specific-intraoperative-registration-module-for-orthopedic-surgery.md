@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-e
 webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
-    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
-    publishedDateTime: 2021-08-10T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
-    excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
-    publishedDateTime: 2021-08-10T15:45:00Z
-    webUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-driving-car-company-in-town-meet-motional-167026.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/los-angeles-there-s-a-new-self-driving-car-in-town-meet-motional-167026_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
-    excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
-    publishedDateTime: 2021-08-12T11:36:00Z
-    webUrl: "https://www.analyticsinsight.net/bis-helping-organizations-innovate-workflows-with-intelligent-document-processing-and-data-integration/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 8
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Dan-Rotelli.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "+i54fEB3lbDFigH1cbxsqO6q0DMiPe76LeIhXwOyK9KeCI9KFfMi7aCppW/8OiGjEfPIJHvacu6W2467P4szbx1Oww4qm9pCSkiVP0EGIf9xLtMKwbpWh3u8oq80td0ZGs7uEfR0ril5l8IiYar6iMYj4iwimX52E5CAAGQ0lAntPO8nBNdOPlrF40ZFk20wt0G5mqd832h0d3mgU3JZg7HOUDqcIU5Frq+yqHKxDYtRbD/OnW7zLCMd/IOBvAwXKs49w5siHfNS9q5zM09LuyAPizDuMA2ZMpiuKHyXEMM4fpyOWKZlSMlmC/rLatS8JWG0Nfz4aUa8dN0TirIHejLAsOgrsO07Odl1yJq8dnY=;TnmsPpQJZ+VunwPX3P4krQ=="
 ---

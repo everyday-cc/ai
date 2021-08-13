@@ -90,6 +90,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
+    excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
+    publishedDateTime: 2021-08-13T19:54:00Z
+    webUrl: "https://www.biometricupdate.com/202108/paravision-partners-on-combined-face-and-fingerprint-biometric-authentication-solutions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/19125305/VAR-channel-distribution-partnership-large.png"
+        width: 956
+        height: 534
+        isCached: true
 
 secured: "9EtLlq9eWZxm+PfpOmEFswCE/Q2P4gVkzjk6QPeiNJCCGc0UlvbI2CfoWrhc+igkRnB8HHw1j64rAbp9hQr3ALwGB4CfLsvffumwDeqjQ7+iAw1X++tQ5/24FroZ95VbgZF4lbwQXaEBVmpxqwGjswPuaOPwTa8vBdBgRwp0Qjy9U96rdijHxjTFOUtm1M3nvmFtzLfGgHJhT6n0dtA9X4QkTgNrNNSgn3agsF2y+oQ1bLSVHC4jO5n9pgOJhYHqGK/xhgP5LkKkn9uPWYRm9MuxOE2rOELfIX304NJoU/pKqnXJ9B0TWTVImib/9CJAkewsMr3PqzGoUQEw1AOTVGyNF46DU5QofeiUAyHqBCY=;4D6chv4gLCH9OB/tsAZBnA=="
 ---

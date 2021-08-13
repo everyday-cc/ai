@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 84
+  - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
+    excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social"
+    publishedDateTime: 2021-08-13T16:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 45
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/k2nEIVRbqKsTU/AVMjFyGy5w3TvLZWYPj1rrDbbYKvxIaia1k3mSnYrdbybhfi/TB/SL27wZXoHF+7Hld88iTnd7YmFz+pPZZ8cibR/RlNztuxb7XU+lnp4bBIHMCyDsYukMSPgb7Xi0hsjrlLlPbh4W8oFoFRwEz01rqJdUdb+Y3Stm4YUntM6gpjvJWaLCcf0VdUKGui4B/Ph3pUlNmVpbGKYbUHEw/VhhDogvV2smhHYvg+KZOpyQ25s8NdlnF6FmDOZDJavf4u+N9Zw4FOXhIEbarcOAvbb4DBU7HT+J7YmGS+hNt8/VIJowhcYyhSHsRNEHA0ahUmPXDJkHUlfYVzpuU3JPA+iRhTBnljDHlHqZMIPQa1i/vG5m3slCu7hN7MA+EyUSvRmNV0A3nhdWl2lLvgsN1PpRIJEnZR1ruDnZ5DBGdEM/gSUSlBkgVzTcMgissx9SFxKfvQn6OFQByIKCKVZKMHVlcEh2f2hE3y7hjTrUhyLlrBG1PUo9eJr0zawf35HrGArKT2b8A==;VmXNuV/i7+3K0evO3bnsDg=="
 ---

@@ -2,28 +2,26 @@
 category: news
 title: "Deep learning model classifies brain tumors with single MRI scan"
 excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-publishedDateTime: 2021-08-11T14:20:00Z
-originalUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+publishedDateTime: 2021-08-11T14:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/924825"
+webUrl: "https://www.eurekalert.org/news-releases/924825"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
-    width: 1721
-    height: 1881
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
+    width: 274
+    height: 300
     isCached: true
 
 related:
@@ -99,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eLT0ftAZ8ZtlQRKXbNd4t5qc/bNDAYvlb5XroDozFcFnw7oXQ00ihpupxQP35o18yFmgGuxfGodliOaaR8DMr+RgOXqr2jLRQBBok8Kr2JGJ/NJXISls3NSem1sAV6ROp3z2H5YAaUEGJFd4smJ4Jgu8jOv09Jhqrz7hc/TN7Kq6uIbWa0gNoVoiXH4FrDysjPGNA4RPFL5C0FT1VXjaRZGzQ/1pIM4BL1r8ysIAJxdr1q0774tTOAa/9uLAWIg/R+FnNVJOmpt7fupux83+xm7w3fw33UtP56FOnn8Mt1Zuedts+D8cf4q5OppNiEhfs2n2QJeUJd/dnSLQxJetwvuqvwL4niwNOlADVJKXVWQ=;vXZS9HI1iBXxI3rl/MQF4Q=="
+secured: "XTv6sq06FZl0NwQxVVP5SjGyvJsuii0Ggd6RsXCLljXmz3n6vPP/28Ggw30/eGLtvAoXB72wCdcFciLpfSxUbzqIT+Pvr++8B5TbZ3qMbbaDvXpHmU6AfVSPYJWK3M/P2xtsJF4eqe3JYZG9QR+vDMcsYCu44TALC0DW4Ic1DUN3ojyDLetAQlRkJGAYrvviZdqC3cuG3ePOJrUkvC0rTnnratAENfOahVjUrGqHp0tNpE70HC8IOcyiDFCf6d8xVow2p7rir8ySJ1M1T5kwbf3mLajLndVSKwq81JpC/W/iaYmdavX9Y7CrzpX0UKgV86Je2HH94FytmZRkq9qDabHkQLQiga4S1AzC0NRXmHM=;nyyy7MvB+3cM76zkf7FIWw=="
 ---
 

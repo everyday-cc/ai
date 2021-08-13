@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://cdn.thenewstack.io/media/2021/08/3bd21339-forward-412761_640.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
+    excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social"
+    publishedDateTime: 2021-08-13T16:51:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 45
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2nBi0xh/If5jWuyPOeslamYkFlxLe8d7teqyhnzPYmu/+y9feAuKpvJc5ViWAFSryAP0S5DbzB3SI1hVQTQJHbYCt6M9s3ps0D6I2MW8NUJz8Ldt2dZzvshuhlcPGpg+bUBfbr8ds7cwaU40j1Wih2iY1OHgzL+M2sh0ehe8rSSnrEVXzBePgVJSL1V6YhSXfPdUafsHLlADOvW92+DEctNpjOyfrtIga1vJc2ButZWjxYARQcHO+vZHDLMrAgGrPxWHKki38W/zKo/7mtg8pFWy4gU201s9WFCKxiUKlkYVXX17RBrTGTbWSaPn6P8vRvlm1/mKmuJIZKAjV4THCMS9oMZpA1pX3oma0mRUvcY=;rwEZ38N+x27mJuB0VocsKQ=="
