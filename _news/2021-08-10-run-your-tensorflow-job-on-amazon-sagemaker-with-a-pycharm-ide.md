@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/"
 type: article
 quality: 123
-heat: 144
+heat: 143
 published: true
 
 provider:

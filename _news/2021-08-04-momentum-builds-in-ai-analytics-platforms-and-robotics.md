@@ -3,8 +3,8 @@ category: news
 title: "Momentum builds in AI analytics platforms and robotics"
 excerpt: "Funding in AI and robotics technologies is spiralling – covering everything from AI analytics platforms to autonomous sites and self-driving trucks"
 publishedDateTime: 2021-08-04T00:00:00Z
-originalUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=32"
-webUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=32"
+originalUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48"
+webUrl: "https://constructionglobal.com/digital-construction/momentum-builds-ai-analytics-platforms-and-robotics?page=48"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "BNonZrnLl4ovIcUVGTEmLHqQ0Y4Yf+t/VtGNejatYnI1vDjlKvBZ3c+FqW6YCx+0Dj58lE20uo+IfG89tAAIDVR3UUnlI9CdTlGV60B681NgDZJrfmTDq0hSf9HPPonTqIGAz8/rRW/p1nanMEPJXkPpE1mDE0dFYLz8vgsb6nokfYRaHgJRfVA2U3Zg3NZUl+mHsAltSN+GURwrzPgeQTVNUHwzCpnV0i5UFioYU1iKFg4ppZNBynmBGONAbM/WCFgO+GvKq20JSTGMZsPGZHmK5VBpWWt8DXXHRPsgpCwSXEx9cS19USwWAK2g96b6HU2gbo/pfpf80u3/gsRZEd20m3DhcELiOGUtSBoZtCMTmV4BxVf5k7DNboiaDppFHWpfmjZyqpZ58xWUJyBBRAbpmrf3WHfPS9pkGqOP3FY9MLTY8ZJWtE4XdBeKsDH098TnNB3fLE9usytijNqAPcGSSSS6fusgEXtyHm0XTYWeKIPIIfvGJ4rhUX/LxGVMI+Tw1tC4OSpSRcghGsyLPA==;woCa0rqzpWbXtmkWtNF6bw=="
+secured: "ZfdO2bFk0T8ojzxfMnBPFeM4k8sPyC7sdqO81dXAVadX8xZVvpT6mOdIy4OUoNqeRBKMN0Vdf3jh69wMuYh7eaYb2idZRyDBJG6OD4RfdCmFLQMd54N6eC44hGQb0NlyePaG//1BjcaL3YhXUQgVeMtaYPDnX6FXq3M+0wkicS3Cw0DIplbRUV1gKo8V22lcq0RnIAWqu8kEc/r0lrnHbiuNJWfEsgigszKTztef4KkJ+2Jd1dYyBMK4IPPYVA/+d39LLJDr+KkzMW4OsmZz3QXQ4on5Uwt27BI+N2oHAIa/N7PBTXfxvfsW8Qgs8RIgxwHv7a+be++jQHz3zhbiKHFi672SP4fE9E8U0y14Tpg=;PP5FDofAvv5rQXX9u9Na8g=="
 ---
 

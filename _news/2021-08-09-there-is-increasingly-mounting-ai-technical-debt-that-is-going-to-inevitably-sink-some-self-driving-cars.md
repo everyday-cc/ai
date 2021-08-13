@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
 type: article
 quality: 72
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628805684"
         width: 600
         height: 385
-        isCached: true
-  - title: "New Tech Could Help Self-Driving Cars Figure Out Where They Are Even Without GPS"
-    excerpt: "It’s pretty clear already the future is all about electric vehicles and self-driving cars, so it’s not necessarily a surprise that more and more companies are trying to make sure they have a well-deserved place in this new side of the automotive industry using revolutionary ideas."
-    publishedDateTime: 2021-08-12T13:24:00Z
-    webUrl: "https://www.autoevolution.com/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 19
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "BrQGgG7EPTp5cKxO8l+0eHJqMQf17kJZiorVaaPd5KDG2lnfPZmhiWFZYl+vrv/MFnZI2L6UJQ9MQxomYXoOyLMo0P703Fp5xa3MHBSQH+6g2+1EtaF1oqb+c7tvaJurlQ6yqFLs3yESmRHPmDuXPKn8bS9VT53CIsup5ElLwYNK4NMA8Z8TLvvrmNM8vjdc9o6ucwrZkpN6jGsq/T2E5VidvmJhY0XL5QAptgUxi7JU8CJURmL0HDMGCrtFP+a5en7Kwz0LcLCOapv47fJaxGzPv1Ar3vpMDgaEX7l2uiQqN7/wyjUBfkuRjuRaNsqaLWLX0TsrL3+d0fYjr7P4v28/dCiEJJcZhDPYYKk4xQKm3+1jFtXOYiHv+KbSwW8URAC9R20Fy0mTmwjNHOxLn8Yi+vmVYzGXRnVzuzMnYYXMnaaVmcizWlK9lVCnLaUulwaum5CERKhnGFphykmvVLfQNYnZOg/K6+uQjE/G8OQ0oFtR7PMqr85X+90vNvuDaoDG4rh9j2Cur6xPZs17qA==;4BkewyBNRe2aDB2juSIthg=="

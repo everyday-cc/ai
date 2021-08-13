@@ -68,6 +68,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
+    excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2730215/admiral-discusses-potential-of-ai-in-missile-defense-testing-operations/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 36
+    images:
+      - url: "https://media.defense.gov/2020/Mar/12/2002263259/1280/1280/0/190830-D-N7474-004A.JPG"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
     publishedDateTime: 2021-08-12T14:32:00Z

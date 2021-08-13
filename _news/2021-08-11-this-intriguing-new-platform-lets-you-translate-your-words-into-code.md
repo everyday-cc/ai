@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/this-amazing-new-platform-lets-yo
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -2,26 +2,20 @@
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
 excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-publishedDateTime: 2021-08-06T12:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
+publishedDateTime: 2021-08-06T12:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
-    width: 1200
-    height: 441
-    isCached: true
-
-secured: "ebdiZcicwzWnfi7PsNCenwDhH03eB5+AkA3KnYdWlRfxFg3ssNkWmXBe3wwmgjggsaz83Uq91mEL3zA+6GobXPxKp7Hn/szDNDXJKQ095aueymo95Qx6OpGyaORLfHA63+TD940UsITogT9O+5uyAO68R7YEpBpERtYHJgG0eIhK8m23VAHM9roa4drh57+osUR7M5atLvYV+5s+lSAYJHjqAkuE3cksAXMKY752bzFKph0s5pbvA4oVQ7+zPG2Xvx9hLl7RJbfmJwfiW0OEm40Vm182CGTPUmUs9PImAygltyFtY2TrpV4gjLINY3GCiNKGvR/EYiWKL18WZ3paVizh32fDw9tDSYcZlxqljIM=;tJ+EgL7MnXiIe91FkZrygg=="
+secured: "44qg9tet5B0hmAd76Qa05I0nJGJRdNanZtnUgJ9Q6SfzaiA0Nb+53Izggvr+Y3anp/wL/9iktdboiSvqLhLsv8KieGuj0E8Y5E07wIgIxYLqlK8yOJIPvRFsA/c9c1wqO5MdUEFZicY9KeNa6nup/JakSbp56pcrm2GWKEzUJRoDcEWPujnu7kejgT5hqejQKAnFQiA6RcholEriydF3g7i4f0WIzwxyQtDC0hOjPreYhdcFp7mX+YawT8D1FU+siS4t/vQl0xELMi32KDhSz4hSGfUj2vHMtR5aGXNRc2Fu/7NYZ/cc+NprjYQHyzkkAOTYtXVSJjvZKwcTqvZ47eCMrRG+pE7H/uLBXxg2wLzgUwttBZYArbYfP7wXtvbDBoRjDrVNpK27KSZm7q898wbiyfKBBjV0f6rByFT/Bb4kHiTwcSG4rsjp/rWho0hZ9GI74hIYQS/zSrHAH2by4lahi57UO5/RvMp/RanZ4tcq1BE9DKNzO3+S4sNC0GbqQEKOk105OC7Qb0ebsuSO8Q==;JfDlOFYktZmt6XQZJcanjw=="
 ---
 

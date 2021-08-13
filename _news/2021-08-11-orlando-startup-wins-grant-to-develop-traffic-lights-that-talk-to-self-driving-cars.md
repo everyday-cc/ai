@@ -3,8 +3,8 @@ category: news
 title: "Orlando startup wins grant to develop traffic lights that ‘talk’ to self-driving cars"
 excerpt: "This #Orlando firm believes everyday traffic infrastructure can be tweaked to accommodate #autonomousvehicles. Here's more. #technology #innovation #AV #localbusiness #businessnews @ConnectedWise @CUT"
 publishedDateTime: 2021-08-11T14:22:00Z
-originalUrl: "https://www.bizjournals.com/orlando/news/2021/08/11/orlando-startup-wins-grant-to-develop-traffic-ligh.html"
-webUrl: "https://www.bizjournals.com/orlando/news/2021/08/11/orlando-startup-wins-grant-to-develop-traffic-ligh.html"
+originalUrl: "https://www.bizjournals.com/orlando/inno/stories/fundings/2021/08/11/orlando-startup-wins-grant-to-develop-traffic-ligh.html"
+webUrl: "https://www.bizjournals.com/orlando/inno/stories/fundings/2021/08/11/orlando-startup-wins-grant-to-develop-traffic-ligh.html"
 type: article
 quality: 0
 heat: 0
@@ -18,6 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "cM/fwq6F9XP3Sw1caG1GYHNzsx+iI+VmCbKY20N0MpymiqjKNqhTkuOvs8dWX0XU6dZDtdB99enZmEClDjTizidyF2P4ChMOmggui7+/hrHwJUvQ+6v8PqNiKwO1RfzHxrx8Wi9M8n9OqkWpuI2Ec5Ik28lFGhD0pCqPDAR6dsczaJGEn1hh+JJEAqj+QibQZkA3oia2ScYDXTBH+FTTvZtXCMEex2ajt+ocPET/i9mkYXcqmEtaZiIMHdu2s19gFUfyw2PMpr3tQ7LR4KQ6vydG/iiHm89gmgByuyWjrK3VePLN+Xbh2cNeMxPa5EhQfml+JTQ2i4DfX2UCxJ+FSfB5QN2FmOS4FmZeodFHS3yx3M4TutqflZUZRWrq2ocxJ/AvwHWrgvRWyzzEmvNjNAijLVNAPZXyZmBZg2iVCbqzeJLTLm4Nqm2ETF891K0Z342YSww7zmLnj3/rFKm6Jv+1MrgRzulhxcE5Pq2dN58XePytwflCGuhOfzOf11XucYk9ObxaVfmugzkn5ecncQ==;piE/KFo9GspFpgvX9snvDw=="
+secured: "nt7QUJVKf4q5vC6PUOzAfFJYZh9jimkcqs8wMfjC0mGX05cWArhgcKkKLN98zPKLK5p8TM4kcyGL5DeUwkhZjRPepgHfSWjGR/86yJ2nQJQ1NoOMe7nFE3mR9N0I75dFOjOi1qF9Kef+g4f8qNL3R6L5k6cXzhvZGG4/dR52+/YzJu3vrg3HnIm9ONS1MlCRJ+8sYrJKgW94Rp64Khqi+y99g/5xbRzw27hLSDnqlWED1iDDAp7/mYaOC2zT3316NfbRSaZpBFqdeZZZBxAr9xZlxzdV5QRSqq9no/IZFy4g9pThQkLNjpcpkZZOvXhPRfOUOaAtelnQoM27zgZu5mhR+fY3a5wuZTdcnDpvzWeu6squEORG5p9qcIoGFg7N38oDzhx2/1w6XR4K4Za6CHcGdWFciqtarS7T1ESwVsIhwhunF8BK7PYx7KbiMyc1sgY8Y+W4pG3JcdS3kuXNkehnJND4B7eZj8vbrWFW06GJwRSko3/wcldohphuOZ1pv89OmJa7vaD1JmywdJIQEg==;XIJKGTj2YTT3c761jNzI7g=="
 ---
 

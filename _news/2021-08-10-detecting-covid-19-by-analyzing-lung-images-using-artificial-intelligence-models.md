@@ -112,20 +112,6 @@ related:
         width: 600
         height: 385
         isCached: true
-  - title: "New Tech Could Help Self-Driving Cars Figure Out Where They Are Even Without GPS"
-    excerpt: "It’s pretty clear already the future is all about electric vehicles and self-driving cars, so it’s not necessarily a surprise that more and more companies are trying to make sure they have a well-deserved place in this new side of the automotive industry using revolutionary ideas."
-    publishedDateTime: 2021-08-12T13:24:00Z
-    webUrl: "https://www.autoevolution.com/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 19
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "Aicb2si6s5pH27yELd0E9/fAK0hNEGkcdXqVG1TLKdZJsMbUeylFtedQu2iMgsnDnNQze/ht3TxYkEqZb7yIO+grwCeNOxaZRXFk2XeDqPXb2mlR6Ect75xF2frr73jThp1ea3VMkBDf73IP5qD8KTaiOAvR8zbUw/6OSE42cyYCRdKdXzKP2rfVX3qm3aj99VVjwU8ytFLhX7JXxkgzIru4JePT/U5ALhDcDBz8crYdl6Yi5f+JDOgSpJMjuTkqO0IHeIepm1UutUkZiPHiE6NDB8sDkMs/F5lR137KgRLqVXI3C6TmM5gJ+KhYUsyWXGkxiaZD6MwsSoustaFoK1pj+nfOjegbuMCuJPNVlopWYHSduV1fMrJN4OKTjRt44nJ31CSoQhB4LRdLz6WIl/6DKIZeXw1NX1m+NgKYv/iP2azH06fAeSqgaZ97GfIAdcZGMau0z9BiLbmzsCjkr0TrMiHIfeG3pPNvtnfDoWSXmivyjqLMj7YR6FN547o6EabncsfHutupSmfbxViLog==;qTkwMKPXQwF/giU7bMOqQg=="
 ---

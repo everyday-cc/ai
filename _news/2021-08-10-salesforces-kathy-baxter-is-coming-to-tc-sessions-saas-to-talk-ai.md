@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence and Cognitive Computing Industry Market including top key players Apple Inc, SAP SE, Intel Inc, Salesforce Inc"
+    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Artificial Intelligence and Cognitive Computing Industry market. The study covers significant data which makes the research document a handy resource for managers,"
+    publishedDateTime: 2021-08-12T15:08:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-and-Cognitive-Computing-Industry-Market-Including-Key-Players-Market-Share-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
   - title: "Artificial Intelligence Advisory Service Market to See Stunning Growth | Google, Amazon, Salesforce"
     excerpt: "Latest business intelligence report released on Global Artificial Intelligence Advisory Service Market, covers different industry elements and growth inclinations that helps in predicting market forecast."
     publishedDateTime: 2021-08-09T12:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
         width: 900
         height: 537
+        isCached: true
+  - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
+    excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2730215/admiral-discusses-potential-of-ai-in-missile-defense-testing-operations/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 36
+    images:
+      - url: "https://media.defense.gov/2020/Mar/12/2002263259/1280/1280/0/190830-D-N7474-004A.JPG"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"

@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://hackster.imgix.net/uploads/attachments/1331765/_hNg0FotI3z.blob?auto=compress%2Cformat&w=600&h=450&fit=min"

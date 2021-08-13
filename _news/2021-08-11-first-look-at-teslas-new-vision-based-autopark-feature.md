@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/a
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

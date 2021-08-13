@@ -34,6 +34,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Industry Market including top key players Apple Inc, SAP SE, Intel Inc, Salesforce Inc"
+    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Artificial Intelligence and Cognitive Computing Industry market. The study covers significant data which makes the research document a handy resource for managers,"
+    publishedDateTime: 2021-08-12T15:08:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 25
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-and-Cognitive-Computing-Industry-Market-Including-Key-Players-Market-Share-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
 
 secured: "90iFYomIM2dsRmJg2xtN4GSbIoBm6SZzOS7ivQhp2Cb+UI1VrKU0144+ma1RwvoSLwrlWFv9K8UNGNuRlyCQtNOFhkLqsgTadV9CPaohKGJlUYJgBoULI+yihVmqH6LqU0TTu7TYY8cPB1LAWEq21+/UMG2lW17NQaYnJTrw4rWAf7sJOsr64YL8AvVNGuhMRMc6jBfDZKlnxNjL5xD4LVrfvMm7MDoGNaOcp+JECn0/tyIkzw4T6l5ksR//MDThq3+n9jZpRpOYSgZE139a8RZKCJwzI4jwBrSEZTbZqOe36iAxYJQnXrXBbyK7E0v7B6OkUCx8NbWYd3vvctzo3fVPdF7kRZ4Vn1TIaiKsj/8=;JajhK7wsTsJYzdPQMDXGzw=="
 ---

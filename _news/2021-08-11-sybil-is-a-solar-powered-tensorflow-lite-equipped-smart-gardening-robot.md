@@ -7,7 +7,7 @@ originalUrl: "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-l
 webUrl: "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

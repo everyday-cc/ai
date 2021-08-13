@@ -1,12 +1,12 @@
 ---
 category: news
-title: "RBL Bank selects AWS to accelerate artificial intelligence efforts"
-excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI‐powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
-publishedDateTime: 2021-08-08T20:38:00Z
-originalUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-webUrl: "https://www.indiainfoline.com/article/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900437_1.html"
+title: "RBL Bank selects AWS to Accelerate Artificial Intelligence Efforts"
+excerpt: "RBL Bank, has chosen Amazon Web Services (AWS), an Amazon.com company, as its preferred cloud provider to strengthen its AI-powered banking solutions and drive digital transformation at the Bank, adding significant value to the Bank’s innovative offerings,"
+publishedDateTime: 2021-08-09T08:09:00Z
+originalUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+webUrl: "https://www.indiainfoline.com/article/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-banking-financials/rbl-bank-selects-aws-to-accelerate-artificial-intelligence-efforts-121080900334_1.html"
 type: article
 quality: 91
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/2018-10/01/full/1538373827-2439.jpg"
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
     width: 350
     height: 233
     isCached: true
@@ -60,22 +60,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "RBL Bank selects AWS as preferred cloud provider"
-    excerpt: "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-    publishedDateTime: 2021-08-09T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 76
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
     excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."
     publishedDateTime: 2021-08-12T13:24:00Z
@@ -92,7 +76,18 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "RBL Bank selects AWS as preferred cloud provider"
+    excerpt: "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations."
+    publishedDateTime: 2021-08-09T07:20:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 56
 
-secured: "CG3Np7hSk85v9Mm1AJGZTJhaQAilz5gKbqokjdDEKp1hsM3GR1Ok78M8fKXEgQqoljl4UKz7/Fjqf2RhNWNvseY+uQ9MDtLw4L9Pli872zZjW43sP76W8C0NaC/+vfWvkXZgquyb90aO3f86fDPLFwbbhrGuXabgsHdp0a34NXViox6h31ju4miPKpcIDEdVFQb9GOQvkZ/6PBYb9TZ3Uo6fMXJGgY6ACFeqGCUOcYzYbAaFhNSJ+M2/PiXa0cl89LJ7B9oRJp9zfzK8pnl2feyVKr+mFtHk/pGVJg+tw39SKJfHr8NzsIdktn0QWJwu4S4vvy8TPmeQCs0MbDj8UzLcpVBJxOSsvOLINp9hYPCq9LrtLx/TF6owEgEcwGq4EN02g5Es6vgnO+ND0tUDCbyqdzEPIqFuclWvglVcc7/kYbAleWwdZPeizwhz6Mjs00czGIkJoGYcCjXbc2auQBlHtP4zkVOdJ8xAcqnxAtnOnswR8X5Ap7KTMLmlEzg8bTpX2XrjtClYsTDzagwUQQ==;YGOuf+GrikHDZo2l8uoArg=="
+secured: "FfWe4chLx3eRzjDID3yhExd9n3/ji4zm8RuCEolBoyyxTvUkG3XaVVsGSPb6+ebZvf/H7t0tilpGnW3k+un2HDlk2XzSdID8ENuYb7Lmz/SMTdGSwTk+uHzZHekQPogVgRhnjgZGvJIHzMPOGxjtrdCPI9WVYCnhHET/iqzGl/0SJgB+/NJt5dgvZr0eCpR7oaoq+V32G5aP8ubc1Rmsxy+QJDptlZ/tUKycuuT02X56g6PzgJRmC1qeqiaZsMTaUghkVLW2gNgH3qjKfyQZZ93Dv8nBSTPJctPGroGUQQ/ezt+Z91L5sbfQnwFrNfrArjpsfiMjaKqIeoVUz3LnGf7Qdg6zSiKdly5LraSwCfU=;W7Cuw6YUVDmrjZ/re5gQfQ=="
 ---
 
