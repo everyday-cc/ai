@@ -37,20 +37,6 @@ related:
         width: 708
         height: 399
         isCached: true
-  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
-    publishedDateTime: 2021-08-09T22:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 61
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
     excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
     publishedDateTime: 2021-08-12T09:12:00Z
@@ -80,20 +66,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
         width: 400
         height: 303
-        isCached: true
-  - title: "Latest Azure Sentinel news"
-    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-    publishedDateTime: 2021-08-09T21:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 39
-    images:
-      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-        width: 400
-        height: 500
         isCached: true
 
 secured: "LlPBRDs2vuFs6lWyaX4uj7fTqRzInWkozmG7dAlGfgGQU04aXaqx8Kc1quAZ65Bm8V9dN1/uVCtY7+QhPsJjji4cpi6KvHqGC/dpzgClKkhfiMezxLhYVvYzmHipXsat6tBTT5+a4xKZD6BAWOR9zbAj5A7LcNO5e2fe4StEQVzHHr6/5dmKC4XlSkVmE22or5n5FVrmpDyo8rr6KggC1lhXHArI7gjXrxpU8tbweWcA7EYwYceT8X9eSHHNmL1bDibC5zpyLUOuRcn02IMiDRbJa6fKSoY+EBloTBrAx90ZS2QvfVnqhC5JjGGFCtYj6BafGhjgb5SfAdKP6hQPKDUZJRAYGs6QX2yE6eC1pbI=;eY5Xf9YvLEEQ1u/HZ1Q4bA=="

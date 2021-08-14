@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Cambridge Spotlight: Diagnosing Dementia with Artificial Intelligence"
+    excerpt: "In this issue of Cambridge Spotlight, Science Editor Sambhavi Sneha Kumar explains a revolutionary new artificial intelligence model developed by researchers of the University of Cambridge to predict"
+    publishedDateTime: 2021-08-14T15:11:00Z
+    webUrl: "https://www.varsity.co.uk/science/21864"
+    type: article
+    provider:
+      name: Varsity
+      domain: varsity.co.uk
+    quality: 39
+    images:
+      - url: "https://www.varsity.co.uk/sharingimage/21864.jpeg?store=37664"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "KPqLaentv7yD5jC4bNdOtRXHGQXwELf6QONdfwEjwYqajGJrbevQSMHBngk48dBlk+MdkNJBcxRtxg9w8qARYKfdNZv3AnlALdEmF6Is+CGfohJEnHKA8OtCjEn7K04ufHIIqWkJsMhFQAQfi0ryEeYTtdAbDWskwBjqAz7LE6YIMx7y6d+MJmOwlD8dpqgrjJUbrbbTJHB4GZGoXzzkKSlehavM8NIDINF8b3whxJRlUgX7dp8OV9BzZY6nDE0a9jWRAYDfk0YAs0ENKUw1aPUAHzj5OgAaSFo5cTrCP7FWO0KbcpJNyJz5bd6787ACYod65pPxw153fZi6zZJtL76w+pStx1M/sAzlwqVgSZI=;/fu4tG6DlGriA1ntHGe/gA=="
 ---

@@ -54,20 +54,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
-  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
-    publishedDateTime: 2021-08-09T22:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 61
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Latest Pearl Patent: AI-Powered Dental Insurance Fraud, Waste and Abuse Detection AI System"
     excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received a patent grant from the United States Patent Office covering the company's pioneering AI system for detecting fraud,"
     publishedDateTime: 2021-08-11T12:13:00Z
@@ -81,20 +67,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
         width: 400
         height: 303
-        isCached: true
-  - title: "Latest Azure Sentinel news"
-    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-    publishedDateTime: 2021-08-09T21:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 39
-    images:
-      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-        width: 400
-        height: 500
         isCached: true
 
 secured: "ll5WXvGVSShOxJFV6gzvnKnFVgnE57kfx/YcV/7Ej+tZpU4xVhvaO4YRqarkWAZal1S457k230W+SEHF0vmKh9pnp69R0bSt+pt4GH77EiCkbQBhNRG1L4RoPcfRIzn7Iia4YNyY0kj7GuRj3UL1o5tkBbwGHgPO9UFpdtQ6rl/bYrY+3A2n5Q9e4UDLnSv8h1Ox0p9ESy+oWOVz/+DlaX9chZ14EqyMkbKWz+2asIHYtZDCeVm2mU3v0MUwuISWudc0CSVhr77h/AUBP1CzYTWNzG5KLoEqdSmu8LlBpOK3PFXXK9Hp7v9GciVOW7N/UVRrQQKb2T4QiFLkEPdjVSxigbsdh5M0CwADgwcnt1o=;qOBR8gy8Su3DIHxbPdVpyQ=="

@@ -55,20 +55,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
-  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
-    publishedDateTime: 2021-08-09T22:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 61
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
     excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
     publishedDateTime: 2021-08-12T09:12:00Z
@@ -84,20 +70,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
         width: 640
         height: 426
-        isCached: true
-  - title: "Latest Azure Sentinel news"
-    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-    publishedDateTime: 2021-08-09T21:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 39
-    images:
-      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-        width: 400
-        height: 500
         isCached: true
 
 secured: "0qrCpPsLY2cbuajuJqdNtM3hfgHXnFTHk5VmPIMU/B6jKkJnm99kNz5L4OmiUW1iBWvUlHfMhcj9GnZRDv1daVLaEARUMNTjh885qjZQDzNoN8FMX9eI2qoAbO3faNq29KDRFE38tEIYAh8mc2/igGLL41HQkqyEXSjgYHzsbHekBrJ77SFgXxCOgtnuhlT0IlJCqeqfP/GBxkUYzrS2um3r9dfVvIg/wcOcJWRRvRMp3gGx/w+pGwTrkqmj7swt4sYTZqLo+Q2Ky3Ac4xLtEY/Jzp3YZWtDIdBHKPVPuYB635ME0YNnl/CVRHqg1WlXCc8qgRa/5QtGxp2EVRp4+haR5+I4lRZknFDg4yE6FQKVn8Zt+cC+3a4SXWhHfubtDNhYj3gLo0HQYQ/XF5S6FE21NuwMve1v/h6pTzbijtG43jlkqawn0QzNT6NTrQDgA32X/pnInAQsyiCNK+s3B5khw+QO5/AVhVaXQ+rNIyn3MoyOYKiqFEjgG3LbaSIi3FjLTReGtjbLb5VVQNLMOQ==;JinPdaMAmglOSPiOiwlaIA=="

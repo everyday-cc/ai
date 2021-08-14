@@ -1,56 +1,69 @@
 ---
 category: news
 title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
-excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social"
-publishedDateTime: 2021-08-13T16:51:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/abacus-ai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform/article_612b6013-25b4-590e-90ec-a3e555b18dcc.html"
+excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
+publishedDateTime: 2021-08-13T11:51:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
 type: article
-quality: 45
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - Machine Learning
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
 related:
-  - title: "Spell introduces MLOps for deep learning"
-    excerpt: "Deep learning model development and management drives special requirements, especially around the provisioning of hardware. Spell introduced a machine learning operations (MLOps) platform last week that caters to these very needs."
-    publishedDateTime: 2021-08-12T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/spell-introduces-mlops-for-deep-learning/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spell-introduces-mlops-for-deep-learning/"
+  - title: "AI startup Abacus.ai turns on real-time deep learning system for enterprises"
+    excerpt: "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems."
+    publishedDateTime: 2021-08-13T10:18:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 84
-  - title: "Tecton Brings Real-Time Machine Learning to MLOps"
-    excerpt: "Tecton, the enterprise feature store for machine learning (ML), has launched low-latency streaming pipelines to its feature store this week, giving its users the ability to build real-time ML applications with ultra-fresh features to the order of sub-100 milliseconds."
-    publishedDateTime: 2021-08-10T17:00:00Z
-    webUrl: "https://thenewstack.io/tecton-brings-real-time-machine-learning-to-mlops/"
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png"
+        width: 2468
+        height: 1406
+        isCached: true
+  - title: "Nexus Venture Partners bets on enterprise-focused AI startup"
+    excerpt: "Early stage venture capital fund Nexus Venture Partners has invested in Neuron7--a startup that uses artificial intelligence (AI)"
+    publishedDateTime: 2021-08-10T12:32:00Z
+    webUrl: "https://www.vccircle.com/nexus-venture-partners-bets-on-enterprise-focused-ai-startup"
     type: article
     provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 54
+      name: VCCircle
+      domain: vccircle.com
+    quality: 37
     images:
-      - url: "https://cdn.thenewstack.io/media/2021/08/3bd21339-forward-412761_640.jpg"
-        width: 640
-        height: 480
+      - url: "https://assets.vccircle.com/uploads/2017/10/startup1.jpg"
+        width: 810
+        height: 506
+        isCached: true
+  - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
+    excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
+    publishedDateTime: 2021-08-10T17:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/7b5c78a2c1a6120aec199590620de3a9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "uZqfWNOubxVVMKDlQNFO5Zuo/fkofUOghgBxLU6doSSayp2wQIfgACoBIyWp8ykFM+RVC0w/hIXU7scDaYsqKEne8Q0CYTGSL66muehPYEr37ufuvnqC34bVBZYli80n8JqBy6C2MyoIwTVs59IVDWB0NGp91uiG7qcI4q8JEOnq56hZPMPyQzZXaXZn7TCrT6gFDslVsiTD+/J1beRU6rQz3uVRNSynFIQ6/ug0An/Pd8g20BFCr1x0FcZXz7sSCAPv1dpemXpxZ7UEwN2ZvbOiZ6g1JmAItUyvyiQJlROG9nmDLkh7kb2ZYmcTgZPmrzIl3YU8WzQynuYjyNo6Zx76QJ7+UoQBV01MQHEq/kc=;HcbFrrhSXpdqhp5Ud+nptQ=="
+secured: "B7UBnAkEtUy174QA7A8lcObC9ITxp6LVMSFLO2Bl4DsywFsXB9/RoEI/QPkRqRGq5Na0JNuw/e6asHOgC/coVfF5pY1bCWyHMTmZC4nFdo1UHAJngXfsGqPvVnTt2sg3dxKuOYOAS/sYXHuNOLogbg+Dtc1pBPuERT6p7ihXG8vcTjiWx285jotCYNMvKAykhOCd3eoeD7Bmt3UtVdkNcb5sJb1b2fhjKT868tEp13uwJHCYsAPLoLCbmEXElnjbqWmihjp1OfrChcwT7ErV2CeeZJBhDPSEtXt5UZVQp2wxSpAh00YESLmsGcgN7WsnbkiRGyWQ0VVSQj+jCGV8MO18k1RSSrs189gweeEGH+k=;w6T82UfjYgqCVuRj8zBJwQ=="
 ---
 

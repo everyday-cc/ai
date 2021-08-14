@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 619
         isCached: true
+  - title: "Cambridge Spotlight: Diagnosing Dementia with Artificial Intelligence"
+    excerpt: "In this issue of Cambridge Spotlight, Science Editor Sambhavi Sneha Kumar explains a revolutionary new artificial intelligence model developed by researchers of the University of Cambridge to predict"
+    publishedDateTime: 2021-08-14T15:11:00Z
+    webUrl: "https://www.varsity.co.uk/science/21864"
+    type: article
+    provider:
+      name: Varsity
+      domain: varsity.co.uk
+    quality: 39
+    images:
+      - url: "https://www.varsity.co.uk/sharingimage/21864.jpeg?store=37664"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
     excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
     publishedDateTime: 2021-08-10T10:47:00Z

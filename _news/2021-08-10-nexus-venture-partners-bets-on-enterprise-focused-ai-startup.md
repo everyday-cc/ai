@@ -54,6 +54,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
+    excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
+    publishedDateTime: 2021-08-13T11:51:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 10
 
 secured: "vcVG/x/3actj1D6zRmy8nUFaS4nDlnBDsOoT5GeVtdxmE7C6yjI/aJNOnjorkScduDnDYaWob0mWeHeWqOW7SK1Us0A71bbJVBVOtp0Jhz1oBkhJ/4NsNvqX7p9Fvr5fV8TJ+4FGRr03MgQlznDnSZNOlCtshZDxyvmmPEqGlImrrPC8fx7QggVznS0IG1ibRziI/68RpbTu1H3/WazfxVsHMRyouqIZKA3XPFxusgGhk9fNwHAybQENwZRo8wuMh6hhTtTxnmHmn8UXPQboSer/EnmELkfUhksi+6e3+PUcWEokPB3i8rnv8BBv+YZ0t+iFC6jI48dgseH49jQSf3OvcKSiwaOJZmO5vsv00cygLT6B9oOcJauMCNkClB/qOJg9ENMaN1VRKguMwXQUt6/vBCul3IFYte+teqeKuSBkTIFY/TCYiNAiPT64X1RXOtN5u8TpmktICwsmHqgfPpnySc3f5WEzV/uWycmlgaPpIavVhmXhIAHuIy5B0esNB4fxZsb40CoQOi3k2CK+qw==;MRiLqGxsUaVL7PX2vNA9bA=="
 ---

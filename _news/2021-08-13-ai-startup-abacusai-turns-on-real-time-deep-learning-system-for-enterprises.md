@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
+    excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
+    publishedDateTime: 2021-08-13T11:51:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210813sf74962/abacusai-announces-the-worlds-first-enterprise-scale-real-time-mlops-and-dlops-platform"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 10
 
 secured: "12OvQsoRx5WWzLZH6vHveV6f0Zv20k7wW77zTAHzx9K3ymJ1z+3r5C1AJMneDdgkpOZfqtg/mqD2bCvmkA2wamPKoq45IqlwDVW+wWu4ft+4gIUVITS6q0GXxOqGIZx/PRzgWznmzt8miZYHwjzXBCZr/RJLCdUgjmNl7K5a2GfLhWuJwtxb4lvHMCKPY8Aq5SQGpVqDeX1B/Ww8+DK88CJP9KYjiGo+BPFb23UjunMtlpfo6f03egDuTTLXU3nHBR2BLyStAMdZ5UENAX4/2S74rcYhA/eaELik37LDDL7nenQksw4qIObHAf1Q6aN8Y0QNBbg43CUk0VLptGpw4NSYvxy1YJsn8rYx/chADqk=;MiC5iG/SYTHd+J7aAuE8wQ=="
 ---

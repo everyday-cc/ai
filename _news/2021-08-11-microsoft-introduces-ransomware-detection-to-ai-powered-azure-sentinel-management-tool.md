@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-det
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
 type: article
 quality: 81
-heat: 131
+heat: 111
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
-  - title: "Artificial Intelligence for Marketing Market to See Huge Growth by 2026: IBM, Google, Microsoft"
-    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/04/2021 — Stay up-to-date and exploit latest trends of Artificial Intelligence for Marketing Market with latest edition released by AMA."
-    publishedDateTime: 2021-08-09T22:43:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-for-marketing-market-to-see-huge-growth-by-2026-ibm-google-microsoft"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 61
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
     excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
     publishedDateTime: 2021-08-12T09:12:00Z
@@ -81,20 +67,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
         width: 400
         height: 303
-        isCached: true
-  - title: "Latest Azure Sentinel news"
-    excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
-    publishedDateTime: 2021-08-09T21:22:00Z
-    webUrl: "https://www.bleepingcomputer.com/tag/azure-sentinel/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 39
-    images:
-      - url: "https://www.bleepstatic.com/images/comp/flashpoint/Bleeping_Computer_CIR_2021_03.gif"
-        width: 400
-        height: 500
         isCached: true
 
 secured: "/4f2Il+fNH3rVDKUbA3J4aE/aX3XQntvOOdYSdYRbX6q0zOwlUkT2DecHUTYq8/FQNyUTBz3oSJ+NM+CKmWA7qmBw3MPaAfkCsTeyJPEAmdbkjwpiusQIKlBn7RY+xd95/frs3pl3BhGXRxICwTn5Sx774qNubliOtE1e62LGYsXQ/MZ8tQU/vxQkVMD441Mac11wC0pd0avoMn4cuWyeb7jU32CG4eNkH3KZTfF56oARfwr3ybF8Q+t9/sx/fzkDRPOT4/LY1cArR1C8FCru2PKVZmiocP6lKpiNaHZffJumYH8DRqr0sP6vPcH4eB2tTCYPy3NIIvCKyHQij17j7truvFSlaZGNPfurl91UvgYnv+1OdwFPq0ieSC3O3JGLK1PkMNX6LkO901o9Lx6t45x53sDrJ2+hcH12Cax3xpVSwuxeyxkGOzE51Xsya+hthWjBiCzZwnijqzVtsHFgUwRVzK7TQgGNlxt6zonDgkRb8cRsiJSiCRDrSkbkZzE9+qN+fU09oAixadRyYjNKQ==;d5CdnU2WzWAYOcO4a+kDJg=="
