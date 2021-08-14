@@ -1,12 +1,12 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-publishedDateTime: 2021-08-10T14:20:00Z
+excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+publishedDateTime: 2021-08-10T13:58:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -15,8 +15,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -54,20 +55,6 @@ related:
       - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
-    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
-    publishedDateTime: 2021-08-09T17:20:00Z
-    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 47
-    images:
-      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
-        width: 880
-        height: 587
         isCached: true
   - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
     excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
@@ -121,6 +108,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "fNBBow/vRFKrER90EzLrvvOY30B68U3MEP0mCVjgLbHw0kfIbEFePHWlY4OFdO1IEy3co9AnM7FxoWCM9+11HsIYIt8H9aj9MCtaakHKwyKyXiCzqqWdXFs7OFkuRc5dQj8pqyEvMZ1AQ9+Tr2fuQjNeJmn84MgfKfPd0dwJmd11knYMgWdb5zF8G04/v6ZTxtP1TANRqGZv7uDjzgdLwNyDwWfto0yMug9OzT0BK7gxQBXOolD6zRWoUGja/oy4TG0fZfUgXNasuRzEUOAdMd1usFgE1CCuz9uDCVCrA/mUnDN1EeUn6DXBfctn7pt1xM2Z0/I/zNtNT6nlh0XgxLczYC0lItDsR6hte1sca3E=;m2yPlIvbUxgzxd/mztHDgg=="
+secured: "aziiCUjCXCXuRD7H4O9HI17WwQfpklCK2H8GY9SbOwOSOZGH2Nah3J60TguwSkpcoRW0E1rXwFLjLRhWXzY/EBxPc6NaTdFu7pTwyBpTUxVXO/nsyqtbapkAWPEXWMuZZqFC4a9wsvWG0cVtpQzzUNntT3+mnvWsaCnzpnlMsfFD/CKH1ge/nj8AzAAQkihE8PqTXzerDahd2YZHQNU7XkjRaib7Tz5Rv/jcPjTSOXaWUICviFtP8XL4Qb9488HidEtxFZw2iSpHiB8vIXc9/I+Ffff3nnKBGAL/Wya6Rak2D8FwtiKyzAO5X3JUn7ITwzGXzaTIwNB4i7m+Qox6W6M2YRG0v+egwE3wFXyAXjw=;B+KC+1pyqyV2mSbzCXNYZA=="
 ---
 

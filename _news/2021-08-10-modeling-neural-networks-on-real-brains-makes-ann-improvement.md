@@ -2,9 +2,9 @@
 category: news
 title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
 excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-publishedDateTime: 2021-08-10T10:53:00Z
-originalUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-webUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+publishedDateTime: 2021-08-10T10:15:00Z
+originalUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
@@ -74,6 +74,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3LT8wXElyCKVwJDNFNfvWKIY19aGqcRuV0jvhcl7K8wbUAbJrbxoFA5pBohEGhnnPN7sHWO4wfNqDV9IMesaBJlbHWi09zZkr1RCIYt0EszVskA0lPf+ZinjxkSG/9x2rZHFula0HZVXFLAVC526pVY++gOpH+pMLC84F9f/RKupu3AOuuq2Min+eR5gBuvwVkqX1e6g6tPYEPLCNTcQJtQcCh6oX06Q5xuJI71qAOFnZMwh+diDUgrp2gqCnKrl+TdkgvFVjjUngOvI2pFC2pL6SrvmVmCYV9FUWoNAjel1Fn0zf+ZDqV44HJZc1zvGstsOnYarVe7k61qJ8Pd92DyMPvT/0CZf6O+yTu1ccsU=;OVyBYtCrBouvyuKVGuvDIA=="
+secured: "rVLOC1LA60PH58/E9x0y6z29FHXG3iK8vae99AU1ReZrKcaAJU77oB9xKz+4kw04KJqMIId5FjB0XbS9Ryi/V+MoybAKvCCII57a5YTNoIDlgjy4YCwIPRVpyyLlxH7eDZ3n0fv+PYU0KLkrfUG3q5yoYm58FW9J5n/ZkyC0z+mmiKCDxORUnY4x1UiaGm9AzPrHjcbTRx0vF/dzI8uHFZp6viAnQk8aQRiWMpMWcjWHFPeeIneznqW6MjgnduZzSASvfJj3Bty7q+kuL2BSQECNXNOstII+Ax/TjsEtlESlvdbQgtCsT6e+Mp2IT3mR+1fpMdfZAZlEBdKtSmyIoNuVTvwEFxgMkk8q9Ze2GLU=;B046Yfefr+WeFS7xdS3mSw=="
 ---
 

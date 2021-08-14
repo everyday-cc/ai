@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
-excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
-publishedDateTime: 2021-08-14T07:33:00Z
-originalUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
+excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
+publishedDateTime: 2021-08-14T08:53:00Z
+originalUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
 type: article
-quality: 49
+quality: 34
 heat: -1
 published: false
 
@@ -17,13 +17,9 @@ provider:
   domain: manometcurrent.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
-    width: 750
-    height: 350
-    isCached: true
+  - Microsoft AI
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
@@ -88,6 +84,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
+    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
+    publishedDateTime: 2021-08-14T07:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
     excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"
     publishedDateTime: 2021-08-10T10:56:00Z
@@ -104,18 +116,7 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
-    excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
-    publishedDateTime: 2021-08-14T08:53:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
 
-secured: "3+JgQtdyO5jr3oHDLOKKmo+5xqPpnnHuh1ib3L7DfMrLX1Pk+jxhuibEfQ5/twg0uyrBKqG5ZET/vzQXMat8QU14r6ME+7QG892hbYj4jIx+UdaUcyolLuyeWBEEh+rDiKqYsdX7k93VO6w8FoWqdMU5+y4QSSUujr3kilxvSRtGQr96BISkHkWXopC+yM+x9dl5s/wdU+g+mXoF1PjvO+vtJg1aCVlyMRXmzyqctw7x1V4RThODW8EMgV/+FRiI2tmagDt6a6gE+HebibFm46t4Beh75RVhekqovk/byVX7gamhRN5e/Nca1KEAajWaNP0L4Lt+N9u7JmekHna7cCFP3HPNiIGC92Sv9i2KJrE=;BtHf4jQgcFk31ZItnWfR3A=="
+secured: "YUZVm3g1bIc7rn/GKn8UUz+OafD19nuLSFgcrUk1WBTfIPeE4D2oEAzyd1a/EWFrHmx7BNusRycrs4PtFMjNAvIX3iWGqsjGCOIoyjonpzKy9zAiS+7aBYwcqoDmYLc41Ijt7mkcFBNfDYwZf9d25ujXtusi4IWbBiPVblku6UzsDhvvHNFqaypRgRLDa2nERVCGlsQw4qp9GcFTzXJVcOTTOELX2Nm0TpAwOha3/4fzI63530hsHSdSU8OvWU0UmX+oc24EYPyl/vSGIRSZuFG+KSEtbJBUl8Ok+zMpwUO+9iVhDTdQtEO7RUoc3Gz1kTN59AS33tEvMDwS07DN2fSjLtWKmllk6DDl71HgGlA=;6Xqq/T+sHDSuHcrD7wxqJQ=="
 ---
 

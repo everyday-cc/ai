@@ -57,29 +57,15 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "New Institute Backed by National Science Foundation to Explore AI’s Role in Education"
-    excerpt: "A ed-tech nonprofit will join four universities in launching a new institute dedicated to creating artificial intelligence tools that can be applied to human learning and education. The effort is meant to encourage the development of products for use in K-12,"
-    publishedDateTime: 2021-08-09T17:20:00Z
-    webUrl: "https://marketbrief.edweek.org/marketplace-k-12/new-institute-backed-national-science-foundation-explore-ais-role-education/"
-    type: article
-    provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 47
-    images:
-      - url: "https://marketbrief.edweek.org/wp-content/uploads/2021/08/MB-artificial-intelligence-1220028784-880x587.jpg"
-        width: 880
-        height: 587
-        isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-    excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-    publishedDateTime: 2021-08-10T14:20:00Z
+    excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+    publishedDateTime: 2021-08-10T13:58:00Z
     webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920

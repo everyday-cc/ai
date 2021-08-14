@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -110,6 +110,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
+    excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
+    publishedDateTime: 2021-08-14T08:53:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 34
 
 secured: "Bi/4j+B6fNUohKFj1UbPIKpJj+/xjo3VwdvtynRrtmk8OAmf1pZreiBCvtnkxvqg9/aYq+XKY4QbFa+owJTypKcFOJZUdq8S/UFV5r7IAhcZmF1vNwyl9U/FwbAs3MNw6EiM1v9Gtt+5USASTUjVSc02tUfvRSu5MN4xgfqCYcQhK8xLiPvGj1lmFFJz3sTe4Q3FO08pJcUvUrm183GZrJ8/IF1RaxcdV+Ojw0Ano9b+/gjcLO6cl9EXDx0PjPBmYZxdL8gSjJFsc1CEi5euUSPgtgdA+pp3t1JpYnk5JLuizEyacxDdEzr+l3gFZvrAPV0YN8etfwCFhUT7k8J7cHMRlrcnzfUfoaWVtYeJx8M=;OvETX7O6/c217Wrvsu18kg=="
 ---

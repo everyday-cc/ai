@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/accurately-predictin
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accurately-predicting-future-sales-at-clearly-using-amazon-forecast/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 850
     height: 630
     isCached: true
-
-related:
-  - title: "Using artificial intelligence to predict where lightning will strike"
-    excerpt: "Lightning is a major threat to people and property each year, especially in the summer. There's a new tool that could revolutionize lightning safety. A machine-learning algorithm developed by John Cintineo at the University of Wisconsin uses artificial intelligence to accurately predict the location of lightning up to an hour ahead of time."
-    publishedDateTime: 2021-08-09T17:33:00Z
-    webUrl: "https://spectrumlocalnews.com/nys/central-ny/weather/2021/08/04/using-artificial-intelligence-to-predict-where-lightning-will-strike"
-    type: article
-    provider:
-      name: spectrumlocalnews.com
-      domain: spectrumlocalnews.com
-    quality: 37
-    images:
-      - url: "https://s7d2.scene7.com/is/image/TWCNews/goes_r_credit_noaa"
-        width: 490
-        height: 499
-        isCached: true
 
 secured: "5iJuNG8jD4dtGkR8lCjirxZZoH0Ax7NJeCbJeM/66YeJugBZDUfjN+jKnBpH8gFiZVIjCmdf505SmTbu4FMldswtNUo5ZH4kYMZOwjmKH0X4XEIrJzGEZjOvFuyT0Zhsbxy6SobHTGohG7ZN69+O35KKAuzVY/VEMdmJ45WXBPBXI8rrjz7o1xeYbRpKRzwgCowH18WWW7NQqIrNqUufk1n1j0bJ4HE8TNnMYZF2Zkg0/uHWlDUH+5HAUoZQy5J1iNoBnfhU6lh28QsH6UdHfbgdOquCfEDww7x0/izhuMO8sWwQCIIpKYT3aV4MM1kDmDhZsK8tqHJ/w24eBHeiREXpZm+UIjkYCeF4x0DgDFE=;PF6ofVKdLI+dHyD9hAklog=="
 ---

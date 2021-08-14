@@ -43,15 +43,6 @@ related:
         width: 415
         height: 251
         isCached: true
-  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
-    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
-    publishedDateTime: 2021-08-09T17:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "TANiB6HRz7XcnkfOXDladD3xLcU8QcnrClT0kH4P1Weln6w/GFwsthYltV3vu8r2+i22mwXrK41vmfBHvWtkdgGK7QEK1QVAzI4QRX/dgBCff9ybdWMmOrCzO0jkql3JRUPPe0JrSTqTP5Zx/Fzg7gdqBF3YMJhp92oK93fCYHjr/tALlYC09kiG/BpRCNRUMMcUeyAIKgdHC9iljjjzjLJ3wFbqf5C1zIdBXLT8B2CPWeN53CS33WVticPkfbRG3kA0/q8fjQX1lH/l2w6FMD11arH5Kp+ykEkanleCTpqPYvKnNyqOtKCc/OB0YTMsgBdlwlDPO8EFNM6FIjPXq7FM1kLidiqvfc8lBXUyaTmtAU7zxD8lZvUlcv8ls7QKB9JEn95y2/r7oNKmVDsWeJfVC9vqURg4bQVSb8E0u6H2GsFr/FphoHoeqJqy7OyY2AwJyS0Vo79aq5KMuXKNOFl96RcLC70gR4yxQ+1RevW38nvkJ3OLwC2d9BntnC8tpa4LDeR40DPOp+gCkYyPJQ==;hXsoBfMj6iDTTkpF23Ocjw=="
 ---

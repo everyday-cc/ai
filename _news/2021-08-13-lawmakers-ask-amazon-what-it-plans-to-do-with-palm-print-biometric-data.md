@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-lette
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 145
 published: true
 
 provider:

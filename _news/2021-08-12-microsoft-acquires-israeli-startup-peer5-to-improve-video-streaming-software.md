@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -127,20 +127,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 49
-  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
-    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
-    publishedDateTime: 2021-08-09T17:09:00Z
-    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
-        width: 4195
-        height: 2214
-        isCached: true
 
 secured: "TKfu9uEP2xd+BELrPs/X4JesonM5Y/Efh09mM184TnKJ54ZDQUrd+q7Mf3ykih5o35tKdR0gHTVZgvsWRZqVlsUKhzVMoqD83iELthI/Ts0gXsUOuQZrGwMPHgoxLK1oRxMOepOstCw30MsZAvs5cHy6t4z0ZFVKVNl032QRGeP5H7QLPcuov8+eFieEflUTXnGbcjRJ01NK+ByChxCm3t40bfLmdws8LjU5QNsAY0C0HVAAKyOBwItJsSTX+LJjrjFf6g1wIM09C6oYe2YKsLZzS/BMuaTDqfcAmagq8WgM964aOsNHo9J4IGTlAfNWhrtubSjrqGmJGQP2IuiczMAGrOsEzOdpfyOebzOPnyY=;jHtlKKkBU6FI9QHTGgY3pQ=="
 ---

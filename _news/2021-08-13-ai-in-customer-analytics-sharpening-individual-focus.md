@@ -126,20 +126,6 @@ related:
         width: 810
         height: 506
         isCached: true
-  - title: "Nihon Kohden buying predictive analytics company AMP3D"
-    excerpt: "Nihon Kohden Corp. has acquired Advanced Medical Predictive Devices, Diagnostics and Displays Inc. for an undisclosed sum. The company provides data analytics and artificial intelligence solutions for proactive clinical care."
-    publishedDateTime: 2021-08-09T18:03:00Z
-    webUrl: "https://www.bioworld.com/articles/510238-nihon-kohden-buying-predictive-analytics-company-amp3d"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 24
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Infectious/COVID-19-variant-mutation-coronavirus.png?height=355&t=1613068745&width=640"
-        width: 473
-        height: 355
-        isCached: true
 
 secured: "inz7K3QUT4+uuauYhFYhJ82dPgB53ETS45YJyL6rdJWJldeB/KCyQRprzJzi9/LQB6tfh6pDRWajaHBoZ7bOGwxr0oo09MOaSEGaQOQahKxl1rSM7TPPblUsDSwkawQJqW1bKGcKlCvb+xfwNjXPzp0F1Mm6B7xqCuaEqGUFxc43QJ6d3Hxgf3isB+oq6iyTJN1kjS4X4nk9hL39o3F6wV6ckEpunJXbOQd/wKH0VLI9te4jM9A3qvDXB7KB4Fw2CHNqjW+MWkR43XahagLfFiaTiQNRkDgdgKbL+1UcRpZ6JQBXDkmh3XtUCsFIuHL3ZtimL90S+vGoVyTlI5Ckp8tES91GntPDg2DPozx5Wd5UkquCRhvS6tkJZLMtRzck8A2oe++P8k0nV0l1azYVKQM6KZcyvD0RJTEpw/ipneXfoUYIdOKRInlv2ta+bpop8jAZCPmJXzjSsmgNyL9eHNVvBI0RQWv04D6E+a6DhsjFAogmGv77TG1u3Yxtgm4A/6BUn6ieSVsPJ7zF0ml42Q==;JERl4W0xQm16/FclWjEPnQ=="
 ---

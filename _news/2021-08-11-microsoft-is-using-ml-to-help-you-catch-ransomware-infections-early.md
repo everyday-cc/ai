@@ -132,20 +132,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 49
-  - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
-    excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
-    publishedDateTime: 2021-08-09T17:09:00Z
-    webUrl: "https://nocamels.com/2021/08/rekor-acquire-israel-ai-mobility-waycare/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2019/10/Indoor-Team-Photo_TLV-Yoav-picherski-e1570353547236.jpg"
-        width: 4195
-        height: 2214
-        isCached: true
 
 secured: "vLibMQCvZitxg/elRs3u+gZVeE1ipmc8xVh1Vp5qUIJiIeA/NfY2eDmCizaYPFDpXiuP2llB8dIGyVPQ0E0kg6gWBxlRyFMJcQsJ6H0xWyEGuxQZB33XOGCiriHKF+y4vMpChPJIb0Dm6PVW1ESfeAckUUyhfIYPRwqVtF0j9qFtAU6Qc8RD++OGfBCPylRD7YSVP04uXZBUPiaNVjei6WQT2Nz7DoCooV+TMcpfBzNIEYJTEJr9Q27jTztZc7jWH94/baYMffWRN0sGZ03rgCSrhu3L+yJ2TJJkWXZg5QmLT3J/+QxB2pRxjnWDJv4AtnWTUtLP18jV3VqffAqjmgErd/V8BCEKbxhTLh73lkrIeFM9XYI4JmRZz/w/5uvEdaebpSvwDK92izCcN6Pg1Iptcyha/DOKzkFm4hCx27/QR82qnUkrKkei4FK3OSCOYlLcbw1L1+Kt9ixxCpsMAiR+10wBPoveupVhtXY0TM/bO+EVv5KhigV1zAkpZ2U/BWLIPYPOMKnszeC8yevodQ==;Y+Ior5KH4OffXZKFKcd9Xg=="
 ---

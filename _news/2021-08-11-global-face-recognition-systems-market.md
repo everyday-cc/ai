@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2351661/global-face-recognition-systems-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
 type: article
 quality: 59
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store9.jpg.jpg"
         width: 500
         height: 500
-        isCached: true
-  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
-    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
-    publishedDateTime: 2021-08-09T17:30:00Z
-    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
-    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 40
-    images:
-      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 424
         isCached: true
   - title: "Face Recognition Systems Market to See Major Growth by 2026 | NEC Corporation, Safran Group, Gemalto, Ayonix"
     excerpt: "The global Face Recognition Systems market size is expected to gain market growth with a CAGR of xx% in the forecast period of 2021 to 2027 and will expected to reach USD xx million by 2027, from USD xx million in 2020."

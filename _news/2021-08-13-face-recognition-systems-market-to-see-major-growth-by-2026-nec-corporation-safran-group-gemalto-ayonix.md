@@ -59,22 +59,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
-    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
-    publishedDateTime: 2021-08-09T17:30:00Z
-    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
-    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 40
-    images:
-      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 424
-        isCached: true
   - title: "Japan firms to jointly develop facial recognition payment system"
     excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
     publishedDateTime: 2021-08-12T01:10:00Z

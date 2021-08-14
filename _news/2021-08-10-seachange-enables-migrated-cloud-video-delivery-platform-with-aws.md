@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-mi
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Rapid TV
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "GE Healthcare, Amazon Web Services to offer cloud-based radiology platform"
-    excerpt: "Hospitals and physician offices perform 3.6 billion imaging procedures annually worldwide, generating reams of data. GE Healthcare and AWS want to make the data more accessible."
-    publishedDateTime: 2021-08-09T17:19:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/08/09/ge-health-care-amazon-web-services-radiology.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "NiJ9HhHXm9GzvmOoPTyg/MvTU9zqb28sEP09Ut7maGQTzPx8Se57WTh1U9OIkXoyt5GD2Nt+hfhCLJT71f1/P4OhRMSicDxIxN8E6ZXKcubJyFE71MpsLU0F4JbmIZCU31W7WBZelnxMFI+T9g3GdQS3n1gcpejI3fOLVLUVRHFtuHeaAglBTbHrC7Q2fFaIc+FyMUtZTx+1vF93nJtuWhSnd/GYkpXXkaYetL3cd7iM748P1OTAMf35iQ2emFuzWJp3fHggunzLmrA+aweeh/Dr01pUntfs8kp09qLpsv0dTe3/+PhbpJe5j8x2SwukjuNdzwKbdfIyE9AA5mR5BPXpgHhVSlk8H289rGRXEds=;KMlnvRfXhwDphjiiUL5i+Q=="
 ---

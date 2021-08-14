@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fujifilm Introduces its AI-powered Product for Chest X-ray in Japan, in Collaboration with Lunit"
-excerpt: "Findings detected by the AI software are shown in color as a heatmap display, with each score included. Through this solution, doctors and medical professionals are able to reduce missed cases and ..."
+excerpt: "Fujifilm Corporation, a global medical imaging device provider, today announced its AI-powered product for analyzing chest X-ray 'CXR-AID' will be commercially available across Japan. CXR-AID is designed to better detect major abnormal findings such as chest nodule,"
 publishedDateTime: 2021-08-12T12:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/fujifilm-introduces-its-ai-powered-product-for-chest-x-ray-in-japan-in-collaboration-with-lunit-1030724382"
-webUrl: "https://markets.businessinsider.com/news/stocks/fujifilm-introduces-its-ai-powered-product-for-chest-x-ray-in-japan-in-collaboration-with-lunit-1030724382"
+originalUrl: "https://markets.businessinsider.com/news/stocks/fujifilm-introduces-its-ai-powered-product-for-chest-x-ray-in-japan-in-collaboration-with-lunit-1030724265"
+webUrl: "https://markets.businessinsider.com/news/stocks/fujifilm-introduces-its-ai-powered-product-for-chest-x-ray-in-japan-in-collaboration-with-lunit-1030724265"
 type: article
 quality: 34
 heat: 34
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "dHBVR1OTk2/qofETnQiB+EjnBpNGmbQ2kWAb3fPKrp0SooFUDQ/NdRS1L4C/dhuzt9gyeo1DyAJp2jpkSu9kW640WoEEhVk2qgEeYi/wBUgDRjGA+/5d3tW8K1ZU++1Ypn2Ly2IKP0OhSFxKDGGWLK6mdzKnhl3eec1zVExgMBk/DVBMTYEkvuTlCumVQcoLhFeXzs8dcYP3CAmeluQJOAxiI054VjTTN1UMN40mQ8qhuE9CQeXZ1BA2zccJ9DM/+Nt5PDNfZjHj0tOn1WTmbGhipamfEX+crEjnUPcAYOQw09LTLT7z1g60nvnoVqIbXbw+SBGX1m9s+RevpGZRKE/754Gl8LY+PztupFUxJXjNatoa/ENg0kLN0a5wZ4mLRdvPa77Xy26Sdq1YKJZJCz9Bc2ZhgcQS6R7+UIN/ginqHggVDSK7S5SxhTre0Q/PqdLg68DGqmT9FoSejrkiseS13sO/q0xrb6UJpKcYDJAjGiq9cJp5NF8V+hSjYzU/FPiOlv4xKvQV1BbtmYUxjg==;48wLsYpXFnuguYaviDxS7g=="
+secured: "bVvYWlvPaBtGjWvCDs/CAvDQTHgkqlIt+D47WdIqd0rNoPaeUPWeaDJOimpMedtwFKHUkUcTQhno85qXVrjwrJFzcnmOiACQAertDfh9EMhNrYDSRCJNMnrWt/0/0gaqszgTFUV5jwHwUeBVei86KE5jSs2vfTELMJydz4zFpSH0REfzQGB0CYLCEIYilfYrwhP6gHXg5ccneFTHzMVVruPxv8Xprb2lp9F0TV8XN4JQfjltxfjG/rHBzT6xN29xNhHzwubfz2+mTWFImJRZ3zD/SxPdCIxhgY5zR9dQQNIGiHCX+OjkOPyEah3SSZ4Rm0el8GgwF4dGyI1RhUwmYCpyHx7YDjvf6p5S1sHqZ7H3Gn8R54qzu5/SRdpOB+6J5hvlZ+2YeJ0Zt/iX2K+2w6hVbzAezeCzwNEVcIQeHCNu+3S2MM1Jp5SusfhD+ezwisnxDLcTv1NhnYFyR+KLYLlRgSS9ad3taQOpM9aUI3LH8eKtJZoljdLTdcOP8OkiJ+CGa5UxwxPLgcf4YAGwBg==;bPoylF60i1WbFWPRzgHnBw=="
 ---
 

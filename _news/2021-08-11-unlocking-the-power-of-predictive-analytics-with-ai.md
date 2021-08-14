@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
       - url: "https://assets.vccircle.com/uploads/2020/10/fundingrfxl.jpg"
         width: 810
         height: 506
-        isCached: true
-  - title: "Nihon Kohden buying predictive analytics company AMP3D"
-    excerpt: "Nihon Kohden Corp. has acquired Advanced Medical Predictive Devices, Diagnostics and Displays Inc. for an undisclosed sum. The company provides data analytics and artificial intelligence solutions for proactive clinical care."
-    publishedDateTime: 2021-08-09T18:03:00Z
-    webUrl: "https://www.bioworld.com/articles/510238-nihon-kohden-buying-predictive-analytics-company-amp3d"
-    type: article
-    provider:
-      name: BioWorld
-      domain: bioworld.com
-    quality: 24
-    images:
-      - url: "https://www.bioworld.com/ext/resources/Stock-images/Therapeutic-topics/Infectious/COVID-19-variant-mutation-coronavirus.png?height=355&t=1613068745&width=640"
-        width: 473
-        height: 355
         isCached: true
 
 secured: "FJ5nV2MSbf1ZLlzt7ofYfat8YXCqDThfIjnu+dSJJgkUk1b2Z+z1X+Z2gP8i0bE+4LNrE+b5YsnX71DwWjdGA0iBgVYnuIT7LREvpWkbuK6hvCo098GPsCealEQ1wubk6qL30W1UgYwYrId6/64fq3upLu5jIp/wLJQDkZFAZA6XwOb0q8hTVvaBqv0MvUlPy2PKMJykUIUM5k/cJJOm9taSIBv11AD0fSjEgaR7PItUnwA9WarXnX1lF/d5+Kvt0H6LBsO/kMrIBFVCgNlDiXJ81zstxuH/jdjNQwyG1GyDEd9l/am2FGpykUaENG4ABT7V+9CUBJuoeNy5JhzsSJT3YwmUfGJgBzG4DB3Wcnc=;ISJVJtVPdL2o7MzqQHAXGA=="
