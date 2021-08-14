@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 10733197
+        "followers": 10733031
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 552,
+      "heat": 553,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -75,7 +75,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1060036
+        "followers": 1060033
       },
       "yearFounded": 0,
       "locations": [
@@ -181,7 +181,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 67842
+        "followers": 67844
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -234,7 +234,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 23370
+        "followers": 23365
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -297,7 +297,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 18275
+        "followers": 18277
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -361,7 +361,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 3732
+        "followers": 3733
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -405,7 +405,7 @@
       "twitter": {
         "username": "neurala",
         "url": "https://twitter.com/neurala",
-        "followers": 2285
+        "followers": 2287
       },
       "size": "11-50 employees",
       "yearFounded": 2006,
@@ -520,7 +520,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 6388
+        "followers": 6390
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -1015,7 +1015,7 @@
       "twitter": {
         "username": "voyage",
         "url": "https://twitter.com/voyage",
-        "followers": 10250
+        "followers": 10249
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
