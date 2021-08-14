@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-imp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon Updates Video Segment Detection Software"
-    excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
-    publishedDateTime: 2021-08-09T15:31:00Z
-    webUrl: "https://www.tvtechnology.com/news/amazon-updates-video-segment-detection-software"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/amazon-updates-video-segment-detection-software"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 44
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "6+hTGkdqcmFc0S0quXVKf6azs6dM34D9iS+JeVeTrXx3b9ARZSpBFpAaFTeo6ygB+ozAK0MUzweYP2lSYYiNdlL9MsWsobxYYWVfhDIpZ6ThOo7JPaRWdj1D31fmAe2ZMfGYLsf8/Y2hBRACrZcKxCJs13O8eP3HsJCe/8ZC7l9WzvBp3CtcmF2t4w4Ct0Yw7H9w2qoyubJs3yrZELqur+HL0JpcB0nXtGgylSIWpHxzPg3BEtKvJNSRDPatWB3F2a3BQ7VTU97ByU4YuqhRybRw8LAZEgCdGVk4XdGqe2FgDGqr7EywjozH7ETxJmFZ3jQFuvtJ8Htc4SrNarf5hxl/3w7cblRgpxslhIEI844=;91ZUBb0YeCXRTHPkHc6ICg=="

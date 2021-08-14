@@ -69,20 +69,6 @@ related:
         width: 1862
         height: 1125
         isCached: true
-  - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
-    excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
-    publishedDateTime: 2021-08-09T15:55:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-moves-imaging-clinical-analytics-platforms-to-amazon-web-services-cloud"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 48
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
-        width: 880
-        height: 587
-        isCached: true
   - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
     excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
     publishedDateTime: 2021-08-09T20:27:00Z

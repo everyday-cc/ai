@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_nyse-snow/its-time-to-take-ad
 webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/its-time-to-take-advantage-of-the-smackdown-in-ai-stock/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Take Advantage of the Smackdown in C3.ai Stock | Fintech Zoom"
+    excerpt: "Snowflake Inc. provides cloud-based data platform in the United States and internationally. The company's platform enables customers to consolidate data into a"
+    publishedDateTime: 2021-08-10T23:48:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nyse-snow/take-advantage-of-the-smackdown-in-c3-ai-stock-fintech-zoom/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/shutterstock_221055361-1-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "8Y/Ju3wViadxIRWAAUiS//g6lXezVLaIrHzvyEY65fGHB4cKgvANgBVAVMyW6QpTPoKM8n4KetOb9hw16zVvgRrO5kCeoZwfrV5HYaPoR2XWyWjw3lmTjxt8cAtxZpNntVRdmK+YWc8N71dhral6A7x6ydUKqRYRFF4Nx71VpC6ITSojROnH7/a6f0kxy9/bPA9StCgjeQd430uRz3bY+rswpmu1J4eTwbw5G/wit/yMwPXNlKJflFU1MSv+DTORFw9ALr246zKENk6dINloJXV5fhPr2A9+/EWpSGO2UEMKg3r3k5LkMdhLMscuJUWh+Cuo+hN5E8A9vPIuB7WYFGR5T6ellqDfX07XQ7QSoOfxJAIoBPmzXyjk2AHu8efHOfN1w9Z1pZ/zNBOwIFfnntLm9VPU2tgMutTuwLXJg6UInndFeTQJr5hny4JicAaEx5jTiwJTLv9rFJ8yODcWuhCI2v6vBdqX8bkLxCWwI5ixzWeZnp8XLLiZWrFeUHqlE0IvGx/SAdHdpgjd4wraZg==;M3BPbBCnpLXYZKup/Sz+6A=="
 ---

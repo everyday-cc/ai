@@ -2,9 +2,9 @@
 category: news
 title: "George Mason University: Aditya Johri Receives Fulbright U.S. Scholar Award To Finland For Research On AI Ethics Education"
 excerpt: "George Mason University Professor Aditya Johri has received a Fulbright-Nokia Distinguished Chair in Information and Communication Technologies award to conduct research in Finland during the 2021-22 academic year."
-publishedDateTime: 2021-08-12T19:36:00Z
-originalUrl: "https://patch.com/virginia/vienna/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award-finland"
-webUrl: "https://patch.com/virginia/vienna/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award-finland"
+publishedDateTime: 2021-08-12T23:36:00Z
+originalUrl: "https://patch.com/virginia/lorton/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award-finland"
+webUrl: "https://patch.com/virginia/lorton/george-mason-university-aditya-johri-receives-fulbright-u-s-scholar-award-finland"
 type: article
 quality: 45
 heat: 45
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ixd14//lmRYOrjF38Hl6T17fQ/QViW4XZsphYPogOcj4DhQu/+EGpwPoR/G1EWEKypNw51d8WUuzXnYAA3nGkjYb9asx083Y/0H4h0RZWf62yKVj6Lxxe75l5QilQb3UufAjUv9YnwY8eMuAmWDPSQW2qO8npo+ZjsOn8VZOGFqNWZZ2DxCMqkcy2acoitsO9NDXvNGwO3G5y12QHV89AXHMfMpxbfX7KqgU7VZPMMxekg8LTjcqGHYvwy8jXetCTXrw0SS+6KBPfetm//AyTR9Jh9ykOlmpcrz21SKB+yRydcbvi8lp++yW7fIlHfV7J+V4SOcKBe6wcLh9DkDXSqrQdj+0dmZxa9r8xQNWqF8=;Yr7hfwimWs/KDDa+HOLTbw=="
+secured: "wKjzv5rLvfKEJJmFIWFPp/LUM+EWL8CV4TUxlVEPthSecZiHlHVrRcdHBghBDMG66o7lJ5E0eai9Q7WL9gZ5ncYJ2jyQc6DYDSKC3TgfW2+x8ZkK8IeJEMIhMBhtZMFomzUT3cjh/HGQiNs0IYV/rlXZLyk9fJ0MswNfKpsI17+lbyclXm6S/AkQlSuRZWIKwkoIar9OqodK9wnXA1JaJG1L6vR4LC6nPKuP4Wr6V+2/UxpsmT4M2Wvz+MeF9JV/wlGU4alLK/hOKHaG6Ig3adXkn2JDgQt1SuhoHqp4ADjau9U1J1D2/7I/MsECPkgBlCCOSV9uEQVfgRU8chok9q169ageVsC/HDKAb2sCvDA=;IR2n81eAt+pEbr/0lrHdHg=="
 ---
 

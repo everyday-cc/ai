@@ -72,20 +72,6 @@ related:
         width: 1862
         height: 1125
         isCached: true
-  - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
-    excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
-    publishedDateTime: 2021-08-09T15:55:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-moves-imaging-clinical-analytics-platforms-to-amazon-web-services-cloud"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 48
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
-        width: 880
-        height: 587
-        isCached: true
   - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
     excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
     publishedDateTime: 2021-08-13T07:00:00Z

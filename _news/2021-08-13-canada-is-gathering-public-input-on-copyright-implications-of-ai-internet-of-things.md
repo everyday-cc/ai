@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
-    excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
-    publishedDateTime: 2021-08-12T14:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-f3cc8f92a462f64942c1bf2ea9eaad6c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "SHdhsllFo6r6WE1Vc3vhCCkwq2yH5VRhDh/nEOzHOgD57KDwsI6YmimY+rEOWhUPJ6LQUyiOhGL/IGEJ25NVE3+o252Mo+RhtoNOhrxwJOgFTei8ze9fSsBedJFBjUNnQaVgppNi0OdSu4J34s7owNnajeIHTOyXFPZGcAirprLZWovTY2MBMIQBWy8OzgfEWsjyfDPdoUbt9k/ZuR0BdVR+f8/49zQBh0mPDvvn/msD0Yk/ms27dZWdcrjmxbKKRQ6zIBlf8iZerZd+wjsYMAiLL+mcCvM6irAtEEFHGOhxUT5Aj47M+3ACHxssGfykMSJQrLGtHHsf+IBwQ2i0khhi+FSs9tGdd1jogaTB0IugfBnF2p3pwD5lhwgDkiA9CYR/yXlvj8mySoZQBNsh8qA3M8yHo4JWNlpkmSSI/Q2NgODzY3LsC2bYWKc1sSKDeiIwuUjZZM9akNse4tlMsn2ru9EO7VeCWaME324RpR6uoBgm9ufxolTrYYuk3j7Ahab1I/JHVbyx+ImvyMEvGQ==;V+ojsJiWruwHH4PBG144xA=="
 ---
 

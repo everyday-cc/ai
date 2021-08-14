@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Canada Is Gathering Public Input on Copyright Implications of AI, Internet of Things"
-    excerpt: "Last amended in 2012, Canada’s Copyright Act is due for an update. In July, the federal government launched a consultation process to seek input on the reforms, with a special focus on what is required in response to the proliferation of works created by artificial intelligence and software-enabled products connected to the Internet of Things."
-    publishedDateTime: 2021-08-13T14:00:00Z
-    webUrl: "https://www.cigionline.org/articles/canada-is-gathering-public-input-on-copyright-implications-of-ai-internet-of-things/"
+  - title: "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide"
+    excerpt: "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,"
+    publishedDateTime: 2021-08-12T20:18:00Z
+    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
     type: article
     provider:
-      name: Centre for International Governance Innovation
-      domain: cigionline.org
-    quality: 32
+      name: Forbes
+      domain: forbes.com
+    quality: 70
     images:
-      - url: "https://www.cigionline.org/static/images/shutterstock_1717788955_s.2e16d0ba.fill-1600x900.jpg"
-        width: 1600
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "tF8z+RaNbz1yYFVEnP4iSK7S6WIzL3rd867r1MBv9XnDNdjtR7FA9bLayVKwGltVoabImS7lgFq1tIvReNxOrSCmxlI8Gsnaz/bR1dQUxRlH5KsPEhDKy44EwHGNu8mTEPwmfEZ+bpE4737qQc/WnnGNkpmyWFKShQhnnW5pUQtUNhQJRlYH9r/QqKrSTBBFeEgKlQKkVSdDbywbU28jN45H6jiVBy203xbhBz2mJ3tZHJRLQdZWI/cQbrfAfkKywBQ65F3OxEzGiD7x/229o7zYt4AeNn+wQ5beR+9HtCqMGUjgmxsZWh1XqviBG/V10prGobTch+o8JB36iZGEWoT/lqPhUOMhZ8u3qJqgU7c=;Ex/3eObhbUQDRMbCg5Wiug=="

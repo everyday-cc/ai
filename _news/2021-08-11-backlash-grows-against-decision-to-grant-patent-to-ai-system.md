@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-sy
 webUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1592968/WINT_fire_suppression_systems.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "South Africa grants world's first patent to an AI system"
+    excerpt: "On closer inspection, the patent is anything but mundane. That’s because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS ("
+    publishedDateTime: 2021-08-10T09:15:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/218817.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2108/623025.jpg"
+        width: 800
+        height: 665
         isCached: true
 
 secured: "KL2+xNkT9wYVIYZ/DtSRReUIdtkogWdQ8h+3C/EzN5tTooIsi21JvN1uMeqf33e4g6ufYljhFxBX5pXlNzUneFn5QpZR6s7oJ0Fhi10BhG5+3qCyoi5Vep3RdaRv9TfiMKMi/GXDEci6RI4QUlBAE7JxgKtCeY35JLv1PLfNQPH348ELQXY5f8jiyRKfPVFyrGJGlGjPDx1XHRwvdIKMHGHiLnNzXdB/s6iw0sol2gJxhJxYqPjFYHp3VvZEe2dmRMDJDkCiI2WZV0znSGCuv8gr9Y5pObD/HJJsYH1EWOb50fnDIMQMWXST+DFWjamHRu/X/bDl8IIed9K7IYaLax8sY0JuOok+I2EjsgUvuH2JxSjWRWcOc1T6Wf6LAaENUp9FcnuRjCPmC3AOKJu8bldcYjswfrqMjjESz+fxsf0oyeJLW9HfHfTEiIkzL3ooO/mcQdS3WUNhPyVUBdzvc+kF2beIJneM9g5M1vvGmtasGmJNn9/OYp4d72c2yh4QenXqOLT230chFnsp0eryLQ==;k51V7VRyaJkIi/kX/sCUWw=="

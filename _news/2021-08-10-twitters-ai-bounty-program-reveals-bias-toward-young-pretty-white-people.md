@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/twitter-ai-bias-beauty-filters-13321005
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 5000
     height: 3333
     isCached: true
-
-related:
-  - title: "Twitter – Twitter just led the first-ever “bug bounty” for AI bias"
-    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
-    publishedDateTime: 2021-08-09T16:31:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_twitter/twitter-twitter-just-led-the-first-ever-bug-bounty-for-ai-bias/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/algorithmic_audit.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "BoqsPnayckKrVji5cK11P9FySmfo6RzsscR+q1QvYAPPJAc1FznpykdplO4Q1ccEDib7r4h1sz2h+kUJIv/lkStO/9pv+yoXJbpKN/sAFoKDPi5OEuguvNrRKlTS2EkRl3MJIgcnTqH89eaqFcjI/2sKEDZ32NzMAAbuP+JaO8UERP207rNULps3KFtARketz4GhDNqu5K2pwha0b+vc6O9Q0MD6KK9CDQAaqU7aPST0P1+z17bMyYrFatCvcihmjIHdjMiZj+PZvsZ22LrUMmbXsilgWy1kJKuPvya+t6aST4oa3OMBXGK5RzeCPDGxulpr+ve4dIOGMod8OuzgiugQbZ9floxx8LkwcsjCTd8=;T1n33mdT9JE5DOWc5lQs9g=="
 ---

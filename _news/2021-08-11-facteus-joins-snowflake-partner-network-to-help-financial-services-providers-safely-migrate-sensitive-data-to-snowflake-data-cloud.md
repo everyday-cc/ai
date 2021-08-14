@@ -26,17 +26,6 @@ images:
     height: 277
     isCached: true
 
-related:
-  - title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
-    excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of t"
-    publishedDateTime: 2021-08-09T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210809005237/en/Facteus-Joins-Snowflake-Partner-Network-Helps-Financial-Services-Organizations-Safely-Migrate-Sensitive-Data-to-the-Snowflake-Data-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "7TDEf1n9OucRPgBZD99+dyK0WfgVgNWE7ME0vBiM9JQqWBp5jQgH+MwAdSrdGgIjzoAJ3Xj4Szp3a+5xgVwsIw7m4vr/PrmHbyJ2UQLOL62pGYUD2NgN8Q96Xt0P/vFIcVvHkAf0vXgCoKepZiOw3nR/I/6cs6EDk1+NDYzex+HTnUgyph8lHSweoNbKRMXUE5m3xAlR1ZYgQKCO/7QyuLtcXFtGIiv71f2++/0C3k6voHQ9734EXLwOX++eZK05qf9Rt0jHkx4zUlkl6hlIBSbLSRLGvMBCAl3Icdb0efQOBnfjg+LAYNmao3sfRgCr4R/AAGrSFB4PiNFTox6BZh4mUotWhJGjoCKJTlbgubgK80FJatjmauBpuOK9nb1bqGK1DcFCx3dio3cfkMqFOgzWLT4y6A+buT8LsVK5oi3mPFzRM+lg5RVEfq7sU/CEAvNFjUpx+MbClh/Fs2h9koOTUTaecWpTMzs0SWCgkuN0X/h81nbJOAvLt+wN4tx+dQDoYVNS6WBozjrcubijwQ==;2XBjicgkMc7N7eHv8DwL2w=="
 ---
 

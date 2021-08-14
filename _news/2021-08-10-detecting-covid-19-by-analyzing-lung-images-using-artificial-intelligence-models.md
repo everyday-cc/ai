@@ -24,93 +24,94 @@ images:
     isCached: true
 
 related:
-  - title: "There Is Increasingly Mounting AI Technical Debt That Is Going To Inevitably Sink Some Self-Driving Cars"
-    excerpt: "One unspoken aspect of today's AI systems is the incurring of software technical debt, which also pertains to the development of AI-based self-driving cars. Here's the scoop."
-    publishedDateTime: 2021-08-09T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/"
+  - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
+    excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
+    publishedDateTime: 2021-08-10T17:21:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
+      name: Medindia
+      domain: medindia.net
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344"
+      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
         width: 1200
-        height: 675
+        height: 1000
         isCached: true
-  - title: "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide"
-    excerpt: "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,"
-    publishedDateTime: 2021-08-12T20:18:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
+  - title: "English schools turn to AI to help students catch up after Covid"
+    excerpt: "An unusual teaching assistant is waiting for the students of St John’s primary school, in Wigan, north-west England, when they return from their summer holidays. To get them back up to speed, after a year of disruptions from Covid-19,"
+    publishedDateTime: 2021-08-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    ampWebUrl: "https://amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9feb48f9-abc8-4488-9e23-610d352828e3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "How ADAS is altering the course of the self-driving dream"
-    excerpt: "Some predictions about self-driving technology have not come to pass. Instead, autonomous shuttles and trucks are here – and HERE360 went for a ride."
-    publishedDateTime: 2021-08-11T12:50:00Z
-    webUrl: "https://360.here.com/adas-self-driving-vehicles"
-    ampWebUrl: "https://360.here.com/adas-self-driving-vehicles?hs_amp=true"
-    cdnAmpWebUrl: "https://360-here-com.cdn.ampproject.org/c/s/360.here.com/adas-self-driving-vehicles?hs_amp=true"
+  - title: "Researchers employ artificial intelligence models for image-based detection of COVID-19"
+    excerpt: "Medical imaging has long been a vital tool for the diagnosis and prognostic assessments of many diseases. In recent years, the use of artificial intelligence models has been used in conjunction with this imaging to augment their diagnostic capabilities."
+    publishedDateTime: 2021-08-11T04:30:00Z
+    webUrl: "https://www.news-medical.net/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
     type: article
     provider:
-      name: HERE
-      domain: here.com
+      name: News Medical
+      domain: news-medical.net
+    quality: 49
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Women in evidence: recognition for coping with COVID-19"
+    excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
+    publishedDateTime: 2021-08-12T04:47:00Z
+    webUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
     quality: 44
     images:
-      - url: "https://360.here.com/hs-fs/hubfs/Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg?width=1969&name=Aurrigo-Cambridge-Self-Driving-Shuttle.jpeg"
-        width: 1969
-        height: 1068
+      - url: "https://europeansting.files.wordpress.com/2021/08/covid19_-1.jpeg"
+        width: 1050
+        height: 700
         isCached: true
-  - title: "Artificial Intelligence in Music is Creating More Creativity"
-    excerpt: "Assistance of artificial intelligence in music is helping musicians to grow their creativities more. Using machine learning models, AI software, artificial intelligence is boosting the music industry."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-in-music-is-creating-more-creativity/"
+  - title: "Machine Learning Offers New Way to Detect COVID-19 Infection"
+    excerpt: "Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests have emerged as the standard for testing and confirming COVID-19 infections, with nearly 80 | Technology"
+    publishedDateTime: 2021-08-11T23:00:00Z
+    webUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection"
+    ampWebUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 37
+      name: Labroots
+      domain: labroots.com
+    quality: 39
+  - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
+    excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
+    publishedDateTime: 2021-08-10T01:21:00Z
+    webUrl: "https://www.eventbrite.com.au/e/use-of-machine-learning-to-find-effective-mitigation-measures-in-covid-19-tickets-166011702471"
+    type: article
+    provider:
+      name: eventbrite.com.au
+      domain: eventbrite.com.au
+    quality: 38
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Artificial-Intelligence-3.jpg"
-        width: 900
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
+        width: 1000
         height: 500
-        isCached: true
-  - title: "John Deere Self-Driving Technology On The Way"
-    excerpt: "John Deere announced self-driving technology with the help of Bear Flag Robotics, a startup that began as a part of Deere's Startup Collaborator"
-    publishedDateTime: 2021-08-11T13:36:00Z
-    webUrl: "https://wsau.com/2021/08/11/john-deere-self-driving-technology-on-the-way/"
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 24
-    images:
-      - url: "https://media.socastsrm.com/uploads/station/1946/fbShare.png?r=67880"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Vingroup tests self-driving electric vehicle in Nha Trang"
-    excerpt: "Conglomerate Vingroup recently posted a video on the trial run of its level 4 self-driving electric cars on Hon Tre island, Nha Trang city, the south central province of Khanh Hoa, which is developed by the Vingroup Big Data Institute (VinBigdata) Research Institute."
-    publishedDateTime: 2021-08-12T04:06:00Z
-    webUrl: "https://vir.com.vn/vingroup-tests-self-driving-electric-vehicle-in-nha-trang-86610.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 24
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/hung/082021/12/11/in_social/vingroup-tests-self-driving-electric-vehicle-in-nha-trang.jpg?randTime=1628805684"
-        width: 600
-        height: 385
         isCached: true
 
 secured: "Aicb2si6s5pH27yELd0E9/fAK0hNEGkcdXqVG1TLKdZJsMbUeylFtedQu2iMgsnDnNQze/ht3TxYkEqZb7yIO+grwCeNOxaZRXFk2XeDqPXb2mlR6Ect75xF2frr73jThp1ea3VMkBDf73IP5qD8KTaiOAvR8zbUw/6OSE42cyYCRdKdXzKP2rfVX3qm3aj99VVjwU8ytFLhX7JXxkgzIru4JePT/U5ALhDcDBz8crYdl6Yi5f+JDOgSpJMjuTkqO0IHeIepm1UutUkZiPHiE6NDB8sDkMs/F5lR137KgRLqVXI3C6TmM5gJ+KhYUsyWXGkxiaZD6MwsSoustaFoK1pj+nfOjegbuMCuJPNVlopWYHSduV1fMrJN4OKTjRt44nJ31CSoQhB4LRdLz6WIl/6DKIZeXw1NX1m+NgKYv/iP2azH06fAeSqgaZ97GfIAdcZGMau0z9BiLbmzsCjkr0TrMiHIfeG3pPNvtnfDoWSXmivyjqLMj7YR6FN547o6EabncsfHutupSmfbxViLog==;qTkwMKPXQwF/giU7bMOqQg=="
