@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 960
         height: 684
         isCached: true
+  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
+    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
+    publishedDateTime: 2021-08-10T12:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "uGadDrys/tbQEqpjrrmGkig6kJpff1TcASqYGfF7H942YfRGAMtIsefMZ6Z1hwpYhHPBRRwwsypw45qxP6vVR1KMNM7VD+XjIL3NTh2fhz4NnyotsQueS24j1LRlBfux9cbx5HsIe+xdVze5B/8nikkOw4nO+b0enLJukCpfnwqyR54r0yXTBPf1th6mBuYOd57dELqdD3+DxONMQ2GwJ6v5Mt5qfyMXCz75KtZvjM05vY3GG5j/8SfzEDQ23Qb76manrLBIpTN6SJwIRqLesfZhv3f4zBmP9Lp42jLrF29Y0qMG2XHgaGiy0LfZkiV9MiLc10Wm2OyUpGkwnVWkhDcB45iCP8Rfocjg/vu6LKmWLYnvJjgog//JX8A+xCCAxuVlGiyvxtdOrIOHAtyrsmRMR5zHWEfd/BkJkwB44IjLvQhHsqDmWqRke41f5GxM1dQdPCBkI0t/kxfrqhDKfk9cMC8PGhXebnaD97dSDFWpbI8OpcLaAtnfaImyWYNAi0LTGOVkOeS48vDXu8Tx6g==;U3DfpPurWGL3UNSsL/p+5Q=="
 ---

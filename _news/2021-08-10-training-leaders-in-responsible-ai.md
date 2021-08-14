@@ -19,73 +19,101 @@ topics:
   - AI
 
 related:
-  - title: "15 AI Ethics Leaders Showing The World The Way Of The Future"
-    excerpt: "There are leaders and visionaries across the globe that are paving the way and setting examples for every business to follow when implementing and leveraging the massive power that AI possesses. These people are AI Ethicists."
-    publishedDateTime: 2021-08-10T00:09:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
+  - title: "Three Considerations To Keep In Mind Before Investing In AI"
+    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
+    publishedDateTime: 2021-08-10T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111c7721c4a31b2ae419c4e%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 652
         isCached: true
-  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
-    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
-    publishedDateTime: 2021-08-10T12:09:00Z
-    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
+  - title: "Assessing AI Security Solutions: Questions to Ask"
+    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
+    publishedDateTime: 2021-08-13T13:24:00Z
+    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
-        width: 1200
-        height: 628
+      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
-    excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
-    publishedDateTime: 2021-08-12T04:01:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
     type: article
     provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 52
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
     images:
-      - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
-        width: 453
-        height: 640
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
-    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
-    publishedDateTime: 2021-08-10T12:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-  - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
-    excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
-    publishedDateTime: 2021-08-09T23:17:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/get-ready-future-artificial-intelligence-war-realm-191508"
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
+        isCached: true
+  - title: "ZIM readies AI solutions for its shipping operations"
+    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
+    publishedDateTime: 2021-08-10T05:54:00Z
+    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
+      name: Splash 247
+      domain: splash247.com
     quality: 37
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/AI.JPG"
-        width: 3360
-        height: 2276
+      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
+        width: 900
+        height: 537
         isCached: true
+  - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
+    excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2730215/admiral-discusses-potential-of-ai-in-missile-defense-testing-operations/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 36
+    images:
+      - url: "https://media.defense.gov/2020/Mar/12/2002263259/1280/1280/0/190830-D-N7474-004A.JPG"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Net Digital spins off AI software operations into independent company"
+    excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
+    publishedDateTime: 2021-08-12T14:32:00Z
+    webUrl: "https://www.telecompaper.com/news/net-digital-spins-off-ai-software-operations-into-independent-company--1393508"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "pp8dxWF+hedY0279dLIziaVcruqGJjv66h3VY0eDCVoWtWGL9ew65e5Ks9AzGk6H9wPV+9cAS5J9aSbzpdBz/tju1t9dnJlbnuBPDtrcphcucFmMCjg4Kl67NHxU4eIkxwU8cgVqsfuhzydvCLXE4yhyAQv6u+nR4Y+2Lf1LWSvBJ9PPspCPi2HSDvokpA0LFc0u883DEfDpFNVWCXj6ifJmDzVeRPMd3MrjYeccLKEVS5Yjdvh17IfjDMhIoSuFl9wbW6b+bMGxt4WjlH23+8tPNp2J+AbloQmw8pWsSWaETc/giQ45ptTZR2Kshn9fr3UGqJjEm+HLi5662r3PjuAI5UB4JQc1BuSc7hzCccZpt4BdVP3mY1NZPRja5Zo/cCG1Df1THAZnVxtlAaRbrFlbBNpIEu2xd7va1sMhHDeuDK5RbtGeKlP/RY21ETAy3wKCNjRMS+X8m048vP9ZA3drCFdhpcUfiKtunw/e3duK8sQ8WJgbooN+LrkvzrSte3g57nGEqqXkdT154qaCcw==;L/lif89WsKeXVq/e1Yd2Mg=="
 ---

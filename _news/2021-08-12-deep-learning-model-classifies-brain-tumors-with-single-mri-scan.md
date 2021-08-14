@@ -101,6 +101,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Single MRI scan can classify brain tumours using deep learning model"
+    excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-08-14T17:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "x2ozbXY+M9IX0gps0VRjS1atMfBxEf53XcNK5A/ZGG6+984QC74tVBVc2O+GHf3tQI1BGv3bQdtxf9DisawQDs0nyQjambAT5dtdbOMW0ul3+gj/C+OUTySpqOjRCOMdH9ae9/fzntr8sXMo73k2/zosHy51KqmupQTFOGVN69RXbCjdIrer02tuPwgjkhywEXqhJa7ozCZc1uJ3TB+0ZbZb89KRnJgcLcVNVqra81IllI6ogWKWXgpKa4ifQciI75MWvZts1ohaJcfQnqVLndG1d9xqxEJ5ucx3OyEqEIE8LgRrDy2cPc2BnFFF3ykRSrVkBy2zu75d/nZXUuknsDFS83Ni5B/W+I+ZQW03UMY=;PKRHxjxbiy7dIC3OrpxvTg=="
 ---

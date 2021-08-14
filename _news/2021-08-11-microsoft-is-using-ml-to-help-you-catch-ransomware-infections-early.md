@@ -64,17 +64,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft announces new ransomware detection features for Azure"
-    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
-    publishedDateTime: 2021-08-10T00:22:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
     excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
     publishedDateTime: 2021-08-10T06:41:00Z

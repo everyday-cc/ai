@@ -3,10 +3,8 @@ category: news
 title: "Danish State Railways rely on video security from Dallmeier, deployed within Azure cloud"
 excerpt: "Danish State Railways (“Danske Statsbaner”, DSB) operates the local passenger transport on nearly all the railway lines in Denmark. The scope of its responsibilities also includes"
 publishedDateTime: 2021-08-09T07:31:00Z
-originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-ampWebUrl: "https://www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
-cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html"
+originalUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav"
 type: article
 
 provider:
@@ -19,11 +17,11 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.sourcesecurity.com/img/news/612/Dallmeier-Dieter-920.jpg"
-    width: 612
-    height: 355
+  - url: "https://www.sourcesecurity.com/img/news/920/danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud-920x533.jpg"
+    width: 920
+    height: 533
     isCached: true
 
-secured: "lj2k+kOtYnkHuIqvmHJyz7+DOscZ/OxS7PUeObO6bCC9A3bOlk0ys3KgsA7ybRc6ZWwZvi4r5j8CNQ0WXeTmyOl4EFSXmiQGG+myvjjBrReRPXVSFAwiDqdYld4GxvPFwDuwIriEDC5Io9CsJ46UxyVv5d+76O/LzV1rx5SKZfwmD2aADcwkRVXXpkmS5Wg44AKPk2CJ4/6+x9gY5PUfIwSdI51UzlO89iKZPfFjzF2Dsnw8fY1AiC2rn48BAsnocVg0gx8BIKDSxRSITwmIB723m0LP5009q7foFq5RtaRWjIF9mXi4Pp0bQksg6SS1/At3tOuf8yK4Lt+9Te3AKd3c1Omv1q10Lujfw1q36NE=;LC10IWW48grzCPreQvjO7Q=="
+secured: "HwCeMi+7jsBx+1aEzbjqQp2wA2Ns8ZLWCZ52IzkIakfPjqNqRiu3gvdvarvE56c2nHHhY/539KAUpNh08rT56tt9miJ4+egcN53B8mz+k3L1rw4JbMpqILuuXTp5Pvyb6N6sKEom8cHEaM0G/bOMLdNBkzCVpG3K6AItKVvvX9GaEeCpcijpyymlwCqWe/eOkFwLVNYSBUg85TmsZvbheONY5rirjfKcwkKyG1dYEBuZal4mg7f7RXJLGbHBWMsXg6BzWQCplChP9UIm1aEkdIjzM0MBps5meWh4yFuXyyuv5JTmAAa9MeeXIlR4BKsjUarA4YuU5BC8r4HIsx8mTZe7F7meKfJiCilpqBQCwOs=;nOtT6akezB8q2vuRpq0h6Q=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-publishedDateTime: 2021-08-10T14:20:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+publishedDateTime: 2021-08-10T14:18:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
 type: article
 quality: 39
 heat: -1
@@ -97,6 +97,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
     publishedDateTime: 2021-08-12T14:32:00Z
@@ -107,6 +116,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "A9M9X3BLil4viZ9k0nn+Wi6Do68Ho2TCpXlrNfw5WcZIjJkXdgElvoJ/nhrLYwTs0Tfr3Br3LEkzXdV6Exqm3gCJSvTrwL4/+tvZs51kDqn5TcASfwQDfUg864TMRFrX3U61EUAf0pcVFK//sbXK+O8wZxGaRttkA3hGLKtms+NVIvUV+5VC/yy0pGcNwXOppoiKzNYhboMZX861jIIOMaX6yEH5E62+DwzNzzX/dLQduu7XdKovYbdsyaekK5L6iIAKEF6fCWKfb9t0oBIKvf6bSXRHubw7lT904tbKTxEzxUEgQQwjkocmptuMKJNyFtIglBebdGcNgpxHoHwMwelF4lhlQIscSk7YS7Fn35w=;TP5ys/jhpfyA12nUiRF1HA=="
+secured: "ZXHxunUmcObU3uVPsBi2vvsCeyJaxxtBfhdZ9tZe2vakvvfnnWUAemiJ88VzcH/biElNKM9gC/m9xqq6lePKKAbdt1d/lnqIOmYrzSHFhTMdTwAD78g9lPy4V2BDlSRxX9p9tTnIeFtefvA/rOuE/EgNY8MPTIcQPH6L7GlZYjPXw8s3jmp4/LIV+/MymQ6UyGXEc7t+dT0OGtgHDvudNK7/sjO/nOWNgA+RgS6CdjRgzg4HeHKgH+1PP68VhcpggYN5fuev3vF7Wc3o8TTa8rHguV0qNPajMo0eQwv5qNkkvuFjnKufFi5ak9b+JTh5veuVxezJaMWR9cr2129v8a2XfR45UYjB7J9lHnvxzhw=;dLtLaUZU21Z8p4hGaaIPsA=="
 ---
 

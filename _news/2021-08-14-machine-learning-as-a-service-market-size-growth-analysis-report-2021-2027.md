@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-mar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
 type: article
 quality: 56
-heat: 106
+heat: 108
 published: true
 
 provider:

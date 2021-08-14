@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -60,9 +60,9 @@ related:
         height: 720
         isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-    excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-    publishedDateTime: 2021-08-10T14:20:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
       name: Insider Monkey
@@ -101,6 +101,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
     publishedDateTime: 2021-08-12T14:32:00Z

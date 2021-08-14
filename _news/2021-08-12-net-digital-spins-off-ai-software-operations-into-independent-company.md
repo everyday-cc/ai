@@ -64,9 +64,9 @@ related:
         height: 720
         isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-    excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-    publishedDateTime: 2021-08-10T14:20:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
       name: Insider Monkey
@@ -105,6 +105,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
 
 secured: "ofnpyAXRHs4OdyjlbjIsHVwX6iF2AgZ2VGUrkcgGiqlN+BY+cKzQ83pZGDHG2Fp2BUsXsBPQgIr/EnMwp5phwbqPV41fT/J85pXAph6Z59RgQVWbAIEzTeA2HV+6myInbz6j2DzCZElaP7jHm8nkAr/CtA+l7EJSlxl4B5SNbLSzqLn5CP8D4vDq81lko4vNG+4KakYM2IxO3KfSbnPvkE+vxWmPM40pJqA/aCi5ZV7soLRkwxzveycWJecD19zTyj4ImkI/n0sdGJ7y1Sycaer/Bucn+LdC+6DSdfOVLiv1XnErM5DBpxZJDE2wokYrhAdgUQ4C0IA7sdTe4KUSdt//4Nog2QO4zWi5cUhoU7o=;YoDxVAQJpi0+Itr+Urp1Nw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/artificial-intelligence-classifies-brain-tu
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -98,6 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Single MRI scan can classify brain tumours using deep learning model"
+    excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
+    publishedDateTime: 2021-08-14T17:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "dsyfPJEInLNZmtRDUthQgMenB2cbkfi4Tl4UTIAxEAG/I4EBUcEaJoVgg5xT3ZEt6ro/iwCMGHJ3DRAelaR2EV7wQNtfm0gq5H9Uhp9TjtfyANNw7taHuuLfgrPca+wTCVw1Uf9Xc00r8OaFBy2veVcz4Dqe6C2w+2aqEspFCcYTq69OhoIJ94G7Rrzxalmqx+9VJqDdrZ7Lr+5P9fl4qq2vXWvula7dJI2bOtNXb0NzlJJGpbsYr4UHzZRu7ArdA28VKNvXUUiGVTf+NmV9GghLTMJMuKM+00G9NbTQ7eGD5Ei2b3DXJppFyy6fWP5sC+SkMKBdYIyUXzhTdO1ubF6HjAyPFCRX891vWomg5fhsCKNna5nizCXJ1LOQrRnueKTSTeNz0ntZfOu/MFeACzJGskt7+oh6gtrpiGLH3q+7ucvhfvGSogwaBjTFP+u7SqmfPPrKsfb7ehi1BJF4TlWY3Fv085tnAZr+M/edFE1xwusgnxYEs1iv4Fg4Bwx7ckoJWPrFOFBmqUFVE1zWnw==;m1QdsYMWiAiOpYR7IVH/TA=="
 ---

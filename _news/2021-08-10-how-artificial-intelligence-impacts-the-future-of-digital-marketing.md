@@ -26,68 +26,50 @@ images:
     isCached: true
 
 related:
-  - title: "15 AI Ethics Leaders Showing The World The Way Of The Future"
-    excerpt: "There are leaders and visionaries across the globe that are paving the way and setting examples for every business to follow when implementing and leveraging the massive power that AI possesses. These people are AI Ethicists."
-    publishedDateTime: 2021-08-10T00:09:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
+  - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
+    excerpt: "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute."
+    publishedDateTime: 2021-08-13T12:44:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111c7721c4a31b2ae419c4e%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
-    excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
-    publishedDateTime: 2021-08-12T04:01:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
+  - title: "Cloud Computing Market 2021"
+    excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
+    publishedDateTime: 2021-08-14T02:29:00Z
+    webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
     type: article
     provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 52
+      name: Datamation
+      domain: datamation.com
+    quality: 26
     images:
-      - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
-        width: 453
-        height: 640
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
-    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
-    publishedDateTime: 2021-08-10T12:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+  - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
+    excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
+    publishedDateTime: 2021-08-11T09:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-voice-recognition-d8530f8f3cfb460196f97e4e08cb87e0"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-  - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
-    excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
-    publishedDateTime: 2021-08-09T23:17:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/get-ready-future-artificial-intelligence-war-realm-191508"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/AI.JPG"
-        width: 3360
-        height: 2276
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Training Leaders in Responsible AI"
-    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
-    publishedDateTime: 2021-08-10T14:10:00Z
-    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
-    type: article
-    provider:
-      name: AACSB
-      domain: aacsb.edu
-    quality: 19
 
 secured: "RhyI0OM3VmJb4dJyuoJ37T+Bqy8o1N4ydkFoUF3SLgwaJUPO4ph2bkNUHKh03atJDlGdq3r+59lH7d9g4ObetpSWo2OLt11hDWo5MRUIpZphlAYIY2kzTUGzsDKSH9CW3SFhsV3OxbrNKcZysEXe6FZ/myI3k1pRk81MLR14aIFJle0WNjr6tFqommWINxgCZ7yAQ4Lr/XyLc/A7jzfVYgD4f8+hVtpL4YOYPnnaT3uAbjiUDyglYCqAaa24YplbLOcaRIppo1BYBnhxkM1kP6IkjbN+dJ2E/gEA5VpcRWmHuFRMoWQsaV6JZidmdRZ9sIIcJrPr48dOr5v9x1DC94xW9aTQKV8skv6aPHm5tjVYr48a7eLnnX69Bv+zOfNmzSofxC/K7Tgb4wFAvo6DewYd+UGbOCJVfc19kLzllO3JAWOP9AXaEY4XuXQPU+2vi+/IgXTnd3t83iY4ug7a5CSXk4yb1FlGccbtouWwW+9GIFe3KvdJRhUHA16BlnrcgHD6Hwo0vmztIHlVCZ31pw==;a2astFPSXXCDAZWYwoYEmQ=="
 ---

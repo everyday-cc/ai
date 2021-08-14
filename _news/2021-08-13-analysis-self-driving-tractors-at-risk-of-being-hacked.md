@@ -2,17 +2,17 @@
 category: news
 title: "Analysis: Self-Driving Tractors at Risk of Being Hacked"
 excerpt: "This edition of the ISMG Security Report offers an analysis of how tractors manufactured by John Deere are at risk of being hacked. Also featured: a description of"
-publishedDateTime: 2021-08-13T09:01:00Z
-originalUrl: "https://www.inforisktoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
-webUrl: "https://www.inforisktoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+publishedDateTime: 2021-08-13T08:35:00Z
+originalUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+webUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - AI in Autos
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "ezMJXRU4eZb4t7TmDGvdKPGUGnOKV+8r2kkdSV0dPRuTdsHBuOIZ1NPIJO6lNTioAHPM5XFsQJxr0PFcj7iUMa48rlkQoqEIUez90ef5dsPMfn6qrS3kE1OnmC+Jtf2di17bCf2UiwW2bgJ0onKYokD6OICFWFAGQX7ydVXY9poeQGO+oZ5dFelTIAfnO4qIwv8YfnINwmVR0z0l21UMAdc52YxPrwvxSFG5LxjbYdNMnNV4u/zNOXpqVvlJBZHNpKqh3RmOyALxSK9iVfYOoslDNpN4M4Z8d6GifhqNTzAUA8LlwcEQfVFUDpQ1a5Z1RX7lr758Cls11iK8EqKRCzSW4OyhWIRWoaAqUEB4hsY=;IiphZloiVFGAb3Cd9T17Kw=="
+secured: "2uDu3Z5J7uVaL7VZkyIrKnebO7MjleGC5kkHXoAZkuK81KzvGkpGNifxIy/0SzWnBsOacd98xheYxp/r0Z0RqNrFckzkIybuyMb8DnK8Ziw6xd+s0JaNCAhaROruLnlicVHc+ujdBeSVNlxyfa5ly0JVPt1L20zlS85wDAYoJ65YRHhJa/OOua3CWgU8VoEZgg1qy1cldKD/4J61bI+o6VT4Zdttpotm2L9dKokHtoe93tksptM1OFchiDKIWVMSiolLZKH2bJuP5ppufMAWm7nn36fvwSNl8aYhSPzSKUflErJY+C5zliLzaCP+vBf2zjq8opzbwbhuzDHIVAjA4GEzQ8VLLk2KHJ+yjGo5dBo=;EVV2Xh6aWoW16Xcwu94OGQ=="
 ---
 

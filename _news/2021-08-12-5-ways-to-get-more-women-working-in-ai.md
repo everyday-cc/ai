@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
+    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
+    publishedDateTime: 2021-08-10T12:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "QkZdKz8HoeozegHeJvd73JvoWH8vn5fv8UWzBT5u/hlgoqSV/5P98UMnQoy+6wICroappHMcW776X3AwbjU5titq3fqJTs6qgcmcNObeqpG7FxNOS93qfJDIQodM+X1MUFCVq6qbxHpNp2sufZvRsHrlZVA5xb2AUsOFy+laHOMaj1VBkFtvVT+8I1rMmN7hHbTXpJ0boBUg+hH4Ceocp0B+az/vok2fvdsFrLxa0xuhlAaG/ibpJc6L0Eu5PJHRt8Fz8j3ta+g9tweao/JHSS8voTc9WTF6wE7vAg1zM0ZNoratLQXIfavHZ5hkcOR5xPRi15KAQvcNenH0e8r92P4eyV0tgK9FGpbg9k4R11LdGJjmLyuGwF0b+TyUSP/r51uDk5LkHICmQRfCEuqcvHA1ej2NeRJX9exHebmtZUlD5K9XpcHEm6QWt7mu1MDkJKLHaOk3BTHaI6gZAewpFR+EoruozsBkJYILOe7Hql2w2vO97OFHjgraly+TZk/5C/eh99qJJmAka0fe5/nVMg==;P7WC6OM5pQPtNRx3oh3JZg=="
 ---

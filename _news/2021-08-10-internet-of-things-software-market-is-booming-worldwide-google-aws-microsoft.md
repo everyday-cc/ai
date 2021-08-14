@@ -76,17 +76,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Microsoft announces new ransomware detection features for Azure"
-    excerpt: "The Fusion detection for ransomware correlates alerts that are potentially associated with ransomware activities."
-    publishedDateTime: 2021-08-10T00:22:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-new-ransomware-detection-features-for-azure/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 84
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z

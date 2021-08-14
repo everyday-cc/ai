@@ -1,29 +1,22 @@
 ---
 category: news
-title: "How artificial intelligence could find dementia with a single brain scan"
-excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
-publishedDateTime: 2021-08-10T12:36:00Z
-originalUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
-webUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
-ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
+title: "Single MRI scan can classify brain tumours using deep learning model"
+excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
+publishedDateTime: 2021-08-14T17:45:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
 type: article
-quality: 71
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
+  - Machine Learning
   - AI
-
-images:
-  - url: "https://thehill.com/sites/default/files/ca_dementia_stock.jpg"
-    width: 1440
-    height: 880
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan"
@@ -57,6 +50,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
         width: 1721
         height: 1881
+        isCached: true
+  - title: "How artificial intelligence could find dementia with a single brain scan"
+    excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
+    publishedDateTime: 2021-08-10T12:36:00Z
+    webUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
+    ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 71
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_dementia_stock.jpg"
+        width: 1440
+        height: 880
         isCached: true
   - title: "Deep learning model classifies brain tumors with single MRI scan"
     excerpt: "A team of researchers have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan, according to a new study."
@@ -97,16 +106,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Single MRI scan can classify brain tumours using deep learning model"
-    excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
-    publishedDateTime: 2021-08-14T17:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210814/3803259.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
-secured: "I5KnDtnx0Vz1bCBUHZS2Ur4DxB1fummbOfezal5fb8b8k/APQx/9D4K3I+y1/YdN0IwBRYCw4Q9GMIA6xYkdoCVbIaVkcX3Dg1a/K1J34PPtniixD/gU2+skJZPFp8iFSfpOMAkJ37iSAE62hARSx03ttOShGgh/FvBwfLV6+34Y++/JfZ8wsJkqOhBPdWJ6WOikwcrpYcCpS654LuUGINcCHGZc9z9Em+blz/1XmaNe/IfKEFHjvqSW3z4gFTXkcsI5FjEQGub+Lt0r3AyU2z7Ra4DyLcM5NfmP2Bqc0YtdFgucXoJ8/gwdGLVhKoHozRXsJ4vlVEzD2sXxVxar+EW2Tqui3ABXao1gCHXI1YtYlzat2tWXwQC3pjWjkd9JMI+5nAYDpDr7lLVI4gOQgLk9RBfPDXAXhzO3adBC9Z6LdlthDi2V7o9XbdwZ3/dAbz5KgvvZD+CJqJFIydceY/ZNENyJx2IGMSE88zdylNY1dwDkFTKTpWoN3o+HhpbfXVB5bmZby9XpnUpK3KACPg==;LphaNowDVCazPiHu9keShQ=="
+secured: "2lXpBhsVgnv01oQ19pRXQTBXrKZn6wa3K7A6USuRkMuo3BsAMx4tgnHcKPzeZdYkRvU3+0Z0TBdBlwhR+rhuvaJOYvi9gJKtacu7m31/9JEbzpGHGRIcSO4mLIBfrj0uu5/zx78u3IV8EDk0xsQeA1/xbXcJNbilrn3lTx0gsJ+Q839byDezwOVSpvWRqaj0J0QL9E40YgdEQHZrr0VPIpUBPNpwlGDm4qYx51myRkK7NsFLeTWAR67AgTwJSEVgTJfcbRNUJXo3ssEvt74f4SILMQdcHdl0itEpZBv0zm2yWZ06YqJkfPq4XEJ8wRtnKzo/25/8haqa2ArSSCX0D0dgswna4sqZVJpO8QUF3gA=;e1hX6BjkHG2jdasRdTMmKw=="
 ---
 

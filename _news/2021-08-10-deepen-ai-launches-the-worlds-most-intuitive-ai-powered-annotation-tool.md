@@ -22,73 +22,38 @@ topics:
   - AI
 
 related:
-  - title: "15 AI Ethics Leaders Showing The World The Way Of The Future"
-    excerpt: "There are leaders and visionaries across the globe that are paving the way and setting examples for every business to follow when implementing and leveraging the massive power that AI possesses. These people are AI Ethicists."
-    publishedDateTime: 2021-08-10T00:09:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/08/09/15-ai-ethics-leaders-showing-the-world-the-way-of-the-future/amp/"
+  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
+    excerpt: "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots."
+    publishedDateTime: 2021-08-14T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111c7721c4a31b2ae419c4e%2F0x0.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize"
         width: 1200
         height: 800
         isCached: true
-  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
-    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
-    publishedDateTime: 2021-08-10T12:09:00Z
-    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
+  - title: "5 ways to get more women working in AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
+    publishedDateTime: 2021-08-12T15:17:00Z
+    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 57
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
-        width: 1200
-        height: 628
+      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
+        width: 960
+        height: 684
         isCached: true
-  - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
-    excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
-    publishedDateTime: 2021-08-12T04:01:00Z
-    webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
-    type: article
-    provider:
-      name: Yumpu
-      domain: yumpu.com
-    quality: 52
-    images:
-      - url: "https://documents.yumpu.com/000/065/533/813/de477d0d01b3f4ca9c28b0417243fc576c99dfc5/736558466d73574f7030774e527a703546576e7578773d3d/746366315435564b69554b6c48705a4f3050533578673d3d.jpg?AWSAccessKeyId=AKIAICNEWSPSEKTJ5M3Q&Expires=1628755200&Signature=0Cei%2B2Si%2Bghd5CyCiNHMmBSm2i8%3D"
-        width: 453
-        height: 640
-        isCached: true
-  - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
-    excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
-    publishedDateTime: 2021-08-09T23:17:00Z
-    webUrl: "https://nationalinterest.org/blog/buzz/get-ready-future-artificial-intelligence-war-realm-191508"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/AI.JPG"
-        width: 3360
-        height: 2276
-        isCached: true
-  - title: "Training Leaders in Responsible AI"
-    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
-    publishedDateTime: 2021-08-10T14:10:00Z
-    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
-    type: article
-    provider:
-      name: AACSB
-      domain: aacsb.edu
-    quality: 19
 
 secured: "xvtw8Or/ZWNVxOStqF+3GCEcp4axJe/b8KydCkD7sfqwgH9PQ3UQKXY08OjoOj2ZAZ7Rd2D+GlPUthvaKnjA/sA1OCJ+Ix4x2Vot/rerTc+qRy0u/tQeBTgu6pbt6H15zY6RZux0lsNl3l9tuKO5GE1kFOZoVa665Gh0cFekkno7GRrwRbPZhRr7kHTDfVM7+DY57KtdbK9Sl1wD6d2LmDSYMOvjPG0emkVwcOly6S/+Jh3e4hA8im0BnbCnccUq0qfIL61T9tSROj5FtpjRnlDgJRMwHJ+/BybAdA5I0J4Tmh6jLY7pCi31WWffDz+OXNMIWFlnh66WyXJmlC4vlc9YBAvAIW7+Kg0MIdbFL9s=;krWaqxysYnKzYeu0dRCGEg=="
 ---
