@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips One cannot exaggerate the dominance of Nvidia (NASDAQ:NVDA) in the"
-    publishedDateTime: 2021-08-09T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai-1030707838"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-08-12T01:59:00Z

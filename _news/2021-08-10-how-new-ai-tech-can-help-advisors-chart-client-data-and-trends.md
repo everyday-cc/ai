@@ -57,20 +57,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "How conversational AI can help banks grow"
-    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
-    publishedDateTime: 2021-08-09T09:49:00Z
-    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1223
-        isCached: true
 
 secured: "rfQHprcbwcTrPvFeuz4Os8b/5vEeduRAcX/CNNlSuPgSNUKQNnay0qTSzPUxv8TnqNTaiOwQyaWKQS6tV0cv5yZfUCUvy0l3RZ0/FahFMcPEU8VSjIzE26zDvt+njs47MXaIVJU3jV+Nrvt0ltAW6hQ1KzB/+upSLs2dVfXDu6WuWsfzfLV2wQJ0gyjJ9u9jFna/DEC1XzO4NFFU87GDP7GCIaxRFi04n4vWzn/KSiM7EaXvdxuk7kbld0G2fsAHJvQ1KSRlymaEl0BewZhT3IA4BNCzpdEREvK7e7MEgukKTt8G5J8UaaNOfhL3Y3UGa2NLE4J1xeWZH5Fucel7/osr9+L5bbMydO/ZLwjqUEg=;ROSm97Ux6l4ntdgF8wLA6w=="
 ---

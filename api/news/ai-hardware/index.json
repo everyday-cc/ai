@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-13-why-nvidia-is-much-more-than-just-a-chip-stock.md",
-      "title": "Why Nvidia Is Much More Than Just A Chip Stock",
-      "excerpt": "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg",
-          "width": 2000,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22472711",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711",
-      "publishedDateTime": "2021-08-12T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers.md",
       "title": "KeepTruckin uses Ambarella AI chips to monitor truck drivers",
       "excerpt": "KeepTruckin will use Ambarella AI processors in its dashboard camera that can monitor both road conditions and driver awareness.",
@@ -1411,6 +1368,49 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-31-elon-musks-old-pals-invest-in-neuralink-to-fund-testing-brain-chips-in-humans.md",
+      "title": "Elon Musk’s Old Pals Invest in Neuralink to Fund Testing Brain Chips in Humans",
+      "excerpt": "Elon Musk has rounded up his old friends from PayPal and Open AI days to fund his brain-computer interface startup Neuralink’s next phase of experiments to test implantable brain chips in humans and take the company’s first product to market.",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "originalUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/07/GettyImages-491588398-e1627667664725.jpeg?quality=80&#038;strip",
+          "width": 3461,
+          "height": 2344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/07/elon-musk-neuralink-raise-fund-peter-thiel-brain-chip-human-test/amp/",
+      "publishedDateTime": "2021-07-30T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

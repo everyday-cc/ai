@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Objects of scrutiny: Facial recognition and our biometric future"
-excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
-publishedDateTime: 2021-08-12T07:31:00Z
-originalUrl: "https://www.itweb.co.za/content/dgp45va6a437X9l8"
-webUrl: "https://www.itweb.co.za/content/dgp45va6a437X9l8"
-ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8"
-cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8"
+title: "US lawmakers are not convinced about Amazon's ability to store palm prints safely"
+excerpt: "With Amazon One, the company is hoping to make payment for your groceries simpler and faster by scanning your palm. For now, you can use it"
+publishedDateTime: 2021-08-13T17:43:00Z
+originalUrl: "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+webUrl: "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+ampWebUrl: "https://www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: ITWeb
-  domain: itweb.co.za
+  name: TechSpot
+  domain: techspot.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
 
 images:
-  - url: "https://lh3.googleusercontent.com/Ohc9mBsrnyqhpZcxI1tbDb9_M1NRi9iZ4VhFNMQksr8ZlHpyAOSjHpTUyw8SDrBtRVCJxg0y4ig_mK1aAhtyyBNFhCcqXfVxUB2o=w816-h428"
-    width: 761
-    height: 428
+  - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-13-image-10.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -59,21 +63,21 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "US lawmakers are not convinced about Amazon's ability to store palm prints safely"
-    excerpt: "With Amazon One, the company is hoping to make payment for your groceries simpler and faster by scanning your palm. For now, you can use it"
-    publishedDateTime: 2021-08-13T17:43:00Z
-    webUrl: "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+  - title: "Objects of scrutiny: Facial recognition and our biometric future"
+    excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
+    publishedDateTime: 2021-08-12T07:31:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45va6a437X9l8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 59
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-13-image-10.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://lh3.googleusercontent.com/Ohc9mBsrnyqhpZcxI1tbDb9_M1NRi9iZ4VhFNMQksr8ZlHpyAOSjHpTUyw8SDrBtRVCJxg0y4ig_mK1aAhtyyBNFhCcqXfVxUB2o=w816-h428"
+        width: 761
+        height: 428
         isCached: true
   - title: "Amazon's Palm Print Recognition Raises Concern Among by U.S. Senators"
     excerpt: "Three U.S. senators, including Democrat Amy Klobuchar who chairs the Senate Judiciary Committee's antitrust panel, wrote a letter to Amazon.com Inc to express concern about its expansion and promotion of a palm print recognition system,"
@@ -122,6 +126,6 @@ related:
         height: 534
         isCached: true
 
-secured: "jyvvSKlc7K99wywG2M1Z8diZ+kH/80ZdS0Jy+DGDHAqZGKxN1Go3l338iqpXmpooGo/cu38VZnwlQgTsHmTVIUxOuC4RflPNENJEDEA2Z5WTnwlXgIJIHtKxGPYLWG/Q2JT0JmUrPB8dkY28rBse05IyKcVt4IQZMDFrwY8dzuZoYboGYj20/6RBEBx2KG8qUgWbu/aQJmkUj/9Gg0iw1RnOGmbW+/cnVJuiQpHMTy33sNRVSNylFGiWjnjyC8yhr2ugHsj0dQU72PbJGMrkINLWvgdABBUwhUOxiCAjvI+G+QuRMi+cej2oLE9R2EDy/s7G6SZQGSM69+/z8E1qJxP54dwEIWr3Ov/Y6iPP5T8=;kSdm4L18zUgUCQvGsYd+5A=="
+secured: "5MfMcpwOBbWxv/bbM1l20BBVyuKZ29vXQnZ+i7ZTFgne+/j4T2J98e0CcEKNbu/FGFIdrd6HkS+10wwox9l7XqUZtFK45dpODT9o0g1HINmIS5u3kkJVIclG4/Bp/K/l2N13XENN/j5qpm8xSKya4GPt2bLxOt5dFq1NLfMMa8hKPY1u65oe5DyfW5072ppwEU9gzil4HyfKqQteiV1+323GafD3piktBr6SCQCRl8li6lQxzlD/Qz7kFAtoTFfFE2EyALfYwPSUf7LXDn5xUW72XGep6pQPOLTD8T1QVCTZ+oAmUe1+fhhDpTQLp+PX5//eHyuuG1VLoOnEJRWK8gD34xACf/oT5Mpgt5rnLIw=;1lbDf3+HB6HdSz5GoJmrpw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scaler Academy begins an outcome-focused data science & machine learning program"
+    excerpt: "The immersive course has been structured based on research conducted with over 100+ data scientists working in top 50 tech companies globally."
+    publishedDateTime: 2021-08-14T02:04:00Z
+    webUrl: "https://www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program-11628864905564.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program/amp-11628864905564.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program/amp-11628864905564.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2021/08/13/600x338/IMG_8077_1628865149228_1628865160055.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Scaler Academy introduces an outcome-focused Data Science & Machine Learning program"
     excerpt: "The immersive course has been structured based on research conducted with over 100+ data scientists working in top 50 tech companies globally"
     publishedDateTime: 2021-08-13T15:07:00Z

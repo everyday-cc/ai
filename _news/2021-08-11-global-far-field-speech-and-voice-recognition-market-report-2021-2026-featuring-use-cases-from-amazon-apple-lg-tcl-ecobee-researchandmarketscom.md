@@ -57,6 +57,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Cloud Computing Market 2021"
+    excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
+    publishedDateTime: 2021-08-14T02:29:00Z
+    webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 24
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "GM4J0QMS52msQClcE3Jo1G0Q3rk92wQPjDkZwxJVMbByAxqp9c4KDUOugTBGYLN6GpBgVk589Mj6SPLA5AyTmhyAgngdYmJiwADPq24gXHRIb8eCxQ2oTfVU8lPUrk//1zo2wJTps0wJ+0/jkF0AIv3XXjz+59SjnkyiWvb+FfouKuSVxVagecdgCeaA4YPUhb/4XPxW6NAMlkmzhenarNwSvj9PYIZJNV5uYq8W/w80Qk+MXwCqqcN8/cQZ22IaWlsGauejQnRHc228PVNZPXcKZOSWftqnBOdAcs6PDk0k2+i7VGFQqxLbfn1cx0mXQ+8Ihg/XTwOTP060QCWHe1RYtyE8DTgRHNyPAsdHRjM=;x3/m78qlWJpMuZpZD7aodw=="
 ---

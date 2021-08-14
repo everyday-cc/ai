@@ -41,20 +41,6 @@ related:
         width: 800
         height: 566
         isCached: true
-  - title: "Amazon Rekognition adds new features"
-    excerpt: "Amazon Rekognition video segment detection has added support for four new segments, opening and end credits, slates, studio logos, and content. Launched last year, Rekognition uses machine learning to automatically detect frame accurate end credits,"
-    publishedDateTime: 2021-08-09T09:52:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/amazon-rekognition-adds-new-features/5162290.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 56
-    images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/6/6/1351566_endcredits_588815.png"
-        width: 715
-        height: 398
-        isCached: true
 
 secured: "l1EC/MvK3gZmQC5pZIKqMDEFEqojis0coksm+76Xfmk8fjhmV62nLcXbkHHet2eBh3wFJ0RVFZ3T62hWmVFDNe623kkCkgJGEnncrkvJ8brHJ7AhZgI2JZI3EWw3S+IURj4l8LpsTwcPavsp2n13BxTLO4Ubn14UGRAHccF4gk6zk41T13Jp00mDZTsP3D8mtqtcgm2OuQcmQb+lXOAtvmVnfCUsiLwXVFLv84byovL7Gs7iuTtmErfoK1zlczsNtNhfJv0CuNQx2maRVRkuF8kkO/LBed/tJxJMDhNxe00f38X9B4/me8TBR9hioQbn4J8ENEHmMP+vNW6dRTnG7i4Hq9LZp9VTJOwJuDm72UU=;tvpa9MpY49UqHHs5QCuD4Q=="
 ---

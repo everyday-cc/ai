@@ -154,20 +154,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 49
-  - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
-    excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
-    publishedDateTime: 2021-08-09T09:15:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21171759/looking-deeper-into-microsoft-and-arrival-ev-collaboration"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/08/Robopilot___2.61101efcae793.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 624
-        isCached: true
 
 secured: "2SX+CRAguCJqkqWU6qkoaJzCPWcMk9Z8e+dxDBQquXeQIiC17lJVxOSNRVFLcG2aINYGViZ15+XnWrUK5WFNZ+W+RTInvDZX3r+F14+GfRe/bZoISNMpwR+/n54E5h+H8WqTXHFc84WbRQ4D+uknrv71SSxCSgNPA0JpjoE6j6WeLI1gUCA6lEOgsddmkJOtd6vpMk+9bFg0P5oRWcF0fn1+mKRwqGV5PS42IY7nt0lOQl1JFXBNFclU2UiuqVrLK/ACP5lj2YjRbEPXMRwITxLPDSFvf4fFt816fcuBsgK0XYZE+i58SLt+ZLg9/WkMbYmCCZNsdLMtniM1T4QP095j2Hh8Nxp6HvVeuurZ8mYMU8GkAdpeEMpIbXgx7QbsLODj2Vg7Z/6qV70Fl4yLlMB4uoNv6dra/3dBMWSqA+6hdcLBiZYvuSpL/1/vBdnsZGTkMJk5D1G0I5Cmzu0NtHiuEUDxbMeBQH4LRnAQWC3rTuIdqTES80kNw74czSDT40uzckHL3skknZTKX0Lu1Q==;m+ZdwpOx1bxE0JoTLDtO7w=="
 ---

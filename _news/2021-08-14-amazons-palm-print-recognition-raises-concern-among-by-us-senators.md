@@ -55,6 +55,22 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "US lawmakers are not convinced about Amazon's ability to store palm prints safely"
+    excerpt: "With Amazon One, the company is hoping to make payment for your groceries simpler and faster by scanning your palm. For now, you can use it"
+    publishedDateTime: 2021-08-13T17:43:00Z
+    webUrl: "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-13-image-10.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Objects of scrutiny: Facial recognition and our biometric future"
     excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
     publishedDateTime: 2021-08-12T07:31:00Z

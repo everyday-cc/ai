@@ -48,6 +48,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Keller expected to start as Pirates host the Brewers"
+    excerpt: "280 batting average, 2.90 ERA, outscored opponents by 28 runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel ..."
+    publishedDateTime: 2021-08-14T03:54:00Z
+    webUrl: "https://www.theolympian.com/sports/article253463839.html"
+    ampWebUrl: "https://amp.theolympian.com/sports/article253463839.html"
+    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/sports/article253463839.html"
+    type: article
+    provider:
+      name: The Olympian
+      domain: theolympian.com
+    quality: 22
 
 secured: "NcfxpRrrnXyTr/J6L6466fdFg4xH52UpOqCEA1+t/2fA/ZU5/at4peXHWKi0OEfQhHnvRqTHpdzz/9QiP/L3TU3vdmpg7DXVRvmTG7p85HDh6/tngSBi41lKV76IMXAvWfYiuGChUdOhXGFNgk+u8SxQ+cSJT43axhbzBeRl/rLX+gImArVdZsD2YpB6QmgM/9N3ju9iWiYs9mX422UcI2T6eSbvNIihijkNZPuf9rgyQ1umsACLKj77SzABqJJ98pA+8UUrC0cpttj4SDrc1S5Lvp4jRvnC5EVUmAf3YE2Lvr4qOffLO55VnCm80kgMIDCZr1Jjz8/DCh+3kzA4ZkEvyXy9WR60yLl4Gfu177A=;xUa7N4KqoNc27TshWAzCiQ=="
 ---

@@ -44,6 +44,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Scaler Academy begins an outcome-focused data science & machine learning program"
+    excerpt: "The immersive course has been structured based on research conducted with over 100+ data scientists working in top 50 tech companies globally."
+    publishedDateTime: 2021-08-14T02:04:00Z
+    webUrl: "https://www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program-11628864905564.html"
+    ampWebUrl: "https://www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program/amp-11628864905564.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program/amp-11628864905564.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2021/08/13/600x338/IMG_8077_1628865149228_1628865160055.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "pykNXMmxQlV04WUvjapg5npYliqIJjkOS1MF9/+1iKIa5wjvYvyDuJXTorp+O7D5vEN/onkP2sWVERpJyo6gXY1cF+QNtFzV8h+iJW3N+SdNf1MGDFmJGgrKVxGIOx8XXpLW5ZDpvafH8362IzoRM9/q0Epq3n2DdO8fIn+3eRY+CEPeOytqgyfeJSIN09Cd/lhvlXZugqgfxbvJ+qYnnoh2fx3CciOZe9AolDNFBARnMr/+qy/xS13+6lTht9fNPyjuBfx6gKNVbXQEe8toApTP1xISXj7uENnBFK7v61ctoS8bbXss0/v7HLQg60FEvFgFRCLcBT2S/TbZe7lB77ve5Epn9yCWbHwCcXxXwUU=;wIqdeuukUId4Bukheg8UHA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-imp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Rekognition adds new features"
-    excerpt: "Amazon Rekognition video segment detection has added support for four new segments, opening and end credits, slates, studio logos, and content. Launched last year, Rekognition uses machine learning to automatically detect frame accurate end credits,"
-    publishedDateTime: 2021-08-09T09:52:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech/amazon-rekognition-adds-new-features/5162290.article"
-    type: article
-    provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 56
-    images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/6/6/1351566_endcredits_588815.png"
-        width: 715
-        height: 398
-        isCached: true
   - title: "Amazon Updates Video Segment Detection Software"
     excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
     publishedDateTime: 2021-08-09T15:31:00Z

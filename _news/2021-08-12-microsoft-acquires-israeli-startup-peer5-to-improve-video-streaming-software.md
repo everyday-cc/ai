@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -141,20 +141,6 @@ related:
       name: PR Newswire
       domain: prnewswire.com
     quality: 49
-  - title: "Looking Deeper Into Microsoft and Arrival EV Collaboration"
-    excerpt: "Arrival's president explains the driving force behind its collaboration with Microsoft. Electric vehicle (EV) manufacturer Arrrival announced late last week that it is co-developing digital fleet and vehicle capabilities for the automotive industry with Microsoft."
-    publishedDateTime: 2021-08-09T09:15:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21171759/looking-deeper-into-microsoft-and-arrival-ev-collaboration"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2021/08/Robopilot___2.61101efcae793.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "US Firm To Acquire Israeli AI Mobility Startup Waycare For $61M"
     excerpt: "Founded in 2016 in Palo Alto with offices in Tel Aviv, Waycare leverages AI and predictive analytics for proactive traffic management."
     publishedDateTime: 2021-08-09T17:09:00Z

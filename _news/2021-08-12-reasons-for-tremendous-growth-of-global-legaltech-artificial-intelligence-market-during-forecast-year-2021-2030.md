@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353395/reasons-for-tremendous-growth-of-global-legaltech-artificial"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "A New Report States Facts & Figures behind Boom of the Global Artificial Intelligence (AI) in Radiation Dosing Market Forecast to 2030"
-    excerpt: "Absolute markets insights have published a inclusive analysis of its massive repository titled as Global Artificial Intelligence AI in Radiation Dosing Market This informative data has been analyzed by using effective exploratory techniques such as primary and secondary research methodologies"
-    publishedDateTime: 2021-08-09T11:01:00Z
-    webUrl: "https://www.openpr.com/news/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
-    ampWebUrl: "https://www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2349903/a-new-report-states-facts-figures-behind-boom-of-the-global"
+  - title: "How LegalTech Artificial Intelligence Market Will Change In the Next Few Years: An In-depth Study"
+    excerpt: "Have you ever wished you could predict the future of the LegalTech Artificial Intelligence market? – and be right? What would it be like if you could clearly see critical changes in the coming months and years ahead and use those glimpses to shape the LegalTech Artificial Intelligence"
+    publishedDateTime: 2021-08-10T05:51:00Z
+    webUrl: "https://www.digitaljournal.com/pr/how-legaltech-artificial-intelligence-market-will-change-in-the-next-few-years-an-in-depth-study"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/U/8/U809395509_g.jpg"
-        width: 780
-        height: 470
+      - url: "https://industryresearchcity.files.wordpress.com/2021/08/slide6-1.png"
+        width: 720
+        height: 410
         isCached: true
 
 secured: "ddBBGoY9NXOUvGUN0dHV2IRzrr2AvEcQYsiHJ6UPMf683mU9NkenSY+u3eRMasUhAUSn9T6GzybV/6RDCyDPZL40W4KNPLn95NWi2Vp4DfDwRWW2RF4icOM3S+LZTTqMb0lGRu4C6teCBbU/WxrPYN1FUfOXSMwGVtzNJyVZ525+ydtFw8eVcIEI2BCAn5UoJsqetv9l9HgR8NbSwsZkMiVdabs2dDBV9cyUUzQ9P/A5rbf+rVbd67jTiMGMK5QTUurE2L1EOhCNWuu7GXqKDHZBqQZdaGly4fjoJcWcxGo9ZJu7pAtQH2NSpm4YsnAQncDNeajhNozFuziTiuBKZCiKuKUg6YTS29JmexMUV/o=;n+oKfdlgFaF9s9MOdHkLjA=="

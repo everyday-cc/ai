@@ -2,20 +2,26 @@
 category: news
 title: "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform"
 excerpt: "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform."
-publishedDateTime: 2021-08-06T12:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm"
+publishedDateTime: 2021-08-06T12:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "44qg9tet5B0hmAd76Qa05I0nJGJRdNanZtnUgJ9Q6SfzaiA0Nb+53Izggvr+Y3anp/wL/9iktdboiSvqLhLsv8KieGuj0E8Y5E07wIgIxYLqlK8yOJIPvRFsA/c9c1wqO5MdUEFZicY9KeNa6nup/JakSbp56pcrm2GWKEzUJRoDcEWPujnu7kejgT5hqejQKAnFQiA6RcholEriydF3g7i4f0WIzwxyQtDC0hOjPreYhdcFp7mX+YawT8D1FU+siS4t/vQl0xELMi32KDhSz4hSGfUj2vHMtR5aGXNRc2Fu/7NYZ/cc+NprjYQHyzkkAOTYtXVSJjvZKwcTqvZ47eCMrRG+pE7H/uLBXxg2wLzgUwttBZYArbYfP7wXtvbDBoRjDrVNpK27KSZm7q898wbiyfKBBjV0f6rByFT/Bb4kHiTwcSG4rsjp/rWho0hZ9GI74hIYQS/zSrHAH2by4lahi57UO5/RvMp/RanZ4tcq1BE9DKNzO3+S4sNC0GbqQEKOk105OC7Qb0ebsuSO8Q==;JfDlOFYktZmt6XQZJcanjw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441"
+    width: 1200
+    height: 441
+    isCached: true
+
+secured: "HI34rYHm+PL7kIyCkUnyoDaNP4goFtJ1GC0lXKVUeURUN1vwFfiJtBwbM9Ni16NJgQnWaT+Xern9UoLY2r1SRBkb8xMfY+Y6AvOPQdZQq0aZmi63KUvXF4xg0rLEMApOGGBps+IWHQHKIwrJGihNToOVifYQ25uR27AesgxK0BHWF8ZqHuG6a2B84PbC8XElvC3Zpsj7E2HkQ5XWNW3PiqDnM8gWtTtG7+dG/xMYD3yylJAbhGnDFyZPkoxhv9XYbViIbqAOfJk/tSVJyYWf3rptABUVHSzBHNg3OEFLUwBDinnDBTpfqDL8PfSyNgsqBiT/rpnYPKAsIXAn9sLEjVPiNUiOfS7StOhVZ2MSN/4=;zkLLGQGZ5PrS+vu4DP8G9w=="
 ---
 

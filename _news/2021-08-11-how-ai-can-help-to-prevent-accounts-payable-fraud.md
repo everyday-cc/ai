@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/how-ai-can-help-to-prevent-accounts-payable-fraud/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/08/Aug21_11_589006098.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "How conversational AI can help banks grow"
-    excerpt: "Conversational AI from voice recognotion giants Nuance enables fintech and banks to automate intelligently, prevent fraud and increase quality of customer experience. We review."
-    publishedDateTime: 2021-08-09T09:49:00Z
-    webUrl: "https://techhq.com/2021/08/best-ai-bot-customer-advisors-robot-automated-ivr-intelligent-smart-robot-review/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 54
-    images:
-      - url: "https://cdn1.techhq.com/wp-content/uploads/2021/08/zsun-fu-TL2e9aPgENs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1223
         isCached: true
   - title: "How new AI tech can help advisors chart client data and trends"
     excerpt: "Marble Financial of Vancouver is offering financial advisors a Canadian-made app that it developed with AI technology on a fintech platform that can help their clients improve their personal financial fitness,"

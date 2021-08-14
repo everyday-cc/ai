@@ -29,17 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
-    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
-    publishedDateTime: 2021-08-12T02:12:00Z
-    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+  - title: "Lethal autonomous weapons and World War III: It's not too late to stop the rise of 'killer robots'"
+    excerpt: "Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using \"lethal autonomous weapons systems\" that were \"programmed to attack targets without requiring data connectivity between the operator and the munition."
+    publishedDateTime: 2021-08-12T12:11:00Z
+    webUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 25
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 45
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lethal-autonomous-weap.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "gfUQdXFS4wjrx6TcaQMI83Cn/GWOvgifdpAZMkRDbjitfxwB+aO6TqUz2GwzmIthEzYp6Ld8zuvTnBxl8WSvbpKtHQ0vCWvQg9BH6JG/KRKoLeSBWYs8nsajkro0eYLLZn5QXpiqtHvtXiuIA8IgQ2EJYQtLqdnt1vWhzcq3JUctTN8wVGl2yVEf3lVAkrqX/ve5L7aR2b/xovpKET6BFRtt2eJbCzVbpF1XJGSnujGStvEGCcNSf2fuk5GMQWNPfNDqcPWXKRHQenTIGQEb9WGl5u3eqUs7L4bQ5tAL9bdyWPfGb+qCOe4p5+O9HUfA+kcIT9o3F2NqEXPFYeVeOUwC+1VgtNusDg9JcpI/j9E=;nXptViKbi0c2qZkNkD1MLQ=="
 ---
