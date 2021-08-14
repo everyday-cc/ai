@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Baidu quarterly results top estimates on ad sales, AI demand"
-    excerpt: "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products."
-    publishedDateTime: 2021-08-12T14:08:00Z
-    webUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad-sales-rebound-2021-08-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SYUOENPIIFIELN3TTOKZ5B7OK4.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Baidu looks to AI cloud unit for growth"
     excerpt: "Chinese internet giant Baidu forecast strong demand for AI cloud services to help drive 8 to 19 per cent year-on-year revenue growth."
     publishedDateTime: 2021-08-13T08:31:00Z
@@ -70,6 +56,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/04/Baidu_Apollo-e1558072369462.jpg"
         width: 650
         height: 399
+        isCached: true
+  - title: "Baidu quarterly results top estimates on ad sales, AI demand"
+    excerpt: "Earlier this year, Baidu's autonomous driving unit Apollo launched paid robotaxi services, that operate without a driver behind the steering wheel, in Beijing and Guangzhou. Its robotaxi services ..."
+    publishedDateTime: 2021-08-12T10:07:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/baidu-revenue-tops-estimates-on-ad-sales-rebound-2587817"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 56
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXMPEB3T02Q_L.jpg"
+        width: 764
+        height: 600
         isCached: true
   - title: "Baidu’s revenue grew by 20% in second quarter boosted by its AI business"
     excerpt: "Baidu registered a net loss of US$90 million in the quarter, primarily due to marking down the value of its stake in Kuaishou, whose shares sank by 28%."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Can AI Kill The FICO Score?"
+    excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
+    publishedDateTime: 2021-08-13T22:40:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_fintech-news-today/can-ai-kill-the-fico-score/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 39
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1628894460_0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "UswNHMXmLyNqqA7HYqA90FPOaOMUMahkBU8Tbya7NQ08x0omP7Vt+vyOgNIqL7peEj0Yy61KRIeoc2Tt8zhfIo/uUuA2Zta6IkJWD+CErMzt1JFtr+fFNlzXqyWA+uHmTxJOkSowftk0pTdD+l8ACFVx90A339PYwusb2+rkjwE4FAPjRROJD+G7t43giWLtLzDkTDrf5Wt6qGhCwWtLJaHfN0C3e0oZQjLM2kwkYXIHeOcJsQ0XqCeg+GAv91c+xVH2Y1Y0k0jLXEkM5QhAmn76vFRksSg8sKMvek/XDNsWoAU25wKhdBTL6ZbljDxAABf+yxYF+HgXMZTSolgEqcLfnBBigCnXAfmSJ2fUHrA=;Q4grybgWSc7ZD7kQdaWGAQ=="
 ---

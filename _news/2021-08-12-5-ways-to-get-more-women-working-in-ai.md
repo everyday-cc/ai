@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-workin
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 88
 published: true
 
 provider:

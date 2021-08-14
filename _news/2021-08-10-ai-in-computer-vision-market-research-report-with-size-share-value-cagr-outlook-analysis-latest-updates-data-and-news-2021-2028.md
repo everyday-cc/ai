@@ -45,20 +45,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Regulate use of AI in healthcare sector"
-    excerpt: "IN line with increasing awareness of the need to self-regulate in the development and deployment of artificial intelligence (AI), the World Health"
-    publishedDateTime: 2021-08-09T05:38:00Z
-    webUrl: "https://www.thesundaily.my/home/regulate-use-of-ai-in-healthcare-sector-GG8181778"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesundaily.my
-    quality: 56
-    images:
-      - url: "https://www.thesundaily.my/binrepository/480x320/0c35/480d250/none/11808/UNKK/pexels-photo-4604607_1829566_20210809091713.jpg"
-        width: 480
-        height: 250
-        isCached: true
   - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
     excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-08-13T11:21:00Z

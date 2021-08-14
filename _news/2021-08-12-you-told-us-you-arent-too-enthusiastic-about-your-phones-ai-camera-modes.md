@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-resul
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Android Authority
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Poll: Do you use your phone camera's AI mode?"
-    excerpt: "Plenty of phones still offer an AI mode in their camera apps, but is this something you actually use? Let us know via our featured poll!"
-    publishedDateTime: 2021-08-09T06:53:00Z
-    webUrl: "https://www.androidauthority.com/phone-camera-ai-mode-poll-2731125/"
-    ampWebUrl: "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-2731125/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-2731125/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 87
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Don't like to speak on camera? Your AI character can do it for you"
     excerpt: "Tonya Hall talks to Natalie Monbiot, head of strategy at Hour One, about how synthetic AI characters based on humans could save businesses plenty of time but also create some ethical issues."
     publishedDateTime: 2021-08-11T12:04:00Z

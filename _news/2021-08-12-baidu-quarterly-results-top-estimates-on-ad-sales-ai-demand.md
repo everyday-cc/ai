@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Baidu quarterly results top estimates on ad sales, AI demand"
-excerpt: "Baidu Inc's quarterly results topped Wall Street estimates on Thursday, as the Chinese search giant benefited from a rebound in advertising sales and higher demand for its artificial intelligence and cloud products."
-publishedDateTime: 2021-08-12T14:08:00Z
-originalUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad-sales-rebound-2021-08-12/"
-webUrl: "https://www.reuters.com/technology/baidu-revenue-tops-estimates-ad-sales-rebound-2021-08-12/"
+excerpt: "Earlier this year, Baidu's autonomous driving unit Apollo launched paid robotaxi services, that operate without a driver behind the steering wheel, in Beijing and Guangzhou. Its robotaxi services ..."
+publishedDateTime: 2021-08-12T10:07:00Z
+originalUrl: "https://www.investing.com/news/stock-market-news/baidu-revenue-tops-estimates-on-ad-sales-rebound-2587817"
+webUrl: "https://www.investing.com/news/stock-market-news/baidu-revenue-tops-estimates-on-ad-sales-rebound-2587817"
 type: article
-quality: 84
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Investing.com
+  domain: investing.com
 
 topics:
+  - AI in Autos
   - AI
   - AI in Sales
 
 images:
-  - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/SYUOENPIIFIELN3TTOKZ5B7OK4.jpg"
-    width: 800
-    height: 533
+  - url: "https://i-invdn-com.investing.com/news/LYNXMPEB3T02Q_L.jpg"
+    width: 764
+    height: 600
     isCached: true
 
 related:
@@ -85,6 +82,6 @@ related:
         height: 450
         isCached: true
 
-secured: "tStRokYphMGZQJu4HOWcHKbHLefcaHOR2pIJAbsoQXxMOTjwxpt9gZYEToIiI7rkdYjuFCv/YkvJq+XO7P0n7GLJ5dp9OuU913NGdxGZ7CDTvoOvPDsGs9IFMWjQm4FFOYXrC9zCMJnEPmz4Mr+G7neas3Q8mIAislx4dvtLXOurIbDspm0tSBjvo88unnxdqT42rK9O0haT6ilWSXK32e7udAAAJV9ItHWC7c/vd6GCh9+T+kSq/P5222jVkqPQYTlzcinz/wguABMU+lwXiuORBCfeHZJI2T4Dsphmsr1bimMxHzXaWRjW0GHpFkxBOcQBidW+7SpU8ePzxvWNp1GhxovFJ9m1Psazi8Gr4VjtUqUamSxG4qDCjWUx2qtKJ/6Zrd2SPDrGsMYfvRkxQ54uXUvUru0UmsvWVFKMtWIjx0raIHbyV+QglQ+jhoGcAN2qxkaXuF3UYxgKTIXrtqijWxJVN8/cEyjtsdBhlioAFjt4TvLf+OE11VtmpUlzxUMpdXa+AIyePq1W1sDBxg==;EXJXuV2LaC9DpLLct6eN5g=="
+secured: "lA9VIKHrl8lfdh5QXKig8/waErd+oKEFTAKcTSKV/A13OrwxA0eVLlmqLG8Y9vyFr1Q9r7Bm1t5oOaVhbSXycAGzjf3oOP7A6/BvBK4MSZfvJtdtMFU/be28WrGoG8zBqvNdpxocWil3zvoXg4y6bIxgID3tb6EEoMGxzw9iBXFrcWghMri0y28WuvVure72A0nR/CanxBDUrh91hSZ7TYb6DVo5fSYb4jZ39bg7y+HqaX1I7479mj78u9BP0otmVlHAC2ZDutRFGckfmc8sU/TFQFwbZ1pXQ2tJSbgB+lRlObNVFoDnVt49VB1rwvsRyD+zmTVjdZ0n1TX62+0yAv4b30IE7XLpZLJDw2TuAzs=;KatByN4jlbTv2MCEDh9Gfw=="
 ---
 
