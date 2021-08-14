@@ -2,6 +2,83 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-07-29-aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board.md",
+      "title": "AiM Medical Robotics Appoints Dr. Babak Kateb to Medical Advisory Board",
+      "excerpt": "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that it is appointing Dr. Babak Kateb, founding Chairman of the Board of Directors & CEO of SBMT,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-29-ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services.md",
+      "title": "Ayla Launches New Predictive AI Solution, Enabling ISPs to Deliver Smarter Broadband Services",
+      "excerpt": "Ayla Networks, a leader in Internet of Things (IoT) platforms that accelerate digital transformation for consumer brands and Internet service providers (ISPs), today announced Ayla TransformAI, a breakthrough predictive machine-learning based solution for ISPs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "originalUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a.md",
       "title": "Canadian Conversational AI Design Tool Voiceflow Raises $20 Million In Series A",
       "excerpt": "Canadian collaborative conversational AI tool Voiceflow announced today that it has raised $20 million in a Series A round led by Felicis Ventures. Other investors include Craft Ventures, True Ventures,",
@@ -1044,91 +1121,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines.md",
-      "title": "AI-driven Deep Genomics gets $180M to turn biology into informational medicines",
-      "excerpt": "Softbank led the Series C round of funding for Deep Genomics, a startup that applies its artificial intelligence technology to all aspects of discovering and developing new drugs. The Deep Genomics platform has yielded 10 programs;",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
-      "originalUrl": "https://medcitynews.com/2021/07/ai-driven-deep-genomics-gets-180m-to-turn-biology-into-informational-medicines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2021/07/Brendan_Frey.jpg",
-          "width": 1487,
-          "height": 992,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-facebook-chatbots-werent-shut-down-for-creating-language.md",
-      "title": "Facebook – Facebook chatbots weren’t shut down for creating language",
-      "excerpt": "Facebook discontinued two “AI robots” after they developed their own language . It’s hard to escape artificial intelligence. From algorithms curating social media",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/13/USAT/81ade0d0-9048-4d9d-ad7c-d6cfdd50eec8-479c7ac2-491a-4c7a-bb0a-9c8f956a2665_thumbnail.png?width=660&height=371&fit=crop&format=pjpg&auto=webp",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

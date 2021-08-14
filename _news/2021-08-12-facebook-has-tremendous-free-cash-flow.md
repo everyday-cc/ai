@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "TikTok, YouTube and Facebook Want to Appear Trustworthy. Don't Be Fooled."
-    excerpt: "TikTok made a big announcement last year. The company would open a Transparency and Accountability Center, giving the public a rare glimpse into how it works, including its algorithm. These AI-driven systems are usually black boxes,"
-    publishedDateTime: 2021-08-10T04:45:00Z
-    webUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled"
-    ampWebUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 43
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/08/10/ashley_boyd.jpg?itok=aa7EWLo_"
-        width: 480
-        height: 480
-        isCached: true
   - title: "AI researchers won’t be playing ‘trust fall’ with Facebook. Or China"
     excerpt: "There are organizations that AI researchers trust less than Facebook, according to a new paper, and they are all Chinese."
     publishedDateTime: 2021-08-12T17:49:00Z
@@ -102,6 +86,6 @@ related:
         height: 1320
         isCached: true
 
-secured: "ckQEXdhsdZLCyrzLE8Vk28AGU8aCbKDBU6P66no2Z54PdhYcZdy1aldEiHHuaAtAv5pCQm7ie1DBUbLxpv5krsQojktdINRbLMNQemOOoCDHRi8oesTAQhk3ZPbZDk/y3HzRDUzWYC3GPf8adBowkpcTeRtZwxDERsCTg47rUEsrzLDgjtifG9uOo9t2LU58r+kn70i+cINul6Sc6qAhO3HZqoQV6XaFN7/qi7i3gR7BO6qRKucDWnziL7Xxy6ydQ0NmOOCVbfPYtxm+CQim7mWERPUSTFkFrbuJQjCiVEzCMnuiJnQxDSnCH9blprG0NtsM1TPKkBZARvlW+R6sQ8pQmekMqDO1ywNwsQR7TNU=;bQwqIUrngaARaeuTE7bLFA=="
+secured: "3TaDAvA/KkNi0yGDqfPO92PYtJpuZMojgCHowYgkjFoK4E6Qz3Y/i6pXgJ7L4GXnYW5+p5tPN7KMw3tNIfLNmnm3YsFRpRKp/D32zC1sB0j3e6wX+Tl8qWAvYesz3zawmpx81lr4HumDpjQf3TO3ndKZkh1Jj9BH5xkkSDTaCTPOqriG1rhy9xjkuKTcDiFcPVxEOd0LfQmVQ9OXPh16Vo2UqARBaOl8JdWIQ1shjrzjd9ZbglNeKPW8IMVYJ4AidkDEPpT/6PpgFC89Ad26Ui0Gu/OMe/bhyZO9viCrhOBlzl0ef20Dw+mhzGl7hkpLi8UPpicjEd71y6tmgfuCwDySWeypMjAObld5i4rqbNgqrLDCaXK0R0qS9QJ/VR8CnSUh+70MOSrLXh3qD7wyIgBUR4aLH57yrsZupWNGItdi6bqZ6WzW3wze5xfEVYWZQyR3WlmwGELbCnmBSCDXl+mqIMhGU8kIQnyCSaL5tlcJHLABVzhgawHmKCZICsyZTXwRnysmyeKw+XNP+4345Q==;eECHpSH0ZDQ3+CAedawroA=="
 ---
 

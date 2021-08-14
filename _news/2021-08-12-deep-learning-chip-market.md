@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Abacus.AI debuts industry-first platform for building, training and running deep learning models"
-    excerpt: "Abacus.AI debuts industry-first platform for building, training and running deep learning models - SiliconANGLE"
-    publishedDateTime: 2021-08-13T16:14:00Z
-    webUrl: "https://siliconangle.com/2021/08/13/abacus-ai-debuts-industry-first-platform-building-training-running-deep-learning-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Bindu-Headshot.jpg"
-        width: 940
-        height: 512
-        isCached: true
 
 secured: "gWqE2i+PopgKhFoKM6PWpstnHKwwqQErXv8U7NS/4/U5S/5It0cBbjPSBpN+VoG+VbuEikzG2wbzYa9MDSGIH+bpG4NyFC7wMkUKjL2ATzMgzH8wdWC0Wu0YBGqM6obwtsoXzsPaANGYKW8ZzsdJa5pMOhOOnCwSp7McQEMxI6CKSI3rVaWRClkvVBwFqn2LwVYxTY38FPHBmaRwt1gMkWkLfIWBm9gsy9RjJVjxwt/Dj/AcPw1LvN/pBGAetVu3zIPeZ01MLgVlV+kt2+jYMAdcjjrzMH02nPb7qHVZOJCJLpeo/07pYnz4yphwF7w0EkMxec9UwiFr8b2G80yxk+Yd5ynXbbgaUhZSdrmOETM=;fJmDMy1ys7wjON87t2lUAQ=="
 ---

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-12-cambridge-scientists-say-new-ai-tool-could-diagnose-dementia-from-a-single-brain-scan.md",
+      "title": "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan",
+      "excerpt": "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
+      "originalUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-1-4.jpg&signature=243543456642555e7ebed5e37fe997b9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T11:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
       "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
       "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
@@ -848,7 +899,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1201,57 +1252,6 @@
         "AI in Healthcare",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-singapores-logistics-tech-startup-parcel-perform-raises-20-million.md",
-      "title": "Singapore’s logistics tech startup Parcel Perform raises $20 million",
-      "excerpt": "Singapore-headquartered Parcel Perform, which connects merchants with e-commerce carriers and provides shipment tracking features, said on Wednesday it has raised $20 million in a new financing round as it scales its business in several parts of the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/",
-      "originalUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-505451902.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/",
-      "publishedDateTime": "2021-08-11T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

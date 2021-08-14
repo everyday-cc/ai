@@ -42,22 +42,6 @@ related:
         width: 600
         height: 426
         isCached: true
-  - title: "TikTok, YouTube and Facebook Want to Appear Trustworthy. Don't Be Fooled."
-    excerpt: "TikTok made a big announcement last year. The company would open a Transparency and Accountability Center, giving the public a rare glimpse into how it works, including its algorithm. These AI-driven systems are usually black boxes,"
-    publishedDateTime: 2021-08-10T04:45:00Z
-    webUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled"
-    ampWebUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
-    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 43
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/08/10/ashley_boyd.jpg?itok=aa7EWLo_"
-        width: 480
-        height: 480
-        isCached: true
   - title: "Facebook Fails To Stem COVID Denialism Even as Delta Variant Surges"
     excerpt: "We documented a sampling of Facebook posts, comments, and a group that continue to push anti-mask and anti-vaccine rhetoric, as well as COVID denialism."
     publishedDateTime: 2021-08-12T23:45:00Z

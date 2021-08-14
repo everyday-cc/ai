@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia
 webUrl: "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials"
 type: article
 quality: 60
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
         width: 500
         height: 281
-        isCached: true
-  - title: "Artificial Intelligence may diagnose dementia in a day"
-    excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-    publishedDateTime: 2021-08-10T04:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Artificial Intelligence May Help Diagnose Dementia, Says Study"
     excerpt: "Artificial Intelligence is being used across industries to detect various threats. In fact, various researchers talk about how AI can help in detecting various hazardous diseases like oesophageal cancer by detecting its early signs."

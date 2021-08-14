@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-29-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
+      "title": "NetApp acquires Data Mechanics to accelerate spot roadmap and optimize data analytics and machine learning workloads in the cloud",
+      "excerpt": "NetApp® (NASDAQ: NTAP), a global, cloud-led, data-centric software company, today announced that it has acquired Data Mechanics, a managed platform provider for big data processing and cloud analytics with offices in Paris,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/NetApp__acquires_Data_Mechanics8239to_accelerate_spot_roadmap_and_optimize_data_analytics_and_machine_learning_workloads_in_the_cloudnbsp-ZAWYA20210629131953/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/ENG_PR1572_2021_06_29.jpg",
+          "width": 450,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20210629131953/",
+      "publishedDateTime": "2021-06-29T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-06-29-pixelmator-pro-gains-a-crop-tool-powered-by-machine-learning-and-more.md",
       "title": "Pixelmator Pro gains a crop tool powered by machine learning, and more",
       "excerpt": "Pixelmator Pro has been updated with support for a new machine learning-powered crop tool and more. The new update is free for existing Pixelmator users. Pixelmator Pro has a new update in the App Store and it's one that you won't want to miss out on.",
@@ -1364,41 +1408,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-state-street-leverages-machine-learning-to-streamline-private-markets-processing-and-document-management-through-partnership-with-canoe-intelligence.md",
-      "title": "State Street Leverages Machine Learning to Streamline Private Markets Processing and Document Management Through Partnership with Canoe Intelligence",
-      "excerpt": "State Street Corporation today announced it will implement a cloud-based, machine learning technology to transform private markets processing and docu",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210622005654/en/State-Street-Leverages-Machine-Learning-to-Streamline-Private-Markets-Processing-and-Document-Management-Through-Partnership-with-Canoe-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

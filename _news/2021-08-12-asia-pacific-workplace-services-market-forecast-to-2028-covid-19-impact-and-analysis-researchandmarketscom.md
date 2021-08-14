@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Download PDF Brochure:  Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables,"
-    publishedDateTime: 2021-08-13T11:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954"
+    excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables, 76 - Figures, 188 - Pages) In 2020,"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728956"
     type: article
     provider:
       name: Business Insider

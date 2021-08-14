@@ -2,6 +2,103 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-02-ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design.md",
+      "title": "AI on the bench: Cadence offers machine learning to smooth chip design",
+      "excerpt": "A form of reinforcement learning helps in the trade-offs between power, performance, and area in chips. A designer of computer chips has to think about a lot of things, such as clock trees. \"Whenever you put in the clock tree,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/02/7b902741-4f4e-4956-a908-b36b1b7dacf0/slide-8-cerebrus-press-deck-071921-embargoed-until-jul-22.jpg",
+          "width": 792,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/ai-on-the-bench-cadence-offers-machine-learning-to-smooth-chip-design/",
+      "publishedDateTime": "2021-08-02T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie.md",
+      "title": "Facial recognition in UAE: Now, open a bank account with a selfie",
+      "excerpt": "UAE citizens and residents can now open a bank account from the comfort of their home by taking a selfie — and be done with the entire process in less than five minutes. Abu Dhabi Islamic Bank (ADIB) on Monday signed a partnership with the Ministry of Interior to launch the UAE’s first digital account opening service through an app by using a selfie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "originalUrl": "https://www.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210802/ARTICLE/210809856/AR/0/AR-210809856.jpg&NCS_modified=20210802112011&MaxH=225&imageVersion=16by9",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/facial-recognition-in-uae-now-open-a-bank-account-with-a-selfie",
+      "publishedDateTime": "2021-08-02T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
       "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
       "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
@@ -1068,111 +1165,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market to Witness Excellent Revenue Growth Owing to Rapid Increase in Demand",
-      "excerpt": "A Latest intelligence report published by AMA Research with title \"Computer Vision in Artificial Intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-to-witness-excellent-revenue-growth-owing-to-rapid-increase-in-demand-2021-07-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -72,22 +72,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Artificial Intelligence may diagnose dementia in a day"
-    excerpt: "Scientists are testing an artificial-intelligence system thought to be capable of diagnosing dementia after a single brain scan. It may also be able to predict whether the condition will remain stable for many years,"
-    publishedDateTime: 2021-08-10T04:28:00Z
-    webUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/health-57934589.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/health-57934589.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/177C1/production/_119539169_denisscan2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial Intelligence May Be Able To Identify Dementia With Single Scan"
     excerpt: "Scientists are currently testing an artificial intelligence (AI) system that may be able to detect dementia after just one brain scan. This system may also be capable of predicting whether or not a person’s condition will remain stable for a number of years,"
     publishedDateTime: 2021-08-10T08:25:00Z

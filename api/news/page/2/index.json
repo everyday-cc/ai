@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-13-the-mark-cuban-foundation-selects-birmingham-as-host-city-for-bootcamp.md",
+      "title": "The Mark Cuban Foundation selects Birmingham as host city for bootcamp",
+      "excerpt": "The Mark Cuban Foundation, founded by entrepreneur Mark Cuban, has selected Birmingham as one of the host cities for its AI bootcamp for high school students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.markcubanai.org/",
+      "originalUrl": "https://www.bizjournals.com/birmingham/news/2021/08/12/mark-cuban-bootcamp-birmingham.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads-ssl.webflow.com/5f8f6761b7adb5b052dfa1c2/5f984232a40bd3d1d86c4295_AI%20Bootcamp%20Open%20Graph.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
       "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
       "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
@@ -148,7 +190,7 @@
       "originalUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1110,57 +1152,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-cambridge-scientists-say-new-ai-tool-could-diagnose-dementia-from-a-single-brain-scan.md",
-      "title": "Cambridge scientists say new AI tool could diagnose dementia from a single brain scan",
-      "excerpt": "Cambridge scientists have started clinical trials of an AI system that they believe could diagnose dementia from a single brain scan.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
-      "originalUrl": "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-1-4.jpg&signature=243543456642555e7ebed5e37fe997b9",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-11T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

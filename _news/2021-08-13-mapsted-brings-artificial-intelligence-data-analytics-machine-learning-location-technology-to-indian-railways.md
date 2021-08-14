@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Keeping The Roads Safe And Protecting Drivers With AI"
-    excerpt: "KeepTrucking launches a new AI Dashcam that uses AI to detect and identify risky behavior to help truck drivers be more safe and prevent accidents."
-    publishedDateTime: 2021-08-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611515d264435d595ab5e193%2F0x0.jpg"
-        width: 1200
-        height: 746
-        isCached: true
   - title: "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights"
     excerpt: "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,"
     publishedDateTime: 2021-08-13T00:00:00Z

@@ -27,35 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Why machine learning models fail"
-    excerpt: "Machine learning and data science are important tools in the tech industry. However, if they are used improperly, they may create more problems than they solve."
-    publishedDateTime: 2021-08-12T16:44:00Z
-    webUrl: "https://sdtimes.com/ai/why-machine-learning-models-fail/"
+  - title: "Realizing IoT’s potential with AI and machine learning"
+    excerpt: "The key to getting more value from industrial internet of things (IIoT) and IoT platforms is getting AI and ML workloads right."
+    publishedDateTime: 2021-08-14T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2021/08/8-11-machine-learning-fail.jpeg"
-        width: 1280
-        height: 853
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/john-adams-1xIN4FMR78A-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Deep Learning Chip Market"
-    excerpt: "The Global Deep Learning Chip Market research report caters to the need for an industry-wide and economically updated research report for businesses that have the potential to offer lucrative data ..."
-    publishedDateTime: 2021-08-12T12:13:00Z
-    webUrl: "https://www.openpr.com/news/2353589/deep-learning-chip-market-size-business-opportunities"
-    ampWebUrl: "https://www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353589/deep-learning-chip-market-size-business-opportunities"
+  - title: "Keeping The Roads Safe And Protecting Drivers With AI"
+    excerpt: "KeepTrucking launches a new AI Dashcam that uses AI to detect and identify risky behavior to help truck drivers be more safe and prevent accidents."
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.openpr.com/U/8/U812543278_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611515d264435d595ab5e193%2F0x0.jpg"
+        width: 1200
+        height: 746
+        isCached: true
+  - title: "Teaching AI to see depth in photographs and paintings"
+    excerpt: "Researchers in SFU's Computational Photography Lab hope to give computers a visual advantage that we humans take for granted—the ability to see depth in photographs. While humans naturally can determine how close or far objects are from a single point of view,"
+    publishedDateTime: 2021-08-12T16:58:00Z
+    webUrl: "https://techxplore.com/news/2021-08-ai-depth.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-ai-depth.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-depth.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/teaching-ai-to-see-dep.jpg"
+        width: 800
+        height: 310
         isCached: true
 
 secured: "JcsPDWDEClJpRYOUOXQqdcS9emrjnqoutWN77RGhvg6mFQYr8fC8Xh0S91HHsBSYM5g8ehJnZr9R6rIyv0IqMLUvoAob71rW8Jsc9EvHK0B+MBsQ4sgbFBABp2bG0U08kHREmL3SzvbzhXumEzlyVbw+ssyw3mYjBRr5yJmPCxilZUetzXoe9HtBdP9QImowRCWZdcZ8a8dgi0prkZwJ4Xa7g9aOWp9nMMbZrl1Yw+OejdUnwF2YIYQQRsoCpCm4Fd5NyZJpo3TepHs649bqo6CuFT9q7uBz+efQQBi2GLcAaysDNdjqSWIaEc6xQIw6TiRCVsOrjda0iEgwpf1lw2CN1yJDS4B0RoLkE2PLvDYOmWzb3GWSmtopECjuWhgfmrkl63jfDyc96ahd267ftHSPwpPe5tms4AxRk5WYTayDFMjIsbeTtFhxKkGlqFMSX7QiTrYCtpYBCNxHDk7A4nX+PUMxwVtQBZLYVE0ehRwnmcZSibGf3YJZS6iOVfHLXaKb+VuOZOr+Uq58nISzVA==;RL/lbgsJIGRhFtMfVj3TAA=="

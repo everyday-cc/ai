@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-15-unlocking-value-with-privacy-preserving-machine-learning.md",
+      "title": "Unlocking Value With Privacy-Preserving Machine Learning",
+      "excerpt": "To address this unprecedented need, machine learning (ML) is proving to be a powerful tool for uncovering the value locked within data. However, with power comes responsibility, and in order to leverage ML effectively,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "originalUrl": "https://www.cpomagazine.com/insights/unlocking-value-with-privacy-preserving-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/07/unlocking-value-with-privacy-preserving-machine-learning_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unlocking-value-with-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2021-07-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-ibm-unveils-first-machine-learning-end-to-end-pipeline-starter-kit.md",
       "title": "IBM unveils first machine-learning end-to-end pipeline starter kit",
       "excerpt": "IBM is announcing a new addition to its open source Cloud-Native Toolkit that will allow developers to integrate their AI and ML applications \"to cloud-native environments and optimize scalable, reliable deployments.",
@@ -1378,58 +1422,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-infrared-cameras-and-artificial-intelligence-provide-insight-into-boiling.md",
-      "title": "Infrared cameras and artificial intelligence provide insight into boiling",
-      "excerpt": "But “artificial intelligence is not limited by the speed or ... or layers of silicon dioxide nanoparticles. They trained a neural network on 85 percent of the data from the first three surfaces, then tested it on 15 percent of the data of those ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "originalUrl": "https://news.mit.edu/2021/infrared-cameras-artificial-intelligence-provide-insight-into-boiling-0707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202106/MIT-SEM-boiling-surfaces.jpg",
-          "width": 3750,
-          "height": 2500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-realizing-iots-potential-with-ai-and-machine-learning.md",
+      "title": "Realizing IoT’s potential with AI and machine learning",
+      "excerpt": "The key to getting more value from industrial internet of things (IIoT) and IoT platforms is getting AI and ML workloads right.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/john-adams-1xIN4FMR78A-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-08-14T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry.md",
       "title": "Science, applied: 3 ways AI and ML are advancing the insurance industry",
       "excerpt": "Insurance companies are implementing applications of data science to detect fraud and provide a personalized customer experience.",
@@ -1189,48 +1241,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-the-mark-cuban-foundation-selects-birmingham-as-host-city-for-bootcamp.md",
-      "title": "The Mark Cuban Foundation selects Birmingham as host city for bootcamp",
-      "excerpt": "The Mark Cuban Foundation, founded by entrepreneur Mark Cuban, has selected Birmingham as one of the host cities for its AI bootcamp for high school students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.markcubanai.org/",
-      "originalUrl": "https://www.bizjournals.com/birmingham/news/2021/08/12/mark-cuban-bootcamp-birmingham.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads-ssl.webflow.com/5f8f6761b7adb5b052dfa1c2/5f984232a40bd3d1d86c4295_AI%20Bootcamp%20Open%20Graph.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
