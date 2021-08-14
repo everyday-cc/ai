@@ -8,7 +8,7 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-m
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"

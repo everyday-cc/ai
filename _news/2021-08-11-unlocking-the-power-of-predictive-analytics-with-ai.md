@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 746
         isCached: true
+  - title: "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights"
+    excerpt: "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,"
+    publishedDateTime: 2021-08-13T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 68
+    images:
+      - url: "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SeaChange enables enhanced data analytics with AWS"
     excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
     publishedDateTime: 2021-08-10T10:24:00Z
@@ -73,20 +87,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 48
-  - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
-    excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."
-    publishedDateTime: 2021-08-09T20:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/ge-healthcare-inks-cloud-data-analytics-collab-with-amazon.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/6.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AI in customer analytics: Sharpening individual focus"
     excerpt: "The choices we make, shopping online or using digital payments at physical stores, can tell the retailers, merchants and banks a lot about us. And today, AI programmes are sophisticated enough to be a"
     publishedDateTime: 2021-08-13T05:30:00Z

@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Food Delivery Robots Are Going Back To School This Fall"
-    excerpt: "Food delivery robots are becoming more popular with college students. Here are a few facts behind the robot invasion."
-    publishedDateTime: 2021-08-10T18:40:00Z
-    webUrl: "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/"
-    ampWebUrl: "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/amp/"
+  - title: "The best robot vacuums for hardwood floors"
+    excerpt: "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood."
+    publishedDateTime: 2021-08-10T20:05:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112c74bdc684294afae033c%2F0x0.jpg"
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/eufy-robovac-1-1.jpg"
         width: 1200
-        height: 803
-        isCached: true
-  - title: "Delivery robots are coming to a college dorm near you"
-    excerpt: "There’s a new vehicle adding to the traffic of campus corridors: fun-sized autonomous food delivery robots, courtesy of. The company is adding the University of Illinois Chicago, the University of Kentucky,"
-    publishedDateTime: 2021-08-10T15:54:00Z
-    webUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you"
-    ampWebUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/08/Starship-6.png"
-        width: 2000
-        height: 1275
+        height: 800
         isCached: true
 
 secured: "PvXayzvww2gBq1Xc7Ckp79CWmVnSSxUT/Mg6EgdxAM1GHu6XndKKmlPB35Tgx3Cv5RMKsL8xraIKUJ4CFFpAN9eXQvET/fl5p4ZHvPGlvr5cXz5kAJEohIWitSIR1/Wih6CkKGhKBL/Rkpe6oDr+Bbfimkw8ewcq8/nDrp9yxOReaH9RseWkfUateqFH8ZCrnQKHXMqryeExelU6lNdZtS1qj7rCTz39sr0v6RI2x92FPC5Ar14GDoguDd2JO2qgpFO5t9EMqFPXc8aToMmDURYa2aKjxc+3/qOsvaimImCkaP2C+3vZMJVl3EKt274skaGDJfhcZLUPSt/no3Wfcd5J4d6MQLXZnKTFb6vT9SdMENAf+O7ylfDPeXKTSrK9VEYvl/dUF5clVmlkGKMfH7bCL82M6ETg3jmY2ZuKl/fJYi3G3nQBldJ31lZ8QFTyMxpCGJ3kSKwDOx8PBDOEId3Q3pkm8bjNf9zAq7d5GEXShhuN7paoXvQoVkPAWQyQxuMkCZRi5cRgNg42fCWhfQ==;NL758L5XWbNjHCnLMSHCqQ=="

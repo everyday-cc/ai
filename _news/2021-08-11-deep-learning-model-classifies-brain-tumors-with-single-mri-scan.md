@@ -2,26 +2,28 @@
 category: news
 title: "Deep learning model classifies brain tumors with single MRI scan"
 excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-publishedDateTime: 2021-08-11T14:01:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/924825"
-webUrl: "https://www.eurekalert.org/news-releases/924825"
+publishedDateTime: 2021-08-11T14:20:00Z
+originalUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+webUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-deep-brain-tumors-mri-scan.amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe06826f-37f6-4b29-a4c8-078a2fdd00f5/Rendition/thumbnail/Content/Public"
-    width: 274
-    height: 300
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-model-cl.jpg"
+    width: 1721
+    height: 1881
     isCached: true
 
 related:
@@ -97,6 +99,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XTv6sq06FZl0NwQxVVP5SjGyvJsuii0Ggd6RsXCLljXmz3n6vPP/28Ggw30/eGLtvAoXB72wCdcFciLpfSxUbzqIT+Pvr++8B5TbZ3qMbbaDvXpHmU6AfVSPYJWK3M/P2xtsJF4eqe3JYZG9QR+vDMcsYCu44TALC0DW4Ic1DUN3ojyDLetAQlRkJGAYrvviZdqC3cuG3ePOJrUkvC0rTnnratAENfOahVjUrGqHp0tNpE70HC8IOcyiDFCf6d8xVow2p7rir8ySJ1M1T5kwbf3mLajLndVSKwq81JpC/W/iaYmdavX9Y7CrzpX0UKgV86Je2HH94FytmZRkq9qDabHkQLQiga4S1AzC0NRXmHM=;nyyy7MvB+3cM76zkf7FIWw=="
+secured: "FOLkSeNSePdh9Q21uO8VAccPbQmlI02tZqlJ/z9Gb/Thn9JGSy4yuHL2JIBMM2/DORtXS3Y+stsWPefNdRW2rfr0VJXK3H2+2KiaiGhl4djk4wMWAEiZe7uY1vJLb6afifXf7HJt1g74L+QwgodliVK5vNjSZ9AJ0xHvq9Q85orImL4/8K46JgQ3iL4J+37qCrwuFC1u24bdWofUpFvrd8Oh43A4HYTI8dNiLgJtTo32NwExjznv8FkrT4kJ1Eb8il+KWjA4J1lqBID4/DfznvRTYGgZM1+zZYoT2vWgsaGNzXoVGRirPtKgs3TGWDYPYWQ20e9kMuhZXHRt89I4kLThO1dMpMG7YQpYV3WEXgA=;7YvRG8sEiLZbNV+4f946iQ=="
 ---
 

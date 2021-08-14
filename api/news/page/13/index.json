@@ -2,6 +2,258 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-08-03-deepgram-launches-10m-speech-recognition-startup-program.md",
+      "title": "Deepgram launches $10M speech recognition startup program",
+      "excerpt": "Speech recognition startup Deepgram is launching a $10 million accelerator program to help develop voice applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/",
+      "originalUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/03/deepgram-launches-10m-speech-recognition-startup-program/amp/",
+      "publishedDateTime": "2021-08-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-intel-expands-ai-career-education-program-to-18-community-colleges.md",
+      "title": "Intel expands AI career education program to 18 community colleges",
+      "excerpt": "Program will teach data collection, computer vision and AI model training to community college students in 11 states.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "originalUrl": "https://www.cnet.com/tech/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/bOyPv1h-UlqYl-el3hHcBa2WShc=/644x362/2017/03/14/e743e9be-1c54-4dd3-9583-248dd3e54e34/amp-placeholder.jpg",
+          "width": 644,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-expands-ai-career-education-program-to-18-community-colleges/",
+      "publishedDateTime": "2021-08-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-how-ai-inspires-human-versatility-at-work.md",
+      "title": "How AI Inspires Human Versatility At Work",
+      "excerpt": "Below are four fundamentals that acknowledge both AI’s limitations and how it pushes humans to be more versatile at work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f8e32ee0245e4f194ad4%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/how-ai-inspires-human-versatility-at-work/amp/",
+      "publishedDateTime": "2021-08-03T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-distinguished-research-scientist-dr-zoltan-tuske-to-join-apptek-and-drive-new-innovations-in-automatic-speech-recognition.md",
+      "title": "Distinguished Research Scientist, Dr. Zoltán Tüske, to Join AppTek and Drive New Innovations in Automatic Speech Recognition",
+      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidenova.com/news/state/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_44851ce0-0da1-5da0-afc8-92e2089b958c.html",
+      "originalUrl": "https://www.insidenova.com/news/state/distinguished-research-scientist-dr-zolt-n-t-ske-to-join-apptek-and-drive-new-innovations/article_44851ce0-0da1-5da0-afc8-92e2089b958c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/assets/v3/editorial/8/e5/8e554a14-7cbd-5d7b-9761-a9356555bc0f/61093f15b3634.image.jpg?resize=547%2C630",
+          "width": 547,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INSIDENOVA.COM",
+        "domain": "insidenova.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-why-data-management-is-critical-for-faster-drug-development.md",
+      "title": "Why Data Management Is Critical For Faster Drug Development",
+      "excerpt": "Co-Founder, COO at Komprise, creating Intelligent Data Management for enterprises to manage data growth and harness data value across clouds For every 5,000 drug candidates, only one results in a commercial product,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6107f38c6f4816452b7a6fed%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/03/why-data-management-is-critical-for-faster-drug-development/amp/",
+      "publishedDateTime": "2021-08-03T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-meet-cassie-the-first-two-legged-robot-to-set-a-running-record-using-machine-learning.md",
       "title": "Meet Cassie, the first two-legged robot to set a running record using machine learning",
       "excerpt": "Cassie, a robot invented at Oregon State University in Corvallis, has set a record as the first two-legged robot to use machine learning to control its running gait on outdoor terrain, the university said.",
@@ -943,238 +1195,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ai-driven-hr-seeks-to-balance-human-and-resources.md",
-      "title": "AI-driven HR seeks to balance ‘human’ and ‘resources’",
-      "excerpt": "Human resources is an area that is ripe for automation, and in particular, the kind of automation made possible by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1171132289.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/ai-driven-hr-seeks-to-balance-human-and-resources/amp/",
-      "publishedDateTime": "2021-08-02T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-pixel-6-preview-heres-what-googles-first-smartphone-chip-can-do.md",
-      "title": "Pixel 6 Preview: Here's What Google's First Smartphone Chip Can Do",
-      "excerpt": "Now with five smartphones of its own in the books, Google is gearing up for some major changes that could propel the Pixel lineup to mainstream success. Ahead of the Pixel 6's official launch later this fall— yes,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "originalUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2522a86d58c3a3f2674b60fc4a06646a.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "publishedDateTime": "2021-08-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-b2b-sales-productivity-startup-nektarai-closes-seed-round-of-81-million.md",
-      "title": "B2B sales productivity startup Nektar.ai closes seed round of $8.1 million",
-      "excerpt": "The company intends to use the funding to accelerate product development and hire talent for its core team across product, engineering, and GTM functions",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million-11627917081210.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/08/02/600x338/startup-kElG--621x414@LiveMint_1627917168314.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/b2b-sales-productivity-startup-nektar-ai-closes-seed-round-of-8-1-million/amp-11627917081210.html",
-      "publishedDateTime": "2021-08-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020.md",
-      "title": "Chinese weightlifter Li dominates women's +87kg division at Tokyo 2020",
-      "excerpt": "Li Wenwen of China celebrates during the awarding ceremony for the Weightlifting Women's +87kg Final at Tokyo 2020 Olympic Games in Tokyo, Japan on Aug. 2, 2021. (Xinhua/Yang Lei) China's Li Wenwen shows her supremacy in the women's weightlifting +87kg division and sets three new Olympic records at Tokyo 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://lileicc.github.io/",
-      "originalUrl": "https://www.msn.com/en-xl/news/other/chinese-weightlifter-li-dominates-womens-87kg-division-at-tokyo-2020/ar-AAMQvND",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T08:07:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "github.io/",
-        "domain": "github.io/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding.md",
-      "title": "Nvidia is tracking more than 8,500 AI startups with $60B in funding",
-      "excerpt": "Nvidia is tracking more than 8,500 AI startups through its Inception AI startup program. Those companies have raised more than $60 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "originalUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nvidia-inception-2-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/02/nvidia-is-tracking-more-than-8500-ai-startups-with-60b-in-funding/amp/",
-      "publishedDateTime": "2021-08-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

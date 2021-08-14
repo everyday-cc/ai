@@ -92,20 +92,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Biometric spoof of Windows Hello not really resolved — researchers"
-    excerpt: "Researchers say it is still possible to fake out the face-biometric lock in Microsoft's Windows 10 Hello authentication app."
-    publishedDateTime: 2021-08-09T19:07:00Z
-    webUrl: "https://www.biometricupdate.com/202108/biometric-spoof-of-windows-hello-not-really-resolved-researchers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/14115636/windows-hello-facial-recognition-camera.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
     excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
     publishedDateTime: 2021-08-13T19:54:00Z

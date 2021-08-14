@@ -87,20 +87,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Biometric spoof of Windows Hello not really resolved — researchers"
-    excerpt: "Researchers say it is still possible to fake out the face-biometric lock in Microsoft's Windows 10 Hello authentication app."
-    publishedDateTime: 2021-08-09T19:07:00Z
-    webUrl: "https://www.biometricupdate.com/202108/biometric-spoof-of-windows-hello-not-really-resolved-researchers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/14115636/windows-hello-facial-recognition-camera.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "What do travelers think about biometric facial recognition technology?"
     excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
     publishedDateTime: 2021-08-12T12:40:00Z

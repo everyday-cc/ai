@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spe
 ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"

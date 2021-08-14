@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-14-machine-learning-as-a-service-market-size-growth-analysis-report-2021-2027.md",
+      "title": "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027",
+      "excerpt": "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis",
+      "originalUrl": "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U814236969_g.jpg",
+          "width": 800,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis",
+      "publishedDateTime": "2021-08-14T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-brain-computer-interfaces-are-making-big-progress-this-year.md",
+      "title": "Brain-computer interfaces are making big progress this year",
+      "excerpt": "Eight months in, 2021 has already become a record year in brain-computer interface (BCI) funding, tripling the $97 million raised in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/nextMind.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/brain-computer-interfaces-are-making-big-progress-this-year/amp/",
+      "publishedDateTime": "2021-08-14T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-this-machine-learning-tool-can-translate-english-sentences-into-computer-code.md",
+      "title": "This Machine Learning Tool Can Translate English Sentences Into Computer Code",
+      "excerpt": "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "originalUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "publishedDateTime": "2021-08-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-aiml-seen-as-crucial-to-battle-software-supply-chain-security-breaches.md",
       "title": "AI/ML Seen as Crucial to Battle Software Supply Chain Security Breaches",
       "excerpt": "Malware delivered via automatic software updates is a challenge for the digital supply chain serving a wide range of companies.",
@@ -340,7 +479,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1233,137 +1372,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-tesla-teases-future-products-using-artificial-intelligence-not-related-to-its-electric-vehicle-fleet.md",
-      "title": "Tesla teases future products using artificial intelligence not related to its electric vehicle fleet",
-      "excerpt": "In the invite to its AI Day, Tesla is teasing the use of artificial intelligence beyond its electric vehicle fleet. What do you think they’re talking about? As we have reported over the last week, Tesla is preparing for its upcoming AI Day on August 19.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "originalUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-robot-snake-charger.gif?w=1000",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/04/tesla-teases-future-products-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-08-04T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-abacusai-brings-machine-learning-into-the-hands-of-every-company.md",
-      "title": "Abacus.AI Brings Machine Learning Into the Hands of Every Company",
-      "excerpt": "Abacus.AI was founded by Google, Amazon and Uber Alumnus with vast experience in building machine learning solutions at these companies, with a mission to put cutting edge machine learning into the hands of every company and help them extract meaningful insights from their data.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/tech/abacus-ai/",
-      "originalUrl": "https://techround.co.uk/tech/abacus-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/08/abacus-ai.png",
-          "width": 3200,
-          "height": 1673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/tech/abacus-ai/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/abacus-ai/amp/",
-      "publishedDateTime": "2021-08-04T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-spell-operationalizes-advanced-ai-with-the-first-comprehensive-mlops-platform-for-deep-learning.md",
-      "title": "Spell Operationalizes Advanced AI with the First Comprehensive MLOps Platform for Deep Learning",
-      "excerpt": "Spell, the leader in operationalizing AI for natural language processing (NLP), machine vision, and speech recognition, has launched the world's first cloud-agnostic, end-to-end MLOps platform for deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/04/9423613.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

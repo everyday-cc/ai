@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-deli
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/amp/"
 type: article
 quality: 89
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Lawn mowing robots are here, but face the same challenges as robot vacuums"
-    excerpt: "We have robots that can mow the lawn, but as much as they present us with convenience, they share the same challenges that robot vacuums faced."
-    publishedDateTime: 2021-08-09T21:35:00Z
-    webUrl: "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/"
-    ampWebUrl: "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp"
+  - title: "Starship Technologies’ delivery robots are coming to more college campuses this fall"
+    excerpt: "Starship Technologies is expanding its footprint, deploying dozens of its pint-sized six-wheeled delivery robots on college campuses this fall ... would add 85 more robots to that fleet."
+    publishedDateTime: 2021-08-10T17:29:00Z
+    webUrl: "https://www.theverge.com/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
+      name: The Verge
+      domain: theverge.com
+    quality: 165
     images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/husqvarna-automower-430xh-1-of-5.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://cdn.vox-cdn.com/thumbor/Kzzdj5uwBUBSlYfXmhVmDZGyjOs=/0x0:3000x2000/1400x933/filters:focal(1260x760:1740x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69703099/starship-delivery-robot-043.0.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Delivery robots are coming to a college dorm near you"
     excerpt: "There’s a new vehicle adding to the traffic of campus corridors: fun-sized autonomous food delivery robots, courtesy of. The company is adding the University of Illinois Chicago, the University of Kentucky,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-mi
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 415
     height: 251
     isCached: true
-
-related:
-  - title: "SeaChange Enhances Collaboration With AWS"
-    excerpt: "SeaChange and AWS have collaborated since 2016. SeaChange will now leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement and improve customer business outcomes,"
-    publishedDateTime: 2021-08-09T20:47:00Z
-    webUrl: "https://www.tvtechnology.com/news/seachange-enhances-collaboration-with-aws"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/seachange-enhances-collaboration-with-aws"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9dfbXezXjpiLADQDtzQmB7-1200-80.png"
-        width: 1200
-        height: 725
-        isCached: true
 
 secured: "NiJ9HhHXm9GzvmOoPTyg/MvTU9zqb28sEP09Ut7maGQTzPx8Se57WTh1U9OIkXoyt5GD2Nt+hfhCLJT71f1/P4OhRMSicDxIxN8E6ZXKcubJyFE71MpsLU0F4JbmIZCU31W7WBZelnxMFI+T9g3GdQS3n1gcpejI3fOLVLUVRHFtuHeaAglBTbHrC7Q2fFaIc+FyMUtZTx+1vF93nJtuWhSnd/GYkpXXkaYetL3cd7iM748P1OTAMf35iQ2emFuzWJp3fHggunzLmrA+aweeh/Dr01pUntfs8kp09qLpsv0dTe3/+PhbpJe5j8x2SwukjuNdzwKbdfIyE9AA5mR5BPXpgHhVSlk8H289rGRXEds=;KMlnvRfXhwDphjiiUL5i+Q=="
 ---

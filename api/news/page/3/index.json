@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-11-hackathon-in-mexico-helps-find-missing-people-through-artificial-intelligence.md",
+      "title": "Hackathon in Mexico helps find missing people through Artificial Intelligence",
+      "excerpt": "The collection of data and the correct analysis of the same is essential to be able to locate people. With Artificial Intelligence this task could become easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379978",
+      "originalUrl": "https://www.entrepreneur.com/article/379978",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628697987-personas1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379978",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379978",
+      "publishedDateTime": "2021-08-11T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-machine-learning-in-finance-market-may-set-new-growth-story.md",
+      "title": "Machine Learning in Finance Market May Set New Growth Story",
+      "excerpt": "The latest released on Global Machine Learning in Finance Market delivers comprehensive data ecosystem with 360° view of customer activities, segment-based analytics-and-data to drive opportunities of evolving Machine Learning in Finance marketplace and future outlook to 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story",
+      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-congestion-free-roads-might-be-a-self-driving-car-pipe-dream.md",
+      "title": "Congestion-Free Roads Might Be A Self-Driving Car Pipe Dream",
+      "excerpt": "Could self-driving cars make a difference and potentially ease or even eliminate such congestion? There are various pundits that keep touting the aspect that there will never be congested traffic after the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053993990%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/",
+      "publishedDateTime": "2021-08-11T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-arm-institute-virtual-summit-tackles-robotics-for-pandemics-and-beyond.md",
       "title": "ARM Institute virtual summit tackles robotics for pandemics and beyond",
       "excerpt": "The ARM Institute opened registration for the ARM Exchange Technical Summit: Robotic Solutions for Pandemics & Beyond.",
@@ -136,6 +283,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-forget-fico-3-fintech-companies-that-are-disrupting-consumer-credit.md",
+      "title": "Forget FICO, 3 Fintech Companies That Are Disrupting Consumer Credit",
+      "excerpt": "Fintech companies -- those that combine finance and technology -- have generated a lot of buzz in the public markets during the pandemic. Although they have been around for a while, they are fast becoming a part of everyday life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638007%2Fgettyimages-1316521044.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/",
+      "publishedDateTime": "2021-08-11T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -804,7 +1003,7 @@
       "originalUrl": "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1212,7 @@
       "originalUrl": "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1053,207 +1252,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory.md",
-      "title": "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory",
-      "excerpt": "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "originalUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "cdnAmpWebUrl": "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/",
-      "publishedDateTime": "2021-08-10T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lowyat.net",
-        "domain": "lowyat.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-openai-launches-codex-an-api-for-translating-natural-language-into-code.md",
-      "title": "OpenAI launches Codex, an API for translating natural language into code",
-      "excerpt": "OpenAI today launched Codex, an AI model available through an API that can translate natural language commands into app code.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/",
-      "originalUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/",
-      "publishedDateTime": "2021-08-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-first-look-at-teslas-new-vision-based-autopark-feature.md",
-      "title": "First look at Tesla’s new vision-based Autopark feature",
-      "excerpt": "Tesla has started updating its Autopark feature with its new Tesla Vision computer vision system, which now powers Autopilot and its Full Self-Driving Beta. Like many other premium (and even non-premium) vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
-      "originalUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Autopark.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/10/tesla-vision-based-autopark-feature/amp/",
-      "publishedDateTime": "2021-08-10T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide.md",
-      "title": "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE",
-      "excerpt": "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg",
-          "width": 700,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T15:02:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

@@ -53,34 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
-    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-    publishedDateTime: 2021-08-11T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "KM3ijVO7awHhxxBmB5WqUZ8a0x9M3dYo+CloLqwsPPUHYdfMz5Fj6D1Ve3BsO0zO3priIf5rHpz8nbapGYfY4ojGMcShxqxiXqjnNd02/G3AbxJ4NEkrSSCCKbMeujuLDOlf0TdXferpzSb+Zo0AclMMw5StgUV/pQ8gEVO5FC8KAh5n8OUFyFupVZmTyWzjw+MEyAr6FSpnAZq5iIJ/GSOFFtXtJ0cVmV94E2RR/P7bMoiGoLEIlCVSFgU3XoGbdYVCi7xpqBENvpkimSX+0hKg7f9LrZhnjwaYIDaclE52Be9dkBJdlFMKSfmSoKtlYpxwu7bKBToSSdMDfmLimxOK1pPUKbHc2SqW1VwHpA0=;ihG9AMVPpgrTWJ933RntrA=="
 ---

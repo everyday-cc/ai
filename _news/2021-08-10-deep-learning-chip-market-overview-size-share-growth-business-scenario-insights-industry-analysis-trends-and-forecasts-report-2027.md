@@ -84,7 +84,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
         width: 750

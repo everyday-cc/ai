@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-06-30-voiceitt-app-for-atypical-speech-a-triumph-in-disability-co-design.md",
+      "title": "Voiceitt App For Atypical Speech — A Triumph In Disability Co-Design",
+      "excerpt": "Voiceitt, a new app that can interpret the atypical speech of individuals with communication difficulties, represents a true victory for user-centered co-design. Working alongside disability organizations across the world,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbdaee2b0833da1c7afcff%2F0x0.jpg",
+          "width": 1086,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/06/30/voiceitt-app-for-atypical-speech---a-triumph-in-disability-co-design/amp/",
+      "publishedDateTime": "2021-06-30T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-zoom-acquires-an-ai-company-building-real-time-translation.md",
       "title": "Zoom acquires an AI company building real-time translation",
       "excerpt": "Zoom has announced that it’s acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier,",
@@ -1414,58 +1466,6 @@
         "name": "Finanznachrichten",
         "domain": "finanznachrichten.de",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-15-facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word.md",
-      "title": "Facebook's new AI project: Copy text style from image using a single word",
-      "excerpt": "The first self-supervised AI model can ... in images to different languages, creating personalized messaging and captions, and \"maybe one day facilitating real-world translation of street signs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "originalUrl": "https://www.techradar.com/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qn7ZeiZSaCtMLVWJuQWpEU-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/facebooks-new-ai-project-copy-text-style-from-image-using-a-single-word",
-      "publishedDateTime": "2021-06-15T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

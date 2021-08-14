@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "7 AI-Powered Business Tools That Are Rising Fast"
-    excerpt: "Artificial Intelligence (AI) is shaping how companies and new startups are conducting business across the world."
-    publishedDateTime: 2021-08-09T20:33:00Z
-    webUrl: "https://www.ibtimes.com/7-ai-powered-business-tools-are-rising-fast-3269858"
-    ampWebUrl: "https://www.ibtimes.com/7-ai-powered-business-tools-are-rising-fast-3269858?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/7-ai-powered-business-tools-are-rising-fast-3269858?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 57
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/09/7-ai-powered-business-tools-are-rising-fast.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Scope And Future Of Artificial Intelligence (AI) In The Business World"
     excerpt: "Look around you, AI is everywhere. Most importantly, it's continuously growing. Therefore, the future scope of artificial intelligence is certainly something to think about. Recent research suggests that the AI market is expected to grow up to $190 billion by 2025!"
     publishedDateTime: 2021-08-12T04:01:00Z

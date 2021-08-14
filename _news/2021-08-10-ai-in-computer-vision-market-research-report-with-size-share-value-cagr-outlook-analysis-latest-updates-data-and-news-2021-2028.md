@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 780
         height: 470
         isCached: true
-  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "sbRagQEt3ztXVbG40+OnoYRUABR7gbiDqIyxW6xuJr0C8TlFBVioBdwlhaYP7KTWo0Au0W4YwQ0E2Q+9biScNurpADKLX3RWr82GcvJkNsmsuTNBRglr87Ur3ReoOdihHuJi9UY7sV7DmAYSYGAJIq3QCxt3Q79zXIVtZ++0o9y7xkFG85jclN29uYXGertljOl6Q1cO3MC/PYRM27T5kyeRjvlUklnrc3wDSQd2HcAfpjTMHrPLG+8FsDsNJ1ek8oBOTIpeQwZblfBSVsuGGOntr7Jp4GOUkZJGGDIwa4NIneTKcoeM0oMYx9MciKXvW81NlQjpvBffOs3mn8HvJzIwv1VmJsdXQb6QXCKQAag=;R3l8vWmtstb+xKQlj3IqKA=="
 ---

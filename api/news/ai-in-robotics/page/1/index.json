@@ -715,7 +715,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -739,58 +739,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-food-delivery-robots-are-going-back-to-school-this-fall.md",
-      "title": "Food Delivery Robots Are Going Back To School This Fall",
-      "excerpt": "Food delivery robots are becoming more popular with college students. Here are a few facts behind the robot invasion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/",
-      "originalUrl": "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112c74bdc684294afae033c%2F0x0.jpg",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christopherelliott/2021/08/10/food-delivery-robots-are-going-back-to-school-this-fall/amp/",
-      "publishedDateTime": "2021-08-10T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1312,6 +1260,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence.md",
+      "title": "Vatican speaks out in 'killer robots' debate at UN raising weaponization of artificial intelligence",
+      "excerpt": "The Vatican has told a UN meeting in Geneva that the use of \"killer robots\" and other lethal autonomous weapons systems that use artificial intelligence violates international treaties because innocent civilians could be erroneously targeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "originalUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ecumenicalnews.com/full/23732/630-0/robot-weapons.jpg",
+          "width": 630,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "cdnAmpWebUrl": "https://www-ecumenicalnews-com.cdn.ampproject.org/c/www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "publishedDateTime": "2021-08-07T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ecumenical News",
+        "domain": "ecumenicalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

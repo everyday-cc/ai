@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market May See Big Move | TIBCO Software, Amazon, Next IT"
-    excerpt: "COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis,"
-    publishedDateTime: 2021-08-11T08:36:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 48
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Desiccated-Coconut-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "FinTech in Insurance Market Rewriting Long Term Growth Story : Oko Finance, Singlife, Oscar Health"
     excerpt: "Latest survey on Global FinTech in Insurance Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of FinTech in Insurance The study is a mix of quantitative market stats and qualitative analytical information to uncover"
     publishedDateTime: 2021-08-10T22:24:00Z

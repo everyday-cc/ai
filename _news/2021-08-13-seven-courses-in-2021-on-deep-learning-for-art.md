@@ -24,17 +24,6 @@ images:
     height: 1260
     isCached: true
 
-related:
-  - title: "Quizlet's State of Modern Learning Report 2021 Reveals Ongoing Learning Loss and Need for Self-Learning Support"
-    excerpt: "Quizlet, the global learning platform known for its AI-powered study tools, today released its second annual data report: Quizlet's State of Modern Learning Report 2021, which explores online study behaviors from millions of students to understand their learning struggles and aspirations during the 2020-2021 school year."
-    publishedDateTime: 2021-08-11T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-quizlets-state-modern-learning-report-2021-reveals-ongoing-/2021/08/11/9428660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "v07NQDapayGi+3apACJRea73ggSYPiLTpKlJ07ohTPhpF1bK1nUOzY0TIRuGRABe4VjctXC5TO6h3UlEH8NlnMKFoqaVYho6bGRk2GfdZk48R43A1FQr9FsN0n299qs2K5nljKFAi98J/37uOWwXkVHKblxYi/OgFKes6gMXCLqoF0XUWnNJps7V8FJqAVKznqUdS1wuz9wKfMSfS4sxdaeWAvpTlbLMk+Tjg7YdeBJasU4gpLieU8+32SKgf8r+iB4uX0audF+WuWPFxSWBB/0dByLD0uZlDQu+AqTYcxy3i9uR98IR9TTsgcdDVUZyWOkOVJX6Mq2T4evRBDA0Gyu0UFVqUm6uyvW09zB9x75N6YpZeZ/CN/yLLU2pxwg4i0PzZ9Nr/7csfaDid20uNvOhwcCIS6N6lpprsblcWwtWi6X0xl5clwb5jiBt+rTs4QOx0CpgF2d2vJ2FQOf8RlPPOJ6A8ZHBWXxJfZFBfuDPzpjDpaJJyK60uz+Xvakd0KQJMXxxeArsvIi9gZrrSA==;2Er7PPL64eWqnD+KcjqNHQ=="
 ---
 

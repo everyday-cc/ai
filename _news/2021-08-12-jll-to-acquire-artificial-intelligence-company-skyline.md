@@ -24,95 +24,97 @@ images:
     isCached: true
 
 related:
-  - title: "JLL Moves to Acquire Artificial Intelligence Startup Skyline AI"
-    excerpt: "The real-estate and investment management services firm known as JLL said it plans to use New York-based Skyline AI’s technology to help clients predict future property values, identify new investment opportunities and decide when to raise rent,"
-    publishedDateTime: 2021-08-11T11:45:00Z
-    webUrl: "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
+  - title: "Il Makiage acquires technology company Voyage81 to bolster its brand expansion"
+    excerpt: "Il Makiage announced it will acquire AI-based computational imaging company Voyage81 to build the brand's technological capabilities."
+    publishedDateTime: 2021-08-12T13:35:00Z
+    webUrl: "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/"
+    ampWebUrl: "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/"
+    cdnAmpWebUrl: "https://www-glossy-co.cdn.ampproject.org/c/s/www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 102
+      name: glossy.co
+      domain: glossy.co
+    quality: 138
     images:
-      - url: "https://images.wsj.net/im-383438/social"
+      - url: "https://i1.wp.com/www.glossy.co/wp-content/uploads/2020/12/ilmakiage_62394383_2286538698342220_6311769983673958330_n-1.jpg?fit=1280%2C766&zoom=2&quality=100&strip=all&ssl=1"
         width: 1280
-        height: 640
+        height: 766
         isCached: true
-  - title: "JLL to Acquire Artificial Intelligence Leader Skyline AI"
-    excerpt: "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”"
-    publishedDateTime: 2021-08-12T11:04:00Z
-    webUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/"
-    ampWebUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
-    cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
+  - title: "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81"
+    excerpt: "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches."
+    publishedDateTime: 2021-08-12T15:02:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
     type: article
     provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 72
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
     images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg"
-        width: 621
-        height: 372
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/beauty-IL-MAKIAGE-AI-retail-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "JLL announces acquisition of proptech company Skyline AI"
-    excerpt: "JLL (NYSE: JLL) today announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that is transforming commercial real estate (CRE) using proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
-    publishedDateTime: 2021-08-11T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/jll-announces-acquisition-of-proptech-company-skyline-ai-1030719064"
+  - title: "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81"
+    excerpt: "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities."
+    publishedDateTime: 2021-08-12T16:32:00Z
+    webUrl: "https://www.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548"
+    ampWebUrl: "https://m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/israel-news/il-makiage-acquires-leading-israeli-computer-vision-start-up-voyage81-676548/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/487047/JLL_Logo.jpg"
-        width: 400
-        height: 246
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/481304"
+        width: 640
+        height: 428
         isCached: true
-  - title: "JLL purchases artificial intelligence startup"
-    excerpt: "JLL aims to use Skyline’s technology to help clients estimate future property values and pick new investment opportunities."
-    publishedDateTime: 2021-08-11T21:15:00Z
-    webUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/"
-    ampWebUrl: "https://therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/2021/08/11/jll-purchases-artificial-intelligence-startup/amp/"
+  - title: "Digital Beauty Brand IL MAKIAGE Bolsters Tech Stack with Computer Vision Acquisition"
+    excerpt: "IL MAKIAGE is a tech-driven beauty brand focused on “using unparalleled technology to connect people with superior, painstakingly tested, beauty products.” To make this mission a reality, the company is focusing on expanding its tech stack,"
+    publishedDateTime: 2021-08-12T16:01:00Z
+    webUrl: "https://retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition"
+    ampWebUrl: "https://retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition/amp"
+    cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/mergers-and-acquisitions/digital-beauty-brand-il-makiage-bolsters-tech-stack-with-computer-vision-acquisition/amp"
     type: article
     provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 57
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 52
     images:
-      - url: "https://therealdeal.com/wp-content/uploads/2021/08/FT-Thumbnail_jll.jpg"
-        width: 690
-        height: 493
+      - url: "https://retailtouchpoints.com/wp-content/uploads/2021/08/Screenshot-422-1-e1628784075687.jpg"
+        width: 1633
+        height: 843
         isCached: true
-  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
-    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
-    publishedDateTime: 2021-08-11T15:47:00Z
-    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
+  - title: "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81"
+    excerpt: "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based computational imaging startup. IL MAKIAGE’s acquisition of Voyage81 will enable the company to use Voyage81’s patented hyperspectral imaging systems to further enhance the company’s machine learning capabilities and aligns with IL MAKIAGE’s commitment to continue innovating and revolutionizing the beauty and wellness industries at-large."
+    publishedDateTime: 2021-08-12T12:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57"
     type: article
     provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 54
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
-        width: 1100
-        height: 750
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "JLL to buy proptech startup Skyline AI"
-    excerpt: "Real estate and investment management services firm JLL is buying property-technology startup Skyline AI for an undisclosed amount. Skyline AI’s platform process data for multifamily properties across the US to help investors maximise their investment and leasing opportunities."
-    publishedDateTime: 2021-08-11T14:56:00Z
-    webUrl: "https://realassets.ipe.com/news/jll-to-buy-proptech-startup-skyline-ai/10054457.article"
+  - title: "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81"
+    excerpt: "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based"
+    publishedDateTime: 2021-08-12T17:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/il-makiage-acquires-leading-israeli-computer-vision-startup-voyage81-835057534.html"
     type: article
     provider:
-      name: IPE
-      domain: ipe.com
-    quality: 37
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://d15duu1h3gsd2d.cloudfront.net/Pictures/1024x536/0/6/6/115066_skylineai_506777.png"
-        width: 561
-        height: 426
+      - url: "https://mma.prnewswire.com/media/1592859/Il_Makiage.jpg?p=facebook"
+        width: 960
+        height: 502
         isCached: true
   - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
     excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
@@ -125,15 +127,29 @@ related:
       name: The Business of Fashion
       domain: businessoffashion.com
     quality: 37
-  - title: "JLL to acquire AI startup that predicts future property values"
-    excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"
-    publishedDateTime: 2021-08-11T17:46:00Z
-    webUrl: "https://www.bizjournals.com/chicago/news/2021/08/11/jll-to-acquire-skyline-ai.html"
+  - title: "Il Makiage Acquires Israeli AI Company"
+    excerpt: "American tech-driven beauty brand IL MAKIAGE has acquired Israeli deep-tech AI-based computational imaging startup Voyage81 for $40m. IL MAKIAGE, which is based in New York City's Soho area, was relaunched in 2018 by brother and sister duo Oran Holtzman and Shiran Holtzman-Erel."
+    publishedDateTime: 2021-08-13T17:19:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/il-makiage-acquires-israeli-ai/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
     quality: 17
+  - title: "Beauty brand loved by social media users Il Makiage acquires tech start-up Voyage81"
+    excerpt: "One of the most hyped beauty brands of the year, Il Makiage, has acquired computational imaging start-up Voyage81 in a move that will strengthen its AI capabilities. The colour brand, now a social media sensation with more than 900k followers on Instagram,"
+    publishedDateTime: 2021-08-12T11:52:00Z
+    webUrl: "https://cosmeticsbusiness.com/news/article_page/Beauty_brand_loved_by_social_media_users_Il_Makiage_acquires_tech_startup_Voyage81/178524"
+    type: article
+    provider:
+      name: Cosmetics Business
+      domain: cosmeticsbusiness.com
+    quality: 16
+    images:
+      - url: "https://www.hpcismart.com/images/website/ManChemNews/DIR_233/F_112674.jpg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "Vb/MfNiKGGUSYombPmXvlOtE0nPfhMngeelUGMzkp0QzwS6vs+Erybze7WJss2/z0ywRiECos0wBac7QLMoSTi1GL7Tj4aunfa8QIJ4PPrQtBNFzaxC2BphcaD43iUtK6mbjIkS4/sK78li1gl4MV2PAW5aWDs8qQ9z9/IU436wgtO8F6LnJ9faQGK5MD7V2V2acgpSuYoqwz5H+R6sv+aXHez+ij7SE2jSGUhdnqUyCDGTlA52ZTjcAJAgjNSCzs+8qkYNkNkl49pAtuLcyIrTgyeJa+aO9oExXK16Ev070r8PW6mRTT1dj+xBlbTvMGc959nBy9fsjMxtFvIr08dSkKpRpTr8udKOU1Y0GuCNVqbssnMv9zkxrJ+Nk7zyZQacjI8Y0w5bdsCnCHblgVO0SsO8HKo7z1r0vBV5xu5HfinT9nL6VMJKo9XJg89vcqXVp123XzrjYKvZdH+u7ra8iwGabmfIpznTHsEXqc0MGstm38Uj/GdKYUfesRDVEPKItn4p5j21O24n649cs0w==;R/XW/vyRWBlS6SAnsS95hQ=="
 ---

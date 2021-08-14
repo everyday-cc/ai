@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/08/09/7-ai-powered-business-tools-are-rising-fast.jpg"

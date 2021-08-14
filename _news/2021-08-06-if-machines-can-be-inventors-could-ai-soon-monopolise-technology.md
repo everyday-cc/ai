@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://images.theconversation.com/files/414478/original/file-20210804-12-yt1peg.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
@@ -41,6 +42,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "TlmQsFq2+ZthjU7igNUi0hbpB+XeqAx8TqtTK7vyDIdgp0Xf+0eMq+uBkLbJCjnY5jyuZOoRzY2QzQFLXkuSQuuoi6LT+R9hkXAS54FKxE8aYuxy19EfRFGOINf6AHIlJkxDK/1cSLG3JWul8pxhbpEKGfhukvCPGGHiXz1Gnd5Cz6uJcpG3YHqXvT6JIGLCj1gYlXLATMixy+C6Aje5BMkzrsoMKtEkWAs/IhjliAD2JSVTu+Qa5Nx9Kh4w7cbxrf9vnFw2lRuWS9YqnOWT7zJtvQ0CO4jW4KjpCpyw65XMrL0S13FHl28l8BxJ4++w5oN5p/T5JR7ZqXQSfBxVpWY3pmnTtC3L1PHoP1dAZXQ=;Oz3Wjoot8g2ESPwhhoKVnw=="
+secured: "bGPyde+93zpHUZzwOxvodsvfPCxfOl3y0RNNDIWW/UdW8UZH2xQp1qV/rQ8w+TOBxUgsv1CG5B7VpJdnxmO7kOdn1VXFUB0abhYXgtGROsStY12TXMPsRfhPd+v57D3IXcDRt4BlpH1f6gm5daQdl4vFmPHvGDTDb5wPOBcd5z8RVsst27oM4puTS/LOujSGtPBbcG5T5ao7oX3R3Up5PkTXHUp3rACrJ5xd29MQHn+v0nu+GzLZ0/+UqNDvtBcq5vD0Vuf4v8K5T5GvKdwEvnHRYzQgJSkS2gWMiU/dYctswlxVxLsLCwt2+TU2yHNRF67UryqcdXCEmigiNBuEmxiMT5FC1P1GHmewIPypi4rne/2rJmYfOCQeeBzltTjCgqZCrus0CHC/9WM0jlOwFFVXcR7ModzA+JMNyNbHiaMsP+V0F4b7RkjJeykTiN+yiu2nCzWkMTgkhHDnJywBm/QWSmjIRXTEKuHD04Uofrpl+JWXOHva2cUvjjTUlFtI2+cmHVl6WCxYWAQQARcRSA==;9ggjPf2IY7wW/H64n7jh8Q=="
 ---
 

@@ -39,6 +39,34 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
+    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
+    publishedDateTime: 2021-08-10T08:45:00Z
+    webUrl: "https://fintechnews.sg/54204/fintech/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
+  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
+    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
+    publishedDateTime: 2021-08-11T12:16:00Z
+    webUrl: "https://fintechnews.sg/54204/innovation/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "rjzmWBG/Z0hgp/23wLuT+Sf6Qc/+fpQ3TsvnHpdhK8twm+i5fwuR2EL7XR00kcxjhIoaqQucar9KCsmv/F2vfz9R9zc0VqGKZ7j+DoUWXriKFnXMW8arpE5hMnIWmMNiA8msLrIwjumFeHofmUV1InfkaiQKuq2RhZUAtut9hC17xQFCnBuMAeLFJyNy4lmBOYjZC5igAGldMC8BYOblA52JbV6XGxhpkr0x6LdEj4EU7fdSvubDoG66TG5rtwTtV6dqeUqrpyxv6ni4WFKBJqoc/lZ6aB85/UfR6MVWAxOeL2EEnCZcWdJ/fSaXYOTXnuh+vCQh1l6Nyxp6LxbmWRraYS9hDzK4xNePq/2AK6x6oAaSLryBW1Pw5bKyOa+0zAmO7oWLOVeQsb9TMGpVtB0Wd2tRfaRCk9sUC5G8bc6aCfNGjtMwRidHDal+sX7j4vMMkKTlECdTynR1beZSvoLAOg2ylpnE87HuT1DTDfjdxuv2BTV5ECFM1aycXJSJnhd6EDajnWeBL96L+xX/fQ==;3vc3OLdELrT3lBbZFmTrHQ=="
 ---

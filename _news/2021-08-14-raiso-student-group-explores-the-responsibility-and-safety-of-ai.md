@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-14T09:36:00Z
 originalUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/raiso-student-group-explores-the-responsibility-and-safety-of-ai.html"
 webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/raiso-student-group-explores-the-responsibility-and-safety-of-ai.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/raiso-explores-the-responsibility-and-safety-of-ai-1200.jpg"

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
-    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-    publishedDateTime: 2021-08-11T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
   - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
     excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-08-13T11:21:00Z
@@ -63,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 24
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "2QocR7Dk7lUgX59lpgm48DvJJOLbofDZ/pqTUNhS3cbqRwg4S9OJKF+e97XsfCBohaPeSyKDo8iHBEwsMtPaIuITWXoiHBDyqaXgzX1MW4ueVxhh3TxiFjMLA1dyatZTK919DZXN9iB3BcwYbVVFVPbmWi3sSZF29VUIgcj5VHlijDPDtdmlFaO4gO6Hr6odkwCmVPeW/RfUj4YBOx3hRJReHnGaZN3NY3vZurF4W9vzfrAZsCsRN7LTrFLT+uz0/l3gVgUhnKWNypAbOHl1zVUhtXtSEi9STnK4U5U1D2ztvO6NGR+kqLvsFu3wqxPWdfm1HQYE1Jg4/xMryJzSyPIHtwLFD7fUewtGDe5t5J4=;q5sgEy2tyWbuZo+tzkvMqg=="
 ---

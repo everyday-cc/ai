@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "English schools turn to AI to help students catch up after Covid"
-    excerpt: "An unusual teaching assistant is waiting for the students of St John’s primary school, in Wigan, north-west England, when they return from their summer holidays. To get them back up to speed, after a year of disruptions from Covid-19,"
-    publishedDateTime: 2021-08-14T04:00:00Z
-    webUrl: "https://www.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
-    ampWebUrl: "https://amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9feb48f9-abc8-4488-9e23-610d352828e3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Women in evidence: recognition for coping with COVID-19"
     excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
     publishedDateTime: 2021-08-12T04:47:00Z

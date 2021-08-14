@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-fl
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Lawn mowing robots are here, but face the same challenges as robot vacuums"
+    excerpt: "We have robots that can mow the lawn, but as much as they present us with convenience, they share the same challenges that robot vacuums faced."
+    publishedDateTime: 2021-08-09T21:35:00Z
+    webUrl: "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/"
+    ampWebUrl: "https://www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/lawn-mowing-robots-share-robot-vacuum-challenges/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/husqvarna-automower-430xh-1-of-5.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "PpcQBrlTX+pxOOe68Jzp3e5pZU7Rb/RuThMhrbtwzymU7/iktKpRrs6PQdFD5BmLE4OpYsFoDXCjiTL89pafpO8cZPwyAVpsoWCtlpUwoHsIFfv5CWaE1wBtCFiA5sG9W5bZ5buoP3BEKbfIWerA1aXImsQDzI9dZmEtxJaiqG53EVjNNZlsHIlMBpn1TNJDJlGDKksoynz320VlhGwZrVaPCI7mW7qj6pcH/khO7vAINq5fRQLBtKkJuNpKMaJtsEoUNgMmf1bfC3XMqDaNxSEqO0BZWO/Dr73Bl1kiXshYgCfv2KJl51A6p3VMKzmNO2xFN/dTtfQTiDyLsl6egplpuuyB55mL0UNhaCDLrxc=;Q6niFNoCbmLPsdMzhqoKfQ=="
 ---
