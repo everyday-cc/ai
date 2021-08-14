@@ -151,12 +151,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
-    <lastmod>2021-08-09T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/people/alexandr-wang/</loc>
     <lastmod>2021-08-09T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -200,6 +194,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/people/rosalind-picard/</loc>
+    <lastmod>2021-08-09T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/people/clement-farabet/</loc>
     <lastmod>2021-08-09T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
