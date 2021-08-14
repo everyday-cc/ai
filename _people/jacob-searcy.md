@@ -21,7 +21,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=Bgzrdc8AAAAJ
-  citations: 152414
+  citations: 152733
 
 topics:
   - AI
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Jacob Searcy"
 
-secured: "rqOHOKsd++VOyCaNcrUbS1FRoU6VbCi4Xvf0mpultEs2H55EuGnc852Ox50f26eQYsiC6JhwD7MFCV7836qyoAIq7P1rFaKiGgdt1NcoQA8hS8UYnY0ifuwvFrOF98qrHc/LSBl2TUKe8mUxnhYiADtJ9TpKARLLPZIeRSNw+s/xWsgyzG/Bw0FzQV8tj73fAcQ/qWrQWWfigGsN+lraqjFghkWQH2T85a7hW6Soyi1rhWYEi5ZJatSAX5X7PVbS/tCnFtcQ4PpwYUbDD5ygjXhTD+SgN6ONvI+gtWSheUipG/GSmGh758J7s44qZ8/722fhvfYQPr0xiWwE6MQkhEkowFYfD3O55vBq+wvprLWXDHXf6syhhOJHfyJWWptWyT/Lhd2jPpXizlG31eP+1g==;Jl2lRQ7/e5IN6B/BJM9u0g=="
+secured: "/gjEaH/s5fG8WexsGuc8yRgwSVuDGmfKJ1hxJfNM39xlyPFfVceGnS5UesoX6cK7b2Br4e478ZJXzG92XJSmSHRXdmn9KxrF0RD5f9bwKBWLYoCqiaQIYuSdC08jsFxSOX7BYaspEK4I/O4TtOuAyJeKPhkaPTDo4rCPEumPCTMWfnFJRhzPGUhWj+tdMFzJZOjFf9bqeuoC1HEJOY9ZAh8Chs6Hx73dZ4qza2QPglDZo7MPr4EclCUPm9f+mAwVtBzRz8LOw54QDl1gvNSZP/bAWDiVnp0YQVZmmDbey0e3rfXFtdcYxncZW3SbixQNBc+40jsFSdZD7qLsVGsWXt2SCnIieWHKwT9Ao8vA5DOTKOttORUNIbyQaeZV6WvaazRnOGewDulv3K3wq1kuNg==;vz48s3kD19L8ln+XpMzT+A=="
 ---
 
