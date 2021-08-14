@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-ma
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -19,36 +19,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Global Deep Learning Chipset Market To Witness Huge Gains Over 2021-2027|NVIDIA, Intel, IBM, Qualcomm, CEVA, etc"
-    excerpt: "Global Deep Learning Chipset Market is growing at a High CAGR during the forecast period 2021-2027. The increasing interest of the individuals in this industry is that the major reason for the expansion of this market and This has brought along several changes in This report also covers the impact of COVID-19 on the global market."
-    publishedDateTime: 2021-08-09T12:38:00Z
-    webUrl: "https://manometcurrent.com/global-deep-learning-chipset-market-to-witness-huge-gains-over-2021-2027nvidia-intel-ibm-qualcomm-ceva-etc/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 33
-    images:
-      - url: "https://marketsresearchreport.com/wp-content/uploads/2021/01/9.jpg"
-        width: 548
-        height: 308
-        isCached: true
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "V7E6hcKSA6o3KaJh+RYtZOa2TMqqpdWjREUfbZ5Stp4B9qpAESvZfJvcYiGvMg7jWOc0SgxETXGVquZ/+HTkHwMLm116raww/lrkiT//BYPk3Qh6ttqr+PQoCZhllQPyUHqwuhc5e1+d3QtpUelkwDkaFAIZDwXhU/3jfMeBgcwtL+gS1/L+0RXwY/PvRKiFagHfkH2iX5hHM6rLHo9GJ9vWAMbbGBpCMb2XABHK1FlN+99LlcrKP1obqfVuF2CDUqsz5tJdAT0wdyNiI93DO6GUZ1hhnXUh6EUBzGeQJlX6Rk/MILxwfN3RqOID4qlJO+hIHlIVv0J5OnntXIBTNDk0TtxB1EmrpodyO2GC+w0=;qMDvet7ULRrRFZDHmJfUsA=="
 ---

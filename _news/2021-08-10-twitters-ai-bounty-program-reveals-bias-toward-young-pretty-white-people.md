@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/twitter-ai-bias-beauty-filters-13321005
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/twitter-ai-bias-beauty-filters-133210055.html"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Can Bug Bounty Programs Combat AI Biases?"
-    excerpt: "Twitter announced its first-ever artificial intelligence bug bounty program. The challenge is to find bias in its image cropping algorithm. Twitter removed the image cropping algorithm from public use after small instances of bias were uncovered in research by the META team earlier this year."
-    publishedDateTime: 2021-08-09T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-can-bug-bounty-programs-combat-ai-biases/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/BugBounty_AIM.jpg"
-        width: 576
-        height: 324
-        isCached: true
   - title: "Twitter – Twitter just led the first-ever “bug bounty” for AI bias"
     excerpt: "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom."
     publishedDateTime: 2021-08-09T16:31:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Forbes
@@ -30,33 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Foundations of trustworthy AI: Guiding the workforce"
-    excerpt: "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated"
-    publishedDateTime: 2021-08-09T13:00:19Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/"
+  - title: "WINT delivers a revolutionary AI solution to detect water leaks in fire suppression systems"
+    excerpt: "W INT W ater Intelligence, a leader in cutting-edge water management and leak prevention solutions for construction, commercial and industrial applications, is announcing that their award-winning technology is now available and ready to be directly integrated into fire sprinkler systems."
+    publishedDateTime: 2021-08-12T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wint-delivers-a-revolutionary-ai-solution-to-detect-water-leaks-in-fire-suppression-systems-1030723605"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://mma.prnewswire.com/media/1592968/WINT_fire_suppression_systems.jpg"
+        width: 400
+        height: 267
         isCached: true
-  - title: "AI researchers trust international, scientific organizations most"
-    excerpt: "Researchers working in the areas of machine learning and artificial intelligence trust international and scientific organizations the most to shape"
-    publishedDateTime: 2021-08-09T15:40:00Z
-    webUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
+  - title: "Brain Technologies: Using AI to Replace the ‘Attention Economy’ with the ‘Intention Economy’"
+    excerpt: "Brain Technologies leverages sophisticated AI to deliver application functions on mobile devices to users as per their natural language requests, independent of the applications that provide the functions."
+    publishedDateTime: 2021-08-13T18:00:00Z
+    webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 41
+      name: intellyx.com
+      domain: intellyx.com
+    quality: 28
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
+      - url: "https://intellyx.com/wp-content/uploads/2021/08/brain.jpg"
+        width: 751
+        height: 395
         isCached: true
 
 secured: "Ey4H3bl9HILBzEq/FKCDUJtVOzV5ktqYh2GsxYJoHsE/YLvaFddT32UwJNXQcFKOqovLwt7WVEzvDzM13+QNRj0L7dYy7HMOB23b7qi1NO7y95YMzWQAgGwtZfjcWD8zRkcFUy+xmNZglI9z//iPB4ttRap5xFSL2yGW5NB3URy/wzLSUjFZ5+iU52xLLzNRMiJ5qQF8nUodz8oOwK6QIPnErG/rmRn/M6xcGewuS0mpP5VEyz+YLzciGQG9QyZhxW8beEpaSUFn3XX/TjhoCNy3eCiHRKd6ceI3BoY45uE6spFuEmI+dsy7wLgjm8vglM6waHGFbpu1qSXPRztcQEX+UExuDVDCkPruuGGexqZPRNf5Ov4eI8wvjwdGl5XwKLHfSxJtt8RuxUBsFY2+cVw6lzJ9oIEkLwfCu71M5OExMLRCuPpfkFCFwK9VyMs2KFe2MecmGUbFUXtb+R6+VyT9ocG963YE+2ycSKHAyQK03/OyWdvT+OJbRZ9IOnW8T5EslltTVmYimFZqJ8UC2g==;Cf/90BukazElEzLlidq6RQ=="

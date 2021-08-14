@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
-    excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
-    publishedDateTime: 2021-08-10T15:45:00Z
-    webUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-driving-car-company-in-town-meet-motional-167026.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 22
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/los-angeles-there-s-a-new-self-driving-car-in-town-meet-motional-167026_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hyundai's self-driving joint venture Motional opens lab in Milpitas"
     excerpt: "The Boston-based company said that the new office will be home to a division of its compute design team and will feature a compute lab."
     publishedDateTime: 2021-08-10T14:09:00Z

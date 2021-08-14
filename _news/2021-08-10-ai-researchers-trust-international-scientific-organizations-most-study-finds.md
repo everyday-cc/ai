@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-ai-international-scientific.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-international-scientific.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1920
     height: 1897
     isCached: true
+
+related:
+  - title: "AI researchers trust international, scientific organizations most"
+    excerpt: "Researchers working in the areas of machine learning and artificial intelligence trust international and scientific organizations the most to shape"
+    publishedDateTime: 2021-08-09T15:40:00Z
+    webUrl: "https://www.miragenews.com/ai-researchers-trust-international-scientific-610427/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 41
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
+        width: 640
+        height: 423
+        isCached: true
 
 secured: "GNLd1b/VCAC1oy7EqBD2sYZfjrt7pEcWnzMSJpVLjd3ji0kJWWElD4RqfmMm07PDN1yKSkzIXiwC49NZmFRNlhFlUAj3TYdVm7bNgzLh6pEZFL3ZJtbflES2chRBG6gK31ZGpTO90e+BUvVxWzYARaQr7ClI4Rvrj3FxFitmD/hP0Fec0BNiqSWBjRx402I5Q/6en22I5XIhgmV1oWeqOQBqlwwFKYbkGYB3krwmEl5KlcEg++yClYoztI4p+XOuVx+f0xUJQashlFRsk3YCRAmZT3yUgTDLMPJpMxNGkYA+EavGD5LO3KXRvcR6wqTGOGnZqgLmdcM/jGLrPtxHiwK4dNu0hh8YAEB9BNq83xJGLkpvxj8NFhAajsZs+RxhiLJ5juvL0MNI2xa107epVinFmD+Vqz8hWfWSOJjsJ3mW1/u1tPnb52fgZ3LbBN3I6cUEafDLO4AZTgJeOVzJ9FUE8rbIff/t2B4iWVeKw3PARm5cbW3InoA2jiIDzggzEJQfNihQJxVZsVsd1HVNZQ==;XVZeyyqOqPV2XdaZeUW4vg=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Xiaomi CyberDog open-source quadruped robot"
-excerpt: "The quadruped robot is powered by a NVIDIA Jetson Xavier NX featuring 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep"
-publishedDateTime: 2021-08-11T09:23:00Z
-originalUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
-webUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
+title: "Xiaomi Made a CyberDog Robot Inspired by Boston Dynamics’ Spot"
+excerpt: "Xiaomi recently launched a four-legged robot called CyberDog that is inspired by Boston Dynamics' Spot robot, but Cyberdog is much cheaper."
+publishedDateTime: 2021-08-13T18:57:00Z
+originalUrl: "https://beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/"
+webUrl: "https://beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/"
+ampWebUrl: "https://beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/amp/"
+cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Geeky Gadgets
-  domain: geeky-gadgets.com
+  name: Beebom
+  domain: beebom.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
-    width: 700
-    height: 450
+  - url: "https://beebom.com/wp-content/uploads/2021/08/Xiaomi-Made-a-CyberDog-Robot-Inspired-by-Boston-Dynamics-Spot.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -57,21 +59,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Xiaomi Made a CyberDog Robot Inspired by Boston Dynamics’ Spot"
-    excerpt: "Xiaomi recently launched a four-legged robot called CyberDog that is inspired by Boston Dynamics' Spot robot, but Cyberdog is much cheaper."
-    publishedDateTime: 2021-08-13T18:57:00Z
-    webUrl: "https://beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/"
-    ampWebUrl: "https://beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/xiaomi-cyberdog-robot-inspired-by-boston-dynamics-spot/amp/"
+  - title: "Xiaomi CyberDog open-source quadruped robot"
+    excerpt: "The quadruped robot is powered by a NVIDIA Jetson Xavier NX featuring 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep"
+    publishedDateTime: 2021-08-11T09:23:00Z
+    webUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 59
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://beebom.com/wp-content/uploads/2021/08/Xiaomi-Made-a-CyberDog-Robot-Inspired-by-Boston-Dynamics-Spot.jpg"
-        width: 750
-        height: 500
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
+        width: 700
+        height: 450
         isCached: true
   - title: "Xiaomi Is Making Robot Dogs Now, Launches New CyberDog"
     excerpt: "Forget about smartphones and vacuum cleaners. The Chinese tech giant is now making robot dogs. Its latest creation, called CyberDog, looks strikingly similar to Boston Dynamics’ Spot, minus the extra arm we often see on the yellow robot."
@@ -88,6 +88,6 @@ related:
         height: 660
         isCached: true
 
-secured: "Xergv16aCP3wcqt8wg6tW4Vf6pzB7+N6RyTbkKRywhN7ALlOiOGhh+XO8+gymJkiFJqE7N79vGCx1GawotOF1dRHFlnMSD4ODwjY2nHgcahNJp5Hink50dUtmB+qp7adLe+JszYEFv2F1uM+mTQoJ4hQTGoNtSBAbBrWwAlCzWmb4MGUHEYR/p1M1i3YPo0/UEuo6fKBZLNaojTELes0eP0nuKbcUrIR8/V1vjJJJ3jId3p/v0m5xuYB5Efkf1pITPI0GfhLRzgIbMH0JCUAbKNb+2D65dH54rEB+UoYUi9wk7/m75Gylai8y5QgL7iRCDQD0jHNyR/HKcOfOSxOUX4/fjScWmk4AWmuc0hIW3K6F50tHnBixmmGIkzSw22FmgkqBcLK9IGzyGCdT5YI9/zAixEXUqj8jacjH5XvaR+F3gUFyEHWVNE5mvD5ibLYU6UUCxtm4d2WoLTtLs2p9R2yY4JuRzodQI9hcbFSBuR2YJlza38oOjcRO89tbTd3F9FrnYa37U2GF1UkJ1QnLg==;URCdBoEj22oCMrNo5OsgMw=="
+secured: "HSzDJKrmachhyE2xCvGI+eQQm1MWO6wl4kdghsJPLO3YfuDiF/9VAwX+MJvTIV9BFQMf5GpQBicYpRbzCionHCAwL9hRMfd/mYP2CMurMezzAPLJHrqUJslveCZjE4Z6UpbTQNveOgnPnwynIK/tE6EG7oLz4WWh+QCxIB21XNaZCcNOcG/DxVFFuua8KxvPPU0MbuWJC8A8SbjYiA5TqbX8t3x/ZNLTogWVFMNCtlI1iKNRTlg9NuD4UoSqAFhCmxo61Ah1Gj2kpsT5ozOEWpcJx73mJrmiP4vAqaD29/6gRidZDKMVWKatT2vf7E7XKBm2omjyELEZUlaD3c7gg9O9ICmjB4Cdu7nbibiYglU=;ruOdZAdyeYJpcPMjD+GOnw=="
 ---
 

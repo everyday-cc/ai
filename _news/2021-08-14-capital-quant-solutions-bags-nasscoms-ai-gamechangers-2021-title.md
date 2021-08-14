@@ -35,20 +35,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "AgNext wins NASSCOM AI Game Changers award in agriculture"
-    excerpt: "AgNext Technologies, India’s leading agritech start-up, has been awarded the NASSCOM “AI Game Changers” award in agriculture in the second edition of their Xperience Virtual Summit. The award recognizes the pioneering work being done by AgNext to implement AI-led solutions to digitize food quality for multiple commodities and accelerate food trade."
-    publishedDateTime: 2021-08-09T11:42:00Z
-    webUrl: "https://mybigplunge.com/tech-plunge/technology/agnext-wins-nasscom-ai-game-changers-award-in-agriculture/"
-    type: article
-    provider:
-      name: mybigplunge.com
-      domain: mybigplunge.com
-    quality: 37
-    images:
-      - url: "https://mybigplunge.com/wp-content/uploads/2021/08/Award-Creative.jpg"
-        width: 640
-        height: 335
-        isCached: true
 
 secured: "7mkVArXHJw4otRsJ6LxG+YtguW+cxzPBHZI3GQdSDmC7KMsb4zeODdGpA4/Ow84AHPd/zuEl5dcq9fuflc1YgALK0KL+TRrTb8OtSoO0KhRscyWJ4Sr55bHeYJIbJhWBh6JtTkuW+mW52hxs+D8uZD8hKK/eUkry8o0I8qYKTXiZM7MxgRl5HWTaLVHIVWxwz7ei+VsAkoRff8nswVLOwDs/O6VYKjbTfIty66flcBZW/RrYSqQBgR6D3tML2yEllfwLBoMMtuHyAM5nM0SNAnKBKJ6KWkljgKI9UyXlC2e5mKqJ7VpcBPPJk8ugiDRCHzDiS0Ay5zj6sRMk7Y8YHmtZAyuTO+T5wCcmvjyDMHA=;ya0Lsfah3C/sTjo+NbCRhw=="
 ---

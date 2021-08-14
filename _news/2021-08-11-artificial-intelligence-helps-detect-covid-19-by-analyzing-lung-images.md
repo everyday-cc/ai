@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "English schools turn to AI to help students catch up after Covid"
+    excerpt: "An unusual teaching assistant is waiting for the students of St John’s primary school, in Wigan, north-west England, when they return from their summer holidays. To get them back up to speed, after a year of disruptions from Covid-19,"
+    publishedDateTime: 2021-08-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    ampWebUrl: "https://amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9feb48f9-abc8-4488-9e23-610d352828e3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Researchers employ artificial intelligence models for image-based detection of COVID-19"
     excerpt: "Medical imaging has long been a vital tool for the diagnosis and prognostic assessments of many diseases. In recent years, the use of artificial intelligence models has been used in conjunction with this imaging to augment their diagnostic capabilities."
     publishedDateTime: 2021-08-11T04:30:00Z
@@ -83,20 +99,6 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
         width: 1000
         height: 500
-        isCached: true
-  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
-    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
-    publishedDateTime: 2021-08-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "LSppINkeicUf2irrorUHp54b5CaJ4fAfqaGjWbgkFwt1XTU/P1b1d0LnoRq7jf2L0aLD8KKSC1aFEteNzwR+CoUUlOcZnmUksGFYx/FjIwuR/ERqI8mIy5RE/VnFwQ8r0MGsOKa0MnUPOYddXAWP9ggjLK0XwM/FbIFNO7YjbJKMpvbB1mmfY+yp9nDchN01H3frXgsx5oeV3g7Uhz2fg76YMxUvlkEBcEb4FbwrPO3wcu0H1037pxwlC9oCUIBLf2jnDuoPhGBHKacTjcBtUobSkUcbFUZ8MlAVThZpTWDc01ik+GLFfCtuA4/70QQ8dH1NPJVzIY9DYPapXx7WJarhhkQH6dlr/TQVlgy2exK4WoCnkdnjH+tipNGgzYqvTmx7whBjY9PpaiR2BWIKA8kWyuF3oMoQ4rCjXk4cfAmsigXSfrRxOKgwNuM8i37UXjSstp/5JdCDcsphC52gR7idqqxjX3R+WEcQ0gEu2b+EBjwBgYv3DotLjGfUwuNKGs7MiOQ0iITpCCfs/VfNvg==;RVFQxA/bAas3y/F2SCxCqg=="

@@ -28,19 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Backlash grows against decision to grant patent to AI system"
-    excerpt: "A recently granted South African patent seems fairly mundane, but, he inventor is not a human being – it is an AI system named DABUS."
-    publishedDateTime: 2021-08-11T12:22:00Z
-    webUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication"
+  - title: "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can"
+    excerpt: "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions."
+    publishedDateTime: 2021-08-09T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5"
-        width: 1220
-        height: 610
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc66fc1dceffe79c454b11%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Brain Technologies: Using AI to Replace the ‘Attention Economy’ with the ‘Intention Economy’"
+    excerpt: "Brain Technologies leverages sophisticated AI to deliver application functions on mobile devices to users as per their natural language requests, independent of the applications that provide the functions."
+    publishedDateTime: 2021-08-13T18:00:00Z
+    webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
+    type: article
+    provider:
+      name: intellyx.com
+      domain: intellyx.com
+    quality: 28
+    images:
+      - url: "https://intellyx.com/wp-content/uploads/2021/08/brain.jpg"
+        width: 751
+        height: 395
         isCached: true
 
 secured: "xu++XgQvu0ODnCNW35J7CMx36Kgk5aBKbgUILyENAWJjfMFSo9Wwx6BjjP4jw+7u/I1xioPIgGPIx2+9BQzbxe66Er3GSiwUVHXehiSiZEOMZlULsktPM7p/vjUdvytnSCKX9FuwYQrHXpSivyjZ/6RsH8kxajpyyqsS0HIj9566kA0BPT9ra2rkkDzRvEhe+5pBPwlCh65enHwB790TKaz6Y+tooOoCzUnk9e0zkShU4hWWnnPfj/cmUoEyEt9NNfylC6Io4MPGPOc7T8XcwbNaE5hij53z0E15gaP48o6Nx+xXpmIE3yW7AAxqZpLuO+MqpMnDzdgqgxr6otyzaIFz0Z5Lz3wHODHiXOXHBgP/QKWBQge83CnsTiyeiephHSNTcw966ZU87QWSz8dHW9wY2TllmmUycWXXy3quVbAjMrKlMeM50VUc5pXPFYvReWaagxb4XmOoEfcNv+jDxP1XMPCSKODz4AO/UeZiNphbcZCBcA+C4lDYGeBUQhY7TknVfSJqoWTFaLXaMQ/zYw==;kNOTsixjaYgngrvOj3uFmw=="

@@ -177,15 +177,6 @@ related:
         width: 473
         height: 355
         isCached: true
-  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
-    excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
-    publishedDateTime: 2021-08-09T12:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
 
 secured: "ubmcdsPqKopJCiJXs35FetpST1LYSoVx6k+BcYAzxfXW0t5rOSUVf8+WCOqs+5c7NqGw0ZcjwGCn293Z7JCc0ndjC2MszAVHGRn16DtVKQFnWXc4bR3HAqoEPlMn9wNsiMilrPl1PoAua12zK+TDikm5kizJzCHP+54lDX2VHXi0lh/nY5y7Nq93KsmVbhusop2XqcVzzfZkggHh5hmDbyLNqxtsvkNtwJe48egGLecVx3N15rU4LU0aingCSRE9SpLNJLorJyp1Uolcu3FwI7BDI1YGeV0uSxmQzouwPVPBAOafFnD+kAUergR+Okzbu0tGqqpcxiQLJndnTL6n/R8Vvoxr+vhxatOCpUni86o=;7mZzN7OMaD7IspKrnS+YzA=="
 ---

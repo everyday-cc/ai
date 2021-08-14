@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Lethal autonomous weapons and World War III: It's not too late to stop the rise of 'killer robots'"
-excerpt: "Last year, according to a United Nations report published in March, Libyan government forces hunted down rebel forces using \"lethal autonomous weapons systems\" that were \"programmed to attack targets without requiring data connectivity between the operator and the munition."
-publishedDateTime: 2021-08-12T12:11:00Z
-originalUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
-webUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.html"
-ampWebUrl: "https://techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-lethal-autonomous-weapons-world-war.amp"
+title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
+excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
+publishedDateTime: 2021-08-12T02:12:00Z
+originalUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lethal-autonomous-weap.jpg"
-    width: 1356
-    height: 668
-    isCached: true
 
 related:
   - title: "It’s not too late to stop the killer robot uprising"
@@ -42,6 +36,6 @@ related:
         height: 640
         isCached: true
 
-secured: "y8nmttBw473anwqjYbP6aKa5KmxArFPlqXXsf9Eq4eAq2TKIHcDYi/Tl24WFmZeWFCVD1bBuPz/Bv0rFk8X3WrJ6pLYSQRQQPxYhFIo7vTAiuaB43SNINNFe85FTYlGofXvLTU2bu7WiCcVLtJ2V6n0JZv7u3qU8g53fmnvBSJ5vaczxoHkqw6LFD/kpHnGAG/FYG7iILXHhf0G02q+bpxwfxsF/3+GnAWuynep0RYplo87gpU2I7mg9K6HvU3zKSkcVrpfrSgY1tGIrkvLc9KONvkhvW6D39fxSc45eW3Yq5Ct2YjcKm1WBUcXipG2oXLbmjqzn2kY6od6i4aIU8wrqLOoyaecFtiL0o33e3mI=;D2uiLCCHz+o8Q4LA0LRSxw=="
+secured: "NcBXp3WGUKca8+P2H8+AYY/oem6308e3ynQnjSeLQaucAmJVqUWb6UqTrV2JjuGDVs+sAKrSTaM1Dw5A1SPND1ol5iWo0cSnHIaEJY9O0sGlEB7Sa4vQsZCbE77XE5rRwJEuS5bPv5X8bYNc4wCUs15WfLLMxQgUJ6oCHBm8fajmuhcNDC0wUhhgqdPs0YV9r7xIfEDap8X+aYTbt/D7i8HPtu9jUjizaROdJ0ayIWFbtPj5AriFza1zapOggrvUlTQ9ARfPBzY/wTbqwrmaZWgt02qf4wSGW2tnHSdGM7aXgTJKgogL38mcRcic4JfpkpshQsP4bMleFUxYj5t/rNi5ebgyiLxrW43ikg0AACODvXJ8v3yFAzgQkt3RwT3V1/CIxR6WRA6GAnib7qXKeqBUYHAzS7v+ueem7y5GpPilrVUMJtqyjOhW/xO/emN/zeiqH8QwnVU3bnWiRG5hGfuCzbLV1JLo+lm4yTMqpY2vQOox+DtfSMATe9gTUPIc76eW5FPbIW6WHBLSBD19OQ==;yTZzNr9JxLgpAj1y8Z33BA=="
 ---
 
