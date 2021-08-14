@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Robots are coming for the lawyers - which may be bad for tomorrow's attorneys but great for anyone in need of cheap legal assistance"
-    excerpt: "While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot. And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
-    publishedDateTime: 2021-08-10T02:09:00Z
-    webUrl: "https://www.seattlepi.com/news/article/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
-    ampWebUrl: "https://www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
-    cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Robots-are-coming-for-the-lawyers-which-may-16375201.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 28
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Robots are coming for the lawyers - which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance"
     excerpt: "It turns out that you don’t need to completely automate a job to fundamentally change it. All you need to do is automate part of it."
     publishedDateTime: 2021-08-11T03:34:00Z

@@ -97,15 +97,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Training Leaders in Responsible AI"
-    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
-    publishedDateTime: 2021-08-10T14:10:00Z
-    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
-    type: article
-    provider:
-      name: AACSB
-      domain: aacsb.edu
-    quality: 19
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
     publishedDateTime: 2021-08-12T14:32:00Z
@@ -116,6 +107,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "ZXHxunUmcObU3uVPsBi2vvsCeyJaxxtBfhdZ9tZe2vakvvfnnWUAemiJ88VzcH/biElNKM9gC/m9xqq6lePKKAbdt1d/lnqIOmYrzSHFhTMdTwAD78g9lPy4V2BDlSRxX9p9tTnIeFtefvA/rOuE/EgNY8MPTIcQPH6L7GlZYjPXw8s3jmp4/LIV+/MymQ6UyGXEc7t+dT0OGtgHDvudNK7/sjO/nOWNgA+RgS6CdjRgzg4HeHKgH+1PP68VhcpggYN5fuev3vF7Wc3o8TTa8rHguV0qNPajMo0eQwv5qNkkvuFjnKufFi5ak9b+JTh5veuVxezJaMWR9cr2129v8a2XfR45UYjB7J9lHnvxzhw=;dLtLaUZU21Z8p4hGaaIPsA=="
+secured: "Pei7B4eAauhbukGSBoPDNAAgv5hnfil/HRtnG8eNoLirUMRlpwrFljz0nELA+yu6KT+mjeuMioMjzi7dv+5DOQxRtB4OBz9UauhebI49JPkefrWVuD/R0AbFXojrTehsVKPC/ZieI8LMdweVVntXHG4o8CUThGclmbUCByO1cFAd5dYeYAZ0XSNHxf+rSQhdRVtTZeotuYMKSpl75Gx/iVpBIIG70alWeOndv1QCtOMRx4rvLbe3E1rVTDKBGe3NSW1dZs0c5HI1cYD0OSx3CmOtixO54CjK4Kg76IwQcUbuRy5I7ZNXJwfkcXLvDX/cmkOB2wO4C/yYlt3rSQGTDKTA3FoxPJDb7UDf0qIZIbQ=;Li9b7pAQn2E/916ofbINzw=="
 ---
 

@@ -83,20 +83,6 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 39
-  - title: "Use of Machine Learning to find effective mitigation measures in COVID-19"
-    excerpt: "Since its outbreak in Dec 2020, COVID-19 has fast spread into countries around the globe, and has affected our lives deeply. Different countries imposed different mitigation measures to control the infection."
-    publishedDateTime: 2021-08-10T01:21:00Z
-    webUrl: "https://www.eventbrite.com.au/e/use-of-machine-learning-to-find-effective-mitigation-measures-in-covid-19-tickets-166011702471"
-    type: article
-    provider:
-      name: eventbrite.com.au
-      domain: eventbrite.com.au
-    quality: 38
-    images:
-      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "Aicb2si6s5pH27yELd0E9/fAK0hNEGkcdXqVG1TLKdZJsMbUeylFtedQu2iMgsnDnNQze/ht3TxYkEqZb7yIO+grwCeNOxaZRXFk2XeDqPXb2mlR6Ect75xF2frr73jThp1ea3VMkBDf73IP5qD8KTaiOAvR8zbUw/6OSE42cyYCRdKdXzKP2rfVX3qm3aj99VVjwU8ytFLhX7JXxkgzIru4JePT/U5ALhDcDBz8crYdl6Yi5f+JDOgSpJMjuTkqO0IHeIepm1UutUkZiPHiE6NDB8sDkMs/F5lR137KgRLqVXI3C6TmM5gJ+KhYUsyWXGkxiaZD6MwsSoustaFoK1pj+nfOjegbuMCuJPNVlopWYHSduV1fMrJN4OKTjRt44nJ31CSoQhB4LRdLz6WIl/6DKIZeXw1NX1m+NgKYv/iP2azH06fAeSqgaZ97GfIAdcZGMau0z9BiLbmzsCjkr0TrMiHIfeG3pPNvtnfDoWSXmivyjqLMj7YR6FN547o6EabncsfHutupSmfbxViLog==;qTkwMKPXQwF/giU7bMOqQg=="
 ---

@@ -2,6 +2,143 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-07-14-can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom.md",
+      "title": "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom",
+      "excerpt": "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-foundations-of-trustworthy-ai-trusted-ai-for-the-workforce.md",
+      "title": "Foundations of trustworthy AI: Trusted AI for the workforce",
+      "excerpt": "As the benefits of AI take hold and social issues rise to our collective attention, the need for trustworthy AI principles and practices has gained warranted focus. In the recent Global AI Adoption Index 2021, conducted by Morning Consult and commissioned by IBM, 91% of IT professionals surveyed say",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/ibm_hr_blog_1000x2000.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T06:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-14-replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator.md",
+      "title": "Replica Studios goes early acces with AI voice actors for Unreal’s MetaHuman Creator",
+      "excerpt": "Replica Studios has launched early access to integrate its voice actor service into Unreal Engine's MetaHuman Creator.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/replica-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
+      "publishedDateTime": "2021-07-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-sensiml-announces-global-distribution-agreement-with-digi-key-electronics.md",
       "title": "SensiML Announces Global Distribution Agreement with Digi-Key Electronics",
       "excerpt": "SensiML ™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has signed a worldwide distribution agreement with Digi-Key Electronics.",
@@ -1005,162 +1142,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies.md",
-      "title": "Unleashing The Power Of A Diverse Team To Build More Ethical AI Technologies",
-      "excerpt": "In the world of AI and machine learning, we are quickly learning that data and models can often obscure the hard truths of a person’s lived experience. This is particularly true if the models are built by teams that are not representative of race,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edc6b55e5f5511e5dafa02%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/07/13/unleashing-the-power-of-a-diverse-team-to-build-more-ethical-ai-technologies/amp/",
-      "publishedDateTime": "2021-07-13T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-discord-buys-sentropy-which-makes-ai-software-that-fights-online-harassment.md",
-      "title": "Discord buys Sentropy, which makes AI software that fights online harassment",
-      "excerpt": "The online chat platform Discord is buying Sentropy, a company that makes AI-powered software to detect and remove online harassment and hate. Discord currently uses a “multilevel” approach to moderation,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
-      "originalUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Discord_IAP_KeyVisuals_Header_02.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/13/discord-buys-sentropy/amp/",
-      "publishedDateTime": "2021-07-13T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-facial-recognition-tech-gets-bipartisan-call-for-more-regulation.md",
-      "title": "Facial-Recognition Tech Gets Bipartisan Call for More Regulation",
-      "excerpt": "Some, such as Customs and Border Protection, have their own in-house facial recognition technology. Others use products from companies including Clearview AI Inc. and Vigilant Solutions Inc. “To ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/ryanmac/facial-recognition-local-police-clearview-ai-table",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-07-13/facial-recognition-tech-gets-bipartisan-call-for-more-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2021-04/2/15/enhanced/2a50fc7f1020/original-1498-1617378524-16.jpg?crop=1600:837;0,132",
-          "width": 1600,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

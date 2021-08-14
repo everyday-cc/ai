@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-15-science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry.md",
+      "title": "Science, applied: 3 ways AI and ML are advancing the insurance industry",
+      "excerpt": "Insurance companies are implementing applications of data science to detect fraud and provide a personalized customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
+      "publishedDateTime": "2021-08-14T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-machine-learning-as-a-service-market-size-growth-analysis-report-2021-2027.md",
       "title": "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027",
       "excerpt": "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due",
@@ -1179,58 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
-      "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
-      "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "originalUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611561dd3dd01000199d6892?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "publishedDateTime": "2021-08-12T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

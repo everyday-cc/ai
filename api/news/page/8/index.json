@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-07-climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk.md",
+      "title": "Climate AI Startups Offer Businesses Shelter From Inclement Weather Risk",
+      "excerpt": "The increased frequency and severity of natural catastrophes has sparked a growing industry of climate-analytics companies that aim to help businesses gauge both short- and long-term threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
+      "originalUrl": "https://www.wsj.com/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073?mod=hp_lista_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381765/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/climate-ai-startups-offer-businesses-shelter-from-inclement-weather-risk-11628273073",
+      "publishedDateTime": "2021-08-06T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-federal-liberals-probed-for-facial-recognition-use.md",
       "title": "Federal Liberals probed for facial recognition use",
       "excerpt": "The Liberal Party of Canada’s use of facial recognition technology is under investigation by B.C.’s information and privacy commissioner. Michael McEvoy’s office said August 6 it would be looking into the federal governing party’s use of the controversial technology for identification purposes in nomination races.",
@@ -540,22 +591,31 @@
       "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
       "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T05:06:00-07:00",
+      "publishedDateTime": "2021-08-06T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1085,57 +1145,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-chinese-smart-city-to-put-ai-in-charge.md",
-      "title": "Chinese smart city to put AI in charge",
-      "excerpt": "A world of fresh thinking. Leading tech experts warn about the future that's being created with unregulated artificial intelligence. The Elamites attached great spiritual importance to mountains. How many people can a 1km long church host? How a court case revealed the shocking way the US government was still manipulating residential segregation. How Putin 'dreamed of being the Russian version of James Bond'. How one of the most haunting images found among cave paintings was created The African-British slave trade history was not only about slaves but the golden wealth of Africa. Warm temperatures are turning almost all green turtles' offspring into females, risking their extinction. Rising sea levels are having a dramatic effect on local communities at the Solomon Islands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits",
-      "originalUrl": "https://www.bbc.com/reel/video/p09rfsk7/the-chinese-smart-city-that-knows-people-s-personal-habits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/1376x774/p09rfz6s.jpg",
-          "width": 1376,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

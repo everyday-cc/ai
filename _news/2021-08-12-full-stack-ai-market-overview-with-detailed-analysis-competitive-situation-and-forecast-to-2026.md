@@ -26,34 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2021-08-10T02:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
+  - title: "Healthcare Automation Market Scenario – The Competition Is Rising | Siemens, Tecan Group, Danaher"
+    excerpt: "Latest business intelligence report released on Global Healthcare Automation Market covers different industry elements and growth inclinations that helps in predicting market forecast The report allows complete assessment of current and future scenario scaling top to bottom investigation about the"
+    publishedDateTime: 2021-08-11T11:42:00Z
+    webUrl: "https://www.openpr.com/news/2352181/healthcare-automation-market-scenario-the-competition"
+    ampWebUrl: "https://www.openpr.com/amp/2352181/healthcare-automation-market-scenario-the-competition"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2352181/healthcare-automation-market-scenario-the-competition"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U811499180_g.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "AI (Artificial Intelligence) Chip Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027 – The Manomet Current"
-    excerpt: "Chip Market Report . The Global AI (Artificial Intelligence) Chip Market Forecast to 2028 published by Reports and Data provides a holistic overview o"
-    publishedDateTime: 2021-08-12T11:15:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-artificial-intelligence-chip-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027-the-manomet-current/"
+  - title: "Artificial Intelligence in Healthcare Market Next Big Thing | Major Giants- NVIDIA, Medtronic, Siemens"
+    excerpt: "Latest released Global Artificial Intelligence (AI) in Healthcare Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles, product/service offerings,"
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-market-next-big-thing-major-giants-nvidia-medtronic-siemens/"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/3-15-780x470.jpg"
-        width: 780
-        height: 470
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 40
 
 secured: "kc23ihKUKG4YOqx2oB3Qn9+rK9tYnfaMz9ANEI4tqxfuUwsV9zMDwMFkyfa6AOQe8IgeyVFrDLlGF7az3EFUzt1H8UdyHhtLLM/ZP6517UZ/2VNKGVAs4R6daWFyQp5rFdEqV/2I+0uwq9/EINN1YIihXktiPVK26VzAfFL4fvE4V/e/RJYhYhg0X2BLSkUKq/quoIo56s0mWOhYD+6VnNGim/VX97BCodXMaJIXAm8P+mGQ+LkW2J1ii2y6JATU8smJZYCq5zFUW+jjzrY7xjb9JDdnrBjmUiDJhxOmr7cMJjdxUBPMNe2zHP+V40jpYSNHRS/oJc7d9U8pQ3XK4luKaFe+UfYTB5eEHi1Or9g=;SbjtDKSsLXoVvkibFQz/FA=="
 ---

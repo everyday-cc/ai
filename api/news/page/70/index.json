@@ -2,6 +2,153 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2021-06-23-real-estate-agents-look-to-ai-for-sales-boost.md",
+      "title": "Real-Estate Agents Look to AI for Sales Boost",
+      "excerpt": "Technology leaders at Realogy, Compass and Zillow hope to augment human savvy with algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
+      "originalUrl": "https://www.wsj.com/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-358164/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/real-estate-agents-look-to-ai-for-sales-boost-11624394271",
+      "publishedDateTime": "2021-06-22T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026.md",
+      "title": "3D Facial Recognition Market Demand, Technology Advancement and Future Scope Till 2026",
+      "excerpt": "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D facial recognition utilizes facial contours to recognize and scrutinize various features in a human face,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-demand-technology-advancement-and-future-scope-till-2026-2021-06-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-22T12:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-23-healthcare-providers-remain-surprisingly-lax-on-data-protection.md",
+      "title": "Healthcare Providers Remain Surprisingly Lax On Data Protection",
+      "excerpt": "Experts say that the medical industry is resistant to spending money, despite the increased prevalence and sophistication of hackers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/healthcare-data-privacy-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/healthcare-providers-remain-surprisingly-lax-on-data-protection/amp/",
+      "publishedDateTime": "2021-06-22T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-in-the-workplace-of-the-future-how-important-will-ethics-be.md",
       "title": "In The Workplace Of The Future, How Important Will Ethics Be?",
       "excerpt": "In the workplace of the future, ethics will be even more important than it is now. That’s the overwhelming majority vote in a poll I ran on LinkedIn. I’ll present a sample of the four kinds of responses I received and then provide my own analysis,",
@@ -1027,134 +1174,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round.md",
-      "title": "AI Powered Lender for Merchants Myos Raises $30 Million Series A Round",
-      "excerpt": "Myos has raised $30 million in Series A funding led by Fasanara Capital and Xploration Capital. Tomahawk.VC and a group of new and existing investors also participated in the funding round, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/markus-spiske-Berlin-Germany-Greetings-Card-Love-copy-300x292.jpg",
-          "width": 300,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/06/176910-ai-powered-lender-for-merchants-myos-raises-30-million-series-a-round/amp/",
-      "publishedDateTime": "2021-06-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud.md",
-      "title": "NetApp Acquires Data Mechanics to Accelerate Spot Roadmap and Optimize Data Analytics and Machine Learning Workloads in the Cloud",
-      "excerpt": "Financial details of the transaction were not disclosed. At a time when on-premises and cloud enterprise data and application growth is exploding, use of analytics and machine learning to identify ... NetApp’s Public Cloud Services business unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud/",
-      "originalUrl": "https://www.01net.it/netapp-acquires-data-mechanics-to-accelerate-spot-roadmap-and-optimize-data-analytics-and-machine-learning-workloads-in-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-06-22-ai-for-advertising-pattern89.md",
-      "title": "AI For Advertising: Pattern89",
-      "excerpt": "RJ Talyor is the CEO and founder of Pattern89, an Indianapolis-based marketing firm using the power of artificial intelligence (AI) to help advertisers figure out what works and what doesn’t when it comes to the ads we see everyday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maryjuetten/2021/06/22/ai-for-advertising-pattern89/",
-      "originalUrl": "https://www.forbes.com/sites/maryjuetten/2021/06/22/ai-for-advertising-pattern89/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aeb8c2eb87719575f94d8c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maryjuetten/2021/06/22/ai-for-advertising-pattern89/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maryjuetten/2021/06/22/ai-for-advertising-pattern89/amp/",
-      "publishedDateTime": "2021-06-22T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

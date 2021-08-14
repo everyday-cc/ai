@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-10T05:47:00Z
 originalUrl: "https://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research"
 webUrl: "https://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 139
+heat: 189
+published: true
 
 provider:
   name: NIKKEI
@@ -39,6 +39,29 @@ related:
         width: 362
         height: 400
         isCached: true
+  - title: "Researchers use artificial intelligence to unlock extreme weather mysteries"
+    excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
+    publishedDateTime: 2021-08-10T19:44:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/08/210810143117.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 45
+  - title: "Grant success for research on Artificial Intelligence in IVF"
+    excerpt: "Congratulations to Dr Fabrizzio Horta on receiving the 2021 Monash Data Futures Institute Seed Grant - AI and Data Science for Monash Global Challenges. This $50,000 grant will help in the research collaboration between the Department of Obstetrics and Gynaecology ( Dr Fabrizzio Horta,"
+    publishedDateTime: 2021-08-10T06:29:00Z
+    webUrl: "https://www.monash.edu/medicine/news/latest/2021-articles/grant-success-for-research-on-artificial-intelligence-in-ivf"
+    type: article
+    provider:
+      name: Monash University
+      domain: monash.edu
+    quality: 37
+    images:
+      - url: "https://www.monash.edu/__data/assets/image/0007/2656231/AI-model-Fabrizzio-Horta-Nunez.png"
+        width: 555
+        height: 350
+        isCached: true
   - title: "Pull US AI Research Out of China"
     excerpt: "International scientific collaboration is a great thing, but not when it is fueling a despotic superpower’s oppression at home and belligerence abroad."
     publishedDateTime: 2021-08-10T11:00:00Z
@@ -53,7 +76,16 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
 
-secured: "BwKzQyvWo9o1BgStx9l3/DI9kOc46DLaGMcwOy0t3AZQ8Gpwv/NlnxgrStNQNJoqnPdSGQPoSCDzjLjPLZD9C7PkMeGIHL6EGOQPI8XO5+aZ4aIrKLMFJXyJ3uEQtVKLbEqiUbV1FPjZLt7ZKvySuuflid6TYbLP74/qJ9iQYGEUo59eV8uPh8LbX/35tLLzkOMnyAdmnwbWqkHfOTjT/v+s5+0ImGEd2wJ9UHjkuU4zrJESxifNZLl37NR/ujqPMNep0CypcyFXsGgboIcD3owRCy4dyeYb5HVuTpFNYqJ/NJ6OLQBkTAfMBFlvIM9PQJc+tSxahfGigNxwNhKja8u2pdztqDhflUDs3qNrj/4=;rBCbjM3op6sxJ94qv1+plg=="
+secured: "WKSu44/Ha8oAtTFn2dY7nktLB/Y5HF5UHLV8t3IrX408W62k/Lipb80VLgnumHpnW8/hnIvq7M8zUhUFNWoZx9+PcsAJGaeRRB4BkFdsUGjQlKb7zPEAJyZHDlsWtnDn///VTW1pOszHBVOCi+CDCcuiu4LmHQyV0bZDxFAhUN2eFJ+0LFs+Iq8aYyJpTrqiKSxQZP4r/c5i6pxSHpngQZJvv8BAcBWkml3tj91PbdDily+KaDpvi9PYwaojAOEbb574+79NnbZwo+S4M9CtNWtGOomo0cAYkT3LK5c5nX814/YqfUANxyH1MBpyMNptg47obhtUN3xsDb23lA0UWZ7XiRUT0knzXyelNQ+GnQhZJnyNHM2Qnlbnnuxvga0nNLJ1ddx+/msvmKztwaJfhF2/PCln9my1Ak/MbRzE/qVpBo/vxU/a5BpLFFricNqpG7aipJsQrMiPuV0VUMDipUQx1dIqzGmaZhWZ7mCt3dESNA5Z9VrFrOLldrTfkrmyvcw5zueMJECXdZoQOKIRZJrWTHP6iDNOiDIMi6bxqc0=;F2b3z+qx2lJ7Nw/cSsqEyg=="
 ---
 
