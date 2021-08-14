@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/rbl-bank-sele
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/rbl-bank-selects-aws-to-accelerate-ai-efforts/article35814022.ece/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.livemint.com/img/2021/08/09/600x338/rbl2-kYsG--621x414@LiveMint-91ed_1628503057208.JPG"
         width: 600
         height: 337
-        isCached: true
-  - title: "RBL Bank selects AWS as preferred cloud provider"
-    excerpt: "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-    publishedDateTime: 2021-08-09T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 76
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
         isCached: true
   - title: "Telangana AI Mission selects 42 start-ups for Revv Up accelerator"
     excerpt: "Telangana AI Mission has announced the selection of as many as 42 start-ups for Revv Up, an accelerator programme that it has put together in association with Nasscom. A 12-month programme, it is for start-ups offering solutions using Artificial Intelligence (AI)."

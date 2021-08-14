@@ -69,38 +69,6 @@ related:
         width: 400
         height: 295
         isCached: true
-  - title: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students"
-    excerpt: "Access Bank partners Africa Fintech Foundry to deepen digital inclusion for students - Driven by the vision to nurture the next generation"
-    publishedDateTime: 2021-08-09T07:32:00Z
-    webUrl: "https://www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/"
-    ampWebUrl: "https://www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/amp/"
-    cdnAmpWebUrl: "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/09/access-bank-partners-africa-fintech-foundry-to-deepen-digital-inclusion-for-students/amp/"
-    type: article
-    provider:
-      name: FINANCIAL WATCH NIGERIA
-      domain: financialwatchngr.com
-    quality: 52
-    images:
-      - url: "https://www.financialwatchngr.com/wp-content/uploads/2019/04/Access-Bank-new-brand-identity.jpg"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Mexican SMB FinTech Credijusto Could Be Listed On NYSE This Year"
-    excerpt: "Tidjane Thiam’s SPAC is in exclusive talks with Mexican FinTech Credijusto and CIAL Dun & Bradstreet about merging the companies and listing them on the NYSE."
-    publishedDateTime: 2021-08-09T08:44:00Z
-    webUrl: "https://www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/"
-    ampWebUrl: "https://www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/ipo/2021/mexican-smb-fintech-credijusto-could-be-listed-on-nyse-this-year/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/nyse-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Fintech firms on a roll: Heralding the new era of BNPL"
     excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
     publishedDateTime: 2021-08-13T10:46:00Z

@@ -85,22 +85,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "The most dangerous (and interesting) Microsoft 365 attacks"
-    excerpt: "APT groups are developing new techniques that allow them to avoid detection and exfiltrate hundreds of gigabytes of data from emails, SharePoint, OneDrive, and other applications."
-    publishedDateTime: 2021-08-09T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.html"
-    ampWebUrl: "https://www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/cybersecurity_system_attack_alert_by_matejmo_gettyimages-823751344_2400x1600_cso-100852270-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Latest Azure Sentinel news"
     excerpt: "Microsoft adds Fusion ransomware attack detection to Azure Sentinel. Microsoft says that the Azure Sentinel cloud-native SIEM (Security Information and Event Management) platform"
     publishedDateTime: 2021-08-09T21:22:00Z

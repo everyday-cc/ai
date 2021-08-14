@@ -58,22 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "RBL Bank selects AWS as preferred cloud provider"
-    excerpt: "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-    publishedDateTime: 2021-08-09T07:46:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 76
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
 
 secured: "Mkq0vyK/7e8/l94lUSxEys7iHDNe8SeNeXXeQ9GP96haHdqsdOz3RN4ftMRUaSOmBUNoI2+Z9vUpcAKZNG+/b93Vx3fUmGimDlwyX90ckbJIzb2bgCZy0BMHOwtxgDq3qNa7g9erJXyrqrjWyhplgUNIsKPefB5TInX6i1jps/aMo/doEPL8HfeLgitvlLh1dE9LmFhyMMDkk7AvtqmTH1JfL4XH67LpjX4p6gY9aQ2E0drh5AY92cuGHCze3+ONdKwkeKLGymW5Ra0oZgNq+Lcf3KJMLODVPApIAoe+L+jJgm5KXGd4+N6sUaZMRHTAOiQ4gF+66zb4l8U/eg12ZvVuZIoqVuhosTByauExo/M=;M9LUepfBed/yNqQADK1OQg=="
 ---

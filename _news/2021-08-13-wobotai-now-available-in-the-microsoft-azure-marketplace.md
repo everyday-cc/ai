@@ -67,22 +67,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "The most dangerous (and interesting) Microsoft 365 attacks"
-    excerpt: "APT groups are developing new techniques that allow them to avoid detection and exfiltrate hundreds of gigabytes of data from emails, SharePoint, OneDrive, and other applications."
-    publishedDateTime: 2021-08-09T09:00:00Z
-    webUrl: "https://www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.html"
-    ampWebUrl: "https://www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.amp.html"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3628330/the-most-dangerous-and-interesting-microsoft-365-attacks.amp.html"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/cybersecurity_system_attack_alert_by_matejmo_gettyimages-823751344_2400x1600_cso-100852270-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Latest Pearl Patent: AI-Powered Dental Insurance Fraud, Waste and Abuse Detection AI System"
     excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received a patent grant from the United States Patent Office covering the company's pioneering AI system for detecting fraud,"
     publishedDateTime: 2021-08-11T12:13:00Z

@@ -24,19 +24,6 @@ images:
     height: 1334
     isCached: true
 
-related:
-  - title: "NtechLab eyes Gulf markets with its face, silhouette, and vehicle recognition system"
-    excerpt: "Following a 2020 $15 million investment from an international consortium of sovereign wealth funds, including those from the Middle East, NtechLab has announced the opening of its Gulf representative"
-    publishedDateTime: 2021-08-12T13:28:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/NtechLab_eyes_Gulf_markets_with_its_face_silhouette_and_vehicle_recognition_systemnbsp-ZAWYA20210812121248/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
-
-secured: "G6js1JZdPonIosTP4E4BqhZlO2ZClM0MK3qDB+k9euyDUVQul7heXyYa0XBsQ4yjvCBubUQg/F7geZLJkCIcuZn73akmKvt5yMYhppUgGSr9yEp3FQ3tVVGrWNtSeqWmRfgrHxpOF5CuuokXtBSELV42zefgXrgWkTZeOs16HTN0i3nsN03rHqJIc3qguM2gGsDu26tRZ/7KjrYmyZD4qqqrML9yHczLO5wMZmXKPb3uuKHWmSM+735zFgNecXUWbvac40dXhnCnhNJNHxHy7AzKHUZN4jJEu/WU2i6TucfZwcq1Qftx/xUlhZ/dbRlCKQMX3pbY4Sz+NRtWdT8yWS2JffpcKzZk8yg+UP5+iYU=;yUnAJIs69jjfboPMao+Q0w=="
+secured: "r2m40L3mluj6EQmPJcqqBoNviR7+wburgrqC4ZTCO2C+SwLQU/Q4L2GopAhLhFZZQAZ3F2tE5p3lv9TAVtR+2gcnR3cAJIKbKnxe5E652O4Bl7gH7hK/EaO1syfeqLKyLje+QywluMEtdh/n1ORjmvtpON8UpuGY5bxyOuaFo+XqyYY4sZ1GysgagQLECFTraC8h+jsRpYbiQxlZWTtcCGgndn863d13sX7kA8DnHEjv2zADnJXi2JsdI/3Y0WIEpsI8AYSYs0S2d090ZjJmmJs7auVNOMrWqLXjaR5/8ZN++JDeCXzyxL52Z8m9rdcmvID4KuAswT5BO7MzTVclnIbfMxvZVgpm2+O1fy5UP7aNKJ1w2JERgp5LDDPDHYtSrmy4NqGpBWhSlGWGNE3y1B7XfTFsSYJgq0vi7TZzgbV4CN8hV5KwoK8Yj+NxcuUtK5hhfsMUNIsqgGu3UjNdc8dimaIcRpViHclzFkAHefCTy5etyOzvAjkyXs0GsrLXVIyf1oJtmpn1TRBVoGU2qw==;+tmU15i6+5E9IU9X7viLOg=="
 ---
 

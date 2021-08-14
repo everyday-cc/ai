@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-08-student-urges-natural-language-f
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-student-urges-natural-language-focus.amp"
 type: article
 quality: 51
-heat: 82
+heat: 81
 published: true
 
 provider:

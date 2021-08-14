@@ -27,56 +27,134 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
-    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
-    publishedDateTime: 2021-08-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+  - title: "Global Face Recognition Systems Market"
+    excerpt: "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and"
+    publishedDateTime: 2021-08-10T20:17:00Z
+    webUrl: "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U810466440_g.jpg"
+        width: 400
+        height: 300
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
-    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-    publishedDateTime: 2021-08-11T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
+  - title: "Global Facial Recognition Door Lock Market growth graph to witness upward trajectory during 2021-2026"
+    excerpt: "Global Facial Recognition Door Lock Market Report Provides Market Strengths, Weaknesses, Opportunities, Threats, and Forecast till 2026. Market Research Store is a market research"
+    publishedDateTime: 2021-08-11T06:26:00Z
+    webUrl: "https://manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store9.jpg.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-12T08:59:00Z
-    webUrl: "https://www.lelezard.com/en/news-19948480.html"
+  - title: "Congress recognizes Hip Hop Celebration day in recognition of 1st hip hop party"
+    excerpt: "Flyer for the Back To School Jam hosted by DJ Kool Herc. Hip-hop holiday signals a turning point in education for a music form that began at a back-to-school"
+    publishedDateTime: 2021-08-09T17:30:00Z
+    webUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/"
+    ampWebUrl: "https://rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2021/08/09/congress-recognizes-hip-hop-celebration-day-in-recognition-of-1st-hip-hop-party/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 4
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 40
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://images.theconversation.com/files/414431/original/file-20210803-25-spxunc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 424
         isCached: true
-  - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-    excerpt: "As per the latest The Insight Partners research report, \" Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
-    publishedDateTime: 2021-08-13T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
+  - title: "Face Recognition Systems Market to See Major Growth by 2026 | NEC Corporation, Safran Group, Gemalto, Ayonix"
+    excerpt: "The global Face Recognition Systems market size is expected to gain market growth with a CAGR of xx% in the forecast period of 2021 to 2027 and will expected to reach USD xx million by 2027, from USD xx million in 2020."
+    publishedDateTime: 2021-08-12T17:22:00Z
+    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
+    ampWebUrl: "https://manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 40
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Face-Recognition-Systems-Market-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Japan firms to jointly develop facial recognition payment system"
+    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
+    publishedDateTime: 2021-08-12T01:10:00Z
+    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
+    type: article
+    provider:
+      name: Nippon
+      domain: nippon.com
+    quality: 39
+    images:
+      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
+        width: 360
+        height: 360
+        isCached: true
+  - title: "Japanese firms to jointly develop facial recognition payment system"
+    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
+    publishedDateTime: 2021-08-12T21:28:00Z
+    webUrl: "https://japantoday.com/category/tech/japan-firms-to-jointly-develop-facial-recognition-payment-system"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
+  - title: "Voice Recognition Market Likely to Enjoy Explosive Growth by Facebook, Amazon, Google"
+    excerpt: "What’s keeping Amazon.com, Inc., Facebook, Inc., Apple, Inc., Baidu, Inc., Nuance Communications, Inc, Advanced Voice Recognition Systems, Inc., CastleOS Software, LLC, Google, Inc., Microsoft Corporation & International Business Machines Corporation Ahead in the Market?"
+    publishedDateTime: 2021-08-11T13:22:00Z
+    webUrl: "https://manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    ampWebUrl: "https://manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/voice-recognition-market-likely-to-enjoy-explosive-growth-by-facebook-amazon-google/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
+  - title: "NtechLab eyes Gulf markets with its face, silhouette, and vehicle recognition system"
+    excerpt: "Following a 2020 $15 million investment from an international consortium of sovereign wealth funds, including those from the Middle East, NtechLab has announced the opening of its Gulf representative"
+    publishedDateTime: 2021-08-12T13:28:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/NtechLab_eyes_Gulf_markets_with_its_face_silhouette_and_vehicle_recognition_systemnbsp-ZAWYA20210812121248/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
+  - title: "Global Automotive Recognition System Market SWOT Analysis,Key Indicators,Forecast 2027 : CogniVue, EyeSight Technologies, Intel, Qualcomm"
+    excerpt: "The Research experts at MR Accuracy Reports have crafted a brand-new report on the Automotive Recognition System which will provide its users a 360-degree overview of the global market post-COVID-19 pandemic,"
+    publishedDateTime: 2021-08-12T03:36:00Z
+    webUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/"
+    ampWebUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 0
+  - title: "VC Daily: Facebook's Giphy Deal Faces Competition Concerns; Reddit Valuation Soars to $10 Billion; Question of the Week"
+    excerpt: "Top News Competition concerns. U.K. antitrust officials said they could call on Facebook Inc. to unwind its acquisition of Giphy, a provider of popular animated images, after provisionally finding that the deal would harm competition between social-media platforms and in the display advertising market,"
+    publishedDateTime: 2021-08-13T08:52:00Z
+    webUrl: "https://www.morningstar.com/news/dow-jones/202108138001/vc-daily-facebooks-giphy-deal-faces-competition-concerns-reddit-valuation-soars-to-10-billion-question-of-the-week"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 0
 
 secured: "vHfBHetNSVkd5bNKWylCDfGuRQt81p78RXbtwdtVFJPrOiBAdl0A01vYYHw1sPCr3w4nB27w0f6rI0vH4ZJXev4GdCdIrWLMmWEkdAU6AvNoyUv49RYSzXT4IObTrHK+jek2ouQkw/I1EvDRzvAtwtLwp9mvAFBicC8Qpfvf3rIYvT8uUi9ujg+BvK5bN9DozU7tDezeQeMCRo0TvHtx5dkFJDaUOsMVc7OeDz8TTD8OhoNoZYSukSWV3v844pGTMojvNUKRMQbzpduk2p88I1WTcvrsKOxM8hg3axatMzDImKxoFWPKL5w3OARuKzVrlQcm4CC1rnFzL+UtFU7WA2EuAGVk8SVwnHcQF6EwOfo=;ptCeNdr2WbXrbk1gLnAkEw=="

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-17-aws-launches-healthlake-to-help-health-care-organizations-query-medical-data.md",
+      "title": "AWS launches HealthLake to help health care organizations query medical data",
+      "excerpt": "AWS has made its cloud -based health care data lake solution, Amazon HealthLake, generally available to customers. With this solution, health care organizations can pull medical information from different sources into a single environment and use it to improve patient care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1578930668/itpro/2020/01/Doctor_using_AI_to_support_diagnosis.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/big-data/360271/aws-launches-healthlake-to-help-health-care-organizations-query?amp",
+      "publishedDateTime": "2021-07-16T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-how-medhost-is-migrating-electronic-health-record-data-to-aws-for-compliance-and-gaining-valuable-insights.md",
       "title": "How MEDHOST is migrating electronic health record data to AWS for compliance and gaining valuable insights",
       "excerpt": "Healthcare technology companies often turn to AWS to help them accelerate their clinical and business objectives. MEDHOST has provided enterprise information technology and electronic health record (EHR) solutions to full-service community hospitals for more than 35 years. Today, more than 1,000 healthcare",
@@ -1312,50 +1364,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
-      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
-      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
-      "sourceUrl": null,
-      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
-      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
-          "width": 2560,
-          "height": 1654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-03T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVIA",
-        "domain": "kvia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/why-machine-learning-models-fail/"
 webUrl: "https://sdtimes.com/ai/why-machine-learning-models-fail/"
 type: article
 quality: 84
-heat: 114
+heat: 116
 published: true
 
 provider:

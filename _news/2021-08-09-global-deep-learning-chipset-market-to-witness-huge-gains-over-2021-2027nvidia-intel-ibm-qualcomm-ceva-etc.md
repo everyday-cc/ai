@@ -50,17 +50,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Global Automotive Recognition System Market SWOT Analysis,Key Indicators,Forecast 2027 : CogniVue, EyeSight Technologies, Intel, Qualcomm"
-    excerpt: "The Research experts at MR Accuracy Reports have crafted a brand-new report on the Automotive Recognition System which will provide its users a 360-degree overview of the global market post-COVID-19 pandemic,"
-    publishedDateTime: 2021-08-12T03:36:00Z
-    webUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/"
-    ampWebUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
 
 secured: "C3cvx1f+SQlOsXicP7Qiocm2Aczt7sIxRkvdN8xaYH+Ajz0rmF1N/Aqz65fCaSCt2U6FPRjsBAH4PegOM+tY96ZiEMu7pfl9AsPvWOPHQgAVNj91UqKQy5o/iCjR0HdJuzO7rrcxH85zA20BZzk0oBWn6d4W6AfOBDuhYjGgE3HaCXJsMnBWdQcFycrWlK9Oc+LJawAznPAraTaPXxgvgAzWGrMqsyFreAaqPXU1qHiXcKNxNr7MjKsGSGB/WBi9KlKvFUJmkaecwJm/0XgQ3h7L3MI0+xswsU62Jc+GYehb8Yf3V0GLh54M+NEDhb3UqncVZOOThbsL8n0PVBxwrH5GF+BLnuJdaqH9e2S0HH4=;R6Yd7ShL2x387kbaji8TxA=="
 ---

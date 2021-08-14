@@ -25,59 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
-    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
-    publishedDateTime: 2021-08-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+  - title: "Global Artificial Intelligence in Construction Market growth graph to witness upward trajectory during 2021-2026"
+    excerpt: "Global Artificial Intelligence in Construction Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence in Construction Market publi"
+    publishedDateTime: 2021-08-13T07:50:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
+    images:
+      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store7.jpg.jpg"
+        width: 500
+        height: 500
+        isCached: true
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Size 2021 to 2026 Brief Analysis by Regions, Growth Key Factors, Demand, Business Share"
+    excerpt: "Aug 11, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial"
+    publishedDateTime: 2021-08-11T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-size-2021-to-2026-brief-analysis-by-regions-growth-key-factors-demand-business-share-2021-08-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
-    excerpt: "Hybrid Voice Recognition System Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Hybrid Voice Recognition Sys"
-    publishedDateTime: 2021-08-10T06:15:00Z
-    webUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    ampWebUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//ict-media-market-10.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-12T08:59:00Z
-    webUrl: "https://www.lelezard.com/en/news-19948480.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 4
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
-  - title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-    excerpt: "As per the latest The Insight Partners research report, \" Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
-    publishedDateTime: 2021-08-13T11:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "f34XTJiWZT4bfMzCRgdFQXjCRIyt3WPE1yU2qRjFHDCDDVoHW241yFnSv6JcjMR2xvLU+1Q1vCOq58n+dJ298t59JUZMurlFcPYIEoDba5F0fy0RLJEjPwTp0+oIpMHLrQ92bFT5DG+oTLNJmq1D/WE9Nzih8JsKuaxSvfGFpNJNaeffcHG4d0T9oEXhXkgVE08WJG79b8bavQ4h3w2HER9ojeLgf9KMLM0+Unx1YOTy8H2SBDQB20JLWNV40bk66IfYxPeXdh7tQYIJhLhYoxTMHG6mVTdYScjDzsXZUBRiheBpkddVqnrpEN65fF+kDOLXkp1VqsIkQAABldTP9oB2rQpjHy1eVmhp65AatwRfJy7K5S1lYIcoiPNCz+S+zk1+18+jGGBdw7gkuyVjCu6+0f7qv9Ggg2L3WyigBLXmaSfdoXEJewuSlflnFobBK23w6KG129zBQK4yB4/sA2nZ471ZauALdpZyPBfKa7KC8p+bSXdJDEj1W9D4/CzZtmAFEkH8/xjEnwU+DQllPA==;9eCH1D+SiOvv71ni6EP8qA=="
 ---

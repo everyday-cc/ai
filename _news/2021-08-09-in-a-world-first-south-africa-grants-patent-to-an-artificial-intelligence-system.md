@@ -43,22 +43,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "In a world first, South Africa grants a patent to an artificial intelligence system"
-    excerpt: "DABUS is an AI system created by Stephen Thaler, a pioneer in the field of AI and programming. The system simulates human brainstorming and creates new inventions."
-    publishedDateTime: 2021-08-09T07:25:00Z
-    webUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/"
-    ampWebUrl: "https://qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/2044477/south-africa-grants-patent-to-an-ai-system-known-as-dabus/amp/"
-    type: article
-    provider:
-      name: Quartz
-      domain: qz.com
-    quality: 83
-    images:
-      - url: "https://cms.qz.com/wp-content/uploads/2019/01/RTR3ELOG-e1547100202155.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "South Africa grants world's first patent to an AI system"
     excerpt: "On closer inspection, the patent is anything but mundane. That’s because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS ("
     publishedDateTime: 2021-08-10T09:15:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning could help develop cures for COVID-19 and other diseases"
-    excerpt: "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio"
-    publishedDateTime: 2021-08-09T09:01:00Z
-    webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://images.theconversation.com/files/414689/original/file-20210804-5434-1c9381h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 648
-        isCached: true
   - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
     excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
     publishedDateTime: 2021-08-10T17:21:00Z
@@ -98,6 +84,20 @@ related:
       name: Labroots
       domain: labroots.com
     quality: 39
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MKe6fxupaXF+RcjNO0cjfUZS0aeRUfnXLHyYv2UyLLdZA1b1mx39U+aT6od+ol/8cphxcp8R4GwXvreDdaYCyJ7qNBQdOna7cpSaSDw6x7oO/LQbRnXmIOucHv98vfgET7tSqtbWdCqOeocpYz6US2K24UifdJrlDeOk39Bxla5Nn1COPRcQrSq8eHMQCHfXgIW80FylkQOh+DSuNPnfJ3D/OGhnXlPC4v9LDbZQ+csyVY2fi+BEIkEWNKn7FikUU463onULiQoJFredr1IGr21COsecLhJ3AJSb1Yx5EcJ7yZovVgWzfFUAit/NI40Ifjr0jLch2DilORBYn0b/FB63/ys4AWdRDSUF7zJMCxA=;CIEViGGMVN0/4JxUEb0Uog=="
 ---

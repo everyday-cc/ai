@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How machine learning could help develop cures for COVID-19 and other diseases"
-    excerpt: "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio"
-    publishedDateTime: 2021-08-09T09:01:00Z
-    webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://images.theconversation.com/files/414689/original/file-20210804-5434-1c9381h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 648
-        isCached: true
   - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
     excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
     publishedDateTime: 2021-08-10T17:21:00Z
@@ -96,6 +82,20 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
         width: 1000
         height: 500
+        isCached: true
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bExd+iIx0mAnLx78lvHkZwxJRfjjtLkdsX9MO7DzHrW1SM6cJb0mP8DwkgXnHri/bSD9iT/FTVvSUZBYEbyt7zHc27UzL84m4RQhC3o+oAcb63A7XzrjxgcbuqHrdZ/iY0p1se/l23H3YG3fTW0WOstKMMAbop69brNDT92v6cwvUhtXCkocurc73X7syQZqt8mR54NII/hxvPxBLWopODQs6yYZXgMYfWMGYZRicXY/VHZiOrzupkU6hg8yBJOiPunOyLgdKWXou96whgvSSwwbctbm7nLHzP0t4GBf8S8qpufHt2xpEgdl5+2dLQ5dsO8gg2+Ze5GBipGUCE2XjTZL5EKZBTmOBmRYBxohjzg=;GUL9cw5VgFUGaYLClqUPjQ=="

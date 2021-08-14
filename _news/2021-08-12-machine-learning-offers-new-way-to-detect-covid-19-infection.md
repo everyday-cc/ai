@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "How machine learning could help develop cures for COVID-19 and other diseases"
-    excerpt: "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio"
-    publishedDateTime: 2021-08-09T09:01:00Z
-    webUrl: "https://thenextweb.com/news/machine-learning-develop-cures-covid-19-other-diseases-syndication"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 66
-    images:
-      - url: "https://images.theconversation.com/files/414689/original/file-20210804-5434-1c9381h.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
-        width: 754
-        height: 648
-        isCached: true
   - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
     excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
     publishedDateTime: 2021-08-10T17:21:00Z
@@ -96,6 +82,20 @@ related:
       - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143530555%2F476816160543%2F1%2Foriginal.20210804-033645?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=31b8c7c6eaff689b1a73595673f517ee"
         width: 1000
         height: 500
+        isCached: true
+  - title: "AI in Insurance Market COVID - 19 Impact Analysis, Market Overview, Applications Analysis and Competitive Analysis by Forecast to 2027"
+    excerpt: "The requirement of staying competitive in the market is forecasted to spur the AI in the insurance market share in the future. The escalating quantity and pace of data generation are anticipated to benefit AI in the insurance market in the approaching period."
+    publishedDateTime: 2021-08-09T12:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-covid---19-impact-analysis-market-overview-applications-analysis-and-competitive-analysis-by-forecast-to-2027-2021-08-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yPxtMefE/Gqj5sS3aMYN1IuOfp7HltZvNFGD3nI6bnwT1JjFjs2pWT879VSey9DN+Qtgt1meUuG2kRBmo4jNXJYvgxkZHBLkA/B5KsykWyzQuDrvserovpmR+YMkRgiu1019OpRMusEqlqZH4n8FE/okHY8m2v+2hlGNRgOSb1xkWEiE4QSyfJ1vCtlEQv4CpxQbpwrv+eyszBYIUCKOK1ItcPur2rxAvAlTwX7qG2Zvh8QXtvpKZ7V9HfDuNtveeO//XgusMThoeicXYNY6fs/UJZSVmC0rl9nyXzjTTCoTkZdWuKEs75t7KVuD5wkaThSb7m5O+wwZJUDedyBBhHuIggX+V1VFfIET50TSBjONtkZXnGD2Ng/8TYUu+K6TVYAsjz0XgWTZ6fQh2Gj42+M2zx46r41q4dCuXFbHLBjc1rKgf0jKf5quDLJEM/3tiYPr5S9XAun2HskYETPFE49PpqiZ1aWZK24kt7gRjsVOExj76Kfsx1xgpYpgJh1ZuNPLzVNEJ+Y/wCIuSPaX3Q==;JtfPtI7dml11+DKfRjzj4A=="

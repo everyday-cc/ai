@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-03-facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows.md",
+      "title": "Facial recognition tech has been widely used across the US government for years, a new report shows",
+      "excerpt": "The use of an assortment of other companies’ facial-recognition products was also reported in that same timeframe, such as Amazon’s Rekognition software. Ten agencies told the GAO that it used ...",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "originalUrl": "https://kvia.com/news/business-technology/cnn-social-media-technology/2021/06/30/facial-recognition-tech-has-been-widely-used-across-the-us-government-for-years-a-new-report-shows-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2021/07/hypatia-h_23d667f55b4c015e1415b2e40186c54d-h_18bcfaf1b7723aeabe16bdb83b9561b0-300-scaled.jpg",
+          "width": 2560,
+          "height": 1654,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-detect-manufacturing-defects-in-real-time-using-amazon-lookout-for-vision.md",
       "title": "Detect manufacturing defects in real time using Amazon Lookout for Vision",
       "excerpt": "In this post, we look at how we can automate the detection of anomalies in a manufactured product using Amazon Lookout for Vision. Using Amazon Lookout for Vision, you can notify operators in real time when defects are detected, provide dashboards for monitoring the workload, and get visual insights",
@@ -1316,49 +1360,6 @@
       "provider": {
         "name": "The Bakersfield Californian",
         "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-artificial-intelligence-based-cybersecurity-market-grows-by-19-billion-during-2021-2025-technavio.md",
-      "title": "Artificial Intelligence-based Cybersecurity Market Grows by $ 19 Billion during 2021-2025 | Technavio",
-      "excerpt": "The artificial intelligence-based cybersecurity market is expected to grow by USD 19 billion during 2021-2025, according to Technavio. The report offers a detailed analysis of the impact of the COVID-19 pandemic on the artificial intelligence-based cybersecurity market in optimistic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-grows-19-billion-/2021/06/21/9393768.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1441766/Technavio_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-21T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-imp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Rekognition adds four new types of segments"
-    excerpt: "Amazon Web Services has added an additional four segments to its Amazon Rekognition video segment detection software. The API enables media customers to automatically detect frame accurate end credits,"
-    publishedDateTime: 2021-08-09T08:07:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-rekognition-adds-four-new-types-of-segments?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 76
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2019/07/AWS.jpg"
-        width: 950
-        height: 534
-        isCached: true
   - title: "Amazon Rekognition adds new features"
     excerpt: "Amazon Rekognition video segment detection has added support for four new segments, opening and end credits, slates, studio logos, and content. Launched last year, Rekognition uses machine learning to automatically detect frame accurate end credits,"
     publishedDateTime: 2021-08-09T09:52:00Z

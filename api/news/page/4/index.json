@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-global-face-recognition-systems-market.md",
+      "title": "Global Face Recognition Systems Market",
+      "excerpt": "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "originalUrl": "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U810466440_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth",
+      "publishedDateTime": "2021-08-10T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-the-best-robot-vacuums-for-hardwood-floors.md",
+      "title": "The best robot vacuums for hardwood floors",
+      "excerpt": "Robot vacuums are a great match for hardwood flooring, but some models do better than others. These are the best robovacs and smart features for your hardwood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/eufy-robovac-1-1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-for-hardwood-floors/?amp",
+      "publishedDateTime": "2021-08-10T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-oracle-accelerates-mysql-heatwave-queries-with-machine-learning.md",
       "title": "Oracle accelerates MySQL HeatWave queries with machine learning",
       "excerpt": "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service.",
@@ -63,7 +158,7 @@
       "originalUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -189,6 +284,82 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-feature-us-prisons-mull-ai-to-analyze-inmate-phone-calls.md",
+      "title": "FEATURE-U.S. prisons mull AI to analyze inmate phone calls",
+      "excerpt": "DOJ asked to study feasibility of AI prisoner monitoring tech * Inmates' rights advocates fear bias, privacy issues * Software meant to head off suicides and violent crime. By D",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-tech-prison/us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSKBN2FA0OO",
+      "originalUrl": "https://news.trust.org/item/20210809090018-c8r11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "publishedDateTime": "2021-08-10T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thomson Reuters Foundation",
+        "domain": "trust.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images.md",
+      "title": "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images",
+      "excerpt": "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm",
+      "publishedDateTime": "2021-08-10T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1030,186 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-logitech-scribe-review-ai-camera-brings-analogue-whiteboards-into-video-meetings.md",
-      "title": "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings",
-      "excerpt": "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
-      "originalUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/09/d81ef24f-a2f1-49d8-9318-a8be0945cf41/logitech-scribe-camera.jpg",
-          "width": 770,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
-      "publishedDateTime": "2021-08-10T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade.md",
-      "title": "Artificial Intelligence and Robotics are the major investment trends that will define the decade",
-      "excerpt": "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "originalUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
-      "publishedDateTime": "2021-08-10T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-seachange-enables-migrated-cloud-video-delivery-platform-with-aws.md",
-      "title": "SeaChange enables migrated cloud video delivery platform with AWS",
-      "excerpt": "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
-      "originalUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png",
-          "width": 415,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
-      "publishedDateTime": "2021-08-10T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-united-arab-bank-announces-participation-in-nationwide-sca-fintech-megathon-2021.md",
-      "title": "United Arab Bank Announces Participation In Nationwide Sca Fintech Megathon 2021",
-      "excerpt": "United Arab Bank announced its participation in a first of its kind nation-wide Fintech Megathon, SCA Fintech Megathon 2021, launched by Emirates Securi",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "originalUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/United%20Arab%20Bank.jpg?itok=edIZxQCb",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
-      "publishedDateTime": "2021-08-09T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

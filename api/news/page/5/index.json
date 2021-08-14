@@ -2,6 +2,186 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-10-logitech-scribe-review-ai-camera-brings-analogue-whiteboards-into-video-meetings.md",
+      "title": "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings",
+      "excerpt": "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
+      "originalUrl": "https://www.zdnet.com/index.php/product/logitech-scribe-whiteboard-capture-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/09/d81ef24f-a2f1-49d8-9318-a8be0945cf41/logitech-scribe-camera.jpg",
+          "width": 770,
+          "height": 554,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/product/logitech-scribe-whiteboard-capture-camera/",
+      "publishedDateTime": "2021-08-10T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade.md",
+      "title": "Artificial Intelligence and Robotics are the major investment trends that will define the decade",
+      "excerpt": "The Continental Group, a leading insurance intermediary and financial services solutions provider in the GCC region, unveils findings about the major investment trends that will dominate the market in the coming decade.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "originalUrl": "https://gulfnews.com/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/08/10/Continental-Group_17b2ef55253_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/company-releases/artificial-intelligence-and-robotics-are-the-major-investment-trends-that-will-define-the-decade-1.1628581195704",
+      "publishedDateTime": "2021-08-10T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-seachange-enables-migrated-cloud-video-delivery-platform-with-aws.md",
+      "title": "SeaChange enables migrated cloud video delivery platform with AWS",
+      "excerpt": "SeaChange International has strengthened its long-standing collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated, cloud-based video delivery platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
+      "originalUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rapidtvnews.com/images/2021/July_2021/SeaChange_8_JUly_2021.png",
+          "width": 415,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html",
+      "publishedDateTime": "2021-08-10T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rapid TV",
+        "domain": "rapidtvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-united-arab-bank-announces-participation-in-nationwide-sca-fintech-megathon-2021.md",
+      "title": "United Arab Bank Announces Participation In Nationwide Sca Fintech Megathon 2021",
+      "excerpt": "United Arab Bank announced its participation in a first of its kind nation-wide Fintech Megathon, SCA Fintech Megathon 2021, launched by Emirates Securi",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
+      "originalUrl": "https://www.albawaba.com/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-08/United%20Arab%20Bank.jpg?itok=edIZxQCb",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/united-arab-bank-announces-participation-nationwide-sca-fintech-megathon-2021-1441918",
+      "publishedDateTime": "2021-08-09T21:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-latent-ai-which-says-it-can-compress-common-ai-models-by-10x-lands-some-key-backing.md",
       "title": "Latent AI, which says it can compress common AI models by 10x, lands some key backing",
       "excerpt": "Latent AI, a now three-year-old, Menlo Park, Ca.-based startup, pitched a handful of investors during TechCrunch’s Battlefield competition. It didn’t win that contest, but that hasn’t kept it from winning the interest of investors elsewhere.",
@@ -321,7 +501,7 @@
       "originalUrl": "https://techxplore.com/news/2021-08-student-urges-natural-language-focus.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -364,7 +544,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -417,7 +597,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/08/09/the-fallacy-of-fintech-ethics-could-fintechs-be-less-ethical-than-banks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -623,7 +803,7 @@
       "originalUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -949,7 +1129,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1036,204 +1216,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-foundations-of-trustworthy-ai-guiding-the-workforce.md",
-      "title": "Foundations of trustworthy AI: Guiding the workforce",
-      "excerpt": "As an organization expands its use of AI, its teams should build individual AI solutions that are trustworthy from the start. This requires guiding the workforce so that everyone involved in creating the solutions understands the tenets of trustworthy AI, knows how to apply them, and makes them an integrated",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/08/trustworthy-ai-guiding-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/08/blog_guide-workforce_2000x1000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-googles-verily-opens-israel-rd-center-will-partner-with-hospitals-on-ai-in-healthcare.md",
-      "title": "Google’s Verily Opens Israel R&D Center, Will Partner With Hospitals On AI In Healthcare",
-      "excerpt": "The Verily center will focus on early research with Israel's Shaare Zedek hospital using an AI system to help detect colorectal cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
-      "originalUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/08/google-sign-alex-dudar-unsplash.jpg",
-          "width": 1915,
-          "height": 1133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-russias-robot-fighter-apparently-isnt-very-robotic.md",
-      "title": "Russia’s Robot Fighter Apparently Isn’t Very Robotic",
-      "excerpt": "In the race to develop robotic fighter jets, it might look like Russia is pulling ahead of the United States. But appearances can be deceiving. Russia’s first few robot fighters ... probably won’t be very robotic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61106b25e970047366f7c323%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D72%26cropY2%3D747",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/08/09/russias-robot-fighter-apparently-isnt-very-robotic/amp/",
-      "publishedDateTime": "2021-08-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-pizza-hut-is-building-an-ai-that-it-says-will-recommend-food-to-you-based-on-your-local-weather.md",
-      "title": "Pizza Hut is building an AI that it says will recommend food to you based on your local weather",
-      "excerpt": "Pizza Hut is developing an in-house AI, rather than buy off-the-shelf programs, that knows what customers might want to order, its data chief said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
-      "originalUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6111042138aff70018907a15?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pizza-hut-wants-ai-to-recommend-food-based-on-weather-2021-8?amp",
-      "publishedDateTime": "2021-08-09T04:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
