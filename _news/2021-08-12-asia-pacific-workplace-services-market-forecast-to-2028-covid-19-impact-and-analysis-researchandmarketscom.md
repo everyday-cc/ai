@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide Medical Telepresence Robots Industry to 2028 - Featuring Amy Robotics, AXYN Robotics and Xandex Among Others - ResearchAndMarkets.com"
-    excerpt: "The “Medical Telepresence Robots Market Size, Share & Trends Analysis by Type (Stationary, Mobile), by Component (Camera, Sensors & Control System), by End Use, by Region, and Segment Forecasts, 2021 - 2028” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-09T13:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-robotics-cc556eb9e253439f9beaa37861d05699"
+  - title: "Deep Learning System Market – Industry Size, Development Strategy, Historical Analysis, Competitive Landscape And Forecast to 2028"
+    excerpt: "The latest study, titled “Global Deep Learning System Market”, published by Emergen Research, entails a thorough review of the present and future market trends in this specific business vertical. The report gathers viable information on the most prominent industry players,"
+    publishedDateTime: 2021-08-12T14:27:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Natural-Skin-Care-Products-Market-Copy-1-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
 
 secured: "3pteX+APXYb1EINJLt9eyksccV68a7h7D5dIR3wt4vGKYg0v4kT/UPHoY6RzKByW/3XbKsFdhVhO3SBJvTfchbfcIrVxlTKCnEQBHegb06wAwMlc5nhSh2WzH/53FFMi3DTHMs6fM/GWrDYMb/tbUfAlCHttbOY8a/E4R8ghcArQ/AFL99lLhiPo7hBDCEyHxNYadbLklQ9ag3YShOEjU14MAE22OP8mD+vLzQG8Fpa4+HpV9EY7ofqwi/TEf4DKWwlAmmkxLSsrga2UJkelC4O0ihjHFuBMGJSNQzUpcmjbQ5ug3LxQZeHFhVhs49TG6ncF0zitEyt4ClpBztAv4H4mSfcsa6Dtr1oOMMFphf0=;mfShUBg9o/yWaRGr+b7WKA=="

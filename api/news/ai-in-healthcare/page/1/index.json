@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-12-himss21-healthcare-executives-share-digital-health-lessons-learned-from-the-pandemic.md",
-      "title": "HIMSS21: Healthcare Executives Share Digital Health Lessons Learned from the Pandemic",
-      "excerpt": "Hospitals quickly scaled their virtual care and communication technologies last year. Now, health leaders are reflecting on the experience.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic",
-      "originalUrl": "https://healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Nassar%20Nizami.jpg?itok=dFXU6xKp",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic?amp",
-      "publishedDateTime": "2021-08-11T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028",
       "excerpt": "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1379,6 +1336,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

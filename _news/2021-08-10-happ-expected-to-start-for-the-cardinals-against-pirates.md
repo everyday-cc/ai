@@ -48,6 +48,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Ashby expected to start for the Brewers against Pirates"
+    excerpt: "280 batting average, 2.90 ERA, outscored opponents by 28 runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel ..."
+    publishedDateTime: 2021-08-14T07:27:00Z
+    webUrl: "https://www.startribune.com/ashby-expected-to-start-for-the-brewers-against-pirates/600087829/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 37
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1628918995"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Keller expected to start as Pirates host the Brewers"
     excerpt: "280 batting average, 2.90 ERA, outscored opponents by 28 runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel ..."
     publishedDateTime: 2021-08-14T03:54:00Z

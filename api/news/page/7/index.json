@@ -2,6 +2,91 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-08-roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball.md",
+      "title": "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball",
+      "excerpt": "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U.",
+      "sourceUrl": null,
+      "webUrl": "https://lileicc.github.io/",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball/ar-AAN4bxY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T00:50:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "github.io/",
+        "domain": "github.io/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
+      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
+      "excerpt": "Hello, and welcome to this week's edition of the Insider Tech newsletter, where we break down the biggest news in tech, including: This week: Trouble at Google's DeepMind Insider learned that an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "originalUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "publishedDateTime": "2021-08-07T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-systems-of-systems-the-next-big-step-for-edge-ai.md",
       "title": "Systems of systems: The next big step for edge AI",
       "excerpt": "A system of systems connects an enterprise’s multiple, purpose-dedicated systems using a single common language.",
@@ -1099,108 +1184,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
-      "title": "Schools Look for Help From AI Teacher’s Assistants",
-      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-381086/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
-      "publishedDateTime": "2021-08-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
-      "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
-      "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
-      "originalUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
-      "publishedDateTime": "2021-08-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

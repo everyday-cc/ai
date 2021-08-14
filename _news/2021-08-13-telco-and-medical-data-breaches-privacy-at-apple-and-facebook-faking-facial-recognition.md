@@ -41,6 +41,20 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "AI researchers won’t be playing ‘trust fall’ with Facebook. Or China"
+    excerpt: "There are organizations that AI researchers trust less than Facebook, according to a new paper, and they are all Chinese."
+    publishedDateTime: 2021-08-12T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "9oSjaKR50v/MRE4Q9TbrRIFI00hjjTHgMy1oLeYSkzNg5JmecFK8uohw8UIaL8TQv+U/WreEpAbuxmCFS1SZgC7joCCyfqV8miP3ZqMWO5InZ3d1kuS1LKfRM9oYGQ2gjheltm9ikw1bGVWEzHR5fpvZdYVud7qcRWbMaQuU7gcKxfHF5pn7twtaS8l2DLI8yrhquusz3XlkjkBFThn5MgZGoVK011xb6BtXr0lA5ujyJpV8F6t/uiVQPDr1qLe5ymB++TVIktrtvZ2VXWATiMdLrZCDZ2ggu3oyE/inJblcc6K9NQHw1H6e2UXvWph0ywczHTCtCeg3wMJdk5Z39oHG1ukuMZZNvyWmKA/kt5w=;v+S7Lmp+2ZTb76EymMTHZA=="
 ---

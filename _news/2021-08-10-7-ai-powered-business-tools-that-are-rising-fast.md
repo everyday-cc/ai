@@ -70,6 +70,15 @@ related:
         width: 453
         height: 640
         isCached: true
+  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
+    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
+    publishedDateTime: 2021-08-10T12:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Get Ready for the Future of Artificial Intelligence in the War Realm"
     excerpt: "DARPA and several industry partners such as Raytheon Intelligence & Space, Northrop Grumman and BAE Systems are now fast-tracking a technological system engineered to find and transmit only images or pixels that have “changed” in order to pinpoint moments of relevance."
     publishedDateTime: 2021-08-09T23:17:00Z
@@ -93,20 +102,6 @@ related:
       name: AACSB
       domain: aacsb.edu
     quality: 19
-  - title: "New Report Identifies Eight Ways Policymakers Can Encourage Responsible Use of AI in Workforce Decision-Making"
-    excerpt: "Businesses are increasingly adopting artificial intelligence tools to support workforce decisions in areas such as hiring and retaining high-performing employees. But to successfully deploy and maximize the productivity benefits of these AI tools,"
-    publishedDateTime: 2021-08-09T13:30:00Z
-    webUrl: "https://www.investorideas.com/news/2021/technology/08092AI-Workforce.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 17
-    images:
-      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "r8jj/nTNc7PYIxWMvFvcOm7QMMWXZcwibBwxP3nnUGV7FU49tAW3dqlWnuPPR8p57spQqgL5pzFJAj5NTUVd3IqqMx3G0LFGSppT+cV7nFUJPYa3Q6dFhT4d4xHqPPSCszladJsm4eUgpW0GgkfWF5tSUK7juPFFl0wiRPoJngSJssz6FfO0zFnoEV5DOqlG1g6rYrZ+8cwCD2V9Vz2jFza1Jmb6kUxwOc3QoLcWj8TkmZ6iX5Fyf9MKjipbeVPms8vunSvKg0GQGPNAnjU2Zz+a1mEyc5bDQ20NegiUNDpZBWDf6EbDpLYapL1DUAa9z8K4mn1M3D0QFecbPDX3ODG9lcoAWIeSl5dUtnuCGchN+eNPG5v5ZClLUaBqtyncGgSgg1sLMJ3jKW6wgDWBSIB5dJkbJ0qR8RrzG29MPTHxf2w6AjwkmL79B8eB4ZsG5xZOq6eijRbpcJqwa4Kg97vLbNCjz+XkUlNz4J1rJCe59Brt1fXzPmenDfp4swemO1xULll/50nx4YM5bVkXMw==;YNnU4l6/HPRsMlncf7lrhg=="
 ---

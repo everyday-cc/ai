@@ -69,15 +69,6 @@ related:
         width: 1862
         height: 1125
         isCached: true
-  - title: "The Misunderstood Security Risks of Behavior Analytics, AI & ML"
-    excerpt: "The truth is these are powerful but often misunderstood tools that, in some cases, can actually compromise a company's data security if not implemented correctly. In many instances, \"AI\" is overused marketing jargon that doesn't accurately describe the technology in place,"
-    publishedDateTime: 2021-08-09T14:02:00Z
-    webUrl: "https://www.darkreading.com/risk/the-misunderstood-security-risks-of-behavior-analytics-ai-ml"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 51
   - title: "GE Healthcare moves imaging, clinical analytics platforms to Amazon Web Services cloud"
     excerpt: "GE Healthcare will begin moving several of its software platforms to the AWS cloud, making it easier for healthcare providers and artificial intelligence developers alike to access clinical data to improve patient care."
     publishedDateTime: 2021-08-09T15:55:00Z
@@ -91,20 +82,6 @@ related:
       - url: "https://qtxasset.com/fiercebiotech/1628522944/GettyImages-641146680.jpg/GettyImages-641146680.jpg?JASho1ajo7Xjj2iOIicJtIV0lKQQjwHx"
         width: 880
         height: 587
-        isCached: true
-  - title: "SeaChange taps AWS to power enhanced data analytics capability"
-    excerpt: "SeaChange International, Inc. (NASDAQ: SEAC), a leading provider of video delivery platforms, has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced data analytics on top of its fully migrated,"
-    publishedDateTime: 2021-08-09T14:18:00Z
-    webUrl: "https://www.lightreading.com/videomedia/seachange-taps-aws-to-power-enhanced-data-analytics-capability/d/d-id/771356"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
         isCached: true
   - title: "GE Healthcare inks cloud, data analytics collab with Amazon"
     excerpt: "GE Healthcare will move its artificial intelligence-based imaging applications and secure intelligence platform to Amazon Web Services, the companies said Aug. 9. By moving the two platforms to AWS, GE Healthcare will let hospitals and imaging centers adopt cloud and hybrid implementations."

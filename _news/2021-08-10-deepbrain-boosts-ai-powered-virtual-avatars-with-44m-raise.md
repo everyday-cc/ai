@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "AI And Machine Learning Company Dataiku Raises $400M"
+    excerpt: "Data science, AI and machine learning platform developer Dataiku raised $400 million in Series E funding, pushing its valuation to $4.6 billion."
+    publishedDateTime: 2021-08-09T21:38:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ai-and-machine-learning-company-dataiku-raises-400m"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0266-11a5e2c960af-062aac64695c-1000/146077393.jpeg"
+        width: 1300
+        height: 1300
+        isCached: true
 
 secured: "qhbaN6kq1ycPvkg/kZGi6maN0XbKVs5zXCu4rJ6UaAje1/qFDuPk15bomrIhjq1s7MHTeZI5xn7SdoBBcppE9Sy3fS9WUUDZ0ZVTW/J4tlrU39SrI8jS64lYPybn3Yojw758mW0NJUwOoUuSBU1WKiiJ1nxWYmR1mCPDllcRZbTKE3RIe7Qwyc5T50tyt4GSg5oMY50hL1r2hlfDvHjR45aJWPQjT4/UJDMbUsVYS248U6x+5JcbcLWf0xSf0/KtXMNYgUHCooeh12S8B+D2vkHpOv8+WxHKB5TD0MTChL0LhzIsw62CtGavNntFrFGG27Fih0htg0zm1O0/vl/JhqPgFld0WsPEemFRno1LMG0qD1tYGl2ky4s5I4Mdfw/0bBi0D5v8opmSyfpkkk4Ph75YEjbYDlK1rxqiArtYGH6yfvLc7Vyf0Vd9o5A7URqZy17jrmm5Grh34Exr5MK+vdFIKac2NhVTlXUr4iGaMbLKVzlJexZN+2146G6k03uwkGCvRicsCIPR0MtLsEf1Bw==;7+L1cBnFxPH+yjx4Vw60bw=="
 ---

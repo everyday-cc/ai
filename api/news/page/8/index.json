@@ -2,21 +2,21 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
-      "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
-      "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
+      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
+      "title": "Schools Look for Help From AI Teacher’s Assistants",
+      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
-          "width": 1200,
-          "height": 441,
+          "url": "https://images.wsj.net/im-381086/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,106 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T05:00:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "publishedDateTime": "2021-08-06T07:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
+      "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
+      "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "originalUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/06/hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content/amp/",
+      "publishedDateTime": "2021-08-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and-decision-management-platform.md",
+      "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
+      "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1033,109 +1126,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ai-and-data-mining-programming-languages-are-booming.md",
-      "title": "AI and data mining programming languages are \"booming\"",
-      "excerpt": "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
-      "publishedDateTime": "2021-08-05T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-riiid-to-present-artificial-intelligence-for-education-sessions-at-asugsv-2021-summit.md",
-      "title": "Riiid to present Artificial Intelligence for education sessions at ASU+GSV 2021 Summit",
-      "excerpt": "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the preeminent global education innovation conference to be held in San Diego on August 9-11.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/riiid-to-present-artificial-intelligence-for-education-sessions-at-asu-gsv-2021-summit-1030696959",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589184/Riiid.jpg",
-          "width": 400,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

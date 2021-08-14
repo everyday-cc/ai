@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-upri
 webUrl: "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

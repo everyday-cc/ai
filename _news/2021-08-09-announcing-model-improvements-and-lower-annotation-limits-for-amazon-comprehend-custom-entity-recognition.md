@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-imp
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-model-improvements-and-lower-annotation-limits-for-amazon-comprehend-custom-entity-recognition/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights"
+    excerpt: "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,"
+    publishedDateTime: 2021-08-13T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 68
+    images:
+      - url: "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon Updates Video Segment Detection Software"
     excerpt: "Amazon today announced new features for its Rekognition video segment detection API that uses machine learning to allow VOD providers to automatically detect frame accurate end credits, black frame segments,"
     publishedDateTime: 2021-08-09T15:31:00Z

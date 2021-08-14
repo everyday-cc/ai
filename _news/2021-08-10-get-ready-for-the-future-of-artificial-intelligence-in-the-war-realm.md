@@ -84,6 +84,15 @@ related:
         width: 453
         height: 640
         isCached: true
+  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
+    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
+    publishedDateTime: 2021-08-10T12:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Training Leaders in Responsible AI"
     excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
     publishedDateTime: 2021-08-10T14:10:00Z
@@ -93,20 +102,6 @@ related:
       name: AACSB
       domain: aacsb.edu
     quality: 19
-  - title: "New Report Identifies Eight Ways Policymakers Can Encourage Responsible Use of AI in Workforce Decision-Making"
-    excerpt: "Businesses are increasingly adopting artificial intelligence tools to support workforce decisions in areas such as hiring and retaining high-performing employees. But to successfully deploy and maximize the productivity benefits of these AI tools,"
-    publishedDateTime: 2021-08-09T13:30:00Z
-    webUrl: "https://www.investorideas.com/news/2021/technology/08092AI-Workforce.asp"
-    type: article
-    provider:
-      name: Investor ideas
-      domain: investorideas.com
-    quality: 17
-    images:
-      - url: "https://www.investorideas.com/images/top-sectors/news-investorideas.gif"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "lbE66ohExBx9A2v3q3EP9sHsDC71kEwT9CpxGUVkw6MJ8np135dkmFQdH0Vc+/HuzJpf5fec5Z4z555GdxjJcQiGEe8OoT9H5K5hNOulh54C4i0b2+5lk6KzcOOGBEy9Au9Eqj8mbj8Apg7dKl204fmDk7cfqsKFfKkazoTmZfImVDB/2BVH424GchRB9It4cgC/BzWd3aSfwMc+8FhwDRaKhQfjVnBSOEWeqWsJgdT3FBr/THes3ivzpl+P8Kr3bO1Lkca/qisBrEOpaQXZdVbNpdZpHsvDw5gzkYj4n+qIQUKX/WYXqsmr9UL3IXVZBxDL/NVrG5OxaSkmLn9Oj9Iw+rkA8zRmF+FlEDrRd49qpcnUl4RvugIW8exmuMci+sw/QVZHexwtWygI+qrr8bmjMwWrrCO7fUhgVWoqsnwFtSX4vYFE21PUpgCrOUlTlBZiog6Qdkl9JHNazQcDYk8ypcxwZEWxhiHcHQhPXZPVPsPP219MEkRpXoysAEJRu7yN5opn0kxM+70qiQN0Rw==;Twp31CnR1iCW1oKPuWR4Sg=="
 ---

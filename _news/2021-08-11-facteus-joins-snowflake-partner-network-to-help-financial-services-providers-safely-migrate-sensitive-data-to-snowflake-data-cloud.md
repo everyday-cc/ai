@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
-    excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,"
-    publishedDateTime: 2021-08-09T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
     excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of t"
     publishedDateTime: 2021-08-09T17:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20210809005237/en/Facteus-Joins-Snowflake-Partner-Network-Helps-Financial-Services-Organizations-Safely-Migrate-Sensitive-Data-to-the-Snowflake-Data-Cloud"

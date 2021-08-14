@@ -35,22 +35,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "In a world first, South Africa grants patent to an artificial intelligence system"
-    excerpt: "At first glance, a recently granted South African patent relating to a “food container based on fractal geometry” seems fairly mundane. The innovation in question involves interlocking food containers"
-    publishedDateTime: 2021-08-09T13:28:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/in-a-world-first-south-africa-grants-patent-to-an-artificial-intelligence-system/article35817497.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/w65rah/article35817494.ece/ALTERNATES/LANDSCAPE_615/vbk-stock-ai-artificial-intelligence-pixabay"
-        width: 615
-        height: 384
-        isCached: true
   - title: "South Africa grants world's first patent to an AI system"
     excerpt: "On closer inspection, the patent is anything but mundane. That’s because the inventor is not a human being – it is an artificial intelligence (AI) system called DABUS. DABUS ("
     publishedDateTime: 2021-08-10T09:15:00Z

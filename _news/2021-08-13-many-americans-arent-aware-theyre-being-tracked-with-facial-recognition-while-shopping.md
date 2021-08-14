@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping"
 type: article
 quality: 80
-heat: 93
+heat: 94
 published: true
 
 provider:

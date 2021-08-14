@@ -89,6 +89,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
+    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
+    publishedDateTime: 2021-08-14T07:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
+        width: 750
+        height: 350
+        isCached: true
 
 secured: "5S869mJ66jsSbodwIroomAU6rjlX+SKAAhH69gxcg/WJ0ex9NnX0bIR0UG6EnYAicl891WV6huYFkXitHRmz8tkiolgu+P7dQZBuAUOxBv/Vy4ZPnzRPmNLDQSG9eD+QdWv9b67Kvu6abXhDLcTK3JFc5O4aZ51Am+bHHWuPmldfqMPRjVbWrL6XguSudu7pux5QuLLBDEyePPm1v++1aO+jFNnTlCF4+z40EeEUUb1E1N6ZaZxYJoxSe+WWvg7DmJcHB/1rMc7pLXbgmC9/OtRr/W6azuSg5ezYjEkKuZ5pkXroMEbrbLuxc3f1ehn9XoRR0qv7FwQ9Jn2Xjfmf+3ap7ErthW1sgyTCJODCQnOcJU/cKawA0NXmj9b3YKWwIfkuuAUnp1kol/JHaqmN4Ea0jAiz/0D6mBNVM2uI9AscpJXfG8VYyUlGqD+yeVVi5P3A+kIY0oqgq5dy2MLxlzy1ZFbEWgZ1VkOmCDYK/HRcnPkNb0rpdbwEleErsf5l8+aouEG6fimPW707bUxfLg==;+id+74Bmteye0qzdH03Zhw=="
 ---

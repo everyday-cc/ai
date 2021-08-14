@@ -54,6 +54,15 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
+    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-13T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "2QocR7Dk7lUgX59lpgm48DvJJOLbofDZ/pqTUNhS3cbqRwg4S9OJKF+e97XsfCBohaPeSyKDo8iHBEwsMtPaIuITWXoiHBDyqaXgzX1MW4ueVxhh3TxiFjMLA1dyatZTK919DZXN9iB3BcwYbVVFVPbmWi3sSZF29VUIgcj5VHlijDPDtdmlFaO4gO6Hr6odkwCmVPeW/RfUj4YBOx3hRJReHnGaZN3NY3vZurF4W9vzfrAZsCsRN7LTrFLT+uz0/l3gVgUhnKWNypAbOHl1zVUhtXtSEi9STnK4U5U1D2ztvO6NGR+kqLvsFu3wqxPWdfm1HQYE1Jg4/xMryJzSyPIHtwLFD7fUewtGDe5t5J4=;q5sgEy2tyWbuZo+tzkvMqg=="
 ---

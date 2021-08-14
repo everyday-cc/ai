@@ -7,7 +7,7 @@ originalUrl: "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-b
 webUrl: "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

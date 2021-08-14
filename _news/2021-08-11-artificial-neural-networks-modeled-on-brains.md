@@ -29,8 +29,8 @@ images:
 related:
   - title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
     excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-    publishedDateTime: 2021-08-10T10:53:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+    publishedDateTime: 2021-08-10T10:15:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
     type: article
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095"
         width: 640
         height: 360
-        isCached: true
-  - title: "Artificial neural networks modeled on real brains can perform cognitive tasks"
-    excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-    publishedDateTime: 2021-08-09T15:00:00Z
-    webUrl: "https://techxplore.com/news/2021-08-artificial-neural-networks-real-brains.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-artificial-neural-networks-real-brains.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-artificial-neural-networks-real-brains.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 71
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/neuro.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI networks based on brain connectivity can perform cognitive tasks efficiently"
     excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."

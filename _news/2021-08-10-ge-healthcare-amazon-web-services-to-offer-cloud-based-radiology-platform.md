@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 725
         isCached: true
-  - title: "SeaChange enables fully-migrated cloud video delivery"
-    excerpt: "Video delivery platform technologist SeaChange International has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced d"
-    publishedDateTime: 2021-08-09T14:14:00Z
-    webUrl: "https://advanced-television.com/2021/08/09/seachange-enables-fully-migrated-cloud-video-delivery/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 4
 
 secured: "ggrYuPWvi0EYwcB308usMc95b7/SfC+fZXtGLKoXvu7aGM9j2wsssGOyBJvQOUtdN/KfgpgpBXKFH7qbWrfJDp0zv+6vcxZ/e0JEJm3Iw2IZUbPulL5UkP+FwDhP4Lk7QgCodbukTDjuySNRIhLdOyPDkMjpKQ6+AG2caHYk4v5cEOHiylqa28szSYramoeJjroRO8qMFhVGh9d0BH7BeDJUaNNrGS+T1t+1U8+clm0TKicBHqKJqzZwF4GTWhwMhoDtp0pxcP8qI69BxETMPovQXiVrb+dzWcDqhRQQHTsipKZnTwXN03mYezqwVibST7tGgD5/pI8LzZi/+VEdWq+2FiP7rDoDcHnyUYmQnptbVf5fsRE5vLgGDcLwT5WEJ6IjrZFbmVwoXAPOuq/x2FX+hEgVvkq5aPyOucC6bcFvXP67+ooIA/eLXOXL47Ff/iQYGG61ahbmoEFKBRkT2QUMWxv5n530U5zdzaAzpNwVPlNs6Y3Rav4LNLRyzY7mR5TwznPGwggrn8Z+Pd57pA==;3oqvbYHGspD6H/aZZzZ2ow=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
         width: 390
         height: 220
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
+    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
+    publishedDateTime: 2021-08-14T07:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "Global Artificial Intelligence and Advanced Machine Learning Market Future Demand with Top Key Players and Forecast 2021-2030"
     excerpt: "Absolute Markets Insights has published a statistical data to its exclusive repository titled as Artificial Intelligence and Advanced Machine Learning Market The study contains different segments and sub segments such as type applications and end users The global Artificial Intelligence"

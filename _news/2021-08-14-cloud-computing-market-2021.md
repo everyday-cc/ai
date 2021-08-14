@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-14T02:29:00Z
 originalUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
 webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
@@ -40,22 +41,6 @@ related:
       - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Artificial Intelligence in Trading Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial Intelligence in Trading Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report provides"
-    publishedDateTime: 2021-08-09T13:13:00Z
-    webUrl: "https://www.openpr.com/news/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    ampWebUrl: "https://www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350168/artificial-intelligence-in-trading-market-outlook-2021-big"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/U/8/U809313436_g.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
     excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."

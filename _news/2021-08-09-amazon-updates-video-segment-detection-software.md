@@ -41,6 +41,20 @@ related:
         width: 800
         height: 566
         isCached: true
+  - title: "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights"
+    excerpt: "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,"
+    publishedDateTime: 2021-08-13T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 68
+    images:
+      - url: "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l1EC/MvK3gZmQC5pZIKqMDEFEqojis0coksm+76Xfmk8fjhmV62nLcXbkHHet2eBh3wFJ0RVFZ3T62hWmVFDNe623kkCkgJGEnncrkvJ8brHJ7AhZgI2JZI3EWw3S+IURj4l8LpsTwcPavsp2n13BxTLO4Ubn14UGRAHccF4gk6zk41T13Jp00mDZTsP3D8mtqtcgm2OuQcmQb+lXOAtvmVnfCUsiLwXVFLv84byovL7Gs7iuTtmErfoK1zlczsNtNhfJv0CuNQx2maRVRkuF8kkO/LBed/tJxJMDhNxe00f38X9B4/me8TBR9hioQbn4J8ENEHmMP+vNW6dRTnG7i4Hq9LZp9VTJOwJuDm72UU=;tvpa9MpY49UqHHs5QCuD4Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-rep
 webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can"
-    excerpt: "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions."
-    publishedDateTime: 2021-08-09T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/09/can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can/amp/"
+  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
+    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
+    publishedDateTime: 2021-08-10T13:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ffc66fc1dceffe79c454b11%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "WINT delivers a revolutionary AI solution to detect water leaks in fire suppression systems"
-    excerpt: "W INT W ater Intelligence, a leader in cutting-edge water management and leak prevention solutions for construction, commercial and industrial applications, is announcing that their award-winning technology is now available and ready to be directly integrated into fire sprinkler systems."
-    publishedDateTime: 2021-08-12T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wint-delivers-a-revolutionary-ai-solution-to-detect-water-leaks-in-fire-suppression-systems-1030723605"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1592968/WINT_fire_suppression_systems.jpg"
-        width: 400
-        height: 267
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "WGtbP0ZvWM5mwgMTrSwKNEdJbl/a1j4y1FVDfoQuu6yHIyqTRMEVJgAxaY+VndErKACMXqLOCcOyVwxTA1kcnH+s+o1ZLFIGuo+VDnAvs+618pO4uPrlHA9pvZv2XcAQrp0AG+yqEV+Lf6TAcoA61hxlXafyv2k+n4kCgYq2gYKUw6iYo84DU2C/jxZpIOccFaoESgEt6LC4t24plj9aLJ4PN+TQgwhy3y+JflQ1yhRxjM9+DKfjRYZACJMRSHTP2UjvVSStgwJa9WbnWyt1qAwParLF+nETQLcuU/D1jdVI9OpMwjdHUfLxvnf+xMg2TvoFKIQkhwaRjM6Dpf9QneZIjrl0tNIifY1OA6XIg23L5YvaTECkv/cekhWe1mzkEsEElXe1zhOY3SJ6z1n3u48uZXtmqmHxrzcKl8ya6jycSYid8iHcAhC4tSDJMQuUFTib8hPWG0MC5seub1bbQK2u4k3JNO+urm678P7OQltg+JTgTfsZ4C2OGTuScPM/wQdEIFJrIi0SuurPwYqfoQ==;Jy75rVW8v+KMCj6NlJK6Nw=="

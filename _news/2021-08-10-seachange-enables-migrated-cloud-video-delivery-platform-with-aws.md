@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2021081061002/seachange-enables-fully-mi
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021081061002/seachange-enables-fully-migrated-cloud-video-delivery-platform-with-aws.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 34
-  - title: "SeaChange enables fully-migrated cloud video delivery"
-    excerpt: "Video delivery platform technologist SeaChange International has strengthened its longstanding collaboration with Amazon Web Services (AWS) to enable enhanced d"
-    publishedDateTime: 2021-08-09T14:14:00Z
-    webUrl: "https://advanced-television.com/2021/08/09/seachange-enables-fully-migrated-cloud-video-delivery/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 4
 
 secured: "NiJ9HhHXm9GzvmOoPTyg/MvTU9zqb28sEP09Ut7maGQTzPx8Se57WTh1U9OIkXoyt5GD2Nt+hfhCLJT71f1/P4OhRMSicDxIxN8E6ZXKcubJyFE71MpsLU0F4JbmIZCU31W7WBZelnxMFI+T9g3GdQS3n1gcpejI3fOLVLUVRHFtuHeaAglBTbHrC7Q2fFaIc+FyMUtZTx+1vF93nJtuWhSnd/GYkpXXkaYetL3cd7iM748P1OTAMf35iQ2emFuzWJp3fHggunzLmrA+aweeh/Dr01pUntfs8kp09qLpsv0dTe3/+PhbpJe5j8x2SwukjuNdzwKbdfIyE9AA5mR5BPXpgHhVSlk8H289rGRXEds=;KMlnvRfXhwDphjiiUL5i+Q=="
 ---

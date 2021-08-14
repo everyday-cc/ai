@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-h
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "GE Healthcare Brings Radiology Without Walls to Resource-Constrained Small Imaging Centers With AI-Enabled, Cloud Imaging Solution"
-    excerpt: "An acute shortage of radiologists and growing demand for imaging scans has put radiology departments under increased strain – and GE Healthcare has developed a next-generation, cloud-based Picture Archive and Communication System (PACS) designed to overcome those barriers."
-    publishedDateTime: 2021-08-09T14:25:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-a868790fcb3c41109544b5e2da6ea3d4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "aVfo8AMyVKUikTmpgFYV2+81MggPqG/mDAe4rh8058MyrWLfJxn2X/JS8DuVBNJySatZjcBlJDmRwlG55E4R78whx0F6pgcH74eSLOf1/JWvgCnB+8GD27gOO3IaCQ4wPMr49a7NEAst3ix9eMjG9jxzE9CYJqmzqz2/4dlKVm8hF72dY4cKNG66YWZku2Y7Mi5Bk5pkKCJ9TIyE4UH9HfrABwlnmtfFUU5fwCpXLzb6cyh/gdxSduAttbIp9XPRhuv/Ahc62Cy3TJ+P5kbPAf0ELiNmr+NqzCxmuud0bZPf4BtexpImkaMY0ytoQADSBZhus/GG1RhdZFivUOp3QuVFP7p7Rtg4pK9zl1d3X5BQYOmDNDG+BVO2F42VospIhoCVR3jV8OciRy0grWcVm9UR38ShunhvLXJYs7BJ14v5oKcXYOaMcKvaVJrRtoUzirjYCX9XhxeIKVLY76l3TKuV1Wzn7x6K5caBpKG4u4nUZadoCANr/duqPlHN/kCfnTC56OmyGYTFJuypUMhH9A==;YFwYUZazMpYOrLkc1/bBOA=="
 ---

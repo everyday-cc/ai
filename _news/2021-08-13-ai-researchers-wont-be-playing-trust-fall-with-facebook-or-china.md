@@ -26,19 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Senators grill Zuckerberg: Why did Facebook ban NYU researchers?"
-    excerpt: "Democratics senators have demanded answers from Zuckerberg on why Facebook banned the accounts of researchers investigating ad targetting on the platform."
-    publishedDateTime: 2021-08-09T13:27:00Z
-    webUrl: "https://thenextweb.com/news/senators-grill-zuckerberg-why-were-nyu-researchers-banned-from-facebook"
+  - title: "TikTok, YouTube and Facebook Want to Appear Trustworthy. Don't Be Fooled."
+    excerpt: "TikTok made a big announcement last year. The company would open a Transparency and Accountability Center, giving the public a rare glimpse into how it works, including its algorithm. These AI-driven systems are usually black boxes,"
+    publishedDateTime: 2021-08-10T04:45:00Z
+    webUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled"
+    ampWebUrl: "https://english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
+    cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3124226/ashley-boyd/tiktok-youtube-and-facebook-want-appear-trustworthy-dont-be-fooled?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 43
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FUntitled-design-8.jpg&signature=257e18556d6faaa19278b08386f08acd"
-        width: 1280
-        height: 640
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/08/10/ashley_boyd.jpg?itok=aa7EWLo_"
+        width: 480
+        height: 480
+        isCached: true
+  - title: "Telco and medical data breaches. Privacy, at Apple and Facebook. Faking facial recognition."
+    excerpt: "StarHub customer data leaked. Data breach at Georgia hospital. Child protection and Apple's reputation for privacy. Facebook considers ways of collecting less advertising data. Fake faces."
+    publishedDateTime: 2021-08-12T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/3/155"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 29
+    images:
+      - url: "https://thecyberwire.com/images/social-media/privacy-briefing/2021/Privacy-21-081221.jpg"
+        width: 2640
+        height: 1320
         isCached: true
 
 secured: "dAn+fWIILsD7MqcSZZMF5LBNCv2DBo/25CoTqH/I09faxIy4p4w/mJ2RniWIHpUIt3sSV4DjKtFLFQy8+SnKfmN8YT6JGyTFXjgPqZyjz4oZfxOe5HzmhtZ04/tH3JAw2aEDjAFjjFAEaCDEg3Qjv4J5EFLkE83I1ySMY8BAFgGIx4P4dI1VEaTMoqPhe12LHsXOsrnJPNRhEns1PxylxrXlgQW+B+d9KR/zED6mfO/x9X2Z5erjFID3L7n31uzYLbuHe2mDKbPg4+cJJMfklX9eqNq3TXAeEhMh47avdPpLq4bNaA23bdLfjDKWlswDlk9HnN1C3qD9T2ZpoB0ocDwbBI4wdHeDxQS3qIdGfU1nnWK9ETciMKeVjEBbG5qrbo8cOWPFGYNncwi9FahlhCnFcMijMX1T4HxebWJFTzH/Ad9P4dckvCawWXMXb/uS3l3nRXdOzgA4I8w/vFi5zpcIQA9xL0YscSbfJvHnrpAm7wx770q0aYXIfKQ4ssE44PldOpLEIbQC/H6qzgnThw==;fuYWX4+UEb22WhXhvgnSpg=="

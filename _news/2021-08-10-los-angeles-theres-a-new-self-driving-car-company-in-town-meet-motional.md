@@ -25,34 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
-    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
-    publishedDateTime: 2021-08-10T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
+  - title: "Motional selects next big market for self-driving tests"
+    excerpt: "The joint venture between Hyundai Motor Group and global supplier Aptiv says it will open an operations hub in Los Angeles and begin tests there soon. It's one part of a broader California expansion."
+    publishedDateTime: 2021-08-10T13:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/motional-selects-next-big-market-self-driving-tests"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hyundai-Ioniq-5%20JPG_i.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "RSIP Vision Announces Patient-Specific, Intraoperative Registration Module for Orthopedic Surgery"
-    excerpt: "Aug 12, 2021-- RSIP Vision, a clinically proven leader in real-world AI solutions for medical image analysis, announced today a novel 2D to 3D registration module that will improve the execution of Orthopedic surgeries,"
-    publishedDateTime: 2021-08-12T12:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-health-05b616e6cd6e4b519e8b50c5ea483eb7"
+  - title: "Hyundai's self-driving joint venture Motional opens lab in Milpitas"
+    excerpt: "The Boston-based company said that the new office will be home to a division of its compute design team and will feature a compute lab."
+    publishedDateTime: 2021-08-10T14:09:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/10/hyundais-self-driving-unit-opens-milpitas-lab.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "TiNWnRHdBX2jxpYsLgD+FTkrusqu6mC6bzqZlp7j2oDnZEqLyS/60h+zFIPDA4ho6zEakk7JWDySVJMycPzF/yGHGAz8V1kFkRP3Nd2itB1p0cnq44kV7vkLRGeb1suxdolqxLpYdEmNXhtywFLuJ7YtPAjvBDqcZkcZOsZ7svsGc4ojM1CxXftXW+vXclwkOJpvs1wLG3FcaSTpo5kJm2Gx8NJPR1nOG2QGWXx/2+TZNHWylA21Ua2PLtcdqo1hnFZyd61VuZ40vUJGgj+Dt+SWuBn4ACeD8Pau0glmZzxRiHh78xUn1tb1Cpl1zD5TsoTBk39ZsF5mdx3thb/0eev24bPk/dxs5jV5AVwxtI+oGx8q1JoZXKnxF7No5p15rqi00bNupiBeIlk2xE1SJBBLanCVpR0QMnZD8FvnPy/QlRcav0zjoaQ1ltqWrYBJ8dgxyj3CQP29gKfMOiHsV9xota9+60eU2hkDETqvzsOmRGDjjY7UoNgVeEduGf+QkoYV4bbjbS25Rpe7Fl8Q7Q==;VT6IVI8FoG77QCaa7TNhfA=="
 ---

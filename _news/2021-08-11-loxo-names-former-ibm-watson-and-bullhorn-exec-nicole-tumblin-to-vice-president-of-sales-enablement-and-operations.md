@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/loxo-name
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales/article_405a5a66-e25c-52e2-bf54-571e04335a0e.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Loxo Names Former IBM Watson and Bullhorn Exec, Nicole Tumblin to Vice President of Sales Enablement and Operations"
-    excerpt: "The #1 Talent Intelligence Platform hires recruiting and AI software veteran to accelerate ... She also held leadership positions at IBM with the Watson Analytics and Watson Analytics for Social ..."
-    publishedDateTime: 2021-08-09T13:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22399618/loxo-names-former-ibm-watson-and-bullhorn-exec-nicole-tumblin-to-vice-president-of-sales-enablemen"
-    ampWebUrl: "https://www.benzinga.com/amp/content/22399618"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22399618"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "+foK5qMn097Ajvzz2DrO/1e6IsI2PhGbNY5NqAN6xJ2Hu43Sbw41kDt/48QG7pAgxf3EAFi+58SxpqRK+igKvvJMe4VY+hU20OB3yKrkDlGK70gWa+ENY1TQnhb2KDge4bIlaowfY5CMSxfPWLn+hZ2jUkKJKQjupffwar9tqzHk3nqrlWjX03ouQCITvPNGQi+z5/1LwpGwWGPZyxT7l/9VC9rIrifm2GQBMO2XdaWGIkstkL8lBPx5irZdUVv6UmTfXnUjYknkc3fedsCoHbhwc6ClWjV0xOqWnCKPnaifLhe1jDXUR0skWKusW5Q89ARrABRFmvx0nZ3XPlsZxcegHpEfFo1vpvyaSOPsnQw=;TblSNQ5kAleWB3bRd+CY2Q=="
 ---

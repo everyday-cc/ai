@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

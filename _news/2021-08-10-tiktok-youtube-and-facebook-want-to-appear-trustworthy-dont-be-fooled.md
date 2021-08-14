@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI researchers won’t be playing ‘trust fall’ with Facebook. Or China"
+    excerpt: "There are organizations that AI researchers trust less than Facebook, according to a new paper, and they are all Chinese."
+    publishedDateTime: 2021-08-12T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Telco and medical data breaches. Privacy, at Apple and Facebook. Faking facial recognition."
     excerpt: "StarHub customer data leaked. Data breach at Georgia hospital. Child protection and Apple's reputation for privacy. Facebook considers ways of collecting less advertising data. Fake faces."
     publishedDateTime: 2021-08-12T19:30:00Z

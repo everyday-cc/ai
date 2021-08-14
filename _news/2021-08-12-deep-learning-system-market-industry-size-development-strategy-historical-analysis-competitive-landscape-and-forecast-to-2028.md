@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI (Artificial Intelligence) Chip Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027 – The Manomet Current"
-    excerpt: "Chip Market Report . The Global AI (Artificial Intelligence) Chip Market Forecast to 2028 published by Reports and Data provides a holistic overview o"
-    publishedDateTime: 2021-08-12T11:15:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-artificial-intelligence-chip-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027-the-manomet-current/"
+  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://www.lelezard.com/en/news-19948480.html"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 38
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
     images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/3-15-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
-  - title: "Graphics Processing Units (GPU) Database Market Share, Growth, Statistics, by Application, Production, Revenue & Forecast to 2028"
-    excerpt: "A new market study is released on Graphics Processing Units GPU Database Market 2021 with data Tables for historical and forecast years represented with Chats Graphs with easy to understand detailed analysis The report also sheds light on present scenario"
-    publishedDateTime: 2021-08-10T15:27:00Z
-    webUrl: "https://www.openpr.com/news/2351446/graphics-processing-units-gpu-database-market-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2351446/graphics-processing-units-gpu-database-market-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351446/graphics-processing-units-gpu-database-market-share-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
 
 secured: "lxmkAYYjLXKYba5NJgz8IWVRjOUjmClvACSenVoHjgpEEI6uGY48X3YACsI3w72zeNm538th+VWpFR/o0cBIblj6fF0ck/kred077d8qjvsUowtrnsfNXUyyKusr5ewREHg6enkwHxWX2sBytTlr0aa0++rt/SMU1svxHBRvKhJUEdWfcMgnQ/wZeDOLAc0s/cqhNxzw4OajTcjX8ngypUtqcl4o5d0P/7yeNucT63wYBvmrXWi0TtCTllvu8HpnLZsxKEQ2qTNNbMzUts4sy+0lln/qyw4rhqojm7tZCR+UErVNWdJojNgXDWBrM+9RPwlfEYjut1nqjZWXjk0+cUEw6YZEGl+6/oPErmnhhNM=;VtryispkV0TF3pGtHa4k7w=="
 ---

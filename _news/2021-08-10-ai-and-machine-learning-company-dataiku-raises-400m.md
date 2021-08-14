@@ -25,73 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Data labeling platform Snorkel AI nabs $85M"
-    excerpt: "Data labeling platform Snorkel AI has raised $85 million at a $1 billion valuation, the company announced in a press release."
-    publishedDateTime: 2021-08-09T14:15:00Z
-    webUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/"
-    ampWebUrl: "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/"
+  - title: "Deepbrain boosts AI-powered virtual avatars with $44M raise"
+    excerpt: "Deepbrain, a company developing a platform to create 'virtual humans' using AI technologies, has raised $44 million."
+    publishedDateTime: 2021-08-09T21:35:00Z
+    webUrl: "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/"
+    ampWebUrl: "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
-  - title: "Automated Data Labeler Snorkel AI Lands $85M in VC Funding"
-    excerpt: "For many enterprises using AI, one of the biggest bottlenecks continues to be the difficulty in getting all their critical data into clearly sorted and"
-    publishedDateTime: 2021-08-10T22:28:00Z
-    webUrl: "https://www.datanami.com/2021/08/10/automated-data-labeler-snorkel-ai-lands-85m-in-vc-funding/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/snorkeL_AI_logo.png"
-        width: 365
-        height: 241
-        isCached: true
-  - title: "Snorkel AI Raises $85 Million at $1 Billion Valuation for Data-Centric AI"
-    excerpt: "Snorkel AI, a data-centric AI platform company powered by programmatic data labeling, today announced $85 million in Series C funding, bringing the total funding raised to $135 million.  Snorkel AI is now valued at $1 billion,"
-    publishedDateTime: 2021-08-09T14:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-4ea821239bb03f6a609366fb92c6a168"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Snorkel AI raises $85M at $1B valuation to create AI training datasets automatically"
-    excerpt: "Stanford University spinoff Snorkel AI Inc. today announced that it has raised $85 million in funding to continue commercializing its namesake software tool, which is used by companies such as Apple Inc."
-    publishedDateTime: 2021-08-09T17:45:00Z
-    webUrl: "https://siliconangle.com/2021/08/09/snorkel-ai-raises-85m-1b-valuation-automatically-create-ai-training-datasets/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 30
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/image.png"
-        width: 789
-        height: 447
-        isCached: true
-  - title: "Stanford AI spinout Snorkel AI is Silicon Valley's newest unicorn"
-    excerpt: "Snorkel AI Inc., a Palo Alto startup that hatched out of a Stanford University lab two years ago, is now valued at $1 billion after raising its third round of funding. On Monday, the company announced $85 million in new funding,"
-    publishedDateTime: 2021-08-09T14:35:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/09/snorkel-ai-is-silicon-valleys-newest-unicorn.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "EysMp3LmM8iu3zjlHczE9bk0K9TlM6nacRmuzU+AHgoz1AYiMEQjd019ZII+kPZuhrX7TN0XlBuB9ODGThsWv4BTRf6BegwfCqjmEZ9wTDNVDfj0RWGBSJ+HuiTIdMF5NL4LlVYsuXLAoLQ7EuGU6yuttoTWd3PDKQHh9XvR6RInH8br7ind8Jzfds4MjLfO6egdrCgHcMEuU6CWZkjT4BinKCAA+ZjkLtQdSoeKzgUz2wnrLejElMUlEANKmyHAbCP6snLizCdq0n3arnpwPj+eNB5EadPZlOyKfmc/Yg5NSQqAyht4FzeyWuWiIGDv42SpdXI2JeQoVY1gGgtCF0/BTjUtTwTW46aR4qAO0UFxmOzFvsdMRftpAumo3aqFngD94VO7uDRiJ6Gw1WL1mH7cW4CmKDNLwLjjp245ZiMziMzPIr1wITwZu9Q5SdBzL0WycN4tOsqYWLwdY0vbuNrU20/vR0cOSfzA8uBlGtMOhzlsbIdQlRwlod0NcHk8nGjsHzm/lZAwtjbYnt+QXQ==;rRfPOZpeywMF9tp+sh1U2w=="
 ---

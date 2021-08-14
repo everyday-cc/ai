@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
+      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
+      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
+      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
+      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hollywoodsoapbox.com",
+        "domain": "hollywoodsoapbox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-covariant-raises-80m-to-universal-ai-for-robotic-manipulation.md",
       "title": "Covariant raises $80M to ‘universal AI’ for robotic manipulation",
       "excerpt": "Covariant raised $80 million for its \"universal AI\" for robotic manipulation. The company has now raised $147 million in just two years.",
@@ -1339,103 +1425,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-5-robotics-and-automation-stocks-to-supercharge-your-portfolio.md",
-      "title": "5 robotics and automation stocks to supercharge your portfolio",
-      "excerpt": "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "originalUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "cdnAmpWebUrl": "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "publishedDateTime": "2021-07-20T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rask Media",
-        "domain": "raskmedia.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market Trends, Share, Size, Growth, Opportunity and Forecasts by 2025",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'Global Artificial Intelligence Chip Market Analysis, 2020', available with Market Study Report LLC, worldwide artificial intelligence chip industry is expected to undergo a remunerative period,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-trends-share-size-growth-opportunity-and-forecasts-by-2025-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
         "AI in Robotics"
       ]
     }

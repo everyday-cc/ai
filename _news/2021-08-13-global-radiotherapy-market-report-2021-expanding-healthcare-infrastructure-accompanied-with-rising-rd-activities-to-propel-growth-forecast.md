@@ -23,35 +23,49 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening"
-    excerpt: "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report"
-    publishedDateTime: 2021-08-09T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350171/artificial-intelligence-in-healthcare-sector-market-outlook"
+  - title: "Global Artificial Intelligence in Construction Market growth graph to witness upward trajectory during 2021-2026"
+    excerpt: "Global Artificial Intelligence in Construction Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence in Construction Market publi"
+    publishedDateTime: 2021-08-13T07:50:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 66
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
     images:
-      - url: "https://cdn.openpr.com/U/8/U809627876_g.jpg"
-        width: 750
+      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store7.jpg.jpg"
+        width: 500
         height: 500
         isCached: true
-  - title: "AI In Computer Vision Market Research Report with Size, Share, Value, CAGR, Outlook, Analysis, Latest Updates, Data, and News 2021-2028"
-    excerpt: "The AI In Computer Vision market report provides a detailed analysis of global market size, regional and country-level"
-    publishedDateTime: 2021-08-10T02:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-with-size-share-value-cagr-outlook-analysis-latest-updates-data-and-news-2021-2028-2021-08-09"
+  - title: "Global Artificial Intelligence-based Cybersecurity Market Size 2021 to 2026 Brief Analysis by Regions, Growth Key Factors, Demand, Business Share"
+    excerpt: "Aug 11, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial"
+    publishedDateTime: 2021-08-11T08:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-size-2021-to-2026-brief-analysis-by-regions-growth-key-factors-demand-business-share-2021-08-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
+    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
+    publishedDateTime: 2021-08-11T16:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "KM3ijVO7awHhxxBmB5WqUZ8a0x9M3dYo+CloLqwsPPUHYdfMz5Fj6D1Ve3BsO0zO3priIf5rHpz8nbapGYfY4ojGMcShxqxiXqjnNd02/G3AbxJ4NEkrSSCCKbMeujuLDOlf0TdXferpzSb+Zo0AclMMw5StgUV/pQ8gEVO5FC8KAh5n8OUFyFupVZmTyWzjw+MEyAr6FSpnAZq5iIJ/GSOFFtXtJ0cVmV94E2RR/P7bMoiGoLEIlCVSFgU3XoGbdYVCi7xpqBENvpkimSX+0hKg7f9LrZhnjwaYIDaclE52Be9dkBJdlFMKSfmSoKtlYpxwu7bKBToSSdMDfmLimxOK1pPUKbHc2SqW1VwHpA0=;ihG9AMVPpgrTWJ933RntrA=="
