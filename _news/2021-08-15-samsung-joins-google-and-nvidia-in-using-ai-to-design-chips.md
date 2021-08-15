@@ -3,10 +3,10 @@ category: news
 title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
 excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
 publishedDateTime: 2021-08-15T13:19:00Z
-originalUrl: "https://au.pcmag.com/processors/88831/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
-webUrl: "https://au.pcmag.com/processors/88831/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
-quality: 69
+quality: 84
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
         height: 380
         isCached: true
 
-secured: "BXumdl9Gw5qCdt5LR7+N7lfR1ShpvmKmH+bDdiGsin5hwoFV7V8i63ABsOMCtDlNeif+qujinHi6yH2wG0N8tWCWM/KYpeBVAd5PzeKob5atLUxKeARrEiahKyjqMlx2vc782gidQOmlClzqZOeRSEIt6lr2SvpCQWA/OLZ9JAGGcTogupa6WWYwiv1igGUJ77O1kkimLqz4o+gihaNeOElEMbmNtTDx8INSyhtHPvd37KTiy6ax3SoNkxerL4m2YeltZpNHN2VDOLkGZvzLjDPCXuxtN5hvoP+3ri8Je+6toy6qjqiB0uc/cxVGYoQuMVfo+OWji0Jjc4PBrHh5S5E1xJFSGa7LT3Xqtk/9OQM=;SOGIv5kQWO45BHiG6Uwm3g=="
+secured: "dYszdBbLcPvAvgnc8zhP9B996Dbq46DzMOfdq/xNBouRClGZIK6cvB81DqiXB+it12vBO92Tn87OPbTKKyJgOkvamNgQunEfqRYx5Aej5SoE566swXTMUA/c4pqOQYudZfhTF/e0kxciKcT4+z3DatYRPjUS1pbjIX/jphcNwCxilrWTzMLmjZRyth4nLUn1dTMmxJios3k7yPM4af/GHmbkOCywJn5wrxhi89rTJAmnRH2t8bvIzSr8GnkwXQylekK5kyhEcxGfwYIe1rSY6tBZEwPkKxK+fzNgB+C7KAcObTp9FSXxpiy/n/FGQL9hH08PpHHNKQbPun3ow8t9PWdeTIPRlsyr0IaiB2nYKKA=;cvVwsFMiXCPIcwqz4mGnew=="
 ---
 

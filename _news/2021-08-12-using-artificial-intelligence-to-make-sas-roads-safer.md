@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sportoong Uses Artificial Intelligence to Find the Best Sports Equipment"
+    excerpt: "Sport Equipment TOP Pick” Sportoong is an AI tool that helps you find things to buy online. It collects data and then uses the information to analyze it,"
+    publishedDateTime: 2021-08-12T21:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22478616/sportoong-uses-artificial-intelligence-to-find-the-best-sports-equipment"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22478616"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22478616"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "FCpN74OcLW4FSHz+ThOE7yQcqJnZS+JFVXAfNaPDt6eztItQGUT9OleFDDA9DNCnfqpqLw8JqXE16nCkqw3ioLN9nNE16IAyWu59XLTteGSP/fGPRnWiEZs7ImqJKEf2xU4xZbi+xHQUFtNGVa10LsmIsi8c5EypV4ishSj6uK13n7eKwYhL0ii90CgRIqeYjy6eeUzPwYIidy5jZVp3mu8jp+reDamRpLE7kn2TTVuIHnuNhZforL5rXo6Zxna+pyTfKZfXCPOcT9P0C3t3DOSvMSot43+yWaEh5dIPYM18qp7mA6Rv/GDAATlGKNbjGUX09DvId3cQB5FMBdLcpm1hu7JbFVoT0Ez0uzUTOTI=;CSCHpkmqTtIrsPiEzQ6VNA=="
 ---

@@ -32,12 +32,12 @@ related:
   - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
     excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
     publishedDateTime: 2021-08-15T13:19:00Z
-    webUrl: "https://au.pcmag.com/processors/88831/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+    webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 84
     images:
       - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
         width: 951

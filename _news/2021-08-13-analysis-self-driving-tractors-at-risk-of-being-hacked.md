@@ -2,28 +2,28 @@
 category: news
 title: "Analysis: Self-Driving Tractors at Risk of Being Hacked"
 excerpt: "This edition of the ISMG Security Report offers an analysis of how tractors manufactured by John Deere are at risk of being hacked. Also featured: a description of"
-publishedDateTime: 2021-08-13T08:50:00Z
-originalUrl: "https://www.govinfosecurity.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
-webUrl: "https://www.govinfosecurity.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+publishedDateTime: 2021-08-13T08:35:00Z
+originalUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+webUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://6d63d49ccb7c52435540-5070aa97eaa2b8df4eb5a91600e69901.ssl.cf1.rackcdn.com/jim-reavis-largeImage-2-a-1670.jpg"
-    width: 400
-    height: 500
+  - url: "https://0267f973c7f511eda6a4-193e28812cee85d6e20ea22afb83e185.ssl.cf1.rackcdn.com/analysis-self-driving-tractors-at-risk-being-hacked-showcase_image-2-i-4947.jpg"
+    width: 860
+    height: 520
     isCached: true
 
-secured: "+tliGhd/iRJR4XiMAxwFd4r4HgnJwMnjyBAIz3wMgIsmZj2xMWx+6ctWS+C3cCK9t3ycMPSbQ9sjkxoi5k0Np2/o/mtQFip2UcvoOLA/vBY4kTQH4gxmm9r12RUn+lwBAkn020B3h97458HgMHZqqvArK8v6uiIanMhLWeO+Ss2aZkYjM5qJH5jxJlpXQtkLfhkeYRNitPh3Zz+iOuiGVz0v5qdv6FCW5R7ZrEUZAA0WxiYBWSHN7aLOJFykjOMmdjFqdtNRUa5B5du9IsroFSzIiAgWYzt3J/nWaJsjjVUTW5Qv4V2Ib9T2mTxGdoLBlVDrI02QuQ0fexKU6XJUbTeTn1jOBJ524tKZ0qBSbCjJ2wzTjSOyWDQGPwjPItCftgCfPzBt38HV7YLERkONowW2KHIC02J3QxmK4PUTfmL0m4NUzazUD4MhvLYu1Jlsf0Rguknfu1lpzXmROzzeVcg22SIrkDL7evbTZunumiuitFIzen/Bqu+2JzBGqiKTgH84RVUj+dsPP7WBFrs5Ow==;NKisCGfvsMghHDd1ZFzYRg=="
+secured: "PmHhCB9GrYV7fHjjl5ApMJdNp6KYXTHXh+KCZ4GGKzSE5zKWTwkkkK1ez9HV+yJa8mx7IY/ibmtTFJkF/OO23QlynlM/F/qtjuJKFRS4PJ4Nt2gDtqVNTeTixwIl9daIMI3GvRTa/LLiVk8TEFucWuCmJXNgIOOCJ1YrPVCx1Ek3h0tPXHEwd7MN2LvnA8uuL9Y04ohDfM20o/ewOxRDoekphXziELidWrHWOrIQWg/lXdIDu4NVRQzWdchGvjw/VgLoVfIbKiWKw3v+h8W2uSmKgRHD+egZ9dn+sopW8SADY2S0ZoMSbYnX58CHZMFZDGdTnpFGm7lGM7LLmSJ18pOBIoKJ/x34UoUNDbcMJYo=;MijErFgQX/tzVuLDWApSPw=="
 ---
 

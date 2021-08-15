@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/music-streaming-service-uses-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Sportoong Uses Artificial Intelligence to Find the Best Sports Equipment"
+    excerpt: "Sport Equipment TOP Pick” Sportoong is an AI tool that helps you find things to buy online. It collects data and then uses the information to analyze it,"
+    publishedDateTime: 2021-08-12T21:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/ab22478616/sportoong-uses-artificial-intelligence-to-find-the-best-sports-equipment"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22478616"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22478616"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 36
 
 secured: "LPu9qP+toW1iecW+fgBEfpjKzxkJqPj5EXgz1J4iNSqa4uOiR0OubW0PSkGNihBc3DLDVVSDflfUtFmFL4LcTa7wSC0w243jPNPCXhHaDvH38uubFp8/gC05NbkclzFh+CCH9Oy2BKBVtPniJ50YZDAYeemFXEGkS2YIS9BYKgBP4W3l00KOSwarQaFp1wvcw0E1b5olQJhEHPXk9F/sl+55oIDh9HN9vDU07q9eWTazP5d0GapE1/Xgzu3Shi6zGTK1yejBc/w3akHBGTZ/PwuvCRW22aD5qiCBQ/Am/xONTBjyVdNS9PoTIP7wPh1YVutymZq7oUGYrcFU5B+OukTkNL+f/tsh+JPv1ZGgOyqShMWmoR6pK7MdE4n5w3pRbl8ep8idiYqwaDzb6+O5o8kDzq654p01IUdD9csFgNIa0mTUQPSq8mzVQTC7GETFkKLcK15zHd5U12yUq3D6tyzMAiIuvDe4txHI6M+19eQQuZJTpBChoZwo6gstx48e1Wf9lf28jx7RYVxlTLQOMA==;/vjDLEBIHnyH3ihzyvTs2A=="
 ---

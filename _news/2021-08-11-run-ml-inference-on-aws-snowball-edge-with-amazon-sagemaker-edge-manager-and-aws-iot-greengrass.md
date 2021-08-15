@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE"
-    excerpt: "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This"
-    publishedDateTime: 2021-08-10T22:02:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 123
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg"
-        width: 700
-        height: 638
-        isCached: true
   - title: "Getting started with Amazon SageMaker Feature Store"
     excerpt: "In a machine learning (ML) journey, one crucial step before building any ML model is to transform your data and design features from your data so that your data can be machine-readable. This step is known as feature engineering. This can include one-hot encoding categorical variables, converting text"
     publishedDateTime: 2021-08-11T23:10:56Z

@@ -64,15 +64,6 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 19
-  - title: "Robots are coming for the lawyers – great for anyone in need of cheap legal assistance"
-    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
-    publishedDateTime: 2021-08-10T21:50:00Z
-    webUrl: "https://japantoday.com/category/tech/robots-are-coming-for-the-lawyers-–-which-may-be-bad-for-tomorrow%27s-attorneys-but-great-for-anyone-in-need-of-cheap-legal-assistance"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 11
 
 secured: "QSGbrIFTll6wayp+Kok6tqj+RBysmLZo0SPW7AzfHVb83bNw/HVRSvDo6SLOWk+S88JJBJIIRjnXkXPIN9nJVrSAfnbs/5LM2eq/vuKiUep/DRC+srWfrPPcUGAjSU7mjhsPgoYl+JYoxOr2OY70r42uPTisJX7zPJvmHupXxLJt8Yjrb5X8lGYJdTFAOQyL2z9lMtNvhluPSql8KkuqsCJ43Zd6Osq7rPW9hG0hnayyWkQTd3U5YO0eihRYLQDLOhqe1IQs+skThKmxEAryXx/owrMbN6CWpV8MVe/HrA9x1hULtxNpumIzZxFcWvEpZaKNVi+SApeb/CfeujTMA+Y2w1qVtZiiENEl0c8O8sM=;+1e77rXIOJpWo3cZ3QGCOA=="
 ---

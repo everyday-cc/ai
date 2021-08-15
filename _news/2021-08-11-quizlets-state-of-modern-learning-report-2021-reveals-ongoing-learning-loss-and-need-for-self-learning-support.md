@@ -35,20 +35,6 @@ related:
         width: 800
         height: 385
         isCached: true
-  - title: "Artificial Intelligence As A Service Market Trends, Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
-    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Artificial Intelligence As A Service Market size. The research report serves as a comprehensive guide for new entrants to the Artificial Intelligence As A Service market size."
-    publishedDateTime: 2021-08-12T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-trends-industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2021-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
     excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
     publishedDateTime: 2021-08-11T16:15:00Z
@@ -74,20 +60,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 23
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "CVlkx+j5Ee1b5byk7CQJ/wCsKrKsYmpoetYUIUp6StO6kxLeQoN/lVnJpw+RqMsG3H+TZRd+2tCCM28BRKSrcfUBb+WAlcW5wbrFbYeEkU738QfZwjS/7dO2pr2LdS9NVTlalIoAhEU5MVbcqERp0KWeA+XCUFTnve0EYBbK/466PIl2iA8eWi8coFpu9KpPrhzV6BKFrUhs+aVgkBJ3qjMF/VX/x1yZVnCmNsGMNE+VdfGvncIl8WbnCgp9KBn2K2dnxYxb0jQFdoZ5cvsIHRV6uXrBEzeaNtqdguochVt0uFomgkv0Y0boiU8RK5kR1kBKSd8tSpn3kVtWOLNtSC04SnbbiB+0lfA89MfEnuA=;6K8Oucmgw9Pj5EcAqtD93A=="
 ---

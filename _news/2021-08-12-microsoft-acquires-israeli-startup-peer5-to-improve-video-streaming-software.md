@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft is using ML to help you catch ransomware infections early"
-    excerpt: "The tool, dubbed Fusion Detection for Ransomware, is the result of collaboration between Azure and the Microsoft Threat Intelligence Center ( MSTIC ), and employs machine learning ( ML) to detect actions typically associated with ransomware activities and alert security teams in time to take remedial action."
-    publishedDateTime: 2021-08-10T22:12:00Z
-    webUrl: "https://www.techradar.com/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
-    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-is-using-ml-to-help-you-catch-ransomware-infections-early"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 106
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/pJjsnhgKdD782c5SBEneTW-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z

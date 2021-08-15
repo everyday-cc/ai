@@ -7,8 +7,8 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-in-finance-mark
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Digital Journal
@@ -41,22 +41,6 @@ related:
       - url: "https://cdn.openpr.com/U/8/U812519817_g.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "FinTech in Insurance Market Rewriting Long Term Growth Story : Oko Finance, Singlife, Oscar Health"
-    excerpt: "Latest survey on Global FinTech in Insurance Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of FinTech in Insurance The study is a mix of quantitative market stats and qualitative analytical information to uncover"
-    publishedDateTime: 2021-08-10T22:24:00Z
-    webUrl: "https://www.openpr.com/news/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    ampWebUrl: "https://www.openpr.com/amp/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U811854598_g.jpg"
-        width: 450
-        height: 300
         isCached: true
 
 secured: "XyDUdqu3MEMuTxa3DWAjtINX1+Di6SeqKXRebLjWNF25kLvU2NKgh1Tg1RhVp/XK0Xcp3aNXKAgFW6BdHS5fTVhWFMGPWaIpButvQ9++wq0MMKNIQNTxPAcPARjWxDjBqxanr2wwkwFhzAe9NWnmAvCsOSQdgbwA4MHfgWgSqt9wYCFqBm8Wje2vuCYdup/y/MlSfs6WfCPQ1hWQpVeHpOacr69Qm4rBkUeoPATTe/KoNoyjW6GTeShwNfMKV/sjbH82Pvev8jFberb6Z1s4KLfZ6b8KJztNkj3Anp7YsALJs8dqw6HbGI3WhoDkZmZK5atv1lJ7nw4yTPJuVqqGP3O9gE7s+YOWoNmVsqUmAa4=;sfwIUGpb4tSW0Ck755d1Og=="

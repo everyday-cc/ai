@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Congestion-Free Roads Might Be A Self-Driving Car Pipe Dream"
-    excerpt: "Could self-driving cars make a difference and potentially ease or even eliminate such congestion? There are various pundits that keep touting the aspect that there will never be congested traffic after the advent of self-driving cars."
-    publishedDateTime: 2021-08-11T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/11/congestion-free-roads-might-be-a-self-driving-car-pipe-dream/amp/"
+  - title: "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us"
+    excerpt: "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ..."
+    publishedDateTime: 2021-08-15T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 82
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1053993990%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "SHfWzIcMpzBYFnDICOzugYXNIPMqVPaSIM4FMsx5JhB6crHenik38rAC4I5HBtp29wkHvCYhYIAXy69OAZ+K3Fi4My8iqhcoVKO0imrqeg4m76xjoNsQG1mE3cLhpxCeMC/OkUeWb39JDtsRsEELe6fjbcdHbpxFtEHntUcbbwlfLySUT6Ais0GgO5c1EsGmMp+/mDbzItMVCXGIslucx1E62/dam0JsxTz+juurp2PUdp7mavZMukDp9a7ol0i9JoC0p2byscpy1Sq0TwM7qnJW6/qwMVP5Yu9eC5m72Q75ffOBoMqDJjngQRpUpFuLSm6gjg/P2YOLY72DOf6cWZHh1c5eTCZBcmOEZyntIZs=;GJAwJWVlsdmbxz2wkz3v2Q=="

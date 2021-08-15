@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "FinTech in Insurance Market Rewriting Long Term Growth Story : Oko Finance, Singlife, Oscar Health"
-    excerpt: "Latest survey on Global FinTech in Insurance Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of FinTech in Insurance The study is a mix of quantitative market stats and qualitative analytical information to uncover"
-    publishedDateTime: 2021-08-10T22:24:00Z
-    webUrl: "https://www.openpr.com/news/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    ampWebUrl: "https://www.openpr.com/amp/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351684/fintech-in-insurance-market-rewriting-long-term-growth-story"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/8/U811854598_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "8kV78gPzEwD8VFL+Zz7Qn5XRAjfdVgqQ+x8JH8EC6aGjsOATqO0EXNVMAx4TvyS+VchDpjJOvkW8txchBxc5RcfKlmfIIVSYqqp6CguPZGJsWNQf+V/d6ANyhaMs6amQgwWDxDdbim+ikhVWXNkNg2R4MkIZZo5NHNrzJFCHc9tonPFUosrJ3CmXRkZvYJgsCWvxV33RYsWpKltdSOANXk1PyByRTxs1JzUApQKatMieOoGaFR+guOx1m8vilLueabU0/Qxm1Duc1Yt2kq5NpGgBV6FVyaIgqafKbUYf7KtqtRbKVONsWfnOHK3om7i9wf6JzEaEgGgkOf4JqMduF+7PJHVpLJygiZmoLeSQqOfRmJHxqJWRnnQj0FX90jyIdI6ecT2uIBjYkzjGfTwQuI1XMkkY5tUJJ+BmNMFw1AtPuukDmbKfnL2KpYyN5neJZ94rcJV5CraQqUgj/MzldlrfukcrlquoN1YTo4YzkrHMLx3jxEz88F0+ei7NrB8DJ+bwP3vlkzZBfSWL1EYAUw==;srTrEgv2XtKApLeVL1NqgA=="
 ---

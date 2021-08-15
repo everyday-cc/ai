@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run your TensorFlow job on Amazon SageMaker with a PyCharm IDE"
-    excerpt: "As more machine learning (ML) workloads go into production, many organizations must bring ML workloads to market quickly and increase productivity in the ML model development lifecycle. However, the ML model development lifecycle is significantly different from an application development lifecycle. This"
-    publishedDateTime: 2021-08-10T22:02:38Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-your-tensorflow-job-on-amazon-sagemaker-with-a-pycharm-ide/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 123
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/16/ML1585-image003-1.jpg"
-        width: 700
-        height: 638
-        isCached: true
   - title: "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass"
     excerpt: "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected"
     publishedDateTime: 2021-08-11T21:28:13Z
