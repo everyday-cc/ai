@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
-      "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
+      "path": "_news/2021-08-15-samsung-joins-google-and-nvidia-in-using-ai-to-design-chips.md",
+      "title": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
+      "excerpt": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "webUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
+      "originalUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180",
+          "width": 951,
+          "height": 961,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T03:44:00-07:00",
+      "publishedDateTime": "2021-08-15T06:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -155,6 +156,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu.md",
+      "title": "NVIDIA RTX A2000: the most compact and power-efficient GPU",
+      "excerpt": "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/",
+      "originalUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/",
+      "publishedDateTime": "2021-08-12T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1376,50 +1420,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
-      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
-      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "publishedDateTime": "2021-08-02T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

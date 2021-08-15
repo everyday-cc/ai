@@ -2,6 +2,109 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2021-06-16-facebook-develops-new-method-to-reverse-engineer-deepfakes-and-track-their-source.md",
+      "title": "Facebook develops new method to reverse-engineer deepfakes and track their source",
+      "excerpt": "Deepfakes aren’t a big problem on Facebook right now, but the company continues to fund research into the technology to guard against future threats. Its latest work is a collaboration with academics from Michigan State University (MSU),",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/facebook-develops-new-method-to-reverse-engineer-deepfakes-and-track-their-source/ar-AAL7bW2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/N7C2kk-WYF6bem6_FB4F4SF9CTM=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69461364/acastro_210512_1777_deepfake_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters",
+      "publishedDateTime": "2021-06-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters",
+        "domain": "theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-16-automate-amazon-sagemaker-studio-setup-using-aws-cdk.md",
+      "title": "Automate Amazon SageMaker Studio setup using AWS CDK",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). Studio provides a single web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. You can quickly upload",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-studio-setup-using-aws-cdk/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-amazon-sagemaker-studio-setup-using-aws-cdk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T08:06:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-facebooks-ai-moderator-will-tell-group-admins-when-users-are-beefing-in-the-comments.md",
       "title": "Facebook’s AI moderator will tell group admins when users are beefing in the comments",
       "excerpt": "Facebook is launching a suite of new tools to help group admins get a grip on their communities. Some simply offer a clearer overview of posts and members, while others are designed to help admins tackle conflict — including an AI-powered feature that Facebook says can identify “contentious or unhealthy conversations” taking place in the comments.",
@@ -1067,101 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out.md",
-      "title": "Trigo bags $10M for its computer-vision based checkout tech to rival Amazon’s ‘Just Walk Out’",
-      "excerpt": "While Amazon continues to expand its self-service, computer-vision-based grocery checkout technology by bringing it to bigger stores, an AI startup out of Israel that’s built something to rival it has picked up funding and a new strategic investor as a customer.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Caption_-REWEs-cashierless-checkout-store-in-downtown-Cologne-Germany.-Credit_-REWE.jpeg?w=1024",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/16/trigo-bags-10m-for-its-computer-vision-based-checkout-tech-to-rival-amazons-just-walk-out/amp/",
-      "publishedDateTime": "2021-06-16T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-louis-vuitton-owner-embraces-googles-ai-to-boost-sales.md",
-      "title": "Louis Vuitton Owner Embraces Google’s AI to Boost Sales",
-      "excerpt": "Google won a deal to tap its artificial intelligence to help the French owner of Louis Vuitton and Christian Dior provide wealthy customers with a personalized experience when they shop online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/louis-vuitton-owner-embraces-google-e2-80-99s-ai-to-boost-sales/ar-AAL64yD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iI0ZWEjeIVhg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T00:25:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "domain": "bloomberg.com/news/articles/2021-06-16/google-wins-lvmh-cloud-deal-amid-luxury-shopping-boom",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-07-05-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem.md",
+      "title": "Elon Musk just now realizing that self-driving cars are a ‘hard problem’",
+      "excerpt": "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "originalUrl": "https://www.theverge.com/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/4C055ZgWGIB5m8h8BXwn3LYWgSs=/0x0:4000x2840/1400x933/filters:focal(1680x1100:2320x1740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69542575/1229901940.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/7/5/22563751/tesla-elon-musk-full-self-driving-admission-autopilot-crash",
+      "publishedDateTime": "2021-07-05T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-teslas-ai-chief-self-driving-cars-dont-need-lidar.md",
       "title": "Tesla’s AI chief: Self-driving cars don’t need LiDAR",
       "excerpt": "Tesla has been a vocal champion for the pure vision-based approach to autonomous driving, its chief AI scientist Andrej Karpathy explained why.",
@@ -1342,58 +1394,6 @@
         "name": "deseret",
         "domain": "deseret.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln.md",
-      "title": "Self-driving startup WeRide deepens ties with Nissan, raises $310 mln",
-      "excerpt": "WeRide, a China-based autonomous driving startup, said on Wednesday that it would deepen development with Nissan Motor (7201.T) on autonomous driving technology for the China market as it raised $310 million at a $3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "originalUrl": "https://www.reuters.com/world/china/self-driving-startup-weride-deepens-ties-with-nissan-raises-310-mln-2021-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/PQEZhlnyJcMI6mHQvEbGTKewuZo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QAA7N6S7OFLDNPSGWINOQW3PWY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-22T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

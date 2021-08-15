@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
+      "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
+      "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
+      "originalUrl": "https://cacm.acm.org/news/254014-cerebras-new-monster-ai-chip-adds-14-trillion-transistors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-china-grants-tax-breaks-policy-leeway-to-turn-shanghai-into-powerhouse-for-ai-chips-planes-and-pharmaceuticals.md",
       "title": "China grants tax breaks, policy leeway to turn Shanghai into powerhouse for AI, chips, planes and pharmaceuticals",
       "excerpt": "China’s central government has offered tax incentives, greater autonomy in local legislation and more administrative power to liberalise the capital markets in Shanghai, as Beijing envisions building Pudong into a ‘brilliant pearl’ of a strong socialist country.",
@@ -1340,58 +1374,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
-      "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
-      "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F632495%2Fqrd_image_sd888_ai_small.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/02/3-reasons-qualcomms-new-snapdragon-chip-didnt-impr/",
-      "publishedDateTime": "2021-07-02T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-08-social-factors-in-machine-learning-models-aid-cvd-prediction.md",
+      "title": "Social Factors in Machine Learning Models Aid CVD Prediction",
+      "excerpt": "Machine learning approaches are useful for cardiovascular disease prediction, and model performance is improved with inclusion of social determinants of health, according to a review published online July 27 in the American Journal of Preventive Medicine .",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
+      "originalUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/social-factors-in-machine-learning-models-aid-cvd-prediction/amp/",
+      "publishedDateTime": "2021-08-08T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
       "title": "Is robot therapy the future?",
       "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
@@ -1132,48 +1175,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-artificial-intelligence-aids-in-discovery-of-new-prognostic-biomarkers-for-breast-cancer.md",
-      "title": "Artificial Intelligence aids in discovery of new prognostic biomarkers for breast cancer",
-      "excerpt": "Scientists at Case Western Reserve University have used Artificial Intelligence (AI) to identify new biomarkers for breast cancer that can predict whether the cancer will return after treatment—and which can be identified from routinely acquired tissue biopsy samples of early-stage breast cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-25.jpg",
-          "width": 371,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-artificial-intelligence-aids-discovery-prognostic.amp",
-      "publishedDateTime": "2021-08-06T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

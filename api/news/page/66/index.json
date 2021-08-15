@@ -2,6 +2,104 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-06-26-lambdatest-creates-app-for-better-communication-among-employees-for-microsoft-teams.md",
+      "title": "LambdaTest creates app for better communication among employees for Microsoft Teams",
+      "excerpt": "As remote working continues around the world, browser-testing platform LambdaTest is launching a Microsoft Teams app that will allow anyone using Teams to, in-conversation, run live tests to see what their company website looks like across 2,000+ desktop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=147697",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-reduce-computer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker.md",
+      "title": "Reduce computer vision inference latency using gRPC with TensorFlow serving on Amazon SageMaker",
+      "excerpt": "AWS customers are increasingly using computer vision (CV) models for improved efficiency and an enhanced user experience. For example, a live broadcast of sports can be processed in real time to detect specific events automatically and provide additional insights to viewers at low latency. Inventory",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-compuer-vision-inference-latency-using-grpc-with-tensorflow-serving-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/06/15/1-3850.jpg",
+          "width": 800,
+          "height": 303,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T10:37:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-webinar-recording-now-online-how-to-employ-automated-machine-learning-to-predict-the-best-quality-potato-chipcrisp.md",
       "title": "Webinar recording now online: ‘How to employ Automated Machine Learning to Predict the Best Quality Potato Chip/Crisp’",
       "excerpt": "This webinar ran successfully on June 24th. JADBio’s Automated Machine Learning (AutoML) platform was applied to predict potatoes’ susceptibility to bruising and also its potential for coloration",
@@ -1098,92 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-artificial-intelligence-and-how-it-affects-every-day-operations.md",
-      "title": "Artificial intelligence and how it affects every day operations",
-      "excerpt": "With rapid development of innovative technological solutions, Artificial intelligence (AI ... AI companies are enabling autonomous self-driving cars. These vehicles are equipped with sensors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340",
-      "originalUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessdailyafrica.com/resource/blob/3449350/51a115437caf1e7d933bf9228b325d96/ai-data.jpg",
-          "width": 890,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340?view=htmlamp",
-      "cdnAmpWebUrl": "https://www-businessdailyafrica-com.cdn.ampproject.org/c/s/www.businessdailyafrica.com/bd/opinion-analysis/ideas-debate/artificial-intelligence-and-how-it-affects-every-day-operations-3449340?view=htmlamp",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Daily Africa",
-        "domain": "businessdailyafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
-      "title": "Artificial intelligence positioned to be a game-changer",
-      "excerpt": "The search to improve and eventually perfect artificial intelligence is driving the ... So we found that we were deciding on therapy based on information that was always, in some cases, 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "originalUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/07/4c200094-7e27-4334-8024-4d671b1d0625/thumbnail/1200x630/920095fe5576a423e4eb2cfdd3e5124e/ai-main.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
-      "publishedDateTime": "2021-06-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

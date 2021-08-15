@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-04-artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm.md",
+      "title": "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm",
+      "excerpt": "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-intel-expands-college-ai-training-programme-to-11-us-states.md",
       "title": "Intel expands college AI training programme to 11 US states",
       "excerpt": "Intel is working with Dell to expand its AI for Workforce Program to 18 additional institutions across 11 US states to help educate the next generation of US technologists, engineers, and inventors. The programme,",
@@ -1100,48 +1143,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-data-science-is-a-lot-of-drudgery-and-thats-good.md",
-      "title": "Data science is a lot of drudgery, and that’s good",
-      "excerpt": "According to Anaconda’s 2021 State of Data Science survey, survey respondents said they spend “39 per cent of their time on data prep and data cleansing, which is more than the time spent on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.anaconda.com/state-of-data-science-2021",
-      "originalUrl": "https://www.arnnet.com.au/article/690220/data-science-lot-drudgery-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-cdn.anaconda.com/assets/_1200x630_crop_center-center_82_none/sods-preview.png?mtime=20210713171821&focal=none&tmtime=20210713171837",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

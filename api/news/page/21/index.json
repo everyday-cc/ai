@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-07-28-our-quantum-processor-at-the-deutsches-museum.md",
+      "title": "Our quantum processor at the Deutsches Museum",
+      "excerpt": "In 2019, our Quantum AI team achieved a beyond-classical computation by outperforming the world’s fastest classical computer. Today, a quantum processor from the Sycamore generation that accomplished this important computing milestone will be donated to the Deutsches Museum of Masterpieces of Science",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "originalUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20210726-150-_Safe_Agency-Max_Hofstetter.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-quantum-processor-deutsches-museum/amp/",
+      "publishedDateTime": "2021-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-with-computer-vision-bzigo-creates-iron-dome-against-mosquitos.md",
       "title": "With computer vision, Bzigo creates ‘Iron Dome’ against mosquitos",
       "excerpt": "Israeli startup's tech doesn't kill the pests, just pinpoints them with laser light and alerts your smartphone",
@@ -351,6 +403,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-28-microsoft-results-show-demand-for-automation-and-ai.md",
+      "title": "Microsoft results show demand for automation and AI",
+      "excerpt": "Microsoft’s Dynamics business has benefited from enterprises automating business processes and the connectivity with Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI",
+      "originalUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/machine_learning_g1307219089.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI?amp=1",
+      "publishedDateTime": "2021-07-27T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1038,100 +1133,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
-      "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
-      "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273-2021-07-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
-      "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
-      "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "originalUrl": "https://www.hollywoodsoapbox.com/interview-robotics-and-ai-inspire-new-orchestral-piece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodsoapbox.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-27-at-12.56.20-PM-e1627405060734.png",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hollywoodsoapbox.com",
-        "domain": "hollywoodsoapbox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

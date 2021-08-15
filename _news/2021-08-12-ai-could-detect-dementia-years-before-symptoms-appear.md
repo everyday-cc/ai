@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use AI for treatment aimed at preventing dementia"
-    excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
-    publishedDateTime: 2021-08-11T05:00:00Z
-    webUrl: "https://fortmyers.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
-    type: article
-    provider:
-      name: Florida Weekly
-      domain: floridaweekly.com
-    quality: 39
-    images:
-      - url: "https://fortmyers.floridaweekly.com/wp-content/uploads/images/2021-08-11/14p1.jpg"
-        width: 693
-        height: 791
-        isCached: true
   - title: "Researchers use AI for treatment aimed at preventing dementia"
     excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
     publishedDateTime: 2021-08-12T05:03:00Z

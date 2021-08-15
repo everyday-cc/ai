@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
+      "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
+      "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610845450dc506a914f2391c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D750%26cropY1%3D166%26cropY2%3D666",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/02/navigating-religion-faith-and-creativity-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2021-08-02T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-wavicle-data-solutions-establishes-dedicated-aws-solutions-practice.md",
       "title": "Wavicle Data Solutions Establishes Dedicated AWS Solutions Practice",
       "excerpt": "video and image solutions using Amazon Rekognition, and audio solutions using Amazon Transcribe. PII Compliance: In order to maintain the privacy of customer data, the Wavicle team provides Personally Identifiable Information (PII) analysis and redaction ...",
@@ -1104,49 +1156,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
-      "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
-      "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "originalUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "publishedDateTime": "2021-08-02T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

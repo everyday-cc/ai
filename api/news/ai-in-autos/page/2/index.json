@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-30-beijing-permits-self-driving-vehicle-testing-on-expressways.md",
+      "title": "Beijing permits self-driving vehicle testing on expressways",
+      "excerpt": "Driverless cars will soon take to expressways for testing in the Chinese capital Beijing, as the municipal authority has approved the gradual",
+      "sourceUrl": null,
+      "webUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
+      "originalUrl": "https://www.macaubusiness.com/beijing-permits-self-driving-vehicle-testing-on-expressways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://macaubusiness.s3.ap-southeast-1.amazonaws.com/2021/07/ArtMacao_MGMLionParty_MacauBusiness_Still-pop-up-banner_800x480.jpg",
+          "width": 800,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-30T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macau Business",
+        "domain": "macaubusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
       "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
       "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
@@ -1298,58 +1341,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-ford-teams-with-lyft-argo-ai-for-self-driving-ride-shares-this-year.md",
-      "title": "Ford Teams With Lyft, Argo AI For Self-Driving Ride-Shares This Year",
-      "excerpt": "Ford Escape ride-share vehicles will launch this year in Miami. These self-drivers will still have \"safety drivers\" behind the wheel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
-      "originalUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/07/Ford-Lyft-Argo-self-drive-1200px.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/ford-lyft-autonomous-vehicle-fleet/?amp",
-      "publishedDateTime": "2021-07-21T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

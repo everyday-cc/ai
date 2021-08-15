@@ -1114,6 +1114,49 @@
       ]
     },
     {
+      "path": "_news/2021-07-28-microsoft-results-show-demand-for-automation-and-ai.md",
+      "title": "Microsoft results show demand for automation and AI",
+      "excerpt": "Microsoft’s Dynamics business has benefited from enterprises automating business processes and the connectivity with Teams.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI",
+      "originalUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/rms/onlineimages/machine_learning_g1307219089.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252504557/Microsoft-results-show-demand-for-automation-and-AI?amp=1",
+      "publishedDateTime": "2021-07-27T21:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-global-cognitive-spending-systems-market-2021-comprehensive-analysis-business-growing-strategies-industry-segmentation-and-forecast-2026.md",
       "title": "Global Cognitive Spending Systems Market 2021 Comprehensive Analysis, Business Growing Strategies, Industry Segmentation and Forecast 2026",
       "excerpt": "Global Cognitive Spending Systems Market 2021 by Company, Regions, Type and Application, Forecast to 2026 has articulated comprehensive, well-verified, and minutely analyzed research postulates ...",
@@ -1308,58 +1351,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-device42-launches-ai-recommendation-engine-for-cloud-usage.md",
-      "title": "Device42 launches AI recommendation engine for cloud usage",
-      "excerpt": "Device42, a cloud management and discoverability platform, launched an AI-powered engine that can cut cloud resource usage and costs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/",
-      "originalUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/26/device42-launches-ai-recommendation-engine-for-cloud-usage/amp/",
-      "publishedDateTime": "2021-07-26T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

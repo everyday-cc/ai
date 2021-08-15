@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-13-its-not-too-late-to-stop-the-killer-robot-uprising.md",
+      "title": "It’s not too late to stop the killer robot uprising",
+      "excerpt": "Around 50 countries are meeting at the UN offices in Geneva this week in an latest attempt to create a treaty preventing the proliferation of killer devices",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
+      "originalUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FRobots1.jpg&signature=a81ea837aee499aa6ecd3018e5629de8",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
       "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
       "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
@@ -414,7 +466,7 @@
       "originalUrl": "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -673,48 +725,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-12-ai-could-detect-dementia-years-before-symptoms-appear.md",
-      "title": "AI could detect dementia years before symptoms appear",
-      "excerpt": "Dementias are characterized by the build-up of different types of protein in the brain, which damages brain tissue and leads to cognitive decline. In the case of Alzheimer's disease, these proteins include beta-amyloid,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-could-detect-dement.jpg",
-          "width": 1086,
-          "height": 1314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-08-ai-dementia-years-symptoms.amp",
-      "publishedDateTime": "2021-08-12T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion.md",
       "title": "Il Makiage acquires technology company Voyage81 to bolster its brand expansion",
       "excerpt": "Il Makiage announced it will acquire AI-based computational imaging company Voyage81 to build the brand's technological capabilities.",
@@ -858,6 +868,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-08-12-nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu.md",
+      "title": "NVIDIA RTX A2000: the most compact and power-efficient GPU",
+      "excerpt": "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/",
+      "originalUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg",
+          "width": 1420,
+          "height": 946,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/",
+      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/",
+      "publishedDateTime": "2021-08-12T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "provideocoalition.com",
+        "domain": "provideocoalition.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1151,49 +1204,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-sap-india-microsoft-and-aicte-to-skill-62000-women-students-in-artificial-intelligence-cloud-computing-and-other-technologies.md",
-      "title": "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies",
-      "excerpt": "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/",
-      "originalUrl": "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/",
-      "publishedDateTime": "2021-08-12T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

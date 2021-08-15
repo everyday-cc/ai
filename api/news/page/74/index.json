@@ -2,6 +2,84 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-06-21-eu-data-protection-agencies-want-ban-on-ai-facial-recognition.md",
+      "title": "EU data protection agencies want ban on AI facial recognition",
+      "excerpt": "European Union's data protection agencies called for a  ban on use of artificial intelligence (AI) to identify people in public places. The agencies pointed to the \"extremely high risk to privacy. The two bodies called for a \"general ban\"  on the practice that would include \"recognition of faces,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "originalUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 306,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2018/09/12/30564-untitled%25252520design%25252520%25252833%252529-20171013033238.jpg",
+          "width": 918,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "cdnAmpWebUrl": "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/world/eu-data-protection-agencies-want-ban-on-ai-facial-recognition-393006/amp",
+      "publishedDateTime": "2021-06-21T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WION",
+        "domain": "wionews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-06-21-the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade.md",
+      "title": "The Healthcare Artificial Intelligence Market to grow at an invigorating pace in the next decade",
+      "excerpt": "The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Healthcare Artificial Intelligence market, as it emerges from COVID-19 shut down.",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/06/21/the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade/",
+      "originalUrl": "https://ksusentinel.com/2021/06/21/the-healthcare-artificial-intelligence-market-to-grow-at-an-invigorating-pace-in-the-next-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-21T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-sighthound-acquires-boulder-ai-to-move-computer-vision-to-the-edge-for-real-time-video-intelligence.md",
       "title": "Sighthound Acquires Boulder AI to Move Computer Vision to the Edge for Real-time Video Intelligence",
       "excerpt": "Sighthound to provide the first Programmable Video Management System (VMS) powered by AI to push the industry towards flexible, cost-effective solutions that give customers actionable",
@@ -1099,100 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-penn-libraries-offers-students-faculty-staff-free-access-to-the-new-york-times.md",
-      "title": "Penn Libraries offers students, faculty, staff free access to The New York Times",
-      "excerpt": "Weinsteiger said the University decided to give Penn students and staff access to The New York Times because of its reputation as one of the most widely read newspapers in the ... The Wall Street Journal, and The Financial Times. “I really appreciate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "originalUrl": "https://www.thedp.com/article/2021/06/penn-libraries-new-york-times-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F41a95456-92eb-4983-8e03-0b921ddbdc4f.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/bed7cba1-db7a-49c7-9d57-06fd19e14e10",
-      "publishedDateTime": "2021-06-20T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Pennsylvanian",
-        "domain": "thedp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-21-evolution-rewards-and-artificial-intelligence.md",
-      "title": "Evolution, rewards, and artificial intelligence",
-      "excerpt": "Last week, I wrote an analysis of Reward Is Enough, a paper by scientists at DeepMind. As the title suggests, the researchers hypothesize that the right reward is all you need to create the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/h-heyerlein-ndja2LJ4IcM-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/20/evolution-rewards-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-20T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

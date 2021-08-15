@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory"
-    excerpt: "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows."
-    publishedDateTime: 2021-08-11T04:00:00Z
-    webUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/"
-    ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 59
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA RTX A2000: the most compact and power-efficient GPU"
     excerpt: "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October."
     publishedDateTime: 2021-08-12T13:26:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
         width: 1344
         height: 742
-        isCached: true
-  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
-    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
-    publishedDateTime: 2021-08-11T09:47:00Z
-    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
-        width: 696
-        height: 370
         isCached: true
 
 secured: "eF8Gbr5iKaDKt3+6L7TTiYuTtgDDSvqmoVBTg3fI3pcPW/KjxWaU3R0YmVtWlPAeM6731i/fK9zDujh/EhEcL9KkEbGLjro2Hlads1epqQSm9WA+MGQuEUb4gi84lqlTC0z0BfFlsWo1blq1q6HdduQKmGPYMflNvob82ndhuJ0MaKmTPXpgV7gzmreVTiveidTPokhbEbdbj/3O7E0wGiv/SenV48q7Bm3t+yN5qAvpeGmSZekJEcdgYUNwb/zgSnhC0FLGcZon0LP1OdIyRsSAuhsf8QtFmIPYKY5On9AgG6zXW1QEKSb0B8mXuuAq4181nD+jj0c5wv+PTdJtHTdeZxNsJYqPHAOukWN25wYzXzu0UWDXY3DIuVt0v+bwqcW1p+zXXqY8X015QaIC8/+XfUIvwkqkdWuLnB/E+sGahWAM/hkRfL6pO3yGhPCici5Rnq6amFx/mVOvRNKk95+ACr7ep1YEB4MZUWxI9cj4j4KeTtK7CamC3gefbzc+NinFl8tcBlOeJiydEvsCqw==;i1CWrlG/k4kbKchWx4BIZQ=="

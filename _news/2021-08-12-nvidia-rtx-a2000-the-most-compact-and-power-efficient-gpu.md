@@ -9,8 +9,8 @@ ampWebUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: provideocoalition.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Launches New RTX A2000 GPU With 6GB GDDR6 ECC Memory"
-    excerpt: "NVIDIA officially launched the RTX A2000, a compact GPU designed for professionals, designed to fit into small form factor desktop PCs. Built upon the GPU brand’s current Ampere architecture, the card was built to handle a wide variety of professional tasks by accelerating AI and ray-tracing in workflows."
-    publishedDateTime: 2021-08-11T04:00:00Z
-    webUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/"
-    ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 59
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
     excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
     publishedDateTime: 2021-08-11T17:18:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-GPU.jpg"
         width: 700
         height: 450
-        isCached: true
-  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
-    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
-    publishedDateTime: 2021-08-11T09:47:00Z
-    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
-        width: 696
-        height: 370
         isCached: true
 
 secured: "tBFSP3nJPirk3hV3kfAuhVYs4i2k/s2yOEME0OpInl9K1GTUjTmLIg6BZ2cBvaUz0XC0kmNDytbK/CCRHxHcIQGopMZyxNnnfx73zIw+iiivbsu2BgZ5FNbpIk8iVmaEOevUOWD0FJRGUVngqWWr3kqh20knLrs7sBfNK5X/bV1+ITS2ipbbEwLz1Nt7CVuqiKg/+1oLDsFOLnBmj0dz+MZFzapSZ4T7A95AqysQhN3iVaI+EuhzjMckThJtGMSKe+LUF3RRsz8wXfolfd1CwnoY6rieJIncW6VGQ9AyiG/qT/hGbqyG9p/18dE5mdR3OCQDhOAUyyEqzQZ8bXgflwn82vSRWoTo7Tvbzm+en904i657hIZp3PwA2qgja4/o9YGAjA4hc7OT7RjyWDMbpbqCrVjWEI/3Vj9vIykKyCb1cx4b/Bd6oqxSgaLGYBCf9gVVwbO9U5fGzUXCacLdGF1L9D193AV0qhtHedsnY6wbXSmNOWh34p2rGcQtfmIdU/JDiqEdzp9yRu9o6mONYw==;qF2+m/ib8x75jbtaaCXToA=="

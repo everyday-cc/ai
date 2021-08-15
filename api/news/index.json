@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-tesla-pushes-new-full-self-driving-beta-update-dont-hold-your-breath-for-download-button.md",
+      "title": "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button",
+      "excerpt": "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
+      "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
+      "publishedDateTime": "2021-08-15T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era.md",
       "title": "How Runway Waiters Is Helping Models Thrive In The Social Media And AI Era",
       "excerpt": "While social media has been a steep learning curve for models and the industry as a whole, face recognition, AI models, and other technological shifts will make success an even bigger challenge in the coming years.",
@@ -105,21 +157,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
-      "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
+      "path": "_news/2021-08-15-samsung-joins-google-and-nvidia-in-using-ai-to-design-chips.md",
+      "title": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
+      "excerpt": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "webUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
+      "originalUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180",
+          "width": 951,
+          "height": 961,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,14 +181,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T03:44:00-07:00",
+      "publishedDateTime": "2021-08-15T06:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -152,8 +204,9 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -1186,58 +1239,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-its-not-too-late-to-stop-the-killer-robot-uprising.md",
-      "title": "It’s not too late to stop the killer robot uprising",
-      "excerpt": "Around 50 countries are meeting at the UN offices in Geneva this week in an latest attempt to create a treaty preventing the proliferation of killer devices",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "originalUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FRobots1.jpg&signature=a81ea837aee499aa6ecd3018e5629de8",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
