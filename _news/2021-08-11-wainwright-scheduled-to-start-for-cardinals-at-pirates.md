@@ -7,7 +7,7 @@ originalUrl: "https://journalstar.com/sports/baseball/professional/wainwright-sc
 webUrl: "https://journalstar.com/sports/baseball/professional/wainwright-scheduled-to-start-for-cardinals-at-pirates/article_9a483352-cc0b-5247-9612-bffc7c216167.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Happ expected to start for the Cardinals against Pirates"
-    excerpt: "St. Louis Cardinals (55-56, third in the NL Central) vs. Pittsburgh Pirates (41-71, fifth in the NL Central) Pittsburgh; Tuesday, 7:05 p.m. EDT PITCHING PROBABLES: Cardinals: J.A. Happ (5-6, 6.62"
-    publishedDateTime: 2021-08-10T07:05:00Z
-    webUrl: "https://wtop.com/mlb/2021/08/happ-expected-to-start-for-the-cardinals-against-pirates/"
-    ampWebUrl: "https://wtop.com/mlb/2021/08/happ-expected-to-start-for-the-cardinals-against-pirates/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/mlb/2021/08/happ-expected-to-start-for-the-cardinals-against-pirates/amp/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 37
   - title: "Brubaker expected to start for the Pirates against the Cardinals"
     excerpt: "262 batting average, 4.00 ERA, outscored by four runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel: (hamstring)."
     publishedDateTime: 2021-08-12T07:57:00Z
@@ -63,17 +52,6 @@ related:
         width: 1680
         height: 876
         isCached: true
-  - title: "Keller expected to start as Pirates host the Brewers"
-    excerpt: "280 batting average, 2.90 ERA, outscored opponents by 28 runs INJURIES: Pirates: Jose Soriano: (elbow), Chad Kuhl: (covid-19), Sam Howard: (oblique), Chase De Jong: (knee), Blake Cederlind: (elbow), Trevor Cahill: (calf), Ka'ai Tom: (back), Ben Gamel ..."
-    publishedDateTime: 2021-08-14T03:54:00Z
-    webUrl: "https://www.theolympian.com/sports/article253463839.html"
-    ampWebUrl: "https://amp.theolympian.com/sports/article253463839.html"
-    cdnAmpWebUrl: "https://amp-theolympian-com.cdn.ampproject.org/c/s/amp.theolympian.com/sports/article253463839.html"
-    type: article
-    provider:
-      name: The Olympian
-      domain: theolympian.com
-    quality: 22
 
 secured: "QhiB5SLQQ1W20vwp/o62WkzgYoiUku1grTM0e7SIUwgBU0Q8IKzZJcu51EAGOGo5QFPt8ceN5N+96tbzsNasf4Ol0xZi9b1QuF29kcHmEI7pmQBISSlMgOCGV0xCDKKXZ0CkpkW6SaAL8xqsXFBA+wbHB5RUS2yFCQSYvtnBK3JPi2G7GKM7ug1y66hgrZ8uUZcpkpWewW3xwSehumarMcs9Lydj00/yI2etZvw8zahLYYrF7j9EEgfWvBo4cnY0o0CJbtmt4coKteW1m09UYoxFQWyZp2IsBAQPsDAZBU2yZQqsYcOdFviDCNYFWlgU/7JitTsgE6bmGXR4heu+h2YbXZ/wYX2k4e3BYOhn+cc=;tJNu19r1Psj0SOpD5GlhlA=="
 ---

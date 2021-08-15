@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence could be used to diagnose dementia"
-    excerpt: "Researchers say AI tool could lead to earlier diagnoses that could improve patients’ outcomes"
-    publishedDateTime: 2021-08-10T08:58:00Z
-    webUrl: "https://www.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
-    ampWebUrl: "https://amp.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/10/artificial-intelligence-could-be-used-to-diagnose-dementia"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/c28b2d4c46a12f81cc0a0c7c9cea862b160001a6/0_212_4407_2645/master/4407.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d9f4550a078ffd5e4e47142ae57f4508"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Artificial Intelligence May Help Diagnose Dementia, Says Study"
     excerpt: "Artificial Intelligence is being used across industries to detect various threats. In fact, various researchers talk about how AI can help in detecting various hazardous diseases like oesophageal cancer by detecting its early signs."
     publishedDateTime: 2021-08-12T15:12:00Z
@@ -71,22 +55,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/brain-162878033316x9.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Artificial Intelligence May Be Able To Identify Dementia With Single Scan"
-    excerpt: "Scientists are currently testing an artificial intelligence (AI) system that may be able to detect dementia after just one brain scan. This system may also be capable of predicting whether or not a person’s condition will remain stable for a number of years,"
-    publishedDateTime: 2021-08-10T08:25:00Z
-    webUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/"
-    ampWebUrl: "https://www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
-    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/science/artificial-intelligence-may-be-able-to-identify-dementia-with-single-scan/amp/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 56
-    images:
-      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2Fbrainscan_.jpg"
-        width: 1200
-        height: 619
         isCached: true
   - title: "Cambridge Spotlight: Diagnosing Dementia with Artificial Intelligence"
     excerpt: "In this issue of Cambridge Spotlight, Science Editor Sambhavi Sneha Kumar explains a revolutionary new artificial intelligence model developed by researchers of the University of Cambridge to predict"
