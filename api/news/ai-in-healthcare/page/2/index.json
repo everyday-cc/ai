@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
-      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
-      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
       "title": "Does Your Project Need Artificial Intelligence?",
       "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
@@ -1386,6 +1343,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
+      "publishedDateTime": "2021-07-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "AI Hardware",
+        "Natural Language Processing",
+        "IBM AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "AI in Robotics",
+        "AWS AI"
       ]
     }
   ],

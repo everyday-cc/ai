@@ -2,6 +2,109 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-07-01-study-finds-that-few-major-ai-research-papers-consider-negative-impacts.md",
+      "title": "Study finds that few major AI research papers consider negative impacts",
+      "excerpt": "A new research paper finds that values in the AI research field are centered around performance rather than inclusiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "originalUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ml-perf-e1595989974532.jpg?w=1200&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/01/study-finds-that-few-major-ai-research-papers-consider-negative-impacts/amp/",
+      "publishedDateTime": "2021-07-01T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-01-ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech.md",
+      "title": "Ghost raises $100M Series D for autonomous driving and crash prevention tech",
+      "excerpt": "Autonomous driving system developer Ghost Locomotion has raised a $100 million Series D funding round, led by Sutter Hill Ventures. Returning investor Founders Fund also participated in the round, along with Coatue.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "originalUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/06/image001-1-1.png?w=1024",
+          "width": 1024,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/01/ghost-raises-100m-series-d-for-autonomous-driving-and-crash-prevention-tech/amp/",
+      "publishedDateTime": "2021-07-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-att-t-to-move-5g-mobile-network-to-microsoft-azure.md",
       "title": "AT&T (T) to Move 5G Mobile Network to Microsoft Azure",
       "excerpt": "AT&T Inc. T has announced collaboration with Microsoft MSFT under which the telecom giant will move its 5G mobile network to the latter’s cloud. This will allow AT&T’s mobile network traffic to be managed by Microsoft Azure technology.",
@@ -1060,109 +1163,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-inrule-64-worry-about-job-security-while-working-with-ai.md",
-      "title": "InRule: 64% worry about job security while working with AI",
-      "excerpt": "Enterprise decision-makers who work with AI and machine learning are worried about their job security, according to new InRule research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/04/human-tech-e1625058641294.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/30/inrule-64-worry-about-job-security-while-working-with-ai/amp/",
-      "publishedDateTime": "2021-06-30T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-a-government-watchdog-may-have-missed-clearview-ai-use-by-five-federal-agencies-in-a-new-report.md",
-      "title": "A Government Watchdog May Have Missed Clearview AI Use By Five Federal Agencies In A New Report",
-      "excerpt": "In a government accountability report about facial recognition, five federal agencies said they didn't use Clearview AI. Data reviewed by BuzzFeed News suggests they should have.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "originalUrl": "https://www.buzzfeednews.com/article/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-10/30/21/tmp/d6a72259c415/tmp-name-2-250-1604095037-13_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/carolinehaskins1/gao-facial-recognition-report-clearview-federal-agencies",
-      "publishedDateTime": "2021-06-30T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

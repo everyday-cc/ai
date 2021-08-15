@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-GPU.jpg"
         width: 700
         height: 450
-        isCached: true
-  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
-    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
-    publishedDateTime: 2021-08-11T09:47:00Z
-    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
-        width: 696
-        height: 370
         isCached: true
 
 secured: "YLFymVVIOEaFbgnX7wsaXHUfF0Dle2Y5QsZIJaRW++X6eQO3jFg2fq9tPs+xtQ+iel72yazXigDm5QGb6pZbeUsMBGHAfDqCHP4Vi9SX2B6PGXbXT1vv+exrL42O3SqD3hUnVeeuMq5Udn+mkkrmZ/bYIPcFBp92A3Xxk0dLBrFHmV/LVpIaXdUoKlXKQ3S/faUVaYRPFWqslB9i7HwXcsZMJ0gn/cDRA2HZHQvkQV4O2zB1C0eQ/M2WlmVt+L9W5pwoo7NO9CKgN1lB9w/VecQTTt+vXQbqOgyc2XxAjWa2zlRqR5ryFS9XZlNya+yPzOnW4CMUGUOZxT4xjTKf5VmmjUt4oTW7URMPGOxND7kfTHhAGOI+vS48Wk9mxUB4uo7zYTMFtQfYvM2ucNRXMncZVm83aSma90pcuirCMBGc5IXwFaZIWmHSA56DGlxY5QrGzMJkjwMevkKqqb0aQwDhg/V6AU7ySIGUjEc+ajsv9NG1cVRRAak7gTLLc8Majfubtt7b92I8wCOFgPOC8A==;xIDOp1UHrIHBzMGPGSLVYA=="

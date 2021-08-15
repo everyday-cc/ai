@@ -2,57 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
-      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
-      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "publishedDateTime": "2021-08-13T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
       "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
       "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
@@ -206,6 +155,58 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-openai-offers-api-for-github-copilot-ai-model.md",
+      "title": "OpenAI offers API for GitHub Copilot AI model",
+      "excerpt": "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html",
+      "originalUrl": "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html",
+      "publishedDateTime": "2021-08-12T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

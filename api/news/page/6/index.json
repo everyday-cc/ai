@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-08-09-attendee-matchmaking-at-virtual-events-with-amazon-personalize.md",
+      "title": "Attendee matchmaking at virtual events with Amazon Personalize",
+      "excerpt": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations—no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4033-IMG1.png",
+          "width": 864,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T15:35:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise.md",
+      "title": "Deepbrain boosts AI-powered virtual avatars with $44M raise",
+      "excerpt": "Deepbrain, a company developing a platform to create 'virtual humans' using AI technologies, has raised $44 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
+      "publishedDateTime": "2021-08-09T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-leveraging-conversational-ai-to-improve-itops.md",
       "title": "Leveraging Conversational AI to Improve ITOps",
       "excerpt": "This imitation of human interactions is made possible by its underlying technologies — machine learning, more specifically, Natural Language Processing (NLP). Conversational AI can recognize speech input and text input and translate the same across ...",
@@ -951,40 +1054,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-09-facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud.md",
-      "title": "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud",
-      "excerpt": "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-09-artificial-intelligence-in-healthcare-sector-market-outlook-2021-big-things-are-happening.md",
       "title": "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening",
       "excerpt": "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report",
@@ -1026,6 +1095,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud.md",
+      "title": "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud",
+      "excerpt": "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1077,92 +1189,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-googles-verily-opens-israel-rd-center-will-partner-with-hospitals-on-ai-in-healthcare.md",
-      "title": "Google’s Verily Opens Israel R&D Center, Will Partner With Hospitals On AI In Healthcare",
-      "excerpt": "The Verily center will focus on early research with Israel's Shaare Zedek hospital using an AI system to help detect colorectal cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
-      "originalUrl": "https://nocamels.com/2021/08/google-verily-israel-rd-center-ai-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/08/google-sign-alex-dudar-unsplash.jpg",
-          "width": 1915,
-          "height": 1133,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services.md",
-      "title": "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services",
-      "excerpt": "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-1030708388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

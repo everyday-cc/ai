@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI launches Codex, an API for translating natural language into code"
-    excerpt: "OpenAI today launched Codex, an AI model available through an API that can translate natural language commands into app code."
-    publishedDateTime: 2021-08-11T00:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/"
-    ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 186
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "OpenAI can translate English into code with its new machine learning software Codex"
     excerpt: "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ..."
     publishedDateTime: 2021-08-11T10:57:00Z
@@ -57,37 +41,21 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "AI21 Labs trains a massive language model to rival OpenAI’s GPT-3"
-    excerpt: "AI21 Labs, a Tel Aviv, Israel-based startup, has trained a massive English-language model it claims is superior to GPT-3 in some ways."
-    publishedDateTime: 2021-08-11T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/"
-    ampWebUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
+  - title: "This Machine Learning Tool Can Translate English Sentences Into Computer Code"
+    excerpt: "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes."
+    publishedDateTime: 2021-08-14T13:10:00Z
+    webUrl: "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/"
+    ampWebUrl: "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Beebom
+      domain: beebom.com
+    quality: 73
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "OpenAI offers API for GitHub Copilot AI model"
-    excerpt: "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language."
-    publishedDateTime: 2021-08-12T19:20:00Z
-    webUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html"
-    ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Codex, an AI system that translates natural language to programming code"
     excerpt: "Artificial intelligence research company OpenAI has announced the development of an AI system that translates natural language to programming code—called Codex, the system is being released as a free API,"

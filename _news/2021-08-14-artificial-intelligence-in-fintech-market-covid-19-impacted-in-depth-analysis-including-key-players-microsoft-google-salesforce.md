@@ -26,6 +26,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Global Artificial Intelligence Systems Spending Market Future Scope and Industry Analysis Report – Google Inc., Microsoft Corporation, Facebook Inc."
+    excerpt: "MarketResearch.Biz –:As per a study on Artificial Intelligence Systems Spending, recently introduced into the huge publication of MarketResearch.Biz, the global market is very likely to obtain considerable impetus in the future."
+    publishedDateTime: 2021-08-12T13:06:00Z
+    webUrl: "https://www.digitaljournal.com/pr/global-artificial-intelligence-systems-spending-market-future-scope-and-industry-analysis-report-google-inc-microsoft-corporation-facebook-inc"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/FFF-6-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "ntqaX5cmTVLyRYB+NwN9+yUhVNbbeofgWKhnEvs/3bjXMaoJ9PMrpwM7jQO1ns3lVqXK7MexAElaUVVpDCBnE7CTIumFXdQWOyGVQ/EuUli43lNtO33kK5s13TI+XrrRlDa0JPqD+OcOJ5UB9YcEsIniRqfSSNVQp32J5WeaEB185C3PLaUJLQ65v7ZAsi+hbWOT8dC59RW8qDa8+KtEmGS+AQq6NSf0uYqZO8A2V3r3r7mqqrmeh7joNC/lORS7+ZHzOx8qy9RxSNBMQ8XOzwIfeGRycJVmwn6/Rq1MrnpJ8vXC3zyvIlSB/fLJ+FdEOA6C3UlEZB43sahruu9m5XNX3BLjGru3Lx3M0OUvSLg=;9SQRPFql1MJzkoHvuvDCbQ=="
 ---
 

@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-06-john-deere-acquiring-bear-flag-robotics-for-250m.md",
+      "title": "John Deere acquiring Bear Flag Robotics for $250M",
+      "excerpt": "Bear Flag Robotics, a developer of autonomous driving technology for tractors, is being acquired by John Deere for $250 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
+      "originalUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/bear-flag-robotics-john-deere.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
+      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
+      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "publishedDateTime": "2021-08-05T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
       "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
       "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
@@ -1092,93 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
-      "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
-      "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "publishedDateTime": "2021-08-04T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-answer-to-australias-national-security-needs-robot-tanks.md",
-      "title": "The Answer To Australia's National Security Needs? Robot Tanks",
-      "excerpt": "Greater reliance on autonomous systems and unmanned platforms makes a great deal of sense, given the small size of our military,” says Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/23607818975_fae8f8a6d6_o%20%281%29.jpg",
-          "width": 1200,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

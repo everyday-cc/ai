@@ -2,6 +2,91 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-08-roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball.md",
+      "title": "Roundup: U.S. win gold as usual, new blood coming in Olympic basketball",
+      "excerpt": "Players of the United States pose with gold medals after the awarding ceremony for the men's basketball at the Tokyo 2020 Olympic Games in Saitama, Japan, Aug. 7, 2021. (Xinhua/Pan Yulong) Basketball roundup: The U.",
+      "sourceUrl": null,
+      "webUrl": "https://lileicc.github.io/",
+      "originalUrl": "https://www.msn.com/en-xl/news/other/roundup-us-win-gold-as-usual-new-blood-coming-in-olympic-basketball/ar-AAN4bxY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-08T00:50:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "github.io/",
+        "domain": "github.io/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-trouble-at-googles-deepmind-and-tech-workers-not-going-back-to-the-office.md",
+      "title": "Trouble at Google's DeepMind and tech workers not going back to the office",
+      "excerpt": "Hello, and welcome to this week's edition of the Insider Tech newsletter, where we break down the biggest news in tech, including: This week: Trouble at Google's DeepMind Insider learned that an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "originalUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/610c60112a24d0001861fc02?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trouble-at-googles-deepmind-tech-workers-refuse-the-office-2021-8?amp",
+      "publishedDateTime": "2021-08-07T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-08-die-as-a-human-or-live-forever-as-a-cyborg-will-robots-rule-the-world.md",
       "title": "‘Die as a human or live forever as a cyborg’: Will robots rule the world?",
       "excerpt": "Marshall calls it “natural intelligence”, not artificial intelligence. Autonomy, the kind driverless cars and robot vacuums need to navigate their surrounds, is a solved problem, he says.",
@@ -1088,92 +1173,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-wooask-3-in-1-offline-translation-bluetooth-earbuds.md",
-      "title": "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds",
-      "excerpt": "Newest AI-powered for Traslation, Music and Calls. Speak confidently without the language barrier. Affordable for All. Aug. 6, 2021 / PRZen / SHENZHEN, China — Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds",
-      "originalUrl": "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Governor-Andrew-Cuomo-AFP-1K-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-doubling-the-performance-of-visual-recognition-ai.md",
-      "title": "Doubling the performance of visual recognition AI",
-      "excerpt": "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg",
-          "width": 700,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp",
-      "publishedDateTime": "2021-08-06T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

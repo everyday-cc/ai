@@ -2,6 +2,93 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-07-26-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
+      "title": "US pushes light regulations for AI, in contrast to Europe",
+      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
+      "publishedDateTime": "2021-07-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-whats-wrong-with-ibm-watson-is-narrow-ai-helpful-in-healthcare.md",
       "title": "What's Wrong with IBM Watson & Is Narrow AI Helpful in Healthcare?",
       "excerpt": "IBM poured millions of dollars to revolutionise healthcare, but the experiment turned out to be far more difficult and time-consuming than expected.",
@@ -1086,101 +1173,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-25-states-are-forcing-face-recognition-on-people-filing-for-unemployment.md",
-      "title": "25 States Are Forcing Face Recognition on People Filing for Unemployment",
-      "excerpt": "State labor departments claim that they're using face recognition identity verification to prevent fraud, but you might want to check out the privacy policy.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
-      "originalUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/401a169d87d990b688a397d4df93cbd1.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/25-states-are-forcing-face-recognition-on-people-filing-1847350707/amp",
-      "publishedDateTime": "2021-07-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-self-driving-fords-set-for-lyft-off-in-miami-and-austin.md",
-      "title": "Self-Driving Fords Set for Lyft-off in Miami and Austin",
-      "excerpt": "Ford might have to adjust its slogan from \"Have you driven a Ford lately?\" to \"Has a Ford driven you lately?\" On Wednesday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/07/23/self-driving-fords-set-for-lyft-off-in-miami-and-a/",
-      "publishedDateTime": "2021-07-23T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

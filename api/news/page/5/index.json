@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-10-machine-learning-discovers-new-sequences-to-boost-drug-delivery.md",
+      "title": "Machine learning discovers new sequences to boost drug delivery",
+      "excerpt": "MIT researchers employ machine learning to find powerful peptides that can improve a gene therapy drug for Duchenne muscular dystrophy.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
+      "originalUrl": "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202108/machine-learning-peptide_0.png",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-xiaomi-just-unveiled-its-first-robot-dog.md",
+      "title": "Xiaomi Just Unveiled Its First Robot Dog",
+      "excerpt": "Xiaomi today unveiled its open-source four-legged CyberDog that developers can \"build upon\" in order to create their own applications.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
+      "originalUrl": "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Xy6xljzk6r/sizes/cyberdog-1_resize_md.jpeg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog",
+      "publishedDateTime": "2021-08-10T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai.md",
       "title": "Salesforce’s Kathy Baxter is coming to TC Sessions: SaaS to talk AI",
       "excerpt": "As the use of AI has grown and developed over the last several years, companies like Salesforce have tried to tap into it to improve their software and help customers operate faster and more efficiently.",
@@ -50,50 +188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -595,49 +689,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
-      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
-      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "publishedDateTime": "2021-08-10T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-10-ai-driven-biology-can-get-critical-medicines-to-patients-faster.md",
       "title": "AI-Driven Biology Can Get Critical Medicines To Patients Faster",
       "excerpt": "Absci, a synthetic biology company that recently went public, is using an AI-powered platform for protein discovery and production to help pharmaceutical companies create drugs that were previously impossible to make.",
@@ -685,6 +736,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
+      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
+      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "originalUrl": "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "publishedDateTime": "2021-08-10T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1125,109 +1219,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-attendee-matchmaking-at-virtual-events-with-amazon-personalize.md",
-      "title": "Attendee matchmaking at virtual events with Amazon Personalize",
-      "excerpt": "Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations—no ML expertise required. Amazon Personalize makes it easy for developers to build applications capable of delivering a wide array of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/attendee-matchmaking-at-virtual-events-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-4033-IMG1.png",
-          "width": 864,
-          "height": 596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T15:35:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise.md",
-      "title": "Deepbrain boosts AI-powered virtual avatars with $44M raise",
-      "excerpt": "Deepbrain, a company developing a platform to create 'virtual humans' using AI technologies, has raised $44 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
-      "originalUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/amp/",
-      "publishedDateTime": "2021-08-09T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-08-06-wooask-3-in-1-offline-translation-bluetooth-earbuds.md",
+      "title": "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds",
+      "excerpt": "Newest AI-powered for Traslation, Music and Calls. Speak confidently without the language barrier. Affordable for All. Aug. 6, 2021 / PRZen / SHENZHEN, China — Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Governor-Andrew-Cuomo-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-doubling-the-performance-of-visual-recognition-ai.md",
+      "title": "Doubling the performance of visual recognition AI",
+      "excerpt": "Prof. Sunghoon Im, from the Department of Information & Communication Engineering, DGIST, developed an artificial intelligence(AI) neural network module that can separate and convert environmental information in the form of complex images using deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/development-of-neural.jpg",
+          "width": 700,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-08-visual-recognition-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-visual-recognition-ai.amp",
+      "publishedDateTime": "2021-08-06T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-remote-sales-startup-goodmeetingsai-raises-17-mn-funding.md",
       "title": "Remote Sales Startup Goodmeetings.ai Raises $1.7 Mn Funding",
       "excerpt": "The platform will use the proceeds over the next 12-18 months to build technology and scale up teams in the US",
@@ -160,22 +246,31 @@
       "title": "FICO Continues to Drive Innovation with 13 New Patents for AI, Machine Learning, Fraud and Decision Management Platform",
       "excerpt": "Leading digital decision platform company, FICO, today announced that it has been awarded 13 new patents related to artificial intelligence (AI), machine learning (ML), fraud and decision management platform.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-fico-continues-drive-innovation-with-13-new-patents-/2021/08/06/9425723.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/fico-continues-to-drive-innovation-with-13-new-patents-for-ai-machine-learning-fraud-and/article_56c9cb39-a1f4-51ca-9c16-3ba83b22c78a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/53/45360abc-e30f-59d8-b8ab-b5f5d7c8e141/60ace7f7122c5.image.jpg?resize=1200%2C441",
+          "width": 1200,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T05:06:00-07:00",
+      "publishedDateTime": "2021-08-06T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1021,100 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-john-deere-acquiring-bear-flag-robotics-for-250m.md",
-      "title": "John Deere acquiring Bear Flag Robotics for $250M",
-      "excerpt": "Bear Flag Robotics, a developer of autonomous driving technology for tractors, is being acquired by John Deere for $250 million.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
-      "originalUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/bear-flag-robotics-john-deere.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
-      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
-      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
-      "publishedDateTime": "2021-08-05T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
