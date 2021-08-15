@@ -48,22 +48,6 @@ related:
         width: 640
         height: 400
         isCached: true
-  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
-    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-    publishedDateTime: 2021-08-10T11:01:00Z
-    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z
@@ -81,13 +65,13 @@ related:
         height: 900
         isCached: true
   - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2021-08-11T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-08-11T12:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
 
 secured: "vLibMQCvZitxg/elRs3u+gZVeE1ipmc8xVh1Vp5qUIJiIeA/NfY2eDmCizaYPFDpXiuP2llB8dIGyVPQ0E0kg6gWBxlRyFMJcQsJ6H0xWyEGuxQZB33XOGCiriHKF+y4vMpChPJIb0Dm6PVW1ESfeAckUUyhfIYPRwqVtF0j9qFtAU6Qc8RD++OGfBCPylRD7YSVP04uXZBUPiaNVjei6WQT2Nz7DoCooV+TMcpfBzNIEYJTEJr9Q27jTztZc7jWH94/baYMffWRN0sGZ03rgCSrhu3L+yJ2TJJkWXZg5QmLT3J/+QxB2pRxjnWDJv4AtnWTUtLP18jV3VqffAqjmgErd/V8BCEKbxhTLh73lkrIeFM9XYI4JmRZz/w/5uvEdaebpSvwDK92izCcN6Pg1Iptcyha/DOKzkFm4hCx27/QR82qnUkrKkei4FK3OSCOYlLcbw1L1+Kt9ixxCpsMAiR+10wBPoveupVhtXY0TM/bO+EVv5KhigV1zAkpZ2U/BWLIPYPOMKnszeC8yevodQ==;Y+Ior5KH4OffXZKFKcd9Xg=="

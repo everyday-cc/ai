@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SWARM Now Available in the Microsoft Azure Marketplace"
-excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-publishedDateTime: 2021-08-11T12:33:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+publishedDateTime: 2021-08-11T12:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -51,22 +51,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
-    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-    publishedDateTime: 2021-08-10T11:01:00Z
-    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z
@@ -84,6 +68,6 @@ related:
         height: 900
         isCached: true
 
-secured: "SSfTRSJA0M5YqMVX2wYtwuF1Iq2WrEn2kSencO+QUO6qj9cTTdfKnLFPpbq/99U/LsrUO+witA+T/2f0OYMfYmihZIiF4T4w07v6R285/YGDsWi9aI2cnqE+LVmJTeLO5cURFOSRTM908oDtAFM5M1P4lvpf746pIM/LxfyOOeMeLhDRySGhGjulA/TzugnJW+O4+8nEPmIyTNEYngeQvTwPU6Yq4hyeDQSevjWEgjJ65jv7+eOqm5yXIELt+NBSyvA86lTOQ6lyfFYRIvDmfw4zNBTHJsvY76tGlEmOmxY6dfFBouKsRpXgEuS5o1NmK449gzVejN9xBQsIzSFVhMLK/WJc8X/NcguWkq9P034=;bgbo90eX7TdlFns12P84Ww=="
+secured: "CxhnelS239LZhsn36aJZ44S7tsgxckzH5IilKAuKLo9ZhG0TEylnxiG+0kSYBJWV94L3jhVntnK2TxvgVPTdKgGK6fw67UtNsMgUbJH0nheQNs4vukAFqI7n1e3giliYgxhPX0Meg8sPRz6DGj3h701aycWUfopK7mvT/2wiXHfFJGFMGS7oh3Rs3QFLZq9DPdPhwDjXn0m/eP7vkR8o3BSTM5c4INUaNDu9+i21uy9S9YGzjZRgTYYFAwp/zTa3QhuAx+RFblGzlLCEWr+9YbCHBKbDy0tXhx179EO63ytwUKeAothCk7x2y+9vTSG1A96Kz02fA0AWMPOX2MdUJqLbImsctQ3DONzW7vkjdoU=;KNm8jzkHOHo1ljjm+B2v/A=="
 ---
 

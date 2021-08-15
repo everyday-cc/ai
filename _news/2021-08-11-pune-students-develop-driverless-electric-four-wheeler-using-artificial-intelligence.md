@@ -75,20 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Driverless Cars Are Proving to Be Job Creators, At Least So Far"
-    excerpt: "When self-driving car hype peaked a few years ago, so did fears of job destruction that would ensue as the technology took hold. One report published in 2017 forecast 4 million jobs could be lost with a rapid transition to autonomous vehicles,"
-    publishedDateTime: 2021-08-10T10:43:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-10/driverless-cars-are-proving-to-be-job-creators-at-least-so-far"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihKTQ5wJiPbg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Self-Driving or Driverless Cars Market Likely to Enjoy Explosive Growth by 2026 | Nissan, Tesla, Volvo"
     excerpt: "A new business intelligence report released by HTF MI with title Global Self Driving or Driverless Cars Market Report Production and Consumption Professional Analysis Impact of COVID 19 is designed covering micro level of analysis by manufacturers and key business"
     publishedDateTime: 2021-08-12T13:07:00Z

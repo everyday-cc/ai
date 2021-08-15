@@ -40,22 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    type: article
-    provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
-    quality: 57
-    images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Cambridge Spotlight: Diagnosing Dementia with Artificial Intelligence"
     excerpt: "In this issue of Cambridge Spotlight, Science Editor Sambhavi Sneha Kumar explains a revolutionary new artificial intelligence model developed by researchers of the University of Cambridge to predict"
     publishedDateTime: 2021-08-14T15:11:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://www.varsity.co.uk/sharingimage/21864.jpeg?store=37664"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
-    excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
-    publishedDateTime: 2021-08-10T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88866/cambridge-judge-business-school-opens-courses-for-startup-funding-and-regtech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "IgSwX7a5pDpHh37P6w3TLAv8/NLrDrPYbkr8XUTw2pfUzp4Hxwlr4h9aXVP+EbvEwd/lHNhjyOszpf6sHLxizZ+mfuzi3wcQNDVOLRjNkmMfEP+/lu5ZO8fmAg7M7VLlzgS19BsOTntQQq8z8LJAbfvGU59Wvt6mknQO2ju11F8ZqH8oSrylVgpelAdyvzyiYcrC95qpaQtGGssjJuwjlX/Lfqv9cdEhDDsIXNEL7ZhljcS4aSMvg93rkR5oURCv+wvqqaGr5uvJASTIO6lAFIaeDzbvBTUChAjiJeTRmw+SbuoIsF+KSnyibIoEEhLncGfnZr4n6W7/JKk/EfsqE0cQ98YKv+HOWqX0Um0bK14=;MPvRG7RKgvrAx8Q5cKd2gQ=="

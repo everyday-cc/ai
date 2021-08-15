@@ -2,6 +2,92 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-02-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles.md",
+      "title": "UAE in top 10 globally for readiness to accommodate driverless vehicles",
+      "excerpt": "The United Arab Emirates is among the top 10 countries in the world when it comes to readiness to accommodate driverless vehicles, revealed KPMG’s Autonomous Vehicles Readiness Index (AVRI).. UAE in top 10 globally for readiness to accommodate driverless vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.logisticsmiddleeast.com/transport/article-13789-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles",
+      "originalUrl": "https://www.logisticsmiddleeast.com/transport/article-13789-uae-in-top-10-globally-for-readiness-to-accommodate-driverless-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Middle East",
+        "domain": "logisticsmiddleeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-02-a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge.md",
+      "title": "A New Kind Of Help For Healthcare: Where Proven Science And New Technology Merge",
+      "excerpt": "Digital therapeutic products derived from best practices and new insights from machine learning offer a key opportunity that has yet to be realized: optimal effective treatment of patients with common conditions that are difficult to control.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610405d5ef72b264d3dff7be%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/02/a-new-kind-of-help-for-healthcare-where-proven-science-and-new-technology-merge/amp/",
+      "publishedDateTime": "2021-08-02T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-researchers-use-ai-to-look-for-alien-civilisations.md",
       "title": "Researchers use AI to look for alien civilisations",
       "excerpt": "The team will use a network of mid-sized, high-resolution telescopes and detector arrays with suitable cameras and computer systems as part of their research to find alien civilisations.",
@@ -1071,100 +1157,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-why-artificial-intelligence-isnt-intelligent.md",
-      "title": "Why Artificial Intelligence Isn’t Intelligent",
-      "excerpt": "Some AI experts think that the name itself is fueling the kind of hype and confusion that have led to “AI winters” in the past.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "originalUrl": "https://www.wsj.com/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-376905/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/why-artificial-intelligence-isnt-intelligent-11627704050",
-      "publishedDateTime": "2021-07-30T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period.md",
-      "title": "Global Artificial Intelligence (AI) in Oil and Gas Market to witness tremendous growth rate during forecast period",
-      "excerpt": "Global Artificial Intelligence (AI) in Oil and Gas Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence (AI) in Oil and Gas Mark",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
-      "originalUrl": "https://manometcurrent.com/global-artificial-intelligence-ai-in-oil-and-gas-market-to-witness-tremendous-growth-rate-during-forecast-period/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store5.jpg.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

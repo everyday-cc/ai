@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    type: article
-    provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
-    quality: 57
-    images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Artificial Intelligence May Help Diagnose Dementia, Says Study"
     excerpt: "Artificial Intelligence is being used across industries to detect various threats. In fact, various researchers talk about how AI can help in detecting various hazardous diseases like oesophageal cancer by detecting its early signs."
     publishedDateTime: 2021-08-12T15:12:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://images.news18.com/ibnlive/uploads/2021/08/brain-162878033316x9.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
-    excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
-    publishedDateTime: 2021-08-10T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88866/cambridge-judge-business-school-opens-courses-for-startup-funding-and-regtech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "ufad9wzu8AvQuqqZ3ZeWRZJ4vTAd/hMhdlpQ+hG0On8aVxl6XKi7ty6npFpcfX/NhgkIY3+3PSDizmzVN1ba6fz76P8aRWMLX/xq0hspB9lwabQ2Y44eLIiu49bYezZpsT1lHdULw9FiVUTx1kzX+1CO1APEZkufPdh58JRbBfQIoVaIekxszH8L2sOD9tSTEmYBVAg1VmIOInu/NzepZtUVc0Gj49LRwgQjsNGUI2J+a4aRZTCeMV2RSfqjydDwXAggIsyHP0fMzHJkfXDo25j8O3GSuH8H4R/biRJQPor9QP0uJhX7EFg6NFULzoYToHpCTq5fZVRvCexHDwZH8YOKVKjl/tpOyCxUGZmcioc=;nHKC6ICb/VJyMi+yBGjaTg=="

@@ -2,6 +2,93 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-06-17-nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry.md",
+      "title": "Nish Sehgal & Roman Garin: Innovating GPU-Accelerated Neural Network to Transform the Sports Industry",
+      "excerpt": "In an exclusive interview with Analytics Insight’s The 10 Most Influential CEOs to Watch in 2021, Nish Sehgal, Global Managing Director, and Roman Garin, the CEO of OSAI, explains how they bring sport technology and sport business together at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry/",
+      "originalUrl": "https://www.analyticsinsight.net/nish-sehgal-roman-garin-innovating-gpu-accelerated-neural-network-to-transform-the-sports-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/06/Interview-1.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-17T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-how-is-robotics-helping-the-elderly-with-humanoids-and-nurse-robots.md",
+      "title": "How Is Robotics Helping The Elderly With Humanoids And Nurse Robots?",
+      "excerpt": "Robotics has answered so many questions for society. Can it help the elderly lead a happy and stable life? Can it be a successful approach?",
+      "sourceUrl": null,
+      "webUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "originalUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fossbytes.com/wp-content/uploads/2021/06/tight-holding-hands-scaled-e1623846739563.jpeg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/how-robotics-help-elderly-nurse/amp/",
+      "publishedDateTime": "2021-06-17T00:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Foss Bytes",
+        "domain": "fossbytes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
       "title": "Insurtech AI startup Akur8 closes $30M Series B",
       "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
@@ -1058,92 +1145,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-self-driving-car-pioneer-waymo-gets-25b-to-fuel-ambitions.md",
-      "title": "Self-driving car pioneer Waymo gets $2.5B to fuel ambitions",
-      "excerpt": "Waymo, the self-driving car pioneer spun off from Google, isn’t allowing a recent wave of executive departures to detour its plans to expand its robotic taxi",
-      "sourceUrl": null,
-      "webUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
-      "originalUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wavy.com/wp-content/uploads/sites/3/2021/06/8e69ddf54284468eb6bb598dde6e777e.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/self-driving-car-pioneer-waymo-gets-2-5b-to-fuel-ambitions/amp/",
-      "publishedDateTime": "2021-06-16T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVY",
-        "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-waymo-raises-further-25bn-for-self-driving-car-project.md",
-      "title": "Waymo raises further $2.5bn for self-driving car project",
-      "excerpt": "The deployment of driverless technology is taking considerably ... “There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "originalUrl": "https://www.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdc5feecf-7435-4600-95c4-d69820be9aec.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/e0dd4302-c69f-42b6-8a37-549ce113a885",
-      "publishedDateTime": "2021-06-16T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

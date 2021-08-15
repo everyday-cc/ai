@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-11-artificial-neural-networks-modeled-on-brains.md",
+      "title": "Artificial Neural Networks Modeled On Brains",
+      "excerpt": "Researchers modeled artificial neural networks based on human brains for performing cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "originalUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/08/neuro.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp",
+      "publishedDateTime": "2021-08-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1157,57 +1200,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions.md",
-      "title": "AI For Population Health And Medical Imaging Gets A Boost With $230 Million Acquisitions",
-      "excerpt": "Nanox announced today two acquisitions to create a globally connected, end-to-end AI in radiology and population health solution",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61126d032c71efbd31a6ced9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
-      "publishedDateTime": "2021-08-10T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

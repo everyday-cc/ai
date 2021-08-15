@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SeaChange enables enhanced data analytics with AWS"
-    excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
-    publishedDateTime: 2021-08-10T10:24:00Z
-    webUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws"
-    ampWebUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/08/seachange.jpeg"
-        width: 1862
-        height: 1125
-        isCached: true
   - title: "AI in customer analytics: Sharpening individual focus"
     excerpt: "The choices we make, shopping online or using digital payments at physical stores, can tell the retailers, merchants and banks a lot about us. And today, AI programmes are sophisticated enough to be a"
     publishedDateTime: 2021-08-13T05:30:00Z

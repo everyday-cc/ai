@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-13-how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide.md",
+      "title": "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide",
+      "excerpt": "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-the-mark-cuban-foundation-selects-birmingham-as-host-city-for-bootcamp.md",
       "title": "The Mark Cuban Foundation selects Birmingham as host city for bootcamp",
       "excerpt": "The Mark Cuban Foundation, founded by entrepreneur Mark Cuban, has selected Birmingham as one of the host cities for its AI bootcamp for high school students.",
@@ -328,7 +380,7 @@
       "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -359,57 +411,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-chorusai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group.md",
-      "title": "Chorus.ai Ranked No. 1 Conversation Intelligence Product by Info-Tech Research Group",
-      "excerpt": "Chorus.ai, a ZoomInfo company and Conversation Intelligence platform leader, today announced that it has been recognized as the top-rated product and a gold medalist in the 2021 Conversation Intelligence Data Quadrant from SoftwareReviews,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1593195/2021_Conversation_Intelligence_Data_Quadrant.jpg",
-          "width": 362,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

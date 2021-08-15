@@ -59,20 +59,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Driverless Cars Are Proving to Be Job Creators, At Least So Far"
-    excerpt: "When self-driving car hype peaked a few years ago, so did fears of job destruction that would ensue as the technology took hold. One report published in 2017 forecast 4 million jobs could be lost with a rapid transition to autonomous vehicles,"
-    publishedDateTime: 2021-08-10T10:43:00Z
-    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-10/driverless-cars-are-proving-to-be-job-creators-at-least-so-far"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihKTQ5wJiPbg/v0/1200x799.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "Pune students develop 'driverless' electric four-wheeler using artificial intelligence"
     excerpt: "This vehicle has been developed by the students of mechanical engineering and electronics and telecommunications branches of the MIT World Peace University."
     publishedDateTime: 2021-08-11T16:38:00Z

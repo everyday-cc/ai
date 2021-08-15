@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
-    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-    publishedDateTime: 2021-08-10T11:01:00Z
-    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z
@@ -76,13 +60,13 @@ related:
         height: 900
         isCached: true
   - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2021-08-11T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-08-11T12:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
 
 secured: "TKfu9uEP2xd+BELrPs/X4JesonM5Y/Efh09mM184TnKJ54ZDQUrd+q7Mf3ykih5o35tKdR0gHTVZgvsWRZqVlsUKhzVMoqD83iELthI/Ts0gXsUOuQZrGwMPHgoxLK1oRxMOepOstCw30MsZAvs5cHy6t4z0ZFVKVNl032QRGeP5H7QLPcuov8+eFieEflUTXnGbcjRJ01NK+ByChxCm3t40bfLmdws8LjU5QNsAY0C0HVAAKyOBwItJsSTX+LJjrjFf6g1wIM09C6oYe2YKsLZzS/BMuaTDqfcAmagq8WgM964aOsNHo9J4IGTlAfNWhrtubSjrqGmJGQP2IuiczMAGrOsEzOdpfyOebzOPnyY=;jHtlKKkBU6FI9QHTGgY3pQ=="

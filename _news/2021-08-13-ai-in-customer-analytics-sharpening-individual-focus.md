@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SeaChange enables enhanced data analytics with AWS"
-    excerpt: "SeaChange will leverage AWS artificial intelligence and machine learning (ML) services to gain a deeper understanding of end-user engagement"
-    publishedDateTime: 2021-08-10T10:24:00Z
-    webUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws"
-    ampWebUrl: "https://www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-consumption/seachange-enables-enhanced-data-analytics-with-aws?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/08/seachange.jpeg"
-        width: 1862
-        height: 1125
-        isCached: true
   - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
     excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
     publishedDateTime: 2021-08-13T07:00:00Z

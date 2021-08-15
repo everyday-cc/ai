@@ -512,7 +512,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -611,7 +611,7 @@
       "originalUrl": "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -984,6 +984,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-09-worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarketscom.md",
+      "title": "Worldwide Medical Telepresence Robots Industry to 2028 – Featuring Amy Robotics, AXYN Robotics and Xandex Among Others – ResearchAndMarkets.com",
+      "excerpt": "The global medical telepresence robots market size is expected to reach USD 159.5 million by 2028. It is expected to expand at a CAGR of 18.5% from 2021 to 2028. Guangzhou Yingbo Intelligent Technology Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-artificial-intelligence-in-healthcare-sector-market-outlook-2021-big-things-are-happening.md",
       "title": "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening",
       "excerpt": "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report",
@@ -1346,49 +1380,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-dubai-to-host-intl-conference-on-automation-and-robotics-in-construction.md",
-      "title": "Dubai to Host Int'l Conference on Automation and Robotics in Construction",
-      "excerpt": "For the first time in the Arab world, the United Arab Emirates will host the 38th International Symposium on Automation and Robotics in Construction",
-      "sourceUrl": null,
-      "webUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
-      "originalUrl": "https://ftnnews.com/mice/42257-dubai-to-host-int-l-conference-on-automation-and-robotics-in-construction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ftnnews.com/images/stories/mice/2021/UAE-ISARC2021.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News",
-        "domain": "ftnnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

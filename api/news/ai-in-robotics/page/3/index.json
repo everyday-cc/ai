@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
+      "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
+      "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "originalUrl": "https://www.therobotreport.com/ambi-robotics-releases-ambikit-a-new-kitting-robot-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/ambikit-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-interview-robotics-and-ai-inspire-new-orchestral-piece.md",
       "title": "INTERVIEW: Robotics and AI inspire new orchestral piece",
       "excerpt": "It’s not everyday that a new orchestral piece comes around that has been inspired by robotics, artificial intelligence and the relationship between humans and inanimates, but that’s exactly what listeners can expect when taking in the sounds of Lim Fantasy of Companionship for Piano & Orchestra.",
@@ -1383,49 +1426,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-5-robotics-and-automation-stocks-to-supercharge-your-portfolio.md",
-      "title": "5 robotics and automation stocks to supercharge your portfolio",
-      "excerpt": "For many decades now, businesses have been integrating robotics, automation and AI. Here are 5 stocks to supercharge your portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "originalUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.raskmedia.com.au/wp-content/uploads/2021/07/etf--scaled-e1626833813644.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "cdnAmpWebUrl": "https://www-raskmedia-com-au.cdn.ampproject.org/c/s/www.raskmedia.com.au/2021/07/21/5-robotics-and-automation-stocks-to-supercharge-your-portfolio/",
-      "publishedDateTime": "2021-07-20T19:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rask Media",
-        "domain": "raskmedia.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

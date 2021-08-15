@@ -59,30 +59,14 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Microsoft releases Fusion ransomware detection tool for Azure"
-    excerpt: "Microsoft has released a new ransomware detection feature for Azure that uses machine learning to spot potential attacks. 'Fusion Detection for Ransomware' will send an alert to customers when it observes actions that are \"potentially associated with ransomware activities\"."
-    publishedDateTime: 2021-08-10T11:01:00Z
-    webUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure"
-    ampWebUrl: "https://www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/ransomware/360527/microsoft-releases-fusion-ransomware-detection-tool-for-azure?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628588506/itpro/Azure_Smartphone_cloudbackground_shutterstock.jpg"
-        width: 1260
-        height: 710
-        isCached: true
   - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2021-08-11T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
+    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure."
+    publishedDateTime: 2021-08-11T12:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-swarm-now-available-the-microsoft-azure-marketplace-/2021/08/11/9428580.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 49
 
 secured: "krzPnX5R4sYL1TiMMIF+RrRVCHzLCeyAjD7Z3jhS140y79G4pADjrulXnrODTvZva0JO4GSBrIYDtXbuUL9ZxWenk+J/AoCm+o8DKND4sOn6Aw7ygvjTf6s808X22nnxDToKDamPK9GaI9jA0XlL3+geWZI7KecP3ZOKyX0qCea9Akt5U4mbJL/SisxZ0Qy1SlVQIDroCpdQFIi4Qg+O/6g5JWB+ZtBOaFkzhh90Z049YN6lFgQshcFZz9DdBT7dC7nGpPcj1fQXRUvOEQAErV3lQu6gXJMWBoNPI5CPRjMablMOPcpPVGy6pw9xbWRf2vlRPCl7OaMfbO9WaLu1h5VrjPQnlzIK+E1IJm1GUPAf1wbLeCLtRL02TqjkLgj85NtVCd968VhMjqJNblQgkwuVzxgUNFlEBy7vWEIAsTx1Ta2WwSZOzxI8wXPSdD2xXzjGC8QQFbwo6nGFgfTFHjw5QR1BtKPKb122kMuiM/mIQARAXJ/ewsLgq7nMeNGm1XMiHkt9HcxuRfn1wMIW1g==;gZlqjgvXwKQrjZNxnTByPA=="

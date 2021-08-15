@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-04-the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml.md",
+      "title": "The ‘Subscription Goldilocks Zone’ Is Within Reach For Merchants Using AI & ML",
+      "excerpt": "The subscription “Goldilocks” syndrome is something that sticky.io CEO Brian Bogosian tells PYMNTS subscription commerce companies can use AI and ML to solve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
+      "originalUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/sticky.io-subscriptions-457x208.png",
+          "width": 457,
+          "height": 208,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/subscriptions/2021/the-subscription-goldilocks-zone-is-within-reach-for-merchants-using-ai-ml/amp/",
+      "publishedDateTime": "2021-08-04T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-facebook-reportedly-wants-to-securely-mine-your-encrypted-data-to-target-ads.md",
+      "title": "Facebook reportedly wants to securely mine your encrypted data to target ads",
+      "excerpt": "There’s no secret that Facebook loves ads. It has stuffed the blue app and different features of Instagram with them. And the company has contemplated many times inserting ads i",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
+      "originalUrl": "https://thenextweb.com/news/facebook-encryption-ads-ai-team-rumor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FZuck-money.jpg&signature=781fd7a9456599290afb06f5fff80ff9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-underwater-robot-laying-cables-crossed-the-rotterdam-maasmond-to-connect-dutch-offshore-wind-farm.md",
       "title": "Underwater robot laying cables crossed the Rotterdam Maasmond to connect Dutch offshore wind farm",
       "excerpt": "TenneT is developing the Hollandse Kust (zuid) offshore grid for the connection of new wind farms. Four offshore cables will be buried in the North Sea bed. For the first ten kilometres of the offshore cable route,",
@@ -1041,100 +1136,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-global-artificial-intelligence-ai-robots-market-to-reach-214-billion-by-2026.md",
-      "title": "Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026",
-      "excerpt": "A new market study published by Global Industry Analysts Inc., (GIA) the premier market research company, today released its report",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/global-artificial-intelligence-ai-robots-market-to-reach-21-4-billion-by-2026--301345920.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1585982/Global_Artificial_Intelligence_AI_Robots_Market.jpg?p=facebook",
-          "width": 1536,
-          "height": 804,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-hootsuite-acquires-conversational-ai-startup-heyday.md",
-      "title": "Hootsuite acquires conversational AI startup Heyday",
-      "excerpt": "Hootsuite has acquired customer messaging platform Heyday for $60 million. A pioneer in social media management, Hootsuite helps businesses schedule posts across multiple social networks in just a few clicks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "originalUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1628004380/itpro/shutterstock_hootsuite_splash_screen.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/marketing-comms/social-media/360462/hootsuite-acquires-conversational-ai-startup-heyday?amp",
-      "publishedDateTime": "2021-08-03T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

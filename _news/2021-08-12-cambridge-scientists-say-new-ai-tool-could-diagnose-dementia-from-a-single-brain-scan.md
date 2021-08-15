@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia
 webUrl: "https://thenextweb.com/news/ai-system-that-could-diagnose-dementia-from-one-brain-scan-enters-clinical-trials"
 type: article
 quality: 60
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence could diagnose dementia in one scan"
-    excerpt: "Trials are set to begin on an artificial intelligence (AI) system that could diagnose dementia after just one brain scan."
-    publishedDateTime: 2021-08-10T10:00:00Z
-    webUrl: "https://www.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    ampWebUrl: "https://amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    cdnAmpWebUrl: "https://amp-lbc-co-uk.cdn.ampproject.org/c/s/amp.lbc.co.uk/news/artificial-intelligence-could-diagnose-dementia-in-one-scan/"
-    type: article
-    provider:
-      name: LBC 973 FM
-      domain: lbc.co.uk
-    quality: 57
-    images:
-      - url: "https://images.lbc.co.uk/images/254839?crop=16_9&width=500&relax=1&signature=q39JZckuLdS8U-neJlOdPfRxtxg="
-        width: 500
-        height: 281
-        isCached: true
   - title: "Artificial Intelligence May Help Diagnose Dementia, Says Study"
     excerpt: "Artificial Intelligence is being used across industries to detect various threats. In fact, various researchers talk about how AI can help in detecting various hazardous diseases like oesophageal cancer by detecting its early signs."
     publishedDateTime: 2021-08-12T15:12:00Z
@@ -73,20 +57,6 @@ related:
       - url: "https://www.varsity.co.uk/sharingimage/21864.jpeg?store=37664"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Cambridge Judge Business School opens courses for startup funding and RegTech"
-    excerpt: "Cambridge Judge Business School and Esme Learning, the AI-powered digital learning platform, have announced a collaboration to empower working professionals’ career development across frontier fields."
-    publishedDateTime: 2021-08-10T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/88866/cambridge-judge-business-school-opens-courses-for-startup-funding-and-regtech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
 
 secured: "xZrGyc6e3ADFY536gR5ld7i0IjANqnoxK9bymvmHMO8uwpnNeAIRm3/x1PI5GVs86JHyrGwmM9TmjDF48ZAEcMgRDZAd1QqeeIMPLncRoCJVXtZ+jrdgp6XkVf4Y//kK69bfWv88aHSXpSl3Nq3mybLoUpyTgL7xLQotm82BoX3KYzOnhr6BDaG80hlR4p6QUvTR2nBw8FJrwdipJ25Zjs0dLDBVvYyFBfLBJg0tH9PAzCOEKrfs4jJLEirE9iVZyQrr1XTASZkW5maMTPEUkqn54dx0Y8f/IEGani5yldgTP5jJ77gk/OpSYToHtJs0E8OhBsUIlIFTLGyGcJp0Oi+zlWlDDH8pODog6Zxpkm5CO49mG0eB/6tm9WLwkfB9x5ukr8oSARwhq3XeAIdy4hKMouzxpiueCHWYIBy7/mpN6ClzqZ6IhGBXWY86X7tc4fLt2tVSWXNJJ9MSnPsm3bTIJU8Zh6X15DrK+yzjz91wEbgOOonW5Sxp+75cRtdnci4FWP9TXnsg+WH/VbAaZw==;E5rnsDp2X1w8l0j/wSZ1OA=="

@@ -2,6 +2,94 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
+      "title": "RBL Bank selects AWS as preferred cloud provider",
+      "excerpt": "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
+      "publishedDateTime": "2021-08-09T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud.md",
+      "title": "Danish State Railways rely on video security from Dallmeier, deployed within Azure cloud",
+      "excerpt": "Danish State Railways (“Danske Statsbaner”, DSB) operates the local passenger transport on nearly all the railway lines in Denmark. The scope of its responsibilities also includes",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/danish-state-railways-rely-video-security-co-527-ga.1628264030.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/920/danish-state-railways-rely-on-video-security-from-dallmeier-deployed-within-azure-cloud-920x533.jpg",
+          "width": 920,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T00:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-poll-do-you-use-your-phone-cameras-ai-mode.md",
       "title": "Poll: Do you use your phone camera's AI mode?",
       "excerpt": "Plenty of phones still offer an AI mode in their camera apps, but is this something you actually use? Let us know via our featured poll!",
@@ -1098,102 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra.md",
-      "title": "Make your audio and video files searchable using Amazon Transcribe and Amazon Kendra",
-      "excerpt": "The demand for audio and video media content is growing at an unprecedented rate. Organizations are using media to engage with their audiences like never before. Product documentation is increasingly published in video form, and podcasts are increasingly produced in place of blog posts. The recent explosion",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/make-your-audio-and-video-files-searchable-using-amazon-transcribe-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ML-4364-image001.png",
-          "width": 903,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T12:06:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-vatican-killer-robots-pose-threat-to-innocent-civilians.md",
-      "title": "Vatican: ‘Killer robots’ pose threat to innocent civilians",
-      "excerpt": "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva.",
-      "sourceUrl": null,
-      "webUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
-      "originalUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg",
-          "width": 2560,
-          "height": 1777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
-      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
-      "publishedDateTime": "2021-08-06T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crux",
-        "domain": "cruxnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

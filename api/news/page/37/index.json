@@ -2,6 +2,101 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-07-15-simplify-secure-search-solutions-with-amazon-kendras-principal-store.md",
+      "title": "Simplify secure search solutions with Amazon Kendra’s Principal Store",
+      "excerpt": "For many enterprises, critical business information is often stored as unstructured data scattered across multiple content repositories. It is challenging for organizations to make this information available to users when they need it. It is also difficult to do so securely so that relevant information",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-secure-search-solutions-with-the-new-principal-store-for-secure-search-in-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/13/1-4820-Chart.jpg",
+          "width": 800,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:59:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-16-powerful-vehicle-intelligence-with-virtually-unlimited-scalability.md",
+      "title": "Powerful Vehicle Intelligence with Virtually Unlimited Scalability",
+      "excerpt": "camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology and compatible with video management systems (VMS). Today, the brand's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/powerful-vehicle-intelligence-with-virtually-unlimited-scalability-301335215.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1215961/PlateSmart_Logo.jpg?p=facebook",
+          "width": 2079,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-researchers-develop-deep-learning-method-for-translating-vocal-signals-from-the-brain-to-text.md",
       "title": "Researchers develop deep-learning method for translating vocal signals from the brain to text",
       "excerpt": "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural",
@@ -1108,83 +1203,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-expertai-announces-winners-of-sentiment-opinion-mining-hackathon.md",
-      "title": "Expert.ai Announces Winners of Sentiment & Opinion Mining Hackathon",
-      "excerpt": "BOSTON, July 15, 2021 /PRNewswire/ -- Expert.ai announced today the winners of the \"Sentiment & Opinion Mining Natural Language API ... retrieval and machine translation, to make sure user ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/expertai-announces-winners-of-sentiment--opinion-mining-hackathon-301333647.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression.md",
-      "title": "Major Study From Stanford University and Youper Finds Artificial Intelligence Therapy Effective at Reducing Anxiety and Depression",
-      "excerpt": "a team of scientists at Stanford University confirmed a new model of mental health treatment that uses artificial intelligence therapy is significantly effective at reducing symptoms of depression ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/major-study-from-stanford-university-and-youper-finds-artificial-intelligence-therapy-effective-at-reducing-anxiety-and-depression-301334656.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-15T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
