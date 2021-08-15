@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/11/unlocking-the-power-of-predictive-analytics-with-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://assets.vccircle.com/uploads/2020/10/fundingrfxl.jpg"
         width: 810
         height: 506
+        isCached: true
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
+    publishedDateTime: 2021-08-11T21:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
         isCached: true
 
 secured: "FJ5nV2MSbf1ZLlzt7ofYfat8YXCqDThfIjnu+dSJJgkUk1b2Z+z1X+Z2gP8i0bE+4LNrE+b5YsnX71DwWjdGA0iBgVYnuIT7LREvpWkbuK6hvCo098GPsCealEQ1wubk6qL30W1UgYwYrId6/64fq3upLu5jIp/wLJQDkZFAZA6XwOb0q8hTVvaBqv0MvUlPy2PKMJykUIUM5k/cJJOm9taSIBv11AD0fSjEgaR7PItUnwA9WarXnX1lF/d5+Kvt0H6LBsO/kMrIBFVCgNlDiXJ81zstxuH/jdjNQwyG1GyDEd9l/am2FGpykUaENG4ABT7V+9CUBJuoeNy5JhzsSJT3YwmUfGJgBzG4DB3Wcnc=;ISJVJtVPdL2o7MzqQHAXGA=="

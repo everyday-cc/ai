@@ -47,22 +47,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Delivery robots are coming to a college dorm near you"
-    excerpt: "There’s a new vehicle adding to the traffic of campus corridors: fun-sized autonomous food delivery robots, courtesy of. The company is adding the University of Illinois Chicago, the University of Kentucky,"
-    publishedDateTime: 2021-08-10T15:54:00Z
-    webUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you"
-    ampWebUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/08/Starship-6.png"
-        width: 2000
-        height: 1275
-        isCached: true
 
 secured: "UXZ1WqX6KCmx7Wd5/FffqEt/G472Kl9j5nl+5ekWrWFvC7fBbUsQUou6oLk/99h1SzbySo6fJmAnLIFd9ixngPSwPippJrbrTsArftohtXa72NRVV1L6ZokDFZIZs1LlSWJA3lp3ZD3752JhanSOP2Kjrf88hJ+cAh5GwM1YndXeMwakAECfVfVk+qBAw8017gCfKW08PuLiRRubqLi92UatAWI4CfrFk4fa/eVk9KIHotkBjNJ+QYtnK6Vo32iGMbr9c0N3MVl0LSvNm02ZuA7LHzWsslX3pyayOsAvfgi1LAn1V1hIWrB1srvCffgkJK5OVK8o/yif1n8/V+n+/QCx3x+WoLxrhpDy6TxaBWmD5h/Wyj3HjSDokiEI304i8H3Peh5/3YMfmWhqjKlzBvsJqi/sCUqp+IISRgOaZJmx23HgWEQfT3va/cZ7WR6H/gfz7lzFguGtV7L7cuF77GanSd/cPmCtHBOp9zQuyRYANB5PPRjdIqIf98KNJx+9RBnAtWm2pYcFucvy1VtLUg==;WdsoRR6DNPUJHj+SC56/mQ=="
 ---

@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Stanford researchers use artificial intelligence to unlock extreme weather mysteries"
-    excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
-    publishedDateTime: 2021-08-10T16:20:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/924953"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5d1bfdf8-c8a7-4165-9604-35e73e78a229/Rendition/thumbnail/Content/Public"
-        width: 291
-        height: 300
-        isCached: true
-
 secured: "dJhnjorGyz6H8Mhq5aH/5KCI/D25TdzbIB503W2bB0GJZSxCD5Yzo0uvIXtpkODjxdoW/BmWwX5qjG51/dbJkLPVu2LzvcX4nc3XJ5x45JMLADf3lnPUOp8u/DTZLrRqNT4QdjNmYQSgflGa8Q60JZgkzuChf1y0T0SqhkMeH58j2Ips+HqKzuYNhmY004tbJiyHu2xQe1bJbCMdvB9vi07tuZgljHDf2BZ8VnFz1YmdPbe/3STAial//sHsZ1NmDLGiMijYsQXdFufCNOXq/ybqtDmPxGBI4itCNZ9kM8zdAjDxff3B5lX14CHRy7HFoYfsI7n5Yc6nr44OEOziTKCthvVhT4F+9wiBQJVAH8k=;i/CJlL6swl/MoC+UIEjIcQ=="
 ---
 

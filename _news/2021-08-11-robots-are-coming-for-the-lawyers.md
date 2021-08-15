@@ -39,22 +39,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Robots are coming for the lawyers — which may be great for anyone in need of cheap legal assistance"
-    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it's hard to imagine those complex tasks being done by a robot."
-    publishedDateTime: 2021-08-10T15:43:00Z
-    webUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-robots-lawyers-great-cheap-legal.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 45
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/lawyer.jpg"
-        width: 1920
-        height: 1439
-        isCached: true
   - title: "Robots are coming for the lawyers - which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance"
     excerpt: "It turns out that you don’t need to completely automate a job to fundamentally change it. All you need to do is automate part of it."
     publishedDateTime: 2021-08-11T03:34:00Z

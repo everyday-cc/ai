@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/10/22617175/starship-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses"
 type: article
 quality: 165
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112c74bdc684294afae033c%2F0x0.jpg"
         width: 1200
         height: 803
-        isCached: true
-  - title: "Delivery robots are coming to a college dorm near you"
-    excerpt: "There’s a new vehicle adding to the traffic of campus corridors: fun-sized autonomous food delivery robots, courtesy of. The company is adding the University of Illinois Chicago, the University of Kentucky,"
-    publishedDateTime: 2021-08-10T15:54:00Z
-    webUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you"
-    ampWebUrl: "https://www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/delivery-robots-are-coming-to-a-college-dorm-near-you/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/08/Starship-6.png"
-        width: 2000
-        height: 1275
         isCached: true
 
 secured: "kw6EfpWH2wBUFSlPsoDv8Qb/WunzuRVkOHTmY6DQ8F/Y/GWv7FxZsXDbXXyiGVc/BqvqtTBbkYey1H6Ktug+9nJy0uArYKunD0EyaFAz6uWlZVU0QExPQeseFV2zuxbFftMoyCfOTOL6SsmOwAWb3/m+11+bl0u5BbUneKrTyGRwviUJrljrH21IRsKHCZ68TpDibpTi5HFIwaKAaDB9Vye+lDtjX8Zu6DglCvfPo9KlSwFuDTMGl9WyYKl8Pwt08qJHLiStaWu3PVm6M7AusVG1BBw5lessmk3cvjDlioXHv98PxqYvH19Dikp5wChzlEnykebPy3/TmpoKp680s8YcaxmnFEmFEqlI6bZptEk=;8SkV4GV4Vc975RkL9ozYnA=="

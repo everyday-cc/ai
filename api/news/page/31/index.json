@@ -2,6 +2,100 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-07-20-toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.md",
+      "title": "Toronto AI chip startup Untether gets backing from Intel and CPP Investment Board",
+      "excerpt": "U.S. ($159-million Canadian) investment in Untether AI Corp., a Toronto-based startup that develops high-performance chips for artificial intelligence programs. Canada Pension Plan Investment Board, Canada’s largest pension fund,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "originalUrl": "https://www.thestar.com/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thestar.com/mHTO2t2r0_YS2tNTJrPGgvJ4BL0=/1200x799/smart/filters:cb(1626799604103)/https://www.thestar.com/content/dam/thestar/business/2021/07/20/toronto-ai-chip-startup-untether-gets-backing-from-intel-and-cpp-investment-board/intel_logo.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-20T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
+      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
+      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "originalUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/20/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "publishedDateTime": "2021-07-20T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-20-oxya-wins-google-clouds-2020-global-partner-of-the-year-award-sap-specialization-on-google-cloud.md",
       "title": "oXya Wins Google Cloud's 2020 Global Partner of the Year Award - SAP Specialization on Google Cloud",
       "excerpt": "JERSEY CITY, N.J., July 20, 2021 /PRNewswire/ -- oXya, a Hitachi Group Company, announces today that it has received the 2020 Google Cloud Global SAP Specialization Partner of the Year",
@@ -1080,102 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) in Education Market Report 2021, Industry Size, Outlook, Production, Revenue, Gross Margin and Forecast to 2026",
-      "excerpt": "Jul (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Artificial Intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-education-market-report-2021-industry-size-outlook-production-revenue-gross-margin-and-forecast-to-2026-2021-07-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-20T01:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-20-far-reaching-impact-of-microsofts-entry-into-rpa.md",
-      "title": "Far-Reaching Impact of Microsoft’s Entry into RPA",
-      "excerpt": "Microsoft has officially entered the robotic process automation (RPA) marketplace with some major changes to its Power Platform. Learn about the far-reaching impact of Microsoft’s entry into RPA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
-      "originalUrl": "https://www.analyticsinsight.net/far-reaching-impact-of-microsofts-entry-into-rpa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/07/RPA.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T23:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

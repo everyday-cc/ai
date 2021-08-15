@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/08/12/nfl-aws-launch-new-competition
 webUrl: "https://www.datanami.com/2021/08/12/nfl-aws-launch-new-competition-to-track-helmet-impacts-in-football/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "NFL, AWS Host Second Computer Vision Contest to ID Players"
-    excerpt: "The contest seeks algorithms that can automatically identify players involved in a helmet impact by using game footage."
-    publishedDateTime: 2021-08-10T16:00:00Z
-    webUrl: "https://www.sporttechie.com/nfl-aws-host-second-computer-vision-contest-to-id-players"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 56
-    images:
-      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "0gMv6ne78SPFXYwEp9Kjr93E66T+Yr+s26clO5pTsIq1V3n6uBciDmycY+UWa3T2HUTw189uzEZ3bKi18FQd7LiZyY0h9xZF0pJl/8a6NizHRQ1ie/6ecDwOxq9Ix9aJPjsl02i2Y5FRu46QIxM0gVjRBmqCDzLX+iOAKv1dhTGNmLAtL/CDcno/WChUYSyF4ExiC/tCZrAclWzF2HZjt1RI7em736oSEIqZG+hs2n93nrTfo2w+jZQBIynGl0Wu1T2wjI5DPAw+CYZIKRhfIpNwZubaafLKSkjNc1GvkLS4lLTUkgXiGaWBHryCClO4R4x2m+J7pQc5Qn6ScLZpTEdyWLlD4ERvQ9qlACKVeZR3eIPZ6CRb/tmRThHOZUKWjhSAz2OgLkx+8+OgJjwrxSHczUU9ojPL7nnLQ6baoSZ6mwGoKxABVAbK+Bl1xuDsAfvu9a11SW/+ERkgYJdR15H2xFUbs2o5g3m+oJa3WYL5XXkr4NiW/ZW/p7FIMcM4QqVcasL4fatosIoSmcE6rQ==;xe+5sx4fZJkI2TIQmbwTrg=="
 ---

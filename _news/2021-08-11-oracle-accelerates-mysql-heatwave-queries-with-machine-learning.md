@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-h
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/ab-tower-cloud-database-scaled.jpg"
         width: 2560
         height: 1536
-        isCached: true
-  - title: "Oracle Announces MySQL Autopilot for MySQL HeatWave Service"
-    excerpt: "Oracle today announced availability of MySQL Autopilot, a new component of MySQL HeatWave service, the in-memory query acceleration engine"
-    publishedDateTime: 2021-08-10T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-mysql-autopilot-for-mysql-heatwave-service-301351661.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
   - title: "Oracle Announces MySQL Autopilot To Improve The Performance & Scalability Of MySQL HeatWave Service"
     excerpt: "Oracle announced the availability of MySQL Autopilot — a new component of MySQL HeatWave service in Oracle Cloud Infrastructure"

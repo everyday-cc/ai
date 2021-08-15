@@ -2,6 +2,93 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-04-global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026.md",
+      "title": "Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026",
+      "excerpt": "The research report titled “Global AI In Computer Vision Market anticipated to experience constant growth during 2020-2026” and published by “Zion Market Research” is an in-depth and dedicated scrutiny of the existing stats of the global AI In Computer Vision Market entailing the numerous facets pertinent to statistics and growth of the business.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "originalUrl": "https://manometcurrent.com/global-ai-in-computer-vision-market-anticipated-to-experience-constant-growth-during-2020-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccourier.com/wp-content/uploads/2021/01/Global-AI-In-Computer-Vision-Market.jpg",
+          "width": 449,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-08-04-machine-learning-blood-analysis-could-predict-schizophrenia-risk.md",
+      "title": "Machine Learning Blood Analysis Could Predict Schizophrenia Risk",
+      "excerpt": "An innovative strategy that analyzes a region of the genome offers the possibility of early diagnosis of schizophrenia, reports a research team.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/logo/social/facebook.PNG",
+          "width": 389,
+          "height": 389,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/neuroscience/news/amp/machine-learning-blood-analysis-could-predict-schizophrenia-risk-351648",
+      "publishedDateTime": "2021-08-04T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-mexican-artificial-intelligence-startups-with-a-global-profile.md",
       "title": "Mexican Artificial Intelligence startups with a global profile",
       "excerpt": "Kueski, Intellion, Kuona Analytics, Pro Indie Music, BrandMe, Homie, Bayonet, and SoldAI are transforming the way we work with Big Data.",
@@ -1060,92 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-threat-of-chip-shortages-remains-real-for-hundreds-of-industries.md",
-      "title": "Threat Of Chip Shortages Remains Real For Hundreds Of Industries",
-      "excerpt": "As tech companies reported record-setting quarterly earnings revenues last week, one issue continued to loom large: the ongoing global semiconductor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/chip-semiconductor-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/threat-of-chip-shortages-remains-real-for-hundreds-of-industries/amp/",
-      "publishedDateTime": "2021-08-03T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-ampere-computing-buys-an-ai-inference-performance-leap.md",
-      "title": "Ampere Computing Buys An AI Inference Performance Leap",
-      "excerpt": "Machine learning inference models have been running on X86 server processors from the very beginning of the latest – and by far the most successful – AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/ampere-onspecta-logo.jpg",
-          "width": 705,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/03/ampere-computing-buys-an-ai-inference-performance-leap/amp/",
-      "publishedDateTime": "2021-08-03T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

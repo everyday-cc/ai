@@ -59,6 +59,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Pune students make driverless electric 4-wheeler using Artificial Intelligence"
+    excerpt: "A group of engineering students of Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler vehicle using Artificial Intelligence (AI) with an aim of reducing accidents and deaths caused by human errors."
+    publishedDateTime: 2021-08-12T03:08:00Z
+    webUrl: "https://inshorts.com/en/news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 70
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/12_thu/img_1628735828434_130.jpg?"
+        width: 922
+        height: 461
+        isCached: true
   - title: "Pune students develop 'driverless' electric four-wheeler using artificial intelligence"
     excerpt: "This vehicle has been developed by the students of mechanical engineering and electronics and telecommunications branches of the MIT World Peace University."
     publishedDateTime: 2021-08-11T16:38:00Z

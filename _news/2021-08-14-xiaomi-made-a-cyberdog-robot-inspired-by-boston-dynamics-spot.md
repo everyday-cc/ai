@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi Just Unveiled Its First Robot Dog"
-    excerpt: "Xiaomi today unveiled its open-source four-legged CyberDog that developers can \"build upon\" in order to create their own applications."
-    publishedDateTime: 2021-08-10T15:27:00Z
-    webUrl: "https://interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog"
-    ampWebUrl: "https://amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/xiaomi-just-unveiled-its-first-robot-dog"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/Xy6xljzk6r/sizes/cyberdog-1_resize_md.jpeg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500"
     excerpt: "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500. You can customize the functions of the machine to your liking."
     publishedDateTime: 2021-08-11T12:41:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
         width: 700
         height: 450
-        isCached: true
-  - title: "Xiaomi Is Making Robot Dogs Now, Launches New CyberDog"
-    excerpt: "Forget about smartphones and vacuum cleaners. The Chinese tech giant is now making robot dogs. Its latest creation, called CyberDog, looks strikingly similar to Boston Dynamics’ Spot, minus the extra arm we often see on the yellow robot."
-    publishedDateTime: 2021-08-10T17:01:00Z
-    webUrl: "https://www.autoevolution.com/news/xiaomi-is-making-robot-dogs-now-launches-new-cyberdog-167034.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/xiaomi-is-making-robot-dogs-now-launches-new-cyberdog-167034_1.jpg"
-        width: 1458
-        height: 660
         isCached: true
 
 secured: "+QCifihQ93RH3VufFbMaj+VQHZySG5ciTOGcNgHNoJ+X9TyAqiLR/lQNe2pxzJ3TxWkZ5J1nhsCI6rL0Pwes3+BLPMFB9pn04gBV67Eh6MoJCrxnQnTBtVLhfAuj6oDX8L1z1puI8ZihrWPRh5NrUo6O/zl+7v2xQ6IghICtFQ36KEG1nu9pp9Vi+ni1n9fQFrxmkUwg2q7cuM7Vca+4/iJ4yzzB+Jgc4TmKbKraczp6ry4BAKNoKCkAi32NwHGHIramJODgO0WKlk3Wfk3evLp9Ajd84Hku+/wdJpA4pLQPTQsz2dmJg+tMj54yg3YqOWxkAGgioVQq3XDvEtd4WEvRcvzuoI7LQZYQSyhbLHrq7B7Iw7pf/4nCkLiRx3s5kYGefqQc2rLddZTeJLYLVFPKOfdonBxvJCD72f9T+x3FIPKWxAdt6FSKdztsRGv7BGtEg045cZAfFaX2Z1RJJU13Www5SgAXRJS+Epvd2q26XW+dYl3na8PXs3V86n7wGrdDRvlsF+MnJtvybu0spw==;U/4cU2/sDNVldUjU8oWzZw=="

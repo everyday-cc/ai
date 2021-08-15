@@ -2,6 +2,91 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-09-chinas-top-court-specifies-rules-for-facial-recognition.md",
+      "title": "China's top court specifies rules for facial recognition",
+      "excerpt": "China's Supreme People's Court specified a set of regulations for the use of facial recognition, according to The Xinhua News Agency reports.The rules involve",
+      "sourceUrl": null,
+      "webUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "originalUrl": "https://ukranews.com/en/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ukranews.com/upload/media/2021/08/02/6107a455ace8e-Tehnologiya_litsa.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "cdnAmpWebUrl": "https://ukranews-com.cdn.ampproject.org/c/s/ukranews.com/en/amp/news/792376-china-s-top-court-specifies-rules-for-facial-recognition",
+      "publishedDateTime": "2021-08-09T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Новости Украины",
+        "domain": "ukranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-us-prisons-mull-ai-to-analyze-inmate-phone-calls.md",
+      "title": "U.S. prisons mull AI to analyze inmate phone calls",
+      "excerpt": "For people like Heather Bollin, a 43-year-old woman in Texas engaged to a man who is currently incarcerated, constant surveillance is a fact of life: the three daily phone calls they have together are subject to monitoring by prison officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-tech-prison/us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSKBN2FA0OO",
+      "originalUrl": "https://www.reuters.com/article/usa-tech-prison/feature-us-prisons-mull-ai-to-analyze-inmate-phone-calls-idUSL8N2PB022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2FA0OO",
+      "publishedDateTime": "2021-08-09T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-aicte-to-offer-management-non-technical-courses-in-regional-languages-too.md",
       "title": "AICTE to Offer Management, Non-Technical Courses in Regional Languages Too",
       "excerpt": "Soon after announcing that 14 colleges across India will be offering BTech courses in their mother tongue, now the central government is planning to offer management and several non-tech courses in regional languages too.",
@@ -42,50 +127,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-rbl-bank-selects-aws-as-preferred-cloud-provider.md",
-      "title": "RBL Bank selects AWS as preferred cloud provider",
-      "excerpt": "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html",
-      "publishedDateTime": "2021-08-09T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1112,57 +1153,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png",
-          "width": 720,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
-      "publishedDateTime": "2021-08-06T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

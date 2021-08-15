@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 266
+heat: 256
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "OpenAI upgrades its natural language AI coder Codex and kicks off private beta"
-    excerpt: "OpenAI has already made some big changes to Codex, the AI-powered coding assistant the company announced last month. The system now accepts commands in plain English and outputs live, working code, letting someone build a game or web app without so much as naming a variable."
-    publishedDateTime: 2021-08-10T17:01:00Z
-    webUrl: "https://techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/"
-    ampWebUrl: "https://techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/10/openai-upgrades-its-natural-language-ai-coder-codex-and-kicks-off-private-beta/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/openai-ship.gif?w=925"
-        width: 925
-        height: 519
         isCached: true
   - title: "Codex, an AI system that translates natural language to programming code"
     excerpt: "Artificial intelligence research company OpenAI has announced the development of an AI system that translates natural language to programming code—called Codex, the system is being released as a free API,"

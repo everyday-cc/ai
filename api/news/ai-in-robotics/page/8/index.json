@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-06-17-the-future-of-automation-robots-are-coming-but-they-wont-take-your-job.md",
+      "title": "The future of automation: Robots are coming, but they won’t take your job",
+      "excerpt": "This, in a somewhat cyberbolic nutshell, is the biggest immediate threat many fear when it comes to automation: Not a robopocalypse brought on by superintelligence, but rather one that ushers in an age of technological unemployment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
+      "originalUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/retail-turns-more-and-more-to-machines.jpg",
+          "width": 2000,
+          "height": 1406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/the-future-of-automation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp",
+      "publishedDateTime": "2021-06-16T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-16-these-cool-robots-can-sing-happy-birthday-and-even-paint-your-nails.md",
       "title": "These cool robots can sing ‘Happy Birthday’ and even paint your nails",
       "excerpt": "From sexual companions to COVID-19 nurses, robots are increasingly dominating the human experience. They’re rolling into our everyday lives as digital sidekicks designed to more safely, efficiently and speedily take on our tasks.",

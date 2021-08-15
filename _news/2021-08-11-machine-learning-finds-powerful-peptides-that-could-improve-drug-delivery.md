@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Machine learning discovers new sequences to boost drug delivery"
-    excerpt: "MIT researchers employ machine learning to find powerful peptides that can improve a gene therapy drug for Duchenne muscular dystrophy."
-    publishedDateTime: 2021-08-10T16:41:00Z
-    webUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202108/machine-learning-peptide_0.png"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Machine learning discovers new sequences to boost drug delivery"
     excerpt: "Duchenne muscular dystrophy (DMD), a rare genetic disease usually diagnosed in young boys, gradually weakens muscles across the body until the heart or lungs fail. Symptoms often show up by age 5; as the disease progresses,"
     publishedDateTime: 2021-08-10T18:14:00Z
     webUrl: "https://phys.org/news/2021-08-machine-sequences-boost-drug-delivery.html"

@@ -57,20 +57,6 @@ related:
         width: 1420
         height: 946
         isCached: true
-  - title: "Nvidia RTX A2000 desktop GPU launches for SFF workstations"
-    excerpt: "Compatible with SFF workstations and costing $450 Nvidia hopes its Nvidia RTX A2000 desktop GPU will bring ray tracing to the masses."
-    publishedDateTime: 2021-08-10T16:00:00Z
-    webUrl: "https://aecmag.com/workstations/nvidia-rtx-a2000-desktop-gpu-launches-for-sff-workstations/"
-    type: article
-    provider:
-      name: AEC Magazine
-      domain: aecmag.com
-    quality: 39
-    images:
-      - url: "https://aecmag.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-5.jpg"
-        width: 1500
-        height: 844
-        isCached: true
   - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
     excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
     publishedDateTime: 2021-08-11T17:18:00Z

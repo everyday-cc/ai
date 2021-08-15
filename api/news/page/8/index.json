@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-07-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "Artificial intelligence systems have become a critical ingredient in the tech sector's recipe for growth, with applications that help boost the capabilities of everything from search engines to autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/6c579929ba394e7a4b04230f9c838787.png",
+          "width": 720,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/06/3-top-artificial-intelligence-stocks-buy-in-august/",
+      "publishedDateTime": "2021-08-06T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-senpaigg-wants-to-be-your-ai-powered-video-game-coach.md",
       "title": "SenpAI.GG wants to be your AI-powered video game coach",
       "excerpt": "With most popular modern video games, there’s a huge gap between being a good player and a great one. A casual player might be able to hold their own against other casual players, only for a random pro to wander by and chew through everyone like they’re somehow playing with a different",
@@ -990,6 +1041,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
+      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
+      "excerpt": "The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing unit and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-a-new-generation-of-ai-powered-robots-is-taking-over-warehouses.md",
       "title": "A new generation of AI-powered robots is taking over warehouses",
       "excerpt": "Within a few years, any task that previously required hands to perform could be partially or fully automated away.",
@@ -1072,101 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
-      "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
-      "excerpt": "Guangzhou The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22368911/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22368911/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22368911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22368911",
-      "publishedDateTime": "2021-08-06T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-google-is-developing-a-new-superintelligent-ai-but-ethical-questions-remain.md",
-      "title": "Google is developing a new superintelligent AI but ethical questions remain",
-      "excerpt": "Jeff Dean's appearance at TED comes during a time when critics are calling for greater scrutiny over big tech's control over the world's AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "originalUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/TM21_20210803_2RL8568-e1628133926662.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2042493/pathways-google-is-developing-a-superintelligent-multipurpose-ai/amp/",
-      "publishedDateTime": "2021-08-06T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

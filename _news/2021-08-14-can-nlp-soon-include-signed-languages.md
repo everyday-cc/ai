@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/can-nlp-soon-include-signed-languages/"
 webUrl: "https://www.unite.ai/can-nlp-soon-include-signed-languages/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 896
     height: 600
     isCached: true
-
-related:
-  - title: "Natural language processing research: Signed languages"
-    excerpt: "Advancements in natural language processing (NLP) enable computers to understand what humans say and help people communicate through tools like machine translation, voice-controlled assistants and chatbots."
-    publishedDateTime: 2021-08-10T16:30:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210809181038.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "br/zTNGav8RL/AnVmlA91ycfjg5Fqp232r2fAp64scb3WqwCHkHlacPv24dFzx6I92mrn2gdc+U+R10NMWyahOI7ACMXl2FKcEvoFcEoWVBp9AS0iJkIpThAteqA/0GoEamXnHrDg7/4mRMLMght8Yw1vwfoCmYcq/RpANn8Qb6LQwRi6bXs63csSY3ZedP/sutO/9lxGsa/XTBMi//dU6Nqh03syLuhoNwhGPnUIw7YMtbOmkKsFQLYH2GECZ9GHiLTFiXzrbuvEb6muyRXBpUCQ89VfGlzAIT8WM70BJ9kaY+qU8l4auJMy5P2qbESViACZ2zaWCwhs+CMiCTXKh4gdbZg27MGbDgQOONkliyLi6Czt1MW72na3LSZAzV96JYqQh6DIh8MW1iBG6nAg7yTZvbwGayyf7VtvTuCfm9CwiEmaEYEikmaSnd194L3ixqhDLmvVkc1YSWidnllgoZEVcGiHPUjqtzSPFiQKnDE9Tb2y0GMuLNZeEaRN2XPKlxQP6JhttQTruoUqSgWSQ==;Jy6X2E231B28ogOPycfe7Q=="
 ---

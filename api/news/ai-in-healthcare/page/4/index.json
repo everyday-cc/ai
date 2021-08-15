@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-28-eyetech-digital-systems-recognized-by-siia-as-best-artificial-intelligence-solution-in-healthcare.md",
+      "title": "EyeTech Digital Systems Recognized by SIIA as Best Artificial Intelligence Solution in Healthcare",
+      "excerpt": "EyeTech Digital Systems ′ EyeOn platform has been named the 2021 Best Artificial Intelligence Solution in Healthcare as part of the annual SIIA CODiE Awards. The CODiE Awards recognize companies producing the most innovative business technology products across the country and around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/artificial-intelligence-technology-90889e6221b2aed7f789007e4c6a8ae6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-28-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time.md",
+      "title": "KidneyIntelX Enables Monitoring of SGLT2 Inhibitor Therapy Response and Corresponding Risk Reduction Over Time",
+      "excerpt": "Renalytix plc (LSE: RENX) (NASDAQ: RNLX) announces new data demonstrating KidneyIntelX can be effective at monitoring therapeutic response and improvements in kidney health over time in adults with type 2 diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wallstreet-online.de/nachricht/14089480-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time/all",
+      "originalUrl": "https://www.wallstreet-online.de/nachricht/14089480-kidneyintelx-enables-monitoring-of-sglt2-inhibitor-therapy-response-and-corresponding-risk-reduction-over-time/all",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wallstreet online",
+        "domain": "wallstreet-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
       "title": "Artificial intelligence positioned to be a game-changer",
       "excerpt": "The search to improve and eventually perfect artificial intelligence is driving the ... So we found that we were deciding on therapy based on information that was always, in some cases, 12 ...",
@@ -1178,93 +1255,6 @@
       "provider": {
         "name": "MedPage Today",
         "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare.md",
-      "title": "Explainer: Ethical Issues Proliferate Amid the Use of Artificial Intelligence in COVID-19 Healthcare",
-      "excerpt": "During the pandemic, the scientific community took a remarkable step forward by sharing large sets of public data on COVID-19 with researchers and healthcare professionals engaged in treatments and",
-      "sourceUrl": null,
-      "webUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "originalUrl": "https://www.jurist.org/features/2021/06/14/explainer-ethical-issues-proliferate-amid-the-use-of-artificial-intelligence-in-covid-19-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://justatic.com/v/20210216aa/external/jurist/images/assets/myanmar-coup-coverage.png",
-          "width": 940,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-14T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jurist",
-        "domain": "jurist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-06-14-artificial-intelligence-for-predicting-tmb-h-colorectal-cancer-from-histopathological-characteristics.md",
-      "title": "Artificial intelligence for predicting TMB-H colorectal cancer from histopathological characteristics",
-      "excerpt": "This artificial intelligence is important in solving the ... (including inhibitors of the PD-1 protein and its ligand, PD-L1) therapy, without implicating the use of gene panel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210614/Artificial-intelligence-for-predicting-TMB-H-colorectal-cancer-from-histopathological-characteristics.aspx",
-      "publishedDateTime": "2021-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

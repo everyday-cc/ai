@@ -205,6 +205,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-artificial-intelligence-unlocks-extreme-weather-mysteries.md",
       "title": "Artificial intelligence unlocks extreme weather mysteries",
       "excerpt": "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood.",
@@ -603,6 +647,40 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-prevencio-announces-us-patent-issuance-for-novel-artificial-intelligence-driven-blood-test-for-cardiac-risk.md",
+      "title": "Prevencio Announces U.S. Patent Issuance for Novel, Artificial Intelligence-driven Blood Test for Cardiac Risk",
+      "excerpt": "Prevencio, Inc. today announces the United States Patent Office’s issuance of a patent for its highly accurate HART CVE blood test",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
+      "originalUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1293,102 +1371,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
-      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
-      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
-      "title": "Does Your Project Need Artificial Intelligence?",
-      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

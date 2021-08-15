@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-08-machine-sequences-boost-drug-delivery.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-machine-sequences-boost-drug-delivery.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning discovers new sequences to boost drug delivery"
-    excerpt: "MIT researchers employ machine learning to find powerful peptides that can improve a gene therapy drug for Duchenne muscular dystrophy."
-    publishedDateTime: 2021-08-10T16:41:00Z
-    webUrl: "https://news.mit.edu/2021/machine-learning-discovers-sequences-boost-drug-delivery-0810"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202108/machine-learning-peptide_0.png"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Machine Learning Finds Powerful Peptides That Could Improve Drug Delivery"
     excerpt: "Researchers from MIT have harnessed machine learning approaches to discover powerful peptides that could improve a gene therapy designed to treat Duchenne muscular dystrophy."
     publishedDateTime: 2021-08-11T08:56:00Z

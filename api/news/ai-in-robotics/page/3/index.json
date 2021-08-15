@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-28-ai-powered-beach-cleanup-robots.md",
+      "title": "AI-Powered Beach Cleanup Robots",
+      "excerpt": "It’s estimated that more than 4.5-trillion cigarette butts are littered across the environment around the world, which is something the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
+      "originalUrl": "https://www.trendhunter.com/trends/robotic-beach-cleaner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/robotic-beach-cleaner.jpeg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/robotic-beach-cleaner",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/robotic-beach-cleaner",
+      "publishedDateTime": "2021-07-27T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-ambi-robotics-releases-ambikit-a-new-kitting-robot-system.md",
       "title": "Ambi Robotics releases Ambikit, a new kitting robot system",
       "excerpt": "Ambi Robotics introduces AmbiKit, a new AI-driven kitting applications that leverages vision and robots to pick items from bulk into kits.",
@@ -1372,58 +1415,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-lyft-invests-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
-      "title": "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
-      "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 404,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F609087f84501f2a79e9e0618%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/07/21/lyft-invests-in-argo-ai-ford-robotaxis-in-late-2021/amp/",
-      "publishedDateTime": "2021-07-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

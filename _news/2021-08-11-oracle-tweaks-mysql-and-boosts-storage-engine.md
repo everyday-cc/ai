@@ -79,20 +79,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "Oracle Announces MySQL Autopilot for MySQL HeatWave Service"
-    excerpt: "Oracle today announced availability of MySQL Autopilot, a new component of MySQL HeatWave service, the in-memory query acceleration engine"
-    publishedDateTime: 2021-08-10T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/oracle-announces-mysql-autopilot-for-mysql-heatwave-service-301351661.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Oracle Announces MySQL Autopilot To Improve The Performance & Scalability Of MySQL HeatWave Service"
     excerpt: "Oracle announced the availability of MySQL Autopilot — a new component of MySQL HeatWave service in Oracle Cloud Infrastructure"
     publishedDateTime: 2021-08-12T10:48:00Z

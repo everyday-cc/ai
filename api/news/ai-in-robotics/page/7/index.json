@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-06-25-global-service-robotics-market-to-reach-1104-billion-by-2026.md",
+      "title": "Global Service Robotics Market to Reach $110.4 Billion by 2026",
+      "excerpt": "A new market study published b Inc., (GIA) the premier market research company, today released its report titled \"Service Robotics",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-service-robotics-market-to-reach-110-4-billion-by-2026/article_8e54d362-34cd-5b7c-a38a-e305a85ce978.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/a2/0a2fd92a-dc2e-5dc4-89b4-5d29314f0bdf/60d5dedf20d09.image.jpg?resize=1101%2C630",
+          "width": 1101,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-attention-it-professionals-robots-are-not-trying-to-steal-your-jobs.md",
       "title": "Attention, IT Professionals: Robots Are Not Trying To Steal Your Jobs",
       "excerpt": "The reality is intelligent automation is more about eliminating manual tasks than it is about replacing human workers.",
@@ -1314,58 +1357,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-the-future-of-automation-robots-are-coming-but-they-wont-take-your-job.md",
-      "title": "The future of automation: Robots are coming, but they won’t take your job",
-      "excerpt": "This, in a somewhat cyberbolic nutshell, is the biggest immediate threat many fear when it comes to automation: Not a robopocalypse brought on by superintelligence, but rather one that ushers in an age of technological unemployment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
-      "originalUrl": "https://www.digitaltrends.com/features/the-future-of-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/retail-turns-more-and-more-to-machines.jpg",
-          "width": 2000,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/the-future-of-automation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/the-future-of-automation/?amp",
-      "publishedDateTime": "2021-06-16T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nyoooz.com/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -152,10 +152,10 @@
     {
       "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
       "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
-      "excerpt": "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ...",
+      "excerpt": "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -174,7 +174,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T07:18:00-07:00",
+      "publishedDateTime": "2021-08-10T06:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Insider Monkey",
@@ -188,8 +188,9 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -515,10 +516,10 @@
     {
       "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
       "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
-      "excerpt": "Guangzhou The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing ...",
+      "excerpt": "The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing unit and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/08/n22368911/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/08/n22368911/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -535,14 +536,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22368911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22368911",
-      "publishedDateTime": "2021-08-06T01:42:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-06T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

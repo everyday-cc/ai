@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-26-unitypoint-health-des-moines-partners-with-qventus-to-deliver-improved-patient-experience.md",
+      "title": "UnityPoint Health -- Des Moines Partners with Qventus to Deliver Improved Patient Experience",
+      "excerpt": "DES MOINES, Iowa, and MOUNTAIN VIEW, Calif., July 26, 2021 /PRNewswire/ -- UnityPoint Health – Des Moines has partnered with Qventus, the first real-time clinical operations system for healthcare, to use innovations in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-des-moines-7c2c0f6f348974dc0f54dea8883d889d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-does-your-project-need-artificial-intelligence.md",
+      "title": "Does Your Project Need Artificial Intelligence?",
+      "excerpt": "Implementing AI technologies can benefit your business so long as you clearly understand what values they bring and set realistic goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/07/26/does-your-project-need-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60facbc267f6107b328f0946%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-healthcare-natural-language-processing-nlp-market-including-top-key-players-nlp-technologies-nec-apple.md",
       "title": "Healthcare Natural Language Processing (NLP) Market including top key players NLP Technologies, NEC, Apple",
       "excerpt": "Los Angeles United States North America including Q1 2021 analysis The report named Global Healthcare Natural Language Processing NLP Market has been added to the archive of market research studies by JCMR The industry experts and researchers have offered reliable",
@@ -1280,92 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI could be the 21st century's biggest new industry. Long a focal point of science fiction, AI is no longer a curious theme to ponder for the distant future — it's here.",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "originalUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/07/artificial-intelligence-stocks-the-10-best-ai-companies-3/amp/",
-      "publishedDateTime": "2021-07-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "AI Hardware",
-        "Natural Language Processing",
-        "IBM AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "AI in Robotics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-12-iit-madras-develops-ai-based-algorithm-to-identify-cancer-causing-mutations.md",
-      "title": "IIT-Madras develops AI-based Algorithm to identify cancer-causing mutations",
-      "excerpt": "Chennai: The researchers in the Indian Institute of Technology-Madras have developed an Artificial Intelligence (AI)-based Mathematical Model to..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/lifestyle-health/health-tips/Jul/12/big_thumb/IITMadras1_60ebf6f8200dc.jpg",
-          "width": 798,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/iitmadras-develops-aibased-algorithm-to-identify-cancercausing-mutations-sc53-nu318-ta318-1170281-1.html",
-      "publishedDateTime": "2021-07-12T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

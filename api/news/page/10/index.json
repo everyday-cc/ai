@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-05-deep-learning-market-over-long-term-evolution-in-nearby-future.md",
+      "title": "Deep Learning Market Over Long Term Evolution in Nearby Future",
+      "excerpt": "Pune, Maharashtra, India, August 5 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz recently introduced a new title on “Global Deep Learning Market: Industry Analysis, Size ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-market-over-long-term-evolution-in-nearby-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Joe-Biden-White-House-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-customer-engagement-analytics-startup-retainai-nabs-23m.md",
       "title": "Customer engagement analytics startup Retain.ai nabs $23M",
       "excerpt": "Retain.ai, a startup developing software that helps enterprises surface customer engagement data, raised $23 million in venture capital.",
@@ -1056,6 +1099,40 @@
       ]
     },
     {
+      "path": "_news/2021-08-05-prevencio-announces-us-patent-issuance-for-novel-artificial-intelligence-driven-blood-test-for-cardiac-risk.md",
+      "title": "Prevencio Announces U.S. Patent Issuance for Novel, Artificial Intelligence-driven Blood Test for Cardiac Risk",
+      "excerpt": "Prevencio, Inc. today announces the United States Patent Office’s issuance of a patent for its highly accurate HART CVE blood test",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
+      "originalUrl": "https://www.businesswire.com/news/home/20210804005430/en/Prevencio-Announces-U.S.-Patent-Issuance-for-Novel-Artificial-Intelligence-driven-Blood-Test-for-Cardiac-Risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-tesla-25-dojo-ai-training-chips-in-a-module-seen-ahead-of-ai-day.md",
       "title": "Tesla 25 Dojo AI Training Chips in a Module Seen Ahead of AI Day",
       "excerpt": "Ahead of Tesla AI day on August 19, 2021 is what looks like a 25 AI chip module for the Dojo Training supercomputer.",
@@ -1098,109 +1175,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-developing-coherent-ai-infrastructure-for-smart-cities.md",
-      "title": "Developing Coherent AI Infrastructure For Smart Cities",
-      "excerpt": "Because of dense populations, and a concentration of equipment and machine based projects, AI’s ideal testing ground is a city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610abd6c220ca29c9bd614e5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2796%26cropY1%3D149%26cropY2%3D1721",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/04/developing-coherent-ai-infrastructure-for-smart-cities/amp/",
-      "publishedDateTime": "2021-08-04T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-microsoft-details-ai-model-designed-to-improve-bing-search.md",
-      "title": "Microsoft details AI model designed to improve Bing search",
-      "excerpt": "Bing is now using an AI model designed to improve the the relevance of search results, according to Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/microsoft-details-ai-model-designed-to-improve-bing-search/amp/",
-      "publishedDateTime": "2021-08-04T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

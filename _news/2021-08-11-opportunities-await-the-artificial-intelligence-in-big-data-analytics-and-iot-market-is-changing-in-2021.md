@@ -93,6 +93,20 @@ related:
         width: 810
         height: 506
         isCached: true
+  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
+    excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
+    publishedDateTime: 2021-08-11T21:43:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 8
+    images:
+      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
+        width: 2695
+        height: 1414
+        isCached: true
 
 secured: "ZT/bMVU8ZgsNQOYRhNnBzBmqiGRlYBBdkmVjnS4JjwEpf4y7ecaHZux1q+itjikjdDDU8a/Hom17CYpfiUGoLvhSCwoMbprYAfOEUpTCWh+BvPM0W6ZUd8BsgyH/nASQy5WmRqxndxCQRCZ4TzvH5rNshbmvKUNtRvevH7o0sy3blXgrzn350NeAxPG751UBphNw5idrL1xkh7ruGfNj5VSEqQdv81JHamYcB3C5Yg1ShjCAdcbyTFAp2gyj5cz4ZWHTGKp5mEskJuI08eQMYEyamr4cSEn8U1Ctx4AuPuGuPMQhxOUqzzj09MXmKKRIZ0bFF7fQRvxW+lWiQC0Sb940xrIVb2nP0ELGtjIxsi6uc9mPVMAnv9oW6bu5OnD1tPyx8V/p5xfHCmDtlesUPxm2UtUQcqLTm8iguMpNy/QvA76l5CFO0DYBeO4ntuz5CxXGbC0dWEdGygJ40NkCcGvS34WqxMv5S3FP5owxmoi/5TiIkXrjsK1U3lUC2vkeFJRC+eZhnW+eOvi3QUTSlA==;h9On81wMZ5w+rI1+Ue9RWw=="
 ---
