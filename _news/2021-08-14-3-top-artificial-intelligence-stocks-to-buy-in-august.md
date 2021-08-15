@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -46,15 +46,34 @@ related:
         width: 960
         height: 684
         isCached: true
-  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
-    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
-    publishedDateTime: 2021-08-10T12:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
+        isCached: true
 
 secured: "uGadDrys/tbQEqpjrrmGkig6kJpff1TcASqYGfF7H942YfRGAMtIsefMZ6Z1hwpYhHPBRRwwsypw45qxP6vVR1KMNM7VD+XjIL3NTh2fhz4NnyotsQueS24j1LRlBfux9cbx5HsIe+xdVze5B/8nikkOw4nO+b0enLJukCpfnwqyR54r0yXTBPf1th6mBuYOd57dELqdD3+DxONMQ2GwJ6v5Mt5qfyMXCz75KtZvjM05vY3GG5j/8SfzEDQ23Qb76manrLBIpTN6SJwIRqLesfZhv3f4zBmP9Lp42jLrF29Y0qMG2XHgaGiy0LfZkiV9MiLc10Wm2OyUpGkwnVWkhDcB45iCP8Rfocjg/vu6LKmWLYnvJjgog//JX8A+xCCAxuVlGiyvxtdOrIOHAtyrsmRMR5zHWEfd/BkJkwB44IjLvQhHsqDmWqRke41f5GxM1dQdPCBkI0t/kxfrqhDKfk9cMC8PGhXebnaD97dSDFWpbI8OpcLaAtnfaImyWYNAi0LTGOVkOeS48vDXu8Tx6g==;U3DfpPurWGL3UNSsL/p+5Q=="
 ---

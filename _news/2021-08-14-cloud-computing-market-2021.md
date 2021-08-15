@@ -42,20 +42,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
-    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
-    publishedDateTime: 2021-08-10T12:09:00Z
-    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
     excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
     publishedDateTime: 2021-08-11T09:01:00Z

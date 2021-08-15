@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-
 webUrl: "https://www.autoevolution.com/news/los-angeles-there-s-a-new-self-driving-car-company-in-town-meet-motional-167026.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Motional selects next big market for self-driving tests"
-    excerpt: "The joint venture between Hyundai Motor Group and global supplier Aptiv says it will open an operations hub in Los Angeles and begin tests there soon. It's one part of a broader California expansion."
-    publishedDateTime: 2021-08-10T13:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/motional-selects-next-big-market-self-driving-tests"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hyundai-Ioniq-5%20JPG_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Hyundai's self-driving joint venture Motional opens lab in Milpitas"
     excerpt: "The Boston-based company said that the new office will be home to a division of its compute design team and will feature a compute lab."
     publishedDateTime: 2021-08-10T14:09:00Z

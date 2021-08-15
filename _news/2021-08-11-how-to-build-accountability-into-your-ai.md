@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "How new AI tech can help advisors chart client data and trends"
-    excerpt: "Marble Financial of Vancouver is offering financial advisors a Canadian-made app that it developed with AI technology on a fintech platform that can help their clients improve their personal financial fitness,"
-    publishedDateTime: 2021-08-10T12:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/news/industry-news/how-new-ai-tech-can-help-advisors-chart-client-data-and-trends/358779"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 39
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/155/0348_637641596063135360.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "cEyObEhYj9MvmWZC+2DqvhfnraujGP1PDm4HS7pdpMSTHmdVtOXY6bcmcuE+/knX1wM+Fa1YbuRPBAZ/J9GE3CXcB881z5fwSyX166LYira3uXcwzLyXPhsnxAVHUyIm1nLJoM6XDHIULhVpcFJOixiqlqNERpExIwO8WfrC49LjWUMMWY92WYeMCI681bXTSeMtdiPNuwREOpxIIez1IXm2jpWeq1iGfSIr4r+/yAn1VAPNzRtmXbVdGZ/O8SOaaGkZAZ4OQG7Fn1zlL+IUhlmYHTdeqowgndQDqUis9gp7jY9QQaxD5ZDCZhqdgA17PbU+LNu5PQ2KVmpeV2tjrr/w9MygaGgu0zyakrT5VUvnxReJQOzAuu9U8ETyR4z1RREjRC+GNNPKpbLU5yd05zJYk6+LMdc/ZEHAt7kA5hL8vqcgsDMcNhLD8UGeYtWMaUoU/RdUpxdSk2CUrl8uDwvXCLfh/cWXZXjOa4BzDNuFwbnVdy8mG+qpAMSw548gNNqcbag3m4v/+6hGsl44ug==;2YzhSGitJgpXUPSB9RD8Jw=="
 ---

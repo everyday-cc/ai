@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
         width: 600
         height: 401
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Key Players Analysis and Forecast To 2028"
-    excerpt: "The global Artificial Intelligence Market is expected to reach USD 348.99 Billion by 2027, according to a new report by Emergen Research. The increasing need for understanding consumer needs and market trends is one of the major factors driving the market growth."
-    publishedDateTime: 2021-08-10T13:02:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-size-key-players-analysis-and-forecast-to-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 53
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Canola-meal-Protein-Market-390x220.jpg"
-        width: 390
-        height: 220
         isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
     excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"

@@ -35,20 +35,6 @@ related:
         width: 2468
         height: 1406
         isCached: true
-  - title: "Nexus Venture Partners bets on enterprise-focused AI startup"
-    excerpt: "Early stage venture capital fund Nexus Venture Partners has invested in Neuron7--a startup that uses artificial intelligence (AI)"
-    publishedDateTime: 2021-08-10T12:32:00Z
-    webUrl: "https://www.vccircle.com/nexus-venture-partners-bets-on-enterprise-focused-ai-startup"
-    type: article
-    provider:
-      name: VCCircle
-      domain: vccircle.com
-    quality: 37
-    images:
-      - url: "https://assets.vccircle.com/uploads/2017/10/startup1.jpg"
-        width: 810
-        height: 506
-        isCached: true
   - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
     excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
     publishedDateTime: 2021-08-10T17:07:00Z

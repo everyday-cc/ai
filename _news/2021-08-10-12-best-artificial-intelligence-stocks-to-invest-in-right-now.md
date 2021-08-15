@@ -27,82 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Three Considerations To Keep In Mind Before Investing In AI"
-    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
-    publishedDateTime: 2021-08-10T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
+    excerpt: "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots."
+    publishedDateTime: 2021-08-14T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize"
         width: 1200
-        height: 652
+        height: 800
         isCached: true
-  - title: "Assessing AI Security Solutions: Questions to Ask"
-    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
-    publishedDateTime: 2021-08-13T13:24:00Z
-    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
+  - title: "5 ways to get more women working in AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
+    publishedDateTime: 2021-08-12T15:17:00Z
+    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
     type: article
     provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 54
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 57
     images:
-      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
-        width: 500
-        height: 500
+      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
+        width: 960
+        height: 684
         isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-    excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
-    publishedDateTime: 2021-08-10T13:58:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920
         height: 1044
         isCached: true
-  - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
-    excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
-    publishedDateTime: 2021-08-12T22:25:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2730215/admiral-discusses-potential-of-ai-in-missile-defense-testing-operations/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 36
-    images:
-      - url: "https://media.defense.gov/2020/Mar/12/2002263259/1280/1280/0/190830-D-N7474-004A.JPG"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Training Leaders in Responsible AI"
-    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
-    publishedDateTime: 2021-08-10T14:10:00Z
-    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
-    type: article
-    provider:
-      name: AACSB
-      domain: aacsb.edu
-    quality: 19
-  - title: "Net Digital spins off AI software operations into independent company"
-    excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
-    publishedDateTime: 2021-08-12T14:32:00Z
-    webUrl: "https://www.telecompaper.com/news/net-digital-spins-off-ai-software-operations-into-independent-company--1393508"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "v8FPKxB5k7QSxdag47Btl4V9c7Qjs1T/wEkgaCNXaOEqNQ2dDUSCFELai2h4S5mpEfNDAxZl5bjYaLszmmhQZBXkTuLYqDyGQ+WmGN/WtLiD/Z5pmy+FyGrbph2foohwRqx9DkUyjVjjOlNSFOnwFRwPKtVtOygMwXy/t8CGhO/Kt4oLG/UMO82gvDg71+KZkb8FkUvlWTL9Y1GPzZlEz0mLCmFqyQhtYT34dj1UpzZRTGmymsdghYlEOSHcT0SpQszdSq13xJEmQy4K/f+KCaYBEHn07mZHYwWljcig87jpYkjppgJi2RcvpfOGI9Z6BjINIMSMNoPOHsxLXZ8DhPrwyfFDHBjqUzWTBbb6ODH1wLHY6DuyS2PU+YBdALXgnloFn3qoqgnjV8luIu0QpKOz6gpIqyhXe9V0aDIjlc/ij7YyV8srOb+YybIlFOz0+UNlo/BxbWuOj0LIsVUccIVG7hYhfwLpsM/wP/LdukINQeBL1+pjTa/ENDx7WxHMqmaqXQj5A9A/cV4JPJ3p3g==;UZjoF2E2ccDjY9iv2nKfgQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/08/210810143117.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/08/210810143117.htm"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence unlocks extreme weather mysteries"
-    excerpt: "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood."
-    publishedDateTime: 2021-08-10T12:23:00Z
-    webUrl: "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html"
-    ampWebUrl: "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg"
-        width: 1453
-        height: 1500
-        isCached: true
   - title: "Stanford researchers use artificial intelligence to unlock extreme weather mysteries"
     excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
     publishedDateTime: 2021-08-10T16:20:00Z

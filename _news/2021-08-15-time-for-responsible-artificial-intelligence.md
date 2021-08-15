@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/time-for-responsible-artif
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Hans India
@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
 
 secured: "YSCFx285XUUh2qj4YSlmyP0M2o9/2MGR1nmnyVMSdPt+yeCrN+7dSazCM1FtUzifDo1kyKz4b5Ko5F6CbURAQGsbtq0DMhz2Sx1wSDRMgGDV0KrQ1BZBW4G4eBNfCevlhEPIBNsLcLBzf84y202rcysFr4V8J0i2JJRI6sZk+iQ6yklou398BzA1OcdeXtEGpnPMbTvhi96Ix0qorYoHDwHfL1XoQlRakFibXABX/guOA9BTfw/9sA23VFrxPZ+Tz/6Q02A4DtSVHPgFm5ZfEoISuJSB/7XoJujxzs4TNTUOP5ztIX5fA36xd5+OKkvVGepK9GEq+SBoNwitsSAbdYoBogfUEI61Y7bAaTbto/LzJFARbvy57r6TwcSVTIchW89Cp+TjVSx/oOX9vnBj46qWEsKTCMmxRhnp//3J8p5KKpfmqhaMOhJuo4tJMK20herT3NHo972vDTNK90vpkBtwnMg0vfudAh9hOUv/WX9TysxVLKf2SLTGyd/aFbqBh1IdJiBegKx4WPmJLyMJmQ==;gqsf7zxe0b2fEBQSRDJT7g=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Motional selects next big market for self-driving tests"
-    excerpt: "The joint venture between Hyundai Motor Group and global supplier Aptiv says it will open an operations hub in Los Angeles and begin tests there soon. It's one part of a broader California expansion."
-    publishedDateTime: 2021-08-10T13:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/motional-selects-next-big-market-self-driving-tests"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hyundai-Ioniq-5%20JPG_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Los Angeles, There's a New Self-Driving Car Company in Town: Meet Motional"
     excerpt: "Remember when Hyundai and Aptiv announced they will start working on autonomous cars together? Well, the two companies have created a $4billion joint venture that resulted in Motional, a company that is currently expanding its presence in California."
     publishedDateTime: 2021-08-10T15:45:00Z

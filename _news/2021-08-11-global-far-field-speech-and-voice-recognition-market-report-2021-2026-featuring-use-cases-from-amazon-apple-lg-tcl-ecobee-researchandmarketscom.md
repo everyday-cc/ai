@@ -41,20 +41,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "How Artificial Intelligence impacts the Future of Digital Marketing"
-    excerpt: "The adoption of Artificial Intelligence (AI) influences the growth of many industries such as Healthcare, Fintech, Digital Marketing, Information Technology, Logistics, and supply chain, Agriculture,"
-    publishedDateTime: 2021-08-10T12:09:00Z
-    webUrl: "https://techstory.in/how-artificial-intelligence-impacts-the-future-of-digital-marketing/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/How-AI-impact-the-Digital-Marketing-Industry-1.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cloud Computing Market 2021"
     excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
     publishedDateTime: 2021-08-14T02:29:00Z

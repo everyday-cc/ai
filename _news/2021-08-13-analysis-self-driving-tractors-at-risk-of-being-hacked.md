@@ -2,17 +2,17 @@
 category: news
 title: "Analysis: Self-Driving Tractors at Risk of Being Hacked"
 excerpt: "This edition of the ISMG Security Report offers an analysis of how tractors manufactured by John Deere are at risk of being hacked. Also featured: a description of"
-publishedDateTime: 2021-08-13T09:01:00Z
-originalUrl: "https://www.inforisktoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
-webUrl: "https://www.inforisktoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+publishedDateTime: 2021-08-13T08:35:00Z
+originalUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
+webUrl: "https://www.databreachtoday.com/interviews/analysis-self-driving-tractors-at-risk-being-hacked-i-4947"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Info Risk Today
-  domain: inforisktoday.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - AI in Autos
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "e9xpXqUQFcxHwxsMPvA9gExMmhQGeaE8kBfYJz6B9UwiRcS10b9eqBpGKum1Pt+uN4CoNOUNVfQDbFimB48WJZwCz45/HY7ZoXN1/Ts/O1V4y5BaA0T10jLVxwCRUAUaXjiRAEkfccRhFsPqW8u6iJOxHaS0lBpcvFWdweAIjb7gMSMOLrLQ+7NRGiIvfG4i/3/KEtkMImqim8tk3V4dreORFzw+cUP2x3dMfCB1iaGYqLcry7N9DzoL6QwR7QiokZtKIqME2c1hdVFnVfjKmL4BBpRzoP36Ph1Co7ZFLOgnCfRthXl6PsU2Z1aVfUzA4bpFqxjv2bLfCaz/aEzzm/K3Ma18oEHlKrSCZkPPowxPfS1+bJGmgsqJf83JQtE/dYkKpFF24LeRODcr+3hmyU2EhaasTZBTFyou/+lH36Ew2IgdeMGPuRRIdtiggJt1j321kSFiMYqyb9Q6deYc06N1wlwqCZXxfRlpXsWO6xTu88qgWFY22EzRgSJNa1q5ktktsIL6My+8tqqd/Dq4RQ==;eDcMGtWggNqQm3UHyMXu2w=="
+secured: "pkfKfIlUO+cBzprZE7qwrpacbK/q83KgOUhmrIrG+cOUc8vKSAdkHB6C2jN2L6PSKcaR3FGMuCqUcioXOI4+rxNd2jx2pxzdDKW+cwYkC5fcCmPR5HLRWkF1Lu57JvdGuOK7bn27dkbCyxXzhxDyC6Mo065irLgeM1s3e4wRvfoykIXB745Ya+Ud8OYIsHL6f+DSQ8m3L7JiJxqgbC1+uaz5UteqvOFD9bmDFdTqneHbLoS9dRF1YkosN6La2mnaNXIrBvC/4eGi78H2q0yNoSJbB9/t2OEIogFtwwAtxVh6hTRx8voDcAbuCLG2LBaUo1GzrX9hDBpZxIMVG7o0fwdK1+Mfu/z2kPc4T7wDGos=;/XE7aX5sjCtWrX+0vzoUyA=="
 ---
 

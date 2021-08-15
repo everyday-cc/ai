@@ -42,15 +42,34 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Deepen AI Launches The World's Most Intuitive AI-Powered Annotation Tool"
-    excerpt: "Deepen AI launched their latest offering in the annotation suite - Image and Video annotation tools. Deepen AI's tool comes packed with AI-powered features to reduce annotation time by more than half while maintaining a high level of accuracy - and for a limited time,"
-    publishedDateTime: 2021-08-10T12:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepen-ai-launches-the-world-s-most-intuitive-ai-powered-annotation-tool-1030713286"
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
+        isCached: true
 
 secured: "QkZdKz8HoeozegHeJvd73JvoWH8vn5fv8UWzBT5u/hlgoqSV/5P98UMnQoy+6wICroappHMcW776X3AwbjU5titq3fqJTs6qgcmcNObeqpG7FxNOS93qfJDIQodM+X1MUFCVq6qbxHpNp2sufZvRsHrlZVA5xb2AUsOFy+laHOMaj1VBkFtvVT+8I1rMmN7hHbTXpJ0boBUg+hH4Ceocp0B+az/vok2fvdsFrLxa0xuhlAaG/ibpJc6L0Eu5PJHRt8Fz8j3ta+g9tweao/JHSS8voTc9WTF6wE7vAg1zM0ZNoratLQXIfavHZ5hkcOR5xPRi15KAQvcNenH0e8r92P4eyV0tgK9FGpbg9k4R11LdGJjmLyuGwF0b+TyUSP/r51uDk5LkHICmQRfCEuqcvHA1ej2NeRJX9exHebmtZUlD5K9XpcHEm6QWt7mu1MDkJKLHaOk3BTHaI6gZAewpFR+EoruozsBkJYILOe7Hql2w2vO97OFHjgraly+TZk/5C/eh99qJJmAka0fe5/nVMg==;P7WC6OM5pQPtNRx3oh3JZg=="
 ---

@@ -51,22 +51,6 @@ related:
         width: 1721
         height: 1881
         isCached: true
-  - title: "How artificial intelligence could find dementia with a single brain scan"
-    excerpt: "\"If we intervene early, the treatments can kick in early and slow down the progression of the disease and at the same time avoid more damage,\" Prof Zoe Kourtzi of Cambridge University said."
-    publishedDateTime: 2021-08-10T12:36:00Z
-    webUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia"
-    ampWebUrl: "https://thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/well-being/medical-advances/567101-how-artificial-intelligence-could-find-dementia?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 71
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_dementia_stock.jpg"
-        width: 1440
-        height: 880
-        isCached: true
   - title: "Deep learning model classifies brain tumors with single MRI scan"
     excerpt: "A team of researchers have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan, according to a new study."
     publishedDateTime: 2021-08-12T13:29:00Z
