@@ -2,7 +2,7 @@
 name: "Image Recognition Startups"
 overview: "We've put together a list of image recognition and detection startups in the market."
 type: "collection"
-heat: 69
+heat: 68
 
 
 query: item.tags contains 'Image Recognition'
