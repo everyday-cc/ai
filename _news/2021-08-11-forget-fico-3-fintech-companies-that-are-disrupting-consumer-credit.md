@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165407_fintechstartups.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "The future of digital ecosystems in the fintech space"
-    excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"
-    publishedDateTime: 2021-08-10T13:37:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/future-digital-ecosystems-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1254347556_2.jpg.png?itok=2v3K1Yip"
-        width: 1200
-        height: 630
         isCached: true
   - title: "FinTech Firm Gateless Adds Rick Lang As COO"
     excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"

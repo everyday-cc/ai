@@ -26,21 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce’s Kathy Baxter is coming to TC Sessions: SaaS to talk AI"
-    excerpt: "As the use of AI has grown and developed over the last several years, companies like Salesforce have tried to tap into it to improve their software and help customers operate faster and more efficiently."
-    publishedDateTime: 2021-08-10T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/"
-    ampWebUrl: "https://techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/10/salesforces-kathy-baxter-is-coming-to-tc-sessions-saas-to-talk-ai/amp/"
+  - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
+    excerpt: "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute."
+    publishedDateTime: 2021-08-13T12:44:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/08/kathy_baxter.png?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Cloud Computing Market 2021"
+    excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
+    publishedDateTime: 2021-08-14T02:29:00Z
+    webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 26
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
+    excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
+    publishedDateTime: 2021-08-11T09:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-voice-recognition-d8530f8f3cfb460196f97e4e08cb87e0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "ZvPEgxguF9z8wikGZ7XxqttyJS8ehAZya2pFbKMGRGZPHlSHGAYKob+IpNzckVUDWBi+GY0lMs6Gvt8IQknNTkuN261AAB/dK2tyCfEJqcHMwFr9SK9aAGbf55ocbIIap/LRA7go1TzYfSEG72m1dXyaNWWAwXEXsGUsUt1MAR6mm/13ToRQzrtQZmGH6JZxJZspdrUxmUaFH/KSyCoHOu2pUCGP06kytlUIksLw1NjSOsjJg1J1IMytVjdkbkFupTpc3xMOjQ5lVFjzpss9KGSLJFJQvDiIxTzO2Hs+iSH4bLeqzUNASdSl8lRK8pQyDxGP+0ycrxz7YO/Y67gyruwxurkSPS1fCtHfJR7eNEwD+WJLvRumpNtAJ0x47wQ9BcsxJT59aDRFLjf6cf/EAKlKWXtAHcy/X9cfZM6ZSbg8fcTZV6g741OCXwH0adcJLHxxatrmVQ7089d1HQtbh+6602zVFmtQb+69f45k3jVkGM/QuLYv9MPl7+72hSmvgck+lDQ0ad3K5aHoRqzlMg==;mqQSfaQ+s4YZ4OJts66jtw=="

@@ -85,20 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The future of digital ecosystems in the fintech space"
-    excerpt: "Outsourcing technical processes have helped the fintech industry scale fast. But what is the future for digital partnerships once the industry matures?"
-    publishedDateTime: 2021-08-10T13:37:00Z
-    webUrl: "https://fintechmagazine.com/technology-and-ai/future-digital-ecosystems-fintech-space"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1254347556_2.jpg.png?itok=2v3K1Yip"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rVDeUFY/M4OBkNj1Y9tYkuh2aiycuozPSvhTce/cXItzTMHB7hRo17UHSML7J4mytHkswJE2nyneCO7V/gGgC1spGUmOH8WQBxJToiFMj5Pb+FmaqjRkDX8otiA0neoCiElNOTLWRC6izaPJ7XrrUz2yK+b/tlEtYoCCHqfUzDx0Hoc/mFYSn93EQf8udV2QFbKN3hDl9zHil2eVOOtb7weyLPM/rHwsYNqXw8G49oNZD++i7WQQy7mNuBNftyApVOYXvX1O5fPSPsIAaaQjdWhadl2GVnJDMGh1O50bAmSf+Bd4ww6H1CIJvif08tniKwh9zyUDV/OEAPAukKeuj21DmgRyXDYFgHXvuzti+On8Z6248ael42EkIXFYcJ5h6gVhfopF/CDywpgC1vzfB9mNM7sll3sKnq0CiZavx/S6itqxUCVGxEtXqSYTGWUbMLRe9JQO8IJmETtiRPKVnFr/rFWk0xC2WZrzGLAdjgA/eP6MlrQWxN3G6l07q/NTe4BJnnWHtK9OseNHR5Bx5A==;BdfNgdQhU+7cAosBhDpEHg=="
 ---

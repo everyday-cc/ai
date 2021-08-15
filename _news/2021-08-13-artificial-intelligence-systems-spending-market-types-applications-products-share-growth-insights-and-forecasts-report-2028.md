@@ -73,22 +73,6 @@ related:
         width: 390
         height: 210
         isCached: true
-  - title: "Deep Learning Chip Market Overview, Size, Share, Growth, Business Scenario, Insights, Industry Analysis, Trends and Forecasts Report 2027"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global ..."
-    publishedDateTime: 2021-08-10T14:20:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-overview-size-share-growth-business-scenario-insights-industry-analysis-trends-and-forecasts-report-2027/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 43
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/06/14-9-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-08-13T05:38:00Z

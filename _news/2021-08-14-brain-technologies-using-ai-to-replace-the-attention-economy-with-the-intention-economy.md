@@ -24,22 +24,6 @@ images:
     height: 395
     isCached: true
 
-related:
-  - title: "Healthcare Integrated Technologies, Inc. Announces the Filing of Non-provisional Patent Applications"
-    excerpt: "Healthcare Integrated Technologies Inc. (“HITC”) is pleased to announce the filing of ten (10) non-provisional patent applications with the United States Patent and Trademark Office (USPTO) covering a range of new technologies which will expand their fall detection base offering in senior living healthcare."
-    publishedDateTime: 2021-08-10T13:17:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-health-patents-7e850c4a632ba0123c68d4f5abc06421"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "WGtbP0ZvWM5mwgMTrSwKNEdJbl/a1j4y1FVDfoQuu6yHIyqTRMEVJgAxaY+VndErKACMXqLOCcOyVwxTA1kcnH+s+o1ZLFIGuo+VDnAvs+618pO4uPrlHA9pvZv2XcAQrp0AG+yqEV+Lf6TAcoA61hxlXafyv2k+n4kCgYq2gYKUw6iYo84DU2C/jxZpIOccFaoESgEt6LC4t24plj9aLJ4PN+TQgwhy3y+JflQ1yhRxjM9+DKfjRYZACJMRSHTP2UjvVSStgwJa9WbnWyt1qAwParLF+nETQLcuU/D1jdVI9OpMwjdHUfLxvnf+xMg2TvoFKIQkhwaRjM6Dpf9QneZIjrl0tNIifY1OA6XIg23L5YvaTECkv/cekhWe1mzkEsEElXe1zhOY3SJ6z1n3u48uZXtmqmHxrzcKl8ya6jycSYid8iHcAhC4tSDJMQuUFTib8hPWG0MC5seub1bbQK2u4k3JNO+urm678P7OQltg+JTgTfsZ4C2OGTuScPM/wQdEIFJrIi0SuurPwYqfoQ==;Jy75rVW8v+KMCj6NlJK6Nw=="
 ---
 

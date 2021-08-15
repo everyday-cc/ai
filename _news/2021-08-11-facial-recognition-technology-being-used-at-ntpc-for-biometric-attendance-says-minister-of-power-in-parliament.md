@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "6 domestic airports under trial for Facial Recognition Technology: Civil Aviation Ministry in Parliament"
-    excerpt: "Facial recognition technology is being implemented at six airports in India - Bengaluru, Hyderabad, Kolkata, Pune, Varanasi, and Vijayawada."
-    publishedDateTime: 2021-08-10T13:19:00Z
-    webUrl: "https://www.medianama.com/2021/08/223-airports-facial-recognition-aviation-ministry/"
+  - title: "World-famous Moscow Metro system begins trials of ‘FacePay’, a new cutting-edge facial recognition biometric payment technology"
+    excerpt: "The iconic Moscow Metro has begun the testing of a contactless fare payment system using facial recognition tech that would allow residents of Russia’s capital to use public transport without the need to carry a card or cash."
+    publishedDateTime: 2021-08-13T10:28:00Z
+    webUrl: "https://www.rt.com/russia/531927-moscow-metro-begins-facepay/"
+    ampWebUrl: "https://www.rt.com/russia/531927-moscow-metro-begins-facepay/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/531927-moscow-metro-begins-facepay/amp/"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
+      name: RT
+      domain: rt.com
+    quality: 31
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/01/Intel-RealSense-ID-2-scaled-1.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://cdni.rt.com/files/2021.08/article/611646bd85f54063f053ffeb.png"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "OpULOR8ZcX9Ehn/nEqz/XY7KzYr8OvsI2boJQLtEe0e/ta9U6dqmlrLeKjbd/UkBnxNTZy0ok30NCwrEpBdWqKbVbqYgld5OjfjUPA54bfyg8uTaBJGeMe1T+47KEiXBV+0NCv2f/QXhUOFoAmedkEt5VcRBEz6Cd2TTVMnPqK4TVyuwPJqon87hZwKR1QkXiebWnxdllH/0DAHdi0UKdLapkWw3Cg/KgCBKPUKJR1jFBg0naNu+lhEiKtQz54M4bem32ZscoNrrks+NpFcPIraz8s5+wHcqhChq8i9vj5lkYwkShmgvqjLTmL33DncjJHbseRmfF6OLsMVrf7+aENP3ck9dJ1UZ38lblpD0yK/0+sEdt0lrP1bOoDpriv4jxFDkte6omFoLtU9khQS8OGGfKJ4EGj2TpLLhlXfFLuZcsYF+eUxHrdhRt1fTPqYgcsZsqAar5jiggUzXjUbNqbCl9PJxyJTdknTIwa9y6wxXlyWIHtPOAJ69uTZDX7TNsLPJRcrEqcYRHRz4/WdL4Q==;dJwrynLNhsOqYUk5SyLFNw=="

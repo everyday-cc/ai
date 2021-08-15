@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-in-finance-mark
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "AI in Fintech Market May Set a New Epic Growth Story | Samsung, Google, Salesforce"
-    excerpt: "Latest survey on COVID-19 Outbreak-Global AI in Fintech Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- AI in Fintech."
-    publishedDateTime: 2021-08-10T13:45:00Z
-    webUrl: "https://manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
-    ampWebUrl: "https://manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 33
 
 secured: "XyDUdqu3MEMuTxa3DWAjtINX1+Di6SeqKXRebLjWNF25kLvU2NKgh1Tg1RhVp/XK0Xcp3aNXKAgFW6BdHS5fTVhWFMGPWaIpButvQ9++wq0MMKNIQNTxPAcPARjWxDjBqxanr2wwkwFhzAe9NWnmAvCsOSQdgbwA4MHfgWgSqt9wYCFqBm8Wje2vuCYdup/y/MlSfs6WfCPQ1hWQpVeHpOacr69Qm4rBkUeoPATTe/KoNoyjW6GTeShwNfMKV/sjbH82Pvev8jFberb6Z1s4KLfZ6b8KJztNkj3Anp7YsALJs8dqw6HbGI3WhoDkZmZK5atv1lJ7nw4yTPJuVqqGP3O9gE7s+YOWoNmVsqUmAa4=;sfwIUGpb4tSW0Ck755d1Og=="
 ---
