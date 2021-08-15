@@ -28,48 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
-    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
-    publishedDateTime: 2021-08-10T18:48:00Z
-    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+  - title: "Backlash grows against decision to grant patent to AI system"
+    excerpt: "A recently granted South African patent seems fairly mundane, but, he inventor is not a human being – it is an AI system named DABUS."
+    publishedDateTime: 2021-08-11T12:22:00Z
+    webUrl: "https://thenextweb.com/news/backlash-against-grant-patent-to-ai-system-syndication"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
-        width: 708
-        height: 399
-        isCached: true
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 69
-  - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
-    excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
-    publishedDateTime: 2021-08-12T09:12:00Z
-    webUrl: "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/"
-    ampWebUrl: "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/"
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2Fcyber-4062449_1280-e1622729428242.jpg&signature=6b3a71a408d4023c116fbff2889165f5"
+        width: 1220
+        height: 610
+        isCached: true
+  - title: "WINT delivers a revolutionary AI solution to detect water leaks in fire suppression systems"
+    excerpt: "W INT W ater Intelligence, a leader in cutting-edge water management and leak prevention solutions for construction, commercial and industrial applications, is announcing that their award-winning technology is now available and ready to be directly integrated into fire sprinkler systems."
+    publishedDateTime: 2021-08-12T11:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wint-delivers-a-revolutionary-ai-solution-to-detect-water-leaks-in-fire-suppression-systems-1030723605"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 60
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://mma.prnewswire.com/media/1592968/WINT_fire_suppression_systems.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "0qrCpPsLY2cbuajuJqdNtM3hfgHXnFTHk5VmPIMU/B6jKkJnm99kNz5L4OmiUW1iBWvUlHfMhcj9GnZRDv1daVLaEARUMNTjh885qjZQDzNoN8FMX9eI2qoAbO3faNq29KDRFE38tEIYAh8mc2/igGLL41HQkqyEXSjgYHzsbHekBrJ77SFgXxCOgtnuhlT0IlJCqeqfP/GBxkUYzrS2um3r9dfVvIg/wcOcJWRRvRMp3gGx/w+pGwTrkqmj7swt4sYTZqLo+Q2Ky3Ac4xLtEY/Jzp3YZWtDIdBHKPVPuYB635ME0YNnl/CVRHqg1WlXCc8qgRa/5QtGxp2EVRp4+haR5+I4lRZknFDg4yE6FQKVn8Zt+cC+3a4SXWhHfubtDNhYj3gLo0HQYQ/XF5S6FE21NuwMve1v/h6pTzbijtG43jlkqawn0QzNT6NTrQDgA32X/pnInAQsyiCNK+s3B5khw+QO5/AVhVaXQ+rNIyn3MoyOYKiqFEjgG3LbaSIi3FjLTReGtjbLb5VVQNLMOQ==;JinPdaMAmglOSPiOiwlaIA=="

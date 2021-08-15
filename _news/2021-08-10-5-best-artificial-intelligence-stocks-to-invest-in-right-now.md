@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
-publishedDateTime: 2021-08-10T13:58:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+publishedDateTime: 2021-08-10T14:18:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
 type: article
 
 provider:
@@ -12,9 +12,8 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -22,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "T8RblK9W16jcjQceB+Slf9L0GHBrjIZFKReIwrmLK1i7bQGrNVZdftnCbHQqxpWHBonwxsuPUE6LtjSs9T0wqF3BsRdjx4G8AoHZIL4sv+VrsC8ZNX1X1Y2NFrmdNJHZYtx5xeQj+Vq0sxcOpoq5uz1CvYjl9STcA//eeoT1UT7PewvDsUwGOGle9uya2MstzIBB8mMedw5y1sl6i8nEIUY5g0CAo5bK3W73QES7rVL3I0JsHSgpTnvrfwoEfIyIvrK7iQHn54z6Sjg1AJvTCwSZsYTwVI0mVPma0wLmdDB49i3JBaQ5rhje77lfulCLhmxtEkxd+PZfaiw02J7PobE08TGaYCxqHg48XcHZAwk=;VFvlFZV2HJQHKH44hSMiWw=="
+secured: "WVeUI6DiCHrWDB9iIQ3yWxHt/w9+jWMWTvRupebXId0r2CoPPveGJhaJ2/TYqf06+TOfaFq+u/wwLB7FakVNEm7dWO6qHkFy2JZx7ndOsAWyhhBgPknvTCUPNxUcfOtMiYDCpRA9qcC5+3OJJG8gW00vz0Ka9LITl4/yLe01COLz96ATp3+8ZhypGhHrz8em/WlOZp0BmqVpf7voY2hZoirb08YzSiBJtMN6Eq8lv1oYZIJhpj7atkXhvac+osav+OLRxA/bPMQ7UOFiAtbeqLEgSbvgkSkyyUVqlBOhG4TzFHJQ3RUUCVHiB8meHfzvRRBOQeNz4GznTeE/rFgoaFvePFjznzLPc4ZkFWxefSY=;1eyvkDbmoXb/WrQTs03rsA=="
 ---
 

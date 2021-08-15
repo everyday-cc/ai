@@ -42,6 +42,20 @@ related:
         width: 1220
         height: 610
         isCached: true
+  - title: "Latest Pearl Patent: AI-Powered Dental Insurance Fraud, Waste and Abuse Detection AI System"
+    excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received a patent grant from the United States Patent Office covering the company's pioneering AI system for detecting fraud,"
+    publishedDateTime: 2021-08-11T12:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/latest-pearl-patent-ai-powered-dental-insurance-fraud-waste-and-abuse-detection-ai-system-1030718399"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
+        width: 400
+        height: 303
+        isCached: true
 
 secured: "xu++XgQvu0ODnCNW35J7CMx36Kgk5aBKbgUILyENAWJjfMFSo9Wwx6BjjP4jw+7u/I1xioPIgGPIx2+9BQzbxe66Er3GSiwUVHXehiSiZEOMZlULsktPM7p/vjUdvytnSCKX9FuwYQrHXpSivyjZ/6RsH8kxajpyyqsS0HIj9566kA0BPT9ra2rkkDzRvEhe+5pBPwlCh65enHwB790TKaz6Y+tooOoCzUnk9e0zkShU4hWWnnPfj/cmUoEyEt9NNfylC6Io4MPGPOc7T8XcwbNaE5hij53z0E15gaP48o6Nx+xXpmIE3yW7AAxqZpLuO+MqpMnDzdgqgxr6otyzaIFz0Z5Lz3wHODHiXOXHBgP/QKWBQge83CnsTiyeiephHSNTcw966ZU87QWSz8dHW9wY2TllmmUycWXXy3quVbAjMrKlMeM50VUc5pXPFYvReWaagxb4XmOoEfcNv+jDxP1XMPCSKODz4AO/UeZiNphbcZCBcA+C4lDYGeBUQhY7TknVfSJqoWTFaLXaMQ/zYw==;kNOTsixjaYgngrvOj3uFmw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/"
 type: article
 quality: 101
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
-    excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
-    publishedDateTime: 2021-08-10T17:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/7b5c78a2c1a6120aec199590620de3a9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Abacus.AI announces the world's first enterprise scale real-time MLOps and DLOps platform"
     excerpt: "Abacus.AI is the world's first enterprise scale end-to-end real-time MLOps and DLOps platform. Customers can stream real-time events, such as clickstream data, social media interactions, online purchases,"
     publishedDateTime: 2021-08-13T11:51:00Z

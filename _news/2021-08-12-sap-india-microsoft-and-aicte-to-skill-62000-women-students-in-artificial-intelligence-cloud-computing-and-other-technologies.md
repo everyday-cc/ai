@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Dataquest
@@ -27,47 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool"
-    excerpt: "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud."
-    publishedDateTime: 2021-08-10T18:48:00Z
-    webUrl: "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    ampWebUrl: "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel"
+  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
+    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
+    publishedDateTime: 2021-08-13T13:42:00Z
+    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 81
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg"
-        width: 708
-        height: 399
-        isCached: true
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
-  - title: "Latest Pearl Patent: AI-Powered Dental Insurance Fraud, Waste and Abuse Detection AI System"
-    excerpt: "Pearl, the leader in AI solutions for efficiency, accuracy, and consistency in dental care, today announced that it has received a patent grant from the United States Patent Office covering the company's pioneering AI system for detecting fraud,"
-    publishedDateTime: 2021-08-11T12:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/latest-pearl-patent-ai-powered-dental-insurance-fraud-waste-and-abuse-detection-ai-system-1030718399"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1039359/Pearl_Logo.jpg"
-        width: 400
-        height: 303
-        isCached: true
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
 
 secured: "ll5WXvGVSShOxJFV6gzvnKnFVgnE57kfx/YcV/7Ej+tZpU4xVhvaO4YRqarkWAZal1S457k230W+SEHF0vmKh9pnp69R0bSt+pt4GH77EiCkbQBhNRG1L4RoPcfRIzn7Iia4YNyY0kj7GuRj3UL1o5tkBbwGHgPO9UFpdtQ6rl/bYrY+3A2n5Q9e4UDLnSv8h1Ox0p9ESy+oWOVz/+DlaX9chZ14EqyMkbKWz+2asIHYtZDCeVm2mU3v0MUwuISWudc0CSVhr77h/AUBP1CzYTWNzG5KLoEqdSmu8LlBpOK3PFXXK9Hp7v9GciVOW7N/UVRrQQKb2T4QiFLkEPdjVSxigbsdh5M0CwADgwcnt1o=;qOBR8gy8Su3DIHxbPdVpyQ=="
 ---

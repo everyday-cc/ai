@@ -35,6 +35,20 @@ related:
         width: 800
         height: 385
         isCached: true
+  - title: "Artificial Intelligence As A Service Market Trends, Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Artificial Intelligence As A Service Market size. The research report serves as a comprehensive guide for new entrants to the Artificial Intelligence As A Service market size."
+    publishedDateTime: 2021-08-12T15:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-trends-industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2021-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
     excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
     publishedDateTime: 2021-08-11T16:15:00Z

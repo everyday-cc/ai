@@ -35,20 +35,6 @@ related:
         width: 2468
         height: 1406
         isCached: true
-  - title: "Tecton Releases Low-latency Streaming Pipelines for Machine Learning, Allowing Data Teams to ..."
-    excerpt: "Tecton is the Only Feature Store That Orchestrates Streaming Pipelines for Machine Learning (ML) at Sub-Second Freshness While Providing Native Support for Time Aggregations and Backfills, Expanding the Use of ML to Real-Time Use Cases Such as Fraud Detection,"
-    publishedDateTime: 2021-08-10T17:07:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/7b5c78a2c1a6120aec199590620de3a9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "B7UBnAkEtUy174QA7A8lcObC9ITxp6LVMSFLO2Bl4DsywFsXB9/RoEI/QPkRqRGq5Na0JNuw/e6asHOgC/coVfF5pY1bCWyHMTmZC4nFdo1UHAJngXfsGqPvVnTt2sg3dxKuOYOAS/sYXHuNOLogbg+Dtc1pBPuERT6p7ihXG8vcTjiWx285jotCYNMvKAykhOCd3eoeD7Bmt3UtVdkNcb5sJb1b2fhjKT868tEp13uwJHCYsAPLoLCbmEXElnjbqWmihjp1OfrChcwT7ErV2CeeZJBhDPSEtXt5UZVQp2wxSpAh00YESLmsGcgN7WsnbkiRGyWQ0VVSQj+jCGV8MO18k1RSSrs189gweeEGH+k=;w6T82UfjYgqCVuRj8zBJwQ=="
 ---

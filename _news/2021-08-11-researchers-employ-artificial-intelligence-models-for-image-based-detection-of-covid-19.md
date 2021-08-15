@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Researchers-employ-ar
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Researchers-employ-artificial-intelligence-models-for-image-based-detection-of-COVID-19.aspx"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
-    excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
-    publishedDateTime: 2021-08-10T17:21:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Women in evidence: recognition for coping with COVID-19"
     excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
     publishedDateTime: 2021-08-12T04:47:00Z

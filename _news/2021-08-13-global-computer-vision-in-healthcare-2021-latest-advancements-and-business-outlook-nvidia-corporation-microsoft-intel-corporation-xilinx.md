@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,22 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Machine Intelligence Market Demand Analysis and Opportunity Outlook 2026 | Google, Brighterion, Microsoft, NVIDIA"
-    excerpt: "The latest study released on the Global Machine Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Intelligence market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-08-14T20:05:00Z
-    webUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
-    ampWebUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+  - title: "SAP India, Microsoft and AICTE to Skill 62,000 Women Students in Artificial Intelligence, Cloud Computing and Other Technologies"
+    excerpt: "SAP India, Microsoft and AICTE through the TechSaksham initiative will skill over 62000 young women in artificial intelligence, cloud computing, and so on"
+    publishedDateTime: 2021-08-12T09:12:00Z
+    webUrl: "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/"
+    ampWebUrl: "https://www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/sap-india-microsoft-aicte-skill-62000-women-students-artificial-intelligence-cloud-computing-technologies/amp/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
+      name: Dataquest
+      domain: dqindia.com
+    quality: 60
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/12/artificial-intelligence-4417279_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "rU5WRyRasB4ZnT0JMP7OGTlHmXyuBIFUqti02wwJpB2c0U7VpVh0WjmPyEaIT8Wzl7HR9lX0kmAdimNt7pE1R5BLJ8w0rB6oHqX96/3dsAO3GQYdTggDuC46BDenNG2mQMys7idpR46HSkM+rBWNftU6UQyTrws15pqmTbgHKyxLVNfcrMePVDKOANKt/+kpbTNS+S9MnKWryzyLvoscQefzENO1pg1J3e15AUUGGlBtUEDbMJ2f/bZzMzbDEEfovIELoKV5FgBuvh/IkzdPkgB2V4qQgteETGkxF+Du1t/V9uAEp0FOyVFxbQt1KQE4E28QYxR3mDSK0Hhn/+THO7w9CKM1L8qSU4R0Jt/bpl4=;sxH6k2+crBmCSb9kgMOvtw=="
 ---

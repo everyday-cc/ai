@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Helps Detect COVID-19 by Analyzing Lung Images"
-    excerpt: "With the aid of artificial intelligence models, researchers have designed and validated an image-based detection of COVID-19."
-    publishedDateTime: 2021-08-10T17:21:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-detect-covid-19-by-analyzing-lung-images-202696-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 59
-    images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-diagnose-lung-disease-better.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
   - title: "Researchers employ artificial intelligence models for image-based detection of COVID-19"
     excerpt: "Medical imaging has long been a vital tool for the diagnosis and prognostic assessments of many diseases. In recent years, the use of artificial intelligence models has been used in conjunction with this imaging to augment their diagnostic capabilities."
     publishedDateTime: 2021-08-11T04:30:00Z

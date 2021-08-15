@@ -41,20 +41,6 @@ related:
         width: 1080
         height: 1350
         isCached: true
-  - title: "Audi Skysphere concept is shape-shifting, self-driving roadster"
-    excerpt: "Audi has given the first glimpse of its next generation design language with the unveiling of the Skysphere concept, which hints at a future electric roadster. The new machine, revealed at the Monterey Car Week in Pebble Beach,"
-    publishedDateTime: 2021-08-10T17:42:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/new-cars/audi-skysphere-concept-shape-shifting-self-driving-roadster"
-    type: article
-    provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 24
-    images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/99-audi-sky-sphere-concept-2021-lead-front.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
   - title: "TAKE A LOOK | Audi's new prototype is a futuristic self-driving electric car that can change its shape"
     excerpt: "The Skysphere concept car can expand by 25cm in its self-driving mode, giving passengers extra legroom while they watch movies, Audi said."
     publishedDateTime: 2021-08-12T17:18:00Z

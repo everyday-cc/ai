@@ -1,0 +1,28 @@
+---
+category: news
+title: "Juniper touts cloud-ready data centre, AI, automation"
+excerpt: "Enterprise networks are focused on buying full-stack offerings that include key software components such as management, automation and artificial intelligence (AI), but also routing, switching and security rather than a piecemeal approach. That trend is ..."
+publishedDateTime: 2021-08-15T11:11:00Z
+originalUrl: "https://www.arnnet.com.au/article/690513/juniper-touts-cloud-ready-data-centre-ai-automation/"
+webUrl: "https://www.arnnet.com.au/article/690513/juniper-touts-cloud-ready-data-centre-ai-automation/"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: ARN
+  domain: arnnet.com.au
+
+topics:
+  - AI
+
+images:
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nw_manjoj_leelanivas.jpg"
+    width: 800
+    height: 500
+    isCached: true
+
+secured: "iNUs7awlLBTU+gr2wNiHsNGgsn7v98agz3EZCmb0r6D+DjIuLNLH2VtxSctNFwLNUGweucQZza+zBrt67g/q7gxH+vmoiW8ZqDVQJkPonu9saDcXNUOUUjz1ABZxpH+pN1iUxiv4+WAvgW1+7fzI1XKRGxFodVYfxFuug5veubDjhthVB65fPwuOakdtG+OFxEm9kOGFsgo01jyGP++/xAgdZewuZAR8E5Cy5Z+gABW19zn2RM932WALAnJrUYO8zaiEiEnOk+bm5MwhN1lwzTtDJ00dKm9SxBfKFIgliM90HgegM8/mjNCJThMdt0ENF1YbdBE4DLLrmgGoaardOWDpytAGtan7yUWB+L7/lds=;fnfOtGgwImZXf8vnReT8qw=="
+---
+

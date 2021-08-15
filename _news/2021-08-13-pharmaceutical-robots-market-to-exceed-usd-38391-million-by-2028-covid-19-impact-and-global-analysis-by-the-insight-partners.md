@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Download PDF Brochure:  Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables,"
-publishedDateTime: 2021-08-13T11:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954"
-webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954"
+excerpt: "As per the latest The Insight Partners research report, \" Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
+publishedDateTime: 2021-08-13T11:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pharmaceutical-robots-market-exceed-usd-38391-million-2028-/2021/08/13/9430384.htm"
 type: article
-quality: 21
-heat: 21
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
@@ -38,6 +34,6 @@ related:
         height: 421
         isCached: true
 
-secured: "NU93ltlfbZ3iBdjRSofdZlhWRPRzZ7YP9i6WfkOAuq3n7WjMdB5XY+HdhFj+VTB6A5d1u5Om+WWlw1V+6RNP/k9hPDlV3zIeD+PglzUdMaRWi/6PqKjPHZXNFwTiW1YXpgqtKo1hYZYMPN2JMP5nDQZJMV3FeN1UtKQml9nsU0o4nXoI9+oW37ZQGogOUNWsOqwn1THX1GeZ+L8XVCdCw0OHcQzUhG+ZeTy8vkvQQnHrZeQHQLOyXTDNmfzX41CYv5YL9XolA/wTSOtYnsKPNHJjehs7ugMlu2Hi6VGe5Xd5s0YawAxBpE0b/80ZFKzef/vDdj7d5QSt9v3xraGm51cMRDOjlOvhzilm09lREVR9OYS7RXM+gnCofvnYBY52aMRgrF0c9KMXkt42E65Sx0xRNpsdMIvq6XnxSGM+MDQLRe0ubPgCorqZTGoW7Wn+UerRpRbv/yrvOSPfTmqfNreKsrHnzvSj10XLE6jwQPYuPZcK4ut7NTUY90M52NVOi1ylZM8leFtTGnYMfP3Rpg==;BfJukqoar1tlRt+2YDovaQ=="
+secured: "LTv0ZTeTzTy3Pu2i7akXlUp8mGjwfGXcuGjR/ebyLGWuWSDUvOV6g5fT8KtykaH57ojy6KCgSMFpt5UUda+z1cDPOdrBsf24oC7qihBBbP9XzIPg7/dat+H0nEQqppj90opgU8ym4DI5UV215sAOTqTAkPeL9VxLG31yLqHv/bUpLeNm+YXgp6WLQ6hQjxuZ30KtkKNE666ZuQ5fhr+ffQBVI/ftg0PtD0HWTvmTb/V4UrIQ44+ll//VcIZehtprQ1UQjVQx6Ijtw2iqIvJSqbQHqGiUlSrBv6HS30nDd6R6S7aLOxiu0uuytCdjRaaNQJV7ieHbkYOi60nVpeqW7wAWyAaBsE5+5jEVqTMFZskafId59U/mFWN28lad1uHye2SacEOhuQTH8gtpqqKsDSxnxWx6Ehwt2DvXPT6ETVK1szy/7vOIh+NDQeRDkJTRw4CeNuBgeFeLSVOmeCHU+BJdaTyn4b0w82jSYp6SudLIaCGbdtwCX0w/FMB6lXDZeivoRg2EeWDEQXqHPG5qQw==;cDZzaFttW6oTY+qrII/54w=="
 ---
 
