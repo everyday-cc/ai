@@ -363,6 +363,57 @@
       ]
     },
     {
+      "path": "_news/2021-08-12-chorusai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group.md",
+      "title": "Chorus.ai Ranked No. 1 Conversation Intelligence Product by Info-Tech Research Group",
+      "excerpt": "Chorus.ai, a ZoomInfo company and Conversation Intelligence platform leader, today announced that it has been recognized as the top-rated product and a gold medalist in the 2021 Conversation Intelligence Data Quadrant from SoftwareReviews,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1593195/2021_Conversation_Intelligence_Data_Quadrant.jpg",
+          "width": 362,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-12-ai-could-detect-dementia-years-before-symptoms-appear.md",
       "title": "AI could detect dementia years before symptoms appear",
       "excerpt": "Dementias are characterized by the build-up of different types of protein in the brain, which damages brain tissue and leads to cognitive decline. In the case of Alzheimer's disease, these proteins include beta-amyloid,",
@@ -1109,49 +1160,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software.md",
-      "title": "Microsoft acquires Israeli startup Peer5 to improve video streaming software",
-      "excerpt": "Tech giant says acquisition will aid businesses using its communication platform, Microsoft Teams; global real estate giant JLL snaps up Israeli analytics firm Skyline AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
-      "originalUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2020/03/063_1207074418-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/",
-      "publishedDateTime": "2021-08-11T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

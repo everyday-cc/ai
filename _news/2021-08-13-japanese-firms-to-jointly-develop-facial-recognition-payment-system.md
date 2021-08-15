@@ -81,22 +81,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "Hybrid Voice Recognition System Market Size Is Increasing Rapidly Even Under The Influence of COVID-19"
-    excerpt: "Hybrid Voice Recognition System Market Insights, Regional Analysis, Market Share, and Competitive Analysis on a Global Scale. The latest report on the Hybrid Voice Recognition Sys"
-    publishedDateTime: 2021-08-10T06:15:00Z
-    webUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    ampWebUrl: "https://manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/hybrid-voice-recognition-system-market-size-is-increasing-rapidly-even-under-the-influence-of-covid-19-2/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 28
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07//ict-media-market-10.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Voice Recognition Market Likely to Enjoy Explosive Growth by Facebook, Amazon, Google"
     excerpt: "What’s keeping Amazon.com, Inc., Facebook, Inc., Apple, Inc., Baidu, Inc., Nuance Communications, Inc, Advanced Voice Recognition Systems, Inc., CastleOS Software, LLC, Google, Inc., Microsoft Corporation & International Business Machines Corporation Ahead in the Market?"
     publishedDateTime: 2021-08-11T13:22:00Z

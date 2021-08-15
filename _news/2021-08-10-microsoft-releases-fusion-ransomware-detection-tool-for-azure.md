@@ -63,22 +63,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Internet of Things Software Market is Booming Worldwide | Google, AWS, Microsoft"
-    excerpt: "A Latest intelligence report published by AMA Research with title Internet of Things Software Market Outlook to 2026 A detailed study accumulated to offer Latest insights about acute features of the Global Internet of Things Software Market This report provides"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350675/internet-of-things-software-market-is-booming-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350675/internet-of-things-software-market-is-booming-worldwide"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 71
-    images:
-      - url: "https://cdn.openpr.com/U/8/U810943688_g.jpg"
-        width: 800
-        height: 520
-        isCached: true
   - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
     excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
     publishedDateTime: 2021-08-11T13:23:00Z

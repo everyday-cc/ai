@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/media/video/himss21-healthcare-execut
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/himss21-healthcare-executives-share-digital-health-lessons-learned-pandemic?amp"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "AI in Healthcare: Lessons Learned From Moffitt Cancer Center, Mayo Clinic"
-    excerpt: "Until recently, Ross Mitchell served as the inaugural AI Officer at the Moffitt Cancer Center in Tampa, Florida. Now he’s offering consulting expertise borne of a long career applying AI to healthcare and health systems."
-    publishedDateTime: 2021-08-10T05:02:00Z
-    webUrl: "https://www.bio-itworld.com/news/2021/08/10/ai-in-healthcare-lessons-learned-from-moffitt-cancer-center-mayo-clinic"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 33
 
 secured: "epQm96n6L4QshAMas3EnKAhLCsuaivTL8y+vQhSg0lRUQ9MWW8q3QKkrAWRFDaPr6vWpw8oXLg1e0LxXc2FZHItLTONcFf0uIaz90p61SSWGFJeR7uthIU2G9uhaQ4CDwZJFepKF0UwpzE5IUlwZdNseKlG7YqEYFVkgYQmt1TqwL9bY34bim2wBlJf9FfdPqoN7EiQWAgo3nalvYq3rS5y8l3omD4qS5FPJipR0yFZo0vqytqs+UqmPWmpLxqXr6MbCuCSO7PsnF27gfCZ/8CpuxMF7tgyjNMn3HDIZ0rtm4TnlbrOUK+bT5eam3DZFgWQKVvowA3KfXAo9ER1NF1fZR2G8hQ6IZ9W1EkdCMPXwI1uXDaNb3/eDc4O5SMeOWrPdyV3llEULsqv3o92vaq3qDMGBZiRsfjUumJfdw+IZYVET+AqyFTCm3yqhiJww+C0gPG8jdgLOEDOPLcjp1m0Tp5QVbX8k1/T5u4sMnKwXZRFqZTg9EkAjpiRFZo73Ky0u/q86wZ4LDmeUqY5ryg==;G9RIsmjxH0cl+f0DwbKGoA=="
 ---

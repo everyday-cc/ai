@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/music-streaming-service-uses-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

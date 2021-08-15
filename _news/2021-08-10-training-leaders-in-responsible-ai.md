@@ -19,71 +19,87 @@ topics:
   - AI
 
 related:
-  - title: "China overtakes US in AI research"
-    excerpt: "China topped the U.S. for the first time in terms of the number of times an academic article on AI is cited by others, a measure of the quality of a study. Until recently, the U.S. had been far ahead of other countries in AI research."
-    publishedDateTime: 2021-08-10T05:47:00Z
-    webUrl: "https://asia.nikkei.com/Spotlight/Datawatch/China-overtakes-US-in-AI-research"
+  - title: "Three Considerations To Keep In Mind Before Investing In AI"
+    excerpt: "There are some concrete steps you should take as a company leader to ensure you're investing in the AI solution that's right for your organization."
+    publishedDateTime: 2021-08-10T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/08/10/three-considerations-to-keep-in-mind-before-investing-in-ai/amp/"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 139
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F1%252F4%252F5%252F35765419-1-eng-GB%252F%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259B%25E3%2582%2599%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2599%25202%25404x-100.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611197e7a1fc8d3b4e5a536a%2F0x0.jpg"
+        width: 1200
+        height: 652
         isCached: true
-  - title: "Chorus.ai Ranked No. 1 Conversation Intelligence Product by Info-Tech Research Group"
-    excerpt: "Chorus.ai, a ZoomInfo company and Conversation Intelligence platform leader, today announced that it has been recognized as the top-rated product and a gold medalist in the 2021 Conversation Intelligence Data Quadrant from SoftwareReviews,"
-    publishedDateTime: 2021-08-12T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chorus-ai-ranked-no-1-conversation-intelligence-product-by-info-tech-research-group-1030724673"
+  - title: "Assessing AI Security Solutions: Questions to Ask"
+    excerpt: "Nat Smith, senior director analyst at Gartner, describes what factors potential buyers should consider when vendors pitch artificial intelligence-enabled security"
+    publishedDateTime: 2021-08-13T13:24:00Z
+    webUrl: "https://www.govinfosecurity.com/assessing-ai-security-solutions-questions-to-ask-a-17282"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1593195/2021_Conversation_Intelligence_Data_Quadrant.jpg"
-        width: 362
-        height: 400
+      - url: "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/state-cyber-risk-management-survey-report-2021-pdf-8-w-8668.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "Researchers use artificial intelligence to unlock extreme weather mysteries"
-    excerpt: "A new machine learning approach helps scientists understand why extreme precipitation days in the Midwest are becoming more frequent. It could also help scientists better predict how these and other extreme weather events will change in the future."
-    publishedDateTime: 2021-08-10T19:44:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210810143117.htm"
+  - title: "12 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "In this article, we will be looking at 12 best artificial intelligence stocks to invest in right now. To skip our detailed analysis of these stocks and the artificial intelligence industry, you can go directly to see the 5 Best Artificial Intelligence Stocks To Invest In Right Now."
+    publishedDateTime: 2021-08-10T14:12:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-artificial-intelligence-stocks-to-invest-in-right-now-971783/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 45
-  - title: "Grant success for research on Artificial Intelligence in IVF"
-    excerpt: "Congratulations to Dr Fabrizzio Horta on receiving the 2021 Monash Data Futures Institute Seed Grant - AI and Data Science for Monash Global Challenges. This $50,000 grant will help in the research collaboration between the Department of Obstetrics and Gynaecology ( Dr Fabrizzio Horta,"
-    publishedDateTime: 2021-08-10T06:29:00Z
-    webUrl: "https://www.monash.edu/medicine/news/latest/2021-articles/grant-success-for-research-on-artificial-intelligence-in-ivf"
-    type: article
-    provider:
-      name: Monash University
-      domain: monash.edu
-    quality: 37
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 43
     images:
-      - url: "https://www.monash.edu/__data/assets/image/0007/2656231/AI-model-Fabrizzio-Horta-Nunez.png"
-        width: 555
-        height: 350
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/31223117/robot-2301646_1280.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Pull US AI Research Out of China"
-    excerpt: "International scientific collaboration is a great thing, but not when it is fueling a despotic superpower’s oppression at home and belligerence abroad."
-    publishedDateTime: 2021-08-10T11:00:00Z
-    webUrl: "https://www.defenseone.com/ideas/2021/08/pull-us-ai-research-out-china/184359/"
+  - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 37
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
     images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2021/08/06/GettyImages_1169749687/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
         isCached: true
+  - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
+    excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
+    publishedDateTime: 2021-08-12T22:25:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2730215/admiral-discusses-potential-of-ai-in-missile-defense-testing-operations/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 36
+    images:
+      - url: "https://media.defense.gov/2020/Mar/12/2002263259/1280/1280/0/190830-D-N7474-004A.JPG"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Net Digital spins off AI software operations into independent company"
+    excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
+    publishedDateTime: 2021-08-12T14:32:00Z
+    webUrl: "https://www.telecompaper.com/news/net-digital-spins-off-ai-software-operations-into-independent-company--1393508"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "pp8dxWF+hedY0279dLIziaVcruqGJjv66h3VY0eDCVoWtWGL9ew65e5Ks9AzGk6H9wPV+9cAS5J9aSbzpdBz/tju1t9dnJlbnuBPDtrcphcucFmMCjg4Kl67NHxU4eIkxwU8cgVqsfuhzydvCLXE4yhyAQv6u+nR4Y+2Lf1LWSvBJ9PPspCPi2HSDvokpA0LFc0u883DEfDpFNVWCXj6ifJmDzVeRPMd3MrjYeccLKEVS5Yjdvh17IfjDMhIoSuFl9wbW6b+bMGxt4WjlH23+8tPNp2J+AbloQmw8pWsSWaETc/giQ45ptTZR2Kshn9fr3UGqJjEm+HLi5662r3PjuAI5UB4JQc1BuSc7hzCccZpt4BdVP3mY1NZPRja5Zo/cCG1Df1THAZnVxtlAaRbrFlbBNpIEu2xd7va1sMhHDeuDK5RbtGeKlP/RY21ETAy3wKCNjRMS+X8m048vP9ZA3drCFdhpcUfiKtunw/e3duK8sQ8WJgbooN+LrkvzrSte3g57nGEqqXkdT154qaCcw==;L/lif89WsKeXVq/e1Yd2Mg=="
 ---

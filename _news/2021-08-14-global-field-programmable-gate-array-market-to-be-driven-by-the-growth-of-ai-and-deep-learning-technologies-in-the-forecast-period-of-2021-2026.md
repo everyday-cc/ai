@@ -41,17 +41,6 @@ related:
         width: 800
         height: 385
         isCached: true
-  - title: "Deep Neural Networks Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The new report titled Global Deep Neural Networks Market published by Emergen Research is a vivid presentation of the global Deep Neural Networks market with utmost focus on the forecast market size share value and volume over the projected timeline"
-    publishedDateTime: 2021-08-10T06:41:00Z
-    webUrl: "https://www.openpr.com/news/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2350692/deep-neural-networks-market-size-growth-drivers-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
   - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
     excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
     publishedDateTime: 2021-08-11T16:15:00Z

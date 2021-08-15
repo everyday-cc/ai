@@ -85,6 +85,15 @@ related:
         width: 2640
         height: 1320
         isCached: true
+  - title: "Facebook – He made Facebook crazy about AI.Now he can’t fix that false information addiction"
+    excerpt: "The team that worked on deciding which posts each Facebook user would see in their personal news feed wanted to apply the same approach. Just as you can train your algorithm to predict who will click which ad,"
+    publishedDateTime: 2021-08-14T22:09:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-he-made-facebook-crazy-about-ai-now-he-cant-fix-that-false-information-addiction/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 10
 
 secured: "3TaDAvA/KkNi0yGDqfPO92PYtJpuZMojgCHowYgkjFoK4E6Qz3Y/i6pXgJ7L4GXnYW5+p5tPN7KMw3tNIfLNmnm3YsFRpRKp/D32zC1sB0j3e6wX+Tl8qWAvYesz3zawmpx81lr4HumDpjQf3TO3ndKZkh1Jj9BH5xkkSDTaCTPOqriG1rhy9xjkuKTcDiFcPVxEOd0LfQmVQ9OXPh16Vo2UqARBaOl8JdWIQ1shjrzjd9ZbglNeKPW8IMVYJ4AidkDEPpT/6PpgFC89Ad26Ui0Gu/OMe/bhyZO9viCrhOBlzl0ef20Dw+mhzGl7hkpLi8UPpicjEd71y6tmgfuCwDySWeypMjAObld5i4rqbNgqrLDCaXK0R0qS9QJ/VR8CnSUh+70MOSrLXh3qD7wyIgBUR4aLH57yrsZupWNGItdi6bqZ6WzW3wze5xfEVYWZQyR3WlmwGELbCnmBSCDXl+mqIMhGU8kIQnyCSaL5tlcJHLABVzhgawHmKCZICsyZTXwRnysmyeKw+XNP+4345Q==;eECHpSH0ZDQ3+CAedawroA=="
 ---

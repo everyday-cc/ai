@@ -56,32 +56,18 @@ related:
         height: 720
         isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-    excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
-    publishedDateTime: 2021-08-10T13:58:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+    excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+    publishedDateTime: 2021-08-10T14:18:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
     type: article
     provider:
       name: Insider Monkey
       domain: insidermonkey.com
-    quality: 41
+    quality: 39
     images:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
         width: 1920
         height: 1044
-        isCached: true
-  - title: "ZIM readies AI solutions for its shipping operations"
-    excerpt: "Israeli carrier ZIM is set to deploy greater use of artificial intelligence in its daily operations following a tie-up with Tel Aviv-based Data Science Group. The two firms will collaborate to create AI and machine learning solutions for shipping."
-    publishedDateTime: 2021-08-10T05:54:00Z
-    webUrl: "https://splash247.com/zim-readies-ai-solutions-for-its-shipping-operations/"
-    type: article
-    provider:
-      name: Splash 247
-      domain: splash247.com
-    quality: 37
-    images:
-      - url: "https://467222-1467340-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/Zim-Antwerp-e1613291187862.jpg"
-        width: 900
-        height: 537
         isCached: true
   - title: "Admiral Discusses Potential of AI in Missile Defense Testing, Operations"
     excerpt: "A big priority for the Missile Defense Agency is making life easier for the operators of the complex systems used to protect the U.S. from missile threats, the director of the MDA said. Artificial"
@@ -97,6 +83,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Training Leaders in Responsible AI"
+    excerpt: "With artificial intelligence slated to add 15.7 trillion USD to the global economy by 2030, business school graduates undoubtedly will be working at and leading organizations that interact with AI in some way."
+    publishedDateTime: 2021-08-10T14:10:00Z
+    webUrl: "https://aacsb.edu/insights/2021/august/training-leaders-in-responsible-ai"
+    type: article
+    provider:
+      name: AACSB
+      domain: aacsb.edu
+    quality: 19
   - title: "Net Digital spins off AI software operations into independent company"
     excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
     publishedDateTime: 2021-08-12T14:32:00Z

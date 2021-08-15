@@ -57,6 +57,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "AI in Fintech Market May Set a New Epic Growth Story | Samsung, Google, Salesforce"
+    excerpt: "Latest survey on COVID-19 Outbreak-Global AI in Fintech Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of COVID-19 Outbreak- AI in Fintech."
+    publishedDateTime: 2021-08-10T13:45:00Z
+    webUrl: "https://manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
+    ampWebUrl: "https://manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-in-fintech-market-may-set-a-new-epic-growth-story-samsung-google-salesforce/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 33
 
 secured: "8QG2FDLXOIm3jWAdp8BRxeRVV954Gh9CM6ObMZxHdRLR6t6J8hjRVV/xqTRAmFCLRn2zId2EDAkY+FuntoagMlRZp/SIqi1QVioDN1GrqpCNVgRKIeUVzlhaWfdSkdSTVzarX+Z/KGfAm+wpMTMRBM2Or8FzlViX9FwM+Yejcssnkc9LB0toQUMa0E0lzmKQhlKIMqyf0hMIdFZQDWvsDDe7h5usD0pEWDNrP0qtLIfCUnTVGkYpOmm+OluZ7gX9W2YnMlXhP3K14EipgBjIWjel2gDbMKsEbRFSvt7pKGyoxlMdZ8WV2O8l9nb6+pYJ3/JW58CrqqWS7fR3d9SBGzZbn0lmy4WQyf2NkLiyx68=;V8y7YoLoF6/464UUi2wj8w=="
 ---
