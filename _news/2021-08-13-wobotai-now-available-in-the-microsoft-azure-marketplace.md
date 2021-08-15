@@ -37,6 +37,20 @@ related:
         width: 1024
         height: 724
         isCached: true
+  - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
+    excerpt: "Wind River®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
+    publishedDateTime: 2021-08-12T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=515358"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 17
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "LlPBRDs2vuFs6lWyaX4uj7fTqRzInWkozmG7dAlGfgGQU04aXaqx8Kc1quAZ65Bm8V9dN1/uVCtY7+QhPsJjji4cpi6KvHqGC/dpzgClKkhfiMezxLhYVvYzmHipXsat6tBTT5+a4xKZD6BAWOR9zbAj5A7LcNO5e2fe4StEQVzHHr6/5dmKC4XlSkVmE22or5n5FVrmpDyo8rr6KggC1lhXHArI7gjXrxpU8tbweWcA7EYwYceT8X9eSHHNmL1bDibC5zpyLUOuRcn02IMiDRbJa6fKSoY+EBloTBrAx90ZS2QvfVnqhC5JjGGFCtYj6BafGhjgb5SfAdKP6hQPKDUZJRAYGs6QX2yE6eC1pbI=;eY5Xf9YvLEEQ1u/HZ1Q4bA=="
 ---

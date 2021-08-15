@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unvei
 cdnAmpWebUrl: "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-drivin
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
-quality: 82
-heat: 92
+quality: 84
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369"
@@ -47,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "OO4eEY62d5jNuEWhkpZyL69EGzFuxQy7NUZ5074wbG6WDO3/UGfAirn6Pu08V6HphPed6tOp9ms0HrbfvN/GWHvCCkHPbGUvVtINgZoVU5NktvazHEy3sytsaIO/vDV9GD6Ji8w6QsHtnNfNuGDZ7ZNO/JyJpZ/7JTqDYfqmIUrLM6mfg6EfTx2SfllHkuK1elJuT1dP38jSRC26+4foQ1c2mjoV6fCsRYHwo9HJeTSH/wxEOIi6Fd4GidS6Gr0xvZcuJ5shkuwd1ykvq4yXE3jY8Azd4NZa+Z5PeERuFCzXyf55xpO2xJZsNjylDmKmPgY92fW6+T1JpcLxH1810NVwNIzWbiv+2sl1Z1hn0vk=;fAsqufrNTBWg3ENkApD/+w=="
+secured: "I6HWQVwSef60Gaw9bI6XiqxuiMTY7EsjGNBh3fJJ+Kkc41tX4jDrAbzGH/LADUTN1C/HwXHcpeSMZSoaweGKwLrFhALYIcIbeWGNOqvLCMJRRCx4tkurlvCfj90GGMxlwE5P92xMZYLiE43Ca8zgaH/BQCUV3HsvQFrTUXa8zR+FKDUcDv+Yudql+s7vovtwkyszpmV6tf46zKQU9ZUIXCStrtj91teO59U1IFr2Sc+rGzehH0sHHHgkw6muX92OOqJQBFWTbmkC/gEi5rSRWJ2htEKOz72YnUKc8ZUL+LFhiAvM/dHMu+mNVZS+u+VibfuV8NVIqxALRZc9fNTc0egLwYSp98Sb4ND4LZcSpiBxUj2l20ASNiHGlwnfmg88PF+vVZGryt5cM5X9jzVMK3o/ihj3JpaKh2hc2VeMnqKrMyKp+NoaIeOA1Fg3H7RGQtH162/bda8+i+E6RI4ISAwNhdBGuWuUiKvXr408xX03oX+u8iV2LnT9g1McwBaZL6LJI3XWYrYrfNBPuS7HNQ==;9WdD0WYQfVe7H9cv5ALrhQ=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-self-driving-cars-faq-how-far-away-is-far-away.md",
+      "title": "Self-Driving Cars FAQ: How Far Away Is Far Away?",
+      "excerpt": "Who wouldn't want to just press a button, have the steering wheel and pedals stowed, and let your self-driving car whisk you in cocooned comfort to your parent's house five hours away while you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/",
+      "originalUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.motortrend.com/uploads/sites/5/2016/07/Autonomous-Testing-Nvidia-GPU-dense-PX-2-object-recognition-e1626879616416.jpg",
+          "width": 1360,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/self-driving-cars-faq-can-i-buy-one/amp/",
+      "publishedDateTime": "2021-07-21T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-tesla-knocked-500-off-a-hardware-upgrade-for-its-full-self-driving-subscription-after-customer-backlash.md",
       "title": "Tesla knocked $500 off a hardware upgrade for its Full Self Driving subscription after customer backlash",
       "excerpt": "Tesla offered customers with older cars a $1,500 Full Self-Driving hardware upgrade, provoking a backlash. Now, it's charging $1,000.",
@@ -1356,40 +1399,6 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
-      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
