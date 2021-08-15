@@ -21,108 +21,89 @@ topics:
   - AI
 
 related:
-  - title: "Global Face Recognition Systems Market"
-    excerpt: "The overall Face Recognition Systems market is uncommonly ferocious To keep up their position and drive the market improvement industry players are persistently improving and searching for market expansion logically through progressions thing dispatches solidifications and acquisitions sagacious portfolio and"
-    publishedDateTime: 2021-08-10T20:17:00Z
-    webUrl: "https://www.openpr.com/news/2351661/global-face-recognition-systems-market-size-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2351661/global-face-recognition-systems-market-size-growth"
+  - title: "Facebook Has Tremendous Free Cash Flow"
+    excerpt: "Facebook has generated prodigious amounts of free cash flow the last 3 quarters. Here’s why I believe FB will continue with strong FCF as they use artificial intelligence."
+    publishedDateTime: 2021-08-12T09:21:00Z
+    webUrl: "https://seekingalpha.com/article/4448483-facebook-has-tremendous-free-cash-flow"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4448483-facebook-has-tremendous-free-cash-flow"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4448483-facebook-has-tremendous-free-cash-flow"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/8/U810466440_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Facial Recognition Door Lock Market growth graph to witness upward trajectory during 2021-2026"
-    excerpt: "Global Facial Recognition Door Lock Market Report Provides Market Strengths, Weaknesses, Opportunities, Threats, and Forecast till 2026. Market Research Store is a market research"
-    publishedDateTime: 2021-08-11T06:26:00Z
-    webUrl: "https://manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
-    ampWebUrl: "https://manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-facial-recognition-door-lock-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 44
     images:
-      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store9.jpg.jpg"
-        width: 500
-        height: 500
+      - url: "https://static3.seekingalpha.com/uploads/2021/8/11/3418341-16287219615902622.jpg"
+        width: 600
+        height: 426
         isCached: true
-  - title: "Face Recognition Systems Market to See Major Growth by 2026 | NEC Corporation, Safran Group, Gemalto, Ayonix"
-    excerpt: "The global Face Recognition Systems market size is expected to gain market growth with a CAGR of xx% in the forecast period of 2021 to 2027 and will expected to reach USD xx million by 2027, from USD xx million in 2020."
-    publishedDateTime: 2021-08-12T17:22:00Z
-    webUrl: "https://manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
-    ampWebUrl: "https://manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/face-recognition-systems-market-to-see-major-growth-by-2026-nec-corporation-safran-group-gemalto-ayonix/"
+  - title: "AI researchers won’t be playing ‘trust fall’ with Facebook. Or China"
+    excerpt: "There are organizations that AI researchers trust less than Facebook, according to a new paper, and they are all Chinese."
+    publishedDateTime: 2021-08-12T17:49:00Z
+    webUrl: "https://www.biometricupdate.com/202108/ai-researchers-wont-be-playing-trust-fall-with-facebook-or-china"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 40
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Face-Recognition-Systems-Market-780x470.jpg"
-        width: 780
-        height: 470
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Japan firms to jointly develop facial recognition payment system"
-    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
-    publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
+  - title: "Facebook Fails To Stem COVID Denialism Even as Delta Variant Surges"
+    excerpt: "We documented a sampling of Facebook posts, comments, and a group that continue to push anti-mask and anti-vaccine rhetoric, as well as COVID denialism."
+    publishedDateTime: 2021-08-12T23:45:00Z
+    webUrl: "https://www.snopes.com/news/2021/08/12/facebook-covid-denialism-examples/"
     type: article
     provider:
-      name: Nippon
-      domain: nippon.com
+      name: Snopes.com
+      domain: snopes.com
     quality: 39
     images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
-        width: 360
-        height: 360
+      - url: "https://www.snopes.com/tachyon/2021/08/covid-hospital-getty-images-scaled-e1628807601904.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Japanese firms to jointly develop facial recognition payment system"
-    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
-    publishedDateTime: 2021-08-12T21:28:00Z
-    webUrl: "https://japantoday.com/category/tech/japan-firms-to-jointly-develop-facial-recognition-payment-system"
+  - title: "Adopting Digital Early And Partnership With Facebook Helps Maruti Suzuki Transform The Game"
+    excerpt: "India’s leading carmaker, Maruti Suzuki India Limited today said that Covid-19 has not only led to acceleration of its digital capabilities but it has also offered a more connected digital experience to its clients,"
+    publishedDateTime: 2021-08-13T23:47:00Z
+    webUrl: "https://indiaeducationdiary.in/adopting-digital-early-and-partnership-with-facebook-helps-maruti-suzuki-transform-the-game/"
+    ampWebUrl: "https://indiaeducationdiary.in/adopting-digital-early-and-partnership-with-facebook-helps-maruti-suzuki-transform-the-game/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/adopting-digital-early-and-partnership-with-facebook-helps-maruti-suzuki-transform-the-game/"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
-  - title: "NtechLab eyes Gulf markets with its face, silhouette, and vehicle recognition system"
-    excerpt: "Following a 2020 $15 million investment from an international consortium of sovereign wealth funds, including those from the Middle East, NtechLab has announced the opening of its Gulf representative"
-    publishedDateTime: 2021-08-12T13:28:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/NtechLab_eyes_Gulf_markets_with_its_face_silhouette_and_vehicle_recognition_systemnbsp-ZAWYA20210812121248/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210812121248/"
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 34
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Telco and medical data breaches. Privacy, at Apple and Facebook. Faking facial recognition."
+    excerpt: "StarHub customer data leaked. Data breach at Georgia hospital. Child protection and Apple's reputation for privacy. Facebook considers ways of collecting less advertising data. Fake faces."
+    publishedDateTime: 2021-08-12T19:30:00Z
+    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/3/155"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
-  - title: "Global Automotive Recognition System Market SWOT Analysis,Key Indicators,Forecast 2027 : CogniVue, EyeSight Technologies, Intel, Qualcomm"
-    excerpt: "The Research experts at MR Accuracy Reports have crafted a brand-new report on the Automotive Recognition System which will provide its users a 360-degree overview of the global market post-COVID-19 pandemic,"
-    publishedDateTime: 2021-08-12T03:36:00Z
-    webUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/"
-    ampWebUrl: "https://manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-automotive-recognition-system-market-swot-analysiskey-indicatorsforecast-2027-cognivue-eyesight-technologies-intel-qualcomm/?amp=1"
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 29
+    images:
+      - url: "https://thecyberwire.com/images/social-media/privacy-briefing/2021/Privacy-21-081221.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
+  - title: "Facebook – He made Facebook crazy about AI.Now he can’t fix that false information addiction"
+    excerpt: "The team that worked on deciding which posts each Facebook user would see in their personal news feed wanted to apply the same approach. Just as you can train your algorithm to predict who will click which ad,"
+    publishedDateTime: 2021-08-14T22:09:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-he-made-facebook-crazy-about-ai-now-he-cant-fix-that-false-information-addiction/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 0
-  - title: "VC Daily: Facebook's Giphy Deal Faces Competition Concerns; Reddit Valuation Soars to $10 Billion; Question of the Week"
-    excerpt: "Top News Competition concerns. U.K. antitrust officials said they could call on Facebook Inc. to unwind its acquisition of Giphy, a provider of popular animated images, after provisionally finding that the deal would harm competition between social-media platforms and in the display advertising market,"
-    publishedDateTime: 2021-08-13T08:52:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202108138001/vc-daily-facebooks-giphy-deal-faces-competition-concerns-reddit-valuation-soars-to-10-billion-question-of-the-week"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 0
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 10
 
 secured: "12i4aP4R0aIqVxIg11FRHaqFQfNf4QiviZrJjHl8l46Qhue6VN0VH6q3afH1sxDqVS/VkbJdxtXrobg8yVJuT5+53o1CdYni76trQzQGHiZUvltOcHspPmJwxszrCaN7G0NQNK+n/jeuskZ4fEQbG5lu4OaGB2/yUUKah63gX3tS974wMlJmzYw+uBl7Kajn5b7qr9jISitMfTHKPByjc6crCItlYToo9mqZgO1U2/S8uFnmlwS2fHoUKymfTFnBEySklF7b7YruoCApyBvw/yfo3gabvujyO5hHDj3DCXDzWm6C2cQDvcG7oZx2IRbufz49TOrY4f9rXzz5m8C+CF6l/uZRImqZu2rLnpxPrNY=;aY4/nJfXEWDIQBHQlB4/wg=="
 ---

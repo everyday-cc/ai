@@ -3,8 +3,8 @@ category: news
 title: "Tencent, Google-backed AI pharma startup secures $400m in series D round"
 excerpt: "The new funds come less than a year after XtalPi raised US$300 million in a series C round, bringing its valuation to over US$2 billion."
 publishedDateTime: 2021-08-12T09:54:00Z
-originalUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round"
-webUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round"
+originalUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round?comments=true"
+webUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round?comments=true"
 type: article
 quality: 46
 heat: 46
@@ -32,6 +32,6 @@ related:
       domain: angel.co
     quality: 8
 
-secured: "c9PF+WCVMT4Hy2YPxO18kPbVOj+QGKHP3qI6n9Dtd7yIdfbAVUcbXGrJimGI+EO00SdUp3PgF1V00VEqdqbLR/+3nxa8MWbQsjzKmTNiBI/hxDSTB0xEiQiRuiDPG0CGRM8W2FbKxiJ13ITFYALqCSDJJSfmebPapkA6wnh/P2CDa7YnFLAx4959/AWJSmVa5rSpVX4Blc7AtOYR0XPS/SWdNWEHGXWIQrGULIDWNwEgq1YhLPrmJv6GboOSOxdQ75tY+1vIA8aDz9zTitMZ1lq2ylVNcgBXXnBOXLVRMzGml2D9G91TDlsQ4AJScX6tOmetDm7U4CeSG+yovduhI3k1sUxtbcOBChV2vHUW5HQ=;ILsT4VwqLalLgDeELCkrlA=="
+secured: "+1KvmujO2/qrfvBYo4Us8J7SuY0CpQ+pd/n2yS0nfpnB0q6JRly3hZKXH3eo6nlyGi9OtdvQ4YeA25OOLmevrNHPCu+Wla9dusZLvnYPRiLOI9kWhDwS8lraCjMtlEwqeFWh5HTDPr8W7ftJkYxGx/F3jxSW4KOxGS9zUlPKkbzJpBF+QmGU7BIhTf0WwZfYM5PalcQ+MmVFDdHsKc+IN3cHGO1OqxonFfa7X4EbOFy97JgYOfUn/TMXWXnFYMO9Vs61uEXsMKfQaAKzBwfBcRoIfBOhbD3yqfeXMDnUbguc7DIQmyWWvRhdzF/QFTTD1Q6NfN2R6jeL7L91MXK/cDACJDKJdWMEnShyAxdxTtrW/w2WPV6LDXPfu1aZvQ8FDRwB65zmWVIFDTf4azFJnnKZDrQ/jQOV8uTexDmziFmuTIjp5t6ObdgA67+3vAoJYc0fcFsh9JOv9eVbI0ui5tb9JNfHBR830OxipaeHnh82cENdsQEX4e/RYxhXuQ3zdIDlynRDNOF6tRB5zEqf9g==;KFxGsHoYr9pt6EUmRP6KyA=="
 ---
 

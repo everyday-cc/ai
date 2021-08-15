@@ -9,7 +9,7 @@ ampWebUrl: "https://www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu
 cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/248919/nvidia-launches-new-rtx-a2000-gpu-with-6gb-gddr6-ecc-memory/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
         width: 1344
         height: 742
-        isCached: true
-  - title: "Nvidia announces tiny RTX A2000 GPU featuring smaller form factor for Pc"
-    excerpt: "For professional workstations, Nvidia has unveiled its new RTX A2000 GPU. In terms of size, it is Nvidia’s smallest Ampere-based GPU to date. A2000 cards are meant for professionals who wish to use ray tracing and Nvidia’s AI capabilities."
-    publishedDateTime: 2021-08-10T19:15:00Z
-    webUrl: "https://techstory.in/nvidia-tiny-rtx-a2000-gpu-featuring-smaller-form-factor/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 38
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/08/Draug.jpg"
-        width: 1350
-        height: 900
         isCached: true
   - title: "NVIDIA RTX A2000 GPU offers real-time ray tracing in a small form factor"
     excerpt: "NVIDIA has launched its new RTX A2000 GPU, specifically designed to bring RTX technology to more professionals offering a small form factor"

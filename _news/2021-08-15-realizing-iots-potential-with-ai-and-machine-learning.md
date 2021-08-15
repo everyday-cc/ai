@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 136
 published: true
 
 provider:

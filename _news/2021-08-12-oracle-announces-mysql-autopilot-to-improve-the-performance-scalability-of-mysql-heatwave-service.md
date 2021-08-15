@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle accelerates MySQL HeatWave queries with machine learning"
-    excerpt: "MySQL Autopilot uses advanced machine learning techniques to accelerate HeatWave query performance and scalability in Oracle Cloud’s MySQL Database Service."
-    publishedDateTime: 2021-08-10T19:18:00Z
-    webUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.html"
-    ampWebUrl: "https://www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3628343/oracle-accelerates-mysql-heatwave-queries-with-machine-learning.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
-    images:
-      - url: "https://images.techhive.com/images/article/2016/10/speed-164063_12801-100689806-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Oracle tweaks MySQL and boosts storage engine"
     excerpt: "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,"
     publishedDateTime: 2021-08-11T11:01:00Z

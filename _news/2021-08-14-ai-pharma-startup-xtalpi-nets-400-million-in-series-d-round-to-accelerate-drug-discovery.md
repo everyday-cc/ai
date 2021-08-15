@@ -21,7 +21,7 @@ related:
   - title: "Tencent, Google-backed AI pharma startup secures $400m in series D round"
     excerpt: "The new funds come less than a year after XtalPi raised US$300 million in a series C round, bringing its valuation to over US$2 billion."
     publishedDateTime: 2021-08-12T09:54:00Z
-    webUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round"
+    webUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round?comments=true"
     type: article
     provider:
       name: Techinasia

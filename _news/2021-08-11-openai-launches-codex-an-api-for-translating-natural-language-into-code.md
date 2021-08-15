@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/openai-launches-codex-an-api-for-translating-natural-language-into-code/amp/"
 type: article
 quality: 186
-heat: 256
+heat: 246
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "OpenAI’s new Codex neural network writes software in response to text prompts"
-    excerpt: "OpenAI LLC today launched the private beta program for an artificial intelligence system dubbed Codex that can write software and perform data science tasks in response to natural-language prompts. Codex will be available to participants of the private beta program through an application programming interface."
-    publishedDateTime: 2021-08-10T20:34:00Z
-    webUrl: "https://siliconangle.com/2021/08/10/openais-new-codex-neural-network-writes-software-response-text-prompts/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/openai.png"
-        width: 900
-        height: 506
         isCached: true
   - title: "OpenAI's Codex Turns Written Language Into Computer Code"
     excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."

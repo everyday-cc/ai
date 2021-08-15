@@ -41,20 +41,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Robots are coming for the lawyers"
-    excerpt: "And it is those complicated, personalized tasks that have led technologists to include lawyers in a broader category of jobs that are considered pretty safe from a future of advanced robotics and artificial intelligence."
-    publishedDateTime: 2021-08-10T20:00:00Z
-    webUrl: "https://www.fastcompany.com/90664648/robots-are-coming-for-the-lawyers"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-90664648-robots-are-coming-for-the-lawyers.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
     excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
     publishedDateTime: 2021-08-12T11:45:00Z
