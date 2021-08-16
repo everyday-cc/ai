@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-08-05-prompt-based-learning-can-make-language-models-more-capable.md",
+      "title": "Prompt-based learning can make language models more capable",
+      "excerpt": "Supervised learning, where AI models are trained on input data annotated for a particular output until they can detect the underlying relationships between the inputs and outputs, plays a major role in natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
+      "originalUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
+      "publishedDateTime": "2021-08-04T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-master-face-researchers-say-theyve-found-a-wildly-successful-bypass-for-face-recognition-tech.md",
       "title": "'Master Face': Researchers Say They've Found a Wildly Successful Bypass for Face Recognition Tech",
       "excerpt": "Indeed, computer scientists at Tel Aviv University in Israel say they have discovered a way to bypass a large percentage of facial recognition systems by basically faking your face. The team calls this method the “master face” (like a “master key,",
@@ -1095,58 +1147,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs.md",
-      "title": "Spell unveils deep learning operations platform to cut AI training costs",
-      "excerpt": "Spell takes wraps off deep learning operations (DLOps) platform that promises to reduce cost of building more advanced AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Spell.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/spell-unveils-deep-learning-operations-platform-to-cut-ai-training-costs/amp/",
-      "publishedDateTime": "2021-08-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

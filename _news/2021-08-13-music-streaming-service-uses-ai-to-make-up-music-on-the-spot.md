@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/music-streaming-service-uses-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using artificial intelligence to make SA’s roads safer"
-    excerpt: "There’s still a debate around privacy and transparency, with worries around how companies and the government will use data"
-    publishedDateTime: 2021-08-12T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/etKBhu_w1g_rZZLiKVyIpq6KGGoKiGQvJ_Qi6jXc48g8yDVlnc8v5kOlwcL1_ZUUmbOlyPLbEu0i_rluPk92_xh1QCYFpBCDpOIXN25by6V2=s1000"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Sportoong Uses Artificial Intelligence to Find the Best Sports Equipment"
     excerpt: "Sport Equipment TOP Pick” Sportoong is an AI tool that helps you find things to buy online. It collects data and then uses the information to analyze it,"
     publishedDateTime: 2021-08-12T21:10:00Z

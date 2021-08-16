@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-16-edge-ai-market-size-and-growth-prospects-2019-2027.md",
+      "title": "Edge AI Market Size and Growth Prospects 2019 – 2027",
+      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-and-growth-prospects-2019-2027-2021-07-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-cerebras-new-monster-ai-chip-adds-14-trillion-transistors.md",
       "title": "Cerebras’ New Monster AI Chip Adds 1.4 Trillion Transistors",
       "excerpt": "Shift to 7-nanometer process boosts the second-generation chip's transistor count to a mind-boggling 2.6 trillion.",
@@ -1321,59 +1373,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
-      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
-      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
-      "publishedDateTime": "2021-07-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
       ]
     }
   ],

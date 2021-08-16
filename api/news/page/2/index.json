@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-14-union-bank-awarri-unveil-next-robotics-legend-programme.md",
+      "title": "Union Bank, Awarri unveil Next Robotics Legend programme",
+      "excerpt": "Union Bank has announced the call for entries into the 2021 Next Robotics Legend programme, as part of initiatives under its Edu360 umbrella. Introduced in 2020, the programme was designed to identify and train young inventors in Artificial Intelligence (AI) and Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
+      "originalUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialwatchngr.com/wp-content/uploads/2016/07/union-bank-logo.jpg",
+          "width": 499,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
+      "cdnAmpWebUrl": "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
+      "publishedDateTime": "2021-08-13T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FINANCIAL WATCH NIGERIA",
+        "domain": "financialwatchngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-upstart-can-ai-kill-the-fico-score.md",
+      "title": "Upstart: Can AI Kill The FICO Score?",
+      "excerpt": "As for Upstart, Girouard’s main focus is to upend the banking industry’s reliance on the FICO score. “The Upstart system uses AI and machine learning models with 1,600 data points and 15 billion cells of data to improve accuracy in terms of identifying and measuring credit risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116ae4c125ed5b5f6bfa860%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
+      "publishedDateTime": "2021-08-13T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-ai-weekly-the-road-to-ethical-adoption-of-ai.md",
       "title": "AI Weekly: The road to ethical adoption of AI",
       "excerpt": "Adopting AI responsibly isn't easy. Challenges stand in the way -- but they can be overcome with careful design considerations.",
@@ -113,7 +209,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/music-streaming-service-uses-ai-to-make-up-music-on-the-spot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -548,58 +644,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-its-not-too-late-to-stop-the-killer-robot-uprising.md",
-      "title": "It’s not too late to stop the killer robot uprising",
-      "excerpt": "Around 50 countries are meeting at the UN offices in Geneva this week in an latest attempt to create a treaty preventing the proliferation of killer devices",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "originalUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FRobots1.jpg&signature=a81ea837aee499aa6ecd3018e5629de8",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1187,49 +1231,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system.md",
-      "title": "FedEx Deploys new AI-Robotics E-Commerce Fulfilment System",
-      "excerpt": "FedEx to scale up “encouraging” trial of new RPSi system from Berkshire Grey, which is AI-enabled and autonomously sorts thousands of packages a day",
-      "sourceUrl": null,
-      "webUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "originalUrl": "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://supplychaindigital.com/sites/default/files/styles/og_image/public/image/FedEx%20Delivery%20Van%20with%20Berkshire%20Grey%20Package%20Sortation%20System%20Foreground2.png?itok=svWe6DZ6",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Digital",
-        "domain": "supplychaindigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

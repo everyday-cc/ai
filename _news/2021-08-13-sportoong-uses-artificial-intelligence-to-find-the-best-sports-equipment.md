@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Using artificial intelligence to make SA’s roads safer"
-    excerpt: "There’s still a debate around privacy and transparency, with worries around how companies and the government will use data"
-    publishedDateTime: 2021-08-12T03:00:00Z
-    webUrl: "https://www.businesslive.co.za/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/fm/fm-fox/digital/2021-08-12-using-artificial-intelligence-to-make-sas-roads-safer/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 57
-    images:
-      - url: "https://lh3.googleusercontent.com/etKBhu_w1g_rZZLiKVyIpq6KGGoKiGQvJ_Qi6jXc48g8yDVlnc8v5kOlwcL1_ZUUmbOlyPLbEu0i_rluPk92_xh1QCYFpBCDpOIXN25by6V2=s1000"
-        width: 512
-        height: 341
-        isCached: true
 
 secured: "bk6RwVh7ojQ7x57jzA93InUESDBqXls1hKdJy1Mm/VwrBEJK4CBT854xmab3oFwGAok7mbVDE40qxdb51uvWNofXCK1qmWyqc1a1th+vy/V6YiYEo+Oeq30ApEqc65yHwqcXtNPlZKUirwg0Cotr2C7TdKSf6QduAVCRzbGgWnt6VM39KyWbzVp7C6VTKQUJqBii+0Ps+vXWSmJpOehTCXNO4q7qWGg/jeRIJ5Y9vjGRwkg2Ynr68gFLY7SQ1ioNa4yp8ruEafwbYZMa7pDK1VHpTS+gIwARAWiDx0f0uPAtzdXssa8ULVjDiOjhoyK34dqJTuh+q+OU6gzCTZbHNvFhKiBzCTFUyyHbSzo5cjo=;I5W4CRv/yCNVassOdCpE3g=="
 ---

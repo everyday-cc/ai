@@ -39,6 +39,22 @@ related:
         width: 400
         height: 295
         isCached: true
+  - title: "Sales fintech Seismic pushes valuation to $3 billion"
+    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
+    publishedDateTime: 2021-08-16T18:42:00Z
+    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
+    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 61
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Fintech firms on a roll: Heralding the new era of BNPL"
     excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
     publishedDateTime: 2021-08-13T10:46:00Z
@@ -70,20 +86,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "3 top Indian FinTech funding rounds in August 2021"
-    excerpt: "According to KPMG’s Pulse of Fintech, India’s FinTech sector received $2 billion in investment in the first half of 2021."
-    publishedDateTime: 2021-08-16T10:58:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-top-indian-fintech-funding-rounds-in-august-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/08/funding-2-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
     excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"

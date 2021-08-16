@@ -2,6 +2,50 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-07-26-natural-language-processing-market-study-latest-business-outlook-and-revenue-generation-strategy-2021-2027.md",
+      "title": "Natural Language Processing Market Study Latest Business Outlook and Revenue Generation Strategy 2021-2027",
+      "excerpt": "Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned ... meds and therapy results from patient notes, clinical preliminary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "originalUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U726466754_g.jpg",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "publishedDateTime": "2021-07-26T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-blue-hexagon-augments-aws-network-firewall-with-ai-based-cloud-native-threat-detection.md",
       "title": "Blue Hexagon Augments AWS Network Firewall with AI-based Cloud-Native Threat Detection",
       "excerpt": "Blue Hexagon, a leading agentless cloud-native AI security platform, announced the native integration of Blue Hexagon’s industry-leading real-time deep learning based threat detection with AWS Network Firewall for real-time protection.",
@@ -1107,49 +1151,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-24-usa-facial-recognition-in-use-at-major-chains-without-customer-knowledge.md",
-      "title": "USA: Facial recognition in use at major chains without customer knowledge",
-      "excerpt": "From Macy’s to Ace Hardware, facial recognition is already everywhere”, 15 July 2021. Some of the US’s most popular stores — including Macy’s and Ace Hardware — are using facial recognition on their customers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "originalUrl": "https://www.business-humanrights.org/en/latest-news/united-states-facial-recognition-in-use-at-major-chains-without-customer-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.business-humanrights.org/media/images/united-nations-419885_1280.2e16d0ba.fill-788x488.jpg",
-          "width": 788,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-23T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "洗護用品和肥皂",
-        "domain": "business-humanrights.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

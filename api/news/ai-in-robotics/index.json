@@ -98,58 +98,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-13-its-not-too-late-to-stop-the-killer-robot-uprising.md",
-      "title": "It’s not too late to stop the killer robot uprising",
-      "excerpt": "Around 50 countries are meeting at the UN offices in Geneva this week in an latest attempt to create a treaty preventing the proliferation of killer devices",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "originalUrl": "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2FRobots1.jpg&signature=a81ea837aee499aa6ecd3018e5629de8",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
       "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
       "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
@@ -1387,6 +1335,49 @@
       "provider": {
         "name": "Ecumenical News",
         "domain": "ecumenicalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-vatican-killer-robots-pose-threat-to-innocent-civilians.md",
+      "title": "Vatican: ‘Killer robots’ pose threat to innocent civilians",
+      "excerpt": "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
+      "originalUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg",
+          "width": 2560,
+          "height": 1777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
+      "publishedDateTime": "2021-08-06T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-upri
 webUrl: "https://thenextweb.com/news/not-too-late-to-stop-killer-robot-uprising-syndication"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Next Web
@@ -27,19 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Lethal autonomous weapons and World War III: it’s not too late to stop the rise of ‘killer robots’"
-    excerpt: "Like atomic bombs and chemical and biological weapons, deadly drones that make their own decisions must be tightly controlled by an international treaty."
-    publishedDateTime: 2021-08-12T02:12:00Z
-    webUrl: "https://theconversation.com/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    ampWebUrl: "https://theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/lethal-autonomous-weapons-and-world-war-iii-its-not-too-late-to-stop-the-rise-of-killer-robots-165822"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 25
 
 secured: "TbkKaOyeto14+RtOFxYVihIuIw96EaQQmFbyBLvB5694hI048oY78LTIbhhyIMofkUKLcLbSRKgGnjV8X7Mjrf1YOv9qPOWyvaNyJcZyArXOoZnGZ9gIP6ajSpfS/18OpTzyaRCyfGL3VlsN4puDiFfP1zeZvxpTLd6JxCCJOYew8Vh03xyOunViU8XjDnoPN2fYGIqeRBngKnyfYwB3MFkxRgCoaCWmwuUNZZ0LsUoUQPZyzQV2u7fKSnuJLhIvX1SVvXKur2XMq6tBdhDugYiDSKFTlV8DLHm2LxvbSC2PPG/+zjjpEwDl+PKxXd0wjXRTBWQZROUbCmharroorbm2L3wNHINKeycP916JfVMOFHxu6mSIs7/rIWkBgJb/i8tTjNjpuYTyKkql3/iAx4OEuxPKwasR0UXXmWo4bhVB1uT4ogbq7DRtViADocYxnzIpC/MeFxzT85i89hwTiAZYFLfVM7svv8+UTl2rfgg1PZXARujnB8VQk4JqsmXbmM7+Gt70jTytSJ8NecU3Ew==;eHBiIC15BV9K3MgGKKmkSw=="
 ---

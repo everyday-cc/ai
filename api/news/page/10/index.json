@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-06-schools-look-for-help-from-ai-teachers-assistants.md",
+      "title": "Schools Look for Help From AI Teacher’s Assistants",
+      "excerpt": "Researchers are developing artificial intelligence aimed at keeping students engaged and saving educators’ time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "originalUrl": "https://www.wsj.com/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-381086/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/schools-look-for-help-from-ai-teachers-assistants-11628262062",
+      "publishedDateTime": "2021-08-06T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-hellowoofy-unleashes-an-ai-brain-to-help-fill-up-your-social-channels-with-cool-content.md",
       "title": "HelloWoofy unleashes an AI brain to help fill up your social channels with cool content",
       "excerpt": "Sponsored Deals A service like HelloWoofy Social Media Management is a perfect balance in that equation, keeping a brand's social channels stocked with quality posts and real engagement without requiring hour after hour tending to those channels.",
@@ -1048,58 +1099,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-06-qualcomm-risks-self-driving-prang.md",
-      "title": "Qualcomm risks self-driving prang",
-      "excerpt": "Qualcomm’s (QCOM.O) excitement over self-driving may be dragging it off the financial highway. The $165 billion U.S. telecommunications technology group is offering $4.6 billion for Sweden’s Veoneer (VNE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
-      "originalUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/BmEQhNR3h6WvY4rl0XesUwQsE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

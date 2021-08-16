@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-c
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -24,65 +24,6 @@ images:
     width: 800
     height: 434
     isCached: true
-
-related:
-  - title: "StashFin is improving fraud detection in India with machine learning and AI"
-    excerpt: "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance"
-    publishedDateTime: 2021-08-12T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/Parikshit-Chitalkar-Co-founderStashfin-259x300.jpg"
-        width: 259
-        height: 300
-        isCached: true
-  - title: "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India"
-    excerpt: "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,"
-    publishedDateTime: 2021-08-16T10:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/380301"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/380301"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Parliamentarians With Innovators For India Launches India’s First AI-powered Vaccine Awareness Campaign Immunise"
-    excerpt: "Bobble AI, having over 50 Million users mostly from India, has designed and developed a series of rich visuals (stickers & GIFs) around COVID 19 vaccinations which can be used as a part of everyday conversations on chat messaging apps including WhatsApp."
-    publishedDateTime: 2021-08-13T06:00:00Z
-    webUrl: "https://www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/"
-    ampWebUrl: "https://www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/parliamentarians-with-innovators-for-india-launches-indias-first-ai-powered-vaccine-awareness-campaign-immunise-4885669/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 36
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/08/PR-1.png"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "Parliamentarians with innovators for India launches India's first AI powered vaccine awareness campaign Immunise"
-    excerpt: "PI India is engaging with Bobble AI to connect with millennial and Gen Zies and ensure greater uptake of vaccinations, assisting the government's aim of 10 million vaccinations a day which is still 40."
-    publishedDateTime: 2021-08-16T12:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-parliamentarians-with-innovators-india-launches-indias-first-ai-/2021/08/16/9431007.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Jy9StfqP8NAlwa6xyr7GzHPwSyclG6MhF4Xn+rq9kheYVatR8MwyOVpAs4JDpGMxUG9oT3KJ49ReL3z5k+klYXRxCWEDXGjqfFpte9LAH1k4FUF4C+5i5TLgaBrK+fsW4Bq5dWcv1jFxRRgEZOfzI5qLOc68yd7lk5Db4aF1NnlcxitgTWe3DzsKj0WtooPsb9lpIh9kWaXwmoig8fxltwsIhVDBRc8BcdOdYl89IWOZDbMAGM5utAtoak2fDimAclb1RukvVDwvDWB+Dzap+PuJH+YYFnsXQQQiKh+OLhm2TFrkUmdavb5I+hAvnbCGTJaaXGOK4nGeUUcDPqErnrhjPdwxDm+1JlUFiZfGyqY=;fSsDBkVXoJR7GwME4vBrkQ=="
 ---

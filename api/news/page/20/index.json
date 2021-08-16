@@ -2,6 +2,40 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-07-29-ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services.md",
+      "title": "Ayla Launches New Predictive AI Solution, Enabling ISPs to Deliver Smarter Broadband Services",
+      "excerpt": "Ayla Networks, a leader in Internet of Things (IoT) platforms that accelerate digital transformation for consumer brands and Internet service providers (ISPs), today announced Ayla TransformAI, a breakthrough predictive machine-learning based solution for ISPs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "originalUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-29-canadian-conversational-ai-design-tool-voiceflow-raises-20-million-in-series-a.md",
       "title": "Canadian Conversational AI Design Tool Voiceflow Raises $20 Million In Series A",
       "excerpt": "Canadian collaborative conversational AI tool Voiceflow announced today that it has raised $20 million in a Series A round led by Felicis Ventures. Other investors include Craft Ventures, True Ventures,",
@@ -1085,49 +1119,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-facebook-facebook-chatbots-werent-shut-down-for-creating-language.md",
-      "title": "Facebook – Facebook chatbots weren’t shut down for creating language",
-      "excerpt": "Facebook discontinued two “AI robots” after they developed their own language . It’s hard to escape artificial intelligence. From algorithms curating social media",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-facebook-chatbots-werent-shut-down-for-creating-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/05/13/USAT/81ade0d0-9048-4d9d-ad7c-d6cfdd50eec8-479c7ac2-491a-4c7a-bb0a-9c8f956a2665_thumbnail.png?width=660&height=371&fit=crop&format=pjpg&auto=webp",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

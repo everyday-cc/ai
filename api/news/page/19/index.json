@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-07-30-this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai.md",
+      "title": "This SoftBank-Backed Korean Edtech Startup Helps Solve Your Math Problems With AI",
+      "excerpt": "Other backers of Seoul-based Mathpresso include GGV Capital and the venture capital arms of Korean gaming billionaire Kwon Hyuk-bin’s Smilegate Investment and Lenovo founder Liu Chuanzhi’s Legend Holdings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6103a6ef3b9b7e964f6b2734%2F0x0.jpg",
+          "width": 1200,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rubyleung/2021/07/30/this-softbank-backed-korean-edtech-startup-helps-solve-your-math-problems-with-ai/amp/",
+      "publishedDateTime": "2021-07-30T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-30-definity-adds-deep-learning-ai-models-to-detect-digital-asset-market-anomalies.md",
       "title": "DeFinity adds deep-learning AI models to detect digital asset market anomalies",
       "excerpt": "DeFinity, a DeFi marketplace for fiat foreign exchange, tokenised currencies, and central bank digital currencies (CBDC), partners with",
@@ -1078,40 +1130,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services.md",
-      "title": "Ayla Launches New Predictive AI Solution, Enabling ISPs to Deliver Smarter Broadband Services",
-      "excerpt": "Ayla Networks, a leader in Internet of Things (IoT) platforms that accelerate digital transformation for consumer brands and Internet service providers (ISPs), today announced Ayla TransformAI, a breakthrough predictive machine-learning based solution for ISPs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
-      "originalUrl": "https://www.financialbuzz.com/ayla-launches-new-predictive-ai-solution-enabling-isps-to-deliver-smarter-broadband-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://hitconsultant.net/2021/08/16/ai-biomedical-data-insights/"
 webUrl: "https://hitconsultant.net/2021/08/16/ai-biomedical-data-insights/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 926
     height: 1326
     isCached: true
+
+related:
+  - title: "AI Regulation Is Coming"
+    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
+    publishedDateTime: 2021-08-16T17:59:00Z
+    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
+    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 57
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "SljJtaqutIG0iq8FJW0CnjZpPH5Q6AHx7Uh839RpQM6ihGqXDI+KM5Dzlcl9bbKkS16friJ9B/oIyBO4EHFmkJqy4zQibYG90iRqo/Zw2vXv2z/d3WEzr8vTpYGhvs1azH7WMMUkqvLwvSdOZ/6BOKJ/nbpWC8sTWGv0MK8NYGMkbAOPMsuJsUQYfrHQSBDptgcc6hCjVOCyod0AA5M3cMtZItbj83qCeR0QwfRbvw2Jam2nQJ1/OIEAD3LvajxP8aby2EFeLqlbC850vYVxL/daOCE1PQUvF/0HTrTVZheE6cwPRCrss+rlM1/G/Tc68fs+55DRtDD0na/A7Y6zzjXW07RGSzP8HW7M/rgqbSY=;iNuckZrYS5ys7KUxgj+1BQ=="
 ---

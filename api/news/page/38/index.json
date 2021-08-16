@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-07-16-deeptech-startup-edgeneuralai-raises-seed-round-from-anicut-angel-fund.md",
+      "title": "Deeptech Startup EDGENeural.AI Raises Seed Round From Anicut Angel Fund",
+      "excerpt": "Pune-based deeptech startup EDGENeural.AI has raised an undisclosed amount in seed funding from Anicut Angel Fund, the equity arm of Anicut Capital. The funding round saw participation from other investors including Venkat Raju, 9Unicorns, Samir Inamdar ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377515",
+      "originalUrl": "https://www.entrepreneur.com/article/377515",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626430253-IMG-27751.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377515",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377515",
+      "publishedDateTime": "2021-07-16T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-16-maine-enacts-toughest-facial-recognition-ban-in-us.md",
       "title": "Maine Enacts Toughest Facial Recognition Ban in U.S.",
       "excerpt": "Augusta, Maine — The Maine State Legislature has passed a bill that will prohibit the use of facial recognition surveillance by certain government employees and officials. While these bans have been popping up more and more over the country, Maine took ...",
@@ -1087,58 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-researchers-develop-deep-learning-method-for-translating-vocal-signals-from-the-brain-to-text.md",
-      "title": "Researchers develop deep-learning method for translating vocal signals from the brain to text",
-      "excerpt": "Researchers at the University of Califonia San Francisco developed a way to allow people with speech loss to communicate with their brains. The technology uses neural",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "originalUrl": "https://www.techspot.com/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/02/2019-02-19-ts3_thumbs-9e6.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90437-researchers-develop-deep-learning-method-translating-vocal-signals.html",
-      "publishedDateTime": "2021-07-15T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

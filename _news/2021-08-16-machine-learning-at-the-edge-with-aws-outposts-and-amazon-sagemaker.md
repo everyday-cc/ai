@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 121
+heat: 123
 published: true
 
 provider:

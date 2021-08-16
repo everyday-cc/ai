@@ -97,20 +97,6 @@ related:
         width: 620
         height: 432
         isCached: true
-  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-12T01:59:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 39
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1628733583_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
     excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
     publishedDateTime: 2021-08-12T12:00:00Z

@@ -18,53 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "StashFin is improving fraud detection in India with machine learning and AI"
-    excerpt: "Fraud detection is something the financial services industry can't afford to take lightly. From retail to consumer banking, to fintech and insurance"
-    publishedDateTime: 2021-08-12T02:50:00Z
-    webUrl: "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
+  - title: "AI-powered contact centers are revolutionizing the customer experience for millions of Indians"
+    excerpt: "However, the key to these relationships is a ‘cut-above customer experience. The increased customer interest in financial planning has set off a higher number of inquiries at banking contact centers."
+    publishedDateTime: 2021-08-16T11:26:00Z
+    webUrl: "https://www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/"
+    ampWebUrl: "https://www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-powered-contact-centers-revolutionizing-customer-experience-millions-indians/amp/"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/08/Parikshit-Chitalkar-Co-founderStashfin-259x300.jpg"
-        width: 259
-        height: 300
-        isCached: true
-  - title: "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India"
-    excerpt: "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,"
-    publishedDateTime: 2021-08-16T10:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/380301"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/380301"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Oppo sets up camera innovation lab in India to develop localized features, AI camera solutions"
-    excerpt: "It will also develop new imaging effects that will use AI algorithms, AI facial reconstruction, among others to enhance the application of beauty solu.."
-    publishedDateTime: 2021-08-16T07:07:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Dataquest
+      domain: dqindia.com
     quality: 45
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-85363309,imgsize-262699,width-800,height-434,overlay-ettelecom/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions.jpg"
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/07/IBM-Watson-to-explore.jpg"
         width: 800
-        height: 434
+        height: 420
         isCached: true
   - title: "Parliamentarians With Innovators For India Launches India’s First AI-powered Vaccine Awareness Campaign Immunise"
     excerpt: "Bobble AI, having over 50 Million users mostly from India, has designed and developed a series of rich visuals (stickers & GIFs) around COVID 19 vaccinations which can be used as a part of everyday conversations on chat messaging apps including WhatsApp."

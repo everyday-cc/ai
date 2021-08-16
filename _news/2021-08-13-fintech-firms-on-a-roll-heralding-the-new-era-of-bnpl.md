@@ -41,6 +41,22 @@ related:
         width: 400
         height: 295
         isCached: true
+  - title: "Sales fintech Seismic pushes valuation to $3 billion"
+    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
+    publishedDateTime: 2021-08-16T18:42:00Z
+    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
+    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 61
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "How Is Data Science Used in Fintech?"
     excerpt: "Financial technology, also known as Fintech, is witnessing explosive growth. Persistent innovation makes it an attractive investment option for venture capitalists. Fintech encompasses various technologies that focus on availing financial solutions to consumers."
     publishedDateTime: 2021-08-16T17:35:00Z
@@ -56,20 +72,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
         width: 700
         height: 400
-        isCached: true
-  - title: "3 top Indian FinTech funding rounds in August 2021"
-    excerpt: "According to KPMG’s Pulse of Fintech, India’s FinTech sector received $2 billion in investment in the first half of 2021."
-    publishedDateTime: 2021-08-16T10:58:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/3-top-indian-fintech-funding-rounds-in-august-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/08/funding-2-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Tavant Named to Prestigious IDC FinTech Rankings by IDC Financial Insights"
     excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced today it has been named to the 2020 IDC FinTech Rankings for the second straight year. The 17 th annual vendor ranking represents the leading hardware,"

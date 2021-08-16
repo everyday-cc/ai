@@ -2,6 +2,57 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-06-17-lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform.md",
+      "title": "Lexion raises $11M to expand its AI-powered contract management platform",
+      "excerpt": "Lexion, a platform leveraging AI to streamline legal contract management processes, has raised $11 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/",
+      "originalUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/smart-contract.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/17/lexion-raises-11m-to-expand-its-ai-powered-contract-management-platform/amp/",
+      "publishedDateTime": "2021-06-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-last-mile-landscaping-and-leaping-robots.md",
       "title": "Last-mile, landscaping and leaping robots",
       "excerpt": "I spoke to Refraction AI co-founder/CTO Matthew Johnson-Roberson on the occasion of the Michigan startup’s $4.2 million seed raise. This week we posted a Q&A where he answers a wider range of topics about the delivery robotics company,",
@@ -1116,57 +1167,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-17-insurtech-ai-startup-akur8-closes-30m-series-b.md",
-      "title": "Insurtech AI startup Akur8 closes $30M Series B",
-      "excerpt": "Automating insurance claims is a big business, and the world of AI is coming at it ‘full pelt’. The latest is Akur8, an insurtech automating insurance platform whose ‘Transparent AI’ product is trying to eat into the incumbent large business of Willis Towers watson,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
-      "originalUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Akur8-team.jpg?w=738",
-          "width": 738,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/17/insurtech-ai-startup-akur8-closes-30m-series-b/amp/",
-      "publishedDateTime": "2021-06-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

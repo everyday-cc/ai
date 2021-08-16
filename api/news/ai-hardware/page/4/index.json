@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-03-a-global-smart-city-competition-highlights-chinas-rise-in-ai.md",
+      "title": "A Global Smart-City Competition Highlights China’s Rise in AI",
+      "excerpt": "Chinese entrants swept all five categories, featuring technologies to improve civic life. But the advances could also be tools for surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
+      "originalUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60df60a8fd0513edb15af4a3/master/pass/Business-Smart-City-Competition-1032667470.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/global-smart-city-competition-highlights-china-rise-ai/amp",
+      "publishedDateTime": "2021-07-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-3-reasons-qualcomms-new-snapdragon-chip-didnt-impress-investors.md",
       "title": "3 Reasons Qualcomm's New Snapdragon Chip Didn't Impress Investors",
       "excerpt": "Qualcomm (NASDAQ:QCOM) recently upgraded its most powerful mobile chipset, the Snapdragon 888, with a \"Plus\" version that increases its clock speed by 5% to nearly 3.0 GHz and boosts its AI processing power by about 20%.",
@@ -1332,58 +1385,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-23-intel-restructures-to-create-units-for-gpu-high-performance-computing.md",
-      "title": "Intel restructures to create units for GPU, high-performance computing",
-      "excerpt": "Intel said it would create two new business units that would focus separately on software and high-performance computing and graphics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
-      "originalUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/intel-tiger-lake-h.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/22/intel-restructures-to-create-units-for-gpu-high-performance-computing/amp/",
-      "publishedDateTime": "2021-06-23T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

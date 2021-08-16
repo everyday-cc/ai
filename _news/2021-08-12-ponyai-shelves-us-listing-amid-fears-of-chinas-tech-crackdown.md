@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving car startup Pony.ai scraps listing plans amid China crackdown"
-    excerpt: "Chinese self-driving car technology startup Pony.ai is reported to have scrapped plans to go public in the U.S. as the Chinese government continues to crack down and regulate various sectors of the country’s economy."
-    publishedDateTime: 2021-08-12T01:33:00Z
-    webUrl: "https://siliconangle.com/2021/08/11/self-driving-car-startup-pony-ai-scraps-listing-plans-amid-china-crackdown/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
-        width: 825
-        height: 638
-        isCached: true
 
 secured: "PD9WmcwJ4E+JS8ZDfXGhdM3BDNUMhQElFDTLr0twnQhXkEC09xxWRsggh7CbDL6JWn/1m3YASFZ51ih5mrljdf8+uXL1Pt9ImI9G7BBtRgjKdExhnIRMVMUmNbIZpfME5RGa+JYgLfhjmZlZ9TUsJQhsroDXrG3cc3dV7owqgCf5Yb3AQJWpQ1cn0vwHz4i1DEXYZqf6kS7RzWxCD3MF94IiT+igd/gdaDZsNPhmOj2vhPrlMhO2XUJsX6mYlb70NwL6LgioZEHcP/EpoIh4iFNmotcvuIc2Gk7S2D/0rh/QYs16FxA7r33El9ySES2lx28quxwEVvuDP8RPfpwv0rImFDLWqWpL3Ut/mirk/78=;2gPwowRlNFTInvo6WaE1CA=="
 ---

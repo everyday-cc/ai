@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-07-15-tantech-subsidiary-starts-accepting-orders-for-innovative-driverless-and-manned-street-sweepers-inventory-built-to-fulfill-initial-customer.md",
+      "title": "Tantech Subsidiary Starts Accepting Orders for Innovative Driverless and Manned Street Sweepers; Inventory Built to Fulfill Initial Customer Orders",
+      "excerpt": "Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced that its subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
+      "originalUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2021/pr-newswire_500_4_966.jpg?itok=nvzH1Dk8",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-starts-accepting-orders-innovative-driverless-and-manned-street?amp",
+      "publishedDateTime": "2021-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-how-artificial-intelligence-is-fighting-wildfires.md",
       "title": "How Artificial Intelligence Is Fighting Wildfires",
       "excerpt": "A lab at the University of California, San Diego, uses data to figure out how fires will burn, and how to help prevent them.",
@@ -1094,40 +1137,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
-      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
-      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

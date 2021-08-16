@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202108/informed-consent-key-to-com
 webUrl: "https://www.biometricupdate.com/202108/informed-consent-key-to-compliant-retail-facial-recognition-deployments"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 734
     isCached: true
 
-related:
-  - title: "Japan firms to jointly develop facial recognition payment system"
-    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
-    publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 39
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
-        width: 360
-        height: 360
-        isCached: true
-
-secured: "6peHp18KypCOpch6tv2j+71sPNTbwj7rcybWOXJCm12UCdSjEiBDE5xdBSWhMu9j7G+F0JhgdpNJ4B7uFfvkIfiMycJAWEdokuhFiQcZA7+pyks0jUdD9ennv3Fz2lBYkuPSG2VArdDVjTkxqOKOTAShBRjZrjZFyNUdw3SUu6dfGIkx4qm9KbZWdRZvZ5ja/g87S2MDwLpAvtRCnTBF5Pt0MWwNpGJiYlaN+sCpP1Xwmh3LAlIsv8dr4HUYV6HPI8cZU9203RuJw+fXAcjLicxhTTdT3/dKFezQq/yYYEY5sG0pLoRWiUkNmR43AkJaib7AoiwJs20bCqwsYF1LlqGEqXaPzlafM3xtKUC4M5w=;0Gziq24TQrFblTHDBWNeYw=="
+secured: "qsRMikbm2QKC7YLEBBp4LQU7R0YnNSDUAYHhbeG53pM9saHWi0kVQOcm8mDnELC/x15pGC9nLQR6EKWbva3zoTN0MaMQuN3U9UyRAkCE1ZtsDSBI5gmaS4gqwKqS/qLa/pK0BntpVxoY/u7udgflPDHQ+bwXDLfc036/GlMvOVv++Jsukn3hOlglRuQuR8NkjjT3hC4WPIeZeSIGu1iW6dBsyuWxGjFVgjVidbrzwaiwv4vTQKXfcqTg450aIJ1LZAv9aqTLbQD8sNwvKU+8Mm+KgrStn25NXnVsJK6+m18ZH6UL40+5mPCNr6BmxjpqkxFmD7IV84aFAJq9MCZ+jm3riZxy00r5sQiPHKnx6xMqMF+4gg0OZG6eSiA98oRLwmIh/k//jjc12nuJ2KCfFU6Vd+a5hFZ1ke4ixQVH4K9ZhCmWNINg62iz+rX8HtcaTTP+Me5/Rq1kolYP8eBuHYvDvB6dGhMM7K2LSzb61lK/XbMNZWrjTv2dw+S09z6uKfkgD32DsRmQwgUc/PvWgg==;koTCllCQDuvVXffwdp0p3w=="
 ---
 

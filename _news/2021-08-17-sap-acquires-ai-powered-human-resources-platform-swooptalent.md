@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-res
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "SAP acquires machine learning tech company SwoopTalent"
+    excerpt: "SAP said the deal was focused on incorporating the company's data and machine learning intellectual property into their human experience management systems."
+    publishedDateTime: 2021-08-16T11:31:00Z
+    webUrl: "https://www.zdnet.com/article/sap-acquires-machine-learning-tech-company-swooptalent/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sap-acquires-machine-learning-tech-company-swooptalent/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
 
 secured: "jqBRBGiWwLdqYayfRhGW4DgPPKRFl0YcHXhtlxYzaQS9U5IRz4PwQo2XRRkYGl/uMuXkuoYzW9OrvWHrPCXjFeo9qDi49Ggjvlx2NkMPsiQqU3n1LbU6D7gg9A7kbFoi1b82taEZQda4ybItb7Hv66UWZiTZoSmaaEW71IqLOzWk1kYjtx0UUBS6E+wTYC7HUz8mTlYoMAjEY9g8CeLqyAI+15o/LjVHPrCS90chNeIjFiZh+c6bSGPYB64KMdK3yL80Rg8WFA/ACzbxnzpswl0/V2ULLamzglBSQneIKqFZMvQn1fDW9LglL3Dxy2MMPZIaVQc4f8Ga8jfOaFA0mFP+XRpR9FiuKR12bt44S9E=;4WwjPumIBuC01Q531Al4Ng=="
 ---

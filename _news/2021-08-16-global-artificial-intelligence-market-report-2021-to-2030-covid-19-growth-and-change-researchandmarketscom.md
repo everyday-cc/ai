@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Global Artificial Intelligence in Construction Market growth graph to witness upward trajectory during 2021-2026"
