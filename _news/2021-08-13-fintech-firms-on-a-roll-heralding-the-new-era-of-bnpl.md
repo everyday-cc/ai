@@ -41,6 +41,22 @@ related:
         width: 400
         height: 295
         isCached: true
+  - title: "How Is Data Science Used in Fintech?"
+    excerpt: "Financial technology, also known as Fintech, is witnessing explosive growth. Persistent innovation makes it an attractive investment option for venture capitalists. Fintech encompasses various technologies that focus on availing financial solutions to consumers."
+    publishedDateTime: 2021-08-16T17:35:00Z
+    webUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/"
+    ampWebUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "3 top Indian FinTech funding rounds in August 2021"
     excerpt: "According to KPMG’s Pulse of Fintech, India’s FinTech sector received $2 billion in investment in the first half of 2021."
     publishedDateTime: 2021-08-16T10:58:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
 type: article
 quality: 79
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme."
-    publishedDateTime: 2021-08-16T10:05:00Z
-    webUrl: "https://www.glamsham.com/world/technology/tesla-pushes-new-full-self-driving-beta-update"
-    ampWebUrl: "https://www.glamsham.com/world/technology/tesla-pushes-new-full-self-driving-beta-update/amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/tesla-pushes-new-full-self-driving-beta-update/amp"
+  - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
+    excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
+    publishedDateTime: 2021-08-16T17:11:00Z
+    webUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 55
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/08/fe2e494788365e7010bdbd14db7e66c1.jpg"
-        width: 400
-        height: 220
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=420,height=700,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2FPA-40016613-262x175.jpg"
+        width: 420
+        height: 280
         isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update"
+    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "4MvUYPwIf9kowb32bxdX/pk4wxHU8imEMbAoA2rvpSpVPcj5XtSAt8mBqCBBBX97jxLh7N+VMXJmQpDT6yXaFRRQt5STIal9aPes1hOlIzeWaXyhT+yTE2twJSBDW61e8X8FJnh2aYuRzJwCI2FnPETfz9vx/ELKVFtQB1F1pYUYr92B7GiqIZz+sphczNUHlaT/UGN4CHvWUH/XcmJa++AIPL090/78I9Yx3aba9isvYdDGPhqis4Bh8PFfXH82jgTH2CN0IePWmYQxkicLsdD/zBNrKGHZz21wMg/dPdyRHNdjEzEV4kqhnuwjCGiUbXGLd8WJIhczBQHo579NMlIGXoQoAGHVJGqeuNAvHdiAGkFqsBezUyPSdu2+Bd72sscg8NFuI5JtBOOJdVnuVwxeRPJouKCddW9GFyI2YvUtEZT2OUS+0+ix56mQEvdbGOVsTVlDp4LHJYqQlkC+cIi/Pdre+4rWR1vB44gfxvVmoPNTAxZUc/68sTnLhS48NrxFUfYcT0i8qcieWwnpYQ==;nq4gW/PKBckDN3x7iPdbJw=="
 ---

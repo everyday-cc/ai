@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586"
 type: article
 quality: 74
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -36,22 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Deep learning model can classify intracranial tumors using a single 3D MRI scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T23:18:00Z
-    webUrl: "https://www.news-medical.net/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Single MRI scan can classify brain tumours using deep learning model"
     excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
     publishedDateTime: 2021-08-14T17:45:00Z

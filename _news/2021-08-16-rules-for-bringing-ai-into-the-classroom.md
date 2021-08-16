@@ -58,21 +58,19 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "5 ways to get more women working in AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-08-12T15:17:00Z
-    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
-    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
+    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
+    publishedDateTime: 2021-08-16T16:52:00Z
+    webUrl: "https://www.medscape.com/viewarticle/956658"
     type: article
     provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 57
+      name: Medscape
+      domain: medscape.com
+    quality: 37
     images:
-      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
-        width: 960
-        height: 684
+      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "8H5PM/cDB1V3mvQtXbiTNMvTSLhrQtfznWBiF3Yz4ld8WKochi92KHXU6HIb9BtIsxe+wmp5E28hCz6kirSRVE+qS7Z5V4ybBoIw3FwI9Gyj4BhJyhQNkc1a5UY+8jjTClKpvV9QDAXa/mj6kmMaJVw74uk3RuplcnosVzyMNSKuFs3hy/yiDAGggT81SKdW4ru6LUn+YluwW2U7PKUelKG3pbbUg1YUqHTLiTgj8+ReYH4vMNfwSs1YsZTo9+k9kgbaVdmPxUB5wIiq+FgM7YdSBgzMgl6Omo9of/AEngLwauyIn72SJiW3/JTrSDSpJg/dV1A8yQOb0cSflR+ze2VvXUgUGUqrqW6aJ1qHkCA=;N2Y0hnXsPOLq9UPR4vrShg=="

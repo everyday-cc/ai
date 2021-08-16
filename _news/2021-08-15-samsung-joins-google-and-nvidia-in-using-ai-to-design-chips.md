@@ -7,7 +7,7 @@ originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nv
 webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
 quality: 86
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
         width: 620
         height: 432
-        isCached: true
-  - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-11T23:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-boosts-self-driving-ai-business-with-volvo-trucks-deal-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 41
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20190618t2i1398991730rLYNXNPEF5H0KXw800.jpeg"
-        width: 800
-        height: 557
         isCached: true
   - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

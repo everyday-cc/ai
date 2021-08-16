@@ -46,22 +46,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "5 ways to get more women working in AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-08-12T15:17:00Z
-    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
-    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 57
-    images:
-      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
-        width: 960
-        height: 684
-        isCached: true
   - title: "Rules for bringing AI into the classroom"
     excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -78,7 +62,21 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
+    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
+    publishedDateTime: 2021-08-16T16:52:00Z
+    webUrl: "https://www.medscape.com/viewarticle/956658"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
-secured: "sf4NZjSlnopZrSs/8l1vybcOoD4/JcbJ9T7fKDVPA6f9fW8qu1Pzhxc9YgDMfczPadSdiIjXKp+qPSZg8U08K4aFVvcQkwgjTalo0T6PGbcqja9POr+TFsHRVrIp58ccroT3bZLInfel4vdY+lljPAeNoYfBvkbF3ab65DTBdvtsZeDpaJsMcdQ2W/dCWFpdwRiquP/m1tJVIR7WmhBX8rPCzEUuT9MINE5xOTl3Z+IyHr9P1rMUxqV/LvJzzNnXarcy3oyTNhrtpgFb0f+I+2J1Yjj2ufgvTu41RUW0GW8RNwQx32HepCrK+7g8yBlkVJ1L3wEjGpYkTxzVxIvGHZytfnnHq0d+gfH+K2FdnDY=;69yTRYQBQM/0nD7mS76Qmg=="
+secured: "x3iPIEVQZFINTqAkf1MNt/XWqBzCWyZPQ4ELIsehkUmraAT9GkQ4hmkft7Lpa1HUhuTuTsAHVAEhU1ZM/jmdpg+KNGRW3NnwhUN3WsCcsvdtj6R8Sv6a4XVr80PDHS4dPVDtv1wH+OUDQHO16jg/t7cV7/6SqTT5ajNmV0YOBEcMBuX1bYs70/rloUXwK5rCFtsm9WBQiHLpU0LbJXoPW3/bDIiM0vS9eO/y6cu4KO1aBuvneyIKDmxwn++kfwwqkzvax/aZiSE1YKXiTaoWDyi41i13fb5ItxWnwxMyap08uR2cdWN1VgxLni4dWiqgNrc2LR7qQo8sA7LumFiTTXQOKPX6frw00TcCfVtMwtSLxwiPNYXTk2v/crZspmgWh7RnkJ0nc5grWvxaAo+2t+Ethvtz0af6wTrzBa1hXzPbV32d2fvawUl8areOsSGws7AwpnRqb65YST8bpWRcmKiS4jGB9duoas5wyG1t2ZCDw018z2bFJblMDtPVIIcVEhDuNnYZLqhAHUDvdne0hQ==;6wJnY65jhuThmpSd+A7T9g=="
 ---
 

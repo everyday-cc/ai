@@ -55,6 +55,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "How Is Data Science Used in Fintech?"
+    excerpt: "Financial technology, also known as Fintech, is witnessing explosive growth. Persistent innovation makes it an attractive investment option for venture capitalists. Fintech encompasses various technologies that focus on availing financial solutions to consumers."
+    publishedDateTime: 2021-08-16T17:35:00Z
+    webUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/"
+    ampWebUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Tavant Named to Prestigious IDC FinTech Rankings by IDC Financial Insights"
     excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced today it has been named to the 2020 IDC FinTech Rankings for the second straight year. The 17 th annual vendor ranking represents the leading hardware,"
     publishedDateTime: 2021-08-15T16:21:00Z

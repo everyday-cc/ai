@@ -44,22 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Deep learning model can classify intracranial tumors using a single 3D MRI scan"
-    excerpt: "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,"
-    publishedDateTime: 2021-08-11T23:18:00Z
-    webUrl: "https://www.news-medical.net/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210811/Deep-learning-model-can-classify-intracranial-tumors-using-a-single-3D-MRI-scan.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "2lXpBhsVgnv01oQ19pRXQTBXrKZn6wa3K7A6USuRkMuo3BsAMx4tgnHcKPzeZdYkRvU3+0Z0TBdBlwhR+rhuvaJOYvi9gJKtacu7m31/9JEbzpGHGRIcSO4mLIBfrj0uu5/zx78u3IV8EDk0xsQeA1/xbXcJNbilrn3lTx0gsJ+Q839byDezwOVSpvWRqaj0J0QL9E40YgdEQHZrr0VPIpUBPNpwlGDm4qYx51myRkK7NsFLeTWAR67AgTwJSEVgTJfcbRNUJXo3ssEvt74f4SILMQdcHdl0itEpZBv0zm2yWZ06YqJkfPq4XEJ8wRtnKzo/25/8haqa2ArSSCX0D0dgswna4sqZVJpO8QUF3gA=;e1hX6BjkHG2jdasRdTMmKw=="
 ---

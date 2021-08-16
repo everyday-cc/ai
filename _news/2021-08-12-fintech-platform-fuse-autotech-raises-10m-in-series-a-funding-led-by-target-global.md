@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-f
 webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-influencers-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+        isCached: true
+  - title: "How Is Data Science Used in Fintech?"
+    excerpt: "Financial technology, also known as Fintech, is witnessing explosive growth. Persistent innovation makes it an attractive investment option for venture capitalists. Fintech encompasses various technologies that focus on availing financial solutions to consumers."
+    publishedDateTime: 2021-08-16T17:35:00Z
+    webUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/"
+    ampWebUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
+        width: 700
+        height: 400
         isCached: true
   - title: "3 top Indian FinTech funding rounds in August 2021"
     excerpt: "According to KPMG’s Pulse of Fintech, India’s FinTech sector received $2 billion in investment in the first half of 2021."

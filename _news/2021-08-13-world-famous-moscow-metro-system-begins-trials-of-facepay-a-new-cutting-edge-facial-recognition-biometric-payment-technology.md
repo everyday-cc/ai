@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rt.com/russia/531927-moscow-metro-begins-facepay/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/531927-moscow-metro-begins-facepay/amp/"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     width: 980
     height: 551
     isCached: true
-
-related:
-  - title: "Japan firms to jointly develop facial recognition payment system"
-    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
-    publishedDateTime: 2021-08-12T01:10:00Z
-    webUrl: "https://www.nippon.com/en/news/kd798353840014278656/japan-firms-to-jointly-develop-facial-recognition-payment-system.html"
-    type: article
-    provider:
-      name: Nippon
-      domain: nippon.com
-    quality: 39
-    images:
-      - url: "https://www.nippon.com/en/ncommon/contents/news/998397/998397.jpg"
-        width: 360
-        height: 360
-        isCached: true
-  - title: "Japanese firms to jointly develop facial recognition payment system"
-    excerpt: "Four Japanese firms will jointly develop a payment system using facial recognition technology that will allow customers to make deposits and withdrawals at banks and shop at stores without presenting anything if they register their facial images in advance."
-    publishedDateTime: 2021-08-12T21:28:00Z
-    webUrl: "https://japantoday.com/category/tech/japan-firms-to-jointly-develop-facial-recognition-payment-system"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
 
 secured: "GHJuBw474WNGPCUGw1lACMAu2BIPx8D/Wwwb9GAFZCnpyCZVLJSWwJAZk9bdCnA6lnHWpJk/Mm0dO05PEOv5eR8jqRtIPyfWbmnfrfycWbWyP7RZKSqdZcMl1valGQ7oqu+0IuSsXev+eRa2hlADLIJPJl1Nf05nODGXGcjLMK1d4UQllrqGkHC+rRVWUtJfc9l7QYe9B3r4lfmONC+165Q8Yv8PRPGLKFOlMhIzsNNt1eSsMQJ7oNXgou0QEMTjAQvrqHfImoWQev9KxIJASXHXAahhJJkmh+gf6cOI24I+BbRjusC4zxLaBo0TrjcxORBQcYCXo/bGGWaFysQP3zG4ITu/sYm7YFyxb2Mhcm2Z5FrZY5p8lXYH3NXAxnCrmMjz72toFp6uc+qa56xqG+K0ip466u9DJB+insEeIe/JnYQ+XRMxa5IM/OfavyUrBr4hfWjqDRkhvHwVyD0kVxMKY8INJlpM+j9vBDk5x1LooD4nvU/234Rl1hjyA49dmZLwP8LOyKLRXGdFb0OJdA==;Vw431qAzlMJU2YTvdsIf1g=="
 ---

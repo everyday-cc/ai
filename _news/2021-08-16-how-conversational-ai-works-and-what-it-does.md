@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5 ways to get more women working in AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-08-12T15:17:00Z
-    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
-    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 57
-    images:
-      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
-        width: 960
-        height: 684
-        isCached: true
   - title: "Rules for bringing AI into the classroom"
     excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -74,6 +58,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
+        isCached: true
+  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
+    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
+    publishedDateTime: 2021-08-16T16:52:00Z
+    webUrl: "https://www.medscape.com/viewarticle/956658"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "r8pHEW5AWhgk4db9+U9VDvWKlzQSjQ0JCM5coTq+UaJcDTkN/dOg2R1A8x5EVlFBEM8FTFuDnbG+FBOaGpjyEj/EwbjV629Tx4EAJVh2oPsOjlq+B3jVgimkz4K38hGHhcR0iOaEGkq97eiu6rPaK7hafsuSkiEtA98oG4aBRCz2K3bCvCdsTMJ2ZY959A+pjBAK8JwB7hj0LSV36bp1rly69h9sxFiPlIE9v4oWoet2QdTbxlHRTD0bUCSqwm58PGQTtMdPLr98fuU/YF9Dxrrl9y/nO5shPgI8nFnGeE8zNNWcDlgiWWnBOnZTo+cK9ucNYqAyMG0nv4+2HWf299gfzDJEnrr7GlAPJgdHJgOIU0WMHOP51xa2WDiH+JISu45irVcOtpHe0II0qVDBRoURnN9gbQW9EhrjQSNt88fH2Ixp1SegtalWwwffneieMz1AoFaFNcMH8vVg8tWow9F8iO4Gk99ZL57MFVKiMC88SKd8ZWmEUxtWY587OfnqmhsGjxOVnn9Sh7SErC4ceQ==;e9NODqTnZQ+Tn4gf5TCDEQ=="

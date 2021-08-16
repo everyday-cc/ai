@@ -39,6 +39,15 @@ related:
         width: 500
         height: 500
         isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change - ResearchAndMarkets.com The \"Artificial Intelligence Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-08-16T08:02:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210816005399/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "KM3ijVO7awHhxxBmB5WqUZ8a0x9M3dYo+CloLqwsPPUHYdfMz5Fj6D1Ve3BsO0zO3priIf5rHpz8nbapGYfY4ojGMcShxqxiXqjnNd02/G3AbxJ4NEkrSSCCKbMeujuLDOlf0TdXferpzSb+Zo0AclMMw5StgUV/pQ8gEVO5FC8KAh5n8OUFyFupVZmTyWzjw+MEyAr6FSpnAZq5iIJ/GSOFFtXtJ0cVmV94E2RR/P7bMoiGoLEIlCVSFgU3XoGbdYVCi7xpqBENvpkimSX+0hKg7f9LrZhnjwaYIDaclE52Be9dkBJdlFMKSfmSoKtlYpxwu7bKBToSSdMDfmLimxOK1pPUKbHc2SqW1VwHpA0=;ihG9AMVPpgrTWJ933RntrA=="
 ---

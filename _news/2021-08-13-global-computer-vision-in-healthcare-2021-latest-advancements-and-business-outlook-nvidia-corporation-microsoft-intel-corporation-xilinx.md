@@ -50,6 +50,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
+    excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
+    publishedDateTime: 2021-08-16T16:47:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/16/conversational-ai-market-is-ready-for-its-next-big-move-google-microsoft-ibm-aws/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 44
   - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
     excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
     publishedDateTime: 2021-08-16T04:03:00Z

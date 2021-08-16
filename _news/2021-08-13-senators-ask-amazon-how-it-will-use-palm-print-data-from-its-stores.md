@@ -88,6 +88,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Businesses Face New Litigation Risk Over Biometric Information"
+    excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
+    publishedDateTime: 2021-08-16T16:54:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2021/08/16/businesses-face-new-litigation-risk-over-biometric-information/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "What do travelers think about biometric facial recognition technology?"
     excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
     publishedDateTime: 2021-08-12T12:40:00Z

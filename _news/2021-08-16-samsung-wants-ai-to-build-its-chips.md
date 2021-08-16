@@ -83,20 +83,6 @@ related:
         width: 2092
         height: 1138
         isCached: true
-  - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
-    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
-    publishedDateTime: 2021-08-11T23:28:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-boosts-self-driving-ai-business-with-volvo-trucks-deal-2/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 41
-    images:
-      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20190618t2i1398991730rLYNXNPEF5H0KXw800.jpeg"
-        width: 800
-        height: 557
-        isCached: true
   - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
     publishedDateTime: 2021-08-12T01:59:00Z
