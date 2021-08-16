@@ -17,7 +17,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 11006
+        "followers": 11005
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -59,7 +59,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 84755
+        "followers": 84757
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -238,6 +238,50 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
+      "type": "profile",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
+      "twitter": {
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 11026
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 9087
+      },
+      "affiliation": {
+        "path": "",
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
+      },
+      "topics": [
+        "AI",
+        "AI in Hardware"
+      ],
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Clément Farabet",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/jean-liu.md",
       "title": "Jean Liu",
       "excerpt": "Liu Qing or Jean Liu, is a Chinese business executive. Liu is the President of Didi Chuxing, China's largest mobile transportation platform. She worked at Goldman Sachs Asia for 12 years, becoming a managing director in 2012, before switching to Didi Dache serving as its chief operating officer in July 2014.",
@@ -327,7 +371,7 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 11576
+        "followers": 11575
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
@@ -351,50 +395,6 @@
           "width": 400,
           "height": 400,
           "title": "Rosalind Picard",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/clement-farabet.md",
-      "title": "Clément Farabet",
-      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
-      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
-      "type": "profile",
-      "name": "Clément Farabet",
-      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
-      "location": "San Francisco, CA",
-      "website": "http://www.clement.farabet.net/",
-      "twitter": {
-        "username": "clmt",
-        "url": "https://twitter.com/clmt",
-        "followers": 11027
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/clementfarabet"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
-        "citations": 9087
-      },
-      "affiliation": {
-        "path": "",
-        "name": "nyu.edu - Homepage",
-        "domain": "nyu.edu - Homepage"
-      },
-      "topics": [
-        "AI",
-        "AI in Hardware"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clément Farabet",
           "isCached": true
         }
       ],
@@ -558,7 +558,7 @@
       "twitter": {
         "username": "rodneyabrooks",
         "url": "https://twitter.com/rodneyabrooks",
-        "followers": 22717
+        "followers": 22718
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rodney-brooks-1a137517/"
@@ -742,7 +742,7 @@
       "twitter": {
         "username": "chrisbishopmsft",
         "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5573
+        "followers": 5572
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
