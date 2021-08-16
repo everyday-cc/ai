@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111d27936d1dc35c8cf31ea%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D3736%26cropY1%3D124%26cropY2%3D2210"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Re-inventing retail and the future of data driven AI"
+    excerpt: "The new normal of e-commerce has shifted fast and has steered a new reality for consumers and retailers alike. In a recent report by McKinsey, we have vaulted ten years ahead in consumer and business digital penetration in less than three months."
+    publishedDateTime: 2021-08-16T08:30:00Z
+    webUrl: "https://www.thedrum.com/news/2021/08/16/re-inventing-retail-and-the-future-data-driven-ai"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 37
+    images:
+      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-362001-the_drum_reinvention_of_retail--default--1280.jpg"
+        width: 1280
+        height: 960
         isCached: true
   - title: "Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
     excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"

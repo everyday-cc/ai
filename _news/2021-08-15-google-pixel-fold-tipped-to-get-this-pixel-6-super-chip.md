@@ -3,10 +3,10 @@ category: news
 title: "Google Pixel Fold tipped to get this Pixel 6 super chip"
 excerpt: "The Android 12 beta continues to provide possible insights into Google’s future hardware moves — with the latest report suggesting that the rumored Google Pixel Fold could use the exciting new Tensor chip."
 publishedDateTime: 2021-08-15T11:34:00Z
-originalUrl: "https://www.tomsguide.com/uk/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
-webUrl: "https://www.tomsguide.com/uk/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
-ampWebUrl: "https://www.tomsguide.com/uk/amp/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
-cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/uk/amp/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
+originalUrl: "https://www.tomsguide.com/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
+webUrl: "https://www.tomsguide.com/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
+ampWebUrl: "https://www.tomsguide.com/amp/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
+cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/google-pixel-fold-tipped-to-get-this-pixel-6-super-chip"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 509
     isCached: true
 
-secured: "FP1el7rQj+WiEfU86fP6cExeK4IcnIDjqUT7QFpoKBKj9+hBJ81TjMidl3m4wjke+hQTtJFI4dWicljZK2yP6ykJe+O70jGlra80o/l4Xkrv9AWPZ1vHaW1gk2iVnEOfFckpPEI5OqJsWFVVex+cN49gNQRbup28j/MfbyfKatKmOfP7OOfw/LvInuZo5IiyaW6lLlB1Okn71lJeEp0BvGmkhhMsEO1EBF+X7ESdHkr6K1/qUFPFEFJ3tEqKsUBCKzTzd7I/enyyKWw7BIP9QgJhA8tTzSYxgRPbNv1/3THILHVqUpJ577fpi/FAiPPBGETOhfWL4iEpYPurBXr+4Hj8I7G/UjTsOZNauyDLYPC124t9AesjIaTJe9WeP3ing/00yAnGOvJ8aJUSlc6hq8uX2llfLCd5vuVQKoxyDC4U2/eKKutJWccV1fKlWM2A6e1DtU1L7AwxR5jRg+GORecwJthk6WtzqFMh52cQFjm8rmprZeE46A5Wi17wBB0BBfiVFp6sNPifY3z0k9BLZg==;9rQ6W67y8isD6DGMccA6Yw=="
+secured: "gycwY99RY0vrcGUSjFhHzQgLFw9jGJaJSRjNv8DIk6wueUJ2/qlogIojiuyF0ERSXKDcJkAM+vawfz7lZdCJLGgrAKJG52YWqLFoFYYTUgBpbQAEsMOe2ZM/HhsHx0B3r4QumzotxJKqIS3J1rKkaQr414kFzIp6CPquO2NGy0cPWsfRYVTCsz/26/As0NXsMwnizDr/FtWYxzskCoppdrINQxOosSj2VUGv6Phl/Lo7L6N3sp4pozBzz7iGLh4WqFZiluNBYRM/mXXf2hiJIe5va5rCJudC23DIEU0pzp9TxLE7jLGaIb3S1oSsUExWM4vsPyZzrUvIwaR2I0mzC64paEdKgsZFyS5XtQb7JIs=;wyO5uHpx3MqqRoLs78TY1A=="
 ---
 

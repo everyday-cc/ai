@@ -1,23 +1,33 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in August"
-excerpt: "These three emerging companies are using artificial intelligence to disrupt these old industries and are trading off their 52-week highs; their stocks offer potential upside that makes these AI stocks worth considering in August."
+excerpt: "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots."
 publishedDateTime: 2021-08-14T10:50:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp"
+originalUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+webUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
 type: article
-quality: 67
-heat: 77
+quality: 87
+heat: 107
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "5 ways to get more women working in AI"
@@ -36,7 +46,21 @@ related:
         width: 960
         height: 684
         isCached: true
+  - title: "3 stocks to buy and hold for the next decade"
+    excerpt: "Picking stocks for the long term isn't easy because the world is changing rapidly. But here are three shares Ed Sheldon has bought for the next decade."
+    publishedDateTime: 2021-08-16T08:58:00Z
+    webUrl: "https://www.fool.co.uk/investing/2021/08/16/3-stocks-to-buy-and-hold-for-the-next-decade/"
+    type: article
+    provider:
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 24
+    images:
+      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Investing-app.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "Q0qil2S+++rKnqG2xMALWtTeJZf4JcCrZT0WKP1WcBpwqdU8KWZ2Hqle1cE3PeFU6t/ft+vVzNKBEpVcl5E6bOrIAMOxiNMKPZcctRKFNdTzeXpHHOQWN015nNhNDwt5Ywq4/ZcPSjqCzSCC1laJwsTiKLpgLGxT3WKb2jDkoah3KpWs4c/yfVMaI0pI2NyUppwFBIRe1RZulXhrsBwUzSDxcwbnfNmMBn8CxY84fHCgRlnCCpDJDsx2Rywnztl35UovwqAQE4UhmcCLYCcGQoRJbxqllu+DVUf4FU/tK6v5KKeplOb0IsERe0VyqN2+cuXitmvlVy6KrCFfUuFYqbsJkgdIF19lzOvThQuTEwY=;wN6Q+v91vO9QFBH42OWQcQ=="
+secured: "Chv9PogSN/kJ710eplfH7dPS2o0iB4EKYGGHWUELzLtezfP7XtsTv5CAu9V5RWOFtp0zSLqRRXITJI8XSJerQVAXcEiiJPwaJWkp1IiE6K6o9NDfpBkCGE+mOQ9bSdt9bPk/nI9IBluy/HTpie+aowQ7aq5ac6gwe3xIqmKpPO687QYkguWsGCQJXiXSMSDWGsVqXXmtvzJpjX6EkHVk9OSGGH8pXS/c2VVl0I9UCegkcgG3CBtIQ9deSaAYpo5ZGs/InqsPlweJsagXypcErqNdVenfZOXkUZjn5ucftaS8EVirOK94O8ExRa1W7FE2ZRCw+MGM3td47rAPYBjDSd5LeiN3+hfi9hHmXdKeBDM=;0i4QJhwJoWGPwGJSqEk8hg=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "MHS Robotics wins Robotics Innovation Award"
-    excerpt: "MHS ( a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,"
-    publishedDateTime: 2021-08-11T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/08/11/mhs-robotics-wins-robotics-innovation-award/17293/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
 
 secured: "VODjl4FWvAZYCaEZSvxN+Qb12bYyOK1kUVaAG45wCB+L9KRjV9ukv/xfKFCkfw9ggh8dx2L707LHhHeXk3G9YLmjGX7bp6CT/PpTP+55ENBrP+Rmnlw9R9zsyX5GK5gjIszKCPsehJAHqTOViWtzpdC3uU6wewzqFa9MLFNSczL8nf+fXuS0DrwTCabYjP3r91o1KidoTBwIXzYdLM/yHDXXIIeRO0gIgzO3PdjzubEn5jhM3hF2BrR1tVyhY3mxnfwFfA58+v3Q12EBARu5a/Ur3Tom+tpqeEixNVYlZptUSx66tzaDgsSYMYoDOEeIyHoFG57y2V/7w46ZkUS7IxFUoV8+eFN3KK2kyKJfqWQNyxG5q5eg1STV4f5bpmstu7wCU1gJc5I3FkZfMRW/CrxkX9yiMt1amDjwVrlT5xpwSOHgbDcSQ2/6csO12lEB0R4SolKs03UwS+k2V6OpxcibD/VtQB7KWcubSD3X6x+cmpXBb6EW4f2y3ZFgwq2DminsGGD2DoZT4cjAJsoZFA==;S6kzaQIRojWJaLv+UFXe5w=="
 ---

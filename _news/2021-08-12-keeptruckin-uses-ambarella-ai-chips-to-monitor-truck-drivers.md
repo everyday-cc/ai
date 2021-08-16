@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/12/keeptruckin-uses-ambarella-ai-chips-to-monitor-truck-drivers/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "KeepTruckin partners with Ambarella to deliver next-gen AI dashcam"
+    excerpt: "Ambarella, a specialist in AI vision silicon, has announced that KeepTruckin has selected the company's CV22 CVflow edge AI vision system on chip (SoC) for its new AI Dashcam. A leader in fleet management technology,"
+    publishedDateTime: 2021-08-16T08:52:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/keeptruckin-partners-with-ambarella-to-deliver-next-gen-ai-dashcam/239605/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 19
 
 secured: "t5daqZV4DcLo1Fg+H6fMikLPwZrxkFSr4JtGAxTRBFtiQUVinOCyiDf0xwneEZXZaxqFVWQSAoX+QZhVwZJQ1aR2q/oHoGtkXHSNW+uq4DLBGp9F9HfhnbWKFEtbCZHpYhQOBBbO8M/f0wyRjjwYVoI/nIOOnASfHHik92xtzBEKfj0mkOCg+hdhDcgorU+LGuyWgTvYp/6Ja1sBCBAayu7mRVctxQKzc434ca7sdLDgsC2ozjEudrpgrOtjXkIh4L8AlDMXeopDzPPbL/LnSS8N/W+l4nVj9bdn2J8G8ky5t7RvT8XYatozPhXuSdvzItJPPH1c43pL5EFMoCqGHu7rQEE1n7hP/FHD2312q4Spd1Gh6N8KTe91bgfBhm54U9zqx9lTemJKBxchs1Q4pYXbRLIho7Ybadm5AvGdyRQW9KnQpJHVz0Y6DheIQlNbZhcc0ZW8na2Ii/C5LLV/J6xnXPLtIWaftaAsmNbtvLZ0f6J0k7Ke+zzMRkvrMpa2eIAhaz3oxpKJ+0+2r+qGRA==;bJTNfJGoJw31HtXD5J9+Hw=="
 ---

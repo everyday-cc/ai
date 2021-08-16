@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Re-inventing retail and the future of data driven AI"
+    excerpt: "The new normal of e-commerce has shifted fast and has steered a new reality for consumers and retailers alike. In a recent report by McKinsey, we have vaulted ten years ahead in consumer and business digital penetration in less than three months."
+    publishedDateTime: 2021-08-16T08:30:00Z
+    webUrl: "https://www.thedrum.com/news/2021/08/16/re-inventing-retail-and-the-future-data-driven-ai"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 37
+    images:
+      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-362001-the_drum_reinvention_of_retail--default--1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
 
 secured: "gnl3DWgD5sI9CLOiOuUxydeQBGIS4bw+KcJaIFSila0Nh6a8gyZyen4iHWWOv4Q2rVgpPq51wab5pGgc12MZol5VIT32WBp/weYVjZX2zctgnQizcdBFZh8WeUDostmvhFXCH1FrmfKund1cwv+nrTZ1Ad4FD51AWDnnII0d7nqamlR/D6dQ/0j2mA1/X27pIRsMRmgw6Eo5+JCfzA1fTvRAxwRHEfOr2D/9U0nsu61ynvpHcJX/xWrK3dUppLMG/dJBY+NmLpqFu5RVOHthKJ5Qc7cM3183y6wI9jMrDYZlRO2r64FnnhaSZumYCujtpuUKZo5V9dbthVqp66wpTW1OjGEWmORsNf5RLiNZmODzs655fU1B7/0ypj8kOo2h8WNMIfHGnseZyUOby6faTJR8GJus98jw6Mf9bMXduY9sazgEumqcLdpTAvELfbYsVzKOU6EDhAUZDcH5N9sZcnS/PJBRQJZf778btxfUaoyMMosW8sWZPEbaC43BTM857/t+RBNLdJ/QoPW/6lFQYA==;eASauS/8E2ypbLa7s5C9PA=="
 ---

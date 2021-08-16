@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelli
 cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://therealdeal.com/wp-content/uploads/2021/08/FT-Thumbnail_jll.jpg"
         width: 690
         height: 493
-        isCached: true
-  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
-    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
-    publishedDateTime: 2021-08-11T15:47:00Z
-    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 54
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
-        width: 1100
-        height: 750
         isCached: true
   - title: "JLL to acquire AI startup that predicts future property values"
     excerpt: "Chicago real estate firm Jones Lang LaSalle is scooping up an artificial intelligence startup that helps predict future property values. JLL announced Wednesday that it's agreed to acquire Skyline AI,"

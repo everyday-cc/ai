@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 711
         isCached: true
+  - title: "KeepTruckin partners with Ambarella to deliver next-gen AI dashcam"
+    excerpt: "Ambarella, a specialist in AI vision silicon, has announced that KeepTruckin has selected the company's CV22 CVflow edge AI vision system on chip (SoC) for its new AI Dashcam. A leader in fleet management technology,"
+    publishedDateTime: 2021-08-16T08:52:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/keeptruckin-partners-with-ambarella-to-deliver-next-gen-ai-dashcam/239605/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 19
 
 secured: "4q+KTcUNUDvU4cMuP6wFqFmlEDtPpaE3Yc3U4h5G+n7iu4dHEbKcgUhzGa7zxlogoAOsDnUit8dwjr++zE7pofVCjmLVr19T0ulS3IofE3JombYyct3ObcROFGs5tLVPbcAKt7xqntJX0CbKYu4wVLAiVcSk+crrNbitsbNEc8Y44fMFWalMVdUa6qwJzNrev9pgHtrf7OYbsx0b7Bylkxh1SrlusDjV5MDHRb6cQoTkbIPsWgjuEuuBbO6bTeox0kBiOAibdzW4OmZvGCDgo2jV+I7dDZBPkSEHMK3pDLn8kmoSSpVZ+MOGi/K5AsbX72DPlh/2rxAc/wOMW+3/rsCEsjN0x/mfyFvYXEp9uq0=;N3v4W5bMSGEAoz7ivBzjmw=="
 ---

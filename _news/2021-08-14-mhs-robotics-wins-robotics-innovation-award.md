@@ -7,8 +7,8 @@ originalUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics
 webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Automation
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MHS Robotics wins Robotics Innovation Award"
-    excerpt: "MHS ( a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,"
-    publishedDateTime: 2021-08-11T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/08/11/mhs-robotics-wins-robotics-innovation-award/17293/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
   - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
     excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
     publishedDateTime: 2021-08-12T11:36:00Z

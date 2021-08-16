@@ -43,6 +43,22 @@ related:
         width: 951
         height: 961
         isCached: true
+  - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
+    excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
+    publishedDateTime: 2021-08-16T08:55:00Z
+    webUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/"
+    ampWebUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 57
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Business-Samsung-AI-Chips-144295666-1024x536.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "AI is here to design complex chips and Samsung will use it"
     excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
     publishedDateTime: 2021-08-16T05:10:00Z
@@ -85,6 +101,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "NVIDIA reveals more details about how AI is reinventing graphics"
+    excerpt: "To learn more about how NVIDIA is using artificial intelligence to help reinvent computer graphics check out the NVIDIA presentation"
+    publishedDateTime: 2021-08-16T07:55:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-reveals-more-details-about-how-ai-is-reinventing-graphics-16-08-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-reveals-more-details-about-how-AI-is-reinventing-graphics.jpg"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
     excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
     publishedDateTime: 2021-08-12T12:00:00Z
@@ -114,6 +144,6 @@ related:
         height: 419
         isCached: true
 
-secured: "cGTFpQEtXZiD3ncAJcLVZxP0I7f7ntsNgwWIhZ84Q2Ife5kwBfpZUmDgOIGW5KPKWIx4U5dgc11LRAYPV63ielCAjqJ3pvtKVTu5mk8Nbegi2/+dnkVuGa30TnqsJb4GAIK5yOBwq+ho2ANRDWacjm3xMXzdrGjBKZYbg1P/+WJRDdi7jimpwfCDH9ZhygM4W5wjakcB4pA9O89QnAfPp5O8RNsNy33Moi8xeH40kESHcfvsZzDziFBMqEoAC4wBf5sxG1sLwZa8I8Ju7LyY5MxfgxymQ6G0k4TutyduqBoqiTpbXgeMiEPkOcSNQj/DfIpLmApckokXBdnHNLXLInz7D/Q77s8Btq7RskwVjV8=;ZhapUKEeMDQvAh9hgxlq2A=="
+secured: "DNWpZLA1FXj0Pt/mW9StxA003jIkXUfqukBksUZ8zMyOsK2NxNbdhCbQXjEWfhYln0S7IR1peEQiqaBTL1sNfhs+CyXLWIT+jv6+mOpKF7JUAcJJnqx2Qyx6n0FMo0erXQNRXWOd9kD/2VPsBswbTbCUW6iifW8hgQptN0c9xmb0jAAr2jUR+fR7MOhtrTzlo6UY0EF5N/zHup1a1GDXiNVUmsaVEYiMX0Z8m8LZKt6Do0qPajEZPf5aIUfgCFbJyry2GhQobmOPV3X9ioRE/ajEP7fCslzSLsLGLtKS5gu3amLM9L6ZygVEqnB6QizbRP3VuHrJtBj4oL8rBXT3AmrLyvT5e9CsAkKMten4sKlGy6kFoUzC5h5r4APVbRO/nGRLVHYKvi5Ehw42+qKi5WzqhvSHDMspnQovXlXBoLG/SVg4XMPimIEkYDmNVCvPodHFEttaKRy3GJVJuRfZKQxQWKiYGbkxSNOykfVw5cL+t18vFI6V3OMXgZyJNdcMqU2lWONsdIfeGIynrlU0NA==;Risdu6EzcyPqL5yYOK+Zmw=="
 ---
 

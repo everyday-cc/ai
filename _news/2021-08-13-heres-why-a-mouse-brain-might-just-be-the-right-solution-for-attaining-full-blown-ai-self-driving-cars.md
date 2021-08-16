@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Re-inventing retail and the future of data driven AI"
+    excerpt: "The new normal of e-commerce has shifted fast and has steered a new reality for consumers and retailers alike. In a recent report by McKinsey, we have vaulted ten years ahead in consumer and business digital penetration in less than three months."
+    publishedDateTime: 2021-08-16T08:30:00Z
+    webUrl: "https://www.thedrum.com/news/2021/08/16/re-inventing-retail-and-the-future-data-driven-ai"
+    type: article
+    provider:
+      name: The Drum
+      domain: thedrum.com
+    quality: 37
+    images:
+      - url: "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-362001-the_drum_reinvention_of_retail--default--1280.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
     excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
     publishedDateTime: 2021-08-15T13:00:00Z

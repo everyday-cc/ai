@@ -50,20 +50,6 @@ related:
         width: 690
         height: 493
         isCached: true
-  - title: "JLL To Acquire Artificial Intelligence Firm Skyline AI"
-    excerpt: "JLL has finalized a deal to acquire the artificial intelligence firm Skyline AI, a specialist in applying the technology to commercial real estate opportunities. The real estate services giant said the deal will close soon but didn't specify a price."
-    publishedDateTime: 2021-08-11T15:47:00Z
-    webUrl: "https://www.bisnow.com/national/news/technology/jll-buys-ai-firm-to-help-make-real-estate-decisions-109836"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 54
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a14aa8b26d9a_Artificial_intelligence_graphic.jpeg&width=1200&sign=8MjgHQNXgFY8-wI0rhrrFkMDMALitxndxHTTEr9BELk"
-        width: 1100
-        height: 750
-        isCached: true
 
 secured: "0XArdFeDEGgCALt3P2XBLdqm45AhU9PyZVN6E4dk4VG4HYDuSX1dqGelbRD0HQH4tm/W5Z7zPVoYEzjdnqfbmrJLzQ8kjq0yRppvMd6gyEVNIDQpw8Ge9ZUKjd2TacAvuSexPOIs4nXW9oZ1zAVHDYpdAEf2e5A/vhpdIROp4IO16fbM69s3g3UiMaPxylB7vClLEBH9SKYUET+us3ExssamAhseqUzS4rCqu/zO7U+QrQsFC+p2bq2HduSbnO6UqqESAmMRw+W3I9pewq+UekXgtefQ6OkEWqnz7RQlE/ONJ/x0c8gdSCqoJlliot+L9jJZsA5THHCNr2P0vTAlYprULiyW7Ry2VCuFe6rMbaRPM37jV6mZb+qJkzwPBSBmzFQAmVMk8D9s6ycUiWSALkmSP7W+1l0jL9GkyU3INQ6i/PYBblJuKM8QBOk+liafg+0ZoTkrPMXB2cX4P0RnyZneODYEDDXn2sChBSOqzqiYwbyAk2KsJ+G1kCz4OPZNXqAtHNSorvR5YbM/gsCVoA==;L00X864WENVLQoeVaTai/A=="
 ---

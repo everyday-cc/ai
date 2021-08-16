@@ -75,22 +75,6 @@ related:
         width: 922
         height: 461
         isCached: true
-  - title: "Pune students develop 'driverless' electric four-wheeler using artificial intelligence"
-    excerpt: "This vehicle has been developed by the students of mechanical engineering and electronics and telecommunications branches of the MIT World Peace University."
-    publishedDateTime: 2021-08-11T16:38:00Z
-    webUrl: "https://www.indiatvnews.com/science/pune-students-develop-driverless-electric-four-wheeler-using-artificial-intelligence-725923"
-    ampWebUrl: "https://www.indiatvnews.com/amp/science/pune-students-develop-driverless-electric-four-wheeler-using-artificial-intelligence-725923"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/science/pune-students-develop-driverless-electric-four-wheeler-using-artificial-intelligence-725923"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 66
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/08/ai-1535724047-1628699733.jpg"
-        width: 712
-        height: 474
-        isCached: true
   - title: "Self-Driving or Driverless Cars Market Likely to Enjoy Explosive Growth by 2026 | Nissan, Tesla, Volvo"
     excerpt: "A new business intelligence report released by HTF MI with title Global Self Driving or Driverless Cars Market Report Production and Consumption Professional Analysis Impact of COVID 19 is designed covering micro level of analysis by manufacturers and key business"
     publishedDateTime: 2021-08-12T13:07:00Z

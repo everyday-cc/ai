@@ -41,6 +41,20 @@ related:
         width: 881
         height: 495
         isCached: true
+  - title: "Americans aren’t aware that they are under surveillance through facial recognition"
+    excerpt: "Americans aren't aware that they are under surveillance in retail shops through facial recognition, even in the face of opposition from clie"
+    publishedDateTime: 2021-08-16T07:55:00Z
+    webUrl: "https://techstory.in/americans-arent-aware-that-they-are-under-surveillance-through-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/Capture-2.png"
+        width: 1024
+        height: 526
+        isCached: true
 
 secured: "MjCZ4yaS1lPFHMbt67zS90l177xSTnehAbu1DKF+gtmbciMukjiZI8sD8xuevtIHeT8hbM+QoVNjlVRgP5WRGonug5PbOT4idRIwjS/6d4c8fBwGHB3jkgdl4+KwhObH5b5x88ux0rDx8QtxgAjZHADHqKvrGlhGsCruMgq8gUXHiGa75Y9M8stRdJV6hn8U9IYimVl7IaHdKGzY8M9cE90nhV4xCsNMHJJ47X0rPtULDFVNgNJUlw9Z/VbpH22R3XnJgmUzitLYthf/ra7ZkFoSUOK4hQ+gRb1itAvyj0cG9XaLa3XNuYUgU/3MDP+uA3BBVHcCSkaQUcFl8/dn96YJnEpdWACfOdP2lOc/C9WbPPKDUt0RkhlN79WXnMhY1Kt+I8CsZrYpeYMhFWmbKuqtlhLu5hq7/RxVLu/tCOu08tz4fvYUacFsvNF39FBufp6glfm7sfL9hncBsRNiH5R1C5Sr+TpbQ8wh3jp7Q7n5n5B8fidSvXO+OlXlrW4Uk16ssRKKikTfBWvKUQ1tgA==;ttd3sE3fc7GSqUz8FUhQ9Q=="
 ---

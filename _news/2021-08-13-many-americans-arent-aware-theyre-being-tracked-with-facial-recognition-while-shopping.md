@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Americans aren’t aware that they are under surveillance through facial recognition"
+    excerpt: "Americans aren't aware that they are under surveillance in retail shops through facial recognition, even in the face of opposition from clie"
+    publishedDateTime: 2021-08-16T07:55:00Z
+    webUrl: "https://techstory.in/americans-arent-aware-that-they-are-under-surveillance-through-facial-recognition/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 33
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/05/Capture-2.png"
+        width: 1024
+        height: 526
+        isCached: true
   - title: "New Tech Could Help Self-Driving Cars Figure Out Where They Are Even Without GPS"
     excerpt: "It’s pretty clear already the future is all about electric vehicles and self-driving cars, so it’s not necessarily a surprise that more and more companies are trying to make sure they have a well-deserved place in this new side of the automotive industry using revolutionary ideas."
     publishedDateTime: 2021-08-12T13:24:00Z
