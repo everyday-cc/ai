@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1420
     height: 946
     isCached: true
-
-related:
-  - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
-    excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
-    publishedDateTime: 2021-08-11T17:18:00Z
-    webUrl: "https://www.extremetech.com/computing/325710-nvidia-announces-tiny-ampere-gpu-for-workstations"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
-        width: 1344
-        height: 742
-        isCached: true
 
 secured: "tBFSP3nJPirk3hV3kfAuhVYs4i2k/s2yOEME0OpInl9K1GTUjTmLIg6BZ2cBvaUz0XC0kmNDytbK/CCRHxHcIQGopMZyxNnnfx73zIw+iiivbsu2BgZ5FNbpIk8iVmaEOevUOWD0FJRGUVngqWWr3kqh20knLrs7sBfNK5X/bV1+ITS2ipbbEwLz1Nt7CVuqiKg/+1oLDsFOLnBmj0dz+MZFzapSZ4T7A95AqysQhN3iVaI+EuhzjMckThJtGMSKe+LUF3RRsz8wXfolfd1CwnoY6rieJIncW6VGQ9AyiG/qT/hGbqyG9p/18dE5mdR3OCQDhOAUyyEqzQZ8bXgflwn82vSRWoTo7Tvbzm+en904i657hIZp3PwA2qgja4/o9YGAjA4hc7OT7RjyWDMbpbqCrVjWEI/3Vj9vIykKyCb1cx4b/Bd6oqxSgaLGYBCf9gVVwbO9U5fGzUXCacLdGF1L9D193AV0qhtHedsnY6wbXSmNOWh34p2rGcQtfmIdU/JDiqEdzp9yRu9o6mONYw==;qF2+m/ib8x75jbtaaCXToA=="
 ---

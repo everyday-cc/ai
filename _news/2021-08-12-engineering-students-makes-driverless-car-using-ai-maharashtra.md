@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-ma
 cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pune Students Make \"Driverless\" 4-Wheeler Using Artificial Intelligence"
-    excerpt: "A group of engineering students of a Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
-    publishedDateTime: 2021-08-11T18:51:00Z
-    webUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384"
-    ampWebUrl: "https://www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pune-students-make-driverless-4-wheeler-using-artificial-intelligence-2508384?amp=1&akamai-rum=off"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 74
-    images:
-      - url: "https://c.ndtvimg.com/2021-08/qi62d39o_ev-car-pixabay_625x300_12_August_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Students develop new 'driverless' electric car using AI in India"
     excerpt: "PUNE: A group of engineering students of a city-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
     publishedDateTime: 2021-08-12T03:11:00Z

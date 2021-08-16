@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-sp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Latent AI Raises $19 Million Series A to Enable Next Generation AI Factories"
+    excerpt: "Latent AI has announced today the closing of a $19 million Series A investment round co-led by Blackhorn Ventures and Future Ventures."
+    publishedDateTime: 2021-08-16T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/latent-ai-raises-19-million-series-a-to-enable-next-generation-ai-factories/article_e957c3e2-385f-5e1b-92bb-c8c2f63e6989.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ozgZRdA6k2sTIfeuagMGcA0936KbHpg9UMFZ9YRXW9p00G8DFDrc6AI1Rg6v+NgrJg5SLePKxej/p2Zxy6jXM9aCVE7E1AInQDKRg/O7Ndq3UpvvIjeVIwF4ZzBG2ZbIXtK9stfaPLSOJZoSOP/Q+cqo//kTZKeBzzuDe5i5/Q9xMJ2gmKGQewg1t2Wu3kGBgRoMBxJ6EqwQ9GHeHTyZiNU0JoqPjh6PfKsBs3WF1vgd+kW9mIpDwWLUNNZJT0LyQxsf+PlklKcmCve1XDZGvHYlzRUVwYRNghnvC0//9j91XuggjGiK6Xy6RIGaQKFJJgytWs9VDs9Xepu6Y4xbtm5TGKRtUIUnCa7ZSrGaCLNztisx2Xo5zCOCQG0iBmML8qmIpEn8xEyFzi7+VRcqN1bwvhTr+EraODN4iB+NH2zEBIrAZGIVH63h7DSv5HwcU+37jlUFGu/PSQvdK6iSyi5H0eHs95tJpy/nQoKqFas3z8EwwD4MJeGKpBXxUUrckTyHLmeL+YJEHqj/NlcJgg==;FAEp0xYc8fAL6Nema3+tXw=="

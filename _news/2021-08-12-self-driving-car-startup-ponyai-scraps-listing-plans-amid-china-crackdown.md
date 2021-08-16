@@ -50,20 +50,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 47
-  - title: "China's tech crackdown thwarts Pony.ai's U.S. listing plans, report says"
-    excerpt: "The decision makes Pony.ai one of the biggest companies to suspend its U.S. listing plans after China banned ride-sharing giant Didi Global from signing up new users just days after its blockbuster IPO in June."
-    publishedDateTime: 2021-08-11T18:50:00Z
-    webUrl: "https://www.autonews.com/china/chinas-tech-crackdown-thwarts-ponyais-us-listing-plans-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Pony.ai-MAIN.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "+AHgDuy2JwReHwtKT+EfOPxvaWPp0BS2IQRhtciidZNOB6euPpSNSie7DJUaUuhix8FT3F7DTmuCdFkwmpqnxIHS6LwYXHCdYopmQqKXpcz/7G0a5aqPgWMLtfme0p6t8i7qvEln4CUGStSbMjs9n26m8joRANBTBW8TVhxAF2E5PgqGrZk7OIgrrgJAqJX4WIh8SHf8nFezRJnoKJbiwl8+B9+T+t0Di8pPgy8NQWoPBzUcUiiSCPHDLIsTXd6FTTqMbQ9xtd/G3xIC2L4oj/Q3KRQLdEUNiCl4zgJORs30bwbfK21KkBGPoaKwwhaB3y9Gwiiid+VHCa/ZEN6+s5YDqDgKLcEHyRUHSs45Teo=;JeOc9zWMruvZuDvNmp12+g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India"
+    excerpt: "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,"
+    publishedDateTime: 2021-08-16T10:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/380301"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/380301"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Oppo sets up camera innovation lab in India to develop localized features, AI camera solutions"
     excerpt: "It will also develop new imaging effects that will use AI algorithms, AI facial reconstruction, among others to enhance the application of beauty solu.."
     publishedDateTime: 2021-08-16T07:07:00Z

@@ -41,29 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "GitHub Copilot AI Improved, Offered as API: 'A Taste of the Future'"
-    excerpt: "It will become possible to do more and more sophisticated things with your software just by telling it what to do.'"
-    publishedDateTime: 2021-08-11T18:38:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2021/08/11/openai-api.aspx?p=1"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 37
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorfulImageSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "OpenAI's Codex Turns Written Language Into Computer Code"
-    excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
-    publishedDateTime: 2021-08-11T17:10:00Z
-    webUrl: "https://cacm.acm.org/careers/254733-openais-codex-turns-written-language-into-computer-code/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "QyXTy7Y9MpLVwVXdsY9AWMXxq/nJ8BTDfcy3TDeNmXOixE502uVb2e/rD4+bm4S4QWn09KSMZPtfY86O6BkkWj8ktjYPXoM96PMK/+pt+InPaTfAY5VxfKQnP/6J/tIZefPH1Mvm8Cpy+OOGsp+g4lX9qcDEQUAnz4mCemW70xNRK4arjGSrS4qQbQT501IgwADyNrLNoQkWJHLg320r9Lq4wMEdPxz/7qLcMRPylcYQcsh8xZq2O4xLqEUyfVNStNnhekq0hiQV/y8tBhJyw+DFADxtBGkeHAhXVRiHnMmnEoblJros0D7FSJXn6yaMoOunig4AbcnrKkErUMEY4IztRFB3sN+kF6yt7piCNOrmkBf+H7J0S6Ped+HyjcbmBWZGZsmUYz3DLkcoCQDiGE8fIzn94WQf91lJZh2vS6Vr9er4+1pZJ/21w92ZlJjsj0T3x2EHROZZtAReidA2nSfnMbjTDjDDW2gvqjGx70Yq0QcuMrJFHIeAI6FHS7Uuds3CZtaoLmfS7kfC3z0LNg==;YxyCp92Vslu+l699Wv1e7Q=="
 ---

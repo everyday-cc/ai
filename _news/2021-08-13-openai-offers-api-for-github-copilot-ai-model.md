@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-gith
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -45,29 +45,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GitHub Copilot AI Improved, Offered as API: 'A Taste of the Future'"
-    excerpt: "It will become possible to do more and more sophisticated things with your software just by telling it what to do.'"
-    publishedDateTime: 2021-08-11T18:38:00Z
-    webUrl: "https://visualstudiomagazine.com/Articles/2021/08/11/openai-api.aspx?p=1"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 37
-    images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorfulImageSmall.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "OpenAI's Codex Turns Written Language Into Computer Code"
-    excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
-    publishedDateTime: 2021-08-11T17:10:00Z
-    webUrl: "https://cacm.acm.org/careers/254733-openais-codex-turns-written-language-into-computer-code/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "6WDHD+3gQad5FMIdggDsUsGtcdGibhVcQ6fiC/vYamwcXYQIQBp12KJYUk7Ax2phiIAomhUWObXsRwA6RyCAxNHmC70tcH2Jg1RvlbsiwrKdor4/+pHlIniJW92rJ2PJuVx6/nPeux81T3PVDA0TL+8WyXNytdm9uWy2AgZ/L5OY7dYAJK2aqfehifgT89I40rvSnebQaR4aLBZxX9zaFFRS6ZviReO2E65hbUMhqGh7Qb4FpxJhU4fxVQ6CPNstSQd3yMvrZY5SbgTfc9khlkPVnwpwLEXkp8FvJEpU6Wao7gnyR0dRhSpdLK9AzuJDWLxc+Ox2e/YT+uu3FjcBRxx33YjExe0ZnQwPhjKSdOk=;95UFIwaZVZ77DiUcunX9ug=="
 ---

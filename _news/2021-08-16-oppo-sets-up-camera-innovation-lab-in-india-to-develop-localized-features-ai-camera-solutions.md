@@ -42,6 +42,22 @@ related:
         width: 259
         height: 300
         isCached: true
+  - title: "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India"
+    excerpt: "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,"
+    publishedDateTime: 2021-08-16T10:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/380301"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/380301"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Parliamentarians With Innovators For India Launches India’s First AI-powered Vaccine Awareness Campaign Immunise"
     excerpt: "Bobble AI, having over 50 Million users mostly from India, has designed and developed a series of rich visuals (stickers & GIFs) around COVID 19 vaccinations which can be used as a part of everyday conversations on chat messaging apps including WhatsApp."
     publishedDateTime: 2021-08-13T06:00:00Z

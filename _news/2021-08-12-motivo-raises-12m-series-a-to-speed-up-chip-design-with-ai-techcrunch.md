@@ -55,6 +55,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Latent AI Raises $19 Million Series A to Enable Next Generation AI Factories"
+    excerpt: "Latent AI has announced today the closing of a $19 million Series A investment round co-led by Blackhorn Ventures and Future Ventures."
+    publishedDateTime: 2021-08-16T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/latent-ai-raises-19-million-series-a-to-enable-next-generation-ai-factories/article_e957c3e2-385f-5e1b-92bb-c8c2f63e6989.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KJJgPYA1SZGRbc6d+knB+rFJSBPllNcrmVOgSIALyCNnd+AZCaEwaLxACJRhWyMDgbe6F+sFA8CU7PCTQ3tUa0r6LM8x5gWKb5e7aYbTJPTinsiV+iaUVHfCuYjWG8kIXTYs9dC7WPb5MFJJjNxYPeWZyrKT77DaGf+H2RwoMxIZgsG4vtBDc7iFpAD1uTITDOYMSBpyRpP0uJqJxZqhKWBbwl2ETmqN2IxZMeGvJVbNAtdTCxUZxyqZPEjGN6OLNnc0MDaAJ5ppFqa2xv6QFFTqikFLwpNI6J6Zbgvi0tD/iw0kLBa+WKAuB25qd6fNSY6NR3rqUipDUHi5vnFEIhB3R0DmW0Cb88snx91HDhVIJqLkhqjAMUsQ5/uj6nlUngNP9BgoTwA62GBRh2T6Z1lqRYZRVCS3WFZHDhJ7PY9Rfj5Dn/nwYOPqjrFD7+KmEqXfyZzul8KZcTCXZH7AxD/yyML2bf4ReccD76NKOZKAvfw0Lb1OP1YMedBRv+q3y0pJLHkq+Hy19nkVmOzUDg==;I1eOtlrJ6GMC2gV2j9vUJQ=="
 ---

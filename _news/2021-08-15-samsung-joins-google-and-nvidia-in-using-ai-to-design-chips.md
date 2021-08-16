@@ -7,7 +7,7 @@ originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nv
 webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -54,7 +54,7 @@ related:
     provider:
       name: GizChina
       domain: gizchina.com
-    quality: 57
+    quality: 74
     images:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Business-Samsung-AI-Chips-144295666-1024x536.jpg"
         width: 1024
@@ -73,6 +73,20 @@ related:
       - url: "https://technosports.co.in/wp-content/uploads/2020/10/Samsung-Exynos-Processors.png"
         width: 2092
         height: 1138
+        isCached: true
+  - title: "Samsung wants AI to build its chips"
+    excerpt: "Humans do not think the right way Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
+    publishedDateTime: 2021-08-16T11:02:00Z
+    webUrl: "https://www.fudzilla.com/news/53380-samsung-wants-ai-to-build-its-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
+        width: 620
+        height: 432
         isCached: true
   - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

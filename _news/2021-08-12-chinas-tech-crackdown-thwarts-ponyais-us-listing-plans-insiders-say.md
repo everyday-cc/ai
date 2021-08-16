@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
 type: article
 quality: 187
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/01/Pony-car.jpg"
         width: 825
         height: 638
-        isCached: true
-  - title: "China's tech crackdown thwarts Pony.ai's U.S. listing plans, report says"
-    excerpt: "The decision makes Pony.ai one of the biggest companies to suspend its U.S. listing plans after China banned ride-sharing giant Didi Global from signing up new users just days after its blockbuster IPO in June."
-    publishedDateTime: 2021-08-11T18:50:00Z
-    webUrl: "https://www.autonews.com/china/chinas-tech-crackdown-thwarts-ponyais-us-listing-plans-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Pony.ai-MAIN.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "nyztqY9jPr84nTLslE1V4Piyo02KCHcbs9VClLBU3V08WmM9M26PjTeU431KwYbX3iUz6NLNjOROj//JgnpVht7OmzpXdbfuoJooiAsNiU6SDwflrRgty3dSTZSIzH07WEMDlSCjGLzuh3nxkUXSAtfSAdLgf8YziSSD9GEx88cSmvebrHxgVge6aO39mZfXFWupe5Y0eEK92Knb+yzBd/KIiBlX0XxGnjsE3ictrTor9OgvQ/U1sqnBHPLf78FlOe0WWen0oGvVAkjGCN9navc2Cxb681PkG/YMS5dSjjuJgmWGAc9Y10w9A596GAS44qVTcNTm/ink4N/cC+oGMRIKYHYi4dOqZb/5qiXgQWnA6KzMtK8ivd+qC6f9oHPfW/BHZr7YKeUuojgXNZQ3gQL3u2ulSzot08WB24mq0DVU6d3BLGrhicTVOGnf7e+i/ilCtrzWg1hw2LnrswCEkC3gUIUgE9UgZCG1Z5X+3/LftFwRKktnhaYl+NBeM88EhArADTseXLK6PoXEdSUHloOI1ACOwTWKcdYaagzY2Mc=;DIIK66aKmHAjNx/D0Arjxg=="

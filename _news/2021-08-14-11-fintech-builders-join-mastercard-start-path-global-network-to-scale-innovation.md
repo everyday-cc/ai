@@ -55,6 +55,20 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "3 top Indian FinTech funding rounds in August 2021"
+    excerpt: "According to KPMG’s Pulse of Fintech, India’s FinTech sector received $2 billion in investment in the first half of 2021."
+    publishedDateTime: 2021-08-16T10:58:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/3-top-indian-fintech-funding-rounds-in-august-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2021/08/funding-2-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Tavant Named to Prestigious IDC FinTech Rankings by IDC Financial Insights"
     excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced today it has been named to the 2020 IDC FinTech Rankings for the second straight year. The 17 th annual vendor ranking represents the leading hardware,"
     publishedDateTime: 2021-08-15T16:21:00Z
