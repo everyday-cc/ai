@@ -27,20 +27,150 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning in Finance Market May Set New Growth Story"
-    excerpt: "The latest released on Global Machine Learning in Finance Market delivers comprehensive data ecosystem with 360° view of customer activities, segment-based analytics-and-data to drive opportunities of evolving Machine Learning in Finance marketplace and future outlook to 2026."
-    publishedDateTime: 2021-08-11T15:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-finance-market-may-set-new-growth-story"
+  - title: "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period."
+    publishedDateTime: 2021-08-12T15:25:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 70
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
+    publishedDateTime: 2021-08-14T13:26:00Z
+    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
     quality: 56
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/07/1-HAYATO-SUMINO-WARSAW-GOLIK-01-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
+        width: 800
+        height: 385
         isCached: true
+  - title: "Full Stack AI Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
+    excerpt: "The report on the Full Stack AI market provides a bird’s eye view of the current proceeding within the Full Stack AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Full Stack AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
+    publishedDateTime: 2021-08-12T04:21:00Z
+    webUrl: "https://manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    ampWebUrl: "https://manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/full-stack-ai-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 44
+    images:
+      - url: "https://i.ibb.co/CsGkYQ9/Researchmoz-47.png"
+        width: 640
+        height: 512
+        isCached: true
+  - title: "AI (Artificial Intelligence) Chip Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027 – The Manomet Current"
+    excerpt: "Chip Market Report . The Global AI (Artificial Intelligence) Chip Market Forecast to 2028 published by Reports and Data provides a holistic overview o"
+    publishedDateTime: 2021-08-12T11:15:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-artificial-intelligence-chip-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027-the-manomet-current/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/3-15-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence As A Service Market Trends, Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
+    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Artificial Intelligence As A Service Market size. The research report serves as a comprehensive guide for new entrants to the Artificial Intelligence As A Service market size."
+    publishedDateTime: 2021-08-12T15:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-trends-industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2021-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
+    publishedDateTime: 2021-08-13T16:29:00Z
+    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
+    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Deep Learning System Market – Industry Size, Development Strategy, Historical Analysis, Competitive Landscape And Forecast to 2028"
+    excerpt: "The latest study, titled “Global Deep Learning System Market”, published by Emergen Research, entails a thorough review of the present and future market trends in this specific business vertical. The report gathers viable information on the most prominent industry players,"
+    publishedDateTime: 2021-08-12T14:27:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-system-market-industry-size-development-strategy-historical-analysis-competitive-landscape-and-forecast-to-2028/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 29
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Natural-Skin-Care-Products-Market-Copy-1-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-08-13T05:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
+  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://www.lelezard.com/en/news-19948480.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
+  - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-08-11T16:36:00Z
+    webUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
 
 secured: "8kV78gPzEwD8VFL+Zz7Qn5XRAjfdVgqQ+x8JH8EC6aGjsOATqO0EXNVMAx4TvyS+VchDpjJOvkW8txchBxc5RcfKlmfIIVSYqqp6CguPZGJsWNQf+V/d6ANyhaMs6amQgwWDxDdbim+ikhVWXNkNg2R4MkIZZo5NHNrzJFCHc9tonPFUosrJ3CmXRkZvYJgsCWvxV33RYsWpKltdSOANXk1PyByRTxs1JzUApQKatMieOoGaFR+guOx1m8vilLueabU0/Qxm1Duc1Yt2kq5NpGgBV6FVyaIgqafKbUYf7KtqtRbKVONsWfnOHK3om7i9wf6JzEaEgGgkOf4JqMduF+7PJHVpLJygiZmoLeSQqOfRmJHxqJWRnnQj0FX90jyIdI6ecT2uIBjYkzjGfTwQuI1XMkkY5tUJJ+BmNMFw1AtPuukDmbKfnL2KpYyN5neJZ94rcJV5CraQqUgj/MzldlrfukcrlquoN1YTo4YzkrHMLx3jxEz88F0+ei7NrB8DJ+bwP3vlkzZBfSWL1EYAUw==;srTrEgv2XtKApLeVL1NqgA=="
 ---

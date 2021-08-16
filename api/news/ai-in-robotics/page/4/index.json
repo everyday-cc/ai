@@ -2,6 +2,250 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-1200-80.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-re2-robotics-sapien-6m-arm-designed-for-outdoor-applications.md",
+      "title": "RE2 Robotics Sapien 6M arm designed for outdoor applications",
+      "excerpt": "The RE2 Sapien 6M robotic arm is being used by commercial and defense customers who require a mobile outdoor-rated arm for complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
+      "originalUrl": "https://www.therobotreport.com/re2-robotics-sapien-6m-arm-designed-outdoor-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/07/RE2Sapien6M-80lb-Lift.jpg",
+          "width": 600,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-microsoft-powered-autonomous-beach-cleaning-robot-is-here-to-clean-our-shores.md",
+      "title": "Microsoft-powered autonomous beach-cleaning robot is here to clean our shores",
+      "excerpt": "A Dutch startup aims to rid beaches of cigarette butts, and Microsoft's artificial intelligence is helping the robot learn how to do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-autonomous-beach-cleaning-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/uFEX43607aFPkDv2GM04zBfSj68=/2021/07/21/015fc565-b217-46b4-9eb8-1ec97c805fd1/ogi-tech.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-autonomous-beach-cleaning-robot/",
+      "publishedDateTime": "2021-07-21T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-ai-investing-why-more-and-more-people-are-turning-to-robot-led-investments.md",
+      "title": "AI investing: Why more and more people are turning to robot-led investments",
+      "excerpt": "THE VERY first robo-advisor launched in 2008 initially to rebalance assets after the Great Recession, but in 2020 this AI held $987 billion of managed client assets worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments",
+      "originalUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/23/590x/Robot-placing-coins-in-a-stack-1465716.jpg?r=1626876086664",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/finance/personalfinance/1465716/investing-robo-advisors-ai-investments/amp",
+      "publishedDateTime": "2021-07-21T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Scope, Future Prospects And Competitive Analysis 2020 to 2027",
+      "excerpt": "Market Insights . The advent of artificial intelligence (AI) will be responsible for transforming the way world works in the coming years. Its inclusion in the healthcare is a fas",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-scope-future-prospects-and-competitive-analysis-2020-to-2027-2021-07-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-lyft-invests-in-argo-ai-fords-first-robotaxis-arrive-in-late-2021.md",
       "title": "Lyft Invests In Argo AI; Ford’s First Robotaxis Arrive In Late 2021",
       "excerpt": "Ford and automated driving partner Argo AI will launch automated ride-hailing services on Lyft’s platform in Austin and Miami this year. Lyft will provide Argo with data to help optimize deployments and evaluate the safety of the vehicles in exchange for a 2.",
@@ -1166,221 +1410,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-taps-brain-waves-to-help-paralyzed-man-communicate.md",
-      "title": "Device taps brain waves to help paralyzed man communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm -- they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "originalUrl": "https://www.nbcnews.com/science/science-news/device-taps-brain-waves-help-paralyzed-man-communicate-rcna1424",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-07/210714-neurosurgeon-edward-chang-jm-1910-d31b43.jpg",
-          "width": 2500,
-          "height": 1669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna1424",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna1424",
-      "publishedDateTime": "2021-07-14T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-scientists-create-device-that-can-analyze-brain-waves-of-paralyzed-people-to-help-them-communicate.md",
-      "title": "Scientists create device that can analyze brain waves of paralyzed people to help them communicate",
-      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm - they imagine moving and those brain signals are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "originalUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/07/15/00/45458855-0-image-a-19_1626304239634.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
-      "publishedDateTime": "2021-07-14T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-device-lets-paralyzed-man-communicate-with-brain-waves.md",
-      "title": "Device lets paralyzed man communicate with brain waves",
-      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen.",
-      "sourceUrl": null,
-      "webUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
-      "originalUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/7/7f/77f36514-beca-575a-9807-fc0a4916bc0c/60efa0f25b388.image.jpg?resize=1024%2C683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
-      "cdnAmpWebUrl": "https://magicvalley-com.cdn.ampproject.org/c/s/magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
-      "publishedDateTime": "2021-07-14T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times-News",
-        "domain": "magicvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-paralyzed-man-communicates-through-brain-waves-in-groundbreaking-demo.md",
-      "title": "Paralyzed man communicates through brain waves in groundbreaking demo",
-      "excerpt": "The scientists call the device a “speech neuroprosthetic” that decodes brain waves that normally control the vocal tract.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
-      "originalUrl": "https://www.kvue.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/CCT/images/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
-      "publishedDateTime": "2021-07-14T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-15-nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate.md",
-      "title": "Nigeria’ll deploy robots, artificial intelligence to fight crime, says Senate",
-      "excerpt": "The Senate on Wednesday said that the Ministry of Communications and Digital Economy had established a centre where artificial intelligence and robots.",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "originalUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2020/10/07175315/Senator-Ahmad-Lawan.jpg",
-          "width": 750,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/nigeriall-deploy-robots-artificial-intelligence-to-fight-crime-says-senate/?amp",
-      "publishedDateTime": "2021-07-14T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

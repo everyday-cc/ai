@@ -24,6 +24,22 @@ images:
     height: 213
     isCached: true
 
+related:
+  - title: "Huawei Vows to Enable Railway Digitalization in APAC"
+    excerpt: "Railway Forum 2021 online, the second iteration of this annual event, exploring the theme \"Smart Rail, Better Future Mobility.\" Although COVID 19 has brought massive disruption to the rail"
+    publishedDateTime: 2021-08-16T01:00:00Z
+    webUrl: "https://www.ryt9.com/en/anpi/251643"
+    type: article
+    provider:
+      name: RYT9
+      domain: ryt9.com
+    quality: 39
+    images:
+      - url: "https://www.ryt9.com/img/files/20210816/iq180106f6bf95d50ed513aa0d825017a4.jpg"
+        width: 800
+        height: 426
+        isCached: true
+
 secured: "fpqZYY9Fz3GXWqgZrvlq+wPeby7iO4gEe3L6K9OpLHnNfw2sbrx2X0UqwkeSPPWIvGcWn7DkSHZpQDo8JsV8a23r8yzA7piFWv1ZV5lfobqDZhMxekvPoAuz6UduHGk7FMbJgwS2UR/moTlQi6kTw1CAl/4TRYgIs4f3YSji54cUJQ03CKDk2gWDuEFQFOnVkBqDy0u1sPe6N82IHB2xg88EA77OcRd71/x9aCNordODDTLzfHOXpNcROU2hrTPUwOq2FJS9Q92AbAXENzHVlVT5jLGm/ovm/RmBstvGkdER8Q25BQxlBVMFPnNfW2LAkyqHhDQ/v3/hxlr1eubiCUhGjxXP+lNdeR0ZzaZcAfs=;kOREO8HiMXl84cUJ8NudIQ=="
 ---
 

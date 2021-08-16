@@ -25,42 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
-    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
-    publishedDateTime: 2021-08-14T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+  - title: "Global Artificial Intelligence in Construction Market growth graph to witness upward trajectory during 2021-2026"
+    excerpt: "Global Artificial Intelligence in Construction Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence in Construction Market publi"
+    publishedDateTime: 2021-08-13T07:50:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
     images:
-      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
-        width: 800
-        height: 385
+      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store7.jpg.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "Deep Learning in Manufacturing Market Size and Forecast 2021-2027: Xilinx, Micron Technology, Qualcomm"
-    excerpt: "Latest survey on Deep Learning in Manufacturing Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Deep Learning in Manufacturing The study is a mix of quantitative market stats and qualitative analytical information to"
-    publishedDateTime: 2021-08-13T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
+    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-13T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
-  - title: "Quizlet's State of Modern Learning Report 2021 Reveals Ongoing Learning Loss and Need for Self-Learning Support"
-    excerpt: "Quizlet, the global learning platform known for its AI-powered study tools, today released its second annual data report: Quizlet's State of Modern Learning Report 2021, which explores online study behaviors from millions of students to understand their learning struggles and aspirations during the 2020-2021 school year."
-    publishedDateTime: 2021-08-11T13:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-quizlets-state-modern-learning-report-2021-reveals-ongoing-/2021/08/11/9428660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "f34XTJiWZT4bfMzCRgdFQXjCRIyt3WPE1yU2qRjFHDCDDVoHW241yFnSv6JcjMR2xvLU+1Q1vCOq58n+dJ298t59JUZMurlFcPYIEoDba5F0fy0RLJEjPwTp0+oIpMHLrQ92bFT5DG+oTLNJmq1D/WE9Nzih8JsKuaxSvfGFpNJNaeffcHG4d0T9oEXhXkgVE08WJG79b8bavQ4h3w2HER9ojeLgf9KMLM0+Unx1YOTy8H2SBDQB20JLWNV40bk66IfYxPeXdh7tQYIJhLhYoxTMHG6mVTdYScjDzsXZUBRiheBpkddVqnrpEN65fF+kDOLXkp1VqsIkQAABldTP9oB2rQpjHy1eVmhp65AatwRfJy7K5S1lYIcoiPNCz+S+zk1+18+jGGBdw7gkuyVjCu6+0f7qv9Ggg2L3WyigBLXmaSfdoXEJewuSlflnFobBK23w6KG129zBQK4yB4/sA2nZ471ZauALdpZyPBfKa7KC8p+bSXdJDEj1W9D4/CzZtmAFEkH8/xjEnwU+DQllPA==;9eCH1D+SiOvv71ni6EP8qA=="
 ---

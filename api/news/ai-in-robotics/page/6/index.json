@@ -2,6 +2,251 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.md",
+      "title": "Scientists take mind-controlled robot for a stroll (video)",
+      "excerpt": "What if you could control a robot -- wait, don't answer yet -- with your mind? Pretty great, right? That's what the Virtual Embodiment and Robotic Re-embodiment (VERE) group is working on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
+      "originalUrl": "https://www.engadget.com/2012-07-06-scientists-take-mind-controlled-robot-for-a-stroll-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/.3bO_b82yaQWyeezytpmKQ--~B/aD0zMzc7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/07/mind-robot-israel-overlays.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-sometimes-interacting-with-robots-is-easier-than-with-humans.md",
+      "title": "Sometimes interacting with robots is easier than with humans",
+      "excerpt": "A new study shows higher performance in idea generation when humans believe they're interacting with a bot. Is working with robots in our future?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "originalUrl": "https://www.techrepublic.com/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/5c83880b-a529-40f7-b697-c166577487ee/crop/1067x803+137+0/resize/1200x/53bae80334ece08cf475784ba6c39ebc/istock-849376288.jpg",
+          "width": 1200,
+          "height": 903,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/sometimes-interacting-with-robots-is-easier-than-with-humans/",
+      "publishedDateTime": "2021-07-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing.md",
+      "title": "What's a robot manicure really like? Quick, cheap, and guilt-inducing.",
+      "excerpt": "A robot gave me a manicure last week. Let me stop you before you envision a bipedal humanoid carefully dipping a brush into a bottle and lacquering my nails. Instead, the experience felt more like inserting my hand into a 3D printer.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
+      "originalUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/article/w/whats-a-ro/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-ind_hewc.620.jpg",
+          "width": 620,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/16518/whats-a-robot-manicure-really-like-quick-cheap-and-guilt-inducing?amp=1",
+      "publishedDateTime": "2021-07-05T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-ai-driven-robots-are-here-for-good.md",
+      "title": "AI-Driven Robots Are Here For Good",
+      "excerpt": "AI, algorithms and technological applications are accelerating into new realms. With the proper implementation of ethics, diversity, and inclusive design - humans stand to benefit significantly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e279184db784a0c94473f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 702,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/07/04/ai-driven-robots-are-here-for-good/amp/",
+      "publishedDateTime": "2021-07-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss.md",
+      "title": "Artificial Intelligence in Healthcare: Intel’s AI tool screens patients for vision loss",
+      "excerpt": "Sankara Eye Foundation and Leben Care are deploying a cloud-based AI solution Netra.AI, powered by Intel technology, to identify retinal conditions in a short span of time with the accuracy level of h",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.financialexpress.com/2021/07/1-70.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-in-healthcare-intels-ai-tool-screens-patients-for-vision-loss/2283014/lite/",
+      "publishedDateTime": "2021-07-04T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
       "title": "The lessons we learn from self-driving will drive our robotics future",
       "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
@@ -1151,232 +1396,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-uk-surgical-robotics-start-up-cmr-raises-600m-at-3bn-valuation.md",
-      "title": "UK surgical robotics start-up CMR raises $600m at $3bn valuation",
-      "excerpt": "UK robotics start-up CMR Surgical has raised $600m in what it says was a record private financing round for a medical technology company, pushing its total funds raised above $1bn and giving it a $3bn valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "originalUrl": "https://www.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e047ce0-6272-480b-a275-e2a14c514e09.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/6a73e55b-5e5a-4017-b797-469aa4f8dde5",
-      "publishedDateTime": "2021-06-27T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-27-security-robots-expand-across-us-with-few-tangible-results.md",
-      "title": "Security Robots Expand Across US, With Few Tangible Results",
-      "excerpt": "A prominent security robot company has cited little public evidence or specific, detailed examples of crimes that have been thwarted by its machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "originalUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2021/06/062721-GettyImages-688223544.jpeg?quality=85&strip=all&crop=0px%2C181px%2C3200px%2C1800px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/security-robots-expand-across-few-tangible-results/3127219/?amp",
-      "publishedDateTime": "2021-06-27T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-i-learnt-how-cool-it-is-to-train-a-robot-with-ai.md",
-      "title": "I learnt how cool it is to train a robot with AI",
-      "excerpt": "It’s one thing to hear about the advances in AI on the news, such as China’s creation of an artificial intelligence (AI) news anchor, robots making food deliveries, and serving you coffee. It’s another matter however,",
-      "sourceUrl": null,
-      "webUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "originalUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.mothership.sg/1/2021/06/dog.jpeg",
-          "width": 478,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "cdnAmpWebUrl": "https://mothership-sg.cdn.ampproject.org/c/s/mothership.sg/2021/06/dsta-brainhack-robot//amp",
-      "publishedDateTime": "2021-06-25T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mothership.sg",
-        "domain": "mothership.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-26-shake-hands-with-a-mind-controlled-robotic-arm.md",
-      "title": "Shake Hands with a Mind-Controlled Robotic Arm",
-      "excerpt": "Using a noninvasive (not implanted) brain-computer interface (BCI), engineers have developed the first successful mind-controlled robotic arm that can continuously track and follow a computer cursor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
-      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21837913/shake-hands-with-a-mindcontrolled-robotic-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2019/06/machinedesign_20713_promo_g1mind.png?auto=format&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-25-samsungs-latest-robot-vac-uses-ai-to-recognize-small-obstacles.md",
-      "title": "Samsung's latest robot vac uses AI to recognize small obstacles",
-      "excerpt": "Samsung is claiming a few world firsts with its latest robot vacuum cleaner, which was originally launched at CES 2021 back in January. The Jet Bot AI+ is said to be the first to feature an active stereo-type 3D sensor for object detection,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "originalUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/be45152/2147483647/strip/true/crop/1278x852+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fed%2F5e%2F43687cec49afa9f0bc54c1faee0b%2F03.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/around-the-home/samsung-jet-bot-ai-plus-robot-vacuum/?amp=true",
-      "publishedDateTime": "2021-06-25T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

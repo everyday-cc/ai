@@ -25,90 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipsets Market Booming Segments; Investors Seeking Stunning Growth, Market Size, Forecast 2028"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-08-11T08:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-booming-segments-investors-seeking-stunning-growth-market-size-forecast-2028-2021-08-11"
+  - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
+    excerpt: "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute."
+    publishedDateTime: 2021-08-13T12:44:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period."
-    publishedDateTime: 2021-08-12T15:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+  - title: "Cloud Computing Market 2021"
+    excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
+    publishedDateTime: 2021-08-14T02:29:00Z
+    webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 26
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Industry Market including top key players Apple Inc, SAP SE, Intel Inc, Salesforce Inc"
+    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Artificial Intelligence and Cognitive Computing Industry market. The study covers significant data which makes the research document a handy resource for managers,"
+    publishedDateTime: 2021-08-12T15:08:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 70
+    quality: 25
     images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg"
-        width: 390
-        height: 220
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-and-Cognitive-Computing-Industry-Market-Including-Key-Players-Market-Share-780x470.jpg"
+        width: 780
+        height: 470
         isCached: true
-  - title: "Mobile Robot Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The global Mobile Robot Market will be worth USD 117.89 Billion by 2027, according to a current analysis by Emergen Research. The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants."
-    publishedDateTime: 2021-08-11T08:16:00Z
-    webUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    ampWebUrl: "https://manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/mobile-robot-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 54
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Managed-Network-Services-Market-390x210.jpg"
-        width: 390
-        height: 210
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
-    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
-    publishedDateTime: 2021-08-13T16:29:00Z
-    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
-    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-    images:
-      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-08-13T05:38:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 17
-  - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
-    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
-    publishedDateTime: 2021-08-11T16:36:00Z
-    webUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/"
-    ampWebUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 2
 
 secured: "LjdP3VDRix7Ac1JZgCSfIqupvln5+rxcQt3/TL7m6iPaJ5eOQNLBd8MyMtGbKR1ma8zVLJh0fI89C1ie09xktvtgl0Rp0V+MZ5sGNTsEMibRbgCm/GeDx3HoDLoIvM+O7W6cCJcnMbQw5ZamfDIdpa2IQHQiW/EVvhLXxH17KEhm0kr5Jz0esIDvOlO3VX86QEz/tbdlx5e4ssu0YLFSlNkgd//JAEK21so5z6O6aQ/hz5lApTDgqtxKsRTGKjBQSJqdSae15iQM6h0GWuTIlQgiiGai+Qj9Of1fISjdDwp42VMgMNIvbHYcBy9PPpHq0t9wEO9emWKBF5NOS7qCyEezWJ36W8eFiaWFzANr3C4=;Bsy9gprZdNOEBhVV5nsP9Q=="
 ---

@@ -56,10 +56,10 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Global Far-Field Speech and Voice Recognition Market Report 2021-2026 Featuring Use Cases from Amazon, Apple, LG, TCL, Ecobee - ResearchAndMarkets.com"
-    excerpt: "The “Global Far-Field Speech and Voice Recognition Market: 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The report provides an overview of the global far-field speech and voice recognition system market and analyses market trend."
-    publishedDateTime: 2021-08-11T09:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-voice-recognition-d8530f8f3cfb460196f97e4e08cb87e0"
+  - title: "Insights on the $770 Million Artificial Intelligence Services Global Market to 2030 - Identify Growth Segments for Investment - ResearchAndMarkets.com"
+    excerpt: "The “Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence services market."
+    publishedDateTime: 2021-08-11T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-coronavirus-pandemic-hacking-77bb4b14eb4443aebcc0c11dc64c2529"
     type: article
     provider:
       name: Associated Press

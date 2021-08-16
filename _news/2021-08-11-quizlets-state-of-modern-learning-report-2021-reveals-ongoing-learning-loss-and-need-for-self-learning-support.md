@@ -19,47 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
-    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
-    publishedDateTime: 2021-08-14T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+  - title: "Seven Courses In 2021 On Deep Learning For Art"
+    excerpt: "Algorithms can help you create your own art, and there are plenty of crash courses and full-time programs to help you learn the art of coding in AI"
+    publishedDateTime: 2021-08-13T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/seven-courses-in-2021-on-deep-learning-for-art/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
-        width: 800
-        height: 385
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/Article.jpg"
+        width: 2240
+        height: 1260
         isCached: true
-  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
-    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
-    publishedDateTime: 2021-08-11T16:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Deep Learning in Manufacturing Market Size and Forecast 2021-2027: Xilinx, Micron Technology, Qualcomm"
-    excerpt: "Latest survey on Deep Learning in Manufacturing Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Deep Learning in Manufacturing The study is a mix of quantitative market stats and qualitative analytical information to"
-    publishedDateTime: 2021-08-13T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
 
 secured: "CVlkx+j5Ee1b5byk7CQJ/wCsKrKsYmpoetYUIUp6StO6kxLeQoN/lVnJpw+RqMsG3H+TZRd+2tCCM28BRKSrcfUBb+WAlcW5wbrFbYeEkU738QfZwjS/7dO2pr2LdS9NVTlalIoAhEU5MVbcqERp0KWeA+XCUFTnve0EYBbK/466PIl2iA8eWi8coFpu9KpPrhzV6BKFrUhs+aVgkBJ3qjMF/VX/x1yZVnCmNsGMNE+VdfGvncIl8WbnCgp9KBn2K2dnxYxb0jQFdoZ5cvsIHRV6uXrBEzeaNtqdguochVt0uFomgkv0Y0boiU8RK5kR1kBKSd8tSpn3kVtWOLNtSC04SnbbiB+0lfA89MfEnuA=;6K8Oucmgw9Pj5EcAqtD93A=="
 ---

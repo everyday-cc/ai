@@ -45,36 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence in Fintech Market May See Big Move | TIBCO Software, Amazon, Next IT"
-    excerpt: "COVID-19 Outbreak-Global Artificial Intelligence (AI) in Fintech Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market risk side analysis,"
-    publishedDateTime: 2021-08-11T08:36:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-fintech-market-may-see-big-move-tibco-software-amazon-next-it/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 48
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/Desiccated-Coconut-Market-390x220.jpeg"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Three Indian AI fintech startups to look out for"
-    excerpt: "Fintech startups in India raised more than $2 billion in the first five months of 2021, representing a 4X rise from $495 million raised in the first five months of 2020. And the sector is just heating"
-    publishedDateTime: 2021-08-11T07:20:00Z
-    webUrl: "https://www.forbesindia.com/article/ai-special/three-indian-ai-fintech-startups-to-look-out-for/69717/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 39
-    images:
-      - url: "https://www.forbesindia.com/media/images/2021/Aug/img_165407_fintechstartups.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "FinTech Firm Gateless Adds Rick Lang As COO"
     excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"
     publishedDateTime: 2021-08-13T13:29:00Z

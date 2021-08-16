@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence-based Cybersecurity Market Size 2021 to 2026 Brief Analysis by Regions, Growth Key Factors, Demand, Business Share"
-    excerpt: "Aug 11, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial"
-    publishedDateTime: 2021-08-11T08:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-based-cybersecurity-market-size-2021-to-2026-brief-analysis-by-regions-growth-key-factors-demand-business-share-2021-08-11"
+  - title: "Global Artificial Intelligence Services Market Report (2021 to 2030) - COVID-19 Growth and Change"
+    excerpt: "The \"Artificial Intelligence Services Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added"
+    publishedDateTime: 2021-08-11T16:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-artificial-intelligence-services-market-report-2021-to-2030---covid-19-growth-and-change-301353256.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
   - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
     excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."

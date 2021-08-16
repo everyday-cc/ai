@@ -28,19 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
-    excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
-    publishedDateTime: 2021-08-12T19:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
+  - title: "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period."
+    publishedDateTime: 2021-08-12T15:25:00Z
+    webUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 70
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
+    publishedDateTime: 2021-08-14T13:26:00Z
+    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 56
+    images:
+      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
+        width: 800
+        height: 385
+        isCached: true
+  - title: "Self-Driving Cars and Light Trucks Market May Set Epic Growth Story | Tesla, Dong Feng, Volvo"
+    excerpt: "Latest released Global Self Driving Cars and Light Trucks Market Research Report provides detailed assessment of Key and emerging players showcasing company profiles product service offerings market price and sales revenue to better derive market size estimation With this assesment"
+    publishedDateTime: 2021-08-12T14:39:00Z
+    webUrl: "https://www.openpr.com/news/2353881/self-driving-cars-and-light-trucks-market-may-set-epic-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2353881/self-driving-cars-and-light-trucks-market-may-set-epic-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2353881/self-driving-cars-and-light-trucks-market-may-set-epic-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 48
+    images:
+      - url: "https://cdn.openpr.com/U/8/U812519817_g.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Full Stack AI Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
     excerpt: "The report on the Full Stack AI market provides a bird’s eye view of the current proceeding within the Full Stack AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Full Stack AI market and offers a clear assessment of the projected market fluctuations during the forecast period."
@@ -58,6 +92,36 @@ related:
         width: 640
         height: 512
         isCached: true
+  - title: "AI (Artificial Intelligence) Chip Market Analysis, Revenue Share, Company Profiles, Launches, & Forecast Till 2027 – The Manomet Current"
+    excerpt: "Chip Market Report . The Global AI (Artificial Intelligence) Chip Market Forecast to 2028 published by Reports and Data provides a holistic overview o"
+    publishedDateTime: 2021-08-12T11:15:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-artificial-intelligence-chip-market-analysis-revenue-share-company-profiles-launches-forecast-till-2027-the-manomet-current/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 38
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/3-15-780x470.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
+    publishedDateTime: 2021-08-13T16:29:00Z
+    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
+    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Deep Learning System Market – Industry Size, Development Strategy, Historical Analysis, Competitive Landscape And Forecast to 2028"
     excerpt: "The latest study, titled “Global Deep Learning System Market”, published by Emergen Research, entails a thorough review of the present and future market trends in this specific business vertical. The report gathers viable information on the most prominent industry players,"
     publishedDateTime: 2021-08-12T14:27:00Z
@@ -74,20 +138,42 @@ related:
         width: 390
         height: 220
         isCached: true
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
+  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-08-13T05:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
+  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
+    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-12T08:59:00Z
+    webUrl: "https://www.lelezard.com/en/news-19948480.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 4
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
+  - title: "Graphics Processing Units (GPU) Database Market Trends Analysis, Top Manufacturers, Shares, Growth Opportunities, Statistics and Forecast to 2028"
+    excerpt: "Graphics processing units (GPU) database market is expected to reach USD 1,022.20 million by 2028 witnessing market growth at a rate of 19.10% in the forecast period of 2021 to 2028. Data Bridge Market Research report on graphics processing units (GPU) database market provides analysis and insights regarding the various factors expected to be prevalent throughout the forecast period while providing their impacts on the market’s growth."
+    publishedDateTime: 2021-08-11T16:36:00Z
+    webUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/"
+    ampWebUrl: "https://manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/graphics-processing-units-gpu-database-market-trends-analysis-top-manufacturers-shares-growth-opportunities-statistics-and-forecast-to-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 2
 
 secured: "F/nrhBFf2Ll1sIkydYKt0OkZXvC41x+WoGYkTWYa0QTnhGVwxk3y0z4XT26puHrLcEoAxThL8B8ymjRW5INCOQmWZ/FQnaqP3MDptTTwz9AUapFCsNHd0xWkJ3vClNv826jtq+1ko9jkDQUsxz3VhiWiP55b2k7LErGPPaG9Gg/JOR13lGIxB8kH2VhKLZeEhW1sPp60YqsBplkticjJ44CvUwY4wwCeJW7mQd0n4HZ5KSbjiBcj7ZOujzIG+i6Zp7n6o9pi+5EEPgh89Zq6bt6RmLxmhLhu6jk9ogP3Xj2C5MpWGScNCmTZcCIgB0Fw+oADr4kZ5mPNjgNZ/CvvzC8WlamsDSeVyTMkTk18NzM=;sidZDYMwmfDSf17Nv9K3pg=="
 ---

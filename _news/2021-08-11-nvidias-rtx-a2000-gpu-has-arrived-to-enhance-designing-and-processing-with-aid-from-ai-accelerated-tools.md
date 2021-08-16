@@ -25,49 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA RTX A2000: the most compact and power-efficient GPU"
-    excerpt: "Announced at SIGGRAPH 2021, the NVIDIA RTX A2000 is the most powerful low-profile, dual-slot GPU, making RTX technology accessible to more professionals.The graphics card will be available in October."
-    publishedDateTime: 2021-08-12T13:26:00Z
-    webUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/"
-    ampWebUrl: "https://www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
-    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/nvidia-rtx-a2000-the-most-compact-and-power-efficient-gpu/amp/"
+  - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
+    excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
+    publishedDateTime: 2021-08-15T13:19:00Z
+    webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
     type: article
     provider:
-      name: provideocoalition.com
-      domain: provideocoalition.com
-    quality: 59
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 86
     images:
-      - url: "https://www.provideocoalition.com/wp-content/uploads/nvidiaa2000_001.jpg"
-        width: 1420
-        height: 946
+      - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
+        width: 951
+        height: 961
         isCached: true
-  - title: "Nvidia Announces Tiny Ampere GPU for Workstations"
-    excerpt: "It's hard to find video cards for anything approaching a reasonable price these days, but maybe not everyone needs top-of-the-line gaming hardware. In a professional workstation, someone might just need the power of Nvidia's ray tracing and AI technologies,"
-    publishedDateTime: 2021-08-11T17:18:00Z
-    webUrl: "https://www.extremetech.com/computing/325710-nvidia-announces-tiny-ampere-gpu-for-workstations"
+  - title: "Samsung has its own AI-designed chip. Soon, others will too"
+    excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
+    publishedDateTime: 2021-08-15T10:44:00Z
+    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-11T23:28:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/nvidia-boosts-self-driving-ai-business-with-volvo-trucks-deal-2/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 41
+    images:
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/07/m02d20190618t2i1398991730rLYNXNPEF5H0KXw800.jpeg"
+        width: 800
+        height: 557
+        isCached: true
+  - title: "Having Set Gaming Gold Standard, ‘Decade Stock’ Nvidia Has Sights on AI"
+    excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
+    publishedDateTime: 2021-08-12T01:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_nvidia-stock/having-set-gaming-gold-standard-decade-stock-nvidia-has-sights-on-ai/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
     quality: 39
     images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/08/NVIDIA_RTX_A2000.jpg"
-        width: 1344
-        height: 742
+      - url: "https://fintechzoom.com/wp-content/uploads/2021/08/1628733583_0902-Q19-Total-Markets-photos-and-gif_CC8.jpg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "NVIDIA RTX A2000 GPU offers real-time ray tracing in a small form factor"
-    excerpt: "NVIDIA has launched its new RTX A2000 GPU, specifically designed to bring RTX technology to more professionals offering a small form factor"
-    publishedDateTime: 2021-08-11T07:32:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-rtx-a2000-11-08-2021/"
+  - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
+    excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
+    publishedDateTime: 2021-08-12T12:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 38
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-RTX-A2000-GPU.jpg"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "yDVW1HfZPkhEAsoxXcxUqPEKJ5Y7wInw5xsPz20S98C46rkdq6JmMGk4vkBWXOGrCQ8xrFmJFihxvnzJlcBpk3HouBpRTKRMoxizgb2c/W85ADyGsJl5gLHsA1PkPdoNz4p5j42Vsqzr84jvdt9Ch1aeLjK714/sN+afWwomLva9fB5v6UJu8pby3lu3/hB/kBNKP4dmFpw9jId+UiRHQiaQQOcM5NNZYZdbS5BTz2K4gBkqv8YMxxr8Dw4PkmksfewJXUO+ulmZEpBX39kS7yps02i0NX+uck6yo4+terEk9rMW027A99Y/v1BTYvIUxXzQB+5AxMQIb8Z1f0HPin7A1l/Hco8Hraovz0NNkZE=;6bWz4HtyRA1HzZ4OeVH1OA=="

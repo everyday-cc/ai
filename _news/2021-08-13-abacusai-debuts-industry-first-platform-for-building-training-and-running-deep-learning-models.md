@@ -83,7 +83,7 @@ related:
     provider:
       name: i-scoop.eu
       domain: i-scoop.eu
-    quality: 41
+    quality: 43
     images:
       - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"
         width: 741

@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-15T12:39:00Z
 originalUrl: "https://www.i-scoop.eu/internet-of-things-iot/iot-and-ai/"
 webUrl: "https://www.i-scoop.eu/internet-of-things-iot/iot-and-ai/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"

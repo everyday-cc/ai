@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Navigating Driver Privacy and Safety of Electric Vehicles, Self-Driving Vehicles"
+    excerpt: "A growing number of connected electric vehicles, as well as the evolution of self driving and automated vehicles are putting a greater demand on processing power. New technologies are advancing rapidly with the introduction of new processing methods,"
+    publishedDateTime: 2021-08-15T13:00:00Z
+    webUrl: "https://insidebigdata.com/2021/08/15/navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "I6HWQVwSef60Gaw9bI6XiqxuiMTY7EsjGNBh3fJJ+Kkc41tX4jDrAbzGH/LADUTN1C/HwXHcpeSMZSoaweGKwLrFhALYIcIbeWGNOqvLCMJRRCx4tkurlvCfj90GGMxlwE5P92xMZYLiE43Ca8zgaH/BQCUV3HsvQFrTUXa8zR+FKDUcDv+Yudql+s7vovtwkyszpmV6tf46zKQU9ZUIXCStrtj91teO59U1IFr2Sc+rGzehH0sHHHgkw6muX92OOqJQBFWTbmkC/gEi5rSRWJ2htEKOz72YnUKc8ZUL+LFhiAvM/dHMu+mNVZS+u+VibfuV8NVIqxALRZc9fNTc0egLwYSp98Sb4ND4LZcSpiBxUj2l20ASNiHGlwnfmg88PF+vVZGryt5cM5X9jzVMK3o/ihj3JpaKh2hc2VeMnqKrMyKp+NoaIeOA1Fg3H7RGQtH162/bda8+i+E6RI4ISAwNhdBGuWuUiKvXr408xX03oX+u8iV2LnT9g1McwBaZL6LJI3XWYrYrfNBPuS7HNQ==;9WdD0WYQfVe7H9cv5ALrhQ=="
 ---

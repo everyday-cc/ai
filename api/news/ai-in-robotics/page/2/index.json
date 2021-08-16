@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-08-robotics-students-ready-to-learn-mystery-competition.md",
+      "title": "Robotics students ready to learn mystery competition",
+      "excerpt": "Whether it’s playing a futuristic ball game, navigating through a complex obstacle course with computer controled wheels or manipulating a metal hand, FIRST Robotics Competition students in La Porte County have been competing for years in gladiatorial matches with their machines.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "originalUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence.md",
+      "title": "Vatican speaks out in 'killer robots' debate at UN raising weaponization of artificial intelligence",
+      "excerpt": "The Vatican has told a UN meeting in Geneva that the use of \"killer robots\" and other lethal autonomous weapons systems that use artificial intelligence violates international treaties because innocent civilians could be erroneously targeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "originalUrl": "https://www.ecumenicalnews.com/article/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ecumenicalnews.com/full/23732/630-0/robot-weapons.jpg",
+          "width": 630,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "cdnAmpWebUrl": "https://www-ecumenicalnews-com.cdn.ampproject.org/c/www.ecumenicalnews.com/amp/vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence/60901.htm",
+      "publishedDateTime": "2021-08-07T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ecumenical News",
+        "domain": "ecumenicalnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-07-vatican-killer-robots-pose-threat-to-innocent-civilians.md",
+      "title": "Vatican: ‘Killer robots’ pose threat to innocent civilians",
+      "excerpt": "The use of \"killer robots\" and other lethal autonomous weapons systems violate international treaties because innocent civilians could be erroneously targeted, the Vatican said during a U.N. meeting in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
+      "originalUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cruxnow.com/wp-content/uploads/2021/08/20210806T0845-VATICAN-AUTONOMOUS-WEAPONS-1505954-scaled.jpg",
+          "width": 2560,
+          "height": 1777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
+      "cdnAmpWebUrl": "https://cruxnow-com.cdn.ampproject.org/c/s/cruxnow.com/vatican/2021/08/vatican-killer-robots-pose-threat-to-innocent-civilians/amp/",
+      "publishedDateTime": "2021-08-06T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crux",
+        "domain": "cruxnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-a-new-generation-of-ai-powered-robots-is-taking-over-warehouses.md",
       "title": "A new generation of AI-powered robots is taking over warehouses",
       "excerpt": "Within a few years, any task that previously required hands to perform could be partially or fully automated away.",
@@ -360,6 +489,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-04-amazon-is-having-a-one-day-sale-on-yeedi-robot-vacs-get-one-for-just-99.md",
+      "title": "Amazon is having a one-day sale on Yeedi robot vacs —get one for just $99",
+      "excerpt": "Well, Amazon is granting your wish with its epic Deal of the Day on Yeedi robot vacuums, which are up to 55 percent off today. And you have several models to choose from! Yeedi robot vacuums use smart home technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
+      "originalUrl": "https://www.aol.com/lifestyle/amazon-having-one-day-sale-093006199.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/U4Ofc49TIDjKeeA6jRkYhg--~B/aD02NTA7dz0xMTgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_yahoo_life_260/d3bceb59d4d334b54e306637b598cfd4",
+          "width": 1180,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-04T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-04-mexican-artificial-intelligence-startups-with-a-global-profile.md",
       "title": "Mexican Artificial Intelligence startups with a global profile",
       "excerpt": "Kueski, Intellion, Kuona Analytics, Pro Indie Music, BrandMe, Homie, Bayonet, and SoldAI are transforming the way we work with Big Data.",
@@ -693,6 +865,49 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-03-robotics-meet-your-new-offshore-robotic-co-workers-charles-eddie-anymal-spot.md",
+      "title": "ROBOTICS: Meet Your New Offshore Robotic Co-workers; Charles, Eddie, ANYMal & Spot",
+      "excerpt": "Elaine Maslin is an offshore upstream and renewables focused journalist... Within the last 12 months, a series of significant steps have been made in the world of offshore robotics; a number of legged and tracked robots made their first steps onto and around offshore facilities in Malaysia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/489613-robotics-meet-your-new-offshore-robotic-co-workers-charles-eddie-anymal-spot",
+      "originalUrl": "https://www.oedigital.com/news/489613-robotics-meet-your-new-offshore-robotic-co-workers-charles-eddie-anymal-spot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagesedit.marinelink.com/images/storage/w800h533/taurobonk5fromtotalenergies1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/489613-robotics-meet-your-new-offshore-robotic-co-workers-charles-eddie-anymal-spot",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/489613-robotics-meet-your-new-offshore-robotic-co-workers-charles-eddie-anymal-spot",
+      "publishedDateTime": "2021-08-03T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1120,241 +1335,6 @@
       "topics": [
         "AI",
         "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
-      "title": "Cansel Brings TinySurveyor Robot to Canada",
-      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg",
-          "width": 400,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board.md",
-      "title": "AiM Medical Robotics Appoints Dr. Babak Kateb to Medical Advisory Board",
-      "excerpt": "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that it is appointing Dr. Babak Kateb, founding Chairman of the Board of Directors & CEO of SBMT,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board-1030662727",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies.md",
-      "title": "Here Is A Fully Autonomous AI-Powered Beehive That Could Save Bee Colonies",
-      "excerpt": "More than 30 percent of the world's honeybee colonies are vanishing each year. This company created the first fully autonomous beehive that can rescue and protect the bee colony 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610198a171aa6e440d9b3e43%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/07/28/here-is-a-fully-autonomous-ai-powered-beehive-that-could-save-bee-colonies/amp/",
-      "publishedDateTime": "2021-07-28T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-leveraging-simulators-and-robotics-to-enhance-operations-in-the-education-sector.md",
-      "title": "Leveraging Simulators and Robotics to Enhance Operations in the Education Sector",
-      "excerpt": "Technological advancements are enhancing various industries like travel healthcare, education, and communication. The use of simulation and robotic technologies are proving to be excellent factors of existing educational resources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/topics/4g-wirelessevolution/articles/2021/07/28/449577-leveraging-simulators-robotics-enhance-operations-the-education-sector.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-jul/4823494800-robot-2587571_960_720.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-28T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-cassie-the-bipedal-robot-uses-machine-learning-to-complete-a-5km-jog.md",
-      "title": "Cassie the bipedal robot uses machine learning to complete a 5km jog",
-      "excerpt": "Four years is a long time in robotics, especially so for a bipedal robot developed at Oregon State University (OSU) named Cassie. Dreamt up as an agile machine to carry packages from delivery vans to doorsteps,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "originalUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b8df8e2/2147483647/strip/true/crop/2048x1365+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fe3%2Fc5501d6e4aee82bae15cb06f67ed%2Fcassie-5k.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cassie-bipedal-robot-machine-learning-5km-run/?amp=true",
-      "publishedDateTime": "2021-07-27T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
         "AI in Robotics"
       ]
     }
