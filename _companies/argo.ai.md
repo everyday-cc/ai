@@ -2,7 +2,7 @@
 name: "Argo AI"
 overview: "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel."
 type: "profile"
-heat: 108
+heat: 114
 
 website: https://argo.ai
 
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Argo AI"
 
-secured: "I/nZTkmOqlzXtumTz6kGc9yvLXKMYrJiJnyrZrTbm4o6lEc3a7sil2FoTiTw56zUUDhKK8f/YDgbIPVWMhbtikJP9TOkuU8AMyzPnhkbNFJzUmC4uPnajJ9WEz5wB8ea9oWVqjtgls1kmVqrgtqp/Uv9TaHcecXHeDjZtsiSj2qKQXXj4X/UAV5QxmUvB6eW1PVj2gzL6KGtkaVCgN1PRtOJDUseA0rjuosNd8rOsTgUgjXBkZvr6p+l2qfNA2ttku2O1/5IBjiiN8O8Y1BenHyBCOLvg/ws/liDEEgX2pnP0Wrp0ETU5CAWrJJQdnyvNsz06NmtgiuyCbLAPKxo4BQvcYo42wGQKu4Cf8PkdjmVeVmTghRVUM4tN8l5h20dX4/sryuHadIY+CuwFhLt8y78tohgIclv8gAM4kklUXU=;26kJZm7CxyGRyKRxDmSMjg=="
+secured: "YjdvUPmuhYJJmZN/3U/Gr2lVs7sUsRMtC4HyZ45W7mM8iVY7LYwrkAbkoB+lb1vBjTYqp8EDSA+3eyMSepLpldVZg6Z9EFicQVd075rPLFw/VC/YX7enPlohzT6Ihkhzv3Se8YQwRh/mPwvQYHzomJYaPRkHr+yRLyxKtiFx1qHMCrieRFWPh2Zx8AnkEF/pPRs0PMTTsOTX6MX/Np3opGe3wBhFkl7Ohf2lZ1Sf8tKdvuHHV4G7DoBbJu+UMI3BOf9QC3E9pIWzZEAWZs1PndqlASNNY5DFDuiIxJhWEZprN//2czbSS6AUX1v2dy4IKhH2ZvQapN+Kbu8hi3CbWhkq5H43ck4PDE/YyLN3gnWumrK7ExUebPuzm9fc1aR9sQl4JT5wolquAwo9FPyEnHtmzkf5lcQBKGfhrwp990Q=;qVGGP78TxePGqZ5jiMTXsA=="
 ---
 

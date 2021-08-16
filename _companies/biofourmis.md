@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 57
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 788
+  followers: 789
 
 size: 51-200 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "vnDu9usLXAT9S/kbMiRXcN6HdbTpnmrfBPq8PjVIHtOqX3cFi0RYZMET1UQ4KMVFwFMPdgyd4ggKizmIImD5Hxs8RfDz1D3tNbvGahwX+B5M526e7a/+K+SQaIh71iE3Hcpk6dS/UaSrjW+Mf7NY15lZBO6YGmyilKoJPNa1EUzeVq5+N+jPiNlMYsOU1JJqqLQ78QQ6qPi8Rov1Pn70qbUW+7LQEbYli3A2CffB8yVTU2hwT8RYKOjgpbfQPkCeyAcTftjJ0o+RfivCc6izBRw0dA817sDV9qKr8fiW14igQg+jmBUEORI+zaboiPUR1dWMj8Ygr0YluvHe6vTFoX5vSyzYGMsrc1vew2apkpntaJsERSR5MUAswWPnQEwxTR6ZTSb9rypu4B6Ab+mH7A==;MCylr2ZNZ522EesbTWmWzQ=="
+secured: "Vj0GJ5eD4lKn6WIcGIt6j6mDQwuq/vVDi2RSY6pbSHxtSTKkAGeO8ss1PdEpETjdYQQe0d0D3RprD2BAkuos0fWM5/GxH2LAF3TjHJgn2B1k04g7/sRi8q8TDa1h81o/x2A/7Qn0JPo7xGr9Q7DlAii2GMiX6POTg5CfduPcV46w+i5ORZBMj3BH/aXWEW62Q/y7TQVAa0waociYo5NmwFkxqOfAJcUJbGzgckDrrpKNjbq78P3KfL5QIJa41zhO1KCg7GMYYX3TqtTWDKTGM21ekaIwoyZh3K4Tnk2qy2hmgHVARaPA+CE2uQfTlBAJUFcdTbAlAS6JupwDI0EnG1L4HYmGXQ6wJ6OigrH6GOlrwdJnkIyZrBeeFSCbXcCRtUIDMr48R9R3S7yY0LG0YA==;qRonTgPCfCup1YxreXEcOg=="
 ---
 
