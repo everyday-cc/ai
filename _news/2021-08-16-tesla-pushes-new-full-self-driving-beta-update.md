@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Tesla pushes new Full Self-Driving Beta update"
-excerpt: "San Francisco, Aug 16 (IANS) Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to ..."
-publishedDateTime: 2021-08-16T11:58:00Z
-originalUrl: "https://www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
-webUrl: "https://www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
-ampWebUrl: "https://www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
+excerpt: "Electric vehicle company Tesla has started pushing a new software update for its Full Self-Driving Beta programme."
+publishedDateTime: 2021-08-16T07:44:00Z
+originalUrl: "https://www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
+webUrl: "https://www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
+ampWebUrl: "https://www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
+    width: 745
+    height: 568
+    isCached: true
 
 related:
   - title: "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button"
@@ -38,6 +44,6 @@ related:
         height: 628
         isCached: true
 
-secured: "2rAbHit9X+2yIGDPI5ckOYI7XNwXpyjORdFpvfB3f31ryY1Sg1KJEybppjWB1sfbUN1DibDYWeqi+D4yUNUrs9YY4/r7F6reDRA4OpH+Qe9XV6ZxW8ltVjsTqqaRqBNyakTRmZ5+zAvmcWCwa1HamKzzytDGfqQ1cB1bJdDH0sCWpf2vtKEjFZaTrnHoUPSt08+GEAPJ9pB7N+G3YbhQpF/Ix3C4aIXvxjYPWkJqhpG8/T1oYiQJA6ydAWHSr40Xlun2oO9mLmvEot6AWS0BvpjokdAPOSES+eVxds3sWMBZU7CniCDxJBEE1fGAdoVImln84AMtFJnDBmWr5sMdnJ692J9s5vliG6DQtEFau4E=;5cyd/C/yu/3aTyH2GhSPdA=="
+secured: "fwt7juJxqZuNlo459SOxezFhaz3JIQdyRb5Tj+gaQveNknPFjHpYJGW13qneqUqC0u8Yqm1QIXltp2sBpZj3UDOG5tUmaUI6PTUJVeuTbHE1Wccudvz2NSMBBGJcui7dslkECoMsI0UMOzOr5GOS6LFRoiHkO6i3sEk+m4z3hDITIAuwWprK+z1y2LXKbgxy1R6gbxEA8xPwjkxNq/3wH9G3xyeUqa5S/APUN3zIAXv5/p1ZfJoEBJGkTmYW/31mpsUXiyeaYSfz824tt7YyN1C2lD3UFk098e8IbOlupd/L36Fk8xlhZ01CRQl/e6aCxYI3bUAdHtJW/mY6g1fT1FfiK1eOtSud68eEWft3PgA=;SuxX5lB7TQBzeIifRU1fQw=="
 ---
 

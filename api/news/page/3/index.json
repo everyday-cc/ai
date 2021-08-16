@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-12-fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global.md",
-      "title": "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global",
-      "excerpt": "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg",
-          "width": 400,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
       "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
       "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
@@ -577,7 +525,7 @@
       "originalUrl": "https://techwireasia.com/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -621,7 +569,7 @@
       "originalUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1199,6 +1147,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
+      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
+      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
+          "width": 777,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
+      "publishedDateTime": "2021-08-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

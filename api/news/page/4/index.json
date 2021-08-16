@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-08-11-artificial-intelligence-classifies-brain-tumors-with-single-mri-scan.md",
-      "title": "Artificial Intelligence Classifies Brain Tumors With Single MRI Scan",
-      "excerpt": "A team of researchers at Washington University School of Medicine have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "originalUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Deep-Learning-Model-Classifies-Brain-Tumors-Single-MRI-Scan-777x849.jpg",
-          "width": 777,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-classifies-brain-tumors-with-single-mri-scan/amp/",
-      "publishedDateTime": "2021-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-writesonic-leans-on-ai-to-produce-winning-copy-when-you-dont-have-the-time-to-write.md",
       "title": "Writesonic leans on AI to produce winning copy when you don’t have the time to write",
       "excerpt": "Sponsored Deals Instead of sinking all that time and money into your business writing projects, Writesonic was created to handle those tasks intelligently.",
@@ -1263,6 +1220,57 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test.md",
+      "title": "SportsBettingDime and OpenAI put AI to the assistant coach test",
+      "excerpt": "SportsBettingDime collaborates with OpenAI to test the viability of making AI an assistant head coach in the NBA or NFL.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/",
+      "originalUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/AICoach.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/sportsbettingdime-and-openai-put-ai-to-the-assistant-coach-test/amp/",
+      "publishedDateTime": "2021-08-10T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

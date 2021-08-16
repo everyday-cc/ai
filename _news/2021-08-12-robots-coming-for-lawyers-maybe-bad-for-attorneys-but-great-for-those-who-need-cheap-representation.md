@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients"
+    excerpt: "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money."
+    publishedDateTime: 2021-08-16T13:00:00Z
+    webUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers"
     excerpt: "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write."
     publishedDateTime: 2021-08-12T17:09:00Z
@@ -39,15 +53,20 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "Would You Hire a Robot as Your Lawyer?"
-    excerpt: "Robots are coming for the lawyers – which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance."
-    publishedDateTime: 2021-08-12T11:54:00Z
-    webUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
+  - title: "Robot lawyers: Bad for some attorneys, good for consumers?"
+    excerpt: "While this may be bad news for tomorrow’s lawyers, it could be great for their future clients, particularly those who have trouble affording legal assistance. Technology can be unpredictable Our research project — in which we collaborated with computer scientists and linguists at MITRE,"
+    publishedDateTime: 2021-08-12T22:15:00Z
+    webUrl: "https://around.uoregon.edu/content/robot-lawyers-bad-some-attorneys-good-consumers"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
+      name: Around the Oregon
+      domain: uoregon.edu
+    quality: 39
+    images:
+      - url: "https://around.uoregon.edu/sites/around2.uoregon.edu/files/field/image/robot_lawyers_conversartion.jpg"
+        width: 1000
+        height: 562
+        isCached: true
 
 secured: "KgXpfVGSk4MLx6cogHBtufuoMyiuJDyPuW+DWx9aCauwQfCP0PuG47ZSY8Jx0BjFYiOd2YcOQVpaYaqpBSGdvTc3ms67HW3rGqrHVEe3kRZhrA6AbxxOKxJGU+xYlFOQyK1Ieg/SSZVM637EvfGhork0xL/c0LBFWqNMdE2EjfcGCr59iUaOCYm7ZOsAU5wpP+vEnXu1IgvgbLqSPMjpvLJllfmaxiUcjPqjthqWaFTAJvFhf4+2aNfzSnv1AiD53yi9QWj2rucFt7DPBchSW/les1saahaF66vU2jNJb9pFzDNt7lF+pk92SVBuu3TvX4CDQgSE/sDTrBpcHFo5ip1wMXb+c1PER1VCC+jhuOv7Tw/w8j70BnWGuvuMdqU0wCcJCfvjjkX5iVfKomXyYpN9mLpjrqtluzJOj+FX4M5lzU8uXGD6Zi58ngqpll5VdN6WudI0sVZIrcjYce3voiRQB3Gfnxg0/ZvHzZMJo5enwiU2CQAoPRTzyB2Tw0rUQSmDOHHD/sSkU/XQvjq26Q==;H0pcarjjO7Gw9lftWvh8SQ=="
 ---

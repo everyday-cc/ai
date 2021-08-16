@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Detecting COVID-19 with Artificial Intelligence, Imaging Technology"
+    excerpt: "Researchers are using artificial intelligence technology to take x-rays of patients lungs to determine if they are infected with COVID-19."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/detecting-covid-19-with-artificial-intelligence-imaging-technology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "tF8z+RaNbz1yYFVEnP4iSK7S6WIzL3rd867r1MBv9XnDNdjtR7FA9bLayVKwGltVoabImS7lgFq1tIvReNxOrSCmxlI8Gsnaz/bR1dQUxRlH5KsPEhDKy44EwHGNu8mTEPwmfEZ+bpE4737qQc/WnnGNkpmyWFKShQhnnW5pUQtUNhQJRlYH9r/QqKrSTBBFeEgKlQKkVSdDbywbU28jN45H6jiVBy203xbhBz2mJ3tZHJRLQdZWI/cQbrfAfkKywBQ65F3OxEzGiD7x/229o7zYt4AeNn+wQ5beR+9HtCqMGUjgmxsZWh1XqviBG/V10prGobTch+o8JB36iZGEWoT/lqPhUOMhZ8u3qJqgU7c=;Ex/3eObhbUQDRMbCg5Wiug=="
 ---

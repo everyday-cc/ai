@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Financial Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "We, the Robots? The challenge of regulating artificial intelligence"
-    excerpt: "Artificial intelligence (AI) and concerns about its potential impact on humanity have been with us for more than half a century.. Read more at straitstimes.com."
-    publishedDateTime: 2021-08-11T21:00:00Z
-    webUrl: "https://www.straitstimes.com/opinion/we-the-robots-the-challenge-of-regulating-artificial-intelligence-0"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/12/ST_20210812_BOOK12_6766266.jpg?itok=FEYJ3IyE"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
     excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
     publishedDateTime: 2021-08-15T11:27:00Z

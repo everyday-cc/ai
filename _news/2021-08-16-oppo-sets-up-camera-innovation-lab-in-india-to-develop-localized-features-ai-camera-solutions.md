@@ -74,6 +74,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Parliamentarians with innovators for India launches India's first AI powered vaccine awareness campaign Immunise"
+    excerpt: "PI India is engaging with Bobble AI to connect with millennial and Gen Zies and ensure greater uptake of vaccinations, assisting the government's aim of 10 million vaccinations a day which is still 40."
+    publishedDateTime: 2021-08-16T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-parliamentarians-with-innovators-india-launches-indias-first-ai-/2021/08/16/9431007.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Jy9StfqP8NAlwa6xyr7GzHPwSyclG6MhF4Xn+rq9kheYVatR8MwyOVpAs4JDpGMxUG9oT3KJ49ReL3z5k+klYXRxCWEDXGjqfFpte9LAH1k4FUF4C+5i5TLgaBrK+fsW4Bq5dWcv1jFxRRgEZOfzI5qLOc68yd7lk5Db4aF1NnlcxitgTWe3DzsKj0WtooPsb9lpIh9kWaXwmoig8fxltwsIhVDBRc8BcdOdYl89IWOZDbMAGM5utAtoak2fDimAclb1RukvVDwvDWB+Dzap+PuJH+YYFnsXQQQiKh+OLhm2TFrkUmdavb5I+hAvnbCGTJaaXGOK4nGeUUcDPqErnrhjPdwxDm+1JlUFiZfGyqY=;fSsDBkVXoJR7GwME4vBrkQ=="
 ---

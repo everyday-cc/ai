@@ -43,6 +43,20 @@ related:
         width: 670
         height: 377
         isCached: true
+  - title: "Facial recognition AI helps fast-track research in crop-ruining grape mildew"
+    excerpt: "Researchers have used AI and a robotic camera to cut the time spent examining grape strains in the lab from six months down to a single day."
+    publishedDateTime: 2021-08-16T12:59:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/grape-crops-resistant-to-mildew-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 51
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/mildew-grapes-scaled-1.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Facial recognition software can help save multibillion dollar grape crop"
     excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
     publishedDateTime: 2021-08-13T12:06:00Z

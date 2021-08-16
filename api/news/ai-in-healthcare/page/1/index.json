@@ -257,6 +257,93 @@
       ]
     },
     {
+      "path": "_news/2021-08-10-amplio-unveils-digital-intervention-platform-to-help-students-with-special-needs.md",
+      "title": "Amplio Unveils Digital Intervention Platform to Help Students with Special Needs",
+      "excerpt": "Amplio Learning Technologies (“Amplio”), a developer of digital solutions for students with special needs, today announced the launch of its advanced, outcomes-driven digital platform to help these students accelerate progress.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-58303e16bacd440edf5fdfd9ae95ddef",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-58303e16bacd440edf5fdfd9ae95ddef",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-artificial-intelligence-unlocks-extreme-weather-mysteries.md",
       "title": "Artificial intelligence unlocks extreme weather mysteries",
       "excerpt": "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood.",
@@ -488,8 +575,8 @@
       "title": "How FDA Regulates Artificial Intelligence in Medical Products",
       "excerpt": "Health care organizations are using artificial intelligence (AI)—which the U.S. Food and Drug Administration defines as “the science and engineering of making intelligent machines”—for a growing range of clinical,",
       "sourceUrl": null,
-      "webUrl": "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
-      "originalUrl": "https://www.pewtrusts.org/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
+      "webUrl": "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
+      "originalUrl": "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2021/08/how-fda-regulates-artificial-intelligence-in-medical-products",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -508,7 +595,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-05T12:50:00-07:00",
+      "publishedDateTime": "2021-08-05T12:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Pew Charitable Trusts",
@@ -1302,83 +1389,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-deargen-signs-agreement-with-sookmyung-womens-university-research-business-development-foundation-for-licensing-nash-biomarker-technologies.md",
-      "title": "Deargen Signs Agreement With Sookmyung Women's University Research & Business Development Foundation for Licensing 'NASH Biomarker' Technologies",
-      "excerpt": "Deargen, an AI-powered drug discovery and development company, signed an agreement with Sookmyung Women's University Research & Business Development Foundation for licensing bioma",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-deargen-signs-agreement-with-sookmyung-womens-university-research-/2021/07/27/9417362.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-poplar-healthcare-has-been-acquired-by-boston-based-artificial-intelligence-company.md",
-      "title": "Poplar Healthcare has been acquired by Boston-based artificial intelligence company",
-      "excerpt": "Poplar Healthcare provides lab testing services to gastroenterologists, dermatologists, oncologists, urologists and gynecologists across the US.",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialappeal.com/story/money/business/2021/07/26/aipath-acquires-memphis-lab-poplar-healthcare/8093766002/",
-      "originalUrl": "https://www.commercialappeal.com/story/money/business/2021/07/26/aipath-acquires-memphis-lab-poplar-healthcare/8093766002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/07/23/PMCA/aeb48d2d-8974-4a68-b274-cb8ffb7df18c-PR11_CovidTestingPoplarHealthcare_072320_MSG.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.commercialappeal.com/amp/8093766002",
-      "cdnAmpWebUrl": "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/8093766002",
-      "publishedDateTime": "2021-07-26T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Appeal",
-        "domain": "commercialappeal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -32,16 +32,21 @@ images:
 
 related:
   - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "San Francisco, Aug 16 (IANS) Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to ..."
-    publishedDateTime: 2021-08-16T11:58:00Z
-    webUrl: "https://www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
-    ampWebUrl: "https://www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/tesla-pushes-new-full-self-driving-beta-update-news-education-viqh58ggejedi.html"
+    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its Full Self-Driving Beta programme."
+    publishedDateTime: 2021-08-16T07:44:00Z
+    webUrl: "https://www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
+    ampWebUrl: "https://www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/tesla-pushes-new-full-self-driving-beta-update-news-topnews-viqhISggcgheg.html"
     type: article
     provider:
       name: Sify.com
       domain: sify.com
-    quality: 39
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/tesla_ians_ukvnBpfhdebii.jpeg"
+        width: 745
+        height: 568
+        isCached: true
 
 secured: "4MvUYPwIf9kowb32bxdX/pk4wxHU8imEMbAoA2rvpSpVPcj5XtSAt8mBqCBBBX97jxLh7N+VMXJmQpDT6yXaFRRQt5STIal9aPes1hOlIzeWaXyhT+yTE2twJSBDW61e8X8FJnh2aYuRzJwCI2FnPETfz9vx/ELKVFtQB1F1pYUYr92B7GiqIZz+sphczNUHlaT/UGN4CHvWUH/XcmJa++AIPL090/78I9Yx3aba9isvYdDGPhqis4Bh8PFfXH82jgTH2CN0IePWmYQxkicLsdD/zBNrKGHZz21wMg/dPdyRHNdjEzEV4kqhnuwjCGiUbXGLd8WJIhczBQHo579NMlIGXoQoAGHVJGqeuNAvHdiAGkFqsBezUyPSdu2+Bd72sscg8NFuI5JtBOOJdVnuVwxeRPJouKCddW9GFyI2YvUtEZT2OUS+0+ix56mQEvdbGOVsTVlDp4LHJYqQlkC+cIi/Pdre+4rWR1vB44gfxvVmoPNTAxZUc/68sTnLhS48NrxFUfYcT0i8qcieWwnpYQ==;nq4gW/PKBckDN3x7iPdbJw=="
 ---

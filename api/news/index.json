@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-robots-are-coming-for-the-lawyers-which-could-be-bad-for-attorneys-but-great-for-their-clients.md",
+      "title": "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients",
+      "excerpt": "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
+      "originalUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
       "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
       "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -31,48 +83,6 @@
       "provider": {
         "name": "CNN-News18",
         "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-rules-for-bringing-ai-into-the-classroom.md",
-      "title": "Rules for bringing AI into the classroom",
-      "excerpt": "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613",
-      "originalUrl": "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613",
-      "publishedDateTime": "2021-08-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -728,43 +738,25 @@
     {
       "path": "_news/2021-08-14-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots.",
+      "excerpt": "These three emerging companies are using artificial intelligence to disrupt these old industries and are trading off their 52-week highs; their stocks offer potential upside that makes these AI stocks worth considering in August.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 77,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp",
       "publishedDateTime": "2021-08-14T03:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

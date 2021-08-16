@@ -40,6 +40,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "IIM A launches dedicated centre for Data Science and Artificial Intelligence"
+    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players. One of the major highlights of the centre is an exhaustive ann"
+    publishedDateTime: 2021-08-16T11:49:00Z
+    webUrl: "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence-11629113784537.html"
+    ampWebUrl: "https://www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/iim-a-launches-dedicated-centre-for-data-science-and-artificial-intelligence/amp-11629113784537.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 54
+    images:
+      - url: "https://images.livemint.com/img/2021/08/16/600x338/iim_1629114559768.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "IIM Ahmedabad Gets New Centre For Data Science, Artificial Intelligence"
     excerpt: "The centre will undertake research in Data Science and Artificial Intelligence to support businesses, governance, and policymaking, IIM Ahmedabad said."
     publishedDateTime: 2021-08-16T11:20:00Z

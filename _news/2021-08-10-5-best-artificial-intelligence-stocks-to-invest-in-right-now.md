@@ -1,8 +1,8 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-publishedDateTime: 2021-08-10T14:20:00Z
+excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+publishedDateTime: 2021-08-10T13:58:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
@@ -12,8 +12,9 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "b2OIDEORPZVZFx350h2tDASxLLg0e0NuB8PvdNdYSviHbFn2qmIdC6jNP/fgPmwwCFNQe2UC7Lu/3xLRwvpdz8fR9liRqwKG847LVRhM/VXTl+1dexuo3fuUErjv+xvIoVS0A/0+mD1xeQ2ygQBTSKpno9wLd3/DDU8nMHWeOvM35awywED+F91rY5DdECJzKs3gMxc/NF7of2S8ji98YRszR20iEvI4gFSoupHz+NZ0OkIbqe4qih2CjsHLho+upfdti+EkG1v/yVqFfzDT7IW1S6GJ59skYWL3kDdhCz9yxwm8jQkFh/9f758M0YCuBVVLU0UKkhb8YCBltQfQZCscDbaers5VEYobiOf+KRU=;8ij6G9KYNqHIp2u58wfVzg=="
+secured: "4Y/HfKqrcXSxqGyMWJrh44fsfHsdJx/UpAVskrJ0koQ6EbLS+691ExSpFEmyUUedk+Z442UV2eH4rOVnCLFP5hkn1LWVxLGt/fL2CsW8UB397esZkl7MDoqoQrfsalb1y6axv5WGe7lp9kdKaEEWEhk4j5mtXXz1z5kAXscXgEEZlIeZoe//bpjILlP/O/Be3Yah/MfS2HjtKvOzAt67Ha5xPJKIoMSjKMk9wNtKPO4SpFu21SZUZgWva9jYumlNB427N8djG8bHfuBIWvwuPVQFsxdxdtTZEAYNRhqYCnn48Odk32TxTw6qen1o6nS2vhK80t+HGVjAFnxYsg2xfeSiMSllFz2t/rLPL1HvuTU=;8r7uiGvlK+5m/4l9RaQ1Kg=="
 ---
 

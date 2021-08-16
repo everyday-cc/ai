@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-gith
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Bias found in new OpenAI computer vision model"
-    excerpt: "An audit conducted with OpenAI’s former policy director Jack Clark has found gender and age bias in the firm’s latest computer vision model CLIP."
-    publishedDateTime: 2021-08-11T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202108/bias-found-in-new-openai-computer-vision-model"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "6WDHD+3gQad5FMIdggDsUsGtcdGibhVcQ6fiC/vYamwcXYQIQBp12KJYUk7Ax2phiIAomhUWObXsRwA6RyCAxNHmC70tcH2Jg1RvlbsiwrKdor4/+pHlIniJW92rJ2PJuVx6/nPeux81T3PVDA0TL+8WyXNytdm9uWy2AgZ/L5OY7dYAJK2aqfehifgT89I40rvSnebQaR4aLBZxX9zaFFRS6ZviReO2E65hbUMhqGh7Qb4FpxJhU4fxVQ6CPNstSQd3yMvrZY5SbgTfc9khlkPVnwpwLEXkp8FvJEpU6Wao7gnyR0dRhSpdLK9AzuJDWLxc+Ox2e/YT+uu3FjcBRxx33YjExe0ZnQwPhjKSdOk=;95UFIwaZVZ77DiUcunX9ug=="
 ---

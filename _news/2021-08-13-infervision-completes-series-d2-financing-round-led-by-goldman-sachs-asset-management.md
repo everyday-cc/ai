@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19951434.html"
 webUrl: "https://www.lelezard.com/en/news-19951434.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
+    excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
+    publishedDateTime: 2021-08-16T13:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19953321.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "9lGcfsAJ0cylNQe1nCq4pUdu+ZHRXmccDMnkbJn5CoVoMDflie9oZdFSlMeGBBBiWS2tDFLh0SCSwlTRQTEhFo6uNvXc8Zbbqers3GM7YgWvAZr1WD/3hsS6/FMb7AUvhz42Y+zHf3hkjIjtB/zBD/VG5R0Aa4IlLU/02GMUU8WUwY0WLaCtNkriwV9fsJOEIK1pzvFR4YJ3ga1lZFnPB3H2SuJKbSi1N9oikIlLh0Fbj99c+rEVR4rSjE+WM+AgZ8EvGQLA8VvNmSmJNKVavwv7/pAQw+0L7X8XvxzZ8DaDVLGaNKEjlV9C/WYA3FL/0n45Y5Nl8rW3a0XltuLNOO3pT0ZSeV6qg1+UH2ATcGs=;tgQjkP5EWdasEnwX9e7l+w=="
 ---

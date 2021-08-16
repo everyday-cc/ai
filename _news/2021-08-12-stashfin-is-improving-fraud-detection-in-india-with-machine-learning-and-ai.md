@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Parliamentarians with innovators for India launches India's first AI powered vaccine awareness campaign Immunise"
+    excerpt: "PI India is engaging with Bobble AI to connect with millennial and Gen Zies and ensure greater uptake of vaccinations, assisting the government's aim of 10 million vaccinations a day which is still 40."
+    publishedDateTime: 2021-08-16T12:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-parliamentarians-with-innovators-india-launches-indias-first-ai-/2021/08/16/9431007.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "PDRbBBebO73+Xmki2dPZWhHOQ3dI0NnSEejYzWKua555h63zlxpCQ/XpXmpipXPnpkzp+a8rCjxv4RFaauRtyVEooBA2yFeyrKDkPro8HZHyVxS/tOnFvmOJjXAYqakiFoPpXr1q50wBZKycAOJYJusZirzGsRaH/89J6GkgKrN4SsEOsSn485HiSwWVU0v4cjt7oXpGdclKvRN4yYnth31vi7dEWVtqoJ+RODqXZNgKsaK3/Nc+ql6ICcGlav3kEZudWVlbvVlaQH4NQmP+tsUVCk/V6hRvtHm3TC+zYLyt1umhhjpCPaGuZn04C/RJ/dx9oMolk+1i75jqYmH7W8ZLvKH6WvKxf4eCGD70dyoovkFB3gbAsl8ZHNqHGpddnw8G5+Stt16JOH89PbfMMi2f9Ci/+mPNRETyGT8bm9HL0YVNpQxle2gSRYIh7U4wqRtqmZWS0zVIQe3vs7EynRXl82EH0YiaaAuXqqzsCyz5Kzk6ZOWusGctETY3+DvxxObWP+/2B55YA5t4GHlGhA==;JPv9RMLMQnWpYKbXcnnEqA=="
 ---

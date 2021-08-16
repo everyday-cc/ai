@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-t
 webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Detecting COVID-19 with Artificial Intelligence, Imaging Technology"
+    excerpt: "Researchers are using artificial intelligence technology to take x-rays of patients lungs to determine if they are infected with COVID-19."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/detecting-covid-19-with-artificial-intelligence-imaging-technology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "CompTIA Names Top 10 Applications for Artificial Intelligence and Internet of Things in 2021 Emerging Technology List"
     excerpt: "CompTIA, the nonprofit association for the global technology industry and workforce, announced today the publication of its 2021 Emerging Technology Top 10 List, which focusses on the top business applications related to Artificial Intelligence (AI) and Internet of Things (IoT) technologies."
     publishedDateTime: 2021-08-12T14:04:00Z

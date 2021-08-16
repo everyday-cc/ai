@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-robots-are-coming-for-the-lawyers-which-could-be-bad-for-attorneys-but-great-for-their-clients.md",
+      "title": "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients",
+      "excerpt": "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
+      "originalUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-union-bank-awarri-unveil-next-robotics-legend-programme.md",
       "title": "Union Bank, Awarri unveil Next Robotics Legend programme",
       "excerpt": "Union Bank has announced the call for entries into the 2021 Next Robotics Legend programme, as part of initiatives under its Edu360 umbrella. Introduced in 2020, the programme was designed to identify and train young inventors in Artificial Intelligence (AI) and Robotics,",
@@ -147,49 +199,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers.md",
-      "title": "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers",
-      "excerpt": "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/",
-      "originalUrl": "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/404/2021/08/Tippett-Alexander-767x633.jpg",
-          "width": 768,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -425,7 +434,7 @@
       "originalUrl": "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {

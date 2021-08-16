@@ -83,7 +83,21 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
+    excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
+    publishedDateTime: 2021-08-16T12:47:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/sharon-french-joins-fintech-tifin-as-senior-partner-as-over-50-etfs-and-mutual-funds/article_ec0c1c34-2ab0-576a-9002-7e92ec5a33ec.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/d/90/d90f015c-15a8-5633-8f95-1e14c8de3991/611a62080c207.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
 
-secured: "+Vd5vtir0oOA+uWNcqE9F96k/oVe/jCfk963rFZCJo7SHbbh8Qj2W8ZXjjcXdbzBVotXCBwjmoQ+67Dn+Z72lxqwyFZQ8rJzZ9Ze72GlAHF19EySLaRyvegeB/KR0ButqiAbxvLbIIaXiVMSmESA3EB/8vhtIGvSu+W8+ImAPDTSFbUW+aQOY6X9nI/v308gYD04pB1Zew+uQ1Mwth9oU9+RiZq8p00h02KMUboIgrx84M2NMNahOAMkk3jckqbwe51nU8ENhhhnGLmtTypMZ1sdV2P/uwj3XJFlplKVT2aCQ6nNFrjuZiZ9VZHsPHHzg7pTQrcXmSKmbgnRBvRR7Z4m62asgzExmgC8llopjBQ=;mjRafR93KXlzzqEFQ5gKIA=="
+secured: "oNtueS+uBgE5AEwcIt0xCB06An0lsbklHXtVB3k+FS//UdujYtNCdEHFxTxoFhXxv3olDGZHcbGqmCRU0bhPiaKZYUd5WaKP4UsxVunMcdf699MmYuk8pa0HiqJzXkJqSfp2xTQKO5BSQVwB5IiTAJYb6eLzStzOxs/D1ebinfT+BLNs/hPqpPLDq5+Fv/IsFrb0iByZRByB9N5YtaA65FLQ8jEEOfSZCQzbGTYV3G/k9Zxw0I+yXneuZNUBBenk8Y0vTwIsqJ1/HqWlFWchLRVKXTmcZljD3yaUCexgUzq9fAhsjcPCXB4cXHunHt/8gygdsFhaybsPypmspitC1i4VmbEu8QTBkfieEjbKM6POlGwlHA1NUARTgXjjlXS9uTkYum4N8KUKysLuZerYpNvxGARyOTywctrOX74RPJvBUSd+OXbc/ncgr0a5JmkOSFjIOpDM6KkrZ034UPMUJr1cTwRuQthDnCTptuHxrL/oDpH9q8P2ne4cnFnYb3U9wgfE7CW+2sfSVGGKxozTwg==;3smiqrVRL5YR68Ahsi11pg=="
 ---
 

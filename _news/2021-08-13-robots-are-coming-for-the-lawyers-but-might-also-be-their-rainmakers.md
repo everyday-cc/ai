@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming
 webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Law
@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients"
+    excerpt: "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money."
+    publishedDateTime: 2021-08-16T13:00:00Z
+    webUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
+    images:
+      - url: "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Robot lawyers: Bad for some attorneys, good for consumers?"
+    excerpt: "While this may be bad news for tomorrow’s lawyers, it could be great for their future clients, particularly those who have trouble affording legal assistance. Technology can be unpredictable Our research project — in which we collaborated with computer scientists and linguists at MITRE,"
+    publishedDateTime: 2021-08-12T22:15:00Z
+    webUrl: "https://around.uoregon.edu/content/robot-lawyers-bad-some-attorneys-good-consumers"
+    type: article
+    provider:
+      name: Around the Oregon
+      domain: uoregon.edu
+    quality: 39
+    images:
+      - url: "https://around.uoregon.edu/sites/around2.uoregon.edu/files/field/image/robot_lawyers_conversartion.jpg"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
     excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
     publishedDateTime: 2021-08-12T11:45:00Z
@@ -39,15 +67,6 @@ related:
         width: 1290
         height: 726
         isCached: true
-  - title: "Would You Hire a Robot as Your Lawyer?"
-    excerpt: "Robots are coming for the lawyers – which may be bad for tomorrow’s attorneys but great for anyone in need of cheap legal assistance."
-    publishedDateTime: 2021-08-12T11:54:00Z
-    webUrl: "https://www.thedailybeast.com/would-you-hire-a-robot-as-your-lawyer"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 19
 
 secured: "NZentoKzLAlKFxbZnRzvoZDP/OCaTJiqa487G8IdJV2dqpFGGGRWM6yIcDMUNZAAfZNE6ja6bGFkuDLBvhvH1J/LngIQ7UtwBbj8ko8QzBQBJ41fT2ZozPEsJm3hTE581utGJC0D89knBPqJXwdAbFOy9cp/Wmz9qWZiTpSFGrE2sPHa+vMclriBP+cyVAV0i1MHnLhOBNeZZFtSXXL4ZsFUbzqk8T63biVCGS9P1H6iUkVYtSBM0/Tr1N3yFRZJbUjjwhTbp2So6bc9GCOdBpSUdBiAMUiU+gtwDFfAoVXLVroWBDNoFHwPwpRlGZxFTn35I4/4bbuPnwgOaXWQ6/cXEeuky3ohu4pNRmFYiQuXGCjVEBToxUd+EEAP8NbeokT9aIaczjZ0WERmXkUniXTlrG8MVOjdiBl3OAgbMB30/CdqFiasU+Y6OwIrQKg7Fay2tKQjakcWQXQPYfNCTovLxBWsj97HiOnFFibNOBwv1zi5NSjwaZyOJBztGjVhURUQjjgW4LTOS9gu9g9EFA==;rfE0lpK505xFbiRNFkiOdg=="
 ---
