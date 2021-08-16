@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI21 Labs trains a massive language model to rival OpenAI’s GPT-3"
-    excerpt: "AI21 Labs, a Tel Aviv, Israel-based startup, has trained a massive English-language model it claims is superior to GPT-3 in some ways."
-    publishedDateTime: 2021-08-11T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/"
-    ampWebUrl: "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/amp/"
+  - title: "OpenAI offers API for GitHub Copilot AI model"
+    excerpt: "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language."
+    publishedDateTime: 2021-08-12T19:20:00Z
+    webUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html"
+    ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg"
         width: 1200
-        height: 600
+        height: 800
+        isCached: true
+  - title: "GitHub Copilot AI Improved, Offered as API: 'A Taste of the Future'"
+    excerpt: "It will become possible to do more and more sophisticated things with your software just by telling it what to do.'"
+    publishedDateTime: 2021-08-11T18:38:00Z
+    webUrl: "https://visualstudiomagazine.com/Articles/2021/08/11/openai-api.aspx?p=1"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 37
+    images:
+      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorfulImageSmall.jpg"
+        width: 647
+        height: 450
         isCached: true
   - title: "OpenAI's Codex Turns Written Language Into Computer Code"
     excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."

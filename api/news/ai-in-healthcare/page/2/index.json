@@ -142,6 +142,50 @@
       ]
     },
     {
+      "path": "_news/2021-07-26-natural-language-processing-market-study-latest-business-outlook-and-revenue-generation-strategy-2021-2027.md",
+      "title": "Natural Language Processing Market Study Latest Business Outlook and Revenue Generation Strategy 2021-2027",
+      "excerpt": "Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned ... meds and therapy results from patient notes, clinical preliminary ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "originalUrl": "https://www.openpr.com/news/2337032/natural-language-processing-market-study-latest-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/7/U726466754_g.jpg",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2337032/natural-language-processing-market-study-latest-business",
+      "publishedDateTime": "2021-07-26T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
       "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
       "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
@@ -1326,49 +1370,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-artificial-intelligence-could-be-new-blueprint-for-precision-drug-discovery.md",
-      "title": "Artificial intelligence could be new blueprint for precision drug discovery",
-      "excerpt": "Researchers have described a new approach that uses machine learning to hunt for disease targets and then predicts whether a drug is likely to receive FDA approval.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/07/210712130142.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/07/210712130142.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-12T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

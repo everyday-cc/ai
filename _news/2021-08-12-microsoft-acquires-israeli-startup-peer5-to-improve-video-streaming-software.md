@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "SWARM Now Available in the Microsoft Azure Marketplace"
-    excerpt: "SWARM Engineering, a leader in food supply chain optimization, today announced its availability in the Microsoft Azure Marketplace, an"
-    publishedDateTime: 2021-08-11T12:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/swarm-now-available-in-the-microsoft-azure-marketplace-301352247.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 49
 
 secured: "TKfu9uEP2xd+BELrPs/X4JesonM5Y/Efh09mM184TnKJ54ZDQUrd+q7Mf3ykih5o35tKdR0gHTVZgvsWRZqVlsUKhzVMoqD83iELthI/Ts0gXsUOuQZrGwMPHgoxLK1oRxMOepOstCw30MsZAvs5cHy6t4z0ZFVKVNl032QRGeP5H7QLPcuov8+eFieEflUTXnGbcjRJ01NK+ByChxCm3t40bfLmdws8LjU5QNsAY0C0HVAAKyOBwItJsSTX+LJjrjFf6g1wIM09C6oYe2YKsLZzS/BMuaTDqfcAmagq8WgM964aOsNHo9J4IGTlAfNWhrtubSjrqGmJGQP2IuiczMAGrOsEzOdpfyOebzOPnyY=;jHtlKKkBU6FI9QHTGgY3pQ=="
 ---

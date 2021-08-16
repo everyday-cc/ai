@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelli
 cdnAmpWebUrl: "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 122
+published: true
 
 provider:
   name: GlobeSt.com
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "JLL Moves to Acquire Artificial Intelligence Startup Skyline AI"
-    excerpt: "The real-estate and investment management services firm known as JLL said it plans to use New York-based Skyline AI’s technology to help clients predict future property values, identify new investment opportunities and decide when to raise rent,"
-    publishedDateTime: 2021-08-11T11:45:00Z
-    webUrl: "https://www.wsj.com/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    ampWebUrl: "https://www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/jll-moves-to-acquire-artificial-intelligence-startup-skyline-ai-11628685900"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 102
-    images:
-      - url: "https://images.wsj.net/im-383438/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "JLL announces acquisition of proptech company Skyline AI"
     excerpt: "JLL (NYSE: JLL) today announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that is transforming commercial real estate (CRE) using proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
     publishedDateTime: 2021-08-11T13:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analys
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,62 @@ topics:
   - AI in Robotics
   - AI
   - Microsoft AI
+
+related:
+  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
+    publishedDateTime: 2021-08-16T04:17:00Z
+    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 86
+    images:
+      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
+        width: 800
+        height: 407
+        isCached: true
+  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+    publishedDateTime: 2021-08-13T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
+  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
+    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
+    publishedDateTime: 2021-08-13T13:42:00Z
+    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
+  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
+    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
+    publishedDateTime: 2021-08-16T04:03:00Z
+    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+    images:
+      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
+        width: 800
+        height: 407
+        isCached: true
 
 secured: "Nyo4ySMap7WxWHEJltfhoQM2FIJkLfwjAfV75jHVX5UWBcNazoecSDgsF6AXxS2FiF9a51AmnyNf1HeOH30T08USIxn8crg2voAyz+ubOsGdqBrWt0MBhp1SgrsybiXitKTdlwYsrEG9bfPmZ5YHrEOubBv2Bzdhb0RkI/4Q6juDkFrKDz17vdxY/lN0aj508v36+3JyBpByxmrxsEyPAFYRKjY+Q+Xnnd1KmaUucrRZpEeA1c/cyf2mH1Q+ADqg1weefvp9vMZWN1SdiozAY8fVzZmY4urrNA4EhsIrYcpUmFV0j2UuNUj3/S9nVHhCEPBC8MtGl1bN1Cp6rp5bh1NvncO3cAo3wrOOMGHbjeo=;lDqsCeS52R6V7W18slDryQ=="
 ---

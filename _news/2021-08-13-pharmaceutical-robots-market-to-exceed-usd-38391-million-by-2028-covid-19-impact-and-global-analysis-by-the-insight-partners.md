@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners"
-excerpt: "As per the latest The Insight Partners research report, \"Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383."
-publishedDateTime: 2021-08-13T11:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm"
+excerpt: "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Download PDF Brochure:  Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables,"
+publishedDateTime: 2021-08-13T11:43:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954"
+webUrl: "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954"
 type: article
-quality: 0
-heat: 0
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "3qKxvk6IXvPDzMm5XGNSMdIBfCzRzZb+cZeNx/MdVyhuNP2BqNB/0PuaumYj5O2hQAHRHM46NgHtkNwxwO4eNkC0JBdgG1tekuX3pRrPJh5cnRCh3ntFmx/9KSh9ewjM8LwHn/N1du+rViJY69QuCGQzjeE6wtlGyzpiS6l1Ccd8Z95Kcs7gfw7lpaoX4UEmUactowzlH1gMy9fjTzxjHyOWrxnFZ8ag1uofgyAfMH2U73VcNHGU5PYCuU/Q1hM3nHwtacZc+1xLPQZz7+DwfLKgYmSwzFW5Tf0HnWTtT8ZfmFUDDGLOyKDH4WHvKlt/n8LMrSlP4l7NllYmLFVTCYEecWvJLTw5/eJounIzzv2beQwp0+kmhA1oyP4KnWDH7P6nKEYzpMTtZms9CPaNcaKa/8amY2EQFFTJ5aGlV1jiqxPHT+u3F/1clLrI1s3Jcj0OEDShQZAyx/VpTQaO8y5EuaLAJdsL/7zVQYRasb64gMZwoYyZwbjJYCKXKkfUV/p8ih5DUK3xkj3hUCBkDw==;O9cf+zP8qHX+hn2+uqIF0g=="
+secured: "3oQXQTtG6obzkDwH1JmUlnvkcfD8iBuEl9cq86jcOiI7j3p2uA2VMh9Pm9ODHRRoXJSE29RcWl89LGtcAPkriSZ+Haj95gF+33OZR0CHcKAH/4tC9tgJIVqmjPnqtDlPqiT6j6VQJA+7tcS5m5AQOfmfvwrKN2VNocuEmAPmtzhNt+5ZeKYVe1BJl0yymF8AXzuS63OcIqbxqyUdGWaUEjcl+H4gOEtmsA2pFcFLixUc7zKziIonXRt2+a0V/fwDvOeHfGeV4wTuGjlgaeWJBdj0imBKRDpmietxeNANz/zY/WRSFGqKuWi61Bl4klrF2e+JhEwAVlqOrr2NkYKxijwN8u7+WAyNN2n7DkEHEIW8YKK+MrJsK3Nm7zZKwXu4cCrvMl/glzYB4xFtDO8hBKevzykTFnwjhZlXd6jpHrz+EQV7Bv+uD9U20PoG6onS7julM1pq3Y/iLyCTcz9KVxy7HrArsBmRbisCogEqtGagcN+9HTHxuu0ZmAEg/iTWeKnt6NfNOXiQEtEFh2dZ/g==;B3PWUFHTmJalnvbPG7hPtQ=="
 ---
 

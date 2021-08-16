@@ -40,9 +40,9 @@ related:
         height: 961
         isCached: true
   - title: "Samsung has its own AI-designed chip. Soon, others will too"
-    excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
+    excerpt: "The South Korean giant is one of the first chipmakers to use AI to create its chips. Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many ..."
     publishedDateTime: 2021-08-15T10:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
+    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
     type: article
     provider:
       name: Ars Technica

@@ -2,6 +2,214 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-07-06-the-new-world-of-work-you-plus-ai.md",
+      "title": "The new world of work: You plus AI",
+      "excerpt": "Where does your enterprise stand on the AI adoption curve? Take our AI survey to find out. Emerging technologies meet both advocates and resistance as users weigh the potential benefits with the potential risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/09/artificial-intelligence-e1625315596322.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/the-new-world-of-work-you-plus-ai/amp/",
+      "publishedDateTime": "2021-07-05T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-06-pioneers-of-deep-learning-ai-think-its-future-is-gonna-be-lit.md",
+      "title": "Pioneers of deep learning AI think its future is gonna be lit",
+      "excerpt": "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun, explain the current challenges of deep learning and what the future might hold",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "originalUrl": "https://thenextweb.com/news/pioneers-deep-learning-future-lit-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2F1Yoshua-Bengio-Geoffrey-Hinton-Yann-LeCun-deep-learning.jpg&signature=85a3577f4fff3f0407c4111620ca1ebd",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-05T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-microsofts-project-alexandria-parses-documents-using-unsupervised-learning.md",
+      "title": "Microsoft’s Project Alexandria parses documents using unsupervised learning",
+      "excerpt": "Microsoft's Project Alexandria, which uses unsupervised learning to parse documents, powers the company's Viva Topics product.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "originalUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/05/microsofts-project-alexandria-parses-documents-using-unsupervised-learning/amp/",
+      "publishedDateTime": "2021-07-05T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-05-obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-47m.md",
+      "title": "Obviously AI, a no code startup for data analysts, increases its seed round to $4.7M",
+      "excerpt": "After using Obviously AI and benchmarking it against other AutoML products, Mysore was so impressed that he reached out to the startup and led the investment round. No code/low code startups have ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
+      "originalUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/4.-Model-Report.png?w=680",
+          "width": 680,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/05/obviously-ai-a-no-code-startup-for-data-analysts-increases-its-seed-round-to-4-7m/amp/",
+      "publishedDateTime": "2021-07-05T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-05-elon-musk-just-now-realizing-that-self-driving-cars-are-a-hard-problem.md",
       "title": "Elon Musk just now realizing that self-driving cars are a ‘hard problem’",
       "excerpt": "Tesla CEO Elon Musk is finally admitting that he underestimated how difficult it is to develop a safe and reliable self-driving car. To which the entire engineering community rose up as one to say ...",
@@ -960,206 +1168,6 @@
         "AI in Healthcare",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-05-voice-tech-makes-inroads-in-the-enterprise.md",
-      "title": "Voice tech makes inroads in the enterprise",
-      "excerpt": "Some good news, bad news for voice technology partisans in the workplace: The bad news is that the dream of a voice assistant in every conference room and on every desk hasn’t come to pass. The good news is that voice technology is still having an impact in business,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/voice.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/voice-tech-makes-inroads-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-07-04T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future.md",
-      "title": "The lessons we learn from self-driving will drive our robotics future",
-      "excerpt": "Robotics is entering an exponential growth phase. There are increasingly new and diverse applications for robots, both the inspiring and the mundane. Just within the context of the COVID-19 pandemic response,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
-      "originalUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-1231721374.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/04/the-lessons-we-learn-from-self-driving-will-drive-our-robotics-future/amp/",
-      "publishedDateTime": "2021-07-04T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-the-future-of-the-ai-based-enterprise.md",
-      "title": "The future of the AI-based enterprise",
-      "excerpt": "Imagine an enterprise like a living organism that will naturally adapt based on the environment. Its products and services, will grow, shrink, defend, and heal themselves as needed. This is the future of the AI -based enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
-      "originalUrl": "https://www.techradar.com/news/the-future-of-the-ai-based-enterprise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-480-80.jpg",
-          "width": 480,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-future-of-the-ai-based-enterprise",
-      "publishedDateTime": "2021-07-04T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-04-mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum.md",
-      "title": "Mobile Speech Recognition Software Market is Anticipated to Gain Moderate CAGR by 2027 | Amazon, VoiceVault, Pareteum",
-      "excerpt": "Critical factors that are responsible for bringing or hindering sales growth, as well as promising market openings, have been recognized via identification and quantification. This Mobile Speech Recognition Software market report furthermore anticipates the global market’s scope and revenue over the next 6 years.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum/",
-      "originalUrl": "https://manometcurrent.com/mobile-speech-recognition-software-market-is-anticipated-to-gain-moderate-cagr-by-2027-amazon-voicevault-pareteum/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/07/Market-Monitor-Featured-Image-6.gif",
-          "width": 1050,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-04T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
+      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
+      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "publishedDateTime": "2021-08-15T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality.md",
       "title": "Pepperdata CEO says AI ambitions outpace data management reality",
       "excerpt": "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -61,7 +105,7 @@
       "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -269,7 +313,7 @@
       "originalUrl": "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -363,7 +407,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-ai-startup-abacusai-turns-on-real-time-deep-learning-system-for-enterprises.md",
-      "title": "AI startup Abacus.ai turns on real-time deep learning system for enterprises",
-      "excerpt": "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png",
-          "width": 2468,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "publishedDateTime": "2021-08-13T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

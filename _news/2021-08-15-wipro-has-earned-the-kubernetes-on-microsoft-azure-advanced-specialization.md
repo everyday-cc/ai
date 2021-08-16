@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-mi
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
 quality: 72
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
   - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
     excerpt: "Wind River®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
     publishedDateTime: 2021-08-12T13:00:00Z

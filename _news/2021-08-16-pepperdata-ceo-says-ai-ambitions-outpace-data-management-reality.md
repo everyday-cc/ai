@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

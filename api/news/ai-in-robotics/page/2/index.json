@@ -1016,6 +1016,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-01-underwater-crawling-soft-robot-stays-in-shape.md",
+      "title": "Underwater Crawling Soft Robot Stays In Shape",
+      "excerpt": "When you think of robots that were modeled after animals, a brittle star is probably not the first species that comes to mind. Still ... The robot’s control board is sending and receiving ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "originalUrl": "https://hackaday.com/2020/04/23/underwater-crawling-soft-robot-stays-in-shape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/04/PATRICK.png",
+          "width": 792,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-artificial-intelligence-wants-you-and-your-job.md",
       "title": "Artificial Intelligence Wants You and Your Job",
       "excerpt": "The artificial intelligence (AI) behind the soothing voice telling us where to turn has replaced passenger-seat navigators, maps, even traffic updates on the radio. How on earth did we survive before this technology arrived in our lives?",
@@ -1293,49 +1336,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
-      "title": "Cansel Brings TinySurveyor Robot to Canada",
-      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg",
-          "width": 400,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

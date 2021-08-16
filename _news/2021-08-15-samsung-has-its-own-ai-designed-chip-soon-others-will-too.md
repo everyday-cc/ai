@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Samsung has its own AI-designed chip. Soon, others will too"
-excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
+excerpt: "The South Korean giant is one of the first chipmakers to use AI to create its chips. Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many ..."
 publishedDateTime: 2021-08-15T10:44:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
-webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
+originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
+webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
 type: article
 quality: 84
 heat: -1
@@ -100,6 +100,6 @@ related:
         height: 419
         isCached: true
 
-secured: "gRWF0fcdwVJSCZyfa9CrAJVbLqx5oDZjisfTiETEJGyV8dZPPs2I2HPfrZ5xizx5Dgjq0K0mZThDYkw+IobaaraHQqNHYxCjKQGX1u/9A82InMolOvCYrmRh+uUDybtnZedHGP0sdFxI70y9zCDTkAgsrqv1eghALXprzuNQbmao+lhkqTe+Wzg1ahio99mYtmVc7qMUD4ovjSraQlh43ZNvgE9X5HqkB+B81c+HdxVZdUFR/5k/yHMwyRxHhHQMVN7J2mMhStqzS03EzR0qF0tKFlk3+YPq7qiu9pqjc2arj+hArMxiV/v1bD4Na9MYLZWy3f569nhae0885z2isQY/romn0GpeiDzqj/dCaxqrWEiVCC02FHmaVBVLVYrS4cQjc0AHZ/Ik0A+5tyrcCUANJFzlETuHckmqLfUjlB2PJy8aPANsOjpuLS0w4gnM2Qxlb6xr6kyJO0q2talI6j7rXPE7rizG65fCal/mVxqxbqJi8/R206tk+l2fTxk5jhMSnN2ZoefIIwO2mHuvJw==;O7GeP+DLRnKGPzSKvvYSuw=="
+secured: "WGIb3cL66qjoxq214c/BJrnTB7AgaFhiypa4T7liKNw1Fvb/NX4+fYxRDcdLX4BY58Twk0Fuz1vTOh8mqvka2kfiQbmP42O16g6UKKPR75OblBooMNS/2RE+BrsjKPh6xFSERxeXgy8pEwfomiz/f5j2EHefw54XrnETimlYwX5GXg4A+4lsRJtc4D564FG7h6VTrc1rgSMXg+5lLl3inisHK/bGNoJqjgOzEFHbPYcfb4K2n8zr/nJDc48JlI+XEy4iIBohPF17BOC2nylnbqg8zn/+JOnO+8j9k7VvOTh77FXJFpaAZR3+RXo+JV+Wqrbl6KHwEdtvdNMkAHBvTjKHUN9letAwTaiWupnKPLg=;i77DrLn4wkSePsAjD3t/VQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Virtana-Extends-Partne
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Virtana-Extends-Partnership-with-AWS-to-Offer-its-Unified-Observability-SaaS-Platform-148445.aspx"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)"
-    excerpt: "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web"
-    publishedDateTime: 2021-08-11T13:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html"
+  - title: "Cisco to Buy Startup Epsagon for Observability Platform"
+    excerpt: "Cisco will add Epsagon’s technology to its observability platform, bringing together its network visibility and application performance monitoring capabilities."
+    publishedDateTime: 2021-08-13T19:01:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/news/cisco-epsagon-observability/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 22
     images:
-      - url: "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook"
-        width: 864
-        height: 452
-        isCached: true
-  - title: "Orca Security Announces Global Partner Program to Bring Instant-On Security and Compliance to More Customers' AWS, Azure, and GCP Estates"
-    excerpt: "Orca Security today announced a robust global partner program to further extend the reach of its SaaS-based platform for workload and data protection, cloud security posture management, and vulnerability management to enable customers across"
-    publishedDateTime: 2021-08-11T13:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19946901.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 40
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/08/Cisco-building-logo.jpeg"
+        width: 700
+        height: 417
         isCached: true
 
 secured: "ZMWWMOhYDMdH3gXZ7t3fZty2e2+LPiDuMCDEpERhpGyFRS90ab1QF3VHdcCCRVdq0YQGuJm3seUUNbGDhA9NEoDilFLo4YmyR7os+8C0CdKYE3nKhd2CZh0eAlN1jZwW645aorBpU3j06S0g7lBwaLhVMxzOEuIyj8DQCxKIKWJyuB4DQcXcAYar1LZNk+1GA3KvRzFjdSZqluaveYD3Es00UFobZ9ZWGwnA4QHHYMwG3OSm969ywy0FTx2/xHFaopGGdI4aJXusN4hEu6uP0uMyiqdwBu7QlQeDKTjZYZLwb6BQSGHCNwxu7MmyUZTbvEPelnjwPOS5J8f2NuqSNzkSnGfN7w5b40JKW3NAMzk=;BY0u0cxkK8ktbynoIAeflw=="

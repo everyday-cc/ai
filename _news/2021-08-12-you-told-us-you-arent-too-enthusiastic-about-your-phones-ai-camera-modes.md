@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-resul
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Don't like to speak on camera? Your AI character can do it for you"
-    excerpt: "Tonya Hall talks to Natalie Monbiot, head of strategy at Hour One, about how synthetic AI characters based on humans could save businesses plenty of time but also create some ethical issues."
-    publishedDateTime: 2021-08-11T12:04:00Z
-    webUrl: "https://www.zdnet.com/index.php/video/dont-like-to-speak-on-camera-your-ai-character-can-do-it-for-you/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/08/11/e53d92b2-448a-4a7b-a42e-ffb4f0efda00/thumbnail/770x578/bcbe9a93aa511c497b214a4e19cfceb2/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "iQWTbNrEu5t/WVkIr1zwhsZNK6bEwLp35JHm5mBODJWDS2+mWKpxcgORXuZHkajeZTUJ9HLQRvwpvDiv9qTIiR5V1DchgoxzEwsnLVaTMFaSZ8YmMiWGXDm8uAJJw22XniFZijlJDA7SIDYyApudn3zfkHpok5Ad8lHjBD20DcW6LRYEjfbEflkBKVUljdFOMZUbFJceTXF7SAPIp8IYPDdro95LeIiEzboAkZzhaLb9XFGOiZVDtKENB3SMCpJeGDgtFCWmBm9rCkR6RKKop6PuE966CRPhPut2P86JLqOxiFAH5CPzh+BZeJuXopd/vxeXN+fEbbG17xHW1AdRzssHmmwVAfSf+k0QqsglJ+Tb9eDD5pIWLaqsHpWgCRTaLks7hKvFVpSddxdvS1dB9JkIGmZnSW2qRNSwrpqq9cKrECsmkue1oBhIyT9n8w+bsmGIL6Toffk7RlrQOJ2DjuiVZ/RUcU6/1sAzJVB13lf7DBVdL5rx2L3QJYOt9lInX4L2UXwRiMX5O/z0CQKPUA==;jzBrUNDgmDOKbPA8hiv4EQ=="
 ---

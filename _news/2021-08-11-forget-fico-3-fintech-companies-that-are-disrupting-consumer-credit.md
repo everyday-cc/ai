@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-03/Gateless%20Logo_3.png"
         width: 600
         height: 300
-        isCached: true
-  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
-    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
-    publishedDateTime: 2021-08-11T12:16:00Z
-    webUrl: "https://fintechnews.sg/54204/innovation/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 20
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
-        width: 2048
-        height: 1136
         isCached: true
 
 secured: "fvV8SYipKqFkHfAlEXqQo+op95lXh3K/Z28VuH7GS4QJgVmDwFB6f3xZkdHBE1ZLbHhp6j9Fcb+WqP4qMhOTIDzttK3ejLVPhsPx4lNXW6lX43yAiWAbz5aipE22qn/JFwfc4xAgcL5Q7hPQWRe8z2ffPFqHtiUXo6RLzgv51Mj24Iv573ngiy5JMPYECdG/3qNVbC97ZAN0LlzhMuTUUnv84yYzNAdQW1p1BnCO+og6n04U96Hp3car076oYUj/36GRsEMtE8ZyTje7iNoG0XJ9JPGNBPrFLXtrT5Bh3TgK72NrBP+J2aWjqQjg8960HJiPgd/EaH0xVOn99KPC7LZsn4n439Wf9bXVZMfc8ylZNo6x+JorhA6OgaSDzfkrlLLviYXKnJKUlrMfppAJfDJCOb7OZu5TAlAwK+3ybaX0zfCsQsakNAtF9KRF3ulEBahqsUHr33yEsnU/cOkTHGnVheqCzUzEQn2IS/KDpkFiA9LUQJt9TfnTx0ORz0ryOAgfAHtwQxVnny6ghL+csg==;sSxwSfUk1/0chhWs15ijtw=="

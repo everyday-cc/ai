@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-in
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shield Introduces Industry-Defining, AI-Driven Alert Transparency to Financial Compliance"
-    excerpt: "As financial market regulators work to eliminate market abuse in today’s digital and remote work environments, Shield’s pioneering Alert Transparency provides financial organizations with comprehensive compliance analysis Shield,"
-    publishedDateTime: 2021-08-11T12:26:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/shield-introduces-industry-defining-ai-driven-alert-transparency"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 30
-    images:
-      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
-        width: 646
-        height: 250
-        isCached: true
   - title: "Shield Introduces Industry-Defining, AI-Driven Alert Transparency to Financial Compliance"
     excerpt: "As financial market regulators work to eliminate market abuse in today’s digital and remote work environments, Shield’s pioneering Alert Transparency"
     publishedDateTime: 2021-08-11T17:52:00Z

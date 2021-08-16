@@ -21,36 +21,60 @@ topics:
   - AI
 
 related:
-  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
-    excerpt: "Bangalore: Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
-    publishedDateTime: 2021-08-15T06:12:00Z
-    webUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    ampWebUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
+    publishedDateTime: 2021-08-16T04:17:00Z
+    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 72
+      name: openpr.com
+      domain: openpr.com
+    quality: 86
     images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/04/Wipro-NEW-LOGO-1024x724.jpg"
-        width: 1024
-        height: 724
+      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
+        width: 800
+        height: 407
         isCached: true
-  - title: "Wind River Joins Microsoft Cloud Solution Provider Program to Further Advance Mission-Critical Intelligent Systems"
-    excerpt: "Wind River®, a global leader in delivering software for intelligent systems, joins the Microsoft Cloud Solution Provider (CSP) program to offer its new Wind River Studio platform running on Azure. Studio is a cloud-native platform for the development,"
-    publishedDateTime: 2021-08-12T13:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=515358"
+  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
+    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
+    publishedDateTime: 2021-08-13T13:42:00Z
+    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 17
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
+  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
+    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
+    publishedDateTime: 2021-08-16T04:03:00Z
+    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
+        width: 800
+        height: 407
         isCached: true
+  - title: "Machine Intelligence Market Demand Analysis and Opportunity Outlook 2026 | Google, Brighterion, Microsoft, NVIDIA"
+    excerpt: "The latest study released on the Global Machine Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Intelligence market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-08-14T20:05:00Z
+    webUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+    ampWebUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 20
 
 secured: "LlPBRDs2vuFs6lWyaX4uj7fTqRzInWkozmG7dAlGfgGQU04aXaqx8Kc1quAZ65Bm8V9dN1/uVCtY7+QhPsJjji4cpi6KvHqGC/dpzgClKkhfiMezxLhYVvYzmHipXsat6tBTT5+a4xKZD6BAWOR9zbAj5A7LcNO5e2fe4StEQVzHHr6/5dmKC4XlSkVmE22or5n5FVrmpDyo8rr6KggC1lhXHArI7gjXrxpU8tbweWcA7EYwYceT8X9eSHHNmL1bDibC5zpyLUOuRcn02IMiDRbJa6fKSoY+EBloTBrAx90ZS2QvfVnqhC5JjGGFCtYj6BafGhjgb5SfAdKP6hQPKDUZJRAYGs6QX2yE6eC1pbI=;eY5Xf9YvLEEQ1u/HZ1Q4bA=="
 ---

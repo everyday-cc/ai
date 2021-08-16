@@ -41,17 +41,6 @@ related:
         width: 1024
         height: 724
         isCached: true
-  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
-    publishedDateTime: 2021-08-13T15:07:00Z
-    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 69
 
 secured: "rYKU+xOr4kjtZk8xwZIrKoeaiwN1SibZcwdgtEK5hKE0WLkDtBJGIZ2ouStPC76r+fd/WvuUu2WqZ8e3ugxiWDpvagb4/n3/b7t7sUJVjjEaeaTKqH6/9wS4+P5mivil2LT5/xTZ7772k+OHVx/z/ekEjQNm7X1RbVKoON+E7vVB2OoLZ6XNB8clmie+VSaBlS9ytz7I6j/Oc8uAH7FbsbsR4hCLq/lwj5vhB0+PwKs77zIQqx06EM1KeUUr0HqVcpUb152QQCIVHTn1Z29LFoVIF1kKUCwNGjmwJVO1//Rd/GXSFY4/6XzgQ94ZHWaVAVTiGmtT3G6ENMZcn0afvBdJ5EqX9i9Qv0JOfOf1yOY=;nezEN4D1/yIIR4d9ApVIjw=="
 ---

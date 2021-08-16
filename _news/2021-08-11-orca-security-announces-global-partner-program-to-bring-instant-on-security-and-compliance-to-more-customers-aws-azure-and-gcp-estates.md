@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19946901.html"
 webUrl: "https://www.lelezard.com/en/news-19946901.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -27,34 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)"
-    excerpt: "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web"
-    publishedDateTime: 2021-08-11T13:02:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/virtana-announces-expanded-advanced-technology-partnership-with-amazon-web-services-aws-301352724.html"
+  - title: "New Genesys Capabilities Enable Out-of-the-Box AI and Automation for Empathetic Customer Experiences Based on Context and Intent"
+    excerpt: "Genesys ® , a global cloud leader in customer experience orchestration, has announced new capabilities within the Genesys Cloud CX™ platform that make artificial intelligence (AI) more accessible, allowing businesses to easily automate and scale within minutes — without IT support."
+    publishedDateTime: 2021-08-11T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/new-genesys-capabilities-enable-out-of-the-box-ai-and-automation-for-empathetic-customer-experiences-based-on-context-and-intent-1030718503"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1245497/Virtana__Logo.jpg?p=facebook"
-        width: 864
-        height: 452
-        isCached: true
-  - title: "Virtana Extends Partnership with AWS to Offer its Unified Observability SaaS Platform"
-    excerpt: "Virtana, the AIOps observability company for hybrid cloud, is expanding its offering of the Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,"
-    publishedDateTime: 2021-08-13T17:13:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Virtana-Extends-Partnership-with-AWS-to-Offer-its-Unified-Observability-SaaS-Platform-148445.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 32
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
 
 secured: "ybeQXxG71/9ma22P1yPVnGQF+fZvhpu8FbBemSpocpzqVFV/h7nqrELIvu1BxBzqCyczLJz6A7YtDtMhC3e0LnQP00fvCTLeqfQT4QRtJvHOzyzogAjcxjE2HPt8I9+47eWjXH1EkuT3By5Q4Gq7t0O2Lqy29mdx1E8TLHaY4slDTs/IIqqgpwHDpynZK6Dn7/IIxJTiIBwZPnfVp+pdAeEZ1+eEHAREAlzFIvUeNIkuQHygUAig+FuvphzwrkKcWrFNKIIvUfD7//zPyIgVq95oJXLZ8E+713zDqdK395PHz7eTo5B8Eqj8VfDtl/Dkgfhn2+g4rLY0V/4yrza/lD/G5niuN3edZMAG96PMWZk=;56jgetmeYIwYqI7z2qjBdw=="
 ---
