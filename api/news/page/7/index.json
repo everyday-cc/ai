@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-09-facteus-joins-snowflake-partner-network-helps-financial-services-organizations-safely-migrate-sensitive-data-to-the-snowflake-data-cloud.md",
+      "title": "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud",
+      "excerpt": "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-artificial-intelligence-in-healthcare-sector-market-outlook-2021-big-things-are-happening.md",
       "title": "Artificial Intelligence In Healthcare Sector Market Outlook 2021: Big Things are Happening",
       "excerpt": "Global Artificial In Healthcare Sector Market Growth Status and Outlook 2021 2026 is latest research study released by HTF MI evaluating the market risk side analysis highlighting opportunities and leveraged with strategic and tactical decision making support The report",
@@ -1138,58 +1172,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk.md",
-      "title": "COVID Has Changed How We Work. With The Rise Of AI, Is Your Job At Risk?",
-      "excerpt": "By starting with a perspective on the potential risk (harm) of AI in a job, we can better understand the implications of how AI will affect specific jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610f2050ad1276be1f7b70ae%2F0x0.jpg",
-          "width": 1104,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/08/08/covid-has-changed-how-we-work-with-the-rise-of-ai-is-your-job-at-risk/amp/",
-      "publishedDateTime": "2021-08-08T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

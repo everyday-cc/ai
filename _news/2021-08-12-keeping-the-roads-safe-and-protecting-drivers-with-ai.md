@@ -76,6 +76,20 @@ related:
         width: 940
         height: 512
         isCached: true
+  - title: "The interaction and convergence of IoT and AI at work"
+    excerpt: "The Internet of Things (IoT) and artificial intelligence (AI) go hand in hand across several use cases and applications in business and science. How IoT and AI already work together today and what the future holds - with several examples."
+    publishedDateTime: 2021-08-15T12:39:00Z
+    webUrl: "https://www.i-scoop.eu/internet-of-things-iot/iot-and-ai/"
+    type: article
+    provider:
+      name: i-scoop.eu
+      domain: i-scoop.eu
+    quality: 41
+    images:
+      - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"
+        width: 741
+        height: 494
+        isCached: true
 
 secured: "0Mn2iIhzrbzYVzrtHqPRcc6UTfVhety2asHjq2U4vEicDRENbwyejIHWt7/D/qsOg8eKddZWqQsROl7zxgmvTPZmNUtncAF3KEPzePWqvxldkAOcPCXmN+5Kjtcd0ZCCsezh6k/jkBKAmE91825oqpiT95qoOwkFCTd95d1B+BmrupcbFePfezl/nzABAkozuxE/MoYijLQohVcdyIx/14xwyY7lZ4KlapMuulw8oLrKu+4uIimbHfRTHrSYbqPgd0Fvk9kddgbQnqcVAA7f5v+3Bph2+xn8dj3dD5CjSJk0aLm9H0uGTpbAE/VVFn++pNiSsUVcUz3s9UrAw++PXhXgC8xoNa9/ximREeVvBsY=;HeCk6NCwskhE1deEw51JxQ=="
 ---

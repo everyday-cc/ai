@@ -85,6 +85,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
+    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
+    publishedDateTime: 2021-08-11T12:16:00Z
+    webUrl: "https://fintechnews.sg/54204/innovation/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 20
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
+        width: 2048
+        height: 1136
+        isCached: true
 
 secured: "rVDeUFY/M4OBkNj1Y9tYkuh2aiycuozPSvhTce/cXItzTMHB7hRo17UHSML7J4mytHkswJE2nyneCO7V/gGgC1spGUmOH8WQBxJToiFMj5Pb+FmaqjRkDX8otiA0neoCiElNOTLWRC6izaPJ7XrrUz2yK+b/tlEtYoCCHqfUzDx0Hoc/mFYSn93EQf8udV2QFbKN3hDl9zHil2eVOOtb7weyLPM/rHwsYNqXw8G49oNZD++i7WQQy7mNuBNftyApVOYXvX1O5fPSPsIAaaQjdWhadl2GVnJDMGh1O50bAmSf+Bd4ww6H1CIJvif08tniKwh9zyUDV/OEAPAukKeuj21DmgRyXDYFgHXvuzti+On8Z6248ael42EkIXFYcJ5h6gVhfopF/CDywpgC1vzfB9mNM7sll3sKnq0CiZavx/S6itqxUCVGxEtXqSYTGWUbMLRe9JQO8IJmETtiRPKVnFr/rFWk0xC2WZrzGLAdjgA/eP6MlrQWxN3G6l07q/NTe4BJnnWHtK9OseNHR5Bx5A==;BdfNgdQhU+7cAosBhDpEHg=="
 ---

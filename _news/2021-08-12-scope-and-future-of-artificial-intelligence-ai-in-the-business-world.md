@@ -7,7 +7,7 @@ originalUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-o
 webUrl: "https://www.yumpu.com/en/document/view/65533813/scope-and-future-of-artificial-intelligence-ai-in-the-business-world"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How to evangelize Artificial Intelligence (AI) in your organization"
-    excerpt: "Having trouble making the case for artificial intelligence projects and getting people excited about AI's business potential? Consider these strategies to address fears and build support"
-    publishedDateTime: 2021-08-11T07:00:00Z
-    webUrl: "https://enterprisersproject.com/article/2021/8/artificial-intelligence-ai-how-evangelize"
+  - title: "Rethinking Our AI Priorities in the Face of a More Dangerous World"
+    excerpt: "Artificial intelligence (AI) is either our best path to a better tomorrow or the harbinger of an apocalypse, depending on who is talking about it:"
+    publishedDateTime: 2021-08-15T18:17:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/ai-development-priorities/"
     type: article
     provider:
-      name: enterprisersproject.com
-      domain: enterprisersproject.com
-    quality: 52
+      name: Datamation
+      domain: datamation.com
+    quality: 37
     images:
-      - url: "https://enterprisersproject.com/sites/default/files/styles/google_discover/public/cio_ai_artificial_intelligence.png?itok=ME2IWuyA"
-        width: 650
-        height: 420
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
         isCached: true
 
 secured: "QfLImFQCr+dI7fo0+rLvwSdEXcVrzkrriTIk3X0MyrKaCLMnuTronk4FDouwF3wG2ZNTeOmM6N9xqaiYD1y77ZqF/7+/cIHF2cKFl1qQho0QHEARMWCfePjJI0lO1BEGQHgJEfiF1ZYSLx1mngJlFA30jok0QSMfPIriHH/Z3fdui+sFi51/VLCu6IygVB1AcQB60Hp9YQb9jHh+IozRzax6JENB5hNMJg9MwR+RefaGc1D4ZIsDD9UM+oaCQKIAejYIas6vZMILVu5m8TdrzvUn8awnZC591gmKAyUsww+BhvIba34phhBXVWsnIQ1sJnz1+LR94KeAxxylIXD52UdQgYew3Pq7t5vpjitUoQY+VxXTXX9VHhcGS+pvnii1x5SWvD0+IuX1ZqpSw2g/7GIQT3KTp5xpOtNH4wm6sLLwt3UvSaqCoTkbkuZxYOSkXN+8D3fV45Vx6KPrHVFYm6NiDpXti0l9nWa+1OvhJuuPVOIkr8pSbsyroDokm8KaAqgbevkqFLKBxSu86NMUNg==;xNVjXopnx1HQzoR1JepQ/w=="

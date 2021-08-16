@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/Bindu-Headshot.jpg"
         width: 940
         height: 512
+        isCached: true
+  - title: "The interaction and convergence of IoT and AI at work"
+    excerpt: "The Internet of Things (IoT) and artificial intelligence (AI) go hand in hand across several use cases and applications in business and science. How IoT and AI already work together today and what the future holds - with several examples."
+    publishedDateTime: 2021-08-15T12:39:00Z
+    webUrl: "https://www.i-scoop.eu/internet-of-things-iot/iot-and-ai/"
+    type: article
+    provider:
+      name: i-scoop.eu
+      domain: i-scoop.eu
+    quality: 41
+    images:
+      - url: "https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/AI-and-IoT-at-work.jpg"
+        width: 741
+        height: 494
         isCached: true
 
 secured: "vORRXPBtdaPvb8mu+ybCS0X2kgi0z7c1JHfWRSJGrgFqMZSP5r6NH6nIawBCBF2GV0C9VJX8FRdKAIGUTZ7G68f3mVjlrX+4q7QFdJ6NEOeGKnGk8rF0kQBTJ0PtCY3nptnKPMV8Fi7x4tf1CX6uN82KaBNs1VX6g0vOceWxKAfbHl+lHxMQThRY+0lDY0Ww7Mldat9nBeIogzlHSGijeTDRuwFXngMSLwy+xTxdjGWYVdDktTXppJtMUelj1m50pHYYn1gL5FExaQND8Bv/LRFVqz/ZaYTJtXYVk9MoWDGYJ8NXDYVnA9kYTDBAdWSMJoRruG8yj8v+acPMd+9kou1t9sEtCvfAjhq3QlB0gqFithvn0vIOKHulFOVwsezBfUIox07MddfbFI4sFKfzGkfcGU477vFpQ6dki5J6cPNOjzFVITvb6rLwrQdaRIT8eV/Eeqf8/ZUuBGQHtwZewHZJnOteNX/0cQOjKmzFH32cd609izN2ElFIUWo4/bQA54/JYyzz0oLhlCek5v83cg==;nrL7yUvrZ/i6FpA33Vx6jg=="

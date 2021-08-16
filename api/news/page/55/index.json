@@ -2,6 +2,58 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-07-03-pruning-preserving-quantization-aware-training-pqat-keras-example.md",
+      "title": "Pruning preserving quantization aware training (PQAT) Keras example",
+      "excerpt": "This is an end to end example showing the usage of the pruning preserving quantization aware training (PQAT) API, part of the TensorFlow Model Optimization Toolkit's collaborative optimization pipeline. _, baseline_model_accuracy = model.evaluate( test ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example",
+      "originalUrl": "https://www.tensorflow.org/model_optimization/guide/combine/pqat_example",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-03T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-lidar-is-the-gold-standard-of-robot-vacuum-navigation-but-its-not-perfect.md",
       "title": "Lidar is the gold standard of robot vacuum navigation, but it’s not perfect",
       "excerpt": "Today's robot vacuums offer intelligent navigation courtesy of lidar tech. But despite being the gold standard of robot vacuum navigation, it's not perfect.",
@@ -1162,49 +1214,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-02-vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence.md",
-      "title": "VinBrain wins ACM SIGAI industry award 2021 for excellence in artificial intelligence",
-      "excerpt": "DrAid for Radiology” by VinBrain -a subsidiary of Vingroup in Vietnam- has just been granted the ACM SIGAI Industry Award 2021 for Excellence in Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.vnp",
-      "originalUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.vnp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_07_02/ai.jpg",
-          "width": 480,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.amp",
-      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vinbrain-wins-acm-sigai-industry-award-2021-for-excellence-in-artificial-intelligence/204062.amp",
-      "publishedDateTime": "2021-07-02T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VietnamPlus",
-        "domain": "vietnamplus.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

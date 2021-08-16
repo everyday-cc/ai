@@ -2,6 +2,57 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-06-21-ai-glasses-you-can-try-on-and-try-out-with-ar.md",
+      "title": "AI Glasses You Can Try On And Try Out With AR",
+      "excerpt": "Sports and lifestyle glasses maker Bollé used Artificial Intelligence (AI) to create new state-of-the-art lenses, then launched a transformative marketing campaign that allows customers to not only try their glasses on virtually,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d014bc54b499b7d098b622%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2500%26cropY1%3D0%26cropY2%3D1406",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/06/21/ai-glasses-you-can-try-on-and-try-out-with-ar/amp/",
+      "publishedDateTime": "2021-06-20T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-21-penn-libraries-offers-students-faculty-staff-free-access-to-the-new-york-times.md",
       "title": "Penn Libraries offers students, faculty, staff free access to The New York Times",
       "excerpt": "Weinsteiger said the University decided to give Penn students and staff access to The New York Times because of its reputation as one of the most widely read newspapers in the ... The Wall Street Journal, and The Financial Times. “I really appreciate ...",
@@ -1097,58 +1148,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-19-what-googles-ai-designed-chip-tells-us-about-the-nature-of-intelligence.md",
-      "title": "What Google’s AI-designed chip tells us about the nature of intelligence",
-      "excerpt": "The experiment, which uses artificial intelligence to develop chip floorplans, is a brilliant example of human intelligence and AI in synergy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "originalUrl": "https://thenextweb.com/news/what-google-ai-designed-chip-tells-nature-intelligence-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F06%2FGoogle-Cloud-TPU-AI-Servers-hed.jpg&signature=d0eb94d0569075001196ad197678f98b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-19T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

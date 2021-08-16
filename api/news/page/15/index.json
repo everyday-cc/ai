@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-08-03-deepmind-stel-n-wetenskap-presedent.md",
+      "title": "DeepMind stel ’n wetenskap-presedent",
+      "excerpt": "Subscribe for full access to all our share and unit trust data tools, our award-winning articles, and support quality journalism in the process. A monthly subscription is charged pro rata, based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
+      "originalUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.moneyweb.co.za/wp-content/uploads/2017/07/shutterstock_525972979.jpg",
+          "width": 1000,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Moneyweb",
+        "domain": "moneyweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-navigating-religion-faith-and-creativity-in-the-age-of-ai.md",
       "title": "Navigating Religion, Faith, And Creativity In The Age Of AI",
       "excerpt": "How might advances in AI impact faith, ethics, and morality as we struggle to comprehend what it means for a machine to be human?",
@@ -1104,58 +1147,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025.md",
-      "title": "Facial Recognition Market Research Report, Upcoming Trends, Demand, Regional Analysis and Forecast 2020 to 2025",
-      "excerpt": "According to IMARC Group latest report titled\" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the market grew at a CAGR of around 18% during 2014-2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

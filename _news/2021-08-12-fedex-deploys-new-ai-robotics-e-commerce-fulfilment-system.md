@@ -7,7 +7,7 @@ originalUrl: "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robo
 webUrl: "https://supplychaindigital.com/logistics/fedex-deploys-new-ai-robotics-e-commerce-fulfilment-system"
 type: article
 quality: 169
-heat: 170
+heat: 169
 published: true
 
 provider:

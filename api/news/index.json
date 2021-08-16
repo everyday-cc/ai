@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-16-pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality.md",
+      "title": "Pepperdata CEO says AI ambitions outpace data management reality",
+      "excerpt": "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
+      "originalUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/data_streaming2-e1626372457758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
+      "publishedDateTime": "2021-08-15T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-tesla-pushes-new-full-self-driving-beta-update-dont-hold-your-breath-for-download-button.md",
       "title": "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button",
       "excerpt": "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen.",
@@ -157,21 +208,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-15-samsung-joins-google-and-nvidia-in-using-ai-to-design-chips.md",
-      "title": "Samsung Joins Google and Nvidia in Using AI to Design Chips",
-      "excerpt": "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors.",
+      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
+      "title": "Samsung has its own AI-designed chip. Soon, others will too",
+      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
       "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
-      "originalUrl": "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips",
+      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180",
-          "width": 951,
-          "height": 961,
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
+          "width": 760,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,14 +232,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T06:19:00-07:00",
+      "publishedDateTime": "2021-08-15T03:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -204,9 +255,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI",
-        "Machine Learning"
+        "AI Hardware"
       ]
     },
     {
@@ -218,7 +268,7 @@
       "originalUrl": "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -312,7 +362,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -416,7 +466,7 @@
       "originalUrl": "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -562,7 +612,7 @@
       "originalUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -855,7 +905,7 @@
       "originalUrl": "https://www.aitrends.com/ai-in-business/ai-ml-seen-as-crucial-to-battle-software-supply-chain-security-breaches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1096,7 +1146,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/13/ai-will-not-replace-you-it-will-make-you-more-valuable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1237,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
-      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
-      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
-          "width": 1024,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "publishedDateTime": "2021-08-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

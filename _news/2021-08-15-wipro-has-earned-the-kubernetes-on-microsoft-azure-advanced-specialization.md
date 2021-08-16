@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-mi
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
 type: article
 quality: 72
-heat: 92
+heat: 93
 published: true
 
 provider:

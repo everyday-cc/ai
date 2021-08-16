@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-07-28-semiconductor-chips-small-tech-big-impact.md",
+      "title": "Semiconductor Chips: Small Tech, Big Impact",
+      "excerpt": "Other than a cellphone or computer, it might have been difficult to believe before that something as small as a computer chip figures so prominently in our everyday lives. Or how the lack thereof could bring entire industries to a virtual standstill.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
+      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61005af0c8732a73ff6bb6eb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D440%26cropY1%3D58%26cropY2%3D306",
+          "width": 440,
+          "height": 248,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/07/27/semiconductor-chips-small-tech-big-impact/amp/",
+      "publishedDateTime": "2021-07-27T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-28-ai-infrastructure-market-worth-793-billion-by-2026-at-a-cagr-of-273.md",
       "title": "AI Infrastructure Market worth $79.3 billion by 2026, at a CAGR of 27.3%",
       "excerpt": "Browse 169 market data Tables and 60 Figres spread through 238 Pages and in-depth TOC on \"AI Infrastructure Market with COVID-19 Impact Analysis and Region - Global Forecast to 2026\" View detailed Table of Content here -  Hardware to account for the largest share of AI infrastructure market in 2021 The hardware segment is sub-segmented into a processor,",
@@ -1111,49 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-zillow-one-year-after-the-google-walkout-key-organizers-reflect-on-the-risk-to-their-careers.md",
-      "title": "Zillow – One year after the Google walkout, key organizers reflect on the risk to their careers",
-      "excerpt": "Latest financial technology news, fintech news, fin tech news, open banking news​, banking news, blogs opinion, analysis on Fintech Zoom.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-one-year-after-the-google-walkout-key-organizers-reflect-on-the-risk-to-their-careers/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_zillow/zillow-one-year-after-the-google-walkout-key-organizers-reflect-on-the-risk-to-their-careers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechzoom.com/wp-content/uploads/2021/07/191031122522-04-risk-takers-series-claire-stapleton-meredith-whittaker-google-walkout-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

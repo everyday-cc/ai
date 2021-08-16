@@ -55,6 +55,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
+    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
+    publishedDateTime: 2021-08-11T09:47:00Z
+    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
+        width: 696
+        height: 370
+        isCached: true
 
 secured: "Fwy/Uh/5dkDrieC0B6BZturc0kKEOPZFlrnUdszR5YbotD648L4edJ7ozuTi6bSw48PCePo/9r9cW088AilMj4IYAGeKzNQy32T0X9VoN6LCfweAjbsBvn6M3sPHmGpSd0ZdWREZxcbWEVgyr5JAM6Iptc4NBPDHWTl+Lx4ktDbIDlOsGgG73UfTOvX193hNHaUtwabILkXBieB6pCo+NNuAkIbOeIPZSNSTE7WI/BLP/ux2OiHaO+6m/PG6aOwjrjk67xT3PWw1MCJRe2//lOxNIxbR3Elvv38J+NL6sWW2AXw4LhbNPzYDjxX6L/sAzwMMsTRT9gu9/kB8DWVlk4ji8zEcOMpCCcKB7MMxcwy0sfnvua5t9Jq8pcuor4yk1d7hB7Vsxuot6jz0uip5ObcHNFsw2EH7KQKX6RAnb8Wwfqrhx/v8dlSyiPOzDMdu8ZqnJOducM5MdM2MvvxmI5mEdhSfH7zvy0iZEFk+Beku/fYLIEO46uj8UiI9PUT4gbBZ/YkdPVlcAysod+Q3PA==;6TbIti1Jyynwkn0Vnwi9vA=="
 ---

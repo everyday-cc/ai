@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
+      "title": "AI Weekly: AI adoption is driving cloud growth",
+      "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
+      "originalUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
+      "publishedDateTime": "2021-07-30T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-31-spanish-dpa-fines-supermarket-chain-2520000-eur-for-unlawful-use-of-facial-recognition-system.md",
       "title": "Spanish DPA Fines Supermarket Chain 2,520,000 EUR for Unlawful Use of Facial Recognition System",
       "excerpt": "On July 27, 2021, the Spanish Data Protection Authority (the “AEPD”) imposed a €2,520,000 fine on Spanish supermarket chain Mercadona, S.A. for unlawful use of a facial recognition sy",
@@ -1131,57 +1183,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-report-details-how-alaska-airlines-is-using-ai-to-better-map-flight-routes-and-save-time-and-fuel.md",
-      "title": "Report details how Alaska Airlines is using AI to better map flight routes and save time and fuel",
-      "excerpt": "If you've ever stared out the window of a passenger plane, or tracked your flight as it moves across the sky on the animated video screen in front of you, you may have wondered how the pilots",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/report-details-alaska-airlines-using-ai-better-map-flight-routes-save-time-fuel/",
-      "originalUrl": "https://www.geekwire.com/2021/report-details-alaska-airlines-using-ai-better-map-flight-routes-save-time-fuel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/planewing-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/report-details-alaska-airlines-using-ai-better-map-flight-routes-save-time-fuel/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/report-details-alaska-airlines-using-ai-better-map-flight-routes-save-time-fuel/amp/",
-      "publishedDateTime": "2021-07-29T21:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

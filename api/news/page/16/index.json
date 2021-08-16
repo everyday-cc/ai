@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-08-02-facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025.md",
+      "title": "Facial Recognition Market Research Report, Upcoming Trends, Demand, Regional Analysis and Forecast 2020 to 2025",
+      "excerpt": "According to IMARC Group latest report titled\" Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the market grew at a CAGR of around 18% during 2014-2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-research-report-upcoming-trends-demand-regional-analysis-and-forecast-2020-to-2025-2021-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-02T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
       "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
       "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
@@ -1110,58 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-ai-weekly-ai-adoption-is-driving-cloud-growth.md",
-      "title": "AI Weekly: AI adoption is driving cloud growth",
-      "excerpt": "As enterprises embrace AI technologies, they're increasingly turning to the cloud to meet key infrastructural needs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "originalUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/cloud.money_.GettyImages-627546267-e1623705801154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/30/ai-weekly-ai-adoption-is-driving-cloud-growth/amp/",
-      "publishedDateTime": "2021-07-30T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

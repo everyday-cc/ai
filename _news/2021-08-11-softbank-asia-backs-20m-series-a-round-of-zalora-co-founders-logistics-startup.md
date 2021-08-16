@@ -23,36 +23,54 @@ topics:
   - AI
 
 related:
-  - title: "Singapore’s logistics tech startup Parcel Perform raises $20 million"
-    excerpt: "Singapore-headquartered Parcel Perform, which connects merchants with e-commerce carriers and provides shipment tracking features, said on Wednesday it has raised $20 million in a new financing round as it scales its business in several parts of the world."
-    publishedDateTime: 2021-08-11T07:01:00Z
-    webUrl: "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/"
-    ampWebUrl: "https://techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/11/singapore-logistics-tech-startup-parcel-perform-raises-20-million/amp/"
+  - title: "Mubadala Backs Software Startup People.ai in New Funding Round"
+    excerpt: "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures."
+    publishedDateTime: 2021-08-11T11:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-505451902.jpg?w=1024"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Gunderson Dettmer-Led People.ai Hits $1.1B Value In Series D"
+    excerpt: "People.ai, a sales startup specializing in machine learning, announced Wednesday it hit a $1.1 billion valuation after raising $100 million in a Series D funding round steered by Gunderson Dettmer."
+    publishedDateTime: 2021-08-11T18:43:00Z
+    webUrl: "https://www.law360.com/technology/articles/1411803"
+    ampWebUrl: "https://www.law360.com/amp/articles/1411803"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411803"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
+  - title: "Ukraine-founded startup People.ai becomes ‘unicorn’ with $1.1 billion valuation"
+    excerpt: "Ukrainian startup People.ai has attracted $100 million of investment, bringing its total valuation to $1.1 billion, its founder Oleg Rogynsky said on Aug. 11. With this valuation, People.ai joins the club of the so-called ‘unicorns,"
+    publishedDateTime: 2021-08-12T11:10:00Z
+    webUrl: "https://www.kyivpost.com/technology/people-ai-becomes-unicorn.html"
+    type: article
+    provider:
+      name: Kyiv Post
+      domain: kyivpost.com
+    quality: 33
+    images:
+      - url: "https://www.kyivpost.com/wp-content/uploads/2021/08/56935306_1937928666319111_8722487745294893056_n.jpg"
         width: 1024
-        height: 683
+        height: 619
         isCached: true
-  - title: "Top 10 Fintech and Insurtech Innovation Labs in Singapore to Check Out in 2021"
-    excerpt: "Singapore, which has set out to become one of the leading fintech hubs in the world, has witnessed the establishment of dozens of innovations labs in recent years as banks and foreign tech firms are looking to capitalize on the city state’s large pool of IT specialists,"
-    publishedDateTime: 2021-08-11T12:16:00Z
-    webUrl: "https://fintechnews.sg/54204/innovation/top-10-fintech-and-insurtech-innovation-labs-in-singapore-to-check-out-in-2021/"
+  - title: "Redwood City sales software startup People.ai joins unicorns in $100M funding"
+    excerpt: "Sales software startup People.ai Inc., which just brought in $100 million in funding. #startups #venturecapital"
+    publishedDateTime: 2021-08-11T14:14:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/11/peopleai-joins-unicorns-in-100m-funding.html"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 20
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2021/08/Fintech-and-Insurtech-Innovation-Labs-in-Singapore.jpg"
-        width: 2048
-        height: 1136
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 31
 
 secured: "rjzmWBG/Z0hgp/23wLuT+Sf6Qc/+fpQ3TsvnHpdhK8twm+i5fwuR2EL7XR00kcxjhIoaqQucar9KCsmv/F2vfz9R9zc0VqGKZ7j+DoUWXriKFnXMW8arpE5hMnIWmMNiA8msLrIwjumFeHofmUV1InfkaiQKuq2RhZUAtut9hC17xQFCnBuMAeLFJyNy4lmBOYjZC5igAGldMC8BYOblA52JbV6XGxhpkr0x6LdEj4EU7fdSvubDoG66TG5rtwTtV6dqeUqrpyxv6ni4WFKBJqoc/lZ6aB85/UfR6MVWAxOeL2EEnCZcWdJ/fSaXYOTXnuh+vCQh1l6Nyxp6LxbmWRraYS9hDzK4xNePq/2AK6x6oAaSLryBW1Pw5bKyOa+0zAmO7oWLOVeQsb9TMGpVtB0Wd2tRfaRCk9sUC5G8bc6aCfNGjtMwRidHDal+sX7j4vMMkKTlECdTynR1beZSvoLAOg2ylpnE87HuT1DTDfjdxuv2BTV5ECFM1aycXJSJnhd6EDajnWeBL96L+xX/fQ==;3vc3OLdELrT3lBbZFmTrHQ=="
 ---

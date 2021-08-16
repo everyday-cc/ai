@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-03-machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Assessment & Opportunity Forecast",
+      "excerpt": "Market With Top Countries Data, Industry Analysis , Size, Share, Revenue, Prominent Players, Developing Technologies, Tendencies and Forecast The Machine Learning-as-a-service (MLaaS) Market was valued at USD 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-assessment-opportunity-forecast-2021-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-artificial-intelligence-and-automation-to-lead-robotics-market-growth-says-beroe-inc.md",
       "title": "Artificial Intelligence and Automation to Lead Robotics Market Growth, says Beroe Inc",
       "excerpt": "The Robotics industry has witnessed significant growth in demand as it has become a key strategy in the implementation of Industry 4.0.",
@@ -1141,49 +1194,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-deepmind-stel-n-wetenskap-presedent.md",
-      "title": "DeepMind stel ’n wetenskap-presedent",
-      "excerpt": "Subscribe for full access to all our share and unit trust data tools, our award-winning articles, and support quality journalism in the process. A monthly subscription is charged pro rata, based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
-      "originalUrl": "https://www.moneyweb.co.za/moneyweb-radio/rsg-geldsake/deepmind-stel-n-wetenskap-presedent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.moneyweb.co.za/wp-content/uploads/2017/07/shutterstock_525972979.jpg",
-          "width": 1000,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Moneyweb",
-        "domain": "moneyweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
