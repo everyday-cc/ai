@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "StarskyRobotics"
   url: "https://twitter.com/StarskyRobotics"
-  followers: 919
+  followers: 921
 
 size: 11-50 employees
 locations:
