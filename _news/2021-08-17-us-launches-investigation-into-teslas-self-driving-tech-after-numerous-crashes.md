@@ -27,31 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button"
-    excerpt: "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-15T21:30:00Z
-    webUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/"
-    ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
+  - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
+    excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
+    publishedDateTime: 2021-08-16T15:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 79
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
 
 secured: "cGnpC4cVxIHNA2mm/vcu6Q4fUzSEf+OaOm7xR7frFgiKujCuzKRJetpvGvvE604uojNZ7wavqUHlYlarNAXTp8le4HEo6EPVZT4lpMsl94ATPgKwQBnRG2jvI5/WQBQLbKvb/AK4Ae1QIgMTohom/3fKI6k7r6SfoWWM6OBuHBVQgLUbhbizfSecKURkmTXUgwyaO133LsOMXACVIZce31ap5+PDRuykvFNPDADTFnXIk5IAQcemiq0it8P+0m7LwFUfiLfHc+mW3CWoyQgxzrnv88vzrb8pspg65PIHsOJMKUe83vJ7G4JOJuNP7WPfvDnEW9BJmstwqTbY3d+LxGMrjSZlZvgPdBqIL9tpBfOZfIQ5GxXfmG9FDZHN6uZ4t4zl23r6PHbMnvqX+vpyEJPdMfMCQMXiIUdIB5QHhi2SMYaXf6jwNiBtFpqcf52h/KEatYa7ZPSWVUtHtgJJeaLww063Z9/5fNi8J6H0nnqJXgRPLoo3w8LFzy01QqNVaS2h3pO6APgk/TKTkMRKwg==;SXvueePHg4tvvgAXAtI8gg=="
 ---

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Capital Quant Solutions bags NASSCOM’s AI GameChangers 2021 Title"
-    excerpt: "Capital Quant Solutions, an NSE-backed technology-finance firm specialising in the extraction of structured data from unstructured financial documents (CapQuant),"
-    publishedDateTime: 2021-08-13T12:17:00Z
-    webUrl: "https://theprint.in/ani-press-releases/capital-quant-solutions-bags-nasscoms-ai-gamechangers-2021-title/714776/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/capital-quant-solutions-bags-nasscoms-ai-gamechangers-2021-title/714776/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/capital-quant-solutions-bags-nasscoms-ai-gamechangers-2021-title/714776/?amp"
+  - title: "Capital Quant Solutions bags NASSCOM's AI GameChangers 2021 Title"
+    excerpt: "CQS aims to alleviate the financial services industry's information overload through the cognitive automation product FinStinct that provides insights from unstructured and complex documents. It utilizes machine learning, natural language processing ..."
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/capital-quant-solutions-bags-nasscom-s-ai-gamechangers-2021-title-121081301800_1.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
+      name: Business Standard
+      domain: business-standard.com
     quality: 59
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/08/capital-quant-solutions-bags-nasscoms-ai-gamechangers-2021-title.jpg"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/13/full/20210813181705.jpg"
         width: 600
         height: 450
         isCached: true

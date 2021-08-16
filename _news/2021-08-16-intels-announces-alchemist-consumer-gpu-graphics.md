@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-con
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2045
     height: 1149
     isCached: true
+
+related:
+  - title: "Intel announces gaming GPU brand to challenge Nvidia, AMD in 2022"
+    excerpt: "Intel plans to take on Nvidia and AMD with a new brand called Intel Arc for its upcoming series of discrete GPU products for high-performance desktops and laptops that will debut in 2022. The based company unveiled the brand Monday,"
+    publishedDateTime: 2021-08-16T19:42:00Z
+    webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/intel-arc-chip-and-computers-hi.jpeg"
+        width: 1400
+        height: 899
+        isCached: true
 
 secured: "3M7ywAPl7MgitlA2i0AVwaKoyfHE6BGWYEGKenfSAqAokGDPUoWmuWQGiedX63kH4KUCk2u23ahYw22hAOzb/vwgZOoDQw9i+bTK/vNYY9weM3AJH4MH1AZ8YXZARZzeFwruxezFZFRteiMYdIE1f5oLf2A3bYeIwKKEIlJMsb8c7pKcvvW5LATDxCRJeR+HhDoCVYjwBHCyLGeK7BWby5dsO4dm+Z8fVRzfIRyj9vQTXHD0oF4u3hYYUrzUccsHUZB5PT3hU8MuUtR6kueMDPs/sVFj4mSqBAOweJLnQumYkFW7/3oCeCzoeu6yeZd7gwqbhjUt5N2k4yQb0oOi21LLs2U65sOWb9i5y8C7fe9qHicm8zwdhLlkla+DBqxg2DeTw8rSRAInzCDWg+YEwv52lpBC7whEjqGNdc6/HVVb3w8ANZUAtmzGZtDYYK5CyDDWKsWJdE5UV8QaGCRcwSh3XKoxzEoyGcEbEDXAzxBV3moD1kqGsZzEnWZJqlrELRrSwJGI2cw+OOh98Jwlyg==;hokfTwbmHOQwx9Rhu4Bv9w=="
 ---

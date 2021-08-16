@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-excerpt: "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value."
-publishedDateTime: 2021-08-04T12:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
+excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
+publishedDateTime: 2021-08-04T12:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "rBK9HAL4vEnIK8xthtHzKpBxWMC/hdJgIXCeFb0CkmUmPsMmF+Ok29iQK1oTfkAfo901pMj7g9rJ/GlMDFXJVzRqNR89NKfzS66mSiZJJPY0lfakbWtXVF1SlL5q1txnoXkwLk4sw21w5GsYJycM74FJQEZFiMcs3sLg2vjDBXnta9cq8W+kC7VNBc04C8ihv1gsI49lYW5vg1D2UX4g5ZUcIbRkV7BiF04V7wTOuBuO34ldEI7FNMITSC9Sde/IBQKcXi4Rut8C/e3F05bn94p28M3WFAuIzSzSHwSSli7RBvE+NbqKqAX2tBH5k6hmqeUXoZEcaAWPah2eXkqhWu/cYypB3c4jo15aNXWigZE=;dx4nI98NCNQrd1AAK+IuhQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
+    width: 900
+    height: 471
+    isCached: true
+
+secured: "Wdjrm3P7Vk9S4eqNYtBZ6vGH4UTZm3sN2qJdbZcrzv13aa8lrj/7Jr01agj4x4U7mSr8HQ46rSbjV0qX7nHhdW5HxGCzRYuJ9IFQLW4NyJq6zcIjsVQKA5EFAYI9XhSzOxckZFhziwX5GGA6QBwZiijwS6EAIFKvhvGbJmnTUo1yjSEKq2P6mF36Mtk8o8J6jv7PsbJT8ty+7RNMMlirGYciyornMeBsV+OiUwFikVzDBA2+qSfj9yLlwyioLfr4QNy7XzUL0VMPf0GMq44R5QAZyNaYVhpF1YnrRrBz78FlVcGfsT9NgTyUibUpYu3UVW5CZs70xxGFE4YC8lWyo5WvpF674OIx3fQMivDZV+Y=;zCC4p1OYAHCXfsc7iIpucg=="
 ---
 

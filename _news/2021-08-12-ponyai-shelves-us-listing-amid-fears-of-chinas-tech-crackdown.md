@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/ponyai-shelves-listing-chinese-govt-cra
 webUrl: "https://www.techinasia.com/ponyai-shelves-listing-chinese-govt-crackdown-fears"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "China’s tech crackdown thwarts Pony.ai’s US listing plans, insiders say"
-    excerpt: "The autonomous driving start-up’s hold on going public follows Beijing’s move to ban ride-sharing giant Didi from signing up new users soon after its IPO."
-    publishedDateTime: 2021-08-12T03:59:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3144742/chinas-tech-crackdown-thwarts-ponyais-us-listing"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 187
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/08/12/8875ae8e-fadc-11eb-aa37-9736ba6f9b4b_image_hires_035937.jpg?itok=iEFkWb3Y&v=1628711988"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PD9WmcwJ4E+JS8ZDfXGhdM3BDNUMhQElFDTLr0twnQhXkEC09xxWRsggh7CbDL6JWn/1m3YASFZ51ih5mrljdf8+uXL1Pt9ImI9G7BBtRgjKdExhnIRMVMUmNbIZpfME5RGa+JYgLfhjmZlZ9TUsJQhsroDXrG3cc3dV7owqgCf5Yb3AQJWpQ1cn0vwHz4i1DEXYZqf6kS7RzWxCD3MF94IiT+igd/gdaDZsNPhmOj2vhPrlMhO2XUJsX6mYlb70NwL6LgioZEHcP/EpoIh4iFNmotcvuIc2Gk7S2D/0rh/QYs16FxA7r33El9ySES2lx28quxwEVvuDP8RPfpwv0rImFDLWqWpL3Ut/mirk/78=;2gPwowRlNFTInvo6WaE1CA=="
 ---

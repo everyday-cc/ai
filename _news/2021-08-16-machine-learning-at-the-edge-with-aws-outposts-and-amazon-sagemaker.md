@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1260
     height: 592
     isCached: true
+
+related:
+  - title: "Deploy multiple serving containers on a single instance using Amazon SageMaker multi-container endpoints"
+    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models built on different frameworks. SageMaker real-time inference endpoints are fully managed and can serve predictions in real time with low"
+    publishedDateTime: 2021-08-16T21:07:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-multiple-serving-containers-on-a-single-instance-using-amazon-sagemaker-multi-container-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ml-2800-img1-1089x630.png"
+        width: 1089
+        height: 630
+        isCached: true
 
 secured: "yXA/j8dcyJQTC3Zi57P4NcTo7VNd/lwwW+b+iaG1lvlSniunu0mWXLPtcK7qGvHbFWNJdclsmg7WC0luowsm/ko86hYz0/W0uonnNIzjbOtiZePPJNTpOkMwUWwhXoP9petf+8CCzq90J8YsyA2Ar/TqJ7fs/Ujcz1F7S4+7TbQwZmP0nEEqiksa7oK+f8kiyDPkzHD2PSwVNPpBHYtN0lkjUNCjABd3RsPFovedjnZxADdt+Rk+4ieVPd/pw8RdcShYwO+9P91z4tL51tES6eXg5OK46Ft93LtPfRcuuAHJOEEGYC6NgtNVMtL2Jsrl6AAl/xBdzuGs8pbiyAe/BF3hRd+wP//W8GVvnZ5wbS8=;DHXSUtGJGuHmY7OFpjiHpA=="
 ---

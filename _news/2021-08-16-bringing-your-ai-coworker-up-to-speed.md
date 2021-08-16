@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "5 ways to get more women working in AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-08-12T15:17:00Z
-    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
-    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 57
-    images:
-      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
-        width: 960
-        height: 684
         isCached: true
   - title: "Rules for bringing AI into the classroom"
     excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."

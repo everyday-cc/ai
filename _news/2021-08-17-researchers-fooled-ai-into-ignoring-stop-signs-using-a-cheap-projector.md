@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-s
 webUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Next Web
@@ -27,22 +27,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Researchers use AI for treatment aimed at preventing dementia"
-    excerpt: "An MRI-derived model of electric current flow in an individual's brain. Red and blue outlines represent the size and position of electrodes placed on the scalp to deliver transcranial direct curr"
-    publishedDateTime: 2021-08-12T05:03:00Z
-    webUrl: "https://naples.floridaweekly.com/articles/researchers-use-ai-for-treatment-aimed-at-preventing-dementia/"
-    type: article
-    provider:
-      name: Florida Weekly
-      domain: floridaweekly.com
-    quality: 39
-    images:
-      - url: "https://naples.floridaweekly.com/wp-content/uploads/images/2021-08-12/12p1.jpg"
-        width: 693
-        height: 791
-        isCached: true
-
-secured: "O5L9hodViDfv4iJOo5eIBePb1Gx0HFraqIVJ2G+2BeX1sV63efJ3FKECnVajVR23MNyoAO/FmWqMmkriSG1YgvQiScpqrb9G1Zu1N9FBPDA4Kdmhg+xaE8oMHlHcBH+GQ25XfLYO/wT6Q3eD+X0BaUtRQeEN8j52Ozxoyzmeuxm8/5/zDoQZ4LP4c6KPQzck50lpqU3NFiCqz2lYOegXm/zsCLaZVTh2iFzZypaWNOnmQFHWGYromf5SnrFKHd3DaE8U/CLAQK05WXlPHOh/TJ4EosH8lyEUhA8QfF+mIoOa/wamRYDTeybSem11XN1YHJoQeXV6PBENpfCQkMs/ekozFGPRgLVY9x0KM54oILw=;jltRmvH0QkyWb1lB0ZvwAA=="
+secured: "Ec2/w00DvY0hannY7JneGCkdXRaa76Z+f5AMXYNWddy4Gj5ZdwEs9jjT1RCsYqQpUTFXOOOk2ZNaoYSLpUrqkFaxaguexzPw0rCKcKBiDG1XLhfLRCUYgY+3o+rAD0fa0vyfqKfr1M66Ff/GNM8y7iWO9rga1dGQZX28x6K5tVaHN1GoF7RQwbIhvqvx99lzt+37TBgvxOhlS6racc6EW1n9I3Czd0UY6g5VfacQ/Sk+Hd5gI15ZOliQ8EHBCk9QSNqv0wsRFcguDlRb5ZQDwMdDx6EZ3YXhSSVrMG5zAKsTZmlJF5VxkwCVte5KmSV5SUV4dLJCAwochs+vQB9lf1P1BiciXtbkj3R2mu09hmkq3exKk6mTVVftUF+Qso6drlO/jv8pG6AT87HDYKIkqjSRqmGiFZY4rcSONS4jBt9uuMr1JorBUsW3A3XPzoa6EzLIHTYAMb8LvqRSAhyAYmf5RJ6XErz2uNO5dFfoFSQhdKk4g187p08uyL/EJWWmX0b5+UdniLlYShwCe6ctyA==;GyavuL1orFBLbA+pP0URTw=="
 ---
 

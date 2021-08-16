@@ -26,67 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing your AI coworker up to speed"
-    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
-    publishedDateTime: 2021-08-16T14:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
-    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+  - title: "3 Top Artificial Intelligence Stocks to Buy in August"
+    excerpt: "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots."
+    publishedDateTime: 2021-08-14T10:50:00Z
+    webUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "How Conversational AI Works and What It Does"
-    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
-    publishedDateTime: 2021-08-16T12:41:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
+  - title: "3 stocks to buy and hold for the next decade"
+    excerpt: "Picking stocks for the long term isn't easy because the world is changing rapidly. But here are three shares Ed Sheldon has bought for the next decade."
+    publishedDateTime: 2021-08-16T08:58:00Z
+    webUrl: "https://www.fool.co.uk/investing/2021/08/16/3-stocks-to-buy-and-hold-for-the-next-decade/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
+      name: The Motley Fool UK
+      domain: fool.co.uk
+    quality: 24
     images:
-      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Rules for bringing AI into the classroom"
-    excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
-    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
-    publishedDateTime: 2021-08-16T16:52:00Z
-    webUrl: "https://www.medscape.com/viewarticle/956658"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Investing-app.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QkZdKz8HoeozegHeJvd73JvoWH8vn5fv8UWzBT5u/hlgoqSV/5P98UMnQoy+6wICroappHMcW776X3AwbjU5titq3fqJTs6qgcmcNObeqpG7FxNOS93qfJDIQodM+X1MUFCVq6qbxHpNp2sufZvRsHrlZVA5xb2AUsOFy+laHOMaj1VBkFtvVT+8I1rMmN7hHbTXpJ0boBUg+hH4Ceocp0B+az/vok2fvdsFrLxa0xuhlAaG/ibpJc6L0Eu5PJHRt8Fz8j3ta+g9tweao/JHSS8voTc9WTF6wE7vAg1zM0ZNoratLQXIfavHZ5hkcOR5xPRi15KAQvcNenH0e8r92P4eyV0tgK9FGpbg9k4R11LdGJjmLyuGwF0b+TyUSP/r51uDk5LkHICmQRfCEuqcvHA1ej2NeRJX9exHebmtZUlD5K9XpcHEm6QWt7mu1MDkJKLHaOk3BTHaI6gZAewpFR+EoruozsBkJYILOe7Hql2w2vO97OFHjgraly+TZk/5C/eh99qJJmAka0fe5/nVMg==;P7WC6OM5pQPtNRx3oh3JZg=="

@@ -43,38 +43,6 @@ related:
         width: 800
         height: 494
         isCached: true
-  - title: "Students develop new 'driverless' electric car using AI in India"
-    excerpt: "PUNE: A group of engineering students of a city-based private university have developed a \"driverless autonomous\" electric four-wheeler using Artificial Intelligence (AI) with the intention of reducing accidents and deaths caused by human errors."
-    publishedDateTime: 2021-08-12T03:11:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/articleshow/85261357.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/amp_articleshow/85261357.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/students-develop-new-driverless-electric-car-using-ai-in-india/amp_articleshow/85261357.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-609430,msid-85261413/ai-car_istock.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Pune students make driverless electric 4-wheeler using Artificial Intelligence"
-    excerpt: "A group of engineering students of Pune-based private university have developed a \"driverless autonomous\" electric four-wheeler vehicle using Artificial Intelligence (AI) with an aim of reducing accidents and deaths caused by human errors."
-    publishedDateTime: 2021-08-12T03:08:00Z
-    webUrl: "https://inshorts.com/en/news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/pune-students-make-driverless-electric-4wheeler-using-artificial-intelligence-1628737737186"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 70
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/08_aug/12_thu/img_1628735828434_130.jpg?"
-        width: 922
-        height: 461
-        isCached: true
   - title: "Pune students develop autonomous electric car using artificial intelligence"
     excerpt: "Electric vehicles and self-driving technology are two subjects the automobile industry are very keenly working on. Researchers from various segments are also working on these technologies. A group of engineering students in Pune have developed a driverless autonomous electric car."
     publishedDateTime: 2021-08-12T19:53:00Z
