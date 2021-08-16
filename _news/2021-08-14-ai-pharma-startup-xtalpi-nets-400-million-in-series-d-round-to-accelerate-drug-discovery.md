@@ -27,6 +27,17 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "Gunderson Dettmer-Led People.ai Hits $1.1B Value In Series D"
+    excerpt: "People.ai, a sales startup specializing in machine learning, announced Wednesday it hit a $1.1 billion valuation after raising $100 million in a Series D funding round steered by Gunderson Dettmer."
+    publishedDateTime: 2021-08-11T18:43:00Z
+    webUrl: "https://www.law360.com/technology/articles/1411803"
+    ampWebUrl: "https://www.law360.com/amp/articles/1411803"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411803"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
 
 secured: "ODRU6PKSybGUOuhwf9VnXFlGMZoCX+pRfwY5DEyCS/8LhJbtQzcj1YZT+UWOCxu7fnucBMy+x3cxCR6wkLyPmMs740h5LEneXTqlkMAMaAxkyLQUCDAb+zre4CmNOTpXttsfPrdzL9dFJGq1RjcVCNTQ9r89jF/uqnzT6VqB4hiSGxQTyei69SMAwwgcdizeZ6kHwPOsSl3BgSP6H5cfHmCpkhty3KvDg1uMohP/eeMzHNUOTMqZfd2LIKpaAyvy8tL3hl4QKbqf4dRSnrBeoR+5FyGK3VYSAnt4ktBQw8pF+b1Qb4eeS7HDWx45ut9peAtQ4BimS6SaoNu0GMk6dp8q/3OnbWty+OMjvisho8tEPHzHhYlXJFwbB9HlaDayUlXB/9bYWxyZBK26QMkr8vgfsDUPhktsbjlYqK+n6ZcjQQeZR6bD8SxhXpZTAwah0OUi1SYlAGtlbYFYCHjqislpkMi0wm332rKP1GNv1j1Qy+BCpKWhkVoYOkAAMJ2lILNBkYDjQm+NnN8cULDeVA==;ZtPMFdtOLuQgsiQCdW97OQ=="
 ---

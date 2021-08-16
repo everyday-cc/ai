@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Huawei Vows to Enable Railway Digitalization in APAC"
-excerpt: "The event attracted more than 1300 railway industry customers, partners, experts, and media drawn from across the APAC region. Core Huawei railway industry customers and partners - including the Hong Kong Mass Transit Railway Corporation (MTR),"
-publishedDateTime: 2021-08-13T11:32:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm"
+excerpt: "To this end, we will drive ubiquitous connectivity and promote equal access to networks; bring cloud and artificial intelligence to all four corners of the earth to provide superior computing ..."
+publishedDateTime: 2021-08-13T13:03:00Z
+originalUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac"
+webUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac"
+ampWebUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1594222/railway_image.jpg"
-    width: 400
-    height: 213
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 426
         isCached: true
 
-secured: "fpqZYY9Fz3GXWqgZrvlq+wPeby7iO4gEe3L6K9OpLHnNfw2sbrx2X0UqwkeSPPWIvGcWn7DkSHZpQDo8JsV8a23r8yzA7piFWv1ZV5lfobqDZhMxekvPoAuz6UduHGk7FMbJgwS2UR/moTlQi6kTw1CAl/4TRYgIs4f3YSji54cUJQ03CKDk2gWDuEFQFOnVkBqDy0u1sPe6N82IHB2xg88EA77OcRd71/x9aCNordODDTLzfHOXpNcROU2hrTPUwOq2FJS9Q92AbAXENzHVlVT5jLGm/ovm/RmBstvGkdER8Q25BQxlBVMFPnNfW2LAkyqHhDQ/v3/hxlr1eubiCUhGjxXP+lNdeR0ZzaZcAfs=;kOREO8HiMXl84cUJ8NudIQ=="
+secured: "bWGDz5ZhogCBayq7/XTxqlfnFvKn9LAeppB5vFt8zTz5VDghscsAal2NB+A61XS4AjJoolx08Ub0te1toD8P1tpPdL40hgXL3cns69DJRwvvcGkZxS/DY/0HTVDjCm8Es/zysfdm2JPGjVNrrdqQTqLFY90/y+AsleWsyiy0kRQQRSejY6g56yrgP6r9PDyJicS0M0WbRgqW6j6edpYHeS6mRyLueCS2FBNUm/kELQs/kGCsHG0y2rdLirRQQU9kC4I/JRCxLihb/Cy9n3jjiTTRMIBl7yUmB/lSgnNgiBAD3B4taneiUjey3eoTYDtVz8+QXl8xdPE9jnHd7vHYHzC0NmplVHriSftWJT0+1lM=;rrrDXHV1nOSMMQgvFa31cQ=="
 ---
 

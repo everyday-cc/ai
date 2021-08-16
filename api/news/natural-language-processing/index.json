@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-14-this-machine-learning-tool-can-translate-english-sentences-into-computer-code.md",
+      "title": "This Machine Learning Tool Can Translate English Sentences Into Computer Code",
+      "excerpt": "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "originalUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "publishedDateTime": "2021-08-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-openai-offers-api-for-github-copilot-ai-model.md",
       "title": "OpenAI offers API for GitHub Copilot AI model",
       "excerpt": "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language.",
@@ -158,7 +202,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/11/ai21-labs-trains-a-massive-language-model-to-rival-openais-gpt-3/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1382,51 +1426,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-what-the-evolution-of-aiml-means-for-government-it.md",
-      "title": "What the evolution of AI/ML means for government IT",
-      "excerpt": "The easy accessibility of cloud-native artificial intelligence and machine learning allows agencies to quickly design, test and deploy complex service solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
-      "originalUrl": "https://gcn.com/articles/2021/07/30/cloud-native-ai-ml.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Analytics_Data/GUI_data_access.jpg",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GCN",
-        "domain": "gcn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

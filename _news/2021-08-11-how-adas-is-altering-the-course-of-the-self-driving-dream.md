@@ -26,6 +26,17 @@ images:
     height: 1068
     isCached: true
 
+related:
+  - title: "The Pros And Cons Of Self Driving Vehicles"
+    excerpt: "Like self driving cars, the advantages and practicality offered by these devices heavily outweigh the drawbacks; that’s why these devices are used despite the potential leakage in personal information."
+    publishedDateTime: 2021-08-16T03:05:00Z
+    webUrl: "https://www.123helpme.com/essay/The-Pros-And-Cons-Of-Self-Driving-PCHJJLPW2KB"
+    type: article
+    provider:
+      name: 123HelpMe
+      domain: 123helpme.com
+    quality: 19
+
 secured: "hPn4iknmVniCrdQsfhaHFpDV3Lv8hCR+uXzGJngk4Dw6OwHgCFSokfukOiaYAI3j2nH4HScrap67lDzE+oGg8Pnn8Wi3b9TD17Z/2m6qcgzSB8E55Tup6HPMrSMS2XhtB8os802HsccWaFc2OCD57N3HTlASHwoiLSdeVCVvmY1qOOhpctr7ebq/re0dkrZkm96CYVQrDCHpqWMsukXKKdeZWyVpP05R7GSAKRn9MtdzKJNCBy/YuDqI6FpXlS9fyTIZGFmf2HaBYJ2d5ldPRWK5OlQ76O9lr6QYl0uYyC8SIA89m2QrXQgLTRH36G/ZdizgnQbWY3vhOohAgFhimnV2qdCpZWqg3E4IQG26XQge+dAiBvKv/xp5HlV1O2ibZgE+23qPGvcsWQ1tcT64laJ3Jw8xRlMvOOx5WxaB4EmpLXZz+xJ9nCFXd5Zag4Sp7rWc745Uyzb1wp14JoWcfYEwONFDRmQCSTl9fWIDNHM8yJ9N0EIBArxrJvlVikrYu11YG68POcUcNS1l5+EPog==;qqqvXeutcUqIHME5j7rHiw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-co
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html"
 type: article
 quality: 151
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Audi Skysphere concept is a self-driving electric roadster"
-    excerpt: "Audi has revealed a new concept car called Skysphere, which previews the firm’s future design direction for the luxury sector. It’s a two-door convertible with an electric powertrain, but what makes this a fanciful concept car is its ‘variable wheelbase’."
-    publishedDateTime: 2021-08-11T09:45:00Z
-    webUrl: "https://www.expressandstar.com/news/motors/2021/08/11/the-audi-skysphere-concept-is-a-self-driving-electric-roadster/"
-    type: article
-    provider:
-      name: Express & Star
-      domain: expressandstar.com
-    quality: 24
-    images:
-      - url: "https://www.expressandstar.com/resizer/_zKnNav3UHyBoNbegaYvhaCQyaU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/VFP5REIBMNGLHBXA2MFQEK53VU.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "TAKE A LOOK | Audi's new prototype is a futuristic self-driving electric car that can change its shape"
     excerpt: "The Skysphere concept car can expand by 25cm in its self-driving mode, giving passengers extra legroom while they watch movies, Audi said."
     publishedDateTime: 2021-08-12T17:18:00Z

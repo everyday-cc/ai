@@ -7,7 +7,7 @@ originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nv
 webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "NVIDIA’s RTX A2000 GPU has arrived to enhance designing and processing with aid from AI accelerated tools"
-    excerpt: "Its RTX is used in complex graphics processing like designing aeroplanes and automobiles to visual effects in movies and large-scale architectural design."
-    publishedDateTime: 2021-08-11T09:47:00Z
-    webUrl: "https://technosports.co.in/2021/08/11/nvidias-rtx-a2000-gpu-has-arrived-to-enhance-designing-and-processing-with-aid-from-ai-accelerated-tools/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technosports.co.in/wp-content/uploads/2021/08/rtx-a2000-header.jpg?resize=696%2C370&ssl=1"
-        width: 696
-        height: 370
-        isCached: true
   - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
     excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
     publishedDateTime: 2021-08-12T12:00:00Z
@@ -115,6 +101,6 @@ related:
         height: 419
         isCached: true
 
-secured: "QcYw1oLHNO0ra00S/KTI+e3s2BrHF4ac6F+t8mH5IPkvWSBNIX1YkFfIbdTUMFT8xKGGzGt+AivuFR8RSeHVMgzIhTupDm2zEPNwlYdhsHZqyLyhpNfn4o+Bl0aRW9SJbDOXT9WVwtnm4X+ZUefB9C9RSK62NfrMDlT0OiIhchw3QST/tSVX5OWhzNFSQXshY6Ua66XncpIWlOo5OEVCygBfqVddaurxt94nZMF22vojs6hT6sropsJoCJXbKaaj3fq06OpHspjkt53uReLkzmskec8uelEo1VGI9qoJBBV++JHcaqE4uD16s5i7VZ/S1C9U7vi+2Y83ONnJq6ZwOiNNo479fIpYs2HVpqCdkxI=;tT/JRVyjcsXlYl0mqBsNEA=="
+secured: "+QnR6+VFpJRimf2+pb7pxmBMwvh11rNUfJbzYW8Ds7NFzWjzwWLnLU1AuBNZ0S8as1sr1E7mHb0+he6a5w3B/uT8EvyGQtHiSERUD7y+7oI1UaO+PXKGnZm46QxgJG6hp0KchIDoRUbP5Pnv8IGjZQfI5zWw8pVCnqjxBHFQ5q4PWk3wVGVrP94APJfW3wU6JHgK0qAMlG28incolg6otoNGW4bfyrxR39+159R5T0dagciESxDGB4Ic+TD0mnpgFtKdnK9N2FVydC0oPO/VfyuiELdoawUB8XMFtdcqfiF6avVcUNlfQ/KKeqyFs0HpVK0ckL84mzyoJHzMtZdyUkLOviclUY3GfMucDlHtiX7HfuK+Rh7QTXrC7VLaHl0/c98mAhLRlXG/SyJzFPj7R/Fjrhr0yadGD2EMq4LJsR/jTslXa1yBXCSyNkw8dZyhK11Dwr299P3lDUT0pDUgVhHWA+va73O2s8VmjETb76pCUerfREaSd1TwDTyv9x2YQCkl0oguXn7zjvOMbhEnLA==;lm57TfX0JghzItm8jojWgw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/ai-networks-modeled-on-human-brain-can-perfor
 webUrl: "https://www.unite.ai/ai-networks-modeled-on-human-brain-can-perform-cognitive-tasks/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 840
     height: 600
     isCached: true
-
-related:
-  - title: "Artificial Neural Networks Modeled On Brains"
-    excerpt: "Researchers modeled artificial neural networks based on human brains for performing cognitive tasks efficiently."
-    publishedDateTime: 2021-08-11T10:41:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains"
-    ampWebUrl: "https://www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/research-papers/artificial-neural-networks-modeled-on-brains/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 74
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2021/08/neuro.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "X0n27MEYJ7xdHWA0+X+3RfEaPlhMtRkv1iuCKnL9F7C+mxGRH3hyq6ENxQgMDpOTv1LeCRzNpcYSq5DNR4ge+sSAaxSxbqZnoNy2kSzD/COLw/6sdYlneJxyvOj62pHYqxBN1TbO0C8OWeAbj/bElCNJC/yF9DsTP7fq0pXGJLqghDkVeLYOt0T7C2ybR6kXz1IHwnx7L6Jt+H0RiFNYUgXj7GJurGJMjz4vjUJJR32bZqqllFcQGXYIexnqL/YMg0g98LBNAaWzU1OEokFYb5McG6MxPSuAMDYd0kbIDadC7AM5QBFtWgNV9lk0TllbplkIMq4Ex7JfoKOA30ZF8ynsiBKiF1tTsDclccZxIFV70PLP+iIZEoVM48SDw4yRcaOd91nhdPCxarchTHqpoN0/zhWvclTbLRCwywL11X2sAp1yJ+wUnkma7KPwPJKyaeV9u+o0krGkmUO6BaKjSP4KWAsbbmS5fJd4J9Zeq6jRTzEm22gK3Okbp9Y0hu6WWTvezhB3zUHOG0quELa90w==;2ka/M5PBHWrkSmytYafvcQ=="
 ---

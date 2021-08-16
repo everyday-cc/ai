@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-15T13:00:00Z
 originalUrl: "https://insidebigdata.com/2021/08/15/navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
 webUrl: "https://insidebigdata.com/2021/08/15/navigating-driver-privacy-and-safety-of-electric-vehicles-self-driving-vehicles/"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 related:
   - title: "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us"

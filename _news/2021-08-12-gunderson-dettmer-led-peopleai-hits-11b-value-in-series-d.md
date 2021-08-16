@@ -20,52 +20,24 @@ topics:
   - AI
 
 related:
-  - title: "Mubadala Backs Software Startup People.ai in New Funding Round"
-    excerpt: "Sales software startup People.ai has reached a $1.1 billion valuation with a $100 million funding round backed by new investors Mubadala Investment Co. and Akkadian Ventures."
-    publishedDateTime: 2021-08-11T11:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-08-11/mubadala-backs-software-startup-people-ai-in-new-funding-round"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCe10WAM32Rk/v0/1200x900.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Ukraine-founded startup People.ai becomes ‘unicorn’ with $1.1 billion valuation"
-    excerpt: "Ukrainian startup People.ai has attracted $100 million of investment, bringing its total valuation to $1.1 billion, its founder Oleg Rogynsky said on Aug. 11. With this valuation, People.ai joins the club of the so-called ‘unicorns,"
-    publishedDateTime: 2021-08-12T11:10:00Z
-    webUrl: "https://www.kyivpost.com/technology/people-ai-becomes-unicorn.html"
-    type: article
-    provider:
-      name: Kyiv Post
-      domain: kyivpost.com
-    quality: 33
-    images:
-      - url: "https://www.kyivpost.com/wp-content/uploads/2021/08/56935306_1937928666319111_8722487745294893056_n.jpg"
-        width: 1024
-        height: 619
-        isCached: true
-  - title: "Redwood City sales software startup People.ai joins unicorns in $100M funding"
-    excerpt: "Sales software startup People.ai Inc., which just brought in $100 million in funding. #startups #venturecapital"
-    publishedDateTime: 2021-08-11T14:14:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/08/11/peopleai-joins-unicorns-in-100m-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 31
-  - title: "SoftBank Asia backs $20m series A round of Zalora co-founder’s logistics startup"
-    excerpt: "Singapore-based delivery experience platform Parcel Perform has secured US$20 million in a series A investment led by Cambridge Capital. New investor SoftBank Ventures Asia and existing backers Wavemaker Partners and Investible also joined the round."
-    publishedDateTime: 2021-08-11T12:22:00Z
-    webUrl: "https://www.techinasia.com/zalora-cofounders-logistics-tech-startup-raises-20m-series#!"
+  - title: "Tencent, Google-backed AI pharma startup secures $400m in series D round"
+    excerpt: "The new funds come less than a year after XtalPi raised US$300 million in a series C round, bringing its valuation to over US$2 billion."
+    publishedDateTime: 2021-08-12T09:54:00Z
+    webUrl: "https://www.techinasia.com/tencent-googlebacked-ai-pharma-startup-xtalpi-nets-400m-series-d-round?comments=true"
     type: article
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 29
+    quality: 46
+  - title: "AI pharma startup XtalPi nets $400 million in series D round to accelerate drug discovery"
+    excerpt: "AI pharmaceutical company XtalPi secured USD 400 million in a Series D financing round led by OrbiMed and RRJ, with investors including Sequoia"
+    publishedDateTime: 2021-08-13T17:14:00Z
+    webUrl: "https://angel.co/today/stories/ai-pharma-startup-xtalpi-nets-400-million-in-series-d-round-to-accelerate-drug-discovery-50439"
+    type: article
+    provider:
+      name: Angel
+      domain: angel.co
+    quality: 8
 
 secured: "s7RkpveDHqcVJr/YjSBaFyylEp1a5JtqNXtcWmu/k1lcYFmDWWACH/oQGHHz8nWTcqq5X9Kd3PlRQrZ+uziKA4WoSEUgHXXGUscESiOnmROXFJlcAtX2Td9rujP+z17pp27EPlYprNYf8wBUWqoTeVtaGDmW3zE41airfDEE9prG6zNomKdm60VNK8a3B2lETDO7hl5a9lr6IGVzpNVH67gqhIwJkycp3EqdNefYTnAtD03wg6xUbJIGtT+/JxkVqS26FHNi5iC7HGMbowMGg8CaPLzKg0hp0mVaJSLHtXnxnp7QTTDWhsarYvRX+qQ71jv+FQy0zpKLjzWTgtndXK9D+YDMA57S+Ql8Qf8hHnQ=;XFOuqHgg1mQlQkvam/Bwyw=="
 ---

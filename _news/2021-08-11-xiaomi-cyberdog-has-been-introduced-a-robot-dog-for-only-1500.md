@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introdu
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: GizChina
@@ -42,20 +42,6 @@ related:
       - url: "https://beebom.com/wp-content/uploads/2021/08/Xiaomi-Made-a-CyberDog-Robot-Inspired-by-Boston-Dynamics-Spot.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Xiaomi CyberDog open-source quadruped robot"
-    excerpt: "The quadruped robot is powered by a NVIDIA Jetson Xavier NX featuring 384 CUDA Cores, 48 Tensor Cores, a 6 Carmel ARM CPU, and 2 deep"
-    publishedDateTime: 2021-08-11T09:23:00Z
-    webUrl: "https://www.geeky-gadgets.com/quadruped-robot-11-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/quadrupeds-robot.jpg"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "QDD5yDd9jaBzp3JklMXNsjQ7JC6LDa+RULw92f1voNgTHIhDQVuRkD/dFvZvE9zIYIgj3/XzKqbxcoG2DdSQWHf1q+hixyp86W1Gph2RRsPmL3EDNbuomd6d3RlDVMYyQZp9Tm8Xafrth6TVYFafETPFrSXPV33mCclK5brU65gTI+qawGmrw6CoYJBUJBO4FgykcC7UpgQsv5wOLYWrOX5FreFfYJOjIJP2RtdmIC4NDiya32HrPx2z1G+7QdbUYja6UKQD9nOzwNWtQzvz75A2KbZnEjaH0bsW1c2Uz370cGhUx+k4G2x5OH9qCKAA3zoPYybzxcEdnz1/zgPm5PMa0UZIZlprfgSEcIi8RZx2LOU1HiqzWoHWl9zYYiFrHGnvemg3g8Eb07OYc7bCEPwRJdVFfFNgFR4YFL4Mq5JwAdrIs06z27MPyG+2aUHaSQRE16hBocvNzaSUOFPNSm9ElnmwuOmS3Opi0ByGACoh0zMqryFc6F+pCrw8HeMEqEinZnyh+GmcN4bdUq9qJQ==;aAz3U1WkhxbmMEalWKQQFQ=="

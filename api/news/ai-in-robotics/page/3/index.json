@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-07-29-cansel-brings-tinysurveyor-robot-to-canada.md",
-      "title": "Cansel Brings TinySurveyor Robot to Canada",
-      "excerpt": "CNW/ - Cansel, a software, hardware, and service provider to engineering, surveying, construction, and utility industries, announced today an exclusive agreement with Denmark -based TinyMobileRobots to distribute the TinySurveyor robot in Canada.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cansel-brings-tinysurveyor-robot-canada-/2021/07/29/9420110.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1583655/Cansel_Cansel_Brings_TinySurveyor_Robot_to_Canada.jpg",
-          "width": 400,
-          "height": 317,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-29T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-07-29-aim-medical-robotics-appoints-dr-babak-kateb-to-medical-advisory-board.md",
       "title": "AiM Medical Robotics Appoints Dr. Babak Kateb to Medical Advisory Board",
       "excerpt": "AiM Medical Robotics, a leading developer of MRI-safe intraoperative robotics for neurosurgery, today announced that it is appointing Dr. Babak Kateb, founding Chairman of the Board of Directors & CEO of SBMT,",
@@ -1384,6 +1341,58 @@
       "ampWebUrl": "https://www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
       "publishedDateTime": "2021-07-21T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control.md",
+      "title": "5 ways driving is set to change in the near future: air-cleaning cars to mind control",
+      "excerpt": "basically – including wireless neuroheadsets that convert our electric brainwaves into communication with robotics. At Goodwood, Emotiv demonstrated its tech through the mind-controlled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "originalUrl": "https://www.techradar.com/sg/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/QL6cCU9JaGStf4sqioWSJB-1200-80.jpg",
+          "width": 852,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/5-ways-driving-is-set-to-change-in-the-near-future-air-cleaning-cars-to-mind-control",
+      "publishedDateTime": "2021-07-21T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

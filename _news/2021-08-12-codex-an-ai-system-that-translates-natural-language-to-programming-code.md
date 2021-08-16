@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI can translate English into code with its new machine learning software Codex"
-    excerpt: "AI research company OpenAI is releasing ... to build simple websites and rudimentary games using natural language, as well as translate between different programming languages and tackle data ..."
-    publishedDateTime: 2021-08-11T10:57:00Z
-    webUrl: "https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 115
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/O4KwUbyNYY8vEUK3ThvDskcE3RI=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69705204/acastro_181017_1777_brain_ai_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "This Machine Learning Tool Can Translate English Sentences Into Computer Code"
     excerpt: "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes."
     publishedDateTime: 2021-08-14T13:10:00Z
@@ -58,29 +42,22 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Bias found in new OpenAI computer vision model"
-    excerpt: "An audit conducted with OpenAI’s former policy director Jack Clark has found gender and age bias in the firm’s latest computer vision model CLIP."
-    publishedDateTime: 2021-08-11T20:20:00Z
-    webUrl: "https://www.biometricupdate.com/202108/bias-found-in-new-openai-computer-vision-model"
+  - title: "English schools turn to AI to help students catch up after Covid"
+    excerpt: "An unusual teaching assistant is waiting for the students of St John’s primary school, in Wigan, north-west England, when they return from their summer holidays. To get them back up to speed, after a year of disruptions from Covid-19,"
+    publishedDateTime: 2021-08-14T04:00:00Z
+    webUrl: "https://www.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    ampWebUrl: "https://amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/006ebaf6-a76c-4257-a343-f1db1f7b39e7"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9feb48f9-abc8-4488-9e23-610d352828e3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "OpenAI's Codex Turns Written Language Into Computer Code"
-    excerpt: "OpenAI is releasing an improved version of its Codex AI model that can read written instructions in conversational language and transform it into working computer code."
-    publishedDateTime: 2021-08-11T17:10:00Z
-    webUrl: "https://cacm.acm.org/careers/254733-openais-codex-turns-written-language-into-computer-code/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "8OhKmnsHmc/LT+4xxeppF2sg450gMHQgT2G6ZfQdV+4ZTN/2RKEySN7+IgYVJf4IMgziHZxDiFGbPAjK3pjaUp4Espii7+GdWW2d9I+Npex1mFc3JQqgXr2lR7iyICkLqC/o0QNMis6457RKZjN/wyJ5xo2rz33ZsIgic7ZRsNWK5HO/LhMErN1Tk9a+cxnxK0O7lKphOgce08G4w1hOuijICTscZ10poonFWfJd28cLXEgLvoo/zic+aZeBAQy6v1RbFT3dwgP+KBL1bZyae/lqRiPbjFhg1dnmbBcHBwny7qLP3zzTK9hXuf/CceY9vtfHXPqoBFvdxl64bxWREikkb8Od5C1UOemt1DtILLdT4XVt/phHljEEXPIXC+ufmP0jSh9M6iZZEilgGDeUnVHWC/DsZvqQc8aPfZIgLDeCY+6YlOKtJVbURz8WKcfMyK5Ch++GyRpoPZ5Ozdf0D3WwvRDo1WIdgpRa7czsunmPKecNTzz24QMgtuCoMlXfj7eL/Y4i7IlOQEVd7Te5pg==;vJHQZRYntVRNZI619ot7hw=="
 ---

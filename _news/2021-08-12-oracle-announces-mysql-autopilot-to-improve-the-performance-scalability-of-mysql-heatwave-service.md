@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/oracle-announces-mysql-autopilot-to-
 webUrl: "https://analyticsindiamag.com/oracle-announces-mysql-autopilot-to-improve-the-performance-scalability-of-mysql-heatwave-service/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 675
     height: 371
     isCached: true
-
-related:
-  - title: "Oracle tweaks MySQL and boosts storage engine"
-    excerpt: "Oracle has announced a free upgrade to its MySQL HeatWave service which it says promises to make life easier for clients, while at the same time improving performance and stability. The upgrade comes in the form of MySQL Autopilot,"
-    publishedDateTime: 2021-08-11T11:01:00Z
-    webUrl: "https://www.techradar.com/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-    ampWebUrl: "https://www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-tweaks-mysql-and-boosts-storage-engine"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 74
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UhpgU7eT2dhfTc52jvyvM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "FeG5NmoAWMlDClIk08aynYeTEG2hfIIA4vzyw/Q2kfJvPxE/Y24KlLlcCtKZ1tNvSk91OR9wIpe6I6y54Pp+clOqb6BrLsWPE9Q1rJ4fEnemQ1TzGcnLB1o4cSGsYJFVCNJmfgQ2OVx6V9fRAT721jHFCE0l288AEUItkUD/Yu0FpG4gVEtTwsJ7A+5E1OcSitqldfFPEXKZsLjXfny4IH24BaYXdRMFJQlNVuC2bgY9T4NOQ58bsovL3F41TQ5nBWL0KrNEx7AIQBN/Z1J/js0V+XhPabjbJJUQdgaibfe9sSZX6tzRwPDuDPdqXheD/q3YmzKB0VUfVvWfB+/bNJ/hFNpyJHty5Uq6lRqWjP50kFceEQFs80wHmSlVQl9gei0IlNwJe6BEa0RD9jBUz85bZvTK5T5f0T5WGh4LsGDo/WWqnaGm8HkxwHVA/cPAHHLwJm91qrEgKWGscJPv4d7cbPtksz+it3wrN0DgDHFIwSnztGTcGpWibdhbcXOQ3FzUCp5WfMRKAXMbn5TIyw==;2BMs99CO5EaNdVYsbTuUpg=="
 ---

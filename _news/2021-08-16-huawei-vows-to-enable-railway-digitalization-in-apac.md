@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "Huawei Vows to Enable Railway Digitalization in APAC"
-    excerpt: "The event attracted more than 1300 railway industry customers, partners, experts, and media drawn from across the APAC region. Core Huawei railway industry customers and partners - including the Hong Kong Mass Transit Railway Corporation (MTR),"
-    publishedDateTime: 2021-08-13T11:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-huawei-vows-enable-railway-digitalization-apac-/2021/08/13/9430379.htm"
+    excerpt: "To this end, we will drive ubiquitous connectivity and promote equal access to networks; bring cloud and artificial intelligence to all four corners of the earth to provide superior computing ..."
+    publishedDateTime: 2021-08-13T13:03:00Z
+    webUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac"
+    ampWebUrl: "https://www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/huawei-vows-enable-railway-digitalization-apac?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1594222/railway_image.jpg"
-        width: 400
-        height: 213
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
         isCached: true
 
 secured: "fyc2+WICg9RKvcj3GBtVISyPkcqOECQUk0UYbsOLmP1+B9J4ViHZMBihSU1k5hWtM/VMckIPEy3VhDxJGZm1veD1qRYz4FX0htrtweRCXR/aF8a0r2IA3x4RGkVC7tN60LVjYGJQ/dPP9xEyilMFCWZxl5PEzTsxaijrhcQbugcAPCMFy1ICHVQZ9ZHTvzXSrPGSIqInUUaHfo3x3IpSZyhV7anT4Om6sYxf93b9vXH3YKw1KU85w4IGlkGvKQfc9LJOOP2z8fXb8Lf0ZaufhefSTTyy0tHtxbPAjST972FvxqX4zV8zdUTR5shVlZ9ISa9tpmvFXaRSXggTwDYYqaozNz39lhku0E7j3VJ0YPo=;9Dnsv9AmBhmRwVqKKh1Z5Q=="

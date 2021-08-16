@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "A 25-year-old college dropout reveals how he built the $5 billion self-driving truck startup he's taking public with a $600 million SPAC deal"
-    excerpt: "Embark CEO Alex Rodrigues landed investments from Tiger Global Management and Sequoia Capital before his 25th birthday."
-    publishedDateTime: 2021-08-11T10:42:00Z
-    webUrl: "https://www.businessinsider.com/embark-ceo-alex-rodrigues-taking-self-driving-startup-public-spac-2021-8"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 19
-    images:
-      - url: "https://i.insider.com/6112d506f654ef00184179dd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "l7BnE7OwmtSOWRNbp+weRdJPu25gGkvxOunVQDUpxZCiooviDhfA4fl8JR7uJrklow7I848GcDnUIMkIwx/a5H0XxmOpa9MRXj1TsCVu2FF3YRGggohUBHAkWTIc2wUNSpbX/jUS71gX4Tlb8mmI9Mk9fiXRh4bcj87+ZeI+TKXEc2U/aNo3zsP0po7xpoSU7bJrZ95fUWZFuvrdGBxI9UrXHpPwudypYJ55T4SYfcnUGhr9ee3lKrqz6CiXPg/A5StRejhZxDb9mNA4U4rwRgquwpkjDI2uS6uUMDboqm1jbszT0lrI231EH+i3vs61hsehujBJocwmGq/Ve8WlebK3OoXxtyse+eNEDZfMbzlXxdRo7ovQ/aBXl0aGra8lvM8lkWJMnBasL+cykcCpCCRxOs4vrmEWt0ljB1U1V62tQZe1vskmxBHaeHDZHzDigLcTRk3KJ2MbKL72ZCKUMU1JPAV5HMqzK8y8SWyXEdgv4INjfAZTqdAOYkmwWHNvSkw6FN1Gdk6u60+3rW/BMg==;Bx2KQmuORJLBSISYcgUIzg=="
 ---
 

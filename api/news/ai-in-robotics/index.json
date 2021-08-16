@@ -600,49 +600,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-11-xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500.md",
-      "title": "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500",
-      "excerpt": "Xiaomi CyberDog has been introduced: a robot dog for only $ 1500. You can customize the functions of the machine to your liking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/",
-      "originalUrl": "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/08/Xiaomi-CyberDog-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/11/xiaomi-cyberdog-has-been-introduced-a-robot-dog-for-only-1500/amp/",
-      "publishedDateTime": "2021-08-11T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-11-sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot.md",
       "title": "Sybil Is a Solar-Powered, TensorFlow Lite-Equipped Smart Gardening Robot",
       "excerpt": "Building on an AWS DeepRacer prototype, the Sybil includes stereo cameras and a LiDAR sensor with mapping, planting, and weeding support.",
@@ -1389,6 +1346,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-robotics-students-ready-to-learn-mystery-competition.md",
+      "title": "Robotics students ready to learn mystery competition",
+      "excerpt": "Whether it’s playing a futuristic ball game, navigating through a complex obstacle course with computer controled wheels or manipulating a metal hand, FIRST Robotics Competition students in La Porte County have been competing for years in gladiatorial matches with their machines.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "originalUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

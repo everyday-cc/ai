@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Wyndham Hotels & Resorts Selects AWS as Its Preferred Cloud Provider to Enhance Guest Experiences"
-excerpt: "(NASDAQ: AMZN), announced a global collaboration with Wyndham Hotels & Resorts, Inc. (NYSE: WH), the world’s largest hotel franchising company, to upgrade its technology infrastructure and develop and deliver new guest services across its 21 hotel brands—including Days Inn,"
-publishedDateTime: 2021-08-12T04:02:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-travel-amazoncom-inc-6d3a26ebef2b43d39f9b0a5dfcdc13bd"
-webUrl: "https://apnews.com/press-release/business-wire/lifestyle-technology-business-travel-amazoncom-inc-6d3a26ebef2b43d39f9b0a5dfcdc13bd"
+excerpt: "Wyndham began working with AWS in 2018 when it was spun off from Wyndham Worldwide and needed to quickly stand up its own IT infrastructure. The hotel company migrated its core reservation system, property management system,"
+publishedDateTime: 2021-08-12T04:01:00Z
+originalUrl: "https://www.financialbuzz.com/wyndham-hotels-resorts-selects-aws-as-its-preferred-cloud-provider-to-enhance-guest-experiences/"
+webUrl: "https://www.financialbuzz.com/wyndham-hotels-resorts-selects-aws-as-its-preferred-cloud-provider-to-enhance-guest-experiences/"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Amazon Prime – Wyndham Hotels & Resorts Selects AWS as Its Preferred Cloud Provider to Enhance Guest Experiences"
@@ -40,6 +34,6 @@ related:
         height: 627
         isCached: true
 
-secured: "gLpJTf5Z9ZtiEX6TSJkx7qDmR9bDABHw08PQ5TG/8KIPtNvX0wkirNmm4L3gK77xDj6mxRj9eFmZu4RjXeLQssN+bdxnFR9t+aMAD+x7mo2FEliuAZIL/w1H7olsr40WROWjH5T9maUfGVyBpOPWi0b3AcS4LDIepSuVWUKfs8hhDcn6tFJ0A3jjBWJY8ByKZOks/Jz2BTi7xJJULeVNm9DWokHOAPfiyXNw6+otP5vfLunynWZca5roSEQYw809hq5LEJL6+vDYA/Xc787iq5rTB8Mb++pjE8U+YAhTjyCb90WeNYXKvMuedM9J3yH8Z9Hzj3uYG3HkFjcGcjhyk3/0b+Y0/R1wohkzJvcigrs=;+ABweNrT5ZLl2RwMM/hiiA=="
+secured: "YLEBQ/bcMK/VFcy1Is2QtIyrAADzSsHF2eq8mUkuR6djO2tsRQRU3oiGt2CAW0nrLH9G+nLOVAq+Apha9VPpOFEyODtCpswk1rlE2w28EIB+T5nAV7GuU3YYc6vh6G+gIcUvLzvK5TREdzvCXpY9cxfpWZRSon2jrffby1knzbuZQGrQlOR8f8bWi7bkZh6gPv3ctoO7U6/y77v8pstZ6JgH5Pt/yZCxglmsOk0k9ozwEpvH/NqoEYtfVzB1i5N64vrfnhkBCnPcp63MwDMefJGCiYtWvuBF9b/ShyFm0R7Ygw6W+UNJeldzxGrr1L5Jkln8MpmiTVTJj5TIKMUW7A7JJG2+gWJZqYWRMMdxRec=;1NRbpHJsmIYwpWKEOd974A=="
 ---
 
