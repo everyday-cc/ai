@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Competitive Scenario of Artificial Intelligence Sensors Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
+    excerpt: "Global Artificial Intelligence Sensors Industry Market research report is a specialized and in-depth insight of"
+    publishedDateTime: 2021-08-13T02:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-sensors-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2021-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning System Market – Industry Size, Development Strategy, Historical Analysis, Competitive Landscape And Forecast to 2028"
     excerpt: "The latest study, titled “Global Deep Learning System Market”, published by Emergen Research, entails a thorough review of the present and future market trends in this specific business vertical. The report gathers viable information on the most prominent industry players,"
     publishedDateTime: 2021-08-12T14:27:00Z

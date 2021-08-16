@@ -7,7 +7,7 @@ originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nv
 webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
 quality: 86
-heat: 176
+heat: 177
 published: true
 
 provider:

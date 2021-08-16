@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
-excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
-publishedDateTime: 2021-08-12T13:09:00Z
-originalUrl: "https://www.lelezard.com/en/news-19949438.html"
-webUrl: "https://www.lelezard.com/en/news-19949438.html"
+excerpt: "Motivo ®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel ® Capital, along with other new investors Storm Ventures and Seraph Group as well as participation from Inventus Capital and other existing investors that include multiple IC industry C-suite executives."
+publishedDateTime: 2021-08-12T13:02:00Z
+originalUrl: "https://www.financialbuzz.com/motivo-inc-raises-12-million-series-a-to-accelerate-ai-enabled-chip-design-and-improve-manufacturing-yields/"
+webUrl: "https://www.financialbuzz.com/motivo-inc-raises-12-million-series-a-to-accelerate-ai-enabled-chip-design-and-improve-manufacturing-yields/"
 type: article
-quality: 36
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - Microsoft AI
-  - AI
   - AI Hardware
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
+  - AI
 
 related:
   - title: "Motivo raises $12.5M Series A to speed up chip design with AI"
@@ -56,6 +49,20 @@ related:
         width: 604
         height: 400
         isCached: true
+  - title: "Latent AI Raises $19M in Series A Funding"
+    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
+    publishedDateTime: 2021-08-16T14:37:00Z
+    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Latent AI Raises $19 Million Series A to Enable Next Generation AI Factories"
     excerpt: "Latent AI has announced today the closing of a $19 million Series A investment round co-led by Blackhorn Ventures and Future Ventures."
     publishedDateTime: 2021-08-16T10:00:00Z
@@ -71,6 +78,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QiU50Vi0NQP7mWoLYBWBJm3SEJP53oH4diYRBDdeGQd/8B3EermBjG0AOk9Ep50d1OjEdmTxzt1MOpEJYjQTofoWmnZjfJ3LTW57fZfP9g6ercsZZtnIKC+V5TzNi2rSveiPxioiyrDJlLTbo5K3muWQMb9pZrNNYJJ5taVX7Jyl90aNAK4w0YL51H4NGzzSMduGu/Hp44hH0V5r/Oo8p/eclj4891XtugRJCLfdOhAteCivzuh24gF2tKS7kUIXScGFPtuOAYuFctomoL7NxGmcfwbrXUoUyPAQk+UvCGw2vQjvWnq2ChaEfcwCF3tPVEr8iA3acYqNTO8O+P9mz2SamI0noFdlwdPUYnLoXWI=;N40d6/og5/TyUA6AEfEArg=="
+secured: "Dhua+HUBT8vPDTNubtzCV9MG3nNEXqcVM/tdG5gjNcw6cSRHdcKpTPSOpkfZQF5jWoJiMtBLjtp+XUKJhXVW/x7imPDBOzsUV5UKG6jEXmfD/Yge6Guu+2iP9f2hEgLSlNWWLHG5NP+Jvk1x1q0Vp5TD6kOpqC8Goelb+4r9q8D3A2O+Re9UCvNHdEzFsD3jYMTwxn2doWR2ydhA+dgOQKSUTJuT2zAlIv0onN/fpajP5FHoAecD+sxXqi13Z/ubPxpMcpPJQkaHyF96QLNIC13UaIyMjLRasYLGu6OiJ6G4029Svxw61zQngP44w5dgW8yE13ybXKVT0it+kmwQWGeVXrU0LoEgsxt34S2Oz/Hw2/Le+lQfgNLA2VdWVxeCctiR2D/hNa/kAy9lFhJ51xQuIkgZhuIwr51lyvWnRaL5Eu5ZB+BuwcdUP1QsgD594KomZis5AkEE3bDjqI3mbfKPalyRRabVhj+pKjvKpgaiPDQ5YulTkmV5grBLj/6ILKW+yXOpQMHb2E+Ny24EnQ==;MSWFLA361NpOcu9HQGc5zg=="
 ---
 

@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Offers New Way to Detect COVID-19 Infection"
-    excerpt: "Reverse Transcription Polymerase Chain Reaction (RT-PCR) tests have emerged as the standard for testing and confirming COVID-19 infections, with nearly 80 | Technology"
-    publishedDateTime: 2021-08-11T23:00:00Z
-    webUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection"
-    ampWebUrl: "https://www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
-    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/21047/machine-learning-offers-detect-covid-19-infection/amp"
-    type: article
-    provider:
-      name: Labroots
-      domain: labroots.com
-    quality: 39
   - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
     excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
     publishedDateTime: 2021-08-16T10:27:00Z

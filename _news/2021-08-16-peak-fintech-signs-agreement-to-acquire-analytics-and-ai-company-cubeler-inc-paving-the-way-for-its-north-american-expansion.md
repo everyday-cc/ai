@@ -29,23 +29,32 @@ images:
     isCached: true
 
 related:
-  - title: "VW Aims To Increase Output By 30% At Its North American Plants With Better Software, AI, And Robotics"
-    excerpt: "VW believes better robots and industrial machines that can be updated will make factories much more efficient."
-    publishedDateTime: 2021-08-11T21:29:00Z
-    webUrl: "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/"
-    ampWebUrl: "https://www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/08/vw-aims-to-increase-output-by-30-at-its-north-american-plants-with-better-software-ai-and-robotics/amp/"
+  - title: "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights"
+    excerpt: "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,"
+    publishedDateTime: 2021-08-13T00:00:00Z
+    webUrl: "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 76
+      name: InfoQ
+      domain: infoq.com
+    quality: 68
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/08/VW-AI-and-Robotics-Push-2-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Mapsted Brings Artificial Intelligence, Data Analytics & Machine Learning Location Technology to Indian Railways"
+    excerpt: "Mapsted announced today that their competitive bid was selected, from a group of the top technology companies in the world, to sign a multi-year contract with East Coast"
+    publishedDateTime: 2021-08-13T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/p22482549/mapsted-brings-artificial-intelligence-data-analytics-machine-learning-location-technology-to-indi"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22482549"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22482549"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
 
-secured: "etw3SdjYnrMyv+GEqwIttVqKS4GBPSDPKFxT1KampRFU2MLONqSts4R0dcviyRSP02TE1xclFZFadWlV+Tx1faXkI6SzN5MMGy31ihIt+PKMigSdIN12K7GpIN90uzRLzZUah0/Jw+H67mS0wkzgVU6MX+plLeaL0j32Nj3UzkfYUrnYkq5SMrzod7iYjevcW0C4hZmxIvAiF+LlbH6x8QypcAm5jvP7Cced/w4EhTtiDlFqdXQS03Qb0rCPXp0JDbQTGapPqv77eNbxPhwJd32dMWQkxm1KTf/g+woZdyFkE+3oEeK5TUlh9a/c9NhZI7O6PbFvc0gcAqpnmukuU9YVz04Zou5FGu5thKt+f1A=;hBhkJXesIHPIZWj6a0w+Zw=="
+secured: "ktn3WjBPq0EXTw5IpiQXzHGLqFzFWjdmeeYFvww/dcrFMF0zh6Y1RKJLnPAnEUrmWKBhLVY4O8S++y4NOdxGYbL52CcSuAV3pa9brdnOCEuPOd7dpY8p2QlMJkZbfeHACEIMGGKMATzwVZ4dm3nInaOHyl/lsxdIouDjnsY2OKLYhsCDND4SbxWuSANFtAgJOnA+FD2Q+GEkg85PqfedA/CMoaLFLVFz3xAfhig8b5zyKYGgvHB0vjtjo/ilEvIbZSmphD9AbDFYIoAN+0Z33Asez09nu7Suy2fK5S/K24VUk9J2fDD1zmwAidtIOhmpihI1UqpIjT4V3FczS48nd3Nc+iPtb6G5+N/KQaYkNZikq32M07nR7jyH8GeQFq/77RTYcRaLnIf2zwXg16GLjoZSTatGBwdxJ+avcpq3rCToZahLMmDYoBg59DntNBD5y3Ug6T3skrlrnA6sdJVX8HXqFd//C/0pLI51WjtO1Obtf7dFyCMdd6WA6+5WV63OIF9diwqdV1hAovsqR7y1Tw==;H6a7NAQF6tvB90uvS7vEXw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Op-Ed: AI and the future of gaming — A piece of string worth tying into knots"
-    excerpt: "The inevitable future of gaming is super-smart, evolving, artificial intelligence. That opens up endless possibilities, not just for gaming, but for that elusive thing, a meaningful human existence. Gaming is a business principle,"
-    publishedDateTime: 2021-08-15T11:27:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/op-ed-ai-and-the-future-of-gaming-a-piece-of-string-worth-tying-into-knots/article"
+  - title: "Bringing your AI coworker up to speed"
+    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
+    publishedDateTime: 2021-08-16T14:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
+    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 34
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/05/Comp1-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "How Conversational AI Works and What It Does"
+    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
+    publishedDateTime: 2021-08-16T12:41:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "5 ways to get more women working in AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
+    publishedDateTime: 2021-08-12T15:17:00Z
+    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 57
+    images:
+      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
+        width: 960
+        height: 684
         isCached: true
 
 secured: "8H5PM/cDB1V3mvQtXbiTNMvTSLhrQtfznWBiF3Yz4ld8WKochi92KHXU6HIb9BtIsxe+wmp5E28hCz6kirSRVE+qS7Z5V4ybBoIw3FwI9Gyj4BhJyhQNkc1a5UY+8jjTClKpvV9QDAXa/mj6kmMaJVw74uk3RuplcnosVzyMNSKuFs3hy/yiDAGggT81SKdW4ru6LUn+YluwW2U7PKUelKG3pbbUg1YUqHTLiTgj8+ReYH4vMNfwSs1YsZTo9+k9kgbaVdmPxUB5wIiq+FgM7YdSBgzMgl6Omo9of/AEngLwauyIn72SJiW3/JTrSDSpJg/dV1A8yQOb0cSflR+ze2VvXUgUGUqrqW6aJ1qHkCA=;N2Y0hnXsPOLq9UPR4vrShg=="

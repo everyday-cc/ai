@@ -2,26 +2,29 @@
 category: news
 title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
 excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
-publishedDateTime: 2021-08-16T13:21:00Z
-originalUrl: "https://www.lelezard.com/en/news-19953321.html"
-webUrl: "https://www.lelezard.com/en/news-19953321.html"
+publishedDateTime: 2021-08-16T13:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
+webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
 type: article
-quality: 37
-heat: 37
-published: false
+quality: 65
+heat: 75
+published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg"
+    width: 400
+    height: 243
     isCached: true
 
 related:
@@ -40,6 +43,6 @@ related:
         height: 480
         isCached: true
 
-secured: "NFT3OwZ90SeW+rj30qlVuAnffLzJeDCVQ3/l87Oz0kzS/013H57UHot6P2Z7pNbYCxMCskI4qpvjmy7bzsFbgyL15RjC1Fn0ZceqEOwVxj671Ga4RzfBOXdAAKSQsE7qW2fNbXljNo0pAfpNzDYmWiT87Nz40ePLlQfvCRTVPQE4X700499eFUHw+0cNYdhyBUgvuV1s0wb6c5pfHvxEt7sRwCFGNiqngLrf8/MvLpXtUcG+vvcre0lPDGZlcEF2CuO24FdLNE0yPa8LQq7SfM8mYFYrr97aFvhE360PH4t43XEj9UAT0H58oGC5yqddVD1qjMhwlHJXHBAWq6PK7sWtiaAfHDk4J9GKT/MzpuE=;TbUOCZ1/Kn3OOC+b99q+CA=="
+secured: "zWPAdm0mdzs/wxb0yI9dBOa6sp/+YbPG7eqPruNmAX6mx+h2bSY2EVer2xVJbk7GIcY5Nyh/TYlPrTbUqax2WZtV+Yp62mknVoPZiQXXcrswL8dTcXtdaC6fmNDu8wQhg7J7dc21oRKxZUj57nKeqNqgy10Bi5U8CqFhg6pzhPqvZ9Fi2+595Lm1vZ49okBs5kCic6Khhu7bpVeuq2YiEcR8wSBtAaolBD/ECwL7ozj+CA11Q3IGH0wlhmeuKRGk9jV/4XzyyomsKm/jSKtSnq56CPDfkghPr+yKa9/unV6gefOgLsFYG1rpo/parf+gMLMzgf7gvzT6ZeoIDrZzXDobLLdg6Hl4SpsxT3MHljo=;xQdfI6sIjRFRKh6IZ3Fe+g=="
 ---
 

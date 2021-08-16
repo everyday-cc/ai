@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm"
-excerpt: "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP"
-publishedDateTime: 2021-08-04T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html"
+excerpt: "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value."
+publishedDateTime: 2021-08-04T12:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook"
-    width: 900
-    height: 471
-    isCached: true
-
-secured: "LR2qcOIR3dr8qtn7vuVtA/Ncbzmxv7jrfbcZuviL6q0ZchYCRySCRJcLetHIjSd1uzvW6ow1Ed0GdDVq+FZjKwXmYRGxdW5vdUzUkgqDT0SNhNOLzPXOBEVypiZLK0fr2hjX2Ioo3aoqR0ka8RPCQa3jKLfJ2psPsPuvli0yUon+uDWXI7SKz8Ff64bbTab8unU2MzC29v+WaGsHRv9p9QOa8x+GMEbvpfGrZ2uizaG56zAPNJz54QRJWZTQjuSJTRsMR5R+EC4ZSeQqJAz0V9RLz5Xi2+Z9csamxH7in1Fztcn8RseJzjXsQV/DLorYbNgz9J+5KaX5M0s8vNd+22LWMRKSC61QS3GLySP4CV/Pz5ve5FupHnF/J3q5/LBdl4ckv+i61aB8fbxRrB0ivWVGmiacOjJ7bNWtZahOt+xtTvsZfTLfMIKTwETOs+Etm5U0FZEiKm1QnmCDnCj2BlwKHqPyi6RzLEY0ZS0YLfEiRYr3qCIZjWHAhWUTyKpEJneJDiiBrnzLb6OV+IGhuQ==;eHgOUGcpHasQ6+mP+tlXQA=="
+secured: "rBK9HAL4vEnIK8xthtHzKpBxWMC/hdJgIXCeFb0CkmUmPsMmF+Ok29iQK1oTfkAfo901pMj7g9rJ/GlMDFXJVzRqNR89NKfzS66mSiZJJPY0lfakbWtXVF1SlL5q1txnoXkwLk4sw21w5GsYJycM74FJQEZFiMcs3sLg2vjDBXnta9cq8W+kC7VNBc04C8ihv1gsI49lYW5vg1D2UX4g5ZUcIbRkV7BiF04V7wTOuBuO34ldEI7FNMITSC9Sde/IBQKcXi4Rut8C/e3F05bn94p28M3WFAuIzSzSHwSSli7RBvE+NbqKqAX2tBH5k6hmqeUXoZEcaAWPah2eXkqhWu/cYypB3c4jo15aNXWigZE=;dx4nI98NCNQrd1AAK+IuhQ=="
 ---
 

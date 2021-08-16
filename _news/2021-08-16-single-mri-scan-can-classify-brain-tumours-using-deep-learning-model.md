@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586"
 type: article
 quality: 74
-heat: 104
+heat: 106
 published: true
 
 provider:

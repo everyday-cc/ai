@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-wor
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,56 @@ images:
     height: 480
     isCached: true
 
-secured: "7yoYDYDocfSBzrrM2wNG31IjzGP/2YMzwVcWpPvs+VH+DHra8bhKAk8S9P8wP818s5PY/uG05lvKYJ7T2823z/URcb709VlU8noqfGIw+Cga7QfllLqsYlqzCRgQLmNNFw9oGnsIQpvItTT3yibBoJqzvaME5jxkTF8xvnQVkTAoxxoJsZdaai+evdisdplPoL1G6jZTJT0G4pks9qAp/GNM2cV5v8AcAEBB+hulMMoU9AGGScFPmrPRW49fn0ZG6muoh0/iVVoEf6brN63LxkJfhqIW/qXffTLyzgIQGkcbdOPCknOFLc0q6cL3PF/c6HyjjiS8UECLA1nvp53jwzUU5gbECIi6FC7F5F/2KM8=;i4DPTWi0dsijcBYc79vXWg=="
+related:
+  - title: "Bringing your AI coworker up to speed"
+    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
+    publishedDateTime: 2021-08-16T14:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
+    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "5 ways to get more women working in AI"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
+    publishedDateTime: 2021-08-12T15:17:00Z
+    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 57
+    images:
+      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
+        width: 960
+        height: 684
+        isCached: true
+  - title: "Rules for bringing AI into the classroom"
+    excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
+    publishedDateTime: 2021-08-16T09:00:00Z
+    webUrl: "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
+    ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+
+secured: "r8pHEW5AWhgk4db9+U9VDvWKlzQSjQ0JCM5coTq+UaJcDTkN/dOg2R1A8x5EVlFBEM8FTFuDnbG+FBOaGpjyEj/EwbjV629Tx4EAJVh2oPsOjlq+B3jVgimkz4K38hGHhcR0iOaEGkq97eiu6rPaK7hafsuSkiEtA98oG4aBRCz2K3bCvCdsTMJ2ZY959A+pjBAK8JwB7hj0LSV36bp1rly69h9sxFiPlIE9v4oWoet2QdTbxlHRTD0bUCSqwm58PGQTtMdPLr98fuU/YF9Dxrrl9y/nO5shPgI8nFnGeE8zNNWcDlgiWWnBOnZTo+cK9ucNYqAyMG0nv4+2HWf299gfzDJEnrr7GlAPJgdHJgOIU0WMHOP51xa2WDiH+JISu45irVcOtpHe0II0qVDBRoURnN9gbQW9EhrjQSNt88fH2Ixp1SegtalWwwffneieMz1AoFaFNcMH8vVg8tWow9F8iO4Gk99ZL57MFVKiMC88SKd8ZWmEUxtWY587OfnqmhsGjxOVnn9Sh7SErC4ceQ==;e9NODqTnZQ+Tn4gf5TCDEQ=="
 ---
 

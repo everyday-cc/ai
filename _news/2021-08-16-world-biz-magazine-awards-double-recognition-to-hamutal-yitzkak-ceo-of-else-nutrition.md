@@ -1,29 +1,27 @@
 ---
 category: news
 title: "World Biz Magazine Awards Double Recognition to Hamutal Yitzkak, CEO of Else Nutrition"
-excerpt: "Hamutal is a successful serial entrepreneur and inventor, with a series of global patents and innovations to her name and her co-founder Uriel Kesler, coupled with a portfolio of novel innovative foods that are nutritious,"
-publishedDateTime: 2021-08-16T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/world-biz-magazine-awards-double-recognition-to-hamutal-yitzkak-ceo-of-else-nutrition/article_21f4a5ce-a1b6-56f5-beb6-938c1c1e2945.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/world-biz-magazine-awards-double-recognition-to-hamutal-yitzkak-ceo-of-else-nutrition/article_21f4a5ce-a1b6-56f5-beb6-938c1c1e2945.html"
+excerpt: "Number 1 on 'Top 100 Innovation CEOs of 2021' & Featured on the Cover of WBM LONDON, Aug. 16, 2021 /PRNewswire/ -- Hamutal Yitzhak is the"
+publishedDateTime: 2021-08-16T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/world-biz-magazine-awards-double-recognition-to-hamutal-yitzkak-ceo-of-else-nutrition-1030734496"
+webUrl: "https://markets.businessinsider.com/news/stocks/world-biz-magazine-awards-double-recognition-to-hamutal-yitzkak-ceo-of-else-nutrition-1030734496"
 type: article
-quality: 16
-heat: 16
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "nAEuGSGTs08wkQIQLACnYjJtfpeTkI86ygqAkp4XOFiqp5aGGL9lJF4NUc+2umDL7JGj0lRMz7iqyWqzyD3XwBype/0OnGbX3rxrlBoY+oRDJKnPt4Wbl/eLyOthn2um5lPJrmlN4jXJ+q6DySTq0ZlTfIQBF2LmlS12cxKPyfj5kh/xpaAFLWWsLaFDUWWoNAyEgIXh+lQyOEguU+9UosD8MdrIP9d+uEKnVcyOJ/2Ghdne3/Bho2jAtdw2nAwB3P2S/7sa5K8xeqpzYRlPzlFHD+RIbeDXS/I8v+kuVxiB5o6inbERM7OHd3fTvOiuWXTD761bqUKYjJ501lQHekOcIXpjpa9d9mgyTQjUAaA=;Gc8f8MUoiA+2QJtpVgwpKg=="
+secured: "8ls6pnrhCaBwtQlSnzNI1rgiZLw2IAmguDSY/fovi3gUr36EtuS3gYFiiXaoHnM9jSNijfoSEk9082xRYxWmmGGdijVqcrVqK9w0SVwkt+ih3zPzLJonJOjrHQOFXHhRhtDX29zz5ojhtXBVYhqoiUTFSKDVExlsghjeSx9x1UPx1ZNJXO+5chgUe1FepKUGca2kNCxa8PGpimv41+8pTxy2vMMb/it1gob+40ONDBR7R31C+/WCms27WZIuyj9lGof24uxZFi/K39I4aEtRi3KZbLVxW4mhWlOLZvbfZ/1AQooJ4Ja50fXIlTKR18TbPjW2RODMrVWpWugBx8wHKOQtNZJhtjAZp49USp5gxT4=;Bf80v1s+toJkTds55NzJcg=="
 ---
 

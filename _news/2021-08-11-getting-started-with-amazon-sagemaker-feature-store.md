@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with
 webUrl: "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-sagemaker-feature-store/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: AWS
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 412
     isCached: true
-
-related:
-  - title: "Run ML inference on AWS Snowball Edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass"
-    excerpt: "You can use AWS Snowball Edge devices in locations like cruise ships, oil rigs, and factory floors with limited to no network connectivity for a wide range of machine learning (ML) applications such as surveillance, facial recognition, and industrial inspection. However, given the remote and disconnected"
-    publishedDateTime: 2021-08-11T21:28:13Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-aws-snowball-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 109
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
 
 secured: "OQ7kMa/Tx/TTilbbDRboMPBLOBbRwD4p7P/FhmutYMdVU+YQVM+AwG8sry+PGvDiscFobt6iiApwHp/PbmlcGqwh0Sn1cp2UZAEG9xTnb0un2NORdF9YQ8HE6kEqbEqdSd0o+b8zBd5c19lroL7Y9cfOPmjxCLC9+xikTSP8nmh5QM81oUZrgbfOTUBWfkGH/8QmQF2/ynE7MwtXu2ESUUBiRb6HMxfTRI6fCjBAoME+RqT0ph25FP7FqB68QCxYnuhMHNZf9sb7to5MlvJG+Os2LpQR7RbQur/BclXpy169LYX8WkY8I19ZPsXCKSnONmKDTxzesPDfr3pf8ltn5Abrn+l4IZZq1c3tkXXjzhU=;qpth1lbKu8Zx2c0kJLdC0A=="
 ---

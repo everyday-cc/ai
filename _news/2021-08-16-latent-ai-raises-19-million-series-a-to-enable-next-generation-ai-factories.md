@@ -54,20 +54,29 @@ related:
         width: 604
         height: 400
         isCached: true
-  - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
-    excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
-    publishedDateTime: 2021-08-12T13:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19949438.html"
+  - title: "Latent AI Raises $19M in Series A Funding"
+    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
+    publishedDateTime: 2021-08-16T14:37:00Z
+    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
+        width: 1000
+        height: 750
         isCached: true
+  - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
+    excerpt: "Motivo ®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel ® Capital, along with other new investors Storm Ventures and Seraph Group as well as participation from Inventus Capital and other existing investors that include multiple IC industry C-suite executives."
+    publishedDateTime: 2021-08-12T13:02:00Z
+    webUrl: "https://www.financialbuzz.com/motivo-inc-raises-12-million-series-a-to-accelerate-ai-enabled-chip-design-and-improve-manufacturing-yields/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 14
 
 secured: "ONpiB/HNfx094YpJkwyt+8k+AX5rhTDlE5qzw4qwGJUwpJYJiBMJTwGZ7wWAL1j60jLfoz+d0Pm+BfdpThHKNKqaKYxbtcws/ubNdVeFrELTfr7vW5UIau5yWrXW97NbXMdb/jT6B3+JQduISLLj7OWNMKGDYsGLih1ox4WwAOSp3LDHl7omjPnDlauG/DPxFSyHZj4I9KYqglVGmfyEr1y/UiLW7lzI62m2JpcolLROoqcBvhKysPOo0bFaXaVj8mw0cLEqSZQGvF+V5V5Mlii9SxrbmWq9g1pzk2oHjmiyEJ8Yj+CdRp4GVpMphci6t5nNLzl3fyfkcI1EGYr935zTT3ri4s4a7tWwWJVghM8=;g3+85iQc9OupjZdurIswGw=="
 ---

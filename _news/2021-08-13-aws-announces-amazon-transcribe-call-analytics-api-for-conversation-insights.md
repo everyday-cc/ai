@@ -37,19 +37,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 48
-  - title: "SeaChange Enables a Fully Migrated Cloud Video Delivery Platform with Unique Analytics and Engagement Services on Amazon Web Services"
-    excerpt: "Now, with Amazon SageMaker, SeaChange customers will be able to easily deploy ML use cases like predictive maintenance, computer vision and predicting customer behaviors. \"SeaChange's StreamVid ..."
-    publishedDateTime: 2021-08-11T21:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/seachange-enables-a-fully-migrated-cloud-video-delivery-platform-with-unique-analytics-and-engagement-services-on-amazon-web-services-301350162.html"
+  - title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
+    excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+    publishedDateTime: 2021-08-16T12:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 8
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
     images:
-      - url: "https://mma.prnewswire.com/media/1586223/SeaChange_International_Logo.jpg?p=facebook"
-        width: 2695
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/1594914/Peak_Fintech_Group_Inc__Peak_Fintech_Signs_Agreement_to_Acquire.jpg"
+        width: 323
+        height: 235
         isCached: true
 
 secured: "zwHPfgh57ljpA3FGXTFPb5sd4PSkq5xjKAl9lgQhK5SviF6p0TQZoLsT3n+Xahp4jiQdIZV3QGSUr8Boa+fM0rtNAzLfe1TJTyGUORVarHswIArcTL8nS7MEhLsuUE49coKsnEwpYr3EvlT6cHgc9lvNbXkBeUSCV3yfK5LBsv8KYfscC1FTXWrfsTPF3uZ0D8ouUPLLvbdRYhURwTuPdE3qo3Qz2n4eLcgRvnf55dGyYp8kBK5aJ0pgM/Sb+6jq+LK39FmGZSaMJb4pADiVpaRiN7wShix4F8L8TlRnDi5a+QRJt7EsCD6UW+8gaQywvO0oxYhAvHXOas0496u0nLR/rQwBWf7qVnom+OVyh0dEYLzf+xTMQ5KjIB4jjA0WlrnOtFJiR08O/xAx1bdaSKRpS0TSQIXlqsx5YU/B6yzNsJH2YEaNs3qQLsz5ty3VVczbsZQK+f7niXtdgskx0C3j40H0+vVP2s1UmyEoGKp6R4vcefL0JFyq9FeVSmjSHXmRbAuTMQ7d577ea5vXuA==;tA8p2TICNex62p7jJH9dag=="

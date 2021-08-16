@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-sp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/12/motivo-raises-12-5m-series-a-to-speed-up-chip-design-with-ai/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -45,19 +45,19 @@ related:
         width: 604
         height: 400
         isCached: true
-  - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
-    excerpt: "Motivo®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel® Capital, along with other new investors Storm Ventures and Seraph Group as well"
-    publishedDateTime: 2021-08-12T13:09:00Z
-    webUrl: "https://www.lelezard.com/en/news-19949438.html"
+  - title: "Latent AI Raises $19M in Series A Funding"
+    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
+    publishedDateTime: 2021-08-16T14:37:00Z
+    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 36
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 37
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
+        width: 1000
+        height: 750
         isCached: true
   - title: "Latent AI Raises $19 Million Series A to Enable Next Generation AI Factories"
     excerpt: "Latent AI has announced today the closing of a $19 million Series A investment round co-led by Blackhorn Ventures and Future Ventures."
@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Motivo, Inc. Raises $12 Million Series A to Accelerate AI-Enabled Chip Design and Improve Manufacturing Yields"
+    excerpt: "Motivo ®, Inc., developer of AI-enabled chip design and data analytics solutions, today announced it raised a $12 million Series A financing round led by Intel ® Capital, along with other new investors Storm Ventures and Seraph Group as well as participation from Inventus Capital and other existing investors that include multiple IC industry C-suite executives."
+    publishedDateTime: 2021-08-12T13:02:00Z
+    webUrl: "https://www.financialbuzz.com/motivo-inc-raises-12-million-series-a-to-accelerate-ai-enabled-chip-design-and-improve-manufacturing-yields/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 14
 
 secured: "ozgZRdA6k2sTIfeuagMGcA0936KbHpg9UMFZ9YRXW9p00G8DFDrc6AI1Rg6v+NgrJg5SLePKxej/p2Zxy6jXM9aCVE7E1AInQDKRg/O7Ndq3UpvvIjeVIwF4ZzBG2ZbIXtK9stfaPLSOJZoSOP/Q+cqo//kTZKeBzzuDe5i5/Q9xMJ2gmKGQewg1t2Wu3kGBgRoMBxJ6EqwQ9GHeHTyZiNU0JoqPjh6PfKsBs3WF1vgd+kW9mIpDwWLUNNZJT0LyQxsf+PlklKcmCve1XDZGvHYlzRUVwYRNghnvC0//9j91XuggjGiK6Xy6RIGaQKFJJgytWs9VDs9Xepu6Y4xbtm5TGKRtUIUnCa7ZSrGaCLNztisx2Xo5zCOCQG0iBmML8qmIpEn8xEyFzi7+VRcqN1bwvhTr+EraODN4iB+NH2zEBIrAZGIVH63h7DSv5HwcU+37jlUFGu/PSQvdK6iSyi5H0eHs95tJpy/nQoKqFas3z8EwwD4MJeGKpBXxUUrckTyHLmeL+YJEHqj/NlcJgg==;FAEp0xYc8fAL6Nema3+tXw=="
 ---
