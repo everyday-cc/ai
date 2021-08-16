@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global"
+    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
+    publishedDateTime: 2021-08-12T13:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
   - title: "Fintech firms on a roll: Heralding the new era of BNPL"
     excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
     publishedDateTime: 2021-08-13T10:46:00Z
@@ -40,6 +54,20 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-influencers-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+        isCached: true
+  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
+    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
+    publishedDateTime: 2021-08-13T19:36:00Z
+    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 19
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "MRKy4c8jGToKIKOQzuHMYKilWDDA7T4XkEjsGv9T5amNGWaZ54ZcNQ6qJB7andNWDnYNnU1Iz1cCfrPlDVdvZKeiYmseaIAE8VcJQb0nR0EQ2/o6v0KFKBxaZnFRfccvt2NS+ZQM9piYcoF60iaUIcglW7oVzdAn9sUfm22rx0+tDXDgqyPVqjqtPu+CF8Px10fbr9/XZsas1xRFKZ5brtEzfzFcOJuwQ5eJC6xE0lFgLtIvuZCadrQ9RT7evsUZY86alybnPcxK4ghv3wctaPwyEyEVBbrCF905VNF6345qvTorwD/9S9LiECoSu6aSdxKukR1rhMwJInqifiejVoNDuZPGy+yQTM68hVkd73g=;AVtpBZIJsSlfnrCLuKVX9g=="

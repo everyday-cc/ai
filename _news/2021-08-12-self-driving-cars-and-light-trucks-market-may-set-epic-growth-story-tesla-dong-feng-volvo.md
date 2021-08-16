@@ -43,6 +43,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
+    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
+    publishedDateTime: 2021-08-13T07:30:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 62
+    images:
+      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
+        width: 600
+        height: 401
+        isCached: true
   - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
     excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
     publishedDateTime: 2021-08-14T13:26:00Z
@@ -58,6 +74,22 @@ related:
       - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
         width: 800
         height: 385
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
+    publishedDateTime: 2021-08-13T19:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
+        width: 390
+        height: 220
         isCached: true
   - title: "Full Stack AI Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
     excerpt: "The report on the Full Stack AI market provides a bird’s eye view of the current proceeding within the Full Stack AI market. Further, the report also takes into account the impact of the novel Covid-19 pandemic on the Full Stack AI market and offers a clear assessment of the projected market fluctuations during the forecast period."

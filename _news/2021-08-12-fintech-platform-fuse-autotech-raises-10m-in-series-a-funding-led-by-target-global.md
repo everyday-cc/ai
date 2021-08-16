@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-f
 webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Business Insider
@@ -29,35 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "Forget FICO, 3 Fintech Companies That Are Disrupting Consumer Credit"
-    excerpt: "Fintech companies -- those that combine finance and technology -- have generated a lot of buzz in the public markets during the pandemic. Although they have been around for a while, they are fast becoming a part of everyday life."
-    publishedDateTime: 2021-08-11T14:26:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
+  - title: "Fintech firms on a roll: Heralding the new era of BNPL"
+    excerpt: "Digital Banking, Lending, and Insurance were amongst the top contenders in this category, with prominent names like Cred (215 million dollars) and RazorPay (160 million dollars) leading the pack."
+    publishedDateTime: 2021-08-13T10:46:00Z
+    webUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/fintech-firms-on-a-roll-heralding-the-new-era-of-bnpl-7332131.html/amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638007%2Fgettyimages-1316521044.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Fintech-and-influencers-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
-  - title: "FinTech Firm Gateless Adds Rick Lang As COO"
-    excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"
-    publishedDateTime: 2021-08-13T13:29:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/fintech-firm-gateless-adds-rick-lang-coo"
+  - title: "Tavant Named to Prestigious IDC FinTech Rankings by IDC Financial Insights"
+    excerpt: "Tavant, a Silicon Valley-based provider of AI-powered digital lending technologies, announced today it has been named to the 2020 IDC FinTech Rankings for the second straight year. The 17 th annual vendor ranking represents the leading hardware,"
+    publishedDateTime: 2021-08-15T16:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-53114d50a4854d42aa8e6023488f152e"
     type: article
     provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 24
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-03/Gateless%20Logo_3.png"
-        width: 600
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
+    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
+    publishedDateTime: 2021-08-13T19:36:00Z
+    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 19
+    images:
+      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "xbnmf25/QZxGYQ2hd5dsdeUSmj20Vvf2WoamOkO7YqnOBc+nk7a9FX6FCXaX4xmb3L0IuJpp0EhqNbMJawUfwgDTrbhZTJ5CkzvjID0CUmYNlIRYzyzWLgAk2dmPBdLQqcjwaGTz+91si94wKQwTu/rsqcf5d1PPdd7zRS+VSIq54HacBjM00A8t3SG812Z+2XTrT9dOmonLBzzDyHsz35oMB9tdiFWmVKjICK5GAqebXp5p1zQmElmLRiamR+mUsF8Xob+tQ3lmhqatVsXT8ceS0wKYgg/yw8FW7syGnZseKZGRxymrTdx0tAnghu3vwSxspkkz4xI0BzGuaTcHfrsu51s2iXDufJcP0fMxOAbo/kd/FuXdfawbxdQ5wiuHSvpKbBM1KSAmbiHdnXlZvAfxEMCCo5Oar/NZ+5eEr+MLQPb9jThK+t/7wpcQ1syaeeGJCt8KFposUXr5qbJZ3EtNLX4YqLnb6C4RiAeQBKNyxRjlm7LSOS9/f1KAgJ7MHTMP0tBR8ec6Zk8lLDeNMw==;jmh+bqVKLjl+DuYWD3I8xw=="

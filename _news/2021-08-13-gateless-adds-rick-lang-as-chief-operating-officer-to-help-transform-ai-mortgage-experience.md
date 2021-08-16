@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "FinTech Firm Gateless Adds Rick Lang As COO"
+    excerpt: "Gateless, a Chicago-based mortgage technology company that provides innovative solutions for the entire loan process, said Thursday it has hired Rick Lang as its first chief operating officer. In his role,"
+    publishedDateTime: 2021-08-13T13:29:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/fintech-firm-gateless-adds-rick-lang-coo"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 24
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2021-03/Gateless%20Logo_3.png"
+        width: 600
+        height: 300
+        isCached: true
+
 secured: "786qdxiRYn35gXjvhR6uCAbnjOhoXsM+HIZQoZLh8E/1Hm3VJl33qpdTWGVhBnLhSSM9nlGv7gz8tSrz1hREwbnorGXi2EbkhVUk5/oOqcUdagqjPDZSdKt2eFWe6gItvun1+91LTsfKeJ7hEPZI4EpNm4rpuDWqmk2P9DhVK8wIt+Ya4pGa7+D0yzR5ZJop3c8q0iVHDot/GRzPL9fa95JmxW9t9djv+JrQUUxttZbOPCr3FYNRxNzi6HcRbtWCaNAHcp3sgN5ma3nw2fofnYF3gmCcNJH7H2eek7yqQEf6ORX0E+Cb43tNedV5B3BVnisOiAsQ4fx9W+LjResEOYi8lRjwzVmQH1hJTwjSMGU=;+TI95KdN5281+6IGoM8BxQ=="
 ---
 

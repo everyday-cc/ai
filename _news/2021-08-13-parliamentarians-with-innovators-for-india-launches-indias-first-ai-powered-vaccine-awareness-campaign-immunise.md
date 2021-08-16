@@ -42,6 +42,22 @@ related:
         width: 259
         height: 300
         isCached: true
+  - title: "Oppo sets up camera innovation lab in India to develop localized features, AI camera solutions"
+    excerpt: "It will also develop new imaging effects that will use AI algorithms, AI facial reconstruction, among others to enhance the application of beauty solu.."
+    publishedDateTime: 2021-08-16T07:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85363309,imgsize-262699,width-800,height-434,overlay-ettelecom/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions.jpg"
+        width: 800
+        height: 434
+        isCached: true
 
 secured: "kN2V0uNIh6HaUvNgclbsTZhlgfUgOXEqYn2qh3ztpWm/LBfCi31gr1MFMicZjtH1RIVApFQnUF4lQksVjPuRc5ZgUmFpDMR5xwq7VAetFeHC8tw5q9Hr3cdyJSeMIh3oYKYgjccOJl3DkvNo1506mbFGAf55FAZx51biAUjUERV4JbqRc37cosoN6AXneORLIVjsvlBTyRcIpZKSeCISZpniFrgYa363Kl4vcNduBnRiz8vhD/qGJQ9vUjaYf8IbZ1csi7ZxDvwYKSL7pcIBjQsXRaWOjNZXiy+soPJgFFMnSNuBM5E/p7oOo/CkQWLDry1KCAvlX45UGxA4lW28bQpznrV0dp1H+UEzfINVT4g=;8i68nZ6pD2+Wvz8Lrm31cw=="
 ---

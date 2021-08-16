@@ -24,19 +24,6 @@ images:
     height: 233
     isCached: true
 
-related:
-  - title: "COVID Spurs Financial Services Uptake Of New Tech For AML"
-    excerpt: "A rise in financial crime sparked by the COVID-19 pandemic has prompted financial companies to accelerate the adoption of artificial intelligence and machine learning technology to boost anti-money laundering defenses,"
-    publishedDateTime: 2021-08-11T14:28:00Z
-    webUrl: "https://www.law360.com/articles/1411765"
-    ampWebUrl: "https://www.law360.com/amp/articles/1411765"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1411765"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
-
 secured: "AEoMVsvm0TTD29vscDd9rPFzaJmOp3sUVPq5qLVHjbXB0u5bUSk5c1t1OJgnicvABGPqx5j0hTAL6vMA4v/RJi/1E2mvYdS8Qef5AwDuuQBnSJ5xUIzagcs4fYvz4V2n21dkGWIflyUznZFX/qQehzfOYVipPjGIYRtK8mmWrx9EzVJjsch3nXSFSUuS7B9OkZ2u9lu0yqN+umebUVn0t2z5k3QfFmTmIsnRCKnmYPUopTHIBkBP1BhUKBqwviimHoLPsXkUoBQDyTX28NXt1zRD8YwctLC2ZxcQUH54pka3RTjPn9z/+/WEPEzovgXBkbjqHdAA1WaOYNGsPVkJGBRQYaXiB/Zb+BWstG5c+mQ=;LBwFH2Axu+33sDNSn2DRHQ=="
 ---
 

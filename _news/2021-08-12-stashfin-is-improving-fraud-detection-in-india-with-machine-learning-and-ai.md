@@ -9,7 +9,7 @@ ampWebUrl: "https://techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/08/can-ai-and-ml-help-reduce-fraud-detection-in-india/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Oppo sets up camera innovation lab in India to develop localized features, AI camera solutions"
+    excerpt: "It will also develop new imaging effects that will use AI algorithms, AI facial reconstruction, among others to enhance the application of beauty solu.."
+    publishedDateTime: 2021-08-16T07:07:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions/85363309"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-85363309,imgsize-262699,width-800,height-434,overlay-ettelecom/oppo-sets-up-camera-innovation-lab-in-india-to-develop-localized-features-ai-camera-solutions.jpg"
+        width: 800
+        height: 434
+        isCached: true
   - title: "Parliamentarians With Innovators For India Launches India’s First AI-powered Vaccine Awareness Campaign Immunise"
     excerpt: "Bobble AI, having over 50 Million users mostly from India, has designed and developed a series of rich visuals (stickers & GIFs) around COVID 19 vaccinations which can be used as a part of everyday conversations on chat messaging apps including WhatsApp."
     publishedDateTime: 2021-08-13T06:00:00Z

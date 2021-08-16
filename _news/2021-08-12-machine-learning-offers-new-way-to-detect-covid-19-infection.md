@@ -21,19 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Human studies begin on artificial Intelligence discovered COVID-19 treatment with up to 97 percent effectiveness"
-    excerpt: "CALGARY, AB. and BATON ROUGE, La., Aug. 11, 2021 /PRNewswire/ -- Skymount Medical, a drug discovery company, and Louisiana State University (LSU)"
-    publishedDateTime: 2021-08-11T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/human-studies-begin-on-artificial-intelligence-discovered-covid-19-treatment-with-up-to-97-percent-effectiveness-1030719030"
+  - title: "Women in evidence: recognition for coping with COVID-19"
+    excerpt: "This article was exclusively written for The European Sting by Ms. Mariah Vicari Bolognani, a third-year medical student at the Centro Universitário do Planalto Central"
+    publishedDateTime: 2021-08-12T04:47:00Z
+    webUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/"
+    ampWebUrl: "https://europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/women-in-evidence-recognition-for-coping-with-covid-19/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/1592421/Skymount_LSU_logos_Logo.jpg"
-        width: 400
-        height: 300
+      - url: "https://europeansting.files.wordpress.com/2021/08/covid19_-1.jpeg"
+        width: 1050
+        height: 700
         isCached: true
 
 secured: "yPxtMefE/Gqj5sS3aMYN1IuOfp7HltZvNFGD3nI6bnwT1JjFjs2pWT879VSey9DN+Qtgt1meUuG2kRBmo4jNXJYvgxkZHBLkA/B5KsykWyzQuDrvserovpmR+YMkRgiu1019OpRMusEqlqZH4n8FE/okHY8m2v+2hlGNRgOSb1xkWEiE4QSyfJ1vCtlEQv4CpxQbpwrv+eyszBYIUCKOK1ItcPur2rxAvAlTwX7qG2Zvh8QXtvpKZ7V9HfDuNtveeO//XgusMThoeicXYNY6fs/UJZSVmC0rl9nyXzjTTCoTkZdWuKEs75t7KVuD5wkaThSb7m5O+wwZJUDedyBBhHuIggX+V1VFfIET50TSBjONtkZXnGD2Ng/8TYUu+K6TVYAsjz0XgWTZ6fQh2Gj42+M2zx46r41q4dCuXFbHLBjc1rKgf0jKf5quDLJEM/3tiYPr5S9XAun2HskYETPFE49PpqiZ1aWZK24kt7gRjsVOExj76Kfsx1xgpYpgJh1ZuNPLzVNEJ+Y/wCIuSPaX3Q==;JtfPtI7dml11+DKfRjzj4A=="

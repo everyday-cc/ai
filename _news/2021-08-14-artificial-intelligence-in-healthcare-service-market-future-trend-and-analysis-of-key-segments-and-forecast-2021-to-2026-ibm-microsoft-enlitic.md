@@ -22,68 +22,71 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
-    excerpt: "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19"
-    publishedDateTime: 2021-08-11T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
+  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
+    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
+    publishedDateTime: 2021-08-16T04:17:00Z
+    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: openpr.com
+      domain: openpr.com
     quality: 86
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
+        width: 800
+        height: 407
         isCached: true
-  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
-    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
-    publishedDateTime: 2021-08-13T07:30:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+  - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
+    publishedDateTime: 2021-08-13T15:07:00Z
+    webUrl: "https://www.openpr.com/news/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    ampWebUrl: "https://www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354678/wobot-ai-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 69
+  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
+    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
+    publishedDateTime: 2021-08-13T13:42:00Z
+    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 62
+    quality: 35
+  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
+    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
+    publishedDateTime: 2021-08-16T04:03:00Z
+    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
     images:
-      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
-        width: 600
-        height: 401
+      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
+        width: 800
+        height: 407
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
-    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
-    publishedDateTime: 2021-08-14T07:33:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+  - title: "Machine Intelligence Market Demand Analysis and Opportunity Outlook 2026 | Google, Brighterion, Microsoft, NVIDIA"
+    excerpt: "The latest study released on the Global Machine Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Intelligence market study covers significant research data and proofs to be a handy resource document for managers,"
+    publishedDateTime: 2021-08-14T20:05:00Z
+    webUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+    ampWebUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
     type: article
     provider:
       name: manometcurrent.com
       domain: manometcurrent.com
-    quality: 51
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
-    publishedDateTime: 2021-08-13T19:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
+    quality: 20
 
 secured: "YUZVm3g1bIc7rn/GKn8UUz+OafD19nuLSFgcrUk1WBTfIPeE4D2oEAzyd1a/EWFrHmx7BNusRycrs4PtFMjNAvIX3iWGqsjGCOIoyjonpzKy9zAiS+7aBYwcqoDmYLc41Ijt7mkcFBNfDYwZf9d25ujXtusi4IWbBiPVblku6UzsDhvvHNFqaypRgRLDa2nERVCGlsQw4qp9GcFTzXJVcOTTOELX2Nm0TpAwOha3/4fzI63530hsHSdSU8OvWU0UmX+oc24EYPyl/vSGIRSZuFG+KSEtbJBUl8Ok+zMpwUO+9iVhDTdQtEO7RUoc3Gz1kTN59AS33tEvMDwS07DN2fSjLtWKmllk6DDl71HgGlA=;6Xqq/T+sHDSuHcrD7wxqJQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/ai-turns-photos-into-paintings-while-y
 webUrl: "https://thenextweb.com/news/ai-turns-photos-into-paintings-while-you-watch"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "This intriguing new platform lets you translate your words into code"
-    excerpt: "Notably, Codex powers GitHub Copilot, a new tool launched in June and currently under preview that assists programmers by making relevant suggestions as they write code inside development environments like Microsoft’s Visual Studio Code."
-    publishedDateTime: 2021-08-11T13:48:00Z
-    webUrl: "https://www.techradar.com/news/this-amazing-new-platform-lets-you-translate-your-words-into-code"
-    ampWebUrl: "https://www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-amazing-new-platform-lets-you-translate-your-words-into-code"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/LrstCAnun6N69BxwmEtn4k-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "9t3XEKX1EU/ecpdXEvJT9umgdQdGlHSBUwue8Q5S3Ug+GxQSGEtgArYCYle4jgM0Rgfu6N3hv93uhm4mxByk+u1oGNzR7mnXzElIrjiJI0PhWlcOXG7F1p25GgfMRnUrWGnsHDpa58DMUhCIbgy4SsiyKksT8sYt0A667wlKF6Fq5bLQa5dzzfihSQqynRoUEUuCNJBF0S4f8Bc+iA+xTDEaCdGd4Cj2Y+eVy/MbxLehcBEgeyQEDHXoVwx2tUJijKk68bQh/LlxeFRoYFEx9fky3kuAgF0xLBGElHa5VazBwB06++BOFyEjuqirHTdKSEqTqhI+wZDLhIpn1k1ovBhWgnEE4ukQEoSgPcXOhXE=;asSoz3av2offpwLqv1jmvg=="
 ---

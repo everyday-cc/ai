@@ -27,63 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Healthcare Market Latest Trends, Demand and Advancement 2021 to 2028"
-    excerpt: "According to our new research study on \"Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 - COVID-19"
-    publishedDateTime: 2021-08-11T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-latest-trends-demand-and-advancement-2021-to-2028-2021-08-11"
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
+    excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
+    publishedDateTime: 2021-08-12T19:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 86
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
-    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
-    publishedDateTime: 2021-08-13T07:30:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
+    publishedDateTime: 2021-08-14T01:00:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 62
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 18
     images:
-      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
-        width: 600
-        height: 401
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
-    publishedDateTime: 2021-08-13T19:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
-    excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
-    publishedDateTime: 2021-08-14T08:53:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
 
 secured: "3+JgQtdyO5jr3oHDLOKKmo+5xqPpnnHuh1ib3L7DfMrLX1Pk+jxhuibEfQ5/twg0uyrBKqG5ZET/vzQXMat8QU14r6ME+7QG892hbYj4jIx+UdaUcyolLuyeWBEEh+rDiKqYsdX7k93VO6w8FoWqdMU5+y4QSSUujr3kilxvSRtGQr96BISkHkWXopC+yM+x9dl5s/wdU+g+mXoF1PjvO+vtJg1aCVlyMRXmzyqctw7x1V4RThODW8EMgV/+FRiI2tmagDt6a6gE+HebibFm46t4Beh75RVhekqovk/byVX7gamhRN5e/Nca1KEAajWaNP0L4Lt+N9u7JmekHna7cCFP3HPNiIGC92Sv9i2KJrE=;BtHf4jQgcFk31ZItnWfR3A=="
 ---

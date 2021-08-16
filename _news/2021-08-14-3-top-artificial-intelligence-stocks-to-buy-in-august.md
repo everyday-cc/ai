@@ -1,33 +1,23 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in August"
-excerpt: "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots."
+excerpt: "These three emerging companies are using artificial intelligence to disrupt these old industries and are trading off their 52-week highs; their stocks offer potential upside that makes these AI stocks worth considering in August."
 publishedDateTime: 2021-08-14T10:50:00Z
-originalUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
-webUrl: "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
+originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-august-2021-08-14?amp"
 type: article
-quality: 87
-heat: 97
+quality: 67
+heat: 77
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "5 ways to get more women working in AI"
@@ -47,6 +37,6 @@ related:
         height: 684
         isCached: true
 
-secured: "V4yGZmSeCsuIMPZcRzVfgAEokKPD0YlC8MTEGznYVZgsEQH/Zl5T9C/nQCZ/R1DKJJiZeT2VkJAtlteeoPvI+WtIiRmZpkYraZBwJU1RoKfrfb1sL1fLWZoTV1zK5z0Q5OnuKpUMW0Iygk8gaRCp4vtcQlRG6z+Pp8zcLJs9mWG9p2rE2JU+KGl32qBWsXHAeCqFaU591zOulMoRRDpQ/rDt3FluvrxqL6l4TLYWTw/SLtNf3UjufGxkYVELQZtZioaZd73hzgJ1QD+dzHiXInhRzHNcuRP8PB7Io2KEBQVNtETaiHrATFiYiXUhd3xWsvRDVAIM8ZiZpYtpSo7kIyo0yzon66BtT1Eb07fGtiFzmGEZAE+JWffrKvlgIs4Q0EJhlujohlmiAHspBs4OtCaHdNqCulinb5B8UUpI2K03Sj3oGB7Uz058bl6zE+VisuYpA4ipjQCRq22xouzG2wKvcbaP7193w8TloRW0bgogmFlbe+biwncDv5uR1ML25HVZ6oyou4UglQYDK9qx5Q==;bJJ0uCXjfT3I2y4qMR/m1g=="
+secured: "Q0qil2S+++rKnqG2xMALWtTeJZf4JcCrZT0WKP1WcBpwqdU8KWZ2Hqle1cE3PeFU6t/ft+vVzNKBEpVcl5E6bOrIAMOxiNMKPZcctRKFNdTzeXpHHOQWN015nNhNDwt5Ywq4/ZcPSjqCzSCC1laJwsTiKLpgLGxT3WKb2jDkoah3KpWs4c/yfVMaI0pI2NyUppwFBIRe1RZulXhrsBwUzSDxcwbnfNmMBn8CxY84fHCgRlnCCpDJDsx2Rywnztl35UovwqAQE4UhmcCLYCcGQoRJbxqllu+DVUf4FU/tK6v5KKeplOb0IsERe0VyqN2+cuXitmvlVy6KrCFfUuFYqbsJkgdIF19lzOvThQuTEwY=;wN6Q+v91vO9QFBH42OWQcQ=="
 ---
 

@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Forget FICO, 3 Fintech Companies That Are Disrupting Consumer Credit"
-    excerpt: "Fintech companies -- those that combine finance and technology -- have generated a lot of buzz in the public markets during the pandemic. Although they have been around for a while, they are fast becoming a part of everyday life."
-    publishedDateTime: 2021-08-11T14:26:00Z
-    webUrl: "https://www.fool.com/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
-    ampWebUrl: "https://www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/11/fico-fintech-companies-to-disrupt-consumer-credit/"
+  - title: "Gateless Adds Rick Lang as Chief Operating Officer to Help Transform AI Mortgage Experience"
+    excerpt: "Gateless, a visionary mortgage technology company that provides the industry with innovative solutions for the entire loan process, today announces it has brought on"
+    publishedDateTime: 2021-08-12T19:05:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/gateless-adds-rick-lang-as-chief-operating-officer-to-help-transform-ai-mortgage-experience/article_40d6852e-8bb4-5276-b720-162da56a598a.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 27
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638007%2Fgettyimages-1316521044.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fintech Platform FUSE Autotech Raises $10M in Series A Funding Led by Target Global"
-    excerpt: "FUSE Autotech, a fintech software platform that redefines the car buying process, today announced the completion of its $10 million Series A round of financing, led by Target Global with participation from PICO Venture Partners,"
-    publishedDateTime: 2021-08-12T13:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/fintech-platform-fuse-autotech-raises-10m-in-series-a-funding-led-by-target-global-1030724575"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://mma.prnewswire.com/media/1593214/Logo_FUSEAutotech_Primary_ID_0fdecb7cdd63_Logo.jpg"
-        width: 400
-        height: 295
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/c0/ac0dc957-3ed3-5a36-8295-524bcf7da321/611571449c9a2.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
         isCached: true
 
 secured: "rVDeUFY/M4OBkNj1Y9tYkuh2aiycuozPSvhTce/cXItzTMHB7hRo17UHSML7J4mytHkswJE2nyneCO7V/gGgC1spGUmOH8WQBxJToiFMj5Pb+FmaqjRkDX8otiA0neoCiElNOTLWRC6izaPJ7XrrUz2yK+b/tlEtYoCCHqfUzDx0Hoc/mFYSn93EQf8udV2QFbKN3hDl9zHil2eVOOtb7weyLPM/rHwsYNqXw8G49oNZD++i7WQQy7mNuBNftyApVOYXvX1O5fPSPsIAaaQjdWhadl2GVnJDMGh1O50bAmSf+Bd4ww6H1CIJvif08tniKwh9zyUDV/OEAPAukKeuj21DmgRyXDYFgHXvuzti+On8Z6248ael42EkIXFYcJ5h6gVhfopF/CDywpgC1vzfB9mNM7sll3sKnq0CiZavx/S6itqxUCVGxEtXqSYTGWUbMLRe9JQO8IJmETtiRPKVnFr/rFWk0xC2WZrzGLAdjgA/eP6MlrQWxN3G6l07q/NTe4BJnnWHtK9OseNHR5Bx5A==;BdfNgdQhU+7cAosBhDpEHg=="

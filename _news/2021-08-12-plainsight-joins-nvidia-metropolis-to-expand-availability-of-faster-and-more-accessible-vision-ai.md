@@ -41,9 +41,9 @@ related:
         height: 961
         isCached: true
   - title: "Samsung has its own AI-designed chip. Soon, others will too"
-    excerpt: "The South Korean giant is one of the first chipmakers to use AI to create its chips. Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many ..."
+    excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
     publishedDateTime: 2021-08-15T10:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
+    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
     type: article
     provider:
       name: Ars Technica
@@ -53,6 +53,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "AI is here to design complex chips and Samsung will use it"
+    excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
+    publishedDateTime: 2021-08-16T05:10:00Z
+    webUrl: "https://technosports.co.in/2021/08/16/ai-is-here-to-design-complex-chips-and-samsung-will-use-it/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 54
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2020/10/Samsung-Exynos-Processors.png"
+        width: 2092
+        height: 1138
         isCached: true
   - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"

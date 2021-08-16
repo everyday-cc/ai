@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Samsung has its own AI-designed chip. Soon, others will too"
-excerpt: "The South Korean giant is one of the first chipmakers to use AI to create its chips. Samsung is using AI features in new software from Synopsys, a leading chip design software firm used by many ..."
+excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
 publishedDateTime: 2021-08-15T10:44:00Z
-originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
-webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/?comments=1"
+originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
+webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
         width: 951
         height: 961
+        isCached: true
+  - title: "AI is here to design complex chips and Samsung will use it"
+    excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
+    publishedDateTime: 2021-08-16T05:10:00Z
+    webUrl: "https://technosports.co.in/2021/08/16/ai-is-here-to-design-complex-chips-and-samsung-will-use-it/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 54
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2020/10/Samsung-Exynos-Processors.png"
+        width: 2092
+        height: 1138
         isCached: true
   - title: "Nvidia boosts self-driving AI business with Volvo trucks deal"
     excerpt: "Find the latest NVIDIA Corporation (NVDA) stock quote, history, news and other vital information to help you with your stock trading on FintechZoom"
@@ -100,6 +114,6 @@ related:
         height: 419
         isCached: true
 
-secured: "WGIb3cL66qjoxq214c/BJrnTB7AgaFhiypa4T7liKNw1Fvb/NX4+fYxRDcdLX4BY58Twk0Fuz1vTOh8mqvka2kfiQbmP42O16g6UKKPR75OblBooMNS/2RE+BrsjKPh6xFSERxeXgy8pEwfomiz/f5j2EHefw54XrnETimlYwX5GXg4A+4lsRJtc4D564FG7h6VTrc1rgSMXg+5lLl3inisHK/bGNoJqjgOzEFHbPYcfb4K2n8zr/nJDc48JlI+XEy4iIBohPF17BOC2nylnbqg8zn/+JOnO+8j9k7VvOTh77FXJFpaAZR3+RXo+JV+Wqrbl6KHwEdtvdNMkAHBvTjKHUN9letAwTaiWupnKPLg=;i77DrLn4wkSePsAjD3t/VQ=="
+secured: "cGTFpQEtXZiD3ncAJcLVZxP0I7f7ntsNgwWIhZ84Q2Ife5kwBfpZUmDgOIGW5KPKWIx4U5dgc11LRAYPV63ielCAjqJ3pvtKVTu5mk8Nbegi2/+dnkVuGa30TnqsJb4GAIK5yOBwq+ho2ANRDWacjm3xMXzdrGjBKZYbg1P/+WJRDdi7jimpwfCDH9ZhygM4W5wjakcB4pA9O89QnAfPp5O8RNsNy33Moi8xeH40kESHcfvsZzDziFBMqEoAC4wBf5sxG1sLwZa8I8Ju7LyY5MxfgxymQ6G0k4TutyduqBoqiTpbXgeMiEPkOcSNQj/DfIpLmApckokXBdnHNLXLInz7D/Q77s8Btq7RskwVjV8=;ZhapUKEeMDQvAh9hgxlq2A=="
 ---
 

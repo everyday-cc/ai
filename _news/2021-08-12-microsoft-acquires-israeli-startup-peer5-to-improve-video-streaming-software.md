@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/microsoft-acquires-israeli-startup-pee
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/microsoft-acquires-israeli-startup-peer5-to-improve-video-streaming-software/amp/"
 type: article
 quality: 156
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 400
     isCached: true
-
-related:
-  - title: "Microsoft reveals new solution to identify and catch ransomware attacks"
-    excerpt: "Ransomware attack solution found? Well, Microsoft has taken the wraps of a new tool that could come in very handy while dealing with security threats like ransomware."
-    publishedDateTime: 2021-08-11T13:23:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/microsoft-reveals-new-solution-to-identify-and-catch-ransomware-attacks-71628687558232.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2021/08/11/1600x900/ransomware-2320941_1920_1619284853227_1628687614695.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "TKfu9uEP2xd+BELrPs/X4JesonM5Y/Efh09mM184TnKJ54ZDQUrd+q7Mf3ykih5o35tKdR0gHTVZgvsWRZqVlsUKhzVMoqD83iELthI/Ts0gXsUOuQZrGwMPHgoxLK1oRxMOepOstCw30MsZAvs5cHy6t4z0ZFVKVNl032QRGeP5H7QLPcuov8+eFieEflUTXnGbcjRJ01NK+ByChxCm3t40bfLmdws8LjU5QNsAY0C0HVAAKyOBwItJsSTX+LJjrjFf6g1wIM09C6oYe2YKsLZzS/BMuaTDqfcAmagq8WgM964aOsNHo9J4IGTlAfNWhrtubSjrqGmJGQP2IuiczMAGrOsEzOdpfyOebzOPnyY=;jHtlKKkBU6FI9QHTGgY3pQ=="
 ---
