@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Li Auto CEO: Terms such as self driving, autonomous may mislead people"
+    excerpt: "Li Xiang warns the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers."
+    publishedDateTime: 2021-08-17T20:01:00Z
+    webUrl: "https://www.autonews.com/china/li-auto-ceo-terms-such-self-driving-autonomous-may-mislead-people"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/377497552.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chinese EV maker warns terms like autonomous, self driving may mislead people"
     excerpt: "EV maker Li Auto's CEO Li Xiang said that no automobile today is truly capable of fully autonomous driving and thus the common usage of such terms should be avoided..He also urged media and industry bodies to adopt a unified nomenclature for assisted and autonomous driving technologies."
     publishedDateTime: 2021-08-17T07:50:00Z

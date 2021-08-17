@@ -38,6 +38,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Australian National University: The DNA of data and AI"
+    excerpt: "Data is vital to scientific research. Without the ability to quickly process and analyze large amounts of data, breakthroughs and publications take longer. This increases administrative tasks and can even lead to projects going over budget."
+    publishedDateTime: 2021-08-16T12:12:00Z
+    webUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965"
+    ampWebUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
+    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
+    type: article
+    provider:
+      name: Precision Computer Methods Corporate Website
+      domain: pcmethods.com
+    quality: 39
 
 secured: "OogF8SHVl4auhSFqK/hUPrqAFDPoVna+dSZzOF0HmfXN3fb8zCkw2RZaoEA0mza8tnyOKN8kaAi2rsxJNJxrclccs5OgQktP7ruwkDuT/qu9QELV7RWOPJT40DBmponzLPQUl7HMJ8tpTs3rqU1FH7dCdd6qlJFHDchAaJiBFfgPkKJPcJOJTwGJg8Idgq5hP6gBao5LTCh2cMZ3/9HtS0vSoDSQEwcoYaNIHtLevT/Tft950dh8rCw2lmnlJi0O2dMUCjX2b4gN6q9yUIFMn1w/k/4ZAt01HDNUZo8SHv4u4ZvKk8mL4r3yGi01E1Z8tS8So+TaXOppJB3lstxb9d9ef1zl3SOKYLAFhj8ZCCQl9v6qWw6sWsYjHOhaHX2kxXZw7dcw6yaYBxWxLvtUpyja+bU6vgbU+C7H5TCEG0XTkZn1lZESlrrpKk1KUCyfLSQemuTleSGtqZwuA1dARyM+O8QOTeEzcthBwEnWBVPoyEBE2lLsnNs6X0HbULEIaK7+eawleyziUmD2jQTBfw==;NlHigjYshWu8gaB7xPYGrA=="
 ---

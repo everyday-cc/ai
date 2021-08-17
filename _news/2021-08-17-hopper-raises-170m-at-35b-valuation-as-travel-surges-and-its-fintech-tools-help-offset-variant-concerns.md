@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 614
         isCached: true
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 54
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
+        isCached: true
 
 secured: "Lvr4MbmAZXA5iKsGtpKwT521wbpbNnR1p3w1J1Ni7qYdBy+MjcHnybfsj/0CGRXbOUMwpN65uvJHTnXheO3d1TpaXe7yZThQHEqe40HYqECP8F43GZ2d3VDmebcqykBubJzsLSkvwBAtJ5yjC+5XrAyRQDkiLo+7Eq6dSXCChanYi+pZvNNUzgvg7ef9Kv3dLrmCx00y5+HrKilxXBUojXi7DRgfOqhmYP1BhPPh8RRz83/a5/ipyNPx1BFQZ1OUTxrcoVWOluknkXs23arG0pDx0IzQThwnR5r8Lws58dWsrn36Ky+Nuudu4LPDwN94p9YDYUikaai6NAq4Z4hdbcsURPujsN2UWTPV1MlBll9XXHNDI/2WXyDf47uzpeFXU/vXLSrp1it8/vdqxLFPRp9KxD5g0l7v2bWqFrNoCD5ZUug86loFVK06onAupJQmVtpC9BcFOoQ9lxaG+0190TNKMdBMiK+QQIHfdkex0ZYbEtdShlq98QBipIXc/+S+M85RSfsYLFPsJlaQrBl39A==;grosHCTKt29/mPQJrhPong=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-
 webUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: eventbrite.com.au
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Australian National University: The DNA of data and AI"
+    excerpt: "Data is vital to scientific research. Without the ability to quickly process and analyze large amounts of data, breakthroughs and publications take longer. This increases administrative tasks and can even lead to projects going over budget."
+    publishedDateTime: 2021-08-16T12:12:00Z
+    webUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965"
+    ampWebUrl: "https://www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
+    cdnAmpWebUrl: "https://www-pcmethods-com.cdn.ampproject.org/c/s/www.pcmethods.com/it-support-blog/australian-national-university-the-dna-of-data-and-ai1629133965?hs_amp=true"
+    type: article
+    provider:
+      name: Precision Computer Methods Corporate Website
+      domain: pcmethods.com
+    quality: 39
   - title: "AI-powered bidding platform for Australia’s biggest solar farm"
     excerpt: "The operators of Australia’s largest solar farm have turned to a software-based bidding solution as they seek to optimize dispatch and manage the facility’s market trading and power purchase commitments amid increasing market volatility."
     publishedDateTime: 2021-08-13T05:23:00Z

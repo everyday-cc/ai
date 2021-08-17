@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pepperdata moves into GPU monitoring and optimization for data-intensive apps"
+    excerpt: "Big data infrastructure management firm Pepperdata Inc. is turning its attention to high-performance workloads, launching a new monitoring tool today for graphics processing units that power data-intensive applications such as Apache Spark on Kubernetes."
+    publishedDateTime: 2021-08-17T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/17/pepperdata-gets-gpu-monitoring-optimization-data-intensive-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/pepperdata.png"
+        width: 716
+        height: 409
+        isCached: true
 
 secured: "iNUs7awlLBTU+gr2wNiHsNGgsn7v98agz3EZCmb0r6D+DjIuLNLH2VtxSctNFwLNUGweucQZza+zBrt67g/q7gxH+vmoiW8ZqDVQJkPonu9saDcXNUOUUjz1ABZxpH+pN1iUxiv4+WAvgW1+7fzI1XKRGxFodVYfxFuug5veubDjhthVB65fPwuOakdtG+OFxEm9kOGFsgo01jyGP++/xAgdZewuZAR8E5Cy5Z+gABW19zn2RM932WALAnJrUYO8zaiEiEnOk+bm5MwhN1lwzTtDJ00dKm9SxBfKFIgliM90HgegM8/mjNCJThMdt0ENF1YbdBE4DLLrmgGoaardOWDpytAGtan7yUWB+L7/lds=;fnfOtGgwImZXf8vnReT8qw=="
 ---

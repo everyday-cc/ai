@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
-    excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
-    publishedDateTime: 2021-08-17T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/81158/intel-teases-ai-based-dlss-style-super-sampling-tech-in-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "EvTeHbg8gJS2MJZGMbc8q9De1ZwkvFSsLs5sUlb7lhPTKhGZqh7LOEuDnMVllYlmqj8UXk4kGKxuglTygBYZF1o/nJnsBtIOCijHjsq0YKe5Fgff2VYnApmunBlJu/+V0FLcJObwNanvxdvr1ozwwZb9dDUZOM9y4P5UyD4Ae387Cn2v/rUbHefFU7faiE/67Oj32PbnMIbi/mdxQyXO+IvHPynMGUBAw3wA/+IHWkjGWllYb99h2LIe6fj7RuyEaMVfyoDUF8BArEvOWYitQuSIjiVjqihoVlWLCEXgJlqEuqUCM71Vfn7vdJ5pQuXNY+1wof/pHSkW951A1EBUL935tAfl6DbD6wLcnHBcKr4=;cT22qsonWuOMt4Uj1vEKbw=="
 ---

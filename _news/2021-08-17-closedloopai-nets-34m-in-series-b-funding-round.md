@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-ne
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
       - url: "https://www.finsmes.com/wp-content/uploads/2021/08/ClosedLoop_co-founders.jpg"
         width: 480
         height: 344
+        isCached: true
+  - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
+    excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."
+    publishedDateTime: 2021-08-17T19:58:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/closedloop-employs-ai-target-unnecessary-health-spending"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug172021at35252PM.jpg"
+        width: 770
+        height: 400
         isCached: true
   - title: "Latent AI Raises $19M in Series A Funding"
     excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"

@@ -63,6 +63,20 @@ related:
         width: 480
         height: 344
         isCached: true
+  - title: "ClosedLoop Employs AI to Target Unnecessary Health Spending"
+    excerpt: "ClosedLoop.ai is hoping to use artificial intelligence to overcome some of the biggest obstacles in medicine including unnecessary healthcare spending. The Austin, TX-based company has raised $34 million to help it accomplish this task."
+    publishedDateTime: 2021-08-17T19:58:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/closedloop-employs-ai-target-unnecessary-health-spending"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Aug172021at35252PM.jpg"
+        width: 770
+        height: 400
+        isCached: true
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
     publishedDateTime: 2021-08-17T10:01:00Z

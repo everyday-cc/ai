@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-h
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024"
         width: 1024
         height: 768
+        isCached: true
+  - title: "ClosedLoop.ai Raises $34M to Expand Healthcare Data Science Platform"
+    excerpt: "ClosedLoop.ai., an Austin, TX-based healthcare data science platform, today announced it has raised $34 million in Series B funding."
+    publishedDateTime: 2021-08-17T20:38:00Z
+    webUrl: "https://hitconsultant.net/2021/08/17/closedloop-healthcare-data-science-funding/"
+    type: article
+    provider:
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 54
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/ClosedLoop.png"
+        width: 906
+        height: 569
         isCached: true
 
 secured: "98HOOeNFADHlLaPWFRLnXqyDEBB6Q4NEoFQbZIKMy250TI21gK7ERk8xLd32HYO+qhdc177EeXHgcpAm+XfRZjbsQSZgdeb37+GLIllSIW9uzR+dFZy3PyjfuCIrhzhD21uQfn2OapvtpjRL/AgS02BHEK01YeH8jAEvu0anwX0w5T/S8VCyTzq7aVEsuAOAAZ1Jrijgkr75PHsRbifCKS8zS6zQyyKzFga3lqFhXmIrRPrKWwGKXOz1SA+ZkAYuhHGx35s7ECWhwob86BPBe5BuJi2y6Wb9EmjJmZYSQEwSxBkYHSAXsHyHvQLCUDPCPkCZJbp4u1gPSB4gEhdYfqgI7zX6mJKz0r4slWA234S4WBEc0aytZgPkHoDVZ1NljYKFFR0kc1ICyIDgMoyMXRyCDgvVEAKMkagGQY0z9YgxNiVAKPON3dee9MeFHKZ1UGP+JprfEVZyly8aiPd55D3qJaiEy5xEHqpYaexhvFt/MzKs6gt1rh87nYV8cebwjB8H9syRziiLFUo+Tkh9Rw==;gYV3B/Jeew30lNEVGdcIIg=="

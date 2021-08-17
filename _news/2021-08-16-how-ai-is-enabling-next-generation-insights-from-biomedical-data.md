@@ -7,7 +7,7 @@ originalUrl: "https://hitconsultant.net/2021/08/16/ai-biomedical-data-insights/"
 webUrl: "https://hitconsultant.net/2021/08/16/ai-biomedical-data-insights/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
+  - title: "Latent AI Raises $19 Million Series A to Enable Next Generation AI Factories"
+    excerpt: "Latent AI has announced today the closing of a $19 million Series A investment round co-led by Blackhorn Ventures and Future Ventures."
+    publishedDateTime: 2021-08-16T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/latent-ai-raises-19-million-series-a-to-enable-next-generation-ai-factories/article_e957c3e2-385f-5e1b-92bb-c8c2f63e6989.html"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 34
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
-        isCached: true
-  - title: "Global regulators seek permanent working group on AI"
-    excerpt: "International medicines regulatory body ICMRA says permanent working group should be set up to monitor uses of AI and machine learning in healthcare and medicine development"
-    publishedDateTime: 2021-08-17T13:45:00Z
-    webUrl: "https://pharmaphorum.com/news/global-regulators-seek-permanent-working-group-on-ai/"
-    type: article
-    provider:
-      name: pharmaphorum.com
-      domain: pharmaphorum.com
-    quality: 39
-    images:
-      - url: "https://pharmaphorum.com/wp-content/uploads/2020/04/AI-and-cancer-care-Three-ways-artificial-intelligence-may-transform-cancer-outcomes.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "SljJtaqutIG0iq8FJW0CnjZpPH5Q6AHx7Uh839RpQM6ihGqXDI+KM5Dzlcl9bbKkS16friJ9B/oIyBO4EHFmkJqy4zQibYG90iRqo/Zw2vXv2z/d3WEzr8vTpYGhvs1azH7WMMUkqvLwvSdOZ/6BOKJ/nbpWC8sTWGv0MK8NYGMkbAOPMsuJsUQYfrHQSBDptgcc6hCjVOCyod0AA5M3cMtZItbj83qCeR0QwfRbvw2Jam2nQJ1/OIEAD3LvajxP8aby2EFeLqlbC850vYVxL/daOCE1PQUvF/0HTrTVZheE6cwPRCrss+rlM1/G/Tc68fs+55DRtDD0na/A7Y6zzjXW07RGSzP8HW7M/rgqbSY=;iNuckZrYS5ys7KUxgj+1BQ=="

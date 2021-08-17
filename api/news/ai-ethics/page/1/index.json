@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-ai-regulation-is-coming.md",
-      "title": "AI Regulation Is Coming",
-      "excerpt": "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness.",
+      "path": "_news/2021-08-15-building-australias-capability-on-ethical-artificial-intelligence.md",
+      "title": "Building Australia's Capability on Ethical Artificial Intelligence",
+      "excerpt": "Mr Santow will lead a major UTS initiative to build Australia’s strategic capability in artificial intelligence (AI) and new technology. This initiative will support Australian business and government to be leaders in responsible innovation—by developing and using AI that is powerful,",
       "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
-      "originalUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
+      "webUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
+      "originalUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144419107%2F507908461719%2F1%2Foriginal.20210428-031838?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=020167f4baf25a658b9d223bbb35926a",
           "width": 1000,
-          "height": 562,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/09/ai-regulation-is-coming",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming",
-      "publishedDateTime": "2021-08-16T10:59:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T17:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
         "images": null,
         "publishers": null,
         "authors": null

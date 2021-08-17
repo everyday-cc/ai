@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/laten
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/latent-ai-raises-19-million-series-a-to-enable-next-generation-ai-factories/article_e957c3e2-385f-5e1b-92bb-c8c2f63e6989.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
-    excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
-    publishedDateTime: 2021-08-16T22:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-fb409dad6066c8a32dbb472f96c1f810"
+  - title: "How AI is Enabling Next-Generation Insights from Biomedical Data"
+    excerpt: "COVID-19 caught the world off-guard, sending governments, populations, and the entire healthcare community — physicians, nurses, scientists, pharmaceutical companies, and medical device manufacturers included — scrambling to discover and deliver rapid solutions as millions of lives hanging in the balance."
+    publishedDateTime: 2021-08-16T16:15:00Z
+    webUrl: "https://hitconsultant.net/2021/08/16/ai-biomedical-data-insights/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
+      name: HIT Consultant
+      domain: hitconsultant.net
+    quality: 39
+    images:
+      - url: "https://mk0hitconsultan2lp7c.kinstacdn.com/wp-content/uploads/2021/08/A-Blake-Headshot-2020.png"
+        width: 926
+        height: 1326
+        isCached: true
 
 secured: "ONpiB/HNfx094YpJkwyt+8k+AX5rhTDlE5qzw4qwGJUwpJYJiBMJTwGZ7wWAL1j60jLfoz+d0Pm+BfdpThHKNKqaKYxbtcws/ubNdVeFrELTfr7vW5UIau5yWrXW97NbXMdb/jT6B3+JQduISLLj7OWNMKGDYsGLih1ox4WwAOSp3LDHl7omjPnDlauG/DPxFSyHZj4I9KYqglVGmfyEr1y/UiLW7lzI62m2JpcolLROoqcBvhKysPOo0bFaXaVj8mw0cLEqSZQGvF+V5V5Mlii9SxrbmWq9g1pzk2oHjmiyEJ8Yj+CdRp4GVpMphci6t5nNLzl3fyfkcI1EGYr935zTT3ri4s4a7tWwWJVghM8=;g3+85iQc9OupjZdurIswGw=="
 ---

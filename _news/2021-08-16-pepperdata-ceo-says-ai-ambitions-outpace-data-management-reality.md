@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/"
 type: article
 quality: 87
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/nw_manjoj_leelanivas.jpg"
         width: 800
         height: 500
+        isCached: true
+  - title: "Pepperdata moves into GPU monitoring and optimization for data-intensive apps"
+    excerpt: "Big data infrastructure management firm Pepperdata Inc. is turning its attention to high-performance workloads, launching a new monitoring tool today for graphics processing units that power data-intensive applications such as Apache Spark on Kubernetes."
+    publishedDateTime: 2021-08-17T13:00:00Z
+    webUrl: "https://siliconangle.com/2021/08/17/pepperdata-gets-gpu-monitoring-optimization-data-intensive-apps/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/pepperdata.png"
+        width: 716
+        height: 409
         isCached: true
 
 secured: "kUYn0/ZYAKEiB1j8pNzuqJ5L2GnNmgnFsfHAoHomvWMpm4uU0cImtRCD0t4MbbB5fwle82Bdo5uk1QrPxQz+IZx8BBvIU3o4kUkkedhje/tWIbn6VdZeyaYXg1qZxtN8ZB/7oIE0arEQFPxx+jxlAFYq/YqjxD0ISakvS9LgDi7YI5406qUwxRxDcnhqkmdSudNGQabWRUv8mupS/tSk7yazyxduJzkZb1X6QIsfoCkzlsMPZcWYi/zRCpZ2NB0dTBO5/2XjfTQM4u1Lxm3xUoctMgJZ0llDXO7nT7yh7J83ukxbR1TVLkqxbfMavHTAjniMWhA+Ro7rG82gF1rBVCuSpmwJV+wzQWGoSfYP1yjvH99j1K1EDTT9E/ddj0+RnklEEccCSBvVcWhsp0mh9BqoSPsG2kFjMQEaPiKw6MBF8vb0lGf+0/uJ7RXST2pC+jGGaC2yEyBSurKHeVAAjz2lZSMMImCfdgJHizPP5FAKWtPmWD/ghXuGEyMVtSMzwi6hsoUa4W2wjEKYUe+u3A==;j5l4YbNaXa+k575kbNaNQg=="
