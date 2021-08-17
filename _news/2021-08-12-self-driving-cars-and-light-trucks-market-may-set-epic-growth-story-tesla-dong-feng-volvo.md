@@ -176,20 +176,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 17
-  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-12T08:59:00Z
-    webUrl: "https://www.lelezard.com/en/news-19948480.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 4
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
 
 secured: "8kV78gPzEwD8VFL+Zz7Qn5XRAjfdVgqQ+x8JH8EC6aGjsOATqO0EXNVMAx4TvyS+VchDpjJOvkW8txchBxc5RcfKlmfIIVSYqqp6CguPZGJsWNQf+V/d6ANyhaMs6amQgwWDxDdbim+ikhVWXNkNg2R4MkIZZo5NHNrzJFCHc9tonPFUosrJ3CmXRkZvYJgsCWvxV33RYsWpKltdSOANXk1PyByRTxs1JzUApQKatMieOoGaFR+guOx1m8vilLueabU0/Qxm1Duc1Yt2kq5NpGgBV6FVyaIgqafKbUYf7KtqtRbKVONsWfnOHK3om7i9wf6JzEaEgGgkOf4JqMduF+7PJHVpLJygiZmoLeSQqOfRmJHxqJWRnnQj0FX90jyIdI6ecT2uIBjYkzjGfTwQuI1XMkkY5tUJJ+BmNMFw1AtPuukDmbKfnL2KpYyN5neJZ94rcJV5CraQqUgj/MzldlrfukcrlquoN1YTo4YzkrHMLx3jxEz88F0+ei7NrB8DJ+bwP3vlkzZBfSWL1EYAUw==;srTrEgv2XtKApLeVL1NqgA=="
 ---

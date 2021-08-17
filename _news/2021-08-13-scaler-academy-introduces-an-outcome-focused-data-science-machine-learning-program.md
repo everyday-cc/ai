@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scaler Academy launches new course in data science and machine learning"
-    excerpt: "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide."
-    publishedDateTime: 2021-08-12T09:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Scaler Academy begins an outcome-focused data science & machine learning program"
     excerpt: "The immersive course has been structured based on research conducted with over 100+ data scientists working in top 50 tech companies globally."
     publishedDateTime: 2021-08-14T02:04:00Z
@@ -60,15 +44,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
-    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
-    publishedDateTime: 2021-08-16T22:10:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/925422"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
 
 secured: "pykNXMmxQlV04WUvjapg5npYliqIJjkOS1MF9/+1iKIa5wjvYvyDuJXTorp+O7D5vEN/onkP2sWVERpJyo6gXY1cF+QNtFzV8h+iJW3N+SdNf1MGDFmJGgrKVxGIOx8XXpLW5ZDpvafH8362IzoRM9/q0Epq3n2DdO8fIn+3eRY+CEPeOytqgyfeJSIN09Cd/lhvlXZugqgfxbvJ+qYnnoh2fx3CciOZe9AolDNFBARnMr/+qy/xS13+6lTht9fNPyjuBfx6gKNVbXQEe8toApTP1xISXj7uENnBFK7v61ctoS8bbXss0/v7HLQg60FEvFgFRCLcBT2S/TbZe7lB77ve5Epn9yCWbHwCcXxXwUU=;wIqdeuukUId4Bukheg8UHA=="
 ---

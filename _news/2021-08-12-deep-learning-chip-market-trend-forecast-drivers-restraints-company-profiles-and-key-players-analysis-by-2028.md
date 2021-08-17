@@ -9,7 +9,7 @@ ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
 type: article
 quality: 70
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -177,20 +177,6 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 17
-  - title: "Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Analysis - ResearchAndMarkets.com"
-    excerpt: "The \"Asia Pacific Workplace Services Market Forecast to 2028 - COVID-19 Impact and Regional Analysis By Service Type; Organization Size, Large Enterprises; Vertical\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-12T08:59:00Z
-    webUrl: "https://www.lelezard.com/en/news-19948480.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 4
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
 
 secured: "VpDaVSnhTzYn8F1CG3CJX8o6MZKkZJFw9A0o/Uopo4pGrUb70r5pyqjYPzXgI4BLfGMYrSpZ2QQsiGC5fKNoS6Sx6aiduN5Rwq+yzX6mU67ZM/gssBkcM3HdkxlzNQEhUTDElpBSDAAoi4cxKVsykn7iW2BWWuJEGiIPX3NlwW0PYdGEve3hlTzK3unOn409EiQHJPnOqCAu+4IBroduRj8LKadBAocFfyhS+ZC8aZV+plYN9rXaixosKgBrXYDC/8M4/cvjGu4EL0AI1bpS09NR8HiVuygenPRQfMIkytEx8WuF5589+o7z+S3dy3bzSvN956Ef8DCfSlKytkvMCFPmGQlFuFoQgcFnFnJ9ZSw=;jiRuuvubmtWEa7YEUTXpMA=="
 ---

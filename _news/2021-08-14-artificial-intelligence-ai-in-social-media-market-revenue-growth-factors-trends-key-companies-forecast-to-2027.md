@@ -55,6 +55,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
+    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
+    publishedDateTime: 2021-08-17T01:40:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 9
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "3+JgQtdyO5jr3oHDLOKKmo+5xqPpnnHuh1ib3L7DfMrLX1Pk+jxhuibEfQ5/twg0uyrBKqG5ZET/vzQXMat8QU14r6ME+7QG892hbYj4jIx+UdaUcyolLuyeWBEEh+rDiKqYsdX7k93VO6w8FoWqdMU5+y4QSSUujr3kilxvSRtGQr96BISkHkWXopC+yM+x9dl5s/wdU+g+mXoF1PjvO+vtJg1aCVlyMRXmzyqctw7x1V4RThODW8EMgV/+FRiI2tmagDt6a6gE+HebibFm46t4Beh75RVhekqovk/byVX7gamhRN5e/Nca1KEAajWaNP0L4Lt+N9u7JmekHna7cCFP3HPNiIGC92Sv9i2KJrE=;BtHf4jQgcFk31ZItnWfR3A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://beebom.com/this-machine-learning-tool-translates-english-sen
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/"
 type: article
 quality: 73
-heat: 94
+heat: 93
 published: true
 
 provider:

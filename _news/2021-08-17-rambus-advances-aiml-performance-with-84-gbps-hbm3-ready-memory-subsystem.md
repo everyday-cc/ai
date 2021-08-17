@@ -2,23 +2,26 @@
 category: news
 title: "Rambus Advances AI/ML Performance with 8.4 Gbps HBM3-Ready Memory Subsystem"
 excerpt: "Rambus Inc. (NASDAQ: RMBS), a premier chip and silicon IP provider making data faster and safer, today announced the Rambus HBM3-ready memory interface subsystem consisting of a fully-integrated PHY and digital controller."
-publishedDateTime: 2021-08-16T21:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-rambus-advances-aiml-performance-with-84-gbps-hbm3-/2021/08/16/9431483.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-rambus-advances-aiml-performance-with-84-gbps-hbm3-/2021/08/16/9431483.htm"
+publishedDateTime: 2021-08-16T21:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rambus-advances-ai-ml-performance-with-8-4-gbps-hbm3-ready-memory-subsystem-1030735942"
+webUrl: "https://markets.businessinsider.com/news/stocks/rambus-advances-ai-ml-performance-with-8-4-gbps-hbm3-ready-memory-subsystem-1030735942"
 type: article
-quality: 34
-heat: 34
+quality: 62
+heat: 62
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
   - AI
   - Machine Learning
 
-secured: "PcZF0QrdJ42kxzv0rGSc3LQ5oOgKgrpvOfT55r6Z3carQekYJqIMD86WXI86w6G5pvB8TMujobPM6y/cIf6QI5vqn1tAhjicxZybydPUcx9bcWpLb8R1vFPqG2LOMKy5JSn7d0bGTFuAhTCOn6mbHUpTHcs8N2235KbvKFPlL746EFRr4YH8QA0wBDqioteLptlP/Vr9i2Vp0+soopr0PLYPXAnuHxbMqKtGIZgQwsUdb+zCVM+td/Ut0ZeezDx1slZBzQ0+OSyWXOQhf2+Hn5JfXakZgnuaThV3/GJpH2vpxj9UYnECuB0S1qgzXoS7fUIsHPO/Tb5wxi1CJEAvc5KrELnMtg5JZc2PHpcT7AjhApqC3TWBng3HkuTJASXNQyfiVdfiPEugQ0/2u1WDQXfvFvyS8zEKiQTHOjtbGer9QV+NODgx+FXsz4O+Kk9AbpwkhPG0mcQPkG1Zup2Lo59qFlikoB//YK/8+NlM+LmQLcc5X2rLQM+Fznb1VIlQN5GDh4y2kcWwoEmXb6hqmw==;4E5zfPBmKH4sH4JkQLIvEA=="
+secured: "CRVZ70zaDVGvk0HNpAG+bXyalGwSUbgxK93qzKBEm0m3Q2tytVPcpedSQBJD+1O1i0G5tgChiqNSh7lAEfAPTUQ0MqLEyrYa6H8S4/qyTUTSAXUFwFWAUBBSnFfqOaiU1+Gz49Wzh68JiOykqfXU1buS8oCRhIVQ5Xnat9MMZCz7M/KZ2+J7gqI7HyS8Fw1/fHHm8S4lLEKKw+dU9ZhyNkMNFQifPTiX+vUxYmoGb3jOGhBYKm/QoVKKrHnRIKo0Du+XZT/VbNp9pgGw/OXzUHT9vx3VrAxB+ps3KG5+6hHeZKfTpWkzQZkZf5svoqUsbErioa4FbMfA3suPDwrPGVk3S9Eie/IYYfGYNzTC+RUo/qX9G+RvamoVSMWnKcYyQ0MwUMqdwcm23Jea4g+cROv+RtMOex19pOh67LPeVdoI5t5goRcexdCBkHRuI5+kx9F9ERZjngRCQpi+rXTmVHlgnYfj8odLYZFdJ18zX0MIviXuuwXnmAz6FfwMspqKGwnnnxk0SzWBi7AmQVe4cA==;p54fJhVL8cOGoZcNWLr2gg=="
 ---
 

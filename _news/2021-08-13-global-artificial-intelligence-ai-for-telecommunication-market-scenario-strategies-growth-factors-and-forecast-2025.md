@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
+    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
+    publishedDateTime: 2021-08-17T01:40:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 9
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "akiYefbotcDMIaMWPVx0Ob0JbO00nhqVH1lV21HWU3fry+RGIw2K63niQ5LB9fML+23aC8dellKmT+6wVG1v7sPTvNiQ0i8oWJP2zLr8nGvtz7NESi3F7NxYPaI9yXhN654mP/6mwNivr9/nwh2fxtj8jj0IzQVI2zdt0fbjRjSEzQPEQrQSyO8S7+k75M9oGcXs3MJBQdk1kvcXjYriDlgEprAFei3i0difPBXI54SgQ9MUKRoYEd4HDkWa2b7NfUEsumlM42leud2I5GtHFLh/xNqF3jnrh/uRKcv66cAST1xy9HT3+Y+cknTF9LIsu6Y2GSx8gSgCXVny/dfYiZmC0LhS8zd9qa3lqOHJ4qI=;D8Pym1sMOjbXOSVuTbD/gg=="

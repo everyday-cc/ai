@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/brand-post/scaler-academy-begins-an-outcome
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/brand-post/scaler-academy-begins-an-outcome-focused-data-science-machine-learning-program/amp-11628864905564.html"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scaler Academy launches new course in data science and machine learning"
-    excerpt: "The company said that the program had been designed based on a survey conducted by the company with around 100 data scientists working in leading tech and product firms worldwide."
-    publishedDateTime: 2021-08-12T09:00:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/articleshow/85267653.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1756969,msid-85267628/edtech.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Scaler Academy introduces an outcome-focused Data Science & Machine Learning program"
     excerpt: "The immersive course has been structured based on research conducted with over 100+ data scientists working in top 50 tech companies globally"
     publishedDateTime: 2021-08-13T15:07:00Z
@@ -60,15 +44,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
-    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
-    publishedDateTime: 2021-08-16T22:10:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/925422"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 14
 
 secured: "02OTd7hGrxuYtMRDnq/G1BNQjwatLxSGB9wNds51xYKZkzCo9edufhofZpX5MnLQ7OZO3bPiJcXpvGdLXN9AcSTYhhswE6RMf+SAijz/NyOx7RN5J78h1rx0ezr5OnFosF9BZKb5TF5kDGhISoqhrjVPtA34v6zgNDBohNCQ70bkiyshbIQZJiLez6w5R1Jhn9yWQPAJ72MD6+JNTNL216GB7fGr7THOxatkWGciDwrVGIoVSPH9XUNadZWfLZO5FkgMuCNBfGgbMxsvtrUZ41Y+RA/kgisjI1ei+s/E0CbxPio5/ifj8cs5pRSt1SULABj2HJRonxOqKRitm0SQz5xfvra4jCJZuR8m1Ixj5z4=;vUlYNboCxmUdxxG+0cMETA=="
 ---

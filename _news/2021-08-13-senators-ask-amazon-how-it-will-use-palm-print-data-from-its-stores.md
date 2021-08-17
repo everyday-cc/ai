@@ -63,22 +63,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Objects of scrutiny: Facial recognition and our biometric future"
-    excerpt: "Smart technology will greatly impact our future privacy, as our faces, the way we walk, our mannerisms and body language will be catalogued as identificational data."
-    publishedDateTime: 2021-08-12T07:31:00Z
-    webUrl: "https://www.itweb.co.za/content/dgp45va6a437X9l8"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45va6a437X9l8"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45va6a437X9l8"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/Ohc9mBsrnyqhpZcxI1tbDb9_M1NRi9iZ4VhFNMQksr8ZlHpyAOSjHpTUyw8SDrBtRVCJxg0y4ig_mK1aAhtyyBNFhCcqXfVxUB2o=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Amazon's Palm Print Recognition Raises Concern Among by U.S. Senators"
     excerpt: "Three U.S. senators, including Democrat Amy Klobuchar who chairs the Senate Judiciary Committee's antitrust panel, wrote a letter to Amazon.com Inc to express concern about its expansion and promotion of a palm print recognition system,"
     publishedDateTime: 2021-08-13T17:36:00Z
