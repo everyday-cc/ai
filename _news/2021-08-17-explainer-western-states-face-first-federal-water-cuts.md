@@ -1,20 +1,20 @@
 ---
 category: news
 title: "EXPLAINER: Western states face first federal water cuts"
-excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at — Lake Mead — have fallen to record lows."
-publishedDateTime: 2021-08-17T03:50:00Z
-originalUrl: "https://www.mrt.com/living/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-webUrl: "https://www.mrt.com/living/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-ampWebUrl: "https://www.mrt.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
+publishedDateTime: 2021-08-17T04:48:00Z
+originalUrl: "https://www.chron.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+webUrl: "https://www.chron.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
-  name: Midland Reporter-Telegram
-  domain: mrt.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Computer Vision
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Western states face first federal water cuts"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
+    publishedDateTime: 2021-08-17T04:16:00Z
+    webUrl: "https://www.wlwt.com/article/western-states-face-first-federal-water-cuts/37323932"
+    ampWebUrl: "https://www.wlwt.com/amp/article/western-states-face-first-federal-water-cuts/37323932"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/western-states-face-first-federal-water-cuts/37323932"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap21226282735669.jpg?crop=1.00xw:0.847xh;0,0.0671xh&resize=1200:*"
+        width: 1024
+        height: 579
+        isCached: true
   - title: "Western States Face Water Cuts As A Shortage In The..."
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
     publishedDateTime: 2021-08-17T02:07:00Z
@@ -42,6 +58,6 @@ related:
         height: 240
         isCached: true
 
-secured: "3aHsQX6oCtlSzcY67/m4ajtEc0OAlfwnILMDDlolicRVUHYqjSqs0Fk+WdGX2U+i06MjLy+ABb3miflFqRBhaWi6nuv6RI+DtH0gqHQAWJW+M7YR0i7KQt5O7KNr7Y15XB5m9Ir4qE+C/GW+T9Srr5Podlik9f+lg2TF9hykBI3jZpbdhjYM1CtdKjlR62/94IyW3NBltlQGwvgSYthrWodUu4fM+rhcVHSPv5JDPvCvQoOIikNGG/6vFM5x5iEWnO6NI9vbKI5s9zvyeDwBHOmn6tCdPZ6bugI4W8bgda3G/6Frj3ovz7gT58kWqxO8rc2jtrZKyUIrCz+ZldhE42LI0DIEmni9bh4CwEZFd8o=;DMbRhvbEsiDCJXKc3N86YA=="
+secured: "yPONEWFQn+w7cMMFTZy5axegJzIA/Kr10MzdvQdNFhkEw3IHIpVS6sGwo1SUU6Bjb9lFYp9jnwp4Jb2nZO6EWq0XLFEEKPb/WSHSvv7w+z33ZmVlMy+kRftLYQtZnEQhzk6QBjao2THz64fpNriKTsGtfR/qBL7wLp/OWAory6HKHC0cpuYglvfi6xML7oE8iSK/2X5UkSpoPdszP48hRJUX6WP1URophq4QJ6DvhiqXh3XUgy/MH1B9iyetTqtjO2vHLrf6Qr2U6+e/3MuPaZ7A0F0m41YKvkxZZ0nUQ9kFxws9FhTVzIQN8bw91YEjg88EMiwTQoTdG0dekGg8Nb/0tSyrqbSB498vqu6IHSA=;B6sM+d7r6OYlVxotfYJ0eQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-l
 webUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://around.uoregon.edu/sites/around2.uoregon.edu/files/field/image/robot_lawyers_conversartion.jpg"
         width: 1000
         height: 562
-        isCached: true
-  - title: "Robots coming for lawyers – maybe bad for attorneys but great for those who need cheap representation"
-    excerpt: "Imagine what a lawyer does on a given day: researching cases, drafting briefs, advising clients. While technology has been nibbling around the edges of the legal profession for some time, it’s hard to imagine those complex tasks being done by a robot."
-    publishedDateTime: 2021-08-12T11:45:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/08/12/prc-robots-coming-for-lawyers-maybe-bad-for-attorneys-but-great-for-those-who-need-cheap-representation/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 24
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/08/robotlawyer-1290x726.jpg"
-        width: 1290
-        height: 726
         isCached: true
 
 secured: "BA1vw0LakhQ4/zX69WKHWmFlUNyQTA4KEp4fuBCB8DiMz+o3/qEL9B6AInfgTApz8piHO95uhq3QluC3x2aRS80kTLdcDhUTkktPX1dY0dmvcKt74dp3FONa4XblzApzE7seHE0vCBqJWxfckzfffCvIuXPl9XrFmkMRCWm2oaCglG7K7UPGQrJ97fDM2XpU3s6tyWIhPTDrqPdMxRwdyEH82e5FHZBaljfwPS6Au7KbtZ4m0yxjiY+UsapoTtPgyIst5vEG/Zc4GlCBmcAhzaxxS5lqegR9fYfG/xCkPXovYDtNquchTwB1zeQXwNvx87yQRDHvdqVAnjBUPh66vLoceUPm73j5xkOC7wFGXcPwMUjp9iDL4b0KQgnqa3iUZS3kWCwI7RgJlmYOKqd3a5HchL8/kcDRUWe2Hw/RzSuAA3Yq41ARrOe8samxSWgMawIy6mp+klsKbLUoi1+mBz5rVLzft7ZlzVqkAdqk8+zE/yPSmx0kaA6PryIb0kGR6dcTS+nrUl6E/N6JU2wH+g==;BF8XPyLQoJAY8jm3ue0sPw=="

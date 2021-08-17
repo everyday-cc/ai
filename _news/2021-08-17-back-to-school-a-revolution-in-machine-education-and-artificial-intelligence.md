@@ -7,7 +7,7 @@ originalUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAs
 webUrl: "https://www.scimex.org/funnelback/story-push-redirector?t=t&pushAsset=718677"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 6177
     height: 4118
     isCached: true
-
-related:
-  - title: "WINT delivers a revolutionary AI solution to detect water leaks in fire suppression systems"
-    excerpt: "W INT W ater Intelligence, a leader in cutting-edge water management and leak prevention solutions for construction, commercial and industrial applications, is announcing that their award-winning technology is now available and ready to be directly integrated into fire sprinkler systems."
-    publishedDateTime: 2021-08-12T11:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/wint-delivers-a-revolutionary-ai-solution-to-detect-water-leaks-in-fire-suppression-systems-1030723605"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://mma.prnewswire.com/media/1592968/WINT_fire_suppression_systems.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "tIHekQt3H2AgQVbkZHX/C5O7gspC2F/eBKL472eFsLOe5wBqZ5QGBZFeXHDKmo6hNNv4D/fRTwh+3wo/6A0UL/vmDJTWYcJgIaYRF3LZVTwsCt+lStADzDbSyGUKJmgThyLG83por0h3GDd7PZOQROemeXNEyQS+HV4ZR8KDnxygP1CN4V15gFYoVpVFmH9Tsb4v8iAibhph2ScarzkRFd0pujpKh6WBHJtw/FltEkQnhix5RsX/01+8jBfJwEeAEewVYfHU6kplRAa375+FHNugyEbXjrJj1aAkNgmcvj5BBPo1kK3/s8zdXYJYvt81os4hwZIrNB9lwxiLMRx/JjzzTcVwmk3l2rSiW1QRT9I=;MhBm2iHAtzbDZbIkQw0ryQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-des
 webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
         width: 620
         height: 432
+        isCached: true
+  - title: "Samsung’s use of AI for chip design signals industry shift away from dominant suppliers"
+    excerpt: "Using an AI approach in new software from Synopsys, a leading chip software design company, Samsung is creating complex chips, like the Exynos processor, which will run its smartphones, tablets, and PCs."
+    publishedDateTime: 2021-08-17T04:58:00Z
+    webUrl: "https://www.emarketer.com/content/samsung-s-use-of-ai-chip-design-signals-industry-shift-away-dominant-suppliers"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 46
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/84f562672eb6178047b4abf0336c8304/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DNWpZLA1FXj0Pt/mW9StxA003jIkXUfqukBksUZ8zMyOsK2NxNbdhCbQXjEWfhYln0S7IR1peEQiqaBTL1sNfhs+CyXLWIT+jv6+mOpKF7JUAcJJnqx2Qyx6n0FMo0erXQNRXWOd9kD/2VPsBswbTbCUW6iifW8hgQptN0c9xmb0jAAr2jUR+fR7MOhtrTzlo6UY0EF5N/zHup1a1GDXiNVUmsaVEYiMX0Z8m8LZKt6Do0qPajEZPf5aIUfgCFbJyry2GhQobmOPV3X9ioRE/ajEP7fCslzSLsLGLtKS5gu3amLM9L6ZygVEqnB6QizbRP3VuHrJtBj4oL8rBXT3AmrLyvT5e9CsAkKMten4sKlGy6kFoUzC5h5r4APVbRO/nGRLVHYKvi5Ehw42+qKi5WzqhvSHDMspnQovXlXBoLG/SVg4XMPimIEkYDmNVCvPodHFEttaKRy3GJVJuRfZKQxQWKiYGbkxSNOykfVw5cL+t18vFI6V3OMXgZyJNdcMqU2lWONsdIfeGIynrlU0NA==;Risdu6EzcyPqL5yYOK+Zmw=="

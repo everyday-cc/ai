@@ -3,8 +3,8 @@ category: news
 title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
 excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
 publishedDateTime: 2021-08-16T13:29:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
-webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
+originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734646"
+webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734646"
 type: article
 quality: 65
 heat: 75
@@ -43,6 +43,6 @@ related:
         height: 480
         isCached: true
 
-secured: "zT513mIcjg9KDaX1+xUwRwEwQvUxwoc0vl09V1hAvWOdtisCqkSq5Fnxzdy7QwtfmtVHMyRLss5972Mm3nWVWg8eCzyjr+18vQ5Ny4b53qlsqvu9epUk0repuEiLhKQFVFpJ3JY80GEgBg6mQhn9H9BhOKFCKqgFk3ie+YZ1zBZHgSDqBBm0vf9YFJvrjn6hrgTs2qbUtjTz5WqGC8rED5DkL1WUzeFfxso2a9J7QkaRu1EliRrbkPDy7xZQyPVbzVUi3ijbySYDdp/u7/Q/bMYHBKbw9emGBUN7z5cm0kNJuXJupeIZ1KfvmL22lj0DAogHytjfZgWGLtJO+aCBz855oDSRaVbn36V+AhM7U9t9hDuNXzfC2KL2UTtEObLDAvRRVKMh5RcWnllsGe2r69CX5z52m+VJhAZQiklcSmHOrRdnK6pRgUWG5DBLSzPkYFy/lQ0nMTsun0/rkhuAzBZlq6diUzoh959GUJrCc/d8hAuhWNaRQwJc51TDegWPq5IzHRcbFHS9CF2/C7WVDQ==;zryo0/QETia466Y2COEZ6A=="
+secured: "w1G54mX66MXrSqJFPrhUAFp/AxVrS+TMgEh612xFlfXDZgwToTPfpFYx8nobshswZ6tVln5r+AhWJUOZ4i97/px9YhH6MdAlcSjgyHcdYw++RxCfMMIYRK3jGQa+x3WSGdUgIRLhb38JxpqklfygBCIkr+C3lEtn1tQiHcdDkwK7vKrLOzi/8EUrwy2Wos03lHF8ApF7xXXcmJRPrQfY01n08oUL0sHwm9rmrX7eeA9NzQ175t4b9zKHcyDCPZdr8zWRc4jm1WXTXN3q5xS6oshNlqyxpkyqr7jW5eILZP2BwBRTASJzQ+WRXGvkpK+89rA50e6ryqA9mBF3SLo6eA37Zkr5XybNMkWZuz3XGho=;GtYYHmgB50WtittK4Qfx3g=="
 ---
 

@@ -86,7 +86,21 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "IIM Ahmedabad inaugurates Brij Disa Centre for Data Science and Artificial Intelligence"
+    excerpt: "Ahmedabad/IBNS: The Indian Institute of Management Ahmedabad, a premier global management institute has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)."
+    publishedDateTime: 2021-08-17T05:57:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/14292/iim-ahmedabad-inaugurates-brij-disa-centre-for-data-science-and-artificial-intelligence.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 29
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2021/bd9a8c18af74ee880ca3ae7f71dae5dc.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
-secured: "UmL6I4xAnXWHdeu0G9cD2LvNFBDdnVqm3Xd05pnK8XpNt1qfOcScAeGoF4JQGuCIFiNGUmJnvxsr3ZQBGOl9whxfFMYHJyxz+j+AGE1s4+Holg1zptyZU+swDzSqImdimrPNpkzWt5o36/kCp0+uWuL9aStQKOPGXEwEZ0R9fXfNfSaUJ8o51eDdVT35IGhbHLdceo6t6rkr6qrSzpx6/N7SWj0qngfqkzxPfiEPyo9Jc9jh2DYHGtnwtQpx5kQTFCYbMd7M3/RKed7UY4SXeSd+1VrgrNtcyVxe5JuLGKbND3Ey/dGe92PU6Lf6qKUS7OMD3kXClhTlZmjulKDMQ7w3bUTX6vePYXDkuYMKY4M=;Bdt4tcurYLZZwjuZc42RoQ=="
+secured: "0oKvw057+IU/NBf7gQ+whJ/btrcduWtlXtBFdFZzKREkmyYtrv7FbIDnFatDOiqQgXrYtP5qIwrt7sJjbDHJJg0vWHp9TY6dGzZem1k4vmAedyePkFxaAbnDfgNYNdOj0Xr5PBacFxb9P2H4RyHPrT3tWQD7O5X2Wh9/2UDzF5Ig7Nj/MLa7CznQtfpfb7Mws6bOoBhAlbp5DYci5mY6HejEzguupEFNI4LbTW7cUjRerx5USBLefC7SYJTv+VqnXOjSLeU0ficc6YRb5Nzpyho22nR1kzad05zGB7NGYAjLIJrPTGj3lR/8u00VD+JBMDBFNc0plTRud5ewGw6nbLuiqBsYzMTOJsPahNk8/TYknxCYVFDWUr612XJML9sP59nt7X/XMXvJWValVDsZLmU9HHSrhGE05bLHeradFP0Q8XKr4qed8dMFUIT/Fbn123q7CsfY/JIIwJJ15bJPN6rq771PThfRX58iaYs/o1aZNNhJuEAVb/vqNHTOogYjCUAWXXsQ5VXsxDMRzBGvIw==;tYGFVdolHFiOFjR/2v/jPA=="
 ---
 

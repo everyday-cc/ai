@@ -89,20 +89,6 @@ related:
         width: 1633
         height: 843
         isCached: true
-  - title: "IL MAKIAGE Acquires Leading Israeli Computer Vision Startup Voyage81"
-    excerpt: "IL MAKIAGE, the fastest growing beauty company in the U.S., today announces the acquisition of Voyage81, a deep-tech AI-based computational imaging startup. IL MAKIAGE’s acquisition of Voyage81 will enable the company to use Voyage81’s patented hyperspectral imaging systems to further enhance the company’s machine learning capabilities and aligns with IL MAKIAGE’s commitment to continue innovating and revolutionizing the beauty and wellness industries at-large."
-    publishedDateTime: 2021-08-12T12:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-business-israel-6ff56fede6dd48878405d62b70391e57"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Beauty Brand Il Makiage Acquires AI Start-Up"
     excerpt: "The acquisition of Voyage81, which recently completed its first funding round, is the second technology company the brand L Catterton-backed beauty brand has purchased. In November 2019, it acquired AI and data science startup NeoWize."
     publishedDateTime: 2021-08-12T16:48:00Z
@@ -137,20 +123,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 17
-  - title: "Beauty brand loved by social media users Il Makiage acquires tech start-up Voyage81"
-    excerpt: "One of the most hyped beauty brands of the year, Il Makiage, has acquired computational imaging start-up Voyage81 in a move that will strengthen its AI capabilities. The colour brand, now a social media sensation with more than 900k followers on Instagram,"
-    publishedDateTime: 2021-08-12T11:52:00Z
-    webUrl: "https://cosmeticsbusiness.com/news/article_page/Beauty_brand_loved_by_social_media_users_Il_Makiage_acquires_tech_startup_Voyage81/178524"
-    type: article
-    provider:
-      name: Cosmetics Business
-      domain: cosmeticsbusiness.com
-    quality: 16
-    images:
-      - url: "https://www.hpcismart.com/images/website/ManChemNews/DIR_233/F_112674.jpg"
-        width: 700
-        height: 500
-        isCached: true
 
 secured: "S1iXfeUVCBy6EBtejwXzyKP3o0reZKO2QnTnr4kp++dmaqSEFkf89dhkVgn7FBw96oQp7DWx6BrliYMAEuaTzTWKshCz1h9SEu4DC7A7LeQmtmGO4A28OhWlJG5StltiWAZ0VeE0bmO2FzWrhKEcZW5JPaFGJxDRHfU/EjwRyLZ+d9gvRkCekG7m/fPBB+6ybDarIQUSWVYKS3XMT4H425fRp3udLpb8WenQfoH0wr+F89E4U4yBKdufN5ITAnqdk4GOpubUp+r2BkWDc7Qxa0OgCylCViPwIK6yBzoYZkz1kOZRhOrC4OkUj5iK/qfkccjOpwMjUXoG3a4OQRzUGX0oeKZ85FJ5bKDNSj8a8XAr1VuEartMK67trzA1XHrFU93V3JIG2V8uuv3El2aAq5r5pKhJVQCqc5Dh09UIzwg9DfBGIAKq0LbLCS2CIlgzArrXr7aEGCqp96ieQzp1JV3h/JILO4ikZCuJfZJb/xilmYv8h3yL6YGMNZ3Gc1GpZGPiguJmv+a5yVxonczK2Q==;ybbtQsna56UoDW9QnJZnRw=="
 ---

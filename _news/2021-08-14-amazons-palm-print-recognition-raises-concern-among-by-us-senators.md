@@ -71,6 +71,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Senators ask Amazon how it will use palm print data from its stores (updated)"
+    excerpt: "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data.."
+    publishedDateTime: 2021-08-13T17:02:00Z
+    webUrl: "https://www.engadget.com/senators-amazon-palm-print-data-investigation-134424558.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 51
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/e62ca7f0-fc33-11eb-b3bb-37c2f81426cc"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Businesses Face New Litigation Risk Over Biometric Information"
     excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
     publishedDateTime: 2021-08-16T16:54:00Z
@@ -85,15 +99,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "What do travelers think about biometric facial recognition technology?"
-    excerpt: "Especially in the travel industry, touchless tech has been in high demand to facilitate the passenger experience and has become even more relevant in the wake of COVID-19."
-    publishedDateTime: 2021-08-12T12:40:00Z
-    webUrl: "https://amadeus.com/en/insights/blog/what-do-travelers-think-about-biometric-facial-recognition-technology"
-    type: article
-    provider:
-      name: Amadeus
-      domain: amadeus.com
-    quality: 19
   - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
     excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
     publishedDateTime: 2021-08-13T19:54:00Z

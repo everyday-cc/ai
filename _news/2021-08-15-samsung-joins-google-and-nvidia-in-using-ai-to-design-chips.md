@@ -87,7 +87,21 @@ related:
         width: 620
         height: 432
         isCached: true
+  - title: "Samsung’s use of AI for chip design signals industry shift away from dominant suppliers"
+    excerpt: "Using an AI approach in new software from Synopsys, a leading chip software design company, Samsung is creating complex chips, like the Exynos processor, which will run its smartphones, tablets, and PCs."
+    publishedDateTime: 2021-08-17T04:58:00Z
+    webUrl: "https://www.emarketer.com/content/samsung-s-use-of-ai-chip-design-signals-industry-shift-away-dominant-suppliers"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 46
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/84f562672eb6178047b4abf0336c8304/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "oYXSn5W3+o1uBDnnNCCWxInFNfXlSVjItSm53VsyGvxIp5gDxJg0ft+Bx5N5sIRj2XUtQ3TEv4bCEhSpj4YuhOdOUy4WLXmtgsdTaGgpUb838oxI538S7Oy0rJdfy5ySvILass8U+bXqu1H4Q1mQM9lMxOIxA/oz+7YyUilDCmjK0LG3bP5I/51DjD6dbkiCkjNxnCqPbyCIXuUIPzkDnksHCtQzHb78p2egPBwWCOhHZDKkrqHQMZ9h+4AtcraFoelspBEeoSOxH+G5Ba+DmR6Ox24qY+QN06Ghy89xWr+8pNpKSTNuzqlZFYPn1opmm+bo5oPIAPiQ76g0Oc/FV7mgF0F2BFt1I/ndj36s44A=;RqKsjeNSzevnQsHqajpqEw=="
+secured: "64vfnRCqVd7Kc2qCRF1qEAgfXpO+ZXpuIjISTa8ZeK4iye8GZWLY/y/7IBmyvj3p84j8YJmc6+7ywqyi2FT5w7hHmLoamcspm/m+W+wr4GxVqb3z+vP8duK/gO96eCaXz2h0SaBZV55w/jj6bmPC/ewBgwgaajbDxmwM0GzPUsrwjmO/oL8bNSugKZx6mwI44S3fmiXQw2bisLenmFU2SDYO8nVlNveIT0D7WE/aWhjt9tR8nW/HufT5FqbaBd3ZopemTxgh216T0j7OpUrIS+e9fO+xepVqIiQEN7XYHUYEgc8eBuKFWB15lZAz17B2hUwzaUFmzKMK6L8OJVjaKqax00T8LebA81RyGi2a7mFchjRmZgRV/GOOKw/DHKErzFOYoIGEPwfuD34TZJIRqt4qiOVdEkbwj0uFHxDiccUszjXQGmU9LNZ121Ot2iZXIMlJQU/u8i0XSJUm8EqqsX6IzU6RnsYLbwfSmOGeDcMMGDtO54HSOswNJiovNxSCC/dv2PN8E/BCqFP1/ImnRw==;qIA4IZ8rTe/cm6EJowbqFg=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/is-
 ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/is-the-future-of-artificial-intelligence-really-on-the-edge/85390253"
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/is-the-future-of-artificial-intelligence-really-on-the-edge/85390253"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-85390253,imgsize-77735,width-800,height-434,overlay-etcio/is-the-future-of-artificial-intelligence-really-on-the-edge.jpg"
@@ -26,6 +27,6 @@ images:
     height: 434
     isCached: true
 
-secured: "zYYog6qVulL6JZFY7Lxp7dJY/KkOveMBGHDwpMm3TeRIf04DHSst6pL2AexfEnxBr4YVZ8mI23ttynrOIlYGHJruOdysl6Vg820X3BONzl+QSApqlOXQpLI6GP0NAFRga9nyIOtGmquLuvasmDY6NdmpH6lVgQtIE8qVL4FgV1InXJz2rxsW/oNqrcCuAGSDGgs6+K2uC057fgWh3mtzv95jW+Da4XjQWHpxSi0nKN4BKLI8qV6j9QgzN7q/1an/7GjDJavXli9Q2gEMCJgr/BbjsR0ySygNnO/qxhwnJd6n9sZ2hRmDSdvLFX6fjXMf3ohXyItqirATnCOITYcMItuVtSIigTh/SB5jA7TpYEw=;Ey9tIK0PBxhSfI2g1RTDVQ=="
+secured: "sQFTYhCWS+cUmCFzMr+0CBeXwDc2jTbMoCKH0k9Ymb3c/DCC1MOuL4b+d8yDkc0lpni9bhBaNK9KqRDi4MMO7egT3vuNS8DyABriy2RshpdHiWF3Brzxd5maBNQSGDN+cKXCAAqAu9jyc6xO/i6ctPXSx30GDaWPmh+1dseXoNQKR5plOuq+P6ScPpgMP6ftBmKbQj9NgDz0DnQmFXXT+M4bfVmCs1CE7XBGPrw/Dls4AXoKMhm3x8Lua5VofYosH7c7WGP0cvgvdTlt4UMiCtKL9ER6t6w0V485ibYGl+1nQlyDZ/p3D2an98iXoMyMwrI84kCWPot17IlywMYXUmb0dcA0dNF2I7oEBKT9dNTzv2Vd38gqMVLuSGFXQbtO6lJwdxEQ0fw+17AH2rgMrx03ZTK6UTkTLQbPMqvDakxbchgQ3fEwZBr7vtM90vQBZLP530Vhx8TjFWP4iE+PpI72e1mM5GRyiCCc75px+/jmZLQqNIeRkcFfUcYYXm0fY+0b/tZ9YrIgVcN81bRpoA==;ZX1OHm/9Q/TMBrnnvOdJsg=="
 ---
 

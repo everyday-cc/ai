@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping The Roads Safe And Protecting Drivers With AI"
-    excerpt: "KeepTrucking launches a new AI Dashcam that uses AI to detect and identify risky behavior to help truck drivers be more safe and prevent accidents."
-    publishedDateTime: 2021-08-12T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/08/12/keeping-the-roads-safe-and-protecting-drivers-with-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611515d264435d595ab5e193%2F0x0.jpg"
-        width: 1200
-        height: 746
-        isCached: true
   - title: "Teaching AI to see depth in photographs and paintings"
     excerpt: "Researchers in SFU's Computational Photography Lab hope to give computers a visual advantage that we humans take for granted—the ability to see depth in photographs. While humans naturally can determine how close or far objects are from a single point of view,"
     publishedDateTime: 2021-08-12T16:58:00Z

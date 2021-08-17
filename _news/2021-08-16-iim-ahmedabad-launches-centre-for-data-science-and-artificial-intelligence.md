@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launc
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://lh3.googleusercontent.com/proxy/dsxOpqUteFMCewkkOrqa966p3tADf0PQD5DaSjD_ADmG5vPZcRu-gc_JDWZRPp3G03ceZrDijV2jOCAlkDDfh9CpgZs"
         width: 480
         height: 360
+        isCached: true
+  - title: "IIM Ahmedabad inaugurates Brij Disa Centre for Data Science and Artificial Intelligence"
+    excerpt: "Ahmedabad/IBNS: The Indian Institute of Management Ahmedabad, a premier global management institute has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)."
+    publishedDateTime: 2021-08-17T05:57:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/14292/iim-ahmedabad-inaugurates-brij-disa-centre-for-data-science-and-artificial-intelligence.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 29
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2021/bd9a8c18af74ee880ca3ae7f71dae5dc.jpg"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "6YM7q9kmmGKhwpJ4V6DNurgulTiuuh0o4+4m6Sg7Pjzvzzr4sJumKZgopFRKrlq2xJOX0HvscpiKWObNu5sAmyBGu7HrYxuLR6E3g2VWpfAB8KAXF2PQmYswJlqtVtmBDcKAtXCfnQ9qRi61lP2Eg8qGNZuMNgFnandVm5cmY7HGTikZiKg5e18F+MEJ1NgXcIoYRoLkgcK5jHJgQIRVekK4CGfQ1Cr8xU+yzF7naW7IkPbtlMwj9yc5uS1u350lw97goiue6NY2KyorEuTl7BS/0bXkxfYjjVeMyAS1yFm+LwMFA4CG24a8PLzzsoFKRqvD73jV35yHm5y/NIhmr+22H/RxpcM9EbAot4rskHs=;kBdHGES9fP0cFrJsjnHqPw=="
