@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds"
-excerpt: "Newest AI-powered for Traslation, Music and Calls. Speak confidently without the language barrier. Affordable for All. Aug. 6, 2021 / PRZen / SHENZHEN, China — Andy Lee, Founder & CEO of Wooask, a leading customized AI translation solution provider,"
-publishedDateTime: 2021-08-06T14:28:00Z
-originalUrl: "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds"
-webUrl: "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds"
+excerpt: "Language barriers exist because of who we are, what we do, and where we came from. With Wooask Translator Earbuds, you're always beyond the language barrier. Unlike E-dictionaries only translate ..."
+publishedDateTime: 2021-08-06T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838"
+webUrl: "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/b44a256d5a92967300cbce8e4c5a39d656e84fbf-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "ORv9HgEfnsqGxucL69G3kCEewv4mDWWMUdPP7sGRIHpU/fzbNK+V3lv+gKDiRSekjOKR98ycLggGJD27POLFieo7SI4eLDqi3Cei4L5GI/rLbbs4Fpv3QYIytX17tjMbzfFffd0/c6Y+p98HWKz4P61bWNcHOF7+PXkfSlm4xKTXci1lulo/6eMkvjyiChoOjB0ad9OiYmTPs+GRHojJjp1IyBGfaVLIzy27PlBmUgXd2kNIARiLe1hROIJlxZNc31aRSIB/wiADgJntKaS0dRM1RqAucMo5Ab61a9To0LxyDcrrSYDXNQCj3JwhpAdIydpPOM3edXCyjJuEVU0l1OB/iO86a+cTt0PZRyGtXtM=;aHuZAdDqSwyVuNTaxCGdDw=="
+secured: "Ar6GiJhC++oBvTfIgfSj2GoXbUO0E4tuuSjLCyrGg2D0DtNaXZBztWFSQLYA1FU1UQnONIxBXQPrV6B093z4GrmRviHw97wuaNc16x6apITVIC9YBXNX47psxf3400orBEWghQvk/C2qFjJrHcqomo2BwaYoChbVkxOXfzGL6mLYPrWQQeHRDRzL5R1Du33xy+ga8/zqYuvCnCy7o7GnyqJ4gL1aC1s94AmkKQ+hlqYjKps4p1Tq+p/Sn/rJsEYs2Zbrrrxceq4TB7qN0fd6Xr1g6oFdTSBfRNpOrThkDCnyrlMyrAz+K5B/LbuySdmXhUEwq1lR1TOxDB7BLRQxLtcgNuksaOiNFgp9Awtw23s=;0HHxCnX3Je/wZurmr2tiKg=="
 ---
 

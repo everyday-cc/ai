@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/"
 cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 52
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "zlfJkmGqjndo3uMhPq/zaiABCPnDDKo1TKMmKYeHS8DWqRvrBSpU6nOq0GLkjiQfzuvOME4rIxrTBReOqw5WxS0iec/UipmDg8UHx3V4/3wbFiv1RyTEtAEF5xOlc0f13faBnKF/t/Zdh65KSPE09X1vQ8uK+/RABmvoGg3LF+hCdY/0Vdbm8qzBINiKYND7l5N/gvDEF4Ts7SAkgypxdLy1Cn1Io3Iw2H9P7QHxFHfn1l4Vnf8JYBJ12MUVqFvsoXwHnuJ5hYZdEqjoybA0SBIWbo13y8AZdiEZgmtY5K3j8Xl3i3DA34UveItr+6pnUgPc90bAtUpC9T5w2pdcXaRyw1kGgL5Re7JsyUOQ5Fg=;j1wXGTobR80oGiVemcdH1A=="
 ---

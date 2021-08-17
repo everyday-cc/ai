@@ -1,13 +1,13 @@
 ---
 category: news
 title: "MHS Robotics Wins Robotics Innovation Award"
-excerpt: "Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. MHS Global is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations."
+excerpt: "MHS, a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,"
 publishedDateTime: 2021-08-13T18:54:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
-webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
+originalUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 313
     isCached: true
 
-related:
-  - title: "BIS: Helping Organizations Innovate Workflows With Intelligent Document Processing and Data Integration"
-    excerpt: "Grooper was built in 2015 from the ground up by BIS, a company that develops document automation technology. Analytics Insight has featured Dan Rotelli, CEO of BIS in ‘Top 10 Most Innovative Intelligent Automation Solution Providers in 2021."
-    publishedDateTime: 2021-08-12T11:36:00Z
-    webUrl: "https://www.analyticsinsight.net/bis-helping-organizations-innovate-workflows-with-intelligent-document-processing-and-data-integration/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 8
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Dan-Rotelli.jpg"
-        width: 1200
-        height: 600
-        isCached: true
-
-secured: "Xpj9whzimCSPKHDOY5Uc/NPbkwk1gAfolYEuwAGIc4WTik2oZe0lLkELCynQWTcXG/sckekpfL2J1OtVVUwzUrKSoorB1f+6IUZp765ij329sgcClPdjxwUQ/HZ+f0qJjfTfCf7mE3sNHVsVCzhqdOR1egB/KMJ/G+9pWsujRtbwJpFhJxEj9vfIdQwIi7UdF7SHLrgJOjK+zYMPGlyCcGSRy+RI69az3pY/7OTOtydqALrNGjglFoenNXf7X3xtQG9+pBhJzWSlzpAHGs/c4n0j+kJa7+NcJ5Krm2PPedLmLKR8iPuIQa5Ev6sik9gitd1EYZwpdEn5lSOuDRq4e4uBjm9hiy4mRJHXisrSCu4=;TKLBvYW45uNetxg5Rs/q0g=="
+secured: "x87bIdAj6lu5Hm/9EkQ7RqaNI5KqCd91HdwpQAMWiFDSqEZZS7CL/GtAjk3wd1bXO4urCNOBUR9tb+/j8vxy8Kiu8qJ2pCkl32fHzSWwL0kOPI+WCmLa36P+sRpHjkyQxD23VXpDP7pkOYn4Rn1qywU/s5ZWqzFMl/aS9b7+9/V+MLZxZ1vGlIHc2qpXkjQFZY7JPr3nC89EofHrGEQBMrvhTHFwXI311bcm4XJwcG3mm7HYd/A2vNARP5sLufjUhU+L38nT/EebY7lmpBki5AfPOTDNKrs5XfeG7g0Ez1p8DwNNX1lV+Q1hiP0SrXgn7MdPO6b5VEtpRVmz6xolT3yqHc+F3Mj06VC2i19mSlI=;iHdecl24ojcwYl6VKYh1ig=="
 ---
 

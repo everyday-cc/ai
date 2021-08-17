@@ -59,34 +59,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
-    excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
-    publishedDateTime: 2021-08-12T09:05:00Z
-    webUrl: "https://thelogicalindian.com/environment/driverless-electric-car-using-artificial-intelligence-pune-students-turn-imagination-into-reality-30191"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 40
-    images:
-      - url: "https://thelogicalindian.com/h-upload/2021/08/12/201319-untitled-design-2021-08-12t140428060.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Electric Shuttles Are Bussing The Future To The Colorado School Of Mines In Golden"
-    excerpt: "If you’re walking around the Colorado School of Mines in Golden, don’t be alarmed if you notice the campus bus doesn’t have a steering wheel. The school is launching a new driverless shuttle fleet that will drive passengers around campus and downtown Golden."
-    publishedDateTime: 2021-08-12T10:00:00Z
-    webUrl: "https://www.cpr.org/2021/08/12/colorado-school-of-mines-golden-driverless-electric-shuttles/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 28
-    images:
-      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/Goldens-The-Mines-Rover.png?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mD9O0/IvR3gb+Q6bDNP70VVgs6rwS6I6FAR0XgDBYbm7ZzyaB29dBhlNUjsVVmARmz6g4vTB0Yi6aRdLiKHSQYmifktcRakpscRneVe5yP1Y+MrjLhR2slSumwvWdytyDsuzOQya2mF59MfM5ES7Bi63PEbeTEBD2Db6g3W/7+0nRnyTtaUvc8zHYD5C5vDIVmyUWCQ3lkk5ULrqhxlS7zElrGWvH9jJcwyMM3Y3zCqOvSzqR94apTXDwbZZ2M1EXFIATknY3PCpWsfhAfjwR9pkmYEbFM7di3A1bysD+YTPBmrMtQn60+MSWC8czU8zJDYMpOGoB4rE/nT8FueIv8wteMEaweYeJ/SkpLQrxFY=;Laoaz/bwaIqoMBMtYGPSbQ=="
 ---

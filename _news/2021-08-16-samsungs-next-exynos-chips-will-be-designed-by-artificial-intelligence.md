@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
-    excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
-    publishedDateTime: 2021-08-15T13:19:00Z
-    webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 86
-    images:
-      - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
-        width: 951
-        height: 961
-        isCached: true
   - title: "Samsung has its own AI-designed chip. Soon, others will too"
     excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
     publishedDateTime: 2021-08-15T10:44:00Z
@@ -54,6 +40,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
+    excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
+    publishedDateTime: 2021-08-15T13:19:00Z
+    webUrl: "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI is here to design complex chips and Samsung will use it"
     excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
@@ -82,48 +82,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
         width: 620
         height: 432
-        isCached: true
-  - title: "NVIDIA reveals more details about how AI is reinventing graphics"
-    excerpt: "To learn more about how NVIDIA is using artificial intelligence to help reinvent computer graphics check out the NVIDIA presentation"
-    publishedDateTime: 2021-08-16T07:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-reveals-more-details-about-how-ai-is-reinventing-graphics-16-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-reveals-more-details-about-how-AI-is-reinventing-graphics.jpg"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
-    excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
-    publishedDateTime: 2021-08-12T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
 
 secured: "U4uxKi7qkkWHk29BJPB0mh8zCmYbGjYzbmDXvq4FIjG7TDjx9N+RgBLGUcQijGoDVamPJHg+okkvey+wvB9ns0q1jFGiwPYrYFFpjsVhGclpgDVuyeQxFfyV0Q/pXisNabbxtBvCgprGyH+wuKIgayhx3LSmnxPCVNrvg5T5B/FRL5NpRgzwxUcWkGW9mMimX6Hhl/iZOdkmwLjF7l8+HbG2IZ0YXgjoyxF8zhyDnkHgRaI2RFty4sZzugNMYHL6HzTaJIiBxWdFAjQ4Mqd2ci82c06t6y7D9x9Io86VxxjqElelho7Rk/dUucaZPxgaO3Hozs3qZNhLR3izt5wllIBzxEUQJKO0ragZ3/MrJAS+3Kka2/VMciUgULuR9dG0dKwwHmbC7kud3ijA1+rcUAMv5bIwCr8eotNjq5FXwEgkahyFQeTTB+wuvas7UeTQsXadoOFVkZCS/8pDYCnqsONXJYeQxDxOtxLMOHAIPF0lTc+QFe18NGH70q+5cGgT30DVFokkcvDD8F/6NlAOxw==;yKVX350I/U8KY4zVekzQdw=="

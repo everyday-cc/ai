@@ -25,105 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
-    excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
-    publishedDateTime: 2021-08-15T13:19:00Z
-    webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+  - title: "Why Nvidia Is Much More Than Just A Chip Stock"
+    excerpt: "Investors who think of NVIDIA Corp (NASDAQ: NVDA) as a chip stock are missing the point, Ritholtz Wealth Management CEO Josh Brown said Thursday on CNBC's \"Fast Money Halftime Report.\" Nvidia is a platform company,"
+    publishedDateTime: 2021-08-12T21:41:00Z
+    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22472711/why-nvidia-is-much-more-than-just-a-chip-stock"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22472711"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22472711"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 86
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
-        width: 951
-        height: 961
-        isCached: true
-  - title: "Samsung has its own AI-designed chip. Soon, others will too"
-    excerpt: "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
-    publishedDateTime: 2021-08-15T10:44:00Z
-    webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
-    excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
-    publishedDateTime: 2021-08-16T08:55:00Z
-    webUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/"
-    ampWebUrl: "https://www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/08/16/samsungs-next-exynos-chips-will-be-designed-by-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 74
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/08/Business-Samsung-AI-Chips-144295666-1024x536.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "AI is here to design complex chips and Samsung will use it"
-    excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
-    publishedDateTime: 2021-08-16T05:10:00Z
-    webUrl: "https://technosports.co.in/2021/08/16/ai-is-here-to-design-complex-chips-and-samsung-will-use-it/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 54
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2020/10/Samsung-Exynos-Processors.png"
-        width: 2092
-        height: 1138
-        isCached: true
-  - title: "Samsung wants AI to build its chips"
-    excerpt: "Humans do not think the right way Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips."
-    publishedDateTime: 2021-08-16T11:02:00Z
-    webUrl: "https://www.fudzilla.com/news/53380-samsung-wants-ai-to-build-its-chips"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
-        width: 620
-        height: 432
-        isCached: true
-  - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
-    excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
-    publishedDateTime: 2021-08-12T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://www.benzinga.com/files/images/story/2012/nvidia-ai-launchpad.jpg"
+        width: 2000
+        height: 1260
         isCached: true
 
 secured: "eOuT0Zkxu12ZIUKw4xGOUjfg7XwzOvlpu8a3nNO8ptqaFbNKeZTVpihFfESfdWbae+y0ElkZMg+9AlDUxPUQgRG+qE0qX60IqlJYyIctpKOv0WfgqDsqqmPFyZv57fuLvkQ2EV5Ks+7JlrDffVa0b7s7r3zKrYsiUeZ41QegI1c7xjX5RvshsWcvbSXBiBVCZBVlgcqk3SyQBgNl9KJBnl/rXtLdcc1Vu661xaPNQm1YcSZMNUYLpK9Drqq4qAwCUmi0/cwKKKHoHKc36631CjvFYDFFliH6JS48FM/RPvfXC5jllysmSEe4HtpZrY768gCGsFjVBGyrMsuxEVR9WYzWvxkAdEvbQFdmonXSWttXxGjfCN08KXwPluNWEXhl2nt3S9xIZyhJgr+wCK/bL3P9jwtdOOZGve3MbNtc/ifqKQcyKQsDO34kZV8k14yWrEX9DxlEEslwS3DFqWthBvfsNoSdXMHRhhC5j1VVeKzEE13TeI7gpBVLrS+W3t7LoENMJHj5OamQEkwLFwQ9YA==;eHnDAfh2bRueASLKNvkMEA=="

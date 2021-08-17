@@ -42,6 +42,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "IIM-Ahmedabad launches new centre for data science and artificial intelligence"
+    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players."
+    publishedDateTime: 2021-08-17T03:47:00Z
+    webUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/"
+    ampWebUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 53
+    images:
+      - url: "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "IIM Ahmedabad Gets New Centre For Data Science, Artificial Intelligence"
     excerpt: "The centre will undertake research in Data Science and Artificial Intelligence to support businesses, governance, and policymaking, IIM Ahmedabad said."
     publishedDateTime: 2021-08-16T11:20:00Z

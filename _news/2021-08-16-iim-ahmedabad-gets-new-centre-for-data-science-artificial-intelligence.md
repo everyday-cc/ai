@@ -56,6 +56,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "IIM-Ahmedabad launches new centre for data science and artificial intelligence"
+    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players."
+    publishedDateTime: 2021-08-17T03:47:00Z
+    webUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/"
+    ampWebUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 53
+    images:
+      - url: "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "IIM Ahmedabad Launches Brij Disa Centre for Data Science and Artificial Intelligence"
     excerpt: "Centre to Serve as a Platform for Industry, Academia, Researchers and Students for Research and Knowledge Generation Ahmedabad, August 16,"
     publishedDateTime: 2021-08-16T11:03:00Z

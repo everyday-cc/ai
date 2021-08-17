@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Six injured as self-driving Tesla crashes in school car park in southern England"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday (Aug 16) evening, the Telegraph reported."
-    publishedDateTime: 2021-08-16T22:44:00Z
-    webUrl: "https://www.straitstimes.com/world/europe/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england"
+  - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
+    excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
+    publishedDateTime: 2021-08-17T02:30:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 34
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 54
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/17/rk_tesla_170821.jpg?itok=9KVqgHh-"
-        width: 763
-        height: 509
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
 
 secured: "iXYaGxfdq/t9f+DGT4imaf5efQBlCOfH1pJCiIBc4ldJkgFx2oNDWsVuzx5juSaO1mCYtFO5AwsB6QdH1dRRCxqfxX5UwMTGazN1ICfUyKOXtKG0uUpftV1TxoW3I2wl9NoeiQXpX+tvQTW61jdrHtgXQSpk1JzRhTL0UnwT9OH3Mm0y6VBHH2+35ohXGzB/yAlLZq+rNM2ejQ2668EyhdHOdDaHfqX9IVDoucHNxFvZmFhtZY1D6we+cTLWLOAIaujSZrFS96gKuj1GMjpsisxswR64DwHf+NACGmGWnEyQySQmhGq6easEVv3jx2upSizag/Mz1LT82OlSrC4VaE2TOCepTADxAJjD7JlP4E0=;Al2bYe0q8ezIzUd+PbPSrA=="

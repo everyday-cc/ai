@@ -3,12 +3,12 @@ category: news
 title: "Samsung Joins Google and Nvidia in Using AI to Design Chips"
 excerpt: "Samsung has reportedly started using artificial intelligence features in the Synopsys chip design tool for upcoming processors."
 publishedDateTime: 2021-08-15T13:19:00Z
-originalUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
-webUrl: "https://in.pcmag.com/processors/144309/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+originalUrl: "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
+webUrl: "https://uk.pcmag.com/processors/135086/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips"
 type: article
-quality: 86
-heat: 156
-published: true
+quality: 84
+heat: -1
+published: false
 
 provider:
   name: PC Magazine
@@ -19,14 +19,13 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://assets.pcmag.com/media/images/606340-nathaniel-mott.jpg?thumb=y&width=951&height=961?thumb=y&width=180"
-    width: 951
-    height: 961
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -88,49 +87,7 @@ related:
         width: 620
         height: 432
         isCached: true
-  - title: "NVIDIA reveals more details about how AI is reinventing graphics"
-    excerpt: "To learn more about how NVIDIA is using artificial intelligence to help reinvent computer graphics check out the NVIDIA presentation"
-    publishedDateTime: 2021-08-16T07:55:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-reveals-more-details-about-how-ai-is-reinventing-graphics-16-08-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/NVIDIA-reveals-more-details-about-how-AI-is-reinventing-graphics.jpg"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Plainsight Joins NVIDIA Metropolis to Expand Availability of Faster and More Accessible Vision AI"
-    excerpt: "Plainsight, a leader in vision AI, today announced it has joined the NVIDIA Metropolis program to provide businesses with faster, easier, and more"
-    publishedDateTime: 2021-08-12T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/plainsight-joins-nvidia-metropolis-to-expand-availability-of-faster-and-more-accessible-vision-ai/article_8bcce091-b31a-52d0-afd9-a8223698d59d.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
-    images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
-secured: "+QnR6+VFpJRimf2+pb7pxmBMwvh11rNUfJbzYW8Ds7NFzWjzwWLnLU1AuBNZ0S8as1sr1E7mHb0+he6a5w3B/uT8EvyGQtHiSERUD7y+7oI1UaO+PXKGnZm46QxgJG6hp0KchIDoRUbP5Pnv8IGjZQfI5zWw8pVCnqjxBHFQ5q4PWk3wVGVrP94APJfW3wU6JHgK0qAMlG28incolg6otoNGW4bfyrxR39+159R5T0dagciESxDGB4Ic+TD0mnpgFtKdnK9N2FVydC0oPO/VfyuiELdoawUB8XMFtdcqfiF6avVcUNlfQ/KKeqyFs0HpVK0ckL84mzyoJHzMtZdyUkLOviclUY3GfMucDlHtiX7HfuK+Rh7QTXrC7VLaHl0/c98mAhLRlXG/SyJzFPj7R/Fjrhr0yadGD2EMq4LJsR/jTslXa1yBXCSyNkw8dZyhK11Dwr299P3lDUT0pDUgVhHWA+va73O2s8VmjETb76pCUerfREaSd1TwDTyv9x2YQCkl0oguXn7zjvOMbhEnLA==;lm57TfX0JghzItm8jojWgw=="
+secured: "oYXSn5W3+o1uBDnnNCCWxInFNfXlSVjItSm53VsyGvxIp5gDxJg0ft+Bx5N5sIRj2XUtQ3TEv4bCEhSpj4YuhOdOUy4WLXmtgsdTaGgpUb838oxI538S7Oy0rJdfy5ySvILass8U+bXqu1H4Q1mQM9lMxOIxA/oz+7YyUilDCmjK0LG3bP5I/51DjD6dbkiCkjNxnCqPbyCIXuUIPzkDnksHCtQzHb78p2egPBwWCOhHZDKkrqHQMZ9h+4AtcraFoelspBEeoSOxH+G5Ba+DmR6Ox24qY+QN06Ghy89xWr+8pNpKSTNuzqlZFYPn1opmm+bo5oPIAPiQ76g0Oc/FV7mgF0F2BFt1I/ndj36s44A=;RqKsjeNSzevnQsHqajpqEw=="
 ---
 

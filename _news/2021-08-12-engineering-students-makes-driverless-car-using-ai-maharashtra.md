@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nyoooz.com/amp/news/pune/1601592/engineering-students-ma
 cdnAmpWebUrl: "https://www-nyoooz-com.cdn.ampproject.org/c/s/www.nyoooz.com/amp/news/pune/1601592/engineering-students-makes-driverless-car-using-ai-maharashtra-/"
 type: article
 quality: 74
-heat: 114
+heat: 94
 published: true
 
 provider:
@@ -58,34 +58,6 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/08/12/600x338/49315301_1616758437930_1628756476318.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Driverless Electric Car Using Artificial Intelligence! Pune Students Turn Imagination Into Reality"
-    excerpt: "The vehicle is built by the students of Pune's MIT World Peace University. The rationale behind the development was to reduce the increasing number of accidents and deaths."
-    publishedDateTime: 2021-08-12T09:05:00Z
-    webUrl: "https://thelogicalindian.com/environment/driverless-electric-car-using-artificial-intelligence-pune-students-turn-imagination-into-reality-30191"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 40
-    images:
-      - url: "https://thelogicalindian.com/h-upload/2021/08/12/201319-untitled-design-2021-08-12t140428060.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Driverless Electric Shuttles Are Bussing The Future To The Colorado School Of Mines In Golden"
-    excerpt: "If you’re walking around the Colorado School of Mines in Golden, don’t be alarmed if you notice the campus bus doesn’t have a steering wheel. The school is launching a new driverless shuttle fleet that will drive passengers around campus and downtown Golden."
-    publishedDateTime: 2021-08-12T10:00:00Z
-    webUrl: "https://www.cpr.org/2021/08/12/colorado-school-of-mines-golden-driverless-electric-shuttles/"
-    type: article
-    provider:
-      name: Colorado Public Radio
-      domain: cpr.org
-    quality: 28
-    images:
-      - url: "https://i1.wp.com/wp-cpr.s3.amazonaws.com/uploads/2021/08/Goldens-The-Mines-Rover.png?resize=1200,600"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "M2PSuQ6kkmv9WxnuYqkGs9sOPY1gJK5ETTd9ffmfuxWErMp9hH69TDVFb/XKYAVoGXIx5ke239S36AWFQED3IHhg+zRzwauh1NLGN9rcfoscwyCptV1skSEFlbfitLNT24n/KYhnn9sXaTDfHj5mzlF+MLovPcM7tjIU9raOiQhpQnNCyl3n0Fo5s3HDGU+8gNiW5h8t/AMorAs+qnjPFc1z/LzfdbMkQ2baDhNR/GkJr6aOtZzvZUHLhJLI9orbr3CXEVeqezWbnLbQFLUXZ33tG9rCfy7VxhrgCs6Qi6bg66uWuURqylJyJto+jFWvGeXh818JTPqAvU3cTk273Pax/LCW9mndm7YVVhdLmV1JUkLT/AlJfrwjvaE3IPzZwKHVc+d8KGxNsvKtYGZuHlzF+EmyWXMYCcAKWPQjezDqTevY2DhrPrFqU8MGgU6Q3DGns/b948hT7KqD6nFtZbnqVUt7DbgMZL5Sc4TIr6vsEBa/5eEvv3Vp0v9Dri+l/uF1JQOPmZfLWylUQ70H/w==;1VbKNfb9mt0gUIIoz5diig=="

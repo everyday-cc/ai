@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?"
-excerpt: "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer."
-publishedDateTime: 2021-08-11T14:40:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c"
-webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c"
+excerpt: "NEW YORK and WASHINGTON and PALO ALTO, Calif., Aug. 11, 2021 /PRNewswire/ -- It sounds like the opening to a classic joke: 'A cancer survivor, a"
+publishedDateTime: 2021-08-11T14:26:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
+webUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "VauY/OHhNg7w5TZylB9Yj1phsNYgZn/fF8c7I95XaYzsdapL4i4JyiHedoPqN5yVD6k664AtUL7tQuczlGJnPl7EcSwKoFYShs/gvbuCp8LSJZ0H/Xthwgap0NPhQAmyicJqOPnHngYkp8PVZJ+Hdkk+/UUJp6uThEH4McZZ1LuMBdavG6uwASYMb65Fj0MmCPrIsE7qwx7QtHwW9KTsLSH4jBQqOCaVYIL1o3Oycj/vdEK9zzjbj+Vwd72Mmni280WGzkzvVYcgUh+jz5cIKm831vS2Fy1uddwL2EqhskKQRUHxXId5P2AWl5Uj1Zil7tQ9HU0M7Ubqm/qU1H62BAaFt3eZeRAx4NVjRzwpxhA=;2yWoVMwhhqhyzsuvX1Xq7g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1592368/The_ComedyCures_Foundation_METASTATIC_CANCER_STUDY.jpg"
+    width: 400
+    height: 270
+    isCached: true
+
+secured: "1pZesp4I8e2y/Aunp+r7Zxy0mYB9PNnxigQ974Iv6rtXBlPatAQIvUbZy+BNTnAE2wzWazXCjSrG6NKtf8V/GmWGJAaEo0fIz5KFLddlNw49axW5Tf81Se8peuZ6tzyqaQ7TWZmckLHrijEdhN7k6lw7J5qVFXYCAOGGxXmdoaDwrY9YBneIBkHXnEuywss/gRh7942+Ng05sl6Fq6UJvBEwMydeJ7shplICybmCKXkYaOtG0sK+uwber+9nI5ZfwKzr/mEzr88VzMmzxiYulI0zVriL0zUomz0wGDaf8EfBK9njY7w/+64OcabO3Fa5GQ2y5JlHgslHLk2UPnxaspTDLmEP3fOnDtzc2vL2898=;aktXcpCkkweXvMZzn7HR1A=="
 ---
 

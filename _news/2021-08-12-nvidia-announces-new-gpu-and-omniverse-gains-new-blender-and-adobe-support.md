@@ -53,6 +53,20 @@ related:
         width: 943
         height: 630
         isCached: true
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "BjJfuBSiVTa1pOJI+qkYVKAwa37r/xg73PgAXzkSwxLfDcL6ztG58lhwHBnKbWTtV/j8PPQDueVU4rdUqjDiEimpS76pzoJdMpLqLHlL003uexJ8ghQzApKjREHf9mjAQ0tV+Redrn4bqbvqSbW7vunVtI1OPo6m3mPrr44+X6kIrIxGyRTxDrfRzKkNl32G6Rk+AD8dvLJFuWVR0q2SJXhbzxVVbOLlR8oVm+4c3YSokyDnRnOM2LjvgjPdKNvLVesctamnkeBRsQHEin2nTEOzhuC8lOxe75MLl8s3198YXusRAHP0+gvepODi9l9OqHIPo61T+xOClQeJFa7QR5pOXzW3MNWzmQVK2e5sUEWVG0R728MUCVZsPczP1T0ewzOcQWAJVjqQh1vDQ4MhWlqysQifvY6tlZ0G4hRHg+upgpI1lP4BsCHAQJzo69quZSQyB8Tf0qozYn7xHyjMq0RwffYLHN/1Np10lGYKH+cb0s/VRD44JN3GWtizerb20nGJO2Se1R+OeQQc+nlaDQ==;oc+QU0ZXDnxV+VAtUz7cfQ=="
 ---

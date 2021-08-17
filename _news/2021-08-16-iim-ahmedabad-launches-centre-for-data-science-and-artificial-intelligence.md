@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launc
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://images.livemint.com/img/2021/08/16/600x338/iim_1629114559768.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "IIM-Ahmedabad launches new centre for data science and artificial intelligence"
+    excerpt: "The centre will also take up challenging consulting projects of considerable practical importance in collaboration with industry players."
+    publishedDateTime: 2021-08-17T03:47:00Z
+    webUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/"
+    ampWebUrl: "https://indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/iim-ahmedabad-launches-new-centre-for-data-science-and-artificial-intelligence-7456342/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 53
+    images:
+      - url: "https://images.indianexpress.com/2020/12/IIM-Ahmedabad.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "IIM Ahmedabad Gets New Centre For Data Science, Artificial Intelligence"
     excerpt: "The centre will undertake research in Data Science and Artificial Intelligence to support businesses, governance, and policymaking, IIM Ahmedabad said."

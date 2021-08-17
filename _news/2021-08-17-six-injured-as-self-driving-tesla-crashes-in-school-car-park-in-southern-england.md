@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Six injured as self-driving Tesla crashes in school car park in southern England"
-excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday (Aug 16) evening, the Telegraph reported."
-publishedDateTime: 2021-08-16T22:44:00Z
-originalUrl: "https://www.straitstimes.com/world/europe/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england"
-webUrl: "https://www.straitstimes.com/world/europe/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england"
+title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
+excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
+publishedDateTime: 2021-08-17T02:30:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html"
+webUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/08/17/rk_tesla_170821.jpg?itok=9KVqgHh-"
-    width: 763
-    height: 509
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
+    width: 770
+    height: 431
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 338
         isCached: true
 
-secured: "htmD3wNH2ap2uAI+sI+qWswcJVGYLQPSJy+PTFpFZa0EifbYvTYtElTahYX1LSRYOuNkbw1cHaOWAQfRco8wW2/7SBapMBtOX2+rE1zabndPKV5xyt5P2botqNkf8ryHYPmLa872YCe2ZF9eNzazHNJIyG9LaYdmlur5LLzjKs4L0Xa99zXLZS8g+hTCMdZ43l8jwtan5Ca0LbUohx4/HZoWmte2F0MrhleaGnbdyzlxxph5YFoHo8W/L6yhm3Rqaqy0u2Th3zoFtAc9w9D0F+atsfZYCi85XIjU6xUxTmRrt1lrZ3q4k0Feh2pdhdgSgxcJ40i1SFykjzhkymOlV5IPMI/cpqucad+U1R1ZBs+F1eymW9SIXRgT5jsNOFZQeWTQ1rOkx5K6xoq3qkMR0nYSGK1k85jAWikonubNBtLVHW9oArVHifU1Ml3CFX9kLXKCBaSAzuQgE5FmGN721+7RO8/ULR28tATmHEPNZywBHTrqgz8sg4OxyOv0IhnYIDSMloL7On7zVwjQ13PnXg==;pcX6iMknzM/CjfWRGZU8ag=="
+secured: "yvcPHgnk2Tl7Nw27XADVBRwtaL3YZZtUQpgurFl01I0e3TfAqCHPtf+hZILHEt1QVlAjcPzCKCN/VlHg7W7HRqL8NBCLnprpExVTGZmZcfhmQeRV/Jij9V3iU46RmZ8jVoBwkpbjvqQ++DpapTgcQCaKxL6sZeHcILgoGP+ZWfwWpwEsItlet2zgVUQKiV+D2iC4KrhlwI4NOBnnr7wxutdUN8hMv2B1VddbYZHYEXyZh/WHIoYlfUy+8nHp9fTUOdODhXf4A2/oNrNwUj+JjdDAu+Y63OwICvALxJ9lx4qO84WZVlT+fK0tvQLmVAVegc0f0w128XnDvkvxX5q1j9nigZ4BjHtTWAwY9rVD1rk=;W1LRmOw25raDWH/P18Yleg=="
 ---
 

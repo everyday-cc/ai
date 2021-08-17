@@ -54,6 +54,20 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 52
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "6SgnueM4ult8FP0IFzOlD6IiNnZAcJbLRaXQRYYU6L0D59VLedkonFvlZ78IJXIPRmVpSM583orOycMETsdwnW/yxqlHROMsT0CSSuxgxw9S92GZjMyBTubbFFFxr94wjM3WtwbWTDbkQbX84gieei73x2lmUsEg7BAfXsr8xyvDiR6WWD1mncbJJKbQcf0UnzpAlQqBPcAZ6iju3apU+uPs2XfymRRcvLQ4ZUGe8FEH9yEeuSdTRGPSyLouMtpFuJ1bTkRHVcifB0hhpLuJNgjUpmB+Rdge7fa0tPgLQlHKGywfqGaR/xzXNTmrTUW3dEa92ZMZZKVvUE+x/Z7HQFVaXd2P6zVllPdZ1eJBR0QUKG5OYzVha+0J4Z+557cksr0EVpilRn3XUyMyzmQ6QH5WjiqqF7DJy1z0JGhV4aEBSpfjSc/Z82SHpZN0bK8oWHC/0vFKnT9tbweQXuTS6X461msG0hJFA6BpHCGNN9gsVWI147ewNOkmuE5AlxPSzk4vsmaPr8Q1UENNzyPFBg==;VZMs5+YFhhi4SNfeLREi7w=="
 ---
