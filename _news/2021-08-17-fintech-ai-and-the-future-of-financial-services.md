@@ -41,7 +41,21 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Sharon French Joins Fintech TIFIN as Senior Partner as over 50 ETFs and Mutual Funds Use the Platform to Reach Financial Advisors and Investors"
+    excerpt: "TIFIN, a fintech platform using artificial intelligence and investment-driven personalization to shape the future of investor experiences, today announced that financial industry veteran"
+    publishedDateTime: 2021-08-16T12:47:00Z
+    webUrl: "https://www.gjsentinel.com/news/colorado/sharon-french-joins-fintech-tifin-as-senior-partner-as-over-50-etfs-and-mutual-funds/article_ec0c1c34-2ab0-576a-9002-7e92ec5a33ec.html"
+    type: article
+    provider:
+      name: The Grand Junction Daily Sentinel
+      domain: gjsentinel.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/d/90/d90f015c-15a8-5633-8f95-1e14c8de3991/611a62080c207.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
 
-secured: "b753edvcZPhmmYOV0TJztlW4HXfL7GMR1CmPiqPhQVK4P28vX+jmsDQCffW0RioZx3V60C7ZzZ27lb1GY6Cw7+IsqcQVAYyunGJHqbacdmIV/p48Ju7iaLFe1NjWHkg8Re2kgFFw9gkDfNp3XzC9/b4wKxF2p3L8ZVZNowxIHkDFfGAxKUofU0wWsLyVpHLucOckS0f7P9YpSBKdiTRZHSkQq1LKJhg2RUpjIwAgQSdPDRynbS6lIYzCpLLk+UdsyhFswaTRiITxzuoTVdWNuAwrQM9ek6UN+GpFjpeW/MYZQVf4R0LvO7erHTs4yv2FpyIdc5RuFhP0G3O8nnvIig3phWQEThcc5gArpzgLBC4=;mMG7MEgZKXLY7YgmW5kYQg=="
+secured: "vdTQDEqHiMKdNHbdqOgudHxVZk5s4f1paeWX3RKEbVMV7L2n2rRgAyGZbdk8P+UutYbnq90xyLBxngpsbjtfNU5g+fWRu4Zq6W9t84JfX+FcTPOobjFuu5nwRJGCab2X5oBKkvUaN/4/seiXdlUI02DEWxDAuXlptzwgbaNkhTIeysGW2zEf56Pl9wvKOL7lr6GxfZxdWyyliVPRPJ2zELYsTHOTxqxMpnTmdDxUNgamMGq4roGnRB7DR/6wIgIuufA219rEfH37sAKRNGv14B7TC0Odiq4iYrI4+K2T1aJMfJniz7Esv0yCJ6MLq9AEOx9zcNB+W7YXekkdr3AMyrLZWcGcQtpu+XePD7gYHJTRsDEW5XzVHqXBt8UPfm1MzVgJNygBRKvjxCbLik+ulYC/TqF/KFg5dUwpNp1lYS4bewPIefpKNnMsQEIchGPq1xNXoXaWNrY8STzbMvQ4oWpOfXO+DDD2V71HIhKmX2YLSonEQEtahdFmWTkfX6NHoCVzCxv2elKRN6yyq9IK2w==;O+fyROrriYNphuQR7z+vpA=="
 ---
 

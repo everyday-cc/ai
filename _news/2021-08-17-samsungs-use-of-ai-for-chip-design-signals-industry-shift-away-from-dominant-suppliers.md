@@ -111,6 +111,20 @@ related:
         width: 620
         height: 432
         isCached: true
+  - title: "Samsung to use AI to design its Exynos chips, others expected to follow"
+    excerpt: "Artificial Intelligence (AI) have become more powerful over the years. So much so that Samsung confirmed it will be relying on AI to design its upcoming Exynos chips. In a confirmation told to Wired,"
+    publishedDateTime: 2021-08-17T11:19:00Z
+    webUrl: "https://www.noypigeeks.com/tech-news/samsung-ai-design-exynos-chips/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 54
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2020/10/Samsung-Exynos-NoypiGeeks-5293.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "YNqObIlWeEgjH4sQOrXHltQqXxvNrfsqHGcmhy3thK7TblCuh4LK9JydGmsxuvnhSAT8H0I72PtUOFhMMMKLwX5bukvrumzW0gTWmlodI7AutuHiRoK03pXO4Fb3fFk/tmF7nW20P5Ey6wuqFgAC3cilJRVhQjGdmugpGOOTaVByWPRMfpsHuV75L731dEv0Gyei/ypYo0JUfNsGSvZb3Fg5HKWh6hOrGaD9pGRiJA1/13AT0JWUMmZ5BsVGerDqHhb74oaQy6AXVC8pL2OiM4d9p9qg1augoXDnzR6snDHbepWw2Yyh0EKqemViddU1gfassYVkD08rvuXu7eIZdV7vghNTSvHLa6YCil0mOZoiaKKZOU4fy/+xHh1CmnSmaXYteOzI7CWLTcYxjz64U+63zKIhiBcDsbxlnALeqKh0/+Y9BvaZTshT92tr79YTEscZ1ED4YSRiF3oz2iVG+yawzGEXL+9c6HtVTflSBdsK0M8uW55RL4/Cb/X5a+rnLAJGYI2K6sFFCpRHm2TP1Q==;dbOV0u0ix2ZmxH25W7fx2w=="
 ---

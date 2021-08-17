@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-l
 webUrl: "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers"
-    excerpt: "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write."
-    publishedDateTime: 2021-08-12T17:09:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/08/Tippett-Alexander-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "Robot lawyers: Bad for some attorneys, good for consumers?"
     excerpt: "While this may be bad news for tomorrow’s lawyers, it could be great for their future clients, particularly those who have trouble affording legal assistance. Technology can be unpredictable Our research project — in which we collaborated with computer scientists and linguists at MITRE,"
     publishedDateTime: 2021-08-12T22:15:00Z

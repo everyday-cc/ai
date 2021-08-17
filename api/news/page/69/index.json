@@ -2,6 +2,109 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-06-25-zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge.md",
+      "title": "Zero trust startup Illumio raises $225M to protect multicloud and edge",
+      "excerpt": "Zero trust security expert Illumio raised $225 million in a funding round led by Thoma Bravo, others. Channel expansion is among goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
+      "originalUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1182955043-e1619720482359.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/24/zero-trust-startup-illumio-raises-225m-to-protect-multicloud-and-edge/amp/",
+      "publishedDateTime": "2021-06-24T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-25-the-future-of-mobility-5-transportation-technologies-to-watch-out-for.md",
+      "title": "The future of mobility: 5 transportation technologies to watch out for",
+      "excerpt": "From autonomous vehicles to flying taxis, the future of mobility and transportation is set to change dramatically in the next few decades. Here's a preview",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "originalUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/volocopter2.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/future-of-mobility-transportation-trends/?amp",
+      "publishedDateTime": "2021-06-24T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-24-how-daniel-wellingtons-customer-service-department-saved-99-on-translation-costs-with-amazon-translate.md",
       "title": "How Daniel Wellington’s customer service department saved 99% on translation costs with Amazon Translate",
       "excerpt": "This post is co-authored by Lezgin Bakircioglu, Innovation and Security Manager at Daniel Wellington. In their own words, “Daniel Wellington (DW) is a Swedish fashion brand founded in 2011. Since its inception, it has sold over 11 million watches and established itself as one of the fastest-growing and",
@@ -1073,109 +1176,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-walmarts-ai-is-getting-smarter-about-grocery-delivery.md",
-      "title": "Walmart’s AI is getting smarter about grocery delivery",
-      "excerpt": "It’s no surprise that the coronavirus pandemic has changed the way we shop, especially when it comes to groceries. Grocery delivery apps experienced a record number of downloads in March 2020, and by the following month,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
-      "originalUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Screen-Shot-2021-06-23-at-10.53.02-AM.png?w=680",
-          "width": 680,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/walmarts-ai-is-getting-smarter-about-grocery-delivery/amp/",
-      "publishedDateTime": "2021-06-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics.md",
-      "title": "BMW i Ventures invests in autonomous truck technology company Kodiak Robotics",
-      "excerpt": "BMW’s Silicon Valley-based venture capital arm is investing in Kodiak Robotics, a company that develops autonomous trucking technology.  Kodiak will use the funds to build out a safety case for its self-driving tech stack so it can more quickly commercialize.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "originalUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/Kodiak-Final-10-small.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/06/24/bmw-i-ventures-invests-in-autonomous-truck-technology-company-kodiak-robotics/amp/",
-      "publishedDateTime": "2021-06-24T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

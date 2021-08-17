@@ -82,6 +82,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Edible Arrangements grows business with Microsoft Azure"
+    excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
+    publishedDateTime: 2021-08-17T11:36:00Z
+    webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10465/img-Edible-Arrangements_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -103,6 +117,6 @@ related:
       domain: ipsnews.net
     quality: 44
 
-secured: "yrmoMBvdUKIfKEpYVkfkaJruEKzOqKy5pjvHpbt+E94qG7LtBgHI8leKu9zZFkh3sL+3xJqTvhJBuluiTjfCualS9m13UlsJF0qKYAQW4YT8NlKXbmRe06JK4CcRV9ePhs+N2vwJ5TlEgD/zL/Ahge7Xcm2pvzeoYugLPEnFabnpzA8TSEAlrm6X5vbIpOFMPX0epquh5MiFKDuzHUAkfthak6Yn9p632yTbMMLN4POGfG6OQmlXX0wNAunvtKHaIo/iJB8ORqksrHzyKCXy41i8ooZ/uKmQLCj8XFg+nxIsnys6Qbqkil0Y1WM5nz/9IuRAYp1pAulMgh85hD6npAFDMHEbTcz7eWDjhjEVt7o=;dUlAqyHQRoVdtvIvFK1Peg=="
+secured: "bJQGX7YznGGgDcoG6nczUZKAU0QG5Jt75QFPb16AaoR08xL3kparY8dRsBN6U/gDRdx0GcCRHaJ9G/OfcZKzoUpCkAvM8zTROTgaPg+ZsyIMe/WxAV2eyB6ybbPyP6euDFEpYHBnx1eKLGo4Eb5s3txfBrUzkFDyJyUR+4aHw73mFMVtMiOEOgkFz596Zf7Ah4EJhaLav84Ghz0xScZY3BvfrKnrTyJA6E16I6nhIvhZo50F4ssiLAwVOPsswXlOHxzI57V2J3XEhuiV+ucj7LdjHmjY4IIATG5iEqdXeFeNq0nUmjOy/p6ZgDIOBWVxFSw+jTqKs/QGJOeCrjqX9lJaPeILPDo+Z7uFsI04ttti/Cj4M0LyGu99JHcM75XV3lld3p/FiZ6LaOwQZkbF6NdBm4aKvJHfEiIPwW9+j8Ind30Sp2cpRTuW+OTsYROQweL48tSqSKDGOgZcK0TLUm2XMML6UxQZYGTMSMReSu5Fyy5JuYH6tjYi7PDg9Tl0UYdsxGGbDwOd5Ra/m0ejcA==;SQt7q5ugrsTTjhhD9xWARA=="
 ---
 

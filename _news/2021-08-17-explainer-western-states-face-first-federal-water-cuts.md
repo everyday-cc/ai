@@ -2,19 +2,19 @@
 category: news
 title: "EXPLAINER: Western states face first federal water cuts"
 excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-publishedDateTime: 2021-08-17T07:48:00Z
-originalUrl: "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-webUrl: "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-ampWebUrl: "https://www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+publishedDateTime: 2021-08-17T10:48:00Z
+originalUrl: "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+webUrl: "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+ampWebUrl: "https://www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Connecticut Post
-  domain: ctpost.com
+  name: seattlepi.com
+  domain: seattlepi.com
 
 topics:
   - Computer Vision
@@ -58,6 +58,6 @@ related:
         height: 240
         isCached: true
 
-secured: "YKJcDR/JCvt35SGh2JEgNL3mf7wMUGCrgsvz5WsysWeAdISoPeTOfljaWuCiLsHYd8zosY95zzATaaOydtOc6odEA+lfH7NStj17xxg47znwv4O5+QAaI6xq8spW9FjNS/fwKDJzdaLOFuarfxIDhRn42LjVMzSu9GBN9BBQ21rIt+GhwRoTRJXRG0XTJiE/pJZhBiFFoUXcgQ+pbVa5GvyjJ5KqPbssxWDIO9Eeo8Jkisbxw0NVxh0OJhIeA+I3CfJ33FL8QnXmcXPwQqmpPM6DO1u1pr/qX3P0Dcjsx0ZQgmjC0NyXC2WeqUtlQGXMOM6xfx1ZXq5eyHk6pK6rexqWkrG5yFeY4Gvo0aaaiqI=;hvgxersL1xLQ9FMANUA3IQ=="
+secured: "2qA/XgKVyIGkMGO/g6RAVpQXQat5AtlgFxowRDobFdWvrqQkT1wKsU5uw3A6DFOJJkPa9enek8BbiNmd0cism8AioQwovA7HfIy/GJ/ZRxDbZ5MTcumavZ0TZmzgxBJtf2jI1Gwuafje4AS8Ri/G0xr1DDOpiH2YGDKQkz9o1UD4s7zOofCyH6IrvsiHobbO6W+H+sutmRNABBNHPO21+jRjaXs8omQLpEu2mLwtLDt3rf5EITYatXQBNKxVKxGlXBRacIeml7v+ogSIeELMXFiojWnAC57uZ9ctIKDsqhB7T3clLViaLLktSTCD24yHBK/ozLXlk+sI/dX/xDem20F5rnTqLxsh574WqrzAnGg=;zhZJ56nwVzhSVBB44VfXSA=="
 ---
 

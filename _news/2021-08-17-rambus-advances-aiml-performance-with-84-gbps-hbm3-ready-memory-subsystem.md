@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-16T21:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/rambus-advances-ai-ml-performance-with-8-4-gbps-hbm3-ready-memory-subsystem-1030735942"
 webUrl: "https://markets.businessinsider.com/news/stocks/rambus-advances-ai-ml-performance-with-8-4-gbps-hbm3-ready-memory-subsystem-1030735942"
 type: article
-quality: 64
-heat: 64
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -19,10 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
   - Machine Learning
 
-secured: "EUCDFGFRUbqe2Qlq4NhH3P/3aw8/6QkjCXsyV3P3/atXio6KS7hcoKpvbAVpkMIm3bLO8cMA41MYWhswCXdmgqr5yoEzrdZKKHDOFHNoIJ1/qJwEP2CEKkoZPPHqTNS+FBp21dCuV7cNPGZda9+6i+mo+qR9lb4h18FFPcginJf99HxI5ppg9wSBmqdyRbte+62QGt6l7wENFeiH6bi+5Ndo3jXlGWLVva/d/HXBa/WyiudUbgfLO7AiLtci5bTCkywcnkpFEtgXuVCnd5Cu6lpxkJVpEFSQlHMpPTfJ4caGWYPOiEXG48d3ozp194C7XeWCgB8sJP5UPAbiZkiVVZXUi9r8pQac1pVkv5WPrmO1bFBvhnSEilBTs38xpIBMW5uSb7OFx0zGcAnVG7Cg8p2Rm+u+aEds1mXdc15bnVYTwEZyUfNOxVk0M4PmHmpypT2Z0utqoY6ioGW0BDHB3Hw/Casp4gvgZMqGssutoj/E7Xuu5eEvDnRP5/etxsCEGYvj2IoNFbd+ACkoBuTsfA==;vnrmaNuhFlNVt2IMXhAv/g=="
+secured: "hoQbKdlmYjuNYxM8rjTT2dUrtjQ4wSlKuU5Qu2LivsDCx73nixQRlKQKm1TW1BYX7MAp4L8/1xW1RLZWSHAFLYzSx1DmxuYPfVjYBX4st407FHcwizJajEMdwRy5+nfFp0bf1CuTDp7vnKpjPZJKLrXj1zvyyPe7xnQWMQP8iPaFkMRv2LbuI1VXbALcCRm7z/caVDw/71MHrzpwycHZtpAUH+anx/xdQIr7warx1M69CgHyX9PKPlqJrPvUQ4MmfXThoILX0k3lRUsbO3Yd4zwMNR8l8E0MVGxwIrf5kSOfroupfAG0H3MNPzJ66U8dL7zXCfo7mg00EXNKPU37HH7J1GzxQ6EXJP36Z8G8IXJCTRx19R94bSz14lTUlIUesS2xbpvj+KhG5wmXMz6jDWaOyLjY+2NkkEt131IOrDt1ADfhlfzqx9Ein1M/pH06u3youXdhpqXxmRu0mBB6uVj71QqT8su7fC/HU/JJwsDyZ2MIr7OB/4c+mArguTDne9qxkFFoXteKk0GOoB0lpg==;ABtxdrWcXmz8n/XX2eXqcQ=="
 ---
 

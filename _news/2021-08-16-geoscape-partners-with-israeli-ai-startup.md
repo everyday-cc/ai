@@ -7,7 +7,7 @@ originalUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-a
 webUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-ai-startup/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "How’s Your Health? Israeli Startup ‘Binah.ai’ Has An App for That"
-    excerpt: "The technology delivers vital signs monitoring for any adult, regardless of gender and skin color, by analyzing video signals from a selected skin region of a human face."
-    publishedDateTime: 2021-08-12T18:32:00Z
-    webUrl: "https://www.jewishpress.com/news/business-economy/hows-your-health-israeli-startup-binah-ai-has-an-app-for-that/2021/08/12/"
+  - title: "Il Makiage Acquires Israeli AI Company"
+    excerpt: "American tech-driven beauty brand IL MAKIAGE has acquired Israeli deep-tech AI-based computational imaging startup Voyage81 for $40m. IL MAKIAGE, which is based in New York City's Soho area, was relaunched in 2018 by brother and sister duo Oran Holtzman and Shiran Holtzman-Erel."
+    publishedDateTime: 2021-08-13T17:19:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/il-makiage-acquires-israeli-ai/"
     type: article
     provider:
-      name: Jewish Press
-      domain: jewishpress.com
-    quality: 37
-    images:
-      - url: "https://www.jewishpress.com/wp-content/uploads/Pixabay-Kaboompics.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "Mcd0/lbCJxHQ4LQjjZV/o6l8pk5pFM5pvBssM9AkrqQ9vvYeaYfonFCG+ngGMfqyjUzjFDSK3lX1LwpLEml+gOZ/5V5oZOtSOzOhdKGV3cPRmRXAnc5syIORjgSyis1tLyEYAu2oSBpCU2+hiExQKpmCl2CpOZ3XiSCnW17He69SK5fh8aatYfQlpqg/yV7fsdU1yQYMvIhNSpcynMTnYM0pn+Xg2sDXXKgH7Hj22dhaAgMJCgIQRNCU1N+W0Rfa2H7ShMUBYpbN2b+at61rZtiq0cqdOBbU1S9NovWtpzn8sauIz8S4DLLuWI7R4zdQuNUgZmSyyJmBZ4ITTmXsODwUA7MYbYM0IgorTRilRLo=;NWiRHvZCFBu9hiK/dDn5/w=="
 ---

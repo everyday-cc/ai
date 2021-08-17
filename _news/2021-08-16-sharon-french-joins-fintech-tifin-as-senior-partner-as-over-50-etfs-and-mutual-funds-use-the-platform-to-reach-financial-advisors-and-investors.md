@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sales fintech Seismic pushes valuation to $3 billion"
-    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
-    publishedDateTime: 2021-08-16T18:42:00Z
-    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
-    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+  - title: "How Is Data Science Used in Fintech?"
+    excerpt: "Financial technology, also known as Fintech, is witnessing explosive growth. Persistent innovation makes it an attractive investment option for venture capitalists. Fintech encompasses various technologies that focus on availing financial solutions to consumers."
+    publishedDateTime: 2021-08-16T17:35:00Z
+    webUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/"
+    ampWebUrl: "https://techbullion.com/how-is-data-science-used-in-fintech/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-is-data-science-used-in-fintech/amp/"
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 61
+      name: Impacts
+      domain: techbullion.com
+    quality: 44
     images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
-        width: 900
-        height: 600
+      - url: "https://techbullion.com/wp-content/uploads/2021/08/Data-Science-Fintech.jpg"
+        width: 700
+        height: 400
         isCached: true
-  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
-    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
-    publishedDateTime: 2021-08-13T19:36:00Z
-    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
+  - title: "FinTech: AI and the future of financial services"
+    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
+    publishedDateTime: 2021-08-17T09:23:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
     type: article
     provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 19
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
-        width: 1600
-        height: 1067
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nFZlKlHs6woTNLKmun73fbAbJY70l7UXAA9NxpIazC9d1FP20kOkgzqqLpZVb0kf5V6VijtD3qyoMpbJS9l0shDGi/5eBXtxXAdq4ckOL4FwKnuiGnI28d4RpyymOiPK5t7drXp95H2FdwlorPOcpKlSs/GCqL9NqOTdfasbKUekgP2fTY+SVU+CQylmSvAcbIcclpcavdlcPZKPmKU2nB3Y/kFnxTCnPlRUiD7caOJiKkse4CIfKqLQae7dYui+cI3QJ9lCTSvdg7DlQ7HES4Y7M2RlbubQHs24NVu/zyTE6ifRMFeRxege6fu0yjUG9cX4Ft7SDWyK2EH0Gr4zetmYFvIOzfnG5BtPWuxiBfWQkZnctOoQDhuvARcGqxiryxNGF0JW7SL76pKqeS/R//3fIS33PT+rBPCB4Gkra67Ll1TOrJV5+xtKyrmc3hw/r1iqHRYpbDNH5QbQ1UqPzhtMDjq1+SIJNj0wekH245y1fKWPhdBh9KKETMtZP+M71+mcBjZm0art1ATbMlm2hg==;WswxGcW7lRHKYDtaAP+LlA=="

@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-11-audi-unveils-the-skysphere-a-futuristic-sinister-looking-ev-roadster-concept-car-in-new-direction-for-automaker.md",
+      "title": "Audi unveils the Skysphere: A futuristic, sinister-looking EV roadster concept car in new direction for automaker",
+      "excerpt": "The roadster concept can change sizes based on driving modes and boasts a digital cockpit with a retractable steering wheel that can stow away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "originalUrl": "https://www.cnbc.com/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106924533-1628598021502Audi_skysphere_concept_PB21_16.jpg?v=1628598991",
+          "width": 1080,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/10/audi-skysphere-new-ev-concept-convertible-reveals-new-direction-for-automaker.html",
+      "publishedDateTime": "2021-08-11T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-11-sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot.md",
+      "title": "Sybil Is a Solar-Powered, TensorFlow Lite-Equipped Smart Gardening Robot",
+      "excerpt": "Building on an AWS DeepRacer prototype, the Sybil includes stereo cameras and a LiDAR sensor with mapping, planting, and weeding support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "originalUrl": "https://www.hackster.io/news/sybil-is-a-solar-powered-tensorflow-lite-equipped-smart-gardening-robot-87eac62a4467",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1334406/_LUAJFz5r9k.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-11T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-backlash-grows-against-decision-to-grant-patent-to-ai-system.md",
       "title": "Backlash grows against decision to grant patent to AI system",
       "excerpt": "A recently granted South African patent seems fairly mundane, but, he inventor is not a human being – it is an AI system named DABUS.",
@@ -1163,92 +1260,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-microsoft-introduces-ransomware-detection-to-ai-powered-azure-sentinel-management-tool.md",
-      "title": "Microsoft Introduces Ransomware Detection To AI-Powered Azure Sentinel Management Tool",
-      "excerpt": "Azure Sentinel is an AI-assisted tool that analyzes copious amounts of data to detect and investigate threats on-premises and in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "originalUrl": "https://hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/55949/content/microsoft-introduces-ransomware-detection-azure-sentinel.jpg",
-          "width": 708,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-introduces-ransomware-detection-azure-sentinel",
-      "publishedDateTime": "2021-08-10T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-11-zebra-concludes-fetch-robotics-acquisition.md",
-      "title": "Zebra Concludes Fetch Robotics Acquisition",
-      "excerpt": "Zebra Technologies announced Tuesday (Aug. 10) it has completed its acquisition of the cloud-driven autonomous mobile robot (AMR) startup Fetch Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/Zebra-Technologies-Fetch-Robotics-acquisition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/zebra-concludes-fetch-robotics-acquisition/amp/",
-      "publishedDateTime": "2021-08-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

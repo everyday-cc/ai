@@ -2,12 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-17-hopper-raises-170m-at-35b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns.md",
+      "title": "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns",
+      "excerpt": "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/",
+      "originalUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/",
+      "publishedDateTime": "2021-08-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-jumpstart-your-industrial-ai-strategy-with-these-three-use-cases.md",
+      "title": "Jumpstart Your Industrial AI Strategy With These Three Use Cases",
+      "excerpt": "The will to adopt AI is there; nobody still needs to hear the sales pitch. What is needed is guidance on just how and where to get started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8c063cc53c79155cb34c%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/jumpstart-your-industrial-ai-strategy-with-these-three-use-cases/amp/",
+      "publishedDateTime": "2021-08-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-explainer-western-states-face-first-federal-water-cuts.md",
       "title": "EXPLAINER: Western states face first federal water cuts",
       "excerpt": "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows.",
       "sourceUrl": null,
-      "webUrl": "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
-      "originalUrl": "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "webUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -24,13 +127,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
-      "cdnAmpWebUrl": "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
-      "publishedDateTime": "2021-08-17T00:48:00-07:00",
+      "ampWebUrl": "https://www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "cdnAmpWebUrl": "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php",
+      "publishedDateTime": "2021-08-17T03:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Connecticut Post",
-        "domain": "ctpost.com",
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -53,7 +156,7 @@
       "originalUrl": "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -140,6 +243,58 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
+      "title": "Knee replacement robot does custom implants",
+      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "originalUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
+          "width": 1559,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "publishedDateTime": "2021-08-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-microsoft-azure-government-top-secret-has-hit-general-availability.md",
       "title": "Microsoft Azure Government Top Secret has hit general availability",
       "excerpt": "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA.",
@@ -148,7 +303,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -295,50 +450,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
-      "title": "Sales fintech Seismic pushes valuation to $3 billion",
-      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "publishedDateTime": "2021-08-16T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -730,58 +841,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-robots-are-coming-for-the-lawyers-which-could-be-bad-for-attorneys-but-great-for-their-clients.md",
-      "title": "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients",
-      "excerpt": "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
-      "originalUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
       "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
       "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
@@ -790,7 +849,7 @@
       "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1022,7 +1081,7 @@
       "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1125,7 +1184,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1166,58 +1225,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
-      "title": "Samsung has its own AI-designed chip. Soon, others will too",
-      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-15T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

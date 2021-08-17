@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fed Look at Self-Driving Tesla Crashes with Emergency Vehicles"
+    excerpt: "The National Highway Safety Administration is investigating at least 11 incidents in which the cars collided with emergency vehicles that were already at the scene of an earlier accident."
+    publishedDateTime: 2021-08-16T21:30:00Z
+    webUrl: "https://www.firehouse.com/community-risk/community-risk-reduction/news/21234510/fed-look-at-selfdriving-tesla-crashes-with-emergency-vehicles"
+    type: article
+    provider:
+      name: Firehouse
+      domain: firehouse.com
+    quality: 39
+    images:
+      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2021/08/16x9/Tesla_Fire_Woodlands__TX__.611ad6dc4bde8.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
     publishedDateTime: 2021-08-16T21:08:00Z

@@ -75,6 +75,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Intel New Arc GPU: Can It Compete With AMD and Nvidia?"
+    excerpt: "Intel announced its entry into the graphic card market with its new Intel Arc GPU. These graphic cards will be competing directly with AMD and Nvidia, finally putting an end to this duopoly. The ARC brand will basically be the equivalent of AMD’s Radeon and Nvidia’s Geforce with multiple hardware generations."
+    publishedDateTime: 2021-08-17T11:10:00Z
+    webUrl: "https://fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/"
+    ampWebUrl: "https://fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/amp/"
+    cdnAmpWebUrl: "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/intel-new-arc-gpu-can-it-compete-amd-and-nvidia/amp/"
+    type: article
+    provider:
+      name: Foss Bytes
+      domain: fossbytes.com
+    quality: 59
+    images:
+      - url: "https://fossbytes.com/wp-content/uploads/2021/08/intel-arc-gpu.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel is getting into the dedicated GPU space with Intel Arc, launching early 2022"
     excerpt: "Intel has announced that the company will be entering the discrete graphics space, making dedicated GPUs for both desktops and laptops starting 2022."
     publishedDateTime: 2021-08-16T16:00:00Z

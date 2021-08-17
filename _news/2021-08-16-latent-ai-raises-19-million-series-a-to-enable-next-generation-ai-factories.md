@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
+    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
+    publishedDateTime: 2021-08-17T10:02:00Z
+    webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
     excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
     publishedDateTime: 2021-08-16T22:10:00Z

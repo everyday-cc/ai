@@ -2,6 +2,111 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-07-27-detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels.md",
+      "title": "Detect small shapes and objects within your images using Amazon Rekognition Custom Labels",
+      "excerpt": "There are multiple scenarios in which you may want to use computer vision to detect small objects or symbols within a given image. Whether it’s detecting company logos on grocery store shelves to manage inventory, detecting informative symbols on documents, or evaluating survey or quiz documents that",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-small-shapes-and-objects-within-your-images-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-27T09:10:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-27-deep-learning-qa-whats-coming-next-with-francois-chollet.md",
+      "title": "Deep Learning Q&A: What’s Coming Next With Francois Chollet",
+      "excerpt": "Francois Chollet needs no introduction for most of the artificial intelligence (AI) and m (ML) community. Besides being the creator of the deep-learning library Ker",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fb448024198515808ea197%2F0x0.jpg",
+          "width": 797,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/07/27/deep-learning-qa-whats-coming-next-with-francois-chollet/amp/",
+      "publishedDateTime": "2021-07-27T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-27-the-10-biggest-iot-news-stories-of-2021-so-far.md",
       "title": "The 10 Biggest IoT News Stories Of 2021 (So Far)",
       "excerpt": "Azure Percept works automatically with Azure AI, Azure Cognitive Services, Azure Machine Learning and Azure Live Video Analytics, and it’s integrated with Azure IoT services. Microsoft says that Percept can help customers use pre-built Azure AI models for object detection,",
@@ -1051,110 +1156,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-how-olympic-surfing-is-trying-to-ride-the-machine-learning-wave.md",
-      "title": "How Olympic Surfing Is Trying to Ride the Machine Learning Wave",
-      "excerpt": "As surfing completes its first-ever Olympic ride, the sport is poised for another sea change thanks to artificial intelligence and big data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "originalUrl": "https://www.wsj.com/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.wsj.net/video/20151201/120115surf/120115surf_512x288.jpg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/olympic-surfing-rides-the-machine-learning-wave-11627379213",
-      "publishedDateTime": "2021-07-27T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-the-journey-to-ai.md",
-      "title": "The Journey to AI",
-      "excerpt": "It's making waves across the business world, too. Companies are under pressure to transform how they operate, interact with partners, and engage with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/advertorial/the-journey-to-ai-australia/",
-      "originalUrl": "https://www.cnbc.com/advertorial/the-journey-to-ai-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2021/07/26/106916571-1627293538844-Screenshot_2021-07-26_at_105838.1910x1000.png",
-          "width": 1910,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

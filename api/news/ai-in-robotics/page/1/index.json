@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
+      "title": "Knee replacement robot does custom implants",
+      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "originalUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
+          "width": 1559,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "publishedDateTime": "2021-08-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
       "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
       "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
@@ -43,58 +95,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-robots-are-coming-for-the-lawyers-which-could-be-bad-for-attorneys-but-great-for-their-clients.md",
-      "title": "Robots are coming for the lawyers — which could be bad for attorneys but great for their clients",
-      "excerpt": "There's a bumper crop of tech startups jostling to automate various types of legal work, and the results could help save both time and money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
-      "originalUrl": "https://www.businessinsider.com/how-automation-could-reduce-cost-legal-services-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61169b0bc040ad0018ce358a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

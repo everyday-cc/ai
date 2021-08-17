@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-
 webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
         width: 650
         height: 379
+        isCached: true
+  - title: "Edible Arrangements grows business with Microsoft Azure"
+    excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
+    publishedDateTime: 2021-08-17T11:36:00Z
+    webUrl: "https://www.technologyrecord.com/Article/edible-arrangements-grows-business-with-microsoft-azure-125408"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10465/img-Edible-Arrangements_web.jpg"
+        width: 940
+        height: 443
         isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"

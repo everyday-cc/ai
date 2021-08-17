@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launc
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html"
 type: article
 quality: 55
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://cache.careers360.mobi/media/presets/860X430/article_images/2021/8/16/IIM-Ahmedabad.jpg"
         width: 860
         height: 430
+        isCached: true
+  - title: "DRUID AI and Service Centrix Form a Strategic Partnership"
+    excerpt: "DRUID AI and Service Centrix Form a Strategic Partnership  - DRUID virtual assistants may converse and activate activities with both attended and unsupervised robots to streamline"
+    publishedDateTime: 2021-08-17T10:48:00Z
+    webUrl: "https://www.cioreview.com/news/druid-ai-and-service-centrix-form-a-strategic-partnership-nid-34294-cid-255.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/g2yar.300.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "IIM Ahmedabad To Establish A Centre For Data Science And Artificial Intelligence"
     excerpt: "IIM, Ahmedabad, has announced the launch of the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)"

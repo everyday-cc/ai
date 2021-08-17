@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Robots Are Coming for the Lawyers but Might Also Be Their Rainmakers"
-    excerpt: "If partial automation means an overwhelmed lawyer now has time to take more clients’ cases or clients can now afford to hire a lawyer, everyone might be better off, law professors write."
-    publishedDateTime: 2021-08-12T17:09:00Z
-    webUrl: "https://www.law.com/dailyreportonline/2021/08/12/robots-are-coming-for-the-lawyers-but-might-also-be-their-rainmakers/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 54
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/404/2021/08/Tippett-Alexander-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
 
 secured: "+XZAWOZUuhEnrtWM4BFe/OktUUr1R01BIA9GBNfyvRzoBF2CTGCJqg213ImzPqbhVy6wRNfGKjHRYyUNV0hs/tyTlv2V7DnQ/ARGsf+5WMiRo21iD2mexk64+dMw5MMd5UVbRlAXtDdUYH0FiO4D44nhFJSJfpMDRd/e9UQWrGHxLfAIK9juqYoqa6BX6pIpHqcuJi9YSAM7V7KJ2YbjdEPNAuWXa3f89hEzN0ZC9tRs1nZYrvwOB/9iINzG22l3k2W9sbc+f0Uwm0XnxzYK2iQ5YSSVBmzx7qWk1b3egFhG0fCj+nT2NfOpk5TCIWhHn4c+NwPgxp5bpvWIbYPeSLrtEYUPAkfr2wgZQlcdY7DJXdvruQRo4Oj4yOUTwzmJQZktcIs7l2ElIAyc3ThGzOAMyJ8LrYBiiJwhEhHruBfnFTWDTHrp0jFDha/D8/mnBzyjFtVCSXVpmpbtr5GA/G7oS4mztpu8n8FNa7YqcgqgTfotdTkKm4z8och95PhJmYaMYzdwqiEbSfi8TDYIzQ==;n0xNiDoSW+r9EmexTIh8PA=="
 ---

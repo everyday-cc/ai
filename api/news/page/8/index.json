@@ -2,6 +2,94 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-08-09-worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarketscom.md",
+      "title": "Worldwide Medical Telepresence Robots Industry to 2028 – Featuring Amy Robotics, AXYN Robotics and Xandex Among Others – ResearchAndMarkets.com",
+      "excerpt": "The global medical telepresence robots market size is expected to reach USD 159.5 million by 2028. It is expected to expand at a CAGR of 18.5% from 2021 to 2028. Guangzhou Yingbo Intelligent Technology Co.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/worldwide-medical-telepresence-robots-industry-to-2028-featuring-amy-robotics-axyn-robotics-and-xandex-among-others-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
+      "title": "Eden AI launches platform to unify ML APIs",
+      "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/1_dcGpsGf0Z5Ckwtu0SS2CCQ.png?w=800&resize=800%2C371&strip=all",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "publishedDateTime": "2021-08-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-can-you-trust-the-solutions-that-ai-technologies-deliver-with-mathematical-optimization-you-can.md",
       "title": "Can You Trust The Solutions That AI Technologies Deliver? With Mathematical Optimization, You Can",
       "excerpt": "Numerous high-profile incidents have shone a spotlight on some of the inherent shortcomings and unintended biases of AI technologies, shaking our confidence in the accuracy of these solutions.",
@@ -1050,109 +1138,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-voice-ai-technology-is-more-advanced-than-you-might-think.md",
-      "title": "Voice AI Technology Is More Advanced Than You Might Think",
-      "excerpt": "The average person has yet to interact with the next generation of voice AI tools, but what this technology is capable of has the potential to change the world as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61103c5cfe089cdecf419c52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5158%26cropY1%3D262%26cropY2%3D3163",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/08/voice-ai-technology-is-more-advanced-than-you-might-think/amp/",
-      "publishedDateTime": "2021-08-08T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-08-ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out.md",
-      "title": "AI bias is prevalent but preventable — here’s how to root it out",
-      "excerpt": "A number of framework and toolkit resources are available to help you identify and mitigate bias in your AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
-      "originalUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/08/ai-bias-is-prevalent-but-preventable-heres-how-to-root-it-out/amp/",
-      "publishedDateTime": "2021-08-08T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

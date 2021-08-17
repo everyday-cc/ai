@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-des
 webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -100,6 +100,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/84e79ff7cb8a96e4a18d21518d83afd5_L.jpg"
         width: 620
         height: 432
+        isCached: true
+  - title: "Samsung to use AI to design its Exynos chips, others expected to follow"
+    excerpt: "Artificial Intelligence (AI) have become more powerful over the years. So much so that Samsung confirmed it will be relying on AI to design its upcoming Exynos chips. In a confirmation told to Wired,"
+    publishedDateTime: 2021-08-17T11:19:00Z
+    webUrl: "https://www.noypigeeks.com/tech-news/samsung-ai-design-exynos-chips/"
+    type: article
+    provider:
+      name: NoypiGeeks
+      domain: noypigeeks.com
+    quality: 54
+    images:
+      - url: "https://www.noypigeeks.com/wp-content/uploads/2020/10/Samsung-Exynos-NoypiGeeks-5293.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Samsung’s use of AI for chip design signals industry shift away from dominant suppliers"
     excerpt: "Using an AI approach in new software from Synopsys, a leading chip software design company, Samsung is creating complex chips, like the Exynos processor, which will run its smartphones, tablets, and PCs."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111d27936d1dc35c8cf31ea%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D3736%26cropY1%3D124%26cropY2%3D2210"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Hands-free farm is using AI, smart sensors and lettuce-picking robots"
+    excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
+    publishedDateTime: 2021-08-13T12:08:00Z
+    webUrl: "https://www.freshplaza.com/article/9344341/hands-free-farm-is-using-ai-smart-sensors-and-lettuce-picking-robots/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 54
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/13/Coco.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hands-free farm is using AI, smart sensors and lettuce-harvesting robots"
+    excerpt: "In Australia, innovators have just presented the country's first fully automated farm; it cost $20 million to set up. Conducted by researchers at Charles Sturt University in Wagga Wagga,"
+    publishedDateTime: 2021-08-16T15:32:00Z
+    webUrl: "https://www.freshplaza.com/article/9344341/hands-free-farm-is-using-ai-smart-sensors-and-lettuce-harvesting-robots/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 53
+    images:
+      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/FP_com/2021/08/13/Coco.jpg?preset=OgImage"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Re-inventing retail and the future of data driven AI"
     excerpt: "The new normal of e-commerce has shifted fast and has steered a new reality for consumers and retailers alike. In a recent report by McKinsey, we have vaulted ten years ahead in consumer and business digital penetration in less than three months."
