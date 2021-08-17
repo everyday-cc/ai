@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
+    excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
+    publishedDateTime: 2021-08-17T17:50:00Z
+    webUrl: "https://www.bloombergquint.com/china/ai-firm-sensetime-said-to-tap-hsbc-for-2-billion-hong-kong-ipo"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BYs7jFEGHusu3E7qTgCZYfp2SIrIM2NtmnY5rMZrpjeV5dW33ZqC0zPPFRfui4FSOUriy8Mjt35ypTzf/mLbTDmm/2kab7FiGnYL4OZ+VhwlJuGNWL2uE1F/5zjKd+fguE7jy1p7bT/DcTC+iS6vzAIIpH1gRjOaN2vtvuVQNtvBVr1lgsmC4OQ8MS5AWB2fZkdqLAMALY9AD2IV+PkyoG6x3mnKEaWd7NugPFRzIkFsIu0dyiKX1snEhH96BisrHaVdH4YG+fpQHH9lyjsxm1SZNbHJwmPge1fXTp6OsgPI7YmH5l2Wo148Rd3LBUbzQ+zw4sL02a7u1Vb/glLRfQXpsXVdksm0QcobnFLd2p6+1FXbA1iW2rHiiCg0Jmk+S68LbkCY1huqvEtj4TI0l+Zbn77eyACDRyaJT8KEWSo02Zr56jwkwZr1IKfudDaBTo229Mot5RVYixtj1TbnKDYlm8V/Lfw1J4JB4MkDygi9bcMW+fF+QBGeHgmFPRYtxfbn4AXF9ZtYKJIBptIW5g==;m6amaGu5g2BiaQpZ3F80vw=="
 ---

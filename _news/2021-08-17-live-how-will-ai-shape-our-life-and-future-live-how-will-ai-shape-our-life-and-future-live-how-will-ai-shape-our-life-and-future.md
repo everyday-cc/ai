@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-17T14:46:00Z
 originalUrl: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/index.html"
 webUrl: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/index.html"
 type: article
-quality: 5
-heat: 5
+quality: 7
+heat: 7
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://news.cgtn.com/news/2021-08-17/Live-How-will-AI-shape-our-life-and-future--12NUnudX3RC/img/78775740fe314289a8d82da1ea45d507/78775740fe314289a8d82da1ea45d507-1920.jpeg"
@@ -23,6 +24,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "w3XIhpg2pARyR1XjooVztJRAPLqyvg1j+WWVYyLIw9ykXki1YqpZRTt+dwlnuZ7ivHf908q6xT+vA0ABjE8qSl/Fvh1AhW6h7YlLTPYyNbtWDvQ+k+mpqbMbOykVCzOLq/7q6UlueaK4MHL1xWNpc3Rcjz8WWxBOrGFFD2m2W4LqCg5KUz95NTq0YYI8lNehxlBux1gZ8waIwIyC7bTPPM/8A+HAFNmUN8T+KMy+zIj1u+aA8Eh5gXul8FNTMiKUdFAGMIoU6GoP6e1MK2urE2nnSf4iiTdyzYFc4REYB7G8tbhPPBi7fA+yRieM1xt8gTlZPm9/DsILBImsoGcbt2Z6SvlpdBvzIDe0FZRyYm0=;h4r9mrwPmHp6C6ClIc2jWg=="
+secured: "8bQvjO78HwuPoL2heCa5wRHArTJkvDkfn08QCAsyF7Few4ebBGiEs05UXtvg2ZHIZNE3XO7oqzBSxe0nNaTsOH9nqbYkfdONcUy4jKoXERcrJvatlT0DyS/mwxMrggMvVgzw11G3Z257LnMMHXGBfEsQJhZ6n8nzVeEhWWWlTOHjo/5GW9kfdYbivLks1853cAyKwoe+TAxV5omXVlf4nU8MnvpLcdB9DDqgbS8AhO8i7l8KJNRLmfMf9qdKgOJXf2PyD5x1vLHMyY/3KVrNb6MfpafoqUOuOVGyB9fxzdx8zSUb63Tr/lj+iHNprGJGpP3TYHmlPUtYkOPYrxf986a74Ef4nqouToHZEvAiN1RNNsj6yxQnPJMgN9DzultNhqRxhVmE7x6PUDQrcw/fn3m30av6pPdPNcUq5P0IRgggN0oIN6VJLNCqOy9GzWZJXfLCO8TfTJfq20Nc6nCHmhFmVYDGuA5WwON9Y8fVnVxoNNxQjVUWzKx+pxr+/RveeVSak0MZqsno+SUhKCR5XQ==;ZQrsVxBcwc6ccX7RuV92MA=="
 ---
 

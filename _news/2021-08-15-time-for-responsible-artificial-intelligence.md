@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/time-for-responsible-artif
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Hans India
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "CCM Best Practices Survey Results – AI Users vs. Non-AI Users"
+    excerpt: "Macrosoft conducted a Customer Communications Management CCM best practices survey 584 people participated in the 21 question on line survey We believe this question is not only a bell weather of companies that are or are not on the leading"
+    publishedDateTime: 2021-08-17T15:03:00Z
+    webUrl: "https://www.openpr.com/news/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    ampWebUrl: "https://www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/8/U817555542_g.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "RAISO Student Group Explores the Responsibility and Safety of AI"
     excerpt: "RAISO was co-founded by Northwestern undergraduates Mason Secky-Koebel and Bijal Mehta, who set out to create a community of people interested in ethics and AI. The two met in 2020 at a meeting of the TREE lab, a research initiative at Northwestern that ..."
     publishedDateTime: 2021-08-14T09:36:00Z

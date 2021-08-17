@@ -2,6 +2,207 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-07-02-artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Latest Industry Trends, Industry Size, Key Drivers and Future Demand Forecast",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-latest-industry-trends-industry-size-key-drivers-and-future-demand-forecast-2021-07-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025.md",
+      "title": "Global Artificial Intelligence Market Size, Share to Be Appraised at USD 4417.8 million By 2025",
+      "excerpt": "Selbyville, Delaware. The report Artificial Intelligence Market Size and Analysis maintains enhanced dynamics and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-size-share-to-be-appraised-at-usd-44178-million-by-2025-2021-07-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-five-smart-marketing-use-cases-for-artificial-intelligence.md",
+      "title": "Five Smart Marketing Use Cases For Artificial Intelligence",
+      "excerpt": "Artificial Intelligence (AI) is transforming marketing. Here we look at the different ways companies of any size, and with any budget, can make use of this technology to improve marketing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/07/02/five-smart-marketing-use-cases-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60de92ae206792710c446fdb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-02-how-the-wsjs-events-business-has-thrived.md",
+      "title": "How the WSJ’s events business has thrived",
+      "excerpt": "Jacob Granger of Journalism.co.uk explores how The Wall Street Journal’s events business thrived during the pandemic. Granger writes, “The Wall Street Journal (WSJ) has been setting up virtual events throughout the pandemic to bolster its",
+      "sourceUrl": null,
+      "webUrl": "https://www.movemeback.com/events/the-wall-street-journal-future-of-everything-festival-the-future-of-everything-festival/",
+      "originalUrl": "https://talkingbiznews.com/they-talk-biz-news/how-the-wsjs-events-business-has-thrived/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.movemeback.com/media/thumbnails/images/the-wall-street-journal-future-of-everything-festival-the-future-of-everything-festival-event-cover-20210415-10320999/a83d2a433cf19484038e688f96376be7.jpg",
+          "width": 800,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-01T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Talking Biz News",
+        "domain": "talkingbiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-02-india-covid-19-ai-shows-pakistani-twitter-prayed-for-neighbour.md",
       "title": "India Covid-19: AI shows Pakistani Twitter prayed for neighbour",
       "excerpt": "But an artificial intelligence (AI)-driven study which looked at thousands of tweets from Pakistan posted between 21 April and 4 May says an overwhelming number were indeed positive. Researchers, led by Ashiqur KhudaBukhsh of Carnegie Mellon University (CMU) in the US,",
@@ -997,178 +1198,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-zebra-technologies-to-acquire-fetch-robotics.md",
-      "title": "Zebra Technologies to Acquire Fetch Robotics",
-      "excerpt": "Zebra Technologies (NASDAQ: ZBRA), an innovator at the front line of business with solutions and partners that deliver a performance edge, today announced it intends to acquire Fetch Robotics, a pioneer in on-demand automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/m-a/21/07/21806822/zebra-tech-to-acquire-fetch-robotics-for-290m",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-zebra-technologies-acquire-fetch-robotics-/2021/07/01/9401780.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/abtech_871.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/21806822",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/21806822",
-      "publishedDateTime": "2021-07-01T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-food-supply-chain-tyson-foods-invests-in-ai-robotics.md",
-      "title": "Food Supply Chain: Tyson Foods Invests in AI Robotics",
-      "excerpt": "Tyson Foods - among others - invests in Soft Robotics Series B extension, expanding the use of AI, robotics and automation in the food supply chain",
-      "sourceUrl": null,
-      "webUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "originalUrl": "https://manufacturingglobal.com/ai-and-automation/food-supply-chain-tyson-foods-invests-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manufacturingglobal.com/sites/default/files/styles/ma/public/image/maxresdefault%20%282%29_0.jpg?itok=1Dv22rGS",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manufacturingglobal.com",
-        "domain": "manufacturingglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-alluxio-brings-substantial-performance-and-ease-of-use-improvements-to-gpu-centric-aiml-workloads-with-v26-release.md",
-      "title": "Alluxio Brings Substantial Performance and Ease of Use Improvements to GPU-Centric AI/ML Workloads with v2.6 Release",
-      "excerpt": "This new release features an enhanced system architecture enabling AI/ML platform teams using GPUs to accelerate their data pipelines for business intelligence, applied machine learning and model training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/01/9401759.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-01T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-01-marchex-co-founders-latest-startup-uses-artificial-intelligence-to-rethink-and-improve-meetings.md",
-      "title": "Marchex co-founder’s latest startup uses artificial intelligence to rethink and improve meetings",
-      "excerpt": "Nobody really likes work meetings. Pete Christothoulou thinks they're such a problem that he's launching a new startup to rethink the whole endeavor. Christothoulou, the former founder and CEO",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
-      "originalUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/Pete_Chrisothoulou-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/marchex-co-founders-latest-startup-uses-artificial-intelligence-rethink-improve-meetings/amp/",
-      "publishedDateTime": "2021-07-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

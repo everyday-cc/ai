@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-17T15:30:00Z
 originalUrl: "https://www.analyticsinsight.net/top-companies-using-machine-learning-in-a-profitable-way/"
 webUrl: "https://www.analyticsinsight.net/top-companies-using-machine-learning-in-a-profitable-way/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-Companies-Using-Machine-Learning-in-a-Profitable-Way.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "hUz9/djzkHVcJE4Vdg+Wg/Hzyw9Wbv4JVW+5ah4Y5qwcYBitnu8uRmCEXtXap2nM51OHAcyJJremtRqt9GFI7TWN/BtyhKWSy+VmjegRBhyKhhIPfUxgE1uYyXCUQOcNdcvlJ5wSP00frsVUJnShgxOcFLbTE/1gD9XwPWqzWte0RiZd+Kae+9P7Tu0dgOTY6bx3wwGY5tHucV5PQXtb7r1YhG8DwFcYyq+MO1PpMKDv9gLtVNCxYOoPrnKDRMOE//sRER5wZ7zRfLhrndSEy9Rmsq8DCyVK6sC5GnKVgAf1s2k4vuybeVLRgRN4GoRC38uT8ruiNIDbViTq2ANPrhatpYLbVR5OErFLIVaQJk8=;J6RcAEBYn23tJDLZzq6sfA=="
+secured: "T+ewIO/N2X+rQVsvvXvwKu++SehaTvs8/aoiZjkGeQrk86WtaVTxKtVjPsIX4FPqcTmQIwM06qlFiuhWkMWv3ACQ1HB7+JhGAOzcQvyYfL2Oz2OsPfZPJrVdp0vHW7Hl4VForcAG1tgb4xHY8nBVr2w8GM7N1ERYag+vr0fqlQoBweD6not66PQRW0uMf7XcVky1B5/oFDwbqbR4yEam0G+1LdWN8FmjI80PsCUQcMlsQMDKyKi0Z2CzMuCsGpiotCurAnDSo8uou59bgJESgqQjO56QDjhnaiKWrJduaaT5ozFDESWlL1rpyDVqwbYMsFVS9lcEhGSpdtCa2VvPtGFgXHfVrMjGzw299dhwFO4yiokQ2+jEggXHej6S7l8sn0zCtYeKFM8tyyxolfBo7WC1+EaFLk3r1Y4MZol62Al1AiHP1vMmf3ScBfh3/lZLI6ZJfSfq4IMFS/00wWx8CuME6uG/aXufbMrM86FuIIRLsJHK4uhxiRH6BjdDqRyjVF9j5XLoCXmfMb+N3zDPdA==;wDpJd9Ec88Xuj4ErAZWkKQ=="
 ---
 

@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-17-ai-communication-startup-drips-grows-healthcare-presence.md",
+      "title": "AI Communication Startup Drips Grows Healthcare Presence",
+      "excerpt": "Drips, a conversational communications startup, is growing its presence in the healthcare industry by forming strategic partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/AI-Drip-healthcare-texting-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/",
+      "publishedDateTime": "2021-08-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027.md",
+      "title": "Artificial Intelligence Diagnostics Market Demand on the Rise as Governments Worldwide Continue to 2027",
+      "excerpt": "A new research report from the document repository of ResearchMoz offers detailed study of the Global Artificial Intelligence Diagnostics Market. The study presented in the report intends to help companies in the development or modification of their business expansion strategies using important information pertaining to the global Artificial Intelligence Diagnostics market.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/hgd8dJh/Researchmoz-us-378.jpg",
+          "width": 632,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027/",
+      "publishedDateTime": "2021-08-12T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-08-11-can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer.md",
       "title": "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?",
       "excerpt": "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer.",
@@ -1285,93 +1371,6 @@
         "AI",
         "AI in Healthcare",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-28-ai-the-new-teachers-pet.md",
-      "title": "AI: The New Teacher's Pet",
-      "excerpt": "artificial intelligence. Today’s Daily Dose takes you through the exciting new ways technology is set to mold education in the years to come. We look at how it can ease stress, save time and put ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ozy.com/%25section%25/ai-the-new-teachers-pet/437881/",
-      "originalUrl": "https://www.ozy.com/%25section%25/ai-the-new-teachers-pet/437881/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.ozy.com/ozy-prod/2021/07/gettyimages-1255011442-copy.jpg?width=1200&height=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-27T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OZY",
-        "domain": "ozy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-ai-in-healthcare-market-is-booming-worldwide-with-google-ibm-microsoft-sentrian.md",
-      "title": "AI in Healthcare Market Is Booming Worldwide with Google, IBM, Microsoft, Sentrian",
-      "excerpt": "The Global AI in Healthcare Market has witnessed continuous growth in the past few years and may grow further during the forecast period 2021 2026 A Latest intelligence report published by AMA Research with title AI in Healthcare Market Outlook",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "originalUrl": "https://www.openpr.com/news/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U727806452_g.jpg",
-          "width": 800,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2338927/ai-in-healthcare-market-is-booming-worldwide-with-google-ibm",
-      "publishedDateTime": "2021-07-27T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CCM Best Practices Survey Results – AI Users vs. Non-AI Users"
+    excerpt: "Macrosoft conducted a Customer Communications Management CCM best practices survey 584 people participated in the 21 question on line survey We believe this question is not only a bell weather of companies that are or are not on the leading"
+    publishedDateTime: 2021-08-17T15:03:00Z
+    webUrl: "https://www.openpr.com/news/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    ampWebUrl: "https://www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357959/ccm-best-practices-survey-results-ai-users-vs-non-ai-users"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/8/U817555542_g.jpg"
+        width: 800
+        height: 420
+        isCached: true
 
 secured: "ZZE6iOq455jng6m/uM6c35vtF+DF76tq41pxOkI0i7+2djn/FZUY2u2SxnaWJBEd49xmQQ9AgWVG4qC696blYwL8RyADTRAdV7233cIVgi0tBtuA8ZHzg/q8Y2aO+BQgdRiKqC/lEAJWG5gaxCMVzqkzF8jyxKX2FgeYUxBmMfxvszjGo5wGJgTcUhGIe35gqSUumyUEafHlmWesIOqNjJygCceV9iLgdFO3ipOb706F3W8mX/99ph1NBSnoJRkV4/gj3bn26eXQECie9HONgDnitu1AIwd3M1j2vYQ7v9zn9DRbxdJg3+oVzYBBNlsqjC8kpphgzhr8EXyTBWhbxir+hTxGgc1Y1CukcyiIvlY=;jmvKN1U4MUmJJm0ixLROpg=="
 ---

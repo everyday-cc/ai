@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-th
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: PC Gamer
@@ -41,21 +41,7 @@ related:
         width: 1400
         height: 899
         isCached: true
-  - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
-    excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."
-    publishedDateTime: 2021-08-17T14:37:00Z
-    webUrl: "https://www.techjuice.pk/intel-introduces-a-new-pc-gaming-gpu-called-intel-arc-set-to-rival-nvidia/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 37
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "1MD9sApPU+bdgc9nDE9CprS6EXtPvGL8MaNuklthKv3aFz9PDuWElrSY+kDu3zC7d0g9B/BCElOzJfH5z6qZLfXw8LVrUHmWGEy224gtU24PWauUXHXvC9tTdpMUe3PhRIJ3ghn79i2elYppGrc2eAbgwYBTI5hI75b7DfaOX2g+siMlpM5HhZ6KwPgUdc5SIaGJoj7RJr3mvgbZZQLS9sr+5wd5lLHRm+LnRsJQ4hVwGAfGzXbfBTSV1VJss7XzDw7qUF9VFULoC8CPykswWBoy3QT+55ucql/xaRVL5Hhq+xhfn6T+gnAuF14DIGdsxzTsdauxNbnE4Nszxk/hMxYAJyUIYbANYpod8XGHxG4=;XcRthkN9tTCrGXnHAoeOEA=="
+secured: "yA4YSgNYK835HB2HM4ywlCg+gT6hF400c81FFTRFRebuCZ1Fkqs2GgzTFdNJS1vM6OOnTuMiUIaWKppln667jvMTcEYXDRcNLto/F/yw4HDSX3UHuq5XYPDjyk0K41qloos0ms4pZUF2+SLpQvgbQD32i0flaDrXDpc73GkjBGxBHCRGgCgL4bZ+VzL5KVWeDxOa4a5J1s59ayZxGFB03D373c3Efr9uc515PgSASyuxSOjCj3+l3wISZ7m/UITSDrmtHP5Y3owqMUrJhsQLtcyBI3uFcOgWQE+UAMqjnpHowAwQbiikezowZNGruWZ/t4KWplO2zDPlv94+Drh7ATOZ1tLCaeD5HFKILQ7uMxJINMw7AtkdzD1XsvsdoK6E+suLxiywmFaPe84f0mZ5QG/GbmRx7daZQINH//+6yCDyEEjpA6qj7qGkhmVojEo4DwbN0YuWjTTeqKt3IOBGXbmrO/CKQmYs0lsjr4IKFqlZX8eAsvb2l6Pi/5Nps2UJqOBG56LriGcMfk6toRo8Yg==;oXst+bK0HdmeZE0aBTvu7w=="
 ---
 

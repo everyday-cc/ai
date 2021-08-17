@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week.md",
+      "title": "Intel teases reveal of Arc's AI-powered DLSS Super Sampling alternative this week",
+      "excerpt": "Intel appears ready to announce its new AI-powered super sampling GPU technology later this week in a direct challenge to Nvidia's DLSS dominance in the PC gaming market. Anton Kaplanyan, Intel's VP of Graphics Research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "originalUrl": "https://www.techradar.com/nz/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Zz5WnbkRM7bZ9mGtE7sGZG-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/intel-teases-reveal-of-arcs-ai-powered-dlss-super-sampling-alternative-this-week",
+      "publishedDateTime": "2021-08-17T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-closedloopai-nets-34m-in-series-b-funding-round.md",
+      "title": "ClosedLoop.ai Nets $34M In Series B Funding Round",
+      "excerpt": "ClosedLoop.ai., a healthcare platform powered by artificial intelligence, on Tuesday (Aug. 17) announced it has raised $34 million in Series B funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/healthcare-telehealth-5G-JPMorgan-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/",
+      "publishedDateTime": "2021-08-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-use-block-kit-when-integrating-amazon-lex-bots-with-slack.md",
       "title": "Use Block Kit when integrating Amazon Lex bots with Slack",
       "excerpt": "If you’re integrating your Amazon Lex chatbots with Slack, chances are you’ll come across Block Kit. Block Kit is a UI framework for Slack apps. Like response cards, Block Kit can help simplify interactions with your users. It offers flexibility to format your bot messages with blocks, buttons, check",
@@ -54,49 +148,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-17-nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off.md",
-      "title": "Nvidia's old 16-series GPU outperforms the RTX 3050 in a budget gaming laptop face off",
-      "excerpt": "According to their testing, the Dell Inspiron 16 Plus with an RTX 3050 was outperformed by the Razer Blade 15 laptop spring a GTX 1660 Ti by nearly 11% in games like Assassin's Creed Valhalla and F1 2020 at 720p and 1080p at light and medium graphics settings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
-      "originalUrl": "https://www.pcgamer.com/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/oEdBKicgKc73LBnqiBqxhe-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
-      "publishedDateTime": "2021-08-17T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-sao-paulo.md",
       "title": "Wipro unveils Wipro AWS Launch Pad co-innovation center in São Paulo",
       "excerpt": "Wipro Limited on Tuesday, August 17, 2021, unveiled the Wipro AWS Launch Pad co-innovation center in São Paulo.",
@@ -136,6 +187,101 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-ai-communication-startup-drips-grows-healthcare-presence.md",
+      "title": "AI Communication Startup Drips Grows Healthcare Presence",
+      "excerpt": "Drips, a conversational communications startup, is growing its presence in the healthcare industry by forming strategic partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/AI-Drip-healthcare-texting-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/ai-communication-startup-drips-grows-healthcare-presence/amp/",
+      "publishedDateTime": "2021-08-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
+      "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
+      "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "originalUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/052hBCATljbIqp6NzJgBv1a-1.1629047764.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media?amp=true",
+      "publishedDateTime": "2021-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -253,7 +399,7 @@
       "originalUrl": "https://www.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -811,7 +957,7 @@
       "originalUrl": "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1105,137 +1251,6 @@
         "Microsoft AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
-      "title": "Sales fintech Seismic pushes valuation to $3 billion",
-      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
-      "publishedDateTime": "2021-08-16T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestmentNews",
-        "domain": "investmentnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
-      "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
-      "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/plane_view_290_242.jpg",
-          "width": 290,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-17-ai-regulation-is-coming.md",
-      "title": "AI Regulation Is Coming",
-      "excerpt": "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
-      "originalUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/09/ai-regulation-is-coming",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming",
-      "publishedDateTime": "2021-08-16T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

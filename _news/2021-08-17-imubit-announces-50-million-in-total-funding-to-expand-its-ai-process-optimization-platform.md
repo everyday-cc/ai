@@ -32,20 +32,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
-    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:01:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_27d87c7e-7a01-582c-a550-2ef6167868d1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/95/f953e9d5-1a21-5bdd-b443-02a75559d04f/611b8938cd137.image.jpg?resize=878%2C630"
-        width: 878
-        height: 630
-        isCached: true
 
 secured: "e4rncmoK/GpjwWhj4kj2Ii+b1sXsSyb3oldu3aiMx0R1nTr3sN2qOW4JXremEYvnNNl+955NdYv91H6prs4ZfMRcTzGDwHb3LVbJWs49Rb0wi/cbsrOKep9MXHbjqQvxI2c9GjVPEdLE5uCkVeij+u/r1X6Kkfp/XIBa2LqTgC/4TpiznaRsdFSnk1dp4ydQq6qF21GTRsTtFw+JM/SqZc0iAq6q1Hh2dU+0y05LF2346YnxCpXuoh61SApSLZ9O6R7sF480SMywJGJ5rDqOg1xJF6aPe4zCRDSA0CeM4h1Why5cBGi8S0gj5T+CObCZEAGu4RgSLXQkc/vXUWKOIsvcNcVWxOIDQ1y7uGfBwjU=;2XvWU2776jXhjk+ASul5jA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Solve your toughest business problems with AI and machine learning "
+    excerpt: "Today, AI and machine learning are enabling data-driven organizations to accelerate their journey to insights and decisions. With all the latest advancements, AI is no longer limited to only those with deep expertise or a cache of data scientists, and many organizations can now adopt AI and machine learning"
+    publishedDateTime: 2021-08-17T10:00:12Z
+    webUrl: "https://azure.microsoft.com/blog/solve-your-toughest-business-problems-with-ai-and-machine-learning/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 86
   - title: "Abacus.AI debuts industry-first platform for building, training and running deep learning models"
     excerpt: "Abacus.AI debuts industry-first platform for building, training and running deep learning models - SiliconANGLE"
     publishedDateTime: 2021-08-13T16:14:00Z

@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-14-this-machine-learning-tool-can-translate-english-sentences-into-computer-code.md",
+      "title": "This Machine Learning Tool Can Translate English Sentences Into Computer Code",
+      "excerpt": "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "originalUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
+      "publishedDateTime": "2021-08-14T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
+      "excerpt": "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "originalUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
+      "publishedDateTime": "2021-08-14T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-union-bank-awarri-unveil-next-robotics-legend-programme.md",
+      "title": "Union Bank, Awarri unveil Next Robotics Legend programme",
+      "excerpt": "Union Bank has announced the call for entries into the 2021 Next Robotics Legend programme, as part of initiatives under its Edu360 umbrella. Introduced in 2020, the programme was designed to identify and train young inventors in Artificial Intelligence (AI) and Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
+      "originalUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialwatchngr.com/wp-content/uploads/2016/07/union-bank-logo.jpg",
+          "width": 499,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
+      "cdnAmpWebUrl": "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
+      "publishedDateTime": "2021-08-13T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FINANCIAL WATCH NIGERIA",
+        "domain": "financialwatchngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-upstart-can-ai-kill-the-fico-score.md",
+      "title": "Upstart: Can AI Kill The FICO Score?",
+      "excerpt": "As for Upstart, Girouard’s main focus is to upend the banking industry’s reliance on the FICO score. “The Upstart system uses AI and machine learning models with 1,600 data points and 15 billion cells of data to improve accuracy in terms of identifying and measuring credit risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116ae4c125ed5b5f6bfa860%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
+      "publishedDateTime": "2021-08-13T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-ai-weekly-the-road-to-ethical-adoption-of-ai.md",
       "title": "AI Weekly: The road to ethical adoption of AI",
       "excerpt": "Adopting AI responsibly isn't easy. Challenges stand in the way -- but they can be overcome with careful design considerations.",
@@ -875,7 +1066,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1024,195 +1216,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-the-mark-cuban-foundation-selects-birmingham-as-host-city-for-bootcamp.md",
-      "title": "The Mark Cuban Foundation selects Birmingham as host city for bootcamp",
-      "excerpt": "The Mark Cuban Foundation, founded by entrepreneur Mark Cuban, has selected Birmingham as one of the host cities for its AI bootcamp for high school students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.markcubanai.org/",
-      "originalUrl": "https://www.bizjournals.com/birmingham/news/2021/08/12/mark-cuban-bootcamp-birmingham.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads-ssl.webflow.com/5f8f6761b7adb5b052dfa1c2/5f984232a40bd3d1d86c4295_AI%20Bootcamp%20Open%20Graph.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-one-of-the-first-hands-free-farms-is-using-ai-smart-sensors-and-lettuce-picking-robots.md",
-      "title": "One of the first 'hands-free' farms is using AI, smart sensors, and lettuce-picking robots",
-      "excerpt": "The future of farming has arrived in Australia with a fully automated, hands-free farm that produces food with AI, fruit-picking robots, and drones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "originalUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/611561dd3dd01000199d6892?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/farming-agriculture-robotics-artificial-intelligence-smart-innovation-automation-food-production-2021-8?amp",
-      "publishedDateTime": "2021-08-12T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-facial-recognition-ai-helps-save-multibillion-dollar-grape-crop.md",
-      "title": "Facial recognition AI helps save multibillion dollar grape crop",
-      "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they've developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html",
-      "originalUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-ai.jpg",
-          "width": 670,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp",
-      "publishedDateTime": "2021-08-12T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-why-machine-learning-models-fail.md",
-      "title": "Why machine learning models fail",
-      "excerpt": "Machine learning and data science are important tools in the tech industry. However, if they are used improperly, they may create more problems than they solve.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "originalUrl": "https://sdtimes.com/ai/why-machine-learning-models-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2021/08/8-11-machine-learning-fail.jpeg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
-    excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:01:00Z
-    webUrl: "https://www.wfmz.com/news/ap/ap-business/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_27d87c7e-7a01-582c-a550-2ef6167868d1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/95/f953e9d5-1a21-5bdd-b443-02a75559d04f/611b8938cd137.image.jpg?resize=878%2C630"
-        width: 878
-        height: 630
-        isCached: true
   - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"
     excerpt: "Imubit, the leader of artificial intelligence (AI) process optimization for refiners and chemical operators, has raised $50 million to bring its Closed-Loop Neural Networks to every process manufacturing plant around the globe."
     publishedDateTime: 2021-08-16T22:10:00Z

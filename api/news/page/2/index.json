@@ -2,6 +2,137 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
+      "title": "Sales fintech Seismic pushes valuation to $3 billion",
+      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "publishedDateTime": "2021-08-16T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestmentNews",
+        "domain": "investmentnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
+      "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
+      "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
+      "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/06/plane_view_290_242.jpg",
+          "width": 290,
+          "height": 242,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/amp/",
+      "publishedDateTime": "2021-08-16T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-ai-regulation-is-coming.md",
+      "title": "AI Regulation Is Coming",
+      "excerpt": "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
+      "originalUrl": "https://hbr.org/2021/09/ai-regulation-is-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/09/ai-regulation-is-coming",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming",
+      "publishedDateTime": "2021-08-16T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker.md",
       "title": "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker",
       "excerpt": "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases.",
@@ -10,7 +141,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -878,7 +1009,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -974,6 +1105,48 @@
       ]
     },
     {
+      "path": "_news/2021-08-15-time-for-responsible-artificial-intelligence.md",
+      "title": "Time for responsible Artificial Intelligence",
+      "excerpt": "Amazon, in 2018, closed down an AI-based recruiting tool after the e-commerce major figured the tool was biased against women",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/business/time-for-responsible-artificial-intelligence-701630",
+      "originalUrl": "https://www.thehansindia.com/business/time-for-responsible-artificial-intelligence-701630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/08/14/1102015-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630",
+      "publishedDateTime": "2021-08-14T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-14-brain-computer-interfaces-are-making-big-progress-this-year.md",
       "title": "Brain-computer interfaces are making big progress this year",
       "excerpt": "Eight months in, 2021 has already become a record year in brain-computer interface (BCI) funding, tripling the $97 million raised in 2019.",
@@ -1022,197 +1195,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-this-machine-learning-tool-can-translate-english-sentences-into-computer-code.md",
-      "title": "This Machine Learning Tool Can Translate English Sentences Into Computer Code",
-      "excerpt": "OpenAI resarchers have developed a unique machine learning tool that can seamlessly translate the English language into computer codes.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
-      "originalUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2021/08/OpenAI-Researchers-Develops-a-Tool-To-Translate-English-Sentences-Into-Codes-feat..jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/this-machine-learning-tool-translates-english-sentences-to-computer-code/amp/",
-      "publishedDateTime": "2021-08-14T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-3-top-artificial-intelligence-stocks-to-buy-in-august.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in August",
-      "excerpt": "There are a handful of companies bringing artificial intelligence to the party and changing the game as a result. There's no one way to use AI -- these companies are using it to make lending decisions and power chat bots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "originalUrl": "https://www.fool.com/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F638439%2Fgettyimages-1269346543.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/",
-      "publishedDateTime": "2021-08-14T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-union-bank-awarri-unveil-next-robotics-legend-programme.md",
-      "title": "Union Bank, Awarri unveil Next Robotics Legend programme",
-      "excerpt": "Union Bank has announced the call for entries into the 2021 Next Robotics Legend programme, as part of initiatives under its Edu360 umbrella. Introduced in 2020, the programme was designed to identify and train young inventors in Artificial Intelligence (AI) and Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
-      "originalUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialwatchngr.com/wp-content/uploads/2016/07/union-bank-logo.jpg",
-          "width": 499,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
-      "cdnAmpWebUrl": "https://www-financialwatchngr-com.cdn.ampproject.org/c/s/www.financialwatchngr.com/2021/08/14/union-bank-awarri-unveil-next-robotics-legend-programme/amp/",
-      "publishedDateTime": "2021-08-13T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FINANCIAL WATCH NIGERIA",
-        "domain": "financialwatchngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-upstart-can-ai-kill-the-fico-score.md",
-      "title": "Upstart: Can AI Kill The FICO Score?",
-      "excerpt": "As for Upstart, Girouard’s main focus is to upend the banking industry’s reliance on the FICO score. “The Upstart system uses AI and machine learning models with 1,600 data points and 15 billion cells of data to improve accuracy in terms of identifying and measuring credit risks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6116ae4c125ed5b5f6bfa860%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/08/13/upstart-can-ai-kill-the-fico-score/amp/",
-      "publishedDateTime": "2021-08-13T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

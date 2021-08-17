@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chines
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -44,7 +44,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI Firm SenseTime Said to Tap HSBC For $2 Billion Hong Kong IPO"
+    excerpt: "SenseTime Group Ltd., China’s largest artificial intelligence company, is working with HSBC Holdings Plc to arrange its planned Hong Kong initial public offering that could raise at least $2 billion,"
+    publishedDateTime: 2021-08-17T17:50:00Z
+    webUrl: "https://www.bloombergquint.com/china/ai-firm-sensetime-said-to-tap-hsbc-for-2-billion-hong-kong-ipo"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "PrccMHCHEj5vdf1hoDXYSFZpQwurg9SznBjNwojBL3dgGm27gWc1bf4tn8dj03U5LKwO8QcsNKHnDl6yyItyf2DZdtSp3TrZ2R1Xz/C7MC54w3qsF9x6lhb6HXSIZtihhAR97QcsA+X0v6asbFE+09ZdL2IEhDTW7vj1+TkDLYOa2mInuFonqPgOHAGzz/PWLxcTdPQWddUe9JrMPMh6uIOY/7QWbFqmevGg0YvjHmrVjt4/C0B9tQWt7nMZFa+W8cfiv2itdr6orjzo85p6Py4vn+yqWEOYv07lPjho+OuO2+jaaIU9nLNixQ50lOXMIeYCQ0fczSiqvA1FJ9s3i0VMa/ACw3CxSxC8Cwne+VE=;nw1Gbck0JNK4ySyJfts7Dg=="
+secured: "gMWLanJbjA6J+qUGnHlWjlFWa44XJusZ44gFblB/TrrFkjYH5FyObSc+THHwNZQG+Kc71KCestmEY9r0Ht2rKnDv9vmKqHGXUbWD7ZGWgNoGhmjC3Ha37P8ezXpWW6/Y9PWWsdElhZTcygIwAxNmUqgThWuNO2a/Me8lFvicP2Ykc5Oy1YGk+4i8+vjDp9LvXTgSOyZ0X5VlseN9cgnQXQX3hwA2OG86v8DhX0SVraX+USX3bMwJqXfU5cdgJUmMd4IdulAgweX/+ajaO2mbFCTDLJ1aAlRiGSj2rv7tlIDL3MaRBB3D/eds21NYgpiBcGznCIqlHCd0wmDAqhymMYTTGoO/EXfAJ9dfovbx62ihRBWh+zO7XENvE/y2o5fL3vzkZMPN4mAmBm57jmYEjaLOyu4xhLLlFfIhi3KYRQDWuc5+bnuD4bHb1O53cdGH/CN4UuPIxcc4Ujl0V5d0V8fvvvkqoP7OHOT5/3YjAfeKsRff8vrQ1toELp1lfUsKzhgSHUeiBAVHSAgnz45jHg==;SHt6H56cemIVYGu+j9WBNw=="
 ---
 

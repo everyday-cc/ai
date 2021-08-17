@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-17-this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media.md",
+      "title": "This App Urges Gen Z to Talk It Out Privately, Not Overshare on Social Media",
+      "excerpt": "Mental health apps abound, but with evrmore, the idea is to receive support from the app's cocktail of AI, machine learning, and natural language processing rather than the dopamine drip of social media validation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "originalUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/052hBCATljbIqp6NzJgBv1a-1.1629047764.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-app-urges-gen-z-to-talk-it-out-privately-not-overshare-on-social-media?amp=true",
+      "publishedDateTime": "2021-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-what-to-expect-from-openais-codex-api.md",
       "title": "What to expect from OpenAI’s Codex API",
       "excerpt": "The Codex demo puts the advantages of large language models on display, showing an impressive capacity to resolve references and write code.",
@@ -1026,10 +1078,10 @@
     {
       "path": "_news/2021-08-04-apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign.md",
       "title": "AppTek Achieves Top Ranking at the International Workshop in Spoken Language Translation's (IWSLT) 2021 Evaluation Campaign",
-      "excerpt": "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), Text-to-Speech (TTS) and Natural Language Processing / Understanding (NLP/U) technologies, announced that its direct spoken language translation (SLT) system ranked first among end-to-end systems in the offline speech translation track at the 18th annual International Workshop on Spoken Language Translation (IWSLT 2021) evaluation campaign.",
+      "excerpt": "AppTek is a global leader in artificial intelligence (AI) and machine learning (ML) technologies for automatic speech recognition (ASR), neural machine translation (NMT), and natural language ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-apptek-achieves-top-ranking-the-international-workshop-spoken-/2021/08/04/9423741.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/apptek-achieves-top-ranking-at-the-international-workshop-in-spoken-language-translations-iwslt-2021-evaluation-campaign-301347962.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1039,11 +1091,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:58:00-07:00",
+      "publishedDateTime": "2021-08-04T05:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1060,24 +1112,33 @@
     {
       "path": "_news/2021-08-04-artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm.md",
       "title": "Artificial Intelligence Increases Document Processing Efficiency 350% for California-Based Workers' Compensation Defense Firm",
-      "excerpt": "We leverage advances in computer vision, natural language processing, and machine learning to help organizations process, manage, and leverage their unstructured data to streamline manual tasks, make better data-driven decisions, and drive business value.",
+      "excerpt": "California-based Foundation AI and California-based workers' compensation defense firm Floyd Skeren Manukian Langevin, LLP",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-increases-document-processing-efficiency-350-california-/2021/08/04/9423710.htm",
+      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-increases-document-processing-efficiency-350-for-california-based-workers-compensation-defense-firm-301347828.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1587832/Foundation_AI_Radically_Improves_Law_Firm_Document_Management.jpg?p=facebook",
+          "width": 900,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T05:33:00-07:00",
+      "publishedDateTime": "2021-08-04T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1374,49 +1435,6 @@
       "provider": {
         "name": "INSIDENOVA.COM",
         "domain": "insidenova.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-the-excel-formula-language-is-now-turing-complete.md",
-      "title": "The Excel Formula Language Is Now Turing-Complete",
-      "excerpt": "The Excel team announced LAMBDA, a new feature that lets users define and name formula functions. LAMBDA functions admit parameters, can call other LAMBDA functions and recursively call themselves. With LAMBDA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/excel-lambda-turing-complete/",
-      "originalUrl": "https://www.infoq.com/articles/excel-lambda-turing-complete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/excel-lambda-turing-complete/en/headerimage/excel-formula-language-becomes-turing-complete-header-image-1627571698217.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-02T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
         "images": null,
         "publishers": null,
         "authors": null

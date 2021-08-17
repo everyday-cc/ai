@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-banking-tech-unicorn-zeta-uses-a
 webUrl: "https://analyticsindiamag.com/how-banking-tech-unicorn-zeta-uses-ai/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Intel teases AI-based DLSS-style super sampling tech in the works"
-    excerpt: "Intel confirms it is working on AI-based Super Sampling technology, to fight against NVIDIA's DLSS and AMD's FSR technologies."
-    publishedDateTime: 2021-08-17T03:09:00Z
-    webUrl: "https://www.tweaktown.com/news/81158/intel-teases-ai-based-dlss-style-super-sampling-tech-in-the-works/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "ljKv5pyJPljOE4c3kJwTlpce0fJlUfOUWs6ua7q/MJhAj866CcESQ6Ou55g1iIMZafEdHI5tLszCih5qS9R37xW58E/vacsUsrG3uhhAgvape/mSKJenLSgZGBs/C2/A6VTqBpgK9QyACCRXyn2D79pZZm3WoECVUAC/vRRbSO18FlHQNgHkKJaH7e1QqoxuWt/78wgl7aLha+NIiMTbF8ufolTLwSpqPN7aSbqjIBuXnBRyAbLB3g/1YWw6S6C7UzLEDSjtdX7bk2qQ7OKwYSW5o11w4kcLq7Q4ToVoFxcSZ+LSD3mTvD/EqyFv/wTbflrDavhrZAb9DlNy09o+fAJOXzHjn9rseJwXH4/uoeHucr77kWRIb/NY6fI6zj3xZQ73VFHgHbVSEIM0X+QCk7QlXecnbsThqUg1PfO8wbfjkjKHH7SqNA9Li/ekc/RAwEvHaEKMrbsMQMAnCh3QwbJOLR08Kq3lVng+xiz4iu5YGRVOIPgCnhzO5TG2PFxGBIorIj1zaT9NFZ9ZBTsPkg==;bHt5oqN1T5xfS7zF0X+JmA=="
 ---

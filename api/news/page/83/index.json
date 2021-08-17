@@ -2,6 +2,188 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-06-17-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
+      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
+      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-tractable-uses-computer-vision-to-accelerate-insurance-claims.md",
+      "title": "Tractable uses computer vision to accelerate insurance claims",
+      "excerpt": "Tractable's AI performs a real-time analysis that helps insurance companies quickly decide whether a car can be fixed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "originalUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/1.2-EN-RGB-AI-Inspection-from-Tractable-01-e1623853027298.png?fit=800%2C383&strip=all",
+          "width": 770,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/tractable-uses-computer-vision-to-accelerate-insurance-claims/amp/",
+      "publishedDateTime": "2021-06-16T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-17-a-fintech-ipo-to-watch-and-a-very-complex-spac-deal.md",
+      "title": "A Fintech IPO to Watch and a Very Complex SPAC Deal",
+      "excerpt": "Financials, host Jason Moser and Fool.com contributor Matt Frankel, CFP, take a closer look at recent fintech IPO Flywire (NASDAQ:FLY",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "originalUrl": "https://www.fool.com/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/06/16/a-fintech-ipo-to-watch-and-a-very-complex-spac-dea/",
+      "publishedDateTime": "2021-06-16T15:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-17-tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai.md",
       "title": "Tractable raises $60M at a $1B valuation to make damage appraisals using AI",
       "excerpt": "As the insurance industry adjusts to life in the 21st century (heh), an AI startup that has built computer vision tools to enable remote damage appraisals is announcing a significant round of growth funding.",
@@ -997,196 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone.md",
-      "title": "Self-driving trucks startup Kodiak Robotics snags investment, partnership from Bridgestone",
-      "excerpt": "Tire-making giant Bridgestone has taken a minority stake in Kodiak Robotics, the Silicon Valley-based startup developing autonomous trucks, as part of a broader partnership to test and develop smart tire technology.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
-      "originalUrl": "https://techcrunch.com/2021/06/16/self-driving-trucks-startup-kodiak-robotics-snags-investment-partnership-from-bridgestone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-fedex-partners-with-ai-robotics-company-on-last-mile-delivery.md",
-      "title": "FedEx partners with AI robotics company on last-mile delivery",
-      "excerpt": "Both FedEx and Nuro will explore use cases for on-road autonomous same-day delivery services across the Houston area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
-      "originalUrl": "https://www.fleetowner.com/technology/autonomous-vehicles/press-release/21167143/fedex-partners-with-ai-robotics-company-on-last-mile-delivery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/06/16x9/FedEx_Nuro_AI.60c915ebe6bb5.png?auto=format&fit=max&w=1200",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-16T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Owner",
-        "domain": "fleetowner.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-update-3-alphabets-waymo-raises-25-bln-in-first-fresh-funding-in-a-year.md",
-      "title": "UPDATE 3-Alphabet's Waymo raises $2.5 bln in first fresh funding in a year",
-      "excerpt": "“There’s no greater challenge in artificial intelligence than building and deploying fully autonomous technology at scale,” Dmitri Dolgov and Tekedra Mawakana, Waymo’s co-CEOs, said in a statement. The duo became co-CEOs after John Krafcik stepped ...",
-      "sourceUrl": null,
-      "webUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
-      "originalUrl": "https://cn.reuters.com/article/waymo-funding-idCNL3N2NY329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210616&t=2&i=1565932671&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH5F0Q5",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL3N2NY329",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL3N2NY329",
-      "publishedDateTime": "2021-06-16T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-16-amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems.md",
-      "title": "Amazon Alexa head scientist on developing trustworthy AI systems",
-      "excerpt": "Amazon Alexa head scientist Rohit Prasad believes context is the key to more capable voice-driven AI systems -- and AI systems in general.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/",
-      "originalUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/06/16/amazon-alexa-head-scientist-on-developing-trustworthy-ai-systems/amp/",
-      "publishedDateTime": "2021-06-16T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
