@@ -72,6 +72,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Speed up your workflow with AI photo culling by AfterShoot"
+    excerpt: "Photographers are constantly looking for ways to save time in their workflows, whether that’s keywording, editing, sending work from Lightroom to their websites, writing blog content or posting on social media."
+    publishedDateTime: 2021-08-16T20:00:00Z
+    webUrl: "https://photofocus.com/reviews/speed-up-your-workflow-with-ai-photo-culling-by-aftershoot/"
+    type: article
+    provider:
+      name: Photofocus
+      domain: photofocus.com
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/photofocus.com/wp-content/uploads/2021/08/aftershoot-feature.jpg?fit=2560%2C1440&#038;ssl=1"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "haclz0wLhTr2Z8n915NExxx+gJiCDAE+hd+Eb6MubC+clbE4b6VkoWQP0t98e11bUs0L8XKVQxgGl3FWcVBxi9OBJrG2f8EAerDO66a2mIQO51G8PCDt7q68FIkiskV8UdYOrvFRvsB9szKNw0kSUhmlceCxk/kjQr6dbn44VuYnuvvgr4ZBOcodhCfWGwSJvCkHC9T91fYUdblk1aBB0qFU4Y9Hn+tAm24cF43HVAmjNm7BELuPerVDRizdioH+wzsK2xngSpVeBtCw/4KgEknzZ2AGIOUkbx/W4TaEXow8KSDhePHA1WYZ7sCr234ZPnd7+kMpYB2KK0zPaGCQTLiCBN3MQf1+gUAE+/ZwPn4=;gtZJoKONnuQrDb9beexn5Q=="
 ---

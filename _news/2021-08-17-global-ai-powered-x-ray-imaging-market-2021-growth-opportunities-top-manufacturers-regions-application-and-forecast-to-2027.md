@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
+    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
+    publishedDateTime: 2021-08-13T07:30:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 62
+    images:
+      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
+        width: 600
+        height: 401
+        isCached: true
   - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
     excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
     publishedDateTime: 2021-08-12T19:13:00Z
@@ -54,20 +70,72 @@ related:
         width: 750
         height: 350
         isCached: true
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
+  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
+    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
+    publishedDateTime: 2021-08-13T19:20:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 49
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
+        width: 390
+        height: 220
         isCached: true
+  - title: "Competitive Scenario of Artificial Intelligence Sensors Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
+    excerpt: "Global Artificial Intelligence Sensors Industry Market research report is a specialized and in-depth insight of"
+    publishedDateTime: 2021-08-13T02:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-sensors-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2021-08-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
+    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
+    publishedDateTime: 2021-08-13T16:29:00Z
+    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
+    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
+        width: 750
+        height: 350
+        isCached: true
+  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
+    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-13T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
+  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
+    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
+    publishedDateTime: 2021-08-13T05:38:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 17
 
 secured: "K4pNesikDy+hSCo2ez3W47vbc4ySuLnyImagT8wXAlnm8+WK7/38Fb5JGGIvOjeKnbVFJhwsK+yFDw2uHnR9N6esAfQyAxz2StUvJUroOHE5voToBCq+1Yb3+IU1z4fb0imTFAEMZNMy9Xw4wzlLyCTu8z5omfJ/8e8BXseAuZRm+qB0F8u4YSjugQXgO262GSmCDS26X6lfISeIspao94Lj21gBLp2sfPPT99U5ckPoyo8bY6ujJetWWleiYJ9j2QAesG7CnHv3d+SdIbwjgfnThnFoGjcLzHlufjrIYKVO03YFq1GRiqSYfrij3Qb3zQc0H7EgjamRlXK5YQVu6w+ESOKe0yujvsxhghyNCF8=;peme3NuNEiPoABx2Mlitiw=="
 ---

@@ -72,6 +72,20 @@ related:
         width: 860
         height: 430
         isCached: true
+  - title: "IIM Ahmedabad To Establish A Centre For Data Science And Artificial Intelligence"
+    excerpt: "IIM, Ahmedabad, has announced the launch of the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA)"
+    publishedDateTime: 2021-08-17T09:16:00Z
+    webUrl: "https://analyticsindiamag.com/iim-ahmedabad-to-establish-a-centre-for-data-science-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/08/IIMAhmedabad_AIM.jpg"
+        width: 729
+        height: 411
+        isCached: true
   - title: "IIM Ahmedabad Launches Brij Disa Centre for Data Science and Artificial Intelligence"
     excerpt: "Centre to Serve as a Platform for Industry, Academia, Researchers and Students for Research and Knowledge Generation Ahmedabad, August 16,"
     publishedDateTime: 2021-08-16T11:03:00Z

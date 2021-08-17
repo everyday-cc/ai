@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/08/14/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/08/14/3-top-artificial-intelligence-stocks-to-buy-in-aug/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 ways to get more women working in AI"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kay Firth-Butterfield, Head of Artificial"
-    publishedDateTime: 2021-08-12T15:17:00Z
-    webUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/"
-    ampWebUrl: "https://europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/08/12/5-ways-to-get-more-women-working-in-ai/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 57
-    images:
-      - url: "https://assets.weforum.org/editor/s0YyMsIHFGtyn0qKquW0jHwDnqNflTucOwzz2TkwYmM.jpg"
-        width: 960
-        height: 684
-        isCached: true
   - title: "3 stocks to buy and hold for the next decade"
     excerpt: "Picking stocks for the long term isn't easy because the world is changing rapidly. But here are three shares Ed Sheldon has bought for the next decade."
     publishedDateTime: 2021-08-16T08:58:00Z

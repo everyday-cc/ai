@@ -2,19 +2,19 @@
 category: news
 title: "Facteus Joins Snowflake Partner Network; Helps Financial Services Organizations Safely Migrate Sensitive Data to the Snowflake Data Cloud"
 excerpt: "Facteus, a leading provider of technology and services to safely unlock actionable insights within sensitive data, today announced it is now part of the Snowflake Partner Network, focusing on enabling financial services organizations to safely access the scale,"
-publishedDateTime: 2021-08-09T13:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-facteus-joins-snowflake-partner-network-helps-financial-services-/2021/08/09/9426521.htm"
+publishedDateTime: 2021-08-09T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-data-privacy-409fbb695c9145818439ee8d8af8cc6d"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "b/GJdDb4lMkXYS5An0EMosaEDtvGck0jFkA6labur/jcuoaW51v+BGKqSCC9Tg+t+Daoa0YFU7SAebV6Xycd04flB+Rj0uK5hqS1qGKAepTByA+HhO2mzt5zDg17SMqgpvDRkIk0E2Sq8hXvuRIFbQIvRfALm+BjLUHrKQx/KkMOaJqpZ3JbKS987aCT+Xn3qddyCi39pH5EUnY+8e2LYBT5xxdSc42nQWY2m30umB5QG2lCxDTvT3JhWLxqIALQDGKvZTlci3VfkAbnpnMeew3yFMbRYVdkStQZEvxrisgjkKdXJg75rP29G848kXfz4aUiV1Fg5j5Hx6lz2J+ukkX0zD5C4ZhcBKGzNe9Ls6I=;VVTB8i7PKryQo+rUbbO7RQ=="
+secured: "qjaNzH/zE5ZxcqwdZrNyaUchbkjRG8pyDaqfriEfzGxZgewQYDJjxoVjw1NyEejvXVAwALUQ24w/gqIFzyrWtZOnrASAS0QXvPgiicr52d+vGZ77g1tbhjfN9pUJcx1ePvmIiGwDFFcAnxzr8ApvC7Cdu+U3lxjb580neR7ZiJN6YAjk8nKrcRr8YLo3+zV0T1BgvNldRR3yBZIMG4ScafqDqhXHqyDX3yK7gvj4BxeOp0wdpQL7qGcsnQLeuQLnRZjyjpYYE2RGKHKyyFrj1IwNbU0GptbA5Jlbt9RLAHh3CudNcwHJO06XVqxfM68hsCX7s5v3VEXTPghFCWrzPPWX6eGKPCf0AAUmlyPPzXA=;7LEOePtKd4v2ZRYiyS1BDA=="
 ---
 

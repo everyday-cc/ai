@@ -42,22 +42,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Codex, an AI system that translates natural language to programming code"
-    excerpt: "Artificial intelligence research company OpenAI has announced the development of an AI system that translates natural language to programming code—called Codex, the system is being released as a free API,"
-    publishedDateTime: 2021-08-12T15:20:00Z
-    webUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-codex-ai-natural-language-code.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
-        isCached: true
 
 secured: "tAtJeoB1lpd0rZU2pOupBNGjYbT9CTEc/sykSgDjA8ftmw1ai+HStReaBNi60mxP+dXLA3pVXP3T9oULyj+mp8dcYWDY9J32JExU+5pLqm9sMEpQ1/S8b9ERArTcldkMZgVHDuDIS75RXeeFQ2LKKXUXBCkYQRqaNCeAdpotBdgeLP3PrVqxOgu+ngkoyA0ToIM0iRAai6BW428umwPFHpjnFh7QKQ4hahWlvMY5uFqYB434iBY+f6XVKgK4HAYT5vPSIi9LSX6oyBbYyO0JgNm+/Fs3HGyvSHiKfZuBkiTDAvVYFvGnB2Ielw0Ln6gGLIBOgQVKbc9lH50b0wMaSH68wgYqbgezWfuOuixxYXOiaNj7XI4ZUBpsi7OpL+zam6bPk7cqM55bcb+jaMr0jOZD7S/AosDMnIQP1MmvitvgyYMkGXmmem3y5co3OWUxZ9JX8Uxy7hRqjCsw3uQz65qqAGmavwWJb0RzWGXZA7vUhjzcHBS3I+yITJhDdY1jwqLVjTns3nbGoNahYOPiPg==;l2e76pf+AlvMG3R/Uhkidw=="
 ---

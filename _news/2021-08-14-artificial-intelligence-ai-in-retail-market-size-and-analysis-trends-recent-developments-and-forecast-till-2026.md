@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Trend, Forecast, Drivers, Restraints, Company Profiles and Key Players Analysis by 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest analysis by Emergen Research. Increasing quantum computing adoption is expected to drive global deep learning chip market growth to a significant extent during the forecast period."
-    publishedDateTime: 2021-08-12T15:25:00Z
-    webUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    ampWebUrl: "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 70
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Rotating-U-Disk-Market-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
     excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
     publishedDateTime: 2021-08-13T07:30:00Z
@@ -58,35 +42,35 @@ related:
         width: 600
         height: 401
         isCached: true
-  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
-    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
-    publishedDateTime: 2021-08-14T13:26:00Z
-    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 56
-    images:
-      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
-        width: 800
-        height: 385
-        isCached: true
-  - title: "Artificial Intelligence As A Service Market Trends, Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2027"
-    excerpt: "The market research report an in-depth study of the present as well as the future market needs of the Artificial Intelligence As A Service Market size. The research report serves as a comprehensive guide for new entrants to the Artificial Intelligence As A Service market size."
-    publishedDateTime: 2021-08-12T15:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-trends-industry-analysis-share-growth-product-top-key-players-and-forecast-2027-2021-08-12"
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
+    excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
+    publishedDateTime: 2021-08-12T19:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
+    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
+    publishedDateTime: 2021-08-14T07:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 51
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
+        width: 750
+        height: 350
         isCached: true
   - title: "Competitive Scenario of Artificial Intelligence Sensors Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
     excerpt: "Global Artificial Intelligence Sensors Industry Market research report is a specialized and in-depth insight of"
@@ -118,6 +102,15 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
+    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-08-13T11:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
   - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
     excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
     publishedDateTime: 2021-08-13T05:38:00Z
@@ -129,6 +122,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 17
+  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
+    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
+    publishedDateTime: 2021-08-17T01:40:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 9
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "F7sKxj0nnZTvMaFcEetDmS5mjGa4emNVj4A04siKHeGzfuMxdI0jkjgW95BbT886a/nGY7iyU6Ado496i38AB58SBIZkYgCugrMVxgLACxkez7Zh57VZtVrgQSTGcMrbtbhzx8MuSmaX3Ykbz5GsHYP2gMxn40Ew0LyGAldpt2+kBASykmDn+Hv+TV2mgHPAXxa34bZ8NaGeKYobRpXZJZDExhyPWkQNuOlo9yBFhpnXCb3l2K6h0ARiQj7JeuTy6rssou5jnKX4rLCUWCNf1gOZcd4SdvXbmvp3He7h5UgRl/jHXF3HxEItoMM28+lI9nNWda7zmL2LPUe+6hYvR1+DWUGnFC5LNsMnEkekh1M=;h5oIrg71nQfJNjCrQy66/g=="
 ---

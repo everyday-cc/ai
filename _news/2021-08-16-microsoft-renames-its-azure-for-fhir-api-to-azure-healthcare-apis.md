@@ -67,6 +67,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft ups ante in government cloud contest"
+    excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
+    publishedDateTime: 2021-08-17T08:18:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
+        width: 650
+        height: 379
+        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z

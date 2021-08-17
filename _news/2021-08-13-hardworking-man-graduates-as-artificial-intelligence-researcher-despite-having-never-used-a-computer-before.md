@@ -7,7 +7,7 @@ originalUrl: "https://www.tuko.co.ke/422309-hardworking-man-graduates-artificial
 webUrl: "https://www.tuko.co.ke/422309-hardworking-man-graduates-artificial-intelligence-researcher-despite-having-never-a-computer-before.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 632
     isCached: true
-
-related:
-  - title: "Maxwell Aladago: Man who had never used Computer goes to Ashesi & Graduates as AI Expert; PhD at Dartmouth"
-    excerpt: "Maxwell Aladago arrived at Ashesi University after he never used a computer in his life. He now does PhD research in Artificial Intelligence at Dartmouth, USA"
-    publishedDateTime: 2021-08-12T16:52:00Z
-    webUrl: "https://yen.com.gh/192012-maxwell-man-computer-before-ashesi-graduates-ai-expert.html"
-    type: article
-    provider:
-      name: Yen.com.gh
-      domain: yen.com.gh
-    quality: 21
-    images:
-      - url: "https://images.yen.com.gh/images/d1463b1a140e2c57.jpg"
-        width: 1200
-        height: 632
-        isCached: true
 
 secured: "oMbO5L4UqEs1uu79Amyd0ZAi5qgHQ08PABd+Z6e2p7pw2Ar+9AHj0rftzQsv8TLSP9ONPtwCu6DSFl6t8GIgd5yqz0yuA+vtYkWyC5O20FcN1NQABOhgc5aJuLcmCtHOebZhObYx3GVNnNy5eeFnrCQYwgp3orzyc2Dl3P+fh0V4NnXWSVwM0oolwpesG+QHXBXlULaZU1OHZ2M1s4lP++Su1Vfts5+dt56iseiPSfuQgTk721jJFzlHynOJpZpzGWZ52JVqnznReMBFTspGfYaZMoJtGD0sl3tsGuKqxsBjKxgX5nkPSfnaxewJlu1TPddfBtxfXD2NC9kdOP/za84JmwxodAye3BZ99CNEAz4=;7zhxoE/oe4oach/yebDS9g=="
 ---

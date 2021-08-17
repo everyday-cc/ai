@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-
 webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft ups ante in government cloud contest"
+    excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
+    publishedDateTime: 2021-08-17T08:18:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
+        width: 650
+        height: 379
+        isCached: true
   - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
     excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
     publishedDateTime: 2021-08-16T09:00:00Z
@@ -91,6 +107,6 @@ related:
       domain: ipsnews.net
     quality: 44
 
-secured: "6a3XpbgxSalU9NO/EYKb6N4dCHzqQ8y3j/ZgWCSdypH3/lSHtY9l0A0x8r7aZ9VQiaWfC6P+t8dTH6Hb1nZE3eygxZUlUDaqLXFpU/Qzq/IomV5+Fw6WvJMt45T2rKfxmKPEKckxpg3PjR1aQ1Atlw4NnII7GJs16ydHXjpjrfJdj06dyTCpm7yPyjCIt5xA7OGNdMvRxUs/3ociaRRC6ANqNAJLowF5SmDMOIQnM2tzCM1o6k9z+ULUXYycjX1PKyaWgB9125gxi2SqqlW4oOc4FDcCbNBk+wKQYB8xAWx6kRcZ2jsOBCLPTsI24wtjRc0QXV+2oCQxZ36/58/FU69mZyCvdtw5Cws/TRdv/U8=;l48MYJ8qEhOYUOI98T+aZw=="
+secured: "9uU8NBZjxUMydTOM98MYcJ1OT2zQPa1F8El5WCBgla8SIpNdEqe3ZZGk68gHw4kSkO9lVUvjYU1aEuKDJRkStUPNiP5ieZhHIE7o+RqfgemaR/FpdAnPS83J4DlMCMG/7TGUhV49ydEURPW81Yy0FH9NJTRnX29PIlDIR0kDWTp94zapUgVjxArrRfV5rlCvAlAt4qLMPUU4B3GIqzHk4c1QTz7/JKdj6ATaT4VhIyY/ExeduHgjTC+RM1utJDEaZ7iACmcQI+/bYMFpQpE3CvcnVD6RQEL2PD86Z1T7qipeGv1ztpGfOLais1KnVrO/lgJvqPGlC4MznCegVr7Ws/qm4KxhXoYaqhdf0Y9euEUhU2p+E3rGNU/zvd/Dif812A4WvAvepeqOMPVbHWIq0r0UXREsgrHuS9NQLILqkiaAqTrZ+oyLqumLeusRZo/7zm/f483iYYbE/qaju81BijSijKJEI+TpnbqI03mbm2dcKqUC72pvntrI6qj2aeBapLy/NhvL6bRhxBiOCYhf1g==;fih+yyAYc07osNIJGBrJeA=="
 ---
 

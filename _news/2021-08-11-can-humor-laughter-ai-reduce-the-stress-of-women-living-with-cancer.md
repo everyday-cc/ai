@@ -1,30 +1,20 @@
 ---
 category: news
 title: "Can Humor, Laughter & AI Reduce the Stress of Women Living with Cancer?"
-excerpt: "NEW YORK and WASHINGTON and PALO ALTO, Calif., Aug. 11, 2021 /PRNewswire/ -- It sounds like the opening to a classic joke: 'A cancer survivor, a"
-publishedDateTime: 2021-08-11T14:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
-webUrl: "https://markets.businessinsider.com/news/stocks/can-humor-laughter-ai-reduce-the-stress-of-women-living-with-cancer-1030719450"
+excerpt: "It sounds like the opening to a classic joke: “A cancer survivor, a scientist, and a doctor walk into a bar,” but instead it’s a groundbreaking 8-week Mindset and Metastatic Cancer Research Study utilizing artificial intelligence to investigate personalized stress reduction strategies for women with living with advanced cancer."
+publishedDateTime: 2021-08-11T14:40:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c"
+webUrl: "https://apnews.com/press-release/pr-newswire/lifestyle-technology-health-coronavirus-pandemic-philanthropy-2a8c8750ce5190969c1f1dfe42098e9c"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1592368/The_ComedyCures_Foundation_METASTATIC_CANCER_STUDY.jpg"
-    width: 400
-    height: 270
-    isCached: true
-
-secured: "1pZesp4I8e2y/Aunp+r7Zxy0mYB9PNnxigQ974Iv6rtXBlPatAQIvUbZy+BNTnAE2wzWazXCjSrG6NKtf8V/GmWGJAaEo0fIz5KFLddlNw49axW5Tf81Se8peuZ6tzyqaQ7TWZmckLHrijEdhN7k6lw7J5qVFXYCAOGGxXmdoaDwrY9YBneIBkHXnEuywss/gRh7942+Ng05sl6Fq6UJvBEwMydeJ7shplICybmCKXkYaOtG0sK+uwber+9nI5ZfwKzr/mEzr88VzMmzxiYulI0zVriL0zUomz0wGDaf8EfBK9njY7w/+64OcabO3Fa5GQ2y5JlHgslHLk2UPnxaspTDLmEP3fOnDtzc2vL2898=;aktXcpCkkweXvMZzn7HR1A=="
+secured: "5qBurMl7WlSw21D9w3YlNcMYXWz+VtbA60JvQlndsS5yC2iIPmupdOVu10rqYE8EFALP80ZG5i7VRM4KkjashjhrXQmU8nDNS9fcOFL20X8gg2Nhd80jqOKy7mDI2OkNmkVhn6fq7PWaCvBc/T1yn+Rqcy7KBXSI8XTSGZGBNLy+0rFiUksBZEPmWVT6ZB6ah/WqPKx+awob0t2h4+w6snRnPlArYnOVmxjTYitKoqygU7Rkud2zMPHLjxBkgYyQbUsU9PylFnzi4tpZ7EnkJ+44D2nhgk6fhKmneVpqzEaSLcltNg2/SjKn21NY7ddLvUikxzXiiE0znU9a9Gm7b0Y9gg4PcS3WVawEapHi6N8=;fBK6e2vylkPbB/YV/UMUyQ=="
 ---
 

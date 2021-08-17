@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-clo
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/asia/asia-news/baidu-looks-to-ai-cloud-unit-for-growth/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: Mobile World Live
@@ -24,31 +24,6 @@ images:
     width: 650
     height: 399
     isCached: true
-
-related:
-  - title: "Baidu’s revenue grew by 20% in second quarter boosted by its AI business"
-    excerpt: "Baidu registered a net loss of US$90 million in the quarter, primarily due to marking down the value of its stake in Kuaishou, whose shares sank by 28%."
-    publishedDateTime: 2021-08-12T16:55:00Z
-    webUrl: "https://www.techinasia.com/search-giant-baidus-june-quarter-revenue-grew-20"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
-  - title: "Baidu to Bring New AI Experiences to Life at Baidu World 2021"
-    excerpt: "(NASDAQ: BIDU and HKEX: 9888), a leading AI company with strong Internet foundation, will virtually host its annual flagship technology conference on August 18, in partnership with CCTV News. Under the theme “For the era we love,"
-    publishedDateTime: 2021-08-12T16:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-714007f8af8718b9555c6dd67a1e8ce5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rbLy5tSeFgDRd2M1nWcdQtIhmX+VM64HopKIk9073eM1wDCopGwnV12A2O89MYGvmA4Q5kG1D5S7wvHat4P+ahb0kHjhR6w9qHVQNTrx7hNvF2tr7Lp71JokR23107P/DW1IOonOvmFEd+6hPJn2vcB4AE7kv8tNwN7xvwY/fdkwJva+W7GzpkLhLM1eZb6DTev99vLDJWXkti2E8vj70Gy1bnwKwqXKEld9Vq7TZdEBesxIfvd9xhXolT7HMDaXkQWSNoYdDFxHBCUQAiE+o+glUWzcUUzA0ALLoF+5PrHIQ/YpbrZphCpNOmYJKm5b8iWkHZiUMfbDOKKvZqnSMzFQkHeC/gdQGiuwXikNO9Y=;0k31cI8zcxDkQLLqQN4x6w=="
 ---

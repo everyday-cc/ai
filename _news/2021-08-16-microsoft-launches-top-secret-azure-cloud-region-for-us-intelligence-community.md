@@ -77,6 +77,22 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft ups ante in government cloud contest"
+    excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
+    publishedDateTime: 2021-08-17T08:18:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/microsoft-ups-ante-in-government-cloud-contest/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2018/07/MWL2018_Microsoft.jpg"
+        width: 650
+        height: 379
+        isCached: true
   - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
     excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
     publishedDateTime: 2021-08-16T16:47:00Z

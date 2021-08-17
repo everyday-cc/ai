@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition AI helps save multibillion dollar grape crop"
-    excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they've developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
-    publishedDateTime: 2021-08-12T16:44:00Z
-    webUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.html"
-    ampWebUrl: "https://phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-facial-recognition-ai-multibillion-dollar.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/facial-recognition-ai.jpg"
-        width: 670
-        height: 377
-        isCached: true
   - title: "Grape Crops Protected With Help of Facial Recognition Technology"
     excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
     publishedDateTime: 2021-08-13T08:25:00Z
@@ -57,6 +41,34 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Concerns over use of facial recognition in app"
+    excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."
+    publishedDateTime: 2021-08-17T01:05:00Z
+    webUrl: "https://theshillongtimes.com/2021/08/17/concerns-over-use-of-facial-recognition-in-app/"
+    type: article
+    provider:
+      name: Shillong Times
+      domain: theshillongtimes.com
+    quality: 39
+    images:
+      - url: "https://theshillongtimes.com/wp-content/uploads/2021/07/DSC_1591-scaled.jpg"
+        width: 2560
+        height: 1768
+        isCached: true
+  - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
+    excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"
+    publishedDateTime: 2021-08-17T09:03:00Z
+    webUrl: "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom"
+    type: article
+    provider:
+      name: WGBH
+      domain: wgbh.org
+    quality: 39
+    images:
+      - url: "https://wgbh.brightspotcdn.com/dims4/default/d3045fc/2147483647/strip/true/crop/2247x1498+0+0/resize/2247x1498!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F22%2F97%2Fcd7df23a41599366eb296240e54e%2Fap20176661952737.jpg"
+        width: 2247
+        height: 1498
+        isCached: true
   - title: "Facial recognition software can help save multibillion dollar grape crop"
     excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
     publishedDateTime: 2021-08-13T12:06:00Z
@@ -71,6 +83,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brain Technologies: Using AI to Replace the ‘Attention Economy’ with the ‘Intention Economy’"
+    excerpt: "Brain Technologies leverages sophisticated AI to deliver application functions on mobile devices to users as per their natural language requests, independent of the applications that provide the functions."
+    publishedDateTime: 2021-08-13T18:00:00Z
+    webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
+    type: article
+    provider:
+      name: intellyx.com
+      domain: intellyx.com
+    quality: 28
+    images:
+      - url: "https://intellyx.com/wp-content/uploads/2021/08/brain.jpg"
+        width: 751
+        height: 395
+        isCached: true
+  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
+    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
+    publishedDateTime: 2021-08-16T10:27:00Z
+    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
+    type: article
+    provider:
+      name: Privacy International
+      domain: privacyinternational.org
+    quality: 16
 
 secured: "3MkfrI4C+x7wsWn37UGo0iR1iqI+bB/cJjDsFvcuBoMtr/sRlLbpuFLtvHtFCJeA5k+PKErFMcQAqVjf4mEPF1NiiGInPSukQL/xrm4aJm48NeEJHql+48NJtpMD1+ABqYA8fIlL64byQwoP6WiRq+XikU6ULpzvVJG57qL4eYjSIfuaA+YX2O1qoGVXDSPYAfQ+xbM7LFSDEBFBNqOwpe2cjQXu6eklkqL0+ZikMUruQzCnIHGIkpLu5pl0/e+2/QOsBxWkQ2OBc2zQ35bQmE21U63QtPfPbTjxW8YEVrmbEktNnPp937moYPrbomUtkb5F8YNv5zx+s3heFtUGZ5IOmc1JJ7Pk6MQwSlfO4DE=;TwxxXvDMrWNfVwYmUnlE9g=="
 ---

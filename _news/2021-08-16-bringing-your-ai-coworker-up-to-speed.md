@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Speed up your workflow with AI photo culling by AfterShoot"
+    excerpt: "Photographers are constantly looking for ways to save time in their workflows, whether that’s keywording, editing, sending work from Lightroom to their websites, writing blog content or posting on social media."
+    publishedDateTime: 2021-08-16T20:00:00Z
+    webUrl: "https://photofocus.com/reviews/speed-up-your-workflow-with-ai-photo-culling-by-aftershoot/"
+    type: article
+    provider:
+      name: Photofocus
+      domain: photofocus.com
+    quality: 37
+    images:
+      - url: "https://i2.wp.com/photofocus.com/wp-content/uploads/2021/08/aftershoot-feature.jpg?fit=2560%2C1440&#038;ssl=1"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "x3iPIEVQZFINTqAkf1MNt/XWqBzCWyZPQ4ELIsehkUmraAT9GkQ4hmkft7Lpa1HUhuTuTsAHVAEhU1ZM/jmdpg+KNGRW3NnwhUN3WsCcsvdtj6R8Sv6a4XVr80PDHS4dPVDtv1wH+OUDQHO16jg/t7cV7/6SqTT5ajNmV0YOBEcMBuX1bYs70/rloUXwK5rCFtsm9WBQiHLpU0LbJXoPW3/bDIiM0vS9eO/y6cu4KO1aBuvneyIKDmxwn++kfwwqkzvax/aZiSE1YKXiTaoWDyi41i13fb5ItxWnwxMyap08uR2cdWN1VgxLni4dWiqgNrc2LR7qQo8sA7LumFiTTXQOKPX6frw00TcCfVtMwtSLxwiPNYXTk2v/crZspmgWh7RnkJ0nc5grWvxaAo+2t+Ethvtz0af6wTrzBa1hXzPbV32d2fvawUl8areOsSGws7AwpnRqb65YST8bpWRcmKiS4jGB9duoas5wyG1t2ZCDw018z2bFJblMDtPVIIcVEhDuNnYZLqhAHUDvdne0hQ==;6wJnY65jhuThmpSd+A7T9g=="

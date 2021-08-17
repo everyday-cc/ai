@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-08-06-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-12-billion-valuation.md",
+      "title": "AI-Based Sales Tool Provider Mindtickle Turns Unicorn at $1.2 Billion Valuation",
+      "excerpt": "AI-based sales tool provider Mindtickle turns Unicorn at $1.2 bn valuation following a $128 million funding from Softbank Corp",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Unicorn-Rising-300x250.jpeg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/178795-ai-based-sales-tool-provider-mindtickle-turns-unicorn-at-1-2-billion-valuation/amp/",
+      "publishedDateTime": "2021-08-05T19:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-08-06-multiple-view-geometry-in-computer-vision.md",
       "title": "Multiple View Geometry in Computer Vision",
       "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene given several images of it. Techniques for solving this problem are taken from projective geometry and photogrammetry. Here, the authors cover the geometric principles ...",
@@ -1062,40 +1105,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google.md",
-      "title": "Online Advertisement Market to Develop New Growth Story | Baidu, Facebook, Google",
-      "excerpt": "AMA Research recently released research coverage on Global Online Advertisement Market that evaluates and provides market size, trend, and estimation to 2026. The Online Advertisement market study provides ready-to-access and self-analyzed study with significant research data proves to be a useful document for managers,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
-      "originalUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/online-advertisement-market-to-develop-new-growth-story-baidu-facebook-google/?amp=1",
-      "publishedDateTime": "2021-08-05T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
         "images": null,
         "publishers": null,
         "authors": null

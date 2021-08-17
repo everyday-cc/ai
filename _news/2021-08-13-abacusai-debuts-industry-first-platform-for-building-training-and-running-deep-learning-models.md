@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Teaching AI to see depth in photographs and paintings"
-    excerpt: "Researchers in SFU's Computational Photography Lab hope to give computers a visual advantage that we humans take for granted—the ability to see depth in photographs. While humans naturally can determine how close or far objects are from a single point of view,"
-    publishedDateTime: 2021-08-12T16:58:00Z
-    webUrl: "https://techxplore.com/news/2021-08-ai-depth.html"
-    ampWebUrl: "https://techxplore.com/news/2021-08-ai-depth.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-ai-depth.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/teaching-ai-to-see-dep.jpg"
-        width: 800
-        height: 310
-        isCached: true
   - title: "The interaction and convergence of IoT and AI at work"
     excerpt: "The Internet of Things (IoT) and artificial intelligence (AI) go hand in hand across several use cases and applications in business and science. How IoT and AI already work together today and what the future holds - with several examples."
     publishedDateTime: 2021-08-15T12:39:00Z

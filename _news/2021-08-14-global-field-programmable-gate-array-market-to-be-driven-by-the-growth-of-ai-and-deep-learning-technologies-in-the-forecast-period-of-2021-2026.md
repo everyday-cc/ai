@@ -25,50 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
-    excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
-    publishedDateTime: 2021-08-12T19:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
+  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
+    publishedDateTime: 2021-08-14T13:26:00Z
+    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: openpr.com
+      domain: openpr.com
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
+        width: 800
+        height: 385
         isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
-    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
-    publishedDateTime: 2021-08-14T07:33:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+  - title: "Deep Learning in Manufacturing Market Size and Forecast 2021-2027: Xilinx, Micron Technology, Qualcomm"
+    excerpt: "Latest survey on Deep Learning in Manufacturing Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Deep Learning in Manufacturing The study is a mix of quantitative market stats and qualitative analytical information to"
+    publishedDateTime: 2021-08-13T12:16:00Z
+    webUrl: "https://www.openpr.com/news/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 51
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
-        width: 750
-        height: 350
-        isCached: true
-  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
-    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
-    publishedDateTime: 2021-08-17T01:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
+  - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
+    excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
+    publishedDateTime: 2021-08-17T09:43:00Z
+    webUrl: "https://www.openpr.com/news/2357263/call-center-ai-market-industry-share-size-2019-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 9
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
 
 secured: "izlQn/wo+011vobxfhAaOAsvDY49TNk5HUdezfqYNUbJGsjRA/RnQbFTJonIvA2PlR4Pic/h5widEZrj2mMA3fxQtaY6brshE78JDmN4qJTyZXn6ZTTAwaLVw+pHnaI8oaahJBYitkZLbMfj+fAvtmCO+c/lVbBQPgZxv+UkZPA+ujSQpLP2Ad++hYQ4cCXzZ4TuIBM657ByXPZBNB+rAxuYWLuNfpv+EfEHkfeEg5YZ3hMF9tp5ICvQ13NYsOsrmeNwvoXeAqy3eo5A3d5JdxGIhcdRk3Apzry82bj3TtGlLQY3hgzkGIFeSaj9vLMT3AcgIhiQpT2iCa6uE7dLTy1DxgPWCcKdPTZ9jGVCG/s=;WkjIVl3Hzs/l/yJKtiFW6w=="
 ---

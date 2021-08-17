@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-08-02-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box.md",
+      "title": "Google DeepMind - Improving the interpretability of medical imaging’s “Black Box”",
+      "excerpt": "Type out all lyrics, even if it’s a chorus that’s repeated throughout the song The Section Header button breaks up song sections. Highlight the text then click the link Use Bold and Italics ...",
+      "sourceUrl": null,
+      "webUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "originalUrl": "https://genius.com/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://assets.genius.com/images/sharing_fallback.png?1628811342",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "cdnAmpWebUrl": "https://genius-com.cdn.ampproject.org/c/s/genius.com/amp/Aresh-banaji-google-deepmind-improving-the-interpretability-of-medical-imagings-black-box-lyrics",
+      "publishedDateTime": "2021-08-02T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Genius",
+        "domain": "genius.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-02-computer-vision-market-has-revealed-immense-growth-with-key-players-texas-instruments-keyence-basler.md",
       "title": "Computer Vision Market Has Revealed Immense Growth with Key Players – Texas Instruments, Keyence, Basler",
       "excerpt": "The Global Computer Vision Market report is expected to grow at a CAGR of 9.16% and is poised to reach $XX Billion by 2027 as compared to $XX Billion in 2020. The factors leading to this extraordinary growth is attributed to various market dynamics discussed in the report.",
@@ -1095,57 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles.md",
-      "title": "Argo AI will now provide free rides in California in its autonomous vehicles",
-      "excerpt": "Argo AI has secured the Drivered Autonomous Vehicle Passenger Service Pilot program which allows companies to operate a ride-hailing service using autonomous vehicles while adhering to specific rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "originalUrl": "https://www.neowin.net/news/argo-ai-will-now-provide-free-rides-in-california-in-its-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/12/ford-fusion_story.jpg",
-          "width": 760,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

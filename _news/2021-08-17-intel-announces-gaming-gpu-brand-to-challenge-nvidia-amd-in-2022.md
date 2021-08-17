@@ -39,6 +39,20 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
+    excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
+    publishedDateTime: 2021-08-17T06:32:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_intel/beware-nvidia-intel-arc-is-the-new-consumer-gpu-brand-coming-to-devices-in-2022-with-ray-tracing-super-sampling-and-more/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 13
+    images:
+      - url: "https://assets.mspimages.in/wp-content/uploads/2021/08/Intel-Arc-GPU-branding.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fHoQI6BYBjzK3gFbXfNS53kfOQYZewp6KQhX341k3tkNbtsPSoA9Vxv8pRfzw2nPPOMKSczQN8IZ4vMjc5zkuLrISXVyRhMRplHlxfBbGjOAXeF+3IQJ1WGJDIHLey9zpwm5IxcdbDu9lKY4AOYpMAehuTwneAsUxwIG9E1mCEXZeS7SKniKGzHcGNdJbPni4lQNR8evwD76HGYXc4CkiQmd4TVK4wnzb9SSVTKU4GrYhIsqNatbeEyckZxvrzpn7aGlZh0Ki/COpB8JdbCvUH2W0bMsv8aQNktvoz9sDA/HQzaif5qtHrHGb+JRYEbJL9QUH2XDjvydH5zalWjM4vBh1g0ILRiT3IrgEHqUT8lQGmU3jIZeK50W5syzkqAdxeXHpBl0Hg8yVRZa3Z+IdD08Lb0iYoXVOnP9v9ypNuQ2aFuAkSFosTSCjm9aTAyy16jlYZTtjXiwPaxn5xjAhogMsHSifnDi9z4CQR28nou/LkklfNOrI5aaQr4OGEMV+gDcn++QLyWZ4Tfeh7NIqA==;MlqpeVTza8NrfPHZSNqxBg=="
 ---

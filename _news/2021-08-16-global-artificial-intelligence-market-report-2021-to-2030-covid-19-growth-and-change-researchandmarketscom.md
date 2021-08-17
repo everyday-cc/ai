@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
@@ -47,22 +48,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
         width: 1920
         height: 1280
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Industry Market including top key players Apple Inc, SAP SE, Intel Inc, Salesforce Inc"
-    excerpt: "JCMR recently broadcasted a new study in its database that highlights the in-depth market analysis with future prospects of Artificial Intelligence and Cognitive Computing Industry market. The study covers significant data which makes the research document a handy resource for managers,"
-    publishedDateTime: 2021-08-12T15:08:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-and-cognitive-computing-industry-market-including-top-key-players-apple-inc-sap-se-intel-inc-salesforce-inc/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 25
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Global-Artificial-Intelligence-and-Cognitive-Computing-Industry-Market-Including-Key-Players-Market-Share-780x470.jpg"
-        width: 780
-        height: 470
         isCached: true
 
 secured: "f4j4OZo+MLOquz+EZpbfS6J5zKn0ZlM7L4p6MgAo9sZt85iRMnS0XGas9HIh1l3gb27eQQiFKTXqApPlO1EgbCbygbTz0F2LOqfpnmHXYdLd+l52XBfq5XDaGPMx5X1iSutlGb4fqcsLDwB61aOCUzBKaV4bQeMl665yO+Z4297jTqSxSZbbVp30GqqKWbyuZ6/x1PfMCHTFQpcyZ8J5Ef35JruaDJBtggVT6MbmgCkkqcNgjAHdOnnTl0PYNXlVcsR/HxDLtAdYeCRJzwWCjz2/KQFGIGVCuYt7raMTYzXrWiiH56GZQt/wgMBXlErh9p6vjfqQkYO+hiIRcFiVxaQpD2ZL3LrvZ1Oi5QNGEcA=;nzgbeUtcE94ILBpR9DAJeA=="
