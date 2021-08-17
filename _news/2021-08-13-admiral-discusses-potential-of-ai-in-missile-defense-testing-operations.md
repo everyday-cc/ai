@@ -23,17 +23,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Net Digital spins off AI software operations into independent company"
-    excerpt: "German digital payment solutions provider Net Digital has spun off its artificial intelligence (AI) operations into a new subsidiary called irisnet. This new independent company specialises in AI development based on neural"
-    publishedDateTime: 2021-08-12T14:32:00Z
-    webUrl: "https://www.telecompaper.com/news/net-digital-spins-off-ai-software-operations-into-independent-company--1393508"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-
 secured: "Cp8AomqALedK27mP5+zs/oJHui9vO2ff+0tLG18uIgCMVvSoBY+yFyJrkkKVSN0QmxzQiN36875sCKHWQZCDZGK6+GnhMsGJuqnbQYp/vQuHeQ3McvS2kCDe3GEVYj3SOB/qGWnZXkPcqUhGvs0SS+x0x5hJvoYFOFvCi+YpK770shoRrIzYyxFw2Cgjx/5wH+BD0JwdhKmi5boLZ4QXg38kXGog9JbFuiiGFiqNLiBZ3TKjWghOKnnHHxmCqlRUMqdQYXOreEKBmsvJzXwA45aCp9Q+YkdARzej/d/FC/M+KLp29p3JJvIXxugT+wTfRREWJWWMyeZUEAIOonkDXyrHRAQ8Lrl32qDux4qVhG4=;4SNzscJ2TsN6PlezQF8hkQ=="
 ---
 

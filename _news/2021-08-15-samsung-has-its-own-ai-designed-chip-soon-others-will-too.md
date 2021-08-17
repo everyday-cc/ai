@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-des
 webUrl: "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://sm.pcmag.com/t/pcmag_uk/news/s/samsung-jo/samsung-joins-google-and-nvidia-in-using-ai-to-design-chips_neg5.1200.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Samsung is using Artificial Intelligence to design its new Exynos chips"
+    excerpt: "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm."
+    publishedDateTime: 2021-08-17T06:39:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png"
+        width: 1204
+        height: 560
         isCached: true
   - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
     excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."

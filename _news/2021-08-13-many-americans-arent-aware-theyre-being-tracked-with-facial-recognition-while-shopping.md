@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/05/Capture-2.png"
         width: 1024
         height: 526
-        isCached: true
-  - title: "New Tech Could Help Self-Driving Cars Figure Out Where They Are Even Without GPS"
-    excerpt: "It’s pretty clear already the future is all about electric vehicles and self-driving cars, so it’s not necessarily a surprise that more and more companies are trying to make sure they have a well-deserved place in this new side of the automotive industry using revolutionary ideas."
-    publishedDateTime: 2021-08-12T13:24:00Z
-    webUrl: "https://www.autoevolution.com/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 19
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/new-tech-could-help-self-driving-cars-figure-out-where-they-are-even-without-gps-167185-7.jpg"
-        width: 728
-        height: 300
         isCached: true
 
 secured: "QsZfAOzNvMzOKixy6VV13UevvdmMWJU6CqicMq5bd5VnBNCUL+bvPm4JY0Ya3N0McocPm02MiB7/5QlWiVGMC/M60x/MPZICGA3Ue9lsUfXehi0+0hyjF8CLAEphrnLyX2xtd44duGR2Z792cOgOvTYfPXwgTdNwpE258qB0yhGuF7sNQe9Yx10nq5RQyZVUa9JOZFK0mK6dEzbHzDPMeBlQRux3l0gV3AJxOwbsZzfUE/XZk6WnCbvnM9jXB3tgpQ/2pByN/8sOscIgTad3RR+uAgPWCms4KeTvyh9IwB3RYQrj8b+TJLG70Uddhq7UQ+0w+bpRSX8Q/T5IUen0q0pf0+9bTG1S94zE0VlbRzE=;JY60OXP3ZGjKc0oGRAJdBg=="

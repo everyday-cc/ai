@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
+    excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
+    publishedDateTime: 2021-08-17T07:09:00Z
+    webUrl: "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 69
+    images:
+      - url: "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Intel’s announces ‘Alchemist’ consumer GPU graphics"
+    excerpt: "Intel today announced Intel Arc, its first consumer-focused high-performance graphics solution. In the press release, Intel described Arc graphics as “a convergence of Intel’s Xe LP, HP and HPC microarchitectures that will deliver scalability and compute efficiency with advanced graphics features” and that the brand encompasses hardware,"
+    publishedDateTime: 2021-08-16T16:55:00Z
+    webUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113"
+    ampWebUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 59
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/intel-arc-graphics-feature.jpg"
+        width: 2045
+        height: 1149
+        isCached: true
   - title: "Intel ARC GPU As Alternative to AMD and NVIDIA, in 2022"
     excerpt: "Intel has been working on discrete graphics cards for many years and has just announced that its new GPU will arrive on the PC market under the"
     publishedDateTime: 2021-08-16T18:20:00Z
@@ -43,30 +75,21 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "NVIDIA announces new GPU and Omniverse gains new Blender and Adobe support"
-    excerpt: "SIGGRAPH 2021 is a go, and Nvidia is heading up the news with some new Omniverse updates and a brand new RTX A2000 desktop GPU."
-    publishedDateTime: 2021-08-12T14:24:00Z
-    webUrl: "https://www.redsharknews.com/nvidia-announces-new-gpu-and-omniverse-gains-new-blender-and-adobe-support"
-    ampWebUrl: "https://www.redsharknews.com/nvidia-announces-new-gpu-and-omniverse-gains-new-blender-and-adobe-support?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/nvidia-announces-new-gpu-and-omniverse-gains-new-blender-and-adobe-support?hs_amp=true"
+  - title: "Intel’s GPU brand is now Arc, first cards expected in 2022"
+    excerpt: "Launching a GPU, especially a GPU PC builders and gamers have never had a chance to experience then would be a rather big risk, even for Intel. It appears as if Intel used this time to rethink its GPU brand because this week the component maker announced its high performance GPU brand would now be known as Arc."
+    publishedDateTime: 2021-08-17T07:00:00Z
+    webUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
+    ampWebUrl: "https://www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
+    cdnAmpWebUrl: "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2021/08/intels-gpu-brand-is-now-arc-first-cards-expected-in-2022/"
     type: article
     provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 52
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://htxt.co.za/wp-content/uploads/2021/08/intel-arc-logo.png"
+        width: 1080
+        height: 608
         isCached: true
 
 secured: "6SgnueM4ult8FP0IFzOlD6IiNnZAcJbLRaXQRYYU6L0D59VLedkonFvlZ78IJXIPRmVpSM583orOycMETsdwnW/yxqlHROMsT0CSSuxgxw9S92GZjMyBTubbFFFxr94wjM3WtwbWTDbkQbX84gieei73x2lmUsEg7BAfXsr8xyvDiR6WWD1mncbJJKbQcf0UnzpAlQqBPcAZ6iju3apU+uPs2XfymRRcvLQ4ZUGe8FEH9yEeuSdTRGPSyLouMtpFuJ1bTkRHVcifB0hhpLuJNgjUpmB+Rdge7fa0tPgLQlHKGywfqGaR/xzXNTmrTUW3dEa92ZMZZKVvUE+x/Z7HQFVaXd2P6zVllPdZ1eJBR0QUKG5OYzVha+0J4Z+557cksr0EVpilRn3XUyMyzmQ6QH5WjiqqF7DJy1z0JGhV4aEBSpfjSc/Z82SHpZN0bK8oWHC/0vFKnT9tbweQXuTS6X461msG0hJFA6BpHCGNN9gsVWI147ewNOkmuE5AlxPSzk4vsmaPr8Q1UENNzyPFBg==;VZMs5+YFhhi4SNfeLREi7w=="

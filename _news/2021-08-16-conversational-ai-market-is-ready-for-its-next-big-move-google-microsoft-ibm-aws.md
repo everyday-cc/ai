@@ -20,21 +20,49 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services"
-    excerpt: "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ..."
-    publishedDateTime: 2021-08-16T04:17:00Z
-    webUrl: "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
+  - title: "Microsoft Azure Government Top Secret has hit general availability"
+    excerpt: "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA."
+    publishedDateTime: 2021-08-17T03:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 86
+      name: Neowin
+      domain: neowin.net
+    quality: 99
     images:
-      - url: "https://cdn.openpr.com/U/8/U816958276_g.jpg"
-        width: 800
-        height: 407
+      - url: "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
+  - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
+    excerpt: "Bangalore: Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
+    publishedDateTime: 2021-08-15T06:12:00Z
+    webUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    ampWebUrl: "https://indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/wipro-has-earned-the-kubernetes-on-microsoft-azure-advanced-specialization/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 72
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/04/Wipro-NEW-LOGO-1024x724.jpg"
+        width: 1024
+        height: 724
+        isCached: true
+  - title: "Microsoft Renames Its Azure for FHIR API to Azure Healthcare APIs"
+    excerpt: "Microsoft announced the renaming of its Cloud for Healthcare’s Azure API for Fast Healthcare Interoperability Resource (FHIR) to “Azure Healthcare APIs.” In addition to the renaming of the APIs, the company also expands support for healthcare data to include patient health data via FHIR,"
+    publishedDateTime: 2021-08-16T10:52:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-renames-its-azure-for-fhir-api-to-azure-healthcare-apis/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 71
+    images:
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/12344a12-b9b7-4c8f-b165-6afb4b7b3af8.png"
+        width: 1024
+        height: 478
         isCached: true
   - title: "Wobot.ai Now Available in the Microsoft Azure Marketplace"
     excerpt: "Available in the Microsoft Azure Marketplace Microsoft Azure customers worldwide now gain access to Wobot ai to take advantage of the scalability reliability and agility of Azure to look at internal bBest practices and to achieve operational"
@@ -47,55 +75,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
-  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
-    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
-    publishedDateTime: 2021-08-13T13:42:00Z
-    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
+  - title: "Microsoft launches 'top secret' Azure cloud region for US intelligence community"
+    excerpt: "Microsoft continues to deliver on its pledge to provide cloud services to the US government that are compliant with all strengths of data classification"
+    publishedDateTime: 2021-08-16T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community"
+    ampWebUrl: "https://www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505336/Microsoft-launches-top-secret-Azure-cloud-region-for-US-intelligence-community?amp=1"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
-  - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
-    excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
-    publishedDateTime: 2021-08-16T04:03:00Z
-    webUrl: "https://www.openpr.com/news/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355652/speech-and-voice-recognition-market-analysis-and-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-    images:
-      - url: "https://cdn.openpr.com/U/8/U816324049_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
-    excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
-    publishedDateTime: 2021-08-14T08:53:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-healthcare-service-market-future-trend-and-analysis-of-key-segments-and-forecast-2021-to-2026-ibm-microsoft-enlitic/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 34
-  - title: "Machine Intelligence Market Demand Analysis and Opportunity Outlook 2026 | Google, Brighterion, Microsoft, NVIDIA"
-    excerpt: "The latest study released on the Global Machine Intelligence Market by AMA Research evaluates market size, trend, and forecast to 2026. The Machine Intelligence market study covers significant research data and proofs to be a handy resource document for managers,"
-    publishedDateTime: 2021-08-14T20:05:00Z
-    webUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
-    ampWebUrl: "https://manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/machine-intelligence-market-demand-analysis-and-opportunity-outlook-2026-google-brighterion-microsoft-nvidia/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 20
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 51
 
 secured: "0kX+QFWtrtiMRMQ2IoXMcn5xauuqIMkPBj8VlJ0XunIvehhhZCiAA6Zc/BKKfgBB+JqKLAgYhlvgPT14xAt2Jsz1D4wZ+nASX1sn7UF6NuYB4Jmxknb0wGAeo64TCg1sn9foZFEaTg5cb361SjjcxXSnEJ7jPWo31LAuVYitipSnfM9MTX8cH4dYT7MqLQ61eFOpS6y+h9Mc9B2GvbOOpOaoSE4aJ51pxYnkbquvcjwZo4y0LBIwOZ+/iGbyU8iDxV9BDrU6B0OqUTk3px7us7u/1Jddf9+bDxamBq5NBleYzBtRSR82o6958il+9nKP2sySx7ompZ2mNR4LVia8V7bE3sWGGdnfzSj3jJqP1Zg=;+I2rOr1Y99KjM9kfcyP0ZQ=="
 ---

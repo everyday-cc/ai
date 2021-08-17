@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot
 webUrl: "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
+    excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
+    publishedDateTime: 2021-08-17T07:02:00Z
+    webUrl: "https://www.inc.com/jason-aten/elon-musks-ambitious-plan-to-build-a-self-driving-tesla-nhtsa-investigation.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 28
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "E2HhK3NaYEs2Mimw8EuWURL0etLfJWmlauTPk91w55sE/I/zShtpJTpDfkhCfJU7nU9zKj4nYwCoAyF0CC9q6d+jshuxBuBHQDUNxh46biGuCh4MIOzUL1G6HS9oNXGe4xKksvjyYBgxbw0gj/JXqfw2MrJmTl23EJQ+sWsaP7IR+yQ3F6QDjqKvh4/FXnHH/cGSGW4HLWoaIYIqM8azUe6GT5j9wAR1JmFc7Y259L7Ig5YZzQaWqVd3sYv01gBsVsuSRlzSazPAJefnNOv9IoY39eyqB5NGoa3BUMOFFKw2Rn4Y2z+nib+Gaw78/g/P25GeLDYbmicAbmF34sM27EhhQvg/E/YRcHPB/kq0OPg=;fvl6Ju8gD9PLkI1IevpX7A=="

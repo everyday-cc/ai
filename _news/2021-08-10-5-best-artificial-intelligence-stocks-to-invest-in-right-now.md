@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
-publishedDateTime: 2021-08-10T14:18:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+publishedDateTime: 2021-08-10T13:58:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "kEtkDuOTZ1U/P+FoHiPX3QZXl0xe7CFDeHwMZlXOGvtf6otAXGahx97D7bQE50Mx+tfYQoaHYdGJ/g9LrVXzxAiU/YlwH6NIy5vkbZxJQfPm6DtQ+kT2l4d7DJGSjcxWRDFt1de6nESOHQBn2qcgEewS3V0kplkPyUkcravIQfQ3UP37gQYo5y0Hu+tRBeOsgUaIjPU5rO6rQYBczRAAEBl8jQ5+RnTko2PmhxTU/7oHoBKYe+1bY/AA6CfwNt+FWxSEGzOAH9EZ11mEOwDCd8DiaqRGPUdAbDLDmGnIfQW3W2/kKyMYPWjsDQ5USIlJ/ss4INxRsYA1HaCjqJ/CXqctukCSXXPFFtjfGeOcK3A=;L1KEJ6D2JZ76Dx19aPAvOw=="
+secured: "zK2bzy9RwPWdNEzQmZNzmjn3mI70aSWnSdFUGPofGD2mHPG8qWF6e4IlbTy0MCz+Hi9KZGL1oNHMUsqKToL/Yvsussu5ZZBaqKlaGibbguvvvPGM+r5uUM8a3tOO1GRncEwKFPHvaZ4vOOWaT7Azo79SllXAUynoSoQ/SzQfdCE2n1okkrnhYZO4IVhMcRv5qY+DAHvuj28W51L0IRyASWFnnvefBKjbEGQHVqck9KNBTBt7UKFWwf+XQxS+zkoazjGzrD1kLw9XWAYqNDXTmhkQ3gcNzcFnNZOhGz1WD/itRkDkRDC2jt+TvHBaeTvtRKYjOrIZkjW7X6B0y505FIQNj4m/I4RWlMKFf5vrjmA=;OuK+Di1xbmDU5vyLWJWTTQ=="
 ---
 

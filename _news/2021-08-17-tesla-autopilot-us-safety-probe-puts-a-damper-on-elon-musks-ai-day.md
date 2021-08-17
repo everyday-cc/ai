@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
+    excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
+    publishedDateTime: 2021-08-17T07:02:00Z
+    webUrl: "https://www.inc.com/jason-aten/elon-musks-ambitious-plan-to-build-a-self-driving-tesla-nhtsa-investigation.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 28
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "CSrBaTd7uSBjFeRKHyf2gf1W+RVlCx69hi9qGIklhVRX4o0B4zL1udQH67eew1jEZQOtg85GIbOLVj6xINMUv1CA9sCwds9jCUV3fnPpQoqQi5Lb4se6hNcUmXZ/JgAS6yFjw+UU26pykQH7rEL8O6BCsshrc4w6TwC2UnVlvw7Yl4mjSj3DwJsIv9iTizthlezzoUvZWkoOgOeU/qcO8cF7Xh6IFXzHSOKYlvrQp2IDZ3X+IHLGDacXvRuW506zVeg6j0LprXtVqfhVmy+T14H3QI20h6ATDILfIJuBBV3y3W1LrJ6VPGgglcCzcLupKggUk44JaCtlP58nVn7t+gPoqZmVMDHnxpwdvDUlNU4=;qSRG3bO6JqQnyOI7jj1n9A=="
 ---

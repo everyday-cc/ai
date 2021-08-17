@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung is using Artificial Intelligence to design its new Exynos chips"
+    excerpt: "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm."
+    publishedDateTime: 2021-08-17T06:39:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png"
+        width: 1204
+        height: 560
+        isCached: true
   - title: "Samsung’s Next Exynos Chips Will Be Designed By Artificial Intelligence"
     excerpt: "AI can design chips more effectively. So Samsung's next Exynos chips are decided to be designed by a special AI function dubbed DSO.ai."
     publishedDateTime: 2021-08-16T08:55:00Z
@@ -98,6 +112,6 @@ related:
         height: 432
         isCached: true
 
-secured: "f2JeAVbYMbEypW025V0n8CLhqIReUjSogTQsjac42QSNUU5zg8Ye5FXcAEO/IaD44rg7ERFZeNrIW5o8Vfrmw0BkZwIOT/hveF0IMYH00pVgTaFX4dsosFvNGb44BbER8h/IT+u+d5vQdIX7eEPDqVT++aWnx75+I9n4RSK+vL2q+5Uzcf8KEOgbVQ3g3TGXqR+yXT8qmjw0Wy1hRMeTYCcGz/F/3ndg2amVHQfvh4iYvB/60y0fnV/ItZOdICJrIiISP1MsWvZc1Nc/s9LNG08513sWgqbChij7HmyyX4g0BapNYnxQzaTU//jewS17YZDWWKecnNVDg+DgIqGrCg+Db0lM6+Gy8nmiZpiMth0=;IiAIT1sL9bBXkdUNdPdafw=="
+secured: "YNqObIlWeEgjH4sQOrXHltQqXxvNrfsqHGcmhy3thK7TblCuh4LK9JydGmsxuvnhSAT8H0I72PtUOFhMMMKLwX5bukvrumzW0gTWmlodI7AutuHiRoK03pXO4Fb3fFk/tmF7nW20P5Ey6wuqFgAC3cilJRVhQjGdmugpGOOTaVByWPRMfpsHuV75L731dEv0Gyei/ypYo0JUfNsGSvZb3Fg5HKWh6hOrGaD9pGRiJA1/13AT0JWUMmZ5BsVGerDqHhb74oaQy6AXVC8pL2OiM4d9p9qg1augoXDnzR6snDHbepWw2Yyh0EKqemViddU1gfassYVkD08rvuXu7eIZdV7vghNTSvHLa6YCil0mOZoiaKKZOU4fy/+xHh1CmnSmaXYteOzI7CWLTcYxjz64U+63zKIhiBcDsbxlnALeqKh0/+Y9BvaZTshT92tr79YTEscZ1ED4YSRiF3oz2iVG+yawzGEXL+9c6HtVTflSBdsK0M8uW55RL4/Cb/X5a+rnLAJGYI2K6sFFCpRHm2TP1Q==;dbOV0u0ix2ZmxH25W7fx2w=="
 ---
 

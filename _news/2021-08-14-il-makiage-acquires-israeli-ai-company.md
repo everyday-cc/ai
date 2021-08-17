@@ -18,38 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Il Makiage acquires technology company Voyage81 to bolster its brand expansion"
-    excerpt: "Il Makiage announced it will acquire AI-based computational imaging company Voyage81 to build the brand's technological capabilities."
-    publishedDateTime: 2021-08-12T13:35:00Z
-    webUrl: "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/"
-    ampWebUrl: "https://www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/"
-    cdnAmpWebUrl: "https://www-glossy-co.cdn.ampproject.org/c/s/www.glossy.co/beauty/il-makiage-acquires-technology-company-voyage81-to-bolster-its-brand-expansion/amp/"
-    type: article
-    provider:
-      name: glossy.co
-      domain: glossy.co
-    quality: 138
-    images:
-      - url: "https://i1.wp.com/www.glossy.co/wp-content/uploads/2020/12/ilmakiage_62394383_2286538698342220_6311769983673958330_n-1.jpg?fit=1280%2C766&zoom=2&quality=100&strip=all&ssl=1"
-        width: 1280
-        height: 766
-        isCached: true
-  - title: "Beauty Company IL MAKIAGE Adds AI Imaging Startup Voyage81"
-    excerpt: "Beauty company IL MAKIAGE on Thursday (Aug. 12) announced the acquisition of artificial intelligence (AI) imaging startup Voyage81, a move that allows the company to enhance its machine learning capabilities through patented hyperspectral imaging tools and prepare for beauty and wellness launches."
-    publishedDateTime: 2021-08-12T15:02:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/beauty-company-il-makiage-adds-ai-imaging-startup-voyage81/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/08/beauty-IL-MAKIAGE-AI-retail-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "IL MAKIAGE acquires leading Israeli computer vision start-up Voyage81"
     excerpt: "The tech-driven beauty company is adding cutting edge computer vision technology to its existing deep learning capabilities."
     publishedDateTime: 2021-08-12T16:32:00Z
@@ -107,20 +75,6 @@ related:
       name: The Business of Fashion
       domain: businessoffashion.com
     quality: 37
-  - title: "JLL to acquire artificial intelligence company, Skyline"
-    excerpt: "JLL announced that it has reached an agreement to acquire Skyline AI, a leading artificial intelligence (AI) technology company that uses proprietary machine learning models to gain a competitive advantage in the origination and analysis of real estate opportunities."
-    publishedDateTime: 2021-08-12T14:23:00Z
-    webUrl: "https://rew-online.com/jll-to-acquire-artificial-intelligence-company-skyline/"
-    type: article
-    provider:
-      name: Real Estate Weekly
-      domain: rew-online.com
-    quality: 37
-    images:
-      - url: "https://rew-online.com/wp-content/uploads/2021/08/richardbloxam.jpg"
-        width: 427
-        height: 427
-        isCached: true
 
 secured: "BzVvs4RpsDvfhw7JLwVRdlulMZLau5WgStFtebhG8g3acZF7kEPgbmeMKU4GlgyEkPKLetlkuI6KLVQSR5JSTO8sjrkTJRSlQmD8j4KuNKm8gc/T0C6uQKC9q16CnMaYucsKY/1yXQLyJ6R/F4+t/PxtAozMZTTQ3vy79/0Z6ZtrjwvqQQrfcAKTL5nqMMLsSS0o1RxYuyvfotQuo5Ow9y13CBVmBWcGd6sx9/qxRBUx6yU5d4mOrHR5E2WZGqLKiqt1wMdrK81I9g0MXKB5UvVUhFntdyXx11+5Tty42p5caYMJtzG2v9vKDFPu2qZg3VQNoHp6Xvg3gL9Vo+nyDOzN077TcSmPGYlAtAofNr/wd3W/rom3FG4poWlS1fHJtHsf7j+wXz8RElK46J+yp6BidBo1xu/aaeJ6ubiupD6GVbfQsXsUJodpWpM8s1j8ecYv68LSODp2EI6lNwG5TTVbLtO8MPz0kD9erm1Pw5MA1IoVaAB3/DqS22lkQF30rfJw/+JuKacyQ/i/ZSWuCA==;3jzYcELtjyeLv6e59/vw4A=="
 ---

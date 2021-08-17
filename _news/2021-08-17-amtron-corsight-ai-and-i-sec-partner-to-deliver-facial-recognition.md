@@ -1,22 +1,22 @@
 ---
 category: news
 title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
-excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial Recognition Technology provider, to establish a strong Facial Recognition Technology Development and Services portfolio along with setting up a Facial Recognition Center of Excellence (\"FR-COE\") at Tech City,"
-publishedDateTime: 2021-08-17T05:37:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1204172&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1204172&cat=PR News Wire"
+excerpt: "Assam Electronics Development Corporation Limited (AMTRON) has signed a tripartite MOU with Corsight AI, a leading Facial"
+publishedDateTime: 2021-08-17T03:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/amtron-corsight-ai-and-i-sec-partner-to-deliver-facial-recognition-891042133.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/amtron-corsight-ai-and-i-sec-partner-to-deliver-facial-recognition-891042133.html"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 related:
   - title: "AMTRON, Corsight AI and I-Sec partner to deliver facial recognition"
@@ -29,6 +29,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "yYWPlSdLHEJUrV8t152rkV4uUXAPpMv/3XSCqhz3s420OaDN4+x4O5RWGKO2rAcYyRtOVGcLpRzOZcrPuGT92MfjoMrdFDSF+jE4Y5ReWFd1lxVy2uXZuMsARY2EEJzcX8miaWAP8CYO34+6YR8P4hHlbBnjFZjatwe5/a9Yb/HzLE3jp3KEnJ3RZTRgFZdFQOF5fPvC0RvybFXsKuFPv0TbVDz0IqSZ3a/JuKOqJ2njleBWQ0VTAtPFwNQTqr+N3STHY8FewxTUvtiRkZdkl2JFWE6XDlhjVRcDVcDXgusMEKZ2g/qpyeSjPyfyxN3hZtHh6l8aXgAwfTp7gZrAoWsJcJiSaFsFuSDjym1s30o=;UkgUc6aYKu7iGylXZxK1GQ=="
+secured: "ujX+rmcVLo3vEU0hsoIpv5PUbW5jAiRXEG7+/M1QWdbUJViHFfEi+13vBGYXz/L1FgyjbQ4D3hYuGn/6zGPJR1Om19eGhfgwnrYj53cPdZslhx/UrZHbSlRyzXjGm4+WcOeWIFX2zIb1BEZmk3nTiuhRd/twWUAZVK6m0o21ct+iW2bwnJOAMCZRvBv2A83H0AHGCcUWHn672l5y4fmDi9wZvQDH+2NkHf34HeJyi6sAu4RqWjDt0xj7lyizBsCzedAXemKQVoAaQA7gY58vHMBCefqlYx59ewdAdNKZGh76+kc+yV45ThgGCo0tc3iw1vIRR7vwFiQ4+cE4FqjcgDwLcaTL4n2D+oFUpRWujew=;EF31/pihjEK0dfsL0tapvg=="
 ---
 

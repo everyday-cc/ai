@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-17-intel-arc-gpu-as-alternative-to-amd-and-nvidia-in-2022.md",
-      "title": "Intel ARC GPU As Alternative to AMD and NVIDIA, in 2022",
-      "excerpt": "Intel has been working on discrete graphics cards for many years and has just announced that its new GPU will arrive on the PC market under the",
+      "path": "_news/2021-08-17-intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022.md",
+      "title": "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022",
+      "excerpt": "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture.",
       "sourceUrl": null,
-      "webUrl": "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/",
-      "originalUrl": "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/",
+      "webUrl": "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
+      "originalUrl": "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3RHYgNQD8-c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/",
-      "publishedDateTime": "2021-08-16T11:20:00-07:00",
+      "ampWebUrl": "https://www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
+      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
+      "publishedDateTime": "2021-08-17T00:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
+        "name": "GIZBOT",
+        "domain": "gizbot.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,7 +88,7 @@
       "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -140,7 +140,7 @@
       "originalUrl": "https://manometcurrent.com/deep-learning-chip-market-trend-forecast-drivers-restraints-company-profiles-and-key-players-analysis-by-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {

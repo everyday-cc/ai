@@ -2,19 +2,19 @@
 category: news
 title: "EXPLAINER: Western states face first federal water cuts"
 excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-publishedDateTime: 2021-08-17T04:48:00Z
-originalUrl: "https://www.chron.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-webUrl: "https://www.chron.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-ampWebUrl: "https://www.chron.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+publishedDateTime: 2021-08-17T07:48:00Z
+originalUrl: "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+webUrl: "https://www.ctpost.com/news/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
+ampWebUrl: "https://www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+cdnAmpWebUrl: "https://www-ctpost-com.cdn.ampproject.org/c/s/www.ctpost.com/news/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Connecticut Post
+  domain: ctpost.com
 
 topics:
   - Computer Vision
@@ -28,20 +28,18 @@ images:
 
 related:
   - title: "Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
-    publishedDateTime: 2021-08-17T04:16:00Z
-    webUrl: "https://www.wlwt.com/article/western-states-face-first-federal-water-cuts/37323932"
-    ampWebUrl: "https://www.wlwt.com/amp/article/western-states-face-first-federal-water-cuts/37323932"
-    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/western-states-face-first-federal-water-cuts/37323932"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
+    publishedDateTime: 2021-08-17T07:13:00Z
+    webUrl: "https://www.aol.com/news/explainer-western-states-face-first-070007662-001303441.html"
     type: article
     provider:
-      name: WLWT
-      domain: wlwt.com
-    quality: 44
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap21226282735669.jpg?crop=1.00xw:0.847xh;0,0.0671xh&resize=1200:*"
-        width: 1024
-        height: 579
+      - url: "https://s.yimg.com/ny/api/res/1.2/WxdoAC333xXhtmgX_OKhvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/uu/api/res/1.2/Wm_BKW8fJlNIuY1R6aqeEQ--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/cbec9c7d3bf98d4618303b154cddb0af"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Western States Face Water Cuts As A Shortage In The..."
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
@@ -58,6 +56,6 @@ related:
         height: 240
         isCached: true
 
-secured: "yPONEWFQn+w7cMMFTZy5axegJzIA/Kr10MzdvQdNFhkEw3IHIpVS6sGwo1SUU6Bjb9lFYp9jnwp4Jb2nZO6EWq0XLFEEKPb/WSHSvv7w+z33ZmVlMy+kRftLYQtZnEQhzk6QBjao2THz64fpNriKTsGtfR/qBL7wLp/OWAory6HKHC0cpuYglvfi6xML7oE8iSK/2X5UkSpoPdszP48hRJUX6WP1URophq4QJ6DvhiqXh3XUgy/MH1B9iyetTqtjO2vHLrf6Qr2U6+e/3MuPaZ7A0F0m41YKvkxZZ0nUQ9kFxws9FhTVzIQN8bw91YEjg88EMiwTQoTdG0dekGg8Nb/0tSyrqbSB498vqu6IHSA=;B6sM+d7r6OYlVxotfYJ0eQ=="
+secured: "YKJcDR/JCvt35SGh2JEgNL3mf7wMUGCrgsvz5WsysWeAdISoPeTOfljaWuCiLsHYd8zosY95zzATaaOydtOc6odEA+lfH7NStj17xxg47znwv4O5+QAaI6xq8spW9FjNS/fwKDJzdaLOFuarfxIDhRn42LjVMzSu9GBN9BBQ21rIt+GhwRoTRJXRG0XTJiE/pJZhBiFFoUXcgQ+pbVa5GvyjJ5KqPbssxWDIO9Eeo8Jkisbxw0NVxh0OJhIeA+I3CfJ33FL8QnXmcXPwQqmpPM6DO1u1pr/qX3P0Dcjsx0ZQgmjC0NyXC2WeqUtlQGXMOM6xfx1ZXq5eyHk6pK6rexqWkrG5yFeY4Gvo0aaaiqI=;hvgxersL1xLQ9FMANUA3IQ=="
 ---
 

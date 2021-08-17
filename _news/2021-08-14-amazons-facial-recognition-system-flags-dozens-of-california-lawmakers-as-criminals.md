@@ -9,7 +9,7 @@ ampWebUrl: "https://bgr.com/science/rekognition-test-amazon-facial-software/amp/
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/rekognition-test-amazon-facial-software/amp/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 2500
     height: 1640
     isCached: true
-
-related:
-  - title: "Voice of OC News Team: 20-Time Finalists in Southern California Journalism Awards"
-    excerpt: "Voice of OC’s journalists continue to empower the community with real-time news while winning top awards up and down the state."
-    publishedDateTime: 2021-08-12T14:12:00Z
-    webUrl: "https://voiceofoc.org/2021/08/voice-of-oc-news-team-20-time-finalists-in-southern-california-journalism-awards/"
-    ampWebUrl: "https://voiceofoc.org/2021/08/voice-of-oc-news-team-20-time-finalists-in-southern-california-journalism-awards/?amp"
-    cdnAmpWebUrl: "https://voiceofoc-org.cdn.ampproject.org/c/s/voiceofoc.org/2021/08/voice-of-oc-news-team-20-time-finalists-in-southern-california-journalism-awards/?amp"
-    type: article
-    provider:
-      name: Voice of OC
-      domain: voiceofoc.org
-    quality: 39
-    images:
-      - url: "https://voiceofoc.org/wp-content/uploads/2021/08/Marketing.2019.10.OG-45-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "dbUPcH1CilFvklvTnyTJ0Da1+LpyI0sCjHXj2WU61bVyv2IPOSl96jAlzJruK3S5EiG+Wnhz+eProGB5S5p1ZK/inO0bJPsTcOD7V90SLUIWoEeG+WcS9oprVIR1H7reO+w4TBKp3TquGGNBTF/3bRdj5nekzOTdjQv7NrhFPZ+oZaMXcmq7dO/EmqS4sJeIHh3wk1Q/zzuq4BhZLM9F7wKGD4pH3F23wc0BAf1h8b+ilTwt+fkkG9iAMHXkSoQlUKfjlTvtmQVL+veHAq2YjS5PBk3zIQfJoMeli82iS6qbWbYFjHEHjo7BQS0KDkhbCxNC6rMQaMjbuhqMNlbu8WjoUDf27glcjNGGB3pRHx4=;A6EZTrfXO1V7AXcqKB+QEA=="
 ---

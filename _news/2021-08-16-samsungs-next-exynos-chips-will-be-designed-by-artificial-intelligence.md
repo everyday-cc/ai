@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung is using Artificial Intelligence to design its new Exynos chips"
+    excerpt: "Samsung has confirmed that the company will be using Artificial Intelligence (AI) to create its new chips and added that it will be using new software from Synopsys, a leading chip design software firm."
+    publishedDateTime: 2021-08-17T06:39:00Z
+    webUrl: "https://www.gizmochina.com/2021/08/17/samsung-exynos-chips-ai-design/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/20201009142558_65337.png"
+        width: 1204
+        height: 560
+        isCached: true
   - title: "AI is here to design complex chips and Samsung will use it"
     excerpt: "Every one of us might have watched movies where we see AI and robots taking the control of the world and whatnot! However, the thing that we humans cannot do in an acute way, these days AI or Artificial Intelligence is doing for us and now that also includes designing chips."
     publishedDateTime: 2021-08-16T05:10:00Z

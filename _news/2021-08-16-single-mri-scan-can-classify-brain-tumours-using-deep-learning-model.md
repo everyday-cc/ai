@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586"
 type: article
 quality: 74
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning model classifies brain tumors with single MRI scan"
-    excerpt: "A team of researchers have developed a deep learning model that is capable of classifying a brain tumor as one of six common types using a single 3D MRI scan, according to a new study."
-    publishedDateTime: 2021-08-12T13:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/08/210811100807.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
   - title: "Single MRI scan can classify brain tumours using deep learning model"
     excerpt: "Researchers have developed a deep learning model that is capable of classifying a brain tumour as one of six common types, using a single 3D MRI scan, during a new study. The study by researchers from the  University School of Medicine has been published in Radiology: Artificial Intelligence."
     publishedDateTime: 2021-08-14T17:45:00Z

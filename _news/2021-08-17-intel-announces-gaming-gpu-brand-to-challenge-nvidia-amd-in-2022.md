@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-ch
 webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s announces ‘Alchemist’ consumer GPU graphics"
-    excerpt: "Intel today announced Intel Arc, its first consumer-focused high-performance graphics solution. In the press release, Intel described Arc graphics as “a convergence of Intel’s Xe LP, HP and HPC microarchitectures that will deliver scalability and compute efficiency with advanced graphics features” and that the brand encompasses hardware,"
-    publishedDateTime: 2021-08-16T16:55:00Z
-    webUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113"
-    ampWebUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
+  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
+    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
+    publishedDateTime: 2021-08-13T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/intel-arc-graphics-feature.jpg"
-        width: 2045
-        height: 1149
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "fHoQI6BYBjzK3gFbXfNS53kfOQYZewp6KQhX341k3tkNbtsPSoA9Vxv8pRfzw2nPPOMKSczQN8IZ4vMjc5zkuLrISXVyRhMRplHlxfBbGjOAXeF+3IQJ1WGJDIHLey9zpwm5IxcdbDu9lKY4AOYpMAehuTwneAsUxwIG9E1mCEXZeS7SKniKGzHcGNdJbPni4lQNR8evwD76HGYXc4CkiQmd4TVK4wnzb9SSVTKU4GrYhIsqNatbeEyckZxvrzpn7aGlZh0Ki/COpB8JdbCvUH2W0bMsv8aQNktvoz9sDA/HQzaif5qtHrHGb+JRYEbJL9QUH2XDjvydH5zalWjM4vBh1g0ILRiT3IrgEHqUT8lQGmU3jIZeK50W5syzkqAdxeXHpBl0Hg8yVRZa3Z+IdD08Lb0iYoXVOnP9v9ypNuQ2aFuAkSFosTSCjm9aTAyy16jlYZTtjXiwPaxn5xjAhogMsHSifnDi9z4CQR28nou/LkklfNOrI5aaQr4OGEMV+gDcn++QLyWZ4Tfeh7NIqA==;MlqpeVTza8NrfPHZSNqxBg=="
