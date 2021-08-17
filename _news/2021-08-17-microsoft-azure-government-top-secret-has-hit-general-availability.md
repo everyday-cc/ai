@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-
 webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
 quality: 99
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft ups ante in government cloud contest"
     excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
     publishedDateTime: 2021-08-17T08:18:00Z
@@ -120,6 +134,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
+    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
+    publishedDateTime: 2021-08-17T12:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19954993.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "9uU8NBZjxUMydTOM98MYcJ1OT2zQPa1F8El5WCBgla8SIpNdEqe3ZZGk68gHw4kSkO9lVUvjYU1aEuKDJRkStUPNiP5ieZhHIE7o+RqfgemaR/FpdAnPS83J4DlMCMG/7TGUhV49ydEURPW81Yy0FH9NJTRnX29PIlDIR0kDWTp94zapUgVjxArrRfV5rlCvAlAt4qLMPUU4B3GIqzHk4c1QTz7/JKdj6ATaT4VhIyY/ExeduHgjTC+RM1utJDEaZ7iACmcQI+/bYMFpQpE3CvcnVD6RQEL2PD86Z1T7qipeGv1ztpGfOLais1KnVrO/lgJvqPGlC4MznCegVr7Ws/qm4KxhXoYaqhdf0Y9euEUhU2p+E3rGNU/zvd/Dif812A4WvAvepeqOMPVbHWIq0r0UXREsgrHuS9NQLILqkiaAqTrZ+oyLqumLeusRZo/7zm/f483iYYbE/qaju81BijSijKJEI+TpnbqI03mbm2dcKqUC72pvntrI6qj2aeBapLy/NhvL6bRhxBiOCYhf1g==;fih+yyAYc07osNIJGBrJeA=="
 ---

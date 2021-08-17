@@ -42,15 +42,20 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+  - title: "Plannuh Announces AI-Driven Marketing Planning and Budgeting Platform Integration to Salesforce"
+    excerpt: "Plannuh today announced an integration with Salesforce Marketing Cloud to empower marketers to reliably and consistently measure the true business value of their marketing campaigns and their entire marketing plan."
+    publishedDateTime: 2021-08-17T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://mma.prnewswire.com/media/1158334/plannuh_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "neYjQnw4Gywh4JfUgz9/U7yPkZT+sLBojtouuvJ/t1HK7AfkkoRHms1q31uvcUcBm7c9lY3Uf5jv2EjYIykzfGJBJ7c0bPt28yOL6eDcTIiMZDZiJUW0gZSBlCxt2u/4a0ymQqtjRvPkMabpCOV4BEfgVE2kMIEnbGdMqTnfYuPSp/b4xuiQogxH9vnQ6fSSWh8rwjZQLf/xVFV8tZv1C2WtDh4bwXIp9cZoS7jRSE1HH8MYMYhPdrMeWtIEny/GUDTf5tHMRGgrlQm9nVkOxMv9oi0/G+JZgPwofHWXp7tlZ2ck/g9+GowPG10dm++Dp6R7lRBfQQsbePvzCDcbnVel9XsUMMo1l+v0zpsXyMmvJheMDAEqs+FtugPT2l9AJUZHiIiACxpyMZxUb/Q426sduqAIa0hUDqAIKZIwqH1rEw2X2ReQzSPtnqoOxK3k+mCRP+AOiXobLO2JpjZeiT8Cz+lj/gyZTLRzKTpLBMLa7kdgPRg+cRNXhagtJY2UWxj25wGLWFpnYO4b8ajDuA==;6jX7FGTh9Lyw/Wbu24O/Dw=="
 ---

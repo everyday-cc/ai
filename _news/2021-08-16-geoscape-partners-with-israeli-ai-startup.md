@@ -7,7 +7,7 @@ originalUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-a
 webUrl: "https://www.governmentnews.com.au/geoscape-partners-with-israeli-ai-startup/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Il Makiage Acquires Israeli AI Company"
-    excerpt: "American tech-driven beauty brand IL MAKIAGE has acquired Israeli deep-tech AI-based computational imaging startup Voyage81 for $40m. IL MAKIAGE, which is based in New York City's Soho area, was relaunched in 2018 by brother and sister duo Oran Holtzman and Shiran Holtzman-Erel."
-    publishedDateTime: 2021-08-13T17:19:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/il-makiage-acquires-israeli-ai/"
+  - title: "Israeli startup Localize scores $25M to digitize the real-estate game"
+    excerpt: "While the founders battle it out in court, Localize continues to expand its product offering in the real estate market"
+    publishedDateTime: 2021-08-17T13:18:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-localize-raises-25m-to-digitize-the-real-estate-game/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-localize-raises-25m-to-digitize-the-real-estate-game/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-localize-raises-25m-to-digitize-the-real-estate-game/amp/"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
+      name: Geektime
+      domain: geektime.com
+    quality: 42
+    images:
+      - url: "https://www.geektime.com/content/images/2021/08/Madlan-1628082311.png"
+        width: 800
+        height: 540
+        isCached: true
 
 secured: "Mcd0/lbCJxHQ4LQjjZV/o6l8pk5pFM5pvBssM9AkrqQ9vvYeaYfonFCG+ngGMfqyjUzjFDSK3lX1LwpLEml+gOZ/5V5oZOtSOzOhdKGV3cPRmRXAnc5syIORjgSyis1tLyEYAu2oSBpCU2+hiExQKpmCl2CpOZ3XiSCnW17He69SK5fh8aatYfQlpqg/yV7fsdU1yQYMvIhNSpcynMTnYM0pn+Xg2sDXXKgH7Hj22dhaAgMJCgIQRNCU1N+W0Rfa2H7ShMUBYpbN2b+at61rZtiq0cqdOBbU1S9NovWtpzn8sauIz8S4DLLuWI7R4zdQuNUgZmSyyJmBZ4ITTmXsODwUA7MYbYM0IgorTRilRLo=;NWiRHvZCFBu9hiK/dDn5/w=="
 ---

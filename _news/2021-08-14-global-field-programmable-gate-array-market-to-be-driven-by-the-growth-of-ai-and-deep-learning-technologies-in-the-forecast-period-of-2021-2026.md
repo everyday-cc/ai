@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-08-17T11:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
     excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
     publishedDateTime: 2021-08-14T13:26:00Z
@@ -41,17 +55,22 @@ related:
         width: 800
         height: 385
         isCached: true
-  - title: "Deep Learning in Manufacturing Market Size and Forecast 2021-2027: Xilinx, Micron Technology, Qualcomm"
-    excerpt: "Latest survey on Deep Learning in Manufacturing Market is conducted to provide hidden gems performance analysis to better demonstrate competitive environment of Deep Learning in Manufacturing The study is a mix of quantitative market stats and qualitative analytical information to"
-    publishedDateTime: 2021-08-13T12:16:00Z
-    webUrl: "https://www.openpr.com/news/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2354712/deep-learning-in-manufacturing-market-size-and-forecast"
+  - title: "Artificial Intelligence (AI) in Social Media Market Revenue, Growth Factors, Trends, Key Companies, Forecast To 2027"
+    excerpt: "The Global  Market Forecast to 2028 published by Reports and Data provides a holistic overview of the Artificial Intelligence (AI) in S"
+    publishedDateTime: 2021-08-14T07:33:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-social-media-market-revenue-growth-factors-trends-key-companies-forecast-to-2027/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 51
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/7-13.jpg"
+        width: 750
+        height: 350
+        isCached: true
   - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
     excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
     publishedDateTime: 2021-08-17T09:43:00Z

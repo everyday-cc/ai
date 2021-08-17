@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-16T17:21:00Z
 originalUrl: "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner"
 webUrl: "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 135
+heat: 135
+published: true
 
 provider:
   name: Biometric Companies
@@ -24,6 +24,6 @@ images:
     height: 1045
     isCached: true
 
-secured: "T8PXidaqOrA+aZLj8mcQQEDr0uoxntVnxB1ZbtyImEY0zEHYUNNn1MYXNJef7KaQfMRvpVs8p2OxxjX/HUrgO3xTxUrsLjsctK2WPRJgYS3eFpfYJmprzbRAfTPFVV7EsH5rcwabxIX9G/aYziWkH30gcguKkwZNN9LOkkixVB8VH/z7zN4DnXbAjpp4swP4My7WwadyKTYYgYh/wYhFk3o9lo+hdzqQLqs9CjzCpmJSJ8rL/0c8O9j6sNhY2TS+mkwyJ5LzC7c4dBKJezrd5NlOZvDcWcZFY1OLmLsoOaGUc80ufJAzN3MRjGbXcLeL51DY0aqEqmRntTLwOrp8IUN+bvpDJu/gLv/7szAZmJPJJMwRplQjexF+/SlAP3ZCMiPQZTKQIhgIsW5QxiwLp2rZS1ZC4FqeH4IIQqrlxfRQ2A4q59BUggX/j5tKG/n9VPV2V9o9veG7Gzw+thVHCOvU2S3oEC8CIfW8F+Cw5MfcWZNBhEqVvQbWT0aO4n9APXH1moDqvT/d2gF5XhreOQ==;3c9Z8pl6ChjF6X5F6oHHaQ=="
+secured: "0chYaLMFig1VxScXVdcsjT7xF/RttVmM/5ESDhxrYaOWgKHkH/XH7yzIFNjobLCYpxfAnkdv8v2+7Jc7ud48uqNWd2I/pc97RJrfChUlfcBoBEvenNJ/07FcxDAHLEIe5tSHtSb/j81se67qTJ+3xtSFpsxJxJKEQ9qdIHXrB5WfzILkZwn7xsWq3iX2RoCFcN7TnXi39IMTmUAPz5TOSVCq59BI+nFZg3hBjSe1fj4vouUKxG3RTG5wSst7LS0jUrpinjew2N9IWFAak5A16L2uG1AqxaBGCcE3GRogjqMSoaLy7wIPVY/XIx+vMZsBc9TuHL7+AOVrFycxYYYzXAIbzyGPihmzE8hGLmRDONrxveZeiXePOAq8dtmeQ21WGZTooKrZ1pEjZvF3kArArSkYS2xcZlVkIffyHyvxrIELrKIwqr3tH9BFNPixOsnf6JsB8HS027Hb3qRfVVsPKwdb4PsSp4nd8EvvRstPwyZrUEAxepxmieBtpOnLebWVNz1fkH47S2yHCU2A5X6hhPwcdmKjW+R92jxyWXyYjxc=;yZm3vCF2As4GjuATpnH4PQ=="
 ---
 

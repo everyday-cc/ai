@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "OpenAI offers API for GitHub Copilot AI model"
-    excerpt: "Available through the OpenAI API in a private beta, Codex can translate natural language into code in upwards of a dozen programming language."
-    publishedDateTime: 2021-08-12T19:20:00Z
-    webUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.html"
-    ampWebUrl: "https://www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3629469/openai-offers-api-for-github-copilot-ai-model.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_automation_digital_brain_thinkstock_875595818-100749926-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "7Gufw01y0Fug/L3/wjy5xd4kTdZ9bD1HsVA73BtwP2nJqiAAo1DBmbT2+rsaiXRCrcsbqA7V/9s96PbXyDay5BShQFDEhJv5HB8oltN8PiXbZF5dTQfoDtNryN7fuoF86HzzBS4w17i5dMVWyFz0Lg71zXWosiQZLEWHxIy1Z2p/RCLfWS/xZX7UfSoPEGov5jIDgH9KFz+aFeVEyxZyBYWoxDrS84zJvESxkV+m8Q0F5tUlN4ubZpvPOWlS9jZsDTey5Yv1fLebfATK2EH5qSJIMd+uhSigiUBmCBMptLyDAjFOJZJsevDp8Hr8NAL0VyJbFy3lDnpA1XpMutTixxpawh09Erbv32zBB4SFRzBAiyCSaoo0LiqjTSL7ScF0a9/7CcF5MvQeaKd5GzIEr+5gUiCRg0ffdCLQSenW/tJxif4TZtj6S6zSwxK+jh3jcGzqWwUPMQeh6OQLSWolIYiBu2cdkiOF3iGx2dfNS2ZN5lX8bB8mzncNS0buiFf8myC0s/YkPVtLwzr9537/IQ==;QpkrZ5EN3mLUoGJXjsI/QQ=="
 ---

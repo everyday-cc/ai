@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuati
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -31,23 +31,23 @@ images:
     isCached: true
 
 related:
-  - title: "Sales fintech Seismic pushes valuation to $3 billion"
-    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
-    publishedDateTime: 2021-08-16T18:42:00Z
-    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
-    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+  - title: "AI-powered travel tech platform Hopper raises $175M"
+    excerpt: "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding."
+    publishedDateTime: 2021-08-17T13:08:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/"
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 61
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
-        width: 900
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all"
+        width: 1200
+        height: 614
         isCached: true
 
-secured: "rUzf8o836/PheTZFK5XUqzjhVji+RnyoP6pFPatCBvGwHRfWMmp+saQjr0lw+OOB4T0o27HlfYUSe+fZaponJpPYjVnV64w2VKloqmcY2jgTQ9/QBzAvSrq6seCdmqCowTWvXimG3kld8P5VTuzsMhScwu2eXyECg05QGctaAlY7yc+lp5rBlNNMTp0mBgYc1qp03wZc7GqkARDK/CwpZb2WJ8EMb/dkHwj2vma+f2maHS2fRDw/97FpZAjiBY07oRUZE35Z0ymxVAk/1S23RUSAqTZxc0ssvLdHPEDjD8aWcWKiAl3ticKlnOYFmQ/hZp8Y++sroKzywd3jP6PiYFKGg0OfG4HjT/N31gkIL9c=;+4V1Hyph7M2u3nz+AAWsWQ=="
+secured: "Lvr4MbmAZXA5iKsGtpKwT521wbpbNnR1p3w1J1Ni7qYdBy+MjcHnybfsj/0CGRXbOUMwpN65uvJHTnXheO3d1TpaXe7yZThQHEqe40HYqECP8F43GZ2d3VDmebcqykBubJzsLSkvwBAtJ5yjC+5XrAyRQDkiLo+7Eq6dSXCChanYi+pZvNNUzgvg7ef9Kv3dLrmCx00y5+HrKilxXBUojXi7DRgfOqhmYP1BhPPh8RRz83/a5/ipyNPx1BFQZ1OUTxrcoVWOluknkXs23arG0pDx0IzQThwnR5r8Lws58dWsrn36Ky+Nuudu4LPDwN94p9YDYUikaai6NAq4Z4hdbcsURPujsN2UWTPV1MlBll9XXHNDI/2WXyDf47uzpeFXU/vXLSrp1it8/vdqxLFPRp9KxD5g0l7v2bWqFrNoCD5ZUug86loFVK06onAupJQmVtpC9BcFOoQ9lxaG+0190TNKMdBMiK+QQIHfdkex0ZYbEtdShlq98QBipIXc/+S+M85RSfsYLFPsJlaQrBl39A==;grosHCTKt29/mPQJrhPong=="
 ---
 

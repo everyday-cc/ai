@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-ass
 webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Detecting COVID-19 with Artificial Intelligence, Imaging Technology"
+    excerpt: "Researchers are using artificial intelligence technology to take x-rays of patients lungs to determine if they are infected with COVID-19."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/detecting-covid-19-with-artificial-intelligence-imaging-technology"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "InferVision Completes Series D2 Financing Round Led by Goldman Sachs Asset Management"
     excerpt: "InferVision, a medical artificial intelligence (AI) provider specializing in the clinical application of AI and deep learning technologies announced the completion of its Series D2 financing led by Goldman Sachs Asset Management."
     publishedDateTime: 2021-08-13T14:34:00Z

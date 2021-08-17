@@ -1,55 +1,56 @@
 ---
 category: news
 title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-publishedDateTime: 2021-08-16T13:03:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+excerpt: "COVID-19 Growth and Change - ResearchAndMarkets.com The \"Artificial Intelligence Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2021-08-16T08:02:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210816005399/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom"
+webUrl: "https://www.morningstar.com/news/business-wire/20210816005399/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 related:
-  - title: "AI in Marketing: Use Cases and Examples in Content Marketing"
-    excerpt: "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute."
-    publishedDateTime: 2021-08-13T12:44:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
+  - title: "Global Artificial Intelligence in Construction Market growth graph to witness upward trajectory during 2021-2026"
+    excerpt: "Global Artificial Intelligence in Construction Market Stepped Up to Surge Growth Rate Amid COVID-19 Analysis. The report on “Artificial Intelligence in Construction Market publi"
+    publishedDateTime: 2021-08-13T07:50:00Z
+    webUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    ampWebUrl: "https://manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-artificial-intelligence-in-construction-market-growth-graph-to-witness-upward-trajectory-during-2021-2026/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 74
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 36
     images:
-      - url: "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://dailyhonestfacts.com/wp-content/uploads/2021/05/market-research-store7.jpg.jpg"
+        width: 500
+        height: 500
         isCached: true
-  - title: "Cloud Computing Market 2021"
-    excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
-    publishedDateTime: 2021-08-14T02:29:00Z
-    webUrl: "https://www.datamation.com/cloud/cloud-computing-market/"
+  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
+    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
+    publishedDateTime: 2021-08-17T13:21:00Z
+    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
+      name: openpr.com
+      domain: openpr.com
     quality: 26
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
+        width: 780
+        height: 470
         isCached: true
 
-secured: "f4j4OZo+MLOquz+EZpbfS6J5zKn0ZlM7L4p6MgAo9sZt85iRMnS0XGas9HIh1l3gb27eQQiFKTXqApPlO1EgbCbygbTz0F2LOqfpnmHXYdLd+l52XBfq5XDaGPMx5X1iSutlGb4fqcsLDwB61aOCUzBKaV4bQeMl665yO+Z4297jTqSxSZbbVp30GqqKWbyuZ6/x1PfMCHTFQpcyZ8J5Ef35JruaDJBtggVT6MbmgCkkqcNgjAHdOnnTl0PYNXlVcsR/HxDLtAdYeCRJzwWCjz2/KQFGIGVCuYt7raMTYzXrWiiH56GZQt/wgMBXlErh9p6vjfqQkYO+hiIRcFiVxaQpD2ZL3LrvZ1Oi5QNGEcA=;nzgbeUtcE94ILBpR9DAJeA=="
+secured: "WtJrKhAvxxZKIfBYoYuEM7v8YuKNnlQNFvO+XWd1WCdWtH6PW5b8hoS1lfFHSf1+IZ1UjaaF+VCF6DgZXWo5n+Dm+gWnejBly/mCxMtpLKqJ18vKvMJKeGImYV/OapV4pi0PgtBVZwE1Tfxir/RFTPX5+2Bz5MjiUkcx/qI0ezqEJb3v1CO4rMUkfsS3QKt0M7urD11zwncgH76VA59VRIgX2g3/BjB4w8UtHaHCvgqIcZDiZt/fPW69X2cjyj1eWGHuNmKdBcfeb8TCPLKxKqvxRzGz6bDPAVxuKpbkySY9HxUJVxeIqU3vlaK4J1x1sHRHhPVwPUSv9/Y6hBXmHP1Oky0Gv7PDanzwN7+Rucw=;2McAE59mDJYYIxCHJwWjSQ=="
 ---
 

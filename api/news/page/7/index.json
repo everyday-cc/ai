@@ -2,6 +2,451 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-08-10-artificial-intelligence-unlocks-extreme-weather-mysteries.md",
+      "title": "Artificial intelligence unlocks extreme weather mysteries",
+      "excerpt": "From lake-draining drought in California to bridge-breaking floods in China, extreme weather is wreaking havoc. Preparing for weather extremes in a changing climate remains a challenge, however, because their causes are complex and their response to global warming is often not well understood.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "originalUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-use-artifi.jpg",
+          "width": 1453,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-08-artificial-intelligence-extreme-weather-mysteries.amp",
+      "publishedDateTime": "2021-08-10T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions.md",
+      "title": "AI For Population Health And Medical Imaging Gets A Boost With $230 Million Acquisitions",
+      "excerpt": "Nanox announced today two acquisitions to create a globally connected, end-to-end AI in radiology and population health solution",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61126d032c71efbd31a6ced9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/08/10/ai-for-population-health-and-medical-imaging-gets-a-boost-with-230-million-acquisitions/amp/",
+      "publishedDateTime": "2021-08-10T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-this-startup-is-trailblazing-industrial-ai-sphere.md",
+      "title": "This Startup Is Trailblazing Industrial AI Sphere",
+      "excerpt": "DeTect Technologies is innovating and providing highly sophisticated and advanced yet easy-to-understand AI solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379825",
+      "originalUrl": "https://www.entrepreneur.com/article/379825",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628596224-WhatsAppImage2021-08-10at51908PMv1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379825",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379825",
+      "publishedDateTime": "2021-08-10T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking.md",
+      "title": "Embracing Complexity And Uncertainty: The STAGE Approach For AI-Powered Banking",
+      "excerpt": "The Covid-19 pandemic introduced unprecedented uncertainty and pushed banks over the ascending triangle of digital transformation toward AI-powered banking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fea1189c9b112546486afea%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/10/embracing-complexity-and-uncertainty-the-stage-approach-for-ai-powered-banking/amp/",
+      "publishedDateTime": "2021-08-10T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-computer-vision-startup-zebra-medical-vision-sells-for-200m.md",
+      "title": "Computer vision startup Zebra Medical Vision sells for $200M",
+      "excerpt": "Zebra Medical Vision, a computer vision startup focused on health care, has agreed to be acquired in a deal worth $200 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "originalUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/10/computer-vision-startup-zebra-medical-vision-sells-for-200m/amp/",
+      "publishedDateTime": "2021-08-10T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
+      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
+      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "publishedDateTime": "2021-08-10T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-ai-driven-biology-can-get-critical-medicines-to-patients-faster.md",
+      "title": "AI-Driven Biology Can Get Critical Medicines To Patients Faster",
+      "excerpt": "Absci, a synthetic biology company that recently went public, is using an AI-powered platform for protein discovery and production to help pharmaceutical companies create drugs that were previously impossible to make.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611258097e9e1a7c43a6ced9%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/08/10/ai-driven-biology-can-get-critical-medicines-to-patients-faster/amp/",
+      "publishedDateTime": "2021-08-10T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-10-things-in-tech-aws-hiring-spree-musks-2020-pay-ai-for-pizza.md",
+      "title": "10 things in tech: AWS hiring spree — Musk's 2020 pay — AI for… pizza?",
+      "excerpt": "AWS is on a hiring spree, Musk got $6.7 billion in compensation in 2020, and Pizza Hut wants to build a pizza AI: 10 things in tech you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "originalUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6111a8fbdaba4e0019e5ab47?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/10-things-in-tech-aws-hiring-musks-pay-ai-pizza-2021-8?amp",
+      "publishedDateTime": "2021-08-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-nimbleboxai-raises-1-mn-seed-funding-led-by-venture-catalysts.md",
+      "title": "NimbleBox.ai Raises $1 Mn Seed Funding Led By Venture Catalysts",
+      "excerpt": "The funding will be utilized to deliver the company’s fast-moving product development roadmap, customer base expansion and hiring drive",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/379813",
+      "originalUrl": "https://www.entrepreneur.com/article/379813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628586139-joel-rohland-C1r9pODhfQ4-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379813",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379813",
+      "publishedDateTime": "2021-08-10T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-logitech-scribe-review-ai-camera-brings-analogue-whiteboards-into-video-meetings.md",
       "title": "Logitech Scribe review: AI camera brings analogue whiteboards into video meetings",
       "excerpt": "Hybrid working and teaching, with a mixture of in-room and remote participants, is here to stay, and Logitech's Scribe provides a usable way of bringing analogue whiteboards into the digital fold. It's not inexpensive,",
@@ -769,434 +1214,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-ais-real-effect-on-jobs-its-complicated.md",
-      "title": "AI’s real effect on jobs? It’s complicated",
-      "excerpt": "This article is part of a VB special issue. Read the full series: Automation and jobs in the new normal. To some, AI is a job killer. To others, it is a job enhancer. But like every other form of labor development since the first farmer hitched an ox to a plow and displaced a",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/",
-      "originalUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/startup-849804_1920-e1628271844907.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/ais-real-effect-on-jobs-its-complicated/amp/",
-      "publishedDateTime": "2021-08-09T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-us-parents-are-packing-their-kids-off-to-hundreds-of-ai-summer-camps.md",
-      "title": "US parents are packing their kids off to hundreds of AI summer camps",
-      "excerpt": "Artificial intelligence has become so ingrained in the economy that parents are packing their kids off to hundreds of AI summer camps across the US to learn how to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/",
-      "originalUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/08/2019-04-18T112849Z_1_LYNXNPEF3H0OY_RTROPTP_4_UK-BRITAIN-VIDEOGAMES-GIRLS-e1628526569697.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2043987/us-parents-are-packing-their-kids-off-to-ai-summer-camps/amp/",
-      "publishedDateTime": "2021-08-09T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-south-africa-awards-ai-invented-patent-in-a-world-first.md",
-      "title": "South Africa Awards AI-Invented Patent In a World First",
-      "excerpt": "South Africa’s patent office has granted the world's first patent for a creation generated by an AI inventor, DABUS.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "originalUrl": "https://interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/AzwkVgWP6b/sizes/south-africa-awards-ai-invented-patent-in-a-world-first_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/south-africa-awards-ai-invented-patent-in-a-world-first",
-      "publishedDateTime": "2021-08-09T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-the-challenge-and-opportunity-of-being-a-niche-ai-cloud.md",
-      "title": "The Challenge – And Opportunity – Of Being A Niche AI Cloud",
-      "excerpt": "In this era of hyperscaler and cloud builder titans, their seven of whom account for about half of the IT infrastructure bought in the world, it is",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/",
-      "originalUrl": "https://www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/08/lambda-labs-logo-2.jpg",
-          "width": 689,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/08/09/the-challenge-and-opportunity-of-being-a-niche-ai-cloud/amp/",
-      "publishedDateTime": "2021-08-09T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-his-tom-cruise-deepfake-videos-driven-tiktok-crazy-you-now-have-an-artificial-intelligence-company.md",
-      "title": "His Tom Cruise 'Deepfake' Videos Driven TikTok Crazy; you now have an Artificial Intelligence company",
-      "excerpt": "Chris Umé launched Metaphysic, a company that has already made announcements for Gillete and Euro 2020. In this regard, the co-founder of Metaphysic, Tom Graham, a technology entrepreneur based in London, told CNN Business \"Technology is advancing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/379713",
-      "originalUrl": "https://www.entrepreneur.com/article/379713",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1628523175-chris-ume.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/379713",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/379713",
-      "publishedDateTime": "2021-08-09T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars.md",
-      "title": "There Is Increasingly Mounting AI Technical Debt That Is Going To Inevitably Sink Some Self-Driving Cars",
-      "excerpt": "One unspoken aspect of today's AI systems is the incurring of software technical debt, which also pertains to the development of AI-based self-driving cars. Here's the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610dc9312d9670da5ca5a586%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3618%26cropY1%3D308%26cropY2%3D2344",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/09/there-is-increasingly-mounting-ai-technical-debt-that-is-going-to-inevitably-sink-some-self-driving-cars/amp/",
-      "publishedDateTime": "2021-08-09T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-lockbit-20-flytrap-android-trojan-unpatched-routers-exploited-scada-espionage-in-se-asia-apples-child-protection-plans.md",
-      "title": "LockBit 2.0. Flytrap Android Trojan. Unpatched routers exploited. SCADA espionage in SE Asia. Apple's child protection plans.",
-      "excerpt": "ACSC warns of a LockBit 2.0 surge. Flytrap Android malware compromises Facebook accounts. Unpatched Buffalo routers exploited in the wild. Collecting against SCADA in Southeast Asia. Apple's child protection measures.",
-      "sourceUrl": null,
-      "webUrl": "https://fcw.com/articles/2021/08/03/ai-hsgac-workforce-bill.aspx",
-      "originalUrl": "https://thecyberwire.com/newsletters/daily-briefing/10/152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fcw.com/-/media/GIG/EDIT_SHARED/AI_Automation/aigovernment.png",
-          "width": 760,
-          "height": 368,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-09T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Wire",
-        "domain": "thecyberwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-july.md",
-      "title": "Tesla Fame's Robot-Run ETF Added Snapchat, Zoom And This WallStreetBets-Favorite Stock In July",
-      "excerpt": "The Qraft AI-Enhanced US Large Cap Momentum ETF (NYSE:AMOM), an exchange-traded fund driven by artificial intelligence, has acquired stakes in Reddit-favorite stock Advanced Micro Devices Inc. (NASDAQ:AMD),",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/long-ideas/21/08/22393375/tesla-fames-robot-run-etf-added-snapchat-zoom-and-this-wallstreetbets-favorite-stock-in-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/souvik-banerjee-pqxlyuqex4c-unsplash_2.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/22393375",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22393375",
-      "publishedDateTime": "2021-08-09T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-data-labeling-platform-snorkel-ai-nabs-85m.md",
-      "title": "Data labeling platform Snorkel AI nabs $85M",
-      "excerpt": "Data labeling platform Snorkel AI has raised $85 million at a $1 billion valuation, the company announced in a press release.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
-      "originalUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/data-labeling-platform-snorkel-ai-nabs-85m/amp/",
-      "publishedDateTime": "2021-08-09T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

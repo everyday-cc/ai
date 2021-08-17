@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
+      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
+      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
+          "width": 2048,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-grape-crops-protected-with-help-of-facial-recognition-technology.md",
       "title": "Grape Crops Protected With Help of Facial Recognition Technology",
       "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
@@ -1294,50 +1337,6 @@
       "provider": {
         "name": "internationalinvestment",
         "domain": "internationalinvestment.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
-      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
-      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
-      "sourceUrl": null,
-      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBS",
-        "domain": "ibsintelligence.com",
         "images": null,
         "publishers": null,
         "authors": null

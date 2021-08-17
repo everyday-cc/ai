@@ -47,6 +47,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "ClosedLoop.ai Raises $34M in Series B Funding"
+    excerpt: "ClosedLoop.ai., an Austin, Texas-based healthcare’s data science platform, raised $34m in Series B financing. The round was led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
+    publishedDateTime: 2021-08-17T10:43:00Z
+    webUrl: "https://www.finsmes.com/2021/08/closedloop-ai-raises-34m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/ClosedLoop_co-founders.jpg"
+        width: 480
+        height: 344
+        isCached: true
 
 secured: "VGhLan2phh7qBn5iJP6GWOCc0PlPsDDAWHqtwhMLidmUGLG0QHLqS99gnjxVgjZZiipvfashZbFavroXngiuuxxLbAlWk/92LLlY96NyK+kKN6B9Y48fTi981B7oOZpIuyb3u0yoE3rEBa7k3IKSwyNQkrBsh5IlauoyGcB5kkh2QQuB/viFkGJDMwCY/L833uvI325qnPcykOC3pklQnKudYUy6yp/sjA0DsuCTR6g8AL7kUt6RYqTopVHaiH2IW+8I2k1okvtpKIQtQSk5XoMrtdJfyvxd0WFwTvcWGxFhy30d2FBL8QQ2ReV/5toTyUHJwoeq1/gqpt6ywyh8sesKDAaAJeFOJ1ij6vQ8VNY=;dXPsa1bPgH4xuZi96iy1Qw=="
 ---

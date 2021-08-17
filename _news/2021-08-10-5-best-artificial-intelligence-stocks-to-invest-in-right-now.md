@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
-publishedDateTime: 2021-08-10T13:58:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
+publishedDateTime: 2021-08-10T14:18:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "FnGy9G7dV4ob4zrnBERyBKW/6P6C7PmcbJ6MtgneSS5RlT1krOwqrpJw1e+vFJpRS1T8y25T927iCwS99jrmRRt/0TRXmrEBvmckadnM9B3BKGomETjLvyohN4tm+adSC8FQHQvOE5H+J+h7DtL2gZQLY3WvxODJx6TiFn21d9b7sFZf5C4dfZXV6G12lsc9JZKYC+FyF53dPmbBEQ2ytfLjAh97hPmtNRNS2qYENcxY/m7bJgEFcVH6PDwtE4ACQSCrlLirgM6a5eTDB3fMMxsQ0YzIFX/YhcWoTp8gLkqSvDJEfwTdIqW+8Htc0V5hX5eZD4BGXKPTQMsoTYfDGT/36O1fry+lIl1XPht7dx8=;3qMT6FC6vBJX5/0ZH6iOBA=="
+secured: "OKZdGF9mlCuYo9a510TzFp+hmDt9D6InY9EOUOMTY+V8MIWemC01+7W8AltWxFIqUq+U0sI5k8F5i7TOqHLDYX+5+HqwZ9NTa3YJRzVN/TWyXrnCIJDlaj4kZ82V56JijN9ncvheb+X8bv39zcuMTc5IEweZrG1vyadxqKRSqCZCBR7WWJPBnUiz/gHKlLqJtHQYo9wskRRy4SNJrSjRrsbw1MiOMfnBjkyA+jQ39JPPqZ57NOzkVIDFlp/5qroUQGsj3cQj8wGeQZHHxjbxWQ8PPx1hKniWAyG7+7VdmiPpmZsn0oFWZEuPctBZs6tyhwrIUxdSXI4NjVPzPtQrhNnjN/TB9ySfbbhALdMPRqc=;rFx3SGPmhR/W0FFwOuzKyw=="
 ---
 

@@ -54,58 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-tesla-autopilot-us-safety-probe-puts-a-damper-on-elon-musks-ai-day.md",
-      "title": "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day",
-      "excerpt": "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-08-16-will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day.md",
       "title": "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?",
       "excerpt": "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,",
@@ -114,7 +62,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -141,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-16-us-probing-autopilot-problems-on-765000-tesla-vehicles.md",
+      "title": "U.S. probing Autopilot problems on 765,000 Tesla vehicles",
+      "excerpt": "The investigation of automated driving systems covers 765,000 vehicles, almost everything Tesla has sold in the U.S. since its 2014 model year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/07/26/2ba3eebe-003e-40a9-ba02-878f155e7235/thumbnail/1200x630/98f5acf6ccf62dbae5ac2354d53f0427/gettyimages-545144506.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "publishedDateTime": "2021-08-16T08:25:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "domain": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-tesla-pushes-new-full-self-driving-beta-update-dont-hold-your-breath-for-download-button.md",
       "title": "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button",
       "excerpt": "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen.",
@@ -149,7 +140,7 @@
       "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -442,6 +433,49 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-5-best-artificial-intelligence-stocks-to-invest-in-right-now.md",
+      "title": "5 Best Artificial Intelligence Stocks To Invest In Right Now",
+      "excerpt": "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1329,58 +1363,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-08-01T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries.md",
-      "title": "L2 Self-driving Vehicle Market 2021 : Global Industry Analysis, Trends, Market Size and Forecasts up to 2027 with Leading Regions and Countries Data",
-      "excerpt": "L2 Self-driving Vehicle Market Growth Analysis 2021-2026 : The increasing use of L2 Self-driving Vehicle in Home",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries-data-2021-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-2021-global-industry-analysis-trends-market-size-and-forecasts-up-to-2027-with-leading-regions-and-countries-data-2021-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-01T23:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-08-17-hopper-raises-170m-at-35b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns.md",
-      "title": "Hopper raises $170M at $3.5B+ valuation as travel surges and its fintech tools help offset variant concerns",
-      "excerpt": "Travel tech company Hopper has raised a $170 million Series G, the company said today. Astute observers may recognize the number — that’s the same amount it raised in a Series F round that closed earlier this year.",
+      "path": "_news/2021-08-17-meet-the-self-driving-brains-inside-volkswagen-and-ford.md",
+      "title": "Meet the self-driving brains inside Volkswagen and Ford",
+      "excerpt": "Argo AI CEO Bryan Salesky on a new partnership with Lyft and setting realistic expectations for self-driving cars Today I’m talking to Bryan Salesky, the co-founder and CEO of Argo AI, a startup that’s trying to build the tech stack for self-driving cars.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/",
-      "originalUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/",
+      "webUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "originalUrl": "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/PR-General-Hero-A-02.png?w=1024",
-          "width": 1024,
-          "height": 768,
+          "url": "https://cdn.vox-cdn.com/thumbor/lFSsTemb8UgU8HixrqnmF7Z3krA=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69735919/VRG_ILLO_Decoder_ARGO_AI_s.0.jpg",
+          "width": 1400,
+          "height": 933,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/hopper-raises-170m-on-3-5b-valuation-as-travel-surges-and-its-fintech-tools-help-offset-variant-concerns/amp/",
-      "publishedDateTime": "2021-08-17T04:30:00-07:00",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving",
+      "publishedDateTime": "2021-08-17T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-ai-powered-travel-tech-platform-hopper-raises-175m.md",
+      "title": "AI-powered travel tech platform Hopper raises $175M",
+      "excerpt": "Hopper, the AI-powered predictive airfare and hotel rate platform, has raised $170 million in a series G round of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/Hopper-Cofounders-Joost-Ouwerkerk-Frederic-Lalonde..jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/ai-powered-travel-tech-platform-hopper-raises-175m/amp/",
+      "publishedDateTime": "2021-08-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,6 +102,315 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups.md",
+      "title": "This Startup Just Raised $8 Million To Connect People To Virtual Support Groups",
+      "excerpt": "The company created an app that provides online support groups to help people struggling with mental and physical health challenges. By using AI technology, Circles asks users a series of questions to match individuals in groups with people that are going through similar issues in life such as divorce,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "originalUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae4a907a8e5a82637481d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jairhilburn/2021/08/17/this-startup-just-raised-8-million-to-connect-people-to-virtual-support-groups/amp/",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors-move-in.md",
+      "title": "Your Smart City Is Boring: How to Preserve Its Soul When the AI Sensors Move In",
+      "excerpt": "AI-based smart cities can help keep residents safe, but they risk turning unpredictable, vibrant urban spaces into boring landscapes of sensors and push notifications. Smart city researcher Annelien Smets wants to prevent that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors",
+      "originalUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/074a3VluhmMUqCjNNq6K0yV-2.1628963363.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/your-smart-city-is-boring-how-to-preserve-its-soul-when-the-ai-sensors?amp=true",
+      "publishedDateTime": "2021-08-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-data-observability-startup-monte-carlo-raises-60m.md",
+      "title": "Data observability startup Monte Carlo raises $60M",
+      "excerpt": "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-qualcomm-readies-5g-and-ai-drone-platform.md",
+      "title": "Qualcomm readies 5G and AI drone platform",
+      "excerpt": "Qualcomm is unveiling its QRB5165 processor platform that enables aerial drones to tap both 5G and AI technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
+      "originalUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/",
+      "publishedDateTime": "2021-08-17T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027.md",
+      "title": "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027",
+      "excerpt": "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-17T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-stopping-ai-bias-starts-with-diverse-product-teams.md",
+      "title": "Stopping AI Bias Starts With Diverse Product Teams",
+      "excerpt": "Beyond the ethics of debating gender or racial bias ... in product design has consequences in the digital world, which leans heavily on artificial intelligence (AI). AI-enabled robots are augmenting human labor on the factory floor, improving customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611a8cd7696f99911afdc233%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/",
+      "publishedDateTime": "2021-08-17T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -303,7 +664,7 @@
       "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -408,7 +769,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -453,6 +814,50 @@
       ]
     },
     {
+      "path": "_news/2021-08-17-sales-fintech-seismic-pushes-valuation-to-3-billion.md",
+      "title": "Sales fintech Seismic pushes valuation to $3 billion",
+      "excerpt": "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "originalUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "cdnAmpWebUrl": "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp",
+      "publishedDateTime": "2021-08-16T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestmentNews",
+        "domain": "investmentnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-the-collective-benefits-of-artificial-intelligence-and-machine-learning.md",
       "title": "The Collective Benefits Of Artificial Intelligence And Machine Learning",
       "excerpt": "T he COVID-19 pandemic has pulled together a variety of factors that have brought the opportunities of artificial intelligence (AI) and machine learning (ML) into sharp focus acro",
@@ -461,7 +866,7 @@
       "originalUrl": "https://www.hellenicshippingnews.com/the-collective-benefits-of-artificial-intelligence-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -609,7 +1014,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -652,21 +1057,21 @@
       ]
     },
     {
-      "path": "_news/2021-08-16-tesla-autopilot-us-safety-probe-puts-a-damper-on-elon-musks-ai-day.md",
-      "title": "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day",
-      "excerpt": "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence.",
+      "path": "_news/2021-08-17-huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner.md",
+      "title": "Huawei smart city projects meet facial recognition block, lawsuit from partner",
+      "excerpt": "The Serbia smart city projectis raising concerns among some members of the European Parliament. Huawei also faces a lawsuit in a Pakistan surveillance project.",
       "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day",
+      "webUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
+      "originalUrl": "https://www.biometricupdate.com/202108/huawei-smart-city-projects-meet-facial-recognition-block-lawsuit-from-partner",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/11150416/Huawei-scaled.jpg",
+          "width": 2048,
+          "height": 1045,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -676,21 +1081,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T08:58:00-07:00",
+      "publishedDateTime": "2021-08-16T10:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -699,8 +1095,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -712,7 +1108,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -739,6 +1135,49 @@
       ]
     },
     {
+      "path": "_news/2021-08-16-us-probing-autopilot-problems-on-765000-tesla-vehicles.md",
+      "title": "U.S. probing Autopilot problems on 765,000 Tesla vehicles",
+      "excerpt": "The investigation of automated driving systems covers 765,000 vehicles, almost everything Tesla has sold in the U.S. since its 2014 model year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/07/26/2ba3eebe-003e-40a9-ba02-878f155e7235/thumbnail/1200x630/98f5acf6ccf62dbae5ac2354d53f0427/gettyimages-545144506.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+      "publishedDateTime": "2021-08-16T08:25:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "domain": "cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-16-bringing-your-ai-coworker-up-to-speed.md",
       "title": "Bringing your AI coworker up to speed",
       "excerpt": "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok.",
@@ -747,7 +1186,7 @@
       "originalUrl": "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -787,444 +1226,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
-      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
-      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
-          "width": 400,
-          "height": 243,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-16T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
-      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
-      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
-      "publishedDateTime": "2021-08-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
-      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
-      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/380301",
-      "originalUrl": "https://www.entrepreneur.com/article/380301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
-      "publishedDateTime": "2021-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
-      "title": "Single MRI scan can classify brain tumours using deep learning model",
-      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
-      "publishedDateTime": "2021-08-15T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews.com",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
-      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
-      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
-      "publishedDateTime": "2021-08-15T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality.md",
-      "title": "Pepperdata CEO says AI ambitions outpace data management reality",
-      "excerpt": "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
-      "originalUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/data_streaming2-e1626372457758.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
-      "publishedDateTime": "2021-08-15T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-tesla-pushes-new-full-self-driving-beta-update-dont-hold-your-breath-for-download-button.md",
-      "title": "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button",
-      "excerpt": "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
-      "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
-      "publishedDateTime": "2021-08-15T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-16-how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era.md",
-      "title": "How Runway Waiters Is Helping Models Thrive In The Social Media And AI Era",
-      "excerpt": "While social media has been a steep learning curve for models and the industry as a whole, face recognition, AI models, and other technological shifts will make success an even bigger challenge in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611959cc5ba5b96e48cf31d1%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
-      "publishedDateTime": "2021-08-15T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us.md",
-      "title": "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us",
-      "excerpt": "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
-      "publishedDateTime": "2021-08-15T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

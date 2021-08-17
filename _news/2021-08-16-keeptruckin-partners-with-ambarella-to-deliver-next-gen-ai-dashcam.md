@@ -33,6 +33,20 @@ related:
         width: 600
         height: 401
         isCached: true
+  - title: "AI dashcam selected for trucking ADAS, telematics and driver monitoring"
+    excerpt: "KeepTruckin have signed an agreement to use Ambarella’s edge artificial intelligence (AI) vision system-on-chip (SoC) for its latest AI dashcam. The device provides AI and image processing for its dual-camera system for use in advanced driver assistance systems (ADAS) with incident recording and a second RGB-IR camera for driver-monitoring system (DMS) with driver recording."
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17067/ai-dashcam-selected-for-trucking-adas-telematics-and-driver-monitoring"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/067/17067/Ambarella-KeepTruckin.jpg"
+        width: 752
+        height: 534
+        isCached: true
 
 secured: "lLT6hu2UKMCt0pM78PQLO714uCQq8YOzGBEtpUNKX8fTJgW/uW7NJ6ysEOuLa5RWMUC7dzsR5aoClAondLINV1CU4YA8SiAZ5jRhZp5HeK1SvOgr83cD2EbmtYxSu2/CIY1HrZKGeYTQP37B5BgH4THmzZBlMrSJKuYJIeliwZZVY/thmLoSzc4mQv+kky9LLGYgsjyksn6cgZtROD2BQKKaFcq+SJKunqKw4XUgQZpsUgVQEzIkKSALzOHLkysNSq3wT2MBde4ViPcYyUDhxq8DBT9cal3kGT1L3g5r8/sPF67YokBCzm1KCnifPcILdvEczaNnDr5LUed9mIAkv6oyeb5gnI2eODcRYSXNJdQ=;zO4WPeQgSMuOYCAiHM+dSg=="
 ---

@@ -25,6 +25,33 @@ images:
     height: 500
     isCached: true
 
+related:
+  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
+    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
+    publishedDateTime: 2021-08-17T13:21:00Z
+    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+    images:
+      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change - ResearchAndMarkets.com The \"Artificial Intelligence Global Market Report 2021: COVID-19 Growth and Change to 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-08-16T08:02:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210816005399/global-artificial-intelligence-market-report-2021-to-2030-covid-19-growth-and-change-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
+
 secured: "2QocR7Dk7lUgX59lpgm48DvJJOLbofDZ/pqTUNhS3cbqRwg4S9OJKF+e97XsfCBohaPeSyKDo8iHBEwsMtPaIuITWXoiHBDyqaXgzX1MW4ueVxhh3TxiFjMLA1dyatZTK919DZXN9iB3BcwYbVVFVPbmWi3sSZF29VUIgcj5VHlijDPDtdmlFaO4gO6Hr6odkwCmVPeW/RfUj4YBOx3hRJReHnGaZN3NY3vZurF4W9vzfrAZsCsRN7LTrFLT+uz0/l3gVgUhnKWNypAbOHl1zVUhtXtSEi9STnK4U5U1D2ztvO6NGR+kqLvsFu3wqxPWdfm1HQYE1Jg4/xMryJzSyPIHtwLFD7fUewtGDe5t5J4=;q5sgEy2tyWbuZo+tzkvMqg=="
 ---
 

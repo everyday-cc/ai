@@ -2,6 +2,453 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-07-15-scientists-create-device-that-can-analyze-brain-waves-of-paralyzed-people-to-help-them-communicate.md",
+      "title": "Scientists create device that can analyze brain waves of paralyzed people to help them communicate",
+      "excerpt": "In recent years, experiments with mind-controlled prosthetics have allowed paralyzed people to shake hands or take a drink using a robotic arm - they imagine moving and those brain signals are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
+      "originalUrl": "https://www.dailymail.co.uk/health/article-9789417/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/07/15/00/45458855-0-image-a-19_1626304239634.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/health/article-9789417/amp/Device-taps-brain-waves-help-paralyzed-man-communicate.html",
+      "publishedDateTime": "2021-07-14T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-congress-asks-experts-for-guidance-on-facial-recognition.md",
+      "title": "Congress Asks Experts for Guidance on Facial Recognition",
+      "excerpt": "Law enforcement uses facial recognition systems with little oversight and, at times, disastrous impact. During a congressional hearing this week, members and experts talked through how new laws could head off greater harm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
+      "originalUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/9451d55/2147483647/strip/true/crop/1095x571+18+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F67%2F8b%2Fbf2467764012829abc8b9b917271%2Frw-better.png",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/congress-asks-experts-for-guidance-on-facial-recognition?_amp=true",
+      "publishedDateTime": "2021-07-14T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-on-semiconductor-intelligent-sensing-technologies-enable-360-vision-in-autox-gen5-self-driving-platform.md",
+      "title": "ON Semiconductor Intelligent Sensing Technologies Enable 360° Vision in AutoX Gen5 Self-Driving Platform",
+      "excerpt": "ON Semiconductor's image sensing and LiDAR technologies power key functions of AutoX’s Gen5 self-driving platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210714005927/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-14T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-device-lets-paralyzed-man-communicate-with-brain-waves.md",
+      "title": "Device lets paralyzed man communicate with brain waves",
+      "excerpt": "In a medical first, researchers harnessed the brain waves of a paralyzed man unable to speak — and turned what he intended to say into sentences on a computer screen.",
+      "sourceUrl": null,
+      "webUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
+      "originalUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/7/7f/77f36514-beca-575a-9807-fc0a4916bc0c/60efa0f25b388.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
+      "cdnAmpWebUrl": "https://magicvalley-com.cdn.ampproject.org/c/s/magicvalley.com/ap/national/device-lets-paralyzed-man-communicate-with-brain-waves/article_32393d27-9a1e-58fd-9747-d1e60c01a6b9.amp.html",
+      "publishedDateTime": "2021-07-14T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times-News",
+        "domain": "magicvalley.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-civil-rights-groups-take-aim-at-facial-recognition-tech-in-stores.md",
+      "title": "Civil Rights Groups Take Aim at Facial Recognition Tech in Stores",
+      "excerpt": "Three dozen civil rights organizations have called on retailers to stop using the tech, saying “prioritizing profit over privacy is wrong.”",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/",
+      "originalUrl": "https://wwd.com/business-news/technology/civil-rights-groups-protest-facial-recognition-tech-stores-1234882271/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?fit=800%2C400&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/14/fight-for-the-future-launches-campaign-to-keep-facial-recognition-off-u-s-college-campuses/amp/",
+      "publishedDateTime": "2021-07-14T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Women's Wear Daily",
+        "domain": "wwd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-paralyzed-man-communicates-through-brain-waves-in-groundbreaking-demo.md",
+      "title": "Paralyzed man communicates through brain waves in groundbreaking demo",
+      "excerpt": "The scientists call the device a “speech neuroprosthetic” that decodes brain waves that normally control the vocal tract.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kvue.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "originalUrl": "https://www.kvue.com/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kvue.com/assets/CCT/images/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a/b19a5c2d-2f27-42c1-ac0c-3d74a0b4c87a_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kvue.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/nation-world/paralyzed-man-communicates-through-brain-waves/507-812dc6db-0adb-4143-b6ef-f205054c893b",
+      "publishedDateTime": "2021-07-14T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVUE",
+        "domain": "kvue.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-defense-secretary-austin-calls-for-ethical-ai-development.md",
+      "title": "Defense Secretary Austin calls for ethical AI development",
+      "excerpt": "The U.S. military will develop artificial intelligence ethically and responsibly, Defense Secretary Lloyd Austin said in remarks on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "originalUrl": "https://www.upi.com/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/6571626285709/2021/1/16262864692568/v1.5/Defense-Secretary-Austin-calls-for-ethical-AI-development.jpg",
+          "width": 382,
+          "height": 255,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Defense-News/2021/07/14/austin-ethics-ai/6571626285709/",
+      "publishedDateTime": "2021-07-14T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-google-ceo-says-artificial-intelligence-will-be-mankinds-greatest-discovery.md",
+      "title": "Google CEO Says Artificial Intelligence Will Be Mankind's Greatest Discovery",
+      "excerpt": "Sundar Pichai compared artificial intelligence to the discovery of fire and electricity in an interview with the BBC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/377330",
+      "originalUrl": "https://www.entrepreneur.com/article/377330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626297217-sundar-pichai-4542.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377330",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377330",
+      "publishedDateTime": "2021-07-14T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-toyotas-woven-planet-acquires-hd-mapping-startup-carmera.md",
+      "title": "Toyota’s Woven Planet acquires HD mapping startup Carmera",
+      "excerpt": "Woven Planet Holdings — an entity created by Toyota to invest in, develop and eventually bring future of transportation technologies like automated driving to market — has acquired HD mapping startup Carmera for an undisclosed amount.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "originalUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/Cobra_Tokyo_PoC_animated.gif",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/14/toyotas-woven-planet-acquires-hd-mapping-startup-carmera/amp/",
+      "publishedDateTime": "2021-07-14T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-15-ibm-chief-data-scientist-makes-the-case-for-building-ai-factories.md",
+      "title": "IBM chief data scientist makes the case for building AI factories",
+      "excerpt": "IBM chief data scientist John Thomas makes the case for building AI factories to increase adoption of best data science practices at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
+      "originalUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/japanai-e1598883828258.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/ibm-chief-data-scientist-makes-the-case-for-building-ai-factories/amp/",
+      "publishedDateTime": "2021-07-14T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-holly-herndon-releases-ai-deepfake-tool-that-lets-others-make-music-with-her-voice.md",
       "title": "Holly Herndon Releases AI Deepfake Tool That Lets Others Make Music With Her Voice",
       "excerpt": "W]e think we have found a way to allow people to perform through my voice, reduce confusion by establishing official approval, and invite everyone to benefit from the proceeds generated",
@@ -742,479 +1189,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-cape-analytics-raises-44m-to-automate-property-inspections-with-ai.md",
-      "title": "Cape Analytics raises $44M to automate property inspections with AI",
-      "excerpt": "Cape Analytics, a company meshing AI with aerial imagery to power property insurance inspections, has raised $44 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/ddd-e1626271091314.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/cape-analytics-raises-44m-to-automate-property-inspections-with-ai/amp/",
-      "publishedDateTime": "2021-07-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-microsoft-azure-receives-new-features-and-enhanced-migration-services.md",
-      "title": "Microsoft Azure receives new features and enhanced migration services",
-      "excerpt": "Microsoft announced a host of enhanced products across Azure, including the Azure Migration and Modernization Program.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/microsoft-azure-receives-new-features-and-enhanced-migration-services/amp/",
-      "publishedDateTime": "2021-07-14T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities.md",
-      "title": "Superficial Radiation Therapy System Market | Artificial Intelligence to Drive More Opportunities",
-      "excerpt": "Jul 14, 2021 (MARKITWIRED via COMTEX) -- Major superficial radiation therapy system market players are leveraging patient and healthcare professional bias towards minimally invasive therapies for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/superficial-radiation-therapy-system-market-artificial-intelligence-to-drive-more-opportunities-2021-07-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-google-ceo-still-insists-ai-revolution-bigger-than-invention-of-fire.md",
-      "title": "Google CEO Still Insists AI Revolution Bigger Than Invention of Fire",
-      "excerpt": "The artificial intelligence revolution is poised to be more “profound” than the invention of electricity, the internet, and even fire, according to Google CEO Sundar Pichai, who made the comments to BBC media editor Amol Rajan in a podcast interview that first went live on Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
-      "originalUrl": "https://gizmodo.com/google-ceo-still-insists-ai-revolution-bigger-than-inve-1847288454",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103991584-RTSQQJD.jpg?v=1529452147",
-          "width": 3500,
-          "height": 2425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html",
-      "publishedDateTime": "2021-07-14T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research.md",
-      "title": "TMU Moradabad collaborates with NVIDIA to establish a Centre of Excellence for AI Research",
-      "excerpt": "Moradabad, and NVIDIA Corporation have signed on a collaborative memorandum to bring artificial intelligence (AI) and deep learning (DL) to a new generation of students and developers. In order to achieve this joint goal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "originalUrl": "https://www.business-standard.com/content/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/14/full/1626265701-561.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/tmu-moradabad-collaborates-with-nvidia-to-establish-a-centre-of-excellence-for-ai-research-121071400946_1.html",
-      "publishedDateTime": "2021-07-14T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video-events.md",
-      "title": "BxVideo's New EZLive Caption Offers Self-Service Transcription, Translation and Captioning for Live-Streaming Video Events",
-      "excerpt": "The service utilizes AI for machine transcription and translation from 30 different spoken languages and more than 50 text-based caption languages. For more information, please visit www.bxvideo.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/bxvideos-new-ezlive-caption-offers-self-service-transcription-translation-and-captioning-for-live-streaming-video/article_fa4d16a5-d9bf-5873-8016-d935109d13f4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-can-children-learn-to-read-online-experts-weigh-in-for-white-paper-exploring-the-risks-and-potential-of-speech-recognition-in-the-classroom.md",
-      "title": "Can Children Learn to Read Online? Experts Weigh-in for White Paper Exploring the Risks and Potential of Speech Recognition in the Classroom",
-      "excerpt": "Dublin-based SoapBox Labs, pioneering developer of speech recognition for kids, today released a white paper exploring the applications, risks, and opportunities of speech recognition in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-children-learn-read-online-experts-weigh-for-white-/2021/07/14/9408989.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-foundations-of-trustworthy-ai-trusted-ai-for-the-workforce.md",
-      "title": "Foundations of trustworthy AI: Trusted AI for the workforce",
-      "excerpt": "As the benefits of AI take hold and social issues rise to our collective attention, the need for trustworthy AI principles and practices has gained warranted focus. In the recent Global AI Adoption Index 2021, conducted by Morning Consult and commissioned by IBM, 91% of IT professionals surveyed say",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/07/trustworthy-ai-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/06/ibm_hr_blog_1000x2000.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T06:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator.md",
-      "title": "Replica Studios goes early acces with AI voice actors for Unreal’s MetaHuman Creator",
-      "excerpt": "Replica Studios has launched early access to integrate its voice actor service into Unreal Engine's MetaHuman Creator.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
-      "originalUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/replica-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/14/replica-studios-goes-early-acces-with-ai-voice-actors-for-unreals-metahuman-creator/amp/",
-      "publishedDateTime": "2021-07-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-sensiml-announces-global-distribution-agreement-with-digi-key-electronics.md",
-      "title": "SensiML Announces Global Distribution Agreement with Digi-Key Electronics",
-      "excerpt": "SensiML ™ Corporation, a leading developer of AI tools for building intelligent Internet of Things (IoT) endpoints, today announced it has signed a worldwide distribution agreement with Digi-Key Electronics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/07/14/9408781.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/07/14/9408781.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-14T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

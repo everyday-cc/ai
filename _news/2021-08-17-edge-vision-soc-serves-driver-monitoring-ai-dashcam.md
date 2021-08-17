@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI dashcam selected for trucking ADAS, telematics and driver monitoring"
+    excerpt: "KeepTruckin have signed an agreement to use Ambarella’s edge artificial intelligence (AI) vision system-on-chip (SoC) for its latest AI dashcam. The device provides AI and image processing for its dual-camera system for use in advanced driver assistance systems (ADAS) with incident recording and a second RGB-IR camera for driver-monitoring system (DMS) with driver recording."
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17067/ai-dashcam-selected-for-trucking-adas-telematics-and-driver-monitoring"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/067/17067/Ambarella-KeepTruckin.jpg"
+        width: 752
+        height: 534
+        isCached: true
   - title: "KeepTruckin partners with Ambarella to deliver next-gen AI dashcam"
     excerpt: "Ambarella, a specialist in AI vision silicon, has announced that KeepTruckin has selected the company's CV22 CVflow edge AI vision system on chip (SoC) for its new AI Dashcam. A leader in fleet management technology,"
     publishedDateTime: 2021-08-16T08:52:00Z

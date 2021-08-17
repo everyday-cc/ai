@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-03-adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening.md",
+      "title": "ADIB is the first UAE bank to use facial recognition for account opening",
+      "excerpt": "ADIB, announced the signing of a partnership with the Ministry of Interior (MOI) to allow opening of accounts remotely and digitally.",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/adib-is-the-first-uae-bank-to-use-facial-recognition-for-account-opening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0ibsintelligek4gm6.kinstacdn.com/wp-content/uploads/2020/09/Lending-Systems-Suppliers-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-03T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-08-03-high-performance-stereo-computer-vision-for-the-raspberry-pi.md",
       "title": "High Performance Stereo Computer Vision For The Raspberry Pi",
       "excerpt": "Up until now, running any kind of computer vision system on the Raspberry Pi has been rather underwhelming, even with the addition of products such as the Movidius Neural Compute Stick.",
@@ -1254,58 +1298,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-27-daily-crunch-accused-january-6-insurrectionist-must-use-face-to-unlock-laptop-orders-judge.md",
-      "title": "Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge",
-      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
-      "originalUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/reffitt-laptop.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/",
-      "publishedDateTime": "2021-07-26T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

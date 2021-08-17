@@ -34,6 +34,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "ClosedLoop.ai Raises $34M in Series B Funding"
+    excerpt: "ClosedLoop.ai., an Austin, Texas-based healthcare’s data science platform, raised $34m in Series B financing. The round was led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
+    publishedDateTime: 2021-08-17T10:43:00Z
+    webUrl: "https://www.finsmes.com/2021/08/closedloop-ai-raises-34m-in-series-b-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/08/ClosedLoop_co-founders.jpg"
+        width: 480
+        height: 344
+        isCached: true
   - title: "Latent AI Raises $19M in Series A Funding"
     excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
     publishedDateTime: 2021-08-16T14:37:00Z

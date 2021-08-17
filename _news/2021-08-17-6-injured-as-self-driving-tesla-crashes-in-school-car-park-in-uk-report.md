@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "More than 750,000 Tesla self-driving cars could be RECALLED after Autopilot crashes"
-    excerpt: "Tesla's Autopilot system is under investigation after a series of crashes involving parked emergency vehicles."
-    publishedDateTime: 2021-08-16T20:37:00Z
-    webUrl: "https://7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875"
-    ampWebUrl: "https://7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/technology/tesla-autopilot-investigated-after-crashes-c-3700875.amp"
-    type: article
-    provider:
-      name: 7news
-      domain: 7news.com.au
-    quality: 53
-    images:
-      - url: "https://images.7news.com.au/publication/C-3700875/4f033b8d40628b59a523ce7d34d73faa6c5b4dcd-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fed Look at Self-Driving Tesla Crashes with Emergency Vehicles"
-    excerpt: "The National Highway Safety Administration is investigating at least 11 incidents in which the cars collided with emergency vehicles that were already at the scene of an earlier accident."
-    publishedDateTime: 2021-08-16T21:30:00Z
-    webUrl: "https://www.firehouse.com/community-risk/community-risk-reduction/news/21234510/fed-look-at-selfdriving-tesla-crashes-with-emergency-vehicles"
-    type: article
-    provider:
-      name: Firehouse
-      domain: firehouse.com
-    quality: 39
-    images:
-      - url: "https://img.firehouse.com/files/base/cygnus/fhc/image/2021/08/16x9/Tesla_Fire_Woodlands__TX__.611ad6dc4bde8.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
     publishedDateTime: 2021-08-16T21:08:00Z

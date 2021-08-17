@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Plannuh Announces AI-Driven Marketing Planning and Budgeting Platform Integration to Salesforce"
+    excerpt: "Plannuh today announced an integration with Salesforce Marketing Cloud to empower marketers to reliably and consistently measure the true business value of their marketing campaigns and their entire marketing plan."
+    publishedDateTime: 2021-08-17T12:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/plannuh-announces-ai-driven-marketing-planning-and-budgeting-platform-integration-to-salesforce-1030737894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://mma.prnewswire.com/media/1158334/plannuh_Logo.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Cloud Computing Market 2021"
     excerpt: "The global cloud computing market is on the rise, expected to reach over $790 billion by 2028. Learn more about today's market now."
     publishedDateTime: 2021-08-14T02:29:00Z
@@ -41,15 +55,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "qpL96eJ6vzxcq4CwiLnR/vfZfwtNeeGy4hDwHIfdernUeiWHN1SIbxcUh5X+Wqes8nbQNcHbMYbeEzwcl6nxakAFhwhfKcNrZoPj3l9TtVcG3g73hnCOPUK44MCiGEycmaC2b9VnkSSx0BypP/3pqVnhexInGpmCYwsYNBVQQjKqoiXSQgquSxGsIbOXoiIcsIIUEmnOekS3gJdA8CL85ViBnbCQQHYkSLSDqaB4ogE6UH/0YiByLx+Xj+Hk3XNlvQDwGkjh688ZtRCoZGxaXYJXW56pjvH34NnrwKygxpnydQT90NoSirPskVTru0aX/hlfe9jmSWS/FNsjXH+2plaBzfAv9g1ff646+19fCJGDiMgRkh44l/PPKSILeVmF9zvYD4DySy1lI7MO/60nHMctCO0+pwr63xGD4kRgCXZQfm3c6hTdcjc4JCIZHK4bzUHaCzF+q/wF5SGfmNHnuqcMY7TC4L5JPS+/7l09GlYZ23F2vNay3ed3y9GQFbrDOdW5vuqyOrHZB6zI0XVQpg==;xa7qILMPX9hJuGq0FyC0BA=="
 ---

@@ -26,16 +26,16 @@ images:
 related:
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
-    publishedDateTime: 2021-08-17T10:02:00Z
-    webUrl: "https://www.djournal.com/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_4f901115-5a95-5de3-951f-d5a015668b37.html"
+    publishedDateTime: 2021-08-17T10:01:00Z
+    webUrl: "https://www.wfmz.com/news/ap/ap-business/closedloop-ai-raises-34m-series-b-to-usher-in-ai-enabled-healthcare-and-tackle-trillion/article_27d87c7e-7a01-582c-a550-2ef6167868d1.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 32
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/95/f953e9d5-1a21-5bdd-b443-02a75559d04f/611b8938cd137.image.jpg?resize=878%2C630"
+        width: 878
         height: 630
         isCached: true
   - title: "Imubit Announces $50 million in Total Funding to Expand its AI Process Optimization Platform"

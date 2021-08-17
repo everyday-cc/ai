@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Data observability startup Monte Carlo raises $60M"
+    excerpt: "Monte Carlo, a startup leveraging AI to power its data observability tech, has raised $60 million in venture capital."
+    publishedDateTime: 2021-08-17T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/"
+    ampWebUrl: "https://venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/data-observability-startup-monte-carlo-raises-60m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/07/AI-e1628527067120.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Virtana Extends Partnership with AWS to Offer its Unified Observability SaaS Platform"
     excerpt: "Virtana, the AIOps observability company for hybrid cloud, is expanding its offering of the Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,"
     publishedDateTime: 2021-08-13T17:13:00Z

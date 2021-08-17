@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resour
 ampWebUrl: "https://venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/sap-acquires-ai-powered-human-resources-platform-swooptalent/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
       domain: zdnet.com
     quality: 69
 
-secured: "1SUpr4yVc4QESCK8W8PttElqpL9kk7l+B8jKJRdJFpQ1cd+kklYSHGhUGvvJtIKPWjCE/CX/1Sj20AhU6Sh7A9e/yeEmWSPLDT4nPgOOE07IPz9hCG5rDI+0bcmpf3Rxhe5npkQ0bBzU8lkOsTEwBeiezijdR5WkFexMX0i2I6hSMbG/n+SNS0QPaMkCCEXZQsPs648O/J8opgiwOMu+Ql5q7/rK1ppLN6GphH45wvz6CFLX+4Ck/++7u1McGEMUEBQ1uKvYuW6TOg5savC/G3gAQtt5DKIe7ZJuoVexV/2vGXzpnyenZuvlKFQiaVzA8ft5O0+wGZLurjMfsdthQcKkX5G8STST3DSiijlCx+yV3M5A8L5rgDLfYrSucMP4aj6ds0OHpL2fwtBUK7sT8UfnroEVMgOndn/0j0wpOXR1fcCy1zKHqropb7/yonNygKODqbZ4ZU2mIoawe84R6Avo9f3dVKDbQgAfzHjXocLEwImLdLOB/FPrkNvxR66Lnl8W9ZYySNvgjsy/Xp+jjA==;ww7wltc0zH/HJFk5KDQcnw=="
+secured: "oZcEHwLVO54PZmNQuCPoK8AHkkZAXf1scx6/dke8q6EV7VRrNiUQjfel7Gx5t566fcr13v91mENQk9SmmYKAD65MVX6OQXZDbdrfkVt9Zxkgja1d2Thjc9H/iIV4XylmF0zZiu/ky9AzeGok8vUdkUJAlMPUgoV7NWqZjfQahhfu4E4/uot+cchAMLP35sMQlEDHnT6NGTj6LOcPMS8+f5QlyXTTRIJ4wbWU1lBN/p1Y5ZtUapqBPf57Lmxl8lXUZIKFdz4C7ma9t7dwgfc06MaMqCp4Rm3/Flm6a77Yy5m4NQqHjZmBI1vWtnXvMsx4Jw45VRU4a8hxTOxalBxIDz3zEi5SdzXVUmCoHD1KIl9TafSV0wc3vb5rH3tbGNFz0GgPSM6BheHxxuOPLFMXA2PZ1ie/kTOfOKLh2Ul9F3nAdRgx7WL6JTSZ/mgYFxM63prRwvRdiIO0bxacybNNpbULZk2YevSYeZMqEkKHyAa81ljN27Se46/euPTJNPpNEodpbOHSL54gwVKTtE9S6XThIYnk2uhhlY9UowfA6co=;7DZSmwaQIY7wah4f7Um6/g=="
 ---
 

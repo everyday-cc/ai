@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-08-is-robot-therapy-the-future.md",
+      "title": "Is robot therapy the future?",
+      "excerpt": "Seek help for a mental health issue today and you may find yourself referred to an online app or talking to a robot therapist. Is this welcome democratisation of an expensive resource – or the ‘Uberisation of therapy’?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "originalUrl": "https://www.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/04168935be947f34b6dd019dc43d0a43310c9226/0_132_3960_2376/master/3960.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3a94a1b689c298d5cd0fb20fc4aace0e",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/society/2021/aug/08/is-robot-therapy-the-future",
+      "publishedDateTime": "2021-08-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-08-robotics-students-ready-to-learn-mystery-competition.md",
+      "title": "Robotics students ready to learn mystery competition",
+      "excerpt": "Whether it’s playing a futuristic ball game, navigating through a complex obstacle course with computer controled wheels or manipulating a metal hand, FIRST Robotics Competition students in La Porte County have been competing for years in gladiatorial matches with their machines.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "originalUrl": "https://apnews.com/article/technology-sports-college-football-robotics-indiana-hoosiers-football-bbe4df1ad0874d79b35236f85f811cfe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-07T15:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-07-vatican-speaks-out-in-killer-robots-debate-at-un-raising-weaponization-of-artificial-intelligence.md",
       "title": "Vatican speaks out in 'killer robots' debate at UN raising weaponization of artificial intelligence",
       "excerpt": "The Vatican has told a UN meeting in Geneva that the use of \"killer robots\" and other lethal autonomous weapons systems that use artificial intelligence violates international treaties because innocent civilians could be erroneously targeted.",
@@ -160,6 +256,40 @@
       "provider": {
         "name": "News",
         "domain": "ftnnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-global-warehouse-automation-markets-2021-2025-expanding-use-of-artificial-intelligence-increasing-adoption-of-robotics-in-warehouse-automation.md",
+      "title": "Global Warehouse Automation Markets 2021-2025 - Expanding Use of Artificial Intelligence & Increasing Adoption of Robotics in Warehouse Automation",
+      "excerpt": "The global warehouse automation market is likely to record growth at a CAGR of 13.6% during the period spanning 2021-2025, and reach US$30.99 billion in 2025. Growth in the global warehouse automation market was supported by several factors like surging adoption of industrial IoT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425525.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/05/9425525.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1185,145 +1315,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor.md",
-      "title": "SA first to award patent recognising artificial intelligence as inventor",
-      "excerpt": "An artificial intelligence has invented a food container with a practical adaption for the transfer of heat into and out of the container.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "originalUrl": "https://www.timeslive.co.za/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/CS1UTZk59JN31DyaVgUuAi6XLPrzfb_ppy-GcAyEjcetYRarjZc_cwAS1LmVVSMOWcJETzDKnK3oizDBZyBtLb5AtpVORRbL=s1000",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/south-africa/2021-07-30-sa-first-to-award-patent-recognising-artificial-intelligence-as-inventor/",
-      "publishedDateTime": "2021-07-30T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times LIVE",
-        "domain": "timeslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-edtech-startup-sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others.md",
-      "title": "Edtech Startup SP Robotic Works Raises $3 Mn From Mount Judi Growth Fund, Others",
-      "excerpt": "SP Robotic Works has raised $3 Mn in Series A funding. With this round, the edtech startup has raised a total of $4 Mn in investment.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
-      "originalUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/07/Untitled-design-9.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/sp-robotic-works-raises-3-mn-from-mount-judi-growth-fund-others/amp/",
-      "publishedDateTime": "2021-07-30T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-30-what-the-us-can-learn-from-europes-approach-to-artificial-intelligence.md",
-      "title": "What the U.S. Can Learn From Europe’s Approach to Artificial Intelligence",
-      "excerpt": "Americans have good reason to be skeptical of artificial intelligence. Tesla crashes have dented the dream of self-driving cars. Mysterious algorithms predict job applicants’ performance based on little more than video interviews.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/30/opinion/30PasqualeMalgieri/30PasqualeMalgieri-facebookJumbo-v3.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/30/opinion/artificial-intelligence-european-union.amp.html",
-      "publishedDateTime": "2021-07-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

@@ -7,7 +7,7 @@ originalUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-he-made-fac
 webUrl: "https://fintechzoom.com/fintech_news_facebook/facebook-he-made-facebook-crazy-about-ai-now-he-cant-fix-that-false-information-addiction/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Telco and medical data breaches. Privacy, at Apple and Facebook. Faking facial recognition."
-    excerpt: "StarHub customer data leaked. Data breach at Georgia hospital. Child protection and Apple's reputation for privacy. Facebook considers ways of collecting less advertising data. Fake faces."
-    publishedDateTime: 2021-08-12T19:30:00Z
-    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/3/155"
-    type: article
-    provider:
-      name: Cyber Wire
-      domain: thecyberwire.com
-    quality: 29
-    images:
-      - url: "https://thecyberwire.com/images/social-media/privacy-briefing/2021/Privacy-21-081221.jpg"
-        width: 2640
-        height: 1320
-        isCached: true
   - title: "VC Daily: Facebook's Giphy Deal Faces Competition Concerns; Reddit Valuation Soars to $10 Billion; Question of the Week"
     excerpt: "Top News Competition concerns. U.K. antitrust officials said they could call on Facebook Inc. to unwind its acquisition of Giphy, a provider of popular animated images, after provisionally finding that the deal would harm competition between social-media platforms and in the display advertising market,"
     publishedDateTime: 2021-08-13T08:52:00Z

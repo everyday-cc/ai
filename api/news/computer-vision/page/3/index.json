@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-27-daily-crunch-accused-january-6-insurrectionist-must-use-face-to-unlock-laptop-orders-judge.md",
+      "title": "Daily Crunch: Accused January 6 insurrectionist must use face to unlock laptop, orders judge",
+      "excerpt": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
+      "originalUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/reffitt-laptop.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/26/daily-crunch-34/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/26/daily-crunch-34/amp/",
+      "publishedDateTime": "2021-07-26T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-role-of-artificial-intelligence-and-machine-learning-in-speech-recognition.md",
       "title": "Role of Artificial Intelligence and Machine Learning in Speech Recognition",
       "excerpt": "Initially, AI was only about memorizing data and producing results accordingly; however, now it is much more than that as machines perform various activities like Speech Recognition, Object ...",
@@ -1373,49 +1425,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-07-16-backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-unfairly-kicked-out-of-skating-rink.md",
-      "title": "Backlash to retail use of facial recognition grows after Michigan teen unfairly kicked out of skating rink",
-      "excerpt": "Apple, Macy's, Albertsons, Lowes and Ace Hardware all use facial recognition software in their stores. Multiple civil rights groups banded together this week to end the use of facial recognition tools by large retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/backlash-to-retail-use-of-facial-recognition-grows-after-michigan-teen-kicked-out-of-skating-rink-after-false-match/",
-      "publishedDateTime": "2021-07-15T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -82,6 +82,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edible Arrangements grows business with Microsoft Azure"
     excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
     publishedDateTime: 2021-08-17T11:36:00Z
@@ -116,6 +130,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
+    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
+    publishedDateTime: 2021-08-17T12:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19954993.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "bJQGX7YznGGgDcoG6nczUZKAU0QG5Jt75QFPb16AaoR08xL3kparY8dRsBN6U/gDRdx0GcCRHaJ9G/OfcZKzoUpCkAvM8zTROTgaPg+ZsyIMe/WxAV2eyB6ybbPyP6euDFEpYHBnx1eKLGo4Eb5s3txfBrUzkFDyJyUR+4aHw73mFMVtMiOEOgkFz596Zf7Ah4EJhaLav84Ghz0xScZY3BvfrKnrTyJA6E16I6nhIvhZo50F4ssiLAwVOPsswXlOHxzI57V2J3XEhuiV+ucj7LdjHmjY4IIATG5iEqdXeFeNq0nUmjOy/p6ZgDIOBWVxFSw+jTqKs/QGJOeCrjqX9lJaPeILPDo+Z7uFsI04ttti/Cj4M0LyGu99JHcM75XV3lld3p/FiZ6LaOwQZkbF6NdBm4aKvJHfEiIPwW9+j8Ind30Sp2cpRTuW+OTsYROQweL48tSqSKDGOgZcK0TLUm2XMML6UxQZYGTMSMReSu5Fyy5JuYH6tjYi7PDg9Tl0UYdsxGGbDwOd5Ra/m0ejcA==;SQt7q5ugrsTTjhhD9xWARA=="
 ---

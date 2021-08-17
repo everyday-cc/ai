@@ -77,6 +77,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 69
+  - title: "Microsoft launches Azure Government Top Secret for US national security contracts"
+    excerpt: "Microsoft has made 'Azure Government Top Secret' generally available, and can now bid for US government contracts with top-secret data hosting requirements. The company has long offered 'Government' and 'Government Secret' services,"
+    publishedDateTime: 2021-08-17T12:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-launches-azure-government-top-secret-for-us-national-security-contracts/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 66
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/MicrosoftAzureClippySoldier.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft ups ante in government cloud contest"
     excerpt: "Microsoft announced its Azure Government Top Secret cloud received authorisation making it available to US national security agencies."
     publishedDateTime: 2021-08-17T08:18:00Z
@@ -116,6 +130,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
+    excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
+    publishedDateTime: 2021-08-17T12:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19954993.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "F67k31Ei9mGnowLiU6Pn3927Mb9r4kE70vko8jrokyuo3EOIUOq9Dt3G9Bclipwl6i9coTnfc4zxtOtPquvGNCvQAOoDRelmI3bPJfLHRiJt7f2pAi10D+h8pnaQMccle46IOeADc5Xv1qtDClVG4JbJkJfvEyxC72yAc62DvG17Yz3MSfPjGPX+La1IVeZhyq2OttOaCaeakksPFb5RcIjp2A96+0bub+FsD4IhITrw9AOy7cCCi2es93IdWFRE5SeyCBb9WpAb05DiXptoONtRZtKAJAWjaC3ssDJMyGDErB3L14pwIpV0D2LSMUI4a0fvcvqjb5l/omoMsad9UU/+m19OzuzvWlHGi2KW1krHLynCxROvHprd0/DsEv4Qtt04klyPj0euO/RR/NK850jpn9JpawLgrt3e8pJogV+cCAsYpfaUvMPvvTGCh4xGRG/Se+7GUTn7M0Ex4GWH1WViPqRpTJ8lPfKnbOS/zJ5cyQ6XnXlRMOvcTcN3WD9KYT/ZjwaxjcwjA4HKmnDNlQ==;noamejEji3gEkMLHuf6B1Q=="
 ---

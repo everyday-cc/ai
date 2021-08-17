@@ -27,37 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button"
-    excerpt: "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-15T21:30:00Z
-    webUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/"
-    ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
+  - title: "U.S. probing Autopilot problems on 765,000 Tesla vehicles"
+    excerpt: "The investigation of automated driving systems covers 765,000 vehicles, almost everything Tesla has sold in the U.S. since its 2014 model year."
+    publishedDateTime: 2021-08-16T15:25:07Z
+    webUrl: "https://www.cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 79
+      name: cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/
+      domain: cbsnews.com/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/
+    quality: 159
     images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2016/07/26/2ba3eebe-003e-40a9-ba02-878f155e7235/thumbnail/1200x630/98f5acf6ccf62dbae5ac2354d53f0427/gettyimages-545144506.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
-  - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
-    publishedDateTime: 2021-08-16T22:06:00Z
-    webUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014"
-    ampWebUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
+    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
+    publishedDateTime: 2021-08-16T15:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-08-16/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 84
     images:
-      - url: "https://i.ndtvimg.com/i/2017-06/police-line-do-not-cross_650x400_41498536630.jpg"
-        width: 650
-        height: 400
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iVshSUQDWYX0/v0/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
+    excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
+    publishedDateTime: 2021-08-16T17:11:00Z
+    webUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/"
+    ampWebUrl: "https://www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
+    cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/us-launches-investigation-into-teslas-self-driving-tech-after-numerous-crashes/amp/"
+    type: article
+    provider:
+      name: UNILAD
+      domain: unilad.co.uk
+    quality: 55
+    images:
+      - url: "https://www.unilad.co.uk/cdn-cgi/image/width=420,height=700,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F08%2FPA-40016613-262x175.jpg"
+        width: 420
+        height: 280
+        isCached: true
+  - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
+    excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
+    publishedDateTime: 2021-08-17T03:58:00Z
+    webUrl: "https://www.bloombergquint.com/business/tesla-autopilot-u-s-safety-probe-puts-a-damper-on-musk-s-ai-day"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 54
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fed Look at Self-Driving Tesla Crashes with Emergency Vehicles"
     excerpt: "The National Highway Safety Administration is investigating at least 11 incidents in which the cars collided with emergency vehicles that were already at the scene of an earlier accident."
@@ -73,24 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
-    publishedDateTime: 2021-08-16T21:08:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-16/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-telegraph"
+  - title: "Elon Musk's Ambitious Plan to Build a Self-Driving Tesla Has Just 1 Problem. It Doesn't Work"
+    excerpt: "On the other hand, Tesla is the only company with a CEO that insists on marketing driver-assist technologies as \"full-self driving,\" even when the car can't drive itself. I know t"
+    publishedDateTime: 2021-08-17T07:02:00Z
+    webUrl: "https://www.inc.com/jason-aten/elon-musks-ambitious-plan-to-build-a-self-driving-tesla-nhtsa-investigation.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 38
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 28
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "zy1hoPeMKXE/vYxpyWFnX4AZpn8iXBC3swsnoMKgNzhSPb6KC10gSxdchpSYnERQSbn5xUW8KRjeBdwu5WBsUjnblMWKAkmxxq8fgQaMsjIrELulkODdaj8y4gU0V9fann5oe1FkL+ZQRoVkVTqCVLZAo9wmXoIMC+3g+3496gU6C3mRME2J+OWeHujyRDv+cxnQjn6R2DQ1hkYwCFcNYML5sxN9Fbz/mVPmE57l+Wd+4A87xvMXDWEnOIqy6AN18imrh2Kr0isMEOUGqMnzFnXC3/85fRo4Udsf9GpKHSijOOcsOpjRfiO6yQ9DM2GPB1rahHPperCx2GUx/NlLT6G2Jip/fFt+uj2SxhCFeCs=;YlFI1TFrDm81UMXcJFTvVw=="
 ---

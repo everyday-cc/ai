@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "How Native.AI is bringing consumer data closer to manufacturers"
+    excerpt: "The company, which has attracted funding and attention from major players in the CPG industry, uses artificial intelligence to decode consumer comments and reviews into useful information."
+    publishedDateTime: 2021-08-17T13:14:00Z
+    webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
+    type: article
+    provider:
+      name: Food Dive
+      domain: fooddive.com
+    quality: 37
+    images:
+      - url: "https://www.fooddive.com/user_media/cache/b2/f8/b2f86e66ac68ba90f230e236af19a293.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Speed up your workflow with AI photo culling by AfterShoot"
     excerpt: "Photographers are constantly looking for ways to save time in their workflows, whether that’s keywording, editing, sending work from Lightroom to their websites, writing blog content or posting on social media."

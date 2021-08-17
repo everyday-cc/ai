@@ -86,6 +86,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How Native.AI is bringing consumer data closer to manufacturers"
+    excerpt: "The company, which has attracted funding and attention from major players in the CPG industry, uses artificial intelligence to decode consumer comments and reviews into useful information."
+    publishedDateTime: 2021-08-17T13:14:00Z
+    webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
+    type: article
+    provider:
+      name: Food Dive
+      domain: fooddive.com
+    quality: 37
+    images:
+      - url: "https://www.fooddive.com/user_media/cache/b2/f8/b2f86e66ac68ba90f230e236af19a293.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "Y1zh9zXPluFxTQw8utSElFhJAQLr8w+8J4qwzWgzQVXkICqkUesRs0WFFHl3pQopIbBgsfk0cOz4Z17xkr/VVGcYIw69ONxEBvtgw+MFM4IiXlMPtLpTBnKR74S3ZXNCl9Ya4MxglC2txD7vOaoioSZUHJeUJb7hAhLG2ZOEVGRxQqHxcr7uoERUj5pC5u3ZaeZCpPwUSJoYMfUcdUinURB8puoW+QCVcRWpunRJ/ZQXKKLjrFtLox0triyTq/GgPjxtXqqPfCOaZHMm7r67DST7BZNw/UDvv5J0f4rjcwDFxXaTR7LOI7eOR9bfmaXZLNab8GzOKiwOadCNXgDf5KbeXU3jV7inM4OZ4W1Em9g=;gUQ3NznaqhuIC3qeu6ag1g=="
 ---

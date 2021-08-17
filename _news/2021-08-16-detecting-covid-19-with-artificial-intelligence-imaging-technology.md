@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How AI-Driven Technology Is Increasing Food Security, And Improving The Lives Of Farmers Worldwide"
-    excerpt: "Part of the reason smaller family farms can’t produce enough to feed more than their own families or communities, and themselves may struggle with food insecurity, is that they lack technological solutions to monitor soil conditions,"
-    publishedDateTime: 2021-08-12T20:18:00Z
-    webUrl: "https://www.forbes.com/sites/anniebrown/2021/08/12/how-ai-driven-technology-is-increasing-food-security-and-improving-the-lives-of-farmers-worldwide/"
+  - title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
+    excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
+    publishedDateTime: 2021-08-16T13:29:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61158085985b6dd711a7649a%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg"
+        width: 400
+        height: 243
+        isCached: true
+  - title: "InferVision Completes Series D2 Financing Round Led by Goldman Sachs Asset Management"
+    excerpt: "InferVision, a medical artificial intelligence (AI) provider specializing in the clinical application of AI and deep learning technologies announced the completion of its Series D2 financing led by Goldman Sachs Asset Management."
+    publishedDateTime: 2021-08-13T14:34:00Z
+    webUrl: "https://www.lelezard.com/en/news-19951434.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 17
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "ghPOrh3whZrEYjaUzpNWGOb81F8YofAqHgS3viQy+s89ezx2rIVnjZfdI3gE0rXablDBY2O+eElReNllZaIJY2nsGR3uhreg/IRTl4bG8PiuJ1E5t6l46dHRNYSJgMsCnlh+4g816gsX09nEeZqxVTvCq7VzWEaPRVsbI408rBY94qzdtIVrFSzJKtCHjdFe1QWAb46+mFGejpWqy52sYIvvoTQqDyS+kyp9opO+0+5+8zoi9ec6A1gB3aU5NtbbAcEUn+oPjlNY9cllJRx6hpi/AO3UvZ4QgLANx0EwjBswz8j4/LloShEYlFWyWDX+eYdVn3CNAG9Dkk7iLAke76ONy9Pd+JNAIUh1RpqmXOPPmRAnyESvUVOVqVeMog49vaa+OMXkoAqzyZ/ncZnIdt/YSuja2bN4HGf9KwAURcRrS9seEllf2Yv0f5UDHTMYyp4wMYJ/vk+0jM8f7zbwgqNPRN9y4cu82TA8ogp1ngjzoFsbnBPvG8bhyPqkfPMOr8W3v94t6PpzoHNyXzJItw==;HgIb0fWVwtOrXmObXuB7Tg=="

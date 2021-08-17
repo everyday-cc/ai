@@ -2,6 +2,465 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-07-08-three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience.md",
+      "title": "Three Reasons To Leverage AI And ML To Improve The Employee Experience",
+      "excerpt": "Here’s why I think the time is now to start leveraging AI to drive an employee experience that connects, empowers and unleashes the potential of your team: When you apply AI and ML exclusively to productivity, you miss an important piece of the puzzle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/08/three-reasons-to-leverage-ai-and-ml-to-improve-the-employee-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e5a6d22ffabd8616629559%2F0x0.jpg",
+          "width": 1156,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-anything-and-everything.md",
+      "title": "Google’s Supermodel: DeepMind Perceiver is a step on the road to an AI machine that could process anything and everything",
+      "excerpt": "The Perceiver is kind-of a way-station on the way to what Google AI lead Jeff Dean has described as one model that could handle any task, and “learn” faster, with less data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "originalUrl": "https://www.zdnet.com/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/07/08/48cd537f-701b-4c47-9c24-1e554472c85c/deepmind-2021-perceiver-on-imagenet.jpg",
+          "width": 743,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-supermodel-deepmind-perceiver-is-a-step-on-the-road-to-an-ai-machine-that-could-process-everything/",
+      "publishedDateTime": "2021-07-08T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-canaan-releases-self-developed-edge-ai-chip-the-kendryte-k510.md",
+      "title": "Canaan Releases Self-developed Edge AI Chip, the Kendryte K510",
+      "excerpt": "Canaan Inc. (NASDAQ: CAN) (\"Canaan\" or the \"Company\"), a leading high-performance computing solutions provider, today announced the release of the Kendryte K510 (the \"K510\"), an independently designed and developed RISC-V based edge AI chip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-canaan-releases-self-developed-edge-ai-chip-kendryte-/2021/07/08/9405016.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-recycling-using-artificial-intelligence-and-robotics.md",
+      "title": "Recycling using artificial intelligence and robotics",
+      "excerpt": "Abhijeet Ghosh, 6th Grade, Dodgen Middle School, Marietta, Georgia, student looks to recycle waste using artificial intelligence (AI) and robotics. Abhijeet is very keen on recycling. Recycling reduces waste,",
+      "sourceUrl": null,
+      "webUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
+      "originalUrl": "https://www.worldofchemicals.com/media/recycling-using-artificial-intelligence-and-robotics/6261.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.worldofchemicals.com/newphase/image/Elite4.png",
+          "width": 305,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "World Of Chemicals",
+        "domain": "worldofchemicals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-softbank-leads-235m-round-in-anyvisions-ai-recognition-tech.md",
+      "title": "SoftBank leads $235M round in AnyVision's AI recognition tech",
+      "excerpt": "The Israeli company developing AI-driven facial recognition secures mega funding to help expand into new markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
+      "originalUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2021/07/Screenshot_1-1560924163.jpg",
+          "width": 878,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-anyvision-raises-235m-for-facial-recognition/amp/",
+      "publishedDateTime": "2021-07-08T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-hot-topics-and-emerging-trends-in-data-science.md",
+      "title": "Hot topics and emerging trends in data science",
+      "excerpt": "We gauged the perspectives of experts in data science, asking them about the biggest emerging trends in data science",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/emerging-trends-in-data-science-123495952/",
+      "originalUrl": "https://www.information-age.com/emerging-trends-in-data-science-123495952/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future.jpeg",
+          "width": 1080,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-08T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-launching-the-ai-academy-for-small-newsrooms.md",
+      "title": "Launching the AI Academy for small newsrooms",
+      "excerpt": "As people searched for the latest information on COVID-19 last year, including school reopenings and travel restrictions, the BBC recognized they needed to find new ways of bringing their journalism to their audiences. They released a new online tool, the BBC Corona Bot, which uses artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/launching-ai-academy-small-newsrooms/amp/",
+      "publishedDateTime": "2021-07-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets.md",
+      "title": "Heifer International and IBM Work with Coffee and Cocoa Farmers in Honduras to Increase Access to Data and Global Markets",
+      "excerpt": "Heifer International and IBM, together with CATIE ... The experts aim to use Watson's artificial intelligence and machine learning capabilities to provide smallholder cocoa farmers with access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets-301326582.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/heifer-international-and-ibm-work-with-coffee-and-cocoa-farmers-in-honduras-to-increase-access-to-data-and-global-markets-301326582.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-07T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-kick-like-a-pro-with-footy-skills-lab.md",
+      "title": "Kick like a pro with Footy Skills Lab",
+      "excerpt": "When I was growing up in Brisbane, Aussie Rules football wasn’t offered as a school sport – and there weren’t any professional female role models to look up to and learn from. Despite these limitations, we got resourceful. We organized football games in our lunch breaks with friends, using soccer or",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/FSL_UX_Loop_v003_YlMGuf6.gif",
+          "width": 2096,
+          "height": 1182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/australia/footy-skills-lab/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/australia/footy-skills-lab/amp/",
+      "publishedDateTime": "2021-07-07T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-08-oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy.md",
+      "title": "Oxford drugs firm gains $1.5m Gates grant for Covid-19 therapy",
+      "excerpt": "It hopes the therapy will also be effective against new mutations ... This testing stage of drug development typically takes four to five years but artificial intelligence can speed it up considerably. The OCD drug and another neuroscience drug, for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
+      "originalUrl": "https://www.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0a448c8471cb63969b4590df3ffe313bb3de8d29/145_667_4968_2981/master/4968.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a7fe2a628b2582ba0aa43dafcf59541",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/jul/08/oxford-drugs-firm-gains-15m-gates-grant-for-covid-19-therapy",
+      "publishedDateTime": "2021-07-07T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-08-artificial-intelligence-helps-to-discover-new-drugs.md",
       "title": "Artificial Intelligence Helps to Discover New Drugs",
       "excerpt": "In any case, the pharmaceutical industry will have to adapt its research approach to a new rulebook. Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Drug ...",
@@ -704,474 +1163,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development.md",
-      "title": "Artificial Intelligence (AI) Unfolds the New Dimension of Social Development",
-      "excerpt": "Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. New, objective approach to assessing the reduction in apparent age after facelift surgery is now possible with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/Computerized-Images.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-unfolds-the-new-dimension-of-social-development-202136-1.htm",
-      "publishedDateTime": "2021-07-07T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-bill-would-ban-facial-recognition-in-public-housing.md",
-      "title": "Bill Would Ban Facial Recognition in Public Housing",
-      "excerpt": "The proposal would also direct the Housing and Urban Development Department to conduct a comprehensive report on how the tech is used, why and its impact on tenants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/07/bill-would-ban-facial-recognition-public-housing/183131/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/07/07/NGbiometrics20210707/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-anyvision-raises-235m-for-access-point-ai-based-physical-security.md",
-      "title": "AnyVision Raises $235M for Access Point AI-Based Physical Security",
-      "excerpt": "Access Point AI also helps with occupancy analytics ... software development kits and software onto edge-devices such as smart cameras, bodycams and chips, improving video analytics systems with respect to speed, security, affordability, flexibility ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/anyvision-biometrics-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/anyvision-raises-235m-for-access-point-ai-based-physical-security/amp/",
-      "publishedDateTime": "2021-07-07T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-08-anivive-announces-publication-highlighting-the-first-successful-use-of-artificial-intelligence-in-diagnosing-valley-fever-in-dogs.md",
-      "title": "Anivive Announces Publication Highlighting the First Successful Use of Artificial Intelligence in Diagnosing Valley Fever in Dogs",
-      "excerpt": "Anivive, a pet health technology company transforming the therapeutic discovery and development process, announced the publication of \"Detecting Pulmonary Coccidioidomycosis (Valley fever) with Deep Convolutional Neural Networks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-anivive-announces-publication-highlighting-first-successful-use-artificial-/2021/07/07/9404679.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas.md",
-      "title": "Digital transformation fueling spending on cloud, AI, robotics, security and SaaS",
-      "excerpt": "\"Emerging technologies like artificial intelligence, the Internet of Things ... are investing in key use cases like collaborative robotics, operational performance management, and 3D and digital product design and review for improved cost control and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas",
-      "originalUrl": "https://www.securitysystemsnews.com/article/digital-transformation-fueling-spending-on-cloud-ai-robotics-security-and-saas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/uploads/blog/6dfcbb88d032e82b4366850eb1aeb8ef.jpg",
-          "width": 1000,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-07T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-the-man-behind-chinas-aggressive-new-voice.md",
-      "title": "The Man Behind China’s Aggressive New Voice",
-      "excerpt": "Pakistan was one of the first noncommunist countries to switch diplomatic recognition from the exiled government in ... Into that void stepped Zhao, who became the sole voice on all things C.P.E.C., both on Twitter and in more staid official communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html",
-      "originalUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/07/11/magazine/11mag-wolfwarriers/11mag-wolfwarriers-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.amp.html",
-      "publishedDateTime": "2021-07-07T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-wellsaid-labs-raises-10-million-to-boost-its-synthetic-voice-business-fueled-by-ai.md",
-      "title": "WellSaid Labs raises $10 million to boost its synthetic voice business, fueled by AI",
-      "excerpt": "WellSaid Labs will have a lot more to say in the years ahead, thanks to $10 million in new investment that’ll be used to beef up the Seattle startup’s efforts to put a widening chorus of AI-generated synthetic voices to work. The Series A funding round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/",
-      "originalUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/07/image003-630x420.png",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/wellsaid-labs-raises-10-million-boost-synthetic-voice-business-fueled-ai/amp/",
-      "publishedDateTime": "2021-07-07T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps.md",
-      "title": "IBM rolls out CodeFlare, an open-source framework for machine learning apps",
-      "excerpt": "CodeFlare is built on top of an emerging open-source distributed computing framework for machine learning applications known as Ray. IBM said CodeFlare extends the capabilities of Ray by adding specific elements to make scaling workflows easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/08/04/38195eea-6673-4ba6-8fe7-a9babacef221/resize/1200x/b171876964c924dd448061d5d5d558b1/ibm-notebook.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-rolls-out-codeflare-an-open-source-framework-for-machine-learning-apps/",
-      "publishedDateTime": "2021-07-07T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-buzz-off-bees-pollination-robots-are-here.md",
-      "title": "Buzz Off, Bees. Pollination Robots Are Here.",
-      "excerpt": "Now, advances in artificial intelligence are helping some startups develop another way to pollinate plants: robots. Across the globe, startups are testing robots to pollinate everything from blueberries to almonds. And in Australia, one company is so ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
-      "originalUrl": "https://www.wsj.com/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-365072/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/buzz-off-bees-pollination-robots-are-here-11625673660",
-      "publishedDateTime": "2021-07-07T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-07-ask-a-techspert-whats-a-neural-network.md",
-      "title": "Ask a Techspert: What’s a neural network?",
-      "excerpt": "Back in the day, there was a surefire way to tell humans and computers apart: You’d present a picture of a four-legged friend and ask if it was a cat or dog. A computer couldn’t identify felines from canines, but we humans could answer with doggone confidence. That all changed about a decade ago thanks",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
-      "originalUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/neural_networks_hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/ask-a-techspert-whats-a-neural-network/amp/",
-      "publishedDateTime": "2021-07-07T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

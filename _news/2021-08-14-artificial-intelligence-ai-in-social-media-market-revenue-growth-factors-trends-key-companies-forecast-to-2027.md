@@ -27,115 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
-    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
-    publishedDateTime: 2021-08-13T07:30:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 62
-    images:
-      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
-        width: 600
-        height: 401
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market - Scenario, Strategies, Growth Factors and Forecast 2025"
-    excerpt: "Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report offers industry size, share, growth, trends and forecast analysis up to 2025. Global Artificial Intelligence (AI) for Telecommunication Market also covers top key players analysis and market segmentation in detail."
-    publishedDateTime: 2021-08-12T19:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market---scenario-strategies-growth-factors-and-forecast-2025-2021-08-12"
+  - title: "Artificial Intelligence Market Size & Share by Sales Revenue, Demands, Growth Factors and Emerging Trends by 2027"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-08-17T11:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
-    publishedDateTime: 2021-08-13T19:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
-  - title: "Competitive Scenario of Artificial Intelligence Sensors Market Growth, Size, Demand, Forecast with Depth Assessment by Top Key Players 2025"
-    excerpt: "Global Artificial Intelligence Sensors Industry Market research report is a specialized and in-depth insight of"
-    publishedDateTime: 2021-08-13T02:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/competitive-scenario-of-artificial-intelligence-sensors-market-growth-size-demand-forecast-with-depth-assessment-by-top-key-players-2025-2021-08-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
-    excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
-    publishedDateTime: 2021-08-13T16:29:00Z
-    webUrl: "https://www.openpr.com/news/2355156/artificial-intelligence-systems-spending-market-types"
-    ampWebUrl: "https://www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355156/artificial-intelligence-systems-spending-market-types"
+  - title: "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027"
+    excerpt: "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due"
+    publishedDateTime: 2021-08-14T13:26:00Z
+    webUrl: "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 30
+    quality: 56
     images:
-      - url: "https://cdn.openpr.com/U/8/U813662254_g.jpg"
-        width: 750
-        height: 350
+      - url: "https://cdn.openpr.com/U/8/U814236969_g.jpg"
+        width: 800
+        height: 385
         isCached: true
-  - title: "Global Radiotherapy Market Report 2021: Expanding Healthcare Infrastructure Accompanied with Rising R&D Activities to Propel Growth - Forecast to 2026"
-    excerpt: "The \"Global Radiotherapy Market - Analysis By Procedure (External Radiation, Internal Radiation), Product, Application, By Region, By Country (2021 Edition): Market Insights and Forecast with Impact of COVID-19 (2021-2026)\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-08-13T11:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-radiotherapy-market-report-2021-expanding-healthcare-infrastructure-accompanied-with-rising-r-d-activities-to-propel-growth-forecast-to-2026-1030728893"
+  - title: "Call Center AI Market Industry Share, Size: 2019 Market Research with Growth, Segments and Forecast - 2025"
+    excerpt: "The rising consumer data in various industries such as retail BFSI and others are creating growth opportunities in the call center AI market With the growing digitalization across the globe big data is on a continuous rise According to the"
+    publishedDateTime: 2021-08-17T09:43:00Z
+    webUrl: "https://www.openpr.com/news/2357263/call-center-ai-market-industry-share-size-2019-market-research"
+    ampWebUrl: "https://www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357263/call-center-ai-market-industry-share-size-2019-market-research"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
-  - title: "Artificial Intelligence in Transportation Market Size, Growth Drivers, Regional Outlook And Forecast 2021-2028"
-    excerpt: "The global Artificial Intelligence in transportation market size is expected to reach USD 7,065.1 Million in 2028 and register a robust CAGR over the forecast period, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-08-13T05:38:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-transportation-market-size-growth-drivers-regional-outlook-and-forecast-2021-2028/?amp=1"
+      name: openpr.com
+      domain: openpr.com
+    quality: 19
+  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
+    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
+    publishedDateTime: 2021-08-14T01:00:00Z
+    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
     type: article
     provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 17
-  - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
-    excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
-    publishedDateTime: 2021-08-17T01:40:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270748091/global-ai-powered-x-ray-imaging-market-2021-growth-opportunities-top-manufacturers-regions-application-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 9
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 18
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1628990292156.jpg"
-        width: 630
-        height: 420
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "3+JgQtdyO5jr3oHDLOKKmo+5xqPpnnHuh1ib3L7DfMrLX1Pk+jxhuibEfQ5/twg0uyrBKqG5ZET/vzQXMat8QU14r6ME+7QG892hbYj4jIx+UdaUcyolLuyeWBEEh+rDiKqYsdX7k93VO6w8FoWqdMU5+y4QSSUujr3kilxvSRtGQr96BISkHkWXopC+yM+x9dl5s/wdU+g+mXoF1PjvO+vtJg1aCVlyMRXmzyqctw7x1V4RThODW8EMgV/+FRiI2tmagDt6a6gE+HebibFm46t4Beh75RVhekqovk/byVX7gamhRN5e/Nca1KEAajWaNP0L4Lt+N9u7JmekHna7cCFP3HPNiIGC92Sv9i2KJrE=;BtHf4jQgcFk31ZItnWfR3A=="

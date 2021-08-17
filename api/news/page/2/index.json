@@ -2,6 +2,444 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-16-infervision-ai-assists-the-european-commission-monitoring-covid-19-variants.md",
+      "title": "InferVision AI Assists the European Commission Monitoring COVID-19 Variants",
+      "excerpt": "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1595169/InferRead_CT.jpg",
+          "width": 400,
+          "height": 243,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence.md",
+      "title": "IIM Ahmedabad Launches Centre for Data Science and Artificial Intelligence",
+      "excerpt": "Ahmedabad has launched the Brij Disa Centre for Data Science and Artificial Intelligence (CDSA) to enable research in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "originalUrl": "https://www.news18.com/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/08/iim-ahmedabad-162911098716x9.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/iim-ahmedabad-launches-centre-for-data-science-and-artificial-intelligence-4091990.html",
+      "publishedDateTime": "2021-08-16T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-leveraging-on-fintech-to-solve-the-creditworthiness-issues-among-msmes-in-india.md",
+      "title": "Leveraging On Fintech To Solve the 'Creditworthiness' Issues Among MSMEs In India",
+      "excerpt": "The traditional lending cycle is time-consuming, involves excessive documentation including but not limited to registration proof, income proof, bank statement, business plan, MSME certificate, etc.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/380301",
+      "originalUrl": "https://www.entrepreneur.com/article/380301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1629109807-austin-distel-EMPZ7yRZoGw-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/380301",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/380301",
+      "publishedDateTime": "2021-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-single-mri-scan-can-classify-brain-tumours-using-deep-learning-model.md",
+      "title": "Single MRI scan can classify brain tumours using deep learning model",
+      "excerpt": "According to a recent study, a new deep learning model can help classify a brain tumour as one of six common types, using a single 3D MRI scan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "originalUrl": "https://www.timesnownews.com/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgk.timesnownews.com/story/MRI-56baa4073df78c0b136bb6bc.jpg?tr=w-400,h-300,fo-auto",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/health/article/single-mri-scan-can-classify-brain-tumours-using-deep-learning-model/799586",
+      "publishedDateTime": "2021-08-15T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews.com",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-artificial-intelligence-in-retail-market-sizesharerecent-study-by-2027microsoft-nvidia-amazon-web-services.md",
+      "title": "Artificial Intelligence in Retail Market Size,Share,Recent Study by 2027|Microsoft, Nvidia, Amazon Web Services",
+      "excerpt": "“Los Angeles, United States, Aug 2021,- QY Research has recently published a new report, titled Global Artificial Intelligence in Retail Market Report, History and Forecast 2016-2027, Breakdown Data by Companies, Key Regions, Types and Application The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/8/U816958276_g.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent",
+      "publishedDateTime": "2021-08-15T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality.md",
+      "title": "Pepperdata CEO says AI ambitions outpace data management reality",
+      "excerpt": "Pepperdata CEO Ash Munshi says lack of appreciation for data management will lead to disappointing results for enterprise AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
+      "originalUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/data_streaming2-e1626372457758.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/15/pepperdata-ceo-says-ai-ambitions-outpace-data-management-reality/amp/",
+      "publishedDateTime": "2021-08-15T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-tesla-pushes-new-full-self-driving-beta-update-dont-hold-your-breath-for-download-button.md",
+      "title": "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button",
+      "excerpt": "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
+      "originalUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/",
+      "publishedDateTime": "2021-08-15T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-16-how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era.md",
+      "title": "How Runway Waiters Is Helping Models Thrive In The Social Media And AI Era",
+      "excerpt": "While social media has been a steep learning curve for models and the industry as a whole, face recognition, AI models, and other technological shifts will make success an even bigger challenge in the coming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611959cc5ba5b96e48cf31d1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/08/15/how-runway-waiters-is-helping-models-thrive-in-the-social-media-and-ai-era/amp/",
+      "publishedDateTime": "2021-08-15T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us.md",
+      "title": "Using AI Self-Driving Cars To Detect And Help Curtail Eyesore Graffiti Around Us",
+      "excerpt": "Graffiti can be controversial, which brings up the potential use of AI self-driving cars for ... [+] detecting and possibly curtailing graffiti, or not. Graffiti can invoke quite heated debates. Some assert that graffiti is a blight, a blemish, altogether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60e8fd47f30f273c86ecb7ea%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2081%26cropY1%3D198%26cropY2%3D1369",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/",
+      "publishedDateTime": "2021-08-15T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
       "title": "Samsung has its own AI-designed chip. Soon, others will too",
       "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
@@ -206,49 +644,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-14-machine-learning-as-a-service-market-size-growth-analysis-report-2021-2027.md",
-      "title": "Machine Learning as a Service Market Size & Growth Analysis Report, 2021-2027",
-      "excerpt": "The Global MLaaS Market is anticipated to grow at a considerable CAGR of around 40 5 during the forecast period 2021 2027 The key factor to drive the market growth is the increasing cloud based technologies among the industries due",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis",
-      "originalUrl": "https://www.openpr.com/news/2355468/machine-learning-as-a-service-market-size-growth-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/8/U814236969_g.jpg",
-          "width": 800,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355468/machine-learning-as-a-service-market-size-growth-analysis",
-      "publishedDateTime": "2021-08-14T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -845,392 +1240,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-ai-in-marketing-use-cases-and-examples-in-content-marketing.md",
-      "title": "AI in Marketing: Use Cases and Examples in Content Marketing",
-      "excerpt": "The use case for analyzing and editing content for grammar, sentiment, tone and style isn't the hottest AI marketing use case. But it’s there. It ranked somewhere in the middle of the pack among 49 use cases presented to marketers in the 2021 State of Marketing AI report by Drift and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/8a0777d1f9a94180bb0f83fd59b292ff.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/",
-      "publishedDateTime": "2021-08-13T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-neuron7-employs-open-source-ai-tools-for-field-service-across-devices.md",
-      "title": "Neuron7 employs open source AI tools for field service across devices",
-      "excerpt": "Neuron7.ai emerged from stealth with an AI platform that aggregates data across devices for the benefit of field service technicians.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/",
-      "originalUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/N7-Industry-Specific-Service-Intelligence.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/neuron-ai-targets-ai-driven-field-service-across-devices/amp/",
-      "publishedDateTime": "2021-08-13T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-ai-will-not-replace-you-it-will-make-you-more-valuable.md",
-      "title": "AI Will Not Replace You, It Will Make You More Valuable",
-      "excerpt": "We're all familiar by now with the promise of AI and the many ways it will make our lives easier. However, with that promise also comes the fear of being rendered obsolete — that AI will diminish our jobs and the value we've created in our careers or replace them altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/13/ai-will-not-replace-you-it-will-make-you-more-valuable/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/13/ai-will-not-replace-you-it-will-make-you-more-valuable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/13/ai-will-not-replace-you-it-will-make-you-more-valuable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/13/ai-will-not-replace-you-it-will-make-you-more-valuable/amp/",
-      "publishedDateTime": "2021-08-13T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-ai-startup-abacusai-turns-on-real-time-deep-learning-system-for-enterprises.md",
-      "title": "AI startup Abacus.ai turns on real-time deep learning system for enterprises",
-      "excerpt": "Real-time capabilities will allow a customer to plug an existing TensorFlow or Pytorch neural network into streaming data and have it continuously re-trained, for uses such as recommender systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/13/da0ed5fb-d3e2-4f25-be4f-afb1d8aa863d/abacus-ai-vector-matching-engine-2021.png",
-          "width": 2468,
-          "height": 1406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-turns-on-real-time-deep-learning-system-for-enterprises/",
-      "publishedDateTime": "2021-08-13T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
-      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
-      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
-          "width": 1024,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "publishedDateTime": "2021-08-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-grape-crops-protected-with-help-of-facial-recognition-technology.md",
-      "title": "Grape Crops Protected With Help of Facial Recognition Technology",
-      "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "publishedDateTime": "2021-08-13T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
-      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
-      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "publishedDateTime": "2021-08-13T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026",
-      "excerpt": "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/c32bqbJ/img-final.jpg",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "publishedDateTime": "2021-08-13T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Telco and medical data breaches. Privacy, at Apple and Facebook. Faking facial recognition."
-    excerpt: "StarHub customer data leaked. Data breach at Georgia hospital. Child protection and Apple's reputation for privacy. Facebook considers ways of collecting less advertising data. Fake faces."
-    publishedDateTime: 2021-08-12T19:30:00Z
-    webUrl: "https://thecyberwire.com/newsletters/privacy-briefing/3/155"
-    type: article
-    provider:
-      name: Cyber Wire
-      domain: thecyberwire.com
-    quality: 29
-    images:
-      - url: "https://thecyberwire.com/images/social-media/privacy-briefing/2021/Privacy-21-081221.jpg"
-        width: 2640
-        height: 1320
-        isCached: true
   - title: "Facebook – He made Facebook crazy about AI.Now he can’t fix that false information addiction"
     excerpt: "The team that worked on deciding which posts each Facebook user would see in their personal news feed wanted to apply the same approach. Just as you can train your algorithm to predict who will click which ad,"
     publishedDateTime: 2021-08-14T22:09:00Z

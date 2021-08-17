@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/17/stopping-ai-bias-starts-with-diverse-product-teams/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -30,24 +30,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "How AI struggles with bike lanes and bias"
-    excerpt: "We've been so worried about whether AI -driven robots will take our jobs that we forgot to ask a much more basic question: will they take our bike lanes? That's the question Austin, Texas, is currently grappling with,"
-    publishedDateTime: 2021-08-12T20:46:00Z
-    webUrl: "https://www.techrepublic.com/article/how-ai-struggles-with-bike-lanes-and-bias/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-struggles-with-bike-lanes-and-bias/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-struggles-with-bike-lanes-and-bias/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/05/29/ff1451d1-1faf-4e5b-9b20-6e0ba6635d04/resize/1200x/d3505748b0576d141b3d72be59f5faaa/artificial-intelligence-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "yw1NaBwu45ufdDe9FrBWHhJThK3CCyDwdxPJyKtAJ0XoSJWniEUHbE4IzjO6Ri2gD0VvEqU6g+GbC40BB/W3DGgsEwFMxeCF0aIwF40NrsWlFuv28LT9jRe5Sy23H34q1YmIYWHrTwkra6MeGS9vJMbWYkAgceKjtK+LslPkw2PTqqxussY0zpAeowrbN5C4N4/pR40p8KLsZKUwjGoPju8PI14R4icP3mBeS5Ov+ZUN1IslL5hWYdKRCViXpyZWg7vhW6ikcU3iPfKj6Ku3s/BfabAMmqVufOEvTmdt3P6tP8M46xjHibmHWRc5/Q31HaR5ZxPFE/GsulzORMgp7omtw498ubNEG3Z1C7OaBN0=;b81VD/QoUwSnaVO0Zjy6uQ=="
+secured: "aaI+lJfe6+0ic5Vhym/nbv2dp4coUrW4Zb5s0F2YSmmNHNLUHX/qIjAdongSd6pRyfFXbCZyarEhUoPqFzBGtqjIvddO/lcLilbhHayay5v9jaYrcC2Jcn1jVmi65eyq2NTErGpXPGq1LI9cjJ22GJ+hLtfvlV0lb96OVjWWWLVryg7SeHUmrvFXyqlXbScNKrWBCLrjRsX7bh/Wzo/LTjfEhu2Kj+TBXxqaCVk9Yvk6zk6Q8U7qV4X/AO2W5SI56OdoUckzm9nhKRLln7I1JKoSYLyds8kE8HQcNHL0OePdkQWnw2E/3F0qszz+HEFNnJCJ662lXfoAT7WYLDBZH33NFC0kdZWr/n79iAOHNgGjA+9+++0nCvRThPgYZ/VfYv64SCJ4noLW0Hrb+VMGNDMTe12VgTFTOiKe0fUcxu0bfUS8NZDYiRytzVDCpbzab0HiCVjZMmLr6kFSFXU4UY2bdNJYc42gUsJkv1Gi4xu3H6abVnpGoHLLkbIY5RPO7jCOR2wkvEh+zFqByhckfw==;xPg+mBOuIbED09tjTqpCzw=="
 ---
 
