@@ -3,7 +3,7 @@ name: "Kai-Fu Lee"
 bio: "Kai-Fu Lee is a Taiwanese-born American computer scientist, businessman, and writer. He is currently based in Beijing, China. Lee developed the world's first speaker-independent, continuous speech recognition system as his Ph.D. thesis at Carnegie Mellon. "
 location: Beijing, China
 type: "profile"
-heat: 157
+heat: 3
 
 affiliation:
   name: Sinovation Ventures
@@ -14,7 +14,7 @@ website: https://t.co/1QmLHUi5s4
 twitter:
   username: kaifulee
   url: https://twitter.com/kaifulee
-  followers: 1522939
+  followers: 1522945
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Kai-Fu Lee"
 
-secured: "87xvGtKaOCPf6oI/XA14uDOlPGkuqWNSxSUYoJWLVdtr1rNDoAttEO8Ecg9/xYx4hapT1QYuvN53i4qem5/Cwc5JErXSRlZEW7hmSYYurcyv7a7gePqkuSnWuhdXapMPuQhrULVRA2slFQ2jtXCUUmHBnMrHOafGKvX2DCIIcrM8mKtz/86g3pFPTmnf3roMR4Czs/B3fla11bxZvishOYCA8qJ44UEUywwNOwT7g6bO+PvZYt+sBMi9XrrJ98QohTL0qpTiH/sxvh9RVtyCP+0pIX9UKi73nVUq8/L7/2nrg1Zw1YdN6kAoQT4B64wr7UvuJE8cXpHO9DP4fZQ7nK9p66yY5f080Tb6gpxG+Mvh+EwGpAU0BthfYOkjdlp5dQu2JLT69CB6Q4QD3f2rWD4ljns5q/Z2iV/jPBqi/WQ=;W6Z98gv03XgCdUwuO0iEyA=="
+secured: "LRDxxKt/k1VjtpIbKlMIvMD6okTRWJ4XuA7ciR5m0XuAf3K4ECNGDMYj2laTVy+B23wNJe+2rcD8Ht0hL7X3r0ATh2zXBry2g5JCw5jWqOHy9B49iRRZzNKqeIsG80CzRjpv2Ei7EaYa14iWczt9xlOOyitNUbnLJ4p342WkUQwn/D6Rx6BX/MAdDPy77ww70Xw4d6UYiipmjsYSZm5nNX32fNBBqmffE1bkV2+rEK04mRfBEk7JkrlantsHUqEu2c1ZEP1wLyjkQJMspGoyYfVElmRSeEar9AGFNyAzJPQYjwMqLe2HdG+RRRPlcIofnwX+oVa0rmp5T6dep15xPwfC8vm2NP1FdFMOX3o2HxM1CDbAO1ThDB/+PTBuy1RRjikmPA90QIT8oKkqXip4oQSjZBw2g4mofq3f31J1sM4=;ZGjWKaDUNRVtniP2X1JiGQ=="
 ---
 
