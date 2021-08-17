@@ -859,19 +859,19 @@
     {
       "path": "_news/2021-08-04-air-t-edge-series-rugged-software-define-radios-with-a-gpu.md",
       "title": "AIR-T Edge Series-Rugged Software Define Radios with a GPU",
-      "excerpt": "The ability to perform GPU processing enables the latest advances in artificial intelligence (AI) and deep learning technologies to solve the most challenging problems in telecommunications ...",
+      "excerpt": "The AIR8201 incorporates the proven technology of Artificial Intelligence Radio Transceiver (AIR-T) product line: an NVIDIA Jetson TX2i industrial-grade embedded GPU processor, an industrial grade Xilinx FPGA,",
       "sourceUrl": null,
-      "webUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
-      "originalUrl": "https://www.dailylocal.com/news/state/air-t-edge-series-rugged-software-define-radios-with-a-gpu/article_41b55366-f42c-56a7-8aa5-d59b642bdec8.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/air-t-edge-series-rugged-software-define-radios-with-a-gpu-1030689624",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/7/85/785cf451-570e-5ab3-87e5-1b61446ada77/610a92fcbba9f.image.jpg?resize=1119%2C630",
-          "width": 1119,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1587736/Deepwave_Digital_edge_series_announcement.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -881,12 +881,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T06:26:00-07:00",
+      "publishedDateTime": "2021-08-04T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Local News",
-        "domain": "dailylocal.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

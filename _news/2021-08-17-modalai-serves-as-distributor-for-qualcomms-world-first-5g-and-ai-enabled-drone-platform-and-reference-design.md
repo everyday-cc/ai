@@ -1,21 +1,21 @@
 ---
 category: news
 title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
-excerpt: "The Qualcomm Flight RB5 5G Platform is a development platform that developers and Original Equipment Manufacturers (OEMs) can use to build drone and flight applications based on the Qualcomm® QRB5165 System-on-a-Chip (SoC)."
-publishedDateTime: 2021-08-17T12:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/08/17/9431965.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/08/17/9431965.htm"
+excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
+publishedDateTime: 2021-08-17T13:35:00Z
+originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
+webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
-  - AI Hardware
+  - AI in Robotics
   - AI
 
 related:
@@ -35,7 +35,23 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Qualcomm launches 5G, AI-enabled drone platform"
+    excerpt: "The Qualcomm Flight RB5 5G platform accelerates and scales development for drone manufacturers to deliver powerful enterprise and industrial 5G drones."
+    publishedDateTime: 2021-08-17T19:37:00Z
+    webUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/"
+    ampWebUrl: "https://www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/"
+    cdnAmpWebUrl: "https://www-gpsworld-com.cdn.ampproject.org/c/s/www.gpsworld.com/qualcomm-launches-5g-ai-enabled-drone-platform/amp/"
+    type: article
+    provider:
+      name: GPS World
+      domain: gpsworld.com
+    quality: 57
+    images:
+      - url: "https://www.gpsworld.com/wp-content/uploads/2021/08/Qualcomm-Flight-RB5-PP.jpg"
+        width: 620
+        height: 285
+        isCached: true
 
-secured: "E7Azi1yHtG7w5RUldNCibMsOKKL1ubEdOcqU1JVdl25WlZ1Czj1ygfG7GWHHTfKN2uo4Wctsm/C05snXvR2ip8E8cf9gyAjHqGBm8RphfEHSNJAulGeagXYU0mrNUPUp1qHoYIifgZbdltnevH83/48HnKcpHaWBpeMlbCsrSpP9moYFrUomfZN+P4K/OLa+BVY277trR9JdNpAmM1rom7FgiBUTQVp10qDwnxvIatOv7eddMK3288UXCpmzIM2WsWqE+2DpW2W51qlSR0NaDU281j+tB4BXGApNd/hGJGltQCFH9tyPJ0D6hP7bontuR0v76WjTCXFa3zOsGZOO5t0hI0a35xB3S0HEur4pBEywFmAC1+onvnJ8cUCHV0Ux9Ub203+EXu8QhPR0pdEKpWbSVXHGy8+D9FKPnSFDLvh+i8jbBp3SSzgXp6g5nKOC01E+a5bx8957n02roBiTJvMSmNkuzn8sUkCzKIukwCGX4fi/IzVye6sdyibkVvX7JjSFYu2pcgFXHp9whrID0w==;V2y8Ioj1tMdXlnt7RDsJ7Q=="
+secured: "W/m3gQq38Bsg2RcgfT0xv1ArVIvZdd6ilScdsY5c4Ao8eO+U7n2TuNJDa8Co4AGEip9nI+/wBP4mxjqqz4y7GPevT+G/KN9q3snhOrafrxyQVEvpzbiRkiqtn08edHP1ADTWtBAaQtuc09KB8wFHHUo2DAITDhetNNKgpYi2mcbRK6Oqvk6DRPKBAFq2+yuJC1eNFOiWivC0k4rzWNnuA+HqkEcA+p49cdjupV6GCRXQwBLfYSKg9rOYl4R+LIKprH0/sFViKf0Uofzd2LZ+yt0gu7spMOD4LxFAYoBx/IpZhv8ShdYxRLgOobVoImjU008BuCVsqG0F7jzRGiwy2cdo97REAVXJfAxdj1i6BP09vydQfsIFInlv1CrwbonAKlQvvLXaV69Q5zaFFE8PjfP8FGhx9fs/tJeTxjAMVtf6Fy7tUSAybzbK0YxQk4SA4k2dMTB9d1o9fnBVj/78t4f4Ks6rONF27RxUeuDYxcDmdX6Cti+gvsZ+mLrJhgxmlk1OYO0Li/jnmQSzLt0ACQ==;wkNRHse0Aw4RRKeFzcE3Iw=="
 ---
 

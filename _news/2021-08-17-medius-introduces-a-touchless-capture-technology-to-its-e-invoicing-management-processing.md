@@ -26,14 +26,16 @@ images:
 
 related:
   - title: "Medius squashes invoice lead times with efficient AI tech"
-    excerpt: "Utilizing Microsoft Azure Machine Learning and Artificial Intelligence (AI), with a user-friendly interface, Medius has developed an e-invoicing solution that captures and converts data dynamically, and dramatically reduces processing time to mere moments."
-    publishedDateTime: 2021-08-17T07:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/medius-squashes-invoice-lead-times-with-efficient-ai-tech-1030736974"
+    excerpt: "Medius, a leading provider of spend management solutions, is transforming its customer's electronic invoice management"
+    publishedDateTime: 2021-08-17T07:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/n22528768/medius-squashes-invoice-lead-times-with-efficient-ai-tech"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22528768"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22528768"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "5cE22Uo/f/AtXE96QAv50YzxTcWacKYJJQTWNGm1HwnKJGa0o3nf8pAIF1oyO9Cx0CdRcHbpsyXp+J+7COfmUnpxGx+FY+9IOHfxhTmpNK0NkCMXTMWxgngVQubeT5tSKADLX7OK4biOAvfelQZ/MoKFm1wjj/wsbhwL659RjE4lU1ou3jgkbqDWcpjup04cLLMzuZAIpaKM/VgDwvDb77YLp+OVdqHnggp+MuOUSfAXcjnu3c/OGwtCbVxFhkF+ClsWO1GXbpLubQZEC1uUEhwDwXEfW5J22z+w6kBr3KrYEyKJ0BbciPmYkUKnY6GXxNluXiGOXseMmGTPCTw/RH5h0+Ew7WyHFpD+ZR5w2rE=;gRlngGQk1h+pAjp+1UgIkw=="
 ---

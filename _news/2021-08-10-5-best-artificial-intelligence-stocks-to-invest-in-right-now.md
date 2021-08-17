@@ -1,8 +1,8 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
-publishedDateTime: 2021-08-10T14:20:00Z
+excerpt: "(NASDAQ:AAPL) ranks 5th on the list of 12 best artificial intelligence stocks to invest in right now. The tech giant based in California is one of the leaders in the AI world with significant features such as FaceID,"
+publishedDateTime: 2021-08-10T13:58:00Z
 originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "pkhvDCqMbBDX/QukWQa7zDewkwukQhSmYuPAGqXM5VWlczdJW8vpKhIWe4auGyeXGgp8IeO842soC+/8yE5BnCC4sZBoflD+9I0F4rm0mOve8xhpZuYRVRwQaZza4TJiLbY9aTNT0dImkUthVb2Vvpysusb9eOZ3p1mfLyn0sLAO+ypfj8eZxLDhib8Qi30EmCUC+snfxlqxS9ESUguA3SJ97eqXjOACA7CVxZJMNMOSysU7eJgXecDNThH/0QKM3bp7hKbusNzoN5LgC/keEAH6zCLK5bqrUCa/fk9EVqmhVay7rASe/SYI39n9xH2dSOG76WMRz0vPuIus/aKwC3QZ1auwKQX4ENSVd7e6Pu4=;mfx/TKsfjocIS64RuQxtAA=="
+secured: "Kw7KS1WlovBeExyIVHzAyHOJohSyv8aVEBFa/wCRf9odM/IIq2HHQDeGPQncXIgpByR2WZJkDPTCEwFLsKd6IXJWsYMVVslBX59xlz6iYgkuVSv6MvOX64EK3XxhWkWhjzBlmRecjZygXyIc2kUi43crwQ3kSoMpW8WPhr4NGMthC57C89LWDoYPOfDO+DM/TO7zz+j8+InoHnHOa8ePJKHVKKITIs3tITdRTUOzqWNBH9awyqnYWyqWGWhSEZd9YUi9L/hPZAlfCZxMn43hSpc7QochGBixZQcmi8rIXDiTR5jcrCLU2WGTTZFneQn5ESShZLyiplWT1rKcLr86egG2UnsrqFoSjTI4iqnSWxQ=;3unNzAp7r0YvTfDde1ndIw=="
 ---
 

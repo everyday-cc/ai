@@ -3,10 +3,10 @@ category: news
 title: "Mark Cuban Foundation to hold Artificial Intelligence boot camp in Birmingham"
 excerpt: "Billionaire entrepreneur Mark Cuban’s foundation is hosting an Artificial Intelligence boot camp in several cities which include Birmingham. The initiative is"
 publishedDateTime: 2021-08-17T12:35:00Z
-originalUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
-webUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
-ampWebUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
-cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
+originalUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
+webUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
+ampWebUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
+cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
 type: article
 quality: 54
 heat: 54
@@ -25,6 +25,6 @@ images:
     height: 683
     isCached: true
 
-secured: "bixnUAe2ZIlD3Y9nio2qrXOKXhywIB8Q0qeJsVO72NlLPIUliFm7cQ7APaTMVv6ch0dqkdOxOX3g16cYDZpZkTeV749b6ARCwC4ziBdE/ol5y8cdabCikGP2M6fJZZOkTGiSCTcWWPxawpljK0m5lLDTZaCC6qZSpYy/rNUuoUJKFNj1UMRJrSbOo9uSRVASSNDhtPduQxaBMYyl9MHKVBPbUikutNE7hsTK+4h3BzIre4h5l7UBiE6Co2mo8hliqIGcFY1+xQ/ALR9+pPB5BY3T5zbb/x7+yh7avqdHPkaQxMR76OsLMGSxeAD8uU1upskNPlTrWPX51CpsPYrhdPJltJAh7ZUgHJAfuQ9kbvk=;QWIjzAfkILKafUi2Slb+tA=="
+secured: "xFfA0VCoDzbXNYDEAs8mJfeWp+B8YrIkr3B3KQ+SpXFuUWYzmUqUUZLP5lPHKeMSdL/eTJcDp0P+6N5rX0w/DK6AUUeRIFOHn379xNtnHct+E2xewcmgGWh46uzpN1TiRNifZnI8tspuuBnW3Xc1yVR5ybCrqjo/z9z4vNaGqOUg3hVE+wUlIYAtz1Hv38UF4JwuB5mXY4cN5XXziBWSlYQR8Lj9en25w8LBBkH5hJrgCKLj/go4QW3eHLxKj1kIPkFlgARYIWN10yxQ5z4ypJIJrNWPVXYZjFTybXsNbAtqf2xCzA8g9PguafYY6P78PV0T0ie4nOhCJCUHBXjCO82wGeB+FNZaerOkBXvtHIk=;BE2r0qGBstmQyOdVKpxmSA=="
 ---
 

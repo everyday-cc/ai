@@ -51,6 +51,20 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Wipro to Announce Wipro AWS Launch Pad Co-Innovation Space"
+    excerpt: "The center empowers Wipro Brazil in the development and showcasing of tailored offerings on Amazon Web Services (AWS) for clients throughout industries nationwide."
+    publishedDateTime: 2021-08-17T18:33:00Z
+    webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-to-announce-wipro-aws-launch-pad-co-innovation-space/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 39
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/images/search/loading.gif"
+        width: 350
+        height: 350
+        isCached: true
 
 secured: "sOwmga+EbCMaco8QkEN1nQNGDbkvE5oLDAmPVxajT9qxgYaPWDTNC3Iay7bUKWKpnZXY3x0FSBvb+6Vf2MgazbeTa+mbhNoAOx1alEsQuUFOeoZyQS34sdf9+DBiSCaRYTCUExlfWk8OZM9EwzV5F5MbSAG6H9z9cMlXx4NLppw9DWZoyZ2J2Vg2gcZUHn36phnj/c+F157Ojkbvg6t4x6Hd7kN11xbT8acbZSvam4xJJ/CyftWtvxauxBOuoNA19q179/4X0+0yD9vw6e0Nn7s0Bj1HVdj8fnyccXsXuB8/+ZwTH44IqyJ56Tko8ZjMxrTymbLBQ6JlOKmmtZAhzfUb4n1LI4iS6VTeJ4LeyXE=;AXsleAbP+LMnW20YaFscxw=="
 ---

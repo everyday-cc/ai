@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-la
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/wipro-unveils-wipro-aws-launch-pad-co-innovation-center-in-so-paulo-702070"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2019-04/16/full/wipro-1555392535-06991350.jpg"
         width: 350
         height: 233
+        isCached: true
+  - title: "Wipro to Announce Wipro AWS Launch Pad Co-Innovation Space"
+    excerpt: "The center empowers Wipro Brazil in the development and showcasing of tailored offerings on Amazon Web Services (AWS) for clients throughout industries nationwide."
+    publishedDateTime: 2021-08-17T18:33:00Z
+    webUrl: "https://www.wipro.com/newsroom/press-releases/2021/wipro-to-announce-wipro-aws-launch-pad-co-innovation-space/"
+    type: article
+    provider:
+      name: Wipro
+      domain: wipro.com
+    quality: 39
+    images:
+      - url: "https://www.wipro.com/content/dam/nexus/images/search/loading.gif"
+        width: 350
+        height: 350
         isCached: true
   - title: "Wipro to announce Wipro AWS Launch Pad Co-Innovation Space"
     excerpt: "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global-information technology, consulting, and business-process services company, has unveiled the Wipro AWS Launch Pad coinnovation center in São Paulo."
