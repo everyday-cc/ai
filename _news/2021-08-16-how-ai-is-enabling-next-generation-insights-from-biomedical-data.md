@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Global regulators seek permanent working group on AI"
+    excerpt: "International medicines regulatory body ICMRA says permanent working group should be set up to monitor uses of AI and machine learning in healthcare and medicine development"
+    publishedDateTime: 2021-08-17T13:45:00Z
+    webUrl: "https://pharmaphorum.com/news/global-regulators-seek-permanent-working-group-on-ai/"
+    type: article
+    provider:
+      name: pharmaphorum.com
+      domain: pharmaphorum.com
+    quality: 39
+    images:
+      - url: "https://pharmaphorum.com/wp-content/uploads/2020/04/AI-and-cancer-care-Three-ways-artificial-intelligence-may-transform-cancer-outcomes.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SljJtaqutIG0iq8FJW0CnjZpPH5Q6AHx7Uh839RpQM6ihGqXDI+KM5Dzlcl9bbKkS16friJ9B/oIyBO4EHFmkJqy4zQibYG90iRqo/Zw2vXv2z/d3WEzr8vTpYGhvs1azH7WMMUkqvLwvSdOZ/6BOKJ/nbpWC8sTWGv0MK8NYGMkbAOPMsuJsUQYfrHQSBDptgcc6hCjVOCyod0AA5M3cMtZItbj83qCeR0QwfRbvw2Jam2nQJ1/OIEAD3LvajxP8aby2EFeLqlbC850vYVxL/daOCE1PQUvF/0HTrTVZheE6cwPRCrss+rlM1/G/Tc68fs+55DRtDD0na/A7Y6zzjXW07RGSzP8HW7M/rgqbSY=;iNuckZrYS5ys7KUxgj+1BQ=="
 ---

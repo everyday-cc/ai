@@ -34,7 +34,7 @@ related:
     provider:
       name: HealthTech
       domain: healthtechmagazine.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screen%20Shot%202021-08-17%20at%208.34.10%20AM.jpg?itok=MilN5xqY"
         width: 1440

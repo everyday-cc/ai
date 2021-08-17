@@ -26,6 +26,24 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Artificial Intelligence In Oil & Gas Market- Increasing Demand with Industry Professionals: IBM Corporation, Intel, Microsoft, Accenture, Google LLC"
+    excerpt: "The recently revealed Report titled Global Artificial Intelligence In Oil & Gas Market report presents the market analysis on the basis of several factors. Report gives the in-depth analysis on the major countries of key regions where the market is growing."
+    publishedDateTime: 2021-08-17T05:50:00Z
+    webUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/"
+    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/?amp=1"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-oil-gas-market-increasing-demand-with-industry-professionals-ibm-corporation-intel-microsoft-accenture-google-llc/?amp=1"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 35
+    images:
+      - url: "https://manometcurrent.com/wp-content/uploads/2021/08/Market-Research-10.jpg"
+        width: 300
+        height: 203
+        isCached: true
+
 secured: "ntqaX5cmTVLyRYB+NwN9+yUhVNbbeofgWKhnEvs/3bjXMaoJ9PMrpwM7jQO1ns3lVqXK7MexAElaUVVpDCBnE7CTIumFXdQWOyGVQ/EuUli43lNtO33kK5s13TI+XrrRlDa0JPqD+OcOJ5UB9YcEsIniRqfSSNVQp32J5WeaEB185C3PLaUJLQ65v7ZAsi+hbWOT8dC59RW8qDa8+KtEmGS+AQq6NSf0uYqZO8A2V3r3r7mqqrmeh7joNC/lORS7+ZHzOx8qy9RxSNBMQ8XOzwIfeGRycJVmwn6/Rq1MrnpJ8vXC3zyvIlSB/fLJ+FdEOA6C3UlEZB43sahruu9m5XNX3BLjGru3Lx3M0OUvSLg=;9SQRPFql1MJzkoHvuvDCbQ=="
 ---
 

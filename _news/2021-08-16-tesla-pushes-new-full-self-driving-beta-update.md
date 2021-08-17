@@ -60,6 +60,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 38
+  - title: "What are the differences between Tesla’s Autopilot and Full Self-Driving features?"
+    excerpt: "Thinking about buying a Tesla but don’t understand all of the self-driving options? We’ve got you covered. When you think of electric vehicles, one of the first names to come to mind is always Tesla."
+    publishedDateTime: 2021-08-17T15:24:00Z
+    webUrl: "https://knowtechie.com/what-are-the-differences-between-teslas-autopilot-and-full-self-driving-features/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 33
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/04/tesla-charging-station-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "mClhcNgNBMmLV0QodRFbPjnok0OIV4R7vHYBfp7BKvJ8UM+WaaQ0jiown8aWxu0e3bWdDtWVvYiewTIXg/FVpzyLbUWwftZK3rFFGjKz7FhW/w0Bomud/tpd/71o6Fw+xyJgzTa068+wFImpH/8oZBkEJ/r0sRM5359dAadSvgp2n21BDFwGAaUAahqBayXgupsEd4/8P9NwwJ/JAKvA3ln5Jb/kvpWSjpNlFxbs/2pVj+xW/OSf9x1JPPVIHEmeg4jXp9dRqY6x+oPc3B5VoJaLMKxzx/E7nblxRJRG4OL2icfXSm/S8FosaE+97FWFvDmRiFIsBJ4uzAfWvM0Y3uNMHgIIC3kYPaWJBjAzxkI=;CWnXWEVHjT/QDRhmv+U+pg=="
 ---

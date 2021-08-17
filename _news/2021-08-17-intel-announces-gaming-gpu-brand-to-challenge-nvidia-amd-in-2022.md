@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-ch
 webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Worldwide AI Chipsets Industry (2021 to 2026) - Featuring NVidia, IBM and Intel Among Others"
-    excerpt: "The \"AI Chipsets for Wireless Networks and Devices, Cloud and Next Generation Computing, IoT, and Big Data Analytics 2021 - 2026\" report"
-    publishedDateTime: 2021-08-13T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-ai-chipsets-industry-2021-to-2026---featuring-nvidia-ibm-and-intel-among-others-301354979.html"
+  - title: "Nvidia's old 16-series GPU outperforms the RTX 3050 in a budget gaming laptop face off"
+    excerpt: "According to their testing, the Dell Inspiron 16 Plus with an RTX 3050 was outperformed by the Razer Blade 15 laptop spring a GTX 1660 Ti by nearly 11% in games like Assassin's Creed Valhalla and F1 2020 at 720p and 1080p at light and medium graphics settings."
+    publishedDateTime: 2021-08-17T15:46:00Z
+    webUrl: "https://www.pcgamer.com/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
+    ampWebUrl: "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 26
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 51
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
-  - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
-    excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
-    publishedDateTime: 2021-08-17T06:32:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_intel/beware-nvidia-intel-arc-is-the-new-consumer-gpu-brand-coming-to-devices-in-2022-with-ray-tracing-super-sampling-and-more/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 13
-    images:
-      - url: "https://assets.mspimages.in/wp-content/uploads/2021/08/Intel-Arc-GPU-branding.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/oEdBKicgKc73LBnqiBqxhe-1200-80.jpg"
         width: 1200
-        height: 630
+        height: 675
+        isCached: true
+  - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
+    excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."
+    publishedDateTime: 2021-08-17T14:37:00Z
+    webUrl: "https://www.techjuice.pk/intel-introduces-a-new-pc-gaming-gpu-called-intel-arc-set-to-rival-nvidia/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 37
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "fHoQI6BYBjzK3gFbXfNS53kfOQYZewp6KQhX341k3tkNbtsPSoA9Vxv8pRfzw2nPPOMKSczQN8IZ4vMjc5zkuLrISXVyRhMRplHlxfBbGjOAXeF+3IQJ1WGJDIHLey9zpwm5IxcdbDu9lKY4AOYpMAehuTwneAsUxwIG9E1mCEXZeS7SKniKGzHcGNdJbPni4lQNR8evwD76HGYXc4CkiQmd4TVK4wnzb9SSVTKU4GrYhIsqNatbeEyckZxvrzpn7aGlZh0Ki/COpB8JdbCvUH2W0bMsv8aQNktvoz9sDA/HQzaif5qtHrHGb+JRYEbJL9QUH2XDjvydH5zalWjM4vBh1g0ILRiT3IrgEHqUT8lQGmU3jIZeK50W5syzkqAdxeXHpBl0Hg8yVRZa3Z+IdD08Lb0iYoXVOnP9v9ypNuQ2aFuAkSFosTSCjm9aTAyy16jlYZTtjXiwPaxn5xjAhogMsHSifnDi9z4CQR28nou/LkklfNOrI5aaQr4OGEMV+gDcn++QLyWZ4Tfeh7NIqA==;MlqpeVTza8NrfPHZSNqxBg=="

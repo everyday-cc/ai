@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sales fintech Seismic pushes valuation to $3 billion"
-    excerpt: "Seismic, a fintech designed to personalize sales interactions, doubled its valuation in a year after fresh funding and a new acquisition."
-    publishedDateTime: 2021-08-16T18:42:00Z
-    webUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373"
-    ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
-    cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
+  - title: "African fintech Pngme raises $15M for its financial data infrastructure platform"
+    excerpt: "Unbundling financial data through APIs and driving data-driven insights with value-add products in Africa keeps getting more exciting as major players continue to raise more money for scale. Less than a year after its $3 million seed round,"
+    publishedDateTime: 2021-08-17T11:01:00Z
+    webUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/17/african-fintech-pngme-raises-15m-for-its-financial-data-infrastructure-platform/amp/"
     type: article
     provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 61
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/applovin-Tech-social-digital-mobile-.jpeg.optimal.jpeg"
-        width: 900
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2021/08/85237365-BCDC-4C78-B42B-91B00D15C6C0.jpeg?w=887"
+        width: 887
+        height: 508
         isCached: true
-  - title: "Online Travel Hopper’s Metamorphosis From Flight Selling to Fintech"
-    excerpt: "Hopper, an online travel company, said it had $170 million Series G round of equity ﬁnancing, led by GPI, a private equity firm."
-    publishedDateTime: 2021-08-17T11:30:00Z
-    webUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/"
-    ampWebUrl: "https://skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/08/17/online-travel-hoppers-metamorphosis-from-flight-selling-to-fintech/amp/"
+  - title: "FinTech: AI and the future of financial services"
+    excerpt: "AI has given birth to the fintech industry, making digital transactions and data aggregation a new way of life, but what does the future hold?"
+    publishedDateTime: 2021-08-17T09:23:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ai-and-future-financial-services"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
-    quality: 44
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 39
     images:
-      - url: "https://skift.com/wp-content/uploads/2021/08/a-user-of-hoppers-booking-app-source-hopper.jpg"
-        width: 1025
-        height: 684
-        isCached: true
-  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
-    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
-    publishedDateTime: 2021-08-13T19:36:00Z
-    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 19
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
-        width: 1600
-        height: 1067
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/GettyImages-1206796363_3.jpg.png?itok=w-C15RI0"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nFZlKlHs6woTNLKmun73fbAbJY70l7UXAA9NxpIazC9d1FP20kOkgzqqLpZVb0kf5V6VijtD3qyoMpbJS9l0shDGi/5eBXtxXAdq4ckOL4FwKnuiGnI28d4RpyymOiPK5t7drXp95H2FdwlorPOcpKlSs/GCqL9NqOTdfasbKUekgP2fTY+SVU+CQylmSvAcbIcclpcavdlcPZKPmKU2nB3Y/kFnxTCnPlRUiD7caOJiKkse4CIfKqLQae7dYui+cI3QJ9lCTSvdg7DlQ7HES4Y7M2RlbubQHs24NVu/zyTE6ifRMFeRxege6fu0yjUG9cX4Ft7SDWyK2EH0Gr4zetmYFvIOzfnG5BtPWuxiBfWQkZnctOoQDhuvARcGqxiryxNGF0JW7SL76pKqeS/R//3fIS33PT+rBPCB4Gkra67Ll1TOrJV5+xtKyrmc3hw/r1iqHRYpbDNH5QbQ1UqPzhtMDjq1+SIJNj0wekH245y1fKWPhdBh9KKETMtZP+M71+mcBjZm0art1ATbMlm2hg==;WswxGcW7lRHKYDtaAP+LlA=="

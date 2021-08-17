@@ -8,8 +8,8 @@ webUrl: "https://www.theverge.com/22627847/argo-ai-bryan-salesky-decoder-intervi
 ampWebUrl: "https://www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22627847/argo-ai-bryan-salesky-decoder-interview-lyft-self-driving"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/lFSsTemb8UgU8HixrqnmF7Z3krA=/0x0:2050x1367/1400x933/filters:focal(861x520:1189x848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69735919/VRG_ILLO_Decoder_ARGO_AI_s.0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 933
     isCached: true
 
-secured: "09D/zWhhX3Hya6l/kl//LUVt6WavlN3qhWUf4Oe3BnNkFdNTcYUZOg+De40Ny5BWCAURxpNEBDBaQid7375gSbq43ef6TH2Ver8MYxONEfIaMfCCYWkBslUZt7PKl3SoTwWPkH1eu2WCXQ2D94h8GOde0aL2Qn3LKqmJkLNTpbo+cp70+8St0Ou92hccKxZpboyZCS/ut7RsU+2O9W3lBByXZ19/gsH0jvQFJvTwLblfcx67Hl7H/D9I3t2kLGJ4P0dmCyWhkOg8rerbfTKtgimw1u419ea7OHcpsIMtQiimJsRjP/tJjCEj4P312og81db6zDdsiXoS4vkgcnJGkvCL4gnL7IE+U8Js4aFlQ+Y=;gMDGp6N4FJfjpXAcIjlEkg=="
+secured: "9VoiA4ds/6jbrAjqZloo+TKZYdbB8Ma6hTFHMlJr/+Xf8XsGDCbHs1tGu8T/QNmE7ikqusPhiqvgVue32GNuKaxPJUpgXnQpaWB8+jgLaVk8VFZJCRIQsRIugLktY2C/B/fwzkl3FW5ggHjDolPLnU4qbPmC9gGP7XVSKY/zgoSgGpMb9aixhTWaQDoPC5hD0hQ15CDZXScDooby33olfd9PUaZcXjgnADZRTomKQ2wL52VpqvRFTu+zsMmC5YIfQykMAR7ji2iHfddsCo2Hg2MXY9iN7k0e/O610plIUmABYFgdoVB2llyTnvM1nBdpvkgSAEVKvKYMuLQoJWL9GhYZx9nd9NckpcfYSMmRBXWviSSQiWVbJjMo1gzEZtMPAQP0+ebL/ovmsJ+X37ksDs9VJbCosEpGAETsqn4UyMMWW7v5I19EP0CTEbo6PRw4cgZwpQRAjnyQR81BZf0NE2rRWaV9PCbNRNHt1kf2u3aOim4/jas++5SuJy+nDPh9c4d+OaS13WMmaNgohBenlA==;V4DxdoJDyimFvs8q3WipVA=="
 ---
 

@@ -55,20 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Concerns over use of facial recognition in app"
-    excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."
-    publishedDateTime: 2021-08-17T01:05:00Z
-    webUrl: "https://theshillongtimes.com/2021/08/17/concerns-over-use-of-facial-recognition-in-app/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/07/DSC_1591-scaled.jpg"
-        width: 2560
-        height: 1768
-        isCached: true
   - title: "Facial recognition software can help save multibillion dollar grape crop"
     excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
     publishedDateTime: 2021-08-13T12:06:00Z

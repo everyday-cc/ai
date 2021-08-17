@@ -55,6 +55,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "What are the differences between Tesla’s Autopilot and Full Self-Driving features?"
+    excerpt: "Thinking about buying a Tesla but don’t understand all of the self-driving options? We’ve got you covered. When you think of electric vehicles, one of the first names to come to mind is always Tesla."
+    publishedDateTime: 2021-08-17T15:24:00Z
+    webUrl: "https://knowtechie.com/what-are-the-differences-between-teslas-autopilot-and-full-self-driving-features/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 33
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/04/tesla-charging-station-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tesla pushes new Full Self-Driving Beta update"
     excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
     publishedDateTime: 2021-08-16T13:30:00Z

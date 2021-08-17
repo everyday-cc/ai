@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/ai-in-marketing-use-cases-and-examples-in-content-marketing/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/08/cloud-3406627_1920.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
+    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
+    publishedDateTime: 2021-08-16T13:03:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "qpL96eJ6vzxcq4CwiLnR/vfZfwtNeeGy4hDwHIfdernUeiWHN1SIbxcUh5X+Wqes8nbQNcHbMYbeEzwcl6nxakAFhwhfKcNrZoPj3l9TtVcG3g73hnCOPUK44MCiGEycmaC2b9VnkSSx0BypP/3pqVnhexInGpmCYwsYNBVQQjKqoiXSQgquSxGsIbOXoiIcsIIUEmnOekS3gJdA8CL85ViBnbCQQHYkSLSDqaB4ogE6UH/0YiByLx+Xj+Hk3XNlvQDwGkjh688ZtRCoZGxaXYJXW56pjvH34NnrwKygxpnydQT90NoSirPskVTru0aX/hlfe9jmSWS/FNsjXH+2plaBzfAv9g1ff646+19fCJGDiMgRkh44l/PPKSILeVmF9zvYD4DySy1lI7MO/60nHMctCO0+pwr63xGD4kRgCXZQfm3c6hTdcjc4JCIZHK4bzUHaCzF+q/wF5SGfmNHnuqcMY7TC4L5JPS+/7l09GlYZ23F2vNay3ed3y9GQFbrDOdW5vuqyOrHZB6zI0XVQpg==;xa7qILMPX9hJuGq0FyC0BA=="

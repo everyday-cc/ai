@@ -25,87 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Grape Crops Protected With Help of Facial Recognition Technology"
-    excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
-    publishedDateTime: 2021-08-13T08:25:00Z
-    webUrl: "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
-    ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
+  - title: "New rules on police use of facial recognition don't go far enough, experts say"
+    excerpt: "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?"
+    publishedDateTime: 2021-08-17T08:09:00Z
+    webUrl: "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305"
-        width: 640
-        height: 360
+      - url: "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facial recognition AI helps fast-track research in crop-ruining grape mildew"
-    excerpt: "Researchers have used AI and a robotic camera to cut the time spent examining grape strains in the lab from six months down to a single day."
-    publishedDateTime: 2021-08-16T12:59:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/grape-crops-resistant-to-mildew-ai"
+  - title: "Google adds facial expression recognition to Android Accessibility Suite beta version"
+    excerpt: "A team at XDA Developers has discovered that Google has added facial expression recognition to the beta version of the Android Accessibility Suite, which came with the beta version of Android 12. The new feature is called collectively Camera Switches."
+    publishedDateTime: 2021-08-17T14:00:00Z
+    webUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.html"
+    ampWebUrl: "https://techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-08-google-facial-recognition-android-accessibility.amp"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 51
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/mildew-grapes-scaled-1.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
-    excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"
-    publishedDateTime: 2021-08-17T09:03:00Z
-    webUrl: "https://www.wgbh.org/news/commentary/2021/08/17/facial-recognition-technology-a-threat-to-privacy-and-freedom"
-    type: article
-    provider:
-      name: WGBH
-      domain: wgbh.org
+      name: techxplore.com
+      domain: techxplore.com
     quality: 39
     images:
-      - url: "https://wgbh.brightspotcdn.com/dims4/default/d3045fc/2147483647/strip/true/crop/2247x1498+0+0/resize/2247x1498!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F22%2F97%2Fcd7df23a41599366eb296240e54e%2Fap20176661952737.jpg"
-        width: 2247
-        height: 1498
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/android-phone-2.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Facial recognition software can help save multibillion dollar grape crop"
-    excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
-    publishedDateTime: 2021-08-13T12:06:00Z
-    webUrl: "https://www.freshplaza.com/article/9344319/facial-recognition-software-can-help-save-multibillion-dollar-grape-crop/"
+  - title: "The great misunderstanding at the core of facial recognition"
+    excerpt: "Numerous authors have sketched out the social, political, and ethical implications of facial recognition technology. These important critiques highlight the consequences of false positive identifications,"
+    publishedDateTime: 2021-08-17T14:00:00Z
+    webUrl: "https://www.fastcompany.com/90666477/facial-recognition-misunderstanding"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 38
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Grape/Grape_0016_135.jpg?preset=OgImage"
-        width: 1200
-        height: 630
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/08/p-1-facial-recognition-misunderstanding.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Brain Technologies: Using AI to Replace the ‘Attention Economy’ with the ‘Intention Economy’"
-    excerpt: "Brain Technologies leverages sophisticated AI to deliver application functions on mobile devices to users as per their natural language requests, independent of the applications that provide the functions."
-    publishedDateTime: 2021-08-13T18:00:00Z
-    webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
-    type: article
-    provider:
-      name: intellyx.com
-      domain: intellyx.com
-    quality: 28
-    images:
-      - url: "https://intellyx.com/wp-content/uploads/2021/08/brain.jpg"
-        width: 751
-        height: 395
-        isCached: true
-  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
-    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
-    publishedDateTime: 2021-08-16T10:27:00Z
-    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
-    type: article
-    provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 16
 
 secured: "Gs8P9uJVIuZwjPXgPoYrYnZ+fkWxUxMoXEVdse+vxxExQZtWT787Pj1veDsjOxLwjRJE+W4mitKapRPzoewDPzNRivG8Fov3u5zB3uEIWVLS/UoVIfH6YQSb56vbcaz0uJdvzObLKbLBviQTBpgsDE2W0fEEzufe2eRcOwvdWg8MjyAr8hZxZe80dXyK5A8KFGu9RmqiPYs1qVzydMWabE23ORrIMxLnaCPJ6UFvmJD1H7cbLRWPwpN0uQvGVOBjb2+JtetcbDtW/qysaFGkuS/nHb43bmZByoDgGPpeP0oe9Wk4ISS0+KR3TbRfdxzmSjKzPnsBh/JMi0u0R9Gxk64FaLp4nSomUJQ23EJWrT4=;N4PEhEaaOY0ZlW0cS8AbOg=="
 ---

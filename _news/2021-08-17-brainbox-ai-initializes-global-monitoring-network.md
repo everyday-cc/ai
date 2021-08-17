@@ -1,22 +1,26 @@
 ---
 category: news
 title: "BrainBox AI Initializes Global Monitoring Network"
-excerpt: "BrainBox AI was recognized by TIME as one of the Top 100 best inventions and by CB Insights as one of the Top 100 AI start-ups redefining industries in 2021. The company is also a member of the MaRS Discovery District, the largest urban innovation hub in ..."
-publishedDateTime: 2021-08-17T11:15:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-business-a2d0d06a527d836a5b75c6102180dc17"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-canada-business-a2d0d06a527d836a5b75c6102180dc17"
+excerpt: "Centers in Montreal, Dublin and Sydney enable 24/7 supervision of leading autonomous AI-powered energy sustainability solutionMONTREAL, Aug. 17,"
+publishedDateTime: 2021-08-17T13:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-initializes-global-monitoring-network-1030737593"
+webUrl: "https://markets.businessinsider.com/news/stocks/brainbox-ai-initializes-global-monitoring-network-1030737593"
 type: article
-quality: 17
-heat: 17
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "gkL4TDVc3F7b7rOwqRQcv3GcT6ULtdJgwdoUTQiEl58IWRlOjmVY0QybSlX8d3jCrbZOgJzW/z0XYSAJ0NTnMuNLrZwTCS0ULcXcSphEQeylTt/3LjqGGjlsIKg7WfvVDx0vx+rGUgevXN/m32uYszmhIYibnD2cr3FuKQyOh94myXtWekGz6kRWNBT2QrVYWWvShNAstIO58VKIO+tP0KiyQGhAnFadXwKNXcZlMIXbZjaI3hAUnYJ0+drg4F/hc1upRmQS++BqfGAr+/WUi4bFIkc0l3NCfZCjkCHqpVJiENgiZRjg2yqB+7Ci1FJUA7KT6wGiPzkz7m9moDUwFlFufRjIe2Z6lOi0YeRPBw0=;sCTdphlKoNjR34VTGVTapw=="
+secured: "M7BuLr0dEVmq/l6B3VTbThe/2n/SoFXzGiu7JOT5CNtrWtdv7yLtiABBo9sr5eLFd3t0OhurJPmpRqiy3PGs5jlATLfWArn5TcgMqRW75zgp9VSOOXNiQmAWANONCBl2VhMHPBJWX/uNFB7S3koxPKEBXLLHe25+i+VnZCfOJzyH5kGu/o/iw8AJ5n9lw/KPGmDpxc00a9BC4YwKV7PM7IJot1evK/fVg1GRCx5EAVRsVoinDFopsm3+C+vT9reYU1/oP72NingPFOrcXlmEBzgQgrOQvVeII6Iyg0Tf8gg0X7xde2BufVims+CF+0bH11fVzOEWy0Lu5UvFFcUPGetdZiYkcYsc+JPtAdgKinc=;I2PERlWlPtNcH/B0CxplTg=="
 ---
 

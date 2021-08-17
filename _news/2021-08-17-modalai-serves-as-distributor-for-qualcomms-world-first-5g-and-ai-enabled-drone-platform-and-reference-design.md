@@ -1,21 +1,21 @@
 ---
 category: news
 title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
-excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
-publishedDateTime: 2021-08-17T13:35:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/08/17/9431965.htm"
+excerpt: "The Qualcomm Flight RB5 5G Platform is a development platform that developers and Original Equipment Manufacturers (OEMs) can use to build drone and flight applications based on the Qualcomm® QRB5165 System-on-a-Chip (SoC)."
+publishedDateTime: 2021-08-17T12:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/08/17/9431965.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/08/17/9431965.htm"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
 
 related:
@@ -36,6 +36,6 @@ related:
         height: 577
         isCached: true
 
-secured: "blA9xPvid8LiQU/anU3yjVM3EaJ1krQi0POJ8L4AY0KvnGeQL69HUNk6QRveWc+Xvant40+nX3C8tTVqOIFZcwqUd29o1MWsNYLvgQCMYVVDKk7zNiosLeCURv7CwZnMPJzjHBBn6DaXk88At3ljjF5wcqktJ/naU/bpDtg6/jlPafMG3oTs9+jvmU5twFfyXeDCXRXezItK5g0MUyNqvhIIThIKjXC7cgxhFYWO1MvhzHK6mb2Kz9x8NYhYloY1FoFIr5OWdlWbOzuzqYAY9nFq7xhCUzRqbjiZ9D6XoR3MBQMzpW/yqiSlvMhbTWZSWpAJyH+Ok5do58TsHOTLoyThQ/cC09PRIK/fC2oxliBiRHYOeCjStL5fnv2QmxjPzaQm7he+aW0K4R3WQJwINFHqbk9lJBfxLcr8lTakgZ8CMu1G8IoUb+Awmb3xUwBGs5+n3KX4RDtTKQatFmVGiScxZEIwFiM/+NflvXFD2KyLFezDvKNYBGZpLrQB9We/aTbZk3ABB7skZ5HDuFuC9Q==;UhmZvyVMYf9QzDy/CxczMQ=="
+secured: "GQ64Br6lkRk0a5gGPvPSUrQQsJy11IlVWDveH+cAyslEwnjnf7CKJN/f/vEeL4Gy3qCgHrRnTnDo/d5U+j5/9aAiyaTBZWiwFer4fxeucHNlNHwHOTspNFCAvK8azt3uG47MIFrzIN9zsaVN+3QLgwoXc7wt4q/DxQkBmaS36iQae6B+sys5sOzg4OuyE5mcNDPlCj6UIo1f4md8/katZ8xGjbxHFjbrayW2Fy0QalRTk852iouwPcxcW3pprEatNj2CY++39Z3uJtM0B1RYyYhiAHfQ7vGopuqOP74OQ7zIvxgHhDB6U3kqkLQvyAgOlkw8ZaM5la+8w4ZSYNpFMEu1Dl0RHXfawsqKD8FIVZ5t6q5WIIWGUzseXuB9B628P7KGdCFHHVgSNfCEVKgSf/4zrpbE3VxKKZzROA+KKfeym41MZqlgN8iyopQTRn5CSAMMA+fZ9X8pPer+5EzCBzmrwAoRgU6Z0IZwwHYvL0wg622vcF0Rpkn3jyfb3v5x+8Xm21glEmpro5tpm84KRQ==;ex/FnV49XnUSGcr8u/j/Jg=="
 ---
 

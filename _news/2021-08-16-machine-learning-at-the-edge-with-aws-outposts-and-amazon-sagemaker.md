@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
 type: article
 quality: 121
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry"
+    excerpt: "Data science workflows have to pass multiple stages as they progress from the experimentation to production pipeline. A common approach involves separate accounts dedicated to different phases of the AI/ML workflow (experimentation, development, and production). In addition, issues related to data access"
+    publishedDateTime: 2021-08-17T14:51:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/patterns-for-multi-account-hub-and-spoke-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3798-image003.jpg"
+        width: 621
+        height: 369
+        isCached: true
   - title: "Deploy multiple serving containers on a single instance using Amazon SageMaker multi-container endpoints"
     excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models built on different frameworks. SageMaker real-time inference endpoints are fully managed and can serve predictions in real time with low"
     publishedDateTime: 2021-08-16T21:07:33Z

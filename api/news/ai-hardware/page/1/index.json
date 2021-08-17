@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-17-nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off.md",
+      "title": "Nvidia's old 16-series GPU outperforms the RTX 3050 in a budget gaming laptop face off",
+      "excerpt": "According to their testing, the Dell Inspiron 16 Plus with an RTX 3050 was outperformed by the Razer Blade 15 laptop spring a GTX 1660 Ti by nearly 11% in games like Assassin's Creed Valhalla and F1 2020 at 720p and 1080p at light and medium graphics settings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
+      "originalUrl": "https://www.pcgamer.com/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/oEdBKicgKc73LBnqiBqxhe-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/",
+      "publishedDateTime": "2021-08-17T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022.md",
       "title": "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022",
       "excerpt": "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.gizbot.com/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1323,58 +1366,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-pixel-6-preview-heres-what-googles-first-smartphone-chip-can-do.md",
-      "title": "Pixel 6 Preview: Here's What Google's First Smartphone Chip Can Do",
-      "excerpt": "Now with five smartphones of its own in the books, Google is gearing up for some major changes that could propel the Pixel lineup to mainstream success. Ahead of the Pixel 6's official launch later this fall— yes,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "originalUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2522a86d58c3a3f2674b60fc4a06646a.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pixel-6-preview-heres-what-googles-first-smartphone-ch-1847395579/amp",
-      "publishedDateTime": "2021-08-02T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

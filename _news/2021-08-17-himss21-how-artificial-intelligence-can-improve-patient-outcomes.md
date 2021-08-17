@@ -8,8 +8,8 @@ webUrl: "https://healthtechmagazine.net/media/video/himss21-how-artificial-intel
 ampWebUrl: "https://healthtechmagazine.net/media/video/himss21-how-artificial-intelligence-can-improve-patient-outcomes?amp"
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/himss21-how-artificial-intelligence-can-improve-patient-outcomes?amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/video/Screen%20Shot%202021-08-17%20at%208.34.10%20AM.jpg?itok=MilN5xqY"
@@ -41,6 +42,6 @@ related:
         height: 363
         isCached: true
 
-secured: "gpw8VD3owFmixI/vH4KDYWXzPBGt0PMpmOaUncqe8L9OBhQLJi01bFHGjRoxu/Mc5s+BkK3m9schqP7Nnf5yRl6HT41zLXfEQ1sBD4VW0rIoOTFjNFAf0hAf/9P1IMr34wsZcTjCScchubGbNvE1myhFmvGUnQsPbTzR5YWgYpGpNrWUUdwvcD9I4Y/PFjNu1yOIaIkLtgCdOH1qIZUxOrda9N4YUlf5df5tzcxvMHLLPG0FeNKWdBZjYYECJ2HmlUDOtSpeYfNmBqUL0cMLL4CA/VwCMpKtxiSqZP62csj3mirTrd6Ux7tDXOY5jZ1HsaIz0iae2nmeFzEWLeB6UL0MKj2d2ihaA8lv+R1+MEE=;wRvoh1oVETwNuI/+tU000g=="
+secured: "68+xMQGlb/Uju5EiLgX12sPdZuOCxeeOwUj7Buqit4IhymEL7FnakghkEMWizl3O+j6dS+wsPoYtKj4OHc+5I7buCRsD1lHX1Z9XONf//p0gPDIfB76m0b2l78ibd4DOJt2IOM8cSxUf6VzLrN4NrPwxr6xQ4TYsDEswqP5b5AHXf96l4yJ855EFghJM1LrSKkaYJbZCZZyJwIa5qChknpR/jIPUyPKPxtAWJumLGjqBQEz+htJGIcGjWuf8LL8xdsbTJn1UTngirAqQfi9RLJXOLZVRqpp3OkQYCLzxT4OyjUkVFf3kRoYZYotVSsxQaBypC/p83pH32HjTtfsCCu+9kZZB3iwkxyP3t6980mW0U+xRhJ+VU1cI/anXa46+EymPp+7mnPFJa6wGyVpZH3x8vJUBB3LNeGruyVVhDwBBW286iC8sApRB+9G4XgkwpuPb3tT+XWKUKRyliDcTgVUkFWTr0NWsFCxX9I0pP6QSj8dMiIgO8NcSYGgEWBFCF5WW6b5XzTawYt6Csvublg==;H/Iqq/nvHHV1JtIivHSbnQ=="
 ---
 

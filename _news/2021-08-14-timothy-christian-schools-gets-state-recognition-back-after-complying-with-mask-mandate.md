@@ -26,19 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Suburban school loses state recognition after saying masks would be optional this fall"
-    excerpt: "The Illinois State Board of Education said it is removing Timothy Christian Schools status as a recognized non-public school, effective immediately."
-    publishedDateTime: 2021-08-12T21:19:00Z
-    webUrl: "https://www.fox32chicago.com/news/suburban-school-loses-nonpublic-school-status-after-stating-masks-would-be-optional-this-fall"
-    ampWebUrl: "https://www.fox32chicago.com/news/suburban-school-loses-nonpublic-school-status-after-stating-masks-would-be-optional-this-fall.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/news/suburban-school-loses-nonpublic-school-status-after-stating-masks-would-be-optional-this-fall.amp"
-    type: article
-    provider:
-      name: FOX 32
-      domain: fox32chicago.com
-    quality: 16
-
 secured: "uGyE0VGjFV0t/wB+FEpHF1NU7304lECYQJpWf/IfHsc+jXKZtru2WapwHcjgVVgsn6ZzMkvOUw4FCOC7ts65o43aogcRZF7sUgTUUOw8C/XYhjd9jhT3/uiMYkByv18qcmHCrPTOClLxYw6mi5KhJyEVN5jyiSfbpvpI2Tmsqei3M2HplIvvqG5JHOkJ9zq85axoZCBD5SfsWzloVLY+sP/sKM5qvL9BG7Fg/diqbtc1D+BYNVu2K63mKSYUGIoYJOwlQKrJiSknGZhDOgJ0kdcNsZl6nM896Af+2l/ZSmEZyxyOxtydxXIvYvlKmXDxiiorthjwOnpfY1qwBuBm98als5si1VPK6AxPgRS3pTUDC8NiYUc6NedL4b/Hz7LU69O+x6vuL+zNLyyllaHy3T3D9GGGu0j1jeWYDNjaW8DNH+rU2pzI+a2kvM8eWCL46s+wW0YNeh8pqJvL4s6xZ8MkxrJbG5gnNng5rJKUSCbQSJ0v9X17umKVhJbL9KS1kzJT1hgt3VqfBAtZ7WrEqA==;MW53r2o1c/KCZTzcyCuxOw=="
 ---
 

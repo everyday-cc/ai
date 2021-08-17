@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/grape-c
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/mildew-grapes-scaled-1.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Concerns over use of facial recognition in app"
-    excerpt: "A month ago, Chief Minister Conrad K Sangma had launched a mobile app which uses facial recognition technology to verify pensioners in an exemplary fashion, but it has now raised legal concerns from select members of the civil society."
-    publishedDateTime: 2021-08-17T01:05:00Z
-    webUrl: "https://theshillongtimes.com/2021/08/17/concerns-over-use-of-facial-recognition-in-app/"
-    type: article
-    provider:
-      name: Shillong Times
-      domain: theshillongtimes.com
-    quality: 39
-    images:
-      - url: "https://theshillongtimes.com/wp-content/uploads/2021/07/DSC_1591-scaled.jpg"
-        width: 2560
-        height: 1768
         isCached: true
   - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
     excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"

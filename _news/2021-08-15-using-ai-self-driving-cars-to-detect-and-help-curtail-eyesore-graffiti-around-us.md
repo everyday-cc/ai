@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-dri
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/08/15/using-ai-self-driving-cars-to-detect-and-help-curtail-eyesore-graffiti-around-us/amp/"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 73
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6111d27936d1dc35c8cf31ea%2F0x0.jpg%3FcropX1%3D29%26cropX2%3D3736%26cropY1%3D124%26cropY2%3D2210"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Citywide Gunshot Detection Could Be Bolstered Via Roaming AI Self-Driving Cars"
+    excerpt: "Gunshot detection systems are standalone today, but the future might involve leveraging the advent of self-driving cars as an ally in ascertaining neighborhood gunfire."
+    publishedDateTime: 2021-08-17T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/08/17/citywide-gunshot-detection-could-be-bolstered-via-roaming-ai-self-driving-cars/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ab3e1fe39a3c39b5cb34c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1323%26cropY1%3D232%26cropY2%3D976"
         width: 1200
         height: 675
         isCached: true

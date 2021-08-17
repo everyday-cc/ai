@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best Artificial Intelligence Stocks To Invest In Right Now"
-excerpt: "Alphabet Inc. (NASDAQ:GOOGL) ranks 4th on the list of 12 best artificial intelligence stocks to invest ... Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would ..."
-publishedDateTime: 2021-08-10T14:18:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/2/"
+excerpt: "Xnora.ai specializes in putting artificial intelligence on devices ... conviction in Alphabet‘s ‘moonshot’ bets (such as Waymo), substantial success in which would likely be required ..."
+publishedDateTime: 2021-08-10T14:20:00Z
+originalUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
+webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-invest-in-right-now-971781/?singlepage=1"
 type: article
 
 provider:
@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "OKZdGF9mlCuYo9a510TzFp+hmDt9D6InY9EOUOMTY+V8MIWemC01+7W8AltWxFIqUq+U0sI5k8F5i7TOqHLDYX+5+HqwZ9NTa3YJRzVN/TWyXrnCIJDlaj4kZ82V56JijN9ncvheb+X8bv39zcuMTc5IEweZrG1vyadxqKRSqCZCBR7WWJPBnUiz/gHKlLqJtHQYo9wskRRy4SNJrSjRrsbw1MiOMfnBjkyA+jQ39JPPqZ57NOzkVIDFlp/5qroUQGsj3cQj8wGeQZHHxjbxWQ8PPx1hKniWAyG7+7VdmiPpmZsn0oFWZEuPctBZs6tyhwrIUxdSXI4NjVPzPtQrhNnjN/TB9ySfbbhALdMPRqc=;rFx3SGPmhR/W0FFwOuzKyw=="
+secured: "XdNfFqQDSevmoarwuqHgnhzLwCFcf99QgUcmB435AOT2JA+0+eokaxNB0IDFq8C9w7Ra0ffjysGtKstLHuO8ez52V7ulJr+eqsaYglrKOixDCebPAsRz+64L9YpkA7Ya780t5Vq1sKN+d+JZKSbCYFa6GN6dBOTHb06+NyN+y54QXA0VY5PV3a9fgAia+I1k2o+/7ZyEUaT+zxl1QGLyUFZDSm5JhkeJinEVpv0i5A81T00wK53bYGOcinvr8cy7fOuERr+Eq3MvdQiqCG0IRgdB4anIUp6z080i1DeRU3HJ359D35lUFUnzAGAc1d21yx0k9q3URDovjD/fXxj3iVF5/6dMAQbp01+nFZRWQSQ=;mDKdFEFj70L1zwJxWRxNkw=="
 ---
 

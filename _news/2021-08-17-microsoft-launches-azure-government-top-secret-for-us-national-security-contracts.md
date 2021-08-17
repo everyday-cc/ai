@@ -122,6 +122,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 51
+  - title: "Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "Avaya has announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and employee experience.  Benefitting from the complementary strengths of both companies,"
+    publishedDateTime: 2021-08-17T15:47:00Z
+    webUrl: "https://www.totaltele.com/510630/Integration-of-Microsoft-Azure-Communication-Services-with-Avaya-OneCloud-CPaaS"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 50
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/the%20score%20board.jpg"
+        width: 500
+        height: 500
+        isCached: true
   - title: "Conversational AI Market is ready for its next Big Move | Google, Microsoft, IBM, AWS"
     excerpt: "The ‘ Conversational AI market’ research report added by Report Ocean, is an in-depth analysis of the latest developments, market size, status, upcoming technologies, industry drivers, challenges, regulatory policies,"
     publishedDateTime: 2021-08-16T16:47:00Z
@@ -131,6 +145,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "Avaya announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of customer and em"
+    publishedDateTime: 2021-08-17T15:06:00Z
+    webUrl: "https://technuter.com/breaking-news/avaya-and-microsoft-announce-integration-of-microsoft-azure-communication-services-with-avaya-onecloud-cpaas.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 35
+    images:
+      - url: "https://technuter.com/wp-content/uploads/2020/04/Avaya.jpg"
+        width: 340
+        height: 296
+        isCached: true
   - title: "Avaya and Microsoft Announce Integration of Microsoft Azure Communication Services with Avaya OneCloudtm CPaaS"
     excerpt: "Avaya , a global leader in solutions to enhance and simplify communications and collaboration, today announced a strategic relationship with Microsoft to create a powerful set of joint cloud communications solutions to define the future of"
     publishedDateTime: 2021-08-17T12:07:00Z
@@ -146,6 +174,6 @@ related:
         height: 480
         isCached: true
 
-secured: "3SmlxHRkLdRzwEgu/bZvURFRmsf3KRRFcC2zaBPMqOFkdX+rfImJTrrXCocMiLmYC1LhiOjsMW/0AAWXWp4JhY98QqFPjPFte8XOv7Wxa/BStTJCUXpyTjIlZyxRm6KXNm9I/PX8Z0kd2NJx4zrtJepkhsfXTe8BgiK2E9rQKmn0GGfySFUv7GUyzBFNV0/ks8R9iWGLvlz9qV53ZHpE09V5mBV44kYVqhE2/w0aP6256fEcPvhmpSOL8NPi/Ai5oye/Eku/pwnZFZR7tuThKC3yKM5y7EQiMUOzLP/6jp1EDmo3HOWLly5Y/aKjJ+5EaNyU7q/cCDv8drxCLS4ChY8vtGz6VWsTkNO9YP6sHAY=;XuvtD2tY3hfXsCh1OEqMmA=="
+secured: "QVWoC0NNXSgQr2fZYKotAfmb5/W+uAa/Ogyn/tl/JQRnftTQOXEyjQphOZ77knaR95aXN611X2WxjTR3GS9FUpk8bVcZlA5F61XkEVHpTVhWDyqHF/6JnQJpbIThL5jnmG1hIlXNoHvjHyKOarqdhPUzn6+iwppX6nTFvt4juNYMu7LJdUHuAVvU9ZDYaP6s41i8V9x/UWkNTF/za7cr1Nn4zc0+4EQ81suXy+Rrc5QDQoue8CWjy8/49Jme0aNf+PM+TgB58CVPy0e9zH4j7O63u2fXIeEqL1K/ezzkonzUAvzU5X0yHfWFYYFJ3FC7zJ1Ymm7lc/hD1uBaOcjqNgrgygF8LIwDN+sACSW5F4zUUL73wXQZBOW/ltfEwnNxhTuVG7XW1KTzT2zvINiUa/wLVUFC2tYr2Qp/r8GynWOgbnDAwpWnBJTWVWZgt0xYQjMhqPG9wOP7/1Hb+IOhTblzZM+E0nuxQb69cexAOwsYNKiMJFLLTKnkvBnePPwFblz1WDVJa+Xq7qN+0C9RxQ==;YMDO14gbFeEgDD3xh7JLCQ=="
 ---
 
