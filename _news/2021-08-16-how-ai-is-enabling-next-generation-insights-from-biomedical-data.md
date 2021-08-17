@@ -35,7 +35,7 @@ related:
     provider:
       name: Harvard Business Review
       domain: hbr.org
-    quality: 57
+    quality: 59
     images:
       - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
         width: 1000

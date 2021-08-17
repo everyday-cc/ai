@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
+    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
+    publishedDateTime: 2021-08-16T22:06:00Z
+    webUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014"
+    ampWebUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://i.ndtvimg.com/i/2017-06/police-line-do-not-cross_650x400_41498536630.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "More than 750,000 Tesla self-driving cars could be RECALLED after Autopilot crashes"
     excerpt: "Tesla's Autopilot system is under investigation after a series of crashes involving parked emergency vehicles."
     publishedDateTime: 2021-08-16T20:37:00Z

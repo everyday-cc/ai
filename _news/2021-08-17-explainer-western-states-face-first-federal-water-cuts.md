@@ -1,31 +1,23 @@
 ---
 category: news
 title: "EXPLAINER: Western states face first federal water cuts"
-excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at — Lake Mead — have fallen to record lows."
-publishedDateTime: 2021-08-16T21:55:00Z
-originalUrl: "https://www.beaumontenterprise.com/living/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-webUrl: "https://www.beaumontenterprise.com/living/article/EXPLAINER-Western-states-face-first-federal-16389204.php"
-ampWebUrl: "https://www.beaumontenterprise.com/living/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
-cdnAmpWebUrl: "https://www-beaumontenterprise-com.cdn.ampproject.org/c/s/www.beaumontenterprise.com/living/amp/EXPLAINER-Western-states-face-first-federal-16389204.php"
+excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
+publishedDateTime: 2021-08-16T22:47:00Z
+originalUrl: "https://apnews.com/89ff76829e3a3c7ed514320e9a40df8f"
+webUrl: "https://apnews.com/89ff76829e3a3c7ed514320e9a40df8f"
 type: article
-quality: 59
-heat: 59
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: The Beaumont Enterprise
-  domain: beaumontenterprise.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "CWinrQWe5DqNxszkyweVDrJq38LLebIxcAk8qMx5L6CwQhClyuWB6KwEPdqvn+avoLkO4iomceyJIioG2lGgFQuRiKySAB7yBtJ5TiyooYckPfED8LZeuWsrLFvbSoPzWCOQPMiik4QLcxzS59vTTdVkp0sAC0VFHtCYdxh4YRuLR//FHHbE2eJEfeMFiKi626EU7JRMP3nmDL45UJ2f5iNz0f1yn2mHLJIqqKKohV7vVkU3HnxyXgTU98Khd3P5DtovZDwqsC1jw1aaCzDnfvHY0oUO0kwGcsqyS42D7Gt0R7bNcbKHQJeVepRDe4V8wz2Rg1us2dQntXNF1yd1M5jHSASC9ynJKTTNzMunQQo=;pwanxtOJxKjpObPBhRUjsw=="
+secured: "13hCa3pZ/eCZCeZBxqF+CUUN3IuxakmGFNhT371gJSjlAt16ij0BN+LNaIbgnBnIiBp268qdn3OurUyBoAuojQuqjlIh2TNrYsokxSrKuDL4J6nnhadORFxvddAyhqYMCZJrmxaDbEx7U2Cn8xPxZoyGSAnpfzXT3ci63GerVY7B8dIVk0gFcaQ/UaW7pftmGzcKE0u2FliM8D4NlHLjpasGqUPRaO38csJb2M4SVDFaq1eJH+5unnt89IVifM/od5t6btl75Azzd4m1gOtzS99xRMusPr3rhv/BkKuGk4rWagpCzmEf2u/YltH/AW/kuZOOT2GvzNz0KsbXiuOtIzpYe7DZCLYQYckMP6sqQlxwlf7ojfIsZN3IuXS48RCBTGFnqT4yBebyCmtYCLhon+IBAwUYiyoSoyYki2zLCdE522n8ptBwGvMl0Q/6XvMcs9fW8+U8bYIlSieC+xRIK6XdpOWTeD1jKIXBZniP2GsM61d6F/HC/kjNAETkmzyZsMH1xYyTQYmj9KPBZrepzQ==;dMXptBtJoY1XPK8JNG7DjA=="
 ---
 

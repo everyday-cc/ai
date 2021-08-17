@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/scaler-academy-launches-
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/scaler-academy-launches-new-course-in-data-science-and-machine-learning/amp_articleshow/85267653.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
+    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
+    publishedDateTime: 2021-08-16T22:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/925422"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "lJBXFhukXOOYJ5qb5np+lAVn2+oVGwONUrLgSN7YEpYMuCwG8/oAEZw+JWLoCXrkPNG+tIiCv2oXbzgReVSqvLRsua30Jeh70AQiXYRw/BBXTCjUUTzYJU2afjRNGuRP1O9CLcmAXCfvZWBkpactmlH18krhsiDLtAGgNZ5uNi+IBnEb+F0/1RTBqlxC/cXT7PL+1sf00BNs4mGIfg0iwfUg/KAfLwgS4/xVlh3ssKXmqYYX0sGvuNkKsNngFzRBwoppeZOjcGvyIsP95lDgqKwAdWAa0YoY97AED5/PFVRtsxUA4NdYZnihlu+rQQwM9q8CnbByQ4gP/y6+wjhgbTo/AXNjLNsL0tS+iPNScWs=;T7xdgKnG29ImXg03tZ2b3g=="
 ---

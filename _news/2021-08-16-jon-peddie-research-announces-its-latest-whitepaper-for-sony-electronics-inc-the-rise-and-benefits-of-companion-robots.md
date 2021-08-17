@@ -6,8 +6,8 @@ publishedDateTime: 2021-08-16T11:56:00Z
 originalUrl: "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html"
 webUrl: "https://www.bakersfield.com/ap/news/jon-peddie-research-announces-its-latest-whitepaper-for-sony-electronics-inc-the-rise-and-benefits/article_df231d87-5ae0-580a-87c3-7fd099241713.html"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: 16
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"

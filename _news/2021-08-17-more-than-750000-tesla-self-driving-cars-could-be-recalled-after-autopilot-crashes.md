@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
+    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
+    publishedDateTime: 2021-08-16T22:06:00Z
+    webUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014"
+    ampWebUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://i.ndtvimg.com/i/2017-06/police-line-do-not-cross_650x400_41498536630.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
     publishedDateTime: 2021-08-16T21:08:00Z

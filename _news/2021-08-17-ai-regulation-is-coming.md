@@ -8,8 +8,8 @@ webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
 ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"

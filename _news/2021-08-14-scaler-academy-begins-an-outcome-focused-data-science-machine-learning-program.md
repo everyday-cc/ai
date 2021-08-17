@@ -60,6 +60,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "UGA launches major hiring initiative in data science and artificial intelligence"
+    excerpt: "As data science and artificial intelligence transform a range of fields, the University of Georgia is making a significant investment in faculty with expertise in using big data to address some of society’s most urgent challenges."
+    publishedDateTime: 2021-08-16T22:10:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/925422"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "02OTd7hGrxuYtMRDnq/G1BNQjwatLxSGB9wNds51xYKZkzCo9edufhofZpX5MnLQ7OZO3bPiJcXpvGdLXN9AcSTYhhswE6RMf+SAijz/NyOx7RN5J78h1rx0ezr5OnFosF9BZKb5TF5kDGhISoqhrjVPtA34v6zgNDBohNCQ70bkiyshbIQZJiLez6w5R1Jhn9yWQPAJ72MD6+JNTNL216GB7fGr7THOxatkWGciDwrVGIoVSPH9XUNadZWfLZO5FkgMuCNBfGgbMxsvtrUZ41Y+RA/kgisjI1ei+s/E0CbxPio5/ifj8cs5pRSt1SULABj2HJRonxOqKRitm0SQz5xfvra4jCJZuR8m1Ixj5z4=;vUlYNboCxmUdxxG+0cMETA=="
 ---

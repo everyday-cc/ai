@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-ap
 ampWebUrl: "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/"
 type: article
-quality: 89
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: VentureBeat
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1157449117.jpg?fit=800%2C533&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "TL1oSfv8N5kVhrjJigJIOB9BoluqnkF2D48b8kLL3POp8i/NAFqV4aj1vk7zigPhdeiiEz/XPGvfco2wjtPN8ubD/Uo0Z2iGdRvBQ9BV7Pe6JqgFzrTKTaKpsqZwMyNJm7p3noPKs+b6tefjdKW0tJHT9nbI/1N00G04cmBBYS3Ee2b8bhKLrU2psgEq3dJXh9Mh39tJlsmWzbcGY23kDXPhvIMCfwSKLyfvxztrs54RBee0QvX2y25voYxFZ9s3Hagz2WJtftz5nzh18CoWY6orrRYuKcYXBKR4HGV/wqFeVoYTSqXTQZvJBTpc97jqpP682Fr6pBIsOkPE1bBisj4sJsp9JxUtQQX1KJrRYjs=;iHVDwCNKy1XsL07u690mHw=="
+secured: "7Gufw01y0Fug/L3/wjy5xd4kTdZ9bD1HsVA73BtwP2nJqiAAo1DBmbT2+rsaiXRCrcsbqA7V/9s96PbXyDay5BShQFDEhJv5HB8oltN8PiXbZF5dTQfoDtNryN7fuoF86HzzBS4w17i5dMVWyFz0Lg71zXWosiQZLEWHxIy1Z2p/RCLfWS/xZX7UfSoPEGov5jIDgH9KFz+aFeVEyxZyBYWoxDrS84zJvESxkV+m8Q0F5tUlN4ubZpvPOWlS9jZsDTey5Yv1fLebfATK2EH5qSJIMd+uhSigiUBmCBMptLyDAjFOJZJsevDp8Hr8NAL0VyJbFy3lDnpA1XpMutTixxpawh09Erbv32zBB4SFRzBAiyCSaoo0LiqjTSL7ScF0a9/7CcF5MvQeaKd5GzIEr+5gUiCRg0ffdCLQSenW/tJxif4TZtj6S6zSwxK+jh3jcGzqWwUPMQeh6OQLSWolIYiBu2cdkiOF3iGx2dfNS2ZN5lX8bB8mzncNS0buiFf8myC0s/YkPVtLwzr9537/IQ==;QpkrZ5EN3mLUoGJXjsI/QQ=="
 ---
 
