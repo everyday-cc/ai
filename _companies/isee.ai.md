@@ -2,7 +2,7 @@
 name: "ISEE"
 overview: "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.isee.ai/
 
@@ -41,6 +41,6 @@ images:
     isCached: true
     title: "ISEE"
 
-secured: "fBLf8ng3aD7gexUltybPVBh9z08nfDhWyLqeNmUmqSwqXEjvFq1p4MFI8TzBbv/5eN2Mu9yX5hEvn82/IurfILk1I90wMOxb0yy6xc4kyb0Lva7Isqa2VALzAMGxp/bQMIhWn1PonYpAQVgLSWbtpzoEQn+qF8iSg6i+XvMAxXhdnV3ogLY+BrcrlWAK4mDwvCqqazdHJTEsK+5jAhvjAVJgDC6yKWR6/zHG8BlCLaO/lzWu6+ubuGbCzRUxlxlf5G4hoAsov0kD7I2rswS3twytYPEJKVTsqkGXO1bKOJ8886ouoXDXsGSep3mpDJJn8CpjWsBG9iQDqp8qFSV45xrd94YoZn7cs2ttdbe631GrvzmsBZ2f17xLSN+BeK4ahaoJ25seM2v24g6Gf+Isgw==;Rp++3dAsh0YrhiaaEEUTjA=="
+secured: "AJV2CkVxoHeepMr1Yztv/r2twYth9nPuqopzZfcON1I3D9gVbEQF3NnvayFIP+4JoTYCzQ9x3CdDh3P8w4jvuEJCJVOF6t8CJvJB0szLggvW4uZGoMA62VnCjm9LtJob7JyTU+4nq15wHeCorYR/X/xcJKysQT7uRD38WMm0e6vUr76aXUQRn6GQf4tsprEjuTclRnu2fOyulc/+IzWEOCkfrFlEySdc5vICyPySFb6DZaK4gb/FrbOc/vXKp63AqEvc7qEBUhEwOpZk1JehkMbT23oRX1M7snCziRNAYwFbhc0LYAy3GbehqQ9tUAhm7WicIDeo/qCR1OdKLMIUnyg0O/+sw024RINnn5Kir6i5tCxlUbyf4+5fcBrOTD7fou7qwsCAx7GhYKGlWpe/NQ==;AyVn/2rV26phyhB8yaRECA=="
 ---
 
