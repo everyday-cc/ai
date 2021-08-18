@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-th
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-old-16-series-gpu-outperforms-the-rtx-3050-in-a-budget-gaming-laptop-face-off/"
 type: article
 quality: 51
-heat: 61
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Intel announces gaming GPU brand to challenge Nvidia, AMD in 2022"
-    excerpt: "Intel plans to take on Nvidia and AMD with a new brand called Intel Arc for its upcoming series of discrete GPU products for high-performance desktops and laptops that will debut in 2022. The based company unveiled the brand Monday,"
-    publishedDateTime: 2021-08-16T19:42:00Z
-    webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/intel-arc-chip-and-computers-hi.jpeg"
-        width: 1400
-        height: 899
-        isCached: true
 
 secured: "yA4YSgNYK835HB2HM4ywlCg+gT6hF400c81FFTRFRebuCZ1Fkqs2GgzTFdNJS1vM6OOnTuMiUIaWKppln667jvMTcEYXDRcNLto/F/yw4HDSX3UHuq5XYPDjyk0K41qloos0ms4pZUF2+SLpQvgbQD32i0flaDrXDpc73GkjBGxBHCRGgCgL4bZ+VzL5KVWeDxOa4a5J1s59ayZxGFB03D373c3Efr9uc515PgSASyuxSOjCj3+l3wISZ7m/UITSDrmtHP5Y3owqMUrJhsQLtcyBI3uFcOgWQE+UAMqjnpHowAwQbiikezowZNGruWZ/t4KWplO2zDPlv94+Drh7ATOZ1tLCaeD5HFKILQ7uMxJINMw7AtkdzD1XsvsdoK6E+suLxiywmFaPe84f0mZ5QG/GbmRx7daZQINH//+6yCDyEEjpA6qj7qGkhmVojEo4DwbN0YuWjTTeqKt3IOBGXbmrO/CKQmYs0lsjr4IKFqlZX8eAsvb2l6Pi/5Nps2UJqOBG56LriGcMfk6toRo8Yg==;oXst+bK0HdmeZE0aBTvu7w=="
 ---

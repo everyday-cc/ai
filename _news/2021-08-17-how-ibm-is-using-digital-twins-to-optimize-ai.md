@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/how-ibm-is-using-digital-twins-to-optimize-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

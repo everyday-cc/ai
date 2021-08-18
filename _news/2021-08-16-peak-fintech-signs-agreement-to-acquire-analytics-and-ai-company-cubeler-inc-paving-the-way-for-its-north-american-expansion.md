@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-08-16T12:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
+excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-08-16T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
 type: article
 quality: 41
 heat: -1
@@ -67,6 +67,6 @@ related:
       domain: businessinsider.com
     quality: 21
 
-secured: "ktn3WjBPq0EXTw5IpiQXzHGLqFzFWjdmeeYFvww/dcrFMF0zh6Y1RKJLnPAnEUrmWKBhLVY4O8S++y4NOdxGYbL52CcSuAV3pa9brdnOCEuPOd7dpY8p2QlMJkZbfeHACEIMGGKMATzwVZ4dm3nInaOHyl/lsxdIouDjnsY2OKLYhsCDND4SbxWuSANFtAgJOnA+FD2Q+GEkg85PqfedA/CMoaLFLVFz3xAfhig8b5zyKYGgvHB0vjtjo/ilEvIbZSmphD9AbDFYIoAN+0Z33Asez09nu7Suy2fK5S/K24VUk9J2fDD1zmwAidtIOhmpihI1UqpIjT4V3FczS48nd3Nc+iPtb6G5+N/KQaYkNZikq32M07nR7jyH8GeQFq/77RTYcRaLnIf2zwXg16GLjoZSTatGBwdxJ+avcpq3rCToZahLMmDYoBg59DntNBD5y3Ug6T3skrlrnA6sdJVX8HXqFd//C/0pLI51WjtO1Obtf7dFyCMdd6WA6+5WV63OIF9diwqdV1hAovsqR7y1Tw==;H6a7NAQF6tvB90uvS7vEXw=="
+secured: "78PmpA19pha38iJVZaJVb7ZToAIIkvpV1ptGFDJpCRDb0ryxq7zZkdxIzjDUzcvzr2QoCHrls/q7o3gYXShRa03ac2rat+EQdui6xYQR2BHhA9UQH85WT3l00UTVLw9I3bEfQg8xWII699jt/vNCtulsonhTXnucUMmlKCYPls1E8UbnkkMnDoCpAx5nn7p7aIAa+ZUd2RAyIo5Dk1WInrv8c5aEVwT5w8Ak+VbA+MeeUUcrrxXb3KU7vsqeKbEKJLEPuBTcZRug0DbXFVzsBY/GoLG7cCb+y2V9SogyFx+ErKrXI+ouldBCEXJi72AO6bdzhumTfEAR5thi8TCoB29SjS08v4yD7zR7pbSlg0A=;M8sJGuJ9dRlYHHr5sMPqLw=="
 ---
 

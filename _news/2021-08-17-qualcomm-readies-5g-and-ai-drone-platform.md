@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-pla
 ampWebUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/08/qualcomm-drone-Flight-RB5-Image-1.jpg?w=1200&strip=all"

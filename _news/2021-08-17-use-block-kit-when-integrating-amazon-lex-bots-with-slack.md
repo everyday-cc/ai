@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-i
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-block-kit-when-integrating-amazon-lex-bots-with-slack/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

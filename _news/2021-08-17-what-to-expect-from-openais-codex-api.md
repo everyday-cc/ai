@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

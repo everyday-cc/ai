@@ -28,7 +28,7 @@ related:
   - title: "InferVision AI Assists the European Commission Monitoring COVID-19 Variants"
     excerpt: "InferVision AI has been selected to help monitor COVID-19 variants across the European Union. Faced with this challenge, the European Commission decided to increase their investment in the adoption of AI tools from InferVision."
     publishedDateTime: 2021-08-16T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734747"
+    webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
     type: article
     provider:
       name: Business Insider

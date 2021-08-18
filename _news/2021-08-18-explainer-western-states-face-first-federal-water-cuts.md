@@ -1,27 +1,29 @@
 ---
 category: news
 title: "EXPLAINER: Western states face first federal water cuts"
-excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year"
-publishedDateTime: 2021-08-17T22:07:00Z
-originalUrl: "https://www.newspressnow.com/explainer-western-states-face-first-federal-water-cuts/article_79a12a76-ffa7-11eb-b716-8b2f0b5c515b.html"
-webUrl: "https://www.newspressnow.com/explainer-western-states-face-first-federal-water-cuts/article_79a12a76-ffa7-11eb-b716-8b2f0b5c515b.html"
+excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
+publishedDateTime: 2021-08-18T03:18:00Z
+originalUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/"
+webUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/"
+ampWebUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
+cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: News-Press NOW
-  domain: newspressnow.com
+  name: WKBN
+  domain: wkbn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/90/99088f94-ffa7-11eb-954f-0769bc1c14f0/611c33e184d17.image.jpg?resize=945%2C630"
-    width: 945
-    height: 630
+  - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2021/08/nevada-water-shortage.jpg?w=1280"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -116,6 +118,6 @@ related:
         height: 713
         isCached: true
 
-secured: "KPnaaF5LsQ0U40WbKTLG6hJlzy0CLr7gR3D6nh1sh2b4+FKaHSNwgcw/oxvyI/dAeHxQu78YdPujeklplvQQDebJ+XNcnCjntC5ZJ3bAeG5HdXTH8sFQ6stQMKzOZxWoMp6gxCnup1e0U2Wmj48aqtavjAji+U+Ns6KoOnu4LXD1WuMnXr0nibkvQIMp7fr+Bh4YSzsgpHmw6WDdJL87ePMJ4ddg5VQPzOBOK/FRgy1lrle9D6SxcvyaUTQae4WBijpRJXT5VNIC3ErXMzykE0geD+CPMBGQMx9vKfFae0pWP/nxVE9RxjUbqOGJJyikosADyiB2s4Vpa/awr+3kBben0jnai7cffgU80hWwFpc=;zAKyKbY7w9lpCRfFv8kPig=="
+secured: "FUzjcyzlPLH7WxWsarERhftGmCbTeVQZ7tFZiYZrQS3BVlBbawx7zaoj+fuYlULcORm6+769XA6jffppwb3Wi+Htbqx16kckW/ZEDXCGCIaM71h8mWg4Eha3NgTZ40HzuuX1cBlGllUgfAsHR0hc0/+zwmVtJRpD21790SgC4VYs6Hn5IISUmruOE/DzrLYcbe0Rl6qXWkJlVbyzUTl0rybEDD4hQ0oxIj4Eb5npjBDHTpZiDeC1HstSz6WeMUYQ/8PlUZPeR+bmvUneWSJXR49ZmFTgbUOkQvQYJGB0btZAf8xBcFD3HZhQ9EZm3LSXh20qd1N5v9LVxNGcO5GQCgecYyHu4XAA6ZzwSfu+v/E=;2cq//8wvwOVarDkO94I+kw=="
 ---
 

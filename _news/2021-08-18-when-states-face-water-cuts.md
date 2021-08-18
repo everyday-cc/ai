@@ -60,18 +60,20 @@ related:
         height: 683
         isCached: true
   - title: "EXPLAINER: Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year"
-    publishedDateTime: 2021-08-17T22:07:00Z
-    webUrl: "https://www.newspressnow.com/explainer-western-states-face-first-federal-water-cuts/article_79a12a76-ffa7-11eb-b716-8b2f0b5c515b.html"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
+    publishedDateTime: 2021-08-18T03:18:00Z
+    webUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/"
+    ampWebUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
+    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
     type: article
     provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 39
+      name: WKBN
+      domain: wkbn.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/90/99088f94-ffa7-11eb-954f-0769bc1c14f0/611c33e184d17.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2021/08/nevada-water-shortage.jpg?w=1280"
+        width: 960
+        height: 540
         isCached: true
   - title: "Western States Face First Federal Water Cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
@@ -116,6 +118,6 @@ related:
         height: 713
         isCached: true
 
-secured: "O0S6oLwEofwYwuVGqi6lYQcml2MhaYye3HBAJJCgNYb/JNvhc+eiEFVknqnM0lO3aD4o1jLsbSMyHU5XmElIxn6QangEX5ypQlVMp34pkdaeW9DqlDpL3Mv/7o4FUVS8vDBxUjcQfZ1SauLVn3ffxSPk1ZKS4wuR3I49AHsKMLMxphYdpl59YNJaHOhWBVoBCyc/q+hwtnHkpXueDv39hLIR16nXB/qiQxQKk5kTIEwR1ryFMfeQ/rltUuw4YUEWtLVdZ7XWOaGyFJyzYMA3nMBJ9dQDRfXVk/cfAQh+iG5UOA6rkmd4cD6kxsZVLiivPRC6TJuFaMN5+vmPEzpmNejvbejzSXYqptAPT34BwXY=;6qzaoBGSmGdVuobxF2+Lew=="
+secured: "R/HovKUg3krgTKkJmLllhlZgGsMSMnTuibFcnjS/L4Ji+SsQtdIMrKuRfmSWnvoNhzr8hNKfESQDS+fB9gP/LzHE9N9BhA6mZ3TFb0iVmSQxlBGWMZn+hanGQnGat8jq9XVXQG3VZKNU+zOt+IUSf9xfbVE/3dsYfE0rhupjmVTnh+i0hyMTjGE+S7sKWLiGs0RM399cmJI+fayXzgV/+lj1NLYA6DhqQyC9IehxgjDog31r+79gTFkhFyNOioSKfhoHUniFCQ7eWPbTKBlBOz3FNJBaFc1v3waQ9bckV+KjaekvcoCt9GVBmsfCjc3ybZzjoibywmgMIO/yt1APr2Z/RrQkBnYCHeXBokCgHnUPRKI8E5yZbMiJ5qFkoVxc8AwcFPbUbL3p3gWmTl2IHOJSFDJ5wGg8ZRgd+J1XhmBVWCW1+WSL9Oek9GDe++NXnsD7lK9VTI+gmAOWlQM1sQ3FQ7nIz18ACXr3Q8k2oKC4jAEYSNz+cuB/qkJckBoldboBOyhpBkw2YGmEAHxceQ==;l7veU/w/++45AMxfz8u75w=="
 ---
 

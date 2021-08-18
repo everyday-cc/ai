@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Intel announces high-performance consumer GPU brand Intel Arc"
-excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
-publishedDateTime: 2021-08-17T15:07:00Z
-originalUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/"
-webUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/"
-ampWebUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
-cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
+title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
+excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
+publishedDateTime: 2021-08-16T22:22:00Z
+originalUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
+webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
+ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 179
+published: true
 
 provider:
-  name: The Financial Express
-  domain: financialexpress.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae287eea39eee2237481d%2F0x0.jpg"
     width: 1200
-    height: 800
+    height: 775
     isCached: true
 
 related:
-  - title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
-    excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
-    publishedDateTime: 2021-08-16T22:22:00Z
-    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
-    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae287eea39eee2237481d%2F0x0.jpg"
-        width: 1200
-        height: 775
-        isCached: true
   - title: "Intel Enters Dedicated GPU Market With Intel Arc: Will Be Available From Q1 2022"
     excerpt: "Though Intel makes both CPU and GPU, it is always widely recognized for making CPU. The company has now announced a sub-brand, dedicated to the graphics card -- Intel Arc. Under this initiation, the company will launch the first generation of dedicated graphics cards based on Xe HPG microarchitecture."
     publishedDateTime: 2021-08-17T07:09:00Z
@@ -58,6 +46,22 @@ related:
       - url: "https://www.gizbot.com/img/2021/08/intel-enters-dedicated-gpu-market-with-intel-arc1-1629183937.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Intel announces high-performance consumer GPU brand Intel Arc"
+    excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
+    publishedDateTime: 2021-08-17T15:07:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/intel-announces-high-performance-consumer-gpu-brand-intel-arc/2312689/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Intel ARC GPU As Alternative to AMD and NVIDIA, in 2022"
     excerpt: "Intel has been working on discrete graphics cards for many years and has just announced that its new GPU will arrive on the PC market under the"
@@ -166,6 +170,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wy12My3eehAP12a5eGwRljwQ5qMds7h0dmyFGNFJNNZU0iltK4J0kA/gku35UHi4bIhvP299ngzJkWpCwb5AhY92VMWZNbGjJYC1iV9CTk2JVFACph58IZl9f1WkQPLGOYKVD5qvzwYHpL4c+EDhSgpphDn2dtEVRU37vT24CGyAT7DITHKsaB27ESxAy3nFmwdOmMAv79IOnatqAqLUKf4Kf3Hds7UneUvykfNDElvpIr++zM7+/691mwD9WGfu59CH1hkQqTuBs/4HX5BSK1t87tdis+2T/uUjen1k30UGSsOYPNF9IVtUxPllVCv4h1PzH2tLsox+V4VdrElmSXBnmUMJiWXB/5LZuskqzh0=;UjPgbILpgiWlnFey1+XHJQ=="
+secured: "V9OqcK82ylyKQ9ZlCJjonARhj1KrQN0aAKmNyZ9UNJTDam+F4jJIawcwQiVZhA3KBJ0GKzVDENnhSnbXeHHIf+HBSxODuBLY+qxse9UHX8+3nJ9vA3gRWDdYR3+yNmGsSTohxUVoSvhBPnxsgIt8niNh3vLbfc3ivutWsrkJ5/we5dijfUHFg/lR+d1twE595PnPji4Vkn9AK2iiOManv8cR825bf7w2HyiX9BJKceL+JwQDVhkMG/K1900ZX639DkWpxhKvVfYyjTfATUJtgwnMKEsZqTXjDoIsxiw8+1rqgqFcgolzWbIKC9AKesB2BLCijHm6vqc4/yP+uPJ+puqe+5CwS2xLt69RzxwZxjM=;PRcKjvLzDG/24rNWSfom3Q=="
 ---
 

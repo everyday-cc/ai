@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "EXPLAINER: Western states face first federal water cuts"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
+    publishedDateTime: 2021-08-18T03:18:00Z
+    webUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/"
+    ampWebUrl: "https://www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
+    cdnAmpWebUrl: "https://www-wkbn-com.cdn.ampproject.org/c/s/www.wkbn.com/news/national-world/explainer-western-states-face-first-federal-water-cuts/amp/"
+    type: article
+    provider:
+      name: WKBN
+      domain: wkbn.com
+    quality: 59
+    images:
+      - url: "https://www.wkbn.com/wp-content/uploads/sites/48/2021/08/nevada-water-shortage.jpg?w=1280"
+        width: 960
+        height: 540
+        isCached: true
   - title: "When states face water cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
     publishedDateTime: 2021-08-18T01:15:00Z
@@ -58,20 +74,6 @@ related:
       - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcyMTk4NDI0NzE0NjgzNjA0/lakemead-je-2-2000.jpg"
         width: 620
         height: 372
-        isCached: true
-  - title: "EXPLAINER: Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year"
-    publishedDateTime: 2021-08-17T22:07:00Z
-    webUrl: "https://www.newspressnow.com/explainer-western-states-face-first-federal-water-cuts/article_79a12a76-ffa7-11eb-b716-8b2f0b5c515b.html"
-    type: article
-    provider:
-      name: News-Press NOW
-      domain: newspressnow.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/9/90/99088f94-ffa7-11eb-954f-0769bc1c14f0/611c33e184d17.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
         isCached: true
   - title: "Western States Face First Federal Water Cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gp
 cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/gaming/news/intel-enters-dedicated-gpu-market-with-intel-arc-will-be-available-from-q1-2022-076169.html"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: GIZBOT
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s announces ‘Alchemist’ consumer GPU graphics"
-    excerpt: "Intel today announced Intel Arc, its first consumer-focused high-performance graphics solution. In the press release, Intel described Arc graphics as “a convergence of Intel’s Xe LP, HP and HPC microarchitectures that will deliver scalability and compute efficiency with advanced graphics features” and that the brand encompasses hardware,"
-    publishedDateTime: 2021-08-16T16:55:00Z
-    webUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113"
-    ampWebUrl: "https://www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/intels-announces-alchemist-consumer-gpu-graphics/457113?amp=1"
+  - title: "Intel Revealed A Lot More Than Just Its Arc Discrete GPU Branding Today"
+    excerpt: "Intel Arc will be the brand to do battle with NVIDIA’s GeForce and AMD’s Radeon graphics products when it arrives in Q1 2022."
+    publishedDateTime: 2021-08-16T22:22:00Z
+    webUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/"
+    ampWebUrl: "https://www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2021/08/16/intel-revealed-a-lot-more-than-just-its-arc-discrete-gpu-branding-today/amp/"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2021/08/intel-arc-graphics-feature.jpg"
-        width: 2045
-        height: 1149
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611ae287eea39eee2237481d%2F0x0.jpg"
+        width: 1200
+        height: 775
         isCached: true
   - title: "Intel announces high-performance consumer GPU brand Intel Arc"
     excerpt: "Intel Arc – for discrete high-performance consumer GPUs along with accompanying software and services. The new brand is largely looking at gamers as its target end consumer. The first laptops and desktops on Intel Arc products are expected to be released in 2022."
@@ -58,6 +58,22 @@ related:
       - url: "https://images.financialexpress.com/2021/08/intel-1200.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Intel ARC GPU As Alternative to AMD and NVIDIA, in 2022"
+    excerpt: "Intel has been working on discrete graphics cards for many years and has just announced that its new GPU will arrive on the PC market under the"
+    publishedDateTime: 2021-08-16T18:20:00Z
+    webUrl: "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/"
+    ampWebUrl: "https://www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/"
+    cdnAmpWebUrl: "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/08/intel-arc-gpu-launch/amp/"
+    type: article
+    provider:
+      name: Ubergizmo Feed
+      domain: ubergizmo.com
+    quality: 59
+    images:
+      - url: "https://i.ytimg.com/vi/3RHYgNQD8-c/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "Intel New Arc GPU: Can It Compete With AMD and Nvidia?"
     excerpt: "Intel announced its entry into the graphic card market with its new Intel Arc GPU. These graphic cards will be competing directly with AMD and Nvidia, finally putting an end to this duopoly. The ARC brand will basically be the equivalent of AMD’s Radeon and Nvidia’s Geforce with multiple hardware generations."
@@ -105,6 +121,48 @@ related:
     images:
       - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/0-news-intel-is-getting-into-the-dedicated-gpu-space-with-intel-arc-launching-early-2022-image1-0rugu3ghvs.jpg"
         width: 943
+        height: 630
+        isCached: true
+  - title: "Intel announces gaming GPU brand to challenge Nvidia, AMD in 2022"
+    excerpt: "Intel plans to take on Nvidia and AMD with a new brand called Intel Arc for its upcoming series of discrete GPU products for high-performance desktops and laptops that will debut in 2022. The based company unveiled the brand Monday,"
+    publishedDateTime: 2021-08-16T19:42:00Z
+    webUrl: "https://www.crn.com.au/news/intel-announces-gaming-gpu-brand-to-challenge-nvidia-amd-in-2022-568675"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/intel-arc-chip-and-computers-hi.jpeg"
+        width: 1400
+        height: 899
+        isCached: true
+  - title: "Intel Introduces A New PC Gaming GPU Called Intel Arc, Set To Rival Nvidia"
+    excerpt: "Intel is ready to boost its game in the gaming market by introducing an upcoming gaming GPU known as the Intel Arc. This new Arc brand is said to cover both hardware and software powering Intel’s high-end discrete GPUs."
+    publishedDateTime: 2021-08-17T14:37:00Z
+    webUrl: "https://www.techjuice.pk/intel-introduces-a-new-pc-gaming-gpu-called-intel-arc-set-to-rival-nvidia/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 37
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/08/intelarc.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More"
+    excerpt: "Beware Nvidia! Intel Arc is the New Consumer GPU Brand Coming to Devices in 2022 With Ray Tracing, Super Sampling and More -"
+    publishedDateTime: 2021-08-17T06:32:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_intel/beware-nvidia-intel-arc-is-the-new-consumer-gpu-brand-coming-to-devices-in-2022-with-ray-tracing-super-sampling-and-more/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 13
+    images:
+      - url: "https://assets.mspimages.in/wp-content/uploads/2021/08/Intel-Arc-GPU-branding.jpg"
+        width: 1200
         height: 630
         isCached: true
 

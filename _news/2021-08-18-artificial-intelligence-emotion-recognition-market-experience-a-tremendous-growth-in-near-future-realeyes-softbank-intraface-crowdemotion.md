@@ -19,17 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market 2021 to Witness Stunning Growth-Microsoft Corporation, IBM Corporation, Google LLC"
-    excerpt: "Market Research Report 2021-2026 published by Market Insights Reports is a significant source of keen information for business specialists. It furnishes the Machine Learning as a Service (MLaaS) business outline with development investigation and historical and futuristic cost analysis,"
-    publishedDateTime: 2021-08-17T16:47:00Z
-    webUrl: "https://www.openpr.com/news/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    ampWebUrl: "https://www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358161/machine-learning-as-a-service-mlaas-market-2021-to-witness"
+  - title: "Artificial Intelligence For Automotive Applications Market May Set Epic Growth Story with Audi, BMW, AImotive"
+    excerpt: "The Latest research study released by HTF MI Worldwide Artificial Intelligence For Automotive Applications Market with 100 pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development"
+    publishedDateTime: 2021-08-18T02:32:00Z
+    webUrl: "https://www.openpr.com/news/2358326/artificial-intelligence-for-automotive-applications-market"
+    ampWebUrl: "https://www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2358326/artificial-intelligence-for-automotive-applications-market"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 43
+    quality: 53
+    images:
+      - url: "https://cdn.openpr.com/U/8/U818559952_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "UXEF62YigYX61LyPOuK7wF++vKEObnhFoqMCZVRvwZSIWKYIK0mi9q+JCHIpe0W3EecBcJyx76jVEmmOgGcR/qbhSiNuWH2GtDd8GH7YcnYDfQx3XIpMW0oEPHwFwTPzxdjp7OxfvBVQwAZN8SBkkR8LfJKrnV593DKmXs3ZIyb5bDpdmsOz+A1tzsVGlYUKPMNV24SXUl6Kjkx9avKs3ZlcmRtgJ9KUSkSe0UoE6RsFPpAtHwyIP09fcLTReuBH9hdRV/GqIHKYjJA73VWH7XffeBqEOgewnBQCYkn6aXsqjdfLI5TBbwo66sU1Mgm8GH03WYFIW1XdobDqx9SoIU5lZgfAzwfLXc+kBfisZgg=;iuISjVg3YvLgB4TF7DHH0g=="
 ---
