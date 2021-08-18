@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Bill Smart Brings Technical Expertise in Robotics and AI to Discussions about Regulation"
-    excerpt: "Bill Smart builds robots and researches human-robot interactions. He is also very interested in the policies that guide and regulate technology. Sometimes, he says, policymakers, like other members of the public,"
-    publishedDateTime: 2021-08-17T21:34:00Z
-    webUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation"
+  - title: "This company is pushing the boundaries in healthcare with AI"
+    excerpt: "In a fast-paced environment, AI is a resource that never gets tired, never forgets, and can never be emotional."
+    publishedDateTime: 2021-08-18T01:44:00Z
+    webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
     type: article
     provider:
-      name: AAAS
-      domain: aaas.org
-    quality: 62
-    images:
-      - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-08/smart_0219-6-1200x628_440X440.jpg?itok=bhxYTxx1"
-        width: 440
-        height: 440
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 66
 
 secured: "Ri8DKB+SBoM/FakZRGz8haN1XywicDrxjRFZF0h2cn7Ol7lArzvlNEqmWy1SKRKTx9ZIlbKC7cWooo/wHAkcI7GRxovKBQEVnd57Kz3sYGfLzurh/6aVPxqIaVvbMzqBuLOhlV7xrTTNKGFIPccqAcmhE4A2JO1JLbrbwGt9jhov44wZWUotKKtM0EHFexlXHYX7vhYm0qPTFtF3sWLlW97QU1fDZET+mNr/fbl5pLU0XvzbNCONDfAAPT0/t23anpm/V2GscfHgSP08ok4I4T49w8raf2PiQemQs2Sv8tszJqmiXXze3mJzYk+evNJvme5gsAipNU27TAyRX+RiQ5g+wxNas/8/qQj7suisTtyiG/5kHouHieD5bmrX1vuORN0EgOgWysqJmL1R8bMUKDnOIJvyyyNn46HNSYhDlvJT+VSzX1dFm+3obCbFfNW5bw3DtR5zGJrpfPo9W3EdHI2DThk/ek3yTzW+43gDcFfDFzvVI8GwjudJ7BNSGwLmaK8weh36CWAfX0wZ2Hbwmw==;cLQer4LQ6S9ScaKrgytHCA=="
 ---

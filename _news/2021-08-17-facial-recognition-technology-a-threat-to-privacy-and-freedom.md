@@ -25,73 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Grape Crops Protected With Help of Facial Recognition Technology"
-    excerpt: "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,"
-    publishedDateTime: 2021-08-13T08:25:00Z
-    webUrl: "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
-    ampWebUrl: "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986"
+  - title: "UK privacy advocates sound alarm on ‘dystopian’ live facial recognition technology used by police"
+    excerpt: "UK privacy and civil liberties campaigners say that the proposed changes to the code on the use of facial recognition systems by police leave a path for this technology to be abused by the state."
+    publishedDateTime: 2021-08-17T12:45:00Z
+    webUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/"
+    ampWebUrl: "https://www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/uk/532293-uk-facial-recognition-concerns/amp/"
     type: article
     provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
+      name: RT
+      domain: rt.com
+    quality: 46
     images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305"
-        width: 640
-        height: 360
+      - url: "https://cdni.rt.com/files/2021.08/xxl/611baefa203027116d5066cb.jpg"
+        width: 1240
+        height: 697
         isCached: true
-  - title: "Facial recognition AI helps fast-track research in crop-ruining grape mildew"
-    excerpt: "Researchers have used AI and a robotic camera to cut the time spent examining grape strains in the lab from six months down to a single day."
-    publishedDateTime: 2021-08-16T12:59:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/grape-crops-resistant-to-mildew-ai"
+  - title: "UK faces 'dystopian' future with facial-recognition AI cameras turning public spaces into 'prisons'"
+    excerpt: "Campaigners slammed proposed new CCTV guidance given to police and councils in England and Wales to compare camera footage with a watch-list (file photo)."
+    publishedDateTime: 2021-08-17T07:39:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9900501/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9900501/amp/UK-faces-dystopian-future-facial-recognition-AI-cameras-turning-public-spaces-prisons.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 51
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/08/mildew-grapes-scaled-1.jpeg"
-        width: 800
-        height: 600
+      - url: "https://i.dailymail.co.uk/1s/2021/08/17/08/46765661-0-image-a-27_1629185947147.jpg"
+        width: 636
+        height: 382
         isCached: true
-  - title: "Facial recognition software can help save multibillion dollar grape crop"
-    excerpt: "An unusual collaboration between a biologist and an engineer might greatly enhance the current to protect grape crops. The new technology, using robotics and AI to identify grape"
-    publishedDateTime: 2021-08-13T12:06:00Z
-    webUrl: "https://www.freshplaza.com/article/9344319/facial-recognition-software-can-help-save-multibillion-dollar-grape-crop/"
-    type: article
-    provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 38
-    images:
-      - url: "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/Stock_photos/Grape/Grape_0016_135.jpg?preset=OgImage"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Brain Technologies: Using AI to Replace the ‘Attention Economy’ with the ‘Intention Economy’"
-    excerpt: "Brain Technologies leverages sophisticated AI to deliver application functions on mobile devices to users as per their natural language requests, independent of the applications that provide the functions."
-    publishedDateTime: 2021-08-13T18:00:00Z
-    webUrl: "https://intellyx.com/2021/08/13/brain-technologies-using-ai-to-replace-the-attention-economy-with-the-intention-economy/"
-    type: article
-    provider:
-      name: intellyx.com
-      domain: intellyx.com
-    quality: 28
-    images:
-      - url: "https://intellyx.com/wp-content/uploads/2021/08/brain.jpg"
-        width: 751
-        height: 395
-        isCached: true
-  - title: "Can a Covid-19 face mask protect you from facial recognition technology too?"
-    excerpt: "Our relationship with ‘public space’ is being redefined, not just by a global pandemic, but also by a new era of biometric surveillance technologies."
-    publishedDateTime: 2021-08-16T10:27:00Z
-    webUrl: "https://privacyinternational.org/news-analysis/4511/can-covid-19-face-mask-protect-you-facial-recognition-technology-too"
-    type: article
-    provider:
-      name: Privacy International
-      domain: privacyinternational.org
-    quality: 16
 
 secured: "f+zQ6RbJbyw2a8yuall8JXKxcxzEjQbQwF8a9iFtUWpqCD/8RnNBQawwRSl3aNQclvYCkDFZ01DDHRBzj4HXu8xnZyEWmRgaTSA/KQcqsR3KPyaemVOhex6a6Npcg5/f6ibU60H7HvM7Yjj5dm4kKdv4dWBDwkDDCyDPxyfizAgPMhGdfxHiZTAGbUfDrvw6VQmzYh8pFRKjXYOLtaNgOnetMmskV4HJ9VaDo7r/L0a73jA2UOwAVJHslqS+xHu0TB3Pwx+rWnK/5CHpvKGXlxzW0kJUe+oyMqNFTE9DFnqRLW8tcXAd1Xwz5IxgDVbIAErYgMZKnmYu3kNZh1QnOH0G+uDGbon8Pk+ctxKFJaKD/23Y74U8jUPshhY2sn20zhBVUFarpceJgZoajlHPYH2HhZXNozx76Nhj1ywQAzcspGlZlNgDwAZpZdXCPCwwl/0dmevudS/LN1vnEzXvGdL0hiKCg89HymIGZaws49z6NZJt/VeJVCcF0A5Ka93SOdZevJiRSB3rhQOYJh4hrg==;2/t5LzqWvu4YJ/JVXmU2nw=="
 ---

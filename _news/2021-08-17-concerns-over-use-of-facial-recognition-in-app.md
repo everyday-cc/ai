@@ -71,6 +71,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Use of Facial Recognition Technology in Criminal Investigations"
+    excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
+    publishedDateTime: 2021-08-18T01:15:00Z
+    webUrl: "https://www.avvo.com/legal-guides/ugc/the-use-of-facial-recognition-technology-in-criminal-investigations"
+    type: article
+    provider:
+      name: Avvo
+      domain: avvo.com
+    quality: 19
 
 secured: "Gs8P9uJVIuZwjPXgPoYrYnZ+fkWxUxMoXEVdse+vxxExQZtWT787Pj1veDsjOxLwjRJE+W4mitKapRPzoewDPzNRivG8Fov3u5zB3uEIWVLS/UoVIfH6YQSb56vbcaz0uJdvzObLKbLBviQTBpgsDE2W0fEEzufe2eRcOwvdWg8MjyAr8hZxZe80dXyK5A8KFGu9RmqiPYs1qVzydMWabE23ORrIMxLnaCPJ6UFvmJD1H7cbLRWPwpN0uQvGVOBjb2+JtetcbDtW/qysaFGkuS/nHb43bmZByoDgGPpeP0oe9Wk4ISS0+KR3TbRfdxzmSjKzPnsBh/JMi0u0R9Gxk64FaLp4nSomUJQ23EJWrT4=;N4PEhEaaOY0ZlW0cS8AbOg=="
 ---

@@ -23,38 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026"
-    excerpt: "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,"
-    publishedDateTime: 2021-08-13T07:30:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 62
-    images:
-      - url: "https://i.ibb.co/c32bqbJ/img-final.jpg"
-        width: 600
-        height: 401
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size and Analysis, Trends, Recent Developments, and Forecast Till 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Forecast to 2028 offers readers a complete overview of the Artificial Intelligence (AI) in Retail industry by evaluating current and future market dynamics along with scope of the study."
-    publishedDateTime: 2021-08-13T19:20:00Z
-    webUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    ampWebUrl: "https://manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-in-retail-market-size-and-analysis-trends-recent-developments-and-forecast-till-2026/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 49
-    images:
-      - url: "https://manometcurrent.com/wp-content/uploads/2021/07/1-22-390x220.png"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2028"
     excerpt: "Increasing demand for AI driven solutions in the education sector and rising adoption of AI in the BFSI industry to provide enhanced customer service is driving growth of the artificial intelligence systems spending market The global Artificial Intelligence systems spending"
     publishedDateTime: 2021-08-13T16:29:00Z
@@ -71,6 +39,15 @@ related:
         width: 750
         height: 350
         isCached: true
+  - title: "AI Infrastructure Market to Witness the Highest Growth"
+    excerpt: "The increasing need for hardware platforms with high computing power to run various AI software is a key factor fueling the growth of the AI infrastructure market. Machine learning technology held the largest share of AI infrastructure market in 2020 APAC is the host to a few of the fastest-growing and leading industrialized economies such as China,"
+    publishedDateTime: 2021-08-18T00:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_amd/ai-infrastructure-market-to-witness-the-highest-growth/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 19
   - title: "Global AI-powered X Ray Imaging Market 2021 Growth Opportunities, Top Manufacturers, Regions, Application, and Forecast to 2027"
     excerpt: "MarketsandResearchbiz presented Global AI-powered X Ray Imaging Market report which analyses competitive advancements"
     publishedDateTime: 2021-08-17T01:40:00Z

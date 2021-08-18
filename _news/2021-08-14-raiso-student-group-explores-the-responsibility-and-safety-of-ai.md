@@ -58,6 +58,17 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "One Law AI Shares AI Software For Attorneys"
+    excerpt: "One Law AI is proud to share the future of the legal industry: Amelia. The company was founded with the intention of bringing Artificial Intelligence (AI) to personal injury law firms. More information about the company can be found at the following link: One Law AI For Law Firms."
+    publishedDateTime: 2021-08-18T01:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22549427/one-law-ai-shares-ai-software-for-attorneys"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22549427"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22549427"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "ZZE6iOq455jng6m/uM6c35vtF+DF76tq41pxOkI0i7+2djn/FZUY2u2SxnaWJBEd49xmQQ9AgWVG4qC696blYwL8RyADTRAdV7233cIVgi0tBtuA8ZHzg/q8Y2aO+BQgdRiKqC/lEAJWG5gaxCMVzqkzF8jyxKX2FgeYUxBmMfxvszjGo5wGJgTcUhGIe35gqSUumyUEafHlmWesIOqNjJygCceV9iLgdFO3ipOb706F3W8mX/99ph1NBSnoJRkV4/gj3bn26eXQECie9HONgDnitu1AIwd3M1j2vYQ7v9zn9DRbxdJg3+oVzYBBNlsqjC8kpphgzhr8EXyTBWhbxir+hTxGgc1Y1CukcyiIvlY=;jmvKN1U4MUmJJm0ixLROpg=="
 ---

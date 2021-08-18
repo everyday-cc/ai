@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 577
         isCached: true
+  - title: "Smartphones in the sky: Qualcomm launches first 5G and AI platform targeting commercial drones"
+    excerpt: "After supplying computer chips for NASA's Ingenuity helicopter on Mars, Qualcomm has unveiled next generation technologies to help power safe, beyond line-of-sight drone flights on Earth."
+    publishedDateTime: 2021-08-18T01:08:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 47
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4b9880a/2147483647/strip/true/crop/2393x1600+4+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F53%2F21%2Ff9dfa488476ebc31094eb4ecc0bf%2Fsd-photos-freelance-contract-825854-sd-fi-covid-presser-14.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
     excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
     publishedDateTime: 2021-08-17T13:35:00Z

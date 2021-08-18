@@ -7,8 +7,8 @@ originalUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-ro
 webUrl: "https://www.aaas.org/news/bill-smart-brings-technical-expertise-robotics-and-ai-discussions-about-regulation"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: AAAS
@@ -24,24 +24,6 @@ images:
     width: 440
     height: 440
     isCached: true
-
-related:
-  - title: "AI Regulation Is Coming"
-    excerpt: "This article explains the moves regulators are most likely to make and the three main challenges businesses need to consider as they adopt and integrate AI. The first is ensuring fairness."
-    publishedDateTime: 2021-08-16T17:59:00Z
-    webUrl: "https://hbr.org/2021/09/ai-regulation-is-coming"
-    ampWebUrl: "https://hbr.org/amp/2021/09/ai-regulation-is-coming"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/09/ai-regulation-is-coming"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
-        width: 1000
-        height: 562
-        isCached: true
 
 secured: "mGZGxl7DXKRINrFCSjgBTVoGrXlABkClmg9j7/Alw8cd/OAfmtFXLtnUMWaqxandyMcz5EH7mvJ0FuwHlxFpX43htwGcAt7yLSnQRFkpoi/gxstgXrjAxSPovh4qLGmx4yOnSR7naafVW73P33DSjlRAwQHRQ4eT19a/SWsI8Aw8CLkQviYYxG7jA3CGbGbjbovBSDg089KFwK2C+3hCerWAWHfbRlGQQjK4K9ZkSuc5kP3+Q1oOgXzysoIJPLmfKqm9kREw2+x5iMmfAIG9QWrHHF32FH6LDftDNNcR5if2sG+Zys7Lve3iWtJBr8w73wz2u0yDgmelia84sELvLdvY/P+8E0qi/F4J/IODdzW+ra5zga8LPiPbo7k5vdKNpw11KVW2ufilFtUTtBd89H1laHW53oblul+N9jEtXBISerB1SMUFOQ3egvvwMonMj7BJ7F9biymQjASjH5CGYMsSYpF1KwY/6aFSzneHvWIJWejRCmxat+gMhsXPSf4vMZbz4lGB6BncS1BPbXCnjw==;OmOSLoMlV4O/2NoV6DgR1A=="
 ---

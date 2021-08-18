@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-b
 webUrl: "https://www.biometricupdate.com/202108/tool-for-explainable-face-biometrics-neural-networks-open-sourced-by-truera"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Biometric Companies
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Businesses Face New Litigation Risk Over Biometric Information"
+    excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
+    publishedDateTime: 2021-08-16T16:54:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2021/08/16/businesses-face-new-litigation-risk-over-biometric-information/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "NtechLab launches FindFace Multi to combine face biometrics with silhouettes"
     excerpt: "The update doubles the accuracy of biometric identification of unmasked faces and increases the accuracy of matching masked faces by a whopping ten times."
     publishedDateTime: 2021-08-13T21:09:00Z

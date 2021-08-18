@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers ask Amazon what it plans to do with palm print biometric data"
-    excerpt: "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,"
-    publishedDateTime: 2021-08-13T09:00:00Z
-    webUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/"
-    ampWebUrl: "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024"
-        width: 1024
-        height: 676
-        isCached: true
   - title: "Senators ask Amazon how it will use palm print data from its stores"
     excerpt: "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data.."
     publishedDateTime: 2021-08-13T14:16:00Z
@@ -62,6 +46,22 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-08/e62ca7f0-fc33-11eb-b3bb-37c2f81426cc"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Amazon’s palm print scanning devices are raising concerns in Congress"
+    excerpt: "Three senators asked Amazon about how the company plans to use and secure data it collects from its Amazon One palm print payment system."
+    publishedDateTime: 2021-08-13T16:22:00Z
+    webUrl: "https://www.dailydot.com/debug/amazon-one-palm-print-scanner-senators-letter-concerns/"
+    ampWebUrl: "https://www.dailydot.com/debug/amazon-one-palm-print-scanner-senators-letter-concerns/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/amazon-one-palm-print-scanner-senators-letter-concerns/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://uploads.dailydot.com/2021/08/Amazon-One-Senators-Letter-Concerns.jpg?auto=compress%2Cformat&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "Senators ask Amazon how it will use palm print data from its stores (updated)"
     excerpt: "Senators have asked Amazon's CEO how the company will use palm print data from One — they're concerned it might abuse the data.."
@@ -86,34 +86,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Businesses Face New Litigation Risk Over Biometric Information"
-    excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
-    publishedDateTime: 2021-08-16T16:54:00Z
-    webUrl: "https://www.law.com/newyorklawjournal/2021/08/16/businesses-face-new-litigation-risk-over-biometric-information/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Paravision partners on combined face and fingerprint biometric authentication solutions"
-    excerpt: "Paravision will support dual authentication offerings to a customer base which already includes devices with both fingerprint and facial authentication."
-    publishedDateTime: 2021-08-13T19:54:00Z
-    webUrl: "https://www.biometricupdate.com/202108/paravision-partners-on-combined-face-and-fingerprint-biometric-authentication-solutions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/19125305/VAR-channel-distribution-partnership-large.png"
-        width: 956
-        height: 534
-        isCached: true
 
 secured: "t+bqeUZnCFlV0vq5y0ILspLWAfTEml8ikc8h3NsQ3sBUEFvmHx1gy9/3/z5qP/wIqAE9/C7xlxTBODhmIUDabTJ95qH/wYW34VuE4PzqHIaC3JIJnlHo5cudu48xWZdEv1P4ahdKxg99cgJVOWpqsXcafpOkiGPr6cWQp+FQkU9PhESHu8Db5wzS4bhZ/0zLuBcrCp4O6XOg80ug+U4wUzw8lKef+q8epbxgmiir1iX+lzus+CcD7dgv2j4195DSOnXD4ydmFnLkCyCsp4K0ARIuC+55LVp/pZF92F2Y/B59a+6LL/+8pswLAd+KC9zG+BxA2UbovRf480+002gaETuwW2ghR9RlLtOWwxXrKyMpVvn5Jl7zGC4/98VpXR6GPyoC5paa42VKBPVN9aThgTbC2jUGNu0YLxX7iWUdwHklJOuptXdfNmMAuQGbnkFpcZSZw8x9nHHJw4Am98L4WyVJ1Fn3a1DG7Gmm0XqkBIDFP9rhSB0pg7NDDnJJkK6cTEoxwhvx/Ivp1KsFy65hgA==;O4pIH/osDdB0r6ESAlxwkA=="
 ---

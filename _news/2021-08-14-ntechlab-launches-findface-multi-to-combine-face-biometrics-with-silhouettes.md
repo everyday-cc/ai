@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 591
         isCached: true
+  - title: "Businesses Face New Litigation Risk Over Biometric Information"
+    excerpt: "A New York City law that took effect early last month is likely to significantly expand the range of biometric-related litigation beyond social media companies to a new group of defendants: retail stores,"
+    publishedDateTime: 2021-08-16T16:54:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2021/08/16/businesses-face-new-litigation-risk-over-biometric-information/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2021/08/Biometric-Data-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "r2m40L3mluj6EQmPJcqqBoNviR7+wburgrqC4ZTCO2C+SwLQU/Q4L2GopAhLhFZZQAZ3F2tE5p3lv9TAVtR+2gcnR3cAJIKbKnxe5E652O4Bl7gH7hK/EaO1syfeqLKyLje+QywluMEtdh/n1ORjmvtpON8UpuGY5bxyOuaFo+XqyYY4sZ1GysgagQLECFTraC8h+jsRpYbiQxlZWTtcCGgndn863d13sX7kA8DnHEjv2zADnJXi2JsdI/3Y0WIEpsI8AYSYs0S2d090ZjJmmJs7auVNOMrWqLXjaR5/8ZN++JDeCXzyxL52Z8m9rdcmvID4KuAswT5BO7MzTVclnIbfMxvZVgpm2+O1fy5UP7aNKJ1w2JERgp5LDDPDHYtSrmy4NqGpBWhSlGWGNE3y1B7XfTFsSYJgq0vi7TZzgbV4CN8hV5KwoK8Yj+NxcuUtK5hhfsMUNIsqgGu3UjNdc8dimaIcRpViHclzFkAHefCTy5etyOzvAjkyXs0GsrLXVIyf1oJtmpn1TRBVoGU2qw==;+tmU15i6+5E9IU9X7viLOg=="
 ---

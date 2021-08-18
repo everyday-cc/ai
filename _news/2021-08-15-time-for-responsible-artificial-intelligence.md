@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/business/time-for-responsible-artif
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/business/time-for-responsible-artificial-intelligence-701630"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "One Law AI Shares AI Software For Attorneys"
+    excerpt: "One Law AI is proud to share the future of the legal industry: Amelia. The company was founded with the intention of bringing Artificial Intelligence (AI) to personal injury law firms. More information about the company can be found at the following link: One Law AI For Law Firms."
+    publishedDateTime: 2021-08-18T01:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/08/g22549427/one-law-ai-shares-ai-software-for-attorneys"
+    ampWebUrl: "https://www.benzinga.com/amp/content/22549427"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22549427"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "YSCFx285XUUh2qj4YSlmyP0M2o9/2MGR1nmnyVMSdPt+yeCrN+7dSazCM1FtUzifDo1kyKz4b5Ko5F6CbURAQGsbtq0DMhz2Sx1wSDRMgGDV0KrQ1BZBW4G4eBNfCevlhEPIBNsLcLBzf84y202rcysFr4V8J0i2JJRI6sZk+iQ6yklou398BzA1OcdeXtEGpnPMbTvhi96Ix0qorYoHDwHfL1XoQlRakFibXABX/guOA9BTfw/9sA23VFrxPZ+Tz/6Q02A4DtSVHPgFm5ZfEoISuJSB/7XoJujxzs4TNTUOP5ztIX5fA36xd5+OKkvVGepK9GEq+SBoNwitsSAbdYoBogfUEI61Y7bAaTbto/LzJFARbvy57r6TwcSVTIchW89Cp+TjVSx/oOX9vnBj46qWEsKTCMmxRhnp//3J8p5KKpfmqhaMOhJuo4tJMK20herT3NHo972vDTNK90vpkBtwnMg0vfudAh9hOUv/WX9TysxVLKf2SLTGyd/aFbqBh1IdJiBegKx4WPmJLyMJmQ==;gqsf7zxe0b2fEBQSRDJT7g=="
 ---

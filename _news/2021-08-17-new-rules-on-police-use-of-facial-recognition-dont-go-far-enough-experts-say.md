@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Use of Facial Recognition Technology in Criminal Investigations"
+    excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
+    publishedDateTime: 2021-08-18T01:15:00Z
+    webUrl: "https://www.avvo.com/legal-guides/ugc/the-use-of-facial-recognition-technology-in-criminal-investigations"
+    type: article
+    provider:
+      name: Avvo
+      domain: avvo.com
+    quality: 19
 
 secured: "WJwm8TrVXdcVqhZVIGOr3EfgZK6Usx1Tcru8bwXWFtctcj8hnl8j6oQAC9J7ANxissxNV3AIl1GipFoAPKLUim1qtCk6WRc2M8ql47Q3zE1zRfzVfF6xPFMmjJCxko2TNCBECRbB5bkcutPQ2mhaH2yUgmooqgx0Gq+uflgyQm2a6R9d2dAXNUhv2Ot2QTzFKqAIg7bfU/5LEkgTGqdevMQ4HRKvMjwo+Bb+LdwYD+Ac56QIw+IJgx/qP886m/DwAMGz8KJcJyET0UJBCJJuDWFQnSSEc0kfn63CH8mpMh+zvLpQHPQbdHyEl+Fc23FYX7TM3pZdREPTzkn/igcKe2WEDb89uMw1HnMie9kexOU=;Qowp/Ow4lb3OwUyjZqyCoQ=="
 ---

@@ -51,6 +51,22 @@ related:
         width: 620
         height: 285
         isCached: true
+  - title: "Smartphones in the sky: Qualcomm launches first 5G and AI platform targeting commercial drones"
+    excerpt: "After supplying computer chips for NASA's Ingenuity helicopter on Mars, Qualcomm has unveiled next generation technologies to help power safe, beyond line-of-sight drone flights on Earth."
+    publishedDateTime: 2021-08-18T01:08:00Z
+    webUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones"
+    ampWebUrl: "https://www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
+    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/technology/story/2021-08-17/sd-fi-qualcomm-drones?_amp=true"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 47
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/4b9880a/2147483647/strip/true/crop/2393x1600+4+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F53%2F21%2Ff9dfa488476ebc31094eb4ecc0bf%2Fsd-photos-freelance-contract-825854-sd-fi-covid-presser-14.jpg"
+        width: 320
+        height: 214
+        isCached: true
 
 secured: "8IWysFLZ/ECHx/dZNZvJZFKbaOGdBHb06uhGUzIXIKAgLQJ2yQqC/pU6LMUU6fIErHbQQDBl9cQX1YmD+3a+Ac1zTZ5BFIPjQw4iI9FB/AcgXoim5byMS03vh6SGB7UOeF8ULsi+lCX3MIIm5UeB7C4HEFq2GdrOMw/6JR4XA8MG8dKLIIGRhEbBl8+RCaMqAu0si8Ec1DX3Zy113J5WzdJNOm1rwIUBUiLPCz5PcrX9PzM8SlbRXKL2d1tITJXlGvFNx6JCTBr4MB4zxo4EdIbCmViao4gOWcno0vakfVecUEAEzx99v/j1c4RDZ97nZkFUaSNn1IVxy8UuDm78Y6nGogPqsWHi6n0Pl3nNI2GGWUPD0nUPax5GJ3ZZGnI+M7PEvRIsi09OveqCTPx9a2V0Yf9Pc+TjfP/ZQcMQnDeUujoEcGbnpX2D3VzkmIiauJa0SmgctRYz9uG5XvbC5ThdItILYZ/UgMZwZzQzgrulrjJtsfvpgGp0FwyaU+x7gmyZeo0GaPmsQRo26NYFUA==;O6EubSvv3iw9ZWNpbRL8DA=="
 ---
