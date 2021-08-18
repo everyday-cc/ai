@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "U.S. senators urge FTC to probe Tesla over self-driving claims"
+    excerpt: "Two U.S. senators on Wednesday pressed the Federal Trade Commission (FTC) to probe Tesla (TSLA.O), saying the company has misled consumers and endangered the public by marketing its driving automation systems as fully self-driving."
+    publishedDateTime: 2021-08-18T15:19:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/us-senators-urge-ftc-probe-tesla-over-self-driving-claims-2021-08-18/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/bjG2wzYs69PPGKUQaSbIqLB-3G4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UVOPVOGYAFKMZFQHYFY36WRXL4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
     excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
     publishedDateTime: 2021-08-18T16:51:00Z
@@ -122,6 +136,20 @@ related:
       - url: "https://images.7news.com.au/publication/C-3700875/4f033b8d40628b59a523ce7d34d73faa6c5b4dcd-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senators Call for Investigation of Tesla’s Marketing Claims of its Autopilot and 'Full Self-Driving' Features"
+    excerpt: "Consumer Reports shares details of a call to investigate Tesla’s marketing claims for its Autopilot and 'Full Self-Driving' Features. Two U.S. senators' letter to the Federal Trade Commission alleges that the automaker’s public statements might have led to crashes and fatalities."
+    publishedDateTime: 2021-08-18T17:34:00Z
+    webUrl: "https://www.consumerreports.org/advertising-claims/call-to-investigate-tesla-marketing-claims-autopilot-fsd-a1181594362/"
+    type: article
+    provider:
+      name: Consumer Reports
+      domain: consumerreports.org
+    quality: 52
+    images:
+      - url: "https://article.images.consumerreports.org/image/upload/v1629313351/prod/content/dam/CRO-Images-2021/Cars/08Aug/CR-Cars-InlineHero-Tesla-Model-S-plaid-r-8-21"
+        width: 1199
+        height: 674
         isCached: true
   - title: "Fed Look at Self-Driving Tesla Crashes with Emergency Vehicles"
     excerpt: "The National Highway Safety Administration is investigating at least 11 incidents in which the cars collided with emergency vehicles that were already at the scene of an earlier accident."

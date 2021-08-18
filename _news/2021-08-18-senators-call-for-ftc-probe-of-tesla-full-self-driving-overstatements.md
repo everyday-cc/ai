@@ -43,6 +43,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
+    excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
+    publishedDateTime: 2021-08-18T20:51:00Z
+    webUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/"
+    ampWebUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/tesla-gettyimages.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
     excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
     publishedDateTime: 2021-08-18T11:33:00Z

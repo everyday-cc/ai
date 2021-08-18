@@ -2,26 +2,21 @@
 category: news
 title: "Baidu World 2021: Baidu Showcases How Latest AI Innovations Transform Transportation, Industry and Daily Life"
 excerpt: "Today, Baidu demonstrated how its latest AI innovations will transform and improve transportation, industry and daily life at its annual flagship technology conference, Baidu World 2021. From a robocar reveal and a rebranded robotaxi mobile platform to Xiaodu's first smart TV and the 2 nd generation Kunlun AI chip,"
-publishedDateTime: 2021-08-18T16:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-world-2021-baidu-showcases-how-latest-ai-innovations-transform-transportation-industry-and-daily-life-1030742878"
+publishedDateTime: 2021-08-18T15:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-how-latest-ai-/2021/08/18/9433548.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-baidu-world-2021-baidu-showcases-how-latest-ai-/2021/08/18/9433548.htm"
 type: article
-quality: 52
-heat: 62
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1597362/Image1.jpg"
@@ -45,6 +40,6 @@ related:
         height: 266
         isCached: true
 
-secured: "JXQcvujEOv+xBbA0V8FhJLWEmdVIoXTW8ByCsG/6W0Y9vGIhI1b6KdxRKNNEtPoyIZoDKqL0o/rAbJnisGxszIek2pTx5S/oKxC/mp1Jpc0nJ0bV2TgXxAwXp7Xg29efOU2Clz40JauFx1JoPS1+Evp4jyn/dBNHserZXL1vtOLfNHEWc3Bnvi5mJ1CaJcAdhlPepUpdO/VF4yAVPUwwATjFv3vM+DW9u+OvFEnmou+2zMKOW30Zx9+5CQZi7NTs6/iWCxdEz+m/+sXTqcCe2B3MtnlLJPprUyVdj0WWWgDIzETBzvFxHyBmfrY5QTpbDAZeG7L5D+/X3HrO2cEkplclilLdK6YRKrpcJ0PxD8xb7CZHgVUe9pJLLbeP7hpdJmGW/fv+WvIjCQ7k7+DivhbcyX4as6875Zd3elYtxG7snxK8RamZPx6n8VKhQxKVtCnltVSgH/CBN6ehO5uakbcKLc6LbJR+9PitUhn4zUqVtIXVknistKPK/oeEkx2ggtOlFirwpXRCSCY1MRARyQ==;k5IzLvYpb4MZSEWQvYTTjg=="
+secured: "PtubCKpTj/FCMWPjQly4imOmkdhmSKr0siOy4tBkYylxB1e5gJKoaptQ8jZ4+VUsv9HrpYgjjr88TZNLcl3k8PFRcKJldqxLQngxojewq3L8U3nqYPwCPyuycnh1Hzc7KFVLJxoHUa8j35BhvlM9RxUbbZqywrLthl9Fst3EPd3PGXugLggwO/UyeHSOwgR+Ur6chMMRZ1E4KBdpaej8o3lQ8+BL6u4s0lL2yP8y5/0/Nas5odr1EcXBgdutRK+RNnzFjuDqcwnnro9/pTf9stN7Mtj4k5TNy5CEirxZYv48b5iUOGwiEp4IX4cr2R5JRleCadDejBNc4RoMqbuxoYbZNwpHaH8b6txba4nK7cw=;lZxDjkGdmOQ/mUlUZ7C+sg=="
 ---
 

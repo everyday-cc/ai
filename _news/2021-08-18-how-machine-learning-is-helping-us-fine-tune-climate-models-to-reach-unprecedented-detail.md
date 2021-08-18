@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "How machine learning is helping us fine-tune climate models to reach unprecedented detail"
+    excerpt: "Machine learning algorithms can predict data missing from satellite observations and develop realistic, high-resolution climate models."
+    publishedDateTime: 2021-08-18T21:02:00Z
+    webUrl: "https://gcn.com/articles/2021/08/18/machine-learning-climate-models.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 45
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2013/June/navgem.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "How machine learning is helping researchers fine-tune climate models to reach unprecedented detail"
     excerpt: "From movie suggestions to self-driving vehicles, machine learning has revolutionized modern life. Experts are now using it to help solve one of humanity's biggest problems: climate change."
     publishedDateTime: 2021-08-18T13:57:00Z

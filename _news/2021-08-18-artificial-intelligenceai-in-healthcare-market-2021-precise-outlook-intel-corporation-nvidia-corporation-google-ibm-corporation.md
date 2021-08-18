@@ -37,22 +37,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Next Big Thing : Major Giants Oracle, Autodesk, IBM"
-    excerpt: "The latest independent research document on Global Artificial Intelligence in Construction examine investment in Market It describes how companies deploying these technologies across various industry verticals aim to explore its potential to become a major business disrupter The Artificial Intelligence"
-    publishedDateTime: 2021-08-14T03:11:00Z
-    webUrl: "https://www.openpr.com/news/2355299/artificial-intelligence-in-construction-market-next-big-thing"
-    ampWebUrl: "https://www.openpr.com/amp/2355299/artificial-intelligence-in-construction-market-next-big-thing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355299/artificial-intelligence-in-construction-market-next-big-thing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/8/U814770356_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "TxWw97BH2FiHZU3AtRjm8N8SK/OfYLe/pMC+Ni6mKWLenKtVm3sM8IrlzOoxRs9fVrkUH8K4uDNrdd53ahH/OiSuMRlZuUN+6b617KEknjoNOEK8X8B5t8WX+SiJ2jzfZfmONpwzCWpWJr0D/8ePopkvgrQCzyMvHoTDf2NH3rHON3/AXgJmJTmbJhIX3LOjgT8pXLStP6yNVqzoV3PcZhZYCtNGu7AB34u+fc5S4ourBBcrr7npprQrXIoTC8oZy8rtdNj8ajIWtE4Yh73TaqWPwcX1tIr1gha2ImOK7T/Fh6X4xq1oOCQtQ2rPCb4DVkqMEb1S00Kx7n5GFFd+yyEulBtEHreDmwfE+uMLla0=;NMu/CpqenNLJxFiqA44U0g=="
 ---

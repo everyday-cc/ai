@@ -10,7 +10,7 @@
       "originalUrl": "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.zdnet.com/article/baidu-unveils-concept-autonomous-robocar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -273,7 +273,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1063,19 +1063,19 @@
     {
       "path": "_news/2021-08-06-baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou.md",
       "title": "Baidu Launches Apolong II Multi-Purpose Autonomous Minibus in Guangzhou",
-      "excerpt": "Guangzhou The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing ...",
+      "excerpt": "The Apolong II minibus effectively mirrors the powerful autonomous driving capabilities of Baidu's Apollo Robotaxi by incorporating the latest self-developed autonomous driving computing unit and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-301350119.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-301350119.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-launches-apolong-ii-multi-purpose-autonomous-minibus-in-guangzhou-1030700607",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg?p=facebook",
-          "width": 1266,
-          "height": 663,
+          "url": "https://mma.prnewswire.com/media/1589836/Baidu_showcases_Apolong_II_multi_purpose_autonomous_minibus.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1085,12 +1085,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-06T02:33:00-07:00",
+      "publishedDateTime": "2021-08-06T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

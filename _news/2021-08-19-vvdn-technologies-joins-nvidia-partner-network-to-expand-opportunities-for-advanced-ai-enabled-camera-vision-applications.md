@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-18T18:30:00Z
 originalUrl: "https://www.prnewswire.com/in/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
 webUrl: "https://www.prnewswire.com/in/news-releases/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-amp-vision-applications-851556490.html"
 type: article
-quality: 13
+quality: 15
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
@@ -54,6 +55,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qax0DC0fB2o4uTg06/wtUi1V2UOaCwcqbHxrQ+G9fmcuALefjPfIdnfw8j3gKaYd4xUeUdFfTGHeuwmSxpNnHvHay8fhEJWC5nYqGeBwpFKiptVtJJ/hCkR61fPBzP1TfKriR11qp9dUCjElhv2RfDAFxKlcASoTl2UFvi9CsdVmDPO+dyD5whEX4kHQuaHETnlk/7LXyHaGBtT4dqSImLVt4oRPwUuGEC+cl1Pn30hvcmCDytGV6Zmjd5/RH1CNdSIODEu+yjcZczj7ZFmuuG6fiwYzwRlmuRe6h0vXTXtlS607PqKay82RynyGrITlJQD+tJrCZFeuKzcO8GgxnP05Zl96OBMB9lY4G6H8eGE=;RAy1O2aMVZunwszbHBncsQ=="
+secured: "fdIvOmx6qJO9bZ6EHYUM1yAsKziuVFwXa4eGJrcIli4/uQdZ8dXo0CnUeXV3gOYRipUm9FZ/KyO9MCvvKgkrZ+5euU3uSBqZo+4Y2dBl5tJbwUmy+iNn1kNTj7IavEX8oBKttN62tvSyP4m5/BfX+sZp/ZLvhEXCeYhSTAh2L58bYsgijVACZPGUko97fBUe/ONqZ0HSp8uSBQmyBRcirm36n8w20qk4fNU14QiO05ZoHHaBId6gRyKouo7b26rHf8Ee+ZUvaTo3FYsZa+NqhQp/ECajVkVMOgwHm+ZheRzmr5nRuv0uZGdUbBJXLqHYByAeoo30DAwgN0ZqtPEB1VJI8ompQouErn4g4budHQGdciAlt/j6qUyvXUP+cGznQIEU+o4BPfptudNTUmojM0KhYgiqLM2TiVo8TXgukKKhFdDgOPskB3EQuMMAQIlS5/v/c5dcRh3Rjvkn9nsRdgC6rgv6V3/6xv0OZMXPJCZrvNJMN6wanqVpNY5WTUiUH+wXPgOFQlMqhrQUuYj9+w==;libFLQeWRJ2oIcLk/fdwMA=="
 ---
 

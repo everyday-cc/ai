@@ -7,7 +7,7 @@ originalUrl: "https://phys.org/news/2021-08-machine-fine-tune-climate-unpreceden
 webUrl: "https://phys.org/news/2021-08-machine-fine-tune-climate-unprecedented.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How machine learning is helping us fine-tune climate models to reach unprecedented detail"
+    excerpt: "Machine learning algorithms can predict data missing from satellite observations and develop realistic, high-resolution climate models."
+    publishedDateTime: 2021-08-18T21:02:00Z
+    webUrl: "https://gcn.com/articles/2021/08/18/machine-learning-climate-models.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 45
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2013/June/navgem.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "How machine learning is helping us fine-tune climate models to reach unprecedented detail"
     excerpt: "Detailed climate models require great amounts of computational power. Machine learning is helping to improve these models while lessening computational requirements"
     publishedDateTime: 2021-08-18T02:51:00Z

@@ -46,7 +46,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 13
+    quality: 15
     images:
       - url: "https://mma.prnewswire.com/media/1531036/VVDN_Technologies_Logo.jpg?p=facebook"
         width: 600

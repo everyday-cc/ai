@@ -41,6 +41,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
+    excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
+    publishedDateTime: 2021-08-18T20:51:00Z
+    webUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/"
+    ampWebUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/tesla-gettyimages.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
     excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
     publishedDateTime: 2021-08-18T12:10:00Z

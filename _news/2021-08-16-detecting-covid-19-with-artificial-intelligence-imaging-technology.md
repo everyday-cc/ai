@@ -38,20 +38,6 @@ related:
         width: 400
         height: 243
         isCached: true
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "ghPOrh3whZrEYjaUzpNWGOb81F8YofAqHgS3viQy+s89ezx2rIVnjZfdI3gE0rXablDBY2O+eElReNllZaIJY2nsGR3uhreg/IRTl4bG8PiuJ1E5t6l46dHRNYSJgMsCnlh+4g816gsX09nEeZqxVTvCq7VzWEaPRVsbI408rBY94qzdtIVrFSzJKtCHjdFe1QWAb46+mFGejpWqy52sYIvvoTQqDyS+kyp9opO+0+5+8zoi9ec6A1gB3aU5NtbbAcEUn+oPjlNY9cllJRx6hpi/AO3UvZ4QgLANx0EwjBswz8j4/LloShEYlFWyWDX+eYdVn3CNAG9Dkk7iLAke76ONy9Pd+JNAIUh1RpqmXOPPmRAnyESvUVOVqVeMog49vaa+OMXkoAqzyZ/ncZnIdt/YSuja2bN4HGf9KwAURcRrS9seEllf2Yv0f5UDHTMYyp4wMYJ/vk+0jM8f7zbwgqNPRN9y4cu82TA8ogp1ngjzoFsbnBPvG8bhyPqkfPMOr8W3v94t6PpzoHNyXzJItw==;HgIb0fWVwtOrXmObXuB7Tg=="
 ---

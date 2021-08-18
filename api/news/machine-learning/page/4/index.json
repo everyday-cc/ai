@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-26-deepminds-epistemic-neural-networks-open-new-avenues-for-uncertainty-modelling-in-large-and-complex-dl-systems.md",
+      "title": "DeepMind’s Epistemic Neural Networks Open New Avenues for Uncertainty Modelling in Large and Complex DL Systems",
+      "excerpt": "Although effective uncertainty estimation can be a key consideration in the development of safe and fair artificial intelligence systems, most of today’s large-scale deep learning applications are lacking in this regard.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "originalUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/07/26/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-69/amp/",
+      "publishedDateTime": "2021-07-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
       "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
       "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
@@ -1344,49 +1388,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-research-breakthrough-artificial-intelligence-ai-can-now-use-its-imagination.md",
-      "title": "Research Breakthrough: Artificial Intelligence (AI) Can Now Use Its Imagination",
-      "excerpt": "Researchers at the University of Southern California (USC)  are helping the use of Artificial Intelligence (AI) imagine what has not",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "originalUrl": "https://techbooky.com/ai-that-can-imagine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/07/444090C5-86E3-4A93-9928-5383E9896D53.jpeg",
-          "width": 1028,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/ai-that-can-imagine/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/ai-that-can-imagine/?amp=1",
-      "publishedDateTime": "2021-07-19T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

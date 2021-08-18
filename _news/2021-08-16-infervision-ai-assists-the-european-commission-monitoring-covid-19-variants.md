@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-ass
 webUrl: "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
         width: 690
         height: 400
-        isCached: true
-  - title: "Global Artificial Intelligence Market Report (2021 to 2030) - COVID-19 Growth and Change - ResearchAndMarkets.com"
-    excerpt: "COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. This report provides strategists, marketers and senior management with the critical information they need to assess the global artificial intelligence market."
-    publishedDateTime: 2021-08-16T13:03:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-coronavirus-pandemic-artificial-intelligence-45b91cdf2c7842bd8d72db1edf75620c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "gwNGZppCRMwH5AXL4HsqqZpAmh0Clwf+8heATcSExpYpMG0AgVxVCbAW9ec+EnOVvkYCskG7wBqqWF6BVTbvF3uZKyYeGxiUpA0MGAGP8gH1PLXl4iCT5hK/exG1Lrvq2leugtYGJpJv7rtQvIQPTZCPQojEedjKyNct74Y5j6GNL7oFFinRqIjLpPXv7qsNK+gME5iAwcFSLfA3kPIeQJnYIUUY4GLhIQU9C9/CjC1R9XewJgdhMKIjPMmrDzxXstZxwSqgFCZT83p8aettCQgVgOQSNiatMRTwr0VJibhV2DLgah3bT5wZM7jYcIVzthVTddeA8nEcHXqCzqDn8l1NhAX1334HplCn4SH7jvM=;jFY30IjUVzZ8b+zLbZB8Eg=="

@@ -1,0 +1,92 @@
+---
+category: news
+title: "Two senators urge the FTC to investigate Tesla over “Full Self-Driving” statements"
+excerpt: "Two Democratic senators have asked the new chair of the Federal Trade Commission to investigate Tesla’s statements about the autonomous capabilities of its Autopilot and Full Self-Driving systems. The senators,"
+publishedDateTime: 2021-08-18T20:51:00Z
+originalUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/"
+webUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/"
+ampWebUrl: "https://techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/18/two-senators-urge-the-ftc-to-investigate-tesla-over-full-self-driving-statements/amp/"
+type: article
+quality: 83
+heat: -1
+published: false
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/05/tesla-gettyimages.jpg?w=1024"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
+    excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
+    publishedDateTime: 2021-08-18T15:36:00Z
+    webUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims"
+    ampWebUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 103
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
+    excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
+    publishedDateTime: 2021-08-18T12:10:00Z
+    webUrl: "https://www.autoblog.com/2021/08/18/tesla-full-self-driving-senators-push-back/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+1089/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2020-07/cf97fb80-c042-11ea-9e9f-4a1b9cbf4857"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
+    excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
+    publishedDateTime: 2021-08-18T11:33:00Z
+    webUrl: "https://www.autoevolution.com/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 54
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update"
+    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
+
+secured: "UZXJrlfQxhE9vNfriNULX479Z2C71IBOYHh6F8sXMZbjr8d87Dmp4Ju9J30wBDbINRZCcbwpsn6x7aLFULOImkkEDs05WndeFclUTFEX3vQG0hB+Bv686sS+c3Mttfe/Rs+PA34/HyPFL3JbSMv0sHc2ZMqKy33lopQtdVv59jqoMqNyDfnkOuWaihwvq81hMEzVwU8AqmLwdwjv5cdhY1lYakaQnO/6C9l8xHgGzUuB9/YLogcJwTVc8ofKLNib8gEeMoYiVZJQponmcbMpMky008Tv7vAlVVi8CrbxoMiB9KOSp3w2KNXxP72m8qIzp2vwhazWh/3f7ReSDr5FRFRDWEuQWv5CpeGUcSuBQpM=;r43H5gd99WIXD7Qh7RkI9A=="
+---
+

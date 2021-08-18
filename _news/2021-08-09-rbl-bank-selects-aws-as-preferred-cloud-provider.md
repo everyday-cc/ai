@@ -1,29 +1,23 @@
 ---
 category: news
 title: "RBL Bank selects AWS as preferred cloud provider"
-excerpt: "Other use cases already being tested within the Operations division include usingservices like Amazon Rekognition and Amazon Textract to automatically extract and match customer signatures and ..."
-publishedDateTime: 2021-08-09T12:09:00Z
-originalUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900272_1.html"
+excerpt: "The Bank is building on its analytics practice and investing in AI capabilitiesto implement various use cases across multiple segments, including Risk, Customer Service, Human Resources, and Operations."
+publishedDateTime: 2021-08-09T07:20:00Z
+originalUrl: "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+webUrl: "https://www.business-standard.com/article/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/rbl-bank-selects-aws-as-preferred-cloud-provider-121080900615_1.html"
 type: article
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AWS AI
   - AI
   - AI in Finance
 
-images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-    width: 350
-    height: 233
-    isCached: true
-
-secured: "aBKNjx3S6bU48qFUyRjkn2Al6cx0ayy/EjRChw8SPAcravmMF9dP+fPzp57i8NlRB9EJcrgsKXWEaH+ONtkXb7Jnfo+0GcRv5XTOtZyt9Njy8XF3GmtLOqPOVdNy0h2XopQpC+VYBHzrTgwyigsW857Mb4wjwnBK9iEj0DX66iwObczl9GfbDRW+GF+2yNjAfFxsCMDo68bG2KNEERCk/9Ydcb8I90tNflgI7AdHQyL2BvgzppUY9o2YI7wj7ihMSiSCorq4G8008A4U70EaBZaVeetYW2od/aX6rKugb4SJPgjc7cioldgKwE3b3HF6p9DfDjd5uBw7ZCisb3fKXACUGg2gZwajfzkcyAtvlk0=;JbiaD4uRC1CdT8d0XArQUA=="
+secured: "XJQCjixsgBakB1WmcJ2Dp4h+Z+PPyZnVpC3dI4Viunkum9+nrzaMjCP0pS3csVpaU54/y9vZu4JGcWZLJgQGjWe3Akn4SXVY2BOxUVYzCwApxqwLTQG6snQgouKOgT9r63T/+12HnlXAsaS92S9r+8vQyOZoqRRG/lqag8MPb/A3A7yzRl7sgClsC0x1Hz2fSX9asDeK0PhQC+cnauJsSbOH3ujHY523cIFIddOy5gBcdDVO6QYlAykwVP8MLKgwcd60dMtDdQ15olfKPxoMRQWn5IFc4qHjCrv11skCiM9pMqG35yFGYCm1PqvoY33eUsRBsR99prxJ/Y0kv98+H5KrSASAAXATheEFX7tVyMw=;MgdyiISnl9awlGSpAObtiQ=="
 ---
 

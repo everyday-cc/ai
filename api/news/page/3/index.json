@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-08-17-new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say.md",
-      "title": "New rules on police use of facial recognition don't go far enough, experts say",
-      "excerpt": "The UK government has updated its code of practice on the use of surveillance cameras. Will it be enough to protect citizens' rights?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
-      "originalUrl": "https://www.zdnet.com/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/781cbd69-4be4-4e42-8031-b7287e8afc84/gettyimages-1208074512.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-rules-on-police-use-of-facial-recognition-dont-go-far-enough-experts-say/",
-      "publishedDateTime": "2021-08-17T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
       "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
       "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
@@ -753,7 +701,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -796,7 +744,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/infervision-ai-assists-the-european-commission-monitoring-covid-19-variants-1030734639",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -1214,6 +1162,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-samsung-has-its-own-ai-designed-chip-soon-others-will-too.md",
+      "title": "Samsung has its own AI-designed chip. Soon, others will too",
+      "excerpt": "Samsung is using artificial intelligence to automate the insanely complex and subtle process of designing cutting-edge computer chips. The South Korean giant is one of the first chipmakers to use AI to create its chips.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "originalUrl": "https://arstechnica.com/gadgets/2021/08/samsung-has-its-own-ai-designed-chip-soon-others-will-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/cpu-red-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-15T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

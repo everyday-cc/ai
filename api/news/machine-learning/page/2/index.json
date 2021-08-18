@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-10-synthesis-ais-head-of-artificial-intelligence-publishes-the-first-book-on-synthetic-data-for-deep-learning.md",
+      "title": "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning",
+      "excerpt": "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
       "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
       "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
@@ -1330,50 +1373,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university.md",
-      "title": "Samsung sets up AI, ML lab at Karnataka's KLE Technological University",
-      "excerpt": "The ‘SEED Lab’ will allows students and faculty members at KLE Tech to jointly work on research and development projects under the mentorship of s..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-84969085,imgsize-1257112,width-800,height-434,overlay-ettelecom/samsung-sets-up-ai-ml-lab-at-karnataka-s-kle-technological-university.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/samsung-sets-up-ai-ml-lab-at-karnatakas-kle-technological-university/84969085",
-      "publishedDateTime": "2021-08-02T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

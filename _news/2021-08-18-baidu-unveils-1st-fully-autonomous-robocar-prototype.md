@@ -69,6 +69,34 @@ related:
         width: 685
         height: 456
         isCached: true
+  - title: "AI-packed 'robocar' puts Baidu in the self-driving fast lane"
+    excerpt: "\"We believe that cars of the future will be robocars,\" Baidu CEO and Chairman Robin Li told an online audience. The car's artificial intelligence capabilities allow it to drive as the user sees fit, according to the company."
+    publishedDateTime: 2021-08-18T21:07:00Z
+    webUrl: "https://asia.nikkei.com/Business/China-tech/AI-packed-robocar-puts-Baidu-in-the-self-driving-fast-lane2"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F6%252F7%252F4%252F35964769-1-eng-GB%252F20210818N%2520Baidu%2520robocar.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "China's Baidu Unveils a Level-5 Robocar With No Steering Wheel & Gull-Wing Doors That ‘Moves, Communicates & Learns'"
+    excerpt: "China’s tech giant Baidu Inc held its annual flagship \"Baidu World 2021\" conference on Wednesday and once again revealed some of its advanced work on AI and autonomous driving. Among the highlights, Baidu Co-founder and CEO Robin Li unveiled his vision for mobility of the future in the form of a futuristic “robocar” designed to make autonomous vehicles more accessible to the broader public."
+    publishedDateTime: 2021-08-18T20:45:00Z
+    webUrl: "https://www.futurecar.com/4813/China’s-Baidu-Unveils-a-Level-5-Robocar-With-No-Steering-Wheel-&-Gull-Wing-Doors-That-‘Moves-Communicates-&-Learns’"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 16
+    images:
+      - url: "https://img.futurecar.com/202108/18/l_611d70362ab4d.jpeg"
+        width: 800
+        height: 507
+        isCached: true
 
 secured: "EAolgrcnfMPw2cujimE/EOdTM0cyM0R0VCB6HBdzHgrvcxi0c+47Oo8FsyTK+bSCOmneMcedhiXjhH/cYKuE43JA2tNw1RusK2seyKrozPXVEZHJzFYOwVDhZYPKNuCeS8Lz+Mimr+Me//4nbbj+7z5AgNpvnDvRzRWrG55Z8s5K6bCi2/nvVe+hIXuS3nLNVXe7Hq+VeFoN350tiAH/j9HHfqtv6d7SUOWVJEMLqQVz4V4Lx71owL3/irN4vXdwzhc/lohSb8biGR84c2tzrVLYEPaEnPixvV1eXuvKHSWuwjMFyGFX4A65WZpnFWvb9wMGM0WUgHphyHWTY/32Jn8ClMh58iNuy9+EK1341UrehcvGZzpalZA60cSMogDLs/RYi2RozYJxDxZiFMlBUHa7YtQINMtfLZoqoPrFEop9ZWqzBpAhXw06+X+ao5XUvMARk+2Gchh+XxacUyCefIa3eLc73AKcnWDnZAaqUAliAFN1Ohw7jYCPsGxsmfezjoXl7QbKaGHP/ItH44a2yQ==;KIrsZY3cC7RbWkFGsJaKYA=="
 ---
