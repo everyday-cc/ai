@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-18-computer-scientist-explains-machine-learning-in-5-levels-of-difficulty.md",
+      "title": "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty",
+      "excerpt": "WIRED has challenged computer scientist and Hidden Door cofounder and CEO Hilary Mason to explain machine learning to 5 different people; a child, teen, a college student, a grad student and an expert.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/video/watch/5-levels-machine-learning",
+      "originalUrl": "https://www.wired.com/video/watch/5-levels-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1629229797/wired_5-levels-machine-learning.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-18T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-18-logic-explained-deep-neural-networks-a-general-approach-to-explainable-ai.md",
+      "title": "Logic Explained Deep Neural Networks: A General Approach to Explainable AI",
+      "excerpt": "Although deep learning models are playing increasingly important roles across a wide range of decision-making scenarios, a critical drawback is their inability to provide human-understandable motivations for their opaque or complex decision-making processes.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
+      "originalUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/08/18/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-85/amp/",
+      "publishedDateTime": "2021-08-18T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-trainocate-recognised-as-1-microsoft-learning-partner-worldwide.md",
       "title": "Trainocate recognised as #1 Microsoft Learning Partner worldwide",
       "excerpt": "Trainocate Holdings, Asia's largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company to earn the title.",
@@ -428,6 +523,49 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028.md",
+      "title": "Global Neural Network Software Market 2021 Industry Analysis by Top Leading Player, Key Regions and Future Demand, Forecast upto 2028",
+      "excerpt": "The Research Corporation has released a new Neural Network Software Market Report 2021 comes with the exclusive trade analysis of development components, patterns, flows, and sizes. The Neural Network Software report also calculates current and past market values to forecast potential market management through the forecast amount between 2021- 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "originalUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/3-Copy-6-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "publishedDateTime": "2021-08-13T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1293,146 +1431,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
-      "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
-      "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
-      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
-      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
-      "publishedDateTime": "2021-08-10T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
-      "title": "Eden AI launches platform to unify ML APIs",
-      "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
-      "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/1_dcGpsGf0Z5Ckwtu0SS2CCQ.png?w=800&resize=800%2C371&strip=all",
-          "width": 800,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
-      "publishedDateTime": "2021-08-09T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

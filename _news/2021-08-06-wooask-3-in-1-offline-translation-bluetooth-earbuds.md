@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Wooask: 3-in-1 Offline Translation & Bluetooth Earbuds"
-excerpt: "Language barriers exist because of who we are, what we do, and where we came from. With Wooask Translator Earbuds, you're always beyond the language barrier. Unlike E-dictionaries only translate ..."
-publishedDateTime: 2021-08-06T14:34:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838"
-webUrl: "https://markets.businessinsider.com/news/stocks/wooask-3-in-1-offline-translation-bluetooth-earbuds-1030701838"
+excerpt: "6, 2021 / PRZen / SHENZHEN, China — Andy Lee, Founder & CEO of Wooask, a leading customized AI translation ... pocket, translate, enjoy music and make phone calls everywhere. Language barriers ..."
+publishedDateTime: 2021-08-06T14:47:00Z
+originalUrl: "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds"
+webUrl: "https://www.digitaljournal.com/pr/wooask-3-in-1-offline-translation-bluetooth-earbuds"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "yupvgj8P9lUU7571KlNOaoCPZhT4XamC/w72+VPJzDgDxmfBX5mLdbck6+mMfbYzSQ4ckfA06PUtjvvB08lzalHOOQRR2SGOMksw/hFRmxyabtWRdg7iweB9F7opTpwtXYkgGUNNANX4fqxn6EILWVxYi3n6SInPKQvo71wLH/LAzmffjQWb620smlERZIGG2najeJsw36kMX4vWF3EbebUMmeOHtTN8CQX9pjCL1aA5lCQCArdgIoADrtj66IfT76myla7SgxeZtO3PvfBneCNT4MBzUCqRqeQFCvEghTybpUPuAryqpp4iAn8EPdAGqGjksuMSXak/AVnrBfgVLT1vorYPVaWrc2dSN6QprFE=;BnyBeE9ieH+FNP9cvRtHpg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Will-Parfitt-600x337.jpg"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "Z9ckgtgmnQPqr9wU02bbRNW5/bgrmtfK5jL45AaR+/xnZG04bQO9QReMdZ0henMdiDfq8bKsVgreLuIu7CCq4Ea1C3dZloXsPIwx2sPl1k2RUhCHvMU/azk/8VkFEPBPFSn7qA1YYHcz/UXXnwpWcs9WTume7bMZOEz3ibkclfxha2pAgJzxgOBhk/ysPXKssdhBkrQFSp5gVuSbDCZvIEfsZ8agY+QxQQ8tDMDh4dazyBNqykW0t4WQvGTROHyYe1OMfKAiBXdFT5u+W16wS2kVBYrBEAK2/rbZnqWt9dW6Bc5BwWbHmpUmgWMKBKrnuYq3tGDqp9YaKGhL2hgbJg+stIGSjeGlNVgc2+d0Ivo=;0GNqWfEp0HZkgmOM/LOeYQ=="
 ---
 

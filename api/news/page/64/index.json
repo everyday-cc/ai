@@ -2,6 +2,298 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2021-06-30-microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service.md",
+      "title": "Microsoft, SES and GRC Showcase Azure Cloud for Remote Missions via Secure GovSat Connectivity Service",
+      "excerpt": "LUXEMBOURG–(BUSINESS WIRE)–Microsoft and SES, in partnership with GovSat and UK-based solutions provider GRC, came together to demonstrate how Microsoft Azure Machine Learning (ML) and Artificial Intelligence (AI) capabilities can be brought directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/",
+      "originalUrl": "https://www.01net.it/microsoft-ses-and-grc-showcase-azure-cloud-for-remote-missions-via-secure-govsat-connectivity-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision.md",
+      "title": "Parrot Anafi Ai is a 4G drone with striking style and 3D vision",
+      "excerpt": "Parrot has a new drone, but the French company would really rather you think of the new Anafi Ai as a 4G-connected flying robot. Tapping cellular data for better, broader range, and a new 3D",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision-30680554/",
+      "originalUrl": "https://www.slashgear.com/parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision-30680554/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/06/Drone-flying.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision-30680554/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/parrot-anafi-ai-is-a-4g-drone-with-striking-style-and-3d-vision-30680554/amp/",
+      "publishedDateTime": "2021-06-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-scaling-blue-collar-ai-ethically-and-sustainably.md",
+      "title": "Scaling Blue-Collar AI Ethically And Sustainably",
+      "excerpt": "Developing an AI labor force is similar to building a pyramid. And the mortar holding the entire structure together is ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60db5c3b6347e2639bfd526b%2F0x0.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/scaling-blue-collar-ai-ethically-and-sustainably/amp/",
+      "publishedDateTime": "2021-06-30T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-how-do-we-get-to-a-possible-future-with-ai-meet-the-ai-adoption-maturity-curve.md",
+      "title": "How do we get to a possible future with AI? Meet the AI Adoption Maturity Curve",
+      "excerpt": "For the last several years, Michael has been a thought leader and innovator in the world of AI; in fact, he is currently the Chief AI Strategist at PROS, a company that not surprisingly has a worl ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/",
+      "originalUrl": "https://www.zdnet.com/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/0d5a3bde-72e0-46e3-b1b1-0b157d2c0036/michael-wu.jpg",
+          "width": 449,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-do-we-get-to-a-possible-future-with-ai-the-ai-adoption-maturity-curve/",
+      "publishedDateTime": "2021-06-30T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai.md",
+      "title": "AI Is Starting To Understand Us, But How Well Do We Understand AI?",
+      "excerpt": "Artificial intelligence (AI) still often overpromises and underdelivers, but we are seeing AI begin to understand us and adoption has accelerated rapidly. Are we prepared for what is coming? Will AI Weed Out My Job?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/06/30/ai-is-starting-to-understand-us-but-how-well-do-we-understand-ai/amp/",
+      "publishedDateTime": "2021-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-06-30-this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper.md",
+      "title": "This AI Just Evolved From Companion Robot To Home-Based Physician Helper",
+      "excerpt": "The Israeli startup has developed the AI-based, award-winning proactive social robot ElliQ which has spent over 30,000 days in older adults’ homes over the past two years. Now ElliQ will help increase patient engagement while offering primary care providers continuous actionable data and insights for early detection and intervention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbe5bce16dc1909fa61bcd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3292%26cropY1%3D171%26cropY2%3D2022",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/06/30/this-ai-just-evolved-from-companion-robot-to-home-based-physician-helper/amp/",
+      "publishedDateTime": "2021-06-30T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-artificial-intelligence-in-insurtech-market-grows-owning-to-innovations-by-2027.md",
       "title": "Artificial Intelligence In Insurtech Market Grows Owning To Innovations by 2027",
       "excerpt": "Request a sample Report of Artificial Intelligence In Insurtech Market at:  The business intelligence report of Artificial Intelligence In Insurtech market provides conclusive data on the business dynamics over the forecast timeframe with respect to key growth drivers,",
@@ -919,290 +1211,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-techman-robot-to-provide-free-ai-courses-in-southeast-asia.md",
-      "title": "Techman Robot to Provide Free AI Courses in Southeast Asia",
-      "excerpt": "Artificial intelligence, AI is undoubtedly the key technology here. That is why the SEA (Southeast Asia) Taiwan AI College is turning the AI manufacturing experiences from leading ICT companies, Techman Robot,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/techman-robot-to-provide-free-ai-courses-in-southeast-asia-1030565050",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1552574/Techman_Robot_to_provide_free_AI_course_in_Southeast_Asia.jpg",
-          "width": 400,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-ai-vs-skin-cancer.md",
-      "title": "AI vs. skin cancer",
-      "excerpt": "Early detection is key to surviving melanoma, a type of malignant tumor responsible for more than 70% of skin-cancer-related deaths worldwide, but “suspicious pigmented skin lesions” (SPLs) are so common it’s impractical for doctors to check them all out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "originalUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/06/automated-melanoma-detection-small2.gif?w=800",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/06/29/1025692/ai-vs-skin-cancer/amp/",
-      "publishedDateTime": "2021-06-29T19:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-vietnamese-e-wallet-momo-picks-up-local-ai-startup-in-first-acquisition-deal.md",
-      "title": "Vietnamese e-wallet MoMo picks up local AI startup in first acquisition deal",
-      "excerpt": "Vietnam’s top payment startup MoMo has made its first acquisition with the purchase of local AI startup Pique in a push to better capitalize the data of its 25 million registered users. The company, which is backed by global investors such as Warburg Pincus and Goodwater Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "originalUrl": "https://www.techinasia.com/vietnamese-e-wallet-momo-makes-first-acquisition-with-purchase-of-local-ai-startup-pique",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-the-uneasy-alliance-between-business-leaders-and-artificial-intelligence.md",
-      "title": "The Uneasy Alliance Between Business Leaders And Artificial Intelligence",
-      "excerpt": "AI is seen by many inside and outside the corporate world as a mysterious, dark art that only data scientists and algorithm developers can love.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60dbcc890629828a88a61bcb%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/06/29/the-uneasy-alliance-between-business-leaders-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-06-29T18:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia.md",
-      "title": "Trellis Data using machine learning to analyse shipping containers entering Australia",
-      "excerpt": "Working with the Department of Agriculture, Trellis Data is analysing shipping containers using its machine learning technology to determine any biosecurity risks to Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "originalUrl": "https://www.zdnet.com/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/06/30/59723d6d-16eb-4005-9f60-7cf438a4b645/gettyimages-586450294.jpg",
-          "width": 4928,
-          "height": 3280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/trellis-data-using-machine-learning-to-analyse-shipping-containers-entering-australia/",
-      "publishedDateTime": "2021-06-29T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-machine-learning-startup-datarobot-reportedly-raises-250m-on-6b-valuation.md",
-      "title": "Machine learning startup DataRobot reportedly raises $250M on $6B valuation",
-      "excerpt": "Machine learning automation startup DataRobot Inc. has raised $250 million in new funding, according to Axios on a valuation of around $6 billion. Altimeter Capital Management and Tiger Global are said to have led the Series G round.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "originalUrl": "https://siliconangle.com/2021/06/29/machine-learning-startup-datarobot-reportedly-raises-250m-6b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg",
-          "width": 1980,
-          "height": 1320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-29T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-07-26-in-corporate-transformation-learning-is-a-leadership-imperative.md",
+      "title": "In Corporate Transformation, Learning Is A Leadership Imperative",
+      "excerpt": "And how can they prioritize this learning and skills development for themselves and their teams, even as they manage the demands of their current strategies and operations? In 2020, Daimler Corporate Academy led a program team comprised of internal and external experts in executive education (including ESMT Berlin),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60fe6f5725bfcd3f54d2cd70%2F0x0.jpg",
+          "width": 1187,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2021/07/26/in-corporate-transformation-learning-is-a-leadership-imperative/amp/",
+      "publishedDateTime": "2021-07-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-26-imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts.md",
+      "title": "IMD to use artificial intelligence, machine learning for accurate weather forecasts",
+      "excerpt": "The IMD has formed several internal sub-groups of senior officials and meteorologists to decide on how best to use AI and ML in weather forecasts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
+      "originalUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2021/06/kerala-rains-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/india/imd-to-use-artificial-intelligence-machine-learning-for-accurate-weather-forecasts-10113201.htm/amp",
+      "publishedDateTime": "2021-07-26T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-25-data-centers-in-an-ai-and-ml-driven-future.md",
+      "title": "Data Centers in an AI and ML driven future",
+      "excerpt": "Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
+      "originalUrl": "https://www.techradar.com/news/data-centres-in-an-ai-and-ml-driven-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zzKWX9b7Dxhz2F7QRMVTMC-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/data-centres-in-an-ai-and-ml-driven-future",
+      "publishedDateTime": "2021-07-25T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-07-25-deep-learning-market-is-booming-worldwide-advanced-micro-devices-arm-ltd.md",
       "title": "Deep Learning Market Is Booming Worldwide | Advanced Micro Devices, ARM Ltd",
       "excerpt": "In addition, the study helps venture capitalists in understanding the companies better and make informed better Deep Learning business decisions. Some of the key players in the Deep Learning ...",
@@ -1229,162 +1377,6 @@
         "name": "techbooky.com",
         "domain": "techbooky.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-the-evolution-of-deep-learning-and-ai.md",
-      "title": "The Evolution of Deep Learning and AI",
-      "excerpt": "Deep Learning is a relatively new technology, yet its already driving great advances in visual recognition, natural language processing, text analysis, cybersecurity and more. Increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai",
-      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/360157/the-evolution-of-deep-learning-and-ai?amp",
-      "publishedDateTime": "2021-07-19T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous.md",
-      "title": "Edge Impulse Combines AutoML And TinyML To Make AI Ubiquitous",
-      "excerpt": "Edge Impulse has partnered with silicon companies and DIY electronic kit developers to accelerate building AI models for microcontrollers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60f511be8b024b0aecbdea50%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/07/19/edge-impulse-combines-automl-and-tinyml-to-make-ai-ubiquitous/amp/",
-      "publishedDateTime": "2021-07-18T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-natural-language-understanding-tough-for-neural-networks.md",
-      "title": "Natural language understanding tough for neural networks",
-      "excerpt": "The shortcomings of natural language understanding can make or break your AI and neural machine learning strategy. Here's how to deal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/18/natural-language-understanding-tough-for-neural-networks/amp/",
-      "publishedDateTime": "2021-07-18T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

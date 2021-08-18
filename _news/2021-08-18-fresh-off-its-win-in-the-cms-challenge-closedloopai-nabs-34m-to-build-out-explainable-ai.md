@@ -48,7 +48,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
         width: 6000
@@ -104,6 +104,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "How transparent design helped a startup win CMS’ AI challenge — and $34M in funding"
+    excerpt: "ClosedLoop.ai, an Austin-based healthcare startup, raised new funding after being picked by CMS as the winner of its AI Health Outcomes Challenge. The company’s secret? Working with health systems to build algorithms that are explainable."
+    publishedDateTime: 2021-08-18T15:28:00Z
+    webUrl: "https://medcitynews.com/2021/08/how-transparent-design-helped-a-startup-win-cms-ai-challenge-and-34m-in-funding/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 31
+    images:
+      - url: "https://medcitynews.com/uploads/2021/08/Closedloop-founders-Dave-and-Andrew-smaller.jpg"
+        width: 1709
+        height: 1226
         isCached: true
 
 secured: "IrH+mmjsyH3lABqiTXn3GwIf8ovAF7FHdBee1ko6QgGYU0nm3IaIYPSBpLckGsht70OROTI7EVISM5DoSZVBjxp/wocLbo75ICeJvRt2wkPD4l+NH9oFYZaen44shyDAFwewWwKIgcdyGSRmxyFxL5jaZrAuLm+kBXLYpEEcz4XdAG/9SgMj7YMlUS22fXDr8H1ijFaZrp8cMHynjBkdB5HMYGm/fM1efKKBVadzTauZiY5mn4X9JtxDnPxxzcgfmpG0FJytWEztkA+w/Hvrze+CYqWh+gvovz5snJILnjfz8uExGm5PgoNgmvxeju0TX41gNpsf3vKL4gUwQyLdFXDKoGVjLgDIudS9HAiQ+YAP7b3i5LD3Ef2neEesye+JP5ZM0LPzZqPh93XODs2DKv4F4kcyZpjziPRySZOCfGGaJzn+aqM1PRSm0EGbN1lFjVxVsg2hfQAJw2e3wVnfYNZ3PsWN0DsyIw3xoTrAAHPifEw561aVIW307ooXgLk0+FZ/r2JLkVkzZ4B5kDbMZA==;ZG7o1A1KGB+3PKOd7clayg=="

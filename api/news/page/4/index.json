@@ -2,6 +2,204 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-08-15-insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai.md",
+      "title": "Insights Into How Stanley Black And Decker Achieves Commercial Excellence Through AI",
+      "excerpt": "You cannot build a measurement architecture without knowing all of the strategies for the commercial actions, says Prabhakar, so it is important to approach the problem of AI and ML formulation in small chunks and phases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611875d46cc93adc98cbf648%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D378%26cropY1%3D84%26cropY2%3D297",
+          "width": 378,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/amp/",
+      "publishedDateTime": "2021-08-14T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-building-australias-capability-on-ethical-artificial-intelligence.md",
+      "title": "Building Australia's Capability on Ethical Artificial Intelligence",
+      "excerpt": "Mr Santow will lead a major UTS initiative to build Australia’s strategic capability in artificial intelligence (AI) and new technology. This initiative will support Australian business and government to be leaders in responsible innovation—by developing and using AI that is powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
+      "originalUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144419107%2F507908461719%2F1%2Foriginal.20210428-031838?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=020167f4baf25a658b9d223bbb35926a",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-14T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eventbrite.com.au",
+        "domain": "eventbrite.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-realizing-iots-potential-with-ai-and-machine-learning.md",
+      "title": "Realizing IoT’s potential with AI and machine learning",
+      "excerpt": "The key to getting more value from industrial internet of things (IIoT) and IoT platforms is getting AI and ML workloads right.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/john-adams-1xIN4FMR78A-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-08-14T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-15-science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry.md",
+      "title": "Science, applied: 3 ways AI and ML are advancing the insurance industry",
+      "excerpt": "Insurance companies are implementing applications of data science to detect fraud and provide a personalized customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
+      "originalUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
+      "publishedDateTime": "2021-08-14T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-08-15-time-for-responsible-artificial-intelligence.md",
       "title": "Time for responsible Artificial Intelligence",
       "excerpt": "Amazon, in 2018, closed down an AI-based recruiting tool after the e-commerce major figured the tool was biased against women",
@@ -188,6 +386,49 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-mhs-robotics-wins-robotics-innovation-award.md",
+      "title": "MHS Robotics Wins Robotics Innovation Award",
+      "excerpt": "Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. MHS Global is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/fcf06c5f-7585-425b-aa89-0b8d7cafebe6/robot-award-Aug-13-2021-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -778,49 +1019,6 @@
       ]
     },
     {
-      "path": "_news/2021-08-13-pharmaceutical-robots-market-to-exceed-usd-38391-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners.md",
-      "title": "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners",
-      "excerpt": "Traditional Robots Held the Largest Share by Product Segment in Pharmaceutical Robots Market During 2021–2028 Download PDF Brochure:  Get in-depth details on \" Pharmaceutical Robots Market\" (115 - Tables,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/pharmaceutical-robots-market-to-exceed-usd-383-91-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners-1030728954",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-13T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-08-13-ai-will-not-replace-you-it-will-make-you-more-valuable.md",
       "title": "AI Will Not Replace You, It Will Make You More Valuable",
       "excerpt": "We're all familiar by now with the promise of AI and the many ways it will make our lives easier. However, with that promise also comes the fear of being rendered obsolete — that AI will diminish our jobs and the value we've created in our careers or replace them altogether.",
@@ -868,6 +1066,83 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-pharmaceutical-robots-market-to-exceed-usd-38391-million-by-2028-covid-19-impact-and-global-analysis-by-the-insight-partners.md",
+      "title": "Pharmaceutical Robots Market to Exceed USD 383.91 million by 2028 - COVID-19 Impact and Global Analysis by The Insight Partners",
+      "excerpt": "As per the latest The Insight Partners research report, \"Pharmaceutical Robots Market to 2028 – Global Analysis and Forecast – by Product, Application, End User, and Geography,\" the market is projected to reach US$ 383.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/13/9430384.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028.md",
+      "title": "Global Neural Network Software Market 2021 Industry Analysis by Top Leading Player, Key Regions and Future Demand, Forecast upto 2028",
+      "excerpt": "The Research Corporation has released a new Neural Network Software Market Report 2021 comes with the exclusive trade analysis of development components, patterns, flows, and sizes. The Neural Network Software report also calculates current and past market values to forecast potential market management through the forecast amount between 2021- 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "originalUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/08/3-Copy-6-390x220.png",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-neural-network-software-market-2021-industry-analysis-by-top-leading-player-key-regions-and-future-demand-forecast-upto-2028/?amp=1",
+      "publishedDateTime": "2021-08-13T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -920,291 +1195,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
-      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
-      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
-          "width": 1024,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
-      "publishedDateTime": "2021-08-13T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-grape-crops-protected-with-help-of-facial-recognition-technology.md",
-      "title": "Grape Crops Protected With Help of Facial Recognition Technology",
-      "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
-      "publishedDateTime": "2021-08-13T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks.com",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
-      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
-      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
-      "publishedDateTime": "2021-08-13T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026.md",
-      "title": "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026",
-      "excerpt": "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/c32bqbJ/img-final.jpg",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
-      "publishedDateTime": "2021-08-13T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-aws-announces-amazon-transcribe-call-analytics-api-for-conversation-insights.md",
-      "title": "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights",
-      "excerpt": "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
-      "originalUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
-      "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
-      "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "originalUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/wa5haFoFrsYgUUAj9vvyXG-1200-80.jpg",
-          "width": 881,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
-      "publishedDateTime": "2021-08-12T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-a
 webUrl: "https://www.techinasia.com/company-pushing-boundaries-healthcare-ai?ref=recommender-701323"
 type: article
 quality: 66
-heat: 87
+heat: 96
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/07/R2105G_SUN.jpg"
         width: 1000
         height: 562
+        isCached: true
+  - title: "How artificial intelligence is changing the face of beauty"
+    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
+    publishedDateTime: 2021-08-18T17:30:00Z
+    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
+    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 57
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
+        width: 828
+        height: 517
         isCached: true
   - title: "List of Major Companies with AI Patents to Know About in 2021"
     excerpt: "Many big companies with AI patents such as IBM, Microsoft, Google, Samsung, and Siemens have been dominant in making it to the list of the top AI patents companies coming up with innovations using AI."

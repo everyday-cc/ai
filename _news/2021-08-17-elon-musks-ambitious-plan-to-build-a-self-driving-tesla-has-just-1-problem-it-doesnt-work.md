@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
+    excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
+    publishedDateTime: 2021-08-18T16:51:00Z
+    webUrl: "https://www.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    ampWebUrl: "https://amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 72
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1deefcf8-eb75-4197-9c45-b1e78439086b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
     excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
     publishedDateTime: 2021-08-16T17:11:00Z

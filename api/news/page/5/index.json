@@ -2,6 +2,291 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-08-13-lawmakers-ask-amazon-what-it-plans-to-do-with-palm-print-biometric-data.md",
+      "title": "Lawmakers ask Amazon what it plans to do with palm print biometric data",
+      "excerpt": "A group of senators sent new Amazon CEO Andy Jassy a letter Friday pressing the company for more information about how it scans and stores customer palm prints for use in some of its retail stores. The company rolled out the palm print scanners through a program it calls Amazon One,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "originalUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027656194.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/08/13/amazon-biometric-data-senate-letter/amp/",
+      "publishedDateTime": "2021-08-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-grape-crops-protected-with-help-of-facial-recognition-technology.md",
+      "title": "Grape Crops Protected With Help of Facial Recognition Technology",
+      "excerpt": "A radical collaboration between a biologist and an engineer is supercharging efforts to protect grape crops. The technology they’ve developed, using robotics and AI to identify grape plants infected with a devastating fungus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
+      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/grape-crops-protected-with-help-of-facial-recognition-technology-351986.jpg?v=11369305",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/applied-sciences/news/amp/grape-crops-protected-with-help-of-facial-recognition-technology-351986",
+      "publishedDateTime": "2021-08-13T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-insig-ai-chairman-matthew-farnum-schneider-resigns.md",
+      "title": "Insig AI Chairman Matthew Farnum-Schneider Resigns",
+      "excerpt": "By Ian Walker Insig AI PLC said Friday that Executive Chairman Matthew Farnum-Schneider has resigned in order to focus on other opportunities and will",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "originalUrl": "https://www.marketwatch.com/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/insig-ai-chairman-matthew-farnum-schneider-resigns-271628840155",
+      "publishedDateTime": "2021-08-13T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) for Security Market Overview with Detailed Analysis, Competitive Situation and Forecast to 2026",
+      "excerpt": "Significant prime key makes encased inside the report close by Market Share, Stock Determinations and Figures, Contact data, Sales, Capacity, Production, Price, Cost, Revenue and Business Profiles. The primary goal of the Artificial Intelligence (AI) for Security business report is to Supply Key Insights on Competition Positioning,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ibb.co/c32bqbJ/img-final.jpg",
+          "width": 600,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-ai-for-security-market-overview-with-detailed-analysis-competitive-situation-and-forecast-to-2026/",
+      "publishedDateTime": "2021-08-13T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-aws-announces-amazon-transcribe-call-analytics-api-for-conversation-insights.md",
+      "title": "AWS Announces Amazon Transcribe Call Analytics API for Conversation Insights",
+      "excerpt": "AWS announced Amazon Transcribe Call Analytics, a new feature of Amazon Transcribe. AWS customers can extract valuable insights from customer conversations like customer and agent sentiment, and conversation characteristics such as non-talk time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
+      "originalUrl": "https://www.infoq.com/news/2021/08/amazon-transcribe-call-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/08/amazon-transcribe-call-analytics/en/headerimage/header+%2811%29-1628764462998.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-08-13-many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping.md",
+      "title": "Many Americans aren't aware they're being tracked with facial recognition while shopping",
+      "excerpt": "Of those surveyed, almost half (40%) were completely unaware that retailers have begun using facial recognition technology in their stores while 60 percent said they knew this tec",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
+      "originalUrl": "https://www.techradar.com/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/wa5haFoFrsYgUUAj9vvyXG-1200-80.jpg",
+          "width": 881,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/many-americans-arent-aware-theyre-being-tracked-with-facial-recognition-while-shopping",
+      "publishedDateTime": "2021-08-12T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-13-artificial-intelligence-diagnostics-market-demand-on-the-rise-as-governments-worldwide-continue-to-2027.md",
       "title": "Artificial Intelligence Diagnostics Market Demand on the Rise as Governments Worldwide Continue to 2027",
       "excerpt": "A new research report from the document repository of ResearchMoz offers detailed study of the Global Artificial Intelligence Diagnostics Market. The study presented in the report intends to help companies in the development or modification of their business expansion strategies using important information pertaining to the global Artificial Intelligence Diagnostics market.",
@@ -869,298 +1154,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps.md",
-      "title": "Artificial Intelligence For Social Inclusion: Technologies And Necessary Steps",
-      "excerpt": "For those who develop technology, it is essential not only to think about usability but increasingly about accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61140c2e210c118b1901925f%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/artificial-intelligence-for-social-inclusion-technologies-and-necessary-steps/amp/",
-      "publishedDateTime": "2021-08-12T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto.md",
-      "title": "Bell 5G powers Tiny Mile food delivery robots in downtown Toronto",
-      "excerpt": "Canadian AI tech start-up leveraging Bell 5G to deliver food to downtown residents MONTRÉAL,  /CNW Telbec/ - Bell today announced a",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bell-5g-powers-tiny-mile-food-delivery-robots-in-downtown-toronto-1030724079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1593141/Bell_Canada_Bell_5G_powers_Tiny_Mile_food_delivery_robots_in_dow.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-12T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp.md",
-      "title": "UK Regtech Shield Introduces Alert Transparency Capabilities by Leveraging AI, NLP",
-      "excerpt": "UK Regtech firm Shield has introduced Alert Transparency Capabilities by leveraging AI and natural language processing or NLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Regtech-in-the-UK-300x222.jpg",
-          "width": 300,
-          "height": 222,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/08/179061-uk-regtech-shield-introduces-alert-transparency-capabilities-by-leveraging-ai-nlp/amp/",
-      "publishedDateTime": "2021-08-12T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-14-tech-specialties-that-may-soon-be-obsolete.md",
-      "title": "14 Tech Specialties That May Soon Be Obsolete",
-      "excerpt": "The tech industry evolves rapidly, so knowing what skills the industry needs right now—and what skills may soon be obsolete—improves a budding tech professional’s options.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6114367789fc7b23d586cb13%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/08/12/14-tech-specialties-that-may-soon-be-obsolete/amp/",
-      "publishedDateTime": "2021-08-12T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-jll-to-acquire-artificial-intelligence-leader-skyline-ai.md",
-      "title": "JLL to Acquire Artificial Intelligence Leader Skyline AI",
-      "excerpt": "The acquisition will allow JLL clients to “better predict future property values, improve cost savings, identify promising investment opportunities and make critical business decisions.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
-      "originalUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.globest.com/contrib/content/uploads/sites/304/2021/01/deal-making-resize.jpg",
-          "width": 621,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
-      "cdnAmpWebUrl": "https://www-globest-com.cdn.ampproject.org/c/s/www.globest.com/2021/08/12/jll-to-acquire-artificial-intelligence-leader-skyline-ai/?amp=1",
-      "publishedDateTime": "2021-08-12T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeSt.com",
-        "domain": "globest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-12-you-told-us-you-arent-too-enthusiastic-about-your-phones-ai-camera-modes.md",
-      "title": "You told us: You aren't too enthusiastic about your phone's AI camera modes",
-      "excerpt": "Most Android Authority readers and followers are not very enthusiastic about AI modes on their phone's camera.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "originalUrl": "https://www.androidauthority.com/phone-camera-ai-mode-poll-results-2733352/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Honor-9X-AI-camera.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/phone-camera-ai-mode-poll-results-2733352/",
-      "publishedDateTime": "2021-08-12T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

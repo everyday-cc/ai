@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/baidu-unveils-concept-auton
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-unveils-concept-autonomous-robocar/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,34 @@ related:
       - url: "https://mma.prnewswire.com/media/1597211/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
         width: 400
         height: 266
+        isCached: true
+  - title: "Baidu unveils 1st fully autonomous robocar prototype"
+    excerpt: "Chinese internet search giant Baidu Inc. unveiled on Wednesday its first L5 self-driving robocar prototype with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao,"
+    publishedDateTime: 2021-08-18T16:34:00Z
+    webUrl: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2021-08-18/Baidu-unveils-1st-fully-autonomous-robocar-prototype-12PNjBNq1JS/img/cfd10806cf6c465d934a9f01b2e3e114/cfd10806cf6c465d934a9f01b2e3e114-1920.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Baidu unveils 1st fully autonomous robocar"
+    excerpt: "Chinese internet search giant Baidu Inc unveiled on Wednesday its first L5 self-driving robocar with no steering wheel, and an upgraded autonomous driving service platform named Luobo Kuaipao, in a bid to speed up the commercialization of autonomous driving technology."
+    publishedDateTime: 2021-08-18T07:48:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202108/18/WS611cbb6aa310efa1bd6699a8.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202108/18/611cbb6aa310efa1e3b6af68.jpeg"
+        width: 685
+        height: 456
         isCached: true
 
 secured: "AczkCcQzRTWrEZK/HaRpXMkhGd9ZAGqLXw7jjMHYhZYMkw+K1qZIuTS9/C8XyrsAw/GwwPIcgEBSSURlSpJw/2phUK93A1dwt2fBrbALtP60tmAH+vPtoa9XeYbUjBQqv8Pf3RwBXZfuqQltjwd3lo4oAzp0VmyMXSBOnP63sSci+MC7ryl3tG9487zNitZRgpGzIYLwDVABvxuWXt9juAQuzP1QNfTqG60Bn6QqAezY4gxGOjPizfI4JI3OrwJ94lxT2BLabJeJGS2MA53lfDH7P2sBPGT2GsOyVftq4BhZK+h5OWoeBlGIe9AxfeLwSxNT3mNhh4Qu3IASLG5bfUZxikWTAAA5Km5tu7Yg5pA=;q0nCNkqdOfUpictELSZKiw=="

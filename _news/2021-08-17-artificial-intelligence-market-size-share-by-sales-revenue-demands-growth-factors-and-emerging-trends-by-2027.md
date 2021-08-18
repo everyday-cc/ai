@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-by-sales-revenue-demands-growth-factors-and-emerging-trends-by-2027-2021-08-17"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 19
-  - title: "Global Field Programmable Gate Array Market to be Driven by the Growth of AI and Deep Learning Technologies in the Forecast Period of 2021-2026"
-    excerpt: "The new report by Expert Market Research titled, ‘Global Field Programmable Gate Array Market Size, Share, Price, Trends, Growth, Analysis, Report and Forecast 2021-2026’, gives an in-depth analysis of the global field programmable gate array market,"
-    publishedDateTime: 2021-08-14T01:00:00Z
-    webUrl: "https://ipsnews.net/business/2021/08/14/global-field-programmable-gate-array-market-to-be-driven-by-the-growth-of-ai-and-deep-learning-technologies-in-the-forecast-period-of-2021-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 18
-    images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/07/4265-expert-market-research-emr.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "rFiAdANuor+f8p/PoB8tWPFhZAhfl9wD8aAxQh8aetyL7e2E57FakX4g0huiDDzqtyaX6E+EgpWwfciCRQrlJk446yEsO/WJRMM5BrTeNUo7RmAvjxzUP+Dapxwi38M8NNSQl4j2vUhMha5/dX79q3tAruquhH0GmQ2OnUJAq9X8NcIwLjdS7pwy9T+XTNVvn8LHHAYcSJGRU2akhmpt/0VZNbiMHdanPFYku+4dSbgmWqZiis74WIG32AH98o292s1bt6ZoNQpsKnyX5Cxe4CLNoBuYs5wCtjnNiWgAWJRJUy9JtHTxgPuLPvIMeplKvayh5IiWqcixlrIjMxoaPmaAxqxduwcqmbAw2y8NCFA=;B3A8zkaNnIpM8z6nfsKOWg=="
 ---

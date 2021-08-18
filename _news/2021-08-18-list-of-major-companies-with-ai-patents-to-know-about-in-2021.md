@@ -50,7 +50,23 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "How artificial intelligence is changing the face of beauty"
+    excerpt: "From fragrance to skincare, AI is helping us to make smarter beauty choices Finding a new-season foundation or signature scent has long required a stroll through the beauty aisles of our favourite department stores."
+    publishedDateTime: 2021-08-18T17:30:00Z
+    webUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/"
+    ampWebUrl: "https://www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/beauty/news/artificial-intelligence-changing-face-beauty/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 57
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/beauty/2021/08/18/Visuels-connectivite-ROSE_0_trans_NvBQzQNjv4BqLUm2LqZ7QfPrWh62iB90NVTmGTZwRSZcqbDiPNar8DA.jpg"
+        width: 828
+        height: 517
+        isCached: true
 
-secured: "XGxmZtHtxhDY74zUb8n2pARuE/vJp6JkamRMG2QU50cIW06H93rt0Gwd73HtvmMpQlCJXfDj1c8ZbEHBJo/2/jZ6ayPZY2QeQ04eI32+rEu/E9C3B+dmJ0OLeVpF/Ft5XZrqijBu5BI7hinD82BbByMkvp1VUHN2t9VZBJMUWoeU2bGzYzHS6WYiqY8AU5YtoS6XywRFYUWYcLkamIDLZJqvAOpyasGsm+u62YRGpKz8RzU5aTsU+BroWh9jErwqqnsELOWQvLfKKjaYAjeTejUw9wmw/1wqO+p0859V86FLV8FrarEcWnKdv//660T74wTAUWuWg7u07th8bJGf+LizabxH9jM4Wb76cKs4PlM=;MbQXN+gPJjbMEpydvVozmQ=="
+secured: "u4DA9fiB3UNK8B4y3hVJUr4dpaoX5ff2cQH15hb7arBu0YtLWIAcTohF4xwCtxLBzv3Dh9LFleYGcLaVp5Y3ZwPczBcZDi1GleDqOsaKKnV2cDTHCLpbqo/kwfgEEk3kJaffWc0CV5OofGjKEQpaEySurQRJdBjbC1SGT6dRezI65NdJzATsSLC0TIOx+hTyloSnOoN3uMQVtsaPApgHssuCAuigRnSO/cwJYvYd8B54QvtSQm9QKja9O1lb6NHwRr7GAcVqastnmvTcBO2xStMcC7I74cnFc6QCDF/n093ogiwkYAxMrCDjuDTiZKBpNiD0smDW2lJviILZMK0jzZMRvSF2KpuGfdSif4fh90Ex4HW2kp/bcoiewNxUuuUBnSYRiTboZMNIiU85dtxB8HGZ2OZjBslvo7GndH/M60iM4SKPjnMydoJend/xXDiowIAqAN/dKjbAvfuRYHaTOAzjmMZLyOgFKdHls96PjWYd1nUpjo5hprD3r4g4Goc8Zhi00PjdW07Q7qs/ZQBSow==;mcLbMDUxGBQkHyUHjlY4hg=="
 ---
 

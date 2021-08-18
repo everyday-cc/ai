@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-excerpt: "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
-publishedDateTime: 2021-08-18T13:18:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
-webUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
+excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+publishedDateTime: 2021-08-18T13:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1629178843036.jpg"
-    width: 630
-    height: 420
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 683
         isCached: true
 
-secured: "H6w8npePfcBpJHMyRjNlZkmv18D3aSYv4lojbfJ12Uz37M/oTIJzVGR0MixHRnpa/lqkggo20mcpW3FG1fnjLHlAagzvB62cj45BkLb0ftuHF1XV+sJ/F7UulanQt53jHNDygvX0Zucx2nn0GqjgSvnKFv0HnWf+noYH2ckh22Zfie1YRkQgpAY2Q3ELOoyQuT/B0xtZh3j2AzcrnE21dGagWMpk4Vmm9o0C6gvbFD6qxcJIi3/TfNoQWZQx1EB5j9R7kN/486ki8CACXbArt3qpMd7B6J8msHHWArHaE11bF7abQhaIP+aBUfLTKJFwvcnkrdN79hxqg88YSXERPlmvP5+SxirTG1303qZVMPg=;dYfLxlRDPG41259VUPpAzA=="
+secured: "IsPDOatDITGNUDLJYOpvkwrnXKkMa92SQNscYP4NfHmvzk3UCslEuBVBKEQWnbQT6KXTYjB5qoxT39W/odBBi0GWTsnT2gunwWWNKeKfGvMYvf7GLov5RT9JvZ4n3BLhaRwl73MdZsdPmOqFGtLw2hpzR0wZVSjAbZVkxxhhgl2adlOWj1lE8AqaLklgpnYIb9JnYVa6oDONXsN5daIGLE21OrcIh0KHnnQ3/gnqy3U/+R0na+eo5RSEfWhiAHOz59JmiRwYiy9FwVeFyU8Z1Arzlk+R2u4SLnTmmyJwNdlhBIetBbRT1jqpUNtGGAusBxA0YFDMRLr6FPFvrUHyuYX9vx2t+AY/8/L2iY6VgOU=;n+d1yQu9ad1GHp70wM+cjQ=="
 ---
 

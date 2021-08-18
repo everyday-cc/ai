@@ -8,7 +8,7 @@ webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Ham
 ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
 cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
@@ -74,6 +75,6 @@ related:
         height: 1498
         isCached: true
 
-secured: "TMNx0G6u3YjstxXSuWeLfFP326BzAUv+9O8VJGBnLrHZ+uDijfOQw0oQRh8UnxmDB/rs62CufuFox/276a/0p1AKTK/1U1DFn4i2DjrYnGHpldMmiZNvqYVKKjKe47QVJtq3h3UrmG4pATYdCGxsfERuRmSovBykNYxAbqFvXNwWrW5uWWcJNyHhKc7c9t5Xyc4odercg/PSjjoDmaSWpWcCUFcpN/GYXgsJl7MCuiekh/PdGG7GpxhH/qdRtOW1LLvis92uvXntmC2YtRAAjDfh7pE+C9t581+Gss8rXKBuaQZn2rX+5T86fRTElHTvIl12JcJSuhZU95ujL9P5JPGHrXn1N9ssCe+f5yuFkBc=;VM2Ktl0dm9wrguUQmpnFzg=="
+secured: "u1GPJmbHhIu9D4ViOpI78J8o8TdGdkrhXO7nGOrtkKj/I4xDMSkAKbARLE5z4NhaMkL3j4M0PmaK9lUjXrmNEJFHTjcIL4dweocAUNoa90u+KY+UYXNWFt3DV6GbtW62egAD+WldQW1cwEPNrhTIquegCbmgRO7eM46ugYdRqwL/ymoOkBFCOGEudMxqXOpWkvnLWodF1p4V59KKB3Z8xUOILi7/XJgXlY3cRo9cSaTRoK/WJbv/bdNqochCc5g0dsBXJ/bSLT33g1wctzgAKdfKu6PQbCkWTMiCnP1rBfhO4c1FqiBUlaPYcEnewqx5BGEx2QHjJMECESkQKZBY9qzsXrEVZTMXH5yYZxD5z7sMNXHqQ4gORxFuIjNwfkc1tcNnBBQhbdPxA+l8F4F2U2pyw66PaSe9+xozvdOG2/LPwivfmD6z0MjxQCXh0YwLoUmMoLeDvbIXg2omCsChULkWb4JV75ETh1WqNBKS4auKy1ErQ++3QW2VJyc0XDgBAbomkNAfhsxmYy7qVUMcEw==;sau6UTtaTP3r2QITr1ACCw=="
 ---
 

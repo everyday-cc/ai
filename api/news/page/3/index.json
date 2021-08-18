@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-08-17-china-ev-maker-warns-terms-like-self-driving-may-mislead-people.md",
+      "title": "China EV Maker Warns Terms Like Self Driving May Mislead People",
+      "excerpt": "The Chief Executive Officer of Chinese electric-car maker Li Auto Inc. has said the industry should limit using the terms autonomous and self driving, considering no automobile today is truly capable of that and its common usage is becoming misleading for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-08-17/china-ev-maker-warns-terms-like-self-driving-may-mislead-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4mJTad9d9rA/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-knee-replacement-robot-does-custom-implants.md",
+      "title": "Knee replacement robot does custom implants",
+      "excerpt": "Personalized medicine is transforming treatment, but joint replacement is still a largely off-the-shelf affair. A startup combining artificial intelligence, robotics, and 3D printing wants to change that,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "originalUrl": "https://www.zdnet.com/article/knee-replacement-robot-does-custom-implants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/08/17/3affa5e0-7748-4ba8-8069-cda35717b3e0/knee-replacement-monogram.jpg",
+          "width": 1559,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/knee-replacement-robot-does-custom-implants/",
+      "publishedDateTime": "2021-08-16T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-microsoft-azure-government-top-secret-has-hit-general-availability.md",
+      "title": "Microsoft Azure Government Top Secret has hit general availability",
+      "excerpt": "Microsoft has announced that Azure Government Top Secret, its cloud offering dealing with modernizing infrastructure and data management tooling for classified U.S. Government operations, has hit GA.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/08/1629183549_2b62ae85-b75c-450d-9d5d-8a11108c2d45_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-17-trainocate-recognised-as-1-microsoft-learning-partner-worldwide.md",
+      "title": "Trainocate recognised as #1 Microsoft Learning Partner worldwide",
+      "excerpt": "Trainocate Holdings, Asia's largest IT and human capability development training provider, has been recognised as the 2021 Microsoft Learning Partner of the Year; the first Asian company to earn the title.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/trainocate-recognised-as-1-microsoft-learning-partner-worldwide-1030736204",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1594909/Zafarullah_Hashim.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-16T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-17-milk-allergy-that-can-make-a-bubble-bath-lethal-teenagers-experience-has-led-experts-to-call-for-cosmetic-products-to-carry-ingredient-warnings.md",
       "title": "Milk allergy that can make a bubble bath lethal: Teenager's experience has led experts to call for cosmetic products to carry ingredient warnings",
       "excerpt": "She had been given the bath bomb for Christmas and although she checked the label before using it, she failed to spot ... people have heard of nut allergies but tend to think milk allergy is mild ...",
@@ -492,7 +701,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/us/us-probes-autopilot-problems-on-765000-tesla-vehicles/ar-AANnKSo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -628,7 +837,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/380301",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1006,204 +1215,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai.md",
-      "title": "Insights Into How Stanley Black And Decker Achieves Commercial Excellence Through AI",
-      "excerpt": "You cannot build a measurement architecture without knowing all of the strategies for the commercial actions, says Prabhakar, so it is important to approach the problem of AI and ML formulation in small chunks and phases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611875d46cc93adc98cbf648%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D378%26cropY1%3D84%26cropY2%3D297",
-          "width": 378,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/08/14/insights-into-how-stanley-black-and-decker-achieves-commercial-excellence-through-ai/amp/",
-      "publishedDateTime": "2021-08-14T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-building-australias-capability-on-ethical-artificial-intelligence.md",
-      "title": "Building Australia's Capability on Ethical Artificial Intelligence",
-      "excerpt": "Mr Santow will lead a major UTS initiative to build Australia’s strategic capability in artificial intelligence (AI) and new technology. This initiative will support Australian business and government to be leaders in responsible innovation—by developing and using AI that is powerful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
-      "originalUrl": "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144419107%2F507908461719%2F1%2Foriginal.20210428-031838?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=020167f4baf25a658b9d223bbb35926a",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-14T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eventbrite.com.au",
-        "domain": "eventbrite.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-realizing-iots-potential-with-ai-and-machine-learning.md",
-      "title": "Realizing IoT’s potential with AI and machine learning",
-      "excerpt": "The key to getting more value from industrial internet of things (IIoT) and IoT platforms is getting AI and ML workloads right.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/john-adams-1xIN4FMR78A-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/realizing-iots-potential-with-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-08-14T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-15-science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry.md",
-      "title": "Science, applied: 3 ways AI and ML are advancing the insurance industry",
-      "excerpt": "Insurance companies are implementing applications of data science to detect fraud and provide a personalized customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
-      "originalUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/trust-2-e1611944466862.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/14/science-applied-3-ways-ai-and-ml-are-advancing-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-08-14T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

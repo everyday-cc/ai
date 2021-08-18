@@ -74,6 +74,20 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm unleashes first 5G AI drone on the world"
+    excerpt: "Building on its Mars helicopter technology, Qualcomm has announced its world-first 5G AI drone platform, with an early Verizon tie-up."
+    publishedDateTime: 2021-08-18T16:45:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/qualcomm-unleashes-first-5g-ai-drone-on-world/d/d-id/771573"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/2021/08/771573/8044.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm unveils 5G AI drone"
     excerpt: "Qualcomm has unveiled the world’s first drone with 5G and AI capabilities. The reference drone operates on the chipmaker’s Flight RB5 5G platform, promising cutting-edge capabilities, high-performance,"
     publishedDateTime: 2021-08-18T07:32:00Z

@@ -2,6 +2,298 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-08-06-john-deere-acquiring-bear-flag-robotics-for-250m.md",
+      "title": "John Deere acquiring Bear Flag Robotics for $250M",
+      "excerpt": "Bear Flag Robotics, a developer of autonomous driving technology for tractors, is being acquired by John Deere for $250 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
+      "originalUrl": "https://www.therobotreport.com/john-deere-acquiring-bear-flag-robotics-250m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/08/bear-flag-robotics-john-deere.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework.md",
+      "title": "Forrester: Adopting fraud-fighting AI requires the right technical framework",
+      "excerpt": "A new report from Forrester urges that companies considering adopting AI to fight fraud have the right technical pieces in place.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "originalUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1079012962.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/05/forrester-adopting-fraud-fighting-ai-requires-the-right-technical-framework/amp/",
+      "publishedDateTime": "2021-08-05T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving.md",
+      "title": "Li Auto owner tricks his vehicle into performing reckless full self-driving",
+      "excerpt": "Footage of a man recklessly driving his Li Auto ONE SUV has gone viral in China after he tricked his SUV into \"full self-driving\" mode.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "originalUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Li-Auto-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/05/li-auto-owner-tricks-his-vehicle-into-performing-reckless-full-self-driving/amp/",
+      "publishedDateTime": "2021-08-05T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-06-qualcomm-risks-self-driving-prang.md",
+      "title": "Qualcomm risks self-driving prang",
+      "excerpt": "Qualcomm’s (QCOM.O) excitement over self-driving may be dragging it off the financial highway. The $165 billion U.S. telecommunications technology group is offering $4.6 billion for Sweden’s Veoneer (VNE.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "originalUrl": "https://www.reuters.com/breakingviews/qualcomm-risks-self-driving-prang-2021-08-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/BmEQhNR3h6WvY4rl0XesUwQsE4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QPGYQUSM6BJD3ELH7ZQLK6DILI.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-i-spoke-to-a-mutating-ai-npc-this-morning-and-now-it-thinks-its-god.md",
+      "title": "I spoke to a mutating AI NPC this morning and now it thinks it's God",
+      "excerpt": "I just finished conversing with an AI NPC about transcendentalism, predeterminism, and the meaning of love. Not how I expected to spend my morning, but I'm so glad I did. Not only have I walked away from Sensorium's new AI chatbot demo with a better understanding of the definition of intelligence (according to this new breed of artificial human),",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "originalUrl": "https://www.pcgamer.com/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UU9jrN7YFJ9nk774jEZRjk-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/sensorium-galaxy-metaverse-ai-npc-chatbot-vr/",
+      "publishedDateTime": "2021-08-05T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-05-ai-and-data-mining-programming-languages-are-booming.md",
+      "title": "AI and data mining programming languages are \"booming\"",
+      "excerpt": "TIOBE releases its top programming language index, highlighting small fluctuations in the shifting landscape. The latest index features a bottleneck at the top as others surge ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-and-data-mining-programming-languages-are-booming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/09/51e224d6-e413-4132-b800-76563a29c692/resize/1200x/aee8a619f64680270cc4c61def76badc/ai-brain.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-data-mining-programming-languages-are-booming/",
+      "publishedDateTime": "2021-08-05T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-08-05-riiid-to-present-artificial-intelligence-for-education-sessions-at-asugsv-2021-summit.md",
       "title": "Riiid to present Artificial Intelligence for education sessions at ASU+GSV 2021 Summit",
       "excerpt": "Riiid, a leading AI for education company and a member of Born2Global Centre, will take part in the annual ASU+GSV Summit, the preeminent global education innovation conference to be held in San Diego on August 9-11.",
@@ -877,291 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million.md",
-      "title": "Hootsuite Acquires Heyday, a Conversational AI Company, for $48 Million",
-      "excerpt": "The social-media marketing platform bought Heyday because companies have expanded their use of social media beyond marketing to include commerce and one-on-one messaging, Hootsuite’s CEO said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
-      "originalUrl": "https://www.wsj.com/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-380494/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/hootsuite-acquires-heyday-a-conversational-ai-company-for-48-million-11628123818",
-      "publishedDateTime": "2021-08-04T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-ai-powered-finance-startup-zeni-notches-34m-series-b-funding.md",
-      "title": "AI-Powered Finance Startup Zeni Notches $34M Series B Funding",
-      "excerpt": "Zeni raised $34 million in a Series B funding after seeing a 550 percent revenue growth year-over-year, driven by referrals and organic growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/08/shutterstock_344934203-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/ai-powered-finance-startup-zeni-notches-34m-series-b-funding/amp/",
-      "publishedDateTime": "2021-08-04T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-the-answer-to-australias-national-security-needs-robot-tanks.md",
-      "title": "The Answer To Australia's National Security Needs? Robot Tanks",
-      "excerpt": "Greater reliance on autonomous systems and unmanned platforms makes a great deal of sense, given the small size of our military,” says Malcolm Davis, a senior analyst at the Australian Strategic Policy Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "originalUrl": "https://nationalinterest.org/blog/reboot/answer-australias-national-security-needs-robot-tanks-191217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/23607818975_fae8f8a6d6_o%20%281%29.jpg",
-          "width": 1200,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-prompt-based-learning-can-make-language-models-more-capable.md",
-      "title": "Prompt-based learning can make language models more capable",
-      "excerpt": "Supervised learning, where AI models are trained on input data annotated for a particular output until they can detect the underlying relationships between the inputs and outputs, plays a major role in natural language processing (NLP).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
-      "originalUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/04/prompt-based-learning-can-make-language-models-more-capable/amp/",
-      "publishedDateTime": "2021-08-04T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-master-face-researchers-say-theyve-found-a-wildly-successful-bypass-for-face-recognition-tech.md",
-      "title": "'Master Face': Researchers Say They've Found a Wildly Successful Bypass for Face Recognition Tech",
-      "excerpt": "Indeed, computer scientists at Tel Aviv University in Israel say they have discovered a way to bypass a large percentage of facial recognition systems by basically faking your face. The team calls this method the “master face” (like a “master key,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710",
-      "originalUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/45fb2850aed935b91d16304f20a38965.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/master-face-researchers-say-theyve-found-a-wildly-succ-1847420710/amp",
-      "publishedDateTime": "2021-08-04T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-05-artificial-intelligence-ai-innovation-summit.md",
-      "title": "Artificial Intelligence (AI) Innovation Summit",
-      "excerpt": "The Artificial Intelligence (AI) oracle and venture capitalist Dr Kai-Fu Lee predicted in 2018 that AI is going to change the world more than anything in the history of mankind. Even more than electricity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
-      "originalUrl": "https://www.eventbrite.com.au/e/artificial-intelligence-ai-innovation-summit-tickets-165149104417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F143463499%2F117698827641%2F1%2Foriginal.20210803-163109?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1010%2C505&s=22ae2ffb14dbb09e9c77a2296a536e30",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-04T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eventbrite.com.au",
-        "domain": "eventbrite.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

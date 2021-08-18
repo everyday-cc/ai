@@ -2,26 +2,35 @@
   "page": 93,
   "value": [
     {
-      "path": "_news/2021-05-07-microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers.md",
-      "title": "Microsoft – Rising Demand in Australia Intensifying Competition Among Microsoft Azure Providers",
-      "excerpt": "Australia’s accelerating migration to the cloud is intensifying competition among Microsoft Azure service providers, with local players starting to challenge the global giants, according to a new report published today by Information Services Group (ISG) ( Nasdaq :III),",
+      "path": "_news/2021-06-09-google-seeking-chief-of-staff-for-health-division-8-more-positions.md",
+      "title": "Google seeking chief of staff for health division, 8 more positions",
+      "excerpt": "Google recently posted several job openings related to its health business. Nine positions the company recently posted: Director's chief of staff, Google Health: will work alongside Google's chief ...",
       "sourceUrl": null,
-      "webUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers/",
-      "originalUrl": "https://fintechzoom.com/fintech_news_microsoft/microsoft-rising-demand-in-australia-intensifying-competition-among-microsoft-azure-providers/",
+      "webUrl": "https://www.wsj.com/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/google-seeking-chief-of-staff-for-health-division-8-more-positions.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-343511/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:11:00-07:00",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-strikes-deal-with-hospital-chain-to-develop-healthcare-algorithms-11622030401",
+      "publishedDateTime": "2021-06-08T16:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "fintechzoom",
-        "domain": "fintechzoom.com",
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,130 +40,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-05-07-ibm-sets-another-smallness-record-with-2nm-chip-blueprints.md",
-      "title": "IBM Sets Another Smallness Record with 2nm Chip Blueprints",
-      "excerpt": "IBM said the new chip is designed to achieve 45 percent higher performance and 75 percent lower energy use than today’s most advanced 7nm node chips.",
+      "path": "_news/2021-03-26-humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000.md",
+      "title": "Humanoid Robot Sophia Sells 12 Second Video NFT for Almost $700,000",
+      "excerpt": "Take, for instance, celebrity humanoid robot Sophia, who — or, uh, “which”? — just sold a digital artwork as a non-fungible token (NFT) for $688,888, Reuters reports. Sophia teamed up ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
-      "originalUrl": "https://www.eweek.com/pc-hardware/ibm-sets-another-smallness-record-with-2nm-chip-blueprints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/05/IBM-Worldu2019s-First-2-Nanometer-Chip.jpg",
-          "width": 718,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-advancing-sports-analytics-through-ai-research.md",
-      "title": "Advancing sports analytics through AI research",
-      "excerpt": "Sports analytics is in the midst of a remarkably important era, offering interesting opportunities for AI researchers and sports leaders alike.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-      "originalUrl": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/JKprmpmVTL_QABFZY5EoG-OpZBrglfRpIKdvT96pMv88ofnfgGkT2o4LdrTct_1HxboB9Oc8_h9-IEq6JQc0nizeJWIRPKSG4yX-x6QYa6ClA-8VIHU",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "webUrl": "https://www.reuters.com/article/us-hongkong-robot/nft-artwork-by-humanoid-robot-sells-at-auction-for-nearly-700000-idUSKBN2BG3GB",
+      "originalUrl": "https://futurism.com/the-byte/humanoid-robot-sophia-sells-12-second-video-nft-for-almost-700000",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210325&t=2&i=1556115825&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N247",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -162,13 +66,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T17:00:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG3GB",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG3GB",
+      "publishedDateTime": "2021-03-25T12:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -178,25 +82,117 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI",
         "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2021-05-07-proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance.md",
-      "title": "Proper data hygiene critical as enterprises focus on AI governance",
-      "excerpt": "AI use raises pressures to understand the provenance of data. That means greater AI governance will be needed.",
+      "path": "_news/2021-02-15-apple-nissan-talks-on-building-autonomous-car-ended-after-disagreement-on-branding-report.md",
+      "title": "Apple, Nissan talks on building autonomous car ended after disagreement on branding: report",
+      "excerpt": "Apple Inc approached Japan's Nissan ... autonomous car project, but the talks ended after disagreement over branding, the Financial Times reported. The contact was brief and the discussions did ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/nissan-says-not-talks-with-apple-over-autonomous-car-project-2021-02-15/",
+      "originalUrl": "https://www.foxbusiness.com/technology/apple-nissan-talks-on-building-autonomous-car-ended-after-disagreement-on-branding-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/AI.GettyImages-817338718.jpg?w=1200&strip=all",
+          "url": "https://www.reuters.com/resizer/y7wMop6BV3onQ1gkfC5k1wpUGX4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4PO3GCC6VFKIZAWCZYWKNXRNAM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T21:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2019-10-19-to-antarctica-and-beyond.md",
+      "title": "To Antarctica and beyond",
+      "excerpt": "There’s a third less oxygen than at sea level, impairing brain function ... body-composition changes in prolonged periods of low sun exposure and reduced physical activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "originalUrl": "https://edition.cnn.com/interactive/2019/10/world/antarctica-and-beyond-scn/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2021/02/021321_LS_brain-kavli_feat_1440.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "publishedDateTime": "2019-10-18T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2017-02-11-saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos.md",
+      "title": "Saffron Technology: How Intel's cognitive computing acquisition thrives on chaos",
+      "excerpt": "Gayle Sheppard, CEO of Saffron Technology, outlines the company's history, explains how it fits into Intel's AI portfolio ... to the top IT professionals, all in an ad-free experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ibm-ceo-arvind-krishna-on-watson-ai-enterprise-future-plans-2021-5",
+      "originalUrl": "https://www.techrepublic.com/article/saffron-technology-how-intels-cognitive-computing-acquisition-thrives-on-chaos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/609ae0ed342837001822cd17?width=1200&format=jpeg",
           "width": 1200,
           "height": 600,
           "title": null,
@@ -206,946 +202,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/proper-data-hygiene-critical-as-enterprises-focus-on-ai-governance/amp/",
-      "publishedDateTime": "2021-05-06T16:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-chinas-first-robotaxi-service-launches-in-beijing-ahead-of-the-olympics.md",
-      "title": "China’s First Robotaxi Service Launches in Beijing ahead of the Olympics",
-      "excerpt": "Baidu launches Apollo Go robotaxis in Beijing ... for 2024 This Is What Amazon's Robo-Taxi Could Look Like BMW Takes Self-Driving to the Next Level Here's Why Our Self-Driving Future Hasn't ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
-      "originalUrl": "https://www.autoweek.com/news/technology/a36354137/beijing-olympics-robotaxi-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/baidu-1620317811.jpg?crop=1.00xw:0.893xh;0,0.0667xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp36354137/beijing-olympics-robotaxi-china/",
-      "publishedDateTime": "2021-05-06T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-best-tech-stocks-to-buy-now-4-names-to-know.md",
-      "title": "Best Tech Stocks To Buy Now? 4 Names To Know",
-      "excerpt": "The sector comprises businesses that sell goods and services in industries such as ... with the largest market capitalizations such as Microsoft Corporation (NASDAQ: MSFT) and Amazon.com (NASDAQ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
-      "originalUrl": "https://www.nasdaq.com/articles/best-tech-stocks-to-buy-now-4-names-to-know-2021-05-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T15:48:00-07:00",
+      "publishedDateTime": "2017-02-10T09:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-its-time-to-train-professional-ai-risk-managers.md",
-      "title": "It’s time to train professional AI risk managers",
-      "excerpt": "With European regulations underway that will mandate AI safety, businesses around the world will face AI audits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
-      "originalUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1252396964.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/05/06/its-time-to-train-professional-ai-risk-managers/amp/",
-      "publishedDateTime": "2021-05-06T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-covid-era-education-tech-narrowed-college-learning-gap-for-poor-minorities.md",
-      "title": "Covid-era Education Tech Narrowed College Learning Gap for Poor, Minorities",
-      "excerpt": "The demand for artificial intelligence and machine-learning skills, for example, is expected to grow by 71 percent per year through 2025, according to a recent study by the business analytics firm Burning Glass Technologies. And online education tends to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "originalUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1789945/online-learning-unlv.jpg",
-          "width": 2500,
-          "height": 1729,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/covid-era-education-tech-narrowed-college-learning-gap-poor-minorities-1589355?amp=1",
-      "publishedDateTime": "2021-05-06T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-how-the-usps-uses-nvidia-gpus-and-ai-to-track-missing-mail.md",
-      "title": "How the USPS uses Nvidia GPUs and A.I. to track missing mail",
-      "excerpt": "You've got mail! But where is it? The USPS is leaning on A.I. at the edge and GPU-accelerated computing to help track and locate missing mail and packages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
-      "originalUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/united-states-postal-service-truck-2.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/usps-ai-at-the-edge-gpu-computing/?amp",
-      "publishedDateTime": "2021-05-06T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-states-push-back-against-use-of-facial-recognition-technology-by-police.md",
-      "title": "States push back against use of facial recognition technology by police",
-      "excerpt": "I think people are just freaked out, and rightfully so, about this technology,” said Freddy Martinez, director of Lucy Parsons Labs, a Chicago nonprofit that specializes in citizens' digital rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
-      "originalUrl": "https://www.mahoningmatters.com/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/mahoningmatters/images/facial-recognition.jpeg;w=640;h=422;mode=crop",
-          "width": 640,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
-      "cdnAmpWebUrl": "https://www-mahoningmatters-com.cdn.ampproject.org/c/s/www.mahoningmatters.com/amp/local-news/states-push-back-against-use-of-facial-recognition-technology-by-police-3752276",
-      "publishedDateTime": "2021-05-06T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mahoningmatters",
-        "domain": "mahoningmatters.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-the-federal-government-gets-a-central-ai-website-in-aigov.md",
-      "title": "The federal government gets a central AI website in AI.gov",
-      "excerpt": "The National Artificial Intelligence Initiative Office compiled all government activities advancing the effort on a single website launched Wednesday. AI.gov features recent AI reports and news across agencies;",
-      "sourceUrl": null,
-      "webUrl": "https://www.ai.gov/",
-      "originalUrl": "https://www.fedscoop.com/naiio-launches-ai-website/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ai.gov/wp-content/uploads/2021/02/National-AI-Office-Seal.png",
-          "width": 4092,
-          "height": 4092,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month.md",
-      "title": "Artificial Intelligence Identifies Netflix And Facebook Among Top Stocks For The Month",
-      "excerpt": "Q.ai's AI systems have picked Top Tech Stocks, Top Consumer Stocks, Top Quality Value Stocks, Top Growth Stocks, and Top Dividend Stocks to help investors make the most of this month's markets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60942fe187880209a11c4392%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/05/06/artificial-intelligence-identifies-netflix-and-facebook-among-top-stocks-for-the-month/amp/",
-      "publishedDateTime": "2021-05-06T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre.md",
-      "title": "Industry should start working on AI, M2M, data science seriously : Dhotre",
-      "excerpt": "The government is keen on utilising latest technologies like artificial intelligence (AI), machine-to-machine communications and data science, and industry should start working on them seriously for achieving the goal of Aatmanirbhar Bharat,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375.html",
-      "originalUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2021/05/06/1600x900/_2374e1ca-ccf3-11ea-a892-bc0febb83d85_1620324427702.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/industry-should-start-working-on-ai-m2m-data-science-seriously-dhotre-101620324069375-amp.html",
-      "publishedDateTime": "2021-05-06T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-expressable-raises-45m-from-lerer-hippeau-and-nextview-to-transform-speech-therapy-care.md",
-      "title": "Expressable Raises $4.5M from Lerer Hippeau and NextView to Transform Speech Therapy Care",
-      "excerpt": "Expressable, a leading speech therapy solution that combines 1-on-1 teletherapy with its proprietary education platform, is pleased to announce the close of its seed round totaling $4,500,000. The funding was co-led by Lerer Hippeau and",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19791441.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19791441.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-ai-is-ready-to-take-on-a-massive-healthcare-challenge.md",
-      "title": "AI is ready to take on a massive healthcare challenge",
-      "excerpt": "Shortening the diagnostic journey and reducing the associated costs was, until recently, a moonshot challenge, but is now within reach. Technology and AI advances are combining to make genetic testing accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/ai-is-ready-to-take-on-a-massive-healthcare-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-482179767.jpg?w=600",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-05-07-why-wait-for-a-crash-to-invest-these-3-top-stocks-are-already-down-more-than-40.md",
-      "title": "Why Wait for a Crash to Invest? These 3 Top Stocks Are Already Down More Than 40%",
-      "excerpt": "Some top-quality stocks are already down by 30%, 40%, or even more from their all-time highs. Case in point: Shares of Zillow Group ( NASDAQ:ZG) ( NASDAQ:Z), Baidu ( NASDAQ:BIDU), and Teladoc ( NYSE:TDOC) are all trading at least 40% below their recent highs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F624941%2Fgettyimages-534824667.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/05/06/why-wait-for-a-crash-to-invest-these-3-top-stocks/",
-      "publishedDateTime": "2021-05-06T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-king-county-council-puts-off-vote-on-proposal-to-ban-facial-recognition-technology.md",
-      "title": "King County Council puts off vote on proposal to ban facial recognition technology",
-      "excerpt": "After a divisive hearing, the King County Council decided not to vote on a proposal to ban government use of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
-      "originalUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2021/04/Untitled-design-81.jpg",
-          "width": 620,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/2875117/king-county-council-puts-off-vote-facial-recognition-ban/amp/",
-      "publishedDateTime": "2021-05-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue.md",
-      "title": "How Genworth built a serverless ML pipeline on AWS using Amazon SageMaker and AWS Glue",
-      "excerpt": "This post is co-written with Liam Pearson, a Data Scientist at Genworth Mortgage Insurance Australia Limited. Genworth Mortgage Insurance Australia Limited is a leading provider of lenders mortgage insurance (LMI) in Australia; their shares are traded on Australian Stock Exchange as ASX: GMA. Genworth",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-genworth-built-a-serverless-ml-pipeline-on-aws-using-amazon-sagemaker-and-aws-glue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/04/23/1-2928-Architecture.jpg",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T09:23:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-ncfa-reveals-speakers-and-agenda-for-online-ffcon21-fintech-and-financing-conference.md",
-      "title": "NCFA Reveals Speakers and Agenda for Online FFCON21: Fintech and Financing Conference",
-      "excerpt": "Conference to explore accelerated Blockchain - Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / May 6, 2020 / The Fintech & Financing Conference and Expo (#FFCON21),",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
-      "originalUrl": "https://apnews.com/press-release/accesswire/canada-business-technology-998b4e421f6ac088fe991bc051936760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy.md",
-      "title": "Dyno raises $100 million to bring artificial intelligence to gene therapy",
-      "excerpt": "Dyno Therapeutics, which uses artificial intelligence techniques to develop gene therapies, has raised $100 million from investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
-      "originalUrl": "https://www.statnews.com/2021/05/06/dyno-raises-100-million-to-bring-artificial-intelligence-to-gene-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2020/08/AdobeStock_287945965-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round.md",
-      "title": "Lightmatter’s photonic AI ambitions light up an $80M B round",
-      "excerpt": "AI is fundamental to many products and services today, but its hunger for data and computing cycles is bottomless. Lightmatter plans to leapfrog Moore’s law with its ultra-fast photonic chips specialized for AI work,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Lightmatter_BladeFront.jpg?w=1024",
-          "width": 1024,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/lightmatters-photonic-ai-ambitions-light-up-an-80m-b-round/amp/",
-      "publishedDateTime": "2021-05-06T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-embodied-acquires-conversational-ai-startup-kami-computing.md",
-      "title": "Embodied acquires conversational AI startup Kami Computing",
-      "excerpt": "Kami will strengthen Embodied's Moxie robot by adding memory of past conversations context, consistent personality, common sense reasoning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
-      "originalUrl": "https://www.therobotreport.com/embodied-acquires-conversational-ai-kami-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/05/Moxie_Embodied_Lifestyle_002-scaled-e1598288717694.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling-precise-navigation-in-key-procedures.md",
-      "title": "RSIP Vision Launches an Advanced AI-Based Tool for Prostate MRI and Ultrasound Registration Enabling Precise Navigation in Key Procedures",
-      "excerpt": "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, announced today a new prostate MRI-to-ultrasound registration tool. The tool’s fully automated,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/rsip-vision-launches-an-advanced-ai-based-tool-for-prostate-mri-and-ultrasound-registration-enabling/article_ea4b607e-3460-571e-a81a-0f5aa17b5988.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/d7/cd7a7506-6103-5b10-b542-d002191ea550/6093ec853bf87.image.jpg?resize=702%2C630",
-          "width": 702,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-06T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-06-figure-raises-75m-to-help-startup-employees-better-understand-their-compensation.md",
-      "title": "Figure raises $7.5M to help startup employees better understand their compensation",
-      "excerpt": "The topic of compensation has historically been a delicate one that has left many people — especially startup employees — wondering just what drives what can feel like random decisions around pay and equity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/",
-      "originalUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/Figure-Co-Founders-and-Co-CEOs-Miles-Hobby-and-Geoffrey-Tisserand-1.jpeg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/05/06/figure-raises-7-5m-for-compensation-management-platform/amp/",
-      "publishedDateTime": "2021-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1165,5 +231,5 @@
       ]
     }
   ],
-  "nextPage": 94
+  "nextPage": null
 }

@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Senators call for consumer watchdog probe into Tesla’s self-driving claims"
+    excerpt: "Top Democratic senators are calling on the Federal Trade Commission to launch an investigation into marketing practices at Tesla, days after the National Highway Traffic Safety Administration opened a probe into the car maker’s Autopilot driverless technology."
+    publishedDateTime: 2021-08-18T16:51:00Z
+    webUrl: "https://www.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    ampWebUrl: "https://amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8c19749a-b911-4008-a352-da97ed9eeeaf"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 72
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1deefcf8-eb75-4197-9c45-b1e78439086b.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "US Launches Investigation Into Tesla’s Self-Driving Tech After Numerous Crashes"
     excerpt: "The US government have launched a formal investigation into Tesla’s Autopilot function, due to reports of numerous crashes.  The formal investigation is into Tesla’s driver-assistance systems, known as Autopilot."
     publishedDateTime: 2021-08-16T17:11:00Z
@@ -150,6 +166,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qh8rPU3NIPNrevAvg9VkCtj7Mi8LzMibp2ZAlMCVL5LNwnlqqnIgb+eI2592k+MNEZdet4zHbzeGTDDOvF9ap1E7QTBu9R+vRGJckFCq558sIEwODvdV8mb4ocRaNV7s0jlmErX5eFr9OFE1TXiFRwngUhfOtfTnJ04cEKVtSZbbPHFthxcgsx7nYG3OEZb2EGTPC2IY8ojiJV7JNfGXfnQrHHZevHU2Vyoc4rETRKl9hxUsucWpwT4U9rEEpL2x1xlkt2vfvbtPkuX1bX+zaL5ItxSeXXflHWyvrHtb+tJeJ0Rwm8Qb8SfiB9iGA9r2tqtWcrXAtfIgsEsTSBZG97sctbD/omCaPK1uKCmW5nw=;mYmz3DWcyhSIH8onaEh6Aw=="
+secured: "NKKXkxK0N0ZxJlSafOUewV0Hl+krP77qtc4E2ZhPLsFYSTM1X8WFLn/Mtsjm2+RKSOvymSp////HFUt+bfu9Pr1JE0Hu8fgxt3t/uOUJ/1Gbv9uVTBeDuE9D1NzGKJIPVDE0IRVwb/TwHgFZ7WPBNAU4GS45OnQxBVADTblu8DkjZ7dwQ/vEZUiA1wVNIPdv4qAojcLjO0GxYqrlmyWycRGfavXM/Gv9+Iw7ctdkkJyzo4KlzIj5QFzWPryGM/xTbw6aEJSn3XqpV/fhTZo2fvAFmrJxE9c32Zs5EDhG5EjKFkVS5TjmTFUNoRTrQSQwM6NuJaj373SDSxR6onGNslg97t4b/mzuEwOYmX3mmA0B9Lvd4mfHSijtryIyNzOAf2CWjp+DSP1I3bSMBGfpekUf8iFbt4lUAJsUitdy9UNsLGHjiL7cDPQL7R6GrDhTGP6iQf32WmFXK7IwVdP6EogATlMeFM1q/VZVq1nUrk5B3YgRVCtTdhzMNHk5Nhoo9ziD556FtUyoW0qQ1Ba0ig==;6aa98KFkTWrLcSIr1Zeo6w=="
 ---
 

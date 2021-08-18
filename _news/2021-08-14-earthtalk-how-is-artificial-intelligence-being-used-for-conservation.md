@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
-    excerpt: "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
-    publishedDateTime: 2021-08-18T13:18:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
+    excerpt: "Exclusive List Solidifies Auditoria’s Transformative Approach to Cognitive Automation. SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven auto"
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-fc2f302c0629473e2c0b88fc3dc0c316"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: Associated Press
+      domain: apnews.com
     quality: 17
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1629178843036.jpg"
-        width: 630
-        height: 420
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "aceX5oP6ps51NOdsJfqHTxeIKbxSEtuLgjMJlTljrxxNH9/IQCYTpVBI2066+C5t3M5fBwVHArEZj1VYBHgZ9/VGHyxxYQTa9/KAoP13n28Rs4OwR5BzD8/nYwB2x0g2QudX6jXIIBVrW9tYNSnxMg8vvUn5NUyx4lX/fW3jXc5F7Bm37YwMZ6PKr06/nh8bM323lHgYdLGbls6ix32XXoRXeqjyJEr0hjf+cs5+zlIoT8Q5sIuLZdiOskFW+YJiwnryLo+GSwt09spWZVGem19modSk7NMyQcUiu3IPYdOS119oXS4ncUwg3vSK2bsBo+qf3TWdKJC7/nJb3CZ1TcH0xG6Mtkn1uHu7enCcDJebwvdUtuw+TQBpL/7NsFJqmG8ZS/ct5SPNoVSPXgwYcqBCnHMEBOByZyrv+Iu2xDZs/S1EICQrnZtj8bsfXAf1LeZ9fZLYyfniL4sYYYXhd9BxCphiXqOxOaUkIApUQvjPPFNlBYh2LuCHV7Yt2hYj6B9oXDuYQvIQAQoTGZ7dsg==;W/aWib0FsYv6v4iMez9MsQ=="

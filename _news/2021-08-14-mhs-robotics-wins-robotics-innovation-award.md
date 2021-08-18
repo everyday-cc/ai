@@ -1,14 +1,11 @@
 ---
 category: news
 title: "MHS Robotics Wins Robotics Innovation Award"
-excerpt: "MHS, a single-source provider of material handling automation and software solutions, took home a 2021 RBR50 Innovation Award from Robotics Business Review for the multi-pick robotic end effector. Unlike end effectors that handle a single item at a time,"
+excerpt: "Robotics Business Review’s RBR50 Robotics Innovation Awards have highlighted the most creative and influential innovations from around the world that have advanced the state of robotics. MHS Global is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations."
 publishedDateTime: 2021-08-13T18:54:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
+webUrl: "https://www.automation.com/en-us/articles/august-2021/mhs-robotics-wins-robotics-innovation-award"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Automation
@@ -24,6 +21,6 @@ images:
     height: 313
     isCached: true
 
-secured: "uBrqi97xPjIS67H95l9hCKJOJNtduQ+yF2GHTNwPJtFDMtuehBRbZsS4Z2VIy9ELkw6U+hLscUuFC5qC6Yu/f1Y6LquLEk6EVf4jz5Ql6TVDIT3v8zxaKnnDsvS1gVd9IaWdZFhWVh/S+wSqSONPtnhmM58RCLpMHJpaX+R7FKjXx7N4n4E30pHdAipRzt4uXKLiV2y9jpGNgKEga5tb+tTwPRCbGVlgy6A1hIkPDtDI1DysN8J0hBOLDX96EnIKDGDe61QXRzZtDnpOpQbfENaoSB3qPIKbbx5NLVT2j5ra5e+VoJBwiNdHvTM47KH58tMXBn89VwOhIJ22xho7Svzqeyx/kP1N2jSbbZ+OfQ7KFQ6JgwSurSLwSvD0zSqw3j3+da2J/syf7WNsiaIV63hLxKlrsq7XXwQT1myiLSn6gBCTBct10PElEbIO78fKGdUcqNzQWRJ4rdbXmvKgACeJF4AGthyyhKdz6bev249f/WiHX8BMvviey2t93mUr26LQh66dyCUcQjcGS/NK+Q==;MTEPGQaTZT7ymnckmzlfEw=="
+secured: "uerjzkZmiE8GMo0Dp2Vt0PI8Xjq5O8aqcHwkRPWyafmsKGo+mtajWyXKOXi3MW8cukjx46EE15cuc8AStQXLVG6uBvBjmhKh3xnzcnsdzUrDn8dj3BkbzwnmK/N5NyAxwUlSo0+r9lwXExiLjTlXbiY7rwPZ+L96t6tnesHP3bLGYgJj5uj2Nk9AyMKobkq2wRqVt/D6Q3vLm8WZX0nPBdiYt6vsDe6h7GXqG4qlN6Qsi85YdV6u2EtHJtZvCHfCcpwkTyP2z3MhXdYs8Zq/Bc5av+OPAIPj7qODWh3ZFpjx+XbWICGIk/1ybq1Y3aubri/AQf3fyM8v2kzwvOJrjq8S2YiWC3KzRaZ8O//x4gI=;/F6Rmjm+Tj2+wfwOnHbVIA=="
 ---
 

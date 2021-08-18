@@ -6,7 +6,7 @@ publishedDateTime: 2021-08-18T15:07:00Z
 originalUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
 webUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
@@ -92,6 +93,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "How transparent design helped a startup win CMS’ AI challenge — and $34M in funding"
+    excerpt: "ClosedLoop.ai, an Austin-based healthcare startup, raised new funding after being picked by CMS as the winner of its AI Health Outcomes Challenge. The company’s secret? Working with health systems to build algorithms that are explainable."
+    publishedDateTime: 2021-08-18T15:28:00Z
+    webUrl: "https://medcitynews.com/2021/08/how-transparent-design-helped-a-startup-win-cms-ai-challenge-and-34m-in-funding/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 31
+    images:
+      - url: "https://medcitynews.com/uploads/2021/08/Closedloop-founders-Dave-and-Andrew-smaller.jpg"
+        width: 1709
+        height: 1226
+        isCached: true
   - title: "Fresh off its win in the CMS Challenge, ClosedLoop.ai nabs $34M to build out 'explainable' AI"
     excerpt: "An Austin-based startup beat out some of the biggest names in healthcare to win a $1 million government contest testing the use of artificial intelligence. Now, that company, ClosedLoop.ai, has $34 million in fresh funding to \"pursue more problems\" plaguing the $4 trillion industry,"
     publishedDateTime: 2021-08-18T11:30:00Z
@@ -107,6 +122,6 @@ related:
         height: 3518
         isCached: true
 
-secured: "29PQpJR8UyaP7Zj5G3KBp7/sd4xxO730A26yA/Pu5tULqlnkqIEiiVQUl/TouNUDnGmehc93bF70d8KtbVVSYGLWMMcRFOMIwD1UJhvtbzq5CnRVc+eRBXm3f2kPPUd1bcPhSc550pu6tFJb8uo95R2BYbkqX0DuoEGSDxXjXPcyhVOuWdXXtc9vQeNuprjSVYsy6HPvBHauCpgcHTtMfc36CWOV0tkVuvB4JHg29G1p5Hpky0GrB1kzI/mnRTm9AJ6ayaig2Mmn9L8mdVkOVPkkaroszijodyZGf4EO12vUS+2GXKfpQgFs2PZhPnE7e5Oddy/QxON6oWv36NCSwZVVoBPlb1UkGQQgspE2hLQ=;EHzM70mQB7PtMHQ2Utv4VQ=="
+secured: "cxRnJhwC0LJ9b4WZ+wCYfxcvp0zxCka45QFI0upDhB8TvV+gEv3WOEPzeL2KHrUgdlW54mPhJFSKB531HgXnbSEyx91995EEnn+sgh3CDc/PbA7QSUNq8KiIj/Fdj6X38+0MJl9QX+kxasxyhHJzGn9Pbpf4mR7Z6al1CYlBUoIJ9YNgWDnxlqO3ZFOUnAYVmhHhEK7zuvJFxU8rDNv21i6b7gnLWvFwQvAKVyqOTp2XUMghyu+87NtbzS2NUUjvrND1+oY9kp6bnJTG3TvcOngCf7xCG+NKTnyMiZNg3cUMIyOTee1/zKuh7/pnz43AsbwMBBwQOiMX4WtFkq09VDaoTn+K98NiIr/Le2z7CXMFN3h8/wHTwTibtMvgZThTscoZFFeIci8fTWJXDxm2QHH1MLjktcmWcVoqUSXRTLsxDgZ0WRbAlW1cMsoxL3ET8DpFS/BK0hh53+IHWNLg5TBGN14PcHqSUh+LfLAWkZq/ZRbnch8f/FUXfRhpiCIfHhiCudzR9sClYdtaKUsmhA==;rgc/hkPZfsskrEsK3B6WJw=="
 ---
 

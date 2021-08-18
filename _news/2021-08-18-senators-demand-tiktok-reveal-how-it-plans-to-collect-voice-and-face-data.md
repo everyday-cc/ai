@@ -36,6 +36,20 @@ related:
         width: 342
         height: 240
         isCached: true
+  - title: "Senators Demand TikTok Reveal How It Plans To Collect Voice And Face Data"
+    excerpt: "SD., said they are alarmed by TikTok's recent changes to its privacy policies that automatically collect biometric data of its users."
+    publishedDateTime: 2021-08-18T17:45:00Z
+    webUrl: "https://www.wabe.org/senators-demand-tiktok-reveal-how-it-plans-to-collect-voice-and-face-data/"
+    type: article
+    provider:
+      name: WABE
+      domain: wabe.org
+    quality: 23
+    images:
+      - url: "https://www.wabe.org/wp-content/uploads/2021/08/ap21175557373801_custom-555100b4c2587836b7f704b6242f75a8467fcd66.jpg"
+        width: 2000
+        height: 1401
+        isCached: true
 
 secured: "6d/ledyEm2yinDxvVSKg0kPtkYGikIRwUkTPhpyyfqdgXXeMqXmC+uSCNCdkZOvWnGVFkxa0Q4VymxsclQDA8V5fv9hI+JeeUZF5IUxFzS8MmihI1Pkmh4qj6ce+kf6hh28msGsM6pH1YJaafZxQjL8+4tg56sALjppXMM4iRUUeL4U9NccwJix7Z8dBlZ7q9N6w3a2PcEw46Gt6sBxe6TjzZkjmCQ+x5KDUomKwFngR7HZOI4BA3/RWj1c3j+QoKGxcM9i6hFsniY/4BKNA0w6033lISIa3u3K1VSfKoBh0xFRv0ZQLSotKZUlc2zmwAsbcV3ZFerIpSyh+P4qr7IMNT42+AuG6S/nch27pxa2IB4N95yCHcDpYoSoi39QMtM8IqlXmekqm5Wnxkz30Fszm5IAse45Zro6/DfqXa8A+2DPqGz7rwblqpIZ4Bg/3wlXFscBgG2To0VD602MJGvw//fBu6Yk/xoLf+p8lcNkTuHJtUQlMU5IURnPWJ5GQ/f297GY9e9PBlvGiqHG+uQ==;25W9+Lu6n0Pq41nISo0Yow=="
 ---

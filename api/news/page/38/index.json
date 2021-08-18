@@ -2,6 +2,281 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-07-20-top-stocks-to-buy-this-week-4-av-stocks-to-know.md",
+      "title": "Top Stocks To Buy This Week? 4 AV Stocks To Know",
+      "excerpt": "The company is essentially an artificial intelligence computing company ... This project has since turned into Waymo. Starting from June, Waymo One, the ride-hailing service that uses driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
+      "originalUrl": "https://www.nasdaq.com/articles/top-stocks-to-buy-this-week-4-av-stocks-to-know-2021-07-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-20-nvidia-dives-into-industrial-high-performance-computing-with-hgx-platform.md",
+      "title": "NVIDIA Dives Into Industrial High-performance Computing with HGX Platform",
+      "excerpt": "NVIDIA's A100 Tensor Core GPU. Screenshot used Courtesy of NVIDIA It boasts an efficiency twenty times higher than the existing NVIDIA Volta generation, a feature that can adequately meet data analytics, HPC, and AI needs. It is multi-instance GPU-enabled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
+      "originalUrl": "https://www.allaboutcircuits.com/news/nvidia-dives-into-industrial-hpc-with-hgx-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/NVIDIA_HGX_HPC_Platform_thumbnail.jpg",
+          "width": 700,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-awesome-did-you-know-khaya-is-ghanas-first-translator-app.md",
+      "title": "Awesome! Did you know Khaya is Ghana’s first Translator App?",
+      "excerpt": "It also allows one to translate the same from the four mentioned African languages to English. An interesting feature of this AI beauty is that it goes beyond the knowledge base of the creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Awesome-Did-you-know-Khaya-is-Ghana-s-first-Translator-App-1312792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/689/68968036.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-new-toolkit-aims-to-help-teams-create-responsible-human-ai-experiences.md",
+      "title": "New toolkit aims to help teams create responsible human-AI experiences",
+      "excerpt": "The post New toolkit aims to help teams create responsible human-AI experiences appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
+      "originalUrl": "https://blogs.microsoft.com/ai-for-business/hax-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2021/07/HAX_MSC21_PICHA_remoteWorkplace_82783-1-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T09:11:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live.md",
+      "title": "Hear Startup Alley companies pitch expert VC judges in upcoming episodes of Extra Crunch Live",
+      "excerpt": "We know how much you love a good startup pitch-off. Who doesn’t? It combines the thrill of live, high-stakes entertainment with learning about the hottest new thing. Plus, you get to hear feedback from some of the smartest folks in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "originalUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/ECL-2021-july-21-startup-alley-1.jpg?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/07/19/hear-startup-alley-companies-pitch-expert-vc-judges-in-upcoming-episodes-of-extra-crunch-live/amp/",
+      "publishedDateTime": "2021-07-19T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-cigarette-butts-are-poisoning-shoreline-animals-this-beach-rover-may-help-clean-all-that-up.md",
+      "title": "Cigarette butts are poisoning shoreline animals. This beach rover may help clean all that up",
+      "excerpt": "The post Cigarette butts are poisoning shoreline animals. This beach rover may help clean all that up appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/europe/features/cigarette-butts-are-poisoning-shoreline-animals-this-beach-rover-may-help-clean-all-that-up/",
+      "originalUrl": "https://news.microsoft.com/europe/features/cigarette-butts-are-poisoning-shoreline-animals-this-beach-rover-may-help-clean-all-that-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/93/2021/06/Beachbot-image-6-cropped-scaled.jpg",
+          "width": 2560,
+          "height": 1462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T08:48:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-19-when-ai-self-driving-cars-sue-due-to-dangerous-roadway-conditions.md",
       "title": "When AI Self-Driving Cars Sue Due To Dangerous Roadway Conditions",
       "excerpt": "When the roadway has a dangerous condition due to governmental neglect and there are untoward results, maybe AI self-driving cars will aid in lawsuits. Here's how.",
@@ -942,282 +1217,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopias-efficiency-by-800.md",
-      "title": "HAI ROBOTICS Enters Australia Market, Boosts Largest Online Book Retailer Booktopia's Efficiency by 800%",
-      "excerpt": "HAI ROBOTICS, a Shenzhen -based warehouse robotics startup, which launched the world's first carton picking and double deep autonomous case-handling system, is announcing its first deployment in Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopia-s-efficiency-by-800-1030619297",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-enters-australia-market-boosts-largest-online-book-retailer-booktopia-s-efficiency-by-800-1030619297",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1576354/Booktopia_s_Distribution_Center_Lidcombe_NSW.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-19T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-edtech-startup-braingroom-raises-inr-15-cr-from-ian-social-alpha-and-startup-oasis.md",
-      "title": "Edtech Startup Braingroom Raises INR 1.5 Cr From IAN, Social Alpha And Startup Oasis",
-      "excerpt": "The startup will use the funding to add more components to the ... It is one of the very few multilingual online learning platforms in India to use AI Chatbots and Gamification to create a completely personalized learning experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/377702",
-      "originalUrl": "https://www.entrepreneur.com/article/377702",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1626684960-john-schnobrich-FlPc9-VocJ4-unsplash2.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/377702",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/377702",
-      "publishedDateTime": "2021-07-19T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-artificial-intelligence-in-accounting-market.md",
-      "title": "Artificial Intelligence in Accounting Market",
-      "excerpt": "This Report provides a 360-degree synopsis of the competitive scenario of artificial intelligence in accounting industry. It has enormous awareness joined to the ongoing item and technical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
-      "originalUrl": "https://www.openpr.com/news/2331197/artificial-intelligence-in-accounting-market-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U719996303_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2331197/artificial-intelligence-in-accounting-market-growth",
-      "publishedDateTime": "2021-07-19T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence.md",
-      "title": "AI Revolution in 2021: 5 Industries That Are Thriving With Artificial Intelligence",
-      "excerpt": "AI or Artificial Intelligence is a buzzword across the world these days. Several industries are prospering with AI implementation, and many others are gearing up to adopt this latest technology to start a journey of steady progress.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "originalUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/07/5-Industries-That-Are-Thriving-With-Artificial-Intelligence-.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-revolution-in-2021-5-industries-that-are-thriving-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-07-19T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance.md",
-      "title": "Weighing cognitive biases and AI behavioral analytics in finance",
-      "excerpt": "As a species that relies heavily on cognitive ability for our evolutionary success, it’s no surprise that many of human’s adaptations have come in the form of psychological mechanisms. One evolutionary outcome of this is the prevalence of human cognitive biases that can negatively impact decision making.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/",
-      "originalUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ai-money_-shutterstock_592403636-e1626678216479.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/07/19/weighing-cognitive-biases-and-ai-behavioral-analytics-in-finance/amp/",
-      "publishedDateTime": "2021-07-19T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-07-19-what-ever-happened-to-ibms-watson.md",
-      "title": "What ever happened to IBM’s Watson?",
-      "excerpt": "IBM’s public confidence was unmistakable. Its Watson supercomputer had just trounced Ken Jennings, the best human “Jeopardy!” player ever, showcasing the power of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/what-ever-happened-to-ibms-watson-7411513/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-18T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

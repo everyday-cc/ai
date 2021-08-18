@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/17/qualcomm-readies-5g-and-ai-drone-platform/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/08/Qualcomm-AI-powered-UAV-5G-drone.jpg"
         width: 700
         height: 450
+        isCached: true
+  - title: "Qualcomm unleashes first 5G AI drone on the world"
+    excerpt: "Building on its Mars helicopter technology, Qualcomm has announced its world-first 5G AI drone platform, with an early Verizon tie-up."
+    publishedDateTime: 2021-08-18T16:45:00Z
+    webUrl: "https://www.lightreading.com/aiautomation/qualcomm-unleashes-first-5g-ai-drone-on-world/d/d-id/771573"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/2021/08/771573/8044.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Qualcomm unveils 5G AI drone"
     excerpt: "Qualcomm has unveiled the world’s first drone with 5G and AI capabilities. The reference drone operates on the chipmaker’s Flight RB5 5G platform, promising cutting-edge capabilities, high-performance,"

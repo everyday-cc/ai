@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-10-truera-open-sources-trulens-neural-network-explainability-for-ml-models.md",
+      "title": "TruEra Open Sources TruLens, Neural Network Explainability for ML Models",
+      "excerpt": "TruEra, which provides the first suite of AI Quality solutions announced today the availability of TruLens, an open source explainability software tool for machine learning models that are based on neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-5c65312592de01bb60aac3975ece9d1d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-10-modeling-neural-networks-on-real-brains-makes-ann-improvement.md",
+      "title": "Modeling Neural Networks on Real Brains Makes ANN Improvement",
+      "excerpt": "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "originalUrl": "https://www.technologynetworks.com/tn/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "cdnAmpWebUrl": "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870",
+      "publishedDateTime": "2021-08-10T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks.com",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-09-eden-ai-launches-platform-to-unify-ml-apis.md",
+      "title": "Eden AI launches platform to unify ML APIs",
+      "excerpt": "Eden AI, a startup developing a service to unify disparate AI APIs from vendors like Amazon Web Services, has launched a new platform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "originalUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/1_dcGpsGf0Z5Ckwtu0SS2CCQ.png?w=800&resize=800%2C371&strip=all",
+          "width": 800,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/09/eden-ai-launches-platform-to-unify-ml-apis/amp/",
+      "publishedDateTime": "2021-08-09T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-08-09-how-machine-learning-could-help-develop-cures-for-covid-19-and-other-diseases.md",
       "title": "How machine learning could help develop cures for COVID-19 and other diseases",
       "excerpt": "The big idea We combined a machine learning algorithm with knowledge gleaned from hundreds of biological experiments to develop a technique that allows biomedical researchers to figure out the functio",
@@ -1232,146 +1372,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-08-02-desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.md",
-      "title": "DesiCrew scales up AI and ML service offerings for its next phase of growth",
-      "excerpt": "The Chennai-based DesiCrew, a digital transformation services company in the league of India's Tier I tech service vendors",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "originalUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/desicrew-scales-up-ai-and-ml-service-offerings-for-its-next-phase-of-growth/707636/?amp",
-      "publishedDateTime": "2021-08-02T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-deep-learning-in-healthcare-market.md",
-      "title": "Deep Learning in Healthcare Market",
-      "excerpt": "A new intelligence report released by HTF MI with title \"Global Deep Learning in Healthcare Market Survey & Outlook\" is designed covering micro level of analysis by Insurers and key business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "originalUrl": "https://www.openpr.com/news/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/7/U731952845_g.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2342651/deep-learning-in-healthcare-market-giants-to-grow-at-much-faster",
-      "publishedDateTime": "2021-07-31T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-07-31-aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases.md",
-      "title": "AWS Neptune update: Machine learning, data science, and the future of graph databases",
-      "excerpt": "Neptune ML is powered by Amazon SageMaker and the open source Deep Graph Library (DGL), to which Amazon contributes. GNNs is a relatively new branch of Deep Learning, with the interesting feature ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/aws-neptune-update-machine-learning-data-science-and-the-future-of-graph-databases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/07/14/62f347fe-6f0b-4839-ab2b-06e018ce2952/thumbnail/770x578/39a01d6b5ca478d2dfbafb1737c4d324/amazonneptuneml.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-30T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Machine Learning"
       ]

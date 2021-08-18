@@ -67,7 +67,7 @@ related:
     provider:
       name: New Haven Register
       domain: nhregister.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
