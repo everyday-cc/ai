@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
+    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "2KIIkXrntgYFigtNMmKGucydbDSICEz9duw7icKaqyiKbVh4alO5mAWc/rP2GLEVCCJU7zcT+/yfKza29ed+C5ZCPAsZcHrdUjHThRotnj/m9FYKAWu2tG9XfpYYUN37QlV3Ja2mYvW4sarBdrQKadkK8Ib1c8v3rPJIT6Hs3K/OrDpeTTZT/s0u+0VlnmmRr7oADip8M4mb/ru2hiTDaYgFZtXkwBlgLlbidvw8/Mn32fkicC89fXDR/ppYN5aGcfgbFbWbnSgOqqbFOCRMU3EBrq1fYT/Nu6hiCUGadHp20+BFJya7vWKwlXV2lYMbp07w6xuGFMQMPZfR2jV4zAJjFgA2UDQMWESPmRAiCfI=;BXIXzphHZTETCxJ3GWXExg=="
 ---

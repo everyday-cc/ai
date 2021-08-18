@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-
 webUrl: "https://www.neowin.net/news/microsoft-azure-government-top-secret-has-hit-general-availability/"
 type: article
 quality: 99
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Government Top Secret now available for US national security missions"
+    excerpt: "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US."
+    publishedDateTime: 2021-08-18T12:30:00Z
+    webUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/"
+    ampWebUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 89
+    images:
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg"
+        width: 700
+        height: 395
+        isCached: true
   - title: "Avaya integrates Microsoft Azure capabilities into its OneCloud CPaaS"
     excerpt: "Communications technology firm Avaya (AVYA) has announced the integration of Microsoft Azure (MSFT) voice, video, chat and SMS capabilities into its OneCloud Communications Platform"
     publishedDateTime: 2021-08-17T13:25:00Z

@@ -64,20 +64,6 @@ related:
         width: 480
         height: 344
         isCached: true
-  - title: "Latent AI Raises $19M in Series A Funding"
-    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
-    publishedDateTime: 2021-08-16T14:37:00Z
-    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "ClosedLoop.ai Raises $34M Series B to Usher in AI-Enabled Healthcare and Tackle Trillion-Dollar Healthcare Problem"
     excerpt: "ClosedLoop.ai., healthcare’s data science platform, today announced a $34 million Series B financing. The investment round, led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
     publishedDateTime: 2021-08-17T10:02:00Z
@@ -91,6 +77,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/7/b3/7b39322b-9a77-5c23-8ca9-34c4ef28a821/611b8ce50c2f9.image.jpg?crop=1699%2C956%2C0%2C131&resize=1120%2C630&order=crop%2Cresize"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Fresh off its win in the CMS Challenge, ClosedLoop.ai nabs $34M to build out 'explainable' AI"
+    excerpt: "An Austin-based startup beat out some of the biggest names in healthcare to win a $1 million government contest testing the use of artificial intelligence. Now, that company, ClosedLoop.ai, has $34 million in fresh funding to \"pursue more problems\" plaguing the $4 trillion industry,"
+    publishedDateTime: 2021-08-18T11:30:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/fresh-off-its-win-cms-challenge-closedloop-ai-nabs-34m-to-build-out-explainable-ai"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 26
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1629232024/ClosedLoop%20co-founders.jpg?naOpJRPj.BYyatrhTLaloA6I1dmkdZFk"
+        width: 4903
+        height: 3518
         isCached: true
 
 secured: "QbxdqGxF1Zwxl0ZmtUiLQWfzvr9wtNiyu5U/+mJZPyJeY3EVhjsN7BJj4OwppzHU4IsGxQLoC8G9PcuO5Edk96aAwByDU6uVYEqSznZ8+SPitDJhp+Lnv33EiwMgZcNC3APnvNvrUElPbqyXoY3gyfYqfnz5/dFylWJ4Rf4WXOn82p1bmgkh/TQYZ9yYxUPZmLJrlOkvKoEfB3pGT/TtDufWXIp14YdedrVFZiPDwzZoLZJaKSwP85L5MWR5Ix/rG6B2fmnaps43jyCS45fuQwkIwafL9yseMBGqwp99IM6hSw9RActXf30Ladz7y4YcxUbI8qiV+5svH43B1ZG2aABO/05p5J6WqVTLJPFZZ3ZMAgIhf79WLl/c2ZZcPiUGTc86nhynylc+++bbTjZf7zeb1U5vrnQtKwW8YlN7YkXFcoh4VUaGZhBRY05jZWZ/wCa0XbsFr2aR32qItUaF4y4PNgxNcLwseleoGvDzfEXGExC5mr+mxKbGFZ0gxgL/AMbYmCBG1tIIuPHYLbGrIA==;jp+x6Fbi0Us7vrW4xa5E0g=="

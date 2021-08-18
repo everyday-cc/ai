@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "How Conversational AI Works and What It Does"
-    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
-    publishedDateTime: 2021-08-16T12:41:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
+  - title: "Operationalizing AI Ethics, No Longer An Option But An Imperative"
+    excerpt: "As I’ve written in my “On AI Ethics,” series, machine learning models that aim to mirror and predict real-life as closely as possible are not without their challenges."
+    publishedDateTime: 2021-08-18T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c9d4051688c7059342af3%2F0x0.png"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
+    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
+    publishedDateTime: 2021-08-17T13:21:00Z
+    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+    images:
+      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
+        width: 780
+        height: 470
         isCached: true
 
 secured: "yqlQsQ3HPUmWQs+tG93E7nQ1KNIHf9AhoeNmcvq1D0c5jNROOVBrldSn+ZPg+cV1+p8dirNDtu1FoleXFrZf+CxIA2woZrr9qkWml2RN2urPQFW1zg5VJjZesqMzIL7T317PWcA71HauXhRq+VALVxNh/WPPT0xwMiQR4H9SyrvU87SlqswfrJQdfP7dw4/nI1NVnRiSIF5Du1ZjSa9WPtPDqmZcf27S6l7Jt+Ok1j+26HukIWvF3iw3qRlkC8EvmHDr2CdG4/fBn7o6/jieY76m3x5LyKIP7e2d22GFrV5VUxWF9y6nh9z4ORoGhwzZoXiCJ+eASAmdxDc138bSwx+GSQwn21qOix74oY2BHm9VrmWdHl3MrMurX/yHh0SD1Z0QPxTdi0ylClwuFbEk86fS3IHe+GbC4EwxeI9H+WtOwLIRBZxaawkgbZ3OngkWqyEvm0EpLi9U4QHok1yI9p5BP0Fa8TNp6TqLcmWEzjz4KAN6LbIe4ah0glkqb6mF26VjLGMTmW673lPCJwa98A==;52v0lIVQLLcXDMwVTzGorw=="

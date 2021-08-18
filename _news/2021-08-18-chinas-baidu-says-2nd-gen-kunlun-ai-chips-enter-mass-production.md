@@ -1,0 +1,58 @@
+---
+category: news
+title: "China’s Baidu says 2nd-gen Kunlun AI chips enter mass production"
+excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+publishedDateTime: 2021-08-18T08:46:00Z
+originalUrl: "https://www.dealstreetasia.com/stories/baidu-ai-chips-256357/"
+webUrl: "https://www.dealstreetasia.com/stories/baidu-ai-chips-256357/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: dealstreetasia
+  domain: dealstreetasia.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/04/baidu-1.jpg"
+    width: 976
+    height: 551
+    isCached: true
+
+related:
+  - title: "Baidu Says 2nd-Gen Kunlun AI Chips Enter Mass Production"
+    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-18T06:12:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-08-18/baidu-says-2nd-gen-kunlun-ai-chips-enter-mass-production?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 84
+  - title: "Baidu says it has begun mass production of 2nd-gen Kunlun AI chips"
+    excerpt: "Chinese tech giant Baidu said on Wednesday it had begun mass-producing second-generation Kunlun artificial intelligence (AI) chips, as it races to become a key player in the chip industry which Beijing is trying to strengthen."
+    publishedDateTime: 2021-08-18T09:32:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/articleshow/85425603.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/baidu-says-it-has-begun-mass-production-of-2nd-gen-kunlun-ai-chips/amp_articleshow/85425603.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-85425603,imgsize-9644,width-800/85425603.jpg"
+        width: 800
+        height: 533
+        isCached: true
+
+secured: "ua5DXyJbxuXbUHhGmZWSdnXTnePmxzL+v5f71blYWkufefT5FnEUMBCsGiLTiGinzEk3EcldQMQUCzPbB+T8mW8G1MHP9qxOmhORc1xEKTkLpZzuTwixQVPWH/peZfRmR+JOrzgTmkL7zrOWiJ9EAb7vZqFcBpWMLQPgYFlRLn+sRi67z6/oTaxPtXAqveO+9CjFjXYF8+n+KjN88H9EiWe5J/JeDBeF0HCrPO4VV+Cf6eCfz5kYokYyjRaMWokwxvFKyYbHjs2ia59EJjZR8tlv3CwHBu13hGQhkUw80Jy74z1ZeMV5DNdZVfAddk6Dut2AfkaWVQlnBfNtB8xE28tfeXQrtefSzYotc+55mpY=;dlWIM9NCHdBLThWCCi19kQ=="
+---
+

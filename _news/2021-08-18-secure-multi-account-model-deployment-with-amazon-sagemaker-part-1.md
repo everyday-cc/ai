@@ -1,0 +1,105 @@
+---
+category: news
+title: "Secure multi-account model deployment with Amazon SageMaker: Part 1"
+excerpt: "Amazon SageMaker Studio is a web-based, integrated development environment (IDE) for machine learning (ML) that lets you build, train, debug, deploy, and monitor your ML models. Although Studio provides all the tools you need to take your models from experimentation to production, you need a robust and"
+publishedDateTime: 2021-08-18T13:37:08Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-secure-multi-account-model-deployment-with-amazon-sagemaker/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/07/20/ML-4613-image001-879x630.png"
+    width: 879
+    height: 630
+    isCached: true
+
+related:
+  - title: "Machine Learning at the Edge with AWS Outposts and Amazon SageMaker"
+    excerpt: "As customers continue to come up with new use-cases for machine learning, data gravity is as important as ever. Where latency and network connectivity is not an issue, generating data in one location (such as a manufacturing facility) and sending it to the cloud for inference is acceptable for some use-cases."
+    publishedDateTime: 2021-08-16T17:40:11Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-at-the-edge-with-aws-outposts-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 121
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/10/ML-2440-img1-1260x592.png"
+        width: 1260
+        height: 592
+        isCached: true
+  - title: "Secure multi-account model deployment with Amazon SageMaker: Part 2"
+    excerpt: "In Part 1 of this series of posts, we offered step-by-step guidance for using Amazon SageMaker, SageMaker projects and Amazon SageMaker Pipelines, and AWS services such as Amazon Virtual Private Cloud (Amazon VPC), AWS CloudFormation, AWS Key Management Service (AWS KMS), and AWS Identity and Access"
+    publishedDateTime: 2021-08-18T13:41:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-secure-multi-account-model-deployment-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
+  - title: "Patterns for multi-account, hub-and-spoke Amazon SageMaker model registry"
+    excerpt: "Data science workflows have to pass multiple stages as they progress from the experimentation to production pipeline. A common approach involves separate accounts dedicated to different phases of the AI/ML workflow (experimentation, development, and production). In addition, issues related to data access"
+    publishedDateTime: 2021-08-17T14:51:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/patterns-for-multi-account-hub-and-spoke-amazon-sagemaker-model-registry/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/03/ML-3798-image003.jpg"
+        width: 621
+        height: 369
+        isCached: true
+  - title: "Deploy multiple serving containers on a single instance using Amazon SageMaker multi-container endpoints"
+    excerpt: "Amazon SageMaker is a fully managed service that enables developers and data scientists to quickly and easily build, train, and deploy machine learning (ML) models built on different frameworks. SageMaker real-time inference endpoints are fully managed and can serve predictions in real time with low"
+    publishedDateTime: 2021-08-16T21:07:33Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploy-multiple-serving-containers-on-a-single-instance-using-amazon-sagemaker-multi-container-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/06/ml-2800-img1-1089x630.png"
+        width: 1089
+        height: 630
+        isCached: true
+  - title: "Create Amazon SageMaker projects using third-party source control and Jenkins"
+    excerpt: "Launched at AWS re:Invent 2020, Amazon SageMaker Pipelines is the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). With Pipelines, you can create, automate, and manage end-to-end ML workflows at scale. You can integrate Pipelines"
+    publishedDateTime: 2021-08-17T16:43:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-amazon-sagemaker-projects-using-third-party-source-control-and-jenkins/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/08/12/ML-4590-image003-1242x630.png"
+        width: 1242
+        height: 630
+        isCached: true
+
+secured: "VJaasdEB6+bJrDzaGnVmUHwKj3jTNvOnUfvRqnW2AadVwoTuujUWREQQzxGqtJGfY3sEsp4qDWXs/kOkNLZW7UEkqBiBTCYhJqAWaPvbWpBkW0G1kOeBuqNRrqIVK0x6zBmIBDK0/+PGaeBvaUbmg2KIqsKjexdTCdjfLtUjHlj0iTq46OLuwFw1+XzCRNXHDTx+rfLyJWdp1lT4sRDMrcjEAZlMk9HpwEJH3fYl4eGVh8QAepD4rW6N5CpLh7rpIDNWAYl6D/RRbKnghIb1s2DmeDZw8+InI0i0k4EBcR8/xAMDlvCB9mcrngvhxyPUJnOY3NjvA6YuKdg9r5+FCWpOYuaqIGFSjiIkBsgH46w=;yJ4RsLRpzvIBOm6+pCZ8ew=="
+---
+

@@ -51,20 +51,6 @@ related:
         width: 1025
         height: 684
         isCached: true
-  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
-    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
-    publishedDateTime: 2021-08-13T19:36:00Z
-    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 19
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "Eot7kUpcLyuPDq2MHzxTHV1wFADgCmBos1VvA7X6oqk+9OLYzxP+5YPzMYCnrjyBM+n842qL9W4BRO7jj4rexcgk45+U0O3wLcdvQ8DJw9XARJo6TcwwUS+zeqBHxEwtcmr4WG8kWCZYDw72j8PItqY+ukqBmX1p48lNdfS/N5oEeqoBbj0zJjnXf72e3DdS2Ltwxap0PJ1lmcUMrwDJ7/VyZ+N82DtqtnbayJ+sVm4s6Ciak+kp1HKslql34MS/27y+JGo+83TUD4i3SKPwqu2HUJ2Zz4n7UKoClpaLgPZxIxPxnmWT/EiMfMPkdD6+daSudfqNlwRntHto0n8FSo1l2hmCrOucwo1A3t4fjwQ=;irDDX+2vd57VwgV4If8IXg=="
 ---

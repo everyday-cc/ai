@@ -43,20 +43,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "11 fintech builders join Mastercard Start Path global network to scale innovation"
-    excerpt: "Mastercard opens door to startups around the world looking to grow platforms across open banking, predictive financial modeling for small businesses, smart rental payments and beyond The award-winning global startup engagement program Mastercard Start Path welcomes 11 fintech companies to receive dedicated support,"
-    publishedDateTime: 2021-08-13T19:36:00Z
-    webUrl: "https://finchannel.com/11-fintech-builders-join-mastercard-start-path-global-network-to-scale-innovation/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 19
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2020/03/thumbor.sd-cdn.fr_BgQOLhQt-bzrhGdwOq91t2hMwmQ_fit-in_1600x1067_cdn.sd-cdn.fr_wp-content_uploads_2019_01_MasterCard.jpeg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Climate FinTech hires all-star management team"
     excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
     publishedDateTime: 2021-08-18T07:23:00Z

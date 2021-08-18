@@ -59,6 +59,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Western states face first federal water cuts"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a"
+    publishedDateTime: 2021-08-18T11:54:00Z
+    webUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/"
+    ampWebUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 44
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP21226282995542.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "When states face water cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
     publishedDateTime: 2021-08-18T01:15:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
-        isCached: true
-  - title: "Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
-    publishedDateTime: 2021-08-18T00:42:00Z
-    webUrl: "https://www.texarkanagazette.com/news/features/story/2021/aug/18/western-states-face-first-federal-water-cuts/884063/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 24
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/18/19916115306688e8b7c084dc29a03c49879754cfa2796540791_t1070_hffb9fc9c2efd7f7b5c234bca07ebc1ebd0ba54c9.jpg"
-        width: 1070
-        height: 713
         isCached: true
 
 secured: "msSwYXmCjCURvl4Wpbui79qi3p1cEGaXRdp1FOOsu8qNLVgHKNeQZBlY+J8wpi/h+5/F+rT1SIeSeU/oir719JfQulxl4R5COen6DgTpun4bLg/oyWYh6skGn01p4CQD3vvaaPlvMNewXUuCKo73/thkCYrNM477PcqPDW/iiHdoqxix3I+1v4PBh+KbRJGyhngvTC+apcmeYWmofHzhdaH3whBmCKlN+vO33gOBDPkrC7anHc8oM23p9Aa5EqfQaY7aul2Idag40EH0RPeo8TpRBaBxJghaSAnQzIsiUVP7gcp7F3giClb8360MwGFJvzgxjw/sna9tCIFlkDISCMp4XV11m/AWEbzF7nbNkFQgR9SbpD70vQwlRonhv/cRbuL7eE+v+zO70DpS0t2pBqfRgnny7QLO8ILnXKEzbOQLkFTHSk3fSu714zZRjfBakeqf0PBD2FaAB+RgeqpNKAKCYahcav7ZGqHCDV92hjKIpS96cCWp1gLOS0Sp7vcm1r7z2Ad/ZU+StST0FoLlCQ==;ce0Hu5mJrDG0pLKDQwEN/Q=="

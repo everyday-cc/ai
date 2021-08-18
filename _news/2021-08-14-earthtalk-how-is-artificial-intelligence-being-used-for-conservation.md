@@ -9,7 +9,7 @@ ampWebUrl: "https://azdailysun.com/opinion/columnists/earthtalk-how-is-artificia
 cdnAmpWebUrl: "https://azdailysun-com.cdn.ampproject.org/c/s/azdailysun.com/opinion/columnists/earthtalk-how-is-artificial-intelligence-being-used-for-conservation/article_f7d3e7c5-6887-5a7c-b75b-f9311d5b13ca.amp.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive Applications for the Second Consecutive Year"
+    excerpt: "SANTA CLARA, CA /  / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
+    publishedDateTime: 2021-08-18T13:18:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/270773662/auditoriaai-named-to-constellation-shortlist-for-ai-driven-cognitive-applications-for-the-second-consecutive-year"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 17
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1629178843036.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "aceX5oP6ps51NOdsJfqHTxeIKbxSEtuLgjMJlTljrxxNH9/IQCYTpVBI2066+C5t3M5fBwVHArEZj1VYBHgZ9/VGHyxxYQTa9/KAoP13n28Rs4OwR5BzD8/nYwB2x0g2QudX6jXIIBVrW9tYNSnxMg8vvUn5NUyx4lX/fW3jXc5F7Bm37YwMZ6PKr06/nh8bM323lHgYdLGbls6ix32XXoRXeqjyJEr0hjf+cs5+zlIoT8Q5sIuLZdiOskFW+YJiwnryLo+GSwt09spWZVGem19modSk7NMyQcUiu3IPYdOS119oXS4ncUwg3vSK2bsBo+qf3TWdKJC7/nJb3CZ1TcH0xG6Mtkn1uHu7enCcDJebwvdUtuw+TQBpL/7NsFJqmG8ZS/ct5SPNoVSPXgwYcqBCnHMEBOByZyrv+Iu2xDZs/S1EICQrnZtj8bsfXAf1LeZ9fZLYyfniL4sYYYXhd9BxCphiXqOxOaUkIApUQvjPPFNlBYh2LuCHV7Yt2hYj6B9oXDuYQvIQAQoTGZ7dsg==;W/aWib0FsYv6v4iMez9MsQ=="
 ---

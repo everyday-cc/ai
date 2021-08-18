@@ -55,6 +55,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Driverless? No, But How About the Car as Co-Pilot?"
+    excerpt: "Driverless ethics are a tricky subject ... Major carmakers also have teamed up with artificial intelligence and software companies. Ford Motor Co. and its partner Argo AI plan to start a self ..."
+    publishedDateTime: 2021-08-16T17:58:00Z
+    webUrl: "https://www.washingtonpost.com/business/driverless-no-but-how-about-the-car-as-co-pilot/2021/08/16/744a9cac-fe8e-11eb-87e0-7e07bd9ce270_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "9XhTDPH2rdb0qXH8iqhmIDAUx7//3m253/Hm3DxiV/ydsgWSQkN9AntEc28cg2zbePwCcrhhqrIBn35ScHf9VzmIioVTYbTubILGRvyGTxEz5N5wyoYAqW8XVM1K1QpYnp+K3UKR/HDNA4fHMXcsDGKsJ0sT4O27sWqWVSRloEFVg+RHRqwOcXEyIJnJfvYJIzTQJuEewBMC4jkwHaPA9e9LyeFzTbT/lf0nNLzzSFpml5hiEmfG4whVA0mKPaB7na9obhejcVj7tYftFvFzDUIzQfgd9XtO6gCYjVQc4xiYIK9syjJ68B0QaUgeP0HbggQWfYievdLUTPDgqmO5b3PeitPCR+T9zHGR8TsnFXu0TVAGc1tusJ2aHdujnUDuCxoZIfl2b5SCBrwgf2LuvwjlIx8nnTez/CBw5/o1YjkWzFM2FucwqfKqsnmlCU7sgACqGPY6il3ejGG1QFLvbczEiylIbOLFX7Fs/uiwNJTEztPJKDdOTsYtZuC8d3CZumyzZaYc1KtTtkjyC8Ei3g==;rWUggaJPeiee1i7Yac2zBg=="
 ---

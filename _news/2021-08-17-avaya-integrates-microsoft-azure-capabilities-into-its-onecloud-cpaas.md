@@ -41,6 +41,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Azure Government Top Secret now available for US national security missions"
+    excerpt: "Microsoft recently announced that cloud-based service Azure Government Top Secret is now going to aid national security missions in the US."
+    publishedDateTime: 2021-08-18T12:30:00Z
+    webUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/"
+    ampWebUrl: "https://news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
+    cdnAmpWebUrl: "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/azure-government-top-secret-now-available-106117/?amp"
+    type: article
+    provider:
+      name: TWCN Tech News
+      domain: thewindowsclub.com
+    quality: 89
+    images:
+      - url: "https://news.thewindowsclub.com/wp-content/uploads/2021/08/azure-govt-top-secret.jpg"
+        width: 700
+        height: 395
+        isCached: true
   - title: "Wipro Has Earned the Kubernetes on Microsoft Azure Advanced Specialization"
     excerpt: "Bangalore: Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading global information technology, consulting and business process services company, today announced that it has earned the Kubernetes on Microsoft Azure advanced specialization,"
     publishedDateTime: 2021-08-15T06:12:00Z

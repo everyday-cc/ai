@@ -6,9 +6,9 @@ publishedDateTime: 2021-08-17T15:30:00Z
 originalUrl: "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/"
 webUrl: "https://siliconangle.com/2021/08/17/conga-buys-ai-startup-helps-companies-understand-contracts-will-impact-revenue/"
 type: article
-quality: 29
-heat: 29
-published: false
+quality: 129
+heat: 129
+published: true
 
 provider:
   name: SiliconANGLE
@@ -23,6 +23,6 @@ images:
     height: 1281
     isCached: true
 
-secured: "7GcGKS6/pFz/A6YyT/fy1VBVIxy7i0eG/FcijBMyCv5BXPtxrrQfA2lre6iXV4bEOZFUhdHfCjWWPG3CwrgmNMKQ/Kooo2o/8V4b2okd0bsaMa9b0G8gm9kXYFUkZT6IcEAaAdhFd8lY2YcKLrX8e26ke+05LSuxv6Zncp5+MMrVOK13V4CErNKpln5hc01CMWGLRnAb2wqmQjzUWXd10p2xRbQqqAe9VvOfEuD3Eoh1E4dYkyVn4KYXzlVs6Tnceust17J4FmiVdCKOuJapDFkvu2t8kUKuAyWoRJRTcN/3hoKVnZ5KFMuyyVBpRRD3O2pSo9xXH0wX1WD9j97c9fFfd34KmoMPiMaLWf9Ne4YrezTsXG+9F2lCzpkhtVgYMy9qCnHfHmoB7HOoJMg4LdcfL5LW3HWVdcZqEsnKathl8wr/qFYwhnj6FNrSc5tuFek63UlUm/vpvVE32qFGXwjx65n4U7IECrrIv/cNH7x9l9VcLHvQCuFTbQ3K5mRs/Ivqvc3tvg5/OYtrvbMvyQ==;jXsPheFKzW9xUh9GYdbRMw=="
+secured: "Rzp9tX7T+o9RFsxThexAm36xeIAMcMLR8fMvIcECtFpb7BHQSAB7TI0o6escJA9rb7exAKrR+MO3RCfuIzcIF6OEncE8IzvAur4CYGsPz+SNWFrN+eux6k8aphtCaEoSQPDLP4JUJH5fY4mNJjmvrZKIPS8NnYWfwfxIZG6pxWzTdz3LeDIezv6X71JiIlVHDyctXLkRY4tY+Pr9D8LY9Mx+9oX9pPKSbVW3BSpRvE6dsFiz8yD7whdfSd5EozpHHnQ5FOxp0p+5xLID7qkOzT9DBLtT5gIR0sBkguHYmT/C0HhFvIX4NF6N/gk7XqsP/NDTCq7p9TWoC5eKRwSOVpBqj8z2zUkcXk5TfjdlNbgI3XUJl3ujaAukHz7zF8bsImRfTJI0VpeRDRyr1l2xQpcKbvLSnKdKb57Pf3ILgVdGNN8WQGhN2ionLyIHj1CaKpaSyiX7wgOj7aaIs7+drpZuXn1AEld642allnJwv2aUH1Uska6mzkhnC64Yn8z128dfC/v+0N+tobCyuBn6/XaRJIbu/0kASfz2Ywh+oJA=;t3ylVZV3PsRatIsmkG/8nw=="
 ---
 

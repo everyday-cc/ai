@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
+    excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
+    publishedDateTime: 2021-08-18T13:01:00Z
+    webUrl: "https://www.pr-inside.com/auditoria-ai-named-to-constellation-shortlist-for-ai-driven-cognitive-r4843691.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 38
+    images:
+      - url: "http://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "One Law AI Shares AI Software For Attorneys"
     excerpt: "One Law AI is proud to share the future of the legal industry: Amelia. The company was founded with the intention of bringing Artificial Intelligence (AI) to personal injury law firms. More information about the company can be found at the following link: One Law AI For Law Firms."
     publishedDateTime: 2021-08-18T01:37:00Z

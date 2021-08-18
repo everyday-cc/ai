@@ -42,6 +42,17 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Artificial Intelligence(AI) In Healthcare Market 2021 Precise Outlook - Intel Corporation, Nvidia Corporation, Google, IBM Corporation"
+    excerpt: "The MarketInsightsReports has published the obtainability of a new statistical data to its repository titled as Artificial Intelligence AI in Healthcare market The comprehensive report provides useful insights into Market growth revenue and market trends in order to enable readers"
+    publishedDateTime: 2021-08-18T12:58:00Z
+    webUrl: "https://www.openpr.com/news/2359203/artificial-intelligence-ai-in-healthcare-market-2021-precise"
+    ampWebUrl: "https://www.openpr.com/amp/2359203/artificial-intelligence-ai-in-healthcare-market-2021-precise"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2359203/artificial-intelligence-ai-in-healthcare-market-2021-precise"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
 
 secured: "AV2WBIBfuHuh5Po+v5VF5xZ1g51TwtrqwRH7XqXh1MXyOyLqCtLM0rQD3Fq8mFditJvGyJR+kYHaXeC0PPFTZyU+g76ovu9bFQ67nn5gWgnxH2LWFzSLaS6GFqk8+NsBv9NjGl9f2r/eEpdak0fADo7eX8uDeyLbRnHgT/oQejOLRU8wS68xaRzZ1hNjPREY/v5jTKUjSemHb3CfgQVzLPHqEtHsTwP3ATEvxmpTJUEqYws8K0Hkv0l0o+eyNnoSkIUkbFS+VgKdQyD8a3XUETYNlxleHwYrKyjahGIO1P9dqfDMOsT+AEOS2DO2oBYkdthujGvYTCgWmzVQ+RN98LU+aufCxVWWLgaGVUap3S6+5UKVpDfY5a3TKAF1qAQUENI/t9n1/Ej8AG9NY05fXqqabrspojjlEVw9dnJ+m4VTH0oE9uyH1MvrNpSxQ99+5hKfVSl5dix0NHnMpSD5++Rzen1j6u5DTkgWlnvx6aiXInejEJFzeuvz4+t41L4Dbvu8Cw8qF71MXuTKNv6kug==;iHAOleV3Mj5MNDSP1gUUCw=="
 ---

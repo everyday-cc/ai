@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Peak Fintech Signs Agreement to Acquire Analytics and AI Company Cubeler Inc., Paving the Way for Its North American Expansion"
-excerpt: "PRNewswire/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
-publishedDateTime: 2021-08-16T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
-webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734030"
+excerpt: "CNW Telbec/ - Peak Fintech Group Inc. (CSE: PKK) (OTCQX: PKKFF) ('Peak' or the 'Company'), an innovative Fintech service"
+publishedDateTime: 2021-08-16T12:17:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
+webUrl: "https://markets.businessinsider.com/news/stocks/peak-fintech-signs-agreement-to-acquire-analytics-and-ai-company-cubeler-inc-paving-the-way-for-its-north-american-expansion-1030734071"
 type: article
 quality: 41
 heat: -1
@@ -57,6 +57,20 @@ related:
         width: 880
         height: 495
         isCached: true
+  - title: "Airbus’ UP42 Partners with Indian Startup HyperVerge for AI-based Satellite Imagery Analytics"
+    excerpt: "This is the 11th successful partnership industrialized by Airbus Bizlab in India and the second partnership between HyperVerge and an Airbus entity."
+    publishedDateTime: 2021-08-18T13:10:00Z
+    webUrl: "https://gisuser.com/2021/08/airbus-up42-partners-with-indian-startup-hyperverge-for-ai-based-satellite-imagery-analytics/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 26
+    images:
+      - url: "https://gisuser.com/wp-content/uploads/2019/01/GEOjobs1-1.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "University of Maryland, Baltimore (UMB) Grants Pumas-AI Exclusive License of Analytics Platform to Enhance Drug Development"
     excerpt: "AI, a University of Maryland, Baltimore (UMB) startup company, has been granted worldwide, exclusive rights to enhancements to Pumas, an end-to-end pharmaceutical modeling and simulation platform for quantitative analysis across the drug development lifecycle."
     publishedDateTime: 2021-08-16T12:40:00Z
@@ -67,6 +81,6 @@ related:
       domain: businessinsider.com
     quality: 21
 
-secured: "o+jZ6AAQj/WmU4HzYQKCJt0N4rB1YGJUDrFvFd7ocXDA32oksBAO3N/E1K27CTVjwBEJsHhiwQ5w1bfvEzJbhpUAOujiMM5VFVnmi+da8vqwW2leOgVPq5WqHne4BABDevnDDKXzGI/pUsd8/L1nJ3svtKwUYL4CftxjzdVLQJ2/Lbs6Q5SIkhSTeiz/TaziMYZNliEuCirTHDrsGxSWJNXDzOsJ9fjHdTMEdgUsC/X7pb3oWL3W1Dr6p4l6mAMm/AzlD6TYPbh5QnopdV321J4Cm+Xo2+0tGHq+TJX31/KN/mIdkVP0REk24jWYRvtfBhMStravrDf5jxcPCISCf6Fh3CM+9YeyLjgzBUAAU6E=;RvL9CY3fsYsfafdJ/R1lKw=="
+secured: "ldRwJMTcXgquDBiOrgK5ak+8KY8xVdekjnbaeBVwEl11Z/9Fcse8mvXp3L7CE1IioSIoe0bVMjO7X5KL4wCtxhupkwN+s0ieaK4on6c0AB41p7uba/NUBu17PWwnZ1bWPt5bpVMDAq7WyaSenqZ87sLMyYUv8gX+p7K48I7FyvylhCrpZ7Cxp8EVF3oBjY8ANtXQKYvl7SCCTier3b/1rRevZi6ruwOTMlwb5xClt3caba2eKtzwUjhiz/w4CkoyJtiehL3OVXcuBxN4AFoqioXjolC10/7KVMKKE8v2zytN15lAbXUkgm+6tsuGYpExwHqM/DULbJorH5YJFutrcqxgDvuYyAgnm0/g5lCQmKY=;NJoeJEx8AmAOwY7S7Valxw=="
 ---
 

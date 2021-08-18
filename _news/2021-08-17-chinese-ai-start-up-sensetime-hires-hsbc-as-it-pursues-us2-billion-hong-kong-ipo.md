@@ -8,8 +8,8 @@ webUrl: "https://www.scmp.com/business/banking-finance/article/3145370/chinese-a
 ampWebUrl: "https://amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3145370/chinese-ai-start-sensetime-hires-hsbc-it-pursues-us2"
 type: article
-quality: 82
-heat: 102
+quality: 182
+heat: 202
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gMWLanJbjA6J+qUGnHlWjlFWa44XJusZ44gFblB/TrrFkjYH5FyObSc+THHwNZQG+Kc71KCestmEY9r0Ht2rKnDv9vmKqHGXUbWD7ZGWgNoGhmjC3Ha37P8ezXpWW6/Y9PWWsdElhZTcygIwAxNmUqgThWuNO2a/Me8lFvicP2Ykc5Oy1YGk+4i8+vjDp9LvXTgSOyZ0X5VlseN9cgnQXQX3hwA2OG86v8DhX0SVraX+USX3bMwJqXfU5cdgJUmMd4IdulAgweX/+ajaO2mbFCTDLJ1aAlRiGSj2rv7tlIDL3MaRBB3D/eds21NYgpiBcGznCIqlHCd0wmDAqhymMYTTGoO/EXfAJ9dfovbx62ihRBWh+zO7XENvE/y2o5fL3vzkZMPN4mAmBm57jmYEjaLOyu4xhLLlFfIhi3KYRQDWuc5+bnuD4bHb1O53cdGH/CN4UuPIxcc4Ujl0V5d0V8fvvvkqoP7OHOT5/3YjAfeKsRff8vrQ1toELp1lfUsKzhgSHUeiBAVHSAgnz45jHg==;SHt6H56cemIVYGu+j9WBNw=="
+secured: "pi92AOW5Py6FO+mQea3H67EhvGbZEBd8jrOSIkSAhIVqI8TEQhh3XS77YMGjWwTHw2PGRManCX2i6PnKGacXboBOkM36LbMUHK13sBdz2qewZJW/2hFAY+jB63pq2ogRfSKuZ7G3VjfBmor554a5jFxITIHAnP71AGfTzjL6rCYGTz+3fynHYwq1mpNWwaKGc4NxJQsB5yAplL94ulgZyP/2iDRJ3jjbcOrntZiZ9v2V4Nws2ASWyEX7QYhhbfAdoxj9am+5UvLIVs6eA0t0EC4Nc6qyIagRlA2qqGOKR8F2NTh2bRM49EBItxql0bsDyN01kEBcZtSTqVkk0Z6HduKNU/z+z8/vOhLww4Vwpb7qI3uHr6AGA1Ordbri5SvQyGRK/2KFrpaUmaPaIoChCMG1SiJNV5GxFNBKmD1I715P9x1DEG9sYKSyKN9WW5LWtD/idNkd2XwGHOW8gl1PcgDrLYeYaz3oR7UIcIT0XZxm6rirGOSTvMm7IWIZHb+96aRkCGYaDjQy3s95kAjTI2OjxGm8RrnCAd/fZI9DUo4=;M414QF1ddMp/SyWU4QyiDA=="
 ---
 

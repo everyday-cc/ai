@@ -2,9 +2,11 @@
 category: news
 title: "Modeling Neural Networks on Real Brains Makes ANN Improvement"
 excerpt: "A new study shows that artificial intelligence networks based on human brain connectivity can perform cognitive tasks efficiently."
-publishedDateTime: 2021-08-10T10:15:00Z
-originalUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
-webUrl: "https://www.technologynetworks.com/informatics/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+publishedDateTime: 2021-08-10T10:53:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+webUrl: "https://www.technologynetworks.com/neuroscience/news/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
+cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870"
 type: article
 
 provider:
@@ -16,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?cb=20210810"
+  - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/modeling-neural-networks-on-real-brains-makes-ann-improvement-351870.jpg?v=11365095"
     width: 640
     height: 360
     isCached: true
 
-secured: "SAF2qx2bX+EmMdSF5LDaaXbTAAbAZKplOEAAYautI714KBStD/NY4T3Gm8Jj6Ck3h4fVRHCtqQxv54avCNHIxSTXHLjeQFIPccYZodu0THn9aHm9cisCivz4e4/I7a5D1qn4cqVFr0naJFxbW6X0+McNTmrPIue5YGTi9NHE82o6w8JWd5gDtYOKbtP1ihDfBFXH2KEQub9QE/sTXvpCVoXAgSfHvQibMlyUYfP+oQbmsowP56G4TqG86og06ViVOwr58JLLctbImA5WzF998TsXxaOTKaS+EgTZeakxRb3+Y2f6S78fOVoK1kN94ZXZWLC0bRMH+qGlKziS5Wxb4lVLzCXnIfiUdExslHXCW9I=;FCEwavrn/4p1KSOJW+gwEA=="
+secured: "jrrvXDuRUOEgpIVji5Pq5JB44OqV332mT1/2mwIh6SMxr1S2Sm6KSoFZ5HdQvq7UMIOx8S2n5GLgvQ7ybodZjK+I9UTyUrUuowI2gQnSUjBD2/zgKv5/wf1f828Hf6HBvL0tJTsDRKj5ElBPOtJlzQZ8PThPVYbqdzDqqhd8B53JdGynDXoJy9AmiTvw5Rib7To4RasRsIgpxWj3YlUVvWUtc/0A41L7x6WhXRhK0u1DaAO9MckrbruSnPTIAgZ00mHSg5q8kj9YmIhn1NtNX2k81/feaI9kJXuOMK5dKTQDTM8aA0gdeKhZO7ixMtD5ghdPv2vxUy9V7lvyQyOw83XsV5EJxvN/my7XpJ+nVxg=;X8iI6qXWDSJVGrBNFpz2tg=="
 ---
 

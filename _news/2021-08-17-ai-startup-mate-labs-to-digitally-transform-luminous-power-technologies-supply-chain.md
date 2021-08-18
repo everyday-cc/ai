@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies’ Supply Chain"
-    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product"
-    publishedDateTime: 2021-08-18T08:58:00Z
-    webUrl: "https://theprint.in/ani-press-releases/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/717764/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/717764/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain/717764/?amp"
+  - title: "Mate Labs, Indian AI startup, to digitally transform Luminous Power Technologies' Supply Chain"
+    excerpt: "Luminous Power Technologies, India's market leader in power backup and home electricals, today selected Mate Labs' flagship product Mateverse to strengthen its supply chain against a"
+    publishedDateTime: 2021-08-18T12:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain-121081801069_1.html"
     type: article
     provider:
-      name: ThePrint
-      domain: theprint.in
+      name: Business Standard
+      domain: business-standard.com
     quality: 45
     images:
-      - url: "https://static.theprint.in/wp-content/uploads/2021/08/mate-labs-indian-ai-startup-to-digitally-transform-luminous-power-technologies-supply-chain.jpg"
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/18/full/20210818145820.jpg"
         width: 600
         height: 450
         isCached: true

@@ -75,6 +75,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Western states face first federal water cuts"
+    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a"
+    publishedDateTime: 2021-08-18T11:54:00Z
+    webUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/"
+    ampWebUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
+    type: article
+    provider:
+      name: KRQE
+      domain: krqe.com
+    quality: 44
+    images:
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP21226282995542.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Western States Face First Federal Water Cuts"
     excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought. Water levels at the largest reservoir on the Colorado River — Lake Mead — have fallen to record lows."
     publishedDateTime: 2021-08-17T15:19:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
         width: 342
         height: 240
-        isCached: true
-  - title: "Western states face first federal water cuts"
-    excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
-    publishedDateTime: 2021-08-18T00:42:00Z
-    webUrl: "https://www.texarkanagazette.com/news/features/story/2021/aug/18/western-states-face-first-federal-water-cuts/884063/"
-    type: article
-    provider:
-      name: Texarkana Gazette
-      domain: texarkanagazette.com
-    quality: 24
-    images:
-      - url: "https://media-cdn.wehco.com/img/photos/2021/08/18/19916115306688e8b7c084dc29a03c49879754cfa2796540791_t1070_hffb9fc9c2efd7f7b5c234bca07ebc1ebd0ba54c9.jpg"
-        width: 1070
-        height: 713
         isCached: true
 
 secured: "R/HovKUg3krgTKkJmLllhlZgGsMSMnTuibFcnjS/L4Ji+SsQtdIMrKuRfmSWnvoNhzr8hNKfESQDS+fB9gP/LzHE9N9BhA6mZ3TFb0iVmSQxlBGWMZn+hanGQnGat8jq9XVXQG3VZKNU+zOt+IUSf9xfbVE/3dsYfE0rhupjmVTnh+i0hyMTjGE+S7sKWLiGs0RM399cmJI+fayXzgV/+lj1NLYA6DhqQyC9IehxgjDog31r+79gTFkhFyNOioSKfhoHUniFCQ7eWPbTKBlBOz3FNJBaFc1v3waQ9bckV+KjaekvcoCt9GVBmsfCjc3ybZzjoibywmgMIO/yt1APr2Z/RrQkBnYCHeXBokCgHnUPRKI8E5yZbMiJ5qFkoVxc8AwcFPbUbL3p3gWmTl2IHOJSFDJ5wGg8ZRgd+J1XhmBVWCW1+WSL9Oek9GDe++NXnsD7lK9VTI+gmAOWlQM1sQ3FQ7nIz18ACXr3Q8k2oKC4jAEYSNz+cuB/qkJckBoldboBOyhpBkw2YGmEAHxceQ==;l7veU/w/++45AMxfz8u75w=="

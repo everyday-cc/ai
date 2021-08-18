@@ -1,0 +1,67 @@
+---
+category: news
+title: "Operationalizing AI Ethics, No Longer An Option But An Imperative"
+excerpt: "As I’ve written in my “On AI Ethics,” series, machine learning models that aim to mirror and predict real-life as closely as possible are not without their challenges."
+publishedDateTime: 2021-08-18T13:30:00Z
+originalUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/"
+webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/"
+ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/08/18/operationalizing-ai-ethics-no-longer-an-option-but-an-imperative/amp/"
+type: article
+quality: 104
+heat: 124
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F611c9d4051688c7059342af3%2F0x0.png"
+    width: 1024
+    height: 536
+    isCached: true
+
+related:
+  - title: "National Science Foundation launches artificial intelligence center at Duke"
+    excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"
+    publishedDateTime: 2021-08-17T04:33:00Z
+    webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
+    type: article
+    provider:
+      name: The Chronicle
+      domain: dukechronicle.com
+    quality: 37
+    images:
+      - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
+        width: 1000
+        height: 618
+        isCached: true
+  - title: "Machine Learning Operationalization Software Market Projected to Grow at a Steady Pace During 2021-2027 Covid-19 Analysis | KNIME, Seldon"
+    excerpt: "To continue with the reviews and details provided in this innovative Machine Learning Operationalization Software market report it also aims at providing advanced data concerning to Machine Learning Operationalization Software market global status market trends analysis segment size growth share"
+    publishedDateTime: 2021-08-17T13:21:00Z
+    webUrl: "https://www.openpr.com/news/2357813/machine-learning-operationalization-software-market"
+    ampWebUrl: "https://www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2357813/machine-learning-operationalization-software-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 26
+    images:
+      - url: "https://cdn.openpr.com/U/8/U817243339_g.jpg"
+        width: 780
+        height: 470
+        isCached: true
+
+secured: "Ux0/DA9cn4o7o4gfpj0gfmdJseit8lFqEC8XLqebyXmOYwci8slHok7FJg3AdrjOfYp64hSRvEJwZeAtvHYOES7LLmzjUrCl4lrifmchphdASfzKuDnShJqKuptGiLyrTZfQV2BrP6iZFyKAVawQEM5zjupXUVCdk7ypkZh/wrG+M503VQKkhryTUyARlFJKQUZjiEXYXuW/lAli+/eCp3a08tcpUC1rI1pJ4gOOApzpfvAmo3S4MmdaEv2IjXZMLZAs/8xWZS8Qhu7lhJ8DGTKTkPCDUSTuYIo2hhK233QKwp+0aKtkfs7ioZv0FPdYL/JAwzZxHpjNjcktY7nYyB6D41aAO3fttDJE6BRheIk=;a8vreMS7pe1GSc6meSg2lw=="
+---
+

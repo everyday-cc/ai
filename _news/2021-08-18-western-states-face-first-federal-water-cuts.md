@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Western states face first federal water cuts"
-excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a gripping drought."
-publishedDateTime: 2021-08-18T00:42:00Z
-originalUrl: "https://www.texarkanagazette.com/news/features/story/2021/aug/18/western-states-face-first-federal-water-cuts/884063/"
-webUrl: "https://www.texarkanagazette.com/news/features/story/2021/aug/18/western-states-face-first-federal-water-cuts/884063/"
+excerpt: "U.S. officials on Monday declared the first-ever water shortage from a river that serves 40 million people in the West, triggering cuts to some Arizona farmers next year amid a"
+publishedDateTime: 2021-08-18T11:54:00Z
+originalUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/"
+webUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/"
+ampWebUrl: "https://www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/news/national/western-states-face-first-federal-water-cuts/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Texarkana Gazette
-  domain: texarkanagazette.com
+  name: KRQE
+  domain: krqe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media-cdn.wehco.com/img/photos/2021/08/18/19916115306688e8b7c084dc29a03c49879754cfa2796540791_t1070_hffb9fc9c2efd7f7b5c234bca07ebc1ebd0ba54c9.jpg"
-    width: 1070
-    height: 713
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2021/08/AP21226282995542.jpg?w=1280"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -118,6 +120,6 @@ related:
         height: 240
         isCached: true
 
-secured: "PhpWj/jyrj0ur57fXYmQXLSeoLgbK+tHOvoYlakiYjrUNeyfuz5rkAKmGr06QyEcalp5cloHG6Llyb/tLIXJZNpKrTKwnseBXz9uSqZR5VIcTK3lJ8vQDOxjZmXDK3Pkckd64RlJYY6f4lmAZhe6RIdlaHSPM5yeL0miW1fsXmDQ6Q9okEtcz8qF9wpycDnTz0b9Xpa3pDzuaB6rxdsmTESgQiPGD7pnp0tbBmQQOe2zWLR1tEKedB+zv8n7B2GRwyngZuEf4j5NPFketQdqkeBoFmbraPwzi6OR3HxSnIQTrWEPi0h0RFGEeZErhOKONDH420aXoSMlbL8pgsnrRm05tYx1JibmAOD+5XNfEHQ=;HE6mgRdNUkDDQbW8PuXh/g=="
+secured: "EEPUvxfqlQaSUhX74b8OilnYEPshY490eddeWN3FDjBlNEa+l0sO8mmhkF4nBB1Muq41+7U3B+NJDyreNjYUIGSPKkMilwO68AxH0whu+GANCHmTtXB3c2bh+0o64CPIip0sDkNvsV7JRTvNxvRdplIISk+wkvHuuTPKfv53ofr2DP251cZjPnmcvKGGltmRR/lK1gN7jqGe6vZF8qtYCrDAXoiglzIdMrHqi4JnY6+QmG3vqki/71lWsQgBFHMRWQFXE1TMnYKkUoQdOqFPjIv3YBT4JmU8FCrvjgJQgRAhX/v9Kev11scI7wBHr5C0yodjS0ocNFtOHzuupy32089vykn0/h1VLLamEcS3QcE=;xSIj1Wblv1Zwoy8uI+B0vQ=="
 ---
 

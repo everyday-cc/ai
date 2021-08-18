@@ -78,19 +78,19 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "Latent AI Raises $19M in Series A Funding"
-    excerpt: "Latent AI, a Menlo Park, CA-based startup is dedicated to building solutions that enable the adaptive edge to transform AI processing, closed a $19m Series A funding"
-    publishedDateTime: 2021-08-16T14:37:00Z
-    webUrl: "https://www.finsmes.com/2021/08/latent-ai-raises-19m-in-series-a-funding.html"
+  - title: "Fresh off its win in the CMS Challenge, ClosedLoop.ai nabs $34M to build out 'explainable' AI"
+    excerpt: "An Austin-based startup beat out some of the biggest names in healthcare to win a $1 million government contest testing the use of artificial intelligence. Now, that company, ClosedLoop.ai, has $34 million in fresh funding to \"pursue more problems\" plaguing the $4 trillion industry,"
+    publishedDateTime: 2021-08-18T11:30:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/fresh-off-its-win-cms-challenge-closedloop-ai-nabs-34m-to-build-out-explainable-ai"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 37
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 26
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/ai-dp.jpg"
-        width: 1000
-        height: 750
+      - url: "https://qtxasset.com/fiercehealthcare/1629232024/ClosedLoop%20co-founders.jpg?naOpJRPj.BYyatrhTLaloA6I1dmkdZFk"
+        width: 4903
+        height: 3518
         isCached: true
 
 secured: "PxGWavn9DzNg+jbV9zqLBy8xmmS1EhJpUXvO8oGp1Y4G/qo44H6V+z6MMcr5E6hT7rntxvA6NLnJEHJJ0AF+ZkMJwrezCq/aglnLNg+bqNXNW4N7CWN1AgCGQd2kP8vU1oRVCXAS08oudRX2R1GpJhnAccLHFS69DZ3M1pmOxcngu0d2BVjtdT2CsqBOhh67pHg7YAYHY1DRboRt2jXCRJzoWXqsBGE/C6pglurajayxAJVu58Lw5Lw+H7FBPv91qW5xKMq3kCQ/lMA2+Yyq55JPRL8RrKYMPmwmDjdYBVrpGkfQw77r7CAMYNYDdH/lykqgNj2/+pEAUN/yFB1Innu7mufHKa5Kgjq1CEZnvqE=;YIXXZE6mtDt4o19pPniGZQ=="

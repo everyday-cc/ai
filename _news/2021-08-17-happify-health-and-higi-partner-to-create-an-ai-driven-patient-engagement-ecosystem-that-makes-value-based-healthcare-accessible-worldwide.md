@@ -2,17 +2,17 @@
 category: news
 title: "Happify Health and Higi Partner to Create an AI-Driven Patient-Engagement Ecosystem that Makes Value-Based Healthcare Accessible Worldwide"
 excerpt: "Higi and Happify Health announced plans to build a connected patient ecosystem that uses Happify Health’s AI and digital therapeutics to deliver personalized care through Higi’s omni-channel distribution network."
-publishedDateTime: 2021-08-17T14:00:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2021-08-17/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes-value"
-webUrl: "https://www.pharmiweb.com/press-release/2021-08-17/happify-health-and-higi-partner-to-create-an-ai-driven-patient-engagement-ecosystem-that-makes-value"
+publishedDateTime: 2021-08-17T13:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-health-92f86033f2b84dd5afb4108e1d8a6201"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-science-health-92f86033f2b84dd5afb4108e1d8a6201"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
@@ -20,11 +20,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "7mULtCwCTmnnQ9anNiyas04Xg50Y2yB3yGGagRJCWVWa8lS3t2OrYwvFs2mMTavdgTyUvTk6EUkPGKpPPv+FE0GebX2d+cQURmPkcmd4JyyjjPlYZ9+E5SW0fqW1Ri1JajcDWJmssb/CT6aRDSd9a5KHBEwj/PHS2KI2NU8ecOzvwv6Ck6T3QhimpOXDTdA+uI76qVR83/Jtn91lxZbEol7iT4DKKMo1cFe8lMUrfXiGG9P0d0A9uY8+8Wp6/LC/uQYzH2vXCQRo6XcBWwSwFqlV0GglZy/Fan/mxkWaHjozuUdrIuSTv7ZxPASoeRTHgFbvAUHRpz8b820dRWmOxris1C4vDw5zow9d/Fb5tDA=;VhmEjRlUdjhVYaRYm+aPew=="
+secured: "MdWyNtzy4zQUeJ4H8wtUyzsW5n5mwkkyd2FFHFlPvL0nq/pXPrzGW42rBmKo87cPZwrtlUEKlGEyQx9j7/qPqj+n5MYVcRr0WoZKNSuIZelz+22dsQJdlV0Ve4iwIAS0y5Fk59rodt74lTUsCk4ryIq3BnoG7LDPWHqy2+rAGGyvTgO75muDQyY6gX90XcrqOON8vYHE56saS4t1K66vwekfgzReoViXmnlbFSSREBVu7WaDsj/kltoBiQHanb+L2y/B3rFVUMoSgYv5TBKAdXdA8J2cxHvQazgnhSRIUZXi5P23Ue2UsKQ1TFiDY+2BNa8bDlF2tZ76Az7iMOaVtH96EC3If22J49vVLoBUF84=;R88euDTJRNh63H1iUuXFoQ=="
 ---
 
