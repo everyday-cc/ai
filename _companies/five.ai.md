@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "_FiveAI"
   url: "https://twitter.com/_FiveAI"
-  followers: 3776
+  followers: 3777
 
 size: 51-200 employees
 yearFounded: 2015
