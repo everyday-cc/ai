@@ -7,7 +7,7 @@ originalUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-nati
 webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -25,17 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Decision Automation Industry Leaders Partner to Offer Free Training to Help Organizations Maximize Enterprise AI Efforts"
-    excerpt: "InRule Technology®, provider of the leading decision platform for automating mission-critical business decisions, today announced a free online training session to help organizations better understand how to leverage business rules and"
-    publishedDateTime: 2021-08-17T13:18:00Z
-    webUrl: "https://www.lelezard.com/en/news-19955551.html"
+  - title: "How Conversational AI Works and What It Does"
+    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
+    publishedDateTime: 2021-08-16T12:41:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
         width: 640
         height: 480
         isCached: true

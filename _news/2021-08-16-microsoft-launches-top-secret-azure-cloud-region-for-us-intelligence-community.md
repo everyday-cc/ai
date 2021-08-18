@@ -123,6 +123,22 @@ related:
         width: 650
         height: 379
         isCached: true
+  - title: "Avaya, Microsoft announce integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS"
+    excerpt: "The companies have announced the integration of Microsoft Azure Communication Services with Avaya OneCloud CPaaS."
+    publishedDateTime: 2021-08-18T06:39:00Z
+    webUrl: "https://www.itweb.co.za/content/GxwQD71ZJBNMlPVo"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/GxwQD71ZJBNMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 57
+    images:
+      - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Edible Arrangements grows business with Microsoft Azure"
     excerpt: "Edible Arrangements is using Microsoft Azure Synapse Analytics to grow its business by getting insights into its retail operations, supply chain and inventory demands, helping it to make more informed business decisions."
     publishedDateTime: 2021-08-17T11:36:00Z

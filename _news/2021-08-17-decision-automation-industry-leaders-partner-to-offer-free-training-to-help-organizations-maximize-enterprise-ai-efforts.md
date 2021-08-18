@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "National Science Foundation launches artificial intelligence center at Duke"
-    excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"
-    publishedDateTime: 2021-08-17T04:33:00Z
-    webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
+  - title: "VVDN Technologies Joins NVIDIA Partner Network to Expand Opportunities for Advanced AI-Enabled Camera & Vision Applications"
+    excerpt: "VVDN Technologies, a premier electronic product engineering and manufacturing company, announced that it has joined the NVIDIA Partner Network (NPN) as a provider of AI-enabled computer vision solutions powered by the NVIDIA Jetson edge AI platform."
+    publishedDateTime: 2021-08-18T01:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vvdn-technologies-joins-nvidia-partner-network-to-expand-opportunities-for-advanced-ai-enabled-camera-vision-applications-1030740143"
     type: article
     provider:
-      name: The Chronicle
-      domain: dukechronicle.com
-    quality: 37
-    images:
-      - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
-        width: 1000
-        height: 618
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
 
 secured: "zrlteGsDPL6L7mKsSBtKI/BgQyIVbLvCQRth2WQka3Alqr9gzu+F2jrjp2ihBnGlDqZUxBRpjwozaNqo/WJJBl3JFjzdhlXuPF3Oxt1BqxFuczHe42S/8M+ksYFJWFtEuA3PFaWKtItuDe4HBUw9NzoiB/Lq5xC+3hUExTpM11mKPJTJTowHWhm/hAgrgrEhW1M9phslajj56YrOJIn9qbc8bg0T2U83QNAYFvBkJU5q9v4DhlkA/PA9f+9oLwQ3XJYK/zGD565pvXmAKUL76XbrkJBdmsOkCEMfGeVuncBiDRB5iF4B/a0jkqRSOcbnBv3BhVWDxdLZVlBROONkGo+4hk96yLXnpN0pwjhWzkI=;C/L2K5AU9nOxGzF1pxxBnQ=="
 ---

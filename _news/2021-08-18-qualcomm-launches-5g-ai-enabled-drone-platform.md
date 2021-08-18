@@ -58,6 +58,17 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm unveils 5G AI drone"
+    excerpt: "Qualcomm has unveiled the world’s first drone with 5G and AI capabilities. The reference drone operates on the chipmaker’s Flight RB5 5G platform, promising cutting-edge capabilities, high-performance,"
+    publishedDateTime: 2021-08-18T07:32:00Z
+    webUrl: "https://mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html"
+    ampWebUrl: "https://mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
   - title: "ModalAI Serves as Distributor for Qualcomm's World First 5G and AI-Enabled Drone Platform and Reference Design"
     excerpt: "ModalAI today announced it will be the manufacturer and distributor of Qualcomm ( News - Alert) Technologies' world first 5G and AI-enabled drone platform and reference design, the Qualcomm Flight™ RB5 5G Platform,"
     publishedDateTime: 2021-08-17T13:35:00Z

@@ -52,20 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "InferVision Completes Series D2 Financing Round Led by Goldman Sachs Asset Management"
-    excerpt: "InferVision, a medical artificial intelligence (AI) provider specializing in the clinical application of AI and deep learning technologies announced the completion of its Series D2 financing led by Goldman Sachs Asset Management."
-    publishedDateTime: 2021-08-13T14:34:00Z
-    webUrl: "https://www.lelezard.com/en/news-19951434.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 17
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "ghPOrh3whZrEYjaUzpNWGOb81F8YofAqHgS3viQy+s89ezx2rIVnjZfdI3gE0rXablDBY2O+eElReNllZaIJY2nsGR3uhreg/IRTl4bG8PiuJ1E5t6l46dHRNYSJgMsCnlh+4g816gsX09nEeZqxVTvCq7VzWEaPRVsbI408rBY94qzdtIVrFSzJKtCHjdFe1QWAb46+mFGejpWqy52sYIvvoTQqDyS+kyp9opO+0+5+8zoi9ec6A1gB3aU5NtbbAcEUn+oPjlNY9cllJRx6hpi/AO3UvZ4QgLANx0EwjBswz8j4/LloShEYlFWyWDX+eYdVn3CNAG9Dkk7iLAke76ONy9Pd+JNAIUh1RpqmXOPPmRAnyESvUVOVqVeMog49vaa+OMXkoAqzyZ/ncZnIdt/YSuja2bN4HGf9KwAURcRrS9seEllf2Yv0f5UDHTMYyp4wMYJ/vk+0jM8f7zbwgqNPRN9y4cu82TA8ogp1ngjzoFsbnBPvG8bhyPqkfPMOr8W3v94t6PpzoHNyXzJItw==;HgIb0fWVwtOrXmObXuB7Tg=="
 ---

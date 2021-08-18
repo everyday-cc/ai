@@ -210,7 +210,7 @@
       "originalUrl": "https://www.openpr.com/news/2355656/artificial-intelligence-in-retail-market-size-share-recent",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -243,6 +243,58 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-14-us-lawmakers-are-not-convinced-about-amazons-ability-to-store-palm-prints-safely.md",
+      "title": "US lawmakers are not convinced about Amazon's ability to store palm prints safely",
+      "excerpt": "With Amazon One, the company is hoping to make payment for your groceries simpler and faster by scanning your palm. For now, you can use it",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
+      "originalUrl": "https://www.techspot.com/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/08/2021-08-13-image-10.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/90785-us-lawmakers-not-convinced-about-amazon-ability-store.html",
+      "publishedDateTime": "2021-08-13T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -503,8 +555,8 @@
       "title": "Virtana Announces Expanded Advanced Technology Partnership with Amazon Web Services (AWS)",
       "excerpt": "Virtana, the AIOps observability company for hybrid cloud, today announced its expanded offering of Virtana Platform on Amazon Web Services (AWS) Marketplace. Offering end user customers a unified SaaS platform on Marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-virtana-announces-expanded-advanced-technology-partnership-with-amazon-/2021/08/11/9428699.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/08/11/9428699.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1422,40 +1474,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-04-soda-data-management-software-now-available-in-aws-marketplace.md",
-      "title": "SoDA Data Management Software Now Available in AWS Marketplace",
-      "excerpt": "As part of its continued commitment to streamlining the process of intelligent data transfers to and from the public cloud, SoDA has made its enterpri",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210803005417/en/SoDA-Data-Management-Software-Now-Available-in-AWS-Marketplace",
-      "originalUrl": "https://www.businesswire.com/news/home/20210803005417/en/SoDA-Data-Management-Software-Now-Available-in-AWS-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

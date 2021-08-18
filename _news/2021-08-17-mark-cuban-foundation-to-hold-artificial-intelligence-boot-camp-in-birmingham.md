@@ -3,10 +3,10 @@ category: news
 title: "Mark Cuban Foundation to hold Artificial Intelligence boot camp in Birmingham"
 excerpt: "Billionaire entrepreneur Mark Cuban’s foundation is hosting an Artificial Intelligence boot camp in several cities which include Birmingham. The initiative is"
 publishedDateTime: 2021-08-17T12:35:00Z
-originalUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
-webUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
-ampWebUrl: "https://www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
-cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/local/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
+originalUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
+webUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/"
+ampWebUrl: "https://www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
+cdnAmpWebUrl: "https://www-cbs42-com.cdn.ampproject.org/c/s/www.cbs42.com/news/mark-cuban-foundation-to-hold-artificial-intelligence-boot-camp-in-birmingham/amp/"
 type: article
 quality: 54
 heat: 54
@@ -25,6 +25,6 @@ images:
     height: 683
     isCached: true
 
-secured: "Q8AyVQd+59CdV1lUR8nFAVOMThyb5GyS3pJd4cHEtDHJ/J/iGos/L4RuL9VR0TSWN+uU2/KJSh6MtDMIVXMp7Bwt7F7xHm/3wdNCPcwaffPWgqZaNh79b0n3EweyOFmoNFaiBu/foZumXK5r7/yoNqRO8Kp2nSIa+DnZdFfousfScpJ9BiYJRYWjlCrp+Dgi8chod5xsIadi1H2yK2d4aLWta5Zdi08ifQcVdFPyIJJvHNAJmoot6RpZqPTn9AayV5w8J5wKkpS9WG7Axp1fdRLJvVM+uqJdcZCXl2s2lVYdvxgVyO5RBGsxFQ/NaOoLHatEUFjAJ1F52gCtqo1ZGI5YqRqSFBx30k8NdjYWIQ4Tw7kFCNSMmZRa6939+GUwGizQq8BZPa0Y8vEFmvB5gB6o3V9FOeKZy2Evz9FonP1+Ln58m2VySgaCl2OucLCZSTii6ub9L2IoU8u6GyUZL0BEaIxCkfpkTo89wdHE7PN5Lzyg7peefSjgaSfmNYQ+F2mpEkxBer5VZeQlERZ7aA==;1DOTDvkUk/UOyalpwKGg6w=="
+secured: "++LfVIWjhCQHVGa/MlIegZUwuQaSNqpIEVNHwofGfl36hbMVMMX1ZnSwWV0Zf3mrpoU8OkJT6CcGdY3MUD0zbtVU161j92we1+6F6ia64vLUADYe0GtmlQA6wd4If0xq3tbNUOxDga9gjJQ6OjXYFh+pR/LkZXk3d1cGY1Ghcr7v69A1qMPstuvkhCvL3ZhSq2iJ2yj8OMlAVDTXRhW+ZNn6mQtnMqqDtMW11Z80mMSuYisVfrJfshVlg6eBZgoqgCAmWnuNS+1Z+pxqcXQ9pEg3yOSmB8a/Ge/H6QmiwIoCE44GzIWSZ6cTj/8uathIPScVL07pMI2yI91QX6tMbtOO+jT1K6oECpbHzZYFMEI=;PoMER/TIKCG5wg9wWzHbgw=="
 ---
 

@@ -24,37 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing your AI coworker up to speed"
-    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
-    publishedDateTime: 2021-08-16T14:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
-    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+  - title: "Researchers fooled AI into ignoring stop signs using a cheap projector"
+    excerpt: "A team of researchers demonstrated a novel attack on AI vision systems using nothing but a laptop and a projector. What does this mean for driverless cars?"
+    publishedDateTime: 2021-08-16T18:50:00Z
+    webUrl: "https://thenextweb.com/news/researchers-tricked-ai-ignoring-stop-signs-using-cheap-projector"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Conversational AI Works and What It Does"
-    excerpt: "Automatic Speech Recognition (ASR), Advanced Dialog management, and Machine Learning (ML), are likely to pass the Turing Test and provide a more realistic experience than traditional chatbots. Most of us have had interactions on websites with chatbots that were less than satisfactory,"
-    publishedDateTime: 2021-08-16T12:41:00Z
-    webUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/"
-    ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/ad14627f4c68418f86b474c6be10836c.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fstopattack.jpg&signature=3ff95e62e62b4f1c42d18ca4e0b2b0d3"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Rules for bringing AI into the classroom"
     excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
@@ -71,34 +53,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "How Native.AI is bringing consumer data closer to manufacturers"
-    excerpt: "The company, which has attracted funding and attention from major players in the CPG industry, uses artificial intelligence to decode consumer comments and reviews into useful information."
-    publishedDateTime: 2021-08-17T13:14:00Z
-    webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
-    type: article
-    provider:
-      name: Food Dive
-      domain: fooddive.com
-    quality: 37
-    images:
-      - url: "https://www.fooddive.com/user_media/cache/b2/f8/b2f86e66ac68ba90f230e236af19a293.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Speed up your workflow with AI photo culling by AfterShoot"
-    excerpt: "Photographers are constantly looking for ways to save time in their workflows, whether that’s keywording, editing, sending work from Lightroom to their websites, writing blog content or posting on social media."
-    publishedDateTime: 2021-08-16T20:00:00Z
-    webUrl: "https://photofocus.com/reviews/speed-up-your-workflow-with-ai-photo-culling-by-aftershoot/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/photofocus.com/wp-content/uploads/2021/08/aftershoot-feature.jpg?fit=2560%2C1440&#038;ssl=1"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "haclz0wLhTr2Z8n915NExxx+gJiCDAE+hd+Eb6MubC+clbE4b6VkoWQP0t98e11bUs0L8XKVQxgGl3FWcVBxi9OBJrG2f8EAerDO66a2mIQO51G8PCDt7q68FIkiskV8UdYOrvFRvsB9szKNw0kSUhmlceCxk/kjQr6dbn44VuYnuvvgr4ZBOcodhCfWGwSJvCkHC9T91fYUdblk1aBB0qFU4Y9Hn+tAm24cF43HVAmjNm7BELuPerVDRizdioH+wzsK2xngSpVeBtCw/4KgEknzZ2AGIOUkbx/W4TaEXow8KSDhePHA1WYZ7sCr234ZPnd7+kMpYB2KK0zPaGCQTLiCBN3MQf1+gUAE+/ZwPn4=;gtZJoKONnuQrDb9beexn5Q=="

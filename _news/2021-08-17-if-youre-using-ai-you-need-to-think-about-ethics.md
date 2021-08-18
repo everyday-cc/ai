@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/360596
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/360596/if-youre-using-ai-you-need-to-think-about-ethics?amp"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: IT Pro
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI ethics needs to address AI literacy, not just bias"
-    excerpt: "AI ethics is about more than just bias. That's why Red Hat's Noelle Silver is dedicated to spreading AI literacy."
-    publishedDateTime: 2021-08-13T13:15:00Z
-    webUrl: "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/"
-    ampWebUrl: "https://venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/13/why-ai-ethics-needs-to-address-ai-literacy-not-just-bias/amp/"
+  - title: "Bringing your AI coworker up to speed"
+    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
+    publishedDateTime: 2021-08-16T14:20:00Z
+    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
+    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/Women-in-AI-Awards-1.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true

@@ -67,6 +67,17 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "Qualcomm unveils 5G AI drone"
+    excerpt: "Qualcomm has unveiled the world’s first drone with 5G and AI capabilities. The reference drone operates on the chipmaker’s Flight RB5 5G platform, promising cutting-edge capabilities, high-performance,"
+    publishedDateTime: 2021-08-18T07:32:00Z
+    webUrl: "https://mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html"
+    ampWebUrl: "https://mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html/amp"
+    cdnAmpWebUrl: "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/gadgets/410222-qualcomm-unveils-5g-ai-drone.html/amp"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 39
 
 secured: "8IWysFLZ/ECHx/dZNZvJZFKbaOGdBHb06uhGUzIXIKAgLQJ2yQqC/pU6LMUU6fIErHbQQDBl9cQX1YmD+3a+Ac1zTZ5BFIPjQw4iI9FB/AcgXoim5byMS03vh6SGB7UOeF8ULsi+lCX3MIIm5UeB7C4HEFq2GdrOMw/6JR4XA8MG8dKLIIGRhEbBl8+RCaMqAu0si8Ec1DX3Zy113J5WzdJNOm1rwIUBUiLPCz5PcrX9PzM8SlbRXKL2d1tITJXlGvFNx6JCTBr4MB4zxo4EdIbCmViao4gOWcno0vakfVecUEAEzx99v/j1c4RDZ97nZkFUaSNn1IVxy8UuDm78Y6nGogPqsWHi6n0Pl3nNI2GGWUPD0nUPax5GJ3ZZGnI+M7PEvRIsi09OveqCTPx9a2V0Yf9Pc+TjfP/ZQcMQnDeUujoEcGbnpX2D3VzkmIiauJa0SmgctRYz9uG5XvbC5ThdItILYZ/UgMZwZzQzgrulrjJtsfvpgGp0FwyaU+x7gmyZeo0GaPmsQRo26NYFUA==;O6EubSvv3iw9ZWNpbRL8DA=="
 ---

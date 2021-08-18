@@ -57,6 +57,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Climate FinTech hires all-star management team"
+    excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
+    publishedDateTime: 2021-08-18T07:23:00Z
+    webUrl: "https://www.notimerica.com/comunicados/noticia-comunicado-climate-fintech-hires-all-star-management-team-20210818092345.html"
+    type: article
+    provider:
+      name: notimerica.com
+      domain: notimerica.com
+    quality: 4
 
 secured: "hDyBSvWk1ldmTfmnxO60g39e/JT7XfZo+NXiKfVihh9BjlrHAcQ/wtLO4WDPQ/t0OJkdK1TMMw2YOW2dXgx9G6pZrMdWBq72N7i4fq5aQNUV0c3sS8YAU/qy3DkXoS++uX/LhsOqACDQTR7Y3v2nhBoAZO7F6P0X0uTbhgzzU+A4zbCsxitTx2LgkDfIX2P/MNn/qcPKfgQ3UxPWImugsq/KyV/aviKyiBpxZyWvML8j/rXz/scKsmG8jGZlvtBWGbq5PDNbmV4BPFzBYaXq2cRwBWfNpIpLrWuUxWWTQYG4K6dDjQdDaRnjsnutD5Sv5cUTCH1S3ST8sPu55tUVCSRkkrVifdSRPzIMU/toGqn3pgojE8W+KU6TJwaa1wX+UA8KvuOIbhl/jr1YlLvxzXzHDWiHYUIRzjaRcDp1x/G1FHDFoyZ6KaTcI3ph8PNJ1Kj60Y/c29TwDpoEHmVc7lXz0NcMlE/JVczghDAf+5LOB5q01W9OMOEkR3g/4K1O6MGVC4NvtytJGjGvHQxWRQ==;CogbH1NuxzqLeeCS9rho5g=="
 ---

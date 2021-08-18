@@ -23,6 +23,22 @@ topics:
   - AI
   - AI Hardware
 
+related:
+  - title: "Decision Automation Industry Leaders Partner to Offer Free Training to Help Organizations Maximize Enterprise AI Efforts"
+    excerpt: "InRule Technology®, provider of the leading decision platform for automating mission-critical business decisions, today announced a free online training session to help organizations better understand how to leverage business rules and"
+    publishedDateTime: 2021-08-17T13:18:00Z
+    webUrl: "https://www.lelezard.com/en/news-19955551.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "xGUdL4AqrIEggONt3ymK6WK6ErCUKQAq2iegqEqBuRYwkUOAb/d55TgZ1fBN270oDCppPDGXuDGvxMPfMq018uB8HsjkF0t4LIvgKR0f+gePWiur62Pd56FlfvO/wHDxamKHfsfXEXDKn+FvZbwaYlFDTFP0Xg8didRfXYvVEq+Tjp4QY4/sevTIthWz3W6nqzsp29/Zo4c1oFxekZ1b2iKWPGEjlvvIacCCXEW1ejd0DNxsWYMZaOWscYdzZE5Kdrgi84K9Efd3XOWA0ErinCsOZRphUD35FmSo3gxV6reE6y43s1O+bOgReX7ZWoOyd1Sy0B5TowJ7jnbZSDJXVdboDN4RrQ+v7TzhUl6edGl/6vTZeAzOdSaYUI0BYY5e9v1DEtwtaAWpOIY9r14D9VpRo0WSTQ57N3Ctllp/BwlyK3HN/kiqNPUbPeePYPNskihgnmJ84jKLYnz2MEAkGJkd8lr0yT9cdr8XXS/3cv8V0QuBLbxLMp6POnt2JyVZx2iogbzVsVz6TXLCBmYWHQ==;3+1QwwkCyni5bY5vUbID2w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.investmentnews.com/sales-fintech-seismic-pushes-valuatio
 cdnAmpWebUrl: "https://www-investmentnews-com.cdn.ampproject.org/c/s/www.investmentnews.com/sales-fintech-seismic-pushes-valuation-to-3-billion-210373/amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Climate FinTech hires all-star management team"
+    excerpt: "(News Aktuell) - – bullfinch completes its management team by hiring top-level executives. Niko von Tippelskirch has been newly appointed to the executive management board and will take on the position of Chief Operating Officer (COO)."
+    publishedDateTime: 2021-08-18T07:23:00Z
+    webUrl: "https://www.notimerica.com/comunicados/noticia-comunicado-climate-fintech-hires-all-star-management-team-20210818092345.html"
+    type: article
+    provider:
+      name: notimerica.com
+      domain: notimerica.com
+    quality: 4
 
 secured: "pTkBXmdjz/7VlypGjOs1iTr8sTupHM/XTGVC1XYa9XWsGxyhNdVAM1sidsaDEdKpsIVOiudZcp38ahSz9XlrIHuNHsprlETG7LPnRYM+voY+7gvmydojn62tQHq92O64KCMkctoMSbjuD3vW/50KtBRlNcN0G+Z7fyelLdh73gDu9rtbTO43GNTSNtmnMjJZ9rV8uAXuxcb2midJ/KRhpygPofqWKqKmL1rL3u5q5bTrK4caPpPK97Z9QJw+ANfrX6cjZgzhr1HlkSg4okTvP+V4b1SS2dkxljySXy2YKlXzAX80BIjMP72UPxlctM7TyP2LxyDwIvW6H6wtRN2T/aAHepTBtrpJfvOVKZWsXF6s5Y5a65YGHHIUN6AntUOaizsdSBfvMUYuHP1pgHTAIEcRKVPDIjmE0GKF5hMlCXRwGOhzWbpiRvMrKabBi4K/NWb7cSuI8j08AjaV5/sZnQ3xpG2t25dN0On6EmCwvGlzEXgKvhSIiM/RrqpnXbQ9S1e/6mf0BcxtieM3xMPz9A==;JCc/phXNe3vU0T6blUPtng=="
 ---

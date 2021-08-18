@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-experience/how-conversational-ai-wor
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/how-conversational-ai-works-and-what-it-does/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,79 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bringing your AI coworker up to speed"
-    excerpt: "The future will likely show that the projections of what AI can do were unrealistic, but so were the predictions of robots running amok."
-    publishedDateTime: 2021-08-16T14:20:00Z
-    webUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/"
-    ampWebUrl: "https://venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/bringing-your-ai-coworker-up-to-speed/amp/"
+  - title: "National Science Foundation launches artificial intelligence center at Duke"
+    excerpt: "Athena is committed to development in education and will “cultivate a diverse next generation of mobile network leaders with the core values of ethics and fairness for AI.”"
+    publishedDateTime: 2021-08-17T04:33:00Z
+    webUrl: "https://www.dukechronicle.com/article/2021/08/duke-university-national-science-foundation-artificial-intelligence-ai-center"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/christina-wocintechchat-com-glRqyWJgUeY-unsplash-e1628794161691.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Rules for bringing AI into the classroom"
-    excerpt: "The best AI applications promise to improve and accelerate teachers’ knowledge of what their students need, how best to deliver that teaching, and which students require the most help — from a human teacher — to keep up with their learning."
-    publishedDateTime: 2021-08-16T09:00:00Z
-    webUrl: "https://www.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    ampWebUrl: "https://amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/ef231955-e97d-4552-8dcc-f1afe01ad613"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31b935f3-3e3c-4595-99af-7e57a96a5235.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Data Sharing to Improve AI Used in Breast-Imaging Research"
-    excerpt: "The large-scale sharing of data is a key step toward transparency in science, say researchers who have made a large dataset of DBT images available to aid development of machine-learning algorithms."
-    publishedDateTime: 2021-08-16T16:52:00Z
-    webUrl: "https://www.medscape.com/viewarticle/956658"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
+      name: The Chronicle
+      domain: dukechronicle.com
     quality: 37
     images:
-      - url: "https://img.medscape.com/thumbnail_library/msr_181018_digital_breast_tomosynthesis_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "How Native.AI is bringing consumer data closer to manufacturers"
-    excerpt: "The company, which has attracted funding and attention from major players in the CPG industry, uses artificial intelligence to decode consumer comments and reviews into useful information."
-    publishedDateTime: 2021-08-17T13:14:00Z
-    webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
-    type: article
-    provider:
-      name: Food Dive
-      domain: fooddive.com
-    quality: 37
-    images:
-      - url: "https://www.fooddive.com/user_media/cache/b2/f8/b2f86e66ac68ba90f230e236af19a293.jpg"
-        width: 770
-        height: 364
-        isCached: true
-  - title: "Speed up your workflow with AI photo culling by AfterShoot"
-    excerpt: "Photographers are constantly looking for ways to save time in their workflows, whether that’s keywording, editing, sending work from Lightroom to their websites, writing blog content or posting on social media."
-    publishedDateTime: 2021-08-16T20:00:00Z
-    webUrl: "https://photofocus.com/reviews/speed-up-your-workflow-with-ai-photo-culling-by-aftershoot/"
-    type: article
-    provider:
-      name: Photofocus
-      domain: photofocus.com
-    quality: 37
-    images:
-      - url: "https://i2.wp.com/photofocus.com/wp-content/uploads/2021/08/aftershoot-feature.jpg?fit=2560%2C1440&#038;ssl=1"
-        width: 2560
-        height: 1440
+      - url: "https://snworksceo.imgix.net/dtc/d51cf6dd-d29e-48c3-be8d-00e46318c9bb.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format"
+        width: 1000
+        height: 618
         isCached: true
 
 secured: "r8pHEW5AWhgk4db9+U9VDvWKlzQSjQ0JCM5coTq+UaJcDTkN/dOg2R1A8x5EVlFBEM8FTFuDnbG+FBOaGpjyEj/EwbjV629Tx4EAJVh2oPsOjlq+B3jVgimkz4K38hGHhcR0iOaEGkq97eiu6rPaK7hafsuSkiEtA98oG4aBRCz2K3bCvCdsTMJ2ZY959A+pjBAK8JwB7hj0LSV36bp1rly69h9sxFiPlIE9v4oWoet2QdTbxlHRTD0bUCSqwm58PGQTtMdPLr98fuU/YF9Dxrrl9y/nO5shPgI8nFnGeE8zNNWcDlgiWWnBOnZTo+cK9ucNYqAyMG0nv4+2HWf299gfzDJEnrr7GlAPJgdHJgOIU0WMHOP51xa2WDiH+JISu45irVcOtpHe0II0qVDBRoURnN9gbQW9EhrjQSNt88fH2Ixp1SegtalWwwffneieMz1AoFaFNcMH8vVg8tWow9F8iO4Gk99ZL57MFVKiMC88SKd8ZWmEUxtWY587OfnqmhsGjxOVnn9Sh7SErC4ceQ==;e9NODqTnZQ+Tn4gf5TCDEQ=="

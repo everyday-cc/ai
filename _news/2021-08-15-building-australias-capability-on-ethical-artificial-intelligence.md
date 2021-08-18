@@ -7,8 +7,8 @@ originalUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-
 webUrl: "https://www.eventbrite.com.au/e/building-australias-capability-on-ethical-artificial-intelligence-tickets-167003577195"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: eventbrite.com.au
@@ -36,6 +36,22 @@ related:
       name: Precision Computer Methods Corporate Website
       domain: pcmethods.com
     quality: 39
+  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
+    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of"
+    publishedDateTime: 2021-08-18T05:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 37
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/08/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "/cN3fikLV2DVNahMo/xhmXiY4RgveRKtoBkzS56WLSGazYY4AFNEPYXAlCrwHAgHM/CF71yQexAMbz++EYtovERyRAMceUDVTLFjTAT0djTT6rF6rbFcaU/EzRdggPpsNyDwU6TC4sZZYar71Ki6jBNcAyX5IF9KKSXZy+kkpFfAyu2NVSnq9783slyldKXR2wBj3haUm37QPiXSiwH8ggbzzkZl9hB8h2AAcqE3Zjj7IG6JRtMqXMUSSbIO7LwSQcjg/EzhL+UijW6QgGEuxDf5rhbOzYzNeavfinRtymMOS7RDrPRRA8yXVjeX4m8bErYGV3o9cfZ8rwWMxuFNhKaPCy/SNmv8RsK6JP9xRbQ=;QPx4JAa4TRzU6aPQnyzolA=="
 ---

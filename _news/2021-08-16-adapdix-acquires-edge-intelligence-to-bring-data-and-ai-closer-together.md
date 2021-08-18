@@ -3,12 +3,12 @@ category: news
 title: "Adapdix acquires Edge Intelligence to bring data and AI closer together"
 excerpt: "Adapdix, the industry leader in AI-powered automation software, announces that it has acquired Edge Intelligence, developer of the first geographically distributed data management platform for analytics built for both edge computing and hybrid cloud environments."
 publishedDateTime: 2021-08-16T16:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735175"
-webUrl: "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735175"
+originalUrl: "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171"
+webUrl: "https://markets.businessinsider.com/news/stocks/adapdix-acquires-edge-intelligence-to-bring-data-and-ai-closer-together-1030735171"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -27,6 +27,22 @@ images:
     height: 400
     isCached: true
 
-secured: "UX2fFxFnASW8GZNVQYaewpJ9WeXEmZSHDZhqBD08UA3ZwbKUmTidWk1fgnRWC2nWruF2/VM4rwpRxC4T5Fu55d/4ZXZyb4hOMcjK0sGPwtU+bQRqO//gOjznr8Pb42GVke3U48r4ObdCcOIeDkpcjurVgeMtGFp6sn16eMFFs77J2UkLhg4LhDWtkntwu95O0Fy4Ap3CT4yeMlVP5zJrFpMyiqDYS7QX98i/MTberjX6g2i+cuZsVCX2KO6E1uhgPMPUz7Z5UcWgKCzxJuOkF7UtmgXmcRag2+i6YCTlVSg4aBXrLKT3Q610FtKPXBe7bSYP56cuxP1lp1nQoA2U9tfLrc1dnUETqRXlgGRwrCw=;4DBhA7MUYGHEU6WTW9/5sQ=="
+related:
+  - title: "How Native.AI is bringing consumer data closer to manufacturers"
+    excerpt: "The company, which has attracted funding and attention from major players in the CPG industry, uses artificial intelligence to decode consumer comments and reviews into useful information."
+    publishedDateTime: 2021-08-17T13:14:00Z
+    webUrl: "https://www.fooddive.com/news/how-nativeai-is-bringing-consumer-data-closer-to-manufacturers/604977/"
+    type: article
+    provider:
+      name: Food Dive
+      domain: fooddive.com
+    quality: 37
+    images:
+      - url: "https://www.fooddive.com/user_media/cache/b2/f8/b2f86e66ac68ba90f230e236af19a293.jpg"
+        width: 770
+        height: 364
+        isCached: true
+
+secured: "zmaYWgUtkYpC9x5jso9LmplQwnzKfwr6PvCqay4mUk1q/UpRHSeZ9m/3I1HQdukWfbpsXZbTERvvH1M0+Qq9KQWZ/NPV7+02QxZ8UjwKuGc/0QpA73Kaa6GjzLQxn+IggtituXEhxLbyMexq4MIjFGdgZCec0XSprKJOPkQpwM1Lt2O2IQysS8OH1ogSMIBQYwWsWYfMC+BUr22xmlAukNv7Hfhurw3xKW9UUvU9rnAzv4MOEcaQGzJqBKzkQ57rcfJWT+SeSPC/zEwmr/Tu1Y95viOCsoLptt9bs4YlgCtdO+xFjFuADv9Gvw5Q7i2/NnjIAdIkAJyHo4Fx37GMTpf+sHStQMwk/mkW4VBc5oY=;eLMre5Ww+mn8RiywntSv8A=="
 ---
 

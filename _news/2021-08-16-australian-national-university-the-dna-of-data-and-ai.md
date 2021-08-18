@@ -35,6 +35,22 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Deakin University, Australia, and KPMG in India associate to offer a Post Graduate Program in Artificial Intelligence and Deep Learning in India"
+    excerpt: "The adoption of artificial intelligence and deep learning to harness their transformative potential is becoming a key priority of"
+    publishedDateTime: 2021-08-18T05:43:00Z
+    webUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india/717571/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 37
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2021/08/deakin-university-australia-and-kpmg-in-india-associate-to-offer-a-post-graduate-program-in-artificial-intelligence-and-deep-learning-in-india.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "1nDDq/tGXxnX8Qj6QboK6OOzwlYQv7mvNHJqBmtCdlyjG8jS8VxuyjDANj8dVgDfwYi7tYBs+gWvfKRHpieSuyzUDyeXxI92QCyBM8plzx8Ik5w9sl9SplOBOxOP/6lSgrXKB9/wQ46pk+OuGrD+iJ23qKgTXwHqH5snWyMHpTwfkxNOTPbYdASDpJdjp3teX/8jLkZbUUvXcEoo5cYRF8LERgDVADu8tXPQfHu4mOomxN8kufHuPJhofH0LVPCuLDL8dFnFT26GFacInVWA6i+dCAv22iVRKe+lyoHTOOEd1C4QwCEG65xIsyfsLiCNk55IesjDLD4058w8S1ZO8tB2z9WbpT2Y1Zw/rTj44oQ=;GulrmZmT3NxxDRLI2YpNDg=="
 ---

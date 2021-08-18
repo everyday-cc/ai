@@ -44,17 +44,6 @@ related:
         width: 800
         height: 407
         isCached: true
-  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
-    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
-    publishedDateTime: 2021-08-13T13:42:00Z
-    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
   - title: "Artificial Intelligence In Healthcare Service Market: Future Trend and Analysis of Key Segments and Forecast 2021 to 2026-IBM, Microsoft, Enlitic"
     excerpt: "The Artificial Intelligence In Healthcare Service Market Research study published by MarketInsightsReports, entitled Global Artificial Intelligence In Healthcare Service Market Growth 2021-2026 consists of the market share,"
     publishedDateTime: 2021-08-14T08:53:00Z

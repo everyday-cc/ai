@@ -3,8 +3,8 @@ category: news
 title: "The AI skills gap: Intel works to bridge it with community colleges"
 excerpt: "Adults of all ages can learn artificial intelligence skills to address the need for AI-trained workers. Share. Contact . Related"
 publishedDateTime: 2021-08-17T14:37:00Z
-originalUrl: "https://www.techrepublic.com/videos/the-ai-skills-gap-intel-works-to-bridge-it-with-community-colleges/"
-webUrl: "https://www.techrepublic.com/videos/the-ai-skills-gap-intel-works-to-bridge-it-with-community-colleges/"
+originalUrl: "https://www.techrepublic.com/index.php/videos/the-ai-skills-gap-intel-works-to-bridge-it-with-community-colleges/"
+webUrl: "https://www.techrepublic.com/index.php/videos/the-ai-skills-gap-intel-works-to-bridge-it-with-community-colleges/"
 type: article
 quality: 67
 heat: -1
@@ -54,6 +54,6 @@ related:
       domain: tweaktown.com
     quality: 17
 
-secured: "ul3cZOQcGKKtGwo/NlReEX4hz70T3pZjYuVrMYImJ4dLtiIGutNNzl2kdLzWesEbgwKjA8T1Vc+AgokyI9onhMX0/CMXkMvzr0JiN/vRmFIsdpNlRRDefJA5hnNPu0tHEWZ3e/x03XyFc/rNyRJ9K3DVnkcOiW7kWejv1Qw2wqCWQHklmodRICuCoqZNy+NBG3n0W2ZZpXLc6Iv6ItqcSYaqdbV3adwF0g8Ekr4MAQGA1t8q/60Fq61Tm1YwBXZRcaK6lrdSN1f2rBu70zEVtCZARNERuA3U3MFT7ncLLfzgvlbf+CkZipJdOLirEDCDpmign/+P3dmLshQMxElYzRWqs1epkQnijvhirn8OSKMlTzVJ+QoX6ZMU+41hr+zU87XhqBm9tYSV16uT+ptzILPPFR9d9+utKeiTNVeN/l7LijQsBbmqyt1zfYIPpkqvwJyMbA37tWNPMWENnPo9RNLLq2gXFKn7xpPmACU4E+++42Bljh9EJgswIgJMroriQDzQbkxqgNmmeC0CxgY3oQ==;Jpwp2gGT+novXM3GRSMCsw=="
+secured: "zJYmQlHPZ7SGKdlGz1/Xr34rWs0hlojR8DZR0FOchQqul694QkpCZq11lJJ98HGt5COcMXGo+gomiS0cJev9CbWZg2fby0U7lSPyS6vYbTtSuG2qyGu1zMs/GSM18ksQd1dLq4Zm0JPYmP4Xq/vLcqZX6VhTm07612VpEiPZB5Jk41/jzr9hUIX27Bwvm9d5wKy04XYEMTrW8/ZuYpbSR/BlBLGr3vb4T49CbWaRQ7TYg9Js0I3CNgIQlQEJ11bkQXxREAy37S5bFCOJv3T+2nCRBm3NdNxgTEq4jcmomDHHwpgRvIEVd7UUHL8HM+TGeClarAWe69sfU4NF9pNAmBMyIXrdvORcFAkAgnMJ+44=;BXD7l1vAhDLGcqNuK3kudw=="
 ---
 

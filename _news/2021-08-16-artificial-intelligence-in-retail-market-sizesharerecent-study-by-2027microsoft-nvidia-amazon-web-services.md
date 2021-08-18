@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2355656/artificial-intelligence-in-retail
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2355656/artificial-intelligence-in-retail-market-size-share-recent"
 type: article
 quality: 86
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Computer Vision in Healthcare 2021 Latest Advancements and Business Outlook -NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc.."
-    excerpt: "The global Computer Vision in Healthcare is estimated to grow at a GACR of xx% and is forecasted to exhibit robust industry growth. North America will hold the fastest growth rate all through the estimated period due to the higher incidence of hypersensitivity and the presence of sophisticated healthcare infrastructure."
-    publishedDateTime: 2021-08-13T13:42:00Z
-    webUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    ampWebUrl: "https://manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/global-computer-vision-in-healthcare-2021-latest-advancements-and-business-outlook-nvidia-corporation-microsoft-intel-corporation-xilinx-inc/"
-    type: article
-    provider:
-      name: manometcurrent.com
-      domain: manometcurrent.com
-    quality: 35
   - title: "Speech and Voice Recognition Market Analysis and Forecast by 2027|Microsoft Corporation, Alphabet, Cantab Research Limited"
     excerpt: "Los Angeles United States Aug 2021 QY Research has recently published a new report titled Global Speech and Voice Recognition Market Report History and Forecast 2016 2027 Breakdown Data by Companies Key Regions Types and Application The report has been"
     publishedDateTime: 2021-08-16T04:03:00Z

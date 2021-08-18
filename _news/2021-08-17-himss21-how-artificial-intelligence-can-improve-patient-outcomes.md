@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/media/video/himss21-how-artificial-in
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/media/video/himss21-how-artificial-intelligence-can-improve-patient-outcomes?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1440
     height: 500
     isCached: true
-
-related:
-  - title: "AI gains steam, though some execs still not sold at HIMSS21"
-    excerpt: "Data released Wednesday finds 7% of healthcare executives said they believe AI and machine learning are the top priority for the future, while 7% called them a \"distraction.\""
-    publishedDateTime: 2021-08-13T14:03:00Z
-    webUrl: "https://www.healthcaredive.com/news/ai-gains-steam-though-some-execs-still-not-sold-at-himss21/604948/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 37
-    images:
-      - url: "https://www.healthcaredive.com/user_media/cache/1a/fb/1afbc2bd59fe62caa4ff1209e60da05e.jpg"
-        width: 770
-        height: 363
-        isCached: true
 
 secured: "68+xMQGlb/Uju5EiLgX12sPdZuOCxeeOwUj7Buqit4IhymEL7FnakghkEMWizl3O+j6dS+wsPoYtKj4OHc+5I7buCRsD1lHX1Z9XONf//p0gPDIfB76m0b2l78ibd4DOJt2IOM8cSxUf6VzLrN4NrPwxr6xQ4TYsDEswqP5b5AHXf96l4yJ855EFghJM1LrSKkaYJbZCZZyJwIa5qChknpR/jIPUyPKPxtAWJumLGjqBQEz+htJGIcGjWuf8LL8xdsbTJn1UTngirAqQfi9RLJXOLZVRqpp3OkQYCLzxT4OyjUkVFf3kRoYZYotVSsxQaBypC/p83pH32HjTtfsCCu+9kZZB3iwkxyP3t6980mW0U+xRhJ+VU1cI/anXa46+EymPp+7mnPFJa6wGyVpZH3x8vJUBB3LNeGruyVVhDwBBW286iC8sApRB+9G4XgkwpuPb3tT+XWKUKRyliDcTgVUkFWTr0NWsFCxX9I0pP6QSj8dMiIgO8NcSYGgEWBFCF5WW6b5XzTawYt6Csvublg==;H/Iqq/nvHHV1JtIivHSbnQ=="
 ---
