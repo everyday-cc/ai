@@ -25,37 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Six injured as self-driving Tesla crashes in school car park in Southern England"
-    excerpt: "At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex, the report said, adding that exact number was not clear."
-    publishedDateTime: 2021-08-17T02:30:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
+  - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
+    excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
+    publishedDateTime: 2021-08-18T15:36:00Z
+    webUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims"
+    ampWebUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 54
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 103
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2021/07/Tesla_Jul8-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
+      - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Six injured as self-driving Tesla crashes in school car park in Southern England: Report"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At le"
-    publishedDateTime: 2021-08-16T21:42:00Z
-    webUrl: "https://www.channelnewsasia.com/business/six-injured-self-driving-tesla-crashes-school-car-park-southern-england-report-2117186"
+  - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
+    excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
+    publishedDateTime: 2021-08-18T12:10:00Z
+    webUrl: "https://www.autoblog.com/2021/08/18/tesla-full-self-driving-senators-push-back/"
+    ampWebUrl: "https://www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 30
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_338%2Cw_600/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=OKRpQAP1"
-        width: 600
-        height: 338
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+1089/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2020-07/cf97fb80-c042-11ea-9e9f-4a1b9cbf4857"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update"
+    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
+    publishedDateTime: 2021-08-16T13:30:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
-secured: "EOmX6nyOgRU53TjaA+t8Qbkq1xxcW8N6g/8LE3VXl7t3H3Szati8JkDDa+VDdvZ+H8YgOGIw0PD7EGiMNOn7MKA7zDtKPLMZERYZtresm2QpKlavQi8DBi4kQfJj/bK0HP9IHCRv+i4rDozSYbsvhXiLjcSqHT+2rP9kvkslwHjuNzq4K1wv9wWU2tuW2iKvv/CwmmbXxL5uY4HTyo+RoKjS+4dq6sOpbAw1aLwiiQZPWdPeO2mnKo3REQwT9WJ8KGNqCTFyB5WYp/ltQmi73JsS068mfb4HlT8EPSIpimU3x2wSTybJXx+kPSWgzBEMjbACr+XOddu+48v2sJk5gXx6Iv/1bMxkagIUkHAMpSU=;Z74/YZzDzjT8FEVenCgcsA=="
+secured: "gryXIT/Tc+PorSgZdJrVg2k/gnC+l+xCkwruDZ98kIaUChSZezl5MEUCET2SAaPVOkKTXJd7ZK3tiN8uibh0EdvtZxpC6soqq4OLmnVHgQdX5t9E50kDgRz2akKH9OcHjffT9RqzKdY7uEdDZ3Wcd+6SE2BhfZFWTEgIAAEbRVttoH7w+RFQDctBurk2OJRQQsk2FnKjm220/Jmtj4Ecu39eC0MgvRaBZ8VAQFA4kRS57lWDt1NkGCfYQk/4uZFSTNyyYFuKKNt5/lXu9boC/gs2AuuCqsJDZEygzTAO+W1gOEycIT8mey/iyfae3JgMhANBcwohMAX18kt52HdLlHTeuhqW2qV/lyp42cgpplaRWTyuqOLxK4Let6U745suMfOHZ+kWI3K93GBwx6IPWv8L5MGvmZqGuvrlU0Dr1TX7EaPfRxxidgZRdLYJ/6GEyhFw7CpzRwgk8IDR6kHSSDtjOpoDB7+go1O9aP6hTMBBRUCgeSrxl9TKsRRdReli3P3nwsfk6gcY7oVxkL6VAw==;9BdaLyYmPzqzG2Ly1Z9dTw=="
 ---
 

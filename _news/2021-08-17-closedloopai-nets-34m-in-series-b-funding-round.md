@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/closedloop-ai-ne
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/closedloop-ai-nets-34m-series-b-funding-round/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "ClosedLoop raises $34 million to infuse data science into healthcare"
+    excerpt: "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates."
+    publishedDateTime: 2021-08-18T15:07:00Z
+    webUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "retrain.ai Completes $20M in Funding"
     excerpt: "PRNewswire/ -- retrain.ai, the Talent Intelligence Platform, today announced it has closed an additional $7 million from"
     publishedDateTime: 2021-08-16T11:13:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/world/six-injured-as-self-driving-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-7345501.html/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: moneycontrol.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
-    excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
-    publishedDateTime: 2021-08-18T11:33:00Z
-    webUrl: "https://www.autoevolution.com/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
   - title: "Six injured as self-driving Tesla crashes in school car park in Southern England: Report"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At le"
     publishedDateTime: 2021-08-16T21:42:00Z

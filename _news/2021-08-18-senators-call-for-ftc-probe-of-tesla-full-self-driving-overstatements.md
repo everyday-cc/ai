@@ -27,60 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pushes new Full Self-Driving Beta update, don’t hold your breath for download button"
-    excerpt: "Tesla has started pushing a new software update for its Full Self-Driving Beta program. CEO Elon Musk released the improvements in the update and gave us an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-15T21:30:00Z
-    webUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/"
-    ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
+  - title: "Dem Senators Ask FTC to Probe Tesla Over 'Misleading' Self-Driving Claims"
+    excerpt: "US Senators Richard Blumenthal and Edward Markey are concerned Tesla is overhyping the company's self-driving technologies and thus putting Tesla owners at risk."
+    publishedDateTime: 2021-08-18T15:36:00Z
+    webUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims"
+    ampWebUrl: "https://www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/dem-senators-ask-ftc-to-probe-tesla-over-misleading-self-driving-claims?amp=true"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 79
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 103
     images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-full-self-driving-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://i.pcmag.com/imagery/articles/03Bc9fh4ZHWjHuDp1ukh4oG-1.1629298473.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
-    publishedDateTime: 2021-08-16T22:06:00Z
-    webUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014"
-    ampWebUrl: "https://www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/6-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-report-2512014?amp=1&akamai-rum=off"
+  - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
+    excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
+    publishedDateTime: 2021-08-18T11:33:00Z
+    webUrl: "https://www.autoevolution.com/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555.html"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 54
     images:
-      - url: "https://i.ndtvimg.com/i/2017-06/police-line-do-not-cross_650x400_41498536630.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "Six Injured as Self-Driving Tesla Crashes in School Car Park in Southern England - Telegraph"
-    excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported. At least one person was reported to have been pinned under the electric car in a car park of a college in Sussex,"
-    publishedDateTime: 2021-08-16T21:08:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-08-16/six-injured-as-self-driving-tesla-crashes-in-school-car-park-in-southern-england-telegraph"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 38
-  - title: "What are the differences between Tesla’s Autopilot and Full Self-Driving features?"
-    excerpt: "Thinking about buying a Tesla but don’t understand all of the self-driving options? We’ve got you covered. When you think of electric vehicles, one of the first names to come to mind is always Tesla."
-    publishedDateTime: 2021-08-17T15:24:00Z
-    webUrl: "https://knowtechie.com/what-are-the-differences-between-teslas-autopilot-and-full-self-driving-features/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 33
-    images:
-      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2019/04/tesla-charging-station-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
+        width: 728
+        height: 300
         isCached: true
   - title: "Tesla pushes new Full Self-Driving Beta update"
     excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
@@ -92,6 +67,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "rQPO8Fl/bIrfP0oUKumCcgcfp9vnguXSHcphugwusD1gQuDj5vbqLLGxv4q7b6toca9EvhnDJQd/21EZhNFQa6g4AO8MtyGEzSgOSw8huqbf1yoFHwGu+4hRLm2HdNyKMBcxzTmWgRlUj7EujhxqztvqZaF2h38e+nb1QbADr030u1W5q076SQZYh1PCcChvNoBN8kIoY+sz4ajQsqE7Ap0fYK56MjtGnr++76yUineTQVvb1hbo4JDhw5xLbD9n/ZFtLrVFdP15GD/dADpjhgbyg42CsdvCYa8gwv642pHxHyWQqzIx0pirX+9Ek9ZQ8eAHYw1TrijdujqOWMBAtPr0B7HoaE6AbGfVLJzlUJI=;hpIy3XLY7Y5CiUBR+HCuxg=="
+secured: "zJckak38UwrE7vZLYJKzdURCLbqAuuwu3lBOgtgeTlhjevY7Quvwbw88mQ+jFIeXZdPYfN0sgdqRHgF3PeCgkwqQz2jYQafQgCrbI2IleD77W6F8uDtGBpen1nE0iQYJ5BdBjhKePIlpFoYzXelhLtPavXG8Xu8ZBzM/y8xI94gfNyDkhX7VyFPdNjv+ISjaQonGGEXNDFUAN5dXiBeHx6ghbVRKIZo/NXuIwrrWsx3p+Ex6NEpvTsy/lDRBnQNgqow1qo5Hs8iv1KpEV0ZUBYIywoBJsIhl1veo3SWuPZ65ccYaX1/HXUM9ECSDliHDGTj/lQN1fWJLL6BogJdRHggEoNdfKcHHYwmcVoOJ8ynTbnQIBh13CKkLgpY9NqBx3C2lEn3YRDb0eOB6tKC7BoIut5aVEqWegwXaE9tjAtiDgs9JjDUEflHUBWXBVTd3UYvea/F11Q/TtmbSLu4A1LeqO14zRMIA94oTEjCC7odDzLExx25y6WJHjYQOixCZLrEfiVgcrm8Hy/kcIm6teA==;qhHqzuxohnsXn1Mwc0WwpA=="
 ---
 

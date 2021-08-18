@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/business/companies/180821/honeyw
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/business/companies/180821/honeywell-iit-hyderabad-tie-up-for-artificial-intelligence-lab.html"
 type: article
 quality: 57
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Honeywell Technology Solutions, IIT-Hyderabad tie-up for Artificial Intelligence lab"
+    excerpt: "Honeywell Technology Solutions (HTS) and the Indian Institute of Technology (IIT)- Hyderabad have entered into an agreement to set up an Artificial Intelligence (AI) lab here and jointly do research on AI and related emerging technologies According to a press release,"
+    publishedDateTime: 2021-08-18T13:54:00Z
+    webUrl: "https://www.freepressjournal.in/business/honeywell-technology-solutions-iit-hyderabad-tie-up-for-artificial-intelligence-lab"
+    ampWebUrl: "https://www.freepressjournal.in/amp/business/honeywell-technology-solutions-iit-hyderabad-tie-up-for-artificial-intelligence-lab"
+    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/honeywell-technology-solutions-iit-hyderabad-tie-up-for-artificial-intelligence-lab"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 50
+    images:
+      - url: "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "IIT Hyderabad and Honeywell Enter into Agreement to Establish Artificial Intelligence Lab at the Institute"
     excerpt: "The Artificial Intelligence (AI) lab at IIT Hyderabad was inaugurated by Dharmendra Pradhan, minister for education, skill development and entrepreneurship"
     publishedDateTime: 2021-08-18T08:25:00Z
@@ -58,7 +74,21 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "Dharmendra Pradhan inaugurates Centre for Research & Innovation in Artificial Intelligence set up at IIT-Hyderabad"
+    excerpt: "Union Education Minister Dharmendra Pradhan has virtually inaugurated the Centre for Research and Innovation in Artificial Intelligence set up at the Indian Institute of Technology-Hyderabad (IIT-H) on Wednesday morning."
+    publishedDateTime: 2021-08-18T14:07:00Z
+    webUrl: "https://newsonair.com/2021/08/18/dharmendra-pradhan-inaugurates-centre-for-research-innovation-in-artificial-intelligence-set-up-at-iit-hyderabad/"
+    type: article
+    provider:
+      name: NEWS ON AIR
+      domain: newsonair.com
+    quality: 15
+    images:
+      - url: "https://newsonair.com/wp-content/uploads/2021/08/air-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "FtPzsnr4tl3IOldURbnFRSiwcg8Er5FpTZIQLFZgbH5R9L6+y+G4AgvJrcTl6MplffmNoweqp2i1plnQq1qzglG3dI0r8nckkInQlQh6VNihDcVXbq4QA1gJc0xlhWgGhXybBkZ9GdBh43TbmieLAxDPUtr1YwAlhkLph+PMX2ZYuMTcnIfCh/6dDSN3urOXaYOTJtpfZMr8k/udfR1dzq0wOYp0boAVMFNw5Zvjeg0GuaK4OTImXLlQymq0XQtXouqnqWxLxMknLeoP0vW11NYjJbBheyTmEt857Nudy6e0XMikLFvf3QWhORXxr3M5RQvIUhKNO9ZHKjyGqiE9X+6/qSKzm6xMMPNQvw2gB9w=;yYGj96m3U97od8FdOricRA=="
+secured: "woigR9F/1XhdsWcqehG9jdDme9gdeTJ+EXLpnI6ZBNb8eKBLm5+zREbL1bXNGL/qp8dzEbI7k7A7i7wEbyTY3Ss105+8n4VDgEJZZNyh5LRO1t0/FSJCfg52G3M7qcOlxCVJTtBtWDpTP8xVl9lZK32z8LICNTLfTaLdMacK5jhYU6k9NAfJpwl8vZYfY7nG61adjswknHkfo0sSqzK83zTe7therL0wKy6S/p0P4dsSkSc4P3OVsBiLdK7QeK63cy//Cn1BAAnJSe4nf9McDSfUKLh8AZvbJsLcOyDacEulbKbZs2OZaz6MfP/DaSaLlp79nCpMmU/O17fzu/rI1a8sMCfjt6C9+JVGoeZ7c2W9jg+agdvyEuM1Yiw2TWPHaHOZN/cJGg6d2vTde9H9piRxgFIbd1pRKdxmu23p3SACCpJk9HLmP6ZB+72ypkGFKADtUZ05xY/B4WlXntHxRPKxVxXagzdNgcHT80/+6YBeSpg2ByS8aqJ0NPB7vR906PyxNPxuQciTa7oTymUjGQ==;q296e0xgprXjca6uwiPc7Q=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-13-mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival.md",
+      "title": "MAS Pushes for AI Innovation With Global Challenge Ahead of Its Fintech Festival",
+      "excerpt": "MAS, AFIN and Accenture launched of the inaugural Global Veritas Challenge where the theme revolves around \"Codifying Responsible AI\".",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
+      "originalUrl": "https://fintechnews.sg/53227/singapore-fintech-festival-2021/mas-pushes-for-ai-innovation-with-global-challenge-ahead-of-its-fintech-festival/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2021/07/MAS-Pushes-for-AI-Innovation-With-Global-Challenge-Ahead-of-Its-Fintech-Festival.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-12T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-digital-transformation-microsoft-azure-cloud-platform-to-be-used-by-canadian-imperial-bank-of-commerce.md",
       "title": "Digital Transformation: Microsoft Azure Cloud Platform to be Used by Canadian Imperial Bank of Commerce",
       "excerpt": "The Canadian Imperial Bank of Commerce (CIBC) (TSE: CM), a multinational banking and financial services corporation headquartered in Toronto, Ontario, has entered a multi-year deal to use Microsoft Azure as its main Cloud platform.",
@@ -1300,40 +1343,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-24-aizen-winner-of-mas-fintech-awards-offers-banking-services-through-ai-based-data-integration.md",
-      "title": "\"AIZEN,\" Winner of MAS FinTech Awards, Offers Banking Services through AI-Based Data Integration",
-      "excerpt": "AIZEN, which ranked second in the Global Category of MAS FinTech Awards 2020 (Singapore FinTech Festival, MAS FinTech Awards) alongside Swiss Re (insurance) and BNY Mellon (banking), announced that it would provide banking-as-a-service to the Southeast Asian market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aizen-winner-mas-fintech-awards-offers-banking-services-/2021/06/24/9397813.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aizen-winner-mas-fintech-awards-offers-banking-services-/2021/06/24/9397813.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "BrainChip Demonstrates that Intelligent AI is Everywhere at AI Hardware Summit 2021"
-excerpt: "Telson will present \"Intelligent AI Everywhere,\" which will address how attendees can easily apply efficient AI in edge devices for many applications by implementing Akida IP into a system on a chip (SOC) or as standalone silicon."
-publishedDateTime: 2021-08-05T23:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-brainchip-demonstrates-that-intelligent-ai-everywhere-ai-hardware-/2021/08/05/9425564.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-brainchip-demonstrates-that-intelligent-ai-everywhere-ai-hardware-/2021/08/05/9425564.htm"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Rob Telson, VP Worldwide Sales and Marketing,"
+publishedDateTime: 2021-08-05T23:34:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-145dade35e1d49ab827a2b1eb28f8102"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-145dade35e1d49ab827a2b1eb28f8102"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "SvlWGrom3COE5RIGrxCZ2owPwFp2nv8popXNq35q8ZPG8jC+4DTXJXJAbJSwL4Kt7DLxXHPkuZCeDLESOMXL0KTGwZDHFJntHmRPdlGlJv54InjPqSS58141FL90e88cNVMSlbHDfWisfDQo/dPoZn+64G6QO/0qzt/XIMpzHamRjD9wO9rKJ7MNMCtObajJOqQZJ6k0/spzNWahRhi3JG8b+XBi6yQR9dSaeK+EcS2SEgMSP1sumXcwcPRT6ZAcAnIWqv4soT2uMMILS9tJlCh5tDYF4yVyUBeHIN026GSbux5/M/yF4/SZGIHr4FDOJBDSGqs+V/8QqA013XceFNIOjYF93aKN9XNEg52pgsg=;ZEmbwjzAJUBfV79zuifo8Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "CqG2OnWVN7P+KRkFvtIywn+VAzKfVwY7mOm9iqasnN05h1oSjaJ0SMWyVtwtkF9NanWweG00d3jHqcrKX7BFu7dRMeJ9BCWJX32jtXUc5QhsfCSKUSpVK3g9/7xCuFbtIMkaaTq9ZanW9nIo3lwaR20aTnGNCD4wlnwdNDG/fJIkVBIahAH7D2s4lnZsFEAcP7motcTZlWcqqyJghi9P743Z0RfLvBtFUzkgNeBFUgyogD4SQCIRDnL2Dyw6JeslXXKIOW9nLs9yqNNCYJlIxNTlESzJBkYJNlgRiW+LUCK44JeoYpFpJ3pMjmtDvrI2SdagHktNm/36N2KT7V2qTHHzEpZJ8Q0A9aTkAvnl5ac=;jnzsQ1MY3DDmFTn1SLHpjA=="
 ---
 

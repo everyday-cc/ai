@@ -43,6 +43,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
+    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
+    publishedDateTime: 2021-08-18T15:59:00Z
+    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 41
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Facial Recognition Technology: A Threat To Privacy And Freedom"
     excerpt: "Across the country, people are waking up to the dangers of facial recognition technology — and they’re taking action. In Massachusetts, municipalities are stepping up to stop this harmful surveillance technology: Somerville was the first community on the East Coast to ban government use of facial recognition technology,"
     publishedDateTime: 2021-08-17T09:03:00Z

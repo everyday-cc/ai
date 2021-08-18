@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/08/15/tesla-pushes-full-self-driving-beta-update-download-button/amp/"
 type: article
 quality: 79
-heat: 133
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
-    excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
-    publishedDateTime: 2021-08-18T12:10:00Z
-    webUrl: "https://www.autoblog.com/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+1089/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2020-07/cf97fb80-c042-11ea-9e9f-4a1b9cbf4857"
-        width: 800
-        height: 450
-        isCached: true
   - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
     publishedDateTime: 2021-08-16T22:06:00Z
@@ -86,15 +70,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "4MvUYPwIf9kowb32bxdX/pk4wxHU8imEMbAoA2rvpSpVPcj5XtSAt8mBqCBBBX97jxLh7N+VMXJmQpDT6yXaFRRQt5STIal9aPes1hOlIzeWaXyhT+yTE2twJSBDW61e8X8FJnh2aYuRzJwCI2FnPETfz9vx/ELKVFtQB1F1pYUYr92B7GiqIZz+sphczNUHlaT/UGN4CHvWUH/XcmJa++AIPL090/78I9Yx3aba9isvYdDGPhqis4Bh8PFfXH82jgTH2CN0IePWmYQxkicLsdD/zBNrKGHZz21wMg/dPdyRHNdjEzEV4kqhnuwjCGiUbXGLd8WJIhczBQHo579NMlIGXoQoAGHVJGqeuNAvHdiAGkFqsBezUyPSdu2+Bd72sscg8NFuI5JtBOOJdVnuVwxeRPJouKCddW9GFyI2YvUtEZT2OUS+0+ix56mQEvdbGOVsTVlDp4LHJYqQlkC+cIi/Pdre+4rWR1vB44gfxvVmoPNTAxZUc/68sTnLhS48NrxFUfYcT0i8qcieWwnpYQ==;nq4gW/PKBckDN3x7iPdbJw=="
 ---

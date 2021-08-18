@@ -72,6 +72,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "UK government criticised for proposed facial-recognition guidance"
+    excerpt: "The government is updating its “surveillance camera code of practice” for the first time since it was implemented in 2013, but privacy campaigners have criticised the proposed updates for not doing enough to mitigate abuses of facial-recognition technology."
+    publishedDateTime: 2021-08-18T11:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance"
+    ampWebUrl: "https://www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252505503/UK-government-criticised-for-proposed-facial-recognition-guidance?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "The Use of Facial Recognition Technology in Criminal Investigations"
     excerpt: "Facial recognition and surveillance technology is being used throughout the nation during criminal investigations. Find out more with our latest article written by our senior law clerk, Sarah! Facial recognition and surveillance technology is being used throughout the nation during criminal investigations."
     publishedDateTime: 2021-08-18T01:15:00Z

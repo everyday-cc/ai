@@ -38,6 +38,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "ClosedLoop raises $34 million to infuse data science into healthcare"
+    excerpt: "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates."
+    publishedDateTime: 2021-08-18T15:07:00Z
+    webUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "ClosedLoop.ai Raises $34M in Series B Funding"
     excerpt: "ClosedLoop.ai., an Austin, Texas-based healthcare’s data science platform, raised $34m in Series B financing. The round was led by Telstra Ventures with participation from Breyer Capital, Greycroft Ventures,"
     publishedDateTime: 2021-08-17T10:43:00Z

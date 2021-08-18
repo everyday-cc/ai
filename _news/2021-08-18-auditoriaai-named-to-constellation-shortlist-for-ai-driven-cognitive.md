@@ -57,20 +57,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "RAISO Student Group Explores the Responsibility and Safety of AI"
-    excerpt: "RAISO was co-founded by Northwestern undergraduates Mason Secky-Koebel and Bijal Mehta, who set out to create a community of people interested in ethics and AI. The two met in 2020 at a meeting of the TREE lab, a research initiative at Northwestern that ..."
-    publishedDateTime: 2021-08-14T09:36:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/raiso-student-group-explores-the-responsibility-and-safety-of-ai.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 41
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/raiso-explores-the-responsibility-and-safety-of-ai-1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "One Law AI Shares AI Software For Attorneys"
     excerpt: "One Law AI is proud to share the future of the legal industry: Amelia. The company was founded with the intention of bringing Artificial Intelligence (AI) to personal injury law firms. More information about the company can be found at the following link: One Law AI For Law Firms."
     publishedDateTime: 2021-08-18T01:37:00Z

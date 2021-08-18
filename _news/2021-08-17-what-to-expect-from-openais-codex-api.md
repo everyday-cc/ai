@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/08/16/what-to-expect-from-openais-codex
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/08/16/what-to-expect-from-openais-codex-api/amp/"
 type: article
 quality: 91
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,49 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "What to expect from Tesla’s AI day event"
+    excerpt: "It’s been nearly two years since Tesla’s first “Autonomy Day” event, at which CEO Elon Musk made numerous lofty predictions about the future of autonomous vehicles, including his infamous claim that the company would have “one million robotaxis on the road” by the end of 2020."
+    publishedDateTime: 2021-08-18T14:00:00Z
+    webUrl: "https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 108
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6uz3Juf-UxS1whmCVmJrEE9PFCg=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Will Project Dojo be the Central Focus of Tesla's (TSLA) AI Day?"
+    excerpt: "The AI Day is expected to shed light on new information about the development progress with respect to Tesla’s much touted Full Self-Driving (FSD) suite. Full Self-Driving builds on Tesla’s advanced driver-assistance system known as Autopilot,"
+    publishedDateTime: 2021-08-16T15:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-project-dojo-be-the-central-focus-of-teslas-tsla-ai-day-2021-08-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "Tesla AI Day Doubles as Showcase to Recruit and Flaunt Future"
+    excerpt: "Welcome to the Hyperdrive daily briefing, decoding the revolution reshaping the auto world, from EVs to self-driving cars and beyond."
+    publishedDateTime: 2021-08-18T10:40:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-08-18/tesla-ai-day-doubles-as-showcase-to-recruit-and-flaunt-future"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 86
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuGj712Psngg/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7Gufw01y0Fug/L3/wjy5xd4kTdZ9bD1HsVA73BtwP2nJqiAAo1DBmbT2+rsaiXRCrcsbqA7V/9s96PbXyDay5BShQFDEhJv5HB8oltN8PiXbZF5dTQfoDtNryN7fuoF86HzzBS4w17i5dMVWyFz0Lg71zXWosiQZLEWHxIy1Z2p/RCLfWS/xZX7UfSoPEGov5jIDgH9KFz+aFeVEyxZyBYWoxDrS84zJvESxkV+m8Q0F5tUlN4ubZpvPOWlS9jZsDTey5Yv1fLebfATK2EH5qSJIMd+uhSigiUBmCBMptLyDAjFOJZJsevDp8Hr8NAL0VyJbFy3lDnpA1XpMutTixxpawh09Erbv32zBB4SFRzBAiyCSaoo0LiqjTSL7ScF0a9/7CcF5MvQeaKd5GzIEr+5gUiCRg0ffdCLQSenW/tJxif4TZtj6S6zSwxK+jh3jcGzqWwUPMQeh6OQLSWolIYiBu2cdkiOF3iGx2dfNS2ZN5lX8bB8mzncNS0buiFf8myC0s/YkPVtLwzr9537/IQ==;QpkrZ5EN3mLUoGJXjsI/QQ=="
 ---

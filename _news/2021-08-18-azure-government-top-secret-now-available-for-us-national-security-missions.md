@@ -182,6 +182,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-18T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-witness-massive-growth-by-microsoft-facebook-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 43
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Portugal-Wildfire-AFP-1K-01-e1629214093515-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
     publishedDateTime: 2021-08-17T20:06:00Z
@@ -225,6 +239,6 @@ related:
         height: 480
         isCached: true
 
-secured: "e9/Vw9wLS56gbgm2F4brOreQvkas74QG0YCclGrV/la8+BJ5kXx/QBzvgD1webXowX9joNdYOKlV2KGUSfEIty/jUP+FI2MwaSF6J5VIn4g2xqYIizSrpqF5um3q6lDFsPOcOolcy50jbO20v7IuYliWGii+OPx/VemObIUsSkM68gVFcmTmiWzmf8N29zY9QBuZJ8PwaIsS+2zFnI8Cl541yGH0KCw7Ud2NWNNrydvbxctO0MImPbCiQ7gydjB9clJDqSKHGqyylN/+2Ba+q149WohcXQZLJBZIJ/mdvpTNht7rSHcqGMVUVqxwZD85P2HhcmkW9e2lEGjRnMwYkNvM5oTKE4p+yujDh+nPMMw=;QgNTFu3jHDZSXMOMeDTyvg=="
+secured: "JVpvFsdt9iBjPc0J5W/2qoiTIk9EhqETNE8PqBYQaaKwijlWg+7FmIt83jAlTJXbE7sA0My/Aw/D42Qa/dRlo6EdrT1JAbsX221tvW51GmJqqmBu7ZCL4cNjngHAAlLUnsHi0Dn7P6aUhRL6xuhw7i59pDFZ4N0f1i7j63VURqkpkNviN6swFYLPx9DjS0grfFct/JaNP2+Qi1aNtvl9S1crarhsKcwtqkZGdLn+/xLN543HIYpC3kh+bN7XhnTYlMdMXG4iRUzeFP3BvEZTLhvH86qIWw8lIegJf7oa1wNf/9NL3GI8vjGDY9zEclkcGASDd/dS+Qqg1xOisuFmuTgi3LDbSfvdgkzAWjZJu+S5M5OqwMppN+YT0Zyr7cUjyFY86JRHdu3mvZCpKZ2AIAf/uKLYSr0P1q+coifWa87tXhWyBcbXj7McqOU+azd1AW+nBVc9b9AlVooFmDAJW9hToM4lTZlIaAP/abfQyKHrsm1mwZ2riwYM3xT8dHV90VIIJw3yVk6OLhWOaU+7aQ==;3762VNZKi5Zxos3n3h9WTw=="
 ---
 

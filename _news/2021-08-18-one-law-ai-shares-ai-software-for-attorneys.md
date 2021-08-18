@@ -52,20 +52,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "RAISO Student Group Explores the Responsibility and Safety of AI"
-    excerpt: "RAISO was co-founded by Northwestern undergraduates Mason Secky-Koebel and Bijal Mehta, who set out to create a community of people interested in ethics and AI. The two met in 2020 at a meeting of the TREE lab, a research initiative at Northwestern that ..."
-    publishedDateTime: 2021-08-14T09:36:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/raiso-student-group-explores-the-responsibility-and-safety-of-ai.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 41
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/raiso-explores-the-responsibility-and-safety-of-ai-1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Auditoria.AI Named to Constellation ShortList for AI-Driven Cognitive ..."
     excerpt: "SANTA CLARA, CA / ACCESSWIRE / August 18, 2021 / AUDITORIA.AI, a pioneer in AI-driven automation solutions for corporate finance teams, today announced it was named to the Constellation ShortList™ for AI-Driven Cognitive Applications in Q3 2021."
     publishedDateTime: 2021-08-18T13:01:00Z

@@ -195,6 +195,20 @@ related:
       name: Inter Press Service
       domain: ipsnews.net
     quality: 44
+  - title: "Cloud Natural Language Processing Market to Witness Massive Growth by Microsoft, Facebook, Google"
+    excerpt: "This press release was orginally distributed by SBWire Edison, NJ — (SBWIRE) — 08/18/2021 — The latest study released on the Global Cloud Natural Language Processing Market by AMA Research evaluates market size,"
+    publishedDateTime: 2021-08-18T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-to-witness-massive-growth-by-microsoft-facebook-google"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 43
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/Portugal-Wildfire-AFP-1K-01-e1629214093515-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Microsoft unwraps top secret cloud"
     excerpt: "Microsoft announced its top secret, air-gapped Azure cloud has received authorization to operate and are 'generally available' for national security workloads."
     publishedDateTime: 2021-08-17T20:06:00Z

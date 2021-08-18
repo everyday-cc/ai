@@ -57,6 +57,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "'Massive invasion of privacy': Hamden lawmakers seek to ban government use of facial recognition technology"
+    excerpt: "Police Department officials have said the agency presently does not use any such technology but previously engaged in a free trial of facial recognition software. Passing an ordinance “is the right thing to do as the technology becomes more pervasive in terms of its use by government,"
+    publishedDateTime: 2021-08-18T15:59:00Z
+    webUrl: "https://www.nhregister.com/news/article/Massive-invasion-of-privacy-Hamden-16394681.php"
+    ampWebUrl: "https://www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Massive-invasion-of-privacy-Hamden-16394681.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 41
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "f+zQ6RbJbyw2a8yuall8JXKxcxzEjQbQwF8a9iFtUWpqCD/8RnNBQawwRSl3aNQclvYCkDFZ01DDHRBzj4HXu8xnZyEWmRgaTSA/KQcqsR3KPyaemVOhex6a6Npcg5/f6ibU60H7HvM7Yjj5dm4kKdv4dWBDwkDDCyDPxyfizAgPMhGdfxHiZTAGbUfDrvw6VQmzYh8pFRKjXYOLtaNgOnetMmskV4HJ9VaDo7r/L0a73jA2UOwAVJHslqS+xHu0TB3Pwx+rWnK/5CHpvKGXlxzW0kJUe+oyMqNFTE9DFnqRLW8tcXAd1Xwz5IxgDVbIAErYgMZKnmYu3kNZh1QnOH0G+uDGbon8Pk+ctxKFJaKD/23Y74U8jUPshhY2sn20zhBVUFarpceJgZoajlHPYH2HhZXNozx76Nhj1ywQAzcspGlZlNgDwAZpZdXCPCwwl/0dmevudS/LN1vnEzXvGdL0hiKCg89HymIGZaws49z6NZJt/VeJVCcF0A5Ka93SOdZevJiRSB3rhQOYJh4hrg==;2/t5LzqWvu4YJ/JVXmU2nw=="
 ---

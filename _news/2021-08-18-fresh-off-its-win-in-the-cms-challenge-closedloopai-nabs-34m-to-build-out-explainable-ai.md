@@ -40,6 +40,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "ClosedLoop raises $34 million to infuse data science into healthcare"
+    excerpt: "Series B financing for its healthcare-specific data science platform, bringing its total funding to $48 million. The company’s software combines machine learning with a library of healthcare-specific training features and model templates."
+    publishedDateTime: 2021-08-18T15:07:00Z
+    webUrl: "https://siliconangle.com/2021/08/18/closedloop-raises-34-million-infuse-data-science-healthcare/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/08/sam-moqadam-2rrsfMN4hn8-unsplash.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "retrain.ai Completes $20M in Funding"
     excerpt: "PRNewswire/ -- retrain.ai, the Talent Intelligence Platform, today announced it has closed an additional $7 million from"
     publishedDateTime: 2021-08-16T11:13:00Z
@@ -92,6 +106,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NmikTozbYEeKe4VdoEWjneQ1UmM7UrAUSMuApWBlLzLYm+vlZy3BY7LRUzXtZUt9CHkRjNEnSETiLbmT7lWaJY54DPFWRhFIy3Q4jVXqkIcdAKC15ug6ti1yCYdp96R9msWf6p38cjfflyHx7CgKBSYMiLMhiP0r2z1N/QRnaAZ7/5r71Lw9sEDVlL9Xd6eAF2ycp2FE64XpwfkkWJ2Yv2KU/gSgmGEWxiwbcIrR8PkqgCAtgkzvHpDKLPoyTohT8dRHV9UqHO2/tpNWSdUef4U+USIcZbvAqfkX3QPN424kaWMUn9+qouRMuZzLjfLRNsfQ975O90maUmzhBGK5NlKAk1YuRhSpZdBOwr68Ebo=;Oa+8r2x+yr4VeZBwEapfFw=="
+secured: "IrH+mmjsyH3lABqiTXn3GwIf8ovAF7FHdBee1ko6QgGYU0nm3IaIYPSBpLckGsht70OROTI7EVISM5DoSZVBjxp/wocLbo75ICeJvRt2wkPD4l+NH9oFYZaen44shyDAFwewWwKIgcdyGSRmxyFxL5jaZrAuLm+kBXLYpEEcz4XdAG/9SgMj7YMlUS22fXDr8H1ijFaZrp8cMHynjBkdB5HMYGm/fM1efKKBVadzTauZiY5mn4X9JtxDnPxxzcgfmpG0FJytWEztkA+w/Hvrze+CYqWh+gvovz5snJILnjfz8uExGm5PgoNgmvxeju0TX41gNpsf3vKL4gUwQyLdFXDKoGVjLgDIudS9HAiQ+YAP7b3i5LD3Ef2neEesye+JP5ZM0LPzZqPh93XODs2DKv4F4kcyZpjziPRySZOCfGGaJzn+aqM1PRSm0EGbN1lFjVxVsg2hfQAJw2e3wVnfYNZ3PsWN0DsyIw3xoTrAAHPifEw561aVIW307ooXgLk0+FZ/r2JLkVkzZ4B5kDbMZA==;ZG7o1A1KGB+3PKOd7clayg=="
 ---
 

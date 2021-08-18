@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Senators call for FTC probe of Tesla 'Full Self-Driving' overstatements"
-    excerpt: "Two U.S. senators are pushing back against Tesla's marketing of its driver assistance systems, claiming that the company's name for them misleads the public."
-    publishedDateTime: 2021-08-18T12:10:00Z
-    webUrl: "https://www.autoblog.com/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    ampWebUrl: "https://www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/08/18/tesla-full-self-driving-senators-push-back/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+1089/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-images/2020-07/cf97fb80-c042-11ea-9e9f-4a1b9cbf4857"
-        width: 800
-        height: 450
-        isCached: true
   - title: "6 Injured As Self-Driving Tesla Crashes In School Car Park In UK: Report"
     excerpt: "Five children and an adult were taken to hospital with injuries after a self-driving Tesla Inc Model 3 crashed in a school car park in southern England on Monday evening, the Telegraph reported."
     publishedDateTime: 2021-08-16T22:06:00Z
@@ -82,15 +66,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 38
-  - title: "Tesla pushes new Full Self-Driving Beta update"
-    excerpt: "Electric vehicle company Tesla has started pushing a new software update for its 'Full Self-Driving Beta' programme. CEO Elon Musk released the improvements in the update and gave an idea of when the wider release is going to happen."
-    publishedDateTime: 2021-08-16T13:30:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210816/3804098.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "uOHJwgRdTqUH2YMfLos9BTPOChISJ4WcuTkH83iC4TeeImTL+Lu6/c/jCOcDIX022mptsvPXcqbun2HDGTOlj6PwOA8Nt4ZIBSddZjcU7C9ckDfCfSvPOOQ4pGSptQpA4m9ErU8LSirQe8JCaCcck27mPyFqLU6sZv9Cqd1et1sFvjMja8fsxpw/jS9nJ816jOr3Trj3ZyG+Pkndl49aHwFdP5RZ2f7kP0ii4D5cjVxFsSZjKFAXomoR1LhksYwhpkZtUxnZ5+3Cw/HpMfRBhBsKPOp2otyzrVIH3GR6ZLGvXU4mS+UJqcom4rEfHrGl6uu2fUqCUFNBt58NStXFLAz4PhKOJ0kkizU7c98tGQSivNSOALcnHiuozowAnzSIPBfsZn1tXrkupF/lPwylblSjyNve0n0eIIpaX9cu/yGcYxqjMBdXdwITxxjSRHsnmSpnhaYg/AHYnZwXuT2U8ogo58pJQ5N/e7uviG2iHr1RFbNSe3NK+yhf3bjJVIVL+GziGo7qqEyOqwJlJcp27w==;1Q0of+8RAaWk4KPwhTuArw=="
 ---

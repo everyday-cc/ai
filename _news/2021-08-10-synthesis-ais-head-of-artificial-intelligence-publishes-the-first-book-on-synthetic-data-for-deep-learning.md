@@ -2,9 +2,9 @@
 category: news
 title: "Synthesis AI’s Head of Artificial Intelligence Publishes The First Book on Synthetic Data for Deep Learning"
 excerpt: "Synthesis AI, a pioneer in synthetic data technologies, today announced Springer has published the book Synthetic Data for Deep Learning written by Head of Artificial Intelligence (AI), Sergey Nikolenko."
-publishedDateTime: 2021-08-10T13:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
+publishedDateTime: 2021-08-10T13:03:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-science-artificial-intelligence-e1c1d1eb52b120419782075b530cf0c9"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "czgWA8CnSNyGgz+FlRfHYtbU1gipwj27QyyWlPHaFDQof8S+9mOIZCXlPoNJ4M26jQIUBxyL+7Ocmv1PzoFtMTqiTlIXpnhU7iDcSnVWAUGX+NFT5Fhb+mDZpkdumyNyQFIT54puv0T13epQ0eduWLalY7XeDVCa/XzZj4X/rUYG+OSz6w52plX4ly8xvG2fevHOfoZNHg+4OcZAmqEtv3t9lRdr670y4dWQmdsY8RSNLF04lwyL/ksCr9HRxUGEMcVq9dCreWt2KgBdi2ndAce/RPBIilVjqIItvSJlHS/ls63pzFvDLPNw02IEsG5zXpJkZDiiuzNoJkmgM5TvObJT6GSzDPm8hrx4YTMPiR4=;izrc3jkROMfvJMPMxxNM1A=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "lWqZyUXTypSouD2XArjCP7toWa0isojrZjIIUMiw1cawNFsw2yw1nSAVrjpH0bxjVGEZo5oZlttp5Xn+572UITG5VsJkRSuReu6wa5aR1aCv7DAfDkXiF/Uk0vi/0wzUFQsyC/0IOLyc6+CiBb9ix1Rwc/CFeRhV/L+GB54/rFFbAX8aXXDAQXwnHap3di+/RDErHntKy+oiNMGY15uBOlZUDEy3YrHrsMwDOXu2HoR1hymXZYXiITfmOLsFJ71n+cDl0Rkt9mTu1wIEtiMPybieAWbm6jhP7xWdO5jdEXoIkSNxVaZpazWEKiAjpB06iepunQlOsoZmNCL64Xn7omxNm59IkVN5wodbv7cg4wk=;hO542bzgVddtUJ8K0Ak+8g=="
 ---
 

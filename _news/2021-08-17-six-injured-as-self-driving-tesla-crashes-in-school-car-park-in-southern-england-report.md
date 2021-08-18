@@ -41,20 +41,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "U.S. Senators Urge FTC to Investigate Tesla About Self-Driving Claims"
-    excerpt: "Tesla could not get more bad news about Autopilot and FSD. If it was not enough to have NHTSA investigating why its cars crash so much against parked emergency vehicles, now the Senate Democrats Richard Blumenthal and Edward Markey also went after the company."
-    publishedDateTime: 2021-08-18T11:33:00Z
-    webUrl: "https://www.autoevolution.com/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 54
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/us-senators-urge-ftc-to-investigate-tesla-about-self-driving-claims-167555-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "iXYaGxfdq/t9f+DGT4imaf5efQBlCOfH1pJCiIBc4ldJkgFx2oNDWsVuzx5juSaO1mCYtFO5AwsB6QdH1dRRCxqfxX5UwMTGazN1ICfUyKOXtKG0uUpftV1TxoW3I2wl9NoeiQXpX+tvQTW61jdrHtgXQSpk1JzRhTL0UnwT9OH3Mm0y6VBHH2+35ohXGzB/yAlLZq+rNM2ejQ2668EyhdHOdDaHfqX9IVDoucHNxFvZmFhtZY1D6we+cTLWLOAIaujSZrFS96gKuj1GMjpsisxswR64DwHf+NACGmGWnEyQySQmhGq6easEVv3jx2upSizag/Mz1LT82OlSrC4VaE2TOCepTADxAJjD7JlP4E0=;Al2bYe0q8ezIzUd+PbPSrA=="
 ---

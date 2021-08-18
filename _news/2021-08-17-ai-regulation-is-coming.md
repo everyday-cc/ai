@@ -36,6 +36,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 66
+  - title: "List of Major Companies with AI Patents to Know About in 2021"
+    excerpt: "Many big companies with AI patents such as IBM, Microsoft, Google, Samsung, and Siemens have been dominant in making it to the list of the top AI patents companies coming up with innovations using AI."
+    publishedDateTime: 2021-08-18T15:30:00Z
+    webUrl: "https://www.analyticsinsight.net/list-of-major-companies-with-ai-patents-to-know-about-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/List-of-Major-Companies-with-AI-Patents-to-Know-About-in-2021.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "Ri8DKB+SBoM/FakZRGz8haN1XywicDrxjRFZF0h2cn7Ol7lArzvlNEqmWy1SKRKTx9ZIlbKC7cWooo/wHAkcI7GRxovKBQEVnd57Kz3sYGfLzurh/6aVPxqIaVvbMzqBuLOhlV7xrTTNKGFIPccqAcmhE4A2JO1JLbrbwGt9jhov44wZWUotKKtM0EHFexlXHYX7vhYm0qPTFtF3sWLlW97QU1fDZET+mNr/fbl5pLU0XvzbNCONDfAAPT0/t23anpm/V2GscfHgSP08ok4I4T49w8raf2PiQemQs2Sv8tszJqmiXXze3mJzYk+evNJvme5gsAipNU27TAyRX+RiQ5g+wxNas/8/qQj7suisTtyiG/5kHouHieD5bmrX1vuORN0EgOgWysqJmL1R8bMUKDnOIJvyyyNn46HNSYhDlvJT+VSzX1dFm+3obCbFfNW5bw3DtR5zGJrpfPo9W3EdHI2DThk/ek3yTzW+43gDcFfDFzvVI8GwjudJ7BNSGwLmaK8weh36CWAfX0wZ2Hbwmw==;cLQer4LQ6S9ScaKrgytHCA=="
 ---

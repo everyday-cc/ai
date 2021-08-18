@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-7
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/u-s-probing-autopilot-problems-on-765000-tesla-vehicles/"
 type: article
 quality: 159
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats ask FTC to investigate Tesla's self-driving claims"
+    excerpt: "Two Democratic senators asked the Federal Trade Commission to investigate Tesla over the company’s advertising of its Autopilot and Full Self-Driving technology. The letter comes one day after the National Highway Traffic Safety Administration opened a formal investigation into Tesla’s Autopilot system."
+    publishedDateTime: 2021-08-18T11:57:00Z
+    webUrl: "https://www.cnbc.com/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/08/18/democrats-ask-ftc-to-investigate-teslas-self-driving-claims.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 104
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1629294162"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla Autopilot U.S. Safety Probe Puts a Damper on Elon Musk’s AI Day"
     excerpt: "The federal investigation into Tesla Inc.’s Autopilot comes at an awkward time for Elon Musk. On Thursday -- just three days after the U.S. government announced its probe -- he has a briefing scheduled about the carmaker’s work on artificial intelligence."
     publishedDateTime: 2021-08-16T15:58:00Z
@@ -114,6 +130,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1228322113_izvhcy.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Markey & Blumenthal Call For FTC Investigation Into Tesla's Misleading Advertising of Driving Automation Systems"
+    excerpt: "Markey  (D-Mass.) and Richard Blumenthal (D-Conn.), members of the Senate Commerce, Science, and Transportation Committee, voiced serious concerns about Tesla’s misleading advertising and marketing of its Autopilot and Full-Self Driving (FSD) features to consumers,"
+    publishedDateTime: 2021-08-18T15:49:00Z
+    webUrl: "https://www.markey.senate.gov/news/press-releases/markey-and-blumenthal-call-for-ftc-investigation-into-teslas-misleading-advertising-of-driving-automation-systems"
+    type: article
+    provider:
+      name: US Senate
+      domain: senate.gov
+    quality: 18
+    images:
+      - url: "https://www.markey.senate.gov/assets/images/sharelogo.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "L5jnLGDVE1JzWG3CJSwo6Jpx+WfuJbNxJiw5FPSRtFqP0wfjafQWcqO1SSW30GfBmdlRKEPWRdky15aL4mgjjS8sQjmuNoVx0QVQhW5JtkPkL2OAaLwc3L+mN3HG73nJlz/odCXKAvl0GRq1H0gKZGLetT+1wVTaB2cRBTzsv0W6av3GMBgsLcbohPI2hIHLN1wRJA5g1FNGYYL32udh4Rp/e/8dIat4+4IKC3/ESumIkxpDLAtLItkb051oGIhvF5qpTqdV2pZ2+0o/Ndtee/uHxTy3Ozu/TWEvFLWMlvzATwt0nun07yfT3uVQas2Gm5SDOW7kIzqjWBcz6kDQ6lCMKf9xQkKluRdktCAhgVtXZivD+jpACWRKfvOTihxFwB6ok3KJ8yj+nyLrumMYjtET3TCNEmYA1VvWWc+4sNI/h+s+2kdqXVolSFtdAeF8LCRKo/uw2CNGGEtKtRVqK2cSWWL3ui/vwx/5BlrdvBS4Kb23g+jYogmC4pHUVrGBAYK9lmMn+0BcuVlZWcKyfjXQWt08IDz8r6Xm1npnMDo=;NUtr+CMSlX/wrZ8Akmf/9g=="
